@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:04Z",
-    "lastChanged": "2026-09-21T02:07:04Z",
-    "revisions": 1
+    "lastChanged": "2026-09-21T15:51:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-18T04:04:38.123067Z",
   "charter": "Towards the YMEA",
@@ -21,11 +21,11 @@
   "name": "Towards the 300",
   "preview": "https://phira.5wyxi.com/files/ca24e46d-b414-4ec4-a97c-15539568bb15",
   "ranked": false,
-  "rating": 0.85867137,
-  "ratingCount": 25,
-  "reviewed": true,
+  "rating": 0.8706066,
+  "ratingCount": 31,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "plain"
   ],
