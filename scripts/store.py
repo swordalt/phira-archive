@@ -91,7 +91,8 @@ def merge(old, new, division):
     archive = dict(old.get("_archive") or {})
     divisions = sorted(set(archive.get("divisions") or []) | {division})
     changed = changed_fields(old, new)
-    if not changed and divisions == archive.get("divisions"):
+    moved = divisions != (archive.get("divisions") or [])
+    if not changed and not moved:
         return old, []
 
     record = dict(new)
@@ -101,7 +102,9 @@ def merge(old, new, division):
         "divisions": divisions,
         "revisions": archive.get("revisions", 1) + (1 if changed else 0),
     }
-    return record, changed
+    # A chart can gain a division without any other field moving; that is still
+    # worth recording, so report it as a change of its own.
+    return record, changed + (["_divisions"] if moved else [])
 
 
 def index_line(record):
