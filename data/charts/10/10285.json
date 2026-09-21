@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "visual"
+    ],
+    "firstSeen": "2026-09-21T01:59:46Z",
+    "lastChanged": "2026-09-21T01:59:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-10-08T02:29:53.825848Z",
+  "charter": "Haru",
+  "composer": "Kurokotei",
+  "created": "2023-10-08T02:29:53.825848Z",
+  "description": null,
+  "difficulty": 20.0,
+  "file": "https://phira.5wyxi.com/files/e350a558-50da-4e81-a731-74f5894c35c4",
+  "id": 10285,
+  "illustration": "https://phira.5wyxi.com/files/38e75eab-c2ba-4f28-a9a5-ec8625847016",
+  "illustrator": "",
+  "level": "SP?",
+  "name": "Galaxy Collapse",
+  "preview": "https://phira.5wyxi.com/files/a051f382-c769-4966-856e-a09362cedf56",
+  "ranked": false,
+  "rating": 0.76331913,
+  "ratingCount": 313,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "visual"
+  ],
+  "updated": "2023-10-08T02:29:53.825848Z",
+  "uploader": 265602
+}

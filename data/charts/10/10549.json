@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "visual"
+    ],
+    "firstSeen": "2026-09-21T01:59:46Z",
+    "lastChanged": "2026-09-21T01:59:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-10-16T10:44:23.083441Z",
+  "charter": "XiaoQ",
+  "composer": "滚动的天空",
+  "created": "2023-10-16T10:44:23.083441Z",
+  "description": "第一次写谱，很粪，骂轻点",
+  "difficulty": 14.900002,
+  "file": "https://phira.5wyxi.com/files/4eb858e9-9ad5-4df3-b4ba-48f99b514495",
+  "id": 10549,
+  "illustration": "https://phira.5wyxi.com/files/57b14133-4df5-4909-9f66-8a22b5389bfe",
+  "illustrator": "",
+  "level": "Chess Lv.14",
+  "name": "对弈纵横",
+  "preview": "https://phira.5wyxi.com/files/1ce1d000-636b-4bda-a230-cdcfe31e273a",
+  "ranked": false,
+  "rating": 0.5626526,
+  "ratingCount": 101,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "visual"
+  ],
+  "updated": "2023-10-16T10:44:23.083441Z",
+  "uploader": 449625
+}

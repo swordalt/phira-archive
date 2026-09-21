@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "visual"
+    ],
+    "firstSeen": "2026-09-21T01:59:46Z",
+    "lastChanged": "2026-09-21T01:59:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-01-12T13:11:54.064493Z",
+  "charter": "SRH603",
+  "composer": "FXside",
+  "created": "2024-01-12T13:11:54.064493Z",
+  "description": null,
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/3221f7a0-2e30-4869-9ba5-4ecdc97a861c",
+  "id": 13509,
+  "illustration": "https://phira.5wyxi.com/files/bf1fef76-888f-4706-a98f-319c773b3f19",
+  "illustrator": "",
+  "level": "0",
+  "name": "Revenia",
+  "preview": "https://phira.5wyxi.com/files/14e9ad7c-e0b3-4046-9749-c5c9b1890a56",
+  "ranked": false,
+  "rating": 0.80861026,
+  "ratingCount": 45,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "visual"
+  ],
+  "updated": "2024-01-12T13:11:54.064493Z",
+  "uploader": 1145
+}

@@ -1,0 +1,39 @@
+name: poll
+
+on:
+  schedule:
+    # Off the hour: GitHub delays crons scheduled on busy minutes.
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: archive
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - id: archive
+        run: python scripts/archive.py poll
+      - name: Commit
+        if: ${{ !cancelled() }}
+        env:
+          MESSAGE: ${{ steps.archive.outputs.message || 'poll: update' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git commit -m "$MESSAGE ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push || (git pull --rebase && git push)

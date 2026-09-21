@@ -1,0 +1,55 @@
+name: sweep
+
+on:
+  schedule:
+    # Weekly full pagination: catches charts that were private and became public
+    # again with an id far below the current high-water mark.
+    - cron: "40 4 * * 0"
+  workflow_dispatch:
+    inputs:
+      max_pages:
+        description: "Page cap per division (blank = every page)"
+        required: false
+        default: ""
+      detail:
+        description: "Also fetch /chart/{id} for every new chart"
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: archive
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - id: archive
+        run: |
+          args=""
+          if [ -n "${{ inputs.max_pages }}" ]; then args="$args --max-pages ${{ inputs.max_pages }}"; fi
+          if [ "${{ inputs.detail }}" = "true" ]; then args="$args --detail"; fi
+          python scripts/archive.py sweep $args
+      - name: Commit
+        if: ${{ !cancelled() }}
+        env:
+          MESSAGE: ${{ steps.archive.outputs.message || 'sweep: update' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git commit -m "$MESSAGE ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push || (git pull --rebase && git push)

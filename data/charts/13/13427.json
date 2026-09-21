@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "visual"
+    ],
+    "firstSeen": "2026-09-21T01:59:46Z",
+    "lastChanged": "2026-09-21T01:59:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-01-09T12:57:43.120971Z",
+  "charter": "diang",
+  "composer": "hoyo-mix",
+  "created": "2024-01-09T12:57:43.120971Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/3dab7e99-b48d-467d-82c9-ae55144ebfa7",
+  "id": 13427,
+  "illustration": "https://phira.5wyxi.com/files/47a728fe-c610-46fa-9ae6-02c4e467576e",
+  "illustrator": "",
+  "level": "AT lv.15",
+  "name": "rubia",
+  "preview": "https://phira.5wyxi.com/files/83ff1529-b94d-4bf8-990c-be521b54cf24",
+  "ranked": false,
+  "rating": 0.7604475,
+  "ratingCount": 285,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "visual"
+  ],
+  "updated": "2024-01-09T12:57:43.120971Z",
+  "uploader": 435494
+}

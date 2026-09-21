@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "visual"
+    ],
+    "firstSeen": "2026-09-21T01:59:46Z",
+    "lastChanged": "2026-09-21T01:59:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-09-09T14:47:51.960671Z",
+  "charter": "LiraintY",
+  "composer": "Yooh",
+  "created": "2023-09-09T14:47:51.960671Z",
+  "description": "v1.1 改动了一些配置\n新人初谱？（二铺？三铺？）总之是我第1个决定公开的铺，以前的铺大多数都有特效上的或配置上的问题，所以就当是练习了，如果有机会我也会重置。\n这个铺其实今年1月份就开始动工了，但因为学业问题还有没有什么好的思路,在500 combo以前是1月多写完的，以后的是8个月多写完的，所以前后的风格会有一些差异，不过这还是第1次写出符合我标准的铺，如果有问题谢谢大家评价",
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/bad09989-88d7-420a-95ce-e55b09b63265",
+  "id": 9200,
+  "illustration": "https://phira.5wyxi.com/files/f2a223a1-34b4-4ac3-b2f6-16aa77ea697e",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Heracles",
+  "preview": "https://phira.5wyxi.com/files/78540c85-546f-4f79-9e29-9106c91fa8c7",
+  "ranked": false,
+  "rating": 0.7020735,
+  "ratingCount": 104,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "adofai",
+    "visual"
+  ],
+  "updated": "2023-09-09T14:47:51.960671Z",
+  "uploader": 31972
+}
