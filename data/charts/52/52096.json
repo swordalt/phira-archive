@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:18Z",
+    "lastChanged": "2026-09-21T02:04:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-05T03:44:17.055308Z",
+  "charter": "DVD",
+  "composer": "なんかの人",
+  "created": "2026-02-05T03:44:17.055308Z",
+  "description": null,
+  "difficulty": 1.0,
+  "file": "https://phira.5wyxi.com/files/3584914f-8205-4c35-b9ea-4a4c9fb912c8",
+  "id": 52096,
+  "illustration": "https://phira.5wyxi.com/files/5f845b9b-3ef0-4f07-9317-d347ee96c980",
+  "illustrator": "",
+  "level": "No Lv.1",
+  "name": "ねちがえた。",
+  "preview": "https://phira.5wyxi.com/files/204c5e16-36cb-4ab1-8a13-3fb42f2bf8a1",
+  "ranked": false,
+  "rating": 0.660131,
+  "ratingCount": 338,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-05T03:44:17.055308Z",
+  "uploader": 872326
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:03Z",
+    "lastChanged": "2026-09-21T02:03:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-12T12:46:52.147667Z",
+  "charter": "一只平平无奇的小白",
+  "composer": "Cheetah Mobile",
+  "created": "2025-02-12T12:46:52.147667Z",
+  "description": "  初谱，很高兴大家能游玩这张谱面，以下是关于配置的解析，在34combo中，可利用垂直判定进行一边按住长条一边接住黄键。在236combo中，也可利用垂直判定进行交互来解，交互的位置取决于下方的蓝键。在412combo中，可以用反手或者是打完一边交换接黄键。在最后的1244combo中，需要超高底力来抗，祝大家玩得愉快！",
+  "difficulty": 16.200005,
+  "file": "https://phira.5wyxi.com/files/56304d0b-854f-473e-b94a-f87101481958",
+  "id": 33906,
+  "illustration": "https://phira.5wyxi.com/files/cfc462fb-b7bf-41ce-baf4-b43472b28f88",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Halloween",
+  "preview": "https://phira.5wyxi.com/files/c4a5fe49-7666-4cd8-8c5d-a5f9de07c7b9",
+  "ranked": false,
+  "rating": 0.83374083,
+  "ratingCount": 75,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-14T23:18:37.397067Z",
+  "uploader": 256124
+}

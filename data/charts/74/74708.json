@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:11Z",
+    "lastChanged": "2026-09-21T02:05:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-20T16:28:40.923013Z",
+  "charter": "DS",
+  "composer": "EBIMAYO",
+  "created": "2026-08-20T16:28:40.923013Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/6093fe07-fb52-43c7-b98f-8078739d5dd3",
+  "id": 74708,
+  "illustration": "https://phira.5wyxi.com/files/b0990d5d-e228-4304-a29d-0410f8ea662a",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "GOODRUSH",
+  "preview": "https://phira.5wyxi.com/files/5e9e32e0-d70a-45c6-bd1d-df618c5315e8",
+  "ranked": false,
+  "rating": 0.91547143,
+  "ratingCount": 120,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-09-07T03:36:02.745348Z",
+  "uploader": 114853
+}

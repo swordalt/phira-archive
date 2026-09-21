@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:17Z",
+    "lastChanged": "2026-09-21T02:05:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-13T05:03:32.355452Z",
+  "charter": "ワックス",
+  "composer": "A-39/沙包P",
+  "created": "2026-09-13T05:03:32.355452Z",
+  "description": "6thWJC G1 No.3",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/69fa5531-9e6d-4ea5-afa1-56e04143700a",
+  "id": 78001,
+  "illustration": "https://phira.5wyxi.com/files/290e13b9-2196-44c0-9440-d8742078cde4",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Frozen Heart",
+  "preview": "https://phira.5wyxi.com/files/69b9d11a-a8a7-430c-9f95-0348a7f78dae",
+  "ranked": false,
+  "rating": 0.9440762,
+  "ratingCount": 795,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-09-13T05:40:29.400550Z",
+  "uploader": 3146625
+}

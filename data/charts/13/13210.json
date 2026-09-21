@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:47Z",
+    "lastChanged": "2026-09-21T02:01:47Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-01-02T16:50:34.687058Z",
+  "charter": "Qweiou21223",
+  "composer": "Mili",
+  "created": "2024-01-02T16:50:34.687058Z",
+  "description": "请调整延迟为1600ms",
+  "difficulty": 8.999999,
+  "file": "https://phira.5wyxi.com/files/a1f6708d-7e8b-4655-9802-c9c049616f8b",
+  "id": 13210,
+  "illustration": "https://phira.5wyxi.com/files/8190e8d1-a046-4ee3-b707-6f7abb07e9aa",
+  "illustrator": "",
+  "level": "HD Lv.9",
+  "name": "Sacramentum Unaccompanied Hymn for Torino",
+  "preview": "https://phira.5wyxi.com/files/dc585188-a301-4e9f-b331-6305615dc8b0",
+  "ranked": false,
+  "rating": 0.9247234,
+  "ratingCount": 355,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-01-02T16:50:34.687058Z",
+  "uploader": 637255
+}

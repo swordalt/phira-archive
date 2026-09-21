@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:17Z",
+    "lastChanged": "2026-09-21T02:04:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-09T11:44:25.407026Z",
+  "charter": "Suikmilk",
+  "composer": "doa",
+  "created": "2026-01-31T17:00:00.541882Z",
+  "description": "本人上传\n发布手元（b站）请@Suikmilk",
+  "difficulty": 15.600002,
+  "file": "https://phira.5wyxi.com/files/b11152ff-7a0f-4ceb-81bb-33ee26a024bf",
+  "id": 51894,
+  "illustration": "https://phira.5wyxi.com/files/f79ac467-fdf1-4968-985e-6a3a5a434a7b",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "青い果実",
+  "preview": "https://phira.5wyxi.com/files/86d4462b-d443-41de-b306-0fc0e1c26ba2",
+  "ranked": false,
+  "rating": 0.9353971,
+  "ratingCount": 1168,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-09T11:44:25.407026Z",
+  "uploader": 352146
+}

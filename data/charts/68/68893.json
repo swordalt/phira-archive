@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:02Z",
+    "lastChanged": "2026-09-21T02:05:02Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-24T10:55:49.922153Z",
+  "charter": "BlazinG XLZ",
+  "composer": "kanone",
+  "created": "2026-07-24T10:55:49.922153Z",
+  "description": "该谱面为 WSRT x 云梦杯 比赛供谱\n首次登场于A区决赛\n\nB站视频链接：BV1Ycgb6hEwV\n————————————————\n曲名：BlazinG AIR\n曲师：kanone\n谱师：BlazinG XLZ\n难度：IN Lv.15\n物量：1095\n\n本人的第12张Phigros自制谱，感谢@Wind丶灵风及云梦杯制作组成员在本谱面制作过程中提出的指导建议，以及各位帮助进行谱面测试的朋友们，感谢你们的支持！",
+  "difficulty": 15.700003,
+  "file": "https://phira.5wyxi.com/files/fb32ad83-e1f8-4f5b-b551-f03ce62fde71",
+  "id": 68893,
+  "illustration": "https://phira.5wyxi.com/files/b9786d56-ae73-4079-b336-341d36891eb8",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "BlazinG AIR",
+  "preview": "https://phira.5wyxi.com/files/270a2885-6781-4ed3-8ac5-2780c1a8366c",
+  "ranked": false,
+  "rating": 0.861346,
+  "ratingCount": 63,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-24T10:55:49.922153Z",
+  "uploader": 11897
+}

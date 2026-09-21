@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:32Z",
+    "lastChanged": "2026-09-21T02:05:32Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-28T14:17:05.290563Z",
+  "charter": "DiAMONDGAMER",
+  "composer": "Patricia Taxxon",
+  "created": "2025-11-28T14:17:05.290563Z",
+  "description": "本谱面并非为常规谱面，而是在节奏医生音频的基础上对节奏医生玩法的还原\n因此，在游玩前请确认你了解本谱面中出现的机制：\n1.二拍  2.细分二拍\n3.冰冻拍子  4.灼热拍子\n如条件允许，也请了解一下关卡5-2N，即无以为继的伤心欲绝\n\n我们不建议你由于“自己不会”而贸然给一张谱面打低分，这样显然是自私且极度不负责任的。",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/f1f96e0f-62f1-43cc-9083-aaf66fef5f34",
+  "id": 49557,
+  "illustration": "https://phira.5wyxi.com/files/d21a44da-f093-4faa-91fb-b44ce815ccd4",
+  "illustrator": "",
+  "level": "RE:RD 5-2N",
+  "name": "Unsustainable Inconsolable",
+  "preview": "https://phira.5wyxi.com/files/e0d9c88b-8e3a-40a8-8019-6d8c3a0fb297",
+  "ranked": false,
+  "rating": 0.9722566,
+  "ratingCount": 122,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2025-11-28T14:17:05.290563Z",
+  "uploader": 2067
+}

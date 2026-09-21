@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:36Z",
+    "lastChanged": "2026-09-21T02:02:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-23T07:57:13.887136Z",
+  "charter": "木亢木亢",
+  "composer": "Plum",
+  "created": "2024-08-23T07:57:13.887136Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/638ecfcd-fb3f-4a62-ad6c-568381d28c68",
+  "id": 26775,
+  "illustration": "https://phira.5wyxi.com/files/7b2c185b-f592-4609-acee-570262427c57",
+  "illustrator": "",
+  "level": "IN 15.9",
+  "name": "Tempest",
+  "preview": "https://phira.5wyxi.com/files/a4264e2e-ddd4-4566-819d-583515ddc329",
+  "ranked": false,
+  "rating": 0.8120731,
+  "ratingCount": 86,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-23T07:57:13.887136Z",
+  "uploader": 1932
+}

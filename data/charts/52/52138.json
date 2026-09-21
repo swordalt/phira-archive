@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:18Z",
+    "lastChanged": "2026-09-21T02:04:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-06T02:38:44.732540Z",
+  "charter": "海诺",
+  "composer": "Function Phantom",
+  "created": "2026-02-06T02:38:44.732540Z",
+  "description": null,
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/48dbdb14-1d9e-43e4-9e76-d7991c33cd33",
+  "id": 52138,
+  "illustration": "https://phira.5wyxi.com/files/7024b7c7-890e-4945-aa50-dcafe861e9ac",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Algebra",
+  "preview": "https://phira.5wyxi.com/files/083b622d-fd2a-478b-b939-d3cf54697213",
+  "ranked": false,
+  "rating": 0.8920795,
+  "ratingCount": 1889,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-06T02:38:44.732540Z",
+  "uploader": 402143
+}

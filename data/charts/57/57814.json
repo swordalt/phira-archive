@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:41Z",
+    "lastChanged": "2026-09-21T02:04:41Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-04T13:49:14.604988Z",
+  "charter": "Himawari.",
+  "composer": "STEAKA vo.初音ミク",
+  "created": "2026-05-04T13:49:14.604988Z",
+  "description": "曲名｜Scorpion Girl\n作曲｜STEAKA\n曲绘｜Sankichi（Chloe Modified）\nBPM｜152\n定数｜IN Lv.15(15.4)\n物量｜1419\n事件｜1.3w\n制谱时长｜55h\n\nSTEAKA COLLECTION第一作\nNext:Medic:a doll\n\nB站:BV1rwRYBaEdB",
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/5195226a-9ea8-4d9a-9970-cf1831c0fd5c",
+  "id": 57814,
+  "illustration": "https://phira.5wyxi.com/files/734b6963-ddb7-490a-a734-49b37aef7528",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "スコーピオンガールの貴重な捕食シーン",
+  "preview": "https://phira.5wyxi.com/files/4ef96d9a-4b3d-4941-baac-5882fee291a3",
+  "ranked": false,
+  "rating": 0.94239825,
+  "ratingCount": 1058,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-05-04T13:49:14.604988Z",
+  "uploader": 97518
+}

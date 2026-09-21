@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:11Z",
+    "lastChanged": "2026-09-21T02:04:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-06T14:31:41.347086Z",
+  "charter": "贪针",
+  "composer": "cupcakKe",
+  "created": "2026-01-06T14:31:41.347086Z",
+  "description": null,
+  "difficulty": 69.0,
+  "file": "https://phira.5wyxi.com/files/0e4c2029-d9e5-4fdb-8f7f-7573a8a03f7b",
+  "id": 51031,
+  "illustration": "https://phira.5wyxi.com/files/c20716c6-e453-4c68-ae19-ada0f0ae0897",
+  "illustrator": "",
+  "level": "AT Lv.16.69",
+  "name": "Dementia",
+  "preview": "https://phira.5wyxi.com/files/0fab8fef-6f97-41c2-944f-82d9e80cf444",
+  "ranked": false,
+  "rating": 0.8759138,
+  "ratingCount": 17,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-01-06T14:31:41.347086Z",
+  "uploader": 1953330
+}

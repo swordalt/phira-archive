@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:33Z",
+    "lastChanged": "2026-09-21T02:01:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-09-21T17:38:09.359953Z",
+  "charter": "GETM",
+  "composer": "udouddo",
+  "created": "2023-09-21T17:38:09.359953Z",
+  "description": "重传，修复了bug，但是手机游玩可能仍有露馅的地方\n特别感谢qr对特效升级的协助",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/c565039e-69d1-45fa-8d94-f5ad583d4ee9",
+  "id": 9545,
+  "illustration": "https://phira.5wyxi.com/files/0207f135-bd43-42c7-8aec-ad91ffba81fd",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Slyness Foxx",
+  "preview": "https://phira.5wyxi.com/files/eecdac48-4dac-48af-b14a-7366a92f1030",
+  "ranked": true,
+  "rating": 0.9280211,
+  "ratingCount": 254,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "Dynamix",
+    "regular"
+  ],
+  "updated": "2023-09-21T17:38:09.359953Z",
+  "uploader": 2716
+}

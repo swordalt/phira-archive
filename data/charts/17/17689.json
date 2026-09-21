@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:05Z",
+    "lastChanged": "2026-09-21T02:02:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-29T14:42:35.238786Z",
+  "charter": "TRixLoid",
+  "composer": "icesawder",
+  "created": "2024-03-29T14:42:35.238786Z",
+  "description": "本谱面由谱师本人上传，曲绘由谱师本人制作",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/dc34399e-0fc5-45d8-a4d2-b55cbd497e0f",
+  "id": 17689,
+  "illustration": "https://phira.5wyxi.com/files/5a6da36c-96a0-40a8-a2c7-ac2f77b0aa5a",
+  "illustrator": "",
+  "level": "AT  Lv.17",
+  "name": "夜襲",
+  "preview": "https://phira.5wyxi.com/files/8d99de0a-ac82-4751-82b0-b57a57518d1c",
+  "ranked": false,
+  "rating": 0.8324673,
+  "ratingCount": 139,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-03-02T02:36:50.455648Z",
+  "uploader": 840215
+}

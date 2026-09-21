@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:57Z",
+    "lastChanged": "2026-09-21T02:01:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-16T03:10:25.949835Z",
+  "charter": "BOX2000",
+  "composer": "Orangestar",
+  "created": "2024-02-16T03:10:25.949835Z",
+  "description": "本谱面由谱师本人上传，B 站@盒子2000の秘密桃源",
+  "difficulty": 14.200001,
+  "file": "https://phira.5wyxi.com/files/8da78063-09a9-4fdc-b400-3fcf20c39ad2",
+  "id": 15790,
+  "illustration": "https://phira.5wyxi.com/files/99cd3aa4-b664-4de3-a2c2-fcba11c86e8b",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "アスノヨゾラ哨戒班",
+  "preview": "https://phira.5wyxi.com/files/bbabb88e-6ddc-4d31-93e8-915fb59e0883",
+  "ranked": true,
+  "rating": 0.91787404,
+  "ratingCount": 4382,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "5thPecJam",
+    "VOCALOID",
+    "regular"
+  ],
+  "updated": "2024-02-16T03:10:25.949835Z",
+  "uploader": 136094
+}

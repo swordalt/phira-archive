@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:45Z",
+    "lastChanged": "2026-09-21T02:02:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-30T16:11:01.149794Z",
+  "charter": "Lnfine_C",
+  "composer": "linear ring",
+  "created": "2024-10-27T07:10:52.518504Z",
+  "description": "谱面预览 BV1rN1YY2ECG",
+  "difficulty": 14.899999,
+  "file": "https://phira.5wyxi.com/files/2ecdb870-43e3-4157-aaed-20db5bec45f7",
+  "id": 29141,
+  "illustration": "https://phira.5wyxi.com/files/3fa0f90e-635a-4215-8e3f-dcd49f5495bb",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Can you hear me?",
+  "preview": "https://phira.5wyxi.com/files/9e3f8fe4-54e1-4845-9e70-a2115c775827",
+  "ranked": false,
+  "rating": 0.9062799,
+  "ratingCount": 396,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-01-30T16:11:01.149794Z",
+  "uploader": 111281
+}

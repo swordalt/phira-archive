@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:24Z",
+    "lastChanged": "2026-09-21T02:05:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-30T02:50:16.939694Z",
+  "charter": "BEAUTIFUL SOUP",
+  "composer": "LAMBDA",
+  "created": "2024-05-30T02:50:16.939694Z",
+  "description": "谱师本人上传。我自以为写的很好但是审核员没有通过。再投一下。",
+  "difficulty": 14.8,
+  "file": "https://phira.5wyxi.com/files/76ec2a7b-b5fe-44ac-a81c-493961539942",
+  "id": 20518,
+  "illustration": "https://phira.5wyxi.com/files/4ace8c72-05ca-45b9-8427-d1f22746d6db",
+  "illustrator": "",
+  "level": "SP.soup",
+  "name": "SOUP STRONG DISCO",
+  "preview": "https://phira.5wyxi.com/files/4caafed9-78ea-4eea-bc6d-1e551de8be64",
+  "ranked": false,
+  "rating": 0.8620174,
+  "ratingCount": 1057,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-05-30T02:50:16.939694Z",
+  "uploader": 67076
+}

@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:06Z",
+    "lastChanged": "2026-09-21T02:06:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-23T12:19:31.323796Z",
+  "charter": "woxianbaile",
+  "composer": "Camellia",
+  "created": "2025-01-23T12:19:31.323796Z",
+  "description": "重制版",
+  "difficulty": 3.0,
+  "file": "https://phira.5wyxi.com/files/1d24c521-f89c-411e-9176-27e8312fed9d",
+  "id": 32287,
+  "illustration": "https://phira.5wyxi.com/files/486e953d-6d98-49f5-bef7-a28f13f525c1",
+  "illustrator": "",
+  "level": "ADOFAI Lv.21.3",
+  "name": "Hello (BPM) 2024",
+  "preview": "https://phira.5wyxi.com/files/cf4f5198-38bd-414c-b152-aaed4377563f",
+  "ranked": false,
+  "rating": 0.9268857,
+  "ratingCount": 264,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "冰与火之舞",
+    "adofai",
+    "ADOFAI",
+    "plain"
+  ],
+  "updated": "2025-01-23T12:19:31.323796Z",
+  "uploader": 1084093
+}

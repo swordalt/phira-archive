@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:08Z",
+    "lastChanged": "2026-09-21T02:01:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-07T12:45:00.863007Z",
+  "charter": "GJP",
+  "composer": "MIMI",
+  "created": "2023-05-07T12:45:00.863007Z",
+  "description": "交互练习.jpg",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/7cd4a5df-ac9e-4ede-9eb4-5a7b05909265",
+  "id": 1368,
+  "illustration": "https://phira.5wyxi.com/files/b948811c-d5f7-4f4b-a7f8-b55205836b1c",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "LyriC",
+  "preview": "https://phira.5wyxi.com/files/fb286300-a986-4d45-a6fd-04cb930ea648",
+  "ranked": false,
+  "rating": 0.86823356,
+  "ratingCount": 592,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-05-07T12:45:00.863007Z",
+  "uploader": 1942
+}

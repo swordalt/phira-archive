@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:40Z",
+    "lastChanged": "2026-09-21T02:04:40Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-03T11:17:54.761450Z",
+  "charter": "RC35",
+  "composer": "Funkin' Makes Revolution",
+  "created": "2026-05-03T11:17:54.761450Z",
+  "description": "在谱面增加了一些内容:\r\n1.时间延长(2:01-2:54)\r\n\r\n2.950cb后 中间上面的文字(0-1000 1000-0)，代表痛苦结束(或好结局的倒计时.?)\r\n\r\n3.还原FNF的Shader、UI、Time等(FNF模组:周三不忠夜)\r\n\r\n--\r\nBPM:201-201.2\r\n\r\nLevel:IN  Lv.16.0~16.2\r\n\r\nComposed by Funkin' Makes Revolution\r\n-\r\n延迟(谱面调整 -30)\r\n-\r\nEnjoy!!!",
+  "difficulty": 16.1,
+  "file": "https://phira.5wyxi.com/files/62c12708-f6c8-424a-90e6-dd05f2445569",
+  "id": 57695,
+  "illustration": "https://phira.5wyxi.com/files/4fcc2255-899f-4e16-b948-770eeee2929e",
+  "illustrator": "",
+  "level": "IN  Lv.16",
+  "name": "Unknown suffering",
+  "preview": "https://phira.5wyxi.com/files/f6018166-0aa0-4a35-ac70-13fcbf5e1599",
+  "ranked": false,
+  "rating": 0.9412175,
+  "ratingCount": 537,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Shader",
+    "regular"
+  ],
+  "updated": "2026-05-03T11:17:54.761450Z",
+  "uploader": 2211497
+}

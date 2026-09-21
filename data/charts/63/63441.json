@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:53Z",
+    "lastChanged": "2026-09-21T02:04:53Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-01T06:33:52.556533Z",
+  "charter": "lak631",
+  "composer": "HOYO-MIX",
+  "created": "2026-07-01T06:33:52.556533Z",
+  "description": "此为ex难度，只在in的基础上改了改配置",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/c88b2fd5-71a1-466e-8473-a357f6671cd2",
+  "id": 63441,
+  "illustration": "https://phira.5wyxi.com/files/82ced4bc-6e12-4162-b926-a429da364361",
+  "illustrator": "",
+  "level": "EX lv.17",
+  "name": "左道的胜义尊",
+  "preview": "https://phira.5wyxi.com/files/4d929c4b-afae-4c3c-9683-24c7984ee0d0",
+  "ranked": false,
+  "rating": 0.922456,
+  "ratingCount": 146,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-04T09:41:10.349490Z",
+  "uploader": 1307573
+}

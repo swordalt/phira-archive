@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:04Z",
+    "lastChanged": "2026-09-21T02:02:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-22T08:52:21.997493Z",
+  "charter": "Easy_sun",
+  "composer": "XKError",
+  "created": "2024-03-22T08:52:21.997493Z",
+  "description": "BV1Pm411d7Qv，谱面为谱师本人代为上传",
+  "difficulty": 16.700003,
+  "file": "https://phira.5wyxi.com/files/e03c6b75-326e-4170-b970-1dc1ec198e63",
+  "id": 17363,
+  "illustration": "https://phira.5wyxi.com/files/a2e0f02d-dbb5-4213-a017-696bf0b8e0fa",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Eternal Stars",
+  "preview": "https://phira.5wyxi.com/files/98d750df-1bb1-467e-b1af-bb1301fe0c90",
+  "ranked": false,
+  "rating": 0.83838516,
+  "ratingCount": 174,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-03-26T00:25:10.268206Z",
+  "uploader": 2999
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:03Z",
+    "lastChanged": "2026-09-21T02:05:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-28T10:14:32.852903Z",
+  "charter": "Foehn_Uragan",
+  "composer": "Masahiro Aoki/Feryquitous",
+  "created": "2026-07-28T10:14:32.852903Z",
+  "description": "PHIM 8th 个人赛 复赛 Point Track #2\n\n曲名/Title：刀刃所栖之物\n曲师/Composer：Masahiro Aoki/Feryquitous\n画师/Illustrator：明日方舟\n\n谱师/Charter：Foehn_Uragan\n难度/Level：IN Lv.16\n",
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/84428935-8eb8-4f3e-be7b-407f822f9633",
+  "id": 69696,
+  "illustration": "https://phira.5wyxi.com/files/cda292ed-5bf8-40ec-b4b7-084434bcb77e",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "刀刃所栖之物",
+  "preview": "https://phira.5wyxi.com/files/7883c8ed-c291-401b-bf90-1f2acfc9d1de",
+  "ranked": false,
+  "rating": 0.8879013,
+  "ratingCount": 92,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-28T10:14:32.852903Z",
+  "uploader": 3661
+}

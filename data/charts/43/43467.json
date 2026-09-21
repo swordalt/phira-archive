@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:36Z",
+    "lastChanged": "2026-09-21T02:03:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-02T11:30:31.817359Z",
+  "charter": "魚某",
+  "composer": "黒魔",
+  "created": "2025-08-02T10:55:33.920462Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/5b541727-e519-4f9c-b300-79c19b25bcc8",
+  "id": 43467,
+  "illustration": "https://phira.5wyxi.com/files/e1069309-7032-433a-91e4-72ed96873f35",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Friend's Back",
+  "preview": "https://phira.5wyxi.com/files/c9478c6a-438f-4cc0-b306-a07181d954c0",
+  "ranked": true,
+  "rating": 0.86284995,
+  "ratingCount": 333,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-02T11:30:31.817359Z",
+  "uploader": 6373
+}

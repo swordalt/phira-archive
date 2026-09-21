@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:53Z",
+    "lastChanged": "2026-09-21T02:05:53Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-12T04:14:21.230775Z",
+  "charter": "绿涩",
+  "composer": "cloudfield",
+  "created": "2024-07-12T04:14:21.230775Z",
+  "description": "几年前发现的一个几何冲刺玩家自制关卡，感觉音乐不错，演出也很好看，加上最近有一点空闲时间就打算写一份4k谱当做练习。\n难度什么的不重要，开心就好。\n几何冲刺内关卡id(曲绘来源)：60679881(不是我做的，但我挺喜欢这个关卡\n\n7.21改动：突然被告知曲名写错了，特此改正",
+  "difficulty": 15.800007,
+  "file": "https://phira.5wyxi.com/files/7c4bb946-d60f-41e3-849c-6f54260f5221",
+  "id": 23252,
+  "illustration": "https://phira.5wyxi.com/files/5fc72789-ce2d-46d3-a017-03452575f39a",
+  "illustrator": "",
+  "level": "4k Lv.15",
+  "name": "Fantasy-ft-Re",
+  "preview": "https://phira.5wyxi.com/files/da77d6ab-93dc-458c-84bf-dce500ad60f4",
+  "ranked": false,
+  "rating": 0.9451376,
+  "ratingCount": 293,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "几何冲刺",
+    "GeometryDash",
+    "plain"
+  ],
+  "updated": "2024-07-21T07:49:44.160490Z",
+  "uploader": 440893
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:20Z",
+    "lastChanged": "2026-09-21T02:01:20Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-07-18T23:06:28.184783Z",
+  "charter": "FLAG in test",
+  "composer": "shadow_bling",
+  "created": "2023-07-18T23:06:28.184783Z",
+  "description": "本人上传\nBilibili @FLAG_Xiaoqi\n此为修改谱面\n由于这个谱面我感觉还有一小部分问题，可能 后期还会修改\n若未修改则为最终版本谱面\n过去的谱面做删除在线处理，若想游玩请前往我的B站置顶动态获取粉丝群来获得谱面\n\n这个加号是因为我觉得，谱面有些难而且过于常规才加的，当然你也可以不用管（",
+  "difficulty": 14.700002,
+  "file": "https://phira.5wyxi.com/files/47844770-929e-48e2-a7f5-3c3455c5ee6e",
+  "id": 5576,
+  "illustration": "https://phira.5wyxi.com/files/3eae7f94-8a4d-44b6-9bc4-fb438e4ae9b6",
+  "illustrator": "",
+  "level": "MY  Lv.15",
+  "name": "Crush BETA",
+  "preview": "https://phira.5wyxi.com/files/8deda861-2bcc-457a-8741-fa6c01f3b4d0",
+  "ranked": true,
+  "rating": 0.9214937,
+  "ratingCount": 5084,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "BOF",
+    "regular"
+  ],
+  "updated": "2025-03-21T12:08:40.840966Z",
+  "uploader": 457
+}

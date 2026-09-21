@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:34Z",
+    "lastChanged": "2026-09-21T02:01:34Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-09-25T10:37:51.996587Z",
+  "charter": "ven",
+  "composer": "xi",
+  "created": "2023-09-25T10:37:51.996587Z",
+  "description": null,
+  "difficulty": 15.9,
+  "file": "https://phira.5wyxi.com/files/61f48b56-d90c-42bf-bc2a-da639bdab0a5",
+  "id": 9671,
+  "illustration": "https://phira.5wyxi.com/files/29deb9a2-69b9-4f2a-8895-00c9a8fae667",
+  "illustrator": "",
+  "level": "IN Lv. 15",
+  "name": "Ascension To Heaven",
+  "preview": "https://phira.5wyxi.com/files/595828fe-9efd-4c9e-9bbb-cce4c3d06b5f",
+  "ranked": false,
+  "rating": 0.9197206,
+  "ratingCount": 411,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "BOF2009",
+    "故事板",
+    "shader",
+    "BGA",
+    "regular"
+  ],
+  "updated": "2023-09-25T10:37:51.996587Z",
+  "uploader": 34413
+}

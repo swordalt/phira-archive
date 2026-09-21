@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:36Z",
+    "lastChanged": "2026-09-21T02:03:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-03T06:49:11.805880Z",
+  "charter": "xingh",
+  "composer": "鸟叔",
+  "created": "2025-08-03T06:49:11.805880Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/79f19dbf-f4bf-4e33-81f3-118ada8b44ce",
+  "id": 43551,
+  "illustration": "https://phira.5wyxi.com/files/3ac8aea0-a870-46fa-9d57-bcd3178c0524",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "gentleman（鸟叔）",
+  "preview": "https://phira.5wyxi.com/files/64a39690-48b9-464c-9b5e-2ad93fa8a457",
+  "ranked": false,
+  "rating": 0.91563517,
+  "ratingCount": 719,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-03T06:49:11.805880Z",
+  "uploader": 1804307
+}

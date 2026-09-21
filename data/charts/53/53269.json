@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:24Z",
+    "lastChanged": "2026-09-21T02:04:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-29T20:48:40.996609Z",
+  "charter": "tikkit",
+  "composer": "STEAKA / 山田じぇみ子",
+  "created": "2026-02-23T15:58:10.269101Z",
+  "description": "（原作者上传，b站：祈梦Tii）\n谱面预览BV1QPfBBgEYQ（注：本人仅在b站上传视频）\n新人二谱，特效和配置比初谱多花了很多心思，请多指教\n\n2026.05.30修改:优化了大部分配置和排键，添加了少量表演，修复表演线隐藏失误的问题",
+  "difficulty": 16.400002,
+  "file": "https://phira.5wyxi.com/files/e0aefb02-a2ed-490d-9f9b-a49944b9cd20",
+  "id": 53269,
+  "illustration": "https://phira.5wyxi.com/files/1b7db124-1d85-4a3d-8847-31772ae0dd44",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "メッちゅう殴打(feat.山田じぇみ子)",
+  "preview": "https://phira.5wyxi.com/files/0b29386b-0a76-491b-aea6-1a1e79fc1dbb",
+  "ranked": false,
+  "rating": 0.92432743,
+  "ratingCount": 376,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "steaka",
+    "regular"
+  ],
+  "updated": "2026-05-29T20:48:40.996609Z",
+  "uploader": 683941
+}

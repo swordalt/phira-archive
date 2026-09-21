@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:32Z",
+    "lastChanged": "2026-09-21T02:02:32Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-09T09:47:15.549514Z",
+  "charter": "XL114",
+  "composer": "Kou! & KASOKUKICollective",
+  "created": "2024-08-09T09:47:15.549514Z",
+  "description": "经过了3次调整，此后将不再更新谱面。各位放心游玩(≧ω≦)/\n写了好久，求五星好评！\n————————————————\n更新了定数17.6+\nbili：@XL114",
+  "difficulty": 17.6,
+  "file": "https://phira.5wyxi.com/files/f85c9344-a1ce-460b-bc1d-74fd2f7facfb",
+  "id": 25743,
+  "illustration": "https://phira.5wyxi.com/files/8ab84dbf-bdc4-4ab4-b63b-e05c882d1002",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "霹靂神ソフトウェア",
+  "preview": "https://phira.5wyxi.com/files/b81d5e66-41aa-478a-81d6-203e9a62518c",
+  "ranked": false,
+  "rating": 0.91297215,
+  "ratingCount": 676,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "高难",
+    "regular"
+  ],
+  "updated": "2025-01-30T06:27:45.129088Z",
+  "uploader": 18407
+}

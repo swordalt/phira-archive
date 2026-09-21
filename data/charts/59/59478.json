@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:45Z",
+    "lastChanged": "2026-09-21T02:04:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-30T07:22:33.049819Z",
+  "charter": "南瓜 & Lage",
+  "composer": "Luze",
+  "created": "2026-05-30T07:22:33.049819Z",
+  "description": "2026.5.30\n由于南瓜传错谱面了，所以让我传下\n修改定数为16.2并非17\nBV号：BV1HMVN6JE3j（可以支持一下喵）\n\n@我是拉哥#2013414（动效）\n@YMEA洋漫#5238（难度制定）\n（因为协作者名字不能有空格，南瓜为配置）\n",
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/58a12dd1-2fc6-4118-8607-d3449ab6af79",
+  "id": 59478,
+  "illustration": "https://phira.5wyxi.com/files/aca8b3bb-b0e5-4bb1-b11f-4e50070f2504",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Fragmentation",
+  "preview": "https://phira.5wyxi.com/files/a3bd55fd-e8a6-4252-9d08-6b24eed1d16c",
+  "ranked": false,
+  "rating": 0.9107452,
+  "ratingCount": 325,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-05-30T07:22:33.049819Z",
+  "uploader": 2348798
+}

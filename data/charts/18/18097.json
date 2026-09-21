@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:07Z",
+    "lastChanged": "2026-09-21T02:02:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-05T07:19:25.348656Z",
+  "charter": "USATEI239",
+  "composer": "ビートまりお/あまね/COOL&CREATE",
+  "created": "2024-04-05T07:19:25.348656Z",
+  "description": "WJC参赛谱\n谱师本人上传\nBV122421K7aN",
+  "difficulty": 14.5999975,
+  "file": "https://phira.5wyxi.com/files/e3c9ea7e-a114-4908-8969-ee78c1257a96",
+  "id": 18097,
+  "illustration": "https://phira.5wyxi.com/files/305588f1-26e6-4d0e-b715-514907071f45",
+  "illustrator": "",
+  "level": "IN  Lv.14",
+  "name": "ウサテイ20XX",
+  "preview": "https://phira.5wyxi.com/files/d019b895-2fb7-4c38-9a50-43ce1ae5627c",
+  "ranked": true,
+  "rating": 0.91943556,
+  "ratingCount": 690,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "2ndWJC",
+    "东方project",
+    "regular"
+  ],
+  "updated": "2024-04-05T07:19:25.348656Z",
+  "uploader": 43
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:02Z",
+    "lastChanged": "2026-09-21T02:05:02Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-27T03:52:53.820781Z",
+  "charter": "Febriz -w-",
+  "composer": "technoplanet",
+  "created": "2026-07-27T03:52:53.820781Z",
+  "description": "使用PhiEditer製作",
+  "difficulty": 17.2,
+  "file": "https://phira.5wyxi.com/files/117da90a-82b8-4dfc-9172-d8cdf7ccacb9",
+  "id": 69432,
+  "illustration": "https://phira.5wyxi.com/files/eae54348-1078-4e02-ae11-0815b94ff680",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Singularity",
+  "preview": "https://phira.5wyxi.com/files/5f141ca5-c7bf-4850-b69c-ef344f64364d",
+  "ranked": false,
+  "rating": 0.81567323,
+  "ratingCount": 4,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-27T03:52:53.820781Z",
+  "uploader": 112692
+}

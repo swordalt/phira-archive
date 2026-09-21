@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:39Z",
+    "lastChanged": "2026-09-21T02:04:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-01T15:02:38.366833Z",
+  "charter": "eyestars",
+  "composer": "Mathias fritshe vs. rob landes",
+  "created": "2026-05-01T15:02:38.366833Z",
+  "description": null,
+  "difficulty": 12.3,
+  "file": "https://phira.5wyxi.com/files/5fd30513-4228-4ef4-8a66-0edd7f21b03e",
+  "id": 57503,
+  "illustration": "https://phira.5wyxi.com/files/eec9bb51-c0e9-4a4b-b3f1-970cb696bb64",
+  "illustrator": "",
+  "level": "IN Lv.12",
+  "name": "Solaris",
+  "preview": "https://phira.5wyxi.com/files/af23a242-b26a-4d3b-b43d-de5d23bc902e",
+  "ranked": false,
+  "rating": 0.8212362,
+  "ratingCount": 52,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-05-01T15:02:38.366833Z",
+  "uploader": 1980916
+}

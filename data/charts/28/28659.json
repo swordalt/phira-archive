@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:02Z",
+    "lastChanged": "2026-09-21T02:06:02Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-10-13T00:24:15.732862Z",
+  "charter": "扬川",
+  "composer": "Avans",
+  "created": "2024-10-13T00:24:15.732862Z",
+  "description": "感谢DanceRailRefresh让我听到了这么好听的音游曲。",
+  "difficulty": 15.300004,
+  "file": "https://phira.5wyxi.com/files/f8c40dca-c6cd-45fa-be39-bc0982f51466",
+  "id": 28659,
+  "illustration": "https://phira.5wyxi.com/files/3f079969-83a8-4756-8a93-64bd0b18c22d",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Dead Project",
+  "preview": "https://phira.5wyxi.com/files/90473b25-db74-45bc-905c-34fac0aae631",
+  "ranked": false,
+  "rating": 0.833827,
+  "ratingCount": 20,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Avans",
+    "Dancerail",
+    "plain"
+  ],
+  "updated": "2025-03-28T13:03:37.716348Z",
+  "uploader": 223566
+}

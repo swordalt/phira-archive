@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:13Z",
+    "lastChanged": "2026-09-21T02:04:13Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-20T09:25:20.062503Z",
+  "charter": "海诺",
+  "composer": "Declan DP",
+  "created": "2026-01-20T09:25:20.062503Z",
+  "description": null,
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/cb6e871b-8fb4-4154-88d7-5a76521b22f3",
+  "id": 51431,
+  "illustration": "https://phira.5wyxi.com/files/b568306d-a592-4481-b135-0a7e659963f0",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Far Away",
+  "preview": "https://phira.5wyxi.com/files/20008f59-5b77-4630-ac00-b85ccc8f66aa",
+  "ranked": false,
+  "rating": 0.92894226,
+  "ratingCount": 258,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-01-20T09:25:20.062503Z",
+  "uploader": 402143
+}

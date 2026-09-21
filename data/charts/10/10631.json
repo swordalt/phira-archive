@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:38Z",
+    "lastChanged": "2026-09-21T02:01:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-10-20T07:53:01.352540Z",
+  "charter": "Chaos RougNiT",
+  "composer": "Laur",
+  "created": "2023-10-20T07:53:01.352540Z",
+  "description": "谱师的phira帐号没了，此谱为代替上传。\n算是第三张谱（第二张谱因为独占曲版权原因没有通过审核），有写的不好的地方还请各位大佬轻点喷；修改了一些地方。",
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/e09a77ce-0161-44c2-9689-63436d1c9701",
+  "id": 10631,
+  "illustration": "https://phira.5wyxi.com/files/48399ba7-b222-49f5-bcea-a3e07d308ab2",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Chaos Emperor",
+  "preview": "https://phira.5wyxi.com/files/5d0999e5-01a5-47f6-98af-0cbe05e9f792",
+  "ranked": false,
+  "rating": 0.89861083,
+  "ratingCount": 495,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-10-20T07:53:01.352540Z",
+  "uploader": 299965
+}

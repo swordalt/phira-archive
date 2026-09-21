@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:20Z",
+    "lastChanged": "2026-09-21T02:06:20Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-01T10:57:00.634519Z",
+  "charter": "凌夏",
+  "composer": "kemu/IA",
+  "created": "2025-07-01T10:57:00.634519Z",
+  "description": null,
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/42139a7c-e2a4-40bb-845d-5d6613467764",
+  "id": 40664,
+  "illustration": "https://phira.5wyxi.com/files/b723885b-ff21-4e93-85a9-f421358e871c",
+  "illustrator": "",
+  "level": "4k Lv.27",
+  "name": "六兆年と一夜物语",
+  "preview": "https://phira.5wyxi.com/files/3f33123e-3dcf-4c62-a271-93f604296ea8",
+  "ranked": false,
+  "rating": 0.78390974,
+  "ratingCount": 10,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-07-01T10:57:00.634519Z",
+  "uploader": 500731
+}

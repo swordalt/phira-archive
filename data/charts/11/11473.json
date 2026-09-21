@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:40Z",
+    "lastChanged": "2026-09-21T02:01:40Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-11-14T09:58:01.298465Z",
+  "charter": "sanwei",
+  "composer": "CYLTIE",
+  "created": "2023-11-14T09:58:01.298465Z",
+  "description": null,
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/bcf6bce8-9c68-4b5f-86ef-c93a5bc30456",
+  "id": 11473,
+  "illustration": "https://phira.5wyxi.com/files/afb93b64-023a-46cc-91ca-873361e44440",
+  "illustrator": "",
+  "level": "IN Lv.15+",
+  "name": "キマグレ☆テキトウ・アンサンブル→コミュニケーション Re:Dive!",
+  "preview": "https://phira.5wyxi.com/files/544afe5b-5e4b-45ec-9713-e4523858dec2",
+  "ranked": false,
+  "rating": 0.7938586,
+  "ratingCount": 41,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "takumi3",
+    "regular"
+  ],
+  "updated": "2023-11-14T09:58:01.298465Z",
+  "uploader": 2642
+}

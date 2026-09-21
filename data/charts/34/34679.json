@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:06Z",
+    "lastChanged": "2026-09-21T02:03:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-03-23T07:39:39.514140Z",
+  "charter": "R8P3S -MAXSTRESS-",
+  "composer": "LisicA",
+  "created": "2025-03-01T13:53:25.326220Z",
+  "description": "4thWJC G1 No.4 -テウメッサ-\n 「TECHNO STRESS」\n\n于2025.3.23进行三改",
+  "difficulty": 16.400002,
+  "file": "https://phira.5wyxi.com/files/8e805d8e-37dd-4e1d-a3ba-11615c81859d",
+  "id": 34679,
+  "illustration": "https://phira.5wyxi.com/files/d7ef5813-0c28-4f5d-ad61-e3412cbacb38",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "テウメッサ",
+  "preview": "https://phira.5wyxi.com/files/6a07b793-1950-45f6-a4aa-7c7fa6abef04",
+  "ranked": true,
+  "rating": 0.92065406,
+  "ratingCount": 1557,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "LisicA",
+    "4thWJC",
+    "regular"
+  ],
+  "updated": "2025-03-23T07:39:39.514140Z",
+  "uploader": 9376
+}

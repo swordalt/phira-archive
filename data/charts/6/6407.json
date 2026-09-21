@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:23Z",
+    "lastChanged": "2026-09-21T02:01:23Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-07-29T18:42:34.835360Z",
+  "charter": "御原智乃",
+  "composer": "MisomyL",
+  "created": "2023-07-29T18:42:34.835360Z",
+  "description": "里糖杯十六强A组ST(Secret Chart)供稿。 bilibili@御原智乃",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/a22f00ee-d049-4063-9c0c-9f07f9af1c27",
+  "id": 6407,
+  "illustration": "https://phira.5wyxi.com/files/6892cedf-08d4-49d1-91ba-7dc2c969d25f",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Catalinésie",
+  "preview": "https://phira.5wyxi.com/files/75baf678-39a4-4e18-a230-93bf6d60b2e9",
+  "ranked": true,
+  "rating": 0.9163439,
+  "ratingCount": 2229,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "LTC2023",
+    "LTC",
+    "里糖杯",
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 352
+}

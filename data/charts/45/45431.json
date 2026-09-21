@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:44Z",
+    "lastChanged": "2026-09-21T02:03:44Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-22T12:25:13.037299Z",
+  "charter": "XSilence_10231",
+  "composer": "かめりあ",
+  "created": "2025-08-22T12:25:13.037299Z",
+  "description": "曲目:M1LLI0N PP\n作曲:かめりあ\n谱面:XSilence_10231\n时长:430.86s\n难度:AT Lv.18（具体不知道UwU）\n\n事件数:41994\n物量:5500\nBPM:117（64~175）\n线数:201\n\n制谱器:Re:PhiEdit 1.7.0（测试）\n渲染器:Phi Recorder\n渲染比例:3:2",
+  "difficulty": 18.0,
+  "file": "https://phira.5wyxi.com/files/51934d12-2a2b-4b9a-9c8b-febe42a8b023",
+  "id": 45431,
+  "illustration": "https://phira.5wyxi.com/files/6011eec5-4a4d-45d5-baf5-f9a633e0d1bf",
+  "illustrator": "",
+  "level": "AT Lv.18",
+  "name": "M1LLI0N PP",
+  "preview": "https://phira.5wyxi.com/files/b42767f7-8ba0-41c0-8fcd-d7cee3373ce7",
+  "ranked": false,
+  "rating": 0.9380849,
+  "ratingCount": 456,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-22T12:25:13.037299Z",
+  "uploader": 10606
+}

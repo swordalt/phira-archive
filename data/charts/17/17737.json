@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:45Z",
+    "lastChanged": "2026-09-21T02:05:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-30T10:19:14.902976Z",
+  "charter": "snakewhale",
+  "composer": "Cres.",
+  "created": "2024-03-30T10:19:14.902976Z",
+  "description": null,
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/93b09619-d3c3-44a6-a786-73cf1bb050cf",
+  "id": 17737,
+  "illustration": "https://phira.5wyxi.com/files/be5b81b2-ed00-497e-91dd-7e79ed4fe4f9",
+  "illustrator": "",
+  "level": "AT LV.16",
+  "name": "End Time",
+  "preview": "https://phira.5wyxi.com/files/37df8b5b-e459-44ac-bc15-fd74df2845cd",
+  "ranked": false,
+  "rating": 0.91339207,
+  "ratingCount": 131,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2024-03-30T10:19:14.902976Z",
+  "uploader": 4258
+}

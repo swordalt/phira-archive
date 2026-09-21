@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:00Z",
+    "lastChanged": "2026-09-21T02:05:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-17T09:18:00.271126Z",
+  "charter": "SigmacubE",
+  "composer": "KARUT",
+  "created": "2026-07-17T09:18:00.271126Z",
+  "description": "进修归来的四谱，已上传b站，祝玩得开心。",
+  "difficulty": 15.1,
+  "file": "https://phira.5wyxi.com/files/9c2d7b63-9c61-4fea-9e4d-462808e6d63b",
+  "id": 67209,
+  "illustration": "https://phira.5wyxi.com/files/9bd2ff87-f655-4339-95fc-4cad880d31be",
+  "illustrator": "",
+  "level": "IN 15",
+  "name": "HyperdrivE",
+  "preview": "https://phira.5wyxi.com/files/0fac477f-55fb-4e73-acf1-1961c56a784d",
+  "ranked": false,
+  "rating": 0.8251449,
+  "ratingCount": 6,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-17T09:18:00.271126Z",
+  "uploader": 598119
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "visual"
+    ],
+    "firstSeen": "2026-09-21T02:07:08Z",
+    "lastChanged": "2026-09-21T02:07:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-24T11:43:14.975975Z",
+  "charter": "A.S.",
+  "composer": "Silentroom",
+  "created": "2026-04-24T11:43:14.975975Z",
+  "description": "本人上传。\n预览已于2026.4.25发布，想观赏可以前往b站，因为谱面没有调整phira兼容的ui格式。",
+  "difficulty": 0.1,
+  "file": "https://phira.5wyxi.com/files/c5399a55-292e-4347-9e5e-47d33745014b",
+  "id": 56993,
+  "illustration": "https://phira.5wyxi.com/files/ecbf72f1-87d0-4a38-828f-ef998518e311",
+  "illustrator": "",
+  "level": "???",
+  "name": "Limen",
+  "preview": "https://phira.5wyxi.com/files/a6d388bb-2315-4ba5-8937-24794c42dc95",
+  "ranked": false,
+  "rating": 0.7947814,
+  "ratingCount": 185,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "visual"
+  ],
+  "updated": "2026-04-24T11:43:14.975975Z",
+  "uploader": 13474
+}

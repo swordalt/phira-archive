@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:11Z",
+    "lastChanged": "2026-09-21T02:02:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-01T10:06:03.778781Z",
+  "charter": "乃香草莓",
+  "composer": "Desmeon",
+  "created": "2024-05-01T10:06:03.778781Z",
+  "description": null,
+  "difficulty": 15.299999,
+  "file": "https://phira.5wyxi.com/files/d12442c3-f8e5-472c-9b77-9e95442fe981",
+  "id": 19154,
+  "illustration": "https://phira.5wyxi.com/files/4ae14438-e650-4257-a52a-614a2527673c",
+  "illustrator": "",
+  "level": "AT Lv.15.3",
+  "name": "Undone",
+  "preview": "https://phira.5wyxi.com/files/4cc1c7c2-b370-45e3-88a1-8f9a80354b2b",
+  "ranked": false,
+  "rating": 0.912918,
+  "ratingCount": 160,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-05-01T10:06:03.778781Z",
+  "uploader": 458236
+}

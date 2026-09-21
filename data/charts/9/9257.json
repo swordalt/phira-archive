@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:37Z",
+    "lastChanged": "2026-09-21T02:05:37Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-09-10T07:21:44.390395Z",
+  "charter": "charaDiana",
+  "composer": "rei sirose",
+  "created": "2023-09-10T07:21:44.390395Z",
+  "description": "发现有叠键，重投力",
+  "difficulty": 11.000004,
+  "file": "https://phira.5wyxi.com/files/1e1ba126-6c0e-40e4-b2b8-bb71e5fcf827",
+  "id": 9257,
+  "illustration": "https://phira.5wyxi.com/files/184e29c4-4212-4e39-a21f-b8e96a850cdd",
+  "illustrator": "",
+  "level": "simple",
+  "name": "Lost Umberlla(cut ver.)",
+  "preview": "https://phira.5wyxi.com/files/177ea64e-1075-47bf-a4c3-cdb3003fa72d",
+  "ranked": false,
+  "rating": 0.92327744,
+  "ratingCount": 291,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "simple",
+    "DFC",
+    "plain"
+  ],
+  "updated": "2023-09-10T07:21:44.390395Z",
+  "uploader": 2048
+}

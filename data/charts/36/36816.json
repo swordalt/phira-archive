@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:14Z",
+    "lastChanged": "2026-09-21T02:03:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-20T07:25:41.445128Z",
+  "charter": "class-elpha [037]",
+  "composer": "Zeraphym",
+  "created": "2025-04-20T07:25:41.445128Z",
+  "description": null,
+  "difficulty": 16.500004,
+  "file": "https://phira.5wyxi.com/files/7b3babbb-7815-4b2f-b297-8e4b6daf3f99",
+  "id": 36816,
+  "illustration": "https://phira.5wyxi.com/files/3ad899b9-1ea4-4bd1-adc4-90049a600430",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "lifeline",
+  "preview": "https://phira.5wyxi.com/files/388605ab-a5cc-4926-b7c0-96d22f208efe",
+  "ranked": false,
+  "rating": 0.9092992,
+  "ratingCount": 521,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-04-20T07:25:41.445128Z",
+  "uploader": 1236056
+}

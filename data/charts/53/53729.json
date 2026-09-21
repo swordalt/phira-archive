@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:33Z",
+    "lastChanged": "2026-09-21T02:05:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-02T11:17:18.147813Z",
+  "charter": "Aether",
+  "composer": "MC赵小六",
+  "created": "2026-03-02T11:17:18.147813Z",
+  "description": null,
+  "difficulty": 19.0,
+  "file": "https://phira.5wyxi.com/files/fdc7c3da-630d-450a-a150-a006eb762a3d",
+  "id": 53729,
+  "illustration": "https://phira.5wyxi.com/files/6e4cc87a-f82a-4072-9553-b23a3a047186",
+  "illustrator": "",
+  "level": "弹 Lv.19",
+  "name": "弹舌",
+  "preview": "https://phira.5wyxi.com/files/78fe2eeb-49d6-4962-b8fb-8a40617e35d2",
+  "ranked": false,
+  "rating": 0.78587854,
+  "ratingCount": 229,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "高难",
+    "神曲",
+    "troll"
+  ],
+  "updated": "2026-03-02T11:17:18.147813Z",
+  "uploader": 1526131
+}

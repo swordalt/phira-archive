@@ -1,0 +1,40 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:49Z",
+    "lastChanged": "2026-09-21T02:04:49Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-19T14:53:58.574134Z",
+  "charter": "OVAC",
+  "composer": "Xyris",
+  "created": "2026-06-19T14:53:58.574134Z",
+  "description": "没事瞎勾吧写的，难点在尾杀（其实挺容易糊过去），没加表演线看起来还是有点空空的（好吧其实是第一次写）\nBPM 250\n铺师本人OVAC上传",
+  "difficulty": 17.4,
+  "file": "https://phira.5wyxi.com/files/1e8daa4f-d91d-435c-8f44-884e8f2c2a8d",
+  "id": 61544,
+  "illustration": "https://phira.5wyxi.com/files/5c406071-c4eb-44db-a0e7-af39d9771ae7",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Eviternity",
+  "preview": "https://phira.5wyxi.com/files/5ccf0b59-dc99-41a0-b6ba-24a64e616ddf",
+  "ranked": false,
+  "rating": 0.8906698,
+  "ratingCount": 111,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4k",
+    "5k",
+    "6k",
+    "多指",
+    "高难",
+    "",
+    "regular"
+  ],
+  "updated": "2026-06-19T14:53:58.574134Z",
+  "uploader": 1729386
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:41Z",
+    "lastChanged": "2026-09-21T02:04:41Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-05T08:45:40.758878Z",
+  "charter": "DIMAXV",
+  "composer": "塞壬唱片",
+  "created": "2026-05-05T08:45:40.758878Z",
+  "description": null,
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/8e2ea6ff-d5ac-461e-b5ed-5939792e3e04",
+  "id": 57892,
+  "illustration": "https://phira.5wyxi.com/files/de2c42d4-83aa-4e99-866b-3ddf2d8adf00",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Innocence",
+  "preview": "https://phira.5wyxi.com/files/e91a96e5-4ce1-437d-b7e5-71ca05797245",
+  "ranked": false,
+  "rating": 0.9216334,
+  "ratingCount": 495,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-05-05T08:45:40.758878Z",
+  "uploader": 488589
+}

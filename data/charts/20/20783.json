@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:16Z",
+    "lastChanged": "2026-09-21T02:02:16Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-06-04T10:50:09.755236Z",
+  "charter": "LXyhuman",
+  "composer": "MYUKKE.",
+  "created": "2024-06-04T10:50:09.755236Z",
+  "description": "传错号了，审核大大过一下\n本人上传\n以官谱为模板纯手搓的差分版\n1.消除了一些恶心人的变速和判定线位移\n2.增加部分引导（也就加了那么一点点）\n3.为了保留旧谱特色，没有增加线效（其实我就是懒了）\n4.补了一些拍\n5.你猜为什么定15（\n此版本为1.0，后续可能会对排键做一些优化\n\n为啥我总感觉15定高了（\n",
+  "difficulty": 15.1,
+  "file": "https://phira.5wyxi.com/files/c068ca7b-1a08-4dbc-81a9-a01705fa492f",
+  "id": 20783,
+  "illustration": "https://phira.5wyxi.com/files/5e5cbd0a-7630-4074-8b93-bfaa4daf9eee",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "FULi AUTO SHOOTER",
+  "preview": "https://phira.5wyxi.com/files/92294328-f7af-49a4-a682-7ffadb2dccb7",
+  "ranked": false,
+  "rating": 0.89088887,
+  "ratingCount": 827,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-06-04T10:50:09.755236Z",
+  "uploader": 272557
+}

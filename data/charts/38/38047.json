@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:15Z",
+    "lastChanged": "2026-09-21T02:06:15Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-13T03:56:49.282824Z",
+  "charter": "ERETBY2006",
+  "composer": "Merkurius",
+  "created": "2025-05-13T03:56:49.282824Z",
+  "description": "铺师本人上传\n从wlf转铺6k改的\n去掉了一些无理配置，优化了手序",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/72f90269-dbe0-460a-932c-e7caf958fd93",
+  "id": 38047,
+  "illustration": "https://phira.5wyxi.com/files/57716d27-d193-441c-92fd-c25b4f475a6f",
+  "illustrator": "",
+  "level": "Double Finger Lv.10",
+  "name": "Creeping",
+  "preview": "https://phira.5wyxi.com/files/19648981-ab27-41fa-a1e2-6eb70a49c204",
+  "ranked": false,
+  "rating": 0.96233135,
+  "ratingCount": 598,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-05-13T03:56:49.282824Z",
+  "uploader": 63977
+}

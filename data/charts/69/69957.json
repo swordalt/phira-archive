@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:03Z",
+    "lastChanged": "2026-09-21T02:05:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-30T11:53:00.376162Z",
+  "charter": "ReFraction",
+  "composer": "celtix",
+  "created": "2026-07-29T13:30:35.154206Z",
+  "description": "该谱面为 WSRT x 云梦杯\r\n比赛供谱\n首次登场于【沉坠•破晓】16进8淘汰赛第一场",
+  "difficulty": 15.7,
+  "file": "https://phira.5wyxi.com/files/f27b9ba7-8f55-4005-b37b-25435852c4d5",
+  "id": 69957,
+  "illustration": "https://phira.5wyxi.com/files/12f7ac1c-b6fe-4fe1-9471-793c271f5079",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "REGEN",
+  "preview": "https://phira.5wyxi.com/files/b14bb97a-e3de-4c4e-a40b-506b4f61d675",
+  "ranked": true,
+  "rating": 0.87325346,
+  "ratingCount": 1700,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-30T11:53:00.376162Z",
+  "uploader": 11
+}

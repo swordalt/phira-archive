@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:24Z",
+    "lastChanged": "2026-09-21T02:03:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-19T15:13:31.898883Z",
+  "charter": "RRgame",
+  "composer": "SpadeK feat.诗岸",
+  "created": "2025-06-19T15:13:31.898883Z",
+  "description": "本人的中考纪念自制谱，欢迎游玩，也是本人第一张使用shader的谱面 （PS:AT14但是定数15.5是有意为之，谱面中变换了等级）   （本人上传）",
+  "difficulty": 15.500006,
+  "file": "https://phira.5wyxi.com/files/09d815cc-c161-4662-9259-7ab0eef3df06",
+  "id": 39917,
+  "illustration": "https://phira.5wyxi.com/files/e1b2c725-332d-4fbd-9d33-bfe75f8291a1",
+  "illustrator": "",
+  "level": "AT Lv.14",
+  "name": "Expectancy",
+  "preview": "https://phira.5wyxi.com/files/9c9207e7-dc4c-4baa-b7df-5d59384a975c",
+  "ranked": false,
+  "rating": 0.93229073,
+  "ratingCount": 61,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-06-19T15:13:31.898883Z",
+  "uploader": 31918
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:36Z",
+    "lastChanged": "2026-09-21T02:06:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-19T05:44:10.473042Z",
+  "charter": "radtsa",
+  "composer": "V.A.",
+  "created": "2025-09-20T07:43:40.923130Z",
+  "description": "专门为单手设计的段位",
+  "difficulty": 13.5,
+  "file": "https://phira.5wyxi.com/files/d475eb2a-8d16-453a-bc71-7dd5eb3b9dd9",
+  "id": 46973,
+  "illustration": "https://phira.5wyxi.com/files/a943d92b-9621-4567-a823-68964f40a6fb",
+  "illustrator": "",
+  "level": "0dan Lv.13",
+  "name": "Phira radtsa dan",
+  "preview": "https://phira.5wyxi.com/files/5263359b-91fc-42eb-972c-6ccb6eed0bde",
+  "ranked": false,
+  "rating": 0.81735086,
+  "ratingCount": 9,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "单手",
+    "plain"
+  ],
+  "updated": "2025-10-19T05:44:10.473042Z",
+  "uploader": 12691
+}

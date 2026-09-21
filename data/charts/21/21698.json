@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:18Z",
+    "lastChanged": "2026-09-21T02:02:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-06-22T13:38:48.466117Z",
+  "charter": "Heulis",
+  "composer": "Laur",
+  "created": "2024-06-22T13:38:48.466117Z",
+  "description": "曲名：Another Me\n曲师：Laur\n谱师：Heulis\n难度：AT Lv.16（16.2）\n物量：2610\n事件数：8181\n判定线数：24\n对谱面Another Me进行修改，使其更具可玩性，而非偏向观赏\n若需制作相关视频请B站@鞦蠊\nB站原视频 BV1j7gveyEaT",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/ddc1e7a4-b24e-4c9c-a4cd-ee6a992549a5",
+  "id": 21698,
+  "illustration": "https://phira.5wyxi.com/files/38ed70e3-0825-4133-bc7a-2e36094596f9",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Another Me",
+  "preview": "https://phira.5wyxi.com/files/b73d20c7-18ff-467e-8ebf-eef9ede71598",
+  "ranked": false,
+  "rating": 0.8938913,
+  "ratingCount": 409,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-06-22T13:38:48.466117Z",
+  "uploader": 9271
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:10Z",
+    "lastChanged": "2026-09-21T02:04:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-01T01:54:44.510290Z",
+  "charter": "Heronmony",
+  "composer": "Street",
+  "created": "2026-01-01T01:54:44.510290Z",
+  "description": null,
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/96c98f37-81eb-42a3-a048-b5ee3778ef9b",
+  "id": 50803,
+  "illustration": "https://phira.5wyxi.com/files/869bbde1-45fe-4da6-abba-e31b0af4e163",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Sakura Fubuki",
+  "preview": "https://phira.5wyxi.com/files/c495e825-e20c-47b8-b236-6ff33f07e1ee",
+  "ranked": false,
+  "rating": 0.7988512,
+  "ratingCount": 30,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-01-01T01:54:44.510290Z",
+  "uploader": 1017966
+}

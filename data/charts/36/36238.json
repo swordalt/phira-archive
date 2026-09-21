@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:10Z",
+    "lastChanged": "2026-09-21T02:03:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-12T12:28:54.816651Z",
+  "charter": "D.G",
+  "composer": "STEAKA",
+  "created": "2025-04-05T15:26:36.657037Z",
+  "description": "本人上传\n改谱于2025.4.12 感谢Logic_M大神的指导",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/3dd29d2f-0abb-4df2-8a24-694cf80947ee",
+  "id": 36238,
+  "illustration": "https://phira.5wyxi.com/files/948847f9-3891-47e6-adbc-c22a3713c782",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Doping Dance",
+  "preview": "https://phira.5wyxi.com/files/3491e5a6-45c6-4bba-bf95-b58609721149",
+  "ranked": true,
+  "rating": 0.91385293,
+  "ratingCount": 6441,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "VOCALOID",
+    "regular"
+  ],
+  "updated": "2025-10-04T08:43:51.688210Z",
+  "uploader": 702870
+}

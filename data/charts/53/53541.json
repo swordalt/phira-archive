@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:25Z",
+    "lastChanged": "2026-09-21T02:04:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-27T12:01:30.649613Z",
+  "charter": "Easystar",
+  "composer": "Yooh",
+  "created": "2026-02-27T12:01:30.649613Z",
+  "description": null,
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/14bfdbb5-6c2b-4d1b-b8c0-e089b6258f7d",
+  "id": 53541,
+  "illustration": "https://phira.5wyxi.com/files/fd75864c-3f40-4198-a46d-3fb10acad787",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Heracles",
+  "preview": "https://phira.5wyxi.com/files/99c83f82-a3a0-452b-bddf-142b746cff57",
+  "ranked": false,
+  "rating": 0.79358476,
+  "ratingCount": 16,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-27T12:01:30.649613Z",
+  "uploader": 421032
+}

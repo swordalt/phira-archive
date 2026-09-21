@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:12Z",
+    "lastChanged": "2026-09-21T02:05:12Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-25T04:13:56.630514Z",
+  "charter": "C.S.Rland",
+  "composer": "Atemu,Aurora Sky",
+  "created": "2026-08-25T04:13:56.630514Z",
+  "description": "谱师本人上传，本谱基于3rdWMC（脉弱杯）进行了大量优化改动",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/ef8abd02-6693-46c4-9e5c-d0a5fdd6bd53",
+  "id": 75565,
+  "illustration": "https://phira.5wyxi.com/files/538bf154-9657-4cbf-bd9b-8e8d33cf0afe",
+  "illustrator": "",
+  "level": "IN  Lv.16",
+  "name": "Borderland",
+  "preview": "https://phira.5wyxi.com/files/07fce6bb-46df-4bac-9565-1d252288e76c",
+  "ranked": false,
+  "rating": 0.8657936,
+  "ratingCount": 108,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-25T04:13:56.630514Z",
+  "uploader": 110190
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:44Z",
+    "lastChanged": "2026-09-21T02:02:44Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-10-20T01:07:17.156070Z",
+  "charter": "Redza Stickmin",
+  "composer": "Shinrog/Henry Stickmin",
+  "created": "2024-10-20T01:07:17.156070Z",
+  "description": "萌新第二张谱。因为BGM和Regret & Triumph有点像所以借鉴了一部分配置。中间还有还原亨利柴越狱成功后跑的姿势。",
+  "difficulty": 9.999999,
+  "file": "https://phira.5wyxi.com/files/d1174ad9-4b3c-43a9-a107-b9036d33059a",
+  "id": 28928,
+  "illustration": "https://phira.5wyxi.com/files/88d81e97-fe9c-4162-8bdc-098ff2cb74da",
+  "illustrator": "",
+  "level": "HD Lv.10",
+  "name": "Infertehno",
+  "preview": "https://phira.5wyxi.com/files/33ba1e57-a490-457b-8075-d606ebb7c97e",
+  "ranked": false,
+  "rating": 0.93213385,
+  "ratingCount": 165,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-10-20T01:07:17.156070Z",
+  "uploader": 1278891
+}

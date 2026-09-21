@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:10Z",
+    "lastChanged": "2026-09-21T02:01:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-13T11:09:02.032134Z",
+  "charter": "K-Munger",
+  "composer": "K-forest",
+  "created": "2023-05-13T11:09:02.032134Z",
+  "description": "萌新谱面(轻点骂)(谱师在bilibili Munger",
+  "difficulty": 15.600002,
+  "file": "https://phira.5wyxi.com/files/77ee0098-1c43-467a-8132-a4b659c5f754",
+  "id": 1867,
+  "illustration": "https://phira.5wyxi.com/files/9b089d0f-b29c-487d-80a6-06ae0993188c",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Paracelsus",
+  "preview": "https://phira.5wyxi.com/files/440c2e04-2599-4556-83ac-96cd902a5fb6",
+  "ranked": false,
+  "rating": 0.79499495,
+  "ratingCount": 80,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-05-20T16:46:38.502970Z",
+  "uploader": 1721
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:07Z",
+    "lastChanged": "2026-09-21T02:03:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-03-09T13:42:16.953461Z",
+  "charter": "HAPPY",
+  "composer": "shadow_bling",
+  "created": "2025-03-09T13:42:16.953461Z",
+  "description": "增加奇怪僵硬的特效。中间那段表演有bug。\n修改部分配置。（本人）",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/3a4641ee-f1c1-48e3-aabe-d0b1aa228462",
+  "id": 35063,
+  "illustration": "https://phira.5wyxi.com/files/32f5159c-caed-4891-8cd7-7103e80f4c89",
+  "illustrator": "",
+  "level": "At",
+  "name": "Crush Beta",
+  "preview": "https://phira.5wyxi.com/files/452c6682-8ea8-4850-a46e-072f270ec027",
+  "ranked": false,
+  "rating": 0.886132,
+  "ratingCount": 274,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-03-09T13:42:16.953461Z",
+  "uploader": 848662
+}

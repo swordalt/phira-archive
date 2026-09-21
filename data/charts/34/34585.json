@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:28Z",
+    "lastChanged": "2026-09-21T02:05:28Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-28T16:12:45.585071Z",
+  "charter": "I just wanna jump",
+  "composer": "イロドリミドリ",
+  "created": "2025-02-28T16:12:45.585071Z",
+  "description": "无语和你说不下去",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/adc51fb2-3720-44d2-add8-120a88ffc1c2",
+  "id": 34585,
+  "illustration": "https://phira.5wyxi.com/files/669086e3-e106-4613-8879-719388cce1f3",
+  "illustrator": "",
+  "level": "WORLD'S END Lv.跳",
+  "name": "猫祭り",
+  "preview": "https://phira.5wyxi.com/files/c4c7f28c-b176-4469-a79a-b16cd0f4dea6",
+  "ranked": false,
+  "rating": 0.89248514,
+  "ratingCount": 246,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "DCC",
+    "troll"
+  ],
+  "updated": "2025-02-28T16:12:45.585071Z",
+  "uploader": 10002
+}

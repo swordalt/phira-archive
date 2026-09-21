@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:06Z",
+    "lastChanged": "2026-09-21T02:02:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-05T07:02:18.800886Z",
+  "charter": "大鸽子咕咕咕",
+  "composer": "黒うさP",
+  "created": "2024-04-02T12:18:48.959736Z",
+  "description": "谱面修改，优化了排键。\n每处配置都是精心设计的，希望大家喜欢。",
+  "difficulty": 16.6,
+  "file": "https://phira.5wyxi.com/files/503762da-e601-4551-b600-09229e075a4b",
+  "id": 17948,
+  "illustration": "https://phira.5wyxi.com/files/9e684f29-32c3-4e49-8b1f-85e04be42fc0",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "千本桜",
+  "preview": "https://phira.5wyxi.com/files/42fe5bbd-7a54-406e-888d-8887269458bf",
+  "ranked": false,
+  "rating": 0.59781736,
+  "ratingCount": 1692,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "shader",
+    "故事板",
+    "VOCALOID",
+    "regular"
+  ],
+  "updated": "2024-04-05T07:02:18.800886Z",
+  "uploader": 798500
+}

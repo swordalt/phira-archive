@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:07Z",
+    "lastChanged": "2026-09-21T02:01:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-01T02:24:53.199857Z",
+  "charter": "X#*\\enuch",
+  "composer": "かいりきベア",
+  "created": "2023-05-01T02:24:53.199857Z",
+  "description": "本人上传\nBV号：BV12g411678x",
+  "difficulty": 15.600002,
+  "file": "https://phira.5wyxi.com/files/5dc3ab4d-82cd-4586-ae80-3691a72b8f04",
+  "id": 927,
+  "illustration": "https://phira.5wyxi.com/files/cefabb66-a2db-40f0-9c3a-4d827b655f88",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "バグ (Game ver.)",
+  "preview": "https://phira.5wyxi.com/files/4ab6a6f6-e192-4543-9d08-b1ebe01c0218",
+  "ranked": false,
+  "rating": 0.8535006,
+  "ratingCount": 848,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "PJSK",
+    "regular"
+  ],
+  "updated": "2023-05-20T13:10:02.940111Z",
+  "uploader": 4611
+}

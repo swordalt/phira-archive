@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:38Z",
+    "lastChanged": "2026-09-21T02:04:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-25T17:59:19.216248Z",
+  "charter": "Mcxian",
+  "composer": "nulut",
+  "created": "2026-04-25T17:59:19.216248Z",
+  "description": "曲名：ロウワー\n曲师：nulut\nBPM：132（264）\n谱师：Mcxian\n定数：IN Lv.16.2~16.5\n物量：1025\n线数：21\n事件数：2256\n\n好听，想写，然后就写了\n绝对不是某个大东西的预告（x）",
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/40e52b54-78fe-4905-88ef-950d13661305",
+  "id": 57115,
+  "illustration": "https://phira.5wyxi.com/files/7d4dd1db-e823-4e8e-8eba-efd4e7844bb3",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "ロウワー",
+  "preview": "https://phira.5wyxi.com/files/9fae1c99-7b32-45a5-9b5f-4fdcebdc7411",
+  "ranked": false,
+  "rating": 0.8887932,
+  "ratingCount": 210,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-04-25T17:59:19.216248Z",
+  "uploader": 273
+}

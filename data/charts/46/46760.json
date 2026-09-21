@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:35Z",
+    "lastChanged": "2026-09-21T02:06:35Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-13T15:40:54.586457Z",
+  "charter": "Andreu",
+  "composer": "Lunatic Sounds",
+  "created": "2025-09-13T15:40:54.586457Z",
+  "description": "尾杀预警",
+  "difficulty": 18.800003,
+  "file": "https://phira.5wyxi.com/files/b57c2802-1800-4e4a-bd33-21f50d230554",
+  "id": 46760,
+  "illustration": "https://phira.5wyxi.com/files/fae3e9ad-4e1c-459d-9f86-3369fc2cd182",
+  "illustrator": "",
+  "level": "AT Lv.18",
+  "name": "臨終",
+  "preview": "https://phira.5wyxi.com/files/48208b61-5ea1-4569-bf22-1c01505b30fd",
+  "ranked": false,
+  "rating": 0.7631769,
+  "ratingCount": 9,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-09-13T15:40:54.586457Z",
+  "uploader": 7166
+}

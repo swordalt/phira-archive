@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:38Z",
+    "lastChanged": "2026-09-21T02:03:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-09T12:22:30.158351Z",
+  "charter": "本-纪",
+  "composer": "崩坏学园2",
+  "created": "2025-08-08T13:49:16.144471Z",
+  "description": "3天共15h完成，新手写的不好。\n修复多键叠加，配置优化，难度降低。",
+  "difficulty": 15.3,
+  "file": "https://phira.5wyxi.com/files/48f48128-8574-493b-9da3-179e1cbdb6bf",
+  "id": 44058,
+  "illustration": "https://phira.5wyxi.com/files/109b4243-9d39-4478-af16-de764aff472e",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Arrhythmia to Wonderland",
+  "preview": "https://phira.5wyxi.com/files/411bf5aa-9f76-40b0-bee3-3d5c85b7b9af",
+  "ranked": false,
+  "rating": 0.9183183,
+  "ratingCount": 150,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-09T12:22:30.158351Z",
+  "uploader": 1431742
+}

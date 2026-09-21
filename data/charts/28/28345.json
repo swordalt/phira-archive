@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:42Z",
+    "lastChanged": "2026-09-21T02:02:42Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-10-05T00:53:53.704232Z",
+  "charter": "100F",
+  "composer": "F-777",
+  "created": "2024-10-05T00:53:53.704232Z",
+  "description": null,
+  "difficulty": 16.700003,
+  "file": "https://phira.5wyxi.com/files/ffef4a0e-2625-4a85-916b-2b3fecb99757",
+  "id": 28345,
+  "illustration": "https://phira.5wyxi.com/files/61398219-3e82-4156-8905-a2e84470e901",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Medusa",
+  "preview": "https://phira.5wyxi.com/files/f3ac660a-c3ee-4e4e-affc-208457fe4fdf",
+  "ranked": false,
+  "rating": 0.46028158,
+  "ratingCount": 220,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-10-05T00:53:53.704232Z",
+  "uploader": 819143
+}

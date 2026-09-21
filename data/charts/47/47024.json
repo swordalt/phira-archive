@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:52Z",
+    "lastChanged": "2026-09-21T02:03:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-21T04:49:04.144875Z",
+  "charter": "Baoguahui",
+  "composer": "YOASOBI",
+  "created": "2025-09-21T04:49:04.144875Z",
+  "description": null,
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/cf5c88e0-91f5-49ff-bad6-2afe34cfca3b",
+  "id": 47024,
+  "illustration": "https://phira.5wyxi.com/files/66a12d89-b81f-4970-8672-f1d5e11ae63d",
+  "illustrator": "",
+  "level": "IN.15",
+  "name": "勇者",
+  "preview": "https://phira.5wyxi.com/files/eda5974c-4ba8-457a-a9ca-c195b56f5023",
+  "ranked": false,
+  "rating": 0.8646603,
+  "ratingCount": 729,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-21T04:49:04.144875Z",
+  "uploader": 842565
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:00Z",
+    "lastChanged": "2026-09-21T02:02:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-29T13:22:49.872833Z",
+  "charter": "error258",
+  "composer": "Kobaryo,かめりあ",
+  "created": "2024-02-29T13:22:49.872833Z",
+  "description": null,
+  "difficulty": 16.700003,
+  "file": "https://phira.5wyxi.com/files/e53b2706-cce2-47f2-a782-2dabb031327f",
+  "id": 16557,
+  "illustration": "https://phira.5wyxi.com/files/103f0a96-2946-4ccb-a66b-a95f9500ec97",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Villian Virus",
+  "preview": "https://phira.5wyxi.com/files/672eb13b-7b20-4aa9-ac08-524da915da27",
+  "ranked": false,
+  "rating": 0.7993847,
+  "ratingCount": 629,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-03-01T02:37:28.151007Z",
+  "uploader": 458331
+}

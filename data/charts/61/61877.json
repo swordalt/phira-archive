@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:56Z",
+    "lastChanged": "2026-09-21T02:06:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-21T08:53:46.402569Z",
+  "charter": "r0不会打满叠",
+  "composer": "Ebimayo",
+  "created": "2026-06-21T08:53:46.402569Z",
+  "description": "bpm：221\nBroJack震撼来袭！",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/1a8c0848-d4af-41c8-b11e-989f5f9d916c",
+  "id": 61877,
+  "illustration": "https://phira.5wyxi.com/files/cb03fd02-e947-4901-97dc-6f326537051b",
+  "illustrator": "",
+  "level": "4K BroJack",
+  "name": "GOODBRO(Ebimayo REMIX)",
+  "preview": "https://phira.5wyxi.com/files/9dfc7657-af39-4b42-86a4-e5770c110c48",
+  "ranked": false,
+  "rating": 0.9264587,
+  "ratingCount": 53,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4k",
+    "叠",
+    "BroJack",
+    "plain"
+  ],
+  "updated": "2026-06-21T08:53:46.402569Z",
+  "uploader": 1276214
+}

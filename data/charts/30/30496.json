@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:50Z",
+    "lastChanged": "2026-09-21T02:02:50Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-05T10:16:21.203418Z",
+  "charter": "Supernorva & Plone_plone",
+  "composer": "Raimukun",
+  "created": "2024-12-07T09:57:24.413915Z",
+  "description": "本人上传，B站名@Supernorva\n发布手元录屏请@我\n视频：BV1bLBmYQEfM\n\n2024.12.7更新：修改了部分过于抽象的段落\n更新失误导致谱面数据清空，大家谅解（\n\n2025.2.5更新：修正了cb1737~cb1742处note异常问题\n\n2025.10.4更新：将难度从17.0调整至17.7",
+  "difficulty": 17.7,
+  "file": "https://phira.5wyxi.com/files/3dadd973-d631-4b07-a479-6d0be048402e",
+  "id": 30496,
+  "illustration": "https://phira.5wyxi.com/files/913693d5-bfe0-4498-b924-37fa304ae4b7",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Nyarlathotep's Dreamland",
+  "preview": "https://phira.5wyxi.com/files/834a2c50-19af-49e5-8d0f-05fae92531ec",
+  "ranked": false,
+  "rating": 0.8576068,
+  "ratingCount": 497,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-10-04T03:22:24.825424Z",
+  "uploader": 201637
+}

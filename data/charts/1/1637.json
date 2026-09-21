@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:09Z",
+    "lastChanged": "2026-09-21T02:01:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-11T07:27:18.494458Z",
+  "charter": "InterJoke",
+  "composer": "ARForest",
+  "created": "2023-05-11T07:27:18.494458Z",
+  "description": "2023微调版。BV1Y14y1e7Ma",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/4f812324-3090-468a-81d9-c8ce62e381db",
+  "id": 1637,
+  "illustration": "https://phira.5wyxi.com/files/4b6af548-e5f7-4f15-a9da-0f37624fe984",
+  "illustrator": "",
+  "level": "FM Lv.14",
+  "name": "Altros",
+  "preview": "https://phira.5wyxi.com/files/38e2b99a-225b-4189-a8a6-661b6a5d7ce4",
+  "ranked": true,
+  "rating": 0.89750236,
+  "ratingCount": 592,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "PABAT2017",
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 3017
+}

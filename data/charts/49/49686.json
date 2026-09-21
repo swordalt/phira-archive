@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:05Z",
+    "lastChanged": "2026-09-21T02:04:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-30T06:45:25.576978Z",
+  "charter": "FRZICE",
+  "composer": "Yunomi/nicamoq",
+  "created": "2025-11-30T06:45:25.576978Z",
+  "description": "爱听，好听，爱玩，好玩",
+  "difficulty": 13.500002,
+  "file": "https://phira.5wyxi.com/files/41a0c857-e52e-4111-94a6-ca5856042fe6",
+  "id": 49686,
+  "illustration": "https://phira.5wyxi.com/files/ad6187e7-2a91-4c8c-a4c1-31c35dd71755",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "東京シュノーケル",
+  "preview": "https://phira.5wyxi.com/files/6df3807f-b5a4-49b5-bee5-943e2d01067a",
+  "ranked": false,
+  "rating": 0.89398646,
+  "ratingCount": 124,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-11-30T06:45:25.576978Z",
+  "uploader": 893597
+}

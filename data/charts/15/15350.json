@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:56Z",
+    "lastChanged": "2026-09-21T02:01:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-11T12:31:09.136226Z",
+  "charter": "langexs vs FFXL",
+  "composer": "Sobrem a.k.a widowmaker",
+  "created": "2024-02-11T05:44:58.876344Z",
+  "description": "本谱为ACC小团体杯参赛谱面，由我和醋酸（b站：@langexs）共同完成",
+  "difficulty": 15.400001,
+  "file": "https://phira.5wyxi.com/files/0ee597fd-11fb-4700-9610-9a80d20b2bf4",
+  "id": 15350,
+  "illustration": "https://phira.5wyxi.com/files/f0ca5005-56a8-4dbb-8746-bd3415c89464",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Giselle",
+  "preview": "https://phira.5wyxi.com/files/fe92dfe3-0fad-42d9-adc7-fa58574e63aa",
+  "ranked": true,
+  "rating": 0.9365848,
+  "ratingCount": 2339,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "1stACC",
+    "regular"
+  ],
+  "updated": "2024-02-11T12:31:09.136226Z",
+  "uploader": 410
+}

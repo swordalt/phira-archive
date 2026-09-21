@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:25Z",
+    "lastChanged": "2026-09-21T02:02:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-24T08:31:18.029602Z",
+  "charter": "LaurAPking",
+  "composer": "Plum",
+  "created": "2024-07-24T08:31:18.029602Z",
+  "description": null,
+  "difficulty": 16.5,
+  "file": "https://phira.5wyxi.com/files/55be6e90-5b9c-46f7-a3bf-bb2eaa76705a",
+  "id": 24234,
+  "illustration": "https://phira.5wyxi.com/files/180670bf-63a5-4d07-8973-4db23403ccc7",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Tempest",
+  "preview": "https://phira.5wyxi.com/files/f7b6f39a-4df3-4ebe-a236-fcbba084b1ca",
+  "ranked": false,
+  "rating": 0.79089785,
+  "ratingCount": 83,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-07-05T01:26:42.095990Z",
+  "uploader": 783512
+}

@@ -1,0 +1,40 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:57Z",
+    "lastChanged": "2026-09-21T02:06:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-08T08:38:57.342624Z",
+  "charter": "HRS-Team",
+  "composer": "Zekk",
+  "created": "2026-07-08T08:38:57.342624Z",
+  "description": "HRS-Lv.16-Flow单曲",
+  "difficulty": 16.000002,
+  "file": "https://phira.5wyxi.com/files/9c5581c5-0b2b-4703-9583-dbac982be8e7",
+  "id": 64919,
+  "illustration": "https://phira.5wyxi.com/files/8b985bdb-996d-4b98-8e69-61202ba52c6a",
+  "illustrator": "",
+  "level": "Flow",
+  "name": "Zealous Hearts(Rayark Edit)",
+  "preview": "https://phira.5wyxi.com/files/a2e819a7-ae7b-4ee4-a4f3-e9d351acb0b2",
+  "ranked": false,
+  "rating": 0.8817029,
+  "ratingCount": 10,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "HRS",
+    "双指",
+    "谐律段位",
+    "16",
+    "Flow",
+    "幻",
+    "plain"
+  ],
+  "updated": "2026-07-08T08:38:57.342624Z",
+  "uploader": 2815373
+}

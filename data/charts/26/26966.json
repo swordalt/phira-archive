@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:37Z",
+    "lastChanged": "2026-09-21T02:02:37Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-27T18:48:49.952919Z",
+  "charter": "BigPigeon",
+  "composer": "saaa",
+  "created": "2024-08-27T00:13:13.751731Z",
+  "description": "Yuri Cup参赛谱面修改版。\n观赏表演的推荐宽高比为1.5。",
+  "difficulty": 16.400002,
+  "file": "https://phira.5wyxi.com/files/feb0c759-0f69-47da-8587-c65dd78a6bdf",
+  "id": 26966,
+  "illustration": "https://phira.5wyxi.com/files/37c06a9c-48e5-40ce-99af-86d671ddd26e",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "MORNINGLOOM",
+  "preview": "https://phira.5wyxi.com/files/ba9f80d9-2b16-4ba5-9ccf-9831a70c2484",
+  "ranked": false,
+  "rating": 0.78121173,
+  "ratingCount": 538,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-09-02T10:20:33.573141Z",
+  "uploader": 1174816
+}

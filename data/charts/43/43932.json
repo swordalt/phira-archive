@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:37Z",
+    "lastChanged": "2026-09-21T02:03:37Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-07T09:53:08.792034Z",
+  "charter": "Lychee",
+  "composer": "牛尾憲輔",
+  "created": "2025-08-07T09:53:08.792034Z",
+  "description": "牛尾宪辅的夜间巡航",
+  "difficulty": 6.0,
+  "file": "https://phira.5wyxi.com/files/ce297ddc-c529-4f72-8b74-41c8b1f703d1",
+  "id": 43932,
+  "illustration": "https://phira.5wyxi.com/files/7d08d3ea-4fb5-41e0-a538-fd4272d73e02",
+  "illustrator": "",
+  "level": "16",
+  "name": "Night Cruising 夜间巡航",
+  "preview": "https://phira.5wyxi.com/files/d4f1b74d-58d2-4a60-b047-a36f4edbfdf9",
+  "ranked": false,
+  "rating": 0.8119717,
+  "ratingCount": 824,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-07T09:53:08.792034Z",
+  "uploader": 1806797
+}

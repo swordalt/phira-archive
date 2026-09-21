@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:07:00Z",
+    "lastChanged": "2026-09-21T02:07:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-10T18:53:13.660464Z",
+  "charter": "「OVERNOVA」",
+  "composer": "Hexacube",
+  "created": "2026-08-10T18:53:13.660464Z",
+  "description": null,
+  "difficulty": 18.0,
+  "file": "https://phira.5wyxi.com/files/bc2f1d14-46ce-476b-8184-e4e1a187ab56",
+  "id": 72612,
+  "illustration": "https://phira.5wyxi.com/files/efc4dedc-c03f-49f8-8480-507f1e70e2fb",
+  "illustrator": "",
+  "level": "AT Lv.18",
+  "name": "Luminous Memory (Hexacube's OVERSHINE Remix)",
+  "preview": "https://phira.5wyxi.com/files/8317f502-488d-4f2b-9de5-8bc91c32caf0",
+  "ranked": false,
+  "rating": 0.93343496,
+  "ratingCount": 69,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "AT18",
+    "plain"
+  ],
+  "updated": "2026-08-10T18:53:13.660464Z",
+  "uploader": 1093915
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:37Z",
+    "lastChanged": "2026-09-21T02:01:37Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-10-14T11:28:57.096226Z",
+  "charter": "南瓜 x lage",
+  "composer": "LeaF",
+  "created": "2023-10-14T07:15:25.018179Z",
+  "description": "有个bug修了，再麻烦审核一下",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/7089a3d9-0a28-4d24-8279-25ec23befaf6",
+  "id": 10438,
+  "illustration": "https://phira.5wyxi.com/files/435dfab5-ecb3-44aa-a084-c9351b054d2c",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Calamity Fortune",
+  "preview": "https://phira.5wyxi.com/files/34d3c8e3-f0e6-4150-9015-a6c2ef8d08cd",
+  "ranked": false,
+  "rating": 0.877737,
+  "ratingCount": 286,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-10-14T11:28:57.096226Z",
+  "uploader": 482405
+}

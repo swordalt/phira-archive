@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:47Z",
+    "lastChanged": "2026-09-21T02:05:47Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-25T13:34:09.174894Z",
+  "charter": "C457",
+  "composer": "daniwellP",
+  "created": "2024-05-19T15:09:14.494873Z",
+  "description": "5.25 更新：\n调整00:01:16:10处配置不对音问题\n调整00:02:21:55处的配置",
+  "difficulty": 14.099996,
+  "file": "https://phira.5wyxi.com/files/6901c8c6-c1a7-4414-afe1-3ad7a779cc5f",
+  "id": 20161,
+  "illustration": "https://phira.5wyxi.com/files/2ce9e193-8d10-40f5-9ba5-8400ad958efe",
+  "illustrator": "",
+  "level": "4K",
+  "name": "ねこみみスイッチ",
+  "preview": "https://phira.5wyxi.com/files/001915ee-1da2-42c6-9fc2-8186679cdb91",
+  "ranked": false,
+  "rating": 0.9381518,
+  "ratingCount": 391,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "猫耳开关",
+    "初音ミク",
+    "plain"
+  ],
+  "updated": "2024-05-28T01:38:04.458168Z",
+  "uploader": 918785
+}

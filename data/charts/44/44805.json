@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:31Z",
+    "lastChanged": "2026-09-21T02:05:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-15T16:03:11.749545Z",
+  "charter": "DiAMONDGAMER",
+  "composer": "Celesti Whispers",
+  "created": "2025-08-15T16:03:11.749545Z",
+  "description": "本谱面是《节奏医生》 5-1 Lucky Break的还原向谱面，整张谱面还原了《节奏医生》的对应玩法，并不是常规谱面\n由本人上传（@DiAMONDGAMER）\n\n是的我觉得之前做的谱面不太满意于是又打算重构一遍www\n\n尽管电脑版无法上传成绩，我们仍然推荐你使用电脑版游玩，全键盘判定真的很方便诶！\n\n部分Shader渲染错误可尝试用电脑版解决，音质问题是祖传的难以修复（格式工厂你....）",
+  "difficulty": 3.8,
+  "file": "https://phira.5wyxi.com/files/f3eb9bda-0f3e-4d6c-bdd0-f150de2d930a",
+  "id": 44805,
+  "illustration": "https://phira.5wyxi.com/files/abdfbba8-bbb9-4675-9517-a9627fae2f03",
+  "illustrator": "",
+  "level": "RE:RD 5-1",
+  "name": "Lucky Break",
+  "preview": "https://phira.5wyxi.com/files/637f0ae4-6075-4c64-95f8-2af1b34db882",
+  "ranked": false,
+  "rating": 0.9692775,
+  "ratingCount": 187,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "节奏医生",
+    "还原",
+    "troll"
+  ],
+  "updated": "2025-08-15T16:03:11.749545Z",
+  "uploader": 2067
+}

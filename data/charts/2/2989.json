@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:14Z",
+    "lastChanged": "2026-09-21T02:01:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-06-04T13:49:55.450039Z",
+  "charter": "Yip.Chip",
+  "composer": "Camellia",
+  "created": "2023-06-04T13:49:55.450039Z",
+  "description": "",
+  "difficulty": 15.500005,
+  "file": "https://phira.5wyxi.com/files/688fb209-9810-4b36-a0d7-b13b0ff51964",
+  "id": 2989,
+  "illustration": "https://phira.5wyxi.com/files/df87a2bd-19fd-4512-9bf1-6825f0971da5",
+  "illustrator": "",
+  "level": "IN",
+  "name": "Alone Intelligence",
+  "preview": "https://phira.5wyxi.com/files/4f731acf-2ad8-40e2-92ee-ac854491fc64",
+  "ranked": false,
+  "rating": 0.84090424,
+  "ratingCount": 287,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-06-04T13:49:55.450039Z",
+  "uploader": 22172
+}

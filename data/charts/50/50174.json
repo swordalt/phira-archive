@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:06Z",
+    "lastChanged": "2026-09-21T02:04:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-13T12:28:39.336288Z",
+  "charter": "GT_Alpha",
+  "composer": "shiraishi",
+  "created": "2025-12-13T12:28:39.336288Z",
+  "description": "本人B站：GT_Alpha\n第一次上传难度谱并尝试了一些新配置，希望大家喜欢",
+  "difficulty": 17.300001,
+  "file": "https://phira.5wyxi.com/files/a3e6f516-3ed6-4282-b276-90ed3c3f22ca",
+  "id": 50174,
+  "illustration": "https://phira.5wyxi.com/files/469a9fe1-76c8-4365-a7f7-98ea955b4633",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Loki",
+  "preview": "https://phira.5wyxi.com/files/fada7e42-0350-4406-a9c1-433684d75672",
+  "ranked": false,
+  "rating": 0.94639665,
+  "ratingCount": 298,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-12-13T12:28:39.336288Z",
+  "uploader": 1609656
+}

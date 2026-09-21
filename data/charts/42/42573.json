@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:32Z",
+    "lastChanged": "2026-09-21T02:03:32Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-24T03:08:52.212407Z",
+  "charter": "华庆铮 on - 門 化 光 -",
+  "composer": "litmus*",
+  "created": "2025-07-24T03:08:52.212407Z",
+  "description": "┃Flashdance #4\n游玩过程中可能有未知bug\n谱师已在谱面演示视频评论确认为本人上传\n\n定数  15.3\n物量  808\n判定线  21\nfakenote 229\n事件  7800+\n制谱时长  约35h\n时间跨度  约1个月\n\n谱面演示：\nhttps://b23.tv/mFZ3WPY",
+  "difficulty": 15.300001,
+  "file": "https://phira.5wyxi.com/files/4c082c0f-f9e2-4da4-88be-b7a61e6f14cd",
+  "id": 42573,
+  "illustration": "https://phira.5wyxi.com/files/fd83ae7b-6c01-4b84-b580-8f4316fd37cb",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Flashdance",
+  "preview": "https://phira.5wyxi.com/files/25175aba-b9ac-402a-ad26-113703997e41",
+  "ranked": false,
+  "rating": 0.89817965,
+  "ratingCount": 121,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "G2R2018",
+    "regular"
+  ],
+  "updated": "2025-07-24T03:08:52.212407Z",
+  "uploader": 283881
+}

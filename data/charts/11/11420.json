@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:40Z",
+    "lastChanged": "2026-09-21T02:01:40Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-11-12T09:08:35.809429Z",
+  "charter": "zdself",
+  "composer": "Charter: zdself",
+  "created": "2023-11-12T09:08:35.809429Z",
+  "description": null,
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/2bc1c995-b871-472e-94e0-5e18175648ba",
+  "id": 11420,
+  "illustration": "https://phira.5wyxi.com/files/32fb0a95-07a5-434a-92ae-8228f3ce1cd2",
+  "illustrator": "",
+  "level": "0",
+  "name": "the end",
+  "preview": "https://phira.5wyxi.com/files/4c28648f-c8f4-4d92-87b7-025703508dbe",
+  "ranked": false,
+  "rating": 0.8084239,
+  "ratingCount": 261,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-11-12T09:08:35.809429Z",
+  "uploader": 306077
+}

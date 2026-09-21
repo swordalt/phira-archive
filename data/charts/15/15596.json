@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:57Z",
+    "lastChanged": "2026-09-21T02:01:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-13T14:39:52.526563Z",
+  "charter": "6thPecJam",
+  "composer": "shallou&Wales",
+  "created": "2024-02-13T14:39:52.526563Z",
+  "description": "新人二谱（非音游曲还是太难写了（崩溃）",
+  "difficulty": 14.200001,
+  "file": "https://phira.5wyxi.com/files/9b71fde8-8aab-4047-8402-2b16e561d290",
+  "id": 15596,
+  "illustration": "https://phira.5wyxi.com/files/31512c93-1a5b-4a23-b439-01e8cab5fdb4",
+  "illustrator": "",
+  "level": "Lv.14.2",
+  "name": "Begin(feat. Whales)",
+  "preview": "https://phira.5wyxi.com/files/24316d2c-e7dd-41e4-9351-a28d790feea6",
+  "ranked": false,
+  "rating": 0.6619524,
+  "ratingCount": 100,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2024-03-09T15:24:17.835540Z",
+  "uploader": 188256
+}

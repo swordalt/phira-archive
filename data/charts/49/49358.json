@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:03Z",
+    "lastChanged": "2026-09-21T02:04:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-22T01:29:34.026127Z",
+  "charter": "薛定谔の猫",
+  "composer": "醉雪、徐一",
+  "created": "2025-11-22T01:29:34.026127Z",
+  "description": "谱师本人，一张简单的多指入门谱",
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/c8fb48d5-ee7d-4070-8a39-75b6925afd95",
+  "id": 49358,
+  "illustration": "https://phira.5wyxi.com/files/6179361f-b477-4c69-9f51-9eb91326ff5d",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "你如何形容夏天",
+  "preview": "https://phira.5wyxi.com/files/f8ca93ff-2ca7-46ed-80b7-4f5c11d1464a",
+  "ranked": false,
+  "rating": 0.9540775,
+  "ratingCount": 804,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-11-22T01:29:34.026127Z",
+  "uploader": 1614899
+}

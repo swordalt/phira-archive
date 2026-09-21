@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:05Z",
+    "lastChanged": "2026-09-21T02:01:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-04-02T08:24:52.826382Z",
+  "charter": "Karlott",
+  "composer": "Aoi",
+  "created": "2023-04-02T08:24:52.826382Z",
+  "description": "（早期谱）本人上传，欢迎在b站关注 @Kenny_KLT 以获取更多自制谱更新信息～",
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/53dad911-a5ee-4e79-9a8c-be3b8b554c80",
+  "id": 348,
+  "illustration": "https://phira.5wyxi.com/files/6ea05150-240b-4b18-965a-e1bc4a449062",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Eggdrasil",
+  "preview": "https://phira.5wyxi.com/files/6c2cb8ce-1b0a-487f-885c-261b49acb721",
+  "ranked": false,
+  "rating": 0.76972324,
+  "ratingCount": 380,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular",
+    "art"
+  ],
+  "updated": "2024-01-23T12:53:47.981581Z",
+  "uploader": 44
+}

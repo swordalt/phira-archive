@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:27Z",
+    "lastChanged": "2026-09-21T02:03:27Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-08T01:29:16.747608Z",
+  "charter": "himjj541",
+  "composer": "CG5",
+  "created": "2025-07-08T01:29:16.747608Z",
+  "description": null,
+  "difficulty": 12.0,
+  "file": "https://phira.5wyxi.com/files/c518c3ff-423c-4c2f-9562-8fc08aed52d4",
+  "id": 41135,
+  "illustration": "https://phira.5wyxi.com/files/14d70de3-ac3a-491d-a683-eee54b17b86e",
+  "illustrator": "",
+  "level": "IN Lv.12",
+  "name": "Ruined Lullaby",
+  "preview": "https://phira.5wyxi.com/files/e516073c-8a63-4daf-9ce7-7ef2814d7789",
+  "ranked": false,
+  "rating": 0.9421478,
+  "ratingCount": 69,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-07-08T01:29:16.747608Z",
+  "uploader": 1643932
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:14Z",
+    "lastChanged": "2026-09-21T02:03:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-26T11:48:47.203458Z",
+  "charter": "778Y0E and SZhengG fixed by 778Y0E",
+  "composer": "Tatsunoshin",
+  "created": "2025-04-26T11:48:47.203458Z",
+  "description": "FJB比赛特供谱面，AT追加",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/359b98ae-b1fb-4c78-b058-fcff3c4b86d7",
+  "id": 37013,
+  "illustration": "https://phira.5wyxi.com/files/78bb0866-f25b-41f1-ba4a-289ac155d937",
+  "illustrator": "",
+  "level": "AT Lv.17-",
+  "name": "Home Alone 2024",
+  "preview": "https://phira.5wyxi.com/files/71ae68fb-1fe1-4a8e-8925-cbde2291c525",
+  "ranked": false,
+  "rating": 0.82403237,
+  "ratingCount": 27,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "比赛",
+    "regular"
+  ],
+  "updated": "2025-04-26T11:48:47.203458Z",
+  "uploader": 676207
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:52Z",
+    "lastChanged": "2026-09-21T02:03:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-21T01:50:55.908963Z",
+  "charter": "Family_PHIRA",
+  "composer": "符白牙",
+  "created": "2025-09-21T01:50:55.908963Z",
+  "description": "Family的第一个谱可能有些不好，请大家谅解",
+  "difficulty": 10.6,
+  "file": "https://phira.5wyxi.com/files/fdef0c5a-9231-4310-8588-34e72e481ddd",
+  "id": 47015,
+  "illustration": "https://phira.5wyxi.com/files/dc2d40f1-5049-48b0-a032-efb82a4a698f",
+  "illustrator": "",
+  "level": "HD.LV.10",
+  "name": "云女孩",
+  "preview": "https://phira.5wyxi.com/files/8e88615d-68c4-47df-a6e8-e75486ca07f9",
+  "ranked": false,
+  "rating": 0.79279333,
+  "ratingCount": 271,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-21T01:50:55.908963Z",
+  "uploader": 1918440
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:34Z",
+    "lastChanged": "2026-09-21T02:04:34Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-05T15:14:44.196483Z",
+  "charter": "Haru_12",
+  "composer": "cYsmix",
+  "created": "2026-04-05T15:14:44.196483Z",
+  "description": "0thpecjam RG159\n本人上传",
+  "difficulty": 14.300001,
+  "file": "https://phira.5wyxi.com/files/55183cec-4f24-47cb-b94d-c66e99a7fdcd",
+  "id": 55123,
+  "illustration": "https://phira.5wyxi.com/files/d03b39ee-5d90-477c-b41f-c6499d27b6ac",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Peer Gynt",
+  "preview": "https://phira.5wyxi.com/files/22b66237-f797-42e3-a4c7-87587e0fb170",
+  "ranked": true,
+  "rating": 0.89260125,
+  "ratingCount": 366,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "0thPecJam",
+    "regular"
+  ],
+  "updated": "2026-04-05T15:14:44.196483Z",
+  "uploader": 50884
+}

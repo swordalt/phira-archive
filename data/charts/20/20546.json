@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:24Z",
+    "lastChanged": "2026-09-21T02:05:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-31T05:19:48.484340Z",
+  "charter": "KA",
+  "composer": "闫东炜",
+  "created": "2024-05-31T05:19:48.484340Z",
+  "description": "ilibilib：KASTATION",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/c0478817-21aa-40c3-8ca3-28c6693f7129",
+  "id": 20546,
+  "illustration": "https://phira.5wyxi.com/files/a98f8efe-e10a-43cb-9be8-51922883473a",
+  "illustrator": "",
+  "level": "SP Lv.16.9",
+  "name": "风屿",
+  "preview": "https://phira.5wyxi.com/files/c382b54e-fcad-40db-b10c-ea216bf34064",
+  "ranked": false,
+  "rating": 0.7156896,
+  "ratingCount": 247,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "奋谱",
+    "troll"
+  ],
+  "updated": "2024-06-03T10:23:49.105428Z",
+  "uploader": 705229
+}

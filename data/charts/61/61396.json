@@ -1,0 +1,40 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:54Z",
+    "lastChanged": "2026-09-21T02:06:54Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-19T03:16:13.082637Z",
+  "charter": "HRS-Team",
+  "composer": "kanone",
+  "created": "2026-06-19T03:16:13.082637Z",
+  "description": "HRS-Lv.11-Pattern单曲",
+  "difficulty": 11.400002,
+  "file": "https://phira.5wyxi.com/files/cdd7fefb-f91e-4333-9907-e65b5c896312",
+  "id": 61396,
+  "illustration": "https://phira.5wyxi.com/files/9ebf008c-4403-47d1-b449-7cf49e216ef0",
+  "illustrator": "",
+  "level": "Pattern",
+  "name": "CO5M1C R4ILR0AD",
+  "preview": "https://phira.5wyxi.com/files/1eb9c081-b479-4e51-a7ca-ab1b7090ebab",
+  "ranked": false,
+  "rating": 0.93352246,
+  "ratingCount": 50,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "HRS",
+    "双指",
+    "谐律段位",
+    "11",
+    "Pattern",
+    "瞬",
+    "plain"
+  ],
+  "updated": "2026-06-19T03:16:13.082637Z",
+  "uploader": 2254643
+}

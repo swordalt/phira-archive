@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:32Z",
+    "lastChanged": "2026-09-21T02:03:32Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-22T13:05:34.389258Z",
+  "charter": "111",
+  "composer": "Elodism",
+  "created": "2025-07-22T13:05:34.389258Z",
+  "description": "谱面为本人上传\n\n该谱面为【云梦•始源】比赛供谱\n首次登场于EX区24进16小组赛第一场\n\n谱面名称：末世論 ~混沌から産まれた思い~\n曲师：@Elodism \n难度：IN Lv.16\n物量：1580\n",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/0937419a-bef8-410d-841b-1137d06806c0",
+  "id": 42450,
+  "illustration": "https://phira.5wyxi.com/files/10ad31d7-cf4a-45a5-8ea1-89d567a1eb44",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "末世論 ~混沌から産まれた思い~",
+  "preview": "https://phira.5wyxi.com/files/69f33fcd-5391-4983-a8db-8cdf0041a04d",
+  "ranked": false,
+  "rating": 0.9212964,
+  "ratingCount": 149,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "云梦杯",
+    "regular"
+  ],
+  "updated": "2025-07-22T13:05:34.389258Z",
+  "uploader": 47432
+}

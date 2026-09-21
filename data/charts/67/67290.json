@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:00Z",
+    "lastChanged": "2026-09-21T02:05:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-29T01:31:09.657891Z",
+  "charter": "KX-Dorago",
+  "composer": "Tatsunoshin x Juggernaut.",
+  "created": "2026-07-17T13:58:02.397298Z",
+  "description": "该谱面为 WSRT x 云梦杯 比赛供谱\n首次登场于S区半决赛\n\n谱师本人上传\n合作谱师：\n@Kamoi#165742",
+  "difficulty": 16.400002,
+  "file": "https://phira.5wyxi.com/files/4ae7c24d-ad19-4a2f-a0bd-1f37747dedd8",
+  "id": 67290,
+  "illustration": "https://phira.5wyxi.com/files/6e09ff76-cba9-4023-85d9-73aa179fb879",
+  "illustrator": "",
+  "level": "IN  Lv.16",
+  "name": "El-Dorago",
+  "preview": "https://phira.5wyxi.com/files/6db3cc20-eb76-487d-a79d-4a5f6059cf90",
+  "ranked": false,
+  "rating": 0.914594,
+  "ratingCount": 291,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "WSRTx云梦杯",
+    "沉坠破晓",
+    "云梦杯",
+    "WSRT",
+    "regular"
+  ],
+  "updated": "2026-07-29T01:31:09.657891Z",
+  "uploader": 17698
+}

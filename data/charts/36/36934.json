@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:14Z",
+    "lastChanged": "2026-09-21T02:03:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-24T17:32:32.954766Z",
+  "charter": "爱丽丝快跑",
+  "composer": "Kobaryo",
+  "created": "2025-04-24T17:32:32.954766Z",
+  "description": null,
+  "difficulty": 16.6,
+  "file": "https://phira.5wyxi.com/files/33fd5bcb-cdde-4306-8c4f-bcd6dae9fedd",
+  "id": 36934,
+  "illustration": "https://phira.5wyxi.com/files/4aad877c-3b30-46e8-959f-59fdbbb7c9ac",
+  "illustrator": "",
+  "level": "AT",
+  "name": "Radical Jinja",
+  "preview": "https://phira.5wyxi.com/files/5165e239-b5cf-46c4-8142-74b37667edb3",
+  "ranked": false,
+  "rating": 0.79716223,
+  "ratingCount": 32,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-04-24T17:32:32.954766Z",
+  "uploader": 891630
+}

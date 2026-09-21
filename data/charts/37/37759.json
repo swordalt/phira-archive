@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:14Z",
+    "lastChanged": "2026-09-21T02:06:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-07T09:54:30.344073Z",
+  "charter": "moonnicholas",
+  "composer": "aa...hisuichazuke...",
+  "created": "2025-05-07T05:46:18.514533Z",
+  "description": "本人上傳 https://osu.ppy.sh/beatmapsets/2352253",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/27f666e1-da2b-405d-9a58-91ec4078dccc",
+  "id": 37759,
+  "illustration": "https://phira.5wyxi.com/files/2cd27485-0358-45b2-96bd-64c1c385991f",
+  "illustrator": "",
+  "level": "7k Lv.4.88*",
+  "name": "steganography",
+  "preview": "https://phira.5wyxi.com/files/8002b863-6c9c-44f7-83c3-5f289be663c9",
+  "ranked": false,
+  "rating": 0.91343486,
+  "ratingCount": 55,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "7k",
+    "plain"
+  ],
+  "updated": "2025-05-07T09:54:30.344073Z",
+  "uploader": 26883
+}

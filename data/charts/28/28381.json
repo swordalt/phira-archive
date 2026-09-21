@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:42Z",
+    "lastChanged": "2026-09-21T02:02:42Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-10-05T23:09:18.301509Z",
+  "charter": "Bad Srec!!",
+  "composer": "nomico",
+  "created": "2024-10-05T23:09:18.301509Z",
+  "description": null,
+  "difficulty": 13.800003,
+  "file": "https://phira.5wyxi.com/files/799d309b-d56e-4e85-b791-52be58017b22",
+  "id": 28381,
+  "illustration": "https://phira.5wyxi.com/files/74ff13f6-c77e-42e9-bea1-43b408243a05",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "Bad Apple!!",
+  "preview": "https://phira.5wyxi.com/files/e1127b96-5b43-4da1-951e-3112b886f177",
+  "ranked": false,
+  "rating": 0.93166584,
+  "ratingCount": 8906,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-10-05T23:09:18.301509Z",
+  "uploader": 825
+}

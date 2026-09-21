@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:56Z",
+    "lastChanged": "2026-09-21T02:01:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-12T06:12:45.529793Z",
+  "charter": "BOX-2000.",
+  "composer": "MYUKKE.",
+  "created": "2024-02-12T06:12:45.529793Z",
+  "description": "本谱面由谱师本人上传，B 站@盒子2000の秘密桃源",
+  "difficulty": 14.3,
+  "file": "https://phira.5wyxi.com/files/ce84525f-708b-4b88-a6fa-cd2fba100690",
+  "id": 15446,
+  "illustration": "https://phira.5wyxi.com/files/f0f219ba-c58d-4372-978f-f4bebde3e728",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "AKKERA-COUNTRY-BOY",
+  "preview": "https://phira.5wyxi.com/files/970720ec-0836-4e3e-875c-1722460a7ce6",
+  "ranked": true,
+  "rating": 0.90516824,
+  "ratingCount": 559,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-02-12T06:12:45.529793Z",
+  "uploader": 136094
+}

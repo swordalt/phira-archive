@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:46Z",
+    "lastChanged": "2026-09-21T02:02:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-11-14T16:08:05.193785Z",
+  "charter": "NewMan!!!",
+  "composer": "Xomu",
+  "created": "2024-11-14T16:08:05.193785Z",
+  "description": "原谱于2023年发布\n\n更新说明：\n2024.10.4(发过一次但是被吞了)\n基本上全重做，优化大部分特效和动效以及配置，最主要的解决初见杀和踩音问题，原本是打算之前就发，奈何网络问题一直登不上账号，让大家玩到这么一个早期“答辩”真的很不好意思\n定数规定14.1(在官方可能就14.0，但是不希望那么低)\n于哔哩哔哩已经发布了展示视频(序列号：BV1aHHxegE6a)，如果需要发布手元请@谱师",
+  "difficulty": 14.1,
+  "file": "https://phira.5wyxi.com/files/21f912de-28a5-4847-9168-aa49cfb14ab5",
+  "id": 29665,
+  "illustration": "https://phira.5wyxi.com/files/44320a9e-b53a-47cf-8a20-1f0988ee2f33",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Tera",
+  "preview": "https://phira.5wyxi.com/files/cfd682c6-c0bf-4feb-9f52-85033c8f0866",
+  "ranked": false,
+  "rating": 0.91517174,
+  "ratingCount": 160,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-11-14T16:08:05.193785Z",
+  "uploader": 338
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:34Z",
+    "lastChanged": "2026-09-21T02:02:34Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-15T10:08:50.138819Z",
+  "charter": "DDC0v0",
+  "composer": "Chinozo  feat.KafU",
+  "created": "2024-08-15T10:08:50.138819Z",
+  "description": "谱师本人上传。看不见的黄键有垂判，不用管就行。",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/10f60f85-2b77-4475-b65f-5eb45c4db775",
+  "id": 26316,
+  "illustration": "https://phira.5wyxi.com/files/b8257f1e-0d8f-4c84-a8fe-9f8732cae51f",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "チーズ",
+  "preview": "https://phira.5wyxi.com/files/37ceec09-7666-452d-8d4e-739ed095e116",
+  "ranked": false,
+  "rating": 0.92420274,
+  "ratingCount": 1071,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-15T10:08:50.138819Z",
+  "uploader": 405
+}

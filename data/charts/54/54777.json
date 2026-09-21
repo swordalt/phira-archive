@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:32Z",
+    "lastChanged": "2026-09-21T02:04:32Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-30T12:53:58.171357Z",
+  "charter": "Encly",
+  "composer": "AntiPLUR",
+  "created": "2026-03-30T12:53:58.171357Z",
+  "description": "谱师B站@ty天远\r\n非常经典的一首曲子。 虽然整张谱面算半个纯下落但还是加了不少自己的小巧思在里面\r\n写了一些“可以让玩家自由发挥解法”的配置，大伙可能一眼就能看出来\r\n最后就是 本谱部分参考了tera在Malody 4K Extra Final Dan切里的配置思路 我很喜欢那张谱",
+  "difficulty": 16.800003,
+  "file": "https://phira.5wyxi.com/files/07dc41d1-4e0b-48fb-afbe-b5595c37e967",
+  "id": 54777,
+  "illustration": "https://phira.5wyxi.com/files/7b1afb05-59d3-461c-8b7d-26d1907cda26",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Runengon",
+  "preview": "https://phira.5wyxi.com/files/4d13a49a-0fd2-4dba-ba46-43acb977f105",
+  "ranked": false,
+  "rating": 0.839745,
+  "ratingCount": 140,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-03-30T12:53:58.171357Z",
+  "uploader": 1925
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:36Z",
+    "lastChanged": "2026-09-21T02:02:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-22T00:22:01.904694Z",
+  "charter": "Pigeon-chan",
+  "composer": "nanobii",
+  "created": "2024-08-22T00:22:01.904694Z",
+  "description": "游玩键鼠模式vrc一会后发现没什么好玩的，遂启动RPE写了个爽\n后面那段反手灵感来自Arcaea自制经历（",
+  "difficulty": 13.9,
+  "file": "https://phira.5wyxi.com/files/8f29b923-6552-488a-9138-8354330dd9dd",
+  "id": 26697,
+  "illustration": "https://phira.5wyxi.com/files/c68ae9bf-79eb-42b9-954a-8ead0a101b1b",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Rainbow Road",
+  "preview": "https://phira.5wyxi.com/files/4ee39b00-025b-4237-9e05-e0d0267bb792",
+  "ranked": false,
+  "rating": 0.93414295,
+  "ratingCount": 178,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-22T00:22:01.904694Z",
+  "uploader": 8641
+}

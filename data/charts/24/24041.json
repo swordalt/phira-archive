@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:25Z",
+    "lastChanged": "2026-09-21T02:02:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-22T06:12:29.220910Z",
+  "charter": "Herrnchi",
+  "composer": "nogi",
+  "created": "2024-07-22T06:12:29.220910Z",
+  "description": "该谱面由谱师本人上传（B站：Herrnchi）",
+  "difficulty": 15.2,
+  "file": "https://phira.5wyxi.com/files/8f2c5e20-8c67-4cd5-ad25-10f08276a893",
+  "id": 24041,
+  "illustration": "https://phira.5wyxi.com/files/e15fa208-6359-45d1-823e-eb20a8ec6be2",
+  "illustrator": "",
+  "level": "AF Lv.15",
+  "name": "オートフォーカス",
+  "preview": "https://phira.5wyxi.com/files/5bd079e7-9b98-4107-9d6e-aa22885bbc32",
+  "ranked": false,
+  "rating": 0.91779226,
+  "ratingCount": 153,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "VOCALOID",
+    "regular"
+  ],
+  "updated": "2024-07-22T06:12:29.220910Z",
+  "uploader": 209832
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:11Z",
+    "lastChanged": "2026-09-21T02:05:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-21T09:06:41.373554Z",
+  "charter": "light_down",
+  "composer": "Kobaryo vs HyuN",
+  "created": "2026-08-21T09:06:41.373554Z",
+  "description": "新人二谱喵",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/ed0307fa-a3f2-41a9-ab94-492ebef2c0bc",
+  "id": 74795,
+  "illustration": "https://phira.5wyxi.com/files/ee8c93bf-90bf-4336-9be2-12fe4d78c389",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Dual Doom Deathmatch",
+  "preview": "https://phira.5wyxi.com/files/ff8fbe5e-aeca-4d92-b207-d21b075356b2",
+  "ranked": false,
+  "rating": 0.8506687,
+  "ratingCount": 67,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-21T09:06:41.373554Z",
+  "uploader": 3651
+}

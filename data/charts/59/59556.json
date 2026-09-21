@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:45Z",
+    "lastChanged": "2026-09-21T02:04:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-02T10:39:23.456704Z",
+  "charter": "没灵感了就这样吧",
+  "composer": "Panda Eyes/Teminite",
+  "created": "2026-05-30T15:44:24.771709Z",
+  "description": "曲名:Highscore\n曲师:Panda Eyes/Teminite\n封面:Unkown\n谱师:没灵感了就这样吧\n速度:110\n事件:10718\n物量:2026\n难度:EX Lv.∅\n线数:150\n++++++++++++++++++++\n谱师1:@样本标准差#8368 (大部分配置及部分表演)\n谱师2:@qwq1212#54401 (大部分配置及部分表演)\n谱师3:@黎久awa#2079128 (大部分表演及部分配置)",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/5952fecd-b7fd-4e18-9789-6eee1f230ced",
+  "id": 59556,
+  "illustration": "https://phira.5wyxi.com/files/a49c010a-23ef-465b-9e04-d18c165ed442",
+  "illustrator": "",
+  "level": "EX Lv.∅",
+  "name": "Highscore",
+  "preview": "https://phira.5wyxi.com/files/7fa56ccb-3912-478a-b15b-1772286adfb0",
+  "ranked": false,
+  "rating": 0.8900978,
+  "ratingCount": 942,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-02T10:39:23.456704Z",
+  "uploader": 8368
+}

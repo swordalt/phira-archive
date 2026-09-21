@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:38Z",
+    "lastChanged": "2026-09-21T02:05:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-11-05T11:58:23.248650Z",
+  "charter": "Zapper",
+  "composer": "gcmstyle",
+  "created": "2023-11-05T11:58:23.248650Z",
+  "description": "谱师上传，难度不是很友好请见谅（）",
+  "difficulty": 30.0,
+  "file": "https://phira.5wyxi.com/files/44cdede2-8c14-4a48-8238-1066076c2231",
+  "id": 11215,
+  "illustration": "https://phira.5wyxi.com/files/b45ddf56-59b6-4711-850a-8a88a79bb780",
+  "illustrator": "",
+  "level": "4K Challenge Lv.30",
+  "name": "人生",
+  "preview": "https://phira.5wyxi.com/files/c373364d-575e-41a5-8801-ad9b4a7e3d59",
+  "ranked": false,
+  "rating": 0.9158341,
+  "ratingCount": 610,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2023-11-05T11:58:23.248650Z",
+  "uploader": 526214
+}

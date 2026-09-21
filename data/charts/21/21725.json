@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:18Z",
+    "lastChanged": "2026-09-21T02:02:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-06-22T22:22:55.092507Z",
+  "charter": "米津八爷",
+  "composer": "DECO*27",
+  "created": "2024-06-22T22:22:55.092507Z",
+  "description": "修了个bug",
+  "difficulty": 15.300001,
+  "file": "https://phira.5wyxi.com/files/9f26a285-5ca0-4e5e-ae51-b3a8326e8519",
+  "id": 21725,
+  "illustration": "https://phira.5wyxi.com/files/d840eef2-d25e-4b3c-a2ee-f6ac5da07bca",
+  "illustrator": "",
+  "level": "Ghost Lv.15",
+  "name": "ゴーストルール",
+  "preview": "https://phira.5wyxi.com/files/159f1daf-2a7d-455f-900c-06ed9fa6281f",
+  "ranked": false,
+  "rating": 0.93286914,
+  "ratingCount": 1097,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "VOCALOID",
+    "regular"
+  ],
+  "updated": "2024-06-22T22:22:55.092507Z",
+  "uploader": 771561
+}

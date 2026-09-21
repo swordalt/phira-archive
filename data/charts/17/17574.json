@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:05Z",
+    "lastChanged": "2026-09-21T02:02:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-27T19:24:30.143052Z",
+  "charter": "秋山",
+  "composer": "黒皇帝",
+  "created": "2024-03-26T05:06:10.267680Z",
+  "description": "谱面更新，更新内容：\n删减红键四押\n改善了一处纵连的手感\n长交互段增加了判定线的摆动\n部分动画作了调整和修正\n增加新动画\n本稿为终稿，非bug不清榜修正，如有评论仍欢迎前来评论： https://www.bilibili.com/video/BV15Z421t7Px/\n为改良铺面不得不清榜非常抱歉！\n——以下为原简介内容——\n难点：\n黄键海\n长难交互\n底力爆发\n换手黄条\n多指基本刚需\n\n解谱要点：\n垂直判定\n多指糊黄\n\n第一个高难底力谱，再次提醒结尾底力高能！感谢IEX的指导修正以及Lita1004的宝贵建议，也感谢评论区指导的各位\n注：若谱面被证实为良谱，功劳全在于各位在评论区的指导和大佬的建议。若仍有缺陷，则必是鄙人未明要理，与幕后指导的大佬们无关，如有意见请务必来视频下方评论区留言，有评必回。\nup：梦仙-林溪山人\n难点解析，解谱提示均在评论区下方",
+  "difficulty": 15.9,
+  "file": "https://phira.5wyxi.com/files/6d3619df-1497-4b0b-88b2-827fb15a0980",
+  "id": 17574,
+  "illustration": "https://phira.5wyxi.com/files/45eb7243-4ff2-4840-9ad2-1981643ea78a",
+  "illustrator": "",
+  "level": "EX Lv.15",
+  "name": "Chronostasis",
+  "preview": "https://phira.5wyxi.com/files/6af1ec9d-0373-4179-9483-001072ceb8b2",
+  "ranked": false,
+  "rating": 0.8892556,
+  "ratingCount": 1922,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-03-27T19:24:30.143052Z",
+  "uploader": 761128
+}

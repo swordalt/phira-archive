@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "visual"
+    ],
+    "firstSeen": "2026-09-21T02:07:08Z",
+    "lastChanged": "2026-09-21T02:07:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-18T20:57:06.172343Z",
+  "charter": "Mau",
+  "composer": "Frums (unknown \"λ\")",
+  "created": "2026-07-18T20:57:06.172343Z",
+  "description": "老早前的谱了，我把判死问题修了一下，非常规谱",
+  "difficulty": 15.900001,
+  "file": "https://phira.5wyxi.com/files/d9762573-8009-4ee0-a89e-9fe6dda533b8",
+  "id": 67607,
+  "illustration": "https://phira.5wyxi.com/files/7201acc8-8b4f-46be-ab2f-bbab576bb825",
+  "illustrator": "",
+  "level": "Lv.?",
+  "name": "19ZZ",
+  "preview": "https://phira.5wyxi.com/files/c0638f67-62c3-4e68-8239-a00200839589",
+  "ranked": false,
+  "rating": 0.8537951,
+  "ratingCount": 9,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Frums",
+    "visual"
+  ],
+  "updated": "2026-09-14T08:34:36.189090Z",
+  "uploader": 9570
+}

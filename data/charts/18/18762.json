@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:23Z",
+    "lastChanged": "2026-09-21T02:05:23Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-21T07:53:59.509225Z",
+  "charter": "飞惪更高",
+  "composer": "Jordan Lee",
+  "created": "2024-04-21T07:53:59.509225Z",
+  "description": null,
+  "difficulty": 17.099995,
+  "file": "https://phira.5wyxi.com/files/64ade7f7-20a9-4d93-b803-62e8ea3d8114",
+  "id": 18762,
+  "illustration": "https://phira.5wyxi.com/files/70b11c03-fed0-4190-b2fb-f25956b3b24a",
+  "illustrator": "",
+  "level": "AT LV.17",
+  "name": "windows redzone",
+  "preview": "https://phira.5wyxi.com/files/9f0ea47b-5a35-4618-95ca-54219d214d62",
+  "ranked": false,
+  "rating": 0.83197826,
+  "ratingCount": 133,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-04-21T07:53:59.509225Z",
+  "uploader": 91917
+}

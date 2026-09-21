@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:04Z",
+    "lastChanged": "2026-09-21T02:03:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-15T04:18:47.337798Z",
+  "charter": "AL.tourant",
+  "composer": "TJ.hangneil",
+  "created": "2025-02-15T04:18:47.337798Z",
+  "description": null,
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/af8a5976-3785-4a5f-a395-e2fe36bbb505",
+  "id": 34051,
+  "illustration": "https://phira.5wyxi.com/files/029977e5-f083-4570-9d30-cf4b7ebaf3e4",
+  "illustrator": "",
+  "level": "MN Lv.16",
+  "name": "Apollo",
+  "preview": "https://phira.5wyxi.com/files/09f7e96e-6d4c-4099-a0b1-c6a701c8d68a",
+  "ranked": false,
+  "rating": 0.80678564,
+  "ratingCount": 209,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-15T04:18:47.337798Z",
+  "uploader": 342305
+}

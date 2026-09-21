@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:33Z",
+    "lastChanged": "2026-09-21T02:04:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-04T14:44:55.473502Z",
+  "charter": "Minagi under Moon",
+  "composer": "Lia/麻枝准/折戸伸治/高瀬一矢",
+  "created": "2026-04-04T14:44:55.473502Z",
+  "description": "谱师本人上传\n若遇到播放解锁动画时产生大量杂音的问题，更新Phira至最新版本即可解决\n本谱面为0thPecJam参赛谱，编号RG 132\n希望大家喜欢这张谱！欢迎关注谱师的B站账号（与Phira账号同名）获取更多谱面",
+  "difficulty": 15.0999975,
+  "file": "https://phira.5wyxi.com/files/5b0d9934-9367-43a9-a925-20dc1308d332",
+  "id": 55028,
+  "illustration": "https://phira.5wyxi.com/files/45abf54b-21d2-4fb5-8a15-f97be0aaa6a8",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "鳥の詩",
+  "preview": "https://phira.5wyxi.com/files/a1047266-af57-4432-a2bf-7815eb83efe4",
+  "ranked": true,
+  "rating": 0.9233273,
+  "ratingCount": 51962,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "AIR",
+    "鸟之诗",
+    "Key社",
+    "京阿尼",
+    "regular"
+  ],
+  "updated": "2026-05-31T08:57:28.227353Z",
+  "uploader": 133363
+}

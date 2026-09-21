@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:06Z",
+    "lastChanged": "2026-09-21T02:04:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-14T17:18:28.280784Z",
+  "charter": "xunxun",
+  "composer": "rintaro soma",
+  "created": "2025-12-14T17:18:28.280784Z",
+  "description": "本人上传，写得不好见谅，17.5认为定的比较中肯",
+  "difficulty": 17.500002,
+  "file": "https://phira.5wyxi.com/files/45ceb0e5-9d1a-4ed9-a005-7315f4f50ad4",
+  "id": 50236,
+  "illustration": "https://phira.5wyxi.com/files/edc77f0d-1f99-40c1-8dbb-a26f951abef4",
+  "illustrator": "",
+  "level": "AT",
+  "name": "系きて",
+  "preview": "https://phira.5wyxi.com/files/9bdbea3f-4008-453d-acd1-453a38f499f3",
+  "ranked": false,
+  "rating": 0.8662886,
+  "ratingCount": 446,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-12-14T17:18:28.280784Z",
+  "uploader": 344251
+}

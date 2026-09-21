@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:52Z",
+    "lastChanged": "2026-09-21T02:03:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-21T17:25:24.552534Z",
+  "charter": "SPtam",
+  "composer": "rider",
+  "created": "2025-09-21T17:25:24.552534Z",
+  "description": "【AT Lv.16.6】谱师本人上传，B站：SPtam。这是我第三次独立完成制谱，算是弥补了官谱尊师没有AT的遗憾。希望各位玩得开心，天天开心！",
+  "difficulty": 16.600002,
+  "file": "https://phira.5wyxi.com/files/fa441e61-6691-44f5-96fd-c65a8a4f8c7f",
+  "id": 47078,
+  "illustration": "https://phira.5wyxi.com/files/f8564ac0-6001-4f71-b4b5-c7015dac6a6c",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "尊師 ~The Guru~",
+  "preview": "https://phira.5wyxi.com/files/91701ed3-32ea-4610-9e4e-915cdb6020e0",
+  "ranked": false,
+  "rating": 0.9106361,
+  "ratingCount": 843,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-21T17:25:24.552534Z",
+  "uploader": 1307030
+}

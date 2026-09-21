@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:00Z",
+    "lastChanged": "2026-09-21T02:03:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-31T08:10:01.104546Z",
+  "charter": "天星",
+  "composer": "Kankitsu",
+  "created": "2025-01-31T08:10:01.104546Z",
+  "description": null,
+  "difficulty": 12.0,
+  "file": "https://phira.5wyxi.com/files/22a4fcea-f8a6-4d41-afeb-0575082f9d69",
+  "id": 32958,
+  "illustration": "https://phira.5wyxi.com/files/20cd4966-c1e9-488f-a838-4cecc0843eff",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "Stellaria",
+  "preview": "https://phira.5wyxi.com/files/6907f603-238b-48e3-ab37-61b1e29b7b42",
+  "ranked": false,
+  "rating": 0.89899045,
+  "ratingCount": 111,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-01-31T08:10:01.104546Z",
+  "uploader": 39125
+}

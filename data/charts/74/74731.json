@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:11Z",
+    "lastChanged": "2026-09-21T02:05:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-21T00:54:16.180278Z",
+  "charter": "TorR_z",
+  "composer": "nm-y",
+  "created": "2026-08-21T00:54:16.180278Z",
+  "description": "（摘自TorR_z的Bilibili）\n====================\n曲名：Absolution Pulse\n曲师：nm-y\n谱师：TorR_z\n定数：IN Lv.17.3\n曲绘：山山奇\n扩展：@苍沫SilvElyMO    vs.TorR_z\n====================\n用时：29h14min\n总线数：50\n总物量：2330\n总事件数：15960\n====================\n第二张谱面终于写完了！每天晚上熬夜写谱，可算在开学之前又赶出来一张。这是新人谱师TorR_z的第二首谱面！主要是在配置和演出方面的练习（本来想写Judgement的看到鸽游发新曲直接蹭热度，意外的是Ju和Ab两首曲子bpm和调号都是一模一样的，Judgement2.0属于是。这是我的第一首高难铺面。\n\nEnjoy it!",
+  "difficulty": 17.300001,
+  "file": "https://phira.5wyxi.com/files/50cf8dd9-2c0c-48e5-91b8-23878a86cf9f",
+  "id": 74731,
+  "illustration": "https://phira.5wyxi.com/files/faa4f7ae-8d2b-41b1-b954-74efa0766689",
+  "illustrator": "",
+  "level": "IN Lv.17",
+  "name": "Absolution Pulse",
+  "preview": "https://phira.5wyxi.com/files/f6093a33-86d9-484b-b478-ed584239f59b",
+  "ranked": false,
+  "rating": 0.89421123,
+  "ratingCount": 178,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-21T00:54:16.180278Z",
+  "uploader": 1871698
+}

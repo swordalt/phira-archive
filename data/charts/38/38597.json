@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:15Z",
+    "lastChanged": "2026-09-21T02:06:15Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-24T12:32:48.513682Z",
+  "charter": "Hexflasher",
+  "composer": "Ludicin",
+  "created": "2025-05-24T12:32:48.513682Z",
+  "description": "本谱面为2025 Plane Cup的追加谱面\n----------------------------\n谱师列表\nHexflasher   Kinrdhalp   hu_zrua   \nnambi   RealizE   Yi_Luo   \n星落iseri   2222ββββ\n----------------------------\n谱面制作分工如下：\n1-168 Hexflasher\n169-172 RealizE\n173-181 Hexflasher\n182-328 Kinrdhalp\n329-440 hu_zrua\n441-536 Kinrdhalp\n537-712 Hexflasher\n713-776 Kinrdhalp\n777-855 nambi  Yi_Luo  RealizE  星落iseri\n856-968 Hexflasher hu_zrua\n969-1108 Hexflasher",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/33556021-4f84-4d53-a4ce-7ea912d5edec",
+  "id": 38597,
+  "illustration": "https://phira.5wyxi.com/files/1f76c3d4-1084-46c6-a9b7-92dd34d1aa64",
+  "illustrator": "",
+  "level": "2025 6k Plane Cup TB",
+  "name": "Bismuth",
+  "preview": "https://phira.5wyxi.com/files/3036c1da-d5cd-4d83-a7c7-179716b31e4e",
+  "ranked": false,
+  "rating": 0.94908553,
+  "ratingCount": 40,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-05-24T12:32:48.513682Z",
+  "uploader": 1314819
+}

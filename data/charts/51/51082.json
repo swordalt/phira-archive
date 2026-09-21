@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:11Z",
+    "lastChanged": "2026-09-21T02:04:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-08T13:19:45.025246Z",
+  "charter": "椿",
+  "composer": "MYTK",
+  "created": "2026-01-08T13:19:45.025246Z",
+  "description": "谱师本人上传",
+  "difficulty": 16.400002,
+  "file": "https://phira.5wyxi.com/files/aa14ddb7-2bb9-4767-a5ed-b03b1fcaa60e",
+  "id": 51082,
+  "illustration": "https://phira.5wyxi.com/files/2f5ca704-be4f-4df2-be2a-b2036d3941af",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "靈",
+  "preview": "https://phira.5wyxi.com/files/3c7789bc-c751-4db3-b7f6-e055c58d217c",
+  "ranked": false,
+  "rating": 0.92969054,
+  "ratingCount": 562,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-01-08T13:19:45.025246Z",
+  "uploader": 50884
+}

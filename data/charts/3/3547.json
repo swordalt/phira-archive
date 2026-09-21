@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:15Z",
+    "lastChanged": "2026-09-21T02:01:15Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-06-16T08:34:26.274504Z",
+  "charter": "ikun",
+  "composer": "Raimukun",
+  "created": "2023-06-16T08:34:26.274504Z",
+  "description": "上传的第一个自制谱 有写的可能不太好的地方",
+  "difficulty": 16.600002,
+  "file": "https://phira.5wyxi.com/files/e06561c4-9ba6-4c5a-a085-51b28b0e5c2a",
+  "id": 3547,
+  "illustration": "https://phira.5wyxi.com/files/fca2110b-7fbc-41f0-b222-aff182310647",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Avantgarde",
+  "preview": "https://phira.5wyxi.com/files/0253bbdf-9799-405c-88b2-358886f72d99",
+  "ranked": false,
+  "rating": 0.817674,
+  "ratingCount": 444,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "BOF2022",
+    "regular"
+  ],
+  "updated": "2023-06-16T08:34:26.274504Z",
+  "uploader": 1692
+}

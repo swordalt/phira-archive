@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:26Z",
+    "lastChanged": "2026-09-21T02:04:26Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-28T12:29:44.179703Z",
+  "charter": "kbcrt",
+  "composer": "ARForest",
+  "created": "2026-02-28T12:29:44.179703Z",
+  "description": "kbcrt本人上传",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/183f29f8-527c-4410-914d-f7cdc4efe4a5",
+  "id": 53609,
+  "illustration": "https://phira.5wyxi.com/files/8eddab85-4f8f-4af8-8948-7c354af82b0e",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Forest of Clock",
+  "preview": "https://phira.5wyxi.com/files/cea7ac23-6b7a-4a9d-8c22-ddce0b318e1b",
+  "ranked": false,
+  "rating": 0.9121342,
+  "ratingCount": 68,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-28T12:29:44.179703Z",
+  "uploader": 409
+}

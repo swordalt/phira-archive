@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:57Z",
+    "lastChanged": "2026-09-21T02:01:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-15T15:09:39.209419Z",
+  "charter": "6thPecJam",
+  "composer": "Lime",
+  "created": "2024-02-15T15:09:39.209419Z",
+  "description": "",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/47730c69-dd85-4d6b-8e7d-400361758216",
+  "id": 15767,
+  "illustration": "https://phira.5wyxi.com/files/616e55b9-052d-4f19-b1b0-8cf34cb7a289",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Aurora",
+  "preview": "https://phira.5wyxi.com/files/b8e63ba6-ac83-4437-9184-b37f9a4e2ec5",
+  "ranked": false,
+  "rating": 0.7313904,
+  "ratingCount": 159,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2024-03-09T15:24:17.835540Z",
+  "uploader": 7580
+}

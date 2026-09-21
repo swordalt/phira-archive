@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:34Z",
+    "lastChanged": "2026-09-21T02:01:34Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-09-24T16:27:28.050485Z",
+  "charter": "Voranky",
+  "composer": "HiTECH NINJA vs Cranky",
+  "created": "2023-09-24T16:27:28.050485Z",
+  "description": "本谱面由kkkkkkkywy与我共同完成，kkkkkkkywy负责主判定线动效与部分配置，我负责大多数配置与判定线演出\n       这个谱写了有一年时间了，期间也经过过几次大改，由于自己当时的谱力限制一直没有达到满意的效果，终于在kkkkkkkywy的帮助下有了现在的成品\n       本来想写15.7来着，结果写完后两个15.9的大佬都说可以标14（\n       上传前已经过双方谱师同意\n       Voranky=Voranger+kkkkkkkywy",
+  "difficulty": 15.600002,
+  "file": "https://phira.5wyxi.com/files/5e297dad-fbff-4186-bb3e-1b9df9cbd41e",
+  "id": 9665,
+  "illustration": "https://phira.5wyxi.com/files/752ef291-f02b-4260-a171-4b64a4951b42",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "BREaK!BREaK!BREaK!",
+  "preview": "https://phira.5wyxi.com/files/848418b1-9724-4070-95ee-92e2f91a6064",
+  "ranked": false,
+  "rating": 0.87656766,
+  "ratingCount": 452,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "maimai",
+    "regular"
+  ],
+  "updated": "2023-09-24T16:27:28.050485Z",
+  "uploader": 1526
+}

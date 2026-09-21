@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:10Z",
+    "lastChanged": "2026-09-21T02:01:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-13T01:56:24.671606Z",
+  "charter": "Dr.Asriel",
+  "composer": "かめりあ (camellia)",
+  "created": "2023-05-13T01:56:24.671606Z",
+  "description": null,
+  "difficulty": 18.000004,
+  "file": "https://phira.5wyxi.com/files/be142a54-6db3-46fb-be84-e9547e081db6",
+  "id": 1800,
+  "illustration": "https://phira.5wyxi.com/files/e0474b78-63f0-47e1-8af6-753d0f57e859",
+  "illustrator": "",
+  "level": "AT Lv.18",
+  "name": "Wolves Standing Towards Enemies",
+  "preview": "https://phira.5wyxi.com/files/b5ffbc79-68e4-416d-8f2b-6f291c257564",
+  "ranked": false,
+  "rating": 0.91214913,
+  "ratingCount": 1866,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-14T16:36:23.778614Z",
+  "uploader": 5259
+}

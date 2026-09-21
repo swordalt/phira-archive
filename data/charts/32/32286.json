@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:58Z",
+    "lastChanged": "2026-09-21T02:02:58Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-23T12:05:17.327191Z",
+  "charter": "Serism_influenced_by_LeaF",
+  "composer": "LeaF",
+  "created": "2025-01-23T12:05:17.327191Z",
+  "description": "26.4.25\n忽然发现忘改定数了，改一下\n\n终于写完了…大概\n几乎是采音最困难的一首\n还好LeaF自己写了这曲的bms谱\n4分 8分 12分 16分 24分音混杂\n曲风很有十几年前的感觉\n后半段只好用js搪塞一下算了\n\n采音基于ato1pon的malody谱进行",
+  "difficulty": 17.300005,
+  "file": "https://phira.5wyxi.com/files/03d99718-d5eb-422f-bf89-eeb171b2f00c",
+  "id": 32286,
+  "illustration": "https://phira.5wyxi.com/files/ebdcad64-18de-4a40-badb-7107bba08ea3",
+  "illustrator": "",
+  "level": "AT Lv.17?!",
+  "name": "Breakcore WTF!?",
+  "preview": "https://phira.5wyxi.com/files/eb90b2c3-e120-4d8b-9ada-43eec6a1020b",
+  "ranked": false,
+  "rating": 0.8653146,
+  "ratingCount": 729,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4k",
+    "LeaF",
+    "breakcore",
+    "regular"
+  ],
+  "updated": "2026-04-24T23:26:11.643445Z",
+  "uploader": 3023
+}

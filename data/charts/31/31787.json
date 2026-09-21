@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:06Z",
+    "lastChanged": "2026-09-21T02:06:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-13T16:27:41.406088Z",
+  "charter": "OERPER",
+  "composer": "MIRBRO/SEVENOP/XloveSF",
+  "created": "2025-01-13T16:27:41.406088Z",
+  "description": "第一次写谱，写的不太好请见谅",
+  "difficulty": 10.2,
+  "file": "https://phira.5wyxi.com/files/beb1cc49-63d8-45a4-94a6-a6e1ecc7a528",
+  "id": 31787,
+  "illustration": "https://phira.5wyxi.com/files/cc470b51-6da6-40b5-862c-9b8594aaf43a",
+  "illustrator": "",
+  "level": "HD Lv10",
+  "name": "Lighting(Phonk)",
+  "preview": "https://phira.5wyxi.com/files/1b2dbe72-7dcd-45e9-b7d0-91d2125544bf",
+  "ranked": false,
+  "rating": 0.91307014,
+  "ratingCount": 137,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "phonk",
+    "plain"
+  ],
+  "updated": "2025-01-13T16:27:41.406088Z",
+  "uploader": 1369492
+}

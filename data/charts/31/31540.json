@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:06Z",
+    "lastChanged": "2026-09-21T02:06:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-07T14:18:36.749300Z",
+  "charter": "anianfisul",
+  "composer": "黒うさP/初音ミク",
+  "created": "2025-01-07T14:18:36.749300Z",
+  "description": "加入锁手，平均难度，改进踩音，降低流速，降低判定线",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/bfe03b00-212d-4f13-b7e7-71d9201cdeb7",
+  "id": 31540,
+  "illustration": "https://phira.5wyxi.com/files/8b8a50ea-b6f3-49b5-a48a-0b6180f8fca0",
+  "illustrator": "",
+  "level": "4k lv28",
+  "name": "千本桜",
+  "preview": "https://phira.5wyxi.com/files/df5e6a06-7b3b-4d5f-b032-7f6d921caca9",
+  "ranked": false,
+  "rating": 0.9447301,
+  "ratingCount": 708,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4k",
+    "叠",
+    "乱",
+    "plain"
+  ],
+  "updated": "2025-01-07T14:18:36.749300Z",
+  "uploader": 1346676
+}

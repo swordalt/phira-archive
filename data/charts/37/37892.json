@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:14Z",
+    "lastChanged": "2026-09-21T02:06:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-14T13:36:51.139700Z",
+  "charter": "miantic layer",
+  "composer": "SHIKI",
+  "created": "2025-05-10T09:20:50.555344Z",
+  "description": "本人上传 2025/12/17进行谱面重置",
+  "difficulty": 12.500001,
+  "file": "https://phira.5wyxi.com/files/1380781b-d3b7-4917-a624-a7f431f6ed9d",
+  "id": 37892,
+  "illustration": "https://phira.5wyxi.com/files/f81ec51f-8b0d-4486-a4a5-1ba5a15b7c48",
+  "illustrator": "",
+  "level": "Simple Lv.12",
+  "name": "Angelic layer",
+  "preview": "https://phira.5wyxi.com/files/96bb2519-92da-463f-9721-84cc990d2e6b",
+  "ranked": false,
+  "rating": 0.8142219,
+  "ratingCount": 6,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "DFC",
+    "双指",
+    "plain"
+  ],
+  "updated": "2026-09-14T13:36:51.139700Z",
+  "uploader": 30929
+}

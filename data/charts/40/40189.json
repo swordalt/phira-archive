@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:24Z",
+    "lastChanged": "2026-09-21T02:03:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-24T09:54:29.999455Z",
+  "charter": "iiiiand",
+  "composer": "Hatsune Miku",
+  "created": "2025-06-24T09:54:29.999455Z",
+  "description": "制作者本人上传，谱面过长，不上传哔站（谱师b站iiiiandRYTHEM）",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/db33b1a7-3ef0-4887-873c-4b02d658d184",
+  "id": 40189,
+  "illustration": "https://phira.5wyxi.com/files/d15f7ef7-ce4c-4922-857d-4a202bf3f687",
+  "illustrator": "",
+  "level": "Neko Lv.11",
+  "name": "Nekomimi Switch",
+  "preview": "https://phira.5wyxi.com/files/dfe83cb3-e52a-451c-9552-922045705012",
+  "ranked": false,
+  "rating": 0.9272257,
+  "ratingCount": 77,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-06-24T09:54:29.999455Z",
+  "uploader": 1354034
+}

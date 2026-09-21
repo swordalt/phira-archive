@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:06Z",
+    "lastChanged": "2026-09-21T02:01:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-04-25T14:05:48.584531Z",
+  "charter": "Fly (←Life←) 07",
+  "composer": "Daily天利",
+  "created": "2023-04-25T14:05:48.584531Z",
+  "description": "谱师: @EfiLF1y\n本人上传",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/076a5af0-e6d4-4d91-bd52-8f3e46b80779",
+  "id": 771,
+  "illustration": "https://phira.5wyxi.com/files/c3a9149f-26c3-4657-8679-b522323c0bd1",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Dice 20",
+  "preview": "https://phira.5wyxi.com/files/1a94e078-50d2-493f-9f73-3704b0aa1943",
+  "ranked": false,
+  "rating": 0.90856606,
+  "ratingCount": 4676,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "art",
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 818
+}

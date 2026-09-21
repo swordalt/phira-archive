@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:24Z",
+    "lastChanged": "2026-09-21T02:04:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-24T07:54:05.740636Z",
+  "charter": "Encly",
+  "composer": "Fyremanmusic",
+  "created": "2026-02-24T07:54:05.740636Z",
+  "description": null,
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/0fd933cc-f23a-47b6-9b4a-946e1de3ac15",
+  "id": 53307,
+  "illustration": "https://phira.5wyxi.com/files/44d45bc8-51bb-4511-afe3-6296fb1791d1",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Glory",
+  "preview": "https://phira.5wyxi.com/files/2534c646-c277-43e0-8c2a-a5fe99388e49",
+  "ranked": false,
+  "rating": 0.773273,
+  "ratingCount": 92,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-24T07:54:05.740636Z",
+  "uploader": 1925
+}

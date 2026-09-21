@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:41Z",
+    "lastChanged": "2026-09-21T02:04:41Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-07T03:48:57.938449Z",
+  "charter": "幻影君phantom",
+  "composer": "Tobu",
+  "created": "2026-05-05T05:20:48.519993Z",
+  "description": "和同学一起写的粉扑（\n@幻影君phantom#1915835（写谱）\n@鹅神GooseGod#2093292（测试反馈）\n真的超爱这首歌，所以写了自制谱\n第一次写自制谱，手感和演出都可能有点怪；同时也是第一次上传谱面，不知道有什么需要注意的地方，希望大家多多指教\n2026.6.7更新：修复bug，优化演出，优化尾杀排键（更新谱面会顶掉各位原来的成绩，万分抱歉！但是祝各能位玩得更开心）",
+  "difficulty": 14.399996,
+  "file": "https://phira.5wyxi.com/files/dc8efbc6-2f42-48da-a363-4491e015ae83",
+  "id": 57866,
+  "illustration": "https://phira.5wyxi.com/files/3057f85a-a01d-471e-978d-3d1236e70aff",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "seven",
+  "preview": "https://phira.5wyxi.com/files/9a71a746-ad0b-484d-a89c-3ec7555a520e",
+  "ranked": false,
+  "rating": 0.93688756,
+  "ratingCount": 194,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-07T03:48:57.938449Z",
+  "uploader": 1915835
+}

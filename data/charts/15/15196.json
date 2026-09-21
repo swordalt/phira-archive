@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:55Z",
+    "lastChanged": "2026-09-21T02:01:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-23T09:20:43.542886Z",
+  "charter": "穿越黑夜，点缀星空。",
+  "composer": "Synthion",
+  "created": "2024-02-09T20:04:26.459382Z",
+  "description": "在 Bilibili 第一次听就喜欢上了，所以趁着这次机会参赛！最后一段 drop 的 drag 判定垂直于长条按压点，是表演的一部分，不需要多一根手指按住哦！",
+  "difficulty": 14.800001,
+  "file": "https://phira.5wyxi.com/files/57eb2193-74df-42c4-86e9-2cadf42e6ec5",
+  "id": 15196,
+  "illustration": "https://phira.5wyxi.com/files/cc97d825-5ead-42ca-b4e4-0f19909791ce",
+  "illustrator": "",
+  "level": "IN  Lv.14",
+  "name": "Swift",
+  "preview": "https://phira.5wyxi.com/files/62b89fc7-419d-4772-bfac-98ba85e2668d",
+  "ranked": true,
+  "rating": 0.92894155,
+  "ratingCount": 6075,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2024-03-23T09:20:43.542886Z",
+  "uploader": 619258
+}

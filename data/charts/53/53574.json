@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:25Z",
+    "lastChanged": "2026-09-21T02:04:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-28T03:07:13.899694Z",
+  "charter": "xinghde",
+  "composer": "elektronomia",
+  "created": "2026-02-28T03:07:13.899694Z",
+  "description": null,
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/3b032dad-d9f1-4ab6-9060-03f7d8e30a16",
+  "id": 53574,
+  "illustration": "https://phira.5wyxi.com/files/70e1b7cf-af6b-4f07-a02b-da1ce6cc9afa",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Sky High pt.ll",
+  "preview": "https://phira.5wyxi.com/files/3e6c3cd6-bea4-4b26-b172-2fbdaa6034e6",
+  "ranked": false,
+  "rating": 0.8746317,
+  "ratingCount": 35,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-28T03:07:13.899694Z",
+  "uploader": 1804307
+}

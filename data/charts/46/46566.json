@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:50Z",
+    "lastChanged": "2026-09-21T02:03:50Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-08T00:32:54.440136Z",
+  "charter": "TateR8N",
+  "composer": "ルゼ",
+  "created": "2025-09-08T00:32:54.440136Z",
+  "description": "2023年旧存货，发上来玩一下",
+  "difficulty": 16.4,
+  "file": "https://phira.5wyxi.com/files/59e7bdc0-17b3-4170-aeea-5ddab8213407",
+  "id": 46566,
+  "illustration": "https://phira.5wyxi.com/files/036d79f0-a0c1-4118-a522-b7943a232fce",
+  "illustrator": "",
+  "level": "SP Lv.RENDA",
+  "name": "ULTRA RENDA 1",
+  "preview": "https://phira.5wyxi.com/files/6e94d58b-b9f4-4826-b107-ae4e8e74f342",
+  "ranked": false,
+  "rating": 0.9216414,
+  "ratingCount": 43,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-08T00:32:54.440136Z",
+  "uploader": 9376
+}

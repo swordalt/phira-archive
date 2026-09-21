@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:06Z",
+    "lastChanged": "2026-09-21T02:06:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-07T08:53:06.947664Z",
+  "charter": "hu_zrua",
+  "composer": "Kobaryo",
+  "created": "2025-01-07T08:53:06.947664Z",
+  "description": "bpm700 [18下位]\n谱面本人上传\n不是为什么一直卡我的谱？我10月初上传的谱ID28000多都25年了还没审好，我谢谢了\n",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/353d0fab-6b89-4d9f-8a62-f3c305159f97",
+  "id": 31528,
+  "illustration": "https://phira.5wyxi.com/files/3cf9bffe-6e4d-42ec-8575-5db1e0fff69d",
+  "illustrator": "",
+  "level": "[18]6k",
+  "name": "New Game Plus",
+  "preview": "https://phira.5wyxi.com/files/b643f987-c79f-471e-8d59-6e7dc2af57e6",
+  "ranked": false,
+  "rating": 0.9190553,
+  "ratingCount": 49,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6k",
+    "plain"
+  ],
+  "updated": "2025-01-07T08:53:06.947664Z",
+  "uploader": 202494
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:02Z",
+    "lastChanged": "2026-09-21T02:05:02Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-22T21:57:22.744709Z",
+  "charter": "Nya",
+  "composer": "Toby Fox & かめりあ",
+  "created": "2026-07-22T21:57:22.744709Z",
+  "description": "修改了采音定数和一些小瑕疵",
+  "difficulty": 15.6,
+  "file": "https://phira.5wyxi.com/files/f24cd19c-db54-4e7f-ab8b-6a37ad1589e8",
+  "id": 68528,
+  "illustration": "https://phira.5wyxi.com/files/458e43b2-57e8-4e01-9ca6-f5c3ef4a9835",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Cutie Mew Mew Magic",
+  "preview": "https://phira.5wyxi.com/files/74a9351c-6fdb-4d55-ba90-70885c51cdc0",
+  "ranked": false,
+  "rating": 0.9390018,
+  "ratingCount": 658,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-22T21:57:22.744709Z",
+  "uploader": 92959
+}

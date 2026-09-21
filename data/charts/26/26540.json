@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:35Z",
+    "lastChanged": "2026-09-21T02:02:35Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-18T23:18:48.819163Z",
+  "charter": "Tiangrow",
+  "composer": "Lightscape",
+  "created": "2024-08-18T23:18:48.819163Z",
+  "description": null,
+  "difficulty": 13.600002,
+  "file": "https://phira.5wyxi.com/files/afca1d4c-e014-4ccd-aac4-ed5e41656796",
+  "id": 26540,
+  "illustration": "https://phira.5wyxi.com/files/ca01f5d1-869c-4f33-9da4-d45a8c9d5c76",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "Collapsing World",
+  "preview": "https://phira.5wyxi.com/files/abae1b47-36b8-482c-a147-772db57f8435",
+  "ranked": false,
+  "rating": 0.9311416,
+  "ratingCount": 350,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-18T23:18:48.819163Z",
+  "uploader": 1226147
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:17Z",
+    "lastChanged": "2026-09-21T02:05:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-13T10:30:52.876325Z",
+  "charter": "YSTAR-T",
+  "composer": "Ash Electric",
+  "created": "2026-09-13T10:30:52.876325Z",
+  "description": "谱师本人上传\n物量 252\n定数 11.9",
+  "difficulty": 11.900003,
+  "file": "https://phira.5wyxi.com/files/795e5ceb-6fdd-4b45-b1f1-a25137a6fff4",
+  "id": 78061,
+  "illustration": "https://phira.5wyxi.com/files/2dcf0107-b24c-4586-9ba8-4ae43fffdc5f",
+  "illustrator": "",
+  "level": "IN Lv.11",
+  "name": "Fearless",
+  "preview": "https://phira.5wyxi.com/files/c10fbf2e-54f2-48e1-8907-d03ece68660a",
+  "ranked": false,
+  "rating": 0.9340767,
+  "ratingCount": 220,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Opentaiko",
+    "regular"
+  ],
+  "updated": "2026-09-13T10:31:54.685010Z",
+  "uploader": 1213694
+}

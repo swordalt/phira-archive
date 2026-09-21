@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:47Z",
+    "lastChanged": "2026-09-21T02:01:47Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-01-08T03:07:50.819628Z",
+  "charter": "QingF",
+  "composer": "eicateve",
+  "created": "2024-01-08T03:07:50.819628Z",
+  "description": "本人上传  在一定程度上这算是rizline的还原谱  主要的配置都与riz本家一样  不过因为没有全屏判所以会有一些增加难度的位移（不过也不算难就是了）  ",
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/b139f1c7-5353-4b16-a5cc-fab3da04cf51",
+  "id": 13395,
+  "illustration": "https://phira.5wyxi.com/files/df8aa905-c97e-4b04-8a6b-9cc58e96dbdb",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "R.I.P.",
+  "preview": "https://phira.5wyxi.com/files/6cd248e4-b463-403d-bf08-38f1f9216048",
+  "ranked": false,
+  "rating": 0.9060196,
+  "ratingCount": 1863,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "G2R2018",
+    "regular"
+  ],
+  "updated": "2024-01-08T03:07:50.819628Z",
+  "uploader": 2381
+}

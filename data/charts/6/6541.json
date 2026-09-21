@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:23Z",
+    "lastChanged": "2026-09-21T02:01:23Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-01T14:40:01.106118Z",
+  "charter": "pemo",
+  "composer": "Cansol vs. Raimukun",
+  "created": "2023-07-31T15:33:22.861482Z",
+  "description": "曲目：量子力学のためのピアノ協奏曲\n曲师：Cansol vs. Raimukun\n铺师：Pemo\n定数：AT Lv.15.8\n物量：1215\n-------------------\n新人第一作 我是不会写什么特效的( 断断续续写了2天吧\n结尾主要是24分+16分+12分 所以难度比前段明显提升\n-------------------\n铺师及朋友AP后上传\nBilibili UID:1915858257 视频链接：BV1Pc411c7dS",
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/abd446d1-4813-400c-81fb-7ed04058bd35",
+  "id": 6541,
+  "illustration": "https://phira.5wyxi.com/files/728deb02-a946-4179-8da3-e85936c32775",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "量子力学のためのピアノ協奏曲",
+  "preview": "https://phira.5wyxi.com/files/06a67463-38ff-439c-9c11-ed5d7c4edba1",
+  "ranked": false,
+  "rating": 0.8667228,
+  "ratingCount": 590,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-08-01T14:40:01.106118Z",
+  "uploader": 17189
+}

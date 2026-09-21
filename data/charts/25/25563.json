@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:31Z",
+    "lastChanged": "2026-09-21T02:02:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-07T12:06:27.456302Z",
+  "charter": "XJY",
+  "composer": "Instupendo",
+  "created": "2024-08-07T12:06:27.456302Z",
+  "description": "该铺面为谱师XJY制作",
+  "difficulty": 14.7,
+  "file": "https://phira.5wyxi.com/files/cf9670f0-23b2-4817-a6aa-e23a3e29cb6d",
+  "id": 25563,
+  "illustration": "https://phira.5wyxi.com/files/82ec7cf2-20a1-46be-9a0d-9b0f571bd979",
+  "illustrator": "",
+  "level": "EZ Lv.5",
+  "name": "Comfort Chain",
+  "preview": "https://phira.5wyxi.com/files/b6c0ffcc-fb25-4d15-8ee9-baed0776778b",
+  "ranked": false,
+  "rating": 0.93670094,
+  "ratingCount": 198,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-15T00:39:04.367974Z",
+  "uploader": 1143904
+}

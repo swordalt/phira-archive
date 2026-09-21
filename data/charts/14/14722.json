@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:53Z",
+    "lastChanged": "2026-09-21T02:01:53Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-03T12:14:05.443813Z",
+  "charter": "Friskig",
+  "composer": "t+pazolite",
+  "created": "2024-02-03T12:14:05.443813Z",
+  "description": null,
+  "difficulty": 15.200001,
+  "file": "https://phira.5wyxi.com/files/5e02b5a5-3a8c-4930-b6c8-aab40ae17783",
+  "id": 14722,
+  "illustration": "https://phira.5wyxi.com/files/5379f8a0-1174-40d2-adac-3ba5cc103e48",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Oshama Scarmble!",
+  "preview": "https://phira.5wyxi.com/files/d5d5936a-4c22-401d-b99e-ddff32ddd5f1",
+  "ranked": false,
+  "rating": 0.9243102,
+  "ratingCount": 2138,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "maimai",
+    "regular"
+  ],
+  "updated": "2024-02-03T12:14:05.443813Z",
+  "uploader": 383
+}

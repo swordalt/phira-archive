@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:16Z",
+    "lastChanged": "2026-09-21T02:06:16Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-22T10:46:35.840511Z",
+  "charter": "Lieskh",
+  "composer": "AiSS",
+  "created": "2025-05-25T06:23:24.296966Z",
+  "description": "ok,现在终于能过了吧\n感觉之前写的太窄了，改了一下\n重复了，这版更宽一点",
+  "difficulty": 15.4,
+  "file": "https://phira.5wyxi.com/files/4cf4507c-9b58-487d-86c8-2307fe3330a2",
+  "id": 38684,
+  "illustration": "https://phira.5wyxi.com/files/cba5a0f1-c74c-4b13-a478-167210b0fefc",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Truly",
+  "preview": "https://phira.5wyxi.com/files/4fcdb348-b8d5-4051-bee3-3e83d9e527b0",
+  "ranked": false,
+  "rating": 0.8929145,
+  "ratingCount": 31,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-06-22T10:46:35.840511Z",
+  "uploader": 598098
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:15Z",
+    "lastChanged": "2026-09-21T02:06:15Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-23T06:08:25.452099Z",
+  "charter": "Ranmoc",
+  "composer": "Blanco",
+  "created": "2025-05-23T06:08:25.452099Z",
+  "description": "是130不是140！这回难度不标normal了（哭）",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/61928cbc-dda2-49e6-ac80-dda3809fcfa7",
+  "id": 38484,
+  "illustration": "https://phira.5wyxi.com/files/0f253aeb-7691-48f6-8bef-370705e7eb3e",
+  "illustrator": "",
+  "level": "6K [16] 130Jack",
+  "name": "Mantra",
+  "preview": "https://phira.5wyxi.com/files/6644cd4a-37e2-40a9-94ad-fd542c45b59e",
+  "ranked": false,
+  "rating": 0.7403923,
+  "ratingCount": 5,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-05-23T06:08:25.452099Z",
+  "uploader": 251413
+}

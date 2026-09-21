@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:30Z",
+    "lastChanged": "2026-09-21T02:01:30Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-29T13:58:41.052089Z",
+  "charter": "Ziyieee",
+  "composer": "EmoCosine",
+  "created": "2023-08-29T13:58:41.052089Z",
+  "description": "谱师本人上传",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/51d123a7-7a49-435a-8524-549fcaa4ee05",
+  "id": 8723,
+  "illustration": "https://phira.5wyxi.com/files/4f49ff25-c335-4cd6-ae04-f7a06ab650d8",
+  "illustrator": "",
+  "level": "IN  Lv.14",
+  "name": "Midnight Challenge",
+  "preview": "https://phira.5wyxi.com/files/2d37b366-40cc-477e-8aaa-5ff76926f630",
+  "ranked": true,
+  "rating": 0.92070574,
+  "ratingCount": 1107,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "5thPecJam",
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 7137
+}

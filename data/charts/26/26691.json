@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:36Z",
+    "lastChanged": "2026-09-21T02:02:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-21T19:34:06.170870Z",
+  "charter": "Kedmue",
+  "composer": "こっちのけんと & GRP",
+  "created": "2024-08-21T19:34:06.170870Z",
+  "description": "谱面为本人上传\n3rdWJC参赛谱",
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/71881367-add3-43a3-b8c6-71ee92fea858",
+  "id": 26691,
+  "illustration": "https://phira.5wyxi.com/files/60026215-da8c-47fe-bef7-40c4738fa947",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": " はいよろこんで",
+  "preview": "https://phira.5wyxi.com/files/d4172cae-1f41-4718-a106-608ead04ab7d",
+  "ranked": false,
+  "rating": 0.92331564,
+  "ratingCount": 2360,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "3rdWJC",
+    "regular"
+  ],
+  "updated": "2024-08-21T19:34:06.170870Z",
+  "uploader": 730
+}

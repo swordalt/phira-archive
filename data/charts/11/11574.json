@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:41Z",
+    "lastChanged": "2026-09-21T02:01:41Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-26T14:49:14.223639Z",
+  "charter": "DaVinci-2nd",
+  "composer": "USAO",
+  "created": "2023-11-18T10:24:51.127128Z",
+  "description": "第4次修改追加：\n 修改并添加了部分特效，部分谱面拆线，配置调整，动效曲线，更接近我现在的风格（新鼠标到了老小区改造）\n——\n第3次修改追加：\n修改了部分配置，尾杀更爽，修改了部分动效（鼠标坏了先这样罢）\n——\n第2次修改追加：\n修改结尾部分配置和键宽。本谱面可能不将会再有大的改动。\n——\n第1次修改追加：\n我修改了谱面！根据大佬们的建议，对结尾部分的配置进行了调整，让谱面更顺手！欢迎大家对谱面提出意见呀！\n——\n初版介绍：\n时隔一年，我重写了这首——USAO里我最喜欢的曲目！我保留了一部分旧谱的配置，并融合了我现在的谱面风格。\nb站版本：BV1Mw411K7TT 欢迎大家到b站评论区给我的谱面评价或提出建议～\n我会努力提升自己的谱面制作水平，争取制作更多大家喜欢的谱面！",
+  "difficulty": 15.400001,
+  "file": "https://phira.5wyxi.com/files/d24836bd-ea24-46f4-8106-99394aa4b2fc",
+  "id": 11574,
+  "illustration": "https://phira.5wyxi.com/files/7873e865-82ae-41ac-9273-cc32fcc67a14",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Boss Rush",
+  "preview": "https://phira.5wyxi.com/files/2de236da-e418-479e-a2b2-6b8e899e4e42",
+  "ranked": false,
+  "rating": 0.8915952,
+  "ratingCount": 796,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "USAO",
+    "底力",
+    "regular"
+  ],
+  "updated": "2025-05-26T14:49:14.223639Z",
+  "uploader": 25956
+}

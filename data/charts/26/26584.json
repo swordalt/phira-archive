@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:35Z",
+    "lastChanged": "2026-09-21T02:02:35Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-19T22:05:59.967325Z",
+  "charter": "MTR405",
+  "composer": "Various Artists",
+  "created": "2024-08-19T22:05:59.967325Z",
+  "description": "谱师第二张谱，B站UID：2011585740",
+  "difficulty": 14.200001,
+  "file": "https://phira.5wyxi.com/files/f6c0fe07-d615-43b3-a3fb-ac9541d5ba83",
+  "id": 26584,
+  "illustration": "https://phira.5wyxi.com/files/3c0613cc-53c2-4de2-942d-09d0b028a0dd",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "海肯斯小夜曲",
+  "preview": "https://phira.5wyxi.com/files/9c15dc42-49cf-4c69-887f-3b1652a0a96f",
+  "ranked": false,
+  "rating": 0.90376014,
+  "ratingCount": 1644,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-19T22:05:59.967325Z",
+  "uploader": 482837
+}

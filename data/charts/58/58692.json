@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:43Z",
+    "lastChanged": "2026-09-21T02:04:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-19T13:04:52.879141Z",
+  "charter": "twotthrees emperror",
+  "composer": "kobaryo",
+  "created": "2026-05-19T13:04:52.879141Z",
+  "description": "飞技杯 No.10\n已复活",
+  "difficulty": 18.000004,
+  "file": "https://phira.5wyxi.com/files/464b7a48-fb90-4405-9ef0-2701f6dc01b7",
+  "id": 58692,
+  "illustration": "https://phira.5wyxi.com/files/e5faf414-31f7-44ff-81b8-3a14a1d003e6",
+  "illustrator": "",
+  "level": "英国 Lv.18",
+  "name": "Raven Emperor (Absolute Version)",
+  "preview": "https://phira.5wyxi.com/files/95937fac-2bb3-4f25-8f2b-a5a6ca71c875",
+  "ranked": false,
+  "rating": 0.8557605,
+  "ratingCount": 195,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-05-23T21:00:01.567845Z",
+  "uploader": 7679
+}

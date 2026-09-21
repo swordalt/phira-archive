@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:58Z",
+    "lastChanged": "2026-09-21T02:06:58Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-12T04:23:38.568736Z",
+  "charter": "GT_TEC空城",
+  "composer": "Various Artists",
+  "created": "2026-07-12T04:23:38.568736Z",
+  "description": "本人上传\n双指高难段位，多指谨慎游玩\nDFC Grand Tourer Extra Dan\nDrag总比：21.732%(1626/7482)\n过段标准：97.59%（stacc97%）\n后光标准：98.79%（stacc98.5%）\n\n单曲信息\n\n乱\n曲名：Wander of Thought(cut)\n难度：15.5\n时长：100s\n物量：999\nBPM：145\nDrag占比：6.21%\nid：52661\n\n叠\n曲名：Everyday\n时长：165s\n难度：15.5\n物量：2804\nBPM：174\nDrag占比：24.64%\nid：54290\n\n技\n曲名：Sidestep(cut)\n时长：130s\n难度：15.9\n物量：1653\nBPM：165\nDrag占比：30.73%\nid: 53742\n\n切\n曲名：PEDAL TO THE METAL\n时长：144s\n难度：15.6\n物量：2026\nBPM：260\nDrag占比：18.02%\nid: 53922",
+  "difficulty": 15.700001,
+  "file": "https://phira.5wyxi.com/files/68edcc07-f450-41b1-aee3-f4f9a3a7821d",
+  "id": 65860,
+  "illustration": "https://phira.5wyxi.com/files/872ae5cc-f985-4f6b-9b1b-c96468bbfbb9",
+  "illustrator": "",
+  "level": "Dan Lv.15+",
+  "name": "DFC Grand Tourer Extra Dan",
+  "preview": "https://phira.5wyxi.com/files/361e7472-1a16-4451-96cc-e2e085e7f840",
+  "ranked": false,
+  "rating": 0.90235233,
+  "ratingCount": 14,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "DFC",
+    "双指",
+    "段位",
+    "plain"
+  ],
+  "updated": "2026-07-12T04:23:38.568736Z",
+  "uploader": 2398941
+}

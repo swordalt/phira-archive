@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:07Z",
+    "lastChanged": "2026-09-21T02:04:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-17T13:02:03.816699Z",
+  "charter": "虹之梦",
+  "composer": "A-39 / 沙包P",
+  "created": "2025-12-17T13:02:03.816699Z",
+  "description": "[由谱师本人上传]\n虹之梦的个人初作，个人定数在16.7 - 16.9(取均值填的16.8)，些许会有点小bug，而且对设备要求可能偏高，含有大量初见杀配置，引导和手感方面可能做的不咋好，请见谅（",
+  "difficulty": 16.800003,
+  "file": "https://phira.5wyxi.com/files/35eb5709-ed83-49bf-86f1-d5c2d04c20a7",
+  "id": 50286,
+  "illustration": "https://phira.5wyxi.com/files/c2c9e42f-9ed9-45b9-a53f-96b31755b09d",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Frozen Heart",
+  "preview": "https://phira.5wyxi.com/files/c2734a34-9f03-466c-b096-336ee9a3feb4",
+  "ranked": false,
+  "rating": 0.840836,
+  "ratingCount": 230,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-12-17T13:02:03.816699Z",
+  "uploader": 13101
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:32Z",
+    "lastChanged": "2026-09-21T02:03:32Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-24T12:59:35.265399Z",
+  "charter": "singlestar",
+  "composer": "rejection",
+  "created": "2025-07-22T15:43:12.546335Z",
+  "description": "在约179s处添加了更多引导\n\n整体相对削弱",
+  "difficulty": 17.000008,
+  "file": "https://phira.5wyxi.com/files/973fdc9a-fc0d-4ce0-9c50-c24da26b5448",
+  "id": 42462,
+  "illustration": "https://phira.5wyxi.com/files/3efd7b0f-2909-46db-84b3-e91cd87d6972",
+  "illustrator": "",
+  "level": "tech. NO.3 Lv.?",
+  "name": "Signal (feat. Such)",
+  "preview": "https://phira.5wyxi.com/files/82c74b0f-2b10-47e9-86ec-fb2441ee21b7",
+  "ranked": false,
+  "rating": 0.8688457,
+  "ratingCount": 175,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "科技",
+    "regular"
+  ],
+  "updated": "2025-07-24T12:59:35.265399Z",
+  "uploader": 134625
+}

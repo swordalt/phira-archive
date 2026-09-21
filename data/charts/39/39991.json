@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:24Z",
+    "lastChanged": "2026-09-21T02:03:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-21T07:12:56.728216Z",
+  "charter": "刘乃猫（小号）",
+  "composer": "Slushii、Dion Timmer",
+  "created": "2025-06-21T07:12:56.728216Z",
+  "description": null,
+  "difficulty": 8.0,
+  "file": "https://phira.5wyxi.com/files/316048fa-1a65-497d-8045-e310c3e32c97",
+  "id": 39991,
+  "illustration": "https://phira.5wyxi.com/files/927ae883-e77a-4c54-927a-bdb9a4badde3",
+  "illustrator": "",
+  "level": "lv.14.8",
+  "name": "Test Me",
+  "preview": "https://phira.5wyxi.com/files/40f0e215-65b0-4861-b46d-7a8a444c7e8c",
+  "ranked": false,
+  "rating": 0.91748273,
+  "ratingCount": 25,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-06-21T07:12:56.728216Z",
+  "uploader": 51556
+}

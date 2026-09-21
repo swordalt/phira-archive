@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:39Z",
+    "lastChanged": "2026-09-21T02:02:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-09-06T04:57:29.489527Z",
+  "charter": "Baozi",
+  "composer": "田島勝朗",
+  "created": "2024-09-06T04:57:29.489527Z",
+  "description": null,
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/e4884490-b7a3-4cd8-9110-1a5b0855841a",
+  "id": 27427,
+  "illustration": "https://phira.5wyxi.com/files/2992836c-4e37-4728-8796-9aeb04a08bed",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "竖波波卡",
+  "preview": "https://phira.5wyxi.com/files/96686b1a-95c1-467b-aafd-5369c93e23b8",
+  "ranked": false,
+  "rating": 0.9282194,
+  "ratingCount": 117,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-09-06T04:57:29.489527Z",
+  "uploader": 1252514
+}

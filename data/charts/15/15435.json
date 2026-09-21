@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:56Z",
+    "lastChanged": "2026-09-21T02:01:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-12T04:02:24.932615Z",
+  "charter": "Flying Dog",
+  "composer": "PIKASONIC",
+  "created": "2024-02-12T04:02:24.932615Z",
+  "description": "真是又抽象又具体的谱面呢（）",
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/5365b58c-5d8e-4e2f-bc4b-5fc25b60cc05",
+  "id": 15435,
+  "illustration": "https://phira.5wyxi.com/files/224e39f4-f090-44cc-b1a0-c303af1e48c0",
+  "illustrator": "",
+  "level": "IN",
+  "name": "Skydive",
+  "preview": "https://phira.5wyxi.com/files/3c6ed265-2a05-4cdb-b87c-1923d45e4014",
+  "ranked": false,
+  "rating": 0.8084433,
+  "ratingCount": 204,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2024-03-09T15:24:17.835540Z",
+  "uploader": 116203
+}

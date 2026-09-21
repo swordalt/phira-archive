@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:09Z",
+    "lastChanged": "2026-09-21T02:05:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-17T11:42:54.638052Z",
+  "charter": "Oldfeng is in wonder",
+  "composer": "r-906",
+  "created": "2026-08-17T11:42:54.638052Z",
+  "description": null,
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/921f27dc-004c-4694-9a49-92d376fccc45",
+  "id": 73946,
+  "illustration": "https://phira.5wyxi.com/files/562c7fd4-9a6f-46fc-b913-200c4bf452af",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "ワンダー",
+  "preview": "https://phira.5wyxi.com/files/8a60b5a9-b7c0-40e4-a324-743d532f352d",
+  "ranked": false,
+  "rating": 0.9613547,
+  "ratingCount": 568,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-17T11:42:54.638052Z",
+  "uploader": 92959
+}

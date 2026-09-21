@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:32Z",
+    "lastChanged": "2026-09-21T02:02:32Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-09T12:02:11.508967Z",
+  "charter": "S_1145",
+  "composer": "USAO",
+  "created": "2024-08-09T12:02:11.508967Z",
+  "description": "本人第三张谱",
+  "difficulty": 15.2,
+  "file": "https://phira.5wyxi.com/files/c02edc2b-8f3c-4eac-85f1-679a7aadb719",
+  "id": 25759,
+  "illustration": "https://phira.5wyxi.com/files/16571d1b-bbd4-498f-9c80-64c5700e7116",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Boss Rush",
+  "preview": "https://phira.5wyxi.com/files/66016663-9565-478b-8ecd-5dbec446d736",
+  "ranked": false,
+  "rating": 0.90732825,
+  "ratingCount": 206,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-09T12:02:11.508967Z",
+  "uploader": 413464
+}

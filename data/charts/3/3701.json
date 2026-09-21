@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:16Z",
+    "lastChanged": "2026-09-21T02:01:16Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-06-18T12:26:37.818579Z",
+  "charter": "IMSHOUCAN",
+  "composer": "USAO & Camelia",
+  "created": "2023-06-18T12:26:37.818579Z",
+  "description": "",
+  "difficulty": 17.2,
+  "file": "https://phira.5wyxi.com/files/f798425a-7b13-4183-80a8-ce70803f8be9",
+  "id": 3701,
+  "illustration": "https://phira.5wyxi.com/files/34d7b04d-d5b2-464b-a2f0-b73ec6546477",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Möbius",
+  "preview": "https://phira.5wyxi.com/files/6aac64a9-8d49-475c-a91c-606d751795ca",
+  "ranked": false,
+  "rating": 0.856894,
+  "ratingCount": 1438,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-06-18T12:26:37.818579Z",
+  "uploader": 48
+}

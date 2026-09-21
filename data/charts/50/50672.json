@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:09Z",
+    "lastChanged": "2026-09-21T02:04:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-01T17:06:00.629370Z",
+  "charter": "Ray7Sky",
+  "composer": "Reku Mochizuki",
+  "created": "2025-12-28T11:36:03.438546Z",
+  "description": "第一次改谱，对休息段黄键加了引导，另外更改了一部分配置，偏协调，定数从14更新到15。\n由于谱面更新，排行榜现已清空，敬请谅解(｡í _ ì｡)\n\n谱师：B站@闇騎",
+  "difficulty": 15.200001,
+  "file": "https://phira.5wyxi.com/files/1a049aea-72f1-49a7-9ab5-c9bb975f2fd7",
+  "id": 50672,
+  "illustration": "https://phira.5wyxi.com/files/c3eb3a8d-dc74-4314-8680-be6538671a0b",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Menghua",
+  "preview": "https://phira.5wyxi.com/files/c989b4da-8f5f-4498-a659-293b0c9804f4",
+  "ranked": false,
+  "rating": 0.8999361,
+  "ratingCount": 287,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-01T17:06:00.629370Z",
+  "uploader": 1012679
+}

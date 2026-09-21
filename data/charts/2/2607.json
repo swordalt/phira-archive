@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:12Z",
+    "lastChanged": "2026-09-21T02:01:12Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-27T04:29:53.537187Z",
+  "charter": "Calamity-phi",
+  "composer": "Sakuzyo",
+  "created": "2023-05-27T04:29:53.537187Z",
+  "description": "临时瞎作的谱",
+  "difficulty": 15.900003,
+  "file": "https://phira.5wyxi.com/files/2278e3d9-0e7d-4b9e-8bf1-5c860f2f1836",
+  "id": 2607,
+  "illustration": "https://phira.5wyxi.com/files/4dd4bd02-3a6e-4c34-bb3d-d61a809e00ff",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Crystar",
+  "preview": "https://phira.5wyxi.com/files/5a47b5f3-8571-4504-b69a-acb5d53f806b",
+  "ranked": false,
+  "rating": 0.69419324,
+  "ratingCount": 177,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-05-27T04:29:53.537187Z",
+  "uploader": 11109
+}

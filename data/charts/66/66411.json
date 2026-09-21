@@ -1,0 +1,40 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:58Z",
+    "lastChanged": "2026-09-21T02:06:58Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-14T05:05:50.226692Z",
+  "charter": "HRS-Team",
+  "composer": "litmus*",
+  "created": "2026-07-14T05:05:50.226692Z",
+  "description": "HRS-Lv.13-Sync单曲",
+  "difficulty": 13.6,
+  "file": "https://phira.5wyxi.com/files/624dbfe2-0831-48b8-a04f-7f54d4b42a69",
+  "id": 66411,
+  "illustration": "https://phira.5wyxi.com/files/5f518acf-c3b6-4781-9196-1733f6142d5b",
+  "illustrator": "",
+  "level": "Sync",
+  "name": "Flashdance",
+  "preview": "https://phira.5wyxi.com/files/05864e46-a28d-4d54-a5aa-9dcebe62b2fe",
+  "ranked": false,
+  "rating": 0.88150907,
+  "ratingCount": 19,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "HRS",
+    "双指",
+    "谐律段位",
+    "13",
+    "Sync",
+    "协",
+    "plain"
+  ],
+  "updated": "2026-07-14T05:05:50.226692Z",
+  "uploader": 2916891
+}

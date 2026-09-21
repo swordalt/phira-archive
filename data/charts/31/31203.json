@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:53Z",
+    "lastChanged": "2026-09-21T02:02:53Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-12-29T10:10:11.296085Z",
+  "charter": "西瓜西下",
+  "composer": "极简塔防",
+  "created": "2024-12-29T10:10:11.296085Z",
+  "description": null,
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/65a6479b-6559-4ccb-a450-69f2f8435323",
+  "id": 31203,
+  "illustration": "https://phira.5wyxi.com/files/6eddd450-cc0a-4464-bac1-80cc0a30ab54",
+  "illustrator": "",
+  "level": "Lv.14",
+  "name": "Boss LOOP",
+  "preview": "https://phira.5wyxi.com/files/39b456f1-a41a-464b-b63d-edd96d6004d1",
+  "ranked": false,
+  "rating": 0.8791058,
+  "ratingCount": 31,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-12-29T10:10:11.296085Z",
+  "uploader": 29600
+}

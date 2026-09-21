@@ -1,0 +1,39 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:22Z",
+    "lastChanged": "2026-09-21T02:02:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-13T11:33:14.235599Z",
+  "charter": "Agartha",
+  "composer": "Plum - Melodic Artist",
+  "created": "2024-07-13T11:33:14.235599Z",
+  "description": "截止2024.7.12.物量最高的mm2（上万），11分钟超长耐力谱，对底力、协调、脑裂等方面要求偏高。基本还原本家（冰与火之舞lrin）雪花并提升难度。一谱，可能有些卡手，初见杀。\n*雪花1（Last Resort）解法：十六分纵连+主旋律点击\n*雪花2（Tempest）解法：利用垂直判定滑屏\n*地球圈（Terrasphere）解法：【已修改，十六分纵连全部改为drag】\n*雪花3（Fallen Era）解法：八分三连音纵连\n*雪花4（Memory Locked）解法：\n【1】hold段按照主旋律双指一起点\n【2】十六分纵连\n【3】十六分纵连+主旋律点击\n*本次修改降低了难度，取消了部分点划，修改了假音符（雪花难度极高，但保持不变）。\n****建议关闭打击音效，尾杀按键声音很吵****\n这个谱降低了一点难度，并不是重复上传，审核员大大辛苦了",
+  "difficulty": 16.7,
+  "file": "https://phira.5wyxi.com/files/d4bf2e28-94c7-4d48-8c31-9efd24f85a83",
+  "id": 23375,
+  "illustration": "https://phira.5wyxi.com/files/47e57e17-f4e8-4fc9-bf6b-4ef9695d2b5e",
+  "illustrator": "",
+  "level": "AT.16",
+  "name": "Megamix 2",
+  "preview": "https://phira.5wyxi.com/files/afdd4b5b-2a5b-4f4f-ae5b-1b92cb09d5d1",
+  "ranked": false,
+  "rating": 0.87247777,
+  "ratingCount": 646,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "冰与火之舞",
+    "雪花",
+    "还原本家",
+    "纵连天堂",
+    "较难",
+    "regular"
+  ],
+  "updated": "2024-07-13T11:33:14.235599Z",
+  "uploader": 1117559
+}

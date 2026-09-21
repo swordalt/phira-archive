@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:10Z",
+    "lastChanged": "2026-09-21T02:04:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-01T08:30:49.074381Z",
+  "charter": "星夜·溯溡[StarryNight]",
+  "composer": "nm-y",
+  "created": "2025-12-31T19:12:26.805859Z",
+  "description": "惯例因为改谱导致删榜致歉。两年前发的谱了（虽然离上次改谱没到两年），但是还是有人在打所以想着改一下。2026.1.1，16:30，我忘记回填flick了，传个补丁…",
+  "difficulty": 17.2,
+  "file": "https://phira.5wyxi.com/files/1c7a3a2c-9ed4-4615-9348-0facd8de1186",
+  "id": 50798,
+  "illustration": "https://phira.5wyxi.com/files/e0b41232-764b-43b5-8e32-4ff88fd853e7",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "πevergod",
+  "preview": "https://phira.5wyxi.com/files/3952b548-89e1-4450-9f9d-b47cf113ec3d",
+  "ranked": false,
+  "rating": 0.9452506,
+  "ratingCount": 472,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "nevergod",
+    "regular"
+  ],
+  "updated": "2026-01-01T08:30:49.074381Z",
+  "uploader": 5741
+}

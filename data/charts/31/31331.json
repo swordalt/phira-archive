@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:54Z",
+    "lastChanged": "2026-09-21T02:02:54Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-01T14:37:07.979065Z",
+  "charter": "WGF Team",
+  "composer": "Diceros Bicornis",
+  "created": "2025-01-01T14:37:07.979065Z",
+  "description": "WGF Team（@氷川秋乃 @Yurisky_ @MooniteSakust @Necrologist_遗愿）龙音杯官网：longyincup.cn",
+  "difficulty": 18.200005,
+  "file": "https://phira.5wyxi.com/files/4ef0bb6b-b1d3-4645-ad6a-e24ac816a92f",
+  "id": 31331,
+  "illustration": "https://phira.5wyxi.com/files/67873c04-383a-417c-8c23-679e54d676ef",
+  "illustrator": "",
+  "level": "AT Lv.18",
+  "name": "Calamity Tempest",
+  "preview": "https://phira.5wyxi.com/files/78f32efd-9d76-4aeb-b226-e6937469d9b4",
+  "ranked": false,
+  "rating": 0.92311984,
+  "ratingCount": 379,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-14T17:07:06.021397Z",
+  "uploader": 89136
+}

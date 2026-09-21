@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:10Z",
+    "lastChanged": "2026-09-21T02:06:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-03-02T15:55:48.880925Z",
+  "charter": "LXT1f1e33",
+  "composer": "SHIKI",
+  "created": "2025-03-02T15:55:48.880925Z",
+  "description": "2.2 修改部分采音",
+  "difficulty": 20.0,
+  "file": "https://phira.5wyxi.com/files/099a854c-df97-49ae-bd9c-c47e888c5d96",
+  "id": 34770,
+  "illustration": "https://phira.5wyxi.com/files/2c130334-9061-42e2-85ab-af258de296cb",
+  "illustrator": "",
+  "level": "4K Lv.20",
+  "name": "Pure Ruby",
+  "preview": "https://phira.5wyxi.com/files/31e023a8-f7d9-4bc7-8082-f0717b0f9caf",
+  "ranked": false,
+  "rating": 0.95327604,
+  "ratingCount": 120,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2026-01-14T15:12:57.750769Z",
+  "uploader": 50170
+}

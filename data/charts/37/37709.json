@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:16Z",
+    "lastChanged": "2026-09-21T02:03:16Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-18T06:20:01.605290Z",
+  "charter": "RightFT",
+  "composer": "Juggernaut.",
+  "created": "2025-05-06T05:03:58.817094Z",
+  "description": null,
+  "difficulty": 16.400002,
+  "file": "https://phira.5wyxi.com/files/77ce51fb-af92-4fdf-9167-15c95ebb8998",
+  "id": 37709,
+  "illustration": "https://phira.5wyxi.com/files/4ea6a265-581c-4dae-88e0-5902f287aa1b",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Nemexis",
+  "preview": "https://phira.5wyxi.com/files/eeca3d25-1de5-4af1-b51a-d6c82c5d66c2",
+  "ranked": true,
+  "rating": 0.9227912,
+  "ratingCount": 1838,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "lanota",
+    "regular"
+  ],
+  "updated": "2025-05-26T17:03:57.108853Z",
+  "uploader": 140
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:49Z",
+    "lastChanged": "2026-09-21T02:04:49Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-19T12:12:36.968780Z",
+  "charter": "Xiao饼干c",
+  "composer": "h6itam/n7san7os/MC Menor do Alvorada",
+  "created": "2026-06-19T12:12:36.968780Z",
+  "description": "歌曲：MONTAGEM ALQUIMIA\n谱师：Xiao饼干c\n难度：SP.15.2\n物量：367\n事件：967\n目前谱子已知问题已修复：0619\n1.修复了39秒处与42秒处左右键位不一致的问题\n2.修复了谱面开头出现线的问题",
+  "difficulty": 15.2,
+  "file": "https://phira.5wyxi.com/files/3849ffbd-caa6-42c3-942e-c08212bae15d",
+  "id": 61514,
+  "illustration": "https://phira.5wyxi.com/files/f63117cf-bf48-4799-9fae-cf1c8160717c",
+  "illustrator": "",
+  "level": "SP",
+  "name": "MONTAGEM ALQUIMIA",
+  "preview": "https://phira.5wyxi.com/files/9878158f-167b-4b2a-8237-8ac0eb0b1aea",
+  "ranked": false,
+  "rating": 0.8888851,
+  "ratingCount": 21643,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-19T12:12:36.968780Z",
+  "uploader": 1852963
+}

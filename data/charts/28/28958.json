@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:44Z",
+    "lastChanged": "2026-09-21T02:02:44Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-10-22T14:00:22.046909Z",
+  "charter": "Γ-γ4+0",
+  "composer": "kanone",
+  "created": "2024-10-20T09:50:28.609114Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/31eb7491-8388-471e-8e82-3b7f3bb732dc",
+  "id": 28958,
+  "illustration": "https://phira.5wyxi.com/files/facc2f4c-4e95-4532-9fb9-790bea20a3ee",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "CO5M1C R4ILR0AD",
+  "preview": "https://phira.5wyxi.com/files/d16502c4-c1c9-4aa4-9fd1-4a4865feb057",
+  "ranked": false,
+  "rating": 0.92352116,
+  "ratingCount": 196,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-10-22T14:00:22.046909Z",
+  "uploader": 11
+}

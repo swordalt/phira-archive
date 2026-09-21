@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:55Z",
+    "lastChanged": "2026-09-21T02:05:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-23T15:02:08.218859Z",
+  "charter": "VANDY",
+  "composer": "Aoi",
+  "created": "2024-07-23T15:02:08.218859Z",
+  "description": "LC2024#2 GF HB1\n铺师本人上传",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/764a9c05-ed5c-4709-be5b-5b4c59942f7d",
+  "id": 24181,
+  "illustration": "https://phira.5wyxi.com/files/58833649-e5cc-4a9e-a549-31987ecd9a39",
+  "illustrator": "",
+  "level": "Check",
+  "name": "Checkmate",
+  "preview": "https://phira.5wyxi.com/files/9a7be974-620d-43d0-a1b9-1c4dd0de8463",
+  "ranked": false,
+  "rating": 0.85423684,
+  "ratingCount": 70,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "LC2024",
+    "plain"
+  ],
+  "updated": "2024-07-23T15:02:08.218859Z",
+  "uploader": 21497
+}

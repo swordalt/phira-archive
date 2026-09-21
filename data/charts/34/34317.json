@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:05Z",
+    "lastChanged": "2026-09-21T02:03:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-22T10:36:32.155231Z",
+  "charter": "silicopper",
+  "composer": "Laur",
+  "created": "2025-02-22T10:36:32.155231Z",
+  "description": "谱师：我 定数：16.2（以旧版定数表为标准） / 16.7（以新版定数表为标准）",
+  "difficulty": 16.700003,
+  "file": "https://phira.5wyxi.com/files/c6437f02-c1cd-4c27-b6bf-b430f9a4de98",
+  "id": 34317,
+  "illustration": "https://phira.5wyxi.com/files/bfa35f64-1b5f-469a-b119-4716980ea881",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Quaerite Veritatis",
+  "preview": "https://phira.5wyxi.com/files/ddfc0f54-b4d7-4a25-b82b-96d56b9b104b",
+  "ranked": false,
+  "rating": 0.90598875,
+  "ratingCount": 327,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-22T10:36:32.155231Z",
+  "uploader": 1459509
+}

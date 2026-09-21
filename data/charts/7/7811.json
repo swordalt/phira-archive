@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:36Z",
+    "lastChanged": "2026-09-21T02:05:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-17T08:54:00.237629Z",
+  "charter": "kgdj",
+  "composer": "Toby Fox",
+  "created": "2023-08-17T08:54:00.237629Z",
+  "description": "",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/d68cd44b-9e4b-4ffc-9ca7-8b2f1fa13f23",
+  "id": 7811,
+  "illustration": "https://phira.5wyxi.com/files/f011a484-d586-47cb-bd4e-82e1882834bd",
+  "illustrator": "",
+  "level": "IN",
+  "name": "attack of the Killer Queen",
+  "preview": "https://phira.5wyxi.com/files/e4fbacca-f02f-4f65-91e5-dafe04d372da",
+  "ranked": false,
+  "rating": 0.88964874,
+  "ratingCount": 235,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2023-08-17T08:54:00.237629Z",
+  "uploader": 41325
+}

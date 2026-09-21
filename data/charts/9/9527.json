@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:33Z",
+    "lastChanged": "2026-09-21T02:01:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-09-20T14:13:32.578322Z",
+  "charter": "InterJoke",
+  "composer": "litmus*",
+  "created": "2023-09-20T13:21:15.590330Z",
+  "description": "极远古谱面，2023动效调整版。BV13Z4y1F7xV",
+  "difficulty": 14.300001,
+  "file": "https://phira.5wyxi.com/files/9c92d6c6-2ba6-49cc-9e11-40d7646248dd",
+  "id": 9527,
+  "illustration": "https://phira.5wyxi.com/files/9f5ed3d1-1573-4a18-9a75-9c46d170f187",
+  "illustrator": "",
+  "level": "FM Lv.14",
+  "name": "Good Life",
+  "preview": "https://phira.5wyxi.com/files/3d9368df-64b7-450e-adb3-83b7c44f2cce",
+  "ranked": false,
+  "rating": 0.91114295,
+  "ratingCount": 241,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "G2R2018",
+    "regular"
+  ],
+  "updated": "2023-09-20T14:13:32.578322Z",
+  "uploader": 3017
+}

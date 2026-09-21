@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:00Z",
+    "lastChanged": "2026-09-21T02:05:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-19T03:05:25.350508Z",
+  "charter": "T-40",
+  "composer": "A-39",
+  "created": "2026-07-19T03:05:25.350508Z",
+  "description": "本人上传 可能传了两次 只是因为前面一次的在线状态有点难以捉摸（有排行榜但是不可下载游玩且其他账号无法查看） 如有机会 希望帮忙看看前一次上传（#67322）的在线状态并帮忙移除 感谢[鞠躬]",
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/463701e6-ecb2-4dee-ac1b-af29700d4b22",
+  "id": 67628,
+  "illustration": "https://phira.5wyxi.com/files/1584b7fb-f439-446e-baed-bf6807eb76ba",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "稳定因素",
+  "preview": "https://phira.5wyxi.com/files/36bbd999-955a-43b6-9f37-432aa8506a93",
+  "ranked": false,
+  "rating": 0.79247355,
+  "ratingCount": 9,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-19T03:05:25.350508Z",
+  "uploader": 9245
+}

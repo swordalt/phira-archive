@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:57Z",
+    "lastChanged": "2026-09-21T02:01:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-15T11:58:50.744015Z",
+  "charter": "6thPecJam",
+  "composer": "水野健治 vs 穴山大輔",
+  "created": "2024-02-15T11:58:50.744015Z",
+  "description": "6thPecJam参赛谱，动效摆烂了（",
+  "difficulty": 15.900001,
+  "file": "https://phira.5wyxi.com/files/1177d0ae-630d-49b3-84ff-826498d7c1b6",
+  "id": 15741,
+  "illustration": "https://phira.5wyxi.com/files/a9b11c6e-3747-4d61-9db0-1247f296c696",
+  "illustrator": "",
+  "level": "IN",
+  "name": "μ3",
+  "preview": "https://phira.5wyxi.com/files/b2080095-f42d-4b59-ae7f-e951076f7792",
+  "ranked": false,
+  "rating": 0.75729364,
+  "ratingCount": 176,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2024-03-09T15:24:17.835540Z",
+  "uploader": 1107
+}

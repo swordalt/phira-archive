@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:22Z",
+    "lastChanged": "2026-09-21T02:04:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-16T02:46:46.411112Z",
+  "charter": "云缘北岸",
+  "composer": "ヒバナ",
+  "created": "2026-02-16T02:46:46.411112Z",
+  "description": null,
+  "difficulty": 14.1,
+  "file": "https://phira.5wyxi.com/files/9dbcb22e-3d3d-4e13-9472-e70b5fa6cda4",
+  "id": 52767,
+  "illustration": "https://phira.5wyxi.com/files/a6dcdceb-7410-4864-b63a-c5ccc32c69c4",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "火花",
+  "preview": "https://phira.5wyxi.com/files/e6d09505-6712-447b-bfa6-18408cc6297d",
+  "ranked": false,
+  "rating": 0.93866026,
+  "ratingCount": 596,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-16T02:46:46.411112Z",
+  "uploader": 110697
+}

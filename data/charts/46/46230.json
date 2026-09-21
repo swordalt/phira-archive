@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:48Z",
+    "lastChanged": "2026-09-21T02:03:48Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-31T15:59:59.334524Z",
+  "charter": "奏坂学園譜面部门「SummerPT」",
+  "composer": "オンゲキシューターズ",
+  "created": "2025-08-31T15:59:59.334524Z",
+  "description": "本人上传\n5thWJC参赛谱\n果不其然，又选了这种萌萌的歌；\n这张谱的诞生来源于我对 轻多指 这个命题的尝试，意在写出大部分配置双指可解的基础多指谱面，在多指谱面动辄16或17的现在，我认为这样的尝试是值得的；官谱中也有radianceAT，愚人节雪降AT这样比较优秀的例子\n至于为啥是这首歌，那就是我的私心了）个人认为是音击主题曲里最好听的",
+  "difficulty": 15.6,
+  "file": "https://phira.5wyxi.com/files/199cedd6-1039-4dee-acde-543f6ac09ace",
+  "id": 46230,
+  "illustration": "https://phira.5wyxi.com/files/f7338317-1eb9-41a2-9ad2-d59ed827549d",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "Splash Dance!!",
+  "preview": "https://phira.5wyxi.com/files/2c9a12a1-8a60-48c4-afac-2241875a839f",
+  "ranked": true,
+  "rating": 0.9339582,
+  "ratingCount": 564,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "5thWJC",
+    "ONGEKI",
+    "regular"
+  ],
+  "updated": "2025-09-05T11:26:18.547196Z",
+  "uploader": 10002
+}

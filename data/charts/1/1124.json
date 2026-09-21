@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:08Z",
+    "lastChanged": "2026-09-21T02:01:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-06-11T05:54:21.350404Z",
+  "charter": "239 and LAJ as \"INVADER\"",
+  "composer": "EBIMAYO",
+  "created": "2023-05-03T14:17:14.863852Z",
+  "description": "B站关注@醒了不起的老傲娇 @Unknown239_谢谢喵\n可抗可拆的叠键爽谱，以及修改了很多人提出的不好的地方\n",
+  "difficulty": 15.561111,
+  "file": "https://phira.5wyxi.com/files/5856bf02-c6d5-43cb-b526-f417cc452fc0",
+  "id": 1124,
+  "illustration": "https://phira.5wyxi.com/files/83fa1b0b-aa42-4080-80bd-439eaa249c9c",
+  "illustrator": "",
+  "level": "IN  LV.15",
+  "name": "WORLDINVADER",
+  "preview": "https://phira.5wyxi.com/files/6111a7ed-1fcd-43a8-8e87-caa5c929832f",
+  "ranked": true,
+  "rating": 0.9149584,
+  "ratingCount": 3738,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "EBIMAYO",
+    "WORLDINVADER",
+    "GOODWORLD",
+    "regular"
+  ],
+  "updated": "2024-04-17T16:02:30.777265Z",
+  "uploader": 43
+}

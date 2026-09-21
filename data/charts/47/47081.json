@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:52Z",
+    "lastChanged": "2026-09-21T02:03:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-22T07:56:19.878874Z",
+  "charter": "Redza Stickmin",
+  "composer": "Shinrog",
+  "created": "2025-09-22T07:56:19.878874Z",
+  "description": "重制了一下，配置基本没变，表演和动效差不多全改了。",
+  "difficulty": 14.300001,
+  "file": "https://phira.5wyxi.com/files/8de1b202-bae8-4f99-ba44-ace299d56970",
+  "id": 47081,
+  "illustration": "https://phira.5wyxi.com/files/61764d1e-9329-49c5-ba1a-578f549662f1",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Infertehno",
+  "preview": "https://phira.5wyxi.com/files/be439c88-8e3d-4d7c-af62-cd002f684cd3",
+  "ranked": false,
+  "rating": 0.93947864,
+  "ratingCount": 446,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "亨利火柴人",
+    "小游戏BGM",
+    "regular"
+  ],
+  "updated": "2025-09-22T07:56:19.878874Z",
+  "uploader": 812953
+}

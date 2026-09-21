@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:36Z",
+    "lastChanged": "2026-09-21T02:02:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-22T18:29:51.544056Z",
+  "charter": "肖兔666",
+  "composer": "千坂",
+  "created": "2024-08-22T18:29:51.544056Z",
+  "description": "这是UP主第一次做谱，有些地方可能做得不好，请大家指点批评。\n————————————————————\n制谱软件：Re:PhiEdit(内测版)\n音乐：Fragments——千坂\n谱面：肖兔666\n耗时：9天\n———————————————\n游玩方式会在评论区出现\n————————————————\n最后感谢@cmdysj制作的Re:PhiEdit\n        感谢z_f_c对谱面的指导（虽然没有很多指导）",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/03012c83-00a8-4a55-8843-89d570dc4965",
+  "id": 26728,
+  "illustration": "https://phira.5wyxi.com/files/312b7825-1dca-4410-8054-ec78aa6fd3f9",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Fragments",
+  "preview": "https://phira.5wyxi.com/files/cb225764-3603-4a3c-81ac-6b0fe6a80fed",
+  "ranked": false,
+  "rating": 0.91256297,
+  "ratingCount": 222,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-22T18:29:51.544056Z",
+  "uploader": 10414
+}

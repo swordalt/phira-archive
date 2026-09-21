@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:07Z",
+    "lastChanged": "2026-09-21T02:04:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-18T09:28:57.059035Z",
+  "charter": "4thPecJam \"Cybifer\"",
+  "composer": "Silentroom",
+  "created": "2025-12-18T09:28:57.059035Z",
+  "description": "本谱为4thPecJam参赛谱，为了参加0thPecJam解谜而上传。原本计划改谱但迟迟未改，因此这谱就是2023年的样子，非常烂。后面有机会的话会重写的！",
+  "difficulty": 16.400005,
+  "file": "https://phira.5wyxi.com/files/b3b6c6ff-27f7-4cd3-9435-10c4348e6aff",
+  "id": 50308,
+  "illustration": "https://phira.5wyxi.com/files/d7c02b82-6b60-45a1-a4d4-c39caacece51",
+  "illustrator": "",
+  "level": "Legacy. Lv.16",
+  "name": "驟雨の狭間",
+  "preview": "https://phira.5wyxi.com/files/75fdc75d-9eff-427a-b824-429ded69d87f",
+  "ranked": false,
+  "rating": 0.8869168,
+  "ratingCount": 131,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-12-18T09:28:57.059035Z",
+  "uploader": 148983
+}

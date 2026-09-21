@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:03Z",
+    "lastChanged": "2026-09-21T02:04:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-21T03:03:23.618782Z",
+  "charter": "AmAtrue",
+  "composer": "Frums",
+  "created": "2025-11-21T03:03:23.618782Z",
+  "description": "该谱面使用TG铁锅炖大鹅制作的TPhi Editor制作。\n如果只说完整写完的正规谱子，那这应该是我的新人初谱。主打一个梦到啥写啥，配置也多有实验性。\n特别鸣谢: tpe 交流群两位群友 @你的昔涟小可爱(改进旋转段特效)，@WasilyAZ(提供配置改进思路)",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/04bfeb74-b5dd-4f94-9707-7f76f5d92ffb",
+  "id": 49328,
+  "illustration": "https://phira.5wyxi.com/files/3332e87d-ebaf-42c4-a034-32a489cbadb3",
+  "illustrator": "",
+  "level": "SP Lv.CCB",
+  "name": "Credits",
+  "preview": "https://phira.5wyxi.com/files/05d4b448-fbcd-4ddf-a44e-503c4e4d9824",
+  "ranked": false,
+  "rating": 0.8395167,
+  "ratingCount": 111,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-11-21T03:03:23.618782Z",
+  "uploader": 153302
+}

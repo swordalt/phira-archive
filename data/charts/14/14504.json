@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:52Z",
+    "lastChanged": "2026-09-21T02:01:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-01-31T02:46:09.490160Z",
+  "charter": "Ranulos",
+  "composer": "litmus*",
+  "created": "2024-01-31T02:46:09.490160Z",
+  "description": "Ranulos即倒过来的Solunar，也是是“Db黎明君”的另一个名字\n这个谱写得比较仓促了，后面没太注意细节，之后会改的",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/fc90d559-60b8-40b6-aa94-f9fa2ace1be5",
+  "id": 14504,
+  "illustration": "https://phira.5wyxi.com/files/30e6acb8-5704-4625-a670-2e69ee6f5e01",
+  "illustrator": "",
+  "level": "SP Lv.?",
+  "name": "Trojan",
+  "preview": "https://phira.5wyxi.com/files/29fce6cc-ad1b-4e6b-a72d-0408e3931bac",
+  "ranked": false,
+  "rating": 0.88407636,
+  "ratingCount": 977,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "OverRapid",
+    "regular"
+  ],
+  "updated": "2024-01-31T02:46:09.490160Z",
+  "uploader": 72457
+}

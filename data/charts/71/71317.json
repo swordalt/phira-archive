@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:05Z",
+    "lastChanged": "2026-09-21T02:05:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-05T01:29:26.106742Z",
+  "charter": "次点米糊",
+  "composer": "檀健次",
+  "created": "2026-08-05T01:29:26.106742Z",
+  "description": "第一次写谱。质量一般见谅啦",
+  "difficulty": 13.2,
+  "file": "https://phira.5wyxi.com/files/f8b15a4c-2bf0-4128-8857-a4f8b437669f",
+  "id": 71317,
+  "illustration": "https://phira.5wyxi.com/files/9efa5590-147a-403d-b568-45aee0f0f391",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "PROOF",
+  "preview": "https://phira.5wyxi.com/files/a46bd1af-6d0f-45cd-b189-6d22269685f7",
+  "ranked": false,
+  "rating": 0.9186718,
+  "ratingCount": 1134,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "檀健次",
+    "英文",
+    "次点米糊",
+    "regular"
+  ],
+  "updated": "2026-08-05T01:29:26.106742Z",
+  "uploader": 2018574
+}

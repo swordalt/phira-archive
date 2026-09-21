@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:23Z",
+    "lastChanged": "2026-09-21T02:02:23Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-17T04:45:38.603641Z",
+  "charter": "Kyursure",
+  "composer": "fromis_9",
+  "created": "2024-07-17T04:45:38.603641Z",
+  "description": "一个谱子好坏不重要，玩得开心才好",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/10cc7997-f77d-4986-856d-f9f706167e04",
+  "id": 23641,
+  "illustration": "https://phira.5wyxi.com/files/9b9b48b2-7f9b-4b2b-91bc-9606c83bfa13",
+  "illustrator": "",
+  "level": "IN Lv.14.4",
+  "name": "WE GO",
+  "preview": "https://phira.5wyxi.com/files/f10507b1-bcc1-4252-bef0-44ef89ce7425",
+  "ranked": false,
+  "rating": 0.8919214,
+  "ratingCount": 56,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-07-17T04:45:38.603641Z",
+  "uploader": 1127328
+}

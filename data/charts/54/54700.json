@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:31Z",
+    "lastChanged": "2026-09-21T02:04:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-29T02:28:53.341978Z",
+  "charter": "PecJam's Heart",
+  "composer": "削除",
+  "created": "2026-03-29T02:28:53.341978Z",
+  "description": "本人上传\n0thPecJam 谱面编号RG34\n谱面游玩时可根据hold排列进行大量反手的设计游玩。\n本人没使用旧版父线，玩起来有BUG！",
+  "difficulty": 14.500002,
+  "file": "https://phira.5wyxi.com/files/ebed99b7-d673-4d26-b0c9-4db2b9e16f6d",
+  "id": 54700,
+  "illustration": "https://phira.5wyxi.com/files/18b31cf3-f7df-4e1b-98b6-e3ea138c3517",
+  "illustrator": "",
+  "level": "IN  Lv.14",
+  "name": "心",
+  "preview": "https://phira.5wyxi.com/files/ed75a491-6426-4855-9f89-2a9febf7c9ff",
+  "ranked": false,
+  "rating": 0.89583814,
+  "ratingCount": 153,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "0thPecJam",
+    "regular"
+  ],
+  "updated": "2026-03-29T02:28:53.341978Z",
+  "uploader": 400
+}

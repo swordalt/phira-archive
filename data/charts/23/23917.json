@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:25Z",
+    "lastChanged": "2026-09-21T02:02:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-20T13:16:52.329311Z",
+  "charter": "Spasol",
+  "composer": "闫东炜",
+  "created": "2024-07-20T13:16:52.329311Z",
+  "description": "Aphaisa失语症 IN Lv15.1 重制版\n是我半年前写的谱子完全重制版(除了曲一样其他都推了)\n谱师: Spaso1\n曲师:闫东炜\n画师:我22G显存的rtx2080ti改(嗯)\n制谱软件:ExPhiedit_v4.5\n录制:Phira On Oppo findx7\n---\n为什么重制?\n看了 BV1f18neoELT 这个视频,被震撼了\n---\n当时小孩子不懂事,刚入坑,没想到一下就拿了个评分第一.\n---\n红键基本上都是垂直判定接,写的双压有亿点多....\nhold有很多中间夹键,但都有引导",
+  "difficulty": 15.1,
+  "file": "https://phira.5wyxi.com/files/7bc540c1-9635-41ac-89d7-5262b6da0c38",
+  "id": 23917,
+  "illustration": "https://phira.5wyxi.com/files/d08b7cd0-dd5c-4986-850b-58ae8ade9146",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Aphaisa",
+  "preview": "https://phira.5wyxi.com/files/99c24276-30e7-48cb-a27d-16c430042975",
+  "ranked": false,
+  "rating": 0.8094679,
+  "ratingCount": 353,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-07-20T13:16:52.329311Z",
+  "uploader": 511167
+}

@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:32Z",
+    "lastChanged": "2026-09-21T02:03:32Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-06T10:28:59.159994Z",
+  "charter": "Suikmilk 被修改 无叶",
+  "composer": "削除",
+  "created": "2025-07-25T01:40:16.483258Z",
+  "description": " 该谱面为【云梦•始源】比赛供谱\n首次登场于EX区24进16小组赛第五场\n————————————————\n曲名：Cryptarithm\n曲师：削除\n谱师：Suikmilk 被修改 无叶\n难度：IN Lv.16.0\n感谢@Unknown239_  录制谱面，感谢中微子 muun 无叶和葱油饼提供的改谱建议，感谢无叶修改谱面",
+  "difficulty": 16.000004,
+  "file": "https://phira.5wyxi.com/files/f17621f6-8822-439c-9485-87b51f10890d",
+  "id": 42655,
+  "illustration": "https://phira.5wyxi.com/files/46c61b7f-28d2-45c3-b924-998059bbe1cf",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Cryptarithm",
+  "preview": "https://phira.5wyxi.com/files/bdfa8bb8-a656-4fcc-8244-8cf3e7b6f865",
+  "ranked": true,
+  "rating": 0.91401076,
+  "ratingCount": 1865,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "maimai",
+    "云梦杯",
+    "regular"
+  ],
+  "updated": "2025-12-06T10:28:59.159994Z",
+  "uploader": 352146
+}

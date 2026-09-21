@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:09Z",
+    "lastChanged": "2026-09-21T02:01:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-25T10:41:10.085171Z",
+  "charter": "Daimeng_read x Faq_bot",
+  "composer": "cosMo@BousouP",
+  "created": "2023-05-12T05:48:38.954575Z",
+  "description": null,
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/7d554a4e-acc9-4d87-9f3e-3df72c5916df",
+  "id": 1694,
+  "illustration": "https://phira.5wyxi.com/files/85e232e1-20dd-4331-836d-d096c7717d5a",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Oceanus",
+  "preview": "https://phira.5wyxi.com/files/2facef3b-00ac-42f4-a0df-93d1e2bd0bcc",
+  "ranked": true,
+  "rating": 0.8933047,
+  "ratingCount": 2320,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-26T13:05:39.576087Z",
+  "uploader": 2777
+}

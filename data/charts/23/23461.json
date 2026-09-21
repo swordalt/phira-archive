@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:22Z",
+    "lastChanged": "2026-09-21T02:02:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-14T21:50:16.380640Z",
+  "charter": "King Ritmett",
+  "composer": "LeaF",
+  "created": "2024-07-14T21:50:16.380640Z",
+  "description": "[en-US]\nPOCU#2 3rd Place\nTheme: PGSRT",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/9b507bea-f77d-4552-b35f-385bfecd2d6f",
+  "id": 23461,
+  "illustration": "https://phira.5wyxi.com/files/398179a8-83d8-468b-b5ac-c4067333dea3",
+  "illustrator": "",
+  "level": "IN Lv. 15",
+  "name": "Queen Aluett -女王アルエット-",
+  "preview": "https://phira.5wyxi.com/files/68ae3062-36a5-40c6-abe5-e3812df586b9",
+  "ranked": false,
+  "rating": 0.8195948,
+  "ratingCount": 456,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "MuseDash",
+    "regular"
+  ],
+  "updated": "2024-07-14T21:50:16.380640Z",
+  "uploader": 495788
+}

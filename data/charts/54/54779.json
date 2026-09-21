@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:32Z",
+    "lastChanged": "2026-09-21T02:04:32Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-30T13:41:32.750040Z",
+  "charter": "seerukio",
+  "composer": "LeaF",
+  "created": "2026-03-30T13:41:32.750040Z",
+  "description": null,
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/5e3bcc47-48a5-44c5-a507-8f909a3e9b25",
+  "id": 54779,
+  "illustration": "https://phira.5wyxi.com/files/bc39bed4-3e98-4f68-abd5-87124f35b4e7",
+  "illustrator": "",
+  "level": "PRACTICE Lv.16",
+  "name": "命日",
+  "preview": "https://phira.5wyxi.com/files/5c41a157-2929-4654-9f9a-a919d59c3809",
+  "ranked": false,
+  "rating": 0.7476869,
+  "ratingCount": 18,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-03-30T13:41:32.750040Z",
+  "uploader": 268883
+}

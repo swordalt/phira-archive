@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:17Z",
+    "lastChanged": "2026-09-21T02:02:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-06-18T07:09:04.544139Z",
+  "charter": "Hry",
+  "composer": "Feryquitous,藍月なくる",
+  "created": "2024-06-18T07:09:04.544139Z",
+  "description": null,
+  "difficulty": 14.200001,
+  "file": "https://phira.5wyxi.com/files/3285b4af-d812-42e3-8556-8d18cc3f36ec",
+  "id": 21494,
+  "illustration": "https://phira.5wyxi.com/files/4a4eae2a-b4d4-4c67-b1c1-9dc4498d9798",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "月詠に鳴る",
+  "preview": "https://phira.5wyxi.com/files/ba4152a3-8ac6-4a62-b1d5-ac8d6f21c58f",
+  "ranked": false,
+  "rating": 0.9526808,
+  "ratingCount": 678,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "CHUNITHM",
+    "regular"
+  ],
+  "updated": "2024-06-18T07:09:04.544139Z",
+  "uploader": 15995
+}

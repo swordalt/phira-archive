@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:14Z",
+    "lastChanged": "2026-09-21T02:02:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-27T15:02:07.284817Z",
+  "charter": "TangenT ~帷幕拉开~",
+  "composer": "わかどり",
+  "created": "2024-05-27T15:02:07.284817Z",
+  "description": "upd：5.27 修复了谱面bug 个人自制故事曲包「苦痛剧目」先行曲",
+  "difficulty": 15.500002,
+  "file": "https://phira.5wyxi.com/files/bf9b9d86-625b-4447-9dcf-4b21275c4995",
+  "id": 20465,
+  "illustration": "https://phira.5wyxi.com/files/cd7c2b01-dbf1-4bda-80b7-9fc379b42209",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "NightTheater",
+  "preview": "https://phira.5wyxi.com/files/c1d13ce7-bb11-46db-b547-0e4aab45cdff",
+  "ranked": false,
+  "rating": 0.90501237,
+  "ratingCount": 280,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-05-27T15:02:07.284817Z",
+  "uploader": 599539
+}

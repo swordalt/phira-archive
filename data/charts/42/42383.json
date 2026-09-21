@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:31Z",
+    "lastChanged": "2026-09-21T02:03:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-22T02:17:47.215268Z",
+  "charter": "senty-Wh",
+  "composer": "HOYO-MIX",
+  "created": "2025-07-22T02:17:47.215268Z",
+  "description": null,
+  "difficulty": 13.900003,
+  "file": "https://phira.5wyxi.com/files/fe490849-315d-4527-90c6-01e24bf55ff8",
+  "id": 42383,
+  "illustration": "https://phira.5wyxi.com/files/cb0f4415-e583-4aa1-a992-1025836ec8b9",
+  "illustrator": "",
+  "level": "AT Lv.13.9",
+  "name": "静夜的轻语",
+  "preview": "https://phira.5wyxi.com/files/a9fd911d-e28c-4895-86f3-3ba149ef1af4",
+  "ranked": false,
+  "rating": 0.7381103,
+  "ratingCount": 49,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-07-22T02:17:47.215268Z",
+  "uploader": 1776318
+}

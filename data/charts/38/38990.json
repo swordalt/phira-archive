@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:21Z",
+    "lastChanged": "2026-09-21T02:03:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-15T07:51:32.227125Z",
+  "charter": "久茶sekou",
+  "composer": "桉铭_cat",
+  "created": "2025-05-31T13:56:56.971002Z",
+  "description": "【谱面增强】\n\n4k 段增强；修复中间休息段采音偏移；但是保留了 5k 段的实验性配置\n\n2025-0615\n\n---\n\n欢迎游玩，初次投递自制谱，有多不足请指正！\n曲师是桉铭大大哦！\n@桉铭_cat\n\n---\n\n谱面预览:BV1eG7TzuEEk\nB站同名\n",
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/43e5604f-5205-4126-8394-e03bac157279",
+  "id": 38990,
+  "illustration": "https://phira.5wyxi.com/files/4ae15ad9-8c9e-4d8b-afaf-8854832212c2",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "F_Ripples",
+  "preview": "https://phira.5wyxi.com/files/0d4e05bb-0574-4353-bc87-ab8ce819bdc3",
+  "ranked": false,
+  "rating": 0.9437014,
+  "ratingCount": 274,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-06-15T07:51:32.227125Z",
+  "uploader": 490936
+}

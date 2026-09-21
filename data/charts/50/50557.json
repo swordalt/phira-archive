@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:08Z",
+    "lastChanged": "2026-09-21T02:04:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-26T03:15:02.972760Z",
+  "charter": "Wakener",
+  "composer": "ARforest",
+  "created": "2025-12-26T03:15:02.972760Z",
+  "description": "谱师本人上传\n\n萌新谱师的初谱，从三年前高中时代创建，直至高考翻过了最后一页，这张谱才逐步完成。\n虽名为\"终篇\"，不过也许也是下一册的开始。这张谱是我写谱的开始，它不够优秀，里面夹带着三年间零碎写谱出现的诸多问题，但将来会随着我写谱技术的成熟逐步完善。\n希望你玩得开心！",
+  "difficulty": 15.500002,
+  "file": "https://phira.5wyxi.com/files/9f95d6b1-516e-4381-8ea5-d9519f3c1196",
+  "id": 50557,
+  "illustration": "https://phira.5wyxi.com/files/38cbcbfd-03fd-43bc-b15c-4961aebe7f43",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "The Last Page",
+  "preview": "https://phira.5wyxi.com/files/198ebf40-8a3c-45bc-8504-c6f3eb5e2bdc",
+  "ranked": false,
+  "rating": 0.89887124,
+  "ratingCount": 124,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "ARforest",
+    "regular"
+  ],
+  "updated": "2025-12-26T03:15:02.972760Z",
+  "uploader": 182191
+}

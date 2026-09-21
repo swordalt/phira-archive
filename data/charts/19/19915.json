@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:13Z",
+    "lastChanged": "2026-09-21T02:02:13Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-12T23:34:11.371573Z",
+  "charter": "Calepam",
+  "composer": "Team Grimoire",
+  "created": "2024-05-12T23:34:11.371573Z",
+  "description": "[en-GB] update: changed difficulty\nThank you for playing.",
+  "difficulty": 17.500002,
+  "file": "https://phira.5wyxi.com/files/02561800-1819-4917-9b3f-ab80b67b7eb7",
+  "id": 19915,
+  "illustration": "https://phira.5wyxi.com/files/983d4176-48c8-4e86-a326-906998e96731",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Astaroth",
+  "preview": "https://phira.5wyxi.com/files/038dff39-ebc7-44d1-97c1-e927668e1d1f",
+  "ranked": false,
+  "rating": 0.40858677,
+  "ratingCount": 672,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Lanota",
+    "regular"
+  ],
+  "updated": "2024-06-19T08:36:30.889153Z",
+  "uploader": 862130
+}

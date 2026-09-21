@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:52Z",
+    "lastChanged": "2026-09-21T02:03:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-24T09:23:28.053606Z",
+  "charter": "Setsuna_",
+  "composer": "BlackY",
+  "created": "2025-09-24T04:04:02.587167Z",
+  "description": "修复了部分误触问题———————————————— 曲名：LAMIA                                   曲师：BlackY                                    谱师：@MooniteSak8y1_ @花域FloraRealm @呼呼___w @A_Xiangwan @NEctaris_CArma @冬眠小麦karen                                                                        难度：AT Lv.18                                     配置： 1-289cb A_Xiangwan 290-790cb 花域FloraRealm 798-822cb A_Xiangwan 823-1248cb 呼呼_w vs. 花域FloraRealm 1249-1754cb 花域FloraRealm                                                                       特效： 0-826cb A_Xiangwan & NEctaris_CArma 826-end MooniteSak8y1_                                                  ————————————————",
+  "difficulty": 18.0,
+  "file": "https://phira.5wyxi.com/files/7d5204e0-6316-4332-b0d6-b350e4b5d84a",
+  "id": 47137,
+  "illustration": "https://phira.5wyxi.com/files/0784919e-e765-4598-ba1c-c83365b59055",
+  "illustrator": "",
+  "level": "AT Lv.18",
+  "name": "LAMIA",
+  "preview": "https://phira.5wyxi.com/files/389b8c26-dcc3-419a-938a-264de7c846e1",
+  "ranked": false,
+  "rating": 0.9056192,
+  "ratingCount": 319,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "ONGEKI",
+    "音击",
+    "高难",
+    "键盘",
+    "regular"
+  ],
+  "updated": "2025-09-24T09:23:28.053606Z",
+  "uploader": 16532
+}

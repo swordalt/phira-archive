@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:27Z",
+    "lastChanged": "2026-09-21T02:05:27Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-12-22T09:22:49.792081Z",
+  "charter": "ANT1",
+  "composer": "PSY",
+  "created": "2024-12-22T09:22:49.792081Z",
+  "description": "取得所有譜師同意上傳。譜師：Another N&NotTure1",
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/a29b6b84-9a5d-4cb1-a95e-1e9733fb8de1",
+  "id": 30987,
+  "illustration": "https://phira.5wyxi.com/files/7d7db959-ac37-40bf-aa89-cc80961af837",
+  "illustrator": "",
+  "level": "SP Lv.?",
+  "name": "GANGNAM STYLE",
+  "preview": "https://phira.5wyxi.com/files/14e57e0d-6ab0-4a61-b3dc-9170fe8a8e84",
+  "ranked": false,
+  "rating": 0.9322922,
+  "ratingCount": 3110,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-12-22T09:22:49.792081Z",
+  "uploader": 1302167
+}

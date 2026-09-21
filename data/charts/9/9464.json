@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:33Z",
+    "lastChanged": "2026-09-21T02:01:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-11-25T17:59:09.855302Z",
+  "charter": "X-Cross",
+  "composer": "Kobaryo",
+  "created": "2023-09-17T08:02:41.132232Z",
+  "description": "BPM=133→266\n修改日志5\n定数14.7→15.1\n开头加了一点表演，估摸着配置改得摸到15的门槛了，流速与表演线浓度再次降低，不至于尾杀目害。几处配置大动，比原来好玩。\n（要是某段打不过就硬糊吧反正-110ms才爆蓝）\n谱师b站号@BaioOTerragraph\n还是给大家说声抱歉吧，毕竟清了这么多次榜也着实有些不好意思。刚刚改了一下偏移，不然手感奇怪。",
+  "difficulty": 15.099999,
+  "file": "https://phira.5wyxi.com/files/a687db27-14c5-41a4-a360-42825f17e2a7",
+  "id": 9464,
+  "illustration": "https://phira.5wyxi.com/files/1c9b8005-a79b-4a79-af55-7a17d27184ec",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Recollection",
+  "preview": "https://phira.5wyxi.com/files/23105ccd-a4a9-44f8-b1c6-71dcfbdf63ed",
+  "ranked": false,
+  "rating": 0.92291623,
+  "ratingCount": 1684,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-11-26T03:46:16.820387Z",
+  "uploader": 32694
+}

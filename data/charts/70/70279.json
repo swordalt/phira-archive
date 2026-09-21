@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:04Z",
+    "lastChanged": "2026-09-21T02:05:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-31T05:16:59.898862Z",
+  "charter": "うしろものp、夜と共に舞う",
+  "composer": "seatrus/Yuta Goto",
+  "created": "2026-07-31T05:16:59.898862Z",
+  "description": "基本信息 // Basic Info\r\n曲名 // Title : Night Theat+er Etude\r\n曲师 // Composer : seatrus/Yuta Goto\r\n曲绘 // Artist : SJR哈 @SJR哈\r\n谱面信息 // Chart Info\r\n谱师名义 // Level Designer : うしろものp、夜と共に舞う （@_无叶_ ）\r\n难度 // Difficulty : AT Lv.16\r\n特别感谢 // Special Thanks\r\n曲绘包装设计 // Illustration Design : @SJR哈\r\n赛事主办 // Event Host : @克里Crimo",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/b95bf5dc-1f96-4970-9e93-395a362f7d59",
+  "id": 70279,
+  "illustration": "https://phira.5wyxi.com/files/f2b058b9-7228-43fc-80c0-5270743087ff",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Night Theat+er Etude",
+  "preview": "https://phira.5wyxi.com/files/6ce1f6a3-d7ca-4f32-b8f4-df452266452e",
+  "ranked": false,
+  "rating": 0.9119282,
+  "ratingCount": 378,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-31T05:16:59.898862Z",
+  "uploader": 540194
+}

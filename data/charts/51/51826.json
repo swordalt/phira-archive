@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:44Z",
+    "lastChanged": "2026-09-21T02:06:44Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-30T12:28:34.455316Z",
+  "charter": "sfcaris",
+  "composer": "ginkiha",
+  "created": "2026-01-30T12:28:34.455316Z",
+  "description": "该谱面由＂熊大sfcarisFW25880 ＂谱师本人亲自上传(该谱为重新上传，微调了判定线高度与谱面流速）",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/8f8069df-a931-4918-a810-f45a2d5b3ea8",
+  "id": 51826,
+  "illustration": "https://phira.5wyxi.com/files/fdf6c9f7-fb28-4051-92df-af5ebde56ef6",
+  "illustrator": "",
+  "level": "6K LN [19]",
+  "name": "EOS",
+  "preview": "https://phira.5wyxi.com/files/e6bb77b0-5d4c-4d86-9f7d-cc6b1ae735ae",
+  "ranked": false,
+  "rating": 0.88649786,
+  "ratingCount": 9,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6K",
+    "plain"
+  ],
+  "updated": "2026-01-30T12:28:34.455316Z",
+  "uploader": 2047360
+}

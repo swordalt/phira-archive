@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:19Z",
+    "lastChanged": "2026-09-21T02:04:19Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-08T14:59:12.535715Z",
+  "charter": "钍钍232",
+  "composer": "Sakuzyo & Nikki Simmons",
+  "created": "2026-02-08T14:59:12.535715Z",
+  "description": null,
+  "difficulty": 15.699999,
+  "file": "https://phira.5wyxi.com/files/df3cfc2d-7546-4021-8450-d7949d724d34",
+  "id": 52292,
+  "illustration": "https://phira.5wyxi.com/files/263c6fe3-549c-4fb3-babe-92467e58130a",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "Destr0yer",
+  "preview": "https://phira.5wyxi.com/files/cc304186-9f90-4e6c-bfb5-23b49dcf8ad5",
+  "ranked": false,
+  "rating": 0.7525579,
+  "ratingCount": 85,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-08T14:59:12.535715Z",
+  "uploader": 2057401
+}

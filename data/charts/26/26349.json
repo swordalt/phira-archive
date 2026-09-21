@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:34Z",
+    "lastChanged": "2026-09-21T02:02:34Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-15T14:29:34.895739Z",
+  "charter": "Chikoro",
+  "composer": "Camellia",
+  "created": "2024-08-15T14:29:34.895739Z",
+  "description": null,
+  "difficulty": 16.899992,
+  "file": "https://phira.5wyxi.com/files/fdf89ca4-6ad0-4eca-82cf-a54feb1d272b",
+  "id": 26349,
+  "illustration": "https://phira.5wyxi.com/files/709e00e4-c3fe-4619-87c3-36607a60d23b",
+  "illustrator": "",
+  "level": "AT Lv.16+",
+  "name": "We Could Get More Machinegun Psystyle! (And More Genre Switches)",
+  "preview": "https://phira.5wyxi.com/files/8f9a1f42-f0b2-46f3-8408-4c4fff7cf3bf",
+  "ranked": false,
+  "rating": 0.862599,
+  "ratingCount": 186,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "ADOFAI",
+    "Camellia",
+    "regular"
+  ],
+  "updated": "2024-08-15T14:29:34.895739Z",
+  "uploader": 12581
+}

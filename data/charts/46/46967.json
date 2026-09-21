@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:51Z",
+    "lastChanged": "2026-09-21T02:03:51Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-20T05:33:35.890803Z",
+  "charter": "feat.rek.weizer",
+  "composer": "samzing/TSAR",
+  "created": "2025-09-20T05:33:35.890803Z",
+  "description": null,
+  "difficulty": 14.9,
+  "file": "https://phira.5wyxi.com/files/4f195328-334a-49b0-95d9-81105804a87e",
+  "id": 46967,
+  "illustration": "https://phira.5wyxi.com/files/6d4188c5-6313-435c-b54c-673891dadb12",
+  "illustrator": "",
+  "level": "IN Lv:14.9",
+  "name": ".35",
+  "preview": "https://phira.5wyxi.com/files/69c6de29-7b1e-4288-9c9a-fb63b61658f5",
+  "ranked": false,
+  "rating": 0.78052473,
+  "ratingCount": 7,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-20T05:33:35.890803Z",
+  "uploader": 1583211
+}

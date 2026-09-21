@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:56Z",
+    "lastChanged": "2026-09-21T02:01:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-12T10:01:23.349175Z",
+  "charter": "TAT",
+  "composer": "Juggernaut.",
+  "created": "2024-02-12T10:01:23.349175Z",
+  "description": "本人第一张谱，可能本谱有些不足，请不要攻击谱师）",
+  "difficulty": 15.1,
+  "file": "https://phira.5wyxi.com/files/3c212d0d-9c7f-4251-997d-5c8b1eeed5d1",
+  "id": 15472,
+  "illustration": "https://phira.5wyxi.com/files/d7e431e1-f913-4a1c-8593-659ce1125f05",
+  "illustrator": "",
+  "level": "IN",
+  "name": "Antler",
+  "preview": "https://phira.5wyxi.com/files/613b5ff4-dd77-4a71-8a90-9fa1ef39189f",
+  "ranked": false,
+  "rating": 0.87627107,
+  "ratingCount": 282,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-02-12T10:01:23.349175Z",
+  "uploader": 198166
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:31Z",
+    "lastChanged": "2026-09-21T02:04:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-05T03:32:04.931654Z",
+  "charter": "冷小喵 feat. MUJI and Exception",
+  "composer": "FLAVOREALM!味之领域&LeoMusic-Effect&Colorpen&Taiyang",
+  "created": "2026-03-29T08:32:21.649865Z",
+  "description": "0thPecJam比赛谱面，编号RG30，合作谱师B站：母鸡Sama_，Abnormalily，预览视频：BV1dpXmB4EuP，感谢支持。\n2026.4.5更新:修改少量配置和排键宽度，微调了流速\n@Muji#3742@Abnormalily#1598",
+  "difficulty": 16.1,
+  "file": "https://phira.5wyxi.com/files/85b31de8-d883-4010-a6f7-9ce782cae401",
+  "id": 54729,
+  "illustration": "https://phira.5wyxi.com/files/8912b3c7-90f3-43eb-8d72-2b4393527872",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "涙色の狂愛",
+  "preview": "https://phira.5wyxi.com/files/b6914fe1-f4fc-4630-a061-f99d3b2c67fb",
+  "ranked": true,
+  "rating": 0.9465125,
+  "ratingCount": 2761,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "0thPecJam",
+    "regular"
+  ],
+  "updated": "2026-04-09T13:11:01.691119Z",
+  "uploader": 104
+}

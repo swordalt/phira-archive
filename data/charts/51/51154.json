@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:12Z",
+    "lastChanged": "2026-09-21T02:04:12Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-10T10:21:16.718306Z",
+  "charter": "小泡芙Furina",
+  "composer": "Hanser&嵇零&塔库",
+  "created": "2026-01-10T10:21:16.718306Z",
+  "description": "岁大饥，人相食",
+  "difficulty": 15.400001,
+  "file": "https://phira.5wyxi.com/files/01d67c17-44b2-4ab0-9116-085227b6c6d3",
+  "id": 51154,
+  "illustration": "https://phira.5wyxi.com/files/e71fb00c-8bde-4bd1-85ea-31ed035082e3",
+  "illustrator": "",
+  "level": "IN Lv.14+",
+  "name": "千里饿殍行",
+  "preview": "https://phira.5wyxi.com/files/2eb1e8a7-e8a5-467e-837d-e10453a3165d",
+  "ranked": false,
+  "rating": 0.942383,
+  "ratingCount": 807,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-26T15:38:19.753047Z",
+  "uploader": 1003054
+}

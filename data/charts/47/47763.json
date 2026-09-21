@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:38Z",
+    "lastChanged": "2026-09-21T02:06:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-06T12:15:08.425646Z",
+  "charter": "Phicrystal vs future snowcrystal",
+  "composer": "Kobaryo",
+  "created": "2025-10-06T12:15:08.425646Z",
+  "description": "新人铺师，虽然配置不够好，但至少可以打的......\n------------------------\n10月4日:调整部分配置，定数\n                  调整偏移\n之前上传的铺手感不好，所以重新上传更改的铺，之前的成绩被删除了，抱歉!",
+  "difficulty": 16.400002,
+  "file": "https://phira.5wyxi.com/files/0c11a2d0-f32e-4ac6-948b-33159a1674da",
+  "id": 47763,
+  "illustration": "https://phira.5wyxi.com/files/5018c170-a6f0-4a8b-947f-53928107303e",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Future Downloader",
+  "preview": "https://phira.5wyxi.com/files/1b3cd935-9a80-4b53-be35-1ddf42adf9be",
+  "ranked": false,
+  "rating": 0.91540724,
+  "ratingCount": 91,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-10-06T12:15:08.425646Z",
+  "uploader": 15206
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:47Z",
+    "lastChanged": "2026-09-21T02:02:47Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-11-20T07:55:17.819643Z",
+  "charter": "Ak_O",
+  "composer": "Ju_E",
+  "created": "2024-11-20T07:55:17.819643Z",
+  "description": "为本人上传\n谱师：赤澪",
+  "difficulty": 13.700001,
+  "file": "https://phira.5wyxi.com/files/0d88f2c0-b0f5-4708-bec2-2df5694cd472",
+  "id": 29910,
+  "illustration": "https://phira.5wyxi.com/files/0474c10c-9f01-458d-bf5d-8ffedec4c236",
+  "illustrator": "",
+  "level": "IN LV.13",
+  "name": "cryout",
+  "preview": "https://phira.5wyxi.com/files/d540d888-d46e-467d-a451-c21c8a5ef51f",
+  "ranked": false,
+  "rating": 0.8926119,
+  "ratingCount": 369,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "cryout",
+    "regular"
+  ],
+  "updated": "2024-11-20T07:55:17.819643Z",
+  "uploader": 1023140
+}

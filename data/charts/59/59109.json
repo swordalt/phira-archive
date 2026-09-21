@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:44Z",
+    "lastChanged": "2026-09-21T02:04:44Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-25T10:05:54.209745Z",
+  "charter": "Remaine_WH",
+  "composer": "Halv",
+  "created": "2026-05-25T10:05:54.209745Z",
+  "description": "谱师：b站@Remaine_WH\n新人初谱，也许是纯配置\n花了大概三天写\n——————————\n本谱面完全使用Malody，Malody V和M2P（转谱器）完成，使用Malody写排键写移动长条，使用Malody V写flick，使用M2P转谱",
+  "difficulty": 16.900003,
+  "file": "https://phira.5wyxi.com/files/f412a8e5-5149-4512-9cbe-00cee96d440b",
+  "id": 59109,
+  "illustration": "https://phira.5wyxi.com/files/48f5294b-3c2e-4a95-8d0d-efef7f2d1172",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "20XX's Phantasm Myths",
+  "preview": "https://phira.5wyxi.com/files/10b28d38-d292-4336-abe4-91bba4e60564",
+  "ranked": false,
+  "rating": 0.9447251,
+  "ratingCount": 120,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "键盘",
+    "纯配置",
+    "regular"
+  ],
+  "updated": "2026-05-25T10:05:54.209745Z",
+  "uploader": 67306
+}

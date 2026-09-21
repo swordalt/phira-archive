@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:58Z",
+    "lastChanged": "2026-09-21T02:01:58Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-17T06:51:01.512762Z",
+  "charter": "ほし",
+  "composer": "ああああ",
+  "created": "2024-02-17T06:51:01.512762Z",
+  "description": "",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/54305a5f-29a0-439f-8aca-2879150620c6",
+  "id": 15931,
+  "illustration": "https://phira.5wyxi.com/files/9194686b-3fbf-4abd-aa90-8247135b0062",
+  "illustrator": "",
+  "level": "IN   Lv.15",
+  "name": "ほしのおとしもの",
+  "preview": "https://phira.5wyxi.com/files/ade4a6b8-74c9-4165-98a3-879cb3701492",
+  "ranked": false,
+  "rating": 0.764603,
+  "ratingCount": 121,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2024-03-09T15:24:17.835540Z",
+  "uploader": 10762
+}

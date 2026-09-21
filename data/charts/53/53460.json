@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:24Z",
+    "lastChanged": "2026-09-21T02:04:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-26T12:50:06.342930Z",
+  "charter": "Queen_Fruit",
+  "composer": "LeaF",
+  "created": "2026-02-26T12:50:06.342930Z",
+  "description": "修改了一些判定问题，削弱了侧落段双押",
+  "difficulty": 17.400002,
+  "file": "https://phira.5wyxi.com/files/50241c87-4eea-435e-9e0f-596ebbf8559a",
+  "id": 53460,
+  "illustration": "https://phira.5wyxi.com/files/64388be4-df0f-49ad-9834-24920b6f8282",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Queen Aluett -女王アルエット-",
+  "preview": "https://phira.5wyxi.com/files/0d779621-16e2-41a6-86fc-2f605e0c1499",
+  "ranked": false,
+  "rating": 0.9402225,
+  "ratingCount": 343,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-26T12:50:06.342930Z",
+  "uploader": 561171
+}

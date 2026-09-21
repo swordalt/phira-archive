@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:21Z",
+    "lastChanged": "2026-09-21T02:03:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-01T15:55:11.881770Z",
+  "charter": "L0u1ss",
+  "composer": "Aaron Cherof",
+  "created": "2025-06-01T15:55:11.881770Z",
+  "description": null,
+  "difficulty": 9.900001,
+  "file": "https://phira.5wyxi.com/files/aeea5601-899f-4432-a788-159a83d67c02",
+  "id": 39107,
+  "illustration": "https://phira.5wyxi.com/files/a904de92-2cae-4cfa-8dc0-e5cb73ed10b7",
+  "illustrator": "",
+  "level": "mc",
+  "name": "Watcher",
+  "preview": "https://phira.5wyxi.com/files/21432944-f94e-4178-992b-22f89948bfa6",
+  "ranked": false,
+  "rating": 0.9412125,
+  "ratingCount": 310,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-06-01T15:55:11.881770Z",
+  "uploader": 535368
+}

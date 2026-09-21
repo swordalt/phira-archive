@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:02Z",
+    "lastChanged": "2026-09-21T02:02:02Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-04T12:01:01.219031Z",
+  "charter": "lnfine_S",
+  "composer": "Reno",
+  "created": "2024-03-04T12:01:01.219031Z",
+  "description": "谱面预览 BV1YF4m1577x\n6thPecJam SL No.3参赛谱\n\n骤停全删掉了(=ＴェＴ=) 改了点动效",
+  "difficulty": 14.499999,
+  "file": "https://phira.5wyxi.com/files/f855e0d2-0ff8-4de9-a495-a10b9d0ee905",
+  "id": 16737,
+  "illustration": "https://phira.5wyxi.com/files/9c4fb2b1-0dbc-49ba-b253-0acbd159d908",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Into The Sky",
+  "preview": "https://phira.5wyxi.com/files/79f9edac-d5fc-48e3-87fd-c14c1b95382b",
+  "ranked": true,
+  "rating": 0.9354583,
+  "ratingCount": 1496,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "VOCALOID",
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2024-03-04T12:01:01.219031Z",
+  "uploader": 111281
+}

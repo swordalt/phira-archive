@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:24Z",
+    "lastChanged": "2026-09-21T02:06:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-18T09:57:52.144223Z",
+  "charter": "ERGM ",
+  "composer": "zsry",
+  "created": "2025-07-18T09:57:52.144223Z",
+  "description": null,
+  "difficulty": 4.300001,
+  "file": "https://phira.5wyxi.com/files/e65ccc0b-98d1-41e4-a296-81acfa640ff3",
+  "id": 42036,
+  "illustration": "https://phira.5wyxi.com/files/b7351945-f354-4b2e-b1c9-55cb02d73b52",
+  "illustrator": "",
+  "level": "Lv.4k",
+  "name": "Jipper EX",
+  "preview": "https://phira.5wyxi.com/files/ce44d7b2-6c39-4f76-bee2-97e437f4e934",
+  "ranked": false,
+  "rating": 0.92557627,
+  "ratingCount": 59,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4k",
+    "plain"
+  ],
+  "updated": "2025-07-18T09:57:52.144223Z",
+  "uploader": 1599036
+}

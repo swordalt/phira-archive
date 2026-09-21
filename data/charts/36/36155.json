@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:10Z",
+    "lastChanged": "2026-09-21T02:03:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-06T08:52:23.781556Z",
+  "charter": "KILLER//WPT//RFT//YANY, feat.LogicM",
+  "composer": "Laur",
+  "created": "2025-04-04T15:50:20.730317Z",
+  "description": "原本为我和killeriest两人的合作谱，后来各种原因停滞了，十分感谢右果和盐盐两位大人接盘；\n550多cb那个倒流是LogicM帮忙写的\n一改，修改部分排键与特效，修正踩音错误\n二改，重写部分段落，感谢所有提出谱面修改建议的谱师\n\n@killeriest#52493\n@右果ary#140\n@YanY#471275",
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/6f97d503-a777-438a-a005-d55f26f370bd",
+  "id": 36155,
+  "illustration": "https://phira.5wyxi.com/files/5b425754-4f76-4801-86a2-dc59b1218701",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Escape a Cyber City",
+  "preview": "https://phira.5wyxi.com/files/bbd18de8-927b-43a4-8a93-a0333a77dda3",
+  "ranked": true,
+  "rating": 0.89834917,
+  "ratingCount": 1843,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-04-10T14:32:40.870433Z",
+  "uploader": 10002
+}

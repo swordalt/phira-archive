@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:01Z",
+    "lastChanged": "2026-09-21T02:05:01Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-20T05:56:08.585161Z",
+  "charter": "2462835",
+  "composer": "aren park",
+  "created": "2026-07-20T05:56:08.585161Z",
+  "description": "谱师本人上传\n因为上传问题去掉了一位曲师名\n补档",
+  "difficulty": 6.799999,
+  "file": "https://phira.5wyxi.com/files/db68e791-e9c0-4827-9683-4823c789ed0f",
+  "id": 67890,
+  "illustration": "https://phira.5wyxi.com/files/a2b24a35-ecd6-4187-a01d-248cfb062b8a",
+  "illustrator": "",
+  "level": "HD Lv.6",
+  "name": "Time Machine",
+  "preview": "https://phira.5wyxi.com/files/2ffbe3b7-c53c-4bf7-96c3-a6532e77c7e5",
+  "ranked": false,
+  "rating": 0.95006084,
+  "ratingCount": 109300,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-20T05:56:08.585161Z",
+  "uploader": 1498506
+}

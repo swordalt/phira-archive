@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:05Z",
+    "lastChanged": "2026-09-21T02:01:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-04-02T08:24:52.826382Z",
+  "charter": "awa_az",
+  "composer": "ARforest",
+  "created": "2023-04-02T08:24:52.826382Z",
+  "description": "代人上传，谱师：awa_az",
+  "difficulty": 16.1,
+  "file": "https://phira.5wyxi.com/files/cdc19530-091e-4d14-9156-3f419c84edc4",
+  "id": 372,
+  "illustration": "https://phira.5wyxi.com/files/68f6eab9-0305-47a9-a674-60a19df4ff1a",
+  "illustrator": "Dynamix",
+  "level": "AT",
+  "name": "Hemisphere",
+  "preview": "https://phira.5wyxi.com/files/b58bd7c6-919d-421b-ad6d-88356cea5544",
+  "ranked": false,
+  "rating": 0.8887055,
+  "ratingCount": 781,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-04-02T08:24:52.826382Z",
+  "uploader": 1108
+}

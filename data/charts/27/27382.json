@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:39Z",
+    "lastChanged": "2026-09-21T02:02:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-09-05T09:08:10.939236Z",
+  "charter": "The laSt - DAcWeN",
+  "composer": "Dingerbox",
+  "created": "2024-09-05T09:08:10.939236Z",
+  "description": "曲名：Bye\n曲师：Dingerbox\n谱师：The laSt – DAcWeN\n难度：WK Lv.15（15.1）\n物量：1413\n事件数：8047\n判定线数：14\n判定线最少的一集，因为不难所以我完全没有考虑手感，键全部乱放，3天赶出来的谱将就看看吧，以后可能不写谱了。",
+  "difficulty": 15.1,
+  "file": "https://phira.5wyxi.com/files/d95645fe-1e0a-4543-a2bc-f34a139ca8bf",
+  "id": 27382,
+  "illustration": "https://phira.5wyxi.com/files/6686b8d2-1d4d-487f-b7d0-308ea7b2bdd6",
+  "illustrator": "",
+  "level": "WK",
+  "name": "Bye",
+  "preview": "https://phira.5wyxi.com/files/898f41d6-a6fd-43fc-a6ab-93ba4bfa352c",
+  "ranked": false,
+  "rating": 0.841229,
+  "ratingCount": 339,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-09-05T09:08:10.939236Z",
+  "uploader": 9271
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:52Z",
+    "lastChanged": "2026-09-21T02:03:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-23T08:53:02.908921Z",
+  "charter": "ZBT",
+  "composer": "A-39",
+  "created": "2025-09-23T08:53:02.908921Z",
+  "description": null,
+  "difficulty": 16.5,
+  "file": "https://phira.5wyxi.com/files/9178cf8d-b211-4d9b-9a04-5283c3b1352b",
+  "id": 47108,
+  "illustration": "https://phira.5wyxi.com/files/838c4a1d-8ffe-43d8-af20-94fbf3039bdb",
+  "illustrator": "",
+  "level": "AT 16.5",
+  "name": "Water(feat. miku)",
+  "preview": "https://phira.5wyxi.com/files/443e8b07-bf4f-4c03-bead-2f3bcf2b86b9",
+  "ranked": false,
+  "rating": 0.8527976,
+  "ratingCount": 225,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-23T08:53:02.908921Z",
+  "uploader": 1535543
+}

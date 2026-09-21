@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:16Z",
+    "lastChanged": "2026-09-21T02:05:16Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-12T12:06:21.741473Z",
+  "charter": "ChartGPT",
+  "composer": "Rintaro Soma",
+  "created": "2026-09-12T11:49:19.524236Z",
+  "description": "本人上传，为2ndWMC参赛稿",
+  "difficulty": 11.0,
+  "file": "https://phira.5wyxi.com/files/46ec4f7d-68bf-4b41-8e05-857f0b8e0bda",
+  "id": 77893,
+  "illustration": "https://phira.5wyxi.com/files/0109b93b-522a-4d6e-a4bf-2d8f5bdb767e",
+  "illustrator": "",
+  "level": "IN Lv.11",
+  "name": "系ぎて",
+  "preview": "https://phira.5wyxi.com/files/ca2f7cc4-5347-4977-a4fd-01f27f5f9396",
+  "ranked": false,
+  "rating": 0.8681151,
+  "ratingCount": 259,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "纯良",
+    "2ndWMC",
+    "regular"
+  ],
+  "updated": "2026-09-12T12:31:50.354340Z",
+  "uploader": 81
+}

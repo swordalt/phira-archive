@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:28Z",
+    "lastChanged": "2026-09-21T02:01:28Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-20T14:18:41.789631Z",
+  "charter": "MujiSama",
+  "composer": "HOYO MIX",
+  "created": "2023-08-20T14:18:41.789631Z",
+  "description": "谱师本人上传  此为耐力谱",
+  "difficulty": 15.799999,
+  "file": "https://phira.5wyxi.com/files/3dfb9b9d-e446-4470-9713-b71bfd9d38d9",
+  "id": 8081,
+  "illustration": "https://phira.5wyxi.com/files/33e914b7-850e-4b18-87f0-b76293d2870d",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "Duel in the Mist",
+  "preview": "https://phira.5wyxi.com/files/08c7d68a-294b-4d19-8d5d-20cf0f1d213f",
+  "ranked": false,
+  "rating": 0.91174144,
+  "ratingCount": 7576,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "原神",
+    "regular"
+  ],
+  "updated": "2023-08-21T13:23:09.405347Z",
+  "uploader": 3742
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:43Z",
+    "lastChanged": "2026-09-21T02:03:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-19T12:48:31.466122Z",
+  "charter": "Unpaid_Employee",
+  "composer": "Yooh",
+  "created": "2025-08-19T12:48:31.466122Z",
+  "description": "已確定尾殺是可以全p，嘗試模仿cwc譜，理論上是可以打的，本人上傳",
+  "difficulty": 17.6,
+  "file": "https://phira.5wyxi.com/files/b2fca776-4429-48f1-8a18-19e7077a10f1",
+  "id": 45163,
+  "illustration": "https://phira.5wyxi.com/files/5f638012-dcb5-450c-a0c1-f783ba4c732f",
+  "illustrator": "",
+  "level": "AT",
+  "name": "Eternity",
+  "preview": "https://phira.5wyxi.com/files/4c32a248-81c3-4671-9465-f4293253b6fc",
+  "ranked": false,
+  "rating": 0.8510259,
+  "ratingCount": 138,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-19T12:48:31.466122Z",
+  "uploader": 1095046
+}

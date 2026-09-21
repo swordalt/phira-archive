@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:25Z",
+    "lastChanged": "2026-09-21T02:02:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-26T10:26:19.958421Z",
+  "charter": "lost experiment[muun]",
+  "composer": "アリスシャッハと魔法の楽団 ( Alice Schach and the Magic Orchestra)",
+  "created": "2024-07-20T06:19:06.186573Z",
+  "description": null,
+  "difficulty": 14.700002,
+  "file": "https://phira.5wyxi.com/files/1f37a40b-b0de-4822-bd4c-d7e599fd8659",
+  "id": 23885,
+  "illustration": "https://phira.5wyxi.com/files/5c497f46-8c89-4d4f-8c26-4de31a6c7a80",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "FEHLT（Deemo Edit）",
+  "preview": "https://phira.5wyxi.com/files/d22cadaf-459a-4f52-9f60-be28ff1c1d8f",
+  "ranked": false,
+  "rating": 0.9098988,
+  "ratingCount": 308,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "muun",
+    "regular"
+  ],
+  "updated": "2024-12-22T12:02:13.947431Z",
+  "uploader": 9820
+}

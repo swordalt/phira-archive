@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:52Z",
+    "lastChanged": "2026-09-21T02:03:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-21T11:12:16.508665Z",
+  "charter": "WSSB_SBX",
+  "composer": "Link\"0",
+  "created": "2025-09-21T11:12:16.508665Z",
+  "description": null,
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/2529166f-4edc-4bef-b76c-1dc14efe5a8f",
+  "id": 47065,
+  "illustration": "https://phira.5wyxi.com/files/392483e4-6214-4250-b827-02149bda8b53",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "iL-Artifact",
+  "preview": "https://phira.5wyxi.com/files/20c230c6-4da4-40b2-8580-679410c4c95e",
+  "ranked": false,
+  "rating": 0.85811144,
+  "ratingCount": 304,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-21T11:12:16.508665Z",
+  "uploader": 1621779
+}

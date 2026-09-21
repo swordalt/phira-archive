@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:45Z",
+    "lastChanged": "2026-09-21T02:04:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-30T11:48:23.564459Z",
+  "charter": "Crymir();",
+  "composer": "VILLAX",
+  "created": "2026-05-30T11:48:23.564459Z",
+  "description": null,
+  "difficulty": 14.000001,
+  "file": "https://phira.5wyxi.com/files/95356a48-a7e1-41d3-8153-40bea9d72279",
+  "id": 59510,
+  "illustration": "https://phira.5wyxi.com/files/9613c004-010f-439c-9988-62d16952e05f",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "世界函数~World Function~",
+  "preview": "https://phira.5wyxi.com/files/bb2100a1-1565-487d-a01d-9e332aae7b64",
+  "ranked": false,
+  "rating": 0.8928487,
+  "ratingCount": 162,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-05-30T11:48:23.564459Z",
+  "uploader": 366254
+}

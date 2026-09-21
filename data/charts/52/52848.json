@@ -1,0 +1,40 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:22Z",
+    "lastChanged": "2026-09-21T02:04:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-17T05:24:39.307377Z",
+  "charter": "Rinfall vs. Necrologist",
+  "composer": "Brokenroom",
+  "created": "2026-02-17T05:24:39.307377Z",
+  "description": "*此曲为ZENITH战队独占，版权所有\n此谱为ZENITH Silde Team Competition的决赛TB谱面\n曲绘套用了CoveCelestial Cup曲绘模板\n但注意此谱与CoveCelestial Cup无任何关联 完全两个比赛\n───────────────\n你们好，我是ZENITH战队的副队长 也是本次比赛的策划之一SuOnaSi\n在2026年的寒假中，我们举办了【ZENITH战队寒假团队赛】\n首先很荣幸的请到了Brokenroom老师为我们战队写了一首独占曲，真的非常感谢！\n在写谱方面我们邀请到了Rinfall与Necrologist，非常感谢二位老师的帮助\n因为缺乏举办比赛的经验，所以整个过程都坎坎坷坷，不过队长S神还是激励我们要坚持住，最后也是圆满完成了\n在此感谢所有参与人员\n@SL⑥-RinFall#558(配置)\n@Necrologist#977148(动效)",
+  "difficulty": 19.1,
+  "file": "https://phira.5wyxi.com/files/61e41f02-b25f-49aa-8834-8c2212d350b1",
+  "id": 52848,
+  "illustration": "https://phira.5wyxi.com/files/983047bf-1329-44b0-b1c6-b10c385aa01d",
+  "illustrator": "",
+  "level": "RUINS Lv.19",
+  "name": "俯瞰する廃墟(ZENITH 2026)",
+  "preview": "https://phira.5wyxi.com/files/04dd5445-f865-4794-8682-0b69eb391c85",
+  "ranked": false,
+  "rating": 0.90246236,
+  "ratingCount": 196,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "TB",
+    "Rinfall",
+    "决赛",
+    "ZENITH",
+    "天顶",
+    "独占",
+    "regular"
+  ],
+  "updated": "2026-04-12T17:49:04.599373Z",
+  "uploader": 146515
+}

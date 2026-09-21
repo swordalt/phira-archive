@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:30Z",
+    "lastChanged": "2026-09-21T02:04:30Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-27T15:19:52.028998Z",
+  "charter": "we witnessed 7 wonders, and the 0th day falls...",
+  "composer": "Sakuzyo",
+  "created": "2026-03-27T14:10:44.906492Z",
+  "description": "0thPecJam内场参赛谱 RG No.7，由我与半秋Autino合作完成。大概是本人近期最用心写的一张，不过写了些比较混沌的东西。希望各位喜欢！\r\n\r\n@半秋Autino#825",
+  "difficulty": 16.000004,
+  "file": "https://phira.5wyxi.com/files/c5eb4240-5983-4531-bb91-3cd35854cd75",
+  "id": 54601,
+  "illustration": "https://phira.5wyxi.com/files/237d0f8d-ac16-4d67-8387-6f63829fde9f",
+  "illustrator": "",
+  "level": "AT  Lv.16",
+  "name": "7 Wonders",
+  "preview": "https://phira.5wyxi.com/files/2db88c0a-ab9d-4c04-a77b-841d7d97155f",
+  "ranked": true,
+  "rating": 0.8415269,
+  "ratingCount": 1394,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "maimai",
+    "regular"
+  ],
+  "updated": "2026-05-14T05:30:34.330778Z",
+  "uploader": 148983
+}

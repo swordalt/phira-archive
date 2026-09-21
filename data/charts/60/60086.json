@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:45Z",
+    "lastChanged": "2026-09-21T02:04:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-06T06:31:11.297193Z",
+  "charter": "重生-ReBirth-",
+  "composer": "SXYGX",
+  "created": "2026-06-06T06:31:11.297193Z",
+  "description": "本人上传 重生-ReBirth-\n禁止录制该谱面的Autoplay游玩视频\n-------------------------------------------\n曲目:VEM MEU AMOR\n作曲:SXYGX\n曲绘:SXYGX\n谱面:重生-ReBirth-\n时长:108s\n难度:SP Lv.15.1（因为排键太丑了所以标SP）\n\n事件数：2943\n物量：600\nBPM：120\n线数：20\n用时：7d\n制谱器内用时：未知\n\n制谱器：T-Phi Editor\n渲染器：Phira 0.4.0\n\n特别感谢\n@TG铁锅炖大鹅 提供制谱器\n@Phira官方 提供渲染器\n@星寰-StarSpace- @AT收藏家 提供改谱意见\n骁龙8gen5真的太流畅了你们知道吗\n复制粘贴太好用了你们知道吗",
+  "difficulty": 15.1,
+  "file": "https://phira.5wyxi.com/files/0d87ef68-e411-4a91-b201-3577069f180c",
+  "id": 60086,
+  "illustration": "https://phira.5wyxi.com/files/55f78155-0ccf-4c0c-8886-d611182c5416",
+  "illustrator": "",
+  "level": "SP Lv.15",
+  "name": "VEM MEU AMOR",
+  "preview": "https://phira.5wyxi.com/files/e31cf865-4b39-4523-b7d6-4f74ce8e2b71",
+  "ranked": false,
+  "rating": 0.9308167,
+  "ratingCount": 225,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-06T06:31:11.297193Z",
+  "uploader": 771105
+}

@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:54Z",
+    "lastChanged": "2026-09-21T02:02:54Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-01T14:56:06.817440Z",
+  "charter": "风云Cloud",
+  "composer": "ミツキヨ",
+  "created": "2025-01-01T14:56:06.817440Z",
+  "description": "新手制谱，将谱面大致改了一下（把那写的不怎么好的交互转纵连给改了）\n物量:908",
+  "difficulty": 14.500002,
+  "file": "https://phira.5wyxi.com/files/2fb2cae8-46a9-49f2-86f2-f2900354e144",
+  "id": 31333,
+  "illustration": "https://phira.5wyxi.com/files/01968c7d-c6cc-475b-947c-cc81092e2577",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Rolling beat",
+  "preview": "https://phira.5wyxi.com/files/c339ae73-9424-460e-94f8-1dbc602fb5b7",
+  "ranked": false,
+  "rating": 0.93814325,
+  "ratingCount": 1962,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "BlueArchive",
+    "BA",
+    "碧蓝档案",
+    "regular"
+  ],
+  "updated": "2025-02-15T00:03:49.800905Z",
+  "uploader": 20898
+}

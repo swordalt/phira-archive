@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:45Z",
+    "lastChanged": "2026-09-21T02:02:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-18T12:06:21.899353Z",
+  "charter": "light_down",
+  "composer": "F-777",
+  "created": "2024-10-28T10:34:03.300999Z",
+  "description": "新人初谱，不合理部分已改完",
+  "difficulty": 15.899998,
+  "file": "https://phira.5wyxi.com/files/b2eb035d-4bb7-4206-a671-2baba6ec82e4",
+  "id": 29187,
+  "illustration": "https://phira.5wyxi.com/files/c4b279c7-74ed-4cfe-aa76-ac425eeb9484",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Airborne Robots",
+  "preview": "https://phira.5wyxi.com/files/04154abd-fced-4b1b-9bb1-7c5657c77581",
+  "ranked": false,
+  "rating": 0.8159711,
+  "ratingCount": 122,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-18T12:06:21.899353Z",
+  "uploader": 3651
+}

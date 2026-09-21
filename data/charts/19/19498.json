@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:11Z",
+    "lastChanged": "2026-09-21T02:02:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-04T11:20:45.452595Z",
+  "charter": "Achory",
+  "composer": "F Rabbeat",
+  "created": "2024-05-04T11:20:45.452595Z",
+  "description": "BOF:NT 很喜欢的一首曲子\n但是写的有点小草率了，，对不起\n比以前配置写得放开了点，动效写得收敛了点，原因是 6pj 被说排键单一动效太大了（",
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/e0762159-4ac7-4812-9ad9-79bb9933329f",
+  "id": 19498,
+  "illustration": "https://phira.5wyxi.com/files/0f9b22b8-160e-45ee-a41b-385b92228f2c",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "How To Make 音ゲ～曲!",
+  "preview": "https://phira.5wyxi.com/files/95022f37-7cec-4148-844b-1b1f375fa487",
+  "ranked": false,
+  "rating": 0.9276921,
+  "ratingCount": 884,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "BOFNT",
+    "regular"
+  ],
+  "updated": "2024-05-04T11:20:45.452595Z",
+  "uploader": 55376
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:21Z",
+    "lastChanged": "2026-09-21T02:04:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-14T16:18:58.249654Z",
+  "charter": "Keabra",
+  "composer": "ARForest",
+  "created": "2026-02-14T16:18:58.249654Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/9be2c1ef-c7dd-4a9c-af72-365c33ad45ac",
+  "id": 52679,
+  "illustration": "https://phira.5wyxi.com/files/82208fe1-d9a2-409a-877b-f748edc3b383",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Inverted  World",
+  "preview": "https://phira.5wyxi.com/files/01d0af5c-84dd-4834-bd18-a25835a10729",
+  "ranked": false,
+  "rating": 0.89310473,
+  "ratingCount": 246,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-14T16:18:58.249654Z",
+  "uploader": 1813549
+}

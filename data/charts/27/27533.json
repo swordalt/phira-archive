@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:39Z",
+    "lastChanged": "2026-09-21T02:02:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-09-08T04:45:36.867210Z",
+  "charter": "U1BfODc=(SP_87)",
+  "composer": "Kobaryo",
+  "created": "2024-09-08T04:45:36.867210Z",
+  "description": "提高了判定线透明度，修改了一些配置和采音",
+  "difficulty": 16.600002,
+  "file": "https://phira.5wyxi.com/files/2a3641e3-6c6b-4159-9198-95266d2cd444",
+  "id": 27533,
+  "illustration": "https://phira.5wyxi.com/files/67684239-478a-4130-89a1-0609236e845c",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Dimension Hacker",
+  "preview": "https://phira.5wyxi.com/files/1323b187-d57c-4cd3-bf62-7ab11cbda294",
+  "ranked": false,
+  "rating": 0.8909393,
+  "ratingCount": 88,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-09-08T04:45:36.867210Z",
+  "uploader": 261839
+}

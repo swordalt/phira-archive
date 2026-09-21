@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:21Z",
+    "lastChanged": "2026-09-21T02:03:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-05T19:11:07.251440Z",
+  "charter": "xiechar",
+  "composer": "kanoryo",
+  "created": "2025-06-05T19:11:07.251440Z",
+  "description": null,
+  "difficulty": 15.5,
+  "file": "https://phira.5wyxi.com/files/b9144fe6-db75-4168-9e92-e7dd540e2d82",
+  "id": 39247,
+  "illustration": "https://phira.5wyxi.com/files/bd08629f-c6d7-4c01-bae7-421960ba2498",
+  "illustrator": "",
+  "level": "IN15",
+  "name": "Ark",
+  "preview": "https://phira.5wyxi.com/files/a8aa48f5-c5cc-488c-b32a-252b50546d00",
+  "ranked": false,
+  "rating": 0.8149515,
+  "ratingCount": 129,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-06-05T19:11:07.251440Z",
+  "uploader": 1486870
+}

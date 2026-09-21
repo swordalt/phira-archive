@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:02Z",
+    "lastChanged": "2026-09-21T02:05:02Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-26T06:36:43.824113Z",
+  "charter": "REANIMATE Z.zz+ Lv.11.zip",
+  "composer": "Warak",
+  "created": "2026-07-26T06:36:43.824113Z",
+  "description": "完成时间：2025.7\n总线数：4\n还原某个2k游戏",
+  "difficulty": 16.399998,
+  "file": "https://phira.5wyxi.com/files/13abd688-fed2-49e4-9dbe-26f0040e9823",
+  "id": 69273,
+  "illustration": "https://phira.5wyxi.com/files/9aad6f36-3b8c-41ed-9fbc-767ae2674144",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "暗夜苏醒 (REANIMATE)",
+  "preview": "https://phira.5wyxi.com/files/cfb7d893-d16c-4bbc-aa29-e06bcd5b4285",
+  "ranked": false,
+  "rating": 0.8496525,
+  "ratingCount": 31,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-26T06:36:43.824113Z",
+  "uploader": 842564
+}

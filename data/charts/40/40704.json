@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:26Z",
+    "lastChanged": "2026-09-21T02:03:26Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-02T04:09:49.080585Z",
+  "charter": "Last Bocchi vs. Kingdom PT",
+  "composer": "USAO",
+  "created": "2025-07-02T04:09:49.080585Z",
+  "description": "2022年谱面修改，感谢winterPT的特效修改！",
+  "difficulty": 16.1,
+  "file": "https://phira.5wyxi.com/files/56dfcebe-016b-40ec-a3da-42355fee8b4a",
+  "id": 40704,
+  "illustration": "https://phira.5wyxi.com/files/1b2cd448-dffb-4a8c-9a88-c18ca73fcaf3",
+  "illustrator": "",
+  "level": "IN  Lv.16",
+  "name": "Last Kingdom",
+  "preview": "https://phira.5wyxi.com/files/7888d19a-6e68-455b-a4ab-6edf5708e553",
+  "ranked": false,
+  "rating": 0.9132791,
+  "ratingCount": 385,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "ONGEKI",
+    "regular"
+  ],
+  "updated": "2025-07-02T04:09:49.080585Z",
+  "uploader": 19030
+}

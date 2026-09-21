@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:17Z",
+    "lastChanged": "2026-09-21T02:01:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-06-23T07:01:26.141813Z",
+  "charter": "Sayonara-mtic",
+  "composer": "REDSHiFT",
+  "created": "2023-06-23T07:01:26.141813Z",
+  "description": "初制谱，献给我Arcaea里最爱的一首",
+  "difficulty": 13.699999,
+  "file": "https://phira.5wyxi.com/files/3a674fce-aa4d-422c-9a3c-e511002a3a08",
+  "id": 3931,
+  "illustration": "https://phira.5wyxi.com/files/3eb4c510-9150-403b-bd18-41245a2b6a85",
+  "illustrator": "",
+  "level": "FTR 13",
+  "name": "Sayonara Hatsukoi",
+  "preview": "https://phira.5wyxi.com/files/cf65afea-31ab-4331-9ef0-3729f2a8451d",
+  "ranked": false,
+  "rating": 0.72333366,
+  "ratingCount": 149,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-06-23T07:01:26.141813Z",
+  "uploader": 5721
+}

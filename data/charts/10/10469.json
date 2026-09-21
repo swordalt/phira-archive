@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:37Z",
+    "lastChanged": "2026-09-21T02:01:37Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-10-14T14:41:08.921229Z",
+  "charter": "1004",
+  "composer": "Cheetah Mobile",
+  "created": "2023-10-14T14:41:08.921229Z",
+  "description": "其实这是我的初谱，因为种种原因一直没上传phira",
+  "difficulty": 15.500002,
+  "file": "https://phira.5wyxi.com/files/3792146f-bebf-49fe-94e3-acd9fdd06f72",
+  "id": 10469,
+  "illustration": "https://phira.5wyxi.com/files/c946adc9-9926-4a1e-bf60-d5102927443c",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "俄罗斯方块",
+  "preview": "https://phira.5wyxi.com/files/1e5a76f7-20fb-4a4d-aa4c-2c291579fa2a",
+  "ranked": false,
+  "rating": 0.87649935,
+  "ratingCount": 868,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-10-14T14:41:08.921229Z",
+  "uploader": 82296
+}

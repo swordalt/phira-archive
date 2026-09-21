@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:22Z",
+    "lastChanged": "2026-09-21T02:03:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-13T07:48:06.931995Z",
+  "charter": "DIMAXV",
+  "composer": "OAO",
+  "created": "2025-06-13T07:48:06.931995Z",
+  "description": "差分谱",
+  "difficulty": 16.699999,
+  "file": "https://phira.5wyxi.com/files/3d7c509d-4811-40e3-8945-d2d2eca2c852",
+  "id": 39547,
+  "illustration": "https://phira.5wyxi.com/files/cf37a23c-bcbf-4f4d-b2fa-2bcfa5306222",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "TIME HEALS EVERYTHING",
+  "preview": "https://phira.5wyxi.com/files/a25b320c-fc58-42d8-8ae9-99efb27b1b3e",
+  "ranked": false,
+  "rating": 0.923301,
+  "ratingCount": 124,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-06-20T12:17:34.253922Z",
+  "uploader": 488589
+}

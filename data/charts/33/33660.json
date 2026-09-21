@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:02Z",
+    "lastChanged": "2026-09-21T02:03:02Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-10T13:11:41.898643Z",
+  "charter": "SparkleFire",
+  "composer": "响 & 星幂Elroy & Jan Kortanidze",
+  "created": "2025-02-09T08:03:36.243215Z",
+  "description": "严格意义上的初谱，邀请了Yu_Sh_Q写了尾杀的四个烟花表演\n一张不常见的低难谱，希望大家喜欢（写了很久在B站给个三连吧谢谢谢谢（磕头））\n2025.2.9微调：调整了尾杀的流速，定数上调至13.4\n2026.7.2更换了曲绘\n\n",
+  "difficulty": 13.400002,
+  "file": "https://phira.5wyxi.com/files/0c50f521-4bef-4329-a81c-bad99c80e1f8",
+  "id": 33660,
+  "illustration": "https://phira.5wyxi.com/files/060f4e00-c62f-4195-aa98-e57298de23c6",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "Relieve",
+  "preview": "https://phira.5wyxi.com/files/20470ce1-3b0b-49ea-80ed-3a41df117d44",
+  "ranked": false,
+  "rating": 0.9312509,
+  "ratingCount": 429,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "去远方",
+    "regular"
+  ],
+  "updated": "2026-07-02T04:04:09.054851Z",
+  "uploader": 1492280
+}

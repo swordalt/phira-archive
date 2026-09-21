@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:27Z",
+    "lastChanged": "2026-09-21T02:04:27Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-07T13:13:37.069929Z",
+  "charter": "SeaSinvo",
+  "composer": "诺亚",
+  "created": "2026-03-07T13:13:37.069929Z",
+  "description": null,
+  "difficulty": 13.7,
+  "file": "https://phira.5wyxi.com/files/78223a5a-6629-4c93-82dd-bfdfca34360b",
+  "id": 53934,
+  "illustration": "https://phira.5wyxi.com/files/1e57168b-b3f5-44e7-8223-12032947932c",
+  "illustrator": "",
+  "level": "MAR.7th-Lv.13.7",
+  "name": "Say Yeah",
+  "preview": "https://phira.5wyxi.com/files/f9388dc4-eb93-4e0f-9dcd-a4cd509dbfa5",
+  "ranked": false,
+  "rating": 0.88372463,
+  "ratingCount": 44,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-03-07T13:13:37.069929Z",
+  "uploader": 2111189
+}

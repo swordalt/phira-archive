@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:39Z",
+    "lastChanged": "2026-09-21T02:02:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-09-28T17:23:04.679123Z",
+  "charter": "Ready—！",
+  "composer": "★游戏开发部★",
+  "created": "2024-09-10T11:20:36.814434Z",
+  "description": "=========================\n谱师本人上传，B站: 噬梦Suika\n=========================\n由于歌曲相关的人太多了所以换了种写法\n作曲：S9ryne / VeetaCrush / Nevia\n演唱：苏枕袖 / 阎么么 / 皛四白 / 宅在家里什么都不会\n谱面后半段有部分闪烁，可能会引起部分人不适。\n曲绘来自Pixiv画师：かにかまぼこ（ID：108727808）\n谱面开头资源包作者B站：倆只罙梦溪（ID：615833044）\n==========================\n由于Phira不支持判定线锚点会导致部分地方显示错误\n———————————————\n更新内容：\n曲绘更换，作者Pixiv：Jell\n修改了断线部分\n删除了部分憋憋故事板表演\n某一段增加少量表演\n结尾血条修改，16:9比例正常显示，其他比例暂时没有做到",
+  "difficulty": 14.699995,
+  "file": "https://phira.5wyxi.com/files/dd1f6eb4-e6ed-4a60-92e6-8e813054de57",
+  "id": 27559,
+  "illustration": "https://phira.5wyxi.com/files/2fe65e46-c9a3-4812-9886-5d6828c72940",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "JUMP！BEAT！PLAY！",
+  "preview": "https://phira.5wyxi.com/files/0d637c3c-ce36-4eea-bc45-cdaba998bcd3",
+  "ranked": false,
+  "rating": 0.9639585,
+  "ratingCount": 7931,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "蔚蓝档案",
+    "故事板",
+    "regular"
+  ],
+  "updated": "2024-09-28T17:23:04.679123Z",
+  "uploader": 786
+}

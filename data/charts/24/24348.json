@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:26Z",
+    "lastChanged": "2026-09-21T02:02:26Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-25T18:36:32.813103Z",
+  "charter": "Iblcya as \"HEATDEATHER\"",
+  "composer": "takehirotei as \"Infinite Limit\"",
+  "created": "2024-07-25T18:36:32.813103Z",
+  "description": "LC2024#2 GF TB2 (With Shader)\n更新了一个星号\n感觉不是很观赏遂提交到常规区，审核觉得不像就打回到观赏区吧",
+  "difficulty": 18.1,
+  "file": "https://phira.5wyxi.com/files/feab9d37-590b-4692-87a3-229e828ad122",
+  "id": 24348,
+  "illustration": "https://phira.5wyxi.com/files/8c3aabd3-ee7f-4d93-91c7-79a685bad665",
+  "illustrator": "",
+  "level": "Retrospection Lv.18",
+  "name": "★Fullest Adventure from the Abyss to Devine",
+  "preview": "https://phira.5wyxi.com/files/a955627b-eebc-4427-ac4b-5c68b7f5d28b",
+  "ranked": false,
+  "rating": 0.89184487,
+  "ratingCount": 131,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "LC2024",
+    "plainshader",
+    "regular"
+  ],
+  "updated": "2024-08-10T00:11:42.062138Z",
+  "uploader": 1153489
+}

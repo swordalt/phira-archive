@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:54Z",
+    "lastChanged": "2026-09-21T02:05:54Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-21T03:28:39.317523Z",
+  "charter": "Flass",
+  "composer": "FEWZ",
+  "created": "2024-07-21T03:28:39.317523Z",
+  "description": "升",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/efe835bd-32f2-4686-b4f3-1f960736a63e",
+  "id": 23942,
+  "illustration": "https://phira.5wyxi.com/files/8f173859-dd90-4ae2-962f-63a70eeb1d5a",
+  "illustrator": "",
+  "level": "Lv.升空",
+  "name": "Levitate（4k）",
+  "preview": "https://phira.5wyxi.com/files/64487575-bbac-478c-8151-3316afabb97e",
+  "ranked": false,
+  "rating": 0.9211484,
+  "ratingCount": 86,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4k",
+    "plain"
+  ],
+  "updated": "2025-11-08T07:19:18.392261Z",
+  "uploader": 541497
+}

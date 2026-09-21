@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:25Z",
+    "lastChanged": "2026-09-21T02:02:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-23T08:40:53.549556Z",
+  "charter": "Virtese",
+  "composer": "Juggernaut.",
+  "created": "2024-07-21T13:59:04.091909Z",
+  "description": "更新\n修改尾杀的排键，铺面定数15.7",
+  "difficulty": 15.700003,
+  "file": "https://phira.5wyxi.com/files/1b3a81e4-5305-4f68-a45c-4a7bbe56a369",
+  "id": 23994,
+  "illustration": "https://phira.5wyxi.com/files/dc122b55-d499-4a95-a977-8e75b5a14de7",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Revenant",
+  "preview": "https://phira.5wyxi.com/files/1e249276-936f-4abb-8787-cb001fbfa13b",
+  "ranked": false,
+  "rating": 0.85791934,
+  "ratingCount": 154,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-07-23T08:40:53.549556Z",
+  "uploader": 21094
+}

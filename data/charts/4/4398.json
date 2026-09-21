@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:17Z",
+    "lastChanged": "2026-09-21T02:01:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-07-01T09:15:29.976236Z",
+  "charter": "小敦",
+  "composer": "Theo5970",
+  "created": "2023-07-01T09:15:29.976236Z",
+  "description": "未经允许曲绘禁止使用。",
+  "difficulty": 12.800003,
+  "file": "https://phira.5wyxi.com/files/aea6f9d5-6cd5-4e12-a889-397c15a29228",
+  "id": 4398,
+  "illustration": "https://phira.5wyxi.com/files/ded83a72-e074-4a5b-b01d-9e07eb697d15",
+  "illustrator": "",
+  "level": "Final Lv.12",
+  "name": "The End",
+  "preview": "https://phira.5wyxi.com/files/c020ffd2-61a2-407c-ba49-904eb3d1a2ef",
+  "ranked": false,
+  "rating": 0.91646206,
+  "ratingCount": 201,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-07-01T09:15:29.976236Z",
+  "uploader": 78272
+}

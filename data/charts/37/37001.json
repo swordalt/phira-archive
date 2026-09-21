@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:14Z",
+    "lastChanged": "2026-09-21T02:03:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-06T14:33:39.010806Z",
+  "charter": "Twotthrees EX",
+  "composer": "Toby Fox",
+  "created": "2025-04-26T09:12:52.405831Z",
+  "description": "三年前写的废稿，趁着arc联动翻新一下\n改谱：参考了不少中二侧谱面的配置，应该会好一点\n又加了点多面，感觉还行\n感谢laj的看谱，加了很多神秘的配置",
+  "difficulty": 15.300009,
+  "file": "https://phira.5wyxi.com/files/3fa84272-c0fb-4c9f-8409-8bf48efd2845",
+  "id": 37001,
+  "illustration": "https://phira.5wyxi.com/files/a882d2aa-872a-4561-a7b2-73dcac5051c3",
+  "illustrator": "",
+  "level": "EX Lv.15",
+  "name": "Death By Glamour",
+  "preview": "https://phira.5wyxi.com/files/ed570961-3cb6-4855-993c-0ec12f5ba37c",
+  "ranked": true,
+  "rating": 0.92384887,
+  "ratingCount": 4664,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "UNDERTALE",
+    "regular"
+  ],
+  "updated": "2025-09-06T14:33:39.010806Z",
+  "uploader": 7679
+}

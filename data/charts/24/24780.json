@@ -1,0 +1,40 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:57Z",
+    "lastChanged": "2026-09-21T02:05:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-31T02:02:00.098054Z",
+  "charter": "QWERTY123sks",
+  "composer": "litmus*",
+  "created": "2024-07-31T02:02:00.098054Z",
+  "description": "进行一个速写\n本谱若觉得流速过快，请将画面比例调至16:9（或1.77778）！",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/9d3c0d94-a0a1-45d8-bbb8-6668248e7696",
+  "id": 24780,
+  "illustration": "https://phira.5wyxi.com/files/4815f75f-4cf8-4f37-9e24-9fa52a37cc86",
+  "illustrator": "",
+  "level": "4K Jack Lv.32",
+  "name": "Trojan",
+  "preview": "https://phira.5wyxi.com/files/26319274-2d43-4fc3-b002-926de1dc7dd1",
+  "ranked": false,
+  "rating": 0.92939895,
+  "ratingCount": 190,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4K",
+    "OverRapid",
+    "Trojan",
+    "litmus",
+    "jack",
+    "叠",
+    "plain"
+  ],
+  "updated": "2024-10-04T15:44:20.354494Z",
+  "uploader": 36268
+}

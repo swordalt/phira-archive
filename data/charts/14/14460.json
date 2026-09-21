@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:52Z",
+    "lastChanged": "2026-09-21T02:01:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-29T03:12:17.274244Z",
+  "charter": "Halley-the-Charter◆",
+  "composer": "sasakure.UK",
+  "created": "2024-01-30T10:16:31.959037Z",
+  "description": "感谢Xenokega对谱面的修改！",
+  "difficulty": 14.5,
+  "file": "https://phira.5wyxi.com/files/b6f51b11-700c-494e-b453-3cf5ec657e26",
+  "id": 14460,
+  "illustration": "https://phira.5wyxi.com/files/fe591db2-6d15-4bc2-9381-538e30d1023f",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Jack-the-Ripper◆",
+  "preview": "https://phira.5wyxi.com/files/1065ca10-73c5-48ad-be29-b035e068554a",
+  "ranked": true,
+  "rating": 0.9155036,
+  "ratingCount": 1905,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "BOF2009",
+    "regular"
+  ],
+  "updated": "2024-05-31T15:16:03.335745Z",
+  "uploader": 211613
+}

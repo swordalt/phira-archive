@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:57Z",
+    "lastChanged": "2026-09-21T02:03:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-19T03:47:50.321116Z",
+  "charter": "Knd_cL",
+  "composer": "syudou",
+  "created": "2025-10-19T03:47:50.321116Z",
+  "description": "B站：@Knd_cL\n谱面重做（但其实没改多少）\n更换发布者\n\n歌曲信息：\n曲名：ジャックポットサッドガール\n作曲：syudou\n作词：syudou\n演唱：宵崎奏、朝比奈まふゆ、東雲絵名、暁山瑞希、初音ミク\n游戏《世界计划 多彩舞台 feat.初音未来》《Project SEKAI》《初音未来：缤纷舞台》收录曲",
+  "difficulty": 15.1,
+  "file": "https://phira.5wyxi.com/files/13ae9ee2-9385-4e7a-8410-c8e555ad833a",
+  "id": 48203,
+  "illustration": "https://phira.5wyxi.com/files/5e475907-14f8-4c5b-8ab9-da049eee8cdc",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "ジャックポットサッドガール",
+  "preview": "https://phira.5wyxi.com/files/f0f7c4a0-e1aa-47e8-987f-2aa398d4e8fd",
+  "ranked": false,
+  "rating": 0.9309716,
+  "ratingCount": 456,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "PJSK",
+    "双指",
+    "regular"
+  ],
+  "updated": "2025-10-19T03:47:50.321116Z",
+  "uploader": 1565311
+}

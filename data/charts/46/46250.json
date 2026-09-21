@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:48Z",
+    "lastChanged": "2026-09-21T02:03:48Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-22T16:18:33.682285Z",
+  "charter": "HiTONG",
+  "composer": "NormalM",
+  "created": "2025-09-01T05:18:20.822648Z",
+  "description": "写了四个月，我是低产比\n重新上传修改",
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/19ec18ce-2b3c-4401-b241-8a18ed0770d6",
+  "id": 46250,
+  "illustration": "https://phira.5wyxi.com/files/2b395218-8907-4c66-8391-bd1af8ff177c",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "HiTECK HEIST",
+  "preview": "https://phira.5wyxi.com/files/32c93ab9-cb10-44fb-8484-f915f2244f22",
+  "ranked": false,
+  "rating": 0.93892616,
+  "ratingCount": 669,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-12T14:22:17.653814Z",
+  "uploader": 226456
+}

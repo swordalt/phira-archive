@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:29Z",
+    "lastChanged": "2026-09-21T02:04:29Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-14T16:11:21.940013Z",
+  "charter": "Rea_NicoNeko",
+  "composer": "ああああ",
+  "created": "2026-03-14T16:11:21.940013Z",
+  "description": "谱面为谱师本人上传",
+  "difficulty": 12.0,
+  "file": "https://phira.5wyxi.com/files/10b11244-ae5d-4f44-a299-5c3a6f9c21c9",
+  "id": 54160,
+  "illustration": "https://phira.5wyxi.com/files/d7ea1e7c-3fd4-4bcc-ae61-d7ebc8283a2c",
+  "illustrator": "",
+  "level": "IN Lv.12",
+  "name": "トゥルーエンド",
+  "preview": "https://phira.5wyxi.com/files/60192b65-a5d9-469d-96fa-371e5e1242a5",
+  "ranked": false,
+  "rating": 0.9560548,
+  "ratingCount": 460,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-03-14T16:11:21.940013Z",
+  "uploader": 2068524
+}

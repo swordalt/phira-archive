@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:48Z",
+    "lastChanged": "2026-09-21T02:03:48Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-04T05:12:22.862Z",
+  "charter": "EFY",
+  "composer": "cybermiso",
+  "created": "2025-09-01T05:20:11.990629Z",
+  "description": "FFT 5th wjc L1 No.13，和参赛版本有细微差别。希望大家玩得开心",
+  "difficulty": 14.500002,
+  "file": "https://phira.5wyxi.com/files/1e590ae4-3027-40bc-970c-6a10d7a48429",
+  "id": 46251,
+  "illustration": "https://phira.5wyxi.com/files/d5934f0b-83f4-47ab-a0c9-bfb0114ba824",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "FFT",
+  "preview": "https://phira.5wyxi.com/files/617c40e7-25d8-4dd2-8e44-5b61afc560b5",
+  "ranked": false,
+  "rating": 0.91783607,
+  "ratingCount": 149,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-04T05:12:22.862Z",
+  "uploader": 2522
+}

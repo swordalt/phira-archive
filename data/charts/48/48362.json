@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:58Z",
+    "lastChanged": "2026-09-21T02:03:58Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-25T02:50:26.942165Z",
+  "charter": "AnserROR",
+  "composer": "稻葉曇",
+  "created": "2025-10-25T02:50:26.942165Z",
+  "description": "B站同名，以后可能还会再写出其他谱面来",
+  "difficulty": 13.9,
+  "file": "https://phira.5wyxi.com/files/5826d19b-fbff-4ece-8bad-7285f19da1e9",
+  "id": 48362,
+  "illustration": "https://phira.5wyxi.com/files/96690273-b54f-49df-a72c-f1a223521436",
+  "illustrator": "",
+  "level": "IN",
+  "name": "ラグトレイン",
+  "preview": "https://phira.5wyxi.com/files/8a8952e6-1263-4e23-b6db-b346473198e8",
+  "ranked": false,
+  "rating": 0.9113019,
+  "ratingCount": 1049,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-10-25T02:50:26.942165Z",
+  "uploader": 575799
+}

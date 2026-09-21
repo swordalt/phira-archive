@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:25Z",
+    "lastChanged": "2026-09-21T02:04:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-26T15:00:55.773947Z",
+  "charter": "stawind",
+  "composer": "ARForest",
+  "created": "2026-02-26T15:00:55.773947Z",
+  "description": "第三谱，谱面演示可以在B站@stawind_找到，本人上传\n此谱与B站的谱面演示不同，修改了排键和其他note，适配了16:9以及其他的微小改动",
+  "difficulty": 16.400002,
+  "file": "https://phira.5wyxi.com/files/8fc445b0-cc4e-4999-b490-2811aaa81d90",
+  "id": 53476,
+  "illustration": "https://phira.5wyxi.com/files/666edf80-ab87-44d2-ace1-007d9a6758b2",
+  "illustrator": "",
+  "level": "AT  Lv.16",
+  "name": "Inverted World",
+  "preview": "https://phira.5wyxi.com/files/71bd5937-8ee0-43d2-b2d8-fbce46ba26f2",
+  "ranked": false,
+  "rating": 0.8915874,
+  "ratingCount": 144,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-28T11:32:19.296544Z",
+  "uploader": 1884537
+}

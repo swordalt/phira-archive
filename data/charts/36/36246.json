@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:11Z",
+    "lastChanged": "2026-09-21T02:03:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-05T16:58:57.773443Z",
+  "charter": "OBmonster",
+  "composer": "千坂",
+  "created": "2025-04-05T16:58:57.773443Z",
+  "description": null,
+  "difficulty": 14.400001,
+  "file": "https://phira.5wyxi.com/files/99aeac1a-0f51-48f9-ac6c-3d2b26d6d9ad",
+  "id": 36246,
+  "illustration": "https://phira.5wyxi.com/files/b77a304e-c257-40c9-803c-9bd02420e5dd",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "At The Edge",
+  "preview": "https://phira.5wyxi.com/files/97ccc67a-b395-4fa9-b75f-f444fdb2adcb",
+  "ranked": false,
+  "rating": 0.83283985,
+  "ratingCount": 93,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-04-05T16:58:57.773443Z",
+  "uploader": 1431337
+}

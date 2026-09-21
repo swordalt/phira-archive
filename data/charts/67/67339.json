@@ -1,0 +1,39 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:00Z",
+    "lastChanged": "2026-09-21T02:05:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-17T16:04:28.231343Z",
+  "charter": "Yukitsubaki",
+  "composer": "Ton Magie/RoaNn/nakotanmaru",
+  "created": "2026-07-17T16:04:28.231343Z",
+  "description": "bilibili：Yukitsubaki\nBV1FGKE6zEZQ\n谱师本人上传\n\n作为新人第一张使用了tpe的谱，也是作为ユキツバキ这个组合的第一张谱，这张谱有着无限大的意义，也非常感谢雪夜宝宝的动效，不然任何建议和思路都无法实现在这张谱上。\n\n谱师：\n@アシェリーペッカー#457677（Yukitsubaki组合-主配置）\n@星辰雪夜_ユキツバキ#763475 （Yukitsubaki组合-主动效）\n总物量：750\n总事件量：5564\n总制作净时长：43.5h(1.8d)\n\n特别鸣谢\n感谢雨刷器的谱面品鉴与修改建议\n@Yu_Sh_Q#62495 （品鉴与建议）\n感谢白泽的配置建议\n@Baize1133#448065（建议）\n感谢wildcanyon的谱面评价\n@tongbao#11579（品鉴）",
+  "difficulty": 13.200001,
+  "file": "https://phira.5wyxi.com/files/4bcb67c5-ba24-4a57-983c-ad8396f9bf7b",
+  "id": 67339,
+  "illustration": "https://phira.5wyxi.com/files/5a8e0c12-1e0d-4829-8638-24afd9fbff14",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "春風 (feat.nakotanmaru)",
+  "preview": "https://phira.5wyxi.com/files/67c4970b-c854-4a05-ae6a-1d4c0ebc72d2",
+  "ranked": false,
+  "rating": 0.9314871,
+  "ratingCount": 1694,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "nakotanmaru",
+    "なこたんまる",
+    "TonMagie",
+    "RoaNn",
+    "Yukitsubaki",
+    "regular"
+  ],
+  "updated": "2026-07-17T16:04:28.231343Z",
+  "uploader": 457677
+}

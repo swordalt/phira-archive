@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:45Z",
+    "lastChanged": "2026-09-21T02:05:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-04T05:58:22.693460Z",
+  "charter": "StR-1",
+  "composer": "Feryquitous",
+  "created": "2024-04-04T05:58:22.693460Z",
+  "description": "本谱面为deemo自制谱面的转谱\n转谱器作者为LemoDitary",
+  "difficulty": 15.600001,
+  "file": "https://phira.5wyxi.com/files/17a094bb-0f71-4aab-ae50-4f97114c64ca",
+  "id": 18026,
+  "illustration": "https://phira.5wyxi.com/files/bce74613-3359-4439-a49e-28a4ed39a4ca",
+  "illustrator": "",
+  "level": "Hard Lv.10 <Deemo>",
+  "name": "Lividi",
+  "preview": "https://phira.5wyxi.com/files/8614b5cf-6382-4169-8785-682884046a1e",
+  "ranked": false,
+  "rating": 0.9490972,
+  "ratingCount": 92,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "maimai",
+    "Feryquitous",
+    "plain"
+  ],
+  "updated": "2024-05-26T16:27:06.516592Z",
+  "uploader": 80608
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:30Z",
+    "lastChanged": "2026-09-21T02:04:30Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-23T10:05:55.913239Z",
+  "charter": "celiicia",
+  "composer": "ルシノ ft. 初音ミク",
+  "created": "2026-03-23T10:05:55.913239Z",
+  "description": null,
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/b5ee1a29-a7b0-4c89-9680-8bd112cc61fc",
+  "id": 54514,
+  "illustration": "https://phira.5wyxi.com/files/cb31f903-6b07-4c6a-83b9-52494cb8242b",
+  "illustrator": "",
+  "level": "AT Lv.13",
+  "name": "ループザルーム",
+  "preview": "https://phira.5wyxi.com/files/9e318ac3-70fc-45e3-bcfe-d1c825f0e31c",
+  "ranked": false,
+  "rating": 0.8915762,
+  "ratingCount": 400,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-03-23T10:05:55.913239Z",
+  "uploader": 645376
+}

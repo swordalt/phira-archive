@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:55Z",
+    "lastChanged": "2026-09-21T02:04:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-08T10:53:48.087308Z",
+  "charter": "Nyiounaid",
+  "composer": "KATOMORI",
+  "created": "2026-07-08T10:53:48.087308Z",
+  "description": "四譜，第一次嘗試寫16，寫了盡可能爽的多指配置OwO\n定數：16.2\n物量：1268\nBPM : 150",
+  "difficulty": 16.199999,
+  "file": "https://phira.5wyxi.com/files/3a88d5a3-3f02-4c53-a82b-7b291084f65c",
+  "id": 64973,
+  "illustration": "https://phira.5wyxi.com/files/a279e949-6ccf-4c83-88a5-51872b7cea99",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Hypernaid",
+  "preview": "https://phira.5wyxi.com/files/dbace1f4-f8bb-402b-aacb-5090407e77dd",
+  "ranked": false,
+  "rating": 0.9096992,
+  "ratingCount": 499,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "DJMAX",
+    "KATOMORI",
+    "多指",
+    "regular"
+  ],
+  "updated": "2026-07-08T10:53:48.087308Z",
+  "uploader": 439874
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:18Z",
+    "lastChanged": "2026-09-21T02:04:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-09T11:55:26.185329Z",
+  "charter": "the \"AIR\" Protecter vs. BlazinG rchr",
+  "composer": "kanone",
+  "created": "2026-02-06T10:17:15.716587Z",
+  "description": "与@WinterPT的合作谱，感谢PT酱的带飞\n我负责了大部分配置，PT酱负责了所有特效和部分配置，以及最后的配置优化\n欢迎大家游玩",
+  "difficulty": 16.300005,
+  "file": "https://phira.5wyxi.com/files/3bc3be32-5b67-4537-b714-d59f4324c82a",
+  "id": 52161,
+  "illustration": "https://phira.5wyxi.com/files/a3b19786-0c4c-4951-9ae3-9947c8c65b5b",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "BlazinG AIR",
+  "preview": "https://phira.5wyxi.com/files/da2a37b9-1beb-47f6-ba60-565b098d0772",
+  "ranked": true,
+  "rating": 0.91372186,
+  "ratingCount": 1223,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "CHUNITHM",
+    "regular"
+  ],
+  "updated": "2026-02-09T14:22:45.154449Z",
+  "uploader": 1822
+}

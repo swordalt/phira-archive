@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:55Z",
+    "lastChanged": "2026-09-21T02:02:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-13T07:18:28.233956Z",
+  "charter": "∇",
+  "composer": "ああああ",
+  "created": "2025-01-13T07:18:28.233956Z",
+  "description": "\"∀x⊆R², ∃Δ s.t. x = Union(Δ)\"                        譜師B站:Triangle379                     此譜面由本人上傳，這一張是我做譜一週年的紀念譜，裡面有許多之前做過的特殊配置，有天地、多面、多指點滑、鎖手、反手等綜合配置，雖然不會像龍譜需要很強的多指力，但會需要配手法，是一張技巧向的17。                                      如果覺得配置太雜亂的話請上B站用力批譜師，譜師真的很想要流量。",
+  "difficulty": 17.1,
+  "file": "https://phira.5wyxi.com/files/f3804f9c-f578-4eb2-913d-2119912f4fcd",
+  "id": 31769,
+  "illustration": "https://phira.5wyxi.com/files/0e965680-6d50-4e65-9811-ff32d23f6203",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "∀",
+  "preview": "https://phira.5wyxi.com/files/31a367ad-3ad3-4e53-a928-f2615372c1c0",
+  "ranked": false,
+  "rating": 0.9179911,
+  "ratingCount": 533,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-01-13T07:18:28.233956Z",
+  "uploader": 1394361
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:09Z",
+    "lastChanged": "2026-09-21T02:05:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-18T03:58:21.900580Z",
+  "charter": "Couel",
+  "composer": "kuro",
+  "created": "2026-08-18T03:58:21.900580Z",
+  "description": null,
+  "difficulty": 17.300001,
+  "file": "https://phira.5wyxi.com/files/bd4c1dcc-70b0-48e6-8d3b-826e29c2dcc6",
+  "id": 74060,
+  "illustration": "https://phira.5wyxi.com/files/cd96b99e-4efe-4d72-8931-b4c31a2f1d0b",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "水槽に沈む街",
+  "preview": "https://phira.5wyxi.com/files/25789b64-32c9-4123-9b56-5faab416f075",
+  "ranked": false,
+  "rating": 0.8400675,
+  "ratingCount": 77,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-18T03:58:21.900580Z",
+  "uploader": 65267
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:01Z",
+    "lastChanged": "2026-09-21T02:02:01Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-02T16:34:02.251941Z",
+  "charter": "旅鸟",
+  "composer": "Street",
+  "created": "2024-03-02T16:34:02.251941Z",
+  "description": "@清水QR#1313",
+  "difficulty": 14.6,
+  "file": "https://phira.5wyxi.com/files/3cbe3d78-b14d-4a4b-90fe-8263019c220a",
+  "id": 16661,
+  "illustration": "https://phira.5wyxi.com/files/eb3673de-cde1-4d9e-b167-d6b2ceaa3ca6",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "雲雀",
+  "preview": "https://phira.5wyxi.com/files/86baf982-1f84-49ee-8f94-8c614a8cafdd",
+  "ranked": true,
+  "rating": 0.90138584,
+  "ratingCount": 2288,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-04-12T06:01:26.136844Z",
+  "uploader": 445
+}

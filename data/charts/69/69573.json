@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:03Z",
+    "lastChanged": "2026-09-21T02:05:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-27T18:40:49.787099Z",
+  "charter": "海鸿&煜",
+  "composer": "shadow_bling",
+  "created": "2026-07-27T18:40:49.787099Z",
+  "description": "谱面预览：BV14JNa67EaY\n———————————————\n铺面完成时间为2026-02-15完成，因凌云杯需要所以刨出来大改一下，重置了结尾，细化和增加了表演，更改了一点配置。\n———————————————————\n“鸿隆杯2026”上半场预热赛供谱，首次亮相于西区赛道#3，谱面编号003#，本谱编号为03x\n————————————\n曲目：Crush Anecdotes - Terror Campus\n曲师：shadow_bling\n谱师：@煜有奈#40591 &笨蛋海鸿 \n曲绘：爱丽丝就是爱丽丝鸭（海鸿 modified）\n定数：15.1→15.3\n—————————————\n相关比赛：phigros社区“鸿隆杯”\n鸿隆杯主办方：笨蛋海鸿 \n————————————\n若发布屏元手元请在B站艾特两位谱师！",
+  "difficulty": 15.200002,
+  "file": "https://phira.5wyxi.com/files/e2d99ff2-f198-44e5-8fbb-a207339067b2",
+  "id": 69573,
+  "illustration": "https://phira.5wyxi.com/files/6baa91df-f9ce-412b-856c-a7c02cea8437",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Crush Anecdotes - Terror Campus",
+  "preview": "https://phira.5wyxi.com/files/ec4d4944-c4f1-4296-834a-a2e9a44823cd",
+  "ranked": false,
+  "rating": 0.80271447,
+  "ratingCount": 7,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "鸿隆杯2026",
+    "鸿隆杯",
+    "regular"
+  ],
+  "updated": "2026-07-27T18:40:49.787099Z",
+  "uploader": 501811
+}

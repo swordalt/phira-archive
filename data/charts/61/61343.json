@@ -1,0 +1,40 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:54Z",
+    "lastChanged": "2026-09-21T02:06:54Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-18T16:47:01.153913Z",
+  "charter": "HRS-Team",
+  "composer": "Mitsukiyo",
+  "created": "2026-06-18T16:47:01.153913Z",
+  "description": "HRS-Lv.12-Pattern单曲",
+  "difficulty": 12.1,
+  "file": "https://phira.5wyxi.com/files/3e4d6b8d-a1ba-4f6e-9270-d64d149dd1b2",
+  "id": 61343,
+  "illustration": "https://phira.5wyxi.com/files/6c4902ee-d3b1-4877-8aaa-e64dde4eb535",
+  "illustrator": "",
+  "level": "Pattern",
+  "name": "Unwelcome School",
+  "preview": "https://phira.5wyxi.com/files/f59ecac4-f11e-4643-a89c-69d5249e1241",
+  "ranked": false,
+  "rating": 0.9382457,
+  "ratingCount": 76,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "HRS",
+    "双指",
+    "谐律段位",
+    "12",
+    "Pattern",
+    "瞬",
+    "plain"
+  ],
+  "updated": "2026-06-18T16:47:01.153913Z",
+  "uploader": 2473866
+}

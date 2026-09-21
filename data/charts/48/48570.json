@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:00Z",
+    "lastChanged": "2026-09-21T02:04:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-30T15:32:57.463001Z",
+  "charter": "coy08",
+  "composer": "UM",
+  "created": "2025-10-30T15:32:57.463001Z",
+  "description": "2分钟交互练习，无特效，本人上传phira:coy08",
+  "difficulty": 15.000004,
+  "file": "https://phira.5wyxi.com/files/33c2e93a-2c78-498f-ad08-13dab7511bb2",
+  "id": 48570,
+  "illustration": "https://phira.5wyxi.com/files/cd80f556-2d5e-44ad-be2d-78cea972ff84",
+  "illustrator": "",
+  "level": "IN",
+  "name": "记忆闪帧",
+  "preview": "https://phira.5wyxi.com/files/cba25502-5207-4713-939c-f0239700e3f6",
+  "ranked": false,
+  "rating": 0.86462283,
+  "ratingCount": 398,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-10-30T15:32:57.463001Z",
+  "uploader": 1441846
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:05Z",
+    "lastChanged": "2026-09-21T02:02:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-25T04:03:19.602700Z",
+  "charter": "hyt756",
+  "composer": "yuichi NAGANO",
+  "created": "2024-03-25T04:03:19.602700Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/b4bf271b-8f61-48e5-b3c6-874e9092be52",
+  "id": 17547,
+  "illustration": "https://phira.5wyxi.com/files/19964bdf-64d5-47d9-9142-b95562cefb1c",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "電脳幻夜の星言詠",
+  "preview": "https://phira.5wyxi.com/files/34fb5d86-5e26-47b9-b147-412fe0996e9c",
+  "ranked": false,
+  "rating": 0.82991827,
+  "ratingCount": 52,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-03-25T04:03:19.602700Z",
+  "uploader": 358255
+}

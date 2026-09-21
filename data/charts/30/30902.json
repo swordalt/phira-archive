@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:05Z",
+    "lastChanged": "2026-09-21T02:06:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-15T15:45:21.909789Z",
+  "charter": "Hshshshshq",
+  "composer": "df",
+  "created": "2024-12-19T13:47:35.353735Z",
+  "description": "三谱\n尝试了一些比较好玩的配置\n高难\n一改:调整了谱面延迟",
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/6f1d6064-a897-41e2-90fe-f59fab34363d",
+  "id": 30902,
+  "illustration": "https://phira.5wyxi.com/files/7cafad29-4935-4de7-80bd-87381f131192",
+  "illustrator": "",
+  "level": "SP Lv.1∅",
+  "name": "Phosphophyllite",
+  "preview": "https://phira.5wyxi.com/files/03bb5549-23e6-4356-9e5c-e36ce3585f46",
+  "ranked": false,
+  "rating": 0.8690693,
+  "ratingCount": 11,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-02-15T15:45:21.909789Z",
+  "uploader": 2222
+}

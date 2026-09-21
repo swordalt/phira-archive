@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:29Z",
+    "lastChanged": "2026-09-21T02:01:29Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-28T15:48:23.626628Z",
+  "charter": "柴狗master",
+  "composer": "Gram",
+  "created": "2023-08-28T15:48:23.626628Z",
+  "description": "本谱面由本谱师柴狗master亲自上传，谱面源文件见qq：910450749！\r\n本谱暂定难度为16.1，基本上的双指底力谱，还夹杂一点多指，后续会持续更新，视频见b站：BV1s84y1f7Sb，有不足之处评论区欢迎留言",
+  "difficulty": 16.100002,
+  "file": "https://phira.5wyxi.com/files/349a5a1b-f31b-4405-ae58-a1216352342c",
+  "id": 8636,
+  "illustration": "https://phira.5wyxi.com/files/9298555f-af28-4604-89cc-071ce993e8ca",
+  "illustrator": "",
+  "level": "16.1",
+  "name": "THE END",
+  "preview": "https://phira.5wyxi.com/files/1a6d55cc-f53c-4281-8277-6da3b64e6eee",
+  "ranked": false,
+  "rating": 0.8920497,
+  "ratingCount": 286,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "底力",
+    "16",
+    "regular"
+  ],
+  "updated": "2023-08-28T15:58:10.708376Z",
+  "uploader": 13041
+}

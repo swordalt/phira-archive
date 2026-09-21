@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:38Z",
+    "lastChanged": "2026-09-21T02:05:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-10-17T15:42:09.882870Z",
+  "charter": "Zapper",
+  "composer": "Synthion",
+  "created": "2023-10-17T15:42:09.882870Z",
+  "description": "谱师上传，难得写难的（）",
+  "difficulty": 27.0,
+  "file": "https://phira.5wyxi.com/files/2bee8117-1096-4cc9-96ca-f5bae0f5b7a4",
+  "id": 10584,
+  "illustration": "https://phira.5wyxi.com/files/5d8a4775-40b2-49f0-b6a5-5e9a52b8ba21",
+  "illustrator": "",
+  "level": "4K EXPERT Lv.27",
+  "name": "STAR☆BURST",
+  "preview": "https://phira.5wyxi.com/files/95c172b8-117e-4d64-b793-124991ba83d4",
+  "ranked": false,
+  "rating": 0.92699033,
+  "ratingCount": 500,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4k",
+    "MuseDash",
+    "plain"
+  ],
+  "updated": "2023-10-17T15:42:09.882870Z",
+  "uploader": 158205
+}

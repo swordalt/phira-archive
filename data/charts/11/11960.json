@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:43Z",
+    "lastChanged": "2026-09-21T02:01:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-02T02:19:58.223326Z",
+  "charter": "Dusk",
+  "composer": "大漠波新",
+  "created": "2023-12-02T02:19:58.223326Z",
+  "description": null,
+  "difficulty": 14.6,
+  "file": "https://phira.5wyxi.com/files/2b5f31c3-db23-4b8e-9ffa-2bca92c4bd15",
+  "id": 11960,
+  "illustration": "https://phira.5wyxi.com/files/b0d2cfa8-d5cb-4822-8dfd-2b5a7cffba90",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "のだ",
+  "preview": "https://phira.5wyxi.com/files/56aa9405-cdad-4dc6-917f-7232368beb94",
+  "ranked": false,
+  "rating": 0.9365158,
+  "ratingCount": 1071,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "storyboard",
+    "regular"
+  ],
+  "updated": "2023-12-02T02:19:58.223326Z",
+  "uploader": 3375
+}

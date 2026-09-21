@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:23Z",
+    "lastChanged": "2026-09-21T02:04:23Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-19T15:35:56.757552Z",
+  "charter": "山海柔",
+  "composer": "刘美麟",
+  "created": "2026-02-19T15:35:56.757552Z",
+  "description": null,
+  "difficulty": 13.200012,
+  "file": "https://phira.5wyxi.com/files/ba4941b9-e2d2-4370-9ea9-f03f3862bef6",
+  "id": 53011,
+  "illustration": "https://phira.5wyxi.com/files/672c164a-e33e-4071-9de9-770a6e92457c",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "一千零一夜",
+  "preview": "https://phira.5wyxi.com/files/53e5ace6-96aa-4296-b160-d7d54f78bb98",
+  "ranked": false,
+  "rating": 0.91488767,
+  "ratingCount": 4284,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-19T15:35:56.757552Z",
+  "uploader": 1919156
+}

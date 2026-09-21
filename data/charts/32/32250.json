@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:06Z",
+    "lastChanged": "2026-09-21T02:06:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-23T04:11:21.419886Z",
+  "charter": "HE_Team",
+  "composer": "Various Artists",
+  "created": "2025-01-23T04:11:21.419886Z",
+  "description": "谱师本人上传，改作Sample1(数字与难度无关，本段位废弃），封面懒得换了。97%算过段，相关信息见BV11E4m1R7QF。第一曲强制要求纯姆指",
+  "difficulty": 4.1999993,
+  "file": "https://phira.5wyxi.com/files/667caef3-aef0-4810-b563-d97ea1dddd32",
+  "id": 32250,
+  "illustration": "https://phira.5wyxi.com/files/02a841a7-16ea-4f09-bc09-3c6366b8845b",
+  "illustrator": "",
+  "level": "Exam 丁",
+  "name": "Handheld  Examination Sample1",
+  "preview": "https://phira.5wyxi.com/files/d26b8e54-2338-4e21-9e4c-42c3dce5caa5",
+  "ranked": false,
+  "rating": 0.72929657,
+  "ratingCount": 5,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "HE",
+    "手持段位",
+    "plain"
+  ],
+  "updated": "2025-01-23T04:11:21.419886Z",
+  "uploader": 18912
+}

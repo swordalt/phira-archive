@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:21Z",
+    "lastChanged": "2026-09-21T02:02:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-10T01:33:23.291865Z",
+  "charter": "HaoCers",
+  "composer": "DECO*27 feat. 初音ミク",
+  "created": "2024-07-10T01:33:23.291865Z",
+  "description": null,
+  "difficulty": 15.500002,
+  "file": "https://phira.5wyxi.com/files/686f188f-8c55-4d5a-889d-75a9f178f87a",
+  "id": 23075,
+  "illustration": "https://phira.5wyxi.com/files/3db60a02-4cfc-44c2-adce-18e0c800fc38",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "好",
+  "preview": "https://phira.5wyxi.com/files/7de20fe9-38ed-41e1-bea2-652cc3b09fd4",
+  "ranked": true,
+  "rating": 0.90066963,
+  "ratingCount": 4833,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "VOCALOID",
+    "regular"
+  ],
+  "updated": "2024-07-10T01:33:23.291865Z",
+  "uploader": 825
+}

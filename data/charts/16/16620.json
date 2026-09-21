@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:01Z",
+    "lastChanged": "2026-09-21T02:02:01Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-31T11:42:46.663063Z",
+  "charter": "XerdouS \"Toward the light\"",
+  "composer": "ARForest",
+  "created": "2024-03-02T08:43:50.049762Z",
+  "description": "（本人上传）6thPecJam SL No.33 位13\n特别感谢Salt老师的排布修改！同时感谢清水QR，1847mo，VeX，放克麦子，Str-1，LogicM等的建议。",
+  "difficulty": 15.300001,
+  "file": "https://phira.5wyxi.com/files/86fe7cec-8623-40a2-b730-e800bf90683c",
+  "id": 16620,
+  "illustration": "https://phira.5wyxi.com/files/cd998b0b-c50d-47d0-a47a-9a852b4ce9cc",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "Birds of Plague",
+  "preview": "https://phira.5wyxi.com/files/d9fc1e83-20d6-445e-9053-7dd48dccdf8b",
+  "ranked": true,
+  "rating": 0.9147236,
+  "ratingCount": 1202,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2024-03-31T11:42:46.663063Z",
+  "uploader": 22799
+}

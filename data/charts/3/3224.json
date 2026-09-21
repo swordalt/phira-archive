@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:14Z",
+    "lastChanged": "2026-09-21T02:01:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-06-09T12:19:08.224593Z",
+  "charter": "飞飞XL in conflict",
+  "composer": "siromaru+cranky",
+  "created": "2023-06-09T12:19:08.224593Z",
+  "description": "公交车",
+  "difficulty": 15.2,
+  "file": "https://phira.5wyxi.com/files/655ccbed-7ca9-4413-a694-bdba0ec36571",
+  "id": 3224,
+  "illustration": "https://phira.5wyxi.com/files/cec489c4-c310-4928-8675-829d76bb2974",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "conflict",
+  "preview": "https://phira.5wyxi.com/files/18e88a43-2fcd-476d-8af5-54fafb33b0df",
+  "ranked": false,
+  "rating": 0.8878071,
+  "ratingCount": 860,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "飞飞你是我爹",
+    "regular"
+  ],
+  "updated": "2023-06-09T12:19:08.224593Z",
+  "uploader": 410
+}

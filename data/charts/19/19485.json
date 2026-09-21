@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:11Z",
+    "lastChanged": "2026-09-21T02:02:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-06T15:26:15.654284Z",
+  "charter": "NNNaptie",
+  "composer": "Magens",
+  "created": "2024-05-04T09:37:17.985507Z",
+  "description": "因为phira有文件大小限制，这张谱放了压缩过的ogg音源，无损wav格式详见b站视频简介",
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/be080062-20f8-45f1-a9f8-caf105ec43a8",
+  "id": 19485,
+  "illustration": "https://phira.5wyxi.com/files/42996e4f-d3dc-4013-8e88-a97b8e5e3b29",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "BBBang (feat. 星尘)",
+  "preview": "https://phira.5wyxi.com/files/8be78be9-f398-4aaf-abcc-1b9df74849b1",
+  "ranked": true,
+  "rating": 0.9272436,
+  "ratingCount": 2055,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-05-06T15:26:15.654284Z",
+  "uploader": 25933
+}

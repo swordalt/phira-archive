@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:18Z",
+    "lastChanged": "2026-09-21T02:04:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-07T06:43:07.201788Z",
+  "charter": "SnowFox1227 v.s. NorthMOrange",
+  "composer": "Cres.",
+  "created": "2026-02-07T06:43:07.201788Z",
+  "description": "End Time改动谱，改了一些卡手配置和采音思路，原谱可前往b站进行对比。16.6为参考官方最新定数规则的定数。",
+  "difficulty": 16.600002,
+  "file": "https://phira.5wyxi.com/files/0c8b4085-eda7-4039-8a93-d4908800120a",
+  "id": 52217,
+  "illustration": "https://phira.5wyxi.com/files/650d83c8-9703-47a6-b75b-aa06634882e5",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "End Time",
+  "preview": "https://phira.5wyxi.com/files/eb941629-35a3-4e08-b90c-aae6b2968e86",
+  "ranked": false,
+  "rating": 0.8169494,
+  "ratingCount": 244,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "BOF",
+    "锁手练习谱",
+    "regular"
+  ],
+  "updated": "2026-02-07T06:43:07.201788Z",
+  "uploader": 595651
+}

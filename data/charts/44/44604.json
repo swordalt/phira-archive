@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:40Z",
+    "lastChanged": "2026-09-21T02:03:40Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-14T01:00:58.006967Z",
+  "charter": "hh小小龙",
+  "composer": "闫东炜",
+  "created": "2025-08-14T01:00:58.006967Z",
+  "description": null,
+  "difficulty": 1.4000002,
+  "file": "https://phira.5wyxi.com/files/02e7430d-e785-4713-95a3-c71084f0e994",
+  "id": 44604,
+  "illustration": "https://phira.5wyxi.com/files/62e2b4a6-27de-4ab1-9dd5-0560444446ab",
+  "illustrator": "",
+  "level": "lN Lv.14",
+  "name": "Aphasia",
+  "preview": "https://phira.5wyxi.com/files/ba67233e-698f-4278-bffd-cd26422792c5",
+  "ranked": false,
+  "rating": 0.94813746,
+  "ratingCount": 3058,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-14T01:00:58.006967Z",
+  "uploader": 1826003
+}

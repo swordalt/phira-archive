@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:15Z",
+    "lastChanged": "2026-09-21T02:04:15Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-23T15:36:35.757637Z",
+  "charter": "NotTure1",
+  "composer": "Silentroom",
+  "created": "2026-01-27T12:03:18.665849Z",
+  "description": "譜師本人上傳。\n影片：https://b23.tv/SDctPpJ\n\n2026/02/23進行一改\n調整了1st drop的難度、後半部分特效\n因應協調難度將IN改為AT",
+  "difficulty": 15.200001,
+  "file": "https://phira.5wyxi.com/files/bf98775a-f38f-488d-88b2-5400776d86e8",
+  "id": 51695,
+  "illustration": "https://phira.5wyxi.com/files/b86a7353-3e42-462e-8e21-0c0c3ed6de79",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "NULCTRL",
+  "preview": "https://phira.5wyxi.com/files/3b294bda-eed1-4d1d-8764-8659e1632c20",
+  "ranked": false,
+  "rating": 0.87516,
+  "ratingCount": 123,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-23T15:36:35.757637Z",
+  "uploader": 1813623
+}

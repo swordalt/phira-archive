@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:05Z",
+    "lastChanged": "2026-09-21T02:04:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-02T05:15:32.013645Z",
+  "charter": "点忆",
+  "composer": "ariiol",
+  "created": "2025-12-02T05:15:32.013645Z",
+  "description": "原曲作者ariiol",
+  "difficulty": 15.300001,
+  "file": "https://phira.5wyxi.com/files/825f4bd7-3d43-4a34-856f-115ab58f4195",
+  "id": 49750,
+  "illustration": "https://phira.5wyxi.com/files/21c786f4-fe2d-40b3-970c-c7553250c2a7",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "just something",
+  "preview": "https://phira.5wyxi.com/files/8733b0ca-417c-4d5d-8ddb-5d69ff0ada8c",
+  "ranked": false,
+  "rating": 0.8956675,
+  "ratingCount": 352,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-12-02T05:15:32.013645Z",
+  "uploader": 388137
+}

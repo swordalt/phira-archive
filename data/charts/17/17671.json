@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:05Z",
+    "lastChanged": "2026-09-21T02:02:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-29T11:17:58.654788Z",
+  "charter": "南瓜",
+  "composer": "Lime",
+  "created": "2024-03-29T11:17:58.654788Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/9e2e86ab-1b12-4b33-9eec-465478edf2f7",
+  "id": 17671,
+  "illustration": "https://phira.5wyxi.com/files/a4b61fcf-e073-4932-8ab9-bc5d07aef2ed",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Aurora",
+  "preview": "https://phira.5wyxi.com/files/11947d2f-75f2-4e21-9ff4-c95acd26b9db",
+  "ranked": false,
+  "rating": 0.9355621,
+  "ratingCount": 197,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-03-29T11:17:58.654788Z",
+  "uploader": 482405
+}

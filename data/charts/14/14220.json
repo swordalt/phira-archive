@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:41Z",
+    "lastChanged": "2026-09-21T02:05:41Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-01-26T18:03:10.605809Z",
+  "charter": "DFCL Charter",
+  "composer": "Ludicin",
+  "created": "2024-01-26T18:03:10.605809Z",
+  "description": "谱师上传\n1st DFCL参赛谱面",
+  "difficulty": 15.8,
+  "file": "https://phira.5wyxi.com/files/3597bfc3-da04-4c19-ae71-b30aeab07b2f",
+  "id": 14220,
+  "illustration": "https://phira.5wyxi.com/files/2e22f07d-a6da-41e8-a06f-d04cbdba5158",
+  "illustrator": "",
+  "level": "Epic Lv.15",
+  "name": "Onus Rēgulus",
+  "preview": "https://phira.5wyxi.com/files/355524e6-a38d-443c-b16e-b7bc09364071",
+  "ranked": false,
+  "rating": 0.7955282,
+  "ratingCount": 51,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "DFCL",
+    "plain"
+  ],
+  "updated": "2024-01-26T18:03:10.605809Z",
+  "uploader": 674434
+}

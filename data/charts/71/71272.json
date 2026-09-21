@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:05Z",
+    "lastChanged": "2026-09-21T02:05:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-04T16:01:06.423979Z",
+  "charter": "A-Li",
+  "composer": "冰河寒风",
+  "created": "2026-08-04T16:01:06.423979Z",
+  "description": "《凌梦杯2026》(Rising-Dream Cup)，是一个围绕游戏 Phigros 创办的赛事，赛事组汇集了众多音游爱好者。本届比赛为TGL赛事组创办的第六届系列赛事，全方位升级了赛事规模。\n_______________________________________________________________\n\n基本信息 // Basic Info\n曲名 // Title :Dream Of The Forest \n曲师 // Composer :冰河寒风\n曲绘 // Artist :AK-ID\n_______________________________________________________________\n\n谱面信息 // Chart Info\n谱师名义 // Level Designer :Li\n难度 // Difficulty :IN Lv.14\n\n特别感谢 // Special Thanks\n录制软件提供 // Record App Support : @不会特效の点缀星空 (RPE Recorder)\n曲绘包装设计 // Illustration Design : @SJR哈\n赛事主办 // Event Host : @克里Crimo\n_______________________________________________________________\n\n额外信息 // Others\n©TGL, 2026 ALL RIGHTS RESERVED\n凌梦杯原创曲目\nb站视频BV1PkMB6qE4a",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/3491855a-b212-4f63-9c64-70209840edea",
+  "id": 71272,
+  "illustration": "https://phira.5wyxi.com/files/32cae57f-77ff-4cb2-bacc-b1fc7d6f7094",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Dream Of The Forest",
+  "preview": "https://phira.5wyxi.com/files/dad2147c-683e-4e47-9063-5007cc0dbb5a",
+  "ranked": false,
+  "rating": 0.90747267,
+  "ratingCount": 366,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-04T16:01:06.423979Z",
+  "uploader": 93670
+}

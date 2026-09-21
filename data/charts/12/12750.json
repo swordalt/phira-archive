@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:45Z",
+    "lastChanged": "2026-09-21T02:01:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-23T13:02:12.150089Z",
+  "charter": "-antimony-",
+  "composer": "Shu",
+  "created": "2023-12-23T13:02:12.150089Z",
+  "description": "请理解谱师想法",
+  "difficulty": 15.200001,
+  "file": "https://phira.5wyxi.com/files/0353c3cf-335a-41c4-84d7-66deb27c9158",
+  "id": 12750,
+  "illustration": "https://phira.5wyxi.com/files/ef4632a4-0045-4294-949d-3c5f9ea2e4d9",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "ヰヱロウ",
+  "preview": "https://phira.5wyxi.com/files/e4b9d2c8-0205-48ce-9ea7-3308f15a0aed",
+  "ranked": true,
+  "rating": 0.9040177,
+  "ratingCount": 1803,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "VOCALOID",
+    "regular"
+  ],
+  "updated": "2023-12-23T13:02:12.150089Z",
+  "uploader": 4216
+}

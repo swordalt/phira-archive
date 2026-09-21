@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:52Z",
+    "lastChanged": "2026-09-21T02:04:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-30T03:36:13.665851Z",
+  "charter": "兮梦",
+  "composer": "TINY 7",
+  "created": "2026-06-30T03:36:13.665851Z",
+  "description": "谱面由谱师本人上传，BV1jgKd6vES9",
+  "difficulty": 12.0,
+  "file": "https://phira.5wyxi.com/files/6cde2218-76bd-46cf-95e2-a255a7d68c4f",
+  "id": 63208,
+  "illustration": "https://phira.5wyxi.com/files/9dbf7b79-92d8-4cf3-b8c5-4b8f9bbe1068",
+  "illustrator": "",
+  "level": "IN.12",
+  "name": "浆果",
+  "preview": "https://phira.5wyxi.com/files/df1a14d7-d528-4654-a007-01f9e9745c94",
+  "ranked": false,
+  "rating": 0.90035367,
+  "ratingCount": 10672,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-30T03:36:13.665851Z",
+  "uploader": 256193
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:55Z",
+    "lastChanged": "2026-09-21T02:02:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-08T09:19:15.041174Z",
+  "charter": "Vjfjng Wan",
+  "composer": "Aaron Cherof",
+  "created": "2025-01-08T09:19:15.041174Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/2f81fdab-3617-4c1a-935c-15bfb5d1e6e6",
+  "id": 31574,
+  "illustration": "https://phira.5wyxi.com/files/5b13d74f-8f96-4da7-b6e6-695f8ae33cde",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Precipice",
+  "preview": "https://phira.5wyxi.com/files/6bcb862f-7c7c-4fcc-a7b3-5f055eaf59f3",
+  "ranked": false,
+  "rating": 0.88979745,
+  "ratingCount": 204,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-01-08T09:19:15.041174Z",
+  "uploader": 35671
+}

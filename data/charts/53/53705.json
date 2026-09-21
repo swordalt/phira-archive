@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:48Z",
+    "lastChanged": "2026-09-21T02:06:48Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-02T01:31:42.601351Z",
+  "charter": "Jiuwenzi",
+  "composer": "DJ Noriken",
+  "created": "2026-03-02T01:31:42.601351Z",
+  "description": "drag 911/2731 pass=97.90",
+  "difficulty": 13.300001,
+  "file": "https://phira.5wyxi.com/files/2c24db98-49e6-4b64-8ab6-347262debd51",
+  "id": 53705,
+  "illustration": "https://phira.5wyxi.com/files/7464aed9-73fc-47bd-a88f-a1ecb75f18a6",
+  "illustrator": "",
+  "level": "Stamina Lv.13",
+  "name": "Oracle",
+  "preview": "https://phira.5wyxi.com/files/35fcd310-79d6-4db7-96b2-befa536d0bee",
+  "ranked": false,
+  "rating": 0.95560175,
+  "ratingCount": 98,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "dfc",
+    "双指",
+    "Stamina",
+    "Gamma",
+    "plain"
+  ],
+  "updated": "2026-03-02T01:31:42.601351Z",
+  "uploader": 2112238
+}

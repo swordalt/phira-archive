@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:10Z",
+    "lastChanged": "2026-09-21T02:02:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-29T13:27:57.498902Z",
+  "charter": "黑_胶_",
+  "composer": "黑皇帝",
+  "created": "2024-04-29T10:28:30.340450Z",
+  "description": "更改部分推鍵",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/6e1885ed-5de3-4916-a660-56bc0a01c0bc",
+  "id": 19034,
+  "illustration": "https://phira.5wyxi.com/files/6f1673ee-181f-425d-b14d-36c96365027b",
+  "illustrator": "",
+  "level": "IN LV.15",
+  "name": "Chronostasis",
+  "preview": "https://phira.5wyxi.com/files/934213a0-f3b0-49b0-9424-f9f3500fe9ea",
+  "ranked": false,
+  "rating": 0.85305005,
+  "ratingCount": 299,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "bilibili",
+    "regular"
+  ],
+  "updated": "2024-04-29T13:27:57.498902Z",
+  "uploader": 895763
+}

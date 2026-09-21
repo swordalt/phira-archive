@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:31Z",
+    "lastChanged": "2026-09-21T02:02:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-04T09:34:49.192895Z",
+  "charter": "AsAu3",
+  "composer": "HJLL",
+  "created": "2024-08-04T09:34:49.192895Z",
+  "description": null,
+  "difficulty": 14.6,
+  "file": "https://phira.5wyxi.com/files/02dfff59-7ab5-43b5-bb2d-d213866c4445",
+  "id": 25252,
+  "illustration": "https://phira.5wyxi.com/files/25f92d7f-321c-44ee-8fa6-7f5961f1c712",
+  "illustrator": "",
+  "level": "IN.14",
+  "name": "准备出发",
+  "preview": "https://phira.5wyxi.com/files/b283484d-16b5-4bae-bd9c-a15d50f78bd9",
+  "ranked": false,
+  "rating": 0.9277741,
+  "ratingCount": 7129,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-04T09:34:49.192895Z",
+  "uploader": 1190672
+}

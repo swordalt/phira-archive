@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:04Z",
+    "lastChanged": "2026-09-21T02:01:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-04-02T08:24:52.826382Z",
+  "charter": "KiN0_DBDWZ",
+  "composer": "ChakYoun9",
+  "created": "2023-04-02T08:24:52.826382Z",
+  "description": "23.01.17新版，修改部分演出和配置。",
+  "difficulty": 13.200001,
+  "file": "https://phira.5wyxi.com/files/f47898f2-1a82-4192-afec-1bdd6fe3f8ad",
+  "id": 140,
+  "illustration": "https://phira.5wyxi.com/files/6a9a6ee0-1c9e-4747-8291-9f5d1862ecf4",
+  "illustrator": "KiN0~Wallhaven~",
+  "level": "FM",
+  "name": "Keep Going",
+  "preview": "https://phira.5wyxi.com/files/1b36d2b4-11ae-41db-ac3f-9a31db1c75fb",
+  "ranked": false,
+  "rating": 0.9178581,
+  "ratingCount": 285,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-04-02T08:24:52.826382Z",
+  "uploader": 312
+}

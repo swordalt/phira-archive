@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:22Z",
+    "lastChanged": "2026-09-21T02:01:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-07-26T03:28:55.176867Z",
+  "charter": "ZFCarrot",
+  "composer": "HyuN",
+  "created": "2023-07-26T03:28:55.176867Z",
+  "description": "",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/bd6da566-9282-4c1e-9d81-d5bc4d5dab3c",
+  "id": 6098,
+  "illustration": "https://phira.5wyxi.com/files/724bb7bf-db18-47c0-a430-d2cab177bfc1",
+  "illustrator": "",
+  "level": "Smile Lv.15",
+  "name": "Grin",
+  "preview": "https://phira.5wyxi.com/files/4712c5ac-d7a4-4e5c-8f44-9afe2e4226b5",
+  "ranked": false,
+  "rating": 0.83417296,
+  "ratingCount": 642,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-07-26T03:28:55.176867Z",
+  "uploader": 13881
+}

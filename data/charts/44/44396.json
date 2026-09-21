@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:39Z",
+    "lastChanged": "2026-09-21T02:03:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-12T02:14:02.845886Z",
+  "charter": "randomly_ & SPT",
+  "composer": "lridumol",
+  "created": "2025-08-12T02:14:02.845886Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/3c266b2d-189f-4e62-8220-02d30a41926f",
+  "id": 44396,
+  "illustration": "https://phira.5wyxi.com/files/57173c87-39b4-4078-b186-63e47e454e2f",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "willed",
+  "preview": "https://phira.5wyxi.com/files/82177f62-893a-410f-ab28-9c487ddd0007",
+  "ranked": false,
+  "rating": 0.90638405,
+  "ratingCount": 83,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-12T02:14:02.845886Z",
+  "uploader": 246763
+}

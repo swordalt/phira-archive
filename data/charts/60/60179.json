@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:53Z",
+    "lastChanged": "2026-09-21T02:06:53Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-06T16:32:44.281401Z",
+  "charter": "祈东",
+  "composer": "seatrus",
+  "created": "2026-06-06T16:32:44.281401Z",
+  "description": "本人第一张上传到Phira的4k谱\n（冷知识谱师本人打不过这张）\n定数是Malody里标的\n配置技乱切都沾点，以乱为主\n因为本人很懒所以很多配置都是复制过去的还没来得及微调（）",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/87ee187f-19e1-4088-8905-a5a5a3786aed",
+  "id": 60179,
+  "illustration": "https://phira.5wyxi.com/files/b328412b-1410-4831-b588-6b78e66ef907",
+  "illustrator": "",
+  "level": "4K Lv.34",
+  "name": "M A X I M U M B L A S T E R",
+  "preview": "https://phira.5wyxi.com/files/593c02cd-59ba-47de-b821-301a5488fbb7",
+  "ranked": false,
+  "rating": 0.9119151,
+  "ratingCount": 59,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2026-06-06T16:32:44.281401Z",
+  "uploader": 50430
+}

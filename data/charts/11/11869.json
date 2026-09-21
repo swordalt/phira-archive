@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:38Z",
+    "lastChanged": "2026-09-21T02:05:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-11-27T01:43:11.616851Z",
+  "charter": "NNNN",
+  "composer": "稲葉曇",
+  "created": "2023-11-27T01:43:11.616851Z",
+  "description": "更改难度和谱面信息 bilibili@fwxl-past",
+  "difficulty": 13.600006,
+  "file": "https://phira.5wyxi.com/files/d199ce17-4295-4ca1-b3de-e586976a8b5c",
+  "id": 11869,
+  "illustration": "https://phira.5wyxi.com/files/059be51f-6782-452f-8126-c4d719292416",
+  "illustrator": "",
+  "level": "Simple gamma",
+  "name": "Lost Umbrella(7_7 bootleg)",
+  "preview": "https://phira.5wyxi.com/files/b66c6a78-63db-4f01-b98c-f2568d7f73e6",
+  "ranked": false,
+  "rating": 0.8840558,
+  "ratingCount": 138,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "gamma",
+    "γ",
+    "DFC",
+    "plain"
+  ],
+  "updated": "2023-11-27T01:43:11.616851Z",
+  "uploader": 109309
+}

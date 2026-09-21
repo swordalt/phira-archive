@@ -1,0 +1,39 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:02Z",
+    "lastChanged": "2026-09-21T02:05:02Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-24T12:47:32.787168Z",
+  "charter": "隐德莱希_Aixpa",
+  "composer": "TJ.hangneil",
+  "created": "2026-07-24T12:47:32.787168Z",
+  "description": null,
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/05a76206-be71-4aff-9e3a-e0754cbb61dd",
+  "id": 68917,
+  "illustration": "https://phira.5wyxi.com/files/882cdf80-91f9-447b-946a-ec6fc2d58505",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "神威",
+  "preview": "https://phira.5wyxi.com/files/cad06369-6b5a-4455-8b6a-b5fc84bfdeb9",
+  "ranked": false,
+  "rating": 0.90706956,
+  "ratingCount": 202,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "键盘",
+    "4k",
+    "5k",
+    "key",
+    "协调",
+    "regular"
+  ],
+  "updated": "2026-07-24T12:47:32.787168Z",
+  "uploader": 474244
+}

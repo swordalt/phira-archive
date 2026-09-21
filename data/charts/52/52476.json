@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:20Z",
+    "lastChanged": "2026-09-21T02:04:20Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-11T18:06:24.968023Z",
+  "charter": "AuAkinorio",
+  "composer": "上海アリス幻樂団",
+  "created": "2026-02-11T18:06:24.968023Z",
+  "description": "这个应该算是初谱吧(\n感谢@TG铁锅炖大鹅 提供的TPhi Editor制谱器",
+  "difficulty": 13.1,
+  "file": "https://phira.5wyxi.com/files/a7d2e330-3856-4517-8a01-f37285a2028c",
+  "id": 52476,
+  "illustration": "https://phira.5wyxi.com/files/431199d7-28ed-40ab-b9b0-58f58256620b",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "生と死のある世界へ",
+  "preview": "https://phira.5wyxi.com/files/86a837f7-bc92-47a8-af53-59f18d2c27b0",
+  "ranked": false,
+  "rating": 0.9403836,
+  "ratingCount": 284,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "東方project",
+    "東方錦上京",
+    "regular"
+  ],
+  "updated": "2026-02-11T18:06:24.968023Z",
+  "uploader": 1252421
+}

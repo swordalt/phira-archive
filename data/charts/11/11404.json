@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:40Z",
+    "lastChanged": "2026-09-21T02:01:40Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-11-12T05:13:06.714327Z",
+  "charter": "Pois0n",
+  "composer": "Project Mons",
+  "created": "2023-11-12T05:13:06.714327Z",
+  "description": "(en-US) fanmade song from Honkai Impact 3rd",
+  "difficulty": 13.400002,
+  "file": "https://phira.5wyxi.com/files/bfc523bd-abc3-484d-9a98-09e7cd962b6b",
+  "id": 11404,
+  "illustration": "https://phira.5wyxi.com/files/4c01c6ef-47ee-4d22-a02a-dda44da5394e",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "Kaleidoscope",
+  "preview": "https://phira.5wyxi.com/files/93db3e7b-3671-4c81-9685-f09612540bd6",
+  "ranked": true,
+  "rating": 0.9544604,
+  "ratingCount": 14898,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "honkai",
+    "regular"
+  ],
+  "updated": "2023-11-12T05:13:06.714327Z",
+  "uploader": 256525
+}

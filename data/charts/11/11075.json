@@ -1,0 +1,39 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:39Z",
+    "lastChanged": "2026-09-21T02:01:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-11-02T03:33:52.209623Z",
+  "charter": "PaR//c//Es  - C#Y</>Z.",
+  "composer": "Virtual Self",
+  "created": "2023-11-02T03:33:52.209623Z",
+  "description": "谱师：云梦&赤澪；\n特效：卞思捷BSJ；\n谱址：BV1uu4y1q7qH；\n谱面内含有闪烁与高亮元素以及BGA，请注意啦～谱师本人上传。因0.5.0版本修复shader显示问题故补档特效版本。",
+  "difficulty": 14.400002,
+  "file": "https://phira.5wyxi.com/files/249de4d6-b559-49e3-a4d3-041e8a9dec92",
+  "id": 11075,
+  "illustration": "https://phira.5wyxi.com/files/cfa8682c-e4cd-4913-a296-562e15f46218",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Particle Arts",
+  "preview": "https://phira.5wyxi.com/files/a8f18aa1-b44c-4149-9f75-7db940af771a",
+  "ranked": false,
+  "rating": 0.9190741,
+  "ratingCount": 955,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "shader",
+    "故事板",
+    "BGA",
+    "Arcaea",
+    "观赏向",
+    "regular"
+  ],
+  "updated": "2023-11-02T03:33:52.209623Z",
+  "uploader": 10713
+}

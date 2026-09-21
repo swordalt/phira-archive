@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:17Z",
+    "lastChanged": "2026-09-21T02:01:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-07-02T04:10:51.331213Z",
+  "charter": "C8H#N",
+  "composer": "Halv",
+  "created": "2023-07-02T04:10:51.331213Z",
+  "description": "",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/11fe9bab-a9a7-4420-951f-e889858949ae",
+  "id": 4461,
+  "illustration": "https://phira.5wyxi.com/files/94313d4a-b032-465c-a8c0-b0700b12cfe8",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "LINK x LIN#S",
+  "preview": "https://phira.5wyxi.com/files/21da06b5-ab26-4568-afca-2eab1a428afc",
+  "ranked": false,
+  "rating": 0.93724316,
+  "ratingCount": 1731,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Rizline",
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 4737
+}

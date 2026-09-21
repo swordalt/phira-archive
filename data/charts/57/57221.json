@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:38Z",
+    "lastChanged": "2026-09-21T02:04:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-27T08:58:49.112746Z",
+  "charter": "kitten_lai",
+  "composer": "kry.exe",
+  "created": "2026-04-27T08:58:49.112746Z",
+  "description": "Last Wish去ice的版本，该曲取自游戏vivid/stasis。",
+  "difficulty": 16.1,
+  "file": "https://phira.5wyxi.com/files/b78052c0-295a-4da5-b5c1-572f91ebb874",
+  "id": 57221,
+  "illustration": "https://phira.5wyxi.com/files/dc1ef6b8-e06f-4f6e-9e6f-bdb5d408bf28",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Last Wish(vivid/stasis ver.)",
+  "preview": "https://phira.5wyxi.com/files/f1f513ea-6775-4a23-98ee-f2159fbb318d",
+  "ranked": false,
+  "rating": 0.8968673,
+  "ratingCount": 285,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "vividstasis",
+    "regular"
+  ],
+  "updated": "2026-04-27T08:58:49.112746Z",
+  "uploader": 784298
+}

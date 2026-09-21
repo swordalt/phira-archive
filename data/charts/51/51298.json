@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:12Z",
+    "lastChanged": "2026-09-21T02:04:12Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-17T03:48:14.114512Z",
+  "charter": "思昔",
+  "composer": "山本美禰子",
+  "created": "2026-01-17T03:48:14.114512Z",
+  "description": "时长：2:26.9\nBPM：179\n\n---\n\n1. 这次首次简单尝试使用故事板，只是换图然后加点底部字幕\n2. 为了保证不同游玩软件的谱面效果，因此在谱面里做了一定适配，背景亮度和是否模糊的设置将会失效（若有）\n3. 曲绘扩图由本人自己完成，希望大家喜欢\n4. 喜欢这个谱面可以去B站 @思昔不咕咕 观看谱面视频支持一下\n最后希望大家玩的开心",
+  "difficulty": 14.200001,
+  "file": "https://phira.5wyxi.com/files/7710ef94-eb40-40f0-b1ba-e43dc3031148",
+  "id": 51298,
+  "illustration": "https://phira.5wyxi.com/files/6ce4ce28-c1d2-4942-8501-8a5caae0da0c",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "輪廻",
+  "preview": "https://phira.5wyxi.com/files/3ee19674-8c3a-40cf-b320-a9276b6e84d4",
+  "ranked": false,
+  "rating": 0.9421784,
+  "ratingCount": 371,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-01-17T03:48:14.114512Z",
+  "uploader": 5426
+}

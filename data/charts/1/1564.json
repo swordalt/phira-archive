@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:34Z",
+    "lastChanged": "2026-09-21T02:05:34Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-10T05:26:33.883364Z",
+  "charter": "mj1748",
+  "composer": "QR underground",
+  "created": "2023-05-10T05:26:33.883364Z",
+  "description": "",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/92ae7795-2f16-4697-8790-713e7b89b1a4",
+  "id": 1564,
+  "illustration": "https://phira.5wyxi.com/files/9b388b38-cc40-469f-9536-02ce22572530",
+  "illustrator": "",
+  "level": "6k",
+  "name": "Starduster",
+  "preview": "https://phira.5wyxi.com/files/87d5a5bd-fc5a-4a96-a444-ea2efc5cbbc7",
+  "ranked": false,
+  "rating": 0.86269224,
+  "ratingCount": 78,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2023-05-10T05:26:33.883364Z",
+  "uploader": 1157
+}

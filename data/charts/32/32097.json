@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:57Z",
+    "lastChanged": "2026-09-21T02:02:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-03T02:01:22.514084Z",
+  "charter": "// ABYSS FORCE //",
+  "composer": "削除",
+  "created": "2025-01-20T10:05:00.445763Z",
+  "description": "（5k段可参考 BV1itwkerEke）与b站 @WinterProtecter 的合作谱，欢迎在b站关注 @Kenny_KLT 以获取更多自制谱更新信息～\n@WinterPT#10002",
+  "difficulty": 17.400005,
+  "file": "https://phira.5wyxi.com/files/07608efb-6473-4055-9691-d3c6d567cdc5",
+  "id": 32097,
+  "illustration": "https://phira.5wyxi.com/files/e1befa2b-9752-4052-b706-eee90a3645bc",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Megameteor",
+  "preview": "https://phira.5wyxi.com/files/119cda58-22de-4894-a3f7-91d47731bad5",
+  "ranked": true,
+  "rating": 0.90978825,
+  "ratingCount": 2374,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "CHUNITHM",
+    "regular"
+  ],
+  "updated": "2026-04-10T08:36:10.143854Z",
+  "uploader": 44
+}

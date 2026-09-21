@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:56Z",
+    "lastChanged": "2026-09-21T02:05:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-25T14:26:41.447235Z",
+  "charter": "No-smoking",
+  "composer": "misoilepunch",
+  "created": "2024-07-25T14:26:41.447235Z",
+  "description": "前前后后一两个月，这谱总算是憋出来了。前面还有点灵感，后面直接摆了，不知道怎么写，改了很多次总感觉有点怪怪的，所以最终成品就这样了。因为bpm较高（270），加上后面没感觉，就写的很像定轨，也懒得动了。而且脑内估测难度时忽略了bpm因素，导致估测难度偏差非常大，可能会有很大的个人差。所以建议游玩本谱前先玩玩4k热手（雾）\n\n感谢幸运星大大（scylic)的转谱，不辞辛劳把我写的大变转换成臀谱，真的非常感谢！",
+  "difficulty": 17.199997,
+  "file": "https://phira.5wyxi.com/files/b32db7ca-8fff-4ba6-8e36-546dc91c78cd",
+  "id": 24332,
+  "illustration": "https://phira.5wyxi.com/files/83764dd7-32aa-4c0c-8303-1084fd365c23",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Re:Wind",
+  "preview": "https://phira.5wyxi.com/files/c4c870dd-5de5-4915-bfbf-fca7e7d68f0e",
+  "ranked": false,
+  "rating": 0.9235715,
+  "ratingCount": 64,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2024-07-25T14:26:41.447235Z",
+  "uploader": 692383
+}

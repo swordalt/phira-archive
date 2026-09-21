@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:30Z",
+    "lastChanged": "2026-09-21T02:03:30Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-20T10:50:59.155427Z",
+  "charter": "Initial | Ray",
+  "composer": "Watch",
+  "created": "2025-07-20T10:50:59.155427Z",
+  "description": "本谱面为勺柒杯2nd半决赛谱面 该谱面上传已经过谱师本人同意 本曲为勺柒杯原创曲目（谱面修改：调整了谱面延迟并重新上传 曲绘修改：精简了原曲绘中过于复杂的元素，重新编辑了字体并上传）",
+  "difficulty": 17.1,
+  "file": "https://phira.5wyxi.com/files/1374c869-7a07-4a18-9e5a-63ec18242e53",
+  "id": 42204,
+  "illustration": "https://phira.5wyxi.com/files/bf0db7bf-28dd-46a1-a7d3-fa5e9a9ea18a",
+  "illustrator": "",
+  "level": "AT  Lv.17",
+  "name": "Initial Light",
+  "preview": "https://phira.5wyxi.com/files/31844ad6-abbe-492d-858f-35bf16408fc9",
+  "ranked": false,
+  "rating": 0.90620726,
+  "ratingCount": 319,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-27T20:21:04.393712Z",
+  "uploader": 1296
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:09Z",
+    "lastChanged": "2026-09-21T02:03:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-03-25T00:12:50.332403Z",
+  "charter": "sid21377",
+  "composer": "Cysmix",
+  "created": "2025-03-25T00:12:50.332403Z",
+  "description": null,
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/01d14ef2-d444-4b07-a98b-84cc57e95130",
+  "id": 35709,
+  "illustration": "https://phira.5wyxi.com/files/c90dedf2-6a1d-48fd-9554-ef2797bdd10a",
+  "illustrator": "",
+  "level": "SP Lv.?",
+  "name": "Peer Gynt",
+  "preview": "https://phira.5wyxi.com/files/6aebd7c0-7c1b-405b-b633-3ea701baf81f",
+  "ranked": false,
+  "rating": 0.77883065,
+  "ratingCount": 8,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-03-25T00:12:50.332403Z",
+  "uploader": 1125684
+}

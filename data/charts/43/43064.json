@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:34Z",
+    "lastChanged": "2026-09-21T02:03:34Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-03T05:37:37.539750Z",
+  "charter": "Ct_Brave",
+  "composer": "塞壬唱片-MSR,D.D.D.",
+  "created": "2025-07-29T09:16:30.057976Z",
+  "description": "大幅减少了红键数量，优化了部分手感和视觉体验，总体手速要求更高了（确信）。",
+  "difficulty": 14.900003,
+  "file": "https://phira.5wyxi.com/files/70f6e834-28f0-4750-8415-32380af20774",
+  "id": 43064,
+  "illustration": "https://phira.5wyxi.com/files/6352fa67-bae2-437c-858e-22844ed57d7a",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Ready?",
+  "preview": "https://phira.5wyxi.com/files/12c6f85a-f8e8-4ea4-9cdb-11ada9080340",
+  "ranked": false,
+  "rating": 0.8780805,
+  "ratingCount": 336,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "明日方舟",
+    "假日",
+    "塞壬唱片",
+    "regular"
+  ],
+  "updated": "2025-12-03T05:37:37.539750Z",
+  "uploader": 1586668
+}

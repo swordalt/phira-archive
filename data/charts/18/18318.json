@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:07Z",
+    "lastChanged": "2026-09-21T02:02:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-12T02:57:41.765577Z",
+  "charter": "你知道我什么成分",
+  "composer": "Akira Complex",
+  "created": "2024-04-12T02:57:41.765577Z",
+  "description": null,
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/dc45fe05-ad04-48ba-9927-9e68dcd7ddab",
+  "id": 18318,
+  "illustration": "https://phira.5wyxi.com/files/5fc15691-b9d0-4f4d-9b82-20593acc83ba",
+  "illustrator": "",
+  "level": "IV Lv.13",
+  "name": "Galactic Warzone",
+  "preview": "https://phira.5wyxi.com/files/ed86de63-f73d-497d-b52b-7e9bce9babfa",
+  "ranked": false,
+  "rating": 0.7774825,
+  "ratingCount": 144,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Rotaeno",
+    "regular"
+  ],
+  "updated": "2024-04-12T02:57:41.765577Z",
+  "uploader": 880501
+}

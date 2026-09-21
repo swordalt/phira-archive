@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:25Z",
+    "lastChanged": "2026-09-21T02:04:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-27T03:08:51.497966Z",
+  "charter": "bluesky",
+  "composer": "Farrelllllllll",
+  "created": "2026-02-27T03:08:51.497966Z",
+  "description": "第一次搓谱子，有何不足请多多指点",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/8a000caf-94e8-4baa-9b14-e49727677bae",
+  "id": 53510,
+  "illustration": "https://phira.5wyxi.com/files/8d1f4dda-a660-4090-9150-5b2ecb477c5d",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "虚幻曙光",
+  "preview": "https://phira.5wyxi.com/files/4266eae1-9982-4043-b7f4-893d9ef0d426",
+  "ranked": false,
+  "rating": 0.8924044,
+  "ratingCount": 102,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-27T03:08:51.497966Z",
+  "uploader": 24717
+}

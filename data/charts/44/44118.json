@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:38Z",
+    "lastChanged": "2026-09-21T02:03:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-09T04:27:26.876228Z",
+  "charter": "Pigeoncore",
+  "composer": "みぃゐる (mii-ru)/PLORALD",
+  "created": "2025-08-09T04:27:26.876228Z",
+  "description": "谱师本人上传谱面 B站@星辰鸠和银河䴗 更改流速和配置 改变定数 动效借鉴已经过原谱师同意",
+  "difficulty": 19.0,
+  "file": "https://phira.5wyxi.com/files/098313c1-347d-4ffb-ba2e-f96f8ae995cb",
+  "id": 44118,
+  "illustration": "https://phira.5wyxi.com/files/8ccb1119-052a-427e-9361-8d7558f02937",
+  "illustrator": "",
+  "level": "AT Lv.19",
+  "name": "Little Rabbit and Deliverance",
+  "preview": "https://phira.5wyxi.com/files/d825469c-9744-40ea-9cd2-b315ee841a23",
+  "ranked": false,
+  "rating": 0.9404254,
+  "ratingCount": 91,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-09T04:27:26.876228Z",
+  "uploader": 1269520
+}

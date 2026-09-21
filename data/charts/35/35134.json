@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:07Z",
+    "lastChanged": "2026-09-21T02:03:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-03-11T17:46:15.045181Z",
+  "charter": "L10n and 9 and 7 Y",
+  "composer": "Cansol",
+  "created": "2025-03-11T17:46:15.045181Z",
+  "description": "谱师本人上传，另一个谱师同意上传",
+  "difficulty": 17.1,
+  "file": "https://phira.5wyxi.com/files/83192b7f-abf0-415b-aba6-f353b3e0b94e",
+  "id": 35134,
+  "illustration": "https://phira.5wyxi.com/files/c86507f7-70ca-480c-a841-2375001662ef",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Broken Conviction",
+  "preview": "https://phira.5wyxi.com/files/ae48e3b8-acb3-4bd7-9d7f-c58d1c4b89ef",
+  "ranked": false,
+  "rating": 0.92300934,
+  "ratingCount": 231,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-03-11T17:46:15.045181Z",
+  "uploader": 682285
+}

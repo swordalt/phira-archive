@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:16Z",
+    "lastChanged": "2026-09-21T02:03:16Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-05T03:48:37.193887Z",
+  "charter": "The-video-game-电玩",
+  "composer": "AT Master",
+  "created": "2025-05-05T03:48:37.193887Z",
+  "description": "Oi，b站有视频，其他的没了",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/9b4ba679-5dd3-4436-bde7-dcba435f92c5",
+  "id": 37605,
+  "illustration": "https://phira.5wyxi.com/files/b37f8673-bcfa-4866-a7d4-951a24cf24ec",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "电玩城",
+  "preview": "https://phira.5wyxi.com/files/576a9946-2ad3-4106-adac-5807f3e5ad1f",
+  "ranked": false,
+  "rating": 0.8648488,
+  "ratingCount": 103,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-05-05T03:48:37.193887Z",
+  "uploader": 684028
+}

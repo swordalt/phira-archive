@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:05Z",
+    "lastChanged": "2026-09-21T02:01:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-04-02T08:24:52.826382Z",
+  "charter": "LogicM as \"Der Ehre Regenbogen stehn\"",
+  "composer": "Silentroom",
+  "created": "2023-04-02T08:24:52.826382Z",
+  "description": null,
+  "difficulty": 15.422222,
+  "file": "https://phira.5wyxi.com/files/124f9a17-d46c-456b-acea-7cb2a439367d",
+  "id": 300,
+  "illustration": "https://phira.5wyxi.com/files/a1c6937d-2fc6-40ee-8c37-0573e16392dd",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "骤雨の狭间",
+  "preview": "https://phira.5wyxi.com/files/56e9fa7e-2950-470c-965a-7745745c3fce",
+  "ranked": true,
+  "rating": 0.8457792,
+  "ratingCount": 3023,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "FRENZ2019",
+    "regular"
+  ],
+  "updated": "2024-04-17T16:02:30.777265Z",
+  "uploader": 403
+}

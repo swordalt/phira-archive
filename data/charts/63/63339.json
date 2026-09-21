@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:33Z",
+    "lastChanged": "2026-09-21T02:05:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-30T15:24:12.913392Z",
+  "charter": "313493771",
+  "composer": "HOYO—MiX",
+  "created": "2026-06-30T15:24:12.913392Z",
+  "description": "一起摇一摇，求过审",
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/8734f815-d7d3-41d3-ae92-4083ac1eede0",
+  "id": 63339,
+  "illustration": "https://phira.5wyxi.com/files/2ce0c760-8bec-4ddd-a823-bd3db3ba39f1",
+  "illustrator": "",
+  "level": "SP Lv.XX丨XX",
+  "name": "来杯好茶摇一摇",
+  "preview": "https://phira.5wyxi.com/files/c44d7c19-e358-42fc-a0e5-c1269096161e",
+  "ranked": false,
+  "rating": 0.8334165,
+  "ratingCount": 3510,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2026-06-30T15:24:12.913392Z",
+  "uploader": 985023
+}

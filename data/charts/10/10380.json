@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:38Z",
+    "lastChanged": "2026-09-21T02:05:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-10-12T07:59:46.938327Z",
+  "charter": "Zapper",
+  "composer": "Powerless",
+  "created": "2023-10-12T07:59:46.938327Z",
+  "description": "为谱师上传，malody简单的加了一些effect",
+  "difficulty": 22.0,
+  "file": "https://phira.5wyxi.com/files/e677dad0-0284-4b70-a1cd-205f2a1b8f2c",
+  "id": 10380,
+  "illustration": "https://phira.5wyxi.com/files/88c3516f-1124-4af9-977b-813c3d60a674",
+  "illustrator": "",
+  "level": "4K Ultra Lv.22",
+  "name": "Frey's Philosophy",
+  "preview": "https://phira.5wyxi.com/files/9dc36c00-c0c4-49ec-80bb-d9d3304db862",
+  "ranked": false,
+  "rating": 0.9421504,
+  "ratingCount": 1904,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4k",
+    "plain"
+  ],
+  "updated": "2023-10-12T07:59:46.938327Z",
+  "uploader": 158205
+}

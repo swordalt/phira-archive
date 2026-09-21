@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:21Z",
+    "lastChanged": "2026-09-21T02:02:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-09T14:08:56.253888Z",
+  "charter": "..-...----...--.-.--.-.",
+  "composer": "こっちのけんと",
+  "created": "2024-07-09T14:08:56.253888Z",
+  "description": "难度是摩斯电码，即IN Lv.15\n谱面演示视频：https://www.bilibili.com/video/BV1GW421d7GY\n游玩视频请注明谱师（B站同名）",
+  "difficulty": 15.0999975,
+  "file": "https://phira.5wyxi.com/files/dd0f3364-6e30-41f0-ac9b-de478c757542",
+  "id": 23058,
+  "illustration": "https://phira.5wyxi.com/files/7c48bb5b-6da7-47eb-9355-ef09181c102f",
+  "illustrator": "",
+  "level": "..-. Lv. .----.....",
+  "name": "はいよろこんで",
+  "preview": "https://phira.5wyxi.com/files/96e24eef-7175-4035-b5e0-7b0b4104679e",
+  "ranked": false,
+  "rating": 0.9235932,
+  "ratingCount": 2865,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-07-09T14:08:56.253888Z",
+  "uploader": 34464
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:14Z",
+    "lastChanged": "2026-09-21T02:03:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-16T04:19:33.094592Z",
+  "charter": "FadĒ0",
+  "composer": "Evin a'k",
+  "created": "2025-04-23T15:56:46.261681Z",
+  "description": "(之前的谱面因为一些原因删了）",
+  "difficulty": 15.700003,
+  "file": "https://phira.5wyxi.com/files/2d5cbcc4-4ad8-43d9-b748-fac5de03cdb7",
+  "id": 36913,
+  "illustration": "https://phira.5wyxi.com/files/15c3342e-994a-43d2-baeb-6052388f90ff",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Ēvocator",
+  "preview": "https://phira.5wyxi.com/files/bd8bb583-947b-4be0-9186-5d36e8973c3e",
+  "ranked": false,
+  "rating": 0.934071,
+  "ratingCount": 664,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-11-16T04:19:33.094592Z",
+  "uploader": 26019
+}

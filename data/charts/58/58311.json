@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:42Z",
+    "lastChanged": "2026-09-21T02:04:42Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-14T01:39:41.729668Z",
+  "charter": "Evir",
+  "composer": "snooze",
+  "created": "2026-05-14T01:39:41.729668Z",
+  "description": null,
+  "difficulty": 15.7,
+  "file": "https://phira.5wyxi.com/files/28c98376-c219-4eb7-b9d9-56c3d68c3483",
+  "id": 58311,
+  "illustration": "https://phira.5wyxi.com/files/6bc40d1a-a157-4bfd-bfd6-8af317f184fa",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "Dreams From Another World",
+  "preview": "https://phira.5wyxi.com/files/22944537-f5a7-4ece-807a-d27d92b77862",
+  "ranked": false,
+  "rating": 0.6621522,
+  "ratingCount": 4,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-05-14T01:39:41.729668Z",
+  "uploader": 1856180
+}

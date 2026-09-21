@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:53Z",
+    "lastChanged": "2026-09-21T02:03:53Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-26T09:02:30.339772Z",
+  "charter": "zyrf",
+  "composer": "Xeudo Code&LucaProject",
+  "created": "2025-09-26T09:02:30.339772Z",
+  "description": "B站：@布耶尔-zyrf\n谱面预览：BV1FYpozqEpm\n在旧谱基础上进行了全面重置",
+  "difficulty": 15.500001,
+  "file": "https://phira.5wyxi.com/files/1bba05d7-a336-4bd3-9c8a-6e259441b0d8",
+  "id": 47229,
+  "illustration": "https://phira.5wyxi.com/files/ed328be6-96a7-4e2f-b8d3-b5a1398526f4",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Start To The End",
+  "preview": "https://phira.5wyxi.com/files/1ad30cd8-0f77-4e81-9fc2-00ee3fe77089",
+  "ranked": false,
+  "rating": 0.94807184,
+  "ratingCount": 406,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-26T09:02:30.339772Z",
+  "uploader": 78246
+}

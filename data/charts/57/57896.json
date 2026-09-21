@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:41Z",
+    "lastChanged": "2026-09-21T02:04:41Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-05T10:00:10.553873Z",
+  "charter": "中有-生有-本有-死有",
+  "composer": "MARETU/初音ミク",
+  "created": "2026-05-05T10:00:10.553873Z",
+  "description": "生贺谱，第一次写了超过5000事件的谱\n\n谱师本人上传，b站@一往无前的星辰",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/2cfc8330-211a-40ef-a9cf-30ca656d36ae",
+  "id": 57896,
+  "illustration": "https://phira.5wyxi.com/files/6745e824-de3b-4cb5-8f6a-3c9e890adeb7",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "しう",
+  "preview": "https://phira.5wyxi.com/files/5b219b46-b1a9-47c8-8875-d0e78cb990e2",
+  "ranked": false,
+  "rating": 0.93644863,
+  "ratingCount": 903,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "初音ミク",
+    "regular"
+  ],
+  "updated": "2026-05-05T10:00:10.553873Z",
+  "uploader": 1477842
+}

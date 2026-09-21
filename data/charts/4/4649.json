@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:18Z",
+    "lastChanged": "2026-09-21T02:01:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-07-05T05:03:17.789848Z",
+  "charter": "Leaper377 vs MujiSama",
+  "composer": "かねこちはる",
+  "created": "2023-07-05T05:03:17.789848Z",
+  "description": "此为@Leaper377 @母鸡Sama_ 的4thPecJam双人赛道谱面   未经允许禁止转载     2023.8.17   谱面难度改为AT，定数上调至15.5",
+  "difficulty": 15.588889,
+  "file": "https://phira.5wyxi.com/files/ce39f7f8-7dcc-4094-878b-f814c44c5b71",
+  "id": 4649,
+  "illustration": "https://phira.5wyxi.com/files/f9f518fe-7940-4af5-b287-325c221ea269",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "SILENT BLUE",
+  "preview": "https://phira.5wyxi.com/files/b81c075e-34e3-4626-b5f9-bb5d54dfa264",
+  "ranked": true,
+  "rating": 0.90635,
+  "ratingCount": 2507,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "4thPecJam",
+    "Maimai",
+    "regular"
+  ],
+  "updated": "2024-04-17T16:02:30.777265Z",
+  "uploader": 3742
+}

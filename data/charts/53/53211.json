@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:24Z",
+    "lastChanged": "2026-09-21T02:04:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-22T15:25:02.255612Z",
+  "charter": "kolobanov",
+  "composer": "Yostra",
+  "created": "2026-02-22T15:25:02.255612Z",
+  "description": null,
+  "difficulty": 15.500001,
+  "file": "https://phira.5wyxi.com/files/090b1ace-f520-49f0-bfcc-e43c715110c0",
+  "id": 53211,
+  "illustration": "https://phira.5wyxi.com/files/5f8495b8-9a27-45cc-8492-1b6316803462",
+  "illustrator": "",
+  "level": "IN 15.3",
+  "name": "コントロールできない感情という変数",
+  "preview": "https://phira.5wyxi.com/files/e34a244e-2e7d-4b3c-be2b-e758a8b24583",
+  "ranked": false,
+  "rating": 0.8787729,
+  "ratingCount": 122,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-22T15:25:02.255612Z",
+  "uploader": 2104868
+}

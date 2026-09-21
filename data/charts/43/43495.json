@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:36Z",
+    "lastChanged": "2026-09-21T02:03:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-02T15:21:01.154552Z",
+  "charter": "κ7 & ω44",
+  "composer": "穴山大輔 VS 光吉猛修 VS Kai",
+  "created": "2025-08-02T15:21:01.154552Z",
+  "description": "该谱面为【云梦•始源】比赛供谱\n首次登场于EX区16进8淘汰赛第二场\n————————————————\n曲名：ω4\n曲师：穴山大輔 VS 光吉猛修 VS Kai\n谱师：κ7 & ω44（Karlott + WinterPT）\n难度：IN Lv.16\n物量：1393\n好难啊",
+  "difficulty": 16.6,
+  "file": "https://phira.5wyxi.com/files/85075882-5fcc-4c3e-bedc-6157193c42c4",
+  "id": 43495,
+  "illustration": "https://phira.5wyxi.com/files/a782504e-6ef3-4066-9744-a7f2d1a06527",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "ω4",
+  "preview": "https://phira.5wyxi.com/files/18406258-b14e-4c14-8695-5e04bce3c96c",
+  "ranked": false,
+  "rating": 0.93945915,
+  "ratingCount": 807,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "云梦杯",
+    "ONGEKI",
+    "regular"
+  ],
+  "updated": "2025-08-02T15:21:01.154552Z",
+  "uploader": 10002
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:30Z",
+    "lastChanged": "2026-09-21T02:04:30Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-27T15:48:41.807494Z",
+  "charter": "Mzl_麻酱",
+  "composer": "Bossfight",
+  "created": "2026-03-27T15:48:41.807494Z",
+  "description": null,
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/cd6009ed-7639-4f01-8173-0d72a9352164",
+  "id": 54607,
+  "illustration": "https://phira.5wyxi.com/files/ad7ab9f8-b7aa-4467-bdc6-271f54be3704",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "银河",
+  "preview": "https://phira.5wyxi.com/files/5a34ea28-31eb-4d7e-bdb5-d5f94d6abb78",
+  "ranked": false,
+  "rating": 0.8172108,
+  "ratingCount": 17,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-03-27T15:48:41.807494Z",
+  "uploader": 1738656
+}

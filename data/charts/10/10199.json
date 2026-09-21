@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:36Z",
+    "lastChanged": "2026-09-21T02:01:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-10-05T11:27:43.982459Z",
+  "charter": "xingling",
+  "composer": "tokiwa",
+  "created": "2023-10-05T11:27:43.982459Z",
+  "description": "第一届WJC的35号选手。第三版，相比上一版调整了前半段部分排键，以及大改最后一部分",
+  "difficulty": 14.400002,
+  "file": "https://phira.5wyxi.com/files/87947846-209c-486f-a924-3d4f9a1a547d",
+  "id": 10199,
+  "illustration": "https://phira.5wyxi.com/files/290b2a31-ad7a-4af9-9e0f-30c3dfdc1426",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Orthodox",
+  "preview": "https://phira.5wyxi.com/files/8b936748-21af-416f-a807-798df1ade6cf",
+  "ranked": false,
+  "rating": 0.9326774,
+  "ratingCount": 821,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-10-05T11:27:43.982459Z",
+  "uploader": 2329
+}

@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:43Z",
+    "lastChanged": "2026-09-21T02:01:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-08T08:32:24.777978Z",
+  "charter": "翠楼屋",
+  "composer": "Masayoshi limori",
+  "created": "2023-12-08T08:32:24.777978Z",
+  "description": "这是可打版（）       由于第一版有一个hold无解 稍微改了一下 现在是完全可打版本了（）",
+  "difficulty": 15.2,
+  "file": "https://phira.5wyxi.com/files/af31af8d-acca-465b-8b8b-1b953edae8be",
+  "id": 12229,
+  "illustration": "https://phira.5wyxi.com/files/f8cf5866-9613-41c4-8d62-531e16bd7367",
+  "illustrator": "",
+  "level": "IN",
+  "name": "HAGAKIRI",
+  "preview": "https://phira.5wyxi.com/files/87672220-08d3-4dfb-854a-9c641601c1f0",
+  "ranked": false,
+  "rating": 0.77658,
+  "ratingCount": 130,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Maimai",
+    "maimai",
+    "翠楼屋",
+    "regular"
+  ],
+  "updated": "2023-12-08T08:32:24.777978Z",
+  "uploader": 486020
+}

@@ -1,0 +1,39 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:26Z",
+    "lastChanged": "2026-09-21T02:01:26Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-12T16:12:14.885056Z",
+  "charter": "Lieselotte",
+  "composer": "BilliumMoto × Silentroom",
+  "created": "2023-08-12T16:12:14.885056Z",
+  "description": "此谱面为WJC参赛谱\r\n\r\nSense大概是从5月中旬就开始写的，最后拖到七月草草了事，后半段的细节都不怎么到位，这张谱是后来打磨了一下细节以后的改谱\r\n\r\n注：Lieselotte 是 BOFXVII 参赛团队 [Clue] 发布的四首具有剧情联系的参赛曲中故事的主角，这张谱使用她的名字作为谱师名义\r\n\r\n【本人上传】",
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/c4b6d759-9d66-4afb-a2cd-3d237f186c96",
+  "id": 7480,
+  "illustration": "https://phira.5wyxi.com/files/74d18f42-13c3-4de2-bd89-0d77ac31328e",
+  "illustrator": "",
+  "level": "Uplifting Lv.13",
+  "name": "Sense",
+  "preview": "https://phira.5wyxi.com/files/340d2dc8-27c9-4e3a-9cf6-0fa3945bb2c8",
+  "ranked": true,
+  "rating": 0.9130856,
+  "ratingCount": 1633,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "BilliumMoto",
+    "Silentroom",
+    "BOFXVII",
+    "Clue",
+    "1stWJC",
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 20
+}

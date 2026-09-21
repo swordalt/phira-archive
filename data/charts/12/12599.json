@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:45Z",
+    "lastChanged": "2026-09-21T02:01:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-17T13:17:45.398671Z",
+  "charter": "Kimisora Asaka",
+  "composer": "ARForest",
+  "created": "2023-12-17T13:17:45.398671Z",
+  "description": null,
+  "difficulty": 14.200001,
+  "file": "https://phira.5wyxi.com/files/a830a194-caeb-4a13-a76b-eded515ff47e",
+  "id": 12599,
+  "illustration": "https://phira.5wyxi.com/files/fb467893-65a6-4d68-bc77-cf6f5d3864c2",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Hemisphere",
+  "preview": "https://phira.5wyxi.com/files/08e791c4-c6eb-4d8f-9d5c-55fd96b131ff",
+  "ranked": false,
+  "rating": 0.31761014,
+  "ratingCount": 249,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Dynamix",
+    "regular"
+  ],
+  "updated": "2023-12-17T13:17:45.398671Z",
+  "uploader": 463315
+}

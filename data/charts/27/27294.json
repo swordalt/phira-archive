@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:39Z",
+    "lastChanged": "2026-09-21T02:02:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-09-01T11:09:25.967390Z",
+  "charter": "flowers",
+  "composer": "Plum",
+  "created": "2024-09-01T11:09:25.967390Z",
+  "description": "五谱，二次参加PecJam。\n这是7thPecJam中花了两天时间完成的谱面，希望大家喜欢，希望大家多提建议！",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/44bca0da-2c00-4a31-8ed0-9e17a1d67ac3",
+  "id": 27294,
+  "illustration": "https://phira.5wyxi.com/files/85e9cb92-5e78-4667-b0ae-435db94b56e0",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Terrasphere",
+  "preview": "https://phira.5wyxi.com/files/ba9f4516-f80a-436c-bf0b-48f7a0342050",
+  "ranked": false,
+  "rating": 0.9180942,
+  "ratingCount": 249,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Artcore",
+    "Plum",
+    "regular"
+  ],
+  "updated": "2024-09-01T11:09:25.967390Z",
+  "uploader": 14791
+}

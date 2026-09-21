@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:59Z",
+    "lastChanged": "2026-09-21T02:04:59Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-14T14:06:00.975514Z",
+  "charter": "ryq",
+  "composer": "羊音乐",
+  "created": "2026-07-14T14:06:00.975514Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/25672a9d-e294-4394-9c23-2f99909c0418",
+  "id": 66563,
+  "illustration": "https://phira.5wyxi.com/files/8a521a79-7e1a-4505-80f1-ff01fd8273fd",
+  "illustrator": "",
+  "level": "14.15",
+  "name": "弥渡山歌（PHONK）",
+  "preview": "https://phira.5wyxi.com/files/b44aa07a-f2b1-45ab-8ffc-26f357f13cb0",
+  "ranked": false,
+  "rating": 0.8937064,
+  "ratingCount": 256,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-14T14:06:00.975514Z",
+  "uploader": 898855
+}

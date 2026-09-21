@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:06Z",
+    "lastChanged": "2026-09-21T02:05:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-09T08:05:16.226356Z",
+  "charter": "TGL Chart Team 「Journey」",
+  "composer": "BilliumMoto/Silentroom",
+  "created": "2026-08-09T08:05:16.226356Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/80cc586b-0783-4432-9d3b-1d3020adfb1e",
+  "id": 72239,
+  "illustration": "https://phira.5wyxi.com/files/de8c80a0-9f4b-4de2-8162-fd11a19a333f",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "Sense",
+  "preview": "https://phira.5wyxi.com/files/26d41449-4cd3-41f6-9469-9a3ef6b51cf4",
+  "ranked": false,
+  "rating": 0.85985297,
+  "ratingCount": 81,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-09T08:05:16.226356Z",
+  "uploader": 4218
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:53Z",
+    "lastChanged": "2026-09-21T02:01:53Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-03T08:08:16.594186Z",
+  "charter": "MZDDZMQY",
+  "composer": "Sakuzyo",
+  "created": "2024-02-03T04:10:17.415184Z",
+  "description": "谱面位要没了，遂写之",
+  "difficulty": 14.500001,
+  "file": "https://phira.5wyxi.com/files/6dd533b2-a8a1-4dae-a5e5-6811c3b7968a",
+  "id": 14683,
+  "illustration": "https://phira.5wyxi.com/files/05b6fa8e-fc41-4e3d-b236-c43dca9c5bfc",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Axion",
+  "preview": "https://phira.5wyxi.com/files/8ffcb581-bbc6-4e4a-b024-6d8499e2d98c",
+  "ranked": false,
+  "rating": 0.8361498,
+  "ratingCount": 161,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-02-03T08:08:16.594186Z",
+  "uploader": 74572
+}

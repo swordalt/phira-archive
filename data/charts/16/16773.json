@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:02Z",
+    "lastChanged": "2026-09-21T02:02:02Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-30T08:59:32.217346Z",
+  "charter": "BigPigeon",
+  "composer": "Aiobahn feat. KOTOKO",
+  "created": "2024-03-05T15:51:43.376265Z",
+  "description": "优化谱面，修复bug。",
+  "difficulty": 16.9,
+  "file": "https://phira.5wyxi.com/files/1b156745-2fd2-4072-9241-0a0079e8bfa8",
+  "id": 16773,
+  "illustration": "https://phira.5wyxi.com/files/ed85c1ec-54dd-49ee-83bc-612f56f17866",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "INTERNET YAMERO",
+  "preview": "https://phira.5wyxi.com/files/8fa7a26f-31cb-4933-af71-8e3004bffa12",
+  "ranked": false,
+  "rating": 0.69895905,
+  "ratingCount": 690,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-03-30T09:28:41.213259Z",
+  "uploader": 211570
+}

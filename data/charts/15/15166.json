@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:55Z",
+    "lastChanged": "2026-09-21T02:01:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-09T16:55:44.673948Z",
+  "charter": "6thPecJam",
+  "composer": "ARForest",
+  "created": "2024-02-09T16:55:44.673948Z",
+  "description": "",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/fa97c235-1c58-494c-871f-d4cfe8289d94",
+  "id": 15166,
+  "illustration": "https://phira.5wyxi.com/files/50aa73a9-ce24-4099-8618-7fd00532a42c",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Birds of Plague",
+  "preview": "https://phira.5wyxi.com/files/aa412ccb-b4a6-483f-9fb9-be228ce9d0fe",
+  "ranked": false,
+  "rating": 0.7397363,
+  "ratingCount": 74,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2024-03-09T15:24:17.835540Z",
+  "uploader": 2403
+}

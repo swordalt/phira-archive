@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:33Z",
+    "lastChanged": "2026-09-21T02:03:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-27T16:59:42.348461Z",
+  "charter": "sword",
+  "composer": "黑泽诺亚NOIR",
+  "created": "2025-07-27T16:59:42.348461Z",
+  "description": "Chart View:\nhttps://youtu.be/T-oE4gLmSWA",
+  "difficulty": 14.300001,
+  "file": "https://phira.5wyxi.com/files/1ac6c536-e24e-4a73-b3e8-24c21f0487ca",
+  "id": 42893,
+  "illustration": "https://phira.5wyxi.com/files/b54b37cc-bbf5-43c3-aa22-879cfb53813b",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "恶修女——永火熔铸",
+  "preview": "https://phira.5wyxi.com/files/16abb88d-cb74-4c3f-bc26-0757c4aaaf1e",
+  "ranked": false,
+  "rating": 0.91155493,
+  "ratingCount": 324,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "shader",
+    "regular"
+  ],
+  "updated": "2026-07-04T20:48:39.374557Z",
+  "uploader": 389
+}

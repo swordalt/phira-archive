@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:02Z",
+    "lastChanged": "2026-09-21T02:02:02Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-31T15:38:41.013920Z",
+  "charter": "LogicM",
+  "composer": "打打だいず",
+  "created": "2024-03-03T04:05:43.335424Z",
+  "description": "本人上传",
+  "difficulty": 15.500004,
+  "file": "https://phira.5wyxi.com/files/84cd7166-eb2e-4f67-a5ad-459ffdf75205",
+  "id": 16686,
+  "illustration": "https://phira.5wyxi.com/files/e379adf2-1184-4e89-8e01-d2fb1194ed72",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "星河一天",
+  "preview": "https://phira.5wyxi.com/files/44b54152-f802-431d-88d9-56b477f90967",
+  "ranked": false,
+  "rating": 0.8815184,
+  "ratingCount": 512,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-07-31T15:38:41.013920Z",
+  "uploader": 403
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:07Z",
+    "lastChanged": "2026-09-21T02:02:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-05T05:54:15.454371Z",
+  "charter": "saq /FYFplus",
+  "composer": "HOYO-MiX / 张杰",
+  "created": "2024-04-05T05:54:15.454371Z",
+  "description": "一首小13",
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/16e568b3-5580-4589-a6d0-78acf7396caf",
+  "id": 18087,
+  "illustration": "https://phira.5wyxi.com/files/693e0b34-7559-4dd9-9bd4-31c103f65080",
+  "illustrator": "",
+  "level": "LY.13",
+  "name": "不眠之夜",
+  "preview": "https://phira.5wyxi.com/files/448dfbb0-564e-482f-abfc-5aa14849a977",
+  "ranked": false,
+  "rating": 0.9282217,
+  "ratingCount": 5905,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "星穹铁道",
+    "regular"
+  ],
+  "updated": "2024-04-05T05:54:15.454371Z",
+  "uploader": 182687
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:28Z",
+    "lastChanged": "2026-09-21T02:04:28Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-12T12:23:21.007898Z",
+  "charter": "TimeRain",
+  "composer": "Kobaryo",
+  "created": "2026-03-12T12:23:21.007898Z",
+  "description": "我不会写谱子",
+  "difficulty": 17.100004,
+  "file": "https://phira.5wyxi.com/files/27fa0a6d-f8bf-4f24-9ddb-1d2d3fb48956",
+  "id": 54055,
+  "illustration": "https://phira.5wyxi.com/files/1d165850-3fa1-43e9-bbab-80d9539ae7ad",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Invisible Frenzy",
+  "preview": "https://phira.5wyxi.com/files/9b4df4f2-a044-4423-aa9e-46b4d92590f2",
+  "ranked": false,
+  "rating": 0.79915774,
+  "ratingCount": 141,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-03-20T10:21:33.478592Z",
+  "uploader": 2067613
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:01Z",
+    "lastChanged": "2026-09-21T02:02:01Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-02T17:11:54.434166Z",
+  "charter": "restey&lih",
+  "composer": "Phuture Noize",
+  "created": "2024-03-02T17:11:54.434166Z",
+  "description": "6thPecJam参赛谱，本人上传\n较参赛版改了一点地方，也加了一点细节\n算是比较用心的一张了，至少也去尝试了些新东西\nanticlimax的星星雨是为了呼应曲名写的，基本上都被我调到tap的判定范围里了，不过最好还是当点滑来打\n若有bug请反馈\n谱师b站@restey_lih\n改了下曲绘",
+  "difficulty": 15.500002,
+  "file": "https://phira.5wyxi.com/files/6075e684-4036-40aa-9967-57e852ee6277",
+  "id": 16662,
+  "illustration": "https://phira.5wyxi.com/files/32a1112e-1c80-41a6-8389-d4b3c5189f88",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "The Stars Are Tumbling Out Of The Sky",
+  "preview": "https://phira.5wyxi.com/files/fa549930-ec24-4a1f-aca5-005ad6e3cdae",
+  "ranked": true,
+  "rating": 0.9165631,
+  "ratingCount": 1606,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "Hardstyle",
+    "regular"
+  ],
+  "updated": "2024-11-30T01:44:04.679191Z",
+  "uploader": 325845
+}

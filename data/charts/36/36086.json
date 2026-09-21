@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:12Z",
+    "lastChanged": "2026-09-21T02:06:12Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-04T01:05:03.949652Z",
+  "charter": "pQWQq",
+  "composer": "Camellia",
+  "created": "2025-04-04T01:05:03.949652Z",
+  "description": "重做了，修改了大部分采音和键位，还是外轮\n原铺已删除",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/cd435f5b-1608-4b1a-a91a-48c6b97cefd7",
+  "id": 36086,
+  "illustration": "https://phira.5wyxi.com/files/d3911ddd-c7e1-4868-b0a6-ef1896d17100",
+  "illustrator": "",
+  "level": "ADOFAI Lv.21",
+  "name": "CICADA3302",
+  "preview": "https://phira.5wyxi.com/files/b85242e3-639d-4c03-b0f2-77005d067301",
+  "ranked": false,
+  "rating": 0.9338286,
+  "ratingCount": 54,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "ADOFAI",
+    "冰与火之舞",
+    "plain"
+  ],
+  "updated": "2025-04-04T01:05:03.949652Z",
+  "uploader": 9104
+}

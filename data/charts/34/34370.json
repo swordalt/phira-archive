@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:05Z",
+    "lastChanged": "2026-09-21T02:03:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-23T02:25:41.978505Z",
+  "charter": "小yu呀",
+  "composer": "张杰/HOYO-MiX",
+  "created": "2025-02-23T02:25:41.978505Z",
+  "description": "[Phigros | 崩坏：星穹铁道 | 自制谱] 不眠之夜 难度：IN Lv.14 曲师：HOYO-MiX/张杰 谱师：Phigros小yu呀 ————————————————————————— 谱面文件会上传至Phira 使用@不会特效の点缀星空 的RPE Recorder渲染器录制谱面，感谢@Axi就是阿希 提供谱面录制 使用@cmdysj 的RPE 1.6 制作谱面 使用了故事版",
+  "difficulty": 14.600002,
+  "file": "https://phira.5wyxi.com/files/9faa6fe7-bae9-4a87-afeb-c72537512cb7",
+  "id": 34370,
+  "illustration": "https://phira.5wyxi.com/files/1000cfb1-a4eb-437f-aa21-f0726a1f1284",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "不眠之夜",
+  "preview": "https://phira.5wyxi.com/files/435dabaa-fd09-4e07-949e-2c19fefd334a",
+  "ranked": false,
+  "rating": 0.9433018,
+  "ratingCount": 19573,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-23T02:25:41.978505Z",
+  "uploader": 54424
+}

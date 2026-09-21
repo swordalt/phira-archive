@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:30Z",
+    "lastChanged": "2026-09-21T02:01:30Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-09-08T13:33:22.365544Z",
+  "charter": "LogicM \"Chase the Moon\"",
+  "composer": "RAI",
+  "created": "2023-08-29T13:27:27.058609Z",
+  "description": "本人上传；5thpecjam参赛作品。",
+  "difficulty": 15.177777,
+  "file": "https://phira.5wyxi.com/files/f92ee425-5c2f-4dd7-97ed-077bfb2c129e",
+  "id": 8715,
+  "illustration": "https://phira.5wyxi.com/files/abdcbfa8-7e42-41db-b872-e9fe1b0d4811",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "Lunation",
+  "preview": "https://phira.5wyxi.com/files/5e74c957-5cbe-41e5-97e0-0f5832fc7117",
+  "ranked": true,
+  "rating": 0.9228362,
+  "ratingCount": 1415,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "Crystle",
+    "5thPecJam",
+    "regular"
+  ],
+  "updated": "2024-04-17T16:02:30.777265Z",
+  "uploader": 403
+}

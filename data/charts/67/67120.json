@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:59Z",
+    "lastChanged": "2026-09-21T02:04:59Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-17T04:38:06.048508Z",
+  "charter": "Hry",
+  "composer": "Minase",
+  "created": "2026-07-17T04:38:06.048508Z",
+  "description": null,
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/2f759800-0d5b-408a-a421-2f35ac9dd045",
+  "id": 67120,
+  "illustration": "https://phira.5wyxi.com/files/4a39a54a-adca-4c1b-9743-8376112227ac",
+  "illustrator": "",
+  "level": "AT Lv.16+",
+  "name": "枯音染秽无凭裂章",
+  "preview": "https://phira.5wyxi.com/files/1d1753b0-c5df-4a7f-a822-9571d5aeaca6",
+  "ranked": false,
+  "rating": 0.85966545,
+  "ratingCount": 14,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-17T04:38:06.048508Z",
+  "uploader": 15995
+}

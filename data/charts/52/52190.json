@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:18Z",
+    "lastChanged": "2026-09-21T02:04:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-06T15:23:19.705803Z",
+  "charter": "NC Vigour",
+  "composer": "ミツキヨ",
+  "created": "2026-02-06T15:23:19.705803Z",
+  "description": null,
+  "difficulty": 14.500002,
+  "file": "https://phira.5wyxi.com/files/12c339d9-de6e-4bb4-b323-82e7e791b25d",
+  "id": 52190,
+  "illustration": "https://phira.5wyxi.com/files/e6447cf4-69d9-46cc-8c6f-b46eac2cb8db",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Aoharu Band Arrange",
+  "preview": "https://phira.5wyxi.com/files/21b14750-71da-49ac-b961-aa0870813004",
+  "ranked": false,
+  "rating": 0.95775944,
+  "ratingCount": 1994,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-06T15:23:19.705803Z",
+  "uploader": 825
+}

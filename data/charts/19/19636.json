@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:12Z",
+    "lastChanged": "2026-09-21T02:02:12Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-06T01:10:09.541304Z",
+  "charter": "souta",
+  "composer": "b",
+  "created": "2024-05-06T01:10:09.541304Z",
+  "description": "本人",
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/625be20b-c524-4850-8540-fb2cfcc000b6",
+  "id": 19636,
+  "illustration": "https://phira.5wyxi.com/files/f9e09bc4-22b6-48f5-bf01-b07f679c8dfa",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "星読みの調べ(inst)",
+  "preview": "https://phira.5wyxi.com/files/95705b16-c636-4744-a1e1-ee08d371cbc7",
+  "ranked": false,
+  "rating": 0.8940036,
+  "ratingCount": 80,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-05-06T01:10:09.541304Z",
+  "uploader": 904130
+}

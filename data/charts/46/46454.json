@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:50Z",
+    "lastChanged": "2026-09-21T02:03:50Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-06T10:34:35.522012Z",
+  "charter": "LogicM",
+  "composer": "-45",
+  "created": "2025-09-06T10:34:35.522012Z",
+  "description": null,
+  "difficulty": 15.099998,
+  "file": "https://phira.5wyxi.com/files/ecac52fb-626d-41e8-b810-51d323176129",
+  "id": 46454,
+  "illustration": "https://phira.5wyxi.com/files/f48b4019-1f7d-42be-bf89-164ef73f54be",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "Gengaozo",
+  "preview": "https://phira.5wyxi.com/files/fcc8f97c-591a-4992-a5bf-24332f436cf9",
+  "ranked": false,
+  "rating": 0.89732635,
+  "ratingCount": 168,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-06T10:34:35.522012Z",
+  "uploader": 403
+}

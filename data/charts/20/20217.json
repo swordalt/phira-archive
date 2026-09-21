@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:14Z",
+    "lastChanged": "2026-09-21T02:02:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-21T16:03:29.225579Z",
+  "charter": "MYLV",
+  "composer": "Camellia",
+  "created": "2024-05-21T16:03:29.225579Z",
+  "description": "本人上传，B站@TEK-LYLX 优化谱面速度",
+  "difficulty": 18.500006,
+  "file": "https://phira.5wyxi.com/files/9ec957ab-0ee9-478a-a06b-5dd40bada6ca",
+  "id": 20217,
+  "illustration": "https://phira.5wyxi.com/files/5fc24261-77a3-4b16-8b1e-344f7fd1072f",
+  "illustrator": "",
+  "level": "EX Lv.18",
+  "name": "Blackmagik Blazing",
+  "preview": "https://phira.5wyxi.com/files/2f38ac12-85d6-4d1f-905b-d32ff9ea2a04",
+  "ranked": false,
+  "rating": 0.8896656,
+  "ratingCount": 453,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "键盘",
+    "龙谱",
+    "超难",
+    "regular"
+  ],
+  "updated": "2025-07-28T08:23:49.426034Z",
+  "uploader": 54200
+}

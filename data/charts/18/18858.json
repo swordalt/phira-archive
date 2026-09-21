@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:10Z",
+    "lastChanged": "2026-09-21T02:02:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-24T08:32:21.131950Z",
+  "charter": "Full Fire",
+  "composer": "Turquoise",
+  "created": "2024-04-24T08:32:21.131950Z",
+  "description": "早期谱面#2",
+  "difficulty": 14.900003,
+  "file": "https://phira.5wyxi.com/files/472620f6-0ec7-4a4d-946e-18af2434df49",
+  "id": 18858,
+  "illustration": "https://phira.5wyxi.com/files/779248b8-b5cf-40cf-8812-b991d2156e26",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Playing with Firepower",
+  "preview": "https://phira.5wyxi.com/files/2414e745-7317-4c97-956a-ec0940db5700",
+  "ranked": false,
+  "rating": 0.93913287,
+  "ratingCount": 155,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-04-24T08:32:21.131950Z",
+  "uploader": 2203
+}

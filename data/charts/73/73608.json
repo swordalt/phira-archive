@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:07:00Z",
+    "lastChanged": "2026-09-21T02:07:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-15T17:53:51.985197Z",
+  "charter": "『CAELVORN』",
+  "composer": "Kou!",
+  "created": "2026-08-15T17:53:51.985197Z",
+  "description": null,
+  "difficulty": 18.2,
+  "file": "https://phira.5wyxi.com/files/7e710728-04de-4d73-93c4-4670d4a02d87",
+  "id": 73608,
+  "illustration": "https://phira.5wyxi.com/files/cb9ddb26-3979-47d3-8a92-35d3681bbc2a",
+  "illustrator": "",
+  "level": "AT Lv.18",
+  "name": "A.O.E::area_of_effect",
+  "preview": "https://phira.5wyxi.com/files/10fcca1d-f862-48e2-9b13-34fc75ed8ae8",
+  "ranked": false,
+  "rating": 0.8993385,
+  "ratingCount": 40,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "键盘",
+    "AT18",
+    "plain"
+  ],
+  "updated": "2026-08-15T17:53:51.985197Z",
+  "uploader": 1873159
+}

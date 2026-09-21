@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:01Z",
+    "lastChanged": "2026-09-21T02:05:01Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-21T16:03:50.299808Z",
+  "charter": "-ÅMARA-",
+  "composer": "sasakure.UK",
+  "created": "2026-07-21T16:03:50.299808Z",
+  "description": "该谱面为 WSRT x 云梦杯 比赛供谱\n首次登场于【沉坠•破晓】32进16小组赛图池\n\n————————————————\n曲名：ÅMARA(大未来電脳)\n曲师：sasakure.UK\n谱师：-ÅMARA-\n难度：IN Lv.16\n物量：1540\n\n特别感谢@Wind丶灵风 以及主办方其他成员对我的支持！",
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/5bff0040-8cb5-4559-81eb-b989cf1e5310",
+  "id": 68282,
+  "illustration": "https://phira.5wyxi.com/files/d57e3894-c182-4004-9247-29e799ff156d",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "ÅMARA(大未来電脳)",
+  "preview": "https://phira.5wyxi.com/files/d049e607-0554-4b6b-b9b4-03bda13ef096",
+  "ranked": false,
+  "rating": 0.89927185,
+  "ratingCount": 388,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-21T16:03:50.299808Z",
+  "uploader": 6134
+}

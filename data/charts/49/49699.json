@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:41Z",
+    "lastChanged": "2026-09-21T02:06:41Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-30T10:53:02.919885Z",
+  "charter": "CHEESE FEATHER",
+  "composer": "Akira Complex",
+  "created": "2025-11-30T10:53:02.919885Z",
+  "description": null,
+  "difficulty": 10.7,
+  "file": "https://phira.5wyxi.com/files/5012d2e0-3ee8-45c6-932e-00abf0dbe927",
+  "id": 49699,
+  "illustration": "https://phira.5wyxi.com/files/a1ed6a38-122e-46b2-9a3f-e950e171b129",
+  "illustrator": "",
+  "level": "Cataclysm Lv.10+",
+  "name": "GALACTIC WARZONE",
+  "preview": "https://phira.5wyxi.com/files/3beba3b4-5f46-4117-b4c0-ba44eae50124",
+  "ranked": false,
+  "rating": 0.92973965,
+  "ratingCount": 122,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "dfc",
+    "双指",
+    "plain"
+  ],
+  "updated": "2025-11-30T10:53:02.919885Z",
+  "uploader": 1946893
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:43Z",
+    "lastChanged": "2026-09-21T02:03:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-14T13:55:08.991682Z",
+  "charter": "Shoxquach",
+  "composer": "Reku Mochizuki",
+  "created": "2025-08-20T07:59:19.500910Z",
+  "description": "2025.9.14更新:修改少量配置和表演，现在中间那一段更容易糊了）",
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/bcb114e7-0f12-4f3a-b19b-0545b37ede87",
+  "id": 45235,
+  "illustration": "https://phira.5wyxi.com/files/196aae3b-c0c8-4ca4-9280-3fda57f8b33c",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Moonflutter",
+  "preview": "https://phira.5wyxi.com/files/00766a09-2d29-4a9d-b855-dbe1ae3a8304",
+  "ranked": false,
+  "rating": 0.8259119,
+  "ratingCount": 136,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-14T13:55:08.991682Z",
+  "uploader": 1049970
+}

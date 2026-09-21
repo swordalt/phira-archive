@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:07Z",
+    "lastChanged": "2026-09-21T02:04:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-17T17:32:59.136372Z",
+  "charter": "TONG_1.0",
+  "composer": "Exteria",
+  "created": "2025-12-17T16:44:23.661698Z",
+  "description": "极难双指谱（不是）\n最协调特化的一级，看不懂谱面说明你没有看懂谱面。",
+  "difficulty": 15.900001,
+  "file": "https://phira.5wyxi.com/files/55b7a338-cdcc-40d6-b0ab-64b682c39088",
+  "id": 50299,
+  "illustration": "https://phira.5wyxi.com/files/f75519f0-46e6-4cb0-bcf8-16e93e1b9cf0",
+  "illustrator": "",
+  "level": "IN Lv.☐",
+  "name": "INTERCELL_LAUNCH_1.0",
+  "preview": "https://phira.5wyxi.com/files/b44bde83-f56b-4a32-b55b-3c98295a7e50",
+  "ranked": false,
+  "rating": 0.8512444,
+  "ratingCount": 972,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-12T14:23:23.054071Z",
+  "uploader": 226456
+}

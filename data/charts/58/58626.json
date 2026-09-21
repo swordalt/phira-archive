@@ -1,0 +1,40 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:51Z",
+    "lastChanged": "2026-09-21T02:06:51Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-17T15:22:21.778375Z",
+  "charter": "HRS-Team",
+  "composer": "Plum",
+  "created": "2026-05-17T15:22:21.778375Z",
+  "description": "HRS-Lv.11-Pattern练习曲",
+  "difficulty": 11.099997,
+  "file": "https://phira.5wyxi.com/files/039d32e3-8e03-4716-a026-7b88fd737381",
+  "id": 58626,
+  "illustration": "https://phira.5wyxi.com/files/40985a6b-310e-499d-a2bf-8f0841c3707a",
+  "illustrator": "",
+  "level": "Pattern",
+  "name": "Terrasphere",
+  "preview": "https://phira.5wyxi.com/files/063c19d1-0ccc-4e27-95bd-9fea3fecc46a",
+  "ranked": false,
+  "rating": 0.9556796,
+  "ratingCount": 78,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "HRS",
+    "单曲",
+    "双指",
+    "Pattern",
+    "瞬",
+    "Abyss-11",
+    "plain"
+  ],
+  "updated": "2026-05-17T15:22:21.778375Z",
+  "uploader": 2254643
+}

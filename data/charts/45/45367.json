@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:44Z",
+    "lastChanged": "2026-09-21T02:03:44Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-21T19:00:26.241325Z",
+  "charter": "Calepam",
+  "composer": "アンメルツP",
+  "created": "2025-08-21T19:00:26.241325Z",
+  "description": "(en) The last version wasn't great, and I'd underestimated the difficulty, so I've made some adjustments.\nnew difficulty: Lv.18.5",
+  "difficulty": 17.400002,
+  "file": "https://phira.5wyxi.com/files/d58f6715-7769-487d-8051-edb73b34b183",
+  "id": 45367,
+  "illustration": "https://phira.5wyxi.com/files/3ae8f38b-bc17-4291-9bcf-5d4637630a42",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "人生",
+  "preview": "https://phira.5wyxi.com/files/344fd56f-d3a0-4cd9-ac88-1f4b85195f91",
+  "ranked": false,
+  "rating": 0.5985015,
+  "ratingCount": 253,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "ProjectSekai",
+    "regular"
+  ],
+  "updated": "2025-08-21T19:00:26.241325Z",
+  "uploader": 862130
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:26Z",
+    "lastChanged": "2026-09-21T02:02:26Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-26T07:03:47.815170Z",
+  "charter": "5thPecJam",
+  "composer": "USAO",
+  "created": "2024-07-26T07:03:47.815170Z",
+  "description": "5pj谱，补传",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/4e6ca9b4-88f6-473c-8398-78d6f0cfdf69",
+  "id": 24387,
+  "illustration": "https://phira.5wyxi.com/files/8d5dbdbd-3950-4834-9f00-405ab18436f9",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "ナイト・オブ・ナイツ (USAO Remix)",
+  "preview": "https://phira.5wyxi.com/files/b7c0e1ad-623a-46ed-9154-00b9c165351a",
+  "ranked": false,
+  "rating": 0.93466645,
+  "ratingCount": 1080,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-07-26T11:45:44.613506Z",
+  "uploader": 405
+}

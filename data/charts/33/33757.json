@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:03Z",
+    "lastChanged": "2026-09-21T02:03:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-10T21:31:08.114893Z",
+  "charter": "ХэллэшБро (HellishBro)",
+  "composer": "Betsy, Maria Yankovskaya",
+  "created": "2025-02-10T21:31:08.114893Z",
+  "description": null,
+  "difficulty": 14.300001,
+  "file": "https://phira.5wyxi.com/files/f96e7e0c-7af5-4b01-8555-de1faed880e6",
+  "id": 33757,
+  "illustration": "https://phira.5wyxi.com/files/eaf25b43-31a3-4ed1-b37b-914a3fb9dc22",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Сигма Бой (Sigma Boy)",
+  "preview": "https://phira.5wyxi.com/files/d011e9c1-e530-4c35-80d4-95f7612321f9",
+  "ranked": false,
+  "rating": 0.8991479,
+  "ratingCount": 290,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-10T21:31:08.114893Z",
+  "uploader": 446342
+}

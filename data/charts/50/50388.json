@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:08Z",
+    "lastChanged": "2026-09-21T02:04:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-20T14:46:42.516970Z",
+  "charter": "nitax",
+  "composer": "ずっと真夜中でいいのに",
+  "created": "2025-12-20T14:46:42.516970Z",
+  "description": "本人上传，发布游玩视频请@Suikmilk",
+  "difficulty": 14.600002,
+  "file": "https://phira.5wyxi.com/files/d19b0b33-d316-42d2-8103-7627743b0777",
+  "id": 50388,
+  "illustration": "https://phira.5wyxi.com/files/0f240eab-b1c7-49aa-b2f1-3b905b271125",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "残機",
+  "preview": "https://phira.5wyxi.com/files/ac9b1fb7-2469-404f-b300-6ffac104b56e",
+  "ranked": false,
+  "rating": 0.9232971,
+  "ratingCount": 291,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-12-20T14:46:42.516970Z",
+  "uploader": 352146
+}

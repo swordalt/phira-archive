@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:07:04Z",
+    "lastChanged": "2026-09-21T02:07:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-11T11:55:32.748141Z",
+  "charter": "Jiuwenzi",
+  "composer": "V.A.",
+  "created": "2026-09-11T11:55:32.748141Z",
+  "description": "本谱面为RW音游战队DFC侧精英\n考核谱面\n难度：ε-\n过段acc:97.66%\n过段悬赏：7.8r\n审群：1105248898\n@Jiuwenzi#1997470（配置）",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/7df9db01-8f20-4c90-a556-76a525328156",
+  "id": 77739,
+  "illustration": "https://phira.5wyxi.com/files/2a1e6e58-1e74-4475-8186-42e3a9e26ce1",
+  "illustrator": "",
+  "level": "滚木 Lv.15",
+  "name": "DFC RW Extra Dan",
+  "preview": "https://phira.5wyxi.com/files/22420d0d-79d7-44fe-924d-e307d33231c1",
+  "ranked": false,
+  "rating": 0.8423025,
+  "ratingCount": 5,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "DFC",
+    "plain"
+  ],
+  "updated": "2026-09-11T13:14:46.200638Z",
+  "uploader": 1153977
+}

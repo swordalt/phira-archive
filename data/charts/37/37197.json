@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:15Z",
+    "lastChanged": "2026-09-21T02:03:15Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-01T10:40:10.973483Z",
+  "charter": "01122",
+  "composer": "Kobaryo",
+  "created": "2025-05-01T10:40:10.973483Z",
+  "description": "难道是没大写缘故？",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/59e64ded-99ef-4eb5-96fe-9526c0c6643a",
+  "id": 37197,
+  "illustration": "https://phira.5wyxi.com/files/c2a4fdff-81d5-4e6a-a39e-35cf34492584",
+  "illustrator": "",
+  "level": "AT:lv16",
+  "name": "HAL 30000",
+  "preview": "https://phira.5wyxi.com/files/634d6a9f-20aa-4f08-ace9-daa11addc01e",
+  "ranked": false,
+  "rating": 0.8788551,
+  "ratingCount": 55,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-05-01T10:40:10.973483Z",
+  "uploader": 1054148
+}

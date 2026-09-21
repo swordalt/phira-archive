@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:03Z",
+    "lastChanged": "2026-09-21T02:04:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-19T04:40:37.184827Z",
+  "charter": "LPIMilkCat vs Shama233",
+  "composer": "t+pazolite",
+  "created": "2025-11-16T14:23:49.729601Z",
+  "description": "本人上传\n哔哩哔哩：\n@LPI_#7084（Battle）\n@twotthrees233#7679（Battle）\n\n2025/9/21\n感谢twotthrees233修改大部分配置\n\n2025/11/16\n修改一些特效，删除一些shader，以及增加神秘解锁动画\n刚刚投了发现解锁动画没显示，重投一下\n\n2026/1/2\ntwotthrees233再次修改大部分配置\n修改一小部分配置，修改一段特效，修复一些特效显示错误\n\n2026/4/19\n修改小部分配置和特效",
+  "difficulty": 16.9,
+  "file": "https://phira.5wyxi.com/files/32a9942b-4df0-4a8b-b182-5eb9bab06816",
+  "id": 49230,
+  "illustration": "https://phira.5wyxi.com/files/b8f71968-51fc-4268-9e4b-3d4a43af3500",
+  "illustrator": "",
+  "level": "IN Lv.16+",
+  "name": "QZKago Requiem",
+  "preview": "https://phira.5wyxi.com/files/d4bddc36-e855-4691-a105-f76aadc6d479",
+  "ranked": false,
+  "rating": 0.9241296,
+  "ratingCount": 2432,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-03T16:57:34.084834Z",
+  "uploader": 7084
+}

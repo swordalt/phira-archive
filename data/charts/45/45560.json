@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:45Z",
+    "lastChanged": "2026-09-21T02:03:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-24T05:03:32.020568Z",
+  "charter": "公输喵",
+  "composer": "雨狸＆DELA",
+  "created": "2025-08-24T05:03:32.020568Z",
+  "description": "第一次修改：\n243cb处长条改短，判定线改正至Y坐标-300处，增加缓动事件\n267cb处判定线消失增加旋转事件\n355cb～400cb处判定线增加缓动事件\n536cb处修改速度事件\n580cb处90°判定线距离增加\n605cb处tap改为drag\n702cb～结尾处判定线逐渐上升\n另外改了一些细节\nB站有视频，ID：杨海yee",
+  "difficulty": 13.700003,
+  "file": "https://phira.5wyxi.com/files/0d074ea1-1e6c-4da9-a573-e63ffa490e90",
+  "id": 45560,
+  "illustration": "https://phira.5wyxi.com/files/8b16ef87-f2ff-4508-8376-2655fd989b8a",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "八重回归（伪）",
+  "preview": "https://phira.5wyxi.com/files/81d343e5-784c-455c-b142-d005d96b9274",
+  "ranked": false,
+  "rating": 0.9261256,
+  "ratingCount": 331,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-24T05:03:32.020568Z",
+  "uploader": 1523562
+}

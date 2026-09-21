@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:24Z",
+    "lastChanged": "2026-09-21T02:03:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-22T14:05:32.624244Z",
+  "charter": "DASAPAN",
+  "composer": "かめりあ",
+  "created": "2025-06-22T14:05:32.624244Z",
+  "description": "新写的一张相对来说不龙的谱 配置都是16的，凭时长和某些奇妙配置拉到17 玩得愉快！",
+  "difficulty": 17.100004,
+  "file": "https://phira.5wyxi.com/files/e72102da-aa29-4d32-9003-d2149f5cba21",
+  "id": 40114,
+  "illustration": "https://phira.5wyxi.com/files/1d0ddfd9-4e99-46cf-9991-c4c3d0670a20",
+  "illustrator": "",
+  "level": "IN Lv.17",
+  "name": "Body F10ating in the Zero Gravity Space",
+  "preview": "https://phira.5wyxi.com/files/3b63cb5c-3465-4d07-879f-c18dc56ed231",
+  "ranked": false,
+  "rating": 0.7821311,
+  "ratingCount": 32,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-06-22T14:05:32.624244Z",
+  "uploader": 1371784
+}

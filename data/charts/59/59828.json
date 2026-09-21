@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:52Z",
+    "lastChanged": "2026-09-21T02:06:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-03T10:04:42.804972Z",
+  "charter": "N_neo",
+  "composer": "削除",
+  "created": "2026-06-03T10:04:42.804972Z",
+  "description": "初写无轨键盘，暂时将此设定为「M」7dan。与其他段位不同的是，「M」dan一首曲即一个段，未来计划先写1～6dan再考虑往更难的方向写。「M」dan会融入自己十来年的音游游玩经验，思路主要围绕“谱乐契合”“手感”“引导”三方面。\n\nPass：99.21%\n\nSong：Glitched Universe\nMusic Composer：Sakuzyo_削除\nCharter：N_neo\n\n谱师本人上传。",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/f4056dd1-162b-4e91-bc7b-c263b3a2b724",
+  "id": 59828,
+  "illustration": "https://phira.5wyxi.com/files/01f4c8af-4bd1-4132-bd76-261d38f8bd57",
+  "illustrator": "",
+  "level": "「M」 7Dan",
+  "name": "Glitched Universe",
+  "preview": "https://phira.5wyxi.com/files/87f9cb95-0fa9-4e98-a74f-c6e45f837a59",
+  "ranked": false,
+  "rating": 0.8935081,
+  "ratingCount": 36,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2026-06-03T13:45:10.578682Z",
+  "uploader": 474953
+}

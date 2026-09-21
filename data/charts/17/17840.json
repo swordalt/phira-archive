@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:06Z",
+    "lastChanged": "2026-09-21T02:02:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-31T11:15:55.643515Z",
+  "charter": "Reith",
+  "composer": "MARETU",
+  "created": "2024-03-31T11:15:55.643515Z",
+  "description": "重置动效(一点点)，更新故事版，也算鸽了这么久的另一作",
+  "difficulty": 15.1,
+  "file": "https://phira.5wyxi.com/files/bd403727-5d8b-43b1-9817-83d757f82c5b",
+  "id": 17840,
+  "illustration": "https://phira.5wyxi.com/files/b7797292-69e4-40ba-afd5-964123cca9e4",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "ダーリン",
+  "preview": "https://phira.5wyxi.com/files/d677807c-ed84-4374-b27e-04be0dd437cc",
+  "ranked": false,
+  "rating": 0.94981635,
+  "ratingCount": 3384,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "MARETU",
+    "Darling",
+    "马热土",
+    "亲爱的",
+    "regular"
+  ],
+  "updated": "2024-03-31T11:15:55.643515Z",
+  "uploader": 21592
+}

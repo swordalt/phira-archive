@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:51Z",
+    "lastChanged": "2026-09-21T02:02:51Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-12-15T06:44:13.277818Z",
+  "charter": "OCL",
+  "composer": "tpz",
+  "created": "2024-12-15T06:44:13.277818Z",
+  "description": "玩舞萌DX玩的（",
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/20deff2d-6e2e-4629-9108-16fddcd32d19",
+  "id": 30784,
+  "illustration": "https://phira.5wyxi.com/files/dec1a137-6609-4bb5-a2ce-19226e28e492",
+  "illustrator": "",
+  "level": "AT.16.2",
+  "name": "oshama scramble",
+  "preview": "https://phira.5wyxi.com/files/eebc3ecc-d10f-41a1-a64f-2cc703476582",
+  "ranked": false,
+  "rating": 0.6815876,
+  "ratingCount": 251,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-12-15T06:44:13.277818Z",
+  "uploader": 2183
+}

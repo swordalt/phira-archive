@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:49Z",
+    "lastChanged": "2026-09-21T02:04:49Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-18T06:08:57.736561Z",
+  "charter": "WinterPT",
+  "composer": "Cyntax",
+  "created": "2026-06-18T06:08:57.736561Z",
+  "description": "2024年的谱",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/db4a6524-5cc2-4be8-a348-170cd6e7b4f0",
+  "id": 61241,
+  "illustration": "https://phira.5wyxi.com/files/38b05494-b05f-4372-b306-1bc67c5b2a9a",
+  "illustrator": "",
+  "level": "HD Lv.10",
+  "name": "Nerve",
+  "preview": "https://phira.5wyxi.com/files/7f646f76-d50c-42c1-868f-7c5efbe6b657",
+  "ranked": false,
+  "rating": 0.8902321,
+  "ratingCount": 334,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-18T07:13:52.417582Z",
+  "uploader": 10002
+}

@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:48Z",
+    "lastChanged": "2026-09-21T02:03:48Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-31T05:25:15.696829Z",
+  "charter": "huashm",
+  "composer": "KARUT",
+  "created": "2025-08-31T05:25:15.696829Z",
+  "description": "@星辰雪夜_ユキツバキ#763475（Yukitsubaki组合-谱师）\n@アシェリーペッカー#457677（Yukitsubaki组合-测试）\n感谢@醋酸铅是弱电解质 的参与，对其谱面进行了修改，这个也是我第4个自制谱（改谱），今后我也会努力写出更好的谱面，也请谱师大佬多多关照。\n特别鸣谢：使用@不会特效の点缀星空 的RPE Recorder渲染器录制谱面，感谢@NEKOYO提供谱面录制，感谢@晨曦_残阳qwq 提供的谱面封面制作，感谢@醋酸铅是弱电解质 @半秋Autino @XerdouS @星九official @littlegk @Cygnify 对我的谱面进行指导和改进。",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/65d4e0cb-a36c-4cae-8bd9-d9e132f629e6",
+  "id": 46201,
+  "illustration": "https://phira.5wyxi.com/files/f8433e00-d25d-40be-9ad3-b5feee92f5cc",
+  "illustrator": "",
+  "level": "AT  Lv.16",
+  "name": "CrossFire Hard Arrange",
+  "preview": "https://phira.5wyxi.com/files/6e098e77-b9b8-4c01-9bb0-211d3a273cf7",
+  "ranked": false,
+  "rating": 0.9376202,
+  "ratingCount": 1306,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "ba",
+    "bluearchive",
+    "蔚蓝档案",
+    "碧蓝档案",
+    "regular"
+  ],
+  "updated": "2026-07-17T09:17:50.466901Z",
+  "uploader": 763475
+}

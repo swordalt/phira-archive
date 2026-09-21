@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:04Z",
+    "lastChanged": "2026-09-21T02:02:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-19T19:57:29.552798Z",
+  "charter": "ErSamu",
+  "composer": "Koji Kondo",
+  "created": "2024-03-19T19:57:29.552798Z",
+  "description": "A chart based on the Geometry Dash level called Overworld Sync",
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/7f9e8718-8eaf-47e5-bf67-fc2623079fbf",
+  "id": 17307,
+  "illustration": "https://phira.5wyxi.com/files/5995ffb1-b830-48e4-9892-9bb15bbc1a21",
+  "illustrator": "",
+  "level": "IN 15",
+  "name": "Overworld Sync",
+  "preview": "https://phira.5wyxi.com/files/78b4f507-a0be-417d-b20a-c956933a26f7",
+  "ranked": false,
+  "rating": 0.79254436,
+  "ratingCount": 125,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "mario",
+    "regular"
+  ],
+  "updated": "2024-03-19T19:57:29.552798Z",
+  "uploader": 703968
+}

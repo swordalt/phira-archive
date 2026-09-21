@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:45Z",
+    "lastChanged": "2026-09-21T02:01:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-21T23:56:31.929780Z",
+  "charter": "Kuttate",
+  "composer": "Gluzzo",
+  "created": "2023-12-21T23:56:31.929780Z",
+  "description": "en-US This is my first finished and released Phira chart. Hope yall like it!",
+  "difficulty": 14.400001,
+  "file": "https://phira.5wyxi.com/files/ffc94670-ffae-4728-b01d-e403db351c7e",
+  "id": 12671,
+  "illustration": "https://phira.5wyxi.com/files/9631a341-6cc3-416d-a60a-5789f3b027ba",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "STYLEPOINTS",
+  "preview": "https://phira.5wyxi.com/files/4d1086e9-3a43-4526-a7b2-33bef6a7b71a",
+  "ranked": false,
+  "rating": 0.9009679,
+  "ratingCount": 147,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "shader",
+    "storyboard",
+    "regular"
+  ],
+  "updated": "2023-12-21T23:56:31.929780Z",
+  "uploader": 429016
+}

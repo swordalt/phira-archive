@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:08Z",
+    "lastChanged": "2026-09-21T02:04:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-21T12:31:21.457360Z",
+  "charter": "咸于包",
+  "composer": "Toby Fox",
+  "created": "2025-12-21T12:31:21.457360Z",
+  "description": "曲绘使用了UTbnp的内容\n很简单的",
+  "difficulty": 12.400005,
+  "file": "https://phira.5wyxi.com/files/a39ef2e0-4385-4781-ba97-714814e4ff37",
+  "id": 50457,
+  "illustration": "https://phira.5wyxi.com/files/186531a5-f0b9-450b-bf21-8f95a34bedcd",
+  "illustrator": "",
+  "level": "IN Lv.12",
+  "name": "Ruins",
+  "preview": "https://phira.5wyxi.com/files/fdc5f909-2e1d-40b6-bda2-e53a70626e67",
+  "ranked": false,
+  "rating": 0.91518325,
+  "ratingCount": 352,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-12-21T12:31:21.457360Z",
+  "uploader": 1197935
+}

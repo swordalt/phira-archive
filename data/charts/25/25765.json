@@ -1,0 +1,45 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:32Z",
+    "lastChanged": "2026-09-21T02:02:32Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-19T14:16:03.635473Z",
+  "charter": "Agartha",
+  "composer": "Plum - Melodic Artist",
+  "created": "2024-08-09T12:39:48.497842Z",
+  "description": "截止2024.8.19.物量最高的mm2（15000+），11分钟超长耐力谱，对底力、协调、脑裂等方面要求偏高。基本还原本家（冰与火之舞lrin）雪花并提升难度。一谱，有些卡手，初见杀，采音仿照本家，所以有虚空采音。\n（不熟悉主旋律可以多听几遍）（纵连实在打不来可以用八分双押代替）\n*雪花1（Timeline）解法：十六分纵连+主旋律点击\n*雪花2（Tempest）解法：利用垂直判定滑屏\n*地球圈（Terrasphere）解法：一手按屏幕正中央，一手点tap\n*雪花3（Fallen Era）解法：八分三连音纵连\n*雪花4（Memory Locked）解法：\n【1】hold段按照主旋律双指一起点\n【2】十六分纵连\n【3】十六分纵连+主旋律点击\n*本次更新再次增加物量，解决了花火箭后延迟问题，再次优化排键和特效。\n*建议调低或关闭打击音效，尾杀drag声音很吵*\n祝您游戏愉快！",
+  "difficulty": 16.7,
+  "file": "https://phira.5wyxi.com/files/32d34eb8-ec39-4dc6-93e6-279bf84ce335",
+  "id": 25765,
+  "illustration": "https://phira.5wyxi.com/files/6348f33f-8bd7-4802-a4c6-e35215ef8263",
+  "illustrator": "",
+  "level": "AT. 16",
+  "name": "Megamix 2",
+  "preview": "https://phira.5wyxi.com/files/ea440c8a-d35c-4f4f-8c0a-633d00d27427",
+  "ranked": false,
+  "rating": 0.8792807,
+  "ratingCount": 1197,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "大雪花",
+    "冰与火之舞",
+    "较难",
+    "纵连天堂",
+    "稍偏整活和观赏",
+    "lrin",
+    "mm2",
+    "串烧",
+    "耐力谱",
+    "Plum",
+    "协调",
+    "regular"
+  ],
+  "updated": "2024-08-19T14:16:03.635473Z",
+  "uploader": 1117559
+}

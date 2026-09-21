@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:47Z",
+    "lastChanged": "2026-09-21T02:03:47Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-29T03:36:32.903800Z",
+  "charter": "小9鸟",
+  "composer": "James Primate & Lydia Esrig",
+  "created": "2025-08-29T03:36:32.903800Z",
+  "description": null,
+  "difficulty": 2.0,
+  "file": "https://phira.5wyxi.com/files/aaaa04b9-3ead-4a3c-95db-6cef60ad528b",
+  "id": 45983,
+  "illustration": "https://phira.5wyxi.com/files/221d03f8-56ab-441b-aa6c-4959b462621c",
+  "illustrator": "",
+  "level": "EZ Lv.2",
+  "name": "Bio-Engineering",
+  "preview": "https://phira.5wyxi.com/files/8f2aa593-31cd-4c5f-aeaf-87ed09f5c434",
+  "ranked": false,
+  "rating": 0.86809665,
+  "ratingCount": 83,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-29T03:36:32.903800Z",
+  "uploader": 1703453
+}

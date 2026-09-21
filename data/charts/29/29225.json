@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:45Z",
+    "lastChanged": "2026-09-21T02:02:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-10-30T10:28:45.421469Z",
+  "charter": "AKKO",
+  "composer": "NOMA",
+  "created": "2024-10-30T10:28:45.421469Z",
+  "description": "谱师：B站@一般路过赤澪\n视频BV号：BV1iESqYFE94\n谱面为谱师本人上传",
+  "difficulty": 13.800003,
+  "file": "https://phira.5wyxi.com/files/2e51e535-5aef-4d8e-aff7-82195f6ec91f",
+  "id": 29225,
+  "illustration": "https://phira.5wyxi.com/files/d4c4316c-5c6e-4368-b3f6-155e09b233e1",
+  "illustrator": "",
+  "level": "IN LV.13",
+  "name": "LOUDER MACHINE",
+  "preview": "https://phira.5wyxi.com/files/a1dcd88f-c645-4636-be73-300f8aa3fdce",
+  "ranked": false,
+  "rating": 0.9214181,
+  "ratingCount": 47,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "NOMA",
+    "变速长条",
+    "regular"
+  ],
+  "updated": "2024-11-06T03:07:32.541865Z",
+  "uploader": 1023140
+}

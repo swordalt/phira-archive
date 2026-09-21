@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:11Z",
+    "lastChanged": "2026-09-21T02:04:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-04T05:35:24.915558Z",
+  "charter": "#include <stdio.h>",
+  "composer": "Cheetah Mobile",
+  "created": "2026-01-04T05:35:24.915558Z",
+  "description": "写的不是很好，要期末考试没时间了",
+  "difficulty": 15.900003,
+  "file": "https://phira.5wyxi.com/files/7b5fd4a5-0611-419c-9a67-a749fc9bf6a9",
+  "id": 50965,
+  "illustration": "https://phira.5wyxi.com/files/fad28c17-3b15-441f-bbfc-bc721a99986e",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "霓虹(Neon)",
+  "preview": "https://phira.5wyxi.com/files/0c31715b-9cca-471c-b949-54a896799190",
+  "ranked": false,
+  "rating": 0.88869697,
+  "ratingCount": 56,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-01-04T05:35:24.915558Z",
+  "uploader": 949432
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:49Z",
+    "lastChanged": "2026-09-21T02:04:49Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-01T06:11:03.185004Z",
+  "charter": "榆流yl",
+  "composer": "Newton-",
+  "created": "2026-06-18T12:45:26.589027Z",
+  "description": "很抱歉会清榜，在此致歉\n2026.07.09→修改定数为13.4\n2026.08.01更新\n定数从13.4→13.6\n增加部分动效，微调排键\n增加部分绑线音键表演\n此次更新应该是最终更新了\n本人上传，新人谱师",
+  "difficulty": 13.600001,
+  "file": "https://phira.5wyxi.com/files/d2e0321f-9449-4393-8912-8cfdfe5447ef",
+  "id": 61298,
+  "illustration": "https://phira.5wyxi.com/files/b239cb75-ee84-41dd-9bc0-a45233c4ebee",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "China-Light",
+  "preview": "https://phira.5wyxi.com/files/1104e217-4726-4489-a723-4485b01951b6",
+  "ranked": false,
+  "rating": 0.8810736,
+  "ratingCount": 191,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-01T06:11:03.185004Z",
+  "uploader": 564113
+}

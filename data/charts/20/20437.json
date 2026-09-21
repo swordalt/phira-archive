@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:14Z",
+    "lastChanged": "2026-09-21T02:02:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-09T11:34:58.399697Z",
+  "charter": "Calepam",
+  "composer": "xi",
+  "created": "2024-05-26T14:58:48.030503Z",
+  "description": "update to the final version.\nThanks for playing.",
+  "difficulty": 16.900002,
+  "file": "https://phira.5wyxi.com/files/109e0b6b-9da2-497d-a2fd-7a35021bf88b",
+  "id": 20437,
+  "illustration": "https://phira.5wyxi.com/files/1b944900-3517-49c4-a886-137d2f74c70c",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Freedom Dive",
+  "preview": "https://phira.5wyxi.com/files/305796a4-5950-47d2-827a-5c0bd4c6c9ab",
+  "ranked": false,
+  "rating": 0.3499285,
+  "ratingCount": 201,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-09T11:40:39.029664Z",
+  "uploader": 862130
+}

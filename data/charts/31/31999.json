@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:56Z",
+    "lastChanged": "2026-09-21T02:02:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-18T12:49:38.312259Z",
+  "charter": "Oldfeng",
+  "composer": "ETIA.",
+  "created": "2025-01-18T12:49:38.312259Z",
+  "description": "三谱，用时两个月",
+  "difficulty": 15.6,
+  "file": "https://phira.5wyxi.com/files/6174f01d-46c7-45d8-848a-afc5bf16ab6e",
+  "id": 31999,
+  "illustration": "https://phira.5wyxi.com/files/6afdeeb4-0da6-45d8-87bb-eb1fd5baa778",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "MVURBD",
+  "preview": "https://phira.5wyxi.com/files/00bed779-0a08-4d09-837e-c18f1bf7aee7",
+  "ranked": false,
+  "rating": 0.9303017,
+  "ratingCount": 560,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-01-18T12:49:38.312259Z",
+  "uploader": 92959
+}

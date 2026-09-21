@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:45Z",
+    "lastChanged": "2026-09-21T02:04:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-06T03:12:16.467768Z",
+  "charter": "Threads of Shadow",
+  "composer": "l'avenir proche",
+  "created": "2026-06-06T03:12:16.467768Z",
+  "description": "新人初谱，可玩性有待商榷，第一次用制谱器，断断续续写了一个多月。可能部分地方手感不好，表演不完善。。。抱歉\n（备注：曲目音源来自游戏vivid/stasis）",
+  "difficulty": 16.400002,
+  "file": "https://phira.5wyxi.com/files/3bc82db7-76c1-416a-83ff-a42e10e2643a",
+  "id": 60043,
+  "illustration": "https://phira.5wyxi.com/files/3b81df24-0c6b-4785-82ce-65321dce8761",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Unraveling Stasis",
+  "preview": "https://phira.5wyxi.com/files/9aa1def3-d04f-46bc-bd77-47499309285a",
+  "ranked": false,
+  "rating": 0.8379995,
+  "ratingCount": 124,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-06T03:12:16.467768Z",
+  "uploader": 2140560
+}

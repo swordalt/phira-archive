@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:28Z",
+    "lastChanged": "2026-09-21T02:04:28Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-18T02:48:30.497779Z",
+  "charter": "千咲",
+  "composer": "*Luna feat.ねんね",
+  "created": "2026-03-14T11:02:00.975851Z",
+  "description": null,
+  "difficulty": 14.200001,
+  "file": "https://phira.5wyxi.com/files/b46ce2d2-475a-4772-8613-fc3fcadfd5a7",
+  "id": 54134,
+  "illustration": "https://phira.5wyxi.com/files/2ee1c886-a27a-46d0-9b77-d409a0da8a9f",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Unveil",
+  "preview": "https://phira.5wyxi.com/files/2036b0a3-252c-4e8b-a5ef-332f33f15f28",
+  "ranked": true,
+  "rating": 0.91373223,
+  "ratingCount": 1865,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-03-18T02:48:30.497779Z",
+  "uploader": 4190
+}

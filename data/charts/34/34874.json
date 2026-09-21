@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:10Z",
+    "lastChanged": "2026-09-21T02:06:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-03-07T10:02:45.343665Z",
+  "charter": "DXrs",
+  "composer": "Luze",
+  "created": "2025-03-07T10:02:45.343665Z",
+  "description": "本人上传，184小叠，谱师体感α+",
+  "difficulty": 11.000004,
+  "file": "https://phira.5wyxi.com/files/1765c882-08bf-434f-8d7f-76768600734e",
+  "id": 34874,
+  "illustration": "https://phira.5wyxi.com/files/3d4421cf-1a7e-417f-bcd4-c3fac01d057c",
+  "illustrator": "",
+  "level": "4K Jack",
+  "name": "Fragmentation",
+  "preview": "https://phira.5wyxi.com/files/011c6a4b-09ef-407f-a756-d05c49aabe38",
+  "ranked": false,
+  "rating": 0.92910314,
+  "ratingCount": 50,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4K",
+    "Jack",
+    "Alpha",
+    "Beta",
+    "plain"
+  ],
+  "updated": "2025-03-07T10:02:45.343665Z",
+  "uploader": 303667
+}

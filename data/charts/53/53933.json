@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:27Z",
+    "lastChanged": "2026-09-21T02:04:27Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-07T13:13:19.167697Z",
+  "charter": "SeaSinvo",
+  "composer": "三无MarBlue",
+  "created": "2026-03-07T13:13:19.167697Z",
+  "description": null,
+  "difficulty": 10.1,
+  "file": "https://phira.5wyxi.com/files/e774eed7-d643-4248-97fe-00796951925b",
+  "id": 53933,
+  "illustration": "https://phira.5wyxi.com/files/e555f6cc-a122-4d0e-8d74-ae26b3a1c203",
+  "illustrator": "",
+  "level": "Seele-Lv.10.18",
+  "name": "乱蝶",
+  "preview": "https://phira.5wyxi.com/files/40acdea5-9ff7-4f70-8c2b-19c90ebc72e3",
+  "ranked": false,
+  "rating": 0.873895,
+  "ratingCount": 44,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-03-07T13:13:19.167697Z",
+  "uploader": 2111189
+}

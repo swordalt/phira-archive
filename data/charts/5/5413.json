@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:19Z",
+    "lastChanged": "2026-09-21T02:05:19Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-07-16T01:50:02.306573Z",
+  "charter": "RvP0",
+  "composer": "郑秀文",
+  "created": "2023-07-16T01:50:02.306573Z",
+  "description": "哔哩哔哩@RvP0 谱师本人上传。",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/74c2577d-d37b-4c48-9fa3-8920173a76e6",
+  "id": 5413,
+  "illustration": "https://phira.5wyxi.com/files/fd939c7b-a865-48fc-80b4-f7fec6ac0eea",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "眉飞色舞",
+  "preview": "https://phira.5wyxi.com/files/739a29b7-55be-4b80-a653-5c5b58f5b282",
+  "ranked": false,
+  "rating": 0.90503466,
+  "ratingCount": 1064,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-07-16T01:50:02.306573Z",
+  "uploader": 212256
+}

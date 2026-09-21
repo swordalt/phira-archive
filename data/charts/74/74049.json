@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:09Z",
+    "lastChanged": "2026-09-21T02:05:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-20T07:39:57.042360Z",
+  "charter": "XerdouS “The Sunny Day, a brighter day.”",
+  "composer": "塞壬唱片-MSR/F.L.O.A.T (白羽）/张晶",
+  "created": "2026-08-18T02:36:57.196547Z",
+  "description": "翻转遗憾的重量，重塑失望下降的速度。在结局还未落地之前，将一切挽回。\r\n「以决心做邮戳，绘我们的黎明。」\r\n\r\n（在本谱面未stable前可能会经历多次改谱，向每一位因此被清榜的玩家提前致歉！）\r\n2026.08.20 Update\r\n修复了204cb段落的侧打垂判问题。优化了部分排键，动效。",
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/e8bda01e-69a8-4672-ac0a-9970267478cc",
+  "id": 74049,
+  "illustration": "https://phira.5wyxi.com/files/fb134b6c-2dd5-426f-86d5-58a59c5fd8c5",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "连烦恼也融入天空",
+  "preview": "https://phira.5wyxi.com/files/8530301f-8819-4ff3-b5c5-9afd15fb9661",
+  "ranked": true,
+  "rating": 0.9041924,
+  "ratingCount": 1031,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-20T07:39:57.042360Z",
+  "uploader": 22799
+}

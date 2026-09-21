@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:29Z",
+    "lastChanged": "2026-09-21T02:04:29Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-21T01:03:33.512062Z",
+  "charter": "「斬撃」終章 すみれ色 VS Flick !!!",
+  "composer": "Yuta Imai",
+  "created": "2026-03-21T01:03:33.512062Z",
+  "description": "本人上传。修改了offest以及一些BUG",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/704f247d-c9c5-4688-a159-968f2478a30f",
+  "id": 54336,
+  "illustration": "https://phira.5wyxi.com/files/eeb931aa-a512-42a2-8578-820a079d1b37",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "SLASH",
+  "preview": "https://phira.5wyxi.com/files/0a066b74-ccb3-4e94-ad31-ca37beef28b8",
+  "ranked": true,
+  "rating": 0.88343424,
+  "ratingCount": 375,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "シノビスラッシュ",
+    "regular"
+  ],
+  "updated": "2026-03-21T01:03:33.512062Z",
+  "uploader": 1701
+}

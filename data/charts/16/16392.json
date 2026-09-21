@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:00Z",
+    "lastChanged": "2026-09-21T02:02:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-24T01:50:17.174802Z",
+  "charter": "tiramisuya",
+  "composer": "Nightarc",
+  "created": "2024-02-24T01:50:17.174802Z",
+  "description": null,
+  "difficulty": 14.8,
+  "file": "https://phira.5wyxi.com/files/0386d851-4c00-4abf-8503-add9f15122fc",
+  "id": 16392,
+  "illustration": "https://phira.5wyxi.com/files/46a1bced-1a56-4c09-b750-60de7f424036",
+  "illustrator": "",
+  "level": "IN lv.14",
+  "name": "跳动之城",
+  "preview": "https://phira.5wyxi.com/files/79ef8261-f8d0-4601-82e0-8809184f3cb5",
+  "ranked": false,
+  "rating": 0.8842556,
+  "ratingCount": 96,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-02-24T01:50:17.174802Z",
+  "uploader": 699878
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:46Z",
+    "lastChanged": "2026-09-21T02:05:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-16T05:53:14.436509Z",
+  "charter": "wh0119",
+  "composer": "lofie",
+  "created": "2024-04-16T05:53:14.436509Z",
+  "description": null,
+  "difficulty": 3.9999983,
+  "file": "https://phira.5wyxi.com/files/fc829aaa-1ab6-4cde-a913-bc89dfd5620f",
+  "id": 18549,
+  "illustration": "https://phira.5wyxi.com/files/5edd16f2-0099-4619-bb01-a985a6a196b1",
+  "illustrator": "",
+  "level": "EZ Lv.4.3",
+  "name": "serendipity",
+  "preview": "https://phira.5wyxi.com/files/eb6e2337-19ca-4e49-be44-fbcca21771f6",
+  "ranked": false,
+  "rating": 0.86922884,
+  "ratingCount": 11,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2024-04-16T05:53:14.436509Z",
+  "uploader": 134739
+}

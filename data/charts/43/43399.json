@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:35Z",
+    "lastChanged": "2026-09-21T02:03:35Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-01T16:29:34.582869Z",
+  "charter": "Warning: ItzWind is infected by Trojan!!",
+  "composer": "Sound Souler",
+  "created": "2025-08-01T16:29:34.582869Z",
+  "description": "本人上传\n该谱面为【云梦•始源】比赛供谱\n首次登场于EX区测试赛",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/d881dff0-6d90-4b6b-aed0-6deddadde6b6",
+  "id": 43399,
+  "illustration": "https://phira.5wyxi.com/files/9138ba11-9eee-4364-92eb-77bd9471cb3e",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "3rd Avenue",
+  "preview": "https://phira.5wyxi.com/files/58da8504-9728-49f1-8e82-0d9d906f91ee",
+  "ranked": true,
+  "rating": 0.86626023,
+  "ratingCount": 239,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "云梦杯",
+    "regular"
+  ],
+  "updated": "2025-08-01T16:29:34.582869Z",
+  "uploader": 17059
+}

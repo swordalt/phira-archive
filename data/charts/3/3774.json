@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:16Z",
+    "lastChanged": "2026-09-21T02:01:16Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-06-20T12:14:47.985593Z",
+  "charter": "Jumpkun",
+  "composer": "Raimukun",
+  "created": "2023-06-20T12:14:47.985593Z",
+  "description": "改谱，看看",
+  "difficulty": 15.900001,
+  "file": "https://phira.5wyxi.com/files/8ee2ed17-b37b-45ae-8ca9-da4e8d102edb",
+  "id": 3774,
+  "illustration": "https://phira.5wyxi.com/files/f4bd5ae0-20fc-461b-a466-c64daa9ad12b",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Avantgarde",
+  "preview": "https://phira.5wyxi.com/files/76521062-1e7c-4247-8ccc-b27e77836e45",
+  "ranked": false,
+  "rating": 0.8532847,
+  "ratingCount": 383,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "BOF2022",
+    "regular"
+  ],
+  "updated": "2023-06-21T15:39:37.939207Z",
+  "uploader": 12697
+}

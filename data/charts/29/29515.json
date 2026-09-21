@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:46Z",
+    "lastChanged": "2026-09-21T02:02:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-11-09T10:33:47.519750Z",
+  "charter": "Lan_Bai",
+  "composer": "uma/モリモリあつし",
+  "created": "2024-11-09T10:33:47.519750Z",
+  "description": null,
+  "difficulty": 4.0,
+  "file": "https://phira.5wyxi.com/files/46637434-e801-4ef9-8734-44cfb5596aff",
+  "id": 29515,
+  "illustration": "https://phira.5wyxi.com/files/1d613f93-95c9-400b-9cb4-ae604ed974d0",
+  "illustrator": "",
+  "level": "IN LV.15.4",
+  "name": "BRAVE：ROAD",
+  "preview": "https://phira.5wyxi.com/files/aca04ec8-e42e-402a-a108-22b4cc3cf033",
+  "ranked": false,
+  "rating": 0.65456784,
+  "ratingCount": 65,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-11-09T10:33:47.519750Z",
+  "uploader": 1090427
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:14Z",
+    "lastChanged": "2026-09-21T02:02:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-17T09:19:29.133973Z",
+  "charter": "不会打谱的DVD",
+  "composer": "わかどり",
+  "created": "2024-05-17T09:19:29.133973Z",
+  "description": null,
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/abb0aacc-1e2e-411b-908e-c92497b75f69",
+  "id": 20008,
+  "illustration": "https://phira.5wyxi.com/files/41d96ca8-f892-4293-950f-d4922b2a7ca1",
+  "illustrator": "",
+  "level": "FM Lv.16.9",
+  "name": "nighttheater",
+  "preview": "https://phira.5wyxi.com/files/0eb1b0e0-2bdd-4c64-843a-716301c73e29",
+  "ranked": false,
+  "rating": 0.30858228,
+  "ratingCount": 90,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-05-17T09:19:29.133973Z",
+  "uploader": 872326
+}

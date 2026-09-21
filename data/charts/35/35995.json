@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:10Z",
+    "lastChanged": "2026-09-21T02:03:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-01T00:10:18.560371Z",
+  "charter": "Purple.",
+  "composer": "Frums",
+  "created": "2025-04-01T00:10:18.560371Z",
+  "description": "建议关闭双押提示以方便读谱",
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/c384cfbd-b107-4d0c-b7d8-35e9bc648262",
+  "id": 35995,
+  "illustration": "https://phira.5wyxi.com/files/fe22531c-3072-4c0e-8de7-95c4632812f0",
+  "illustrator": "",
+  "level": "Click⇔Show Lv.?",
+  "name": "theyaremanycolors",
+  "preview": "https://phira.5wyxi.com/files/7f97a4d4-c3a7-4f6b-b056-bc22e75ab876",
+  "ranked": false,
+  "rating": 0.89404094,
+  "ratingCount": 69,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-04-02T07:40:08.628827Z",
+  "uploader": 226456
+}

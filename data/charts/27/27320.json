@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:39Z",
+    "lastChanged": "2026-09-21T02:02:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-09-02T07:00:07.674723Z",
+  "charter": "CDQAQ",
+  "composer": "Juggernaut.",
+  "created": "2024-09-02T07:00:07.674723Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/52312804-cb5c-4a63-abfa-185f4df6f08c",
+  "id": 27320,
+  "illustration": "https://phira.5wyxi.com/files/cbbd3053-9edf-477d-96b2-acdee3205c3a",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Revenant",
+  "preview": "https://phira.5wyxi.com/files/2262e8f1-5dbd-445e-b2b8-fe43c4793da3",
+  "ranked": false,
+  "rating": 0.8320305,
+  "ratingCount": 38,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-09-02T07:00:07.674723Z",
+  "uploader": 20201
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:42Z",
+    "lastChanged": "2026-09-21T02:04:42Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-10T08:54:06.863694Z",
+  "charter": "小鱼暮屿",
+  "composer": "Will Stetson",
+  "created": "2026-05-10T08:54:06.863694Z",
+  "description": null,
+  "difficulty": 15.1,
+  "file": "https://phira.5wyxi.com/files/a756ec8a-d050-4dc1-b8d9-66649284e6f4",
+  "id": 58128,
+  "illustration": "https://phira.5wyxi.com/files/0f129d5c-0212-41d2-8d03-65c148fc0666",
+  "illustrator": "",
+  "level": "IN.15",
+  "name": "Phony",
+  "preview": "https://phira.5wyxi.com/files/d79aec9c-8d5e-4ec8-bce6-22c0b43b59d0",
+  "ranked": false,
+  "rating": 0.90283763,
+  "ratingCount": 75,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-05-10T08:54:06.863694Z",
+  "uploader": 2143247
+}

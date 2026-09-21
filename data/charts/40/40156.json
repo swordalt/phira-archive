@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:24Z",
+    "lastChanged": "2026-09-21T02:03:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-23T10:56:50.657063Z",
+  "charter": "一个数学天才",
+  "composer": "LeaF",
+  "created": "2025-06-23T10:56:50.657063Z",
+  "description": "迷宫最终版本，前前后后重新修改1年多了。\n定数：IN 15.8 有初见杀",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/2f804d71-0965-4113-8a44-5db3dc7f313a",
+  "id": 40156,
+  "illustration": "https://phira.5wyxi.com/files/6e366696-4578-425b-b180-1486505e9c61",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Lyrith -迷宮リリス-",
+  "preview": "https://phira.5wyxi.com/files/2ce3488d-cde8-4c37-bb5f-9a0f3103787e",
+  "ranked": false,
+  "rating": 0.9010086,
+  "ratingCount": 699,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-06-23T10:56:50.657063Z",
+  "uploader": 411324
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:06Z",
+    "lastChanged": "2026-09-21T02:04:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-19T14:51:01.673829Z",
+  "charter": "Asterisk",
+  "composer": "CeRa",
+  "created": "2025-12-12T14:33:48.284142Z",
+  "description": "曲师本人上传，详情请见b站，【[phigros合作自制谱]Star light IN Lv.14 星光之下 谱面预览-哔哩哔哩】 https://b23.tv/AO5IH5t",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/d9c40e5e-b480-46a8-ae6b-da81e307665e",
+  "id": 50126,
+  "illustration": "https://phira.5wyxi.com/files/d8861d01-67f7-468e-a963-5bb1b59168bd",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Star light",
+  "preview": "https://phira.5wyxi.com/files/ca91d2f5-2a56-41ae-9220-0da484a45739",
+  "ranked": false,
+  "rating": 0.9000736,
+  "ratingCount": 66,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-12-19T14:51:01.673829Z",
+  "uploader": 26704
+}

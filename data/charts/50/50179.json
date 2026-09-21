@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:06Z",
+    "lastChanged": "2026-09-21T02:04:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-13T13:42:52.718574Z",
+  "charter": "S-N-O-W",
+  "composer": "numbertale",
+  "created": "2025-12-13T13:42:52.718574Z",
+  "description": null,
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/7653d897-dd9a-484e-bcc3-30f4c765e24c",
+  "id": 50179,
+  "illustration": "https://phira.5wyxi.com/files/ade5d6aa-68de-4cde-bbfe-5a0a7ec26675",
+  "illustrator": "",
+  "level": "破釜沉舟",
+  "name": "破釜沉舟",
+  "preview": "https://phira.5wyxi.com/files/b3ff6490-f3b9-4be8-bda5-b92f5a3c1829",
+  "ranked": false,
+  "rating": 0.8791344,
+  "ratingCount": 68,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-12-13T13:42:52.718574Z",
+  "uploader": 1791330
+}

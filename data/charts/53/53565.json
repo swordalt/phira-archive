@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:25Z",
+    "lastChanged": "2026-09-21T02:04:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-27T14:30:36.069550Z",
+  "charter": "写自制的那俩人",
+  "composer": "DJ小女孩/MC小敏感",
+  "created": "2026-02-27T14:30:36.069550Z",
+  "description": "谱面预览：BV1DRfkBQEni\n该谱面参加3rdPecJam的委托二【漫长的告别】：谱面中至少出现两个这样的长音符（Hold）：从开始判定到结束判定，至少经过8秒，且期间有至少20个其它需要打击的音符被完整判定。\n本来有契合歌曲主题同时完成委托一的想法，由于和委托二冲突性较强，未能找到合适的兼容方案，最终还是决定完成单个委托。",
+  "difficulty": 14.900001,
+  "file": "https://phira.5wyxi.com/files/7e42b7f0-638f-4bd3-aeae-f5cf9911229e",
+  "id": 53565,
+  "illustration": "https://phira.5wyxi.com/files/a0561008-d1e5-47d7-a3f3-64677215a7bb",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "喊压声的那俩人",
+  "preview": "https://phira.5wyxi.com/files/2edfb006-0137-46ad-bdf1-ede83dd84422",
+  "ranked": false,
+  "rating": 0.87798595,
+  "ratingCount": 195,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "3rdPecJam",
+    "regular"
+  ],
+  "updated": "2026-02-27T14:30:36.069550Z",
+  "uploader": 287155
+}

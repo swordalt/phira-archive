@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:38Z",
+    "lastChanged": "2026-09-21T02:02:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-17T07:12:35.177025Z",
+  "charter": "twotthrees",
+  "composer": "LeaF",
+  "created": "2024-08-31T17:31:51.008326Z",
+  "description": "2025/5/10改谱，修改配置与排列，删去了不必要的zure，修改了note移动幅度\n2025/12/20改谱，重写了许多段落，优化排列与特效，drop段的hold可以抬手\n2026/1/17改谱，优化了几个特效，补充了一点特效，改了一点排列",
+  "difficulty": 16.300003,
+  "file": "https://phira.5wyxi.com/files/bc78bcdd-9349-43f5-8ed8-2dabe35b6bb2",
+  "id": 27238,
+  "illustration": "https://phira.5wyxi.com/files/3be2a6a8-d359-4487-871b-70ef2444fdcb",
+  "illustrator": "",
+  "level": "「終」 Lv.16",
+  "name": "Armageddon",
+  "preview": "https://phira.5wyxi.com/files/0279fafc-afe0-46e4-bfa3-a2d90dc21589",
+  "ranked": true,
+  "rating": 0.91256034,
+  "ratingCount": 3312,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "东方project",
+    "regular"
+  ],
+  "updated": "2026-01-17T07:14:02.634259Z",
+  "uploader": 7679
+}

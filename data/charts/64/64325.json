@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:55Z",
+    "lastChanged": "2026-09-21T02:04:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-05T14:16:17.842769Z",
+  "charter": "RC35",
+  "composer": "AnythingBecomeMoe",
+  "created": "2026-07-05T14:16:17.842769Z",
+  "description": "B站谱面视频：BV1CrTC6UEEi\r\n解锁动画难度/MV视频修改：BV1bETx6rEy8\r\n曲：ヤラララ (feat. 重音テト)(呀啦啦啦)\r\n曲师：かれたよつば/AnythingBecomeMoe/重音テト\r\n画师：AnythingBecomeMoe（可能？）\r\nBPM：125.08（125）\r\n难度：新15.1/.2 旧14.9\r\n--\r\nEnjoy!\r\n\r\n第0次换源谱面 质量不是很好 勿喷!",
+  "difficulty": 15.1,
+  "file": "https://phira.5wyxi.com/files/13a61cbe-1f68-4cbf-b786-f36c0ffce1f5",
+  "id": 64325,
+  "illustration": "https://phira.5wyxi.com/files/a9fabb25-ca45-40b7-be99-e4ae47e4b837",
+  "illustrator": "",
+  "level": "IN  Lv.15.1",
+  "name": "ヤラララ ",
+  "preview": "https://phira.5wyxi.com/files/55b372b9-bfc9-45f4-b59c-af93a9fd9fa7",
+  "ranked": false,
+  "rating": 0.9203526,
+  "ratingCount": 13131,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-05T14:16:17.842769Z",
+  "uploader": 2211497
+}

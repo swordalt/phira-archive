@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:21Z",
+    "lastChanged": "2026-09-21T02:03:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-08T02:08:10.776009Z",
+  "charter": "星",
+  "composer": "原口沙輔 feat. ゆーり",
+  "created": "2025-06-08T02:08:10.776009Z",
+  "description": "本谱面具有特殊的玩法机制，核心在于寻找“隙”——当出现两个同类型音符组成的双押时，实际的打击判定点位于它们连线的中点位置，简单来说就是“看到双押就点中间”。整个谱面按照这一逻辑进行设计，双指可解。在出现四押的情况下，可以将左边两个音符视为一组，右边两个音符视为另一组，分别按照“双押点中间”的原则处理，因此四押实际上仍然可以通过双指完成，不需要点击四个音符的正中间位置，也无需使用多指操作。\n特别感谢 Esama，堇色CorYdalis，明雨，sanzione 等人提供的反馈。\n本人没有谱面外内容的版权。如有侵权，请联系我删除。\n视频发布在我的B站同名账号 ，请多多支持！",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/544084d3-4dc5-4d29-91d4-5afe2a7fc250",
+  "id": 39364,
+  "illustration": "https://phira.5wyxi.com/files/a3183974-d710-48bb-a88e-ca668f8e34a2",
+  "illustrator": "",
+  "level": "SP  Lv.?",
+  "name": "隙",
+  "preview": "https://phira.5wyxi.com/files/98807666-4189-4943-a826-96e48195aa35",
+  "ranked": false,
+  "rating": 0.9070207,
+  "ratingCount": 1544,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-06-08T03:03:45.616979Z",
+  "uploader": 619258
+}

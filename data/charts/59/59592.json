@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:52Z",
+    "lastChanged": "2026-09-21T02:06:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-31T01:56:56.899543Z",
+  "charter": "VivaceZoo201232",
+  "composer": "稲葉曇",
+  "created": "2026-05-31T01:56:56.899543Z",
+  "description": "V1 ID：59531\n------------------------------------------------\n歌曲信息↓\n1.ツクリカケノ心象 BPM：118\n2.ラグトレイン BPM：147\n3.超深淵帯 BPM：112\n4.ひみつの小学生 BPM：185\n------------------------------------------------\n谱师↓\n@VivaceZoo201232#276206 & Nevostion",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/5471312c-b2a8-442b-b14b-f34825d41f8a",
+  "id": 59592,
+  "illustration": "https://phira.5wyxi.com/files/612e41dc-b03e-4134-8ad5-44f1aa4407de",
+  "illustrator": "",
+  "level": "稲V2 Lv.28",
+  "name": "稲",
+  "preview": "https://phira.5wyxi.com/files/1e78a810-9cfa-4d15-a1c3-1efebd343aaf",
+  "ranked": false,
+  "rating": 0.9377593,
+  "ratingCount": 30,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "稻叶昙",
+    "plain"
+  ],
+  "updated": "2026-05-31T01:56:56.899543Z",
+  "uploader": 276206
+}

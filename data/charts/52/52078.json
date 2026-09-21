@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:18Z",
+    "lastChanged": "2026-09-21T02:04:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-04T08:51:37.540702Z",
+  "charter": "⛆⛆⛆Q⛆I⛆A⛆N⛆⛆⛆",
+  "composer": "Silentroom",
+  "created": "2026-02-04T08:51:37.540702Z",
+  "description": "谱力大爆发写出来的谱面\r\n定数:IN Lv.15.5\r\n物量:1730\r\n制作时长:14h57min\r\n事件量:25852\r\n完全遵循官谱制谱原则,无Fake note,总共使用24线,大部分使用linear缓动(懒得全切线)\r\n24缓yyds！\r\n",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/58996219-5d4c-4b11-bc18-78c4286c812e",
+  "id": 52078,
+  "illustration": "https://phira.5wyxi.com/files/f5967137-97fe-4907-b69a-8c037a4e6290",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "驟雨の狭間",
+  "preview": "https://phira.5wyxi.com/files/5c202eb0-d6c9-4cb1-abba-f7c326f1d2bb",
+  "ranked": false,
+  "rating": 0.87728775,
+  "ratingCount": 221,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-04T08:51:37.540702Z",
+  "uploader": 471620
+}

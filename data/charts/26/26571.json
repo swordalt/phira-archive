@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:35Z",
+    "lastChanged": "2026-09-21T02:02:35Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-19T15:05:42.576282Z",
+  "charter": "CWind with Kaze_si",
+  "composer": "CWind",
+  "created": "2024-08-19T15:05:42.576282Z",
+  "description": "这是本人为某音游社团所制作的曲目与谱面，在某次团建中初次展示，\n曲目与谱面质量一般，望各位宽厚以待。\n谱面预览：BV11UegeSEJF",
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/d8ed995b-5b64-4acc-93f2-5dd30dfd0661",
+  "id": 26571,
+  "illustration": "https://phira.5wyxi.com/files/c4de537e-f6d4-423b-a70c-e18e8f05ebb2",
+  "illustrator": "",
+  "level": "AT  Lv.15",
+  "name": "Artileimor",
+  "preview": "https://phira.5wyxi.com/files/7f7c0490-f743-4a55-ae2f-3add8cf30073",
+  "ranked": false,
+  "rating": 0.92255515,
+  "ratingCount": 60,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-29T02:28:03.074296Z",
+  "uploader": 1231
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:20Z",
+    "lastChanged": "2026-09-21T02:05:20Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-20T14:08:31.464379Z",
+  "charter": "氯化钠_UnOffcial",
+  "composer": "Handle",
+  "created": "2023-08-20T14:08:31.464379Z",
+  "description": "为啥直接更新谱面会崩溃啊",
+  "difficulty": 10.999999,
+  "file": "https://phira.5wyxi.com/files/9c369fdd-db51-4b47-a06a-13755cd202f8",
+  "id": 8078,
+  "illustration": "https://phira.5wyxi.com/files/af0854a6-7f90-4b51-b0aa-e337cbd6e95e",
+  "illustrator": "",
+  "level": "NEW 1.15⭐",
+  "name": "Welcome to Osu!",
+  "preview": "https://phira.5wyxi.com/files/39b67fb8-c869-45e7-ae19-58ce9c0f950b",
+  "ranked": false,
+  "rating": 0.9425991,
+  "ratingCount": 1560,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-08-20T14:08:31.464379Z",
+  "uploader": 52562
+}

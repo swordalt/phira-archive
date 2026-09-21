@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:01Z",
+    "lastChanged": "2026-09-21T02:05:01Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-20T16:25:54.261691Z",
+  "charter": "黯凌AL",
+  "composer": "Di Young",
+  "created": "2026-07-20T16:25:54.261691Z",
+  "description": "那个版本上传的时候谱有问题，重新上传无问题版本，谢谢",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/5b496460-da65-49d8-a04a-16ae62c082e7",
+  "id": 68047,
+  "illustration": "https://phira.5wyxi.com/files/bdbf1e4d-0883-429b-adeb-b3afebfaa6cb",
+  "illustrator": "",
+  "level": "IN LV.15",
+  "name": "Pixel Pig",
+  "preview": "https://phira.5wyxi.com/files/099a1852-3af7-453c-a086-f23c7c9c4e63",
+  "ranked": false,
+  "rating": 0.9287088,
+  "ratingCount": 71,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-20T16:25:54.261691Z",
+  "uploader": 256793
+}

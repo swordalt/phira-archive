@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:14Z",
+    "lastChanged": "2026-09-21T02:01:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-06-07T02:07:23.873280Z",
+  "charter": "CKD",
+  "composer": "Toby Fox vs. CKD",
+  "created": "2023-06-07T02:07:23.873280Z",
+  "description": "",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/b9349399-223c-4600-9e00-0dd54c6dcf30",
+  "id": 3091,
+  "illustration": "https://phira.5wyxi.com/files/88473f6b-7e2c-4ec8-97e1-b03c80411c42",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Megalovania",
+  "preview": "https://phira.5wyxi.com/files/b3a4a8fa-c88b-4489-be42-cbdf8b6de444",
+  "ranked": false,
+  "rating": 0.8391525,
+  "ratingCount": 2518,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-06-07T02:07:23.873280Z",
+  "uploader": 65197
+}

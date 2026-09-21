@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:17Z",
+    "lastChanged": "2026-09-21T02:01:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-06-29T15:03:39.807099Z",
+  "charter": "MujiSama",
+  "composer": "NerSAN",
+  "created": "2023-06-29T15:03:39.807099Z",
+  "description": "谱师本人上传，未经允许请勿转载。  注:本谱面偏耐力，初见杀和反直觉处已尽力削减，请勿因初见杀或者打不过而草率打低分      870和880处红键在接短ln时利用垂直判定向竖直方向滑动解   尾杀中间红黄键为表演不用打击",
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/23b33032-7489-46da-89d1-a219ef09fc9f",
+  "id": 4291,
+  "illustration": "https://phira.5wyxi.com/files/a288fd62-a186-4c53-b8d2-d70537e0bdbc",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "Absolute Terror",
+  "preview": "https://phira.5wyxi.com/files/0a478f4b-1b4c-4975-96c0-388c3cac1496",
+  "ranked": true,
+  "rating": 0.90995747,
+  "ratingCount": 2569,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "协调",
+    "耐力",
+    "regular"
+  ],
+  "updated": "2023-10-28T03:54:00.744402Z",
+  "uploader": 3742
+}

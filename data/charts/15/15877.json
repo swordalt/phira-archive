@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:58Z",
+    "lastChanged": "2026-09-21T02:01:58Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-16T15:35:05.400720Z",
+  "charter": "6thPecJam",
+  "composer": "xi",
+  "created": "2024-02-16T15:35:05.400720Z",
+  "description": "",
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/d7a01d8a-408d-487c-b079-e8a88732b738",
+  "id": 15877,
+  "illustration": "https://phira.5wyxi.com/files/b43320e3-db7a-40ed-b3e0-6763e211e754",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Heavenly blast",
+  "preview": "https://phira.5wyxi.com/files/35630abe-a947-4acb-a2c5-b6b5f7d5dffc",
+  "ranked": false,
+  "rating": 0.7582053,
+  "ratingCount": 262,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2024-03-09T15:24:17.835540Z",
+  "uploader": 2275
+}

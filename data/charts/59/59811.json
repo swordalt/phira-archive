@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:45Z",
+    "lastChanged": "2026-09-21T02:04:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-03T06:19:18.692494Z",
+  "charter": "Maturing vs. Korus_",
+  "composer": "Kry.exe",
+  "created": "2026-06-03T06:19:18.692494Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/980a2a5f-dded-46b0-8f34-2d0f4c2417b6",
+  "id": 59811,
+  "illustration": "https://phira.5wyxi.com/files/faf29830-d060-4d74-8b13-48dbb0f10013",
+  "illustrator": "",
+  "level": "AT  Lv.16",
+  "name": "Moondread",
+  "preview": "https://phira.5wyxi.com/files/2dea5c78-8cfc-47c4-9d79-7250888ffef0",
+  "ranked": false,
+  "rating": 0.6715029,
+  "ratingCount": 23,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-03T06:19:18.692494Z",
+  "uploader": 1860782
+}

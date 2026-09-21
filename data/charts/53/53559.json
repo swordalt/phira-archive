@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:25Z",
+    "lastChanged": "2026-09-21T02:04:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-27T13:30:06.592929Z",
+  "charter": "tankao",
+  "composer": "Thomas Greenberg",
+  "created": "2026-02-27T13:30:06.592929Z",
+  "description": "新人初谱\nv1.0.3 调整bpm与延迟，修改采音\nb站关注tankaoり谢谢喵",
+  "difficulty": 11.0,
+  "file": "https://phira.5wyxi.com/files/e09ca2d7-e9fc-4c10-a0ae-43481f4b4f52",
+  "id": 53559,
+  "illustration": "https://phira.5wyxi.com/files/e18765f5-2825-43a8-b967-789321966bba",
+  "illustrator": "",
+  "level": "IN Lv.11",
+  "name": "Short Theme 1",
+  "preview": "https://phira.5wyxi.com/files/4e574a8b-816d-47fd-b819-871e09c03ee5",
+  "ranked": false,
+  "rating": 0.8531152,
+  "ratingCount": 77,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-27T13:30:06.592929Z",
+  "uploader": 241443
+}

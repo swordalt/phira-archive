@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:35Z",
+    "lastChanged": "2026-09-21T02:05:35Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-11T16:10:21.787560Z",
+  "charter": "Iblcya",
+  "composer": "NightYard",
+  "created": "2023-05-11T16:10:21.787560Z",
+  "description": "本人上传\nDFC Alpha-Beta Speed Practice Pack Vol.1 Beta供谱",
+  "difficulty": 12.0,
+  "file": "https://phira.5wyxi.com/files/926d1c77-46ab-404a-ae6d-3a571eda415a",
+  "id": 1666,
+  "illustration": "https://phira.5wyxi.com/files/e74e540c-3eab-4863-99aa-de242b99a346",
+  "illustrator": "",
+  "level": "Speed",
+  "name": "邪華",
+  "preview": "https://phira.5wyxi.com/files/0b2dd312-8e2f-42b8-814c-1ea3f267eb4f",
+  "ranked": false,
+  "rating": 0.9235119,
+  "ratingCount": 393,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "speed",
+    "plain",
+    "dfc"
+  ],
+  "updated": "2023-05-11T16:10:21.787560Z",
+  "uploader": 77
+}

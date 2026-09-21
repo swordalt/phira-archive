@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:46Z",
+    "lastChanged": "2026-09-21T02:05:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-10T02:02:32.764616Z",
+  "charter": "1-RtS",
+  "composer": "ARForest",
+  "created": "2024-04-10T02:02:32.764616Z",
+  "description": "本谱面为本人制作的Deemo自制谱面的转谱\n转谱器作者为LemoDitary",
+  "difficulty": 15.000009,
+  "file": "https://phira.5wyxi.com/files/63b34737-5977-45a6-b339-d122670d744a",
+  "id": 18261,
+  "illustration": "https://phira.5wyxi.com/files/ce6704b9-6518-4161-bd18-9aa6d9d3f20e",
+  "illustrator": "",
+  "level": "Hard Lv.9 <Deemo>",
+  "name": "Inverted World",
+  "preview": "https://phira.5wyxi.com/files/2d11cd34-4908-47d1-b5fa-2ac4d72761fc",
+  "ranked": false,
+  "rating": 0.94622946,
+  "ratingCount": 130,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Rotaeno",
+    "ARForest",
+    "plain"
+  ],
+  "updated": "2024-04-10T02:02:32.764616Z",
+  "uploader": 80608
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:17Z",
+    "lastChanged": "2026-09-21T02:02:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-06-13T12:14:46.907675Z",
+  "charter": "awa_az",
+  "composer": "Kry.exe",
+  "created": "2024-06-13T12:14:46.907675Z",
+  "description": null,
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/6b6750d6-b657-4fb6-ad5b-befcd013c6f8",
+  "id": 21254,
+  "illustration": "https://phira.5wyxi.com/files/dbe41fe3-6646-41b6-9732-150905dcea7b",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Broken Altair",
+  "preview": "https://phira.5wyxi.com/files/79323b3e-4668-4745-9aef-b4c1aa021777",
+  "ranked": false,
+  "rating": 0.9014668,
+  "ratingCount": 291,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-06-13T12:14:46.907675Z",
+  "uploader": 6134
+}

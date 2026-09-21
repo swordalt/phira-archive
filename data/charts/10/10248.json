@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:36Z",
+    "lastChanged": "2026-09-21T02:01:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-10-06T13:32:48.962909Z",
+  "charter": "Hyme",
+  "composer": "Puru",
+  "created": "2023-10-06T13:32:48.962909Z",
+  "description": null,
+  "difficulty": 3.0,
+  "file": "https://phira.5wyxi.com/files/f7e9e2a1-c066-4404-ae24-6d84f95aeca7",
+  "id": 10248,
+  "illustration": "https://phira.5wyxi.com/files/7a41a448-3b60-4d58-a653-4c361159a420",
+  "illustrator": "",
+  "level": "<3",
+  "name": "Grimheart",
+  "preview": "https://phira.5wyxi.com/files/86671413-23fa-4e92-80ed-4b8909285e92",
+  "ranked": false,
+  "rating": 0.9294317,
+  "ratingCount": 602,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "storyboard",
+    "regular"
+  ],
+  "updated": "2023-10-08T09:02:46.005203Z",
+  "uploader": 164312
+}

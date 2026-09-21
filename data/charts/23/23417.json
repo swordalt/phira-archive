@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:22Z",
+    "lastChanged": "2026-09-21T02:02:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-14T07:24:04.097577Z",
+  "charter": "Sky Ruin",
+  "composer": "Xomu & Kirara Magic & Justin Klyvis",
+  "created": "2024-07-14T07:24:04.097577Z",
+  "description": "B站 @天城遗迹 。新人二谱，从四月中旬写到七月中旬。在Phigros 3.11.0大规模改定数后，本谱面定数由16.2变为16.6。",
+  "difficulty": 16.600002,
+  "file": "https://phira.5wyxi.com/files/8748dc2d-0a98-4e70-a927-2f2fad15a081",
+  "id": 23417,
+  "illustration": "https://phira.5wyxi.com/files/24e86db2-9b06-44a2-8570-b2c2e9154dcb",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Setsuna(Kirara Magic Remix)",
+  "preview": "https://phira.5wyxi.com/files/43e13718-153b-4fb8-ba4c-9b2046158c2f",
+  "ranked": false,
+  "rating": 0.90254897,
+  "ratingCount": 278,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-16T08:35:59.464645Z",
+  "uploader": 440012
+}

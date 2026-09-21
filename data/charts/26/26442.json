@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:59Z",
+    "lastChanged": "2026-09-21T02:05:59Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-17T09:52:57.836692Z",
+  "charter": "ReiA22",
+  "composer": "Leaf",
+  "created": "2024-08-17T09:52:57.836692Z",
+  "description": null,
+  "difficulty": 19.0,
+  "file": "https://phira.5wyxi.com/files/302b55df-97b9-4b6e-bfe0-979c55aba9ce",
+  "id": 26442,
+  "illustration": "https://phira.5wyxi.com/files/ca090e21-e508-4e84-bb21-97295634cd5c",
+  "illustrator": "",
+  "level": "SP",
+  "name": "MARENOL",
+  "preview": "https://phira.5wyxi.com/files/8767ab8f-2701-4552-ade8-9210aba1dfc2",
+  "ranked": false,
+  "rating": 0.7220485,
+  "ratingCount": 42,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2024-08-17T09:52:57.836692Z",
+  "uploader": 655611
+}

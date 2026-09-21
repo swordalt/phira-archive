@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:02Z",
+    "lastChanged": "2026-09-21T02:02:02Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-10T02:31:38.864033Z",
+  "charter": "HORNEEE",
+  "composer": "mmry",
+  "created": "2024-03-10T02:31:38.864033Z",
+  "description": "DCC No.07 本人上船，2024.4.15日修改了一些信息，定数改为19.2，2025.2.15修改定数为19.8",
+  "difficulty": 19.800003,
+  "file": "https://phira.5wyxi.com/files/32509c1a-a2ef-42a7-8afe-095f864a5105",
+  "id": 16967,
+  "illustration": "https://phira.5wyxi.com/files/c1be095d-8ea6-42f3-bc49-ab12742ea8de",
+  "illustrator": "",
+  "level": "AT Lv.19",
+  "name": "Stardust",
+  "preview": "https://phira.5wyxi.com/files/b03cb2fd-a4f5-4f7d-a229-5370834a44a6",
+  "ranked": false,
+  "rating": 0.5834472,
+  "ratingCount": 273,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "dynamix",
+    "regular"
+  ],
+  "updated": "2025-02-15T05:11:03.577149Z",
+  "uploader": 3955
+}

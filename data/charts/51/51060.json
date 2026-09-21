@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:11Z",
+    "lastChanged": "2026-09-21T02:04:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-07T13:16:14.944050Z",
+  "charter": "Kitten_lai",
+  "composer": "trung-nova",
+  "created": "2026-01-07T13:16:14.944050Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/30df12cf-a8ca-43f2-aa38-6b2f339d7304",
+  "id": 51060,
+  "illustration": "https://phira.5wyxi.com/files/597a95de-03ed-49c1-b149-d5ff24ea5fdf",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "3.1V.C1",
+  "preview": "https://phira.5wyxi.com/files/5e1929cd-8427-4a29-a0dd-afc8e5b86d5a",
+  "ranked": false,
+  "rating": 0.82861614,
+  "ratingCount": 35,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "vividstasis",
+    "regular"
+  ],
+  "updated": "2026-01-07T13:16:14.944050Z",
+  "uploader": 784298
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:30Z",
+    "lastChanged": "2026-09-21T02:06:30Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-15T05:20:26.630186Z",
+  "charter": "天汐/天崽awa",
+  "composer": "ああああ/ぺのれり",
+  "created": "2025-08-15T05:20:26.630186Z",
+  "description": "尾杀比较难所以定了32",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/7625e585-bbbe-4748-b849-b2bf24ceab21",
+  "id": 44739,
+  "illustration": "https://phira.5wyxi.com/files/3bd6d456-16a3-46ef-a992-61c1d80eac60",
+  "illustrator": "",
+  "level": "5K Lv.32",
+  "name": "Recollect Lines",
+  "preview": "https://phira.5wyxi.com/files/26fa7976-fbf6-469e-9982-0e67e0d13f82",
+  "ranked": false,
+  "rating": 0.9561684,
+  "ratingCount": 169,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-08-15T05:20:26.630186Z",
+  "uploader": 4797
+}

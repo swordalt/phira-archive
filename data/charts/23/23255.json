@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:21Z",
+    "lastChanged": "2026-09-21T02:02:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-12T04:28:35.615300Z",
+  "charter": "377 at \"BIRTH\"",
+  "composer": "llliiillliiilll",
+  "created": "2024-07-12T04:28:35.615300Z",
+  "description": null,
+  "difficulty": 14.4000025,
+  "file": "https://phira.5wyxi.com/files/6114ce71-bf3b-4673-8ede-7d6677a2301d",
+  "id": 23255,
+  "illustration": "https://phira.5wyxi.com/files/84c558eb-58f0-4f40-a337-53cfb5280c2c",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "BIRTH",
+  "preview": "https://phira.5wyxi.com/files/90fccf26-da8d-41a4-9c17-4bd1f28da316",
+  "ranked": false,
+  "rating": 0.8586649,
+  "ratingCount": 121,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-09T14:11:18.930701Z",
+  "uploader": 31661
+}

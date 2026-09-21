@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:59Z",
+    "lastChanged": "2026-09-21T02:04:59Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-14T11:51:41.022361Z",
+  "charter": "Array",
+  "composer": "t+pazolite",
+  "created": "2026-07-14T11:51:41.022361Z",
+  "description": "本人上传",
+  "difficulty": 16.6,
+  "file": "https://phira.5wyxi.com/files/023574bf-bead-4d3b-82a8-d4018d79b556",
+  "id": 66525,
+  "illustration": "https://phira.5wyxi.com/files/8036f4b8-decf-48fe-a40c-3a75649a464d",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Forsaken tale",
+  "preview": "https://phira.5wyxi.com/files/3713160e-f93e-4c4a-86e2-53b7ff891ca9",
+  "ranked": false,
+  "rating": 0.90744203,
+  "ratingCount": 276,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "CHUNITHM",
+    "regular"
+  ],
+  "updated": "2026-07-14T11:51:41.022361Z",
+  "uploader": 565722
+}

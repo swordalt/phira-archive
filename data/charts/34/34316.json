@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:05Z",
+    "lastChanged": "2026-09-21T02:03:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-03-07T08:59:46.345856Z",
+  "charter": "55752525",
+  "composer": "ZAQUVA",
+  "created": "2025-02-22T10:28:55.149953Z",
+  "description": "本人上传，BV1wPPNenEiS\n更新日志：\n修复了表演线bug\n排键微调",
+  "difficulty": 18.0,
+  "file": "https://phira.5wyxi.com/files/3a40d163-e61f-48f1-83af-d16bedcda6bb",
+  "id": 34316,
+  "illustration": "https://phira.5wyxi.com/files/0d5a102e-465b-4f32-a7a6-94144c278860",
+  "illustrator": "",
+  "level": "IN Lv.18",
+  "name": "Xerulean",
+  "preview": "https://phira.5wyxi.com/files/cad0629e-4b27-4902-9114-a3261942aa86",
+  "ranked": false,
+  "rating": 0.85387415,
+  "ratingCount": 41,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-03-07T08:59:46.345856Z",
+  "uploader": 1492307
+}

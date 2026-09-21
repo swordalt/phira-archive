@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:14Z",
+    "lastChanged": "2026-09-21T02:02:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-27T08:24:16.443015Z",
+  "charter": "spacewalker",
+  "composer": "The_Wooden vs.OOST",
+  "created": "2024-05-27T08:24:16.443015Z",
+  "description": "我的第一张多押谱，因为最近精神状态很奇怪所以写来放松一下（？\n修改定数为13.7，因为真的简单（不想为难而难，所以改个更为合理的定数好些）\n其实用3：2宽高比可能更好点，我是真的不会调RPE窗口比例TAT\n这次的进步是会用音符差速了，但写出来可能有些初见杀之类的，见谅...\n如果你有什么建议的话，欢迎到B站搜索“spacewalkerDTR”来和我说哦，我每天都在线！",
+  "difficulty": 13.699997,
+  "file": "https://phira.5wyxi.com/files/790b2a11-0bed-4d51-8a2c-87919a0ffb8e",
+  "id": 20450,
+  "illustration": "https://phira.5wyxi.com/files/b6aeee8b-6664-4707-844c-116ac36f4886",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Forever",
+  "preview": "https://phira.5wyxi.com/files/ed30d575-b44f-4b60-bb05-42ea13fb26f3",
+  "ranked": false,
+  "rating": 0.9077092,
+  "ratingCount": 400,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-06-01T10:03:49.612772Z",
+  "uploader": 30412
+}

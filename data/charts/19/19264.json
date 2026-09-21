@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:47Z",
+    "lastChanged": "2026-09-21T02:05:47Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-02T11:48:54.735249Z",
+  "charter": "ye-srx-",
+  "composer": "KASOKUKI:Collective",
+  "created": "2024-05-02T11:48:54.735249Z",
+  "description": "第三张无轨，不喜欢写白开水键盘所以写了点手法的",
+  "difficulty": 17.7,
+  "file": "https://phira.5wyxi.com/files/d0c40459-33b4-4bb7-98ac-75ddf97900c9",
+  "id": 19264,
+  "illustration": "https://phira.5wyxi.com/files/e23df51f-fee1-4c99-9fc1-3a01e165bc1e",
+  "illustrator": "",
+  "level": "AT 17",
+  "name": "高速素粒子衝突型加速器",
+  "preview": "https://phira.5wyxi.com/files/e92fbadf-74c1-4438-955c-90871e80ed99",
+  "ranked": false,
+  "rating": 0.94296426,
+  "ratingCount": 99,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "at17",
+    "键盘",
+    "高难",
+    "plain"
+  ],
+  "updated": "2024-05-02T11:48:54.735249Z",
+  "uploader": 312736
+}

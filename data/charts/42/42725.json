@@ -1,0 +1,39 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:32Z",
+    "lastChanged": "2026-09-21T02:03:32Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-26T00:54:36.981637Z",
+  "charter": "rAin",
+  "composer": "かねこちはる/t+pazolite",
+  "created": "2025-07-26T00:54:36.981637Z",
+  "description": "雨露霜雪，线数：40，耗时：12h 1m 35s，定数：15.7，物量：1606，rAin→ADM，笑点解析：这张谱本来是计划写HD Lv.13.9，然后写成了这依托评分直接干到3.74下架令人忍俊不禁。 此为与赤御，Sakurori的合作谱，计划：EZ Lv.8（赤御） HD Lv.13（暂时未定？） EP Lv.15（ADM） IN Lv.15（Sakurori） AT Lv.17（赤御，ADM，Sakurori）",
+  "difficulty": 15.70001,
+  "file": "https://phira.5wyxi.com/files/100e1b2b-fa63-4885-bcea-34888e9d2fcf",
+  "id": 42725,
+  "illustration": "https://phira.5wyxi.com/files/05d9ea93-f1d5-414b-923e-d174475c6973",
+  "illustrator": "",
+  "level": "EP Lv.15",
+  "name": "雨露霜雪",
+  "preview": "https://phira.5wyxi.com/files/3fad7f77-de04-440e-92b4-77c19360ee92",
+  "ranked": false,
+  "rating": 0.825051,
+  "ratingCount": 164,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "雨露霜雪",
+    "常规",
+    "双指",
+    "高难",
+    "EXPERT",
+    "regular"
+  ],
+  "updated": "2025-07-26T00:54:36.981637Z",
+  "uploader": 1310574
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:20Z",
+    "lastChanged": "2026-09-21T02:05:20Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-19T19:32:48.658111Z",
+  "charter": "吃答辩の好哥哥",
+  "composer": "jiangei/SEBII",
+  "created": "2023-08-19T19:32:48.658111Z",
+  "description": "谱师：我\n写的第一个整活谱",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/5cf61ab0-f46f-482f-8e1d-468303c5b314",
+  "id": 8015,
+  "illustration": "https://phira.5wyxi.com/files/29f87d98-227f-4d9e-960b-2b6f9637ae69",
+  "illustrator": "",
+  "level": "SP lv.答辩",
+  "name": "我和jiang一起在吃答辩",
+  "preview": "https://phira.5wyxi.com/files/04d84820-9102-4249-8874-9445c0628648",
+  "ranked": false,
+  "rating": 0.93456817,
+  "ratingCount": 7785,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-08-19T19:32:48.658111Z",
+  "uploader": 1344
+}

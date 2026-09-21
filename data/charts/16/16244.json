@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:43Z",
+    "lastChanged": "2026-09-21T02:05:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-22T02:18:30.776288Z",
+  "charter": "wzzh",
+  "composer": "BACO",
+  "created": "2024-02-22T02:18:30.776288Z",
+  "description": null,
+  "difficulty": 20.0,
+  "file": "https://phira.5wyxi.com/files/82e1eb06-12de-4b72-bd1c-66a7b8601a69",
+  "id": 16244,
+  "illustration": "https://phira.5wyxi.com/files/dc8dcac5-1d1a-4e46-9128-2f6a499090d5",
+  "illustrator": "",
+  "level": "3dan 4K Lv.21",
+  "name": "SUPERNOVA",
+  "preview": "https://phira.5wyxi.com/files/3b35177e-f84c-460e-ba92-ece9cf0d695d",
+  "ranked": false,
+  "rating": 0.87825406,
+  "ratingCount": 132,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2024-02-22T02:18:30.776288Z",
+  "uploader": 35402
+}

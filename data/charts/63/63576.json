@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:54Z",
+    "lastChanged": "2026-09-21T02:04:54Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-02T05:13:01.348619Z",
+  "charter": "Lemon",
+  "composer": "KIRO",
+  "created": "2026-07-02T05:13:01.348619Z",
+  "description": null,
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/c73381e6-e5d4-436c-9fb8-15309e3acdda",
+  "id": 63576,
+  "illustration": "https://phira.5wyxi.com/files/8f371ba4-0e9f-4829-88a2-49f3158a2dff",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "The Fallen (Corruption Carnage)",
+  "preview": "https://phira.5wyxi.com/files/7ce96538-a14c-4559-a8e8-70de1a8d8de4",
+  "ranked": false,
+  "rating": 0.87864643,
+  "ratingCount": 206,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-02T05:13:01.348619Z",
+  "uploader": 49608
+}

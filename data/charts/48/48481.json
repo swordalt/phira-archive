@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:58Z",
+    "lastChanged": "2026-09-21T02:03:58Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-26T07:43:01.753382Z",
+  "charter": "Aoer(小伙）",
+  "composer": "BlueWind（Valtrax）",
+  "created": "2025-10-26T07:43:01.753382Z",
+  "description": "谱师是我\n前面做得不好，但后面还行（？）动效有点晃眼睛，打多了就还行",
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/c2f2195c-63aa-4216-adc0-77b71e7a1965",
+  "id": 48481,
+  "illustration": "https://phira.5wyxi.com/files/e289483d-ac43-4acd-8a75-580226124723",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "B4CK 2 THE 50URCE",
+  "preview": "https://phira.5wyxi.com/files/720f87c9-c49f-4957-b872-09f815dda971",
+  "ranked": false,
+  "rating": 0.87430775,
+  "ratingCount": 12,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Valtrax",
+    "IN15",
+    "BlueWind",
+    "regular"
+  ],
+  "updated": "2025-10-26T07:43:01.753382Z",
+  "uploader": 455
+}

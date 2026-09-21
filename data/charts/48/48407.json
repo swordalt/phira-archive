@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:58Z",
+    "lastChanged": "2026-09-21T02:03:58Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-25T13:06:06.088983Z",
+  "charter": "Cyber Boy",
+  "composer": "Aoi",
+  "created": "2025-10-25T13:06:06.088983Z",
+  "description": "更新难度15.4→15.6\n感谢游玩。",
+  "difficulty": 15.600002,
+  "file": "https://phira.5wyxi.com/files/fbe93099-dfb1-4f4d-bb17-b3257bb40100",
+  "id": 48407,
+  "illustration": "https://phira.5wyxi.com/files/265cde23-aaab-440f-a5dd-24c3539f0863",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "c.s.q.n.",
+  "preview": "https://phira.5wyxi.com/files/f6cb9a16-b79e-4b2e-8c64-e29d0f8634b5",
+  "ranked": false,
+  "rating": 0.70317346,
+  "ratingCount": 290,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-11-12T14:07:14.392425Z",
+  "uploader": 1520313
+}

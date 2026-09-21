@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "visual"
+    ],
+    "firstSeen": "2026-09-21T02:07:06Z",
+    "lastChanged": "2026-09-21T02:07:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-12-21T08:48:11.584652Z",
+  "charter": "蛋小蓝",
+  "composer": "蛋仔派对",
+  "created": "2024-12-21T08:48:11.584652Z",
+  "description": "本蛋仔的新年谱，祝大家新年快乐！",
+  "difficulty": 12.2000065,
+  "file": "https://phira.5wyxi.com/files/bdc84403-ccc9-496b-a701-e80842150234",
+  "id": 30937,
+  "illustration": "https://phira.5wyxi.com/files/5e973a2f-e7c8-40a2-a388-e8e890832d6d",
+  "illustrator": "",
+  "level": "IN Lv.12",
+  "name": "EGGY NEW YEAR",
+  "preview": "https://phira.5wyxi.com/files/af711333-4497-4a0a-bd20-8c8d509ae572",
+  "ranked": false,
+  "rating": 0.91350317,
+  "ratingCount": 424,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "蛋仔",
+    "visual"
+  ],
+  "updated": "2025-07-15T23:50:04.324057Z",
+  "uploader": 1152687
+}

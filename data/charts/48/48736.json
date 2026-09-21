@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:01Z",
+    "lastChanged": "2026-09-21T02:04:01Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-02T15:35:59.210715Z",
+  "charter": "CooCooCooCoo",
+  "composer": "litmus*",
+  "created": "2025-11-02T15:35:59.210715Z",
+  "description": "5谱...应该是吧。",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/21ea680c-0b95-46a6-9872-37e933311860",
+  "id": 48736,
+  "illustration": "https://phira.5wyxi.com/files/9001757f-9f3f-4ccb-9b98-49ec31080d17",
+  "illustrator": "",
+  "level": "IN Lv.14+",
+  "name": "Trojan",
+  "preview": "https://phira.5wyxi.com/files/b63f8f88-3d64-49ee-ba81-d87129745612",
+  "ranked": false,
+  "rating": 0.86922884,
+  "ratingCount": 11,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-11-02T15:35:59.210715Z",
+  "uploader": 245822
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:06Z",
+    "lastChanged": "2026-09-21T02:05:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-09T10:55:12.461609Z",
+  "charter": "TGL Chart Team 「 Fate 」",
+  "composer": "ああああ",
+  "created": "2026-08-09T10:55:12.461609Z",
+  "description": "《凌梦杯2026》(Rising-Dream Cup)，是一个围绕游戏 Phigros 创办的赛事，赛事组汇集了众多音游爱好者。本届比赛为TGL赛事组创办的第六届系列赛事，全方位升级了赛事规模。\n_______________________________________________________________\n\n基本信息 // Basic Info\n曲名 // Title : Fatum Cantabile\n曲师 // Composer : ああああ\n曲绘 // Artist :Hg3Ng6XX\n_______________________________________________________________\n\n谱面信息 // Chart Info\n谱师名义 // Level Designer : TGL Chart Team 「Fate」@Annelotte_ @AnertiI \n难度 // Difficulty : AT Lv.17\n\n特别感谢 // Special Thanks\n录制软件提供 // Record App Support : @不会特效の点缀星空 (Phigros Recorder)\n曲绘包装设计 // Illustration Design : @SJR哈\n赛事主办 // Event Host : @克里Crimo\n_______________________________________________________________\n额外信息 // Others\n©TGL, 2026 ALL RIGHTS RESERVED",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/12956bb6-5520-4e97-b895-98b379caf4d0",
+  "id": 72277,
+  "illustration": "https://phira.5wyxi.com/files/67da8aee-ef11-43f2-9c9c-b547c456932d",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Fatum Cantabile",
+  "preview": "https://phira.5wyxi.com/files/00d80943-82b8-4bc3-9858-b35a3f41ff62",
+  "ranked": false,
+  "rating": 0.91098857,
+  "ratingCount": 283,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-09T10:55:12.461609Z",
+  "uploader": 8883
+}

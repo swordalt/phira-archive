@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:11Z",
+    "lastChanged": "2026-09-21T02:01:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-17T11:04:05.029428Z",
+  "charter": "SRS",
+  "composer": "mmry",
+  "created": "2023-05-17T11:04:05.029428Z",
+  "description": "谱面为本人上传",
+  "difficulty": 15.700003,
+  "file": "https://phira.5wyxi.com/files/beef6f0d-eb45-48bc-adac-36a0d6c69eba",
+  "id": 2201,
+  "illustration": "https://phira.5wyxi.com/files/0d6cb12e-b415-4575-a629-fcb02cbdd699",
+  "illustrator": "",
+  "level": "AD Lv.15",
+  "name": "Little Boy",
+  "preview": "https://phira.5wyxi.com/files/b2c5ddb7-9297-40f2-90c9-0367db2eb9b4",
+  "ranked": false,
+  "rating": 0.89719605,
+  "ratingCount": 79,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-05-17T11:04:05.029428Z",
+  "uploader": 11048
+}

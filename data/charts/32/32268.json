@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:06Z",
+    "lastChanged": "2026-09-21T02:06:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-23T08:02:04.813939Z",
+  "charter": "S神",
+  "composer": "Leaf",
+  "created": "2025-01-23T08:02:04.813939Z",
+  "description": "狐狸第一张正常谱 势ZENITH段boss候选",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/27498d4a-4a87-4ed0-a211-5f2d484ced45",
+  "id": 32268,
+  "illustration": "https://phira.5wyxi.com/files/1112dde9-3ef7-4cb1-8b3b-1e84a7e99c03",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "MEPHISTO",
+  "preview": "https://phira.5wyxi.com/files/f8c84a4a-cbbb-4b20-b1e5-1f3e24daacaf",
+  "ranked": false,
+  "rating": 0.9505985,
+  "ratingCount": 56,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-01-23T08:02:04.813939Z",
+  "uploader": 87478
+}

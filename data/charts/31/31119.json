@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:52Z",
+    "lastChanged": "2026-09-21T02:02:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-12-28T05:47:52.146763Z",
+  "charter": "??",
+  "composer": "Toby Fox",
+  "created": "2024-12-28T05:47:52.146763Z",
+  "description": "这是一张超级大芬，做的不好请见谅",
+  "difficulty": 13.700002,
+  "file": "https://phira.5wyxi.com/files/d4b71f30-cdf5-4999-ad2f-7bca967d42b2",
+  "id": 31119,
+  "illustration": "https://phira.5wyxi.com/files/3f9a67bb-6825-4f1d-85c7-3d9a80613285",
+  "illustrator": "",
+  "level": "IN×SP Lv.13",
+  "name": "Finale",
+  "preview": "https://phira.5wyxi.com/files/85c1c225-29d9-49f4-b243-00cfda4bc834",
+  "ranked": false,
+  "rating": 0.8084368,
+  "ratingCount": 218,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-01-10T05:12:10.506767Z",
+  "uploader": 1378806
+}

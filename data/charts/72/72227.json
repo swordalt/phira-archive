@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:06Z",
+    "lastChanged": "2026-09-21T02:05:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-09T07:10:47.548661Z",
+  "charter": "TGL Chart Team「     」",
+  "composer": "Aut0/ADA/celtix「from PALE:node」",
+  "created": "2026-08-09T07:10:47.548661Z",
+  "description": "《凌梦杯2026》(Rising-Dream Cup)，是一个围绕游戏 Phigros 创办的赛事，赛事组汇集了众多音游爱好者。本届比赛为TGL赛事组创办的第六届系列赛事，全方位升级了赛事规模。\n_____________________________________________________\n\n基本信息 // Basic Info\n\n曲名 // Title : Monolith\n\n曲师 // Composer : Aut0/ADA/celtix「from PALE:node」\n_____________________________________\n\n谱面信息 // Chart Info\n\n谱师名义 // Level Designer : TGL Chart Team「   」\n\n谱师列表 // Charter List:\n@氷川秋乃#708（合作↑拉那段逆天反手的）\n@Smurf__#445678（合作）\n@qhnps#1086（合作） \n@Daimengread#2777（合作） \n@Yurisky_#89136（合作） \n难度 // Difficulty : AT Lv.18\n\n特别感谢 // Special Thanks\n\n曲绘包装设计 // Illustration Design :  SJR哈  \n赛事主办 // Event Host :  克里Crimo  \n___________________________________\n\n额外信息 // Others\n\n©TGL, 2026 ALL RIGHTS RESERVED\n©PALE:node, 2025-2026",
+  "difficulty": 18.0,
+  "file": "https://phira.5wyxi.com/files/fdc4989d-9279-467e-8895-31d803f5c0cb",
+  "id": 72227,
+  "illustration": "https://phira.5wyxi.com/files/8bb0d578-d5f6-4634-84ae-c8c0ea91b32a",
+  "illustrator": "",
+  "level": "AT  Lv.18",
+  "name": "Monolith",
+  "preview": "https://phira.5wyxi.com/files/613fee2b-4f9b-4272-b704-863abfb30fdd",
+  "ranked": false,
+  "rating": 0.89733815,
+  "ratingCount": 596,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-09T07:10:47.548661Z",
+  "uploader": 471275
+}

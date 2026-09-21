@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:04Z",
+    "lastChanged": "2026-09-21T02:04:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-28T14:39:15.607284Z",
+  "charter": "32623",
+  "composer": "尤里卡农 / ユリイ・カノン",
+  "created": "2025-11-28T14:39:15.607284Z",
+  "description": null,
+  "difficulty": 15.900001,
+  "file": "https://phira.5wyxi.com/files/fcaaeac7-27af-443a-8c71-452356beac33",
+  "id": 49560,
+  "illustration": "https://phira.5wyxi.com/files/6f683c66-074d-4d86-8913-8b2afeda9a25",
+  "illustrator": "",
+  "level": "IN 15",
+  "name": "来起舞吧 / おどりゃんせ",
+  "preview": "https://phira.5wyxi.com/files/45ee511d-5ac8-4e7f-b407-2cd7be39fac3",
+  "ranked": false,
+  "rating": 0.943226,
+  "ratingCount": 211,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-11-28T14:39:15.607284Z",
+  "uploader": 1925447
+}

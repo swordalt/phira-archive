@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:07Z",
+    "lastChanged": "2026-09-21T02:02:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-05T10:57:57.488248Z",
+  "charter": "Explld",
+  "composer": "3rd Protype",
+  "created": "2024-04-05T10:57:57.488248Z",
+  "description": null,
+  "difficulty": 14.600024,
+  "file": "https://phira.5wyxi.com/files/dbfaff51-9f6f-4759-8990-01bae2c13a86",
+  "id": 18105,
+  "illustration": "https://phira.5wyxi.com/files/eea30e5e-e920-44e5-8c9e-77ea6c7fbb01",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Move Your Body",
+  "preview": "https://phira.5wyxi.com/files/5534b1c6-d914-4c6d-b003-f13ef63b903f",
+  "ranked": false,
+  "rating": 0.8197911,
+  "ratingCount": 134,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-04-26T14:17:56.491071Z",
+  "uploader": 294754
+}

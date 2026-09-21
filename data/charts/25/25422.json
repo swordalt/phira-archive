@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:31Z",
+    "lastChanged": "2026-09-21T02:02:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-06T04:31:40.611236Z",
+  "charter": "Chatterbox",
+  "composer": "YUC'e",
+  "created": "2024-08-06T04:31:40.611236Z",
+  "description": "5th pecjam参赛谱\n谱面预览BV11h4y1Nm1\n略微修改",
+  "difficulty": 14.8,
+  "file": "https://phira.5wyxi.com/files/6b29f858-e417-4785-bf95-47d579907c7e",
+  "id": 25422,
+  "illustration": "https://phira.5wyxi.com/files/ec5bdca3-119d-4a44-a4a9-619a2ace2a3a",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "SPOOKY GLITCH NIGHT",
+  "preview": "https://phira.5wyxi.com/files/697e1028-7a8e-4f10-a1f7-3d900589b81e",
+  "ranked": false,
+  "rating": 0.8861191,
+  "ratingCount": 64,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-06T04:31:40.611236Z",
+  "uploader": 120303
+}

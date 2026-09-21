@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:05Z",
+    "lastChanged": "2026-09-21T02:02:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-23T13:42:31.284021Z",
+  "charter": "Pigeeeeeon",
+  "composer": "Juggernaut.",
+  "created": "2024-03-23T04:56:35.395664Z",
+  "description": null,
+  "difficulty": 16.700003,
+  "file": "https://phira.5wyxi.com/files/50fa4e06-0aef-4ba0-bbe9-fd34779a9f4e",
+  "id": 17422,
+  "illustration": "https://phira.5wyxi.com/files/d3a4bcb5-8ec7-46ef-b8d4-d019b3a18ec0",
+  "illustrator": "",
+  "level": "FIXED Lv.16",
+  "name": "Revenant",
+  "preview": "https://phira.5wyxi.com/files/cc837db5-f85e-4ffd-a9ac-33d37a7509d4",
+  "ranked": false,
+  "rating": 0.9328553,
+  "ratingCount": 638,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-03-23T13:42:31.284021Z",
+  "uploader": 202
+}

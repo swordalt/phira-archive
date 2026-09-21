@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:36Z",
+    "lastChanged": "2026-09-21T02:03:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-02T05:56:37.861896Z",
+  "charter": "FurSea",
+  "composer": "奥莉安多幻想曲",
+  "created": "2025-08-02T05:56:37.861896Z",
+  "description": null,
+  "difficulty": 12.400002,
+  "file": "https://phira.5wyxi.com/files/398bed8f-e42d-4bac-b171-ae8ed6f76fcc",
+  "id": 43440,
+  "illustration": "https://phira.5wyxi.com/files/48a34067-5552-4763-9eb5-40ddb41b9957",
+  "illustrator": "",
+  "level": "IN Lv.12",
+  "name": "请不要带我走。",
+  "preview": "https://phira.5wyxi.com/files/f55946ba-5897-483d-80a5-42091cfbf46c",
+  "ranked": false,
+  "rating": 0.9362585,
+  "ratingCount": 5891,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-02T05:56:37.861896Z",
+  "uploader": 1806660
+}

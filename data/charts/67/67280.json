@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:00Z",
+    "lastChanged": "2026-09-21T02:05:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-20T03:19:57.350976Z",
+  "charter": "ItzWind vs 卡莫伊",
+  "composer": "USAO",
+  "created": "2026-07-17T13:21:45.197798Z",
+  "description": "登场于云梦杯A组半决赛\n本人负责了几乎所有表演\nwind负责配置",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/49853c14-89ad-4f84-a3a5-2339884f5724",
+  "id": 67280,
+  "illustration": "https://phira.5wyxi.com/files/f0fbe965-e295-41ad-8ed3-6565c6a1059a",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Climax",
+  "preview": "https://phira.5wyxi.com/files/d24cd99b-f013-44b3-822d-b483ce610d39",
+  "ranked": true,
+  "rating": 0.9420151,
+  "ratingCount": 2004,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "CHUNITHM",
+    "regular"
+  ],
+  "updated": "2026-07-20T03:19:57.350976Z",
+  "uploader": 165742
+}

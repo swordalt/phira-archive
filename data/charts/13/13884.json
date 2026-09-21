@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:49Z",
+    "lastChanged": "2026-09-21T02:01:49Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-01-21T05:29:17.687235Z",
+  "charter": "キサラ(Aksiar)",
+  "composer": "Rayson",
+  "created": "2024-01-21T05:29:17.687235Z",
+  "description": "B站@Aksiar",
+  "difficulty": 15.2,
+  "file": "https://phira.5wyxi.com/files/0f12a971-f98f-4edb-806d-ebc901ae6e66",
+  "id": 13884,
+  "illustration": "https://phira.5wyxi.com/files/6ec96a47-4a98-4623-b4c1-a979ee82846c",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "斷劍の獄",
+  "preview": "https://phira.5wyxi.com/files/df53f09c-298b-4307-bcfd-6ca8b4af3706",
+  "ranked": false,
+  "rating": 0.9310763,
+  "ratingCount": 1042,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Orzmic",
+    "regular"
+  ],
+  "updated": "2024-01-21T05:29:17.687235Z",
+  "uploader": 35
+}

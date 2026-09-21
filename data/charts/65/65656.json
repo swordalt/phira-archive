@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:57Z",
+    "lastChanged": "2026-09-21T02:04:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-11T09:09:45.709460Z",
+  "charter": "dyong",
+  "composer": "稻叶昙",
+  "created": "2026-07-11T09:09:45.709460Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/3ab3c8aa-c091-4245-ab7d-43e0f82e6cb0",
+  "id": 65656,
+  "illustration": "https://phira.5wyxi.com/files/589338a4-4422-4d3e-9f38-20c5c16a600c",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "ロストアンブレラ",
+  "preview": "https://phira.5wyxi.com/files/ddab83b3-8ac2-4949-b175-e3d1f204d3d6",
+  "ranked": false,
+  "rating": 0.88834107,
+  "ratingCount": 325,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-11T09:09:45.709460Z",
+  "uploader": 1558112
+}

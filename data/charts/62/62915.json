@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:52Z",
+    "lastChanged": "2026-09-21T02:04:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-28T02:28:41.425295Z",
+  "charter": "RnJITW8=",
+  "composer": "Maozon",
+  "created": "2026-06-28T02:28:41.425295Z",
+  "description": "FreMo本人上传\n\nStasis: 停滞、内乱（n.）",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/12e1bbd6-72aa-4129-8f8c-d6ab6e05888b",
+  "id": 62915,
+  "illustration": "https://phira.5wyxi.com/files/95bc1cd6-aaa3-48f1-83cf-4c6b513f5466",
+  "illustrator": "",
+  "level": "SP  Lv.?",
+  "name": "Stasis",
+  "preview": "https://phira.5wyxi.com/files/a20ec387-984f-4a8a-9e7d-990d9463148d",
+  "ranked": false,
+  "rating": 0.8760267,
+  "ratingCount": 825,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-28T02:28:41.425295Z",
+  "uploader": 31055
+}

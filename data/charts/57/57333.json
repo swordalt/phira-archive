@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:39Z",
+    "lastChanged": "2026-09-21T02:04:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-29T17:03:51.914382Z",
+  "charter": "SINAKU",
+  "composer": "HOYO-MiX",
+  "created": "2026-04-29T17:03:51.914382Z",
+  "description": null,
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/ff542e07-efc2-479f-9694-b10d245b0737",
+  "id": 57333,
+  "illustration": "https://phira.5wyxi.com/files/2ecc985f-5ef3-4d16-baef-759ab2932323",
+  "illustrator": "",
+  "level": "IN",
+  "name": "NAME == Entelechy",
+  "preview": "https://phira.5wyxi.com/files/ae8cfd4c-5b52-48eb-be64-4c6c5be85ed5",
+  "ranked": false,
+  "rating": 0.81773055,
+  "ratingCount": 208,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-04-29T17:03:51.914382Z",
+  "uploader": 2151071
+}

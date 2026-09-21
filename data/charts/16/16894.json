@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:02Z",
+    "lastChanged": "2026-09-21T02:02:02Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-09T06:55:52.531855Z",
+  "charter": "tempo",
+  "composer": "TheFatRat",
+  "created": "2024-03-09T06:55:52.531855Z",
+  "description": "en-US\n6th PecJam SL Submission\n49th Place\n6.12",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/9322f6c1-18b3-4331-bdb4-eecbac67a9fb",
+  "id": 16894,
+  "illustration": "https://phira.5wyxi.com/files/8c174937-1357-4689-9dd2-725ccf4ee3f0",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Windfall",
+  "preview": "https://phira.5wyxi.com/files/59f5e8e9-fd04-429f-9c7d-95ee97325050",
+  "ranked": false,
+  "rating": 0.9155004,
+  "ratingCount": 541,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-03-09T06:55:52.531855Z",
+  "uploader": 600092
+}

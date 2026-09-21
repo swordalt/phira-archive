@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:38Z",
+    "lastChanged": "2026-09-21T02:02:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-29T08:35:26.339453Z",
+  "charter": "ERROR185",
+  "composer": "Vicetone",
+  "created": "2024-08-29T08:35:26.339453Z",
+  "description": null,
+  "difficulty": 14.400001,
+  "file": "https://phira.5wyxi.com/files/53cc3506-77cd-4327-b659-365c72443fd5",
+  "id": 27110,
+  "illustration": "https://phira.5wyxi.com/files/ba9fff04-cc60-4700-a1b0-633b210417ed",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Nevada",
+  "preview": "https://phira.5wyxi.com/files/1eabad37-7c6a-40cb-8545-2251d65d9c5c",
+  "ranked": false,
+  "rating": 0.9147501,
+  "ratingCount": 1660,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-29T08:35:26.339453Z",
+  "uploader": 672668
+}

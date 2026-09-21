@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:55Z",
+    "lastChanged": "2026-09-21T02:03:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-07T04:55:17.245049Z",
+  "charter": "Shuilin",
+  "composer": "Toby Fox",
+  "created": "2025-10-07T04:55:17.245049Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/3a7ce0f9-b507-4b2f-9432-fad56b0d2e56",
+  "id": 47805,
+  "illustration": "https://phira.5wyxi.com/files/5b963bc1-998c-4200-959c-d946b60f3cf2",
+  "illustrator": "",
+  "level": "IN",
+  "name": "Death By Glamour",
+  "preview": "https://phira.5wyxi.com/files/c571829f-c40e-46d7-8c51-4eb5318367f6",
+  "ranked": false,
+  "rating": 0.91582066,
+  "ratingCount": 305,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-10-07T04:55:17.245049Z",
+  "uploader": 359041
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:22Z",
+    "lastChanged": "2026-09-21T02:04:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-18T14:06:27.282588Z",
+  "charter": "77nN",
+  "composer": "東京真中",
+  "created": "2026-02-18T14:06:27.282588Z",
+  "description": "一改版 修改了部分特效及特效的不透明度 B站账号：@_77nN",
+  "difficulty": 13.7,
+  "file": "https://phira.5wyxi.com/files/23c96dee-4a9e-4ff2-ac42-a38121074314",
+  "id": 52925,
+  "illustration": "https://phira.5wyxi.com/files/fb0b6a5a-a6fe-4297-96f2-d68ce8175c30",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "Doomer",
+  "preview": "https://phira.5wyxi.com/files/04d624c3-644b-4933-9251-183d3310971e",
+  "ranked": false,
+  "rating": 0.90853316,
+  "ratingCount": 1890,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-18T14:06:27.282588Z",
+  "uploader": 1106117
+}

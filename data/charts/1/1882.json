@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:11Z",
+    "lastChanged": "2026-09-21T02:01:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-13T13:21:44.277415Z",
+  "charter": "CATFISH",
+  "composer": "t+pazolite",
+  "created": "2023-05-13T13:21:44.277415Z",
+  "description": "B站\n谱面作者\n@喵猫鱼\n作者本人上传，配置在考量下具有一定成熟度，投放Stable。",
+  "difficulty": 16.1,
+  "file": "https://phira.5wyxi.com/files/994aa729-42e7-4c32-a51b-489ce549b2ce",
+  "id": 1882,
+  "illustration": "https://phira.5wyxi.com/files/abe43a71-4a4a-42ce-9163-d8faf67f15c6",
+  "illustrator": "",
+  "level": "IN  Lv.16",
+  "name": "Deity Silence",
+  "preview": "https://phira.5wyxi.com/files/ac7bdab6-746c-4a51-9774-6ea3f9665ff1",
+  "ranked": true,
+  "rating": 0.89887136,
+  "ratingCount": 3385,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "wacca",
+    "regular"
+  ],
+  "updated": "2025-02-26T11:32:35.884871Z",
+  "uploader": 19030
+}

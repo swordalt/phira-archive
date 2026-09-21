@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:35Z",
+    "lastChanged": "2026-09-21T02:01:35Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-10-02T20:18:19.261694Z",
+  "charter": "屑影酱",
+  "composer": "yuiko",
+  "created": "2023-10-02T20:18:19.261694Z",
+  "description": "谱师b:屑影一只  排行榜没了，为了更好的体验，给大家道个歉。\n作为偷懒了一个多月的瓶颈期谱师，终于获得灵感并且在两天之内完成了爱谱（哗哗哗），希望大家可以享受此谱面，有感而发自galgame:想要传达给你的爱恋，后面搜了一下发现这游戏ed每个角色都一样，可能其余音乐太多了，经费不够（bushi），感觉这gal曲子都很好听，有很多我很喜欢的钢琴曲，剧情也是很棒，只能说:啊！嘛我是只走了结衣线，很感人，准备走坏女人线了（敲打），写了滑键，思考了很多方面，尽可能优化了手感，望喜欢。\n10.2:优化了滑键段交互，手感大大增加\n        修改bpm，谱面整体偏移修改，采音不准问题修复（关乎谱师名誉的一条（））\n         成为核审（好像没什么关系）\n10.3:修复368combe断连。\n最后，感谢细心核审的提醒！！",
+  "difficulty": 13.199997,
+  "file": "https://phira.5wyxi.com/files/7b409dbf-e35f-4d5f-9216-6ed5a168b9df",
+  "id": 10062,
+  "illustration": "https://phira.5wyxi.com/files/a0020723-5072-4a27-89e2-d323b7f14706",
+  "illustrator": "",
+  "level": "IN lv.13",
+  "name": "東の空から始まる世界",
+  "preview": "https://phira.5wyxi.com/files/292c657f-e514-4c3f-baeb-51a1a5b9e9fd",
+  "ranked": false,
+  "rating": 0.9511287,
+  "ratingCount": 2298,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-12-01T02:13:55.673534Z",
+  "uploader": 476603
+}

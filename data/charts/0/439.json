@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:05Z",
+    "lastChanged": "2026-09-21T02:01:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-04-02T11:17:52.199661Z",
+  "charter": "123 feat.gaosheng",
+  "composer": "DJ Myosuke & Laur",
+  "created": "2023-04-02T11:17:52.199661Z",
+  "description": "",
+  "difficulty": 15.500002,
+  "file": "https://phira.5wyxi.com/files/5e1ba315-17ec-4ba3-af80-abce3e002bc5",
+  "id": 439,
+  "illustration": "https://phira.5wyxi.com/files/60b6b09e-3ab7-485e-b96d-5cd523e208de",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Break Through Myself",
+  "preview": "https://phira.5wyxi.com/files/fba6f928-09e7-4cde-b21e-682a65702a90",
+  "ranked": false,
+  "rating": 0.92834806,
+  "ratingCount": 1856,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "skill",
+    "regular"
+  ],
+  "updated": "2023-05-03T14:27:19.873260Z",
+  "uploader": 1874
+}

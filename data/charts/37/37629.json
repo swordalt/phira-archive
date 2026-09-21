@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:13Z",
+    "lastChanged": "2026-09-21T02:06:13Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-05T05:48:09.859228Z",
+  "charter": "01122",
+  "composer": "KyuuAme",
+  "created": "2025-05-05T05:48:09.859228Z",
+  "description": "本入",
+  "difficulty": 3.0999994,
+  "file": "https://phira.5wyxi.com/files/a5ba7813-641a-4607-aab0-cc386376e6d4",
+  "id": 37629,
+  "illustration": "https://phira.5wyxi.com/files/0f064802-39b2-4452-a4cd-4235d709e6dc",
+  "illustrator": "",
+  "level": "3dan",
+  "name": "SArke Horisontti",
+  "preview": "https://phira.5wyxi.com/files/b96d37e0-930f-4592-a9ad-64501ae250fb",
+  "ranked": false,
+  "rating": 0.8846812,
+  "ratingCount": 15,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-05-05T05:48:09.859228Z",
+  "uploader": 1054148
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:41Z",
+    "lastChanged": "2026-09-21T02:01:41Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-11-19T17:02:20.779738Z",
+  "charter": "FLAG",
+  "composer": "shadow_bling",
+  "created": "2023-11-19T17:02:20.779738Z",
+  "description": "Bilibili @FLAG_Xiaoqi\nMY即Modify，修改版本\n\n以后将不再在Phira上传谱面。",
+  "difficulty": 15.300001,
+  "file": "https://phira.5wyxi.com/files/82fcee3c-c140-459a-afbc-b2b596759c25",
+  "id": 11627,
+  "illustration": "https://phira.5wyxi.com/files/df1c05f8-ca1b-4fab-9576-80b102e880e2",
+  "illustrator": "",
+  "level": "MY Lv.15",
+  "name": "Crush Alcohol",
+  "preview": "https://phira.5wyxi.com/files/05711e5a-5981-4bd7-9062-0770c75e608c",
+  "ranked": true,
+  "rating": 0.95166016,
+  "ratingCount": 9402,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "BOF",
+    "regular"
+  ],
+  "updated": "2025-03-21T12:13:28.314664Z",
+  "uploader": 457
+}

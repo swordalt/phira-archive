@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:09Z",
+    "lastChanged": "2026-09-21T02:03:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-03-22T16:10:14.898093Z",
+  "charter": "麟",
+  "composer": "Youngso Kim",
+  "created": "2025-03-22T16:10:14.898093Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/f3b54240-9cdf-4641-8a49-dc302d6ddc92",
+  "id": 35581,
+  "illustration": "https://phira.5wyxi.com/files/d6d66cb8-d194-4311-ac2b-217f62c6cc2b",
+  "illustrator": "",
+  "level": "IN",
+  "name": "Like A Star",
+  "preview": "https://phira.5wyxi.com/files/d0c8fc89-ac67-4bc3-94ea-0d9d7e9eeaed",
+  "ranked": false,
+  "rating": 0.7860706,
+  "ratingCount": 24,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-03-22T16:10:14.898093Z",
+  "uploader": 431221
+}

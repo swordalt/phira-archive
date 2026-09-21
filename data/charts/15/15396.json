@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:22Z",
+    "lastChanged": "2026-09-21T02:05:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-11T13:06:56.290352Z",
+  "charter": "huanp",
+  "composer": "siromaru + cranky",
+  "created": "2024-02-11T13:06:56.290352Z",
+  "description": null,
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/323e73db-d18c-4dca-b2d7-c6a2196bbfb3",
+  "id": 15396,
+  "illustration": "https://phira.5wyxi.com/files/242ab3e7-7a1f-4407-912b-bfd913b26eb4",
+  "illustrator": "",
+  "level": "公交 Lv.18+",
+  "name": "conflict",
+  "preview": "https://phira.5wyxi.com/files/07aa99ba-0794-493d-b947-75d3c3486426",
+  "ranked": false,
+  "rating": 0.78098917,
+  "ratingCount": 127,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "3rdFJC",
+    "troll"
+  ],
+  "updated": "2024-02-11T13:06:56.290352Z",
+  "uploader": 134083
+}

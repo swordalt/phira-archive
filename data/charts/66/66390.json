@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:58Z",
+    "lastChanged": "2026-09-21T02:04:58Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-14T03:50:41.306367Z",
+  "charter": "tzai",
+  "composer": "砂糖协会",
+  "created": "2026-07-14T03:50:41.306367Z",
+  "description": "谱师本人上传，灵感爆发写了一个围绕红键和phira的红键判定写了一个谱子，个人感觉算一个简单的协调谱",
+  "difficulty": 15.600002,
+  "file": "https://phira.5wyxi.com/files/c46f3c4e-e539-4949-b2b3-f0e4a25647d0",
+  "id": 66390,
+  "illustration": "https://phira.5wyxi.com/files/880326bc-41eb-45a8-9e96-d8535c9eb462",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "tape/stop/night",
+  "preview": "https://phira.5wyxi.com/files/d277e680-9a52-4b7f-aea9-b33f6132a934",
+  "ranked": false,
+  "rating": 0.8401035,
+  "ratingCount": 18,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-14T03:50:41.306367Z",
+  "uploader": 1447649
+}

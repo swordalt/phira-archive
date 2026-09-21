@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:38Z",
+    "lastChanged": "2026-09-21T02:03:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-09T07:14:36.594424Z",
+  "charter": "Sirdlira",
+  "composer": "かめりあ",
+  "created": "2025-08-09T07:14:36.594424Z",
+  "description": null,
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/9a6491b4-d08d-4e46-a8d6-755f52800932",
+  "id": 44144,
+  "illustration": "https://phira.5wyxi.com/files/7485bae0-ca5c-4b34-a2c7-e47fc8cee5f7",
+  "illustrator": "",
+  "level": "SP Lv.?",
+  "name": "Hello (BPM) 2023",
+  "preview": "https://phira.5wyxi.com/files/28703a39-d89f-4bd0-babe-f0971c040dc4",
+  "ranked": false,
+  "rating": 0.8339569,
+  "ratingCount": 686,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-09T07:14:36.594424Z",
+  "uploader": 1492106
+}

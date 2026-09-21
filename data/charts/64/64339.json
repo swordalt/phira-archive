@@ -1,0 +1,40 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:57Z",
+    "lastChanged": "2026-09-21T02:06:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-05T15:05:32.014141Z",
+  "charter": "HRS-Team",
+  "composer": "KARUT",
+  "created": "2026-07-05T15:05:32.014141Z",
+  "description": "HRS-Lv.1-Sync单曲",
+  "difficulty": 1.2,
+  "file": "https://phira.5wyxi.com/files/fbb1eee9-ca4f-4acf-b34b-5b4a50437079",
+  "id": 64339,
+  "illustration": "https://phira.5wyxi.com/files/c33618f0-2f61-40a5-90b0-b1f1d9855ebb",
+  "illustrator": "",
+  "level": "Sync",
+  "name": "system all green",
+  "preview": "https://phira.5wyxi.com/files/768be8a4-5775-49db-a2dd-ff8f156aff55",
+  "ranked": false,
+  "rating": 0.9051516,
+  "ratingCount": 30,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "HRS",
+    "双指",
+    "谐律段位",
+    "1",
+    "Sync",
+    "协",
+    "plain"
+  ],
+  "updated": "2026-07-05T15:05:32.014141Z",
+  "uploader": 2764605
+}

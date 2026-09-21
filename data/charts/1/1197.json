@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:08Z",
+    "lastChanged": "2026-09-21T02:01:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-05T10:02:31.107246Z",
+  "charter": "ab5k as \"烬\"",
+  "composer": "RAI ",
+  "created": "2023-05-05T10:02:31.107246Z",
+  "description": "代人上传，感谢@ab5k 的授权！谱师：@ab5k",
+  "difficulty": 14.500002,
+  "file": "https://phira.5wyxi.com/files/1c4471fc-3d68-4020-9410-92a64689561e",
+  "id": 1197,
+  "illustration": "https://phira.5wyxi.com/files/7391f9b5-3477-4d7f-bf7d-72dd97ac2d37",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "City of Ashes",
+  "preview": "https://phira.5wyxi.com/files/95524e40-867e-4710-a9ad-1c7be9580615",
+  "ranked": false,
+  "rating": 0.86598676,
+  "ratingCount": 136,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "art",
+    "regular"
+  ],
+  "updated": "2023-05-05T10:02:31.107246Z",
+  "uploader": 3907
+}

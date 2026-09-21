@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:39Z",
+    "lastChanged": "2026-09-21T02:05:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-31T09:47:05.127405Z",
+  "charter": "Auroruby",
+  "composer": "w_tre",
+  "created": "2023-12-31T09:47:05.127405Z",
+  "description": null,
+  "difficulty": 1.0,
+  "file": "https://phira.5wyxi.com/files/2bd2bd3f-1bc8-4128-a8ba-902e0fc27b0d",
+  "id": 13059,
+  "illustration": "https://phira.5wyxi.com/files/e95864b0-747d-4d78-bac5-2e4b2e37ebad",
+  "illustrator": "",
+  "level": "Speed sp1",
+  "name": "Shannon‘s Theorem",
+  "preview": "https://phira.5wyxi.com/files/e8eee166-846b-4403-9c21-c3e12e65c344",
+  "ranked": false,
+  "rating": 0.9155169,
+  "ratingCount": 130,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2023-12-31T09:47:05.127405Z",
+  "uploader": 626179
+}

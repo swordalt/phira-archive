@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:22Z",
+    "lastChanged": "2026-09-21T02:04:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-16T07:49:45.611234Z",
+  "charter": "QIAN 125.444",
+  "composer": "ariiol & 奏Sou",
+  "created": "2026-02-16T07:49:45.611234Z",
+  "description": "事件数：4114\r\n物量：1123\r\n净时长：15h,49m,26s\r\n谱面除父线外，完全遵循管谱原则，无Fake note，不使用负数透明度等",
+  "difficulty": 16.800003,
+  "file": "https://phira.5wyxi.com/files/050f0714-c561-48a0-a1b5-b50210e675f4",
+  "id": 52784,
+  "illustration": "https://phira.5wyxi.com/files/6f47cf5a-5574-4748-abe2-b764cf49cfb2",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "ABYSS MOTION 192.333",
+  "preview": "https://phira.5wyxi.com/files/521b1c97-efab-424a-8251-ca80aee17631",
+  "ranked": false,
+  "rating": 0.9168755,
+  "ratingCount": 571,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-16T07:49:45.611234Z",
+  "uploader": 471620
+}

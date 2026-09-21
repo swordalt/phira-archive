@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:46Z",
+    "lastChanged": "2026-09-21T02:02:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-11-09T12:32:49.987084Z",
+  "charter": "M1OR\\TEch",
+  "composer": "ariiol",
+  "created": "2024-11-09T12:32:49.987084Z",
+  "description": "新人第二张谱，B站:M1-TEch 不是重复上传 不是重复上传 不是重复上传 2025.2.18 定数修改15.4→15.6",
+  "difficulty": 15.600001,
+  "file": "https://phira.5wyxi.com/files/35905c57-4e37-45f4-8270-4d86d5834507",
+  "id": 29521,
+  "illustration": "https://phira.5wyxi.com/files/4a8dd9fe-f6cc-4590-af5f-ff3f988c5b77",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "IOR",
+  "preview": "https://phira.5wyxi.com/files/a4a6c676-24ed-4e3e-a22c-07f6ff8c9124",
+  "ranked": false,
+  "rating": 0.9194872,
+  "ratingCount": 176,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "shader",
+    "regular"
+  ],
+  "updated": "2025-02-18T13:39:01.560123Z",
+  "uploader": 14271
+}

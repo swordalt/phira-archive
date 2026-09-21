@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:43Z",
+    "lastChanged": "2026-09-21T02:01:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-02T14:40:20.091954Z",
+  "charter": "Tempo's Vase",
+  "composer": "DJ YOSHITAKA",
+  "created": "2023-12-02T14:40:20.091954Z",
+  "description": "(en-US)\nUpdate:\nChanged Difficulty.\nChanged CC.",
+  "difficulty": 15.300002,
+  "file": "https://phira.5wyxi.com/files/f3fb3f7f-5c60-450c-917c-e90469b07926",
+  "id": 12037,
+  "illustration": "https://phira.5wyxi.com/files/0ad21c65-d4e6-410d-9651-215b16f9e226",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "FLOWER",
+  "preview": "https://phira.5wyxi.com/files/e0af197d-d81e-40ee-9305-d5de4cf3db7f",
+  "ranked": false,
+  "rating": 0.8667872,
+  "ratingCount": 351,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-12-05T02:30:37.126144Z",
+  "uploader": 71432
+}

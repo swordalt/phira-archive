@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:15Z",
+    "lastChanged": "2026-09-21T02:03:15Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-18T12:19:35.759838Z",
+  "charter": "#)&O",
+  "composer": "MonstDeath",
+  "created": "2025-05-01T04:08:12.818430Z",
+  "description": "修复了一个肉眼几乎不可见的bug，再次滑轨",
+  "difficulty": 16.5,
+  "file": "https://phira.5wyxi.com/files/76fd670a-88a0-4d58-9fb7-b21a5c854eba",
+  "id": 37162,
+  "illustration": "https://phira.5wyxi.com/files/213d23d4-4d20-465b-8c92-c557e0106f58",
+  "illustrator": "",
+  "level": "α",
+  "name": "Dextroy",
+  "preview": "https://phira.5wyxi.com/files/c987bd4a-78f9-4cf5-8b60-e107f52af79f",
+  "ranked": false,
+  "rating": 0.8966177,
+  "ratingCount": 437,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-05-18T12:19:35.759838Z",
+  "uploader": 445
+}

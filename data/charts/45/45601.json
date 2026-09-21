@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:31Z",
+    "lastChanged": "2026-09-21T02:05:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-24T14:28:28.363986Z",
+  "charter": "珞ing",
+  "composer": "ARForest",
+  "created": "2025-08-24T14:28:28.363986Z",
+  "description": "仿街机音游类整活谱，足不出户体验街机",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/c7719ff0-b3d6-4d9a-a1d9-bc5533225a59",
+  "id": 45601,
+  "illustration": "https://phira.5wyxi.com/files/c730f1b9-92e4-4654-8b28-36c51d40505b",
+  "illustrator": "",
+  "level": "IN.15",
+  "name": "Inverted World",
+  "preview": "https://phira.5wyxi.com/files/7a37348e-94b9-4daa-b572-a9946b45f07c",
+  "ranked": false,
+  "rating": 0.7424779,
+  "ratingCount": 25,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2025-08-24T14:28:28.363986Z",
+  "uploader": 264563
+}

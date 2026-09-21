@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:35Z",
+    "lastChanged": "2026-09-21T02:02:35Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-09-02T02:50:00.167616Z",
+  "charter": "Feng_Fj",
+  "composer": "camellia / Beat Saber",
+  "created": "2024-08-20T09:42:40.432584Z",
+  "description": "#修复了谱面中的漏键问题，优化了部分动效\n#听取建议，把定数改为16.1（\n====================\n*温馨提示：本谱面带有一定初见杀*\n一张搁置了挺久的谱子了（指摆烂半年\n总耗时90h+，小废了点心思\n如果觉得谱面有延迟，请酌情调整\n====================\n前面忘了，中间忘了，总之我懒得写简介了（",
+  "difficulty": 16.400005,
+  "file": "https://phira.5wyxi.com/files/2c9a23bf-cd53-49ed-88f4-1896ea0ccb69",
+  "id": 26601,
+  "illustration": "https://phira.5wyxi.com/files/e483a313-2946-42bf-8e1a-d09debacb447",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Tempo-Katana (feat. Beat Saber)",
+  "preview": "https://phira.5wyxi.com/files/57774efd-4b64-458c-b7cc-64b78083a4a8",
+  "ranked": false,
+  "rating": 0.8929731,
+  "ratingCount": 509,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-03-22T11:31:23.983975Z",
+  "uploader": 9516
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:18Z",
+    "lastChanged": "2026-09-21T02:06:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-25T08:08:51.581467Z",
+  "charter": "moonnicholas",
+  "composer": "Penoreri",
+  "created": "2025-06-12T01:48:53.981167Z",
+  "description": "length 4:10 tap:1852 hold:682",
+  "difficulty": 5.100001,
+  "file": "https://phira.5wyxi.com/files/7b164fba-4ee5-411b-8056-bcf389ae15e4",
+  "id": 39513,
+  "illustration": "https://phira.5wyxi.com/files/2cde1934-1b74-4172-843e-787563aa36d4",
+  "illustrator": "",
+  "level": "7k Lv.5.18*",
+  "name": "The Dove",
+  "preview": "https://phira.5wyxi.com/files/0cc7d056-0582-4e8c-8a64-f00b8b86384f",
+  "ranked": false,
+  "rating": 0.9414307,
+  "ratingCount": 77,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "7k",
+    "plain"
+  ],
+  "updated": "2025-06-25T08:08:51.581467Z",
+  "uploader": 1667801
+}

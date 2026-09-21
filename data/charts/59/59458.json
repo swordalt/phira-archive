@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:45Z",
+    "lastChanged": "2026-09-21T02:04:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-30T05:02:24.910544Z",
+  "charter": "真空剑圣",
+  "composer": "Rayson",
+  "created": "2026-05-30T05:02:24.910544Z",
+  "description": null,
+  "difficulty": 15.1,
+  "file": "https://phira.5wyxi.com/files/caf13830-de79-48e5-ae1b-541aa9f41beb",
+  "id": 59458,
+  "illustration": "https://phira.5wyxi.com/files/16d4e07d-fdc8-4cf7-864d-fd3d3e0a8b89",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "斷劍の獄",
+  "preview": "https://phira.5wyxi.com/files/e03b9c43-7bf4-4316-b56f-32b317846e52",
+  "ranked": true,
+  "rating": 0.8887946,
+  "ratingCount": 3457,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-05-30T05:02:24.910544Z",
+  "uploader": 43
+}

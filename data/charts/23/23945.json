@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:25Z",
+    "lastChanged": "2026-09-21T02:02:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-21T04:27:15.201149Z",
+  "charter": "qj79",
+  "composer": "知更鸟/HOYO-MIX/Chevy",
+  "created": "2024-07-21T04:27:15.201149Z",
+  "description": null,
+  "difficulty": 14.200001,
+  "file": "https://phira.5wyxi.com/files/21bdea45-9b4f-436e-ac90-3e5f5519aba1",
+  "id": 23945,
+  "illustration": "https://phira.5wyxi.com/files/4b89d6a1-3e9a-472e-a88c-4ccfe00697e5",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "在银河中孤独摇摆",
+  "preview": "https://phira.5wyxi.com/files/591b8a1a-5036-41d1-8ad4-ff4b194ac942",
+  "ranked": false,
+  "rating": 0.92672247,
+  "ratingCount": 9074,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-07-21T04:27:15.201149Z",
+  "uploader": 928485
+}

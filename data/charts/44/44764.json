@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:30Z",
+    "lastChanged": "2026-09-21T02:06:30Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-15T09:49:45.143586Z",
+  "charter": "2436",
+  "composer": "Yooh",
+  "created": "2025-08-15T09:49:45.143586Z",
+  "description": "一改，effect变速删掉了，并修改了部分配置",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/0466e400-2c0f-4bc2-ad85-ae8fd9fb682f",
+  "id": 44764,
+  "illustration": "https://phira.5wyxi.com/files/80dfd7ab-009b-4c7f-8ab0-11d2434a3a78",
+  "illustrator": "",
+  "level": "4K Hard Lv.15",
+  "name": "Good bye, Merry-Go-Round.",
+  "preview": "https://phira.5wyxi.com/files/7c04745a-6e7b-4230-821e-875eb48fcb8b",
+  "ranked": false,
+  "rating": 0.9333524,
+  "ratingCount": 245,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4K",
+    "plain"
+  ],
+  "updated": "2025-08-15T09:49:45.143586Z",
+  "uploader": 2436
+}

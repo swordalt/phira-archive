@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:36Z",
+    "lastChanged": "2026-09-21T02:04:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-18T10:38:57.543453Z",
+  "charter": "Rice",
+  "composer": "STEAKA",
+  "created": "2026-04-18T10:38:57.543453Z",
+  "description": "B站KonvaRice",
+  "difficulty": 17.300005,
+  "file": "https://phira.5wyxi.com/files/412a651d-ac72-49b2-ba04-982486258a5c",
+  "id": 56608,
+  "illustration": "https://phira.5wyxi.com/files/4fdf179c-87ae-4b2e-911c-5081b4130ade",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "SAN値直葬",
+  "preview": "https://phira.5wyxi.com/files/0cf5c72a-8ab2-4a03-8180-2e866e4a7405",
+  "ranked": false,
+  "rating": 0.77826643,
+  "ratingCount": 40,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-04-18T10:38:57.543453Z",
+  "uploader": 1392789
+}

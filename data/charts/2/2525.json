@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:12Z",
+    "lastChanged": "2026-09-21T02:01:12Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-25T10:32:55.694786Z",
+  "charter": "Daimeng",
+  "composer": "sasakure.UK / lasah",
+  "created": "2023-05-25T10:32:55.694786Z",
+  "description": "",
+  "difficulty": 16.311111,
+  "file": "https://phira.5wyxi.com/files/c7118aae-e754-4e2f-8bfb-7a03eb844aab",
+  "id": 2525,
+  "illustration": "https://phira.5wyxi.com/files/0a8dbdb8-fba0-44ff-87d6-afd04c0b6fe6",
+  "illustrator": "",
+  "level": "AT",
+  "name": "LIN NE KRO NE",
+  "preview": "https://phira.5wyxi.com/files/5736955e-b416-4818-9d98-1d06c17c8cc3",
+  "ranked": true,
+  "rating": 0.9111488,
+  "ratingCount": 2938,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "WACCA",
+    "regular"
+  ],
+  "updated": "2024-04-17T16:02:30.777265Z",
+  "uploader": 2777
+}

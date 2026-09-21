@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:13Z",
+    "lastChanged": "2026-09-21T02:02:13Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-16T05:12:56.083967Z",
+  "charter": "Fal1En",
+  "composer": "Lime",
+  "created": "2024-05-16T05:12:56.083967Z",
+  "description": "前一次传的好像有点问题，麻烦审核替换掉",
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/41bffb58-8771-45a2-8abd-3bdc42cbd7b2",
+  "id": 19976,
+  "illustration": "https://phira.5wyxi.com/files/d5c0773d-0c78-4062-8afd-73ae37b537fb",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Stellaria",
+  "preview": "https://phira.5wyxi.com/files/fda16449-b501-48ca-9391-cf360fb39a9d",
+  "ranked": false,
+  "rating": 0.85263586,
+  "ratingCount": 225,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "",
+    "regular"
+  ],
+  "updated": "2024-05-16T05:12:56.083967Z",
+  "uploader": 8470
+}

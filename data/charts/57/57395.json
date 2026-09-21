@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:39Z",
+    "lastChanged": "2026-09-21T02:04:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-01T00:49:33.239355Z",
+  "charter": "夢之魔女羽梦明",
+  "composer": "RIRIKO ＆ 上田麗奈",
+  "created": "2026-05-01T00:49:33.239355Z",
+  "description": "【！】为获得最佳游玩体验，请将宽高比与音符大小对应：\n● 宽高比为3:2时，音符大小在1.000～1.200之间\n● 宽高比为16:9时，音符大小≤1.000\n● 宽高比为4:3时，音符大小≥1.100\n\n0th PecJam参赛谱，会场编号RG177\n歌曲为魔女之旅OP，选这首曲子的其中一个原因是这歌在phira上的好几张谱都不满意",
+  "difficulty": 12.900003,
+  "file": "https://phira.5wyxi.com/files/2f398d9e-f076-47f6-b0c0-6980e9ae0ce8",
+  "id": 57395,
+  "illustration": "https://phira.5wyxi.com/files/4ccf2bef-3fc5-4e6c-be9d-9898d82bb642",
+  "illustrator": "",
+  "level": "IN  Lv.12",
+  "name": "リテラチュア",
+  "preview": "https://phira.5wyxi.com/files/2b69cda5-b047-4bbc-9b63-e642c1406dcc",
+  "ranked": true,
+  "rating": 0.9085754,
+  "ratingCount": 10335,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "0thPecJam",
+    "魔女之旅",
+    "伊蕾娜",
+    "regular"
+  ],
+  "updated": "2026-05-15T05:55:10.399236Z",
+  "uploader": 120
+}

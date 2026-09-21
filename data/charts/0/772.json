@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:06Z",
+    "lastChanged": "2026-09-21T02:01:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-04-25T14:19:23.672591Z",
+  "charter": "-skyline-",
+  "composer": "Laur & Juggernaut.",
+  "created": "2023-04-25T14:19:23.672591Z",
+  "description": "",
+  "difficulty": 15.400001,
+  "file": "https://phira.5wyxi.com/files/8ffdad9a-5580-4039-ae76-1cb251def78a",
+  "id": 772,
+  "illustration": "https://phira.5wyxi.com/files/c2879759-104c-46ae-b271-b70050c66842",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Last Judgement",
+  "preview": "https://phira.5wyxi.com/files/f359ea52-620b-438f-b6bd-7c80bc2a5a3a",
+  "ranked": false,
+  "rating": 0.86800337,
+  "ratingCount": 322,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-04-25T14:19:23.672591Z",
+  "uploader": 2247
+}

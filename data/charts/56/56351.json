@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:36Z",
+    "lastChanged": "2026-09-21T02:04:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-08T03:37:44.575488Z",
+  "charter": "Aozoranisrsg",
+  "composer": "Antistar feat.Ctymax",
+  "created": "2026-04-14T16:52:29.919448Z",
+  "description": "包含了 特大/喷嚏门/bof/is/拉面雨/ej/arc的我们都得似 的谱，建议正攻（并非）。b站 @青空に白鷺#403246\n\n2026.7.8更新:因为谱师设计失误450combo后面的大段交互结尾有一个硬扛，更新将大段交互手序全部镜像（中间的穿手位置不变）。清空排行榜十分抱歉orz",
+  "difficulty": 16.900005,
+  "file": "https://phira.5wyxi.com/files/80947309-ce0d-4085-84be-6687a4ef1018",
+  "id": 56351,
+  "illustration": "https://phira.5wyxi.com/files/fb5882c1-e419-4762-a760-02406c01d301",
+  "illustrator": "",
+  "level": "交互博物馆",
+  "name": "Class Memories",
+  "preview": "https://phira.5wyxi.com/files/47e7918c-0aaa-4d05-bea2-62c02db1a604",
+  "ranked": false,
+  "rating": 0.83593273,
+  "ratingCount": 299,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "交互",
+    "纵连",
+    "手序",
+    "regular"
+  ],
+  "updated": "2026-07-08T03:37:44.575488Z",
+  "uploader": 403246
+}

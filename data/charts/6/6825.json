@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:24Z",
+    "lastChanged": "2026-09-21T02:01:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-04T14:44:44.897917Z",
+  "charter": "　",
+  "composer": "うたたP / 結月ゆかり",
+  "created": "2023-08-04T14:44:44.897917Z",
+  "description": "谱师: EfiLF1y\n原视频BV号: BV18j411r7gM\n谱面使用音源为街机音乐游戏《WACCA》的剪辑版本，与普通版本有一些出入。",
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/fb895158-8ad4-4c41-9313-023a1ccb8015",
+  "id": 6825,
+  "illustration": "https://phira.5wyxi.com/files/cb8a2f9e-de08-4858-8979-fe42bd897f16",
+  "illustrator": "",
+  "level": "Code: Zero",
+  "name": "幸せになれる隠しコマンドがあるらしい (WACCA ver.)",
+  "preview": "https://phira.5wyxi.com/files/b30b1cff-cf4e-4949-83b6-f48277677c6c",
+  "ranked": false,
+  "rating": 0.93014663,
+  "ratingCount": 15687,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "VOCALOID",
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 818
+}

@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:31Z",
+    "lastChanged": "2026-09-21T02:01:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-09-05T09:31:35.076657Z",
+  "charter": "acco|hua",
+  "composer": "EmoCosine",
+  "created": "2023-09-04T13:43:05.054230Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/136b8d56-ac26-4ffb-aee6-7697bdd66af8",
+  "id": 9061,
+  "illustration": "https://phira.5wyxi.com/files/6b4e35bf-c9db-4aca-9fa8-f7e8e6adda35",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Cutter",
+  "preview": "https://phira.5wyxi.com/files/d667b088-84b1-4dd3-ab2e-f023202c51a7",
+  "ranked": false,
+  "rating": 0.86570233,
+  "ratingCount": 570,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "BOFXVI",
+    "EmoCosine",
+    "regular"
+  ],
+  "updated": "2023-09-05T09:31:35.076657Z",
+  "uploader": 430438
+}

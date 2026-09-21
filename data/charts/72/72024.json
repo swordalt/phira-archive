@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:07:00Z",
+    "lastChanged": "2026-09-21T02:07:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-08T05:43:59.902068Z",
+  "charter": "qwpp",
+  "composer": "Tracy",
+  "created": "2026-08-08T05:43:59.902068Z",
+  "description": "BPM:170\n边缘=96.51% 过段=97.91%\n后光=98.95% 击破=99.65%\n@qwpp#296720",
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/0f947261-7785-4630-ab3c-59c1d5fa2456",
+  "id": 72024,
+  "illustration": "https://phira.5wyxi.com/files/1f29f268-fb33-4685-bb50-723ba71962ff",
+  "illustrator": "",
+  "level": "Closure Lv.13",
+  "name": "Indomitable Spirit [Hommarju Remix]",
+  "preview": "https://phira.5wyxi.com/files/ec2047f9-ec08-4128-ad14-6efe58a321cb",
+  "ranked": false,
+  "rating": 0.8603336,
+  "ratingCount": 10,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "dfc",
+    "双指",
+    "plain"
+  ],
+  "updated": "2026-08-12T10:36:19.748723Z",
+  "uploader": 2112238
+}

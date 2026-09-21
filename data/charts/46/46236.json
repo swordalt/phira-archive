@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:48Z",
+    "lastChanged": "2026-09-21T02:03:48Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-31T16:30:12.999904Z",
+  "charter": "F for \"Formation;Forever;Forsaken\"",
+  "composer": "baeddelite",
+  "created": "2025-08-31T16:30:12.999904Z",
+  "description": "5th WJC L3 no.5\nvivid/stasis Original",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/06a0dfd9-9b65-4118-9d6c-d64d6c0e0dfc",
+  "id": 46236,
+  "illustration": "https://phira.5wyxi.com/files/fb8769eb-9cda-40d1-94db-fbabfcf974ed",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "thrinos;pygmalion",
+  "preview": "https://phira.5wyxi.com/files/7c1705f1-f93b-4247-bd64-ca8a924086dc",
+  "ranked": true,
+  "rating": 0.9378678,
+  "ratingCount": 1082,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "5thWJC",
+    "vividstasis",
+    "regular"
+  ],
+  "updated": "2025-09-02T13:12:36.580106Z",
+  "uploader": 11
+}

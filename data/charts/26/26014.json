@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:33Z",
+    "lastChanged": "2026-09-21T02:02:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-11T14:43:34.165618Z",
+  "charter": "CherishLOHH",
+  "composer": "1f1n1ty",
+  "created": "2024-08-11T14:43:34.165618Z",
+  "description": "我的第一个非纯配置谱",
+  "difficulty": 12.0,
+  "file": "https://phira.5wyxi.com/files/23b6babd-caa3-43d6-bd61-7562f5abcb73",
+  "id": 26014,
+  "illustration": "https://phira.5wyxi.com/files/e7f28a7a-42c1-418e-bc59-68827dd8a4d6",
+  "illustrator": "",
+  "level": "IN Lv.12",
+  "name": "Plummet",
+  "preview": "https://phira.5wyxi.com/files/baa719e3-0e7f-4fa6-9872-e91ba132cdb2",
+  "ranked": false,
+  "rating": 0.8731843,
+  "ratingCount": 98,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-01-26T14:23:12.422716Z",
+  "uploader": 855443
+}

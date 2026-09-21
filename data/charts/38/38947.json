@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:16Z",
+    "lastChanged": "2026-09-21T02:06:16Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-31T07:15:58.150603Z",
+  "charter": "PhiQianz",
+  "composer": "Various Artist",
+  "created": "2025-05-31T07:15:58.150603Z",
+  "description": "谱师本人上传，写于malody，使用MVP转谱器转谱，初版有一段大天空配置，但是那样都有delta了，且过于忍俊不禁，故删除，这版难度gamma左右，由于本人实力不够，无法给出准确的extra dan难度，粗略估计ex4～ex6",
+  "difficulty": 13.000019,
+  "file": "https://phira.5wyxi.com/files/a7a586ff-973e-4cac-9d72-12edfaa3ac19",
+  "id": 38947,
+  "illustration": "https://phira.5wyxi.com/files/7eab0703-4798-4cb2-afa7-c3a5ee51bd60",
+  "illustrator": "",
+  "level": "Faker-γ",
+  "name": "蹲方魂の小曲",
+  "preview": "https://phira.5wyxi.com/files/0bff8f0e-3f1e-4ebd-8170-28355c1d3f21",
+  "ranked": false,
+  "rating": 0.8615675,
+  "ratingCount": 45,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-05-31T07:15:58.150603Z",
+  "uploader": 919511
+}

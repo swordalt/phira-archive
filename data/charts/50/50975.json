@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:11Z",
+    "lastChanged": "2026-09-21T02:04:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-04T11:46:21.647866Z",
+  "charter": "SKY-Planet-天星",
+  "composer": "Plum",
+  "created": "2026-01-04T11:46:21.647866Z",
+  "description": null,
+  "difficulty": 17.400002,
+  "file": "https://phira.5wyxi.com/files/976c7d48-29d0-4d72-a326-7a2da4217699",
+  "id": 50975,
+  "illustration": "https://phira.5wyxi.com/files/d0a03d06-158c-4888-b7b0-c2bddc5cb133",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Maelstrom",
+  "preview": "https://phira.5wyxi.com/files/05c358e7-6d6e-421b-a972-8795a8c167ed",
+  "ranked": false,
+  "rating": 0.8692637,
+  "ratingCount": 24,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-01-04T11:46:21.647866Z",
+  "uploader": 246763
+}

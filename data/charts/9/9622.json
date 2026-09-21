@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:33Z",
+    "lastChanged": "2026-09-21T02:01:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-09-23T14:52:31.297446Z",
+  "charter": "ab5k",
+  "composer": "Silaver",
+  "created": "2023-09-23T14:52:31.297446Z",
+  "description": "本人上传 之前传错了审核给过一下",
+  "difficulty": 15.200001,
+  "file": "https://phira.5wyxi.com/files/30ec81e1-128c-4809-b7ab-a32c26a2a95c",
+  "id": 9622,
+  "illustration": "https://phira.5wyxi.com/files/0a318e57-a88b-45ca-b02f-a5b76805521d",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Faster",
+  "preview": "https://phira.5wyxi.com/files/e52d975c-9bac-411b-aebb-e87ca95f1e17",
+  "ranked": true,
+  "rating": 0.892383,
+  "ratingCount": 353,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "KALPA",
+    "regular"
+  ],
+  "updated": "2023-09-23T14:52:31.297446Z",
+  "uploader": 211690
+}

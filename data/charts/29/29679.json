@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:47Z",
+    "lastChanged": "2026-09-21T02:02:47Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-11-28T00:07:35.783699Z",
+  "charter": "成分复杂の绑线比",
+  "composer": "Daily天利 vs Reku Mochizuki",
+  "created": "2024-11-15T07:52:33.922341Z",
+  "description": "使用了24根线，不使用fakenote、负透明度和分层\n修复了一些问题",
+  "difficulty": 15.600002,
+  "file": "https://phira.5wyxi.com/files/3e417db7-4cd8-40d9-a294-89a12942280d",
+  "id": 29679,
+  "illustration": "https://phira.5wyxi.com/files/cff753c5-ee3d-45fb-8ca5-00643a3e5f02",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Χάρων",
+  "preview": "https://phira.5wyxi.com/files/b02b6983-f0f3-4c7a-b83a-b3403ce2e313",
+  "ranked": false,
+  "rating": 0.88164026,
+  "ratingCount": 376,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-11-28T00:07:35.783699Z",
+  "uploader": 8200
+}

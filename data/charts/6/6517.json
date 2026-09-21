@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:36Z",
+    "lastChanged": "2026-09-21T02:05:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-07-31T11:35:16.336739Z",
+  "charter": "Dasongbing",
+  "composer": "RiraN",
+  "created": "2023-07-31T11:35:16.336739Z",
+  "description": "谱师本人上传\n定数：HARD Lv.20\n因为是phi判定，所以是A判，那其实没什么难度\n怎么绘世，谱师在暑假过一半的时候才上传的",
+  "difficulty": 11.400001,
+  "file": "https://phira.5wyxi.com/files/cfb7e8ee-b72d-4027-ae71-53e04c4914da",
+  "id": 6517,
+  "illustration": "https://phira.5wyxi.com/files/da430680-cc58-4965-a259-353479136cd7",
+  "illustrator": "",
+  "level": "HARD Lv.20",
+  "name": "DayDream",
+  "preview": "https://phira.5wyxi.com/files/203cb69d-45fb-498a-ba45-01c9b20083f2",
+  "ranked": false,
+  "rating": 0.93104935,
+  "ratingCount": 391,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2023-07-31T11:35:16.336739Z",
+  "uploader": 4432
+}

@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:31Z",
+    "lastChanged": "2026-09-21T02:06:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-01T11:00:46.323922Z",
+  "charter": "Frontier Miantiao",
+  "composer": "kei_iwata",
+  "created": "2025-08-23T05:49:17.068793Z",
+  "description": "本人上传",
+  "difficulty": 13.1,
+  "file": "https://phira.5wyxi.com/files/1d01fa8a-60d0-4097-aa30-10ac1654e6fe",
+  "id": 45480,
+  "illustration": "https://phira.5wyxi.com/files/e3a8054a-4487-4d6a-8b52-3021b4fcd660",
+  "illustrator": "",
+  "level": "Stamina Lv.13",
+  "name": "Frontier Explorer",
+  "preview": "https://phira.5wyxi.com/files/7295d250-1fb8-44d9-aede-0f5f8d82b875",
+  "ranked": false,
+  "rating": 0.8592039,
+  "ratingCount": 14,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "DFC",
+    "双指",
+    "plain"
+  ],
+  "updated": "2026-03-01T11:00:46.323922Z",
+  "uploader": 1818364
+}

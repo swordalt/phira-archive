@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:20Z",
+    "lastChanged": "2026-09-21T02:05:20Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-10-23T13:31:48.994919Z",
+  "charter": "银星杂货铺",
+  "composer": "Kirara Magic",
+  "created": "2023-10-23T13:31:48.994919Z",
+  "description": "我们保留了一点原汁原味，这样你才知道玩的是什么游戏……建议使用与默认主题相近的皮肤与打击音效进行游戏（自动播放录像 BV1QQ4y1s7M8）",
+  "difficulty": 12.0,
+  "file": "https://phira.5wyxi.com/files/da0fd479-2d5e-4847-9062-8a5869f77afd",
+  "id": 10799,
+  "illustration": "https://phira.5wyxi.com/files/a21b75d0-9c8e-4968-aceb-9d6ed44927a6",
+  "illustrator": "",
+  "level": "MIXED.12+",
+  "name": "Dragonflame(龙焰)",
+  "preview": "https://phira.5wyxi.com/files/11b5a564-2310-4363-8c32-eeac4c43e920",
+  "ranked": false,
+  "rating": 0.96672726,
+  "ratingCount": 8218,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-10-23T13:31:48.994919Z",
+  "uploader": 484039
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:52Z",
+    "lastChanged": "2026-09-21T02:01:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-01-31T10:34:11.608748Z",
+  "charter": "BInGK",
+  "composer": "Atlus",
+  "created": "2024-01-31T10:34:11.608748Z",
+  "description": null,
+  "difficulty": 5.1,
+  "file": "https://phira.5wyxi.com/files/f7a06671-691e-4565-981c-c00e90a1bd42",
+  "id": 14553,
+  "illustration": "https://phira.5wyxi.com/files/a70333fe-7c39-4815-a1c6-f64f782acb10",
+  "illustrator": "",
+  "level": "Night Lv.5",
+  "name": "Color your night",
+  "preview": "https://phira.5wyxi.com/files/2023f7b9-3236-464c-9153-d2f27a9e1057",
+  "ranked": false,
+  "rating": 0.9220552,
+  "ratingCount": 2469,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-01-31T10:34:11.608748Z",
+  "uploader": 68982
+}

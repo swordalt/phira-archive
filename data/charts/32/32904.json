@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:00Z",
+    "lastChanged": "2026-09-21T02:03:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-30T11:50:35.362259Z",
+  "charter": "'Forgotten'",
+  "composer": "ilem/洛天依",
+  "created": "2025-01-30T11:50:35.362259Z",
+  "description": "bilibili: BV1e46iYaELY",
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/7798a5b6-af79-4ba5-988c-89e4aa3c2e49",
+  "id": 32904,
+  "illustration": "https://phira.5wyxi.com/files/08e401c2-31b5-486c-9458-345b7ea17698",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "白鸟过河滩",
+  "preview": "https://phira.5wyxi.com/files/ff77bd5a-f31c-4354-82a0-e7da492acb1a",
+  "ranked": false,
+  "rating": 0.9370256,
+  "ratingCount": 418,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-01-30T11:50:35.362259Z",
+  "uploader": 1290000
+}

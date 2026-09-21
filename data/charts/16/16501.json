@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:43Z",
+    "lastChanged": "2026-09-21T02:05:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-26T07:38:33.752194Z",
+  "charter": "凌雨 vs WTCP",
+  "composer": "NIJISANJI",
+  "created": "2024-02-26T07:38:33.752194Z",
+  "description": "这是一张纯配置谱，已经过另外一位谱师的授权发布。",
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/06bf0c13-085a-4a2c-9287-202d96c5cfd4",
+  "id": 16501,
+  "illustration": "https://phira.5wyxi.com/files/d6628a08-3e30-44d6-820d-a8753c49a0ae",
+  "illustrator": "",
+  "level": "NJSJ Lv.13",
+  "name": "Virtual to LIVE",
+  "preview": "https://phira.5wyxi.com/files/9bfbf4f5-b9d0-4686-8807-fc212da1aa8a",
+  "ranked": false,
+  "rating": 0.95079,
+  "ratingCount": 178,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "管人痴",
+    "彩虹社",
+    "plain"
+  ],
+  "updated": "2024-02-26T07:38:33.752194Z",
+  "uploader": 73260
+}

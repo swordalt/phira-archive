@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:40Z",
+    "lastChanged": "2026-09-21T02:01:40Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-11-05T16:08:30.482935Z",
+  "charter": "御坂19200号",
+  "composer": "HOYO-MiX",
+  "created": "2023-11-05T16:08:30.482935Z",
+  "description": "谱师名字用的是b站上的，UID:1749188162",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/05fb3053-5024-405c-9ecf-19fb32c2d992",
+  "id": 11223,
+  "illustration": "https://phira.5wyxi.com/files/b93bed38-c3fa-4bc7-9184-c87e02ea4f63",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "罪人舞步旋",
+  "preview": "https://phira.5wyxi.com/files/eb9af293-86d6-42b8-950b-5060a07be01e",
+  "ranked": false,
+  "rating": 0.87119436,
+  "ratingCount": 4338,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "原神",
+    "regular"
+  ],
+  "updated": "2023-11-05T16:08:30.482935Z",
+  "uploader": 6462
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:30Z",
+    "lastChanged": "2026-09-21T02:01:30Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-10-01T03:53:59.344667Z",
+  "charter": "WinterPT",
+  "composer": "Sanaas&you&EI",
+  "created": "2023-08-29T13:56:17.106974Z",
+  "description": "本人4谱 对参赛谱稍作修改\r\n二改 微调了一些细节；\r\n5thPecJam 单人赛道位46/68\r\n三改 修改了长条段的下落方式 修改结尾黄键的回收方式 以及微调一些排键；\n四改 调整drop段排键 修改了部分呆呆的动效；",
+  "difficulty": 14.600002,
+  "file": "https://phira.5wyxi.com/files/b9fcb206-a351-47ae-9ee3-f6670c944377",
+  "id": 8722,
+  "illustration": "https://phira.5wyxi.com/files/3140eb5b-30eb-4042-9f9c-4a320ef11285",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "MIDNIGHT(VIP)",
+  "preview": "https://phira.5wyxi.com/files/086d0632-2a45-4505-bb2b-0f2dcbe40bcc",
+  "ranked": true,
+  "rating": 0.9227506,
+  "ratingCount": 1138,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "5thPecJam",
+    "regular"
+  ],
+  "updated": "2023-10-01T03:53:59.344667Z",
+  "uploader": 10002
+}

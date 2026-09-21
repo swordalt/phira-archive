@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:22Z",
+    "lastChanged": "2026-09-21T02:01:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-07-26T08:14:41.998631Z",
+  "charter": "moyu",
+  "composer": "aran",
+  "created": "2023-07-26T08:14:41.998631Z",
+  "description": null,
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/be044904-a2f4-4177-9c64-8f1b9bf77a76",
+  "id": 6123,
+  "illustration": "https://phira.5wyxi.com/files/da0ec582-4f87-4540-877d-230133120263",
+  "illustrator": "",
+  "level": "EX Lv.15",
+  "name": "Mazy Metroplex",
+  "preview": "https://phira.5wyxi.com/files/04fd50da-bd28-4004-96a0-db9714e6f9fb",
+  "ranked": false,
+  "rating": 0.71674734,
+  "ratingCount": 118,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "wacca",
+    "regular"
+  ],
+  "updated": "2024-07-24T12:43:56.433716Z",
+  "uploader": 5730
+}

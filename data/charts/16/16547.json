@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:00Z",
+    "lastChanged": "2026-09-21T02:02:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-29T02:39:50.294029Z",
+  "charter": "Penitentiary of \"Fragenlessy\"",
+  "composer": "cybermiso",
+  "created": "2024-02-29T02:39:50.294029Z",
+  "description": "谱师: @EfiLF1y\nFragenlessy是故事板马甲",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/c1d58847-cf9c-4658-b2be-630bbfa4de57",
+  "id": 16547,
+  "illustration": "https://phira.5wyxi.com/files/edd6b3fc-91b2-4e86-8707-f4451f35428d",
+  "illustrator": "",
+  "level": "SP Lv.?",
+  "name": "Panopticon",
+  "preview": "https://phira.5wyxi.com/files/120ccf89-1d39-4bec-b0b4-8f764f5c2178",
+  "ranked": false,
+  "rating": 0.9463283,
+  "ratingCount": 260,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "故事板",
+    "regular"
+  ],
+  "updated": "2024-02-29T02:39:50.294029Z",
+  "uploader": 818
+}

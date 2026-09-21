@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:33Z",
+    "lastChanged": "2026-09-21T02:05:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-11T12:30:15.846877Z",
+  "charter": "DiAMONDGAMER",
+  "composer": "Celesti Whispers & Patricia_Taxxon",
+  "created": "2026-04-11T12:30:15.846877Z",
+  "description": "@DiAMONDGAMER#2067（曲绘制作）\n@DiAMOND_GR#841834（谱面制作）\n（？）\n\n这是一张《节奏医生》还原向谱面，区别于常规谱面。\n我们建议您先了解：\n1.不规则二拍\n2.跳过二拍\n\n（B站：@DiAMONDGAMER）",
+  "difficulty": 8.2999935,
+  "file": "https://phira.5wyxi.com/files/f4043c3e-7b60-42ba-b638-3e115a8f23f8",
+  "id": 56014,
+  "illustration": "https://phira.5wyxi.com/files/b5eb703e-2dd2-498d-8b50-6128d580d95e",
+  "illustrator": "",
+  "level": "RD 2-XN",
+  "name": "Bitter Times",
+  "preview": "https://phira.5wyxi.com/files/55042119-0837-4ac8-83d4-417105ad31b8",
+  "ranked": false,
+  "rating": 0.95842016,
+  "ratingCount": 105,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "节奏医生",
+    "还原",
+    "troll"
+  ],
+  "updated": "2026-04-11T12:30:15.846877Z",
+  "uploader": 841834
+}

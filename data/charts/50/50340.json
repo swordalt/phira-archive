@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:07Z",
+    "lastChanged": "2026-09-21T02:04:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-20T04:34:56.208067Z",
+  "charter": "0thPecJam Chart Team “CATFISH”",
+  "composer": "Frums.",
+  "created": "2025-12-19T14:14:36.004373Z",
+  "description": "0thPecJam会场 支线三\n3rdPecJam会场 委托四 \n解谜谱面\n谜底：玩家需在九键段落根据电话输入样式（0即视作1）使用中文九键，得到的答案为“答案出现预览之外”\n此时玩家需寻找PecJam网站上隐藏的谱面文件导入Re:Phiedit，Camera大小调至7\n在电话九键段可得出摩斯密码“5537”\n接着玩家在Phira游玩“#5537”“Don't Fight The Music”即可推进进度。\n谱面已修复若干Bug。",
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/b0187628-3cb9-4fcc-8f39-abc743004419",
+  "id": 50340,
+  "illustration": "https://phira.5wyxi.com/files/17ea2a90-c540-4d4f-b460-d473f75be1be",
+  "illustrator": "",
+  "level": "SP  Lv.0",
+  "name": "Wavetapper",
+  "preview": "https://phira.5wyxi.com/files/3a5027d9-42b2-4fa7-9304-da1468944c19",
+  "ranked": false,
+  "rating": 0.8796044,
+  "ratingCount": 279,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "0thPecJam",
+    "regular"
+  ],
+  "updated": "2025-12-20T04:34:56.208067Z",
+  "uploader": 400
+}

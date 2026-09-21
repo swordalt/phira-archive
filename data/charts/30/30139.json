@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:04Z",
+    "lastChanged": "2026-09-21T02:06:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-11-26T15:54:56.685084Z",
+  "charter": "861168-playing yuzusoft",
+  "composer": "Various Artists",
+  "created": "2024-11-26T15:54:56.685084Z",
+  "description": "DF Yuzu Dan\n        本段位为模仿DFC的双指段位，四首曲目分别为乱，叠，技，切。\n        过段标准为97.21%，仅限双指，不能暂停，每两首曲目间有10秒休息时间。\n        四首的定数分别为10.4/10.5/10.3/9.9。段位综合定数为10.3。\n--------------------------------------------------\n        这是我花心血最多的谱面了，综合来说我认为也是我目前写谱力的巅峰了，前前后后保守估计用了50个小时在这张谱上。从整体时间上看，也经历了一年的时间，大大小小的改谱最终改出了成果，这也是我同时作为柚子厨和音游人的一种浪漫吧。希望大家能喜欢这张谱面，也希望能提出意见来改进。\n        另外一提：摆放图片位置时发现不同宽高比的图片所在位置不同，我是以16：9作主要标准衡量，其他的图片效果可能稍微差一点。\n        发布谱面相关内容请@861168谢谢（希望会有）",
+  "difficulty": 10.300001,
+  "file": "https://phira.5wyxi.com/files/ea599133-c086-4c1a-9a29-84e9aae5dc90",
+  "id": 30139,
+  "illustration": "https://phira.5wyxi.com/files/e6f6acae-1899-4e5b-93ab-ec2a70aeef61",
+  "illustrator": "",
+  "level": "Dan Lv.10",
+  "name": "DF Yuzu Dan",
+  "preview": "https://phira.5wyxi.com/files/a3ff74d2-b5d8-4e53-aa2d-b567ff104aca",
+  "ranked": false,
+  "rating": 0.9579703,
+  "ratingCount": 561,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "底力",
+    "DFC",
+    "plain"
+  ],
+  "updated": "2024-11-26T15:54:56.685084Z",
+  "uploader": 953780
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:09Z",
+    "lastChanged": "2026-09-21T02:05:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-15T16:21:01.358455Z",
+  "charter": "TGL Chart Team 「 Refuturization 」",
+  "composer": "tn-shi",
+  "created": "2026-08-15T16:21:01.358455Z",
+  "description": "《凌梦杯2026》(Rising-Dream Cup)，是一个围绕游戏 Phigros 创办的赛事，赛事组汇集了众多音游爱好者。本届比赛为TGL赛事组创办的第六届系列赛事，全方位升级了赛事规模。\n_______________________________________________________________\n\n基本信息 // Basic Info\n曲名 // Title : Revelation\n曲师 // Composer : tn-shi\n曲绘 // Artist :SJR Modified\n_______________________________________________________________\n\n谱面信息 // Chart Info\n谱师名义 // Level Designer : TGL Chart Team 「Tongva」﻿@Annelotte_ ﻿@哀しみの涙 @Clovey-3 \n难度 // Difficulty : AT Lv.17\n\n特别感谢 // Special Thanks\n录制软件提供 // Record App Support : ﻿@不会特效の点缀星空 ﻿(Phigros Recorder)\n曲绘包装设计 // Illustration Design : ﻿@SJR哈 \n赛事主办 // Event Host : ﻿@克里Crimo \n_______________________________________________________________\n额外信息 // Others",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/3622100a-2fac-4e78-bbfb-4f5b098db8d6",
+  "id": 73599,
+  "illustration": "https://phira.5wyxi.com/files/08421c17-9b00-4104-8bd3-92d292734de8",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Revelation",
+  "preview": "https://phira.5wyxi.com/files/c3a767b4-695d-44cd-be8e-857e7c14379f",
+  "ranked": false,
+  "rating": 0.88568383,
+  "ratingCount": 252,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-19T03:24:43.640588Z",
+  "uploader": 1140403
+}

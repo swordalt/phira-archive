@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:08Z",
+    "lastChanged": "2026-09-21T02:01:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-05T08:04:16.228241Z",
+  "charter": "谱面-198号",
+  "composer": "cubesato",
+  "created": "2023-05-06T04:52:56.920750Z",
+  "description": "4thPecJam SG No.47 非常规谱面\n谱面为本人上传\nTip：谱面所有hold均与一个drag同时判定",
+  "difficulty": 14.700001,
+  "file": "https://phira.5wyxi.com/files/7b1cb3a1-e50a-4fef-9c61-1f1c6a80e018",
+  "id": 1237,
+  "illustration": "https://phira.5wyxi.com/files/8d717807-3d2f-403b-9aea-e3c32f4fc3d6",
+  "illustrator": "",
+  "level": "AT Lv.14",
+  "name": "四月の雨",
+  "preview": "https://phira.5wyxi.com/files/d934b6e0-9189-4721-9485-b72f945a2420",
+  "ranked": false,
+  "rating": 0.8595918,
+  "ratingCount": 311,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-08-05T08:04:16.228241Z",
+  "uploader": 730
+}

@@ -1,0 +1,39 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:16Z",
+    "lastChanged": "2026-09-21T02:03:16Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-09T16:54:12.458548Z",
+  "charter": "殇儿打不动",
+  "composer": "結束バンド",
+  "created": "2025-05-02T19:51:28.381073Z",
+  "description": "一改\n减少了打假长条对读谱的影响\n删除了少量卡手配置\n\n该打的切还得打\n该考的底力还得考\n\n我试吃过了\n双指都能打喵~\n比croix简单所以是11~",
+  "difficulty": 11.7,
+  "file": "https://phira.5wyxi.com/files/4c2123b3-1dc8-421e-8842-a808a92643e0",
+  "id": 37290,
+  "illustration": "https://phira.5wyxi.com/files/4f5aa92b-96f7-481f-b3fc-218c9115eb5f",
+  "illustrator": "",
+  "level": "SP Lv.17[11.7切]",
+  "name": "忘れてやらない（绝不会忘记）",
+  "preview": "https://phira.5wyxi.com/files/fbe9cfa3-9d37-46d5-8c72-1dc8b6610964",
+  "ranked": false,
+  "rating": 0.8758949,
+  "ratingCount": 684,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "DFC",
+    "stamina",
+    "双指",
+    "alpha",
+    "切",
+    "regular"
+  ],
+  "updated": "2025-05-09T16:54:12.458548Z",
+  "uploader": 684149
+}

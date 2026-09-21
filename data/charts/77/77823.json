@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:16Z",
+    "lastChanged": "2026-09-21T02:05:16Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-12T05:30:22.608906Z",
+  "charter": "lep",
+  "composer": "saikoro",
+  "created": "2026-09-12T05:30:22.608906Z",
+  "description": "500粉贺谱 比较水的键盘协调谱\nb站乐普14_0413",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/b8c98c1d-2599-44a2-9ee9-eeda2b839d9b",
+  "id": 77823,
+  "illustration": "https://phira.5wyxi.com/files/43422b4e-5ab1-4836-80df-b61fc4edd7f7",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "far in the blue sky",
+  "preview": "https://phira.5wyxi.com/files/c793fe66-68ba-4001-a415-ff51b83f6dd9",
+  "ranked": false,
+  "rating": 0.8015151,
+  "ratingCount": 107,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-09-12T06:06:44.525616Z",
+  "uploader": 2186282
+}

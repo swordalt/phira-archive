@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:39Z",
+    "lastChanged": "2026-09-21T02:02:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-10-01T02:59:52.435809Z",
+  "charter": "DM.T",
+  "composer": "Vicetone",
+  "created": "2024-09-12T14:56:34.915207Z",
+  "description": "第一次更新：\n1.部分配置修改，结尾点划移除；\n2.新增部分动效；\n3.部分配置增加引导；\n4.优化了 Note 判定，避免转线时漏判定。",
+  "difficulty": 13.399998,
+  "file": "https://phira.5wyxi.com/files/e0b4c262-785b-4df6-aa47-4a7c5f8848a0",
+  "id": 27625,
+  "illustration": "https://phira.5wyxi.com/files/c90f5559-7a2a-4f27-8939-b93acc4e3681",
+  "illustrator": "",
+  "level": "IN  Lv.13",
+  "name": "Walk Thru Fire",
+  "preview": "https://phira.5wyxi.com/files/3e19d271-7466-4feb-b552-7a94e19e5f77",
+  "ranked": false,
+  "rating": 0.92582303,
+  "ratingCount": 1193,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-10-01T02:59:52.435809Z",
+  "uploader": 1267097
+}

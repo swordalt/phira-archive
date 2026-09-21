@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:02Z",
+    "lastChanged": "2026-09-21T02:05:02Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-24T05:50:29.383894Z",
+  "charter": "FreMosama & FreMo",
+  "composer": "LeaF",
+  "created": "2026-07-24T05:50:29.383894Z",
+  "description": "谱师本人FreMo上传\n\n曲绘与站内展示版本有区别，谱面一致。",
+  "difficulty": 14.1,
+  "file": "https://phira.5wyxi.com/files/c7f23a4d-e2f6-4ef0-9a49-09d362e05aa7",
+  "id": 68822,
+  "illustration": "https://phira.5wyxi.com/files/04f52fdb-be87-4bfd-a224-a89f82227f28",
+  "illustrator": "",
+  "level": "AT  Lv.14",
+  "name": "MARENOIA",
+  "preview": "https://phira.5wyxi.com/files/e0b9b9bf-cc8d-4bd5-a392-dda7d6d49c59",
+  "ranked": false,
+  "rating": 0.915399,
+  "ratingCount": 1474,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-24T05:50:29.383894Z",
+  "uploader": 31055
+}

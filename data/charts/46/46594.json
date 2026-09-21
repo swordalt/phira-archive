@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:50Z",
+    "lastChanged": "2026-09-21T02:03:50Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-09T00:55:42.246762Z",
+  "charter": "叁只渡鸦",
+  "composer": "USAO",
+  "created": "2025-09-09T00:55:42.246762Z",
+  "description": "常规谱，写谱的时候脑子中浮现出了一段中二的谱面，于是就给写进去了一小段（憋）",
+  "difficulty": 15.300001,
+  "file": "https://phira.5wyxi.com/files/ee7451c9-0cec-4e70-9e3d-c95dbd6a78f1",
+  "id": 46594,
+  "illustration": "https://phira.5wyxi.com/files/5e3b44c3-d205-43d8-9a27-f36a3d85c6f2",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Knight Rider",
+  "preview": "https://phira.5wyxi.com/files/8af66aa7-b0b7-4c7d-b2a0-dfeaa26569e3",
+  "ranked": false,
+  "rating": 0.9028336,
+  "ratingCount": 411,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-09T00:55:42.246762Z",
+  "uploader": 27249
+}

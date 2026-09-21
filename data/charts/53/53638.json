@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:26Z",
+    "lastChanged": "2026-09-21T02:04:26Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-01T00:53:10.516686Z",
+  "charter": "noot noot",
+  "composer": "dkj",
+  "created": "2026-03-01T00:53:10.516686Z",
+  "description": null,
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/aac67436-2d09-4ec9-b1a7-8cf4b8d120c2",
+  "id": 53638,
+  "illustration": "https://phira.5wyxi.com/files/911a1e02-dd98-4afd-a923-ef6314bd008f",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Aces(Sped up Version)",
+  "preview": "https://phira.5wyxi.com/files/7550b54f-0301-4f9e-a1e0-56244b952c47",
+  "ranked": false,
+  "rating": 0.8666744,
+  "ratingCount": 1158,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-03-01T00:53:10.516686Z",
+  "uploader": 2100438
+}

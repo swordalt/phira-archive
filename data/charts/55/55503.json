@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:35Z",
+    "lastChanged": "2026-09-21T02:04:35Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-12T14:45:14.644052Z",
+  "charter": "芝麻糊",
+  "composer": "大张伟",
+  "created": "2026-04-08T14:36:49.862715Z",
+  "description": "谱师本人上传\r\n\r\n2026/4/12更新：修复谱面中一处错误",
+  "difficulty": 11.0,
+  "file": "https://phira.5wyxi.com/files/56257dc4-81ad-4df5-bf3f-d7f45997b270",
+  "id": 55503,
+  "illustration": "https://phira.5wyxi.com/files/fe3bea79-5055-4f27-846c-a3894c81f7f0",
+  "illustrator": "",
+  "level": "HD  Lv.11",
+  "name": "差不多得了",
+  "preview": "https://phira.5wyxi.com/files/9396e868-e505-4b70-9ccb-9ceb89966069",
+  "ranked": false,
+  "rating": 0.9172669,
+  "ratingCount": 414,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-04-12T14:45:14.644052Z",
+  "uploader": 1436
+}

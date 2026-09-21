@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:46Z",
+    "lastChanged": "2026-09-21T02:06:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-24T12:25:47.947256Z",
+  "charter": "Jiuwenzi",
+  "composer": "キノシタ / ワンダーランズ×ショウタイム / 鏡音リン",
+  "created": "2026-02-24T12:25:47.947256Z",
+  "description": "DFC 8dan 2/4 drag 216/1387 pass=97.42",
+  "difficulty": 8.700003,
+  "file": "https://phira.5wyxi.com/files/19930fac-6a01-49d9-91a5-56011cc7dfa9",
+  "id": 53331,
+  "illustration": "https://phira.5wyxi.com/files/76efd6b6-ef38-4483-a971-372d4bd7983c",
+  "illustrator": "",
+  "level": "S1mple",
+  "name": "Positive Dance Time",
+  "preview": "https://phira.5wyxi.com/files/2b1f1324-87ef-4256-aff9-d1287db4b1b9",
+  "ranked": false,
+  "rating": 0.95263463,
+  "ratingCount": 416,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "dfc",
+    "双指",
+    "s1mple",
+    "纯配置",
+    "plain"
+  ],
+  "updated": "2026-02-24T12:25:47.947256Z",
+  "uploader": 2051085
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:55Z",
+    "lastChanged": "2026-09-21T02:02:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-05T16:28:44.521246Z",
+  "charter": "Phoenixes",
+  "composer": "ariiol",
+  "created": "2025-01-05T16:28:44.521246Z",
+  "description": null,
+  "difficulty": 15.200001,
+  "file": "https://phira.5wyxi.com/files/0c6777b0-2fc1-494d-8e3a-8add4177e5fe",
+  "id": 31483,
+  "illustration": "https://phira.5wyxi.com/files/fdeff778-e776-424c-9ae9-068148a90543",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "IOR",
+  "preview": "https://phira.5wyxi.com/files/a1c46575-c05a-4457-bde7-058ccd991f64",
+  "ranked": false,
+  "rating": 0.8581682,
+  "ratingCount": 97,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-01-05T16:28:44.521246Z",
+  "uploader": 11043
+}

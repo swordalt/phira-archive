@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:09Z",
+    "lastChanged": "2026-09-21T02:02:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-19T10:04:54.026260Z",
+  "charter": "星空飾り ～譜面書いたら本気だす～",
+  "composer": "大原ゆい子",
+  "created": "2024-04-19T10:04:54.026260Z",
+  "description": "特别感谢FM壹某，南城雪山，小鹿和静似止等谱师提供的修改建议，和 是明雨哇 1对1教我写谱。\n音乐来自无职转生第二季第二部分片尾曲，自剪。\n这首歌的完整版刚出来我就去下到了音源，然后开始策划这张谱面。本来预定是上周末发的，但是没什么时间写，所以就改到今天发（哭）\n关于定数，大概在12-13左右，由于大概对标萤火虫和Dreamland的难度，所以定13.1。\n视频发布在 https://www.bilibili.com/video/BV1nD421H7Wr ，请多多支持！",
+  "difficulty": 13.1,
+  "file": "https://phira.5wyxi.com/files/ea7659fb-120b-4f38-92ed-fc625d0bc991",
+  "id": 18633,
+  "illustration": "https://phira.5wyxi.com/files/448fcf49-764a-4464-9361-c884be8cdb26",
+  "illustrator": "",
+  "level": "IN  Lv.13",
+  "name": "守りたいもの",
+  "preview": "https://phira.5wyxi.com/files/de5b11e0-6a80-48cf-8c4a-8bef11041365",
+  "ranked": true,
+  "rating": 0.9245788,
+  "ratingCount": 5412,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "无职转生",
+    "regular"
+  ],
+  "updated": "2024-04-19T10:04:54.026260Z",
+  "uploader": 619258
+}

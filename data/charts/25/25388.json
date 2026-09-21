@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:57Z",
+    "lastChanged": "2026-09-21T02:05:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-05T15:22:25.519940Z",
+  "charter": "BanXianLAM",
+  "composer": "黒皇帝",
+  "created": "2024-08-05T15:22:25.519940Z",
+  "description": null,
+  "difficulty": 19.2,
+  "file": "https://phira.5wyxi.com/files/97df7747-9f47-4784-bcdc-24f1c6000070",
+  "id": 25388,
+  "illustration": "https://phira.5wyxi.com/files/65cf36a0-8f1a-4d75-8c36-6ee873d55c2c",
+  "illustrator": "",
+  "level": "4K Hard Lv.19",
+  "name": "Chronostasis",
+  "preview": "https://phira.5wyxi.com/files/d46d4ac3-dede-446b-87c6-a22aba69cc7e",
+  "ranked": false,
+  "rating": 0.8475726,
+  "ratingCount": 310,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2024-08-05T15:22:25.519940Z",
+  "uploader": 632444
+}

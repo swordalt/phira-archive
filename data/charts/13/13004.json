@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:46Z",
+    "lastChanged": "2026-09-21T02:01:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-30T15:21:45.271809Z",
+  "charter": "青いの「乾」",
+  "composer": "YOASOBI",
+  "created": "2023-12-30T15:21:45.271809Z",
+  "description": null,
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/fc1ed27b-7c38-4d1d-a591-6b6e34464eb0",
+  "id": 13004,
+  "illustration": "https://phira.5wyxi.com/files/e6646607-2c18-480e-b393-dbbd26fe98c3",
+  "illustrator": "",
+  "level": "SP  Lv.?",
+  "name": "群青",
+  "preview": "https://phira.5wyxi.com/files/7bebbbfa-5b92-4817-b01c-471b83806073",
+  "ranked": false,
+  "rating": 0.95242566,
+  "ratingCount": 24356,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "故事版",
+    "regular"
+  ],
+  "updated": "2023-12-30T15:21:45.271809Z",
+  "uploader": 115541
+}

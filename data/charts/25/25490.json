@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:31Z",
+    "lastChanged": "2026-09-21T02:02:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-06T15:17:31.817968Z",
+  "charter": "WJY",
+  "composer": "RS团队",
+  "created": "2024-08-06T15:17:31.817968Z",
+  "description": "B站搜索RPD_无机盐，谱面视频BV1TC4y1e737",
+  "difficulty": 14.8,
+  "file": "https://phira.5wyxi.com/files/33c77819-f4e6-4c7e-a790-33be4e69f370",
+  "id": 25490,
+  "illustration": "https://phira.5wyxi.com/files/7155ceb7-e5c9-4007-bda6-3d8bdd3eacf0",
+  "illustrator": "",
+  "level": "IN",
+  "name": "俄罗斯方块",
+  "preview": "https://phira.5wyxi.com/files/6bc0343b-f0fd-45fa-9148-e4dd4346e0f2",
+  "ranked": false,
+  "rating": 0.9001117,
+  "ratingCount": 229,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-06T15:17:31.817968Z",
+  "uploader": 378962
+}

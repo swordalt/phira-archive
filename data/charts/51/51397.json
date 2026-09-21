@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:13Z",
+    "lastChanged": "2026-09-21T02:04:13Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-19T05:26:33.961037Z",
+  "charter": "congratulations",
+  "composer": "かめりあ",
+  "created": "2026-01-18T16:30:38.666034Z",
+  "description": "特别鸣谢：\n使用不会特效的点缀星空 的RPE Recorder渲染器录制谱面\n感谢Axi就是阿希 提供谱面录制\n感谢TG铁锅炖大鹅 的TPE\n定数:18.2\nBPM:220\n物量:3400\n总时长:4:20\n谱师:congratulations\n谱师:かめりあ\n曲绘:江川あきら\n感想:这个神秘gray heaven太难写了。从去年10月份写到现在，我已经被折磨尽了，三谱，感谢群友的支持让我有了创作的动力，希望自己的写谱生涯越来越好！",
+  "difficulty": 18.400002,
+  "file": "https://phira.5wyxi.com/files/ada28c0c-46a9-4087-b23b-09ec21bc7e0f",
+  "id": 51397,
+  "illustration": "https://phira.5wyxi.com/files/2b4aa60c-27b1-4b73-a22d-afda499030ef",
+  "illustrator": "",
+  "level": "AT Lv.18",
+  "name": "Gray Heaven",
+  "preview": "https://phira.5wyxi.com/files/c2057823-36cd-4b42-a24e-b1c3f053afbc",
+  "ranked": false,
+  "rating": 0.9221591,
+  "ratingCount": 378,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-01-21T14:41:49.223907Z",
+  "uploader": 139542
+}

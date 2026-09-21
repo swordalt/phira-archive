@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:20Z",
+    "lastChanged": "2026-09-21T02:05:20Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-11-06T05:31:44.388060Z",
+  "charter": "Zaoly",
+  "composer": "David Lowe",
+  "created": "2023-11-06T05:31:44.388060Z",
+  "description": "经典 60 秒倒计时音乐，但是钟表形谱面，判定线是秒针",
+  "difficulty": 2.0,
+  "file": "https://phira.5wyxi.com/files/cde9242f-f6c0-439d-abd9-9f6f1473903e",
+  "id": 11228,
+  "illustration": "https://phira.5wyxi.com/files/5576b9d6-3cdc-47ca-bd87-5d56090d7220",
+  "illustrator": "",
+  "level": "SP Lv.2",
+  "name": "BBC World News 2013 Countdown",
+  "preview": "https://phira.5wyxi.com/files/df7ab3de-6d00-4efb-a7b3-a98e970b3dce",
+  "ranked": false,
+  "rating": 0.94659775,
+  "ratingCount": 623,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-11-06T05:31:44.388060Z",
+  "uploader": 525738
+}

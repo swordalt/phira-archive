@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:55Z",
+    "lastChanged": "2026-09-21T02:02:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-15T05:56:10.358125Z",
+  "charter": "交互当双押",
+  "composer": "rmk",
+  "created": "2025-01-15T05:56:10.358125Z",
+  "description": null,
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/97ea773b-0372-4499-a035-abd551db9655",
+  "id": 31834,
+  "illustration": "https://phira.5wyxi.com/files/05a0365d-40aa-4b95-a2a2-136f55f6b842",
+  "illustrator": "",
+  "level": " AT Lv.16",
+  "name": "荼蘼",
+  "preview": "https://phira.5wyxi.com/files/46916654-d09d-4833-9e46-a3668991751e",
+  "ranked": false,
+  "rating": 0.7723216,
+  "ratingCount": 41,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-01-15T05:56:10.358125Z",
+  "uploader": 136574
+}

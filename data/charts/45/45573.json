@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:31Z",
+    "lastChanged": "2026-09-21T02:06:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-24T08:13:51.943845Z",
+  "charter": "k9_zh",
+  "composer": "Evoke",
+  "created": "2025-08-24T08:13:51.943845Z",
+  "description": "铺面由铺师本人上传",
+  "difficulty": 17.2,
+  "file": "https://phira.5wyxi.com/files/5e243701-8ee2-4b8b-93a3-3af37e58c7ff",
+  "id": 45573,
+  "illustration": "https://phira.5wyxi.com/files/adca4e1f-22f2-4fec-bcb1-3e74fe6e9347",
+  "illustrator": "",
+  "level": "speed",
+  "name": "Edison 1.1x",
+  "preview": "https://phira.5wyxi.com/files/e966a994-5d4b-43a5-b09a-441a25841f21",
+  "ranked": false,
+  "rating": 0.86019063,
+  "ratingCount": 7,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-08-24T08:13:51.943845Z",
+  "uploader": 1487098
+}

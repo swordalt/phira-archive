@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:11Z",
+    "lastChanged": "2026-09-21T02:01:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-13T19:51:26.190227Z",
+  "charter": "55_Lar With Lo_Xin",
+  "composer": "Halca",
+  "created": "2023-05-13T19:51:26.190227Z",
+  "description": "新人初谱 配置不太好 请见谅",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/2e385dfd-b475-4f2a-9f22-4fd468ece1ab",
+  "id": 1940,
+  "illustration": "https://phira.5wyxi.com/files/2fbd18eb-bca0-4f99-ab8d-2a0040808d35",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "センチメンタルクライシス",
+  "preview": "https://phira.5wyxi.com/files/68ff4a72-ad6c-4812-a053-707252781615",
+  "ranked": false,
+  "rating": 0.9140838,
+  "ratingCount": 670,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-05-14T05:44:43.003875Z",
+  "uploader": 123
+}

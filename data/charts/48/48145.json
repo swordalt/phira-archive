@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:38Z",
+    "lastChanged": "2026-09-21T02:06:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-20T10:47:17.727063Z",
+  "charter": "TEC109",
+  "composer": "Capchii/初音ミク",
+  "created": "2025-10-18T08:16:17.257095Z",
+  "description": "本人上传 DRAG 1101/3095\n标准分 97.96\n翻新后的双指14+综合谱面！\n双指中难谱面，多指谨慎游玩",
+  "difficulty": 14.900001,
+  "file": "https://phira.5wyxi.com/files/09ff337d-c3b3-4cb6-b5fe-ea114bcd4376",
+  "id": 48145,
+  "illustration": "https://phira.5wyxi.com/files/573a9564-075a-404e-9e5f-9bb28d083f68",
+  "illustrator": "",
+  "level": "Stamina Lv.14+",
+  "name": "What's up? Pop!",
+  "preview": "https://phira.5wyxi.com/files/a6533d57-865f-42c6-8876-ac6655a6e883",
+  "ranked": false,
+  "rating": 0.89913094,
+  "ratingCount": 54,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "DFC",
+    "耐力",
+    "综合",
+    "plain"
+  ],
+  "updated": "2026-05-20T10:47:17.727063Z",
+  "uploader": 1955206
+}

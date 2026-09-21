@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:18Z",
+    "lastChanged": "2026-09-21T02:02:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-06-20T13:31:37.123936Z",
+  "charter": "ShYeLbG",
+  "composer": "Kobaryo",
+  "created": "2024-06-20T13:31:37.123936Z",
+  "description": null,
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/26665c09-d0e9-4711-8b6b-1e16a62b0d3f",
+  "id": 21575,
+  "illustration": "https://phira.5wyxi.com/files/2a2b25f5-0d7b-4464-9590-3172c7280267",
+  "illustrator": "",
+  "level": "AT.16",
+  "name": "Endless Adventure",
+  "preview": "https://phira.5wyxi.com/files/7478ada2-cb08-4316-9e7b-192d63ba1d60",
+  "ranked": false,
+  "rating": 0.6597944,
+  "ratingCount": 51,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-06-20T13:31:37.123936Z",
+  "uploader": 157873
+}

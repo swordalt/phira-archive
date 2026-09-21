@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:11Z",
+    "lastChanged": "2026-09-21T02:05:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-22T14:58:20.138503Z",
+  "charter": "Mau",
+  "composer": "Pogo",
+  "created": "2026-08-22T14:58:20.138503Z",
+  "description": null,
+  "difficulty": 14.900001,
+  "file": "https://phira.5wyxi.com/files/08436cbc-af49-4048-8111-9bda438efe8e",
+  "id": 75070,
+  "illustration": "https://phira.5wyxi.com/files/17821814-ade2-4836-a193-638de183731f",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Forget",
+  "preview": "https://phira.5wyxi.com/files/077de892-1a34-4f17-949b-50d47b126c02",
+  "ranked": false,
+  "rating": 0.9078097,
+  "ratingCount": 413,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-22T14:58:20.138503Z",
+  "uploader": 3942186
+}

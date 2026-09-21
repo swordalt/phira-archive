@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:34Z",
+    "lastChanged": "2026-09-21T02:06:34Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-31T10:43:04.795070Z",
+  "charter": "jeasnuip",
+  "composer": "K-ON",
+  "created": "2025-08-31T10:43:04.795070Z",
+  "description": "180bpm切换转谱，谱师是我",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/d1f1ee0b-c3fc-43ec-9377-49a24aa3d35d",
+  "id": 46213,
+  "illustration": "https://phira.5wyxi.com/files/840c76fc-8347-45c5-a98d-e414af12796e",
+  "illustrator": "",
+  "level": "4K Lv.30(180bpm)",
+  "name": "Fuwa Fuwa Time",
+  "preview": "https://phira.5wyxi.com/files/f8155d08-5b52-4648-9efb-388fbabd99a7",
+  "ranked": false,
+  "rating": 0.96725345,
+  "ratingCount": 214,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-08-31T10:43:04.795070Z",
+  "uploader": 59140
+}

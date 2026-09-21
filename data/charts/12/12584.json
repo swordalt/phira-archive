@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:39Z",
+    "lastChanged": "2026-09-21T02:05:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-17T08:14:23.400295Z",
+  "charter": "charadiana",
+  "composer": "silvia",
+  "created": "2023-12-17T08:14:23.400295Z",
+  "description": null,
+  "difficulty": 20.0,
+  "file": "https://phira.5wyxi.com/files/fa29dc05-8dcd-47ab-9df1-6f6a42e465bd",
+  "id": 12584,
+  "illustration": "https://phira.5wyxi.com/files/8665f412-259a-46f6-927d-023204ed2cd3",
+  "illustrator": "",
+  "level": "vibro",
+  "name": "vertex beta",
+  "preview": "https://phira.5wyxi.com/files/2a547161-abd7-4724-9f73-6a9dc436e878",
+  "ranked": false,
+  "rating": 0.89037055,
+  "ratingCount": 169,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "DFC",
+    "plain"
+  ],
+  "updated": "2023-12-17T08:14:23.400295Z",
+  "uploader": 562504
+}

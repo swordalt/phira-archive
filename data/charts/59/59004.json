@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:43Z",
+    "lastChanged": "2026-09-21T02:04:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-24T08:01:32.783046Z",
+  "charter": "ARM",
+  "composer": "Synthion",
+  "created": "2026-05-24T08:01:32.783046Z",
+  "description": "对于底力足的xd们应该没啥难度吧",
+  "difficulty": 14.2,
+  "file": "https://phira.5wyxi.com/files/ffd60b5d-9251-46f9-8f0b-38ca30ee9c98",
+  "id": 59004,
+  "illustration": "https://phira.5wyxi.com/files/d8e0a93d-895f-44a6-9f20-f1601e5bd73b",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Flip Flap Festival!",
+  "preview": "https://phira.5wyxi.com/files/7db82a3c-3ca7-413e-a5b4-c0d7d4a5476b",
+  "ranked": false,
+  "rating": 0.94694877,
+  "ratingCount": 50,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-05-24T08:01:32.783046Z",
+  "uploader": 2144430
+}

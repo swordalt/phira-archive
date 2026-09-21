@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:41Z",
+    "lastChanged": "2026-09-21T02:05:41Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-08T11:06:14.842477Z",
+  "charter": "status",
+  "composer": "Raimukun",
+  "created": "2024-02-08T11:06:14.842477Z",
+  "description": null,
+  "difficulty": 16.5,
+  "file": "https://phira.5wyxi.com/files/380da863-2c57-4d72-be42-4572fa08aaca",
+  "id": 15040,
+  "illustration": "https://phira.5wyxi.com/files/40b1e360-412f-438d-a7f1-38790ca4e771",
+  "illustrator": "",
+  "level": "Avantgarde",
+  "name": "Avantgarde",
+  "preview": "https://phira.5wyxi.com/files/e089527d-4595-4bdb-8736-5d31b7c003eb",
+  "ranked": false,
+  "rating": 0.90324205,
+  "ratingCount": 147,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "BOFET",
+    "plain"
+  ],
+  "updated": "2024-02-08T11:06:14.842477Z",
+  "uploader": 327400
+}

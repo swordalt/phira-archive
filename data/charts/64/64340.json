@@ -1,0 +1,40 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:57Z",
+    "lastChanged": "2026-09-21T02:06:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-05T15:05:40.426219Z",
+  "charter": "HRS-Team",
+  "composer": "KARUT",
+  "created": "2026-07-05T15:05:40.426219Z",
+  "description": "HRS-Lv.1-Flow单曲",
+  "difficulty": 1.8000001,
+  "file": "https://phira.5wyxi.com/files/27e249c7-75f7-482e-9d18-8962cc0049a0",
+  "id": 64340,
+  "illustration": "https://phira.5wyxi.com/files/9aac4eb1-55f1-426b-940f-966b5bb6f487",
+  "illustrator": "",
+  "level": "Flow",
+  "name": "Glitch Street",
+  "preview": "https://phira.5wyxi.com/files/ac673513-6833-42fc-a0e4-4195f82e6f94",
+  "ranked": false,
+  "rating": 0.917854,
+  "ratingCount": 69,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "HRS",
+    "双指",
+    "谐律段位",
+    "1",
+    "Flow",
+    "幻",
+    "plain"
+  ],
+  "updated": "2026-07-05T15:05:40.426219Z",
+  "uploader": 2764605
+}

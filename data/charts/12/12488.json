@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:45Z",
+    "lastChanged": "2026-09-21T02:01:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-15T19:04:44.968020Z",
+  "charter": "飞飞x_x",
+  "composer": "Acotto",
+  "created": "2023-12-15T19:04:44.968020Z",
+  "description": "※感谢喵猫鱼对谱面的指导\n定数：15.4\nBPM：167\n曲师：Acotto\n本家：CHUNITHM",
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/d277f758-e6ea-4d54-8a45-306f47ecde65",
+  "id": 12488,
+  "illustration": "https://phira.5wyxi.com/files/690efbcc-433a-48b8-92e2-a169920d6f76",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "deadeye",
+  "preview": "https://phira.5wyxi.com/files/2a08f960-8896-48f6-90d4-7762e8a225f8",
+  "ranked": true,
+  "rating": 0.9317256,
+  "ratingCount": 2743,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "CHUNITHM",
+    "",
+    "regular"
+  ],
+  "updated": "2024-04-14T10:26:47.090997Z",
+  "uploader": 410
+}

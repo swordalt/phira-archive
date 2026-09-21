@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:07Z",
+    "lastChanged": "2026-09-21T02:06:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-26T00:27:59.621919Z",
+  "charter": "KISwataX",
+  "composer": "Neko Hacker",
+  "created": "2025-01-26T00:27:59.621919Z",
+  "description": "本来想写简单一点结果越写越难\n所以干脆写了个16（）\n写的不好，下次一定认真写\n注意：前后难度差较大，做好准备",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/1e6bde16-1c6c-482c-b636-3320d1fe7447",
+  "id": 32467,
+  "illustration": "https://phira.5wyxi.com/files/75166c63-0099-4345-b4bd-67f2f058890d",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "刹那の誓い",
+  "preview": "https://phira.5wyxi.com/files/8fe26fe0-734b-4e83-84d8-47d78ad91331",
+  "ranked": false,
+  "rating": 0.8190706,
+  "ratingCount": 67,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-01-26T00:27:59.621919Z",
+  "uploader": 1454267
+}

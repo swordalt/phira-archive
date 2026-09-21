@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:17Z",
+    "lastChanged": "2026-09-21T02:04:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-03T12:44:21.526670Z",
+  "charter": "Pdievea",
+  "composer": "plastic",
+  "created": "2026-02-03T12:44:21.526670Z",
+  "description": "这个版本没那么闪，尾杀流速-1，不是重复上传",
+  "difficulty": 19.1,
+  "file": "https://phira.5wyxi.com/files/1e52663c-4d1b-4cd0-b8eb-deb7a11935c5",
+  "id": 52040,
+  "illustration": "https://phira.5wyxi.com/files/808b1630-8f70-4064-9b14-652a3c0138f7",
+  "illustrator": "",
+  "level": "AT Lv.19",
+  "name": "ひつぎとふたご",
+  "preview": "https://phira.5wyxi.com/files/49d15dc8-3182-40fe-a536-2014125812b6",
+  "ranked": false,
+  "rating": 0.8648239,
+  "ratingCount": 82,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-03T12:44:21.526670Z",
+  "uploader": 1389033
+}

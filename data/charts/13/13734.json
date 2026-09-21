@@ -1,0 +1,39 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:40Z",
+    "lastChanged": "2026-09-21T02:05:40Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-01-26T15:32:40.322617Z",
+  "charter": "未来lk",
+  "composer": "Camellia",
+  "created": "2024-01-18T10:07:15.958715Z",
+  "description": "2024.1.18 上传\n1.24 重写谱面大部分地方上传osu\n1.26 修改流速上传phira\n\nosu map set ID ：2121236",
+  "difficulty": 11.499998,
+  "file": "https://phira.5wyxi.com/files/814c11ba-c0d3-4e3e-8607-14589d463420",
+  "id": 13734,
+  "illustration": "https://phira.5wyxi.com/files/44efe8c9-a563-4952-8fb6-beeb3265edcd",
+  "illustrator": "",
+  "level": "J.A.C.K.L.L.I.T.E.",
+  "name": "S.A.T.E.L.L.I.T.E.",
+  "preview": "https://phira.5wyxi.com/files/eab19a6f-7566-4fc1-8b96-2a4ba11e87ff",
+  "ranked": false,
+  "rating": 0.8668441,
+  "ratingCount": 221,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "大叠",
+    "jack",
+    "chordjack",
+    "山茶花",
+    "4k",
+    "plain"
+  ],
+  "updated": "2024-01-26T15:32:40.322617Z",
+  "uploader": 39334
+}

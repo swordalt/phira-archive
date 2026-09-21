@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:24Z",
+    "lastChanged": "2026-09-21T02:04:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-25T10:11:09.526239Z",
+  "charter": "Twogd",
+  "composer": "MARETU",
+  "created": "2026-02-25T10:11:09.526239Z",
+  "description": "谱师本人上传。导出后延迟太大了以至于不调完全玩不了，请调整延迟至55ms左右食用。新人初投，什么不懂，望您谅解。",
+  "difficulty": 14.200001,
+  "file": "https://phira.5wyxi.com/files/f6944f59-2639-49b2-bcbe-c9e7d26f4672",
+  "id": 53379,
+  "illustration": "https://phira.5wyxi.com/files/b26af8ad-6256-4c46-a9a1-c960d2df2bb6",
+  "illustrator": "",
+  "level": "AT",
+  "name": "bi",
+  "preview": "https://phira.5wyxi.com/files/80f123d6-5cf7-4a79-91f8-3306a0513125",
+  "ranked": false,
+  "rating": 0.89806396,
+  "ratingCount": 301,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-25T10:11:09.526239Z",
+  "uploader": 1321942
+}

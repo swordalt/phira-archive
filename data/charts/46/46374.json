@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:49Z",
+    "lastChanged": "2026-09-21T02:03:49Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-21T06:32:38.416976Z",
+  "charter": "mxy",
+  "composer": "ginkiha",
+  "created": "2025-09-05T09:23:57.609685Z",
+  "description": "由哔哩哔哩@某轩哟本人上传",
+  "difficulty": 15.500002,
+  "file": "https://phira.5wyxi.com/files/bb46c41f-e99e-4711-ae4a-a85783dc46a7",
+  "id": 46374,
+  "illustration": "https://phira.5wyxi.com/files/651f2a6b-b323-4cdf-bac7-41b7b5c01e92",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "eastward",
+  "preview": "https://phira.5wyxi.com/files/863be383-acb2-45f4-9a58-fb8714f27f06",
+  "ranked": true,
+  "rating": 0.9249909,
+  "ratingCount": 650,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "soundvoltex",
+    "regular"
+  ],
+  "updated": "2025-10-07T03:03:39.415348Z",
+  "uploader": 6209
+}

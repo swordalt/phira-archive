@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:11Z",
+    "lastChanged": "2026-09-21T02:02:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-12T09:15:54.884592Z",
+  "charter": "Axeor",
+  "composer": "Synzak & Laxeno57",
+  "created": "2024-05-04T04:02:26.778730Z",
+  "description": "改",
+  "difficulty": 14.500002,
+  "file": "https://phira.5wyxi.com/files/cb214702-5a89-4ef0-a6e9-3a2e2ecfc210",
+  "id": 19436,
+  "illustration": "https://phira.5wyxi.com/files/6318a301-f40e-412e-a833-92e64063ea47",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "astral.exe",
+  "preview": "https://phira.5wyxi.com/files/1e278358-aaba-4b45-9723-95761bfcb339",
+  "ranked": true,
+  "rating": 0.9242244,
+  "ratingCount": 1037,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2024-05-12T09:15:54.884592Z",
+  "uploader": 74
+}

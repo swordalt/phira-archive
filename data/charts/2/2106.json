@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:11Z",
+    "lastChanged": "2026-09-21T02:01:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-15T10:09:19.167970Z",
+  "charter": "Kalsey",
+  "composer": "USAO",
+  "created": "2023-05-15T10:09:19.167970Z",
+  "description": "Prew",
+  "difficulty": 15.5,
+  "file": "https://phira.5wyxi.com/files/a51724ab-9370-4e03-b4a8-8a56bc54407a",
+  "id": 2106,
+  "illustration": "https://phira.5wyxi.com/files/47e2299d-4872-47f6-b8d2-299cbdb03300",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "SUPERNOVA",
+  "preview": "https://phira.5wyxi.com/files/50d1b99d-b3c9-450f-b9a0-153e1ec84e41",
+  "ranked": false,
+  "rating": 0.88691616,
+  "ratingCount": 905,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "可打",
+    "特效实验",
+    "regular"
+  ],
+  "updated": "2023-05-17T10:35:58.636676Z",
+  "uploader": 24821
+}

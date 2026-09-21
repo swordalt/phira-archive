@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:14Z",
+    "lastChanged": "2026-09-21T02:02:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-22T06:38:40.342740Z",
+  "charter": "Schwarz",
+  "composer": "HoYo-Mix",
+  "created": "2024-05-22T06:38:40.342740Z",
+  "description": "个人第五首自制谱",
+  "difficulty": 15.2,
+  "file": "https://phira.5wyxi.com/files/c580ff8c-fa2a-40a8-8800-92d80f2e3b9c",
+  "id": 20223,
+  "illustration": "https://phira.5wyxi.com/files/1e9a2b66-5282-4323-9cf6-78ed2a0828ed",
+  "illustrator": "",
+  "level": "IN 15",
+  "name": "你的颜色（Your Color）",
+  "preview": "https://phira.5wyxi.com/files/49382f31-58fc-4aaa-bd3a-1f403523036a",
+  "ranked": false,
+  "rating": 0.9354534,
+  "ratingCount": 2517,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "星穹铁道",
+    "regular"
+  ],
+  "updated": "2024-05-22T06:38:40.342740Z",
+  "uploader": 507756
+}

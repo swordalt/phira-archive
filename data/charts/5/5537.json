@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:20Z",
+    "lastChanged": "2026-09-21T02:01:20Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-07-18T06:36:18.963993Z",
+  "charter": "禁忌の法術​~剎那絕滅~",
+  "composer": "黒魔",
+  "created": "2023-07-18T06:36:18.963993Z",
+  "description": "再传一次 修好了所有bug 优化了一些配置(我是CeN_x，本次上传系本人上传。）",
+  "difficulty": 16.144445,
+  "file": "https://phira.5wyxi.com/files/0b49f6f4-9f8f-4cde-a5b8-5bd67a9114b9",
+  "id": 5537,
+  "illustration": "https://phira.5wyxi.com/files/e21ca899-f9ad-4ab9-81aa-73a9cd115ff2",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Don't Fight The Music",
+  "preview": "https://phira.5wyxi.com/files/4a092301-01f0-4460-a1a2-bad9590db919",
+  "ranked": true,
+  "rating": 0.8661944,
+  "ratingCount": 8627,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "オンゲキ",
+    "音击",
+    "ONGEKI",
+    "2ndPecJam",
+    "regular"
+  ],
+  "updated": "2024-04-17T16:02:30.777265Z",
+  "uploader": 21395
+}

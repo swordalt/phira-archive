@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:52Z",
+    "lastChanged": "2026-09-21T02:03:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-23T10:42:10.147471Z",
+  "charter": "colGem",
+  "composer": "洛天依",
+  "created": "2025-09-23T10:42:10.147471Z",
+  "description": "浅改了一下谱，不过仍然写的不好，我没有谱力. 事实上是不会写配置导致的，懒得改了",
+  "difficulty": 13.0999975,
+  "file": "https://phira.5wyxi.com/files/195261c3-1c2e-4af7-84bf-a577f0e5c25c",
+  "id": 47115,
+  "illustration": "https://phira.5wyxi.com/files/4ebfd6a8-8284-4907-bbd4-11f311455dc7",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "有兽焉",
+  "preview": "https://phira.5wyxi.com/files/de56afa8-4e3f-416a-90e1-72b11f0ab074",
+  "ranked": false,
+  "rating": 0.90675896,
+  "ratingCount": 1707,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Furry",
+    "有兽焉",
+    "IN14",
+    "regular"
+  ],
+  "updated": "2025-09-23T10:42:10.147471Z",
+  "uploader": 1039864
+}

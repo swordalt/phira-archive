@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:02Z",
+    "lastChanged": "2026-09-21T02:05:02Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-26T10:27:00.704943Z",
+  "charter": "DraGer",
+  "composer": "celtix",
+  "created": "2026-07-26T10:27:00.704943Z",
+  "description": "云梦杯原创谱面。",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/25cc5aa1-08d3-424c-842a-cbb5db9be77e",
+  "id": 69324,
+  "illustration": "https://phira.5wyxi.com/files/a7086311-1242-48ff-a241-e34b24b77795",
+  "illustrator": "",
+  "level": "IN  Lv.16",
+  "name": "CLOVER",
+  "preview": "https://phira.5wyxi.com/files/48c48f0f-7ded-4e91-8ec6-1982e0fef40a",
+  "ranked": false,
+  "rating": 0.912607,
+  "ratingCount": 82,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-26T10:27:00.704943Z",
+  "uploader": 702870
+}

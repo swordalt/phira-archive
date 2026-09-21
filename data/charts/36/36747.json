@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:12Z",
+    "lastChanged": "2026-09-21T02:06:12Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-19T12:10:54.946399Z",
+  "charter": "yzbg3",
+  "composer": "Moe Shop",
+  "created": "2025-04-19T12:10:54.946399Z",
+  "description": "无",
+  "difficulty": 520.0,
+  "file": "https://phira.5wyxi.com/files/7fe32624-827f-461f-8342-a44f79e86e55",
+  "id": 36747,
+  "illustration": "https://phira.5wyxi.com/files/8f0c526f-5eca-45a1-bd20-c255b7e644ae",
+  "illustrator": "",
+  "level": "Lv.520",
+  "name": "Heart",
+  "preview": "https://phira.5wyxi.com/files/b2535336-a32f-45b1-b59e-518af071057b",
+  "ranked": false,
+  "rating": 0.8241899,
+  "ratingCount": 10,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "反键",
+    "plain"
+  ],
+  "updated": "2025-04-19T12:10:54.946399Z",
+  "uploader": 76455
+}

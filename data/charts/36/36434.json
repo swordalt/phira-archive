@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:11Z",
+    "lastChanged": "2026-09-21T02:03:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-11T14:28:41.770646Z",
+  "charter": "sJDeviko",
+  "composer": "Aspid Cat",
+  "created": "2025-04-11T14:28:41.770646Z",
+  "description": "3rd 5Lines 2KTotalEvents参赛谱面\n这个是优化后的谱面，与参赛的原谱有些许不同\nB站@sJDeviko本人上传\nB站视频链接BV1PedKYgEaA",
+  "difficulty": 15.7,
+  "file": "https://phira.5wyxi.com/files/5bbb91a4-26e3-42b6-987b-b41e3ca46b4f",
+  "id": 36434,
+  "illustration": "https://phira.5wyxi.com/files/09a2ec76-29fa-4152-9305-994cf30ab835",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "DarkCandy",
+  "preview": "https://phira.5wyxi.com/files/8fca4b4d-9097-4186-82d5-9a2cc1e01d83",
+  "ranked": false,
+  "rating": 0.89476156,
+  "ratingCount": 330,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-04-11T14:28:41.770646Z",
+  "uploader": 24766
+}

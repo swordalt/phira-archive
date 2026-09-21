@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:09Z",
+    "lastChanged": "2026-09-21T02:04:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-29T01:32:58.229176Z",
+  "charter": "CTJ",
+  "composer": "7YE",
+  "created": "2025-12-29T01:32:58.229176Z",
+  "description": "第一次写谱",
+  "difficulty": 2.0,
+  "file": "https://phira.5wyxi.com/files/e7aa412c-94b5-4e73-8c34-e4a500607ffd",
+  "id": 50695,
+  "illustration": "https://phira.5wyxi.com/files/337ecec3-d31e-48b8-a2f2-53ec3af5c7ff",
+  "illustrator": "",
+  "level": "鸡蛋啊 Lv.13",
+  "name": "MONTAGEM XONADA (FUNK NA FAVELA)",
+  "preview": "https://phira.5wyxi.com/files/183d0e6d-341b-4bac-bad3-0164ad77a9d1",
+  "ranked": false,
+  "rating": 0.88215494,
+  "ratingCount": 2441,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-12-29T01:32:58.229176Z",
+  "uploader": 1981512
+}

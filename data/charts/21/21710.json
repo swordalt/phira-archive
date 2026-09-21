@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:18Z",
+    "lastChanged": "2026-09-21T02:02:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-06-22T15:04:01.280082Z",
+  "charter": "Latelan-Pillar",
+  "composer": "塞壬唱片MSR",
+  "created": "2024-06-22T15:04:01.280082Z",
+  "description": "这里是Black_Pillar的新人初谱真正的最终版，之前版本已删",
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/495f416b-15f5-4f4b-9dd1-91f0ceca8a93",
+  "id": 21710,
+  "illustration": "https://phira.5wyxi.com/files/1b005524-6fdb-43b6-851c-7d94893bdece",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "殉道之人",
+  "preview": "https://phira.5wyxi.com/files/c030e5c9-c0de-4b30-bbe8-eeefe4d7f4f8",
+  "ranked": false,
+  "rating": 0.8925203,
+  "ratingCount": 847,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "明日方舟",
+    "殉道之人",
+    "多指",
+    "regular"
+  ],
+  "updated": "2024-06-22T15:04:01.280082Z",
+  "uploader": 8571
+}

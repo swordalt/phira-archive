@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:05Z",
+    "lastChanged": "2026-09-21T02:02:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-28T00:21:43.703968Z",
+  "charter": "12345679",
+  "composer": "Sobrem",
+  "created": "2024-03-28T00:21:43.703968Z",
+  "description": null,
+  "difficulty": 15.900003,
+  "file": "https://phira.5wyxi.com/files/83830372-9e1e-43af-8684-5b12e9a39fea",
+  "id": 17611,
+  "illustration": "https://phira.5wyxi.com/files/1d10a75d-76b9-4ece-a600-5def4c08bbf3",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "Random",
+  "preview": "https://phira.5wyxi.com/files/ee411961-2299-4088-86b3-f8b067510e25",
+  "ranked": false,
+  "rating": 0.25157315,
+  "ratingCount": 96,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-03-28T00:21:43.703968Z",
+  "uploader": 101211
+}

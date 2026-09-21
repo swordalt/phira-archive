@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:01Z",
+    "lastChanged": "2026-09-21T02:02:01Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-04T05:24:59.794452Z",
+  "charter": "RightFT",
+  "composer": "linear ring with RNAcid",
+  "created": "2024-03-02T01:48:10.509120Z",
+  "description": "Puremoon 羽源杯 比赛用谱",
+  "difficulty": 15.200001,
+  "file": "https://phira.5wyxi.com/files/d90a0bfe-a36f-4013-87aa-ce0a5d714fb1",
+  "id": 16596,
+  "illustration": "https://phira.5wyxi.com/files/14420f89-55bc-483b-89a9-9f58eb055372",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Gypsophila",
+  "preview": "https://phira.5wyxi.com/files/6d401cc6-58fd-4db0-8c85-412e2e09cc2a",
+  "ranked": true,
+  "rating": 0.92247117,
+  "ratingCount": 1928,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-15T03:14:43.945919Z",
+  "uploader": 140
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:40Z",
+    "lastChanged": "2026-09-21T02:03:40Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-13T05:40:56.295077Z",
+  "charter": "白-永远的神-糖",
+  "composer": "何其玲、啊鲲作曲，胡莎莎、曹洋、周品演唱",
+  "created": "2025-08-13T05:40:56.295077Z",
+  "description": null,
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/e3ad3164-93a4-4863-ba44-7d3eecaf9a9e",
+  "id": 44539,
+  "illustration": "https://phira.5wyxi.com/files/2ec4c4f2-a46e-4829-b64b-cfeb16c68c80",
+  "illustrator": "",
+  "level": "Lv.SP",
+  "name": "京剧猫",
+  "preview": "https://phira.5wyxi.com/files/1c177f0b-f834-4370-8993-a94ce69f4daf",
+  "ranked": false,
+  "rating": 0.87607086,
+  "ratingCount": 2391,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-30T07:32:03.836653Z",
+  "uploader": 1807477
+}

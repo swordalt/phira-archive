@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:09Z",
+    "lastChanged": "2026-09-21T02:01:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-09T14:32:44.142685Z",
+  "charter": "FLAG",
+  "composer": "Ucchii0-うっちーゼロ",
+  "created": "2023-05-09T14:32:44.142685Z",
+  "description": "Bilibili @FLAG_Xiaoqi\n新版本谱面文件可以在谱师粉丝群群文件里面获取\n新版削弱了（被暴打）\n详细请见谱师哔哩哔哩置顶动态",
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/7e91bc23-af87-4ab1-adef-9109868f2dfe",
+  "id": 1514,
+  "illustration": "https://phira.5wyxi.com/files/8aa725e8-d56b-4a43-b2e5-0a1e7e33909c",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "R.I.P.【絶望の戦闘】",
+  "preview": "https://phira.5wyxi.com/files/cf9d6197-be34-4bfd-a654-809b868a5bc7",
+  "ranked": true,
+  "rating": 0.9151812,
+  "ratingCount": 5147,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular",
+    "art"
+  ],
+  "updated": "2025-03-21T12:32:45.918140Z",
+  "uploader": 457
+}

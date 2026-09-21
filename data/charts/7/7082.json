@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:36Z",
+    "lastChanged": "2026-09-21T02:05:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-08T07:05:41.828574Z",
+  "charter": "nlqx",
+  "composer": "Adyoro",
+  "created": "2023-08-08T07:05:41.828574Z",
+  "description": "谱面信息：bpm＝155\n如果AP难度是10，那么我认为子弹(和纵)7.8面条2变速0.2 最后的长条一定要摁完!\n\n这张谱面的autoplay会上传到b站，搜nlqx唯一一个用户就是我。对谱面的不满也可提出，我会修改。\n\n本来想写张简单一点的适合新手玩的谱，结果写到后面绷不住了，写完之后找朋友测试了下难度，尾杀删除了大量的三押。前前后后花了大概两星期，应该会简单了(哭)",
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/700c283c-6600-4b9a-a3c0-220dc8f22106",
+  "id": 7082,
+  "illustration": "https://phira.5wyxi.com/files/7028e48c-e420-46f5-99e2-2131ffd59185",
+  "illustrator": "",
+  "level": "4K easy（?)",
+  "name": "Hand in hand",
+  "preview": "https://phira.5wyxi.com/files/d45ce086-15cd-4db5-827a-358b97f6d231",
+  "ranked": false,
+  "rating": 0.92255723,
+  "ratingCount": 171,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2023-08-08T07:05:41.828574Z",
+  "uploader": 3689
+}

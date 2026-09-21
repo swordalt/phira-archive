@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:49Z",
+    "lastChanged": "2026-09-21T02:03:49Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-02T09:25:31.722414Z",
+  "charter": "Scroll Velocity-OVERLOAD-",
+  "composer": "baeddelite",
+  "created": "2025-09-02T09:25:31.722414Z",
+  "description": "谱师本人上传。  极难变速谱。  现在已经感觉不到写双指配置和普通特效的意义了。写这张谱时其实主要只做了一件事情：精确规划SV。 fffff严格来说依然还是用到了普通变速，不能称得上是名正言顺的类quaver变速谱，而thrinos;pygmalion真正做到了没有任何一处完全不可读。比起一味卷背诵要求，这张谱可以说得上reading特化，即对读谱的反应速度有要求又对游玩时对节奏的掌控有要求。",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/c6ac5747-6c3a-4a59-805d-d4cd0f4b51de",
+  "id": 46304,
+  "illustration": "https://phira.5wyxi.com/files/a6fb6153-10b8-472b-bc04-d91dc29f924d",
+  "illustrator": "",
+  "level": "SP  Lv.?",
+  "name": "thrinos;pygmalion",
+  "preview": "https://phira.5wyxi.com/files/a1d9d201-5db3-4cfb-a5f9-d193b8ac290e",
+  "ranked": false,
+  "rating": 0.84969515,
+  "ratingCount": 1687,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "vividstasis",
+    "regular"
+  ],
+  "updated": "2025-09-02T09:25:31.722414Z",
+  "uploader": 1503
+}

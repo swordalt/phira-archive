@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:22Z",
+    "lastChanged": "2026-09-21T02:05:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-14T06:51:38.712169Z",
+  "charter": "XCpotato",
+  "composer": "中国国家交响乐团",
+  "created": "2024-02-10T12:12:11.826692Z",
+  "description": "整活谱 全谱共23线 未使用fakenote",
+  "difficulty": 2.0000002,
+  "file": "https://phira.5wyxi.com/files/2b47b8e7-f6eb-4e49-8922-cb080914cd30",
+  "id": 15299,
+  "illustration": "https://phira.5wyxi.com/files/00ea30bc-4b8e-430e-a611-b23cd68fc8f0",
+  "illustrator": "",
+  "level": "龙 Lv.2.024",
+  "name": "春节序曲",
+  "preview": "https://phira.5wyxi.com/files/c73bebd4-9ac5-44b7-bb88-81434f59d7b3",
+  "ranked": false,
+  "rating": 0.8974702,
+  "ratingCount": 4804,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-02-14T06:51:38.712169Z",
+  "uploader": 12747
+}

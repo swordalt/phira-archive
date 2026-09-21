@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:38Z",
+    "lastChanged": "2026-09-21T02:02:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-28T18:05:06.408813Z",
+  "charter": "雨幕之下：余火、晚星、羽梦明......与你。",
+  "composer": "COP feat.乐正绫",
+  "created": "2024-08-28T18:05:06.408813Z",
+  "description": "本谱的主要谱师为余火，羽梦明是该谱的谱师之一\n\n附该谱的谱师名单：\n主要谱师：余火、羽梦明、晚星\n参与制作：Vlouy-滺绿、早期陈总\n\n段落分工：\n451-484间奏背景表演：滺绿﻿&余火\n485-637全部：晚星\n978-1141配置：羽梦明\n1544-1577配置：早期陈总&余火\nBUG修复及452cb drag添加：小赵\n其余部分：余火",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/7bae70fd-1d6a-4abf-be9a-23097c4b9fa8",
+  "id": 27049,
+  "illustration": "https://phira.5wyxi.com/files/f1cc7575-ff57-43f4-a826-1c21acf3fa6d",
+  "illustrator": "",
+  "level": "End Lv.15",
+  "name": "世末歌者",
+  "preview": "https://phira.5wyxi.com/files/2774cbf8-b034-4d00-b675-2c66ccbce3be",
+  "ranked": false,
+  "rating": 0.9373136,
+  "ratingCount": 3686,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-09-01T12:18:54.113763Z",
+  "uploader": 120
+}

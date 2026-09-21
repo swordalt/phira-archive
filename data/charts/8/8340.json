@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:28Z",
+    "lastChanged": "2026-09-21T02:01:28Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-25T04:15:08.923999Z",
+  "charter": "LogicM",
+  "composer": "DeBisco",
+  "created": "2023-08-25T04:15:08.923999Z",
+  "description": "本人上传；谱面bv号BV1Dz4y1T7zn；定位特化谱",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/501e3b4b-59ca-4c4f-935b-a80456a6cac5",
+  "id": 8340,
+  "illustration": "https://phira.5wyxi.com/files/8ae9339d-e64a-4bd2-977a-cedb00340a96",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "Bad Gateway",
+  "preview": "https://phira.5wyxi.com/files/d5786c21-cf4d-476b-88b1-3d0682fedfd1",
+  "ranked": true,
+  "rating": 0.8913233,
+  "ratingCount": 542,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "Orzmic",
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 403
+}

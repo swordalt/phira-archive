@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:37Z",
+    "lastChanged": "2026-09-21T02:01:37Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-10-14T12:06:01.521696Z",
+  "charter": "ゆるゆみょん",
+  "composer": "蒼井しあ",
+  "created": "2023-10-14T12:06:01.521696Z",
+  "description": null,
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/15d6f0c0-f3ac-4c25-8da0-0c867335894b",
+  "id": 10460,
+  "illustration": "https://phira.5wyxi.com/files/1879387f-ab36-49d4-bc36-6c628c483c55",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Nightmary",
+  "preview": "https://phira.5wyxi.com/files/8f55f883-75b9-496c-9fb5-8285e10dfc3d",
+  "ranked": false,
+  "rating": 0.64905834,
+  "ratingCount": 213,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-10-14T12:06:01.521696Z",
+  "uploader": 15820
+}

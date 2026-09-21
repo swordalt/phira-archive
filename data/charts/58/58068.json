@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:51Z",
+    "lastChanged": "2026-09-21T02:06:51Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-09T16:35:33.077910Z",
+  "charter": "TEC109",
+  "composer": "J316/Bee Hunter",
+  "created": "2026-05-09T16:35:33.077910Z",
+  "description": "本人上传 DRAG 246/2311\n标准分 97.29\n先写削弱这一块 不过耐力要求一点不差\n双指中难谱面，多指谨慎游玩",
+  "difficulty": 13.300001,
+  "file": "https://phira.5wyxi.com/files/e1909e41-0841-4426-b569-1327fd64a0e0",
+  "id": 58068,
+  "illustration": "https://phira.5wyxi.com/files/94dd1be3-ffc4-41b5-a009-0051a5e5da79",
+  "illustrator": "",
+  "level": "Nerfed Lv.13",
+  "name": "Apoplexy",
+  "preview": "https://phira.5wyxi.com/files/e6d44d0c-3d84-4b3d-bf78-ab9445de0171",
+  "ranked": false,
+  "rating": 0.8940588,
+  "ratingCount": 10,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "DFC",
+    "双指",
+    "叠",
+    "耐力",
+    "plain"
+  ],
+  "updated": "2026-05-09T16:35:33.077910Z",
+  "uploader": 2194529
+}

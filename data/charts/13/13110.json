@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:46Z",
+    "lastChanged": "2026-09-21T02:01:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-31T15:50:07.303034Z",
+  "charter": "Lunsford",
+  "composer": "Lime",
+  "created": "2023-12-31T15:50:07.303034Z",
+  "description": "初谱，不完善请见谅",
+  "difficulty": 15.300001,
+  "file": "https://phira.5wyxi.com/files/d5ca7344-9636-4f4c-9207-ff96897f2dea",
+  "id": 13110,
+  "illustration": "https://phira.5wyxi.com/files/055e8dc6-405a-4ae4-9452-3a2206fa1a55",
+  "illustrator": "",
+  "level": "FM Lv.15",
+  "name": "Aurora",
+  "preview": "https://phira.5wyxi.com/files/e5e90c79-22a9-424a-ab31-e7f6896ba2ea",
+  "ranked": false,
+  "rating": 0.90989316,
+  "ratingCount": 910,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "底力",
+    "新人初谱",
+    "regular"
+  ],
+  "updated": "2024-01-14T05:48:34.885208Z",
+  "uploader": 631761
+}

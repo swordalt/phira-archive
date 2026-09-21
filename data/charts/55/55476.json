@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:35Z",
+    "lastChanged": "2026-09-21T02:04:35Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-08T13:18:10.675293Z",
+  "charter": "Yurumoku",
+  "composer": "Puru",
+  "created": "2026-04-08T13:18:10.675293Z",
+  "description": null,
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/ad44eeed-9e97-45c2-b0a4-9b0058655da9",
+  "id": 55476,
+  "illustration": "https://phira.5wyxi.com/files/55bcba45-71d7-4e2f-bdee-8425bbfcb52f",
+  "illustrator": "",
+  "level": "SP Lv.?",
+  "name": "Mastiff (0.8x)",
+  "preview": "https://phira.5wyxi.com/files/9b385dd6-2e03-467e-b8a0-441a83821d82",
+  "ranked": false,
+  "rating": 0.85716254,
+  "ratingCount": 28,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-04-08T13:18:10.675293Z",
+  "uploader": 6373
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:14Z",
+    "lastChanged": "2026-09-21T02:03:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-21T11:10:42.560422Z",
+  "charter": "GodShou",
+  "composer": "MIMiNARI",
+  "created": "2025-04-21T11:10:42.560422Z",
+  "description": null,
+  "difficulty": 12.0,
+  "file": "https://phira.5wyxi.com/files/f9b09981-6d7e-4a75-816d-4c9e50bf5f0d",
+  "id": 36860,
+  "illustration": "https://phira.5wyxi.com/files/7d1899c8-552f-4a3f-a808-221d03ede87b",
+  "illustrator": "",
+  "level": "IN Lv.12",
+  "name": "インスタント・ラヴ",
+  "preview": "https://phira.5wyxi.com/files/a9934f21-68d5-4f3a-879c-fb39dc046da1",
+  "ranked": false,
+  "rating": 0.91508573,
+  "ratingCount": 169,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-04-21T11:10:42.560422Z",
+  "uploader": 627040
+}

@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:21Z",
+    "lastChanged": "2026-09-21T02:03:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-02T04:39:21.855040Z",
+  "charter": "金枪鱼",
+  "composer": "DECO*27",
+  "created": "2025-06-01T10:55:19.933420Z",
+  "description": "物量1548｜事件7658｜难度16.4（16.8）｜时长162s\n很难做，创作周期半年，所以前面一些段落的特效有些抽象，没有全改但是不影响游玩。谱面的质量还行，越往后越好玩。\n之前发的太着急，后续做了优化，全部认真检查完删了全部bug，不会再改了。",
+  "difficulty": 16.400002,
+  "file": "https://phira.5wyxi.com/files/95c107c9-6765-49fa-9941-692efe862dfc",
+  "id": 39085,
+  "illustration": "https://phira.5wyxi.com/files/48264889-bffc-464e-9ce4-a270788a6314",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "ラビットホール",
+  "preview": "https://phira.5wyxi.com/files/cc9cab84-9531-4bd4-83d4-a66b6ee51bb0",
+  "ranked": false,
+  "rating": 0.87194496,
+  "ratingCount": 1226,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "多指",
+    "创新",
+    "术力口",
+    "regular"
+  ],
+  "updated": "2025-06-06T11:43:01.799101Z",
+  "uploader": 1284755
+}

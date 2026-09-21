@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:36Z",
+    "lastChanged": "2026-09-21T02:03:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-02T11:38:24.357023Z",
+  "charter": "Sirdlira",
+  "composer": "Laur",
+  "created": "2025-08-02T11:38:24.357023Z",
+  "description": null,
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/67cea4a8-fd40-4459-bc9a-99c8ee122962",
+  "id": 43473,
+  "illustration": "https://phira.5wyxi.com/files/1329195d-6cc8-4711-98ae-4562c60c651e",
+  "illustrator": "",
+  "level": "SP Lv.?",
+  "name": "Frenchcore.exe",
+  "preview": "https://phira.5wyxi.com/files/13f56739-d3f8-4c9a-bf82-614c381f6392",
+  "ranked": false,
+  "rating": 0.7960726,
+  "ratingCount": 97,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-02T11:38:24.357023Z",
+  "uploader": 1492106
+}

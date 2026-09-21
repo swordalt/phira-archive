@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:09Z",
+    "lastChanged": "2026-09-21T02:05:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-15T08:18:14.364333Z",
+  "charter": "榆流yl",
+  "composer": "北夜",
+  "created": "2026-08-15T08:18:14.364333Z",
+  "description": "2026.08.10开工的谱面\n不知道自己实际耗时多久了\n算是速写的了，动效没怎么加\n绑线音键用的倒是挺多的\n注意这次判定线有所移动大旋转\n尝试加入文字了\n谱面定数:12.9（也许不是那么准确）\n本人上传，新人谱师第n张谱",
+  "difficulty": 12.900004,
+  "file": "https://phira.5wyxi.com/files/464dfaf2-f25f-42a8-a1d9-efd51409c614",
+  "id": 73508,
+  "illustration": "https://phira.5wyxi.com/files/ffc0ea4e-40ec-4cbb-8e5d-adc42fbfbc2c",
+  "illustrator": "",
+  "level": "IN Lv.12",
+  "name": "山海跃云霄",
+  "preview": "https://phira.5wyxi.com/files/e96412a1-3ea1-45d5-a5ff-192f68d49c1b",
+  "ranked": false,
+  "rating": 0.8750414,
+  "ratingCount": 1713,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-15T08:18:14.364333Z",
+  "uploader": 564113
+}

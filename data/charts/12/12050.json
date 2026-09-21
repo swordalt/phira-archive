@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:43Z",
+    "lastChanged": "2026-09-21T02:01:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-02T17:16:20.553061Z",
+  "charter": "gcxhch",
+  "composer": "Yumomi",
+  "created": "2023-12-02T17:16:20.553061Z",
+  "description": null,
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/79dc5eef-7601-4be8-8ae0-9528a9821d5a",
+  "id": 12050,
+  "illustration": "https://phira.5wyxi.com/files/6ae31763-ae85-42b9-8bcf-b8ba555eb141",
+  "illustrator": "",
+  "level": "UK",
+  "name": "不需等天晴",
+  "preview": "https://phira.5wyxi.com/files/b6d86991-2911-4103-9d62-629a88b318ac",
+  "ranked": false,
+  "rating": 0.8882946,
+  "ratingCount": 631,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-12-02T17:16:20.553061Z",
+  "uploader": 5597
+}

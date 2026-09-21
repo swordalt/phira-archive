@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:33Z",
+    "lastChanged": "2026-09-21T02:02:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-10-04T00:19:08.362149Z",
+  "charter": "RougNiT",
+  "composer": "Wooden",
+  "created": "2024-08-12T09:32:44.462527Z",
+  "description": "（RYCEAM原创曲）\n2024.10.4\n修改了若干地方，包括配置，特效，定数。",
+  "difficulty": 14.600004,
+  "file": "https://phira.5wyxi.com/files/e4489718-3c61-4e7b-a91e-0db3d7bb6307",
+  "id": 26067,
+  "illustration": "https://phira.5wyxi.com/files/ba5c61bd-be7a-47bd-809e-3133577f79bf",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Universe",
+  "preview": "https://phira.5wyxi.com/files/3915f9fb-1df3-4111-9668-ff449970c90a",
+  "ranked": false,
+  "rating": 0.9382329,
+  "ratingCount": 128,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-10-04T00:19:08.362149Z",
+  "uploader": 510711
+}

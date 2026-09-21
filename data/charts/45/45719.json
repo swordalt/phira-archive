@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:45Z",
+    "lastChanged": "2026-09-21T02:03:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-26T03:58:55.325670Z",
+  "charter": "友伊",
+  "composer": "N2UtheHartLocker",
+  "created": "2025-08-26T03:58:55.325670Z",
+  "description": "第一次在phira发谱。谱面视频已经在b站发布，谱师名和曲名同phira，有什么问题欢迎指出。\n谱面里面有初见杀，其实是为了让玩家多打几遍（套盾）\n注：平板和手机可能延迟不同，标准延迟需根据自己平时习惯修改。",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/6c426393-d77f-497c-9e37-e63a8e429e9a",
+  "id": 45719,
+  "illustration": "https://phira.5wyxi.com/files/55988c2a-b19f-4df9-87a7-3a8e7a0d6c37",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "†KRUSHDAFIGHT!†",
+  "preview": "https://phira.5wyxi.com/files/d37c992b-fef4-475e-ba8b-2cd61416ffc8",
+  "ranked": false,
+  "rating": 0.90669173,
+  "ratingCount": 2875,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-26T03:58:55.325670Z",
+  "uploader": 1888537
+}

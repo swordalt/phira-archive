@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:53Z",
+    "lastChanged": "2026-09-21T02:03:53Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-27T08:42:03.407843Z",
+  "charter": "88900a/Ashlyn",
+  "composer": "かめりあ",
+  "created": "2025-09-27T08:42:03.407843Z",
+  "description": "有延迟调90ms 谱面更新",
+  "difficulty": 15.700003,
+  "file": "https://phira.5wyxi.com/files/8f4ef335-84f1-4ab8-bf8d-171bff90247b",
+  "id": 47274,
+  "illustration": "https://phira.5wyxi.com/files/63843d57-c3b5-44f8-b482-ae24b2e9557d",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "crystallized",
+  "preview": "https://phira.5wyxi.com/files/4518129c-1dbc-484f-8b5f-8f592a81fe20",
+  "ranked": false,
+  "rating": 0.88793033,
+  "ratingCount": 125,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-27T08:42:03.407843Z",
+  "uploader": 25156
+}

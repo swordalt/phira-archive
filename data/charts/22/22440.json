@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:51Z",
+    "lastChanged": "2026-09-21T02:05:51Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-02T03:43:35.100052Z",
+  "charter": "KINRDHALP",
+  "composer": "WyvernP/Madol",
+  "created": "2024-07-02T03:43:35.100052Z",
+  "description": "非常规谱面   一次对变速的尝试，有部分背谱需求",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/592078b0-02af-422a-91f0-8f9e217ec29f",
+  "id": 22440,
+  "illustration": "https://phira.5wyxi.com/files/62c2f892-eaf5-4199-87a7-446f03962cc0",
+  "illustrator": "",
+  "level": "Cts Lv.17",
+  "name": "Palescreen (feat. Madol)",
+  "preview": "https://phira.5wyxi.com/files/f3c5c994-b2bc-46a5-972a-4324d6a03006",
+  "ranked": false,
+  "rating": 0.6979659,
+  "ratingCount": 24,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "变速",
+    "plain"
+  ],
+  "updated": "2024-07-02T03:43:35.100052Z",
+  "uploader": 2487
+}

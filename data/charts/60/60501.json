@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:47Z",
+    "lastChanged": "2026-09-21T02:04:47Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-09T13:07:23.843299Z",
+  "charter": "墨殇话",
+  "composer": "TobyFox",
+  "created": "2026-06-09T13:07:23.843299Z",
+  "description": "由谱师本人上传\n这张谱赶时间写出来的，所以可能写得不是很好（",
+  "difficulty": 15.300001,
+  "file": "https://phira.5wyxi.com/files/aaddd677-f4ab-4fde-8997-de3fa0217cd7",
+  "id": 60501,
+  "illustration": "https://phira.5wyxi.com/files/89efd969-8141-4794-b3b0-1471b1855c52",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "The World Revovling",
+  "preview": "https://phira.5wyxi.com/files/e0c62eca-8021-4f9c-85a3-1e3244f61490",
+  "ranked": false,
+  "rating": 0.92029023,
+  "ratingCount": 334,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-09T13:07:23.843299Z",
+  "uploader": 1399310
+}

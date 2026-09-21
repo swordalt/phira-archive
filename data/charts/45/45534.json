@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:44Z",
+    "lastChanged": "2026-09-21T02:03:44Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-23T13:46:14.401092Z",
+  "charter": "金枪鱼",
+  "composer": "DECO*27",
+  "created": "2025-08-23T13:46:14.401092Z",
+  "description": "物量1506｜事件8214｜难度16.8（16.4）｜时长159s\n修改了所有陈旧和难玩的设计，把谱面平均水准优化到了较高。部分配置可能需要研究。\n净耗时37h，制作不易，感谢游玩，希望大家喜欢。",
+  "difficulty": 16.800003,
+  "file": "https://phira.5wyxi.com/files/ce48bb81-d599-4909-bb46-128f78efc5a3",
+  "id": 45534,
+  "illustration": "https://phira.5wyxi.com/files/c61d9f95-527a-499d-a36f-0838a39428ac",
+  "illustrator": "",
+  "level": "New Lv.16",
+  "name": "ラビットホール",
+  "preview": "https://phira.5wyxi.com/files/925ae240-57e6-4a00-bf3f-e42c9e988a56",
+  "ranked": false,
+  "rating": 0.88360304,
+  "ratingCount": 1309,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "多指",
+    "创新",
+    "术力口",
+    "优化",
+    "regular"
+  ],
+  "updated": "2025-08-23T13:46:14.401092Z",
+  "uploader": 1566388
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:35Z",
+    "lastChanged": "2026-09-21T02:01:35Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-10-19T09:38:41.867138Z",
+  "charter": "X1nH",
+  "composer": "Aoi",
+  "created": "2023-10-01T01:53:07.854533Z",
+  "description": "学员杯参赛谱，关注@X1nH谢谢喵\n2023.10.21更新：宽 体 αterlβus（改了排键）\n2024.10.19更新：添加了些许动效加修改了部分配置",
+  "difficulty": 15.600002,
+  "file": "https://phira.5wyxi.com/files/5f4aaf96-7fc5-4955-b94c-e8748b5b2d74",
+  "id": 9919,
+  "illustration": "https://phira.5wyxi.com/files/24e1f976-7c8f-4d87-91ba-cdc72a3fca38",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "αterlβus",
+  "preview": "https://phira.5wyxi.com/files/53836dd8-311e-41c9-9afc-215c8e2d3c56",
+  "ranked": false,
+  "rating": 0.91409314,
+  "ratingCount": 585,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-10-19T09:38:41.867138Z",
+  "uploader": 18678
+}

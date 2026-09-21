@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:57Z",
+    "lastChanged": "2026-09-21T02:03:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-08T16:19:00.484471Z",
+  "charter": "XC_Miku",
+  "composer": "SJQ音福",
+  "created": "2025-10-18T13:09:08.155317Z",
+  "description": "[已通过另一位谱师的授权]\n预览可见b站BV1Z9vpB7EPA\n含有少量还原本家的配置\n还有一点点初见杀捏\n敬请游玩吧！\n—————————————\n更新日志(2025-12-29)：\n1.修改了大量事件的参数\n2.修改了少量配置\n3.难度预估将升至15.3\n—————————————\n更新日志(2026-3-9)：\n1.再次修改了事件的参数\n2.再次修改了少量配置\n3.微调排键\n4.难度预估将降至15.2",
+  "difficulty": 15.2,
+  "file": "https://phira.5wyxi.com/files/6a60f5e2-6bd9-4911-8769-43df02efe0fa",
+  "id": 48174,
+  "illustration": "https://phira.5wyxi.com/files/d1f8d9b2-8930-4cf9-af2e-e32e0f49f838",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "樱落繁花",
+  "preview": "https://phira.5wyxi.com/files/4d2b021e-b5d8-4c0d-94b1-e056eac35a87",
+  "ranked": false,
+  "rating": 0.9411059,
+  "ratingCount": 1476,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Milthm",
+    "regular"
+  ],
+  "updated": "2026-03-08T16:19:00.484471Z",
+  "uploader": 828795
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:40Z",
+    "lastChanged": "2026-09-21T02:04:40Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-01T16:13:36.870280Z",
+  "charter": "Heulis",
+  "composer": "Laur",
+  "created": "2026-05-01T16:13:36.870280Z",
+  "description": "在25年暑假随手的产物，如今修改后便有了这张谱面，不清楚后续会在什么地方出现。对我来说是一次单独对于正常配置的尝试，谱面内大部分配置还是在常规范畴，不包括设计不合理手感诡异的地方。有想尝试写高难的。所有配置经过测试没有问题，存在常规解法，部分配置可能因为表现问题显得无解，亏于phi的神秘判定，那些配置都不会出错。部分段落表演在不同设备或播放器上播放会出现与视频中有出入的地方，皆不影响正常游玩。黄键去哪了？诡异的配置，低分是预料到到的",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/1d0096aa-578d-4647-9354-5bf944009d53",
+  "id": 57509,
+  "illustration": "https://phira.5wyxi.com/files/97e47ff2-5f8d-424f-b21f-3cdd261d18cf",
+  "illustrator": "",
+  "level": "AT Lv..16",
+  "name": "Viyella's Malice",
+  "preview": "https://phira.5wyxi.com/files/470a9d95-e981-4fae-96c6-637403fec919",
+  "ranked": false,
+  "rating": 0.90209866,
+  "ratingCount": 296,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-05-01T16:13:36.870280Z",
+  "uploader": 9271
+}

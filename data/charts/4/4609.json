@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:18Z",
+    "lastChanged": "2026-09-21T02:01:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-07-04T12:26:55.708516Z",
+  "charter": "xingling",
+  "composer": "DJ Noriken",
+  "created": "2023-07-04T12:26:55.708516Z",
+  "description": null,
+  "difficulty": 14.200001,
+  "file": "https://phira.5wyxi.com/files/e879036c-7f3f-4132-9b87-bbf27bb214fd",
+  "id": 4609,
+  "illustration": "https://phira.5wyxi.com/files/0b85407e-6966-4e61-a071-c222901308ef",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Quon",
+  "preview": "https://phira.5wyxi.com/files/a94e5356-8ecf-4935-b2d1-1eb27e165c5a",
+  "ranked": true,
+  "rating": 0.933838,
+  "ratingCount": 6781,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "wacca",
+    "regular"
+  ],
+  "updated": "2025-01-30T02:49:12.915213Z",
+  "uploader": 2329
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:54Z",
+    "lastChanged": "2026-09-21T02:04:54Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-04T00:35:47.290812Z",
+  "charter": "NaCIZil",
+  "composer": "MOTTO MUSIC",
+  "created": "2026-07-04T00:35:47.290812Z",
+  "description": "by NaCIZil\r\n本人第二个谱子，感觉依旧是一坨\r\n感觉很好听，于是找了一下谱子没找到\r\n结果发现是小众歌\r\n既然没人做，那我就只能开写了，9个小时顶级绝世慢写（\r\n更新日志:\r\nv0.9主体大致编写完成 6.21\r\nv1.0完整更新 6.23\r\nv1.2修复谱子后半段音频没截去的问题( 追加79键 优化判定线效果 7.4\r\nb站同名 本人上传",
+  "difficulty": 13.700003,
+  "file": "https://phira.5wyxi.com/files/e059624b-97ad-48a6-aa9a-49c8702f7698",
+  "id": 63866,
+  "illustration": "https://phira.5wyxi.com/files/159e819f-5511-4cc3-888b-65875a4e0eb7",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "midnight glory",
+  "preview": "https://phira.5wyxi.com/files/09c44e26-7106-4b9f-90a8-0999e71515ce",
+  "ranked": false,
+  "rating": 0.91196615,
+  "ratingCount": 130,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-04T00:35:47.290812Z",
+  "uploader": 1407129
+}

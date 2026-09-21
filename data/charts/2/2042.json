@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:18Z",
+    "lastChanged": "2026-09-21T02:05:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-14T10:56:29.540985Z",
+  "charter": "矮子喵",
+  "composer": "Lipps Inc.",
+  "created": "2023-05-14T10:56:29.540985Z",
+  "description": "谱师：矮子喵",
+  "difficulty": 1.0000001,
+  "file": "https://phira.5wyxi.com/files/ef45a1d6-d572-4881-abfb-cfd5a2dd64df",
+  "id": 2042,
+  "illustration": "https://phira.5wyxi.com/files/dae079eb-e0af-42f6-9bdd-187976fa77bd",
+  "illustrator": "",
+  "level": "EZ  Lv.1",
+  "name": "FunkyTown ~ 旋转鸡块",
+  "preview": "https://phira.5wyxi.com/files/bcca737f-cdc2-4754-b1a3-1e78e9577cad",
+  "ranked": false,
+  "rating": 0.8864691,
+  "ratingCount": 16143,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-05-14T10:56:29.540985Z",
+  "uploader": 146
+}

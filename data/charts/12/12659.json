@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:45Z",
+    "lastChanged": "2026-09-21T02:01:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-21T05:14:52.103151Z",
+  "charter": "ReesLith",
+  "composer": "sasakure.UK",
+  "created": "2023-12-21T05:14:52.103151Z",
+  "description": "配置和采音改了很多。",
+  "difficulty": 15.300001,
+  "file": "https://phira.5wyxi.com/files/eb62fd74-39f8-41a3-8803-5f937b33548b",
+  "id": 12659,
+  "illustration": "https://phira.5wyxi.com/files/9b77ebaa-45bd-4858-a089-1c04213b0cc4",
+  "illustrator": "",
+  "level": "if",
+  "name": "Jack-the-Ripper",
+  "preview": "https://phira.5wyxi.com/files/864f936d-0e90-4588-a0ae-f9d4c9d219ed",
+  "ranked": false,
+  "rating": 0.87525606,
+  "ratingCount": 149,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "BOF2009",
+    "regular"
+  ],
+  "updated": "2023-12-21T05:14:52.103151Z",
+  "uploader": 5305
+}

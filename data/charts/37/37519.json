@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:13Z",
+    "lastChanged": "2026-09-21T02:06:13Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-04T13:06:29.347361Z",
+  "charter": "yhcexe",
+  "composer": "senya",
+  "created": "2025-05-04T13:06:29.347361Z",
+  "description": "本人重新上传，修复了结尾四个长条太长判不上的问题",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/00f067b6-d06a-4214-802c-3f9f0f8dcddc",
+  "id": 37519,
+  "illustration": "https://phira.5wyxi.com/files/8fe7b011-04ce-4737-9276-af4e0482f513",
+  "illustrator": "",
+  "level": "gamma+",
+  "name": "月に叢雲華に風",
+  "preview": "https://phira.5wyxi.com/files/cdad46b8-f4da-4001-9265-d5e06aa60de1",
+  "ranked": false,
+  "rating": 0.87536067,
+  "ratingCount": 41,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-05-09T12:46:53.404902Z",
+  "uploader": 23039
+}

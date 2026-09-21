@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:16Z",
+    "lastChanged": "2026-09-21T02:05:16Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-12T03:53:15.906014Z",
+  "charter": "是苏沐不是s马",
+  "composer": "Synth Monsters/千璃Senri/SADRECORDS",
+  "created": "2026-09-12T03:53:15.906014Z",
+  "description": "谱师：是苏沐不是s马\n游玩事项：\n1 该谱面只有在3:2这个比例才能正常游玩，使用其他比例可能会导致部分演出露馅\n2 该谱面的最佳note大小为1.0，过大或者过小也有可能导致部分演出露馅，但是不影响正常游玩\n3 考虑到游玩性，1024cb这一段为全屏判定",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/620236ce-1d09-4b12-b499-544017ded8e7",
+  "id": 77806,
+  "illustration": "https://phira.5wyxi.com/files/645a19f2-05a3-48a7-a00b-baff529af20b",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "GAMER",
+  "preview": "https://phira.5wyxi.com/files/d18fc156-f039-439e-af9e-4509f276c66b",
+  "ranked": false,
+  "rating": 0.9410049,
+  "ratingCount": 99,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-09-12T03:53:15.906014Z",
+  "uploader": 1977226
+}

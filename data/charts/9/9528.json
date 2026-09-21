@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:33Z",
+    "lastChanged": "2026-09-21T02:01:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-09-20T17:09:09.270940Z",
+  "charter": "EfiLF1y",
+  "composer": "Silentroom",
+  "created": "2023-09-20T17:09:09.270940Z",
+  "description": "谱师：EfiLF1y\n视频BV号：BV1mu4y1r7FK\n相关赛事：FRENZ 2019\n对年初那张谱面进行的重制，除了开头和结尾其他都看不出那张谱子的影子了。",
+  "difficulty": 15.500002,
+  "file": "https://phira.5wyxi.com/files/f98e2e65-2ce6-4853-ac86-08836795a2f3",
+  "id": 9528,
+  "illustration": "https://phira.5wyxi.com/files/bfb5a5c8-162c-4eed-985a-88f5bfdd26e6",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "驟雨の狭間",
+  "preview": "https://phira.5wyxi.com/files/a2e44ba3-52fc-4d2a-8f3f-eff3708dba12",
+  "ranked": false,
+  "rating": 0.8887174,
+  "ratingCount": 427,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "FRENZ2019",
+    "regular"
+  ],
+  "updated": "2023-09-20T17:09:09.270940Z",
+  "uploader": 818
+}

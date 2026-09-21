@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:59Z",
+    "lastChanged": "2026-09-21T02:04:59Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-16T05:33:27.597802Z",
+  "charter": "windtunnel",
+  "composer": "MIMI",
+  "created": "2026-07-16T05:33:27.597802Z",
+  "description": null,
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/6bfb3b80-bc10-496f-aff8-e0266484ec2b",
+  "id": 66900,
+  "illustration": "https://phira.5wyxi.com/files/8dfa84a6-ee26-4448-8d80-b1b8fd884a0f",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "蒼の音階（青色音阶）",
+  "preview": "https://phira.5wyxi.com/files/2c3aabce-2d9a-4ab8-9ca0-0a78d55317b5",
+  "ranked": false,
+  "rating": 0.83707786,
+  "ratingCount": 14,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-16T05:33:27.597802Z",
+  "uploader": 2513394
+}

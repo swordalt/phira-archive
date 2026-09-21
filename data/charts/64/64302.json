@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:55Z",
+    "lastChanged": "2026-09-21T02:04:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-05T12:58:37.713743Z",
+  "charter": "Luvia",
+  "composer": "Yooh",
+  "created": "2026-07-05T12:58:37.713743Z",
+  "description": "7.5Bug修复 \n1.修复了108cb的tap由于流速过高无法正常显示的问题 \n2.删除了824 1441cb的flick并替换为drag \n3.删除了1026cb的drag并替换为flick \n4.删除了部分过于影响读谱的表演 \n5.其他部分细节 \nb站同名 欢迎提出建议\n",
+  "difficulty": 15.800004,
+  "file": "https://phira.5wyxi.com/files/1127f2ee-1608-4d43-a314-1235f31dc22c",
+  "id": 64302,
+  "illustration": "https://phira.5wyxi.com/files/a1f70d7d-bd76-4bd6-b711-3da21dd4752b",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "Secret Illumination",
+  "preview": "https://phira.5wyxi.com/files/32361b23-48e7-4c05-85a6-a5e7f16ec2cd",
+  "ranked": false,
+  "rating": 0.91400975,
+  "ratingCount": 427,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-05T12:58:37.713743Z",
+  "uploader": 2202378
+}

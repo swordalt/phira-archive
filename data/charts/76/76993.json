@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:14Z",
+    "lastChanged": "2026-09-21T02:05:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-04T10:46:55.650179Z",
+  "charter": "Betrixx v.s Li",
+  "composer": "Laur",
+  "created": "2026-09-04T10:46:55.650179Z",
+  "description": "Glacier AT Lv.19\n曲师：Laur\n谱师：@NiLi#93670 v.s @Betrixx#435853\n双人合作高难，我负责主要配置，阿狸负责动效与修改，790-934cb的drag为全屏判定，但是经过优化后单指接长条还是可能会漏，建议多指接",
+  "difficulty": 19.0,
+  "file": "https://phira.5wyxi.com/files/000cd07e-031f-4264-aa34-6f638b30c39a",
+  "id": 76993,
+  "illustration": "https://phira.5wyxi.com/files/244c4c30-6db0-4e07-a869-99215ca50919",
+  "illustrator": "",
+  "level": "AT Lv.19",
+  "name": "Glacier",
+  "preview": "https://phira.5wyxi.com/files/ebc9eea4-253c-4279-9705-4d382175899d",
+  "ranked": false,
+  "rating": 0.88228965,
+  "ratingCount": 447,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-09-04T10:49:35.762918Z",
+  "uploader": 435853
+}

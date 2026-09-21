@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:03Z",
+    "lastChanged": "2026-09-21T02:04:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-13T02:25:30.148784Z",
+  "charter": "BlAN3",
+  "composer": "Camellia",
+  "created": "2025-11-13T02:25:30.148784Z",
+  "description": "一张爆发兼耐力的底力谱，换算成纯配置有双指10Dan，本人的第4张谱，可能还有待提升，标准定数17.2（本人已P，配置是双押，交互和2+1）",
+  "difficulty": 16.900003,
+  "file": "https://phira.5wyxi.com/files/941369e3-4d7b-4ea7-8e29-33a2fee71862",
+  "id": 49039,
+  "illustration": "https://phira.5wyxi.com/files/82043910-ba90-4e19-9d9c-b3b5532d05c7",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Venomous Firefly",
+  "preview": "https://phira.5wyxi.com/files/2b461e70-2734-495a-98bd-242754c83376",
+  "ranked": false,
+  "rating": 0.9148206,
+  "ratingCount": 154,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-11-13T02:25:30.148784Z",
+  "uploader": 491543
+}

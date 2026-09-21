@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:13Z",
+    "lastChanged": "2026-09-21T02:01:13Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-28T09:47:32.608884Z",
+  "charter": "死耗子，快更新！",
+  "composer": "Kevin MacLeod",
+  "created": "2023-05-28T09:47:32.608884Z",
+  "description": "死耗子，快更新！@小约翰可汗 \n曲目：通辽进行曲（Aunt Tagonist） \n曲师：Kevin MacLeod \n定数：IN Lv.13.5 \n谱师：@CatGames-猫游 \n软件：RPE公测版v1.1 \n感谢：@cmdysj",
+  "difficulty": 13.500002,
+  "file": "https://phira.5wyxi.com/files/bf14a87c-8c7e-4c7f-8505-3ae2af330499",
+  "id": 2701,
+  "illustration": "https://phira.5wyxi.com/files/08664f73-93df-4b6a-8eeb-ac4ea9113ac6",
+  "illustrator": "",
+  "level": "FM Lv.13",
+  "name": "通辽进行曲（Aunt Tagonist）",
+  "preview": "https://phira.5wyxi.com/files/3bfa34ad-ec79-4eeb-abb8-5dcd47e31208",
+  "ranked": false,
+  "rating": 0.88897884,
+  "ratingCount": 1312,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "小约翰可汗",
+    "通辽汗国",
+    "通辽",
+    "regular"
+  ],
+  "updated": "2025-09-24T03:04:03.931633Z",
+  "uploader": 5883
+}

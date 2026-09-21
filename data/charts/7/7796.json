@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:27Z",
+    "lastChanged": "2026-09-21T02:01:27Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-17T00:56:15.102462Z",
+  "charter": "feng",
+  "composer": "HOYO-MiX",
+  "created": "2023-08-17T00:56:15.102462Z",
+  "description": "",
+  "difficulty": 13.900001,
+  "file": "https://phira.5wyxi.com/files/ecfc49d6-ec74-4a35-ba1a-d77ec7d094a7",
+  "id": 7796,
+  "illustration": "https://phira.5wyxi.com/files/2c3f2f30-86a1-4f51-b0ad-169eda1fec41",
+  "illustrator": "",
+  "level": "In Lv.13",
+  "name": "水龙吟 Samudrartha",
+  "preview": "https://phira.5wyxi.com/files/5ad34119-90fc-4b3f-9bc5-2afff8b7a7ac",
+  "ranked": false,
+  "rating": 0.8959249,
+  "ratingCount": 10423,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-08-17T00:56:15.102462Z",
+  "uploader": 233776
+}

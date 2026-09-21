@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:33Z",
+    "lastChanged": "2026-09-21T02:01:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-09-17T04:18:09.425678Z",
+  "charter": "Vanilla as Dezpair",
+  "composer": "litmus* as Ester",
+  "created": "2023-09-17T04:18:09.425678Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/4f5d7c69-b206-4c41-bf08-5e018750723d",
+  "id": 9455,
+  "illustration": "https://phira.5wyxi.com/files/fe66f546-8f9c-454f-9802-a01d7ee6a4d3",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Dizzolve",
+  "preview": "https://phira.5wyxi.com/files/079a3cab-9cc8-4505-ac77-885511c60071",
+  "ranked": true,
+  "rating": 0.90364975,
+  "ratingCount": 300,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 115687
+}

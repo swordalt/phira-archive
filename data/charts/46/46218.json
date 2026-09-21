@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:48Z",
+    "lastChanged": "2026-09-21T02:03:48Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-31T13:01:46.912133Z",
+  "charter": "Achory",
+  "composer": "はるまきごはん, 25時、ナイトコードで。, 鏡音リン",
+  "created": "2025-08-31T13:01:46.912133Z",
+  "description": "qwq",
+  "difficulty": 15.6,
+  "file": "https://phira.5wyxi.com/files/7911cb38-cb11-458e-8e2e-b4533898e805",
+  "id": 46218,
+  "illustration": "https://phira.5wyxi.com/files/7269af4e-927b-448e-8967-e3f1079a8517",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "エンパープル",
+  "preview": "https://phira.5wyxi.com/files/66b95a41-341c-4663-8729-c2cdc1f8a203",
+  "ranked": false,
+  "rating": 0.91396254,
+  "ratingCount": 387,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-01T09:30:52.740107Z",
+  "uploader": 55376
+}

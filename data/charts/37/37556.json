@@ -1,0 +1,40 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:16Z",
+    "lastChanged": "2026-09-21T02:03:16Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-28T13:56:10.115371Z",
+  "charter": "金枪鱼",
+  "composer": "jioyi",
+  "created": "2025-05-04T16:36:18.713792Z",
+  "description": "物量2200｜事件7382｜难度16.7（17.5）｜时长191.6s\n以前改过谱但不好，现在我已全力彻底优化，但仍保留了部分原来的味道，有部分特色段落很创，需要在游玩前熟悉。\n最初不太懂做谱，有很多bug，现在彻底改完，不会再改。制作不易，感谢游玩，喜欢的话记得好评哦！",
+  "difficulty": 16.700003,
+  "file": "https://phira.5wyxi.com/files/bd33ef82-a8a8-4b7f-acc7-2c2881a4d28e",
+  "id": 37556,
+  "illustration": "https://phira.5wyxi.com/files/8643a191-01a9-425c-8f49-0bdea92e6f31",
+  "illustrator": "",
+  "level": "New Lv.16",
+  "name": "cyanine",
+  "preview": "https://phira.5wyxi.com/files/037a67aa-94b0-47a8-ae71-3d54f5c3976b",
+  "ranked": false,
+  "rating": 0.51211864,
+  "ratingCount": 161,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Lanota",
+    "特效",
+    "创新",
+    "焕然一新的优化",
+    "多指",
+    "修个bug",
+    "regular"
+  ],
+  "updated": "2025-08-30T07:41:58.279766Z",
+  "uploader": 1284755
+}

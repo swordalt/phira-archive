@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:03Z",
+    "lastChanged": "2026-09-21T02:03:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-12T01:24:20.619332Z",
+  "charter": "D:M",
+  "composer": "Stack",
+  "created": "2025-02-12T01:24:20.619332Z",
+  "description": "@Daimeng_Read本人上传 来自2021.8.x的谱面",
+  "difficulty": 13.6,
+  "file": "https://phira.5wyxi.com/files/c6b26d1f-0f34-4df6-aad5-850e07249c88",
+  "id": 33839,
+  "illustration": "https://phira.5wyxi.com/files/f2f25d83-a5d1-4f35-bde1-ec7909f3fce2",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "Treasure Cirno",
+  "preview": "https://phira.5wyxi.com/files/c7eadf2e-1803-4888-af80-1284469373a7",
+  "ranked": false,
+  "rating": 0.90852326,
+  "ratingCount": 53,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-12T01:24:20.619332Z",
+  "uploader": 2777
+}

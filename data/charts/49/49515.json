@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:04Z",
+    "lastChanged": "2026-09-21T02:04:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-23T10:10:43.137981Z",
+  "charter": "XieChara vs. FriSK vs. 0mega vs. Miku_awa vs. XieChara",
+  "composer": "brz1128 vs. M-UE",
+  "created": "2025-11-26T12:56:26.373322Z",
+  "description": "改了5回吧好像是\n基本完善了\n主谱师是我，然后还有两个负责指点并对其做了小修改\n嗯总之欢迎游玩\n对底力要求有一点点高，尤其是尾杀\n\n孩子们我来更新谱面了。\n1.微调开头与结尾时钟黄键位置\n2.修复个别判定线事件参数错误问题\n3.修复红键打击特效位置不对的问题\n4.修复了可以通过stable的问题（不是",
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/279d0073-c781-41d4-b3b3-2a4b754e5cf4",
+  "id": 49515,
+  "illustration": "https://phira.5wyxi.com/files/bd0a85a0-e9f3-4805-9f8b-a11f4810004f",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Bloody Marquis",
+  "preview": "https://phira.5wyxi.com/files/b51e96d5-6129-4ba4-b638-b89e2b946f3e",
+  "ranked": false,
+  "rating": 0.9180994,
+  "ratingCount": 519,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Lanota",
+    "regular"
+  ],
+  "updated": "2026-02-23T10:10:43.137981Z",
+  "uploader": 92123
+}

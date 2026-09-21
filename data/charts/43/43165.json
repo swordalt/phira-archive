@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:26Z",
+    "lastChanged": "2026-09-21T02:06:26Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-11T08:31:24.622752Z",
+  "charter": "7sRef -WiND- QingFeng",
+  "composer": "打打だいず",
+  "created": "2025-07-30T12:27:05.690152Z",
+  "description": "本人上传\n一改\n修改了配置和流速\n考虑到尾杀的14流速难以读谱，已将流速改为11→11.5→12.5（初版12→13→14\n配置改的感觉不太行，神秘代码BV1B58Hz7EEb",
+  "difficulty": 16.900002,
+  "file": "https://phira.5wyxi.com/files/261f0da2-db0d-4a66-8101-ae772daf1d77",
+  "id": 43165,
+  "illustration": "https://phira.5wyxi.com/files/617c5b3c-9ac8-45de-a49f-da4e869ce727",
+  "illustrator": "",
+  "level": "IN Lv.16+",
+  "name": "World's end BLACKBOX",
+  "preview": "https://phira.5wyxi.com/files/a0f65f07-fcd8-4a82-aefe-973204aec2be",
+  "ranked": false,
+  "rating": 0.9111275,
+  "ratingCount": 67,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "maimai",
+    "plain"
+  ],
+  "updated": "2025-08-11T08:31:24.622752Z",
+  "uploader": 12322
+}

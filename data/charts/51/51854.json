@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:17Z",
+    "lastChanged": "2026-09-21T02:04:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-31T05:05:44.318494Z",
+  "charter": "Jerry(Siri)",
+  "composer": "Limpid",
+  "created": "2026-01-31T05:05:44.318494Z",
+  "description": "谱师本人上传，新人做的第一个谱，不擅长的表演的判定线。217cb前做的保守了，后面会有削弱版，如果有问题应该也懒得改了",
+  "difficulty": 18.5,
+  "file": "https://phira.5wyxi.com/files/1db110c7-866c-4a17-8a62-439cbc548f48",
+  "id": 51854,
+  "illustration": "https://phira.5wyxi.com/files/688f4ad1-40da-4c90-94e4-317362eeede6",
+  "illustrator": "",
+  "level": "SP Lv.?",
+  "name": "HAZARD",
+  "preview": "https://phira.5wyxi.com/files/6bcfa6a1-56b4-41fa-988e-82f6e6947805",
+  "ranked": false,
+  "rating": 0.85597205,
+  "ratingCount": 38,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-04-11T04:37:39.210898Z",
+  "uploader": 1694131
+}

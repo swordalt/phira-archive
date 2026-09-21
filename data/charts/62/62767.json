@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:51Z",
+    "lastChanged": "2026-09-21T02:04:51Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-27T10:02:00.222012Z",
+  "charter": "JiuFen",
+  "composer": "Dustbelly CL",
+  "created": "2026-06-27T10:02:00.222012Z",
+  "description": null,
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/3da1a2ac-984c-4545-b996-b147c5c0fc94",
+  "id": 62767,
+  "illustration": "https://phira.5wyxi.com/files/361715d2-1f38-481e-a898-26997c3b5881",
+  "illustrator": "",
+  "level": "AT Lv.14",
+  "name": "Amidst Nature",
+  "preview": "https://phira.5wyxi.com/files/de707ee0-1dd9-4840-a33b-45bb8449dd41",
+  "ranked": false,
+  "rating": 0.8187713,
+  "ratingCount": 34,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-27T10:02:00.222012Z",
+  "uploader": 1700978
+}

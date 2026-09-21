@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:40Z",
+    "lastChanged": "2026-09-21T02:01:40Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-11-05T03:12:34.727445Z",
+  "charter": "gaosheng & sb123",
+  "composer": "Sephid",
+  "created": "2023-11-05T03:12:34.727445Z",
+  "description": "很久之前写的了 传一下",
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/b9337dae-0e61-4ad9-9520-b383bb3da98a",
+  "id": 11174,
+  "illustration": "https://phira.5wyxi.com/files/a3a257ae-ecd4-4527-9bea-2ce1397b4a86",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "The Next Arcady",
+  "preview": "https://phira.5wyxi.com/files/d6bb26cf-4b1f-4a48-91d6-1f94d1a7fa8e",
+  "ranked": false,
+  "rating": 0.90108186,
+  "ratingCount": 76,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "BOFXVI",
+    "regular"
+  ],
+  "updated": "2023-11-05T03:12:34.727445Z",
+  "uploader": 213
+}

@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:16Z",
+    "lastChanged": "2026-09-21T02:03:16Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-23T14:03:47.827643Z",
+  "charter": "白涧君OvO",
+  "composer": "ZuXin With Utsuro",
+  "created": "2025-05-03T15:28:35.040997Z",
+  "description": "这张谱为本人主导制作的第七张谱面，兼第一张运用到判定线缩放的谱面，以及第一张不用官方难度（AT，IN等）分级标识的谱面。\n说实话，早在RYC里第一次遇到这个曲子时，我就知道我离写谱不远了。这首曲子真的很戳我的听歌喜好。原曲绘为RYC早期版本曲绘，经过我调整设计得到谱面曲绘。\nb站同名。\n2025.5.23更新：部分流速问题，部分排键修改，尾杀ui添加击打note时ui缩放",
+  "difficulty": 15.600002,
+  "file": "https://phira.5wyxi.com/files/19c50eab-622d-4432-a9ef-66024e772a0d",
+  "id": 37410,
+  "illustration": "https://phira.5wyxi.com/files/9dc4ada0-37b9-4b97-99a7-80ba7452c456",
+  "illustrator": "",
+  "level": "YING Lv.15",
+  "name": "月下桜天國",
+  "preview": "https://phira.5wyxi.com/files/f4b988bc-6331-497a-8755-5bfc3e33f91b",
+  "ranked": false,
+  "rating": 0.9344663,
+  "ratingCount": 294,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "RYCEAM",
+    "東方Project",
+    "regular"
+  ],
+  "updated": "2025-05-23T14:03:47.827643Z",
+  "uploader": 39297
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:08Z",
+    "lastChanged": "2026-09-21T02:01:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-04T09:08:16.487452Z",
+  "charter": "铁人解刨",
+  "composer": "DECO*27",
+  "created": "2023-05-04T09:08:16.487452Z",
+  "description": "",
+  "difficulty": 13.399995,
+  "file": "https://phira.5wyxi.com/files/464e44dd-63fd-4d0c-b8e5-8d2e819da9ba",
+  "id": 1161,
+  "illustration": "https://phira.5wyxi.com/files/9e2d0709-524e-4bb5-908c-3620c4bd9037",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "乙女解刨",
+  "preview": "https://phira.5wyxi.com/files/e60f9e46-d297-4813-8220-2feccde5d24d",
+  "ranked": false,
+  "rating": 0.93126744,
+  "ratingCount": 4793,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-05-04T09:08:16.487452Z",
+  "uploader": 6676
+}

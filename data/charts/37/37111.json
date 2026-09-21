@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:12Z",
+    "lastChanged": "2026-09-21T02:06:12Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-30T11:10:19.320111Z",
+  "charter": "ReimiliaScarlet",
+  "composer": "Laur",
+  "created": "2025-04-30T11:10:19.320111Z",
+  "description": null,
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/c8ead3c9-71f5-4ae5-a0db-d01c33c1d53e",
+  "id": 37111,
+  "illustration": "https://phira.5wyxi.com/files/419feccf-1c19-4dfc-84b7-142eba7f3181",
+  "illustrator": "",
+  "level": "stream",
+  "name": "Absolute Queen",
+  "preview": "https://phira.5wyxi.com/files/10ae6e85-7d84-412c-8055-f967f095d9a6",
+  "ranked": false,
+  "rating": 0.95356673,
+  "ratingCount": 103,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4k",
+    "plain"
+  ],
+  "updated": "2025-04-30T11:10:19.320111Z",
+  "uploader": 234198
+}

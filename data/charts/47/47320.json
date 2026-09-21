@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:54Z",
+    "lastChanged": "2026-09-21T02:03:54Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-29T06:57:23.705415Z",
+  "charter": "TXDDZ",
+  "composer": "Laur",
+  "created": "2025-09-29T06:57:23.705415Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/c14dcab7-d65a-43f6-8795-eb271ba515af",
+  "id": 47320,
+  "illustration": "https://phira.5wyxi.com/files/46f72246-3833-498a-ba83-4185c292a4f3",
+  "illustrator": "",
+  "level": "FM(FXIN) Lv.15",
+  "name": "Animosity",
+  "preview": "https://phira.5wyxi.com/files/39d54765-a3f0-4a97-ba99-ddda632d7ba5",
+  "ranked": false,
+  "rating": 0.9310607,
+  "ratingCount": 73,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-29T06:57:23.705415Z",
+  "uploader": 5715
+}

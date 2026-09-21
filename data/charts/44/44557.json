@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:40Z",
+    "lastChanged": "2026-09-21T02:03:40Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-13T08:51:43.170875Z",
+  "charter": "WSSB_SBX",
+  "composer": "kanone vs. BlackY",
+  "created": "2025-08-13T08:51:43.170875Z",
+  "description": null,
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/f85a7654-02ef-4e58-a79d-88f8a56ba18c",
+  "id": 44557,
+  "illustration": "https://phira.5wyxi.com/files/6cf52b1e-e3d7-4469-9c61-e4f6ba68fe45",
+  "illustrator": "",
+  "level": "SB Lv.17",
+  "name": "Stardust:RAY",
+  "preview": "https://phira.5wyxi.com/files/da1349e3-2c8e-450b-8720-44d783bd8e21",
+  "ranked": false,
+  "rating": 0.57934123,
+  "ratingCount": 289,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-13T08:51:43.170875Z",
+  "uploader": 1621779
+}

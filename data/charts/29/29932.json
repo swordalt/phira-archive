@@ -1,0 +1,41 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:48Z",
+    "lastChanged": "2026-09-21T02:02:48Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-12-29T10:58:39.424405Z",
+  "charter": "金枪鱼",
+  "composer": "jioyi",
+  "created": "2024-11-21T14:56:59.388012Z",
+  "description": "最终改谱！删除bug，优化众多细节，极大丰富谱面内容，改良游玩体验。谱师倾心制作，希望大家给好评！\n视频已发布至B站和小红书，与Phira基本同名，建议观看视频后使用平板游玩。",
+  "difficulty": 16.600002,
+  "file": "https://phira.5wyxi.com/files/381315d6-0529-429f-953d-a68469651e52",
+  "id": 29932,
+  "illustration": "https://phira.5wyxi.com/files/4889fef4-1c99-40e1-971d-8a5474f42fa3",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "cyanine",
+  "preview": "https://phira.5wyxi.com/files/943ae7d9-4031-4ea5-90c8-873395b498e7",
+  "ranked": false,
+  "rating": 0.33702207,
+  "ratingCount": 1173,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "改谱",
+    "创新",
+    "多指",
+    "特效",
+    "初见杀",
+    "Lanota",
+    "再优化",
+    "regular"
+  ],
+  "updated": "2025-01-30T11:53:21.524407Z",
+  "uploader": 1284755
+}

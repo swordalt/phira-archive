@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:57Z",
+    "lastChanged": "2026-09-21T02:01:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-15T08:39:07.843922Z",
+  "charter": "6thPecJam",
+  "composer": "PIKASONIC & Tatsunoshin",
+  "created": "2024-02-15T08:39:07.843922Z",
+  "description": "谱师本人上传，设备性能过低可能导致严重卡顿，手机玩家请使用3：2的比例游玩，平板铺满屏幕即可",
+  "difficulty": 13.900003,
+  "file": "https://phira.5wyxi.com/files/0a1ca9a5-5234-4ae7-96ae-4c2539e60378",
+  "id": 15726,
+  "illustration": "https://phira.5wyxi.com/files/7cd534fb-dacd-4a4f-b262-4dab9ca92314",
+  "illustrator": "",
+  "level": "IN  Lv.13",
+  "name": "Skyfall",
+  "preview": "https://phira.5wyxi.com/files/5bbfd89f-1e08-4535-8809-1aa6722df4ec",
+  "ranked": false,
+  "rating": 0.92514616,
+  "ratingCount": 570,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2024-03-09T15:24:17.835540Z",
+  "uploader": 7137
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:04Z",
+    "lastChanged": "2026-09-21T02:05:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-30T14:36:06.898347Z",
+  "charter": "「日蝕」",
+  "composer": "打打だいず",
+  "created": "2026-07-30T14:36:06.898347Z",
+  "description": "该谱面为 WSRT × 云梦杯 比赛供谱\n首次登场于【沉坠•破晓】16进8淘汰赛第五场",
+  "difficulty": 16.400002,
+  "file": "https://phira.5wyxi.com/files/1271b2fd-810a-4b4d-9724-46d61b1ebacb",
+  "id": 70183,
+  "illustration": "https://phira.5wyxi.com/files/abb609bd-b051-45d1-96f2-da5f3980e8ae",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "World's Eclipse",
+  "preview": "https://phira.5wyxi.com/files/4c603ece-fcc5-4f6d-b7f9-57c505856ccb",
+  "ranked": false,
+  "rating": 0.9525941,
+  "ratingCount": 296,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-30T14:36:06.898347Z",
+  "uploader": 50884
+}

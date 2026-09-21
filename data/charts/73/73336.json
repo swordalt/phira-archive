@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:09Z",
+    "lastChanged": "2026-09-21T02:05:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-14T10:36:30.955736Z",
+  "charter": "芙0莲大傻fu",
+  "composer": "Srαv3R ＆ Kobaryo",
+  "created": "2026-08-14T10:36:30.955736Z",
+  "description": "IPL供应谱面，本谱面由谱师芙莉莲大傻fu主写，由@000_dl  进行配置优化和后期优化 ，同时感谢蛋挞的配置修改和IPL谱师组全体的建议！该谱面耗时1d3h23m,总事件数量8186，总物量1392（28个假键），总判定线数37，前前后后二十天的时间，为IPL的决赛提供了第二张自制谱面~也感谢一直支持我走下去的大家！非常感谢！",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/4efada4d-d513-4d3f-9ccc-5fa1e1b8d3a6",
+  "id": 73336,
+  "illustration": "https://phira.5wyxi.com/files/07cc4b8d-c18b-4e6e-b078-2be13eb500f4",
+  "illustrator": "",
+  "level": "AT Lv.17(.3)",
+  "name": "INFINITE HYPERDRIVE",
+  "preview": "https://phira.5wyxi.com/files/3e6e0cd0-2399-4705-9d12-3152a79cde44",
+  "ranked": false,
+  "rating": 0.8712856,
+  "ratingCount": 197,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-14T10:36:30.955736Z",
+  "uploader": 692377
+}

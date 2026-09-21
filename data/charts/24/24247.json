@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:56Z",
+    "lastChanged": "2026-09-21T02:05:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-24T09:57:58.511744Z",
+  "charter": "VANDY",
+  "composer": "t+pazolite",
+  "created": "2024-07-24T09:57:58.511744Z",
+  "description": "LC2024#2final RC2",
+  "difficulty": 14.3,
+  "file": "https://phira.5wyxi.com/files/9d97dcf8-8777-42ab-bead-b622003e22ae",
+  "id": 24247,
+  "illustration": "https://phira.5wyxi.com/files/03d6ee4e-f84e-4738-953e-d19a64c42835",
+  "illustrator": "",
+  "level": "challenge",
+  "name": "Electric Butterfly",
+  "preview": "https://phira.5wyxi.com/files/f94a2a02-0525-46c6-8b52-099e26593a1c",
+  "ranked": false,
+  "rating": 0.9130178,
+  "ratingCount": 57,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "LC2024",
+    "plain"
+  ],
+  "updated": "2024-07-24T09:57:58.511744Z",
+  "uploader": 21497
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:30Z",
+    "lastChanged": "2026-09-21T02:01:30Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-29T16:11:42.452285Z",
+  "charter": "MOUCAT",
+  "composer": "雪狐桑",
+  "created": "2023-08-29T16:11:42.452285Z",
+  "description": "特效没写好（\n2023.8.30：改了点排键，用了新曲绘\n过审后旧版会删除\n谱面放在动态里了，欢迎大家改谱！发的时候记得带上原作者就行（我的B站ID是@雪狐桑的某猫）\n这首翻唱在B站和网易云都下架了（因为版权问题），所以原曲我也放在动态里",
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/a01dd7d1-703b-47b2-b595-00db9049feff",
+  "id": 8746,
+  "illustration": "https://phira.5wyxi.com/files/c9461b7b-3180-4193-a995-f17cbb1e15b2",
+  "illustrator": "",
+  "level": "IN lv.13",
+  "name": "小城夏天-雪狐桑的翻唱",
+  "preview": "https://phira.5wyxi.com/files/3768dd8b-57b0-4473-a634-2a7a18f3f2d7",
+  "ranked": false,
+  "rating": 0.9090637,
+  "ratingCount": 4151,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-08-29T16:11:42.452285Z",
+  "uploader": 206982
+}

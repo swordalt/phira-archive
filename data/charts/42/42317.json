@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:31Z",
+    "lastChanged": "2026-09-21T02:03:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-23T13:16:02.022932Z",
+  "charter": "ColourpOINT",
+  "composer": "Sta",
+  "created": "2025-07-21T12:18:39.749141Z",
+  "description": "懂王杯初赛参赛谱，修改配置后本人上传",
+  "difficulty": 14.500002,
+  "file": "https://phira.5wyxi.com/files/50d94571-52f0-48e8-8b81-438f360775b4",
+  "id": 42317,
+  "illustration": "https://phira.5wyxi.com/files/28b49f69-7a3d-4954-87e5-d8adf6ec86c8",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Song for Sprites",
+  "preview": "https://phira.5wyxi.com/files/356c3e01-4240-4a10-a8dc-6cbb311495a1",
+  "ranked": false,
+  "rating": 0.9312324,
+  "ratingCount": 211,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-07-23T13:16:02.022932Z",
+  "uploader": 632202
+}

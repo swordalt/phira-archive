@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:10Z",
+    "lastChanged": "2026-09-21T02:05:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-19T08:42:28.143163Z",
+  "charter": "2462835",
+  "composer": "TC",
+  "created": "2026-08-19T08:42:28.143163Z",
+  "description": "谱师本人上传\n群友点歌，有空位顺手传了",
+  "difficulty": 12.500006,
+  "file": "https://phira.5wyxi.com/files/25a47ade-7b9a-4c70-a6c4-b3146ec222ec",
+  "id": 74374,
+  "illustration": "https://phira.5wyxi.com/files/947bebae-2758-4a54-a61b-641ae12c3ce6",
+  "illustrator": "",
+  "level": "IN Lv.12",
+  "name": "熄灭",
+  "preview": "https://phira.5wyxi.com/files/9fba8b4e-dde8-422c-afd5-d5e208c29643",
+  "ranked": false,
+  "rating": 0.9513746,
+  "ratingCount": 11119,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-19T08:42:28.143163Z",
+  "uploader": 1498506
+}

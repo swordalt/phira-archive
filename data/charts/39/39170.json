@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:17Z",
+    "lastChanged": "2026-09-21T02:06:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-02T13:24:23.593803Z",
+  "charter": "Sfcaris",
+  "composer": "XD",
+  "created": "2025-06-02T13:24:23.593803Z",
+  "description": "（本人上传，B站名：熊大SfcarisFW25880）这次的排列我跟QQwiwi学的，从昨天晚上7点肝到11点解决。当时用了用自动定数器测了一下结果上了19.07的定数，但考虑到切大部分虚高（8切这个给了20.5）于是给了18最顶位，这个谱子主要难在尾杀的巨型满切，bpm虽说只有175但不好糊。建议9dan挑战",
+  "difficulty": 18.9,
+  "file": "https://phira.5wyxi.com/files/30db7546-1651-44ad-b6ca-e096b5be1b6c",
+  "id": 39170,
+  "illustration": "https://phira.5wyxi.com/files/b665fca7-bcef-4903-bdba-bc15094ba6b8",
+  "illustrator": "",
+  "level": "6K Crazy [18+]",
+  "name": "DAW WARS",
+  "preview": "https://phira.5wyxi.com/files/6e2ea76c-cf6a-4b16-b5e0-8689c5d01601",
+  "ranked": false,
+  "rating": 0.93392074,
+  "ratingCount": 23,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6K",
+    "高难",
+    "stamina",
+    "满切",
+    "plain"
+  ],
+  "updated": "2025-06-02T13:24:23.593803Z",
+  "uploader": 136086
+}

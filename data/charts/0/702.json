@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:06Z",
+    "lastChanged": "2026-09-21T02:01:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-04-22T11:38:54.459247Z",
+  "charter": "遗风在此",
+  "composer": "大国奏音",
+  "created": "2023-04-22T11:38:54.459247Z",
+  "description": "包含BGA，谱面文件可能有点大",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/8b1b4e6d-8e09-4331-94ed-393ff2beb6de",
+  "id": 702,
+  "illustration": "https://phira.5wyxi.com/files/e9ad7011-2f48-4e13-bed2-5cf3df35314c",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "封焔の135秒",
+  "preview": "https://phira.5wyxi.com/files/ef956785-bf8b-461a-a01d-82b7c8a6a441",
+  "ranked": false,
+  "rating": 0.8670686,
+  "ratingCount": 1098,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "封焔の135秒",
+    "maimai",
+    "regular"
+  ],
+  "updated": "2023-04-22T11:38:54.459247Z",
+  "uploader": 899
+}

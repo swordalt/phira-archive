@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:25Z",
+    "lastChanged": "2026-09-21T02:04:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-27T04:37:21.389960Z",
+  "charter": "Redstoner_molan",
+  "composer": "Zach",
+  "created": "2026-02-27T04:37:21.389960Z",
+  "description": null,
+  "difficulty": 16.500002,
+  "file": "https://phira.5wyxi.com/files/1050ad8d-1a4c-4cea-8a24-01e06a5a5f4d",
+  "id": 53516,
+  "illustration": "https://phira.5wyxi.com/files/5e284a1f-c97e-45be-b06a-b7a47f49e314",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "时·忆",
+  "preview": "https://phira.5wyxi.com/files/7c1d0eaf-ce55-4c42-85e2-52058cbf2453",
+  "ranked": false,
+  "rating": 0.83259,
+  "ratingCount": 139,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-04-11T01:47:21.959963Z",
+  "uploader": 1333780
+}

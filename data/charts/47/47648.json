@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:55Z",
+    "lastChanged": "2026-09-21T02:03:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-05T05:15:52.551212Z",
+  "charter": "phinob24",
+  "composer": "Rintaro Soma",
+  "created": "2025-10-05T05:15:52.551212Z",
+  "description": null,
+  "difficulty": 17.6,
+  "file": "https://phira.5wyxi.com/files/85b68204-ba7c-4893-8698-3288da52a174",
+  "id": 47648,
+  "illustration": "https://phira.5wyxi.com/files/5c4f50e3-0d48-4f36-8144-6f806958897c",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "sølips",
+  "preview": "https://phira.5wyxi.com/files/99a8c3b5-4545-450b-93a3-7a019c3f1f38",
+  "ranked": false,
+  "rating": 0.7540686,
+  "ratingCount": 81,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-10-05T05:15:52.551212Z",
+  "uploader": 1366169
+}

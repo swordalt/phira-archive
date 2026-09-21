@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:53Z",
+    "lastChanged": "2026-09-21T02:01:53Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-03T17:15:37.030165Z",
+  "charter": "MVsVPD",
+  "composer": "HOYO-MiX",
+  "created": "2024-02-03T17:15:37.030165Z",
+  "description": "如果发现鬼畜的note不要慌张，不知道为什么传到Phira里就出bug了QAQ",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/6e89b689-ab8f-4905-bd3e-063be6ae6c30",
+  "id": 14748,
+  "illustration": "https://phira.5wyxi.com/files/9d642cc9-ba24-4284-bd19-0759de9aba94",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "霜烈竞逐 Nippy Bout",
+  "preview": "https://phira.5wyxi.com/files/c1da9021-8c30-4b99-afa1-de05e050ac09",
+  "ranked": false,
+  "rating": 0.94516194,
+  "ratingCount": 4124,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "原神",
+    "莱欧斯利",
+    "regular"
+  ],
+  "updated": "2024-02-03T17:15:37.030165Z",
+  "uploader": 4022
+}

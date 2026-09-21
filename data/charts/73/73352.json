@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:09Z",
+    "lastChanged": "2026-09-21T02:05:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-14T11:24:41.865295Z",
+  "charter": "Haru_12",
+  "composer": "seatrus/打打だいず",
+  "created": "2026-08-14T11:24:41.865295Z",
+  "description": "《四川联合音游赛事》是联合了川内多个地区/学校社团/音游交流群所共同创建的音游赛事。更多信息请咨询q群1057670784",
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/4c6be827-7840-4315-9a62-7aae89af82cc",
+  "id": 73352,
+  "illustration": "https://phira.5wyxi.com/files/c95034f0-9fc6-4701-b047-0e48de1492fa",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Beyond the Rainbow",
+  "preview": "https://phira.5wyxi.com/files/6ece8806-d205-4397-bfb7-f5bc2295ae8b",
+  "ranked": false,
+  "rating": 0.9370222,
+  "ratingCount": 296,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-14T11:24:41.865295Z",
+  "uploader": 50884
+}

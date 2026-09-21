@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:12Z",
+    "lastChanged": "2026-09-21T02:01:12Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-18T14:53:30.346043Z",
+  "charter": "Naptie",
+  "composer": "かめりあ",
+  "created": "2023-05-18T14:53:30.346043Z",
+  "description": "",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/f3c0e6f7-bd0b-40fe-98fb-73a6cdafb8e6",
+  "id": 2253,
+  "illustration": "https://phira.5wyxi.com/files/ee66bb21-81ed-43f3-b215-c8fa8beff425",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "ヒアソビ",
+  "preview": "https://phira.5wyxi.com/files/d14a1b50-b273-4e46-b339-9aaa64e959ba",
+  "ranked": true,
+  "rating": 0.9119591,
+  "ratingCount": 4738,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "VOCALOID",
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 25933
+}

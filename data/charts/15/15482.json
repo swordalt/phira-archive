@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:42Z",
+    "lastChanged": "2026-09-21T02:05:42Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-12T11:12:37.119952Z",
+  "charter": "adk-17",
+  "composer": "Kobaryo [feat.かめりあ ]",
+  "created": "2024-02-12T11:12:37.119952Z",
+  "description": "0.谱师本人上传。\n1.谱面等级中4k后的\"?\"表示谱面中含有黄键。\n2.本来想写一些比较难的配置，后来考虑到超出自身能力的谱面很有可能写成粪谱，于是作罢。\n3.这个谱面其实本来没想写来着，只是后来因某些因素，又起了兴致。\n4.这个谱面依旧有不完善的地方，如果仍不能让你满意，欢迎打低星，我会尽量改掉那些不合理的地方。\n5.本次谱面可以大致看成采音的试验，大部分配置采用最简化处理，不过在260bpm的加持下对于底力的要求仍然没有被削减多少，还请酌情游玩。",
+  "difficulty": 28.0,
+  "file": "https://phira.5wyxi.com/files/142554a8-da96-46b8-8f9c-f8abab4e3681",
+  "id": 15482,
+  "illustration": "https://phira.5wyxi.com/files/ff1443cf-17fa-4d3d-8af2-1e3710ec9776",
+  "illustrator": "",
+  "level": "4k? Lv.28",
+  "name": "Vallain Virus",
+  "preview": "https://phira.5wyxi.com/files/61ca1534-240c-4968-bb8d-d0a55e4b172c",
+  "ranked": false,
+  "rating": 0.93147796,
+  "ratingCount": 923,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4k",
+    "plain"
+  ],
+  "updated": "2024-02-12T11:12:37.119952Z",
+  "uploader": 21992
+}

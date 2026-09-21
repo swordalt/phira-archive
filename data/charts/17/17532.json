@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:45Z",
+    "lastChanged": "2026-09-21T02:05:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-24T13:09:12.144186Z",
+  "charter": "Team Frog",
+  "composer": "hugepulse",
+  "created": "2024-03-24T13:09:12.144186Z",
+  "description": "LC2024#1/#1.5 FINALRC2\n谱面制作人上传",
+  "difficulty": 12.0,
+  "file": "https://phira.5wyxi.com/files/9e20fc6c-2e47-47ad-850d-4e516e491e7d",
+  "id": 17532,
+  "illustration": "https://phira.5wyxi.com/files/81781a20-b927-4734-8899-2b9f0f38c4cb",
+  "illustrator": "",
+  "level": "EXTRA+",
+  "name": "クォークの海を泳いで",
+  "preview": "https://phira.5wyxi.com/files/49cbddf4-81be-4c73-99b2-f077185607fa",
+  "ranked": false,
+  "rating": 0.8964192,
+  "ratingCount": 79,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "ChainBeeT",
+    "LC2024",
+    "plain"
+  ],
+  "updated": "2024-03-24T13:09:12.144186Z",
+  "uploader": 829044
+}

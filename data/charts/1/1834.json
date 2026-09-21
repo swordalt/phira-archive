@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:10Z",
+    "lastChanged": "2026-09-21T02:01:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-13T05:26:18.604687Z",
+  "charter": "Repeatpump",
+  "composer": "かめりあ",
+  "created": "2023-05-13T05:26:18.604687Z",
+  "description": "上次让san代投的被下了，我现在重投一下。改了点地方",
+  "difficulty": 17.500002,
+  "file": "https://phira.5wyxi.com/files/b79d3d13-a389-435d-8f00-b1438b654fba",
+  "id": 1834,
+  "illustration": "https://phira.5wyxi.com/files/f25cee5e-dc54-496a-8201-4b25081066e2",
+  "illustrator": "",
+  "level": "AT",
+  "name": "TremENDouS",
+  "preview": "https://phira.5wyxi.com/files/452d92e4-74a9-4e72-aa98-bc03eef9c546",
+  "ranked": false,
+  "rating": 0.8592252,
+  "ratingCount": 2273,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular",
+    "かめりあ",
+    "Camellia",
+    "osu",
+    "tb"
+  ],
+  "updated": "2023-05-21T14:26:16.768281Z",
+  "uploader": 17363
+}

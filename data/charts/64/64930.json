@@ -1,0 +1,40 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:57Z",
+    "lastChanged": "2026-09-21T02:06:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-08T08:55:15.399798Z",
+  "charter": "HRS-Team",
+  "composer": "Machico",
+  "created": "2026-07-08T08:55:15.399798Z",
+  "description": "HRS-Lv.11-Flow练习曲",
+  "difficulty": 11.900007,
+  "file": "https://phira.5wyxi.com/files/619e7c77-9bb7-4fc6-9cae-e48f6252f21f",
+  "id": 64930,
+  "illustration": "https://phira.5wyxi.com/files/14e5022d-ed03-436a-9c13-2ec4b46052de",
+  "illustrator": "",
+  "level": "Flow",
+  "name": "コレカラ",
+  "preview": "https://phira.5wyxi.com/files/ca430683-6dec-4492-aab9-8b63653029a5",
+  "ranked": false,
+  "rating": 0.9359158,
+  "ratingCount": 50,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "HRS",
+    "双指",
+    "谐律段位",
+    "11",
+    "Flow",
+    "幻",
+    "plain"
+  ],
+  "updated": "2026-07-08T08:55:15.399798Z",
+  "uploader": 2815373
+}

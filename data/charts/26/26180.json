@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:33Z",
+    "lastChanged": "2026-09-21T02:02:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-14T00:46:58.520489Z",
+  "charter": "curoba",
+  "composer": "TJ.hangneil",
+  "created": "2024-08-14T00:46:58.520489Z",
+  "description": "本谱面为up的初谱，在听过sasakure的各种歌后，对apollo有莫名的喜欢，看了ongeki的谱面后制成 | 本谱面初衷就不是熟悉的传统多指谱，更考验的是底里和读谱，但为了应合多指谱，也加入了部分键盘作为多指的考点。测试难读相似于321，但个人感觉要比321的多指更难",
+  "difficulty": 16.9,
+  "file": "https://phira.5wyxi.com/files/432aa7a7-8b46-4d74-a2d5-afd86bb13011",
+  "id": 26180,
+  "illustration": "https://phira.5wyxi.com/files/a87296b3-60ee-4049-a5b3-0d704e70910d",
+  "illustrator": "",
+  "level": "SP Lv.16?",
+  "name": "Apollo",
+  "preview": "https://phira.5wyxi.com/files/7c9dd84d-bf0c-4f09-b490-c8dedcc09697",
+  "ranked": false,
+  "rating": 0.7753579,
+  "ratingCount": 167,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-14T00:46:58.520489Z",
+  "uploader": 51359
+}

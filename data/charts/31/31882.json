@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:56Z",
+    "lastChanged": "2026-09-21T02:02:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-31T10:19:45.193436Z",
+  "charter": "zyrf",
+  "composer": "Ludicin",
+  "created": "2025-01-16T03:29:49.167230Z",
+  "description": "B站：@布耶尔-zyrf\n谱面预览：BV1Ric6eeEKj\n个人首张高难谱\n8.31：开头增添note，微调部分动效和采音\n感谢 噬梦Suika 对谱面动效的增添与改动",
+  "difficulty": 18.4,
+  "file": "https://phira.5wyxi.com/files/f693753d-c6f6-420b-9c86-62c7f2a2fa4b",
+  "id": 31882,
+  "illustration": "https://phira.5wyxi.com/files/e5ce0891-241a-47ac-9ee3-3cab83f376f0",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Bismuth",
+  "preview": "https://phira.5wyxi.com/files/4f600337-9667-46ca-84aa-1fa50becd3c1",
+  "ranked": false,
+  "rating": 0.93695796,
+  "ratingCount": 777,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4K",
+    "5K",
+    "6K",
+    "regular"
+  ],
+  "updated": "2025-08-31T10:19:45.193436Z",
+  "uploader": 78246
+}

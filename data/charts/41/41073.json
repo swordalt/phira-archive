@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:21Z",
+    "lastChanged": "2026-09-21T02:06:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-07T07:27:45.664697Z",
+  "charter": "LX",
+  "composer": "中沢伴行",
+  "created": "2025-07-07T07:27:45.664697Z",
+  "description": "为单手而生的谱面，全程没有6指需求。当然这难度似乎并不适合单手玩(bushi",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/572f6711-e092-449d-b28f-b9ce2708a7e2",
+  "id": 41073,
+  "illustration": "https://phira.5wyxi.com/files/6a3801d2-4087-484b-b2af-5903a823c777",
+  "illustrator": "",
+  "level": "AT Lv.18+",
+  "name": "奈落の花",
+  "preview": "https://phira.5wyxi.com/files/eeb78d0a-2814-42c4-8c5a-b124b82886c4",
+  "ranked": false,
+  "rating": 0.8392182,
+  "ratingCount": 19,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "单手",
+    "键盘",
+    "plain"
+  ],
+  "updated": "2025-07-15T12:07:31.716541Z",
+  "uploader": 243462
+}

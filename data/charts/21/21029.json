@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:16Z",
+    "lastChanged": "2026-09-21T02:02:16Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-06-09T07:46:06.564014Z",
+  "charter": "Resonance & Kmoon",
+  "composer": "Ardolf",
+  "created": "2024-06-09T07:46:06.564014Z",
+  "description": "本谱是与@Kmoon#125339\n的合作谱",
+  "difficulty": 16.400002,
+  "file": "https://phira.5wyxi.com/files/4224866b-4da6-49c4-b19f-b645cfcab660",
+  "id": 21029,
+  "illustration": "https://phira.5wyxi.com/files/d53f164f-2de6-42a7-bfd1-d2af70e8f422",
+  "illustrator": "",
+  "level": "SP",
+  "name": "Tales of the Dungeon",
+  "preview": "https://phira.5wyxi.com/files/47b9dd0d-4be2-4908-84a8-0fa8538c31ef",
+  "ranked": false,
+  "rating": 0.9502007,
+  "ratingCount": 756,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-19T07:17:55.902745Z",
+  "uploader": 565722
+}

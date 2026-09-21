@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:08Z",
+    "lastChanged": "2026-09-21T02:01:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-18T01:28:35.310791Z",
+  "charter": "CharlieXD",
+  "composer": "Nitro Fun",
+  "created": "2023-05-07T04:18:07.023428Z",
+  "description": "背景圖是一年半前用電腦畫的，別在意啊（）\n\n本譜因不明原因遭到下架因此重新上傳\n\n註：本譜已經過部分變動，包括：\n-中間段紅鍵手感提升\n-部分速度調整\n-部分表演調整\n-部分配置調整",
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/f1695529-e536-486c-ae43-f018cc1092cd",
+  "id": 1324,
+  "illustration": "https://phira.5wyxi.com/files/00c3b45d-4c04-4ab0-8ddd-d16548bf9824",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Final Boss",
+  "preview": "https://phira.5wyxi.com/files/f9d2f8cd-3176-4861-804e-7c03cc65d1e8",
+  "ranked": false,
+  "rating": 0.80481017,
+  "ratingCount": 733,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "JSAB",
+    "regular"
+  ],
+  "updated": "2023-05-20T08:40:25.814746Z",
+  "uploader": 3512
+}

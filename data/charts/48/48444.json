@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:58Z",
+    "lastChanged": "2026-09-21T02:03:58Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-04T17:05:23.226386Z",
+  "charter": "1yuia8",
+  "composer": "Aice room",
+  "created": "2025-10-25T23:11:24.046188Z",
+  "description": "第一次写谱，谱面预览BV1c8sGz2E3R\n11.5更新，将倒打段改成直角坐标系，尾杀稍微加强\n\n本谱面开头表演有一条判定线透明度没调好，但由于更新谱面需要将谱面下架重新审核，故未做更改",
+  "difficulty": 15.200001,
+  "file": "https://phira.5wyxi.com/files/a1bb2ec3-e1b2-4975-af11-531578cb5515",
+  "id": 48444,
+  "illustration": "https://phira.5wyxi.com/files/3d1c93ec-0d95-4d21-9b05-223bc7184035",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "RE Aoharu",
+  "preview": "https://phira.5wyxi.com/files/2ffc1258-67c4-458a-b685-ae5cd5f4f359",
+  "ranked": false,
+  "rating": 0.93092334,
+  "ratingCount": 1304,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-11-06T09:55:45.033111Z",
+  "uploader": 413674
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:15Z",
+    "lastChanged": "2026-09-21T02:01:15Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-06-11T13:18:25.850338Z",
+  "charter": "陈落影",
+  "composer": "华晨宇",
+  "created": "2023-06-11T13:18:25.850338Z",
+  "description": "",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/cea1150e-6a36-49fa-8ef9-47b4aa69e92e",
+  "id": 3403,
+  "illustration": "https://phira.5wyxi.com/files/aa1a12af-f76b-4512-88ca-e089dec69e33",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "飞行模式",
+  "preview": "https://phira.5wyxi.com/files/91ff4b68-8556-4ec1-a66f-1b60d50d98a3",
+  "ranked": false,
+  "rating": 0.87720966,
+  "ratingCount": 656,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-06-11T13:18:25.850338Z",
+  "uploader": 20863
+}

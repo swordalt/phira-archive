@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:40Z",
+    "lastChanged": "2026-09-21T02:01:40Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-11-14T19:46:16.457295Z",
+  "charter": "InterJoke",
+  "composer": "Reku Mochizuki",
+  "created": "2023-11-14T19:46:16.457295Z",
+  "description": "不建议在过暗环境下游玩！\n\n于2022/12/5发布，BV16P4y1Q7uT，本人上传\n2023微调版，调整了几个不合理的设计",
+  "difficulty": 14.600002,
+  "file": "https://phira.5wyxi.com/files/a8d19271-0c3d-4264-97fa-96f4f8224f8e",
+  "id": 11489,
+  "illustration": "https://phira.5wyxi.com/files/c9c1e986-75f1-4e9c-a6a7-d1f608754cc7",
+  "illustrator": "",
+  "level": "FM Lv.14",
+  "name": "Lazuladia",
+  "preview": "https://phira.5wyxi.com/files/1d1f7c86-d3a1-4681-88d8-ef4b49d6bbf4",
+  "ranked": true,
+  "rating": 0.92244846,
+  "ratingCount": 2238,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "喵赛克",
+    "同步音律",
+    "MUSYNX",
+    "MUSYNC",
+    "regular"
+  ],
+  "updated": "2023-11-14T19:46:16.457295Z",
+  "uploader": 3017
+}

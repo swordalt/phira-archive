@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:05Z",
+    "lastChanged": "2026-09-21T02:05:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-02T05:39:34.104177Z",
+  "charter": "Linze",
+  "composer": "Function Phantom",
+  "created": "2026-08-02T05:39:34.104177Z",
+  "description": "谱面为本人制作并上传",
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/bde3430c-3e25-4ae1-9577-e53170bfc24d",
+  "id": 70695,
+  "illustration": "https://phira.5wyxi.com/files/6e43da91-6c21-48b6-a01b-19c3fef23daf",
+  "illustrator": "",
+  "level": "Cloudburst 15",
+  "name": "Algebra",
+  "preview": "https://phira.5wyxi.com/files/bde2e8a9-5789-47ef-b41e-89fa06784758",
+  "ranked": false,
+  "rating": 0.9292995,
+  "ratingCount": 229,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-09-14T09:25:37.583579Z",
+  "uploader": 1935040
+}

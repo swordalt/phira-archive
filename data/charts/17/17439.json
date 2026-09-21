@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:05Z",
+    "lastChanged": "2026-09-21T02:02:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-23T12:23:28.747360Z",
+  "charter": "/10005/",
+  "composer": "Kurobe studio",
+  "created": "2024-03-23T12:23:28.747360Z",
+  "description": "谱师亲自上传，这个是最终版本了",
+  "difficulty": 14.400001,
+  "file": "https://phira.5wyxi.com/files/63a85bd8-4c8c-4f18-b21a-6bfb4e968c27",
+  "id": 17439,
+  "illustration": "https://phira.5wyxi.com/files/66e7489f-3f0b-48dd-ae92-53e0ad51688e",
+  "illustrator": "",
+  "level": "In Lv.14",
+  "name": "A Clock",
+  "preview": "https://phira.5wyxi.com/files/3d6c6d11-b31a-4726-8156-18121517af5b",
+  "ranked": false,
+  "rating": 0.91856056,
+  "ratingCount": 151,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Rotaeno",
+    "regular"
+  ],
+  "updated": "2024-03-23T12:23:28.747360Z",
+  "uploader": 311802
+}

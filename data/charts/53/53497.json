@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:25Z",
+    "lastChanged": "2026-09-21T02:04:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-26T16:26:38.463315Z",
+  "charter": "voistique",
+  "composer": "Yooh",
+  "created": "2026-02-26T16:26:38.463315Z",
+  "description": null,
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/b231c29f-26af-4755-8317-28db1d055c48",
+  "id": 53497,
+  "illustration": "https://phira.5wyxi.com/files/b4812a79-84ed-45f9-9794-7ac55dc57555",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "LegenD.",
+  "preview": "https://phira.5wyxi.com/files/6f67e6db-e9d2-44ef-a7ff-b91dbeb982e6",
+  "ranked": false,
+  "rating": 0.8978335,
+  "ratingCount": 143,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "SDVX",
+    "regular"
+  ],
+  "updated": "2026-02-26T16:26:38.463315Z",
+  "uploader": 519335
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:35Z",
+    "lastChanged": "2026-09-21T02:06:35Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-10T07:46:06.812425Z",
+  "charter": "snowcrystal",
+  "composer": "Kobaryo",
+  "created": "2025-09-10T07:46:06.812425Z",
+  "description": "第二张铺面，需要有一些底力，但整体是很简单的",
+  "difficulty": 15.800009,
+  "file": "https://phira.5wyxi.com/files/53245f17-b4ca-4d17-aa94-929144a92175",
+  "id": 46642,
+  "illustration": "https://phira.5wyxi.com/files/20456e9d-abcd-48ff-bd73-c6d6986f41af",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Recollection",
+  "preview": "https://phira.5wyxi.com/files/838b73c2-a750-45e7-ba81-fcb58fe3d343",
+  "ranked": false,
+  "rating": 0.8786081,
+  "ratingCount": 38,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-09-10T07:46:06.812425Z",
+  "uploader": 15206
+}

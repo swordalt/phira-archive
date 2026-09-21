@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:20Z",
+    "lastChanged": "2026-09-21T02:04:20Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-11T05:51:07.975739Z",
+  "charter": "LiFE Rabbit",
+  "composer": "Yooh",
+  "created": "2026-02-11T05:51:07.975739Z",
+  "description": "生命花园的HD版本",
+  "difficulty": 9.0,
+  "file": "https://phira.5wyxi.com/files/7e161b36-fd4f-4250-8be5-c505b872662e",
+  "id": 52427,
+  "illustration": "https://phira.5wyxi.com/files/b0fc031b-e42d-45b0-88af-1333b37aa0ed",
+  "illustrator": "",
+  "level": "HD Lv.14.9",
+  "name": "LiFE Garden(Extended Mix)",
+  "preview": "https://phira.5wyxi.com/files/28f06226-17c8-46be-af44-529aa9a26a5c",
+  "ranked": false,
+  "rating": 0.9166962,
+  "ratingCount": 145,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-11T05:51:07.975739Z",
+  "uploader": 929061
+}

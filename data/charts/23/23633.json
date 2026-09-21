@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:25Z",
+    "lastChanged": "2026-09-21T02:05:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-17T02:44:30.146776Z",
+  "charter": "ERBROR",
+  "composer": "こっちのけんと",
+  "created": "2024-07-17T02:44:30.146776Z",
+  "description": "后面偷懒没怎么做，好像有个地方有bug",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/ecd038a9-64c3-4c96-ab09-dd828eb2a71e",
+  "id": 23633,
+  "illustration": "https://phira.5wyxi.com/files/94905b86-ae2b-4c34-9844-b41cd37ac99e",
+  "illustrator": "",
+  "level": "AT-15",
+  "name": "はいよろこんで[乐意效劳]",
+  "preview": "https://phira.5wyxi.com/files/0a35f0c5-fe9d-4413-ba66-5880e22f99f1",
+  "ranked": false,
+  "rating": 0.8679849,
+  "ratingCount": 1095,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-07-17T02:44:30.146776Z",
+  "uploader": 362924
+}

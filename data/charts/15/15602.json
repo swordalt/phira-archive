@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:57Z",
+    "lastChanged": "2026-09-21T02:01:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-13T16:23:45.799894Z",
+  "charter": "Hardstyle Charting Team",
+  "composer": "Rebelion/Hard Driver",
+  "created": "2024-02-13T16:23:45.799894Z",
+  "description": "谱师：@EvolutionProject @restey_lih\n动效主要由@restey_lih完成\n判定线表演主要由@EvolutionProject完成\n配置由两人共同完成\n享受kick轰炸带来的地震吧～",
+  "difficulty": 15.500002,
+  "file": "https://phira.5wyxi.com/files/88a5e4d8-1d01-472f-b3f3-4c7290b26144",
+  "id": 15602,
+  "illustration": "https://phira.5wyxi.com/files/d3cd048b-7ef8-4c11-8430-a598dab7050c",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Earthquake",
+  "preview": "https://phira.5wyxi.com/files/1679bd0f-b154-40eb-bf09-19ecb8266151",
+  "ranked": true,
+  "rating": 0.90865356,
+  "ratingCount": 1052,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "Hardstyle",
+    "regular"
+  ],
+  "updated": "2024-02-13T16:23:45.799894Z",
+  "uploader": 104079
+}

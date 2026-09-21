@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:29Z",
+    "lastChanged": "2026-09-21T02:05:29Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-06T17:47:09.281385Z",
+  "charter": "CooCooCooCoo",
+  "composer": "宫本浩次",
+  "created": "2025-05-06T17:47:09.281385Z",
+  "description": "新手的不知道第几张谱子（修改了一些音符结束后判定线位置突变的问题）",
+  "difficulty": 13.499998,
+  "file": "https://phira.5wyxi.com/files/a9022026-9efc-4348-a916-b5776b85e147",
+  "id": 37741,
+  "illustration": "https://phira.5wyxi.com/files/1717f8c6-376b-413a-8e32-28868893dec1",
+  "illustrator": "",
+  "level": "IN.Lv.13",
+  "name": "冬之花",
+  "preview": "https://phira.5wyxi.com/files/c8d7338d-bb2e-4e23-a769-0d52bbe4cecb",
+  "ranked": false,
+  "rating": 0.94673365,
+  "ratingCount": 1290,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2025-05-07T10:42:05.053529Z",
+  "uploader": 245822
+}

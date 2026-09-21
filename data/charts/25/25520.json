@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:31Z",
+    "lastChanged": "2026-09-21T02:02:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-07T03:55:09.892441Z",
+  "charter": "Tempo Underwater",
+  "composer": "Hylen ft. Hatsune Miku",
+  "created": "2024-08-07T03:55:09.892441Z",
+  "description": "[en/US]",
+  "difficulty": 15.200001,
+  "file": "https://phira.5wyxi.com/files/9f81086c-4f45-4634-b953-33b23ee7ec5e",
+  "id": 25520,
+  "illustration": "https://phira.5wyxi.com/files/66e5624f-b416-4967-9d93-f99cea357c83",
+  "illustrator": "",
+  "level": "IN Lv. 15",
+  "name": "UNDERWATER",
+  "preview": "https://phira.5wyxi.com/files/2a8c87ff-e2e0-448e-9719-3e1a12eb28f9",
+  "ranked": false,
+  "rating": 0.8636268,
+  "ratingCount": 169,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-07T03:55:09.892441Z",
+  "uploader": 158825
+}

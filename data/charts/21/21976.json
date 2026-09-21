@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:19Z",
+    "lastChanged": "2026-09-21T02:02:19Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-06-26T14:34:56.239825Z",
+  "charter": "xiaoxiawa",
+  "composer": "Glichery",
+  "created": "2024-06-26T14:34:56.239825Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/a4915cdb-c119-4dcf-ba7b-38bea4bc9a7d",
+  "id": 21976,
+  "illustration": "https://phira.5wyxi.com/files/3ccdf744-1154-430c-9462-db3a1fd08259",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "Sea of problems",
+  "preview": "https://phira.5wyxi.com/files/8148232a-a90d-4b0e-ab02-3c73f10edbc8",
+  "ranked": false,
+  "rating": 0.836661,
+  "ratingCount": 981,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-06-26T14:34:56.239825Z",
+  "uploader": 650118
+}

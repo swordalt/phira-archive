@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:12Z",
+    "lastChanged": "2026-09-21T02:04:12Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-11T14:54:55.903460Z",
+  "charter": "七号硬币",
+  "composer": "三Zstuido、HOYO-Mix、Ashley Alisha",
+  "created": "2026-01-11T14:54:55.903460Z",
+  "description": "写得不好，有在反思……轻喷……\n建议3:2游玩\nB站作者名：七号硬币\nbpm：116\n物量：1012\n原工程文件展示视频：BV1qwi1BLE6a（B站）\n备注：583combo～611combo间，由于phira中不显示（经测试）单个键正y轴偏移一下的动画，该区间的动效有缺失",
+  "difficulty": 13.7,
+  "file": "https://phira.5wyxi.com/files/742d4cc8-cc02-4ba2-b21b-6a6afadc7b50",
+  "id": 51193,
+  "illustration": "https://phira.5wyxi.com/files/2cc8c292-f74d-4ac5-950f-57ce524cd490",
+  "illustrator": "",
+  "level": "IN",
+  "name": "Tiny Giant",
+  "preview": "https://phira.5wyxi.com/files/8015cf9c-562a-44c4-b142-3e98c3246d6e",
+  "ranked": false,
+  "rating": 0.92176306,
+  "ratingCount": 1048,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-27T06:50:00.099884Z",
+  "uploader": 756780
+}

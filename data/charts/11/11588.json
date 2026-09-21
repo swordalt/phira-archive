@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:41Z",
+    "lastChanged": "2026-09-21T02:01:41Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-11-19T02:53:49.877527Z",
+  "charter": "飞飞 in 「Blanche and Noir」",
+  "composer": "Aoi",
+  "created": "2023-11-18T20:10:06.733862Z",
+  "description": "定数：16.4\nbpm：202\n曲师：Aoi\n本家：CHUNITHM",
+  "difficulty": 16.4,
+  "file": "https://phira.5wyxi.com/files/02ceb736-a727-4373-bfd9-fed3bb617e90",
+  "id": 11588,
+  "illustration": "https://phira.5wyxi.com/files/b2e0eaf3-1898-454b-904c-7ace69cb70d0",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "βlαnoir",
+  "preview": "https://phira.5wyxi.com/files/e8ab1262-0366-4921-90c4-72c009abb56c",
+  "ranked": true,
+  "rating": 0.93299305,
+  "ratingCount": 6336,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "CHUNITHM",
+    "regular"
+  ],
+  "updated": "2024-04-14T10:27:18.111178Z",
+  "uploader": 410
+}

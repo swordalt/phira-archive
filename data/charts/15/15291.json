@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:55Z",
+    "lastChanged": "2026-09-21T02:01:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-10T10:51:49.637673Z",
+  "charter": "Chocolate_yi",
+  "composer": "Yooh",
+  "created": "2024-02-10T10:51:49.637673Z",
+  "description": "参赛谱单人赛道,上一版忘记修改谱师名为6thPecJam了",
+  "difficulty": 15.200001,
+  "file": "https://phira.5wyxi.com/files/85609aa8-ea53-46fb-a9bc-06695d35e534",
+  "id": 15291,
+  "illustration": "https://phira.5wyxi.com/files/3a7be610-ebd4-4871-b781-91ba23242934",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Butterfly Twist",
+  "preview": "https://phira.5wyxi.com/files/d634cf39-c714-410c-89e3-eda33d0119b8",
+  "ranked": false,
+  "rating": 0.84810203,
+  "ratingCount": 443,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2024-02-10T10:51:49.637673Z",
+  "uploader": 90037
+}

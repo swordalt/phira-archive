@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:52Z",
+    "lastChanged": "2026-09-21T02:06:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-06T16:40:03.654341Z",
+  "charter": "N/S",
+  "composer": "ARForest",
+  "created": "2026-06-05T14:45:42.484525Z",
+  "description": "谱师：N/S\n制谱时长：2d\n制谱净时长：18h\n谱师本人上传，非转谱。",
+  "difficulty": 30.0,
+  "file": "https://phira.5wyxi.com/files/b2904368-e062-467b-ac25-b0230f387816",
+  "id": 59991,
+  "illustration": "https://phira.5wyxi.com/files/69ae567f-29ae-4efc-93f4-7f6a7e7aca28",
+  "illustrator": "",
+  "level": "5K Normal Lv.32",
+  "name": "Digital Warrior",
+  "preview": "https://phira.5wyxi.com/files/9679d2b9-766a-486f-832a-3805619b9151",
+  "ranked": false,
+  "rating": 0.9505075,
+  "ratingCount": 55,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2026-06-07T02:49:32.328296Z",
+  "uploader": 1142877
+}

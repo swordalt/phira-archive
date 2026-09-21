@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:45Z",
+    "lastChanged": "2026-09-21T02:02:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-10-28T13:46:36.021841Z",
+  "charter": "7sRef•CeNx",
+  "composer": "削除",
+  "created": "2024-10-28T13:46:36.021841Z",
+  "description": "PHASE #1",
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/08920e55-956a-438f-aec7-fe9d654835d4",
+  "id": 29192,
+  "illustration": "https://phira.5wyxi.com/files/40e40f7c-0bbd-4bfe-8dad-9731fb9d8dc7",
+  "illustrator": "",
+  "level": "Phase #1",
+  "name": "Cryptarithm",
+  "preview": "https://phira.5wyxi.com/files/ca8d507d-364c-4ba1-abf4-f0638c26527f",
+  "ranked": false,
+  "rating": 0.7332828,
+  "ratingCount": 123,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "创新",
+    "regular"
+  ],
+  "updated": "2024-11-15T09:21:14.162603Z",
+  "uploader": 21395
+}

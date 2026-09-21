@@ -1,0 +1,39 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:55Z",
+    "lastChanged": "2026-09-21T02:01:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-09T15:50:25.525672Z",
+  "charter": "GUI vs. Hitert",
+  "composer": "Se-U-Ra",
+  "created": "2024-02-09T15:50:25.525672Z",
+  "description": "谱师本人上传 所有谱师同意上传\n修复一个bug",
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/46f40531-3e07-4383-81eb-9217674a70d0",
+  "id": 15158,
+  "illustration": "https://phira.5wyxi.com/files/31f5c614-9ebc-459a-ac44-574b714d6c95",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Avys",
+  "preview": "https://phira.5wyxi.com/files/3f3656c5-80df-4d71-997f-500210c4992d",
+  "ranked": false,
+  "rating": 0.92982084,
+  "ratingCount": 643,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Se-U-Ra",
+    "Orzmic",
+    "元极",
+    "GUI",
+    "元神",
+    "regular"
+  ],
+  "updated": "2024-02-09T15:50:25.525672Z",
+  "uploader": 512680
+}

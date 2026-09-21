@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:43Z",
+    "lastChanged": "2026-09-21T02:06:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-20T04:59:50.707336Z",
+  "charter": "Taloid",
+  "composer": "LV.4",
+  "created": "2025-12-20T04:59:50.707336Z",
+  "description": null,
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/5985c880-d5f0-4883-9400-41a5bbc8033a",
+  "id": 50358,
+  "illustration": "https://phira.5wyxi.com/files/e7b05959-b3dc-4e15-8fa5-2bb460c777df",
+  "illustrator": "",
+  "level": "0",
+  "name": "Burning Star",
+  "preview": "https://phira.5wyxi.com/files/20601463-374b-4f1d-a4a5-0a6453ecf2b7",
+  "ranked": false,
+  "rating": 0.9370218,
+  "ratingCount": 42,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-12-20T04:59:50.707336Z",
+  "uploader": 7436
+}

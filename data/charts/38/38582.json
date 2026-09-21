@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:15Z",
+    "lastChanged": "2026-09-21T02:06:15Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-24T09:50:02.014446Z",
+  "charter": "Don Quixote",
+  "composer": "Project Moon",
+  "created": "2025-05-24T09:50:02.014446Z",
+  "description": null,
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/d8f7981f-3cd1-46b1-b222-b395f9ae9671",
+  "id": 38582,
+  "illustration": "https://phira.5wyxi.com/files/807c33c2-0a91-4b70-be96-0f49e33c7c7e",
+  "illustrator": "",
+  "level": "Lv14",
+  "name": "Roland 01",
+  "preview": "https://phira.5wyxi.com/files/394fc801-68e9-4a13-9589-408cbaa6411e",
+  "ranked": false,
+  "rating": 0.8704614,
+  "ratingCount": 50,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-05-24T09:50:02.014446Z",
+  "uploader": 1578060
+}

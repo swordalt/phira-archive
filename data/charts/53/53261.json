@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:33Z",
+    "lastChanged": "2026-09-21T02:05:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-23T13:46:52.789680Z",
+  "charter": "DiAMONDGAMER",
+  "composer": "fizzd & Riya",
+  "created": "2026-02-23T13:46:52.789680Z",
+  "description": "写在前面：这是《节奏医生》的还原向谱面！\n\n谱面中出现了可能会令一些玩家感到不适的元素，请酌情游玩...\n\n如果您想游玩这个谱面，我们建议您先掌握《节奏医生》的\n1. SVT拍子\n2. SVT冰冻拍子\n3. SVT跳过\n4. SVT细分\n5. 马克·布克的5拍子\n6. 摇摆5拍子\n7. 6-X\n真的，否则您难以理解这个谱面在讲述什么...\n\n（B站：@DiAMONDGAMER）",
+  "difficulty": 8.799995,
+  "file": "https://phira.5wyxi.com/files/11559e68-15c7-4af6-aa8e-1a201416e31b",
+  "id": 53261,
+  "illustration": "https://phira.5wyxi.com/files/cf3d2b4d-f7ad-4a32-86eb-4426cc15f377",
+  "illustrator": "",
+  "level": "RD 6-X",
+  "name": "Boss Fight",
+  "preview": "https://phira.5wyxi.com/files/d36b6a89-deb8-46a8-9c55-fb62ed447005",
+  "ranked": false,
+  "rating": 0.9699894,
+  "ratingCount": 235,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "节奏医生",
+    "还原",
+    "troll"
+  ],
+  "updated": "2026-02-23T13:46:52.789680Z",
+  "uploader": 841834
+}

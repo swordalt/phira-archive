@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:22Z",
+    "lastChanged": "2026-09-21T02:05:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-01T03:09:56.652931Z",
+  "charter": "FN-Huaji-core",
+  "composer": "EndCat-终猫",
+  "created": "2024-01-31T07:10:37.894462Z",
+  "description": "谱师：@FN花计\n曲师：@EndCat-终猫\n终猫发在Q群里的奇怪东西，我拿来制谱了，B站也有音频：BV1YK421y74x\n经过曲师允许制谱\nB站谱面演示：BV1BT4m1S7pr\n粪",
+  "difficulty": 20.0,
+  "file": "https://phira.5wyxi.com/files/ee173a43-e66b-4683-8c63-697ed203a9af",
+  "id": 14524,
+  "illustration": "https://phira.5wyxi.com/files/d335e627-d986-4379-94e0-2e28af06e769",
+  "illustrator": "",
+  "level": "SP Lv.Jiafei",
+  "name": "Jiafei-core",
+  "preview": "https://phira.5wyxi.com/files/0d2870ff-fe23-4c0c-91d3-cafcadf44579",
+  "ranked": false,
+  "rating": 0.86542594,
+  "ratingCount": 515,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Jiafei",
+    "troll"
+  ],
+  "updated": "2024-02-01T03:09:56.652931Z",
+  "uploader": 1082
+}

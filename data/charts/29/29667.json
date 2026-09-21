@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:46Z",
+    "lastChanged": "2026-09-21T02:02:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-11-14T17:08:03.611003Z",
+  "charter": "PFZ",
+  "composer": "Re:boot & Xect.",
+  "created": "2024-11-14T17:08:03.611003Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/f30112cb-006f-4932-9d7a-f9cc4817204f",
+  "id": 29667,
+  "illustration": "https://phira.5wyxi.com/files/09cde69f-867b-47f2-8719-3f022d0947b7",
+  "illustrator": "",
+  "level": "RN LV.15",
+  "name": "Emptiness",
+  "preview": "https://phira.5wyxi.com/files/b206f39f-4c4a-40e1-a0d5-37a9e7448088",
+  "ranked": false,
+  "rating": 0.82700294,
+  "ratingCount": 10,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-11-14T17:08:03.611003Z",
+  "uploader": 1144900
+}

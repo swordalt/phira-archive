@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:15Z",
+    "lastChanged": "2026-09-21T02:02:15Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-06-01T07:09:53.319481Z",
+  "charter": "L_in",
+  "composer": "余志文/李斌/莫丽妃/罗智恒",
+  "created": "2024-06-01T07:09:53.319481Z",
+  "description": null,
+  "difficulty": 15.200001,
+  "file": "https://phira.5wyxi.com/files/1af12eba-aa21-405b-ab8c-742e0f2f92d6",
+  "id": 20605,
+  "illustration": "https://phira.5wyxi.com/files/9697fd40-155f-4ce7-8aab-d8f3c542ac27",
+  "illustrator": "",
+  "level": "Player Weak-15",
+  "name": "心的旅程",
+  "preview": "https://phira.5wyxi.com/files/8e5c0f9c-8380-42a4-97fb-67b78a57157c",
+  "ranked": false,
+  "rating": 0.8342542,
+  "ratingCount": 681,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "喜灰",
+    "regular"
+  ],
+  "updated": "2024-06-01T07:09:53.319481Z",
+  "uploader": 36402
+}

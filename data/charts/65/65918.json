@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:57Z",
+    "lastChanged": "2026-09-21T02:04:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-12T07:38:01.337166Z",
+  "charter": "猫猫吨",
+  "composer": "YOASOBI",
+  "created": "2026-07-12T07:38:01.337166Z",
+  "description": null,
+  "difficulty": 15.600002,
+  "file": "https://phira.5wyxi.com/files/561a7f9a-2444-4ae2-b708-f2479b12fffa",
+  "id": 65918,
+  "illustration": "https://phira.5wyxi.com/files/70af47e0-03c3-45a3-a2b2-dbf2851c90ba",
+  "illustrator": "",
+  "level": "IN15",
+  "name": "怪物",
+  "preview": "https://phira.5wyxi.com/files/996ba904-51f2-4884-9c2a-a837b0fb79fa",
+  "ranked": false,
+  "rating": 0.92123616,
+  "ratingCount": 791,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-12T07:38:01.337166Z",
+  "uploader": 164841
+}

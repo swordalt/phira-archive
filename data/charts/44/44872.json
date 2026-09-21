@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:30Z",
+    "lastChanged": "2026-09-21T02:06:30Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-16T13:40:53.547012Z",
+  "charter": "HuAnMo66",
+  "composer": "Rintaro Soma",
+  "created": "2025-08-16T13:40:53.547012Z",
+  "description": "第一次尝试高难谱，个人定数AT17.7",
+  "difficulty": 17.699999,
+  "file": "https://phira.5wyxi.com/files/96395e78-eed1-4a54-909b-2d8faf133185",
+  "id": 44872,
+  "illustration": "https://phira.5wyxi.com/files/7e4d63c1-8d39-47fe-817a-bb13dbb5b606",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "系ぎて",
+  "preview": "https://phira.5wyxi.com/files/78a4d608-cf2e-40f1-8901-8e266e2b267a",
+  "ranked": false,
+  "rating": 0.7609455,
+  "ratingCount": 56,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-08-16T13:40:53.547012Z",
+  "uploader": 1354376
+}

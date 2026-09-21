@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:22Z",
+    "lastChanged": "2026-09-21T02:04:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-16T04:24:44.495637Z",
+  "charter": "冷冻烤李子",
+  "composer": "Se-U-Ra",
+  "created": "2026-02-16T04:24:44.495637Z",
+  "description": "初谱，感觉一般。",
+  "difficulty": 15.400001,
+  "file": "https://phira.5wyxi.com/files/5183b747-760e-42e1-a409-08adf11e8f6c",
+  "id": 52774,
+  "illustration": "https://phira.5wyxi.com/files/731059ad-4d91-47f5-96b9-a3e0375f64f7",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Andragoon",
+  "preview": "https://phira.5wyxi.com/files/0e0fed84-bda3-4844-a0c0-8433aba39629",
+  "ranked": false,
+  "rating": 0.83894646,
+  "ratingCount": 16,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-16T04:24:44.495637Z",
+  "uploader": 1812686
+}

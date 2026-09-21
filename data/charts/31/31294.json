@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:54Z",
+    "lastChanged": "2026-09-21T02:02:54Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-01T03:34:06.037589Z",
+  "charter": "NKYO\\MTP",
+  "composer": "うえつ氏",
+  "created": "2025-01-01T03:34:06.037589Z",
+  "description": "曲名：天空の城ヴェリエル\r\n曲师：うえつ氏\r\n曲绘：うえつ氏\r\n谱师：NKYO、MTP\r\n难度：IN Lv.15(15.93593749999999998)\r\n物量：1300\r\n判定线：24根\r\n事件：约36xx\r\nBPM：222\r\n耗时：大约11小时\r\n录制屏元或手元需要@谱师",
+  "difficulty": 15.900003,
+  "file": "https://phira.5wyxi.com/files/bdce31e2-0e62-4592-afec-fca43d101fb8",
+  "id": 31294,
+  "illustration": "https://phira.5wyxi.com/files/0e53ff5a-5936-4de6-9180-56841e1880c6",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "天空の城ヴェリエル",
+  "preview": "https://phira.5wyxi.com/files/a3c99b10-5653-4cac-8ebc-292acb7e93f3",
+  "ranked": false,
+  "rating": 0.935719,
+  "ratingCount": 436,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-01-01T03:34:06.037589Z",
+  "uploader": 8351
+}

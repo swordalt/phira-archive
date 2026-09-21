@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:29Z",
+    "lastChanged": "2026-09-21T02:06:29Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-12T00:57:03.454683Z",
+  "charter": "xiucaiyang",
+  "composer": "Halv",
+  "created": "2025-08-12T00:57:03.454683Z",
+  "description": null,
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/bf4f5203-c2aa-4e8a-8df0-cb606553eb08",
+  "id": 44393,
+  "illustration": "https://phira.5wyxi.com/files/0e7d7dcb-ead1-41fe-b01f-63763592485f",
+  "illustrator": "",
+  "level": "IN LV.16",
+  "name": "Queen's Melancholy",
+  "preview": "https://phira.5wyxi.com/files/8cb38703-bbc4-46a2-97b0-b6d8ef56d330",
+  "ranked": false,
+  "rating": 0.867986,
+  "ratingCount": 20,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2026-04-16T23:18:45.238525Z",
+  "uploader": 34087
+}

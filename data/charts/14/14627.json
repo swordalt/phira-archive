@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:41Z",
+    "lastChanged": "2026-09-21T02:05:41Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-01T13:33:47.221452Z",
+  "charter": "unknown乄",
+  "composer": "光吉猛修/穴山大輔/Kai/水野健治/大国奏音",
+  "created": "2024-02-01T13:33:47.221452Z",
+  "description": "因为原谱质量实在过低，所以我修改了这张谱面，现在这张谱面真的有机会ap了。其实就是难得合理了起来。\n2024四月简介更新:定数改为17.0。有时间会削弱这张谱的后半段，但是这张谱我暂时没想下架。",
+  "difficulty": 17.000004,
+  "file": "https://phira.5wyxi.com/files/fac66162-8681-4bbb-b30a-9f8655545e7d",
+  "id": 14627,
+  "illustration": "https://phira.5wyxi.com/files/c15a2664-e10c-4014-8a87-1ca29ca1a108",
+  "illustrator": "",
+  "level": "UN Lv.17",
+  "name": "祈 -我ら神祖と共に歩む者なり",
+  "preview": "https://phira.5wyxi.com/files/8d0990d9-ad2d-4b43-9308-7d9135ff545d",
+  "ranked": false,
+  "rating": 0.7767423,
+  "ratingCount": 198,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "CHUNITHM",
+    "plain"
+  ],
+  "updated": "2024-04-07T08:58:05.865701Z",
+  "uploader": 5328
+}

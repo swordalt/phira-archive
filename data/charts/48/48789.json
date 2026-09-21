@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "visual"
+    ],
+    "firstSeen": "2026-09-21T02:07:08Z",
+    "lastChanged": "2026-09-21T02:07:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-06T13:25:56.785787Z",
+  "charter": "SrY-ABYSS",
+  "composer": "HOYO-MiX",
+  "created": "2025-11-05T15:19:44.272431Z",
+  "description": "BGM来自游戏《崩坏星穹铁道》昔涟角色pv\n已修复1个miss的bug，低配机谨慎游玩",
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/f8e17eab-01e3-470c-83a9-43b284771af3",
+  "id": 48789,
+  "illustration": "https://phira.5wyxi.com/files/4852e72a-3ee1-4a07-b094-4f107de13a4f",
+  "illustrator": "",
+  "level": "See You Tomorrow",
+  "name": "再度和你",
+  "preview": "https://phira.5wyxi.com/files/fc5bb95e-53f5-40fc-9313-13ced62204c4",
+  "ranked": false,
+  "rating": 0.9741386,
+  "ratingCount": 5886,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "崩坏星穹铁道",
+    "观赏",
+    "visual"
+  ],
+  "updated": "2025-11-06T13:25:56.785787Z",
+  "uploader": 1437
+}

@@ -1,0 +1,39 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:49Z",
+    "lastChanged": "2026-09-21T02:06:49Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-21T02:18:17.124111Z",
+  "charter": "GT_TEC空城",
+  "composer": "Various Artists",
+  "created": "2026-03-21T02:18:17.124111Z",
+  "description": "本人上传\n\n段位信息:\n过段标准：98.04%（stacc97%）\n后光标准：99.02%（stacc98.5%）\n本段位只能使用双指游玩，不能暂停，不能调整宽高比。\n\n单曲信息:\n乱\n曲名：WORLD'S FIRST 16K BASE ROLLING CLEAR\n难度：13.2\n时长：147s\n物量：3460\nBPM：250\nDrag占比：42.6%\nid:40685\n\n叠\n曲名：Chain of Gravity\n时长：136s\n难度：12.7\n物量：1610\nBPM：155\nDrag占比：10.9%\nid:39824\n\n技\n曲名：Tokyo Takedown\n时长：150s\n难度：13.3\n物量：2967\nBPM：128\nDrag占比：52.1%\nid:39835\n\n切\n曲名：Re:End of a Dream\n时长：141s\n难度：13.0\n物量：2309\nBPM：212\nDrag占比：33.4%\nid:39825\n\n祝你好运",
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/c95121e3-6b1a-4e73-a9ae-76fc9153f07e",
+  "id": 54343,
+  "illustration": "https://phira.5wyxi.com/files/80fcca8b-d690-410b-a137-85bf95b59ef1",
+  "illustrator": "",
+  "level": "Dan Lv.13",
+  "name": "DFC Grand Tourer Dan (regular)",
+  "preview": "https://phira.5wyxi.com/files/4df4b914-2df7-4be4-941d-cc281979e67e",
+  "ranked": false,
+  "rating": 0.96452355,
+  "ratingCount": 84,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "GT",
+    "DFC",
+    "Dan",
+    "考核",
+    "双指",
+    "plain"
+  ],
+  "updated": "2026-03-21T02:18:17.124111Z",
+  "uploader": 19324
+}

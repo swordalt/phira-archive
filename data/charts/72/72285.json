@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:07:00Z",
+    "lastChanged": "2026-09-21T02:07:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-09T11:40:06.044804Z",
+  "charter": "mengxin/orange",
+  "composer": "Various Artists",
+  "created": "2026-08-09T11:40:06.044804Z",
+  "description": "DestEnd战队4K普通考核v2\n（v1版本考核将废弃） \n难度（Regular-8） \n入队标准：98.60%\n谱师：mxxmw/orange \n曲绘：Anxiety \n※考核群1046951546",
+  "difficulty": 8.0,
+  "file": "https://phira.5wyxi.com/files/40066fdb-12c1-4eb4-a3e3-6feb8433076d",
+  "id": 72285,
+  "illustration": "https://phira.5wyxi.com/files/0a965150-887d-40d1-93c9-b64251b876d9",
+  "illustrator": "",
+  "level": "Regular-8",
+  "name": "4K DestEnd Dan v2",
+  "preview": "https://phira.5wyxi.com/files/67fc3fad-1a78-4fac-9c0e-16b989862e6c",
+  "ranked": false,
+  "rating": 0.88785076,
+  "ratingCount": 71,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "DestEnd",
+    "4K",
+    "Dan",
+    "plain"
+  ],
+  "updated": "2026-08-09T11:40:06.044804Z",
+  "uploader": 1985191
+}

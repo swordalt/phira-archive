@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:37Z",
+    "lastChanged": "2026-09-21T02:01:37Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-10-12T06:06:24.574934Z",
+  "charter": "MWamiya",
+  "composer": "MALVA",
+  "created": "2023-10-12T06:06:24.574934Z",
+  "description": null,
+  "difficulty": 15.600002,
+  "file": "https://phira.5wyxi.com/files/f162186b-fe5d-424c-8d34-3384af66bedb",
+  "id": 10377,
+  "illustration": "https://phira.5wyxi.com/files/1ad08eb2-9407-4601-9458-a821f190eb49",
+  "illustrator": "",
+  "level": "IN.Lv.15",
+  "name": "Fickle Mind",
+  "preview": "https://phira.5wyxi.com/files/2dad851c-b99d-4125-990c-3366b20b76b6",
+  "ranked": false,
+  "rating": 0.8650731,
+  "ratingCount": 82,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "BOFET",
+    "regular"
+  ],
+  "updated": "2023-10-12T06:06:24.574934Z",
+  "uploader": 66201
+}

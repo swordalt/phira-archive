@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:36Z",
+    "lastChanged": "2026-09-21T02:04:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-12T23:24:00.102397Z",
+  "charter": "绒_（STF）",
+  "composer": "Essbee",
+  "created": "2026-04-12T23:24:00.102397Z",
+  "description": "难度跨度极大的谱面，尾杀前的部分相当简单，只需要基础的4k多指力就能轻松通过，但是尾杀的难度极高。由于本人不会键盘，因此咨询了群友和好友的意见，群友认为这是16中位，好友认为是16中位突然飞升到17中位，我个人认为是17中位，因此取了一个平均值17.0作为定数。同时这也是我第一次尝试独立制作高难的键盘谱&特殊异象表演谱！最后，方向盘是神好吧，能公募到这么神的歌。",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/861c3c61-e21d-4f31-a8cb-aade72bdca53",
+  "id": 56230,
+  "illustration": "https://phira.5wyxi.com/files/ec07133b-9c99-4eed-beec-bce3392f4912",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "悔_",
+  "preview": "https://phira.5wyxi.com/files/d255f383-5d27-45b3-a5e0-767e941132f5",
+  "ranked": false,
+  "rating": 0.907441,
+  "ratingCount": 339,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Rotaeno",
+    "regular"
+  ],
+  "updated": "2026-04-12T23:24:00.102397Z",
+  "uploader": 1312988
+}

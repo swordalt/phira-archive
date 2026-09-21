@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:25Z",
+    "lastChanged": "2026-09-21T02:02:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-21T19:39:28.225023Z",
+  "charter": "白辰星",
+  "composer": "yuiko",
+  "created": "2024-07-21T19:39:28.225023Z",
+  "description": null,
+  "difficulty": 13.900001,
+  "file": "https://phira.5wyxi.com/files/cd4fccc4-ca58-4d8d-8106-d8232ac47d47",
+  "id": 24010,
+  "illustration": "https://phira.5wyxi.com/files/5f301a65-5d1a-417c-bb13-f490d93d42ab",
+  "illustrator": "",
+  "level": "NI Lv13",
+  "name": "ヒカリノワ",
+  "preview": "https://phira.5wyxi.com/files/831b3b82-f1e6-40b4-9e9b-57920f7ab362",
+  "ranked": false,
+  "rating": 0.91669464,
+  "ratingCount": 232,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-07-21T19:39:28.225023Z",
+  "uploader": 22003
+}

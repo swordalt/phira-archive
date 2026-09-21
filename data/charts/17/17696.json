@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:05Z",
+    "lastChanged": "2026-09-21T02:02:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-30T00:43:54.159867Z",
+  "charter": "ZDself and SLTORG fixed by ZDself",
+  "composer": "Hinkik,A Himitsu ",
+  "created": "2024-03-30T00:43:54.159867Z",
+  "description": null,
+  "difficulty": 1.0,
+  "file": "https://phira.5wyxi.com/files/f4c03813-24e6-497e-a03c-faa2d58a5856",
+  "id": 17696,
+  "illustration": "https://phira.5wyxi.com/files/ba4a874d-b7ba-4089-8b0b-77abeeb2a95a",
+  "illustrator": "",
+  "level": "AT Lv. 16.1",
+  "name": "Realms",
+  "preview": "https://phira.5wyxi.com/files/2e63e51f-9f20-4386-a40e-82f9d5c29e83",
+  "ranked": false,
+  "rating": 0.90744376,
+  "ratingCount": 907,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-04-01T12:50:59.208473Z",
+  "uploader": 306077
+}

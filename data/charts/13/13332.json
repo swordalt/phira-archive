@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:47Z",
+    "lastChanged": "2026-09-21T02:01:47Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-01-07T09:53:59.814152Z",
+  "charter": "AD of Rivia",
+  "composer": "Team Grimoire",
+  "created": "2024-01-07T04:35:04.113481Z",
+  "description": "已修复黄键星星，改成判定线\n复刻Orzmic谱面\n原谱师：尘云星白\n改编：B站 @ADofRivia\n正方形滚动和星星特效实在想不出怎么搞，搞了个山寨的\n个别地方做了小改动",
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/6ad40d88-f2da-428e-9b6c-c3aca59c20b9",
+  "id": 13332,
+  "illustration": "https://phira.5wyxi.com/files/73dcdb22-6152-4aef-9e3a-15ff4e32d61c",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Eligos",
+  "preview": "https://phira.5wyxi.com/files/491636eb-d245-46f4-bd26-b780b45b4b9a",
+  "ranked": false,
+  "rating": 0.87917256,
+  "ratingCount": 895,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-01-07T09:53:59.814152Z",
+  "uploader": 508994
+}

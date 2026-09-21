@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:57Z",
+    "lastChanged": "2026-09-21T02:03:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-03T07:52:07.197840Z",
+  "charter": "SHS",
+  "composer": "AiSS vs. Abit",
+  "created": "2025-10-18T15:01:24.211439Z",
+  "description": "2025.10.19：修改定数\n2026.3.3：改谱\n本人上传，B站和视频号同名。\n（B站谱面演示视频：BV1hLAZzuE2a）\n双指谱，尾杀还原本家milthm。\nBPM：174.17",
+  "difficulty": 15.699999,
+  "file": "https://phira.5wyxi.com/files/0e7a442e-071d-40ff-a3e4-bfedaded319d",
+  "id": 48185,
+  "illustration": "https://phira.5wyxi.com/files/6caad0ff-541a-44cf-a68d-103b13a4251e",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "Regnaissance",
+  "preview": "https://phira.5wyxi.com/files/1441e6e7-c63b-4040-a106-5b5d7e44bb7c",
+  "ranked": false,
+  "rating": 0.9111966,
+  "ratingCount": 1099,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Milthm",
+    "双指",
+    "regular"
+  ],
+  "updated": "2026-03-03T07:52:07.197840Z",
+  "uploader": 1487585
+}

@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:00Z",
+    "lastChanged": "2026-09-21T02:02:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-23T12:44:29.814401Z",
+  "charter": "Crab Devourer",
+  "composer": "DM DOKURO",
+  "created": "2024-02-23T12:44:29.814401Z",
+  "description": "谱师本人（除了蟹就是屑）上传\r解锁动画来自油管本人做了一点小改动\r按键量：2800\r事件数：23000+\rshader来自prpr/phira内置shader和本人编写的shader\r注：尾杀是40秒左右的24分交互看好了是交互交互交互（\r就算标着双压提示也不一定是对拍啊（\r在这里对审核说声抱歉因为各种原因导致谱面多次撤回重上传",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/e0f07816-2b39-41e2-a91f-19ae83b3bb7a",
+  "id": 16367,
+  "illustration": "https://phira.5wyxi.com/files/8995b713-5943-45a8-849f-802c9ed496bd",
+  "illustrator": "",
+  "level": "Infernum Lv.15",
+  "name": "Universal Collapse",
+  "preview": "https://phira.5wyxi.com/files/6fa6dd59-cc33-4404-815a-86a3d7aaac09",
+  "ranked": false,
+  "rating": 0.9431031,
+  "ratingCount": 3365,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "terraria",
+    "calamity",
+    "shader",
+    "故事版",
+    "regular"
+  ],
+  "updated": "2024-02-23T12:44:29.814401Z",
+  "uploader": 358280
+}

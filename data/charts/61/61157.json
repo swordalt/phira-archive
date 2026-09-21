@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:49Z",
+    "lastChanged": "2026-09-21T02:04:49Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-17T05:16:44.126275Z",
+  "charter": "Two Invisible Eyes",
+  "composer": "FlashYizz",
+  "created": "2026-06-17T05:16:44.126275Z",
+  "description": "整张谱全程用drag当判定线，属于是五年前的谱面翻新，标13只是因为配合曲名，一不小心写难了（",
+  "difficulty": 13.900003,
+  "file": "https://phira.5wyxi.com/files/ecda2c9d-f10f-45e3-b9c1-1f08eaf3c8b2",
+  "id": 61157,
+  "illustration": "https://phira.5wyxi.com/files/bb9ab45c-5dbd-4384-8aaf-47a8b7f8e628",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "13(FlashYizz Remix)",
+  "preview": "https://phira.5wyxi.com/files/c2d203ab-ea0c-4a24-93d1-9e01b86e283b",
+  "ranked": false,
+  "rating": 0.85358936,
+  "ratingCount": 54,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-17T05:16:44.126275Z",
+  "uploader": 2449659
+}

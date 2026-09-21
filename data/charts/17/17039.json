@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:03Z",
+    "lastChanged": "2026-09-21T02:02:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-10T14:18:30.277509Z",
+  "charter": "XSJ",
+  "composer": "DECO*27",
+  "created": "2024-03-10T14:18:30.277509Z",
+  "description": "BV1zw4m1d7Bp",
+  "difficulty": 14.699999,
+  "file": "https://phira.5wyxi.com/files/0aaf2e01-152b-45c8-b040-05a2aefb2cc3",
+  "id": 17039,
+  "illustration": "https://phira.5wyxi.com/files/9f470ea1-8192-4a64-818c-e288514843cc",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "ラビットホール(兔子洞)",
+  "preview": "https://phira.5wyxi.com/files/7fb7b1c1-d86c-45a9-9ebf-3d32d5273d2c",
+  "ranked": false,
+  "rating": 0.88574,
+  "ratingCount": 5935,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "ラビットホール",
+    "初音未来",
+    "兔子洞",
+    "RabbitHole",
+    "regular"
+  ],
+  "updated": "2024-03-10T14:18:30.277509Z",
+  "uploader": 3268
+}

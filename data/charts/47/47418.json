@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:54Z",
+    "lastChanged": "2026-09-21T02:03:54Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-01T11:33:32.260648Z",
+  "charter": "Ethereal Echoes",
+  "composer": "Akira Complex",
+  "created": "2025-10-01T11:33:32.260648Z",
+  "description": "谱师本人上传\n该谱面为【云梦•始源】比赛供谱\n首次登场于EX区24进16小组赛第六场",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/1d81637d-4b53-41b4-90b5-bd7dd8d33e52",
+  "id": 47418,
+  "illustration": "https://phira.5wyxi.com/files/a7b0b928-9bb0-463c-9fad-f5aa104811ed",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Ether Second",
+  "preview": "https://phira.5wyxi.com/files/222b1825-69e4-4be4-8b0f-39792c004876",
+  "ranked": false,
+  "rating": 0.8421254,
+  "ratingCount": 79,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-10-01T11:33:32.260648Z",
+  "uploader": 730
+}

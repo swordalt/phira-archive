@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:06Z",
+    "lastChanged": "2026-09-21T02:03:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-03-19T12:18:39.771413Z",
+  "charter": "Muji",
+  "composer": "Katzeohr & Spiegel",
+  "created": "2025-03-02T06:17:10.841371Z",
+  "description": "谱师本人上传   此为4thWJC参赛谱面   3.19 微调排键，更改break段排键使其符合音高走向",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/03c72a96-56d8-496e-b5ef-3ccce63a3766",
+  "id": 34721,
+  "illustration": "https://phira.5wyxi.com/files/d468f6c1-2ef4-4159-a1d0-5e031b3655c6",
+  "illustrator": "",
+  "level": "IN Lv.15+",
+  "name": "Schrecklicher Aufstand",
+  "preview": "https://phira.5wyxi.com/files/c7cef74f-ff5b-41bc-98d7-322dd1dedad8",
+  "ranked": false,
+  "rating": 0.91208214,
+  "ratingCount": 209,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "CHUNITHM",
+    "4thWJC",
+    "regular"
+  ],
+  "updated": "2025-03-19T12:18:39.771413Z",
+  "uploader": 3742
+}

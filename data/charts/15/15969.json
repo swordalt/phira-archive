@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:43Z",
+    "lastChanged": "2026-09-21T02:05:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-17T13:08:15.689167Z",
+  "charter": "nlqx",
+  "composer": "LV.4 feat. monana",
+  "created": "2024-02-17T13:08:15.689167Z",
+  "description": "bpm:131.4\n物量:6630\n种类:耐力叠\n流速:13.70\n难度:reg9～reg10\n制作耗时:≈10h(配置真的有研究过)\n难点:在\"休息段\"恢复足够的耐力，在叠段中密度小的部分节省耐力\n该谱制作时或多或少有受原谱影响(wds0的mm叠专)\n本人上传\nbilibili:nlqx3220\n\n\n",
+  "difficulty": 30.0,
+  "file": "https://phira.5wyxi.com/files/a31c6ae6-46d7-45e5-8ef3-34cb1833d9d6",
+  "id": 15969,
+  "illustration": "https://phira.5wyxi.com/files/c4763d46-f960-440a-96fd-b09df5534461",
+  "illustrator": "",
+  "level": "JACK     lv.33",
+  "name": "A little... 0.9×",
+  "preview": "https://phira.5wyxi.com/files/7d93cb10-46f3-4c73-bc3b-3c11f3f04a3e",
+  "ranked": false,
+  "rating": 0.9498857,
+  "ratingCount": 96,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "叠",
+    "4k",
+    "耐力",
+    "plain"
+  ],
+  "updated": "2024-02-17T13:08:15.689167Z",
+  "uploader": 3689
+}

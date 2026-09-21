@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:56Z",
+    "lastChanged": "2026-09-21T02:02:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-28T09:35:34.814532Z",
+  "charter": "VuK_",
+  "composer": "Kawai Sprite,Funkin'Sound Team",
+  "created": "2025-01-17T16:29:28.835606Z",
+  "description": "谱面为本人制作",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/cb32abb4-69ca-4624-aaa1-420142c8e75d",
+  "id": 31963,
+  "illustration": "https://phira.5wyxi.com/files/c843a238-d85d-4fe0-9ab0-76313eab3a13",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "Guns",
+  "preview": "https://phira.5wyxi.com/files/4dde2f2f-1a33-4131-9a35-0794a1be3281",
+  "ranked": false,
+  "rating": 0.9486045,
+  "ratingCount": 2009,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "fnf",
+    "regular"
+  ],
+  "updated": "2025-01-28T09:35:34.814532Z",
+  "uploader": 1095587
+}

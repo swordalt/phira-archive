@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:06Z",
+    "lastChanged": "2026-09-21T02:04:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-10T12:34:03.860980Z",
+  "charter": "CuAlter705",
+  "composer": "WUKONG悟空",
+  "created": "2025-12-10T12:34:03.860980Z",
+  "description": "定数16.1（大概吧）",
+  "difficulty": 16.100004,
+  "file": "https://phira.5wyxi.com/files/afe0f873-2366-43b1-9477-547aba026b04",
+  "id": 50070,
+  "illustration": "https://phira.5wyxi.com/files/6e78563d-0306-44be-9729-a4e1f0d9a321",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Uproar in Heaven (大闹天宫)",
+  "preview": "https://phira.5wyxi.com/files/0d09e874-da1a-4a3d-b77f-19215200866f",
+  "ranked": false,
+  "rating": 0.834262,
+  "ratingCount": 24,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-12-10T12:34:03.860980Z",
+  "uploader": 228556
+}

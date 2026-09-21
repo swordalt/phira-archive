@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:50Z",
+    "lastChanged": "2026-09-21T02:01:50Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-01-24T05:21:17.998439Z",
+  "charter": "蟹特",
+  "composer": "MIMI feat. 可不 ＆ 初音ミク",
+  "created": "2024-01-24T05:21:17.998439Z",
+  "description": "谱面前后配置难度差较大，动效不是很好打评分别太狠（哭）",
+  "difficulty": 15.099999,
+  "file": "https://phira.5wyxi.com/files/b86d5fe8-3c51-4119-bf07-1e707db5c2d8",
+  "id": 14034,
+  "illustration": "https://phira.5wyxi.com/files/64b0d8be-4afa-4e19-b579-a8090404ac91",
+  "illustrator": "",
+  "level": "AT Lv.14",
+  "name": "ふわり",
+  "preview": "https://phira.5wyxi.com/files/bd95c99c-25e3-4bc6-9710-fd0f25ec0c1c",
+  "ranked": false,
+  "rating": 0.93483204,
+  "ratingCount": 1506,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "miku",
+    "MIMI",
+    "VOCALOID",
+    "regular"
+  ],
+  "updated": "2024-01-24T05:21:17.998439Z",
+  "uploader": 358280
+}

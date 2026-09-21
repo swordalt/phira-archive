@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:24Z",
+    "lastChanged": "2026-09-21T02:01:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-03T20:03:29.262880Z",
+  "charter": "Fuzwolf",
+  "composer": "Laur",
+  "created": "2023-08-03T20:03:29.262880Z",
+  "description": "B站@pH-Fuzw0lf本人上传，有谱面预览。水平不足，欢迎提出各种建议\n  |2023.7.21 一改\n  |7.22 :(1)修改bpm:-0.03,调整配置.(特别鸣谢@卞思捷BSJ 指出的尾段手感问题（自己扒的bpm不准确 很抱歉(X～X) \n ｜7.22: 三改。增加动效，剪掉歌曲末尾空白，微调配置。(特别鸣谢 @fw老王)\n  |7.30:四改.bpm+0.001.(特别感谢@Ennty指出的一处tap瞬移问题和@Doggie的建议，重写了黄键变长条段的特效。\n  2)感谢@AnSheng给出的许多动效/配置建议！(还建议我单独写一段感谢.照做了(?)\n  |8.2:五改\n  |8.4:六改。1)精修并添加适量动效，修改部分配置使其更契合音乐。2)使用故事板增强表现力。\n（二谱。整个假期就写了一张(qヘq) \n不过总算做完了！ 非常感谢各位的游玩及建议！＼(^-^ )\n 已经尽力改善了手感差或者初见不好打的地方( /_/)\n（没有重大bug的话，之后大概不会再改了.是最终版）",
+  "difficulty": 15.200001,
+  "file": "https://phira.5wyxi.com/files/df9a062b-325c-4286-8553-f760e8572e7f",
+  "id": 6769,
+  "illustration": "https://phira.5wyxi.com/files/c039d2dc-0ef5-413e-9856-35e923210a52",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Valkyrie",
+  "preview": "https://phira.5wyxi.com/files/3afc6d95-8b2c-482b-a80c-e977c1bdf0cf",
+  "ranked": false,
+  "rating": 0.9184156,
+  "ratingCount": 701,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-08-03T20:03:29.262880Z",
+  "uploader": 10914
+}

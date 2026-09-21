@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:31Z",
+    "lastChanged": "2026-09-21T02:05:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-22T11:30:19.546880Z",
+  "charter": "豪赤の19421",
+  "composer": "Hyper Potion",
+  "created": "2025-08-22T11:30:19.546880Z",
+  "description": null,
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/53b9b1d9-6534-4a04-800b-9cb100b2c559",
+  "id": 45424,
+  "illustration": "https://phira.5wyxi.com/files/f5866295-bd6f-45c9-bf3c-ccf719a9efb5",
+  "illustrator": "",
+  "level": "SP Lv.?",
+  "name": "Lava Chicken",
+  "preview": "https://phira.5wyxi.com/files/44b7b7c0-c860-451b-b476-b27361abaebf",
+  "ranked": false,
+  "rating": 0.88983685,
+  "ratingCount": 94,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2025-08-22T11:30:19.546880Z",
+  "uploader": 1475623
+}

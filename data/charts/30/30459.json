@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:50Z",
+    "lastChanged": "2026-09-21T02:02:50Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-12-06T14:51:38.388946Z",
+  "charter": "HAPPY",
+  "composer": "ZAQUVA",
+  "created": "2024-12-06T14:51:38.388946Z",
+  "description": "初谱二改（本人）\n1改了部分采音\n2增加僵硬特效\n3改动部分配置",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/81e741e1-9b8e-46a4-a21c-00e1ba47db4a",
+  "id": 30459,
+  "illustration": "https://phira.5wyxi.com/files/a722bfc4-b3ab-4176-8804-523833beb455",
+  "illustrator": "",
+  "level": "At 16",
+  "name": "Specuiations",
+  "preview": "https://phira.5wyxi.com/files/a5195b81-b8cb-43eb-9db4-8134bb8915d6",
+  "ranked": false,
+  "rating": 0.84281987,
+  "ratingCount": 55,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-12-06T14:51:38.388946Z",
+  "uploader": 848662
+}

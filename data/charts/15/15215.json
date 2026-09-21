@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:55Z",
+    "lastChanged": "2026-09-21T02:01:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-10T01:47:01.788946Z",
+  "charter": "XII-拾贰",
+  "composer": "Plum",
+  "created": "2024-02-10T01:47:01.788946Z",
+  "description": "",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/3307b703-8298-429a-b32f-ba810df1bde9",
+  "id": 15215,
+  "illustration": "https://phira.5wyxi.com/files/c5cba2e5-2933-4178-ba6d-0fb9d456e0c6",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Tempest",
+  "preview": "https://phira.5wyxi.com/files/010de792-85bd-4b23-ac3a-50a2958aad35",
+  "ranked": false,
+  "rating": 0.72333133,
+  "ratingCount": 261,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2024-03-09T15:24:17.835540Z",
+  "uploader": 473720
+}

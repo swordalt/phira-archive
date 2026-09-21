@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:49Z",
+    "lastChanged": "2026-09-21T02:04:49Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-20T00:01:04.202578Z",
+  "charter": "RPD_无机盐",
+  "composer": "zhi16",
+  "created": "2026-06-20T00:01:04.202578Z",
+  "description": null,
+  "difficulty": 16.1,
+  "file": "https://phira.5wyxi.com/files/d2b37d34-4d0f-409f-b390-af1de7e40533",
+  "id": 61596,
+  "illustration": "https://phira.5wyxi.com/files/618b7fb7-e54e-401e-8482-254819dc8141",
+  "illustrator": "",
+  "level": "HD Lv.16",
+  "name": "机械动力",
+  "preview": "https://phira.5wyxi.com/files/613551bd-87b9-4629-a9cb-85376169124b",
+  "ranked": false,
+  "rating": 0.91415465,
+  "ratingCount": 40,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-20T00:01:04.202578Z",
+  "uploader": 378962
+}

@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:21Z",
+    "lastChanged": "2026-09-21T02:02:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-08T10:23:15.257857Z",
+  "charter": "希",
+  "composer": "HOYO-MiX",
+  "created": "2024-07-08T10:23:15.257857Z",
+  "description": "「星核猎手」卡芙卡",
+  "difficulty": 20.0,
+  "file": "https://phira.5wyxi.com/files/03324243-d889-43f1-84fc-abcd6c482337",
+  "id": 22968,
+  "illustration": "https://phira.5wyxi.com/files/01140f0b-5bee-48eb-9fbe-e74ca176d9c7",
+  "illustrator": "",
+  "level": "希 Lv.XV",
+  "name": "「戏剧性反讽」",
+  "preview": "https://phira.5wyxi.com/files/b490ae2e-b2f7-4930-9ea1-67be28155950",
+  "ranked": false,
+  "rating": 0.92709345,
+  "ratingCount": 7364,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "卡芙卡",
+    "星穹铁道",
+    "regular"
+  ],
+  "updated": "2024-07-08T10:23:15.257857Z",
+  "uploader": 804100
+}

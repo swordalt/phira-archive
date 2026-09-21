@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:14Z",
+    "lastChanged": "2026-09-21T02:03:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-20T13:14:07.356384Z",
+  "charter": "追梦",
+  "composer": "三Z-STUDIO/HOYO-MiX",
+  "created": "2025-04-20T13:14:07.356384Z",
+  "description": null,
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/4f54415c-00e3-4bab-82ba-9e12c0bd5c6b",
+  "id": 36839,
+  "illustration": "https://phira.5wyxi.com/files/439cbffa-2104-489f-939f-8840f7953e6d",
+  "illustrator": "",
+  "level": "0",
+  "name": "金牌嘉奖",
+  "preview": "https://phira.5wyxi.com/files/fcfdc2e3-f301-460f-93e7-dd28e0f59703",
+  "ranked": false,
+  "rating": 0.9521556,
+  "ratingCount": 1106,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-04-20T13:14:07.356384Z",
+  "uploader": 1604985
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:57Z",
+    "lastChanged": "2026-09-21T02:01:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-15T17:18:28.542543Z",
+  "charter": "MoC17",
+  "composer": "fizzd",
+  "created": "2024-02-15T17:18:28.542543Z",
+  "description": "5pj产物。\n中间那段要盲打，其他的地方本质上还是挺常规的吧）",
+  "difficulty": 14.700003,
+  "file": "https://phira.5wyxi.com/files/48a7ec00-ced5-4d0d-a3ae-40612695fb0b",
+  "id": 15782,
+  "illustration": "https://phira.5wyxi.com/files/7a2b39bc-d000-4b4a-85b4-e1f06d0c7757",
+  "illustrator": "",
+  "level": "IN Lv.14？",
+  "name": "超·东方不眠夜",
+  "preview": "https://phira.5wyxi.com/files/dd6f234f-2ca4-48e4-ac52-3126a551beff",
+  "ranked": false,
+  "rating": 0.869759,
+  "ratingCount": 747,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "节奏医生",
+    "regular"
+  ],
+  "updated": "2024-02-15T17:18:28.542543Z",
+  "uploader": 272821
+}

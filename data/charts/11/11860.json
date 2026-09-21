@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:42Z",
+    "lastChanged": "2026-09-21T02:01:42Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-11-26T12:59:26.371673Z",
+  "charter": "FLAG as \"Illegal item\"",
+  "composer": "shadow_bling",
+  "created": "2023-11-26T12:59:26.371673Z",
+  "description": "Bilibili @FLAG_Xiaoqi\nWJC/这谱我写的杯参赛作品 No.7（是编号不是排名）\n\n我写这个谱面的时候不知道舞立方有这个歌",
+  "difficulty": 15.900003,
+  "file": "https://phira.5wyxi.com/files/46594416-1ef4-468f-afe3-c85891f613ea",
+  "id": 11860,
+  "illustration": "https://phira.5wyxi.com/files/fec37aad-aca4-41e5-a144-be6ee5b3ea4c",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "Illegal Deal",
+  "preview": "https://phira.5wyxi.com/files/e7ad2daf-2cd9-4991-a118-6cd6d25510bb",
+  "ranked": false,
+  "rating": 0.9387869,
+  "ratingCount": 1157,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "WJC",
+    "这谱我写的杯",
+    "舞立方",
+    "DanceCube",
+    "regular"
+  ],
+  "updated": "2025-03-21T12:34:43.589667Z",
+  "uploader": 457
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:49Z",
+    "lastChanged": "2026-09-21T02:06:49Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-15T16:33:20.230884Z",
+  "charter": "aoea",
+  "composer": "Rabbit House",
+  "created": "2026-04-15T16:33:20.230884Z",
+  "description": "普普通通的键盘\n作为AOEA4Dan的难度标准，不要问什么4dan，问就是aoea4dan，虽然我目前就写到1dan吧，不过可以进群领取。\n\n群715217409",
+  "difficulty": 17.900005,
+  "file": "https://phira.5wyxi.com/files/4b9ac39b-b270-4bd1-89ff-829c297cdff1",
+  "id": 56421,
+  "illustration": "https://phira.5wyxi.com/files/56d12b3c-7078-439b-8cc7-c12d15732443",
+  "illustrator": "",
+  "level": "Lv.4",
+  "name": "Ad astra per aspera",
+  "preview": "https://phira.5wyxi.com/files/705393d3-d284-426a-9f61-3a326b62e76c",
+  "ranked": false,
+  "rating": 0.8817029,
+  "ratingCount": 10,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2026-04-15T16:33:20.230884Z",
+  "uploader": 55060
+}

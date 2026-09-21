@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "visual"
+    ],
+    "firstSeen": "2026-09-21T02:07:06Z",
+    "lastChanged": "2026-09-21T02:07:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-06-23T17:44:24.764625Z",
+  "charter": "H666",
+  "composer": "C418",
+  "created": "2024-06-23T17:44:24.764625Z",
+  "description": "谱面内除MClogo外全部由谱师本人@日向666制作\n如果第一次打完感觉时间太长，可以调成2倍速游玩",
+  "difficulty": 20.0,
+  "file": "https://phira.5wyxi.com/files/be78bb35-e1ec-4b3c-86a4-aead1eb477d1",
+  "id": 21835,
+  "illustration": "https://phira.5wyxi.com/files/f3a42f3e-d81c-40a6-b2a6-9c032c7f21a9",
+  "illustrator": "",
+  "level": "MC Lv.?",
+  "name": "Alpha",
+  "preview": "https://phira.5wyxi.com/files/6618fdbd-056a-4075-aae0-cfc01e7ed8bd",
+  "ranked": false,
+  "rating": 0.96601474,
+  "ratingCount": 954,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "visual"
+  ],
+  "updated": "2024-06-23T17:44:24.764625Z",
+  "uploader": 1066611
+}

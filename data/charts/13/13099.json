@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:46Z",
+    "lastChanged": "2026-09-21T02:01:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-31T15:10:49.966049Z",
+  "charter": "huh what's rhythm (Sumarexon)",
+  "composer": "Louie Zong",
+  "created": "2023-12-31T15:10:49.966049Z",
+  "description": "(EN) uhhhh yeah I was bored",
+  "difficulty": 20.0,
+  "file": "https://phira.5wyxi.com/files/4c65b3d2-1b01-4b3f-b6a4-75287fc33bcd",
+  "id": 13099,
+  "illustration": "https://phira.5wyxi.com/files/4be2a466-da28-4b27-9ed0-d62bf3a2da1e",
+  "illustrator": "",
+  "level": "IN Lv.Hell",
+  "name": "Rhythm Hell",
+  "preview": "https://phira.5wyxi.com/files/637a4b9c-b4d3-49ef-bf81-388731d2dacb",
+  "ranked": false,
+  "rating": 0.9362802,
+  "ratingCount": 1781,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-01-08T16:57:06.271671Z",
+  "uploader": 765
+}

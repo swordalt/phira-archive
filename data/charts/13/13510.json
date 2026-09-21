@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:48Z",
+    "lastChanged": "2026-09-21T02:01:48Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-10-19T07:55:46.905758Z",
+  "charter": "FN花计",
+  "composer": "Sakuzyo",
+  "created": "2024-01-12T14:19:01.288732Z",
+  "description": "谱师：@FN花计\n谱面版本：2.0.0.1\n本次更新更改部分配置\n谱面预览（B站）：BV1QK4y167Zz",
+  "difficulty": 16.800003,
+  "file": "https://phira.5wyxi.com/files/69f444d4-219e-4c96-ac9a-464323f1480a",
+  "id": 13510,
+  "illustration": "https://phira.5wyxi.com/files/202f3282-ceea-4e0a-8f99-bb9a7045eb9f",
+  "illustrator": "",
+  "level": "AT Lv.16.8",
+  "name": "PANDORA PARADOXXX",
+  "preview": "https://phira.5wyxi.com/files/8679c605-8fda-49a8-9c60-54266b8e4a7d",
+  "ranked": false,
+  "rating": 0.8048277,
+  "ratingCount": 3160,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-07-06T04:26:54.154521Z",
+  "uploader": 1082
+}

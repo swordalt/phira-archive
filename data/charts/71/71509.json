@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:05Z",
+    "lastChanged": "2026-09-21T02:05:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-05T16:29:54.536996Z",
+  "charter": "αrcos079 vs Stαrline",
+  "composer": "Aoi",
+  "created": "2026-08-05T16:29:54.536996Z",
+  "description": "本曲选自音游CHUNITHM 作为夏诗杯的小组赛自制谱曲目放出\n谱师为Arcos079和Starline 其中Arcos079负责了大部分配置的编写 Starline添加了动效并补充更改了部分配置 由Arcos079代为上传.\n谱面主要考查选手的4k力以及掐密准度 定数在16.7-16.9之间 最终定位为下位16.9\n@StaRliNE#1131332 (谱面协作)\n@zenith_DChang#2764147 (曲绘设计)\n夏诗杯海选通道：964514544\n曲绘使用了超分软件来提高分辨率",
+  "difficulty": 16.900003,
+  "file": "https://phira.5wyxi.com/files/9d629b40-0fe9-461e-b738-0ee5e0f40045",
+  "id": 71509,
+  "illustration": "https://phira.5wyxi.com/files/2c90dbb5-148b-4742-bc4f-414c4db8bd7b",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "βlαnoir",
+  "preview": "https://phira.5wyxi.com/files/66c8ec72-6d59-44b9-ab16-d06e522db5aa",
+  "ranked": false,
+  "rating": 0.7879297,
+  "ratingCount": 180,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "夏诗杯",
+    "多指",
+    "键盘",
+    "regular"
+  ],
+  "updated": "2026-08-06T11:20:37.263860Z",
+  "uploader": 1121754
+}

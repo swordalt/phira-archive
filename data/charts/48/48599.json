@@ -1,0 +1,40 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:39Z",
+    "lastChanged": "2026-09-21T02:06:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-31T16:55:06.021515Z",
+  "charter": "DFC_TEAM",
+  "composer": "Scott Brown",
+  "created": "2025-10-31T16:55:06.021515Z",
+  "description": "谱师本人上传",
+  "difficulty": 16.699987,
+  "file": "https://phira.5wyxi.com/files/221b991b-6b7e-418a-b96f-a9f338f817ba",
+  "id": 48599,
+  "illustration": "https://phira.5wyxi.com/files/1992a936-02c0-4eae-a49e-7be5b033a9d9",
+  "illustrator": "",
+  "level": "GoBerzenrkTea Lv.16",
+  "name": "Go Berzerk",
+  "preview": "https://phira.5wyxi.com/files/22a276f5-72a5-4c64-b6ad-5787195ef453",
+  "ranked": false,
+  "rating": 0.92644054,
+  "ratingCount": 37,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "DFC",
+    "双指",
+    "高难",
+    "叠",
+    "Zeta",
+    "Tea",
+    "plain"
+  ],
+  "updated": "2025-10-31T16:55:06.021515Z",
+  "uploader": 737822
+}

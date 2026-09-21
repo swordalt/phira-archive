@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:13Z",
+    "lastChanged": "2026-09-21T02:04:13Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-21T10:05:21.686863Z",
+  "charter": "\"Queen\"(ee→a)",
+  "composer": "P*Light/初音ミク",
+  "created": "2026-01-21T10:05:21.686863Z",
+  "description": "曲名：嬢王\n曲师：八王子P（P*Light）/初音ミク\n谱师：\"Queen\"(ee→a)（B站：@甲荃不是甲醛）\nBPM：150~200\n物量：1520\n事件数：2018\n难度：AT Lv.16\n定数：16.3\n制作时长：约12小时\n本谱偏底力，以基础4k配置为主\n祝大家玩得开心！\n(本谱为本人所作改谱，并非重复上传！）",
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/a0dc0782-3fe5-4858-9e41-f388d6f6450c",
+  "id": 51461,
+  "illustration": "https://phira.5wyxi.com/files/f76ab49b-a29a-4fdf-a642-5a63c41f855b",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "嬢王",
+  "preview": "https://phira.5wyxi.com/files/921efc3a-e607-40eb-a7ac-9716f2b7df20",
+  "ranked": false,
+  "rating": 0.9159575,
+  "ratingCount": 704,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-01-21T10:05:21.686863Z",
+  "uploader": 739596
+}

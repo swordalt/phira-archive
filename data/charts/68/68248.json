@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:01Z",
+    "lastChanged": "2026-09-21T02:05:01Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-21T14:04:40.504475Z",
+  "charter": "ORIGIN ~IKAZUCHI~",
+  "composer": "光吉猛修",
+  "created": "2026-07-21T14:04:40.504475Z",
+  "description": "该谱面为 WSRT x 云梦杯 比赛供谱\r\n首次登场于【沉坠•破晓】32进16小组赛第一回合\r\n\r\n————————————————\r\n曲名：怒槌\r\n曲师：光吉猛修\r\n谱师：ORIGIN ~IKAZUCHI~\r\n难度：IN Lv.15\r\n物量：1350\r\n————————————————\r\n\r\n感谢@Cygnify @Wind丶灵风 以及其他策划组成员的大力支持",
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/a25490a2-ef37-4ff4-bf4d-f2d5e784a79d",
+  "id": 68248,
+  "illustration": "https://phira.5wyxi.com/files/abdfefb5-cbcf-4a4c-935c-4b494ad981a3",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "怒槌",
+  "preview": "https://phira.5wyxi.com/files/b8b1d6d8-6689-438f-8ef2-9d98181133a5",
+  "ranked": false,
+  "rating": 0.9136791,
+  "ratingCount": 179,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-21T14:04:40.504475Z",
+  "uploader": 540194
+}

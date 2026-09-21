@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:45Z",
+    "lastChanged": "2026-09-21T02:04:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-06T05:17:40.554331Z",
+  "charter": "鹅神",
+  "composer": "洛天依",
+  "created": "2026-06-06T05:17:40.554331Z",
+  "description": "初谱 初谱 (之前上传过两个被打掉了)\n这是我第一次花那么长时间去打磨一个谱面，虽然很烂，但至少努力了。\n感谢@幻影君phantom#1915835 优化谱面，我们会继续努力的。\n真的非常喜欢《有兽焉》和由洛天依演唱的《有兽焉》，所以选择了写这个谱。\n这个谱面耗了我很多时间和精力，希望能够过审。以此谱面，献给热爱《有兽焉》和Phira的伙伴。",
+  "difficulty": 14.1,
+  "file": "https://phira.5wyxi.com/files/2e143be5-f024-4c9e-9d48-425b75010971",
+  "id": 60066,
+  "illustration": "https://phira.5wyxi.com/files/2fa467dd-c3bd-4135-86c1-b3979baee733",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "有兽焉",
+  "preview": "https://phira.5wyxi.com/files/a5a084ff-d381-4f85-9825-439455688555",
+  "ranked": false,
+  "rating": 0.9508132,
+  "ratingCount": 2975,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "初见杀",
+    "初谱",
+    "regular"
+  ],
+  "updated": "2026-06-06T05:17:40.554331Z",
+  "uploader": 2093292
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:50Z",
+    "lastChanged": "2026-09-21T02:03:50Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-07T11:13:41.180890Z",
+  "charter": "LogicM",
+  "composer": "USAO",
+  "created": "2025-09-07T11:13:41.180890Z",
+  "description": null,
+  "difficulty": 13.200001,
+  "file": "https://phira.5wyxi.com/files/2c8c9451-93af-4074-8ded-2a310eb92e7b",
+  "id": 46544,
+  "illustration": "https://phira.5wyxi.com/files/9f0a6a24-a66c-4142-9b28-dad01eab2efc",
+  "illustrator": "",
+  "level": "IN  Lv.13",
+  "name": "Chariot",
+  "preview": "https://phira.5wyxi.com/files/0271b136-c46c-475d-8ddf-64b507e80b08",
+  "ranked": false,
+  "rating": 0.8966828,
+  "ratingCount": 65,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-07T11:13:41.180890Z",
+  "uploader": 403
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:00Z",
+    "lastChanged": "2026-09-21T02:05:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-17T11:57:51.103646Z",
+  "charter": "8le0l1vR",
+  "composer": "ルゼ",
+  "created": "2026-07-17T11:57:51.103646Z",
+  "description": null,
+  "difficulty": 16.9,
+  "file": "https://phira.5wyxi.com/files/dabeac82-2cfe-4a38-ba73-79c708122330",
+  "id": 67257,
+  "illustration": "https://phira.5wyxi.com/files/baba9227-5ce3-4fdf-bf6d-57c08fa7b336",
+  "illustrator": "",
+  "level": "SP Lv.?",
+  "name": "エータ・ベータ・イータ",
+  "preview": "https://phira.5wyxi.com/files/7f01e73c-eb35-4955-8c27-7d69d3d4c9f7",
+  "ranked": false,
+  "rating": 0.8022034,
+  "ratingCount": 10,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-17T11:57:51.103646Z",
+  "uploader": 1992801
+}

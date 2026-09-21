@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:39Z",
+    "lastChanged": "2026-09-21T02:06:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-26T12:51:28.564424Z",
+  "charter": "√2赛高",
+  "composer": "litmus*",
+  "created": "2025-10-26T12:51:28.564424Z",
+  "description": "新人初谱，1dan",
+  "difficulty": 15.000003,
+  "file": "https://phira.5wyxi.com/files/c53fd35d-fc46-4e30-8f92-6d2bc5446367",
+  "id": 48500,
+  "illustration": "https://phira.5wyxi.com/files/29d14489-ed00-44d4-8a23-73d2bd8a6d26",
+  "illustrator": "",
+  "level": "Lv.15",
+  "name": "Bliss",
+  "preview": "https://phira.5wyxi.com/files/51d2ba9b-158f-4535-9ef6-10f6b913d583",
+  "ranked": false,
+  "rating": 0.84445226,
+  "ratingCount": 9,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "1dan",
+    "plain"
+  ],
+  "updated": "2025-10-26T12:51:28.564424Z",
+  "uploader": 831157
+}

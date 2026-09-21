@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:41Z",
+    "lastChanged": "2026-09-21T02:02:41Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-09-27T00:08:28.827478Z",
+  "charter": "trios",
+  "composer": "モリモリあつし",
+  "created": "2024-09-27T00:08:28.827478Z",
+  "description": null,
+  "difficulty": 15.8,
+  "file": "https://phira.5wyxi.com/files/45790ff8-0d85-46a1-804b-2a38670f2964",
+  "id": 28060,
+  "illustration": "https://phira.5wyxi.com/files/5e8be07b-1f4a-49f4-87af-d3dd0dd6f1e7",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "PUPA",
+  "preview": "https://phira.5wyxi.com/files/b6f1804a-c8e9-448a-9d1b-2d6c74cae033",
+  "ranked": false,
+  "rating": 0.93389297,
+  "ratingCount": 737,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-09-27T00:08:28.827478Z",
+  "uploader": 651616
+}

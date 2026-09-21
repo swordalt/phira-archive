@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:07Z",
+    "lastChanged": "2026-09-21T02:06:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-28T05:38:45.416197Z",
+  "charter": "@καηΔ",
+  "composer": "2TORI",
+  "created": "2025-01-28T05:38:45.416197Z",
+  "description": "主播觉得原谱写得还不够卡，就自己写了个卡手大叠，难度e2+(alpha",
+  "difficulty": 12.5,
+  "file": "https://phira.5wyxi.com/files/8a4a0473-18fd-4f3a-b05f-2f1d83d4ecb3",
+  "id": 32669,
+  "illustration": "https://phira.5wyxi.com/files/71743dc9-0d99-4ea1-ab77-e146ef530405",
+  "illustrator": "",
+  "level": "Jack-α",
+  "name": "Hiensou",
+  "preview": "https://phira.5wyxi.com/files/a7718b3b-657b-4a94-b3e2-f418aee84c09",
+  "ranked": false,
+  "rating": 0.91870064,
+  "ratingCount": 51,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4k",
+    "plain"
+  ],
+  "updated": "2025-01-28T05:38:45.416197Z",
+  "uploader": 32522
+}

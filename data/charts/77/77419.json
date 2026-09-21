@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:07:04Z",
+    "lastChanged": "2026-09-21T02:07:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-07T02:29:09.039935Z",
+  "charter": "E_Rizon",
+  "composer": "mii-ru",
+  "created": "2026-09-07T02:29:09.039935Z",
+  "description": "使用原曲0.8倍速，键型tech，预估难度9dan+\n等我什么时候原速95了把原速也传上来嘻嘻\n感谢legitIX提供的测试与修改（加强）建议",
+  "difficulty": 8.1,
+  "file": "https://phira.5wyxi.com/files/cec95a98-7c2b-4e58-bb6f-a7e6b28bc2ce",
+  "id": 77419,
+  "illustration": "https://phira.5wyxi.com/files/5234d82f-8ce0-4e96-88b2-7427e59ea96b",
+  "illustrator": "",
+  "level": "8.0~Nightmare Lv.36",
+  "name": "Mare Tranquillitatis",
+  "preview": "https://phira.5wyxi.com/files/7539b651-648f-4bcd-a622-8183e54ba8dd",
+  "ranked": false,
+  "rating": 0.856128,
+  "ratingCount": 6,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "5k",
+    "tech",
+    "plain"
+  ],
+  "updated": "2026-09-07T03:36:33.609828Z",
+  "uploader": 21375
+}

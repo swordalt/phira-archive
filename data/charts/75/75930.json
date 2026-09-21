@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:13Z",
+    "lastChanged": "2026-09-21T02:05:13Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-27T01:36:52.256243Z",
+  "charter": "DY_STAR",
+  "composer": "MYTK",
+  "created": "2026-08-27T01:36:52.256243Z",
+  "description": "谱师本人创作",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/54fef44e-a6ba-434f-a21b-dba6be260b1f",
+  "id": 75930,
+  "illustration": "https://phira.5wyxi.com/files/04995d00-58b9-453c-8611-50ef4bffda5a",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "靈",
+  "preview": "https://phira.5wyxi.com/files/f910704d-0a75-4c48-a60b-14fd9bc9d6eb",
+  "ranked": false,
+  "rating": 0.91393244,
+  "ratingCount": 445,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "多指",
+    "高难",
+    "regular"
+  ],
+  "updated": "2026-08-27T01:36:52.256243Z",
+  "uploader": 1558267
+}

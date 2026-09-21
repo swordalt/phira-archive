@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:49Z",
+    "lastChanged": "2026-09-21T02:06:49Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-04T17:35:10.973923Z",
+  "charter": "OoairoO vs. air",
+  "composer": "tokyona",
+  "created": "2026-04-04T17:35:10.973923Z",
+  "description": "bpm180的切 简单到爆\nln是第一次写 应该问题不大",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/5ec7a934-2750-4824-9abd-ffb8a28a06e3",
+  "id": 55037,
+  "illustration": "https://phira.5wyxi.com/files/5133ef8a-0872-4002-b9ef-837c1e62beee",
+  "illustrator": "",
+  "level": "Stream Lv.28",
+  "name": "Perpetual Descent",
+  "preview": "https://phira.5wyxi.com/files/3a2aa98e-3650-4114-b08b-1785ac899b2c",
+  "ranked": false,
+  "rating": 0.843259,
+  "ratingCount": 13,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "切",
+    "stream",
+    "plain"
+  ],
+  "updated": "2026-04-04T17:35:10.973923Z",
+  "uploader": 40494
+}

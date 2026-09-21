@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:58Z",
+    "lastChanged": "2026-09-21T02:01:58Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-17T05:20:20.734143Z",
+  "charter": "AngelBeats！",
+  "composer": "karuta",
+  "created": "2024-02-17T05:20:20.734143Z",
+  "description": "一番の宝物弱势回归\r\n稍微加了一点点小动效就没了\r\n可能还会再改吧。这个我是不知道的。(\r\n曲子相对来说挺，单调，主要就是不知道该怎么写。\r\n对了，有个bug。因为不知道写了什么东西，然后导致四合院倒档那一段的速度调不回去了(改速度事件。没效果)。\r\n目前来说请教了几个大佬帮忙改了一下一些细节\r\n2.15\r\n修改了部分动效的缓动\r\n稍微改了一点点排\r\n稍微加了一点点线\r\n增加了歌词部分\r\n后期版本会增加翻译\r\n非常感谢@曾不留神的动效修改\r\n感谢@是椛璃吖～爆肝的故事版\r\n可能还会改？\r\n算是画了个大饼吧(\r\n但是我想摆烂了(\r\n",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/b71e9941-2f9f-4124-86e6-f90d0691946a",
+  "id": 15927,
+  "illustration": "https://phira.5wyxi.com/files/50f44b78-463f-4592-9ef3-4e67318c4161",
+  "illustrator": "",
+  "level": "AB Lv.小奏",
+  "name": "一番の宝物",
+  "preview": "https://phira.5wyxi.com/files/2bedeb9b-a145-4770-a743-be4c2bc73586",
+  "ranked": false,
+  "rating": 0.9724589,
+  "ratingCount": 2886,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-02-17T05:20:20.734143Z",
+  "uploader": 136018
+}

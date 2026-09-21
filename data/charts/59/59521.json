@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:45Z",
+    "lastChanged": "2026-09-21T02:04:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-30T13:21:35.396385Z",
+  "charter": "Ashtoria_",
+  "composer": "Halv",
+  "created": "2026-05-30T13:21:35.396385Z",
+  "description": "新人初谱，写的时候想了很多配置和表演却不知道怎样合适地表达。尾杀存在一定问题，之后有时间可能会改。（半个月放一天假还是有点过于紧张了呃呃）     宽高比如果太高会藏不住键，这是我的疏忽。",
+  "difficulty": 16.7,
+  "file": "https://phira.5wyxi.com/files/b1a75c43-fed3-4233-8744-dbc68e17af65",
+  "id": 59521,
+  "illustration": "https://phira.5wyxi.com/files/288cba8c-ebb8-45f1-a5dd-15e214fd8ae7",
+  "illustrator": "",
+  "level": "IN Lv.16\n",
+  "name": "Meltovt Necrosys",
+  "preview": "https://phira.5wyxi.com/files/fcdfb519-18c7-4c17-9ab8-499671582599",
+  "ranked": false,
+  "rating": 0.8466785,
+  "ratingCount": 137,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "创",
+    "regular"
+  ],
+  "updated": "2026-07-25T05:40:54.428990Z",
+  "uploader": 2024691
+}

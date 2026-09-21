@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:08Z",
+    "lastChanged": "2026-09-21T02:06:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-03T08:03:32.610119Z",
+  "charter": "起名钉子户",
+  "composer": "かめりあ",
+  "created": "2025-02-03T08:03:32.610119Z",
+  "description": "谱师本人上传，试图抢首发的屑",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/e57bb553-203d-418d-9f67-097abab52d89",
+  "id": 33182,
+  "illustration": "https://phira.5wyxi.com/files/d5e72328-f346-4b72-95d9-30ea17d0eab0",
+  "illustrator": "",
+  "level": "SP Lv.?",
+  "name": "Hello (BPM) 2025",
+  "preview": "https://phira.5wyxi.com/files/be39b4ed-abff-4cce-872b-c07f0c2cc18f",
+  "ranked": false,
+  "rating": 0.8623229,
+  "ratingCount": 69,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-02-03T08:03:32.610119Z",
+  "uploader": 157940
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:30Z",
+    "lastChanged": "2026-09-21T02:01:30Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-30T04:40:51.159609Z",
+  "charter": "XerdouS-InDarkneSS-",
+  "composer": "わかどり",
+  "created": "2023-08-30T04:40:51.159609Z",
+  "description": "（本人上传）5thPecJam参赛谱面，序号SL No.15。",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/fe919200-23e8-4bfa-8419-587b398efdc1",
+  "id": 8769,
+  "illustration": "https://phira.5wyxi.com/files/4f65acfc-63bf-4eed-a5f4-29e0d55d9c9c",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "NightTheater",
+  "preview": "https://phira.5wyxi.com/files/746c8aa8-4f96-4d29-9e2c-64ed23097048",
+  "ranked": true,
+  "rating": 0.90823805,
+  "ratingCount": 2239,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "5thPecJam",
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 22799
+}

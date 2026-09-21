@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:42Z",
+    "lastChanged": "2026-09-21T02:04:42Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-17T06:20:34.398366Z",
+  "charter": "朝日之锁",
+  "composer": "[Alexandros]",
+  "created": "2026-05-17T06:20:34.398366Z",
+  "description": "本人上传，B站id:朝日之锁\n双指底力爽谱\n6.3更新，将定数挑战为16.2",
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/d6c80004-16d8-415c-8d31-3893e7641ef8",
+  "id": 58566,
+  "illustration": "https://phira.5wyxi.com/files/c101aed5-1b54-4c6b-a760-158d72ed54ba",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "超える",
+  "preview": "https://phira.5wyxi.com/files/2c8f1e9e-6d8a-44b9-b93d-834cea946b0d",
+  "ranked": false,
+  "rating": 0.92567295,
+  "ratingCount": 449,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "底力",
+    "赛马娘",
+    "regular"
+  ],
+  "updated": "2026-06-03T12:02:21.770391Z",
+  "uploader": 192860
+}

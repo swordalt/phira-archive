@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:59Z",
+    "lastChanged": "2026-09-21T02:05:59Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-25T06:26:26.741936Z",
+  "charter": "Pure-Mare",
+  "composer": "Camellia",
+  "created": "2024-08-25T06:26:26.741936Z",
+  "description": null,
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/e1c1f902-08c0-45a2-b34b-3b04ceda65b3",
+  "id": 26873,
+  "illustration": "https://phira.5wyxi.com/files/20984396-d65c-4439-9dfc-d3067b74c079",
+  "illustrator": "",
+  "level": "4k lv.33",
+  "name": "NUCLEAR-STAR",
+  "preview": "https://phira.5wyxi.com/files/cf3ce3f1-7cb8-474a-a265-dfd312929920",
+  "ranked": false,
+  "rating": 0.9661053,
+  "ratingCount": 118,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2024-08-25T06:26:26.741936Z",
+  "uploader": 64090
+}

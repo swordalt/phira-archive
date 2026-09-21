@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:01Z",
+    "lastChanged": "2026-09-21T02:02:01Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-10T08:54:43.487799Z",
+  "charter": "WinterPT -Secret in my heart-",
+  "composer": "棗いつき",
+  "created": "2024-03-01T12:52:00.526568Z",
+  "description": "本人第十张独立完成的谱\n2ndWJC位1 同时是本人写谱一周年纪念作\nBV1wv421r7fX 支持一下谢谢喵；\n一改 修改了三面的配置 尽量解决了挡手问题；修改部分动效\n感谢清水QR、StR-1、1847mo、关耳天马等谱师对谱面修改的建议！",
+  "difficulty": 14.300001,
+  "file": "https://phira.5wyxi.com/files/c1a98dee-2049-40b5-b353-b887a2246079",
+  "id": 16578,
+  "illustration": "https://phira.5wyxi.com/files/411b278b-e65a-4b78-97ed-607cbe70d51e",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Secret of my heart",
+  "preview": "https://phira.5wyxi.com/files/7da97a0d-e282-42fa-a735-ca3db20f5db5",
+  "ranked": true,
+  "rating": 0.9242267,
+  "ratingCount": 1187,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "2ndWJC",
+    "regular"
+  ],
+  "updated": "2024-03-10T08:54:43.487799Z",
+  "uploader": 10002
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:43Z",
+    "lastChanged": "2026-09-21T02:02:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-10-09T03:41:41.579076Z",
+  "charter": "渊琼_deep",
+  "composer": "Kobaryo",
+  "created": "2024-10-09T03:41:41.579076Z",
+  "description": "做了三小时doge",
+  "difficulty": 15.8,
+  "file": "https://phira.5wyxi.com/files/8054d1e9-53ce-4145-a1aa-4089178bc9b4",
+  "id": 28579,
+  "illustration": "https://phira.5wyxi.com/files/cd654b04-888d-49ef-a543-d34734a47f05",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "RTX 20000",
+  "preview": "https://phira.5wyxi.com/files/2ada878e-5520-4d22-bb9c-3ee2a7203a3f",
+  "ranked": false,
+  "rating": 0.93603975,
+  "ratingCount": 1072,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Kobaryo",
+    "regular"
+  ],
+  "updated": "2024-10-09T03:41:41.579076Z",
+  "uploader": 1160628
+}

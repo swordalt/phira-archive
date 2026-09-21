@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:50Z",
+    "lastChanged": "2026-09-21T02:01:50Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-01-24T15:16:43.290191Z",
+  "charter": "eumdeK",
+  "composer": "Sta feat. b",
+  "created": "2024-01-24T15:16:43.290191Z",
+  "description": "本谱面为本人上传，该谱面同时参与3rdPecJam的委托一：第十戒律\n游玩提示：本谱的两张子谱面需要分别在不同的设备同时游玩以获得完整体验，“L”和“R”分别代表谱面的相对位置。两设备的屏幕比例大小相近为最佳",
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/53b0c357-1b33-4f9e-bfe2-0223b27434e7",
+  "id": 14075,
+  "illustration": "https://phira.5wyxi.com/files/6c4a7be1-82c5-4ab6-89cd-daa9307a8a0f",
+  "illustrator": "",
+  "level": "DP Lv.R",
+  "name": "Argent Symmetry",
+  "preview": "https://phira.5wyxi.com/files/eb95e413-ee63-45dc-87a2-e16465bf4313",
+  "ranked": false,
+  "rating": 0.90311384,
+  "ratingCount": 877,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "maimai",
+    "3rdPecJam",
+    "regular"
+  ],
+  "updated": "2024-01-24T15:16:43.290191Z",
+  "uploader": 730
+}

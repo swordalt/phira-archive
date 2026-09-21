@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:48Z",
+    "lastChanged": "2026-09-21T02:01:48Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-01-14T04:59:48.590134Z",
+  "charter": "元气麦子",
+  "composer": "t+pazolite",
+  "created": "2024-01-14T04:59:48.590134Z",
+  "description": "新人初谱，还请多多谅解\n1.1.0修复更新：优化了流速问题\n1.2.0修复更新：优化了初见杀问题\n1.3.0修复更新：优化了谱面表演\n1.4.0修复更新：优化了尾杀流速问题\n1.4.1修复更新：优化了初见杀问题\n2.0.0更新：优化了判定线表演",
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/fc54e8ad-755e-4cc1-8a2b-6a053e8759d0",
+  "id": 13605,
+  "illustration": "https://phira.5wyxi.com/files/3f9991c0-ea8f-44a7-91c6-0c5d4e03abbc",
+  "illustrator": "",
+  "level": "Dog Lv.15",
+  "name": "Dogbite",
+  "preview": "https://phira.5wyxi.com/files/c982b6b3-9e88-4f07-bc49-a6427d967db1",
+  "ranked": false,
+  "rating": 0.72776824,
+  "ratingCount": 464,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Dogbite",
+    "",
+    "regular"
+  ],
+  "updated": "2024-01-14T04:59:48.590134Z",
+  "uploader": 363686
+}

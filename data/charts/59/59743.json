@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:45Z",
+    "lastChanged": "2026-09-21T02:04:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-20T12:58:37.864295Z",
+  "charter": "SHS Downloader",
+  "composer": "Kobaryo",
+  "created": "2026-06-01T14:38:29.342971Z",
+  "description": "请使用0.7.1及以上版本游玩！！！\n请使用0.7.1及以上版本游玩！！！\n请使用0.7.1及以上版本游玩！！！\n本人上传，谱面演示见B站同名账号（BV号由于一些原因写不了）\n还要改谱的，各位大佬先别急着推分",
+  "difficulty": 16.500002,
+  "file": "https://phira.5wyxi.com/files/3ec63cb2-fc87-4148-8030-2e7b1d0d3abd",
+  "id": 59743,
+  "illustration": "https://phira.5wyxi.com/files/a9a3660a-6286-40fd-b4f4-b4c429eea51f",
+  "illustrator": "",
+  "level": "IN  Lv.16",
+  "name": "Future Downloader",
+  "preview": "https://phira.5wyxi.com/files/01c083f1-6447-47cd-942a-4b32e77d9bc3",
+  "ranked": false,
+  "rating": 0.951227,
+  "ratingCount": 872,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-20T12:58:37.864295Z",
+  "uploader": 1487585
+}

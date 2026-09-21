@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:32Z",
+    "lastChanged": "2026-09-21T02:02:32Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-09T01:35:55.840258Z",
+  "charter": "十月vs五月",
+  "composer": "Bôa",
+  "created": "2024-08-09T01:35:55.840258Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/cba938f1-a237-4591-894f-d31343d1bcae",
+  "id": 25694,
+  "illustration": "https://phira.5wyxi.com/files/a3ac03ac-0655-4da6-8980-fb1c9ab3185b",
+  "illustrator": "",
+  "level": "AT15",
+  "name": "Duvet",
+  "preview": "https://phira.5wyxi.com/files/a8d4adb0-79c9-44aa-8687-07026f5084d9",
+  "ranked": false,
+  "rating": 0.83110607,
+  "ratingCount": 2485,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-09T01:35:55.840258Z",
+  "uploader": 11934
+}

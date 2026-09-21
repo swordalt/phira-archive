@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:12Z",
+    "lastChanged": "2026-09-21T02:06:12Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-17T05:40:09.434446Z",
+  "charter": "George.Assist",
+  "composer": "ARForest",
+  "created": "2025-04-08T14:08:01.281536Z",
+  "description": "这辈子写的第一张谱，挑食多吃短纵和点划\n改了一次，这是第二版，把黄键加进去了",
+  "difficulty": 15.7,
+  "file": "https://phira.5wyxi.com/files/5d2247e0-3321-4e4b-af52-02c3cec00583",
+  "id": 36346,
+  "illustration": "https://phira.5wyxi.com/files/a359cba5-341f-4b0f-a73c-858bc27f162e",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Inverted World",
+  "preview": "https://phira.5wyxi.com/files/4eac9ff2-b1d6-4869-8844-664f8a74a404",
+  "ranked": false,
+  "rating": 0.843293,
+  "ratingCount": 30,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-06-17T05:40:09.434446Z",
+  "uploader": 1134937
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:18Z",
+    "lastChanged": "2026-09-21T02:05:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-19T03:48:55.126307Z",
+  "charter": "Nokiaa vs. 逸子izu",
+  "composer": "Se_IRA",
+  "created": "2026-09-19T03:48:55.126307Z",
+  "description": "注：因为考虑表演等因素，key版和EX版配置有微小调整。\nEX版信息如下：\nnote总量：1798（全回收）\n判定线数：24\n总事件数：2432\n配置微调：逸子izu\n动效设计：逸子izu\n------------------------------------\n这张谱原本是Nokiaa他写着自己打着玩的4k谱，经他同意之后拿来加了动效并发布。（）\n在这里特别感谢Nokiaa。我的配置设计远远不如他，但他依旧愿意让我按照自己的意愿微调配置，并对改后的配置给予我配置上的指导。在这里也欢迎各位提出建议，以供我学习和改进。\n又及：因为note密度过大，所以动效写得比较收敛（水），因此观赏性并不强，并非观赏向谱面。",
+  "difficulty": 17.9,
+  "file": "https://phira.5wyxi.com/files/81992195-db6f-4c23-8c06-a66453b05542",
+  "id": 78428,
+  "illustration": "https://phira.5wyxi.com/files/e7a1f1cf-6bc5-4e0c-b971-2c7c7bf44b4c",
+  "illustrator": "n/a (Ctymax modefied)",
+  "level": "EX Lv.17",
+  "name": "Archidoxen",
+  "preview": "https://phira.5wyxi.com/files/c9793283-1e6a-450c-af5a-fe51deae7854",
+  "ranked": false,
+  "rating": 0.7716787,
+  "ratingCount": 41,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-09-19T13:50:49.561277Z",
+  "uploader": 792771
+}

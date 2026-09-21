@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:55Z",
+    "lastChanged": "2026-09-21T02:05:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-23T14:08:51.693690Z",
+  "charter": "Iblcya as Engine",
+  "composer": "Breakchild / II-L",
+  "created": "2024-07-23T14:08:51.693690Z",
+  "description": "LC2024#2 GF SV1",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/3acac249-12c3-49ec-ae2a-7e152f264640",
+  "id": 24179,
+  "illustration": "https://phira.5wyxi.com/files/5e087e4e-16a8-4951-b5a8-f03fb3bc2114",
+  "illustrator": "",
+  "level": "EX Lv.16",
+  "name": "Meteorite",
+  "preview": "https://phira.5wyxi.com/files/e17d2aa3-ea2d-4d01-b4a9-742047c3150a",
+  "ranked": false,
+  "rating": 0.59589154,
+  "ratingCount": 17,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "LC2024",
+    "plain"
+  ],
+  "updated": "2024-07-23T14:08:51.693690Z",
+  "uploader": 1153034
+}

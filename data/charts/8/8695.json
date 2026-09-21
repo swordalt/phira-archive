@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:30Z",
+    "lastChanged": "2026-09-21T02:01:30Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-09-01T02:25:07.188139Z",
+  "charter": "存活挑战者",
+  "composer": "wheatfox",
+  "created": "2023-08-29T10:40:16.691083Z",
+  "description": "2023/9/1更新：微调部分配置。\n曲目来自BOF:ET，视频：BV15G411d7t5",
+  "difficulty": 15.300001,
+  "file": "https://phira.5wyxi.com/files/bc837eb9-daa9-483c-9817-223a6d2d2d6e",
+  "id": 8695,
+  "illustration": "https://phira.5wyxi.com/files/ea33b777-ecb5-4098-9135-9c610b3255e3",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Echo",
+  "preview": "https://phira.5wyxi.com/files/dafa8e42-dcae-41ab-8819-ddb502440dc2",
+  "ranked": false,
+  "rating": 0.93830955,
+  "ratingCount": 486,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "BOF",
+    "Neurofunk",
+    "regular"
+  ],
+  "updated": "2023-09-01T02:25:07.188139Z",
+  "uploader": 817
+}

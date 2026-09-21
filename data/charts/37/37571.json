@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:13Z",
+    "lastChanged": "2026-09-21T02:06:13Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-05T01:26:12.994564Z",
+  "charter": "qj_1016",
+  "composer": "Tatsh & Scsrlette",
+  "created": "2025-05-05T01:26:12.994564Z",
+  "description": "Malody V转谱(注：红键皆为点滑)",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/a2c6930f-6566-4bb5-83f1-8793e3733cfb",
+  "id": 37571,
+  "illustration": "https://phira.5wyxi.com/files/c5ba6aa3-a676-420f-a13a-1203f176de3e",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Eschatology",
+  "preview": "https://phira.5wyxi.com/files/f2a53241-51da-42f6-a179-aaa13a406289",
+  "ranked": false,
+  "rating": 0.86952007,
+  "ratingCount": 12,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-05-11T04:31:31.974698Z",
+  "uploader": 1238019
+}

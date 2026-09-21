@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:44Z",
+    "lastChanged": "2026-09-21T02:02:44Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-10-13T08:08:37.055329Z",
+  "charter": "Seromethiopia",
+  "composer": "Nurko/Ronnit",
+  "created": "2024-10-13T08:08:37.055329Z",
+  "description": null,
+  "difficulty": 15.800015,
+  "file": "https://phira.5wyxi.com/files/390a7074-e7d7-44de-ad05-bbbc9a5ed492",
+  "id": 28676,
+  "illustration": "https://phira.5wyxi.com/files/a9b7a3f1-7200-438a-9008-b71f5389ba45",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "Falling Again",
+  "preview": "https://phira.5wyxi.com/files/cce0267f-6119-4190-b3d9-501ec7563683",
+  "ranked": false,
+  "rating": 0.8996617,
+  "ratingCount": 254,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-11-09T10:04:01.861750Z",
+  "uploader": 502569
+}

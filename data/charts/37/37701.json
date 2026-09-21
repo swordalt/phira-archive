@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:14Z",
+    "lastChanged": "2026-09-21T02:06:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-05T16:05:27.021947Z",
+  "charter": "天澪",
+  "composer": "Tanchiky/siromaru",
+  "created": "2025-05-05T16:05:27.021947Z",
+  "description": "为什么要写这个谱？我也不知道：(",
+  "difficulty": 2.6999996,
+  "file": "https://phira.5wyxi.com/files/a3d9ec7d-f9f7-4605-b263-2413c6da4d6a",
+  "id": 37701,
+  "illustration": "https://phira.5wyxi.com/files/8ed649e3-4817-41a9-9496-03a0123bfb8a",
+  "illustrator": "",
+  "level": "2DAN",
+  "name": "Crystal Gravity (Extended)",
+  "preview": "https://phira.5wyxi.com/files/e202a732-88ce-4a55-a4d5-81740544beec",
+  "ranked": false,
+  "rating": 0.91280085,
+  "ratingCount": 68,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-05-05T16:39:47.462287Z",
+  "uploader": 195613
+}

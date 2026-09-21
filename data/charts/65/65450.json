@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:56Z",
+    "lastChanged": "2026-09-21T02:04:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-25T06:00:20.914170Z",
+  "charter": "終焉のAL-1S",
+  "composer": "Panda Eyes/Teminite",
+  "created": "2026-07-10T11:51:07.528286Z",
+  "description": "B站UID:3493291223943402 名字：終焉のAL-1S，欢迎关注喵！\n烂尾了，表演只有开头有，就当一个纯娱乐谱吧，后续如果写完了再更新\n最近一次修改（8月25日：修复很多判定问题，但是……你们的排名……应该都截屏了吧？[流汗]）\n",
+  "difficulty": 14.999994,
+  "file": "https://phira.5wyxi.com/files/f0b25d6c-85d4-491c-a613-e8ab669ec434",
+  "id": 65450,
+  "illustration": "https://phira.5wyxi.com/files/4ec0ba50-6f9d-4c1e-aa21-6e8f480d2aed",
+  "illustrator": "",
+  "level": "SP Lv.?",
+  "name": "High score[双人谱]",
+  "preview": "https://phira.5wyxi.com/files/a41600b0-f711-4580-9675-676603633ebb",
+  "ranked": false,
+  "rating": 0.913528,
+  "ratingCount": 3747,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双人",
+    "半观赏",
+    "regular"
+  ],
+  "updated": "2026-08-25T06:00:20.914170Z",
+  "uploader": 1655962
+}

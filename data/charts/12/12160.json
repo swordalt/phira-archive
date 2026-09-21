@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:43Z",
+    "lastChanged": "2026-09-21T02:01:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-05T05:23:25.535780Z",
+  "charter": "nev",
+  "composer": "tseroFRA (ARForest)",
+  "created": "2023-12-04T13:28:21.381218Z",
+  "description": "(en/US) Inverted World - Tranquility\n12.05.23 - fixed and added more shader. fixed some animations ",
+  "difficulty": 15.5,
+  "file": "https://phira.5wyxi.com/files/32516a02-9875-447a-b961-ec58dda8b650",
+  "id": 12160,
+  "illustration": "https://phira.5wyxi.com/files/a5e9ac1e-bc9d-4efe-958a-acf2e36c7967",
+  "illustrator": "",
+  "level": "IN Lv. 15",
+  "name": "★Inverted World",
+  "preview": "https://phira.5wyxi.com/files/07ab6db9-a92a-430d-b923-b17107e5c99e",
+  "ranked": false,
+  "rating": 0.95539516,
+  "ratingCount": 6583,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Rotaeno",
+    "storyboard",
+    "shader",
+    "regular"
+  ],
+  "updated": "2023-12-05T05:23:25.535780Z",
+  "uploader": 34413
+}

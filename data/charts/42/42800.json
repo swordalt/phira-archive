@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:32Z",
+    "lastChanged": "2026-09-21T02:03:32Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-26T14:45:38.600321Z",
+  "charter": "DX超性能フルメタル右果",
+  "composer": "RoughSketch/ちよこ",
+  "created": "2025-07-26T14:45:38.600321Z",
+  "description": "该谱面为【云梦•始源】比赛供谱\n首次登场于EX区24进16小组赛第七场\n\n是的孩子们这是多指谱\n————————————————\n曲名：DX超性能フルメタル少女\n曲师：RoughSketch/ちよこ\n谱师：DX超性能フルメタル右果（右果_Ary）\n难度：AT Lv.15\n物量：1000",
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/31530bad-08c4-4669-b17b-5cb6787c1a6f",
+  "id": 42800,
+  "illustration": "https://phira.5wyxi.com/files/37df1450-f7f0-4ccc-967d-2b73937bb240",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "DX超性能フルメタル少女",
+  "preview": "https://phira.5wyxi.com/files/a9212c21-c01a-49cb-8c39-66cb37180439",
+  "ranked": false,
+  "rating": 0.9192094,
+  "ratingCount": 250,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "云梦杯",
+    "regular"
+  ],
+  "updated": "2025-07-26T14:45:38.600321Z",
+  "uploader": 140
+}

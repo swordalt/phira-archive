@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:17Z",
+    "lastChanged": "2026-09-21T02:02:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-06-18T14:40:05.276407Z",
+  "charter": "ASMPeel",
+  "composer": "稲葉曇",
+  "created": "2024-06-18T14:40:05.276407Z",
+  "description": "    强烈建议先观看一遍auto再正常游玩谱面；本谱面全程带有背景视频，可以适当将背景调暗，因为带有视频部分机型可能无法正常游玩！手法提示基本上都在背景pv里了，可以多游玩几遍就能熟悉 ；透明的note一定不会被判定",
+  "difficulty": 15.300009,
+  "file": "https://phira.5wyxi.com/files/7a135037-21bb-4d1f-8127-2bebc007e2a0",
+  "id": 21508,
+  "illustration": "https://phira.5wyxi.com/files/7b87cd19-8b60-43c8-9574-eb7a176bed4d",
+  "illustrator": "",
+  "level": "SP Lv.延",
+  "name": "ラグトレイン",
+  "preview": "https://phira.5wyxi.com/files/dcad9903-a727-4f76-93e4-239f838baa31",
+  "ranked": false,
+  "rating": 0.9344001,
+  "ratingCount": 2867,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-06-18T14:40:05.276407Z",
+  "uploader": 14069
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:49Z",
+    "lastChanged": "2026-09-21T02:03:49Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-06T07:03:33.542492Z",
+  "charter": "GoodPhira",
+  "composer": "Plum",
+  "created": "2025-09-06T07:03:33.542492Z",
+  "description": null,
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/d51f1e2a-128c-4bd1-8574-e2b359c27e2a",
+  "id": 46429,
+  "illustration": "https://phira.5wyxi.com/files/8aa13c2c-bb43-4c13-b857-76df8e4e0f76",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Terrasphere",
+  "preview": "https://phira.5wyxi.com/files/81fed1fb-9314-487e-9a29-5501b710abaa",
+  "ranked": false,
+  "rating": 0.7893925,
+  "ratingCount": 78,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-06T07:03:33.542492Z",
+  "uploader": 1369022
+}

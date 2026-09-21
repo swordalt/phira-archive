@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:07:04Z",
+    "lastChanged": "2026-09-21T02:07:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-15T12:23:22.830761Z",
+  "charter": "↑Reimu↑",
+  "composer": "kei_iwata",
+  "created": "2026-09-15T12:23:22.830761Z",
+  "description": null,
+  "difficulty": 9.0,
+  "file": "https://phira.5wyxi.com/files/89ddfed6-fb20-41d0-82f2-b9c0de42cd40",
+  "id": 78184,
+  "illustration": "https://phira.5wyxi.com/files/b4d44dc1-7760-49e8-a430-db0f07e82cc7",
+  "illustrator": "Convert by MVP",
+  "level": "A↑ Lv.↑9",
+  "name": "Frontier Explorer (1.15x)",
+  "preview": "https://phira.5wyxi.com/files/d4a54c91-af98-406a-b687-c31077e26fac",
+  "ranked": false,
+  "rating": 0.89085275,
+  "ratingCount": 70,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2026-09-16T09:23:49.130221Z",
+  "uploader": 4101842
+}

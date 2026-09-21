@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:05Z",
+    "lastChanged": "2026-09-21T02:02:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-21T06:25:20.801032Z",
+  "charter": "LanShan087",
+  "composer": "ARForest",
+  "created": "2024-03-29T00:28:13.796828Z",
+  "description": "修改了答辩尾杀",
+  "difficulty": 15.600006,
+  "file": "https://phira.5wyxi.com/files/4ae4d502-37b9-4712-b152-a28a36c4b6d4",
+  "id": 17662,
+  "illustration": "https://phira.5wyxi.com/files/f3decda2-7858-4910-bea8-67e5cd07a707",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Inverted world",
+  "preview": "https://phira.5wyxi.com/files/e886ab8a-7b25-40e4-86cd-6a58eab57730",
+  "ranked": false,
+  "rating": 0.8218423,
+  "ratingCount": 416,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Rotaeno",
+    "regular"
+  ],
+  "updated": "2024-04-21T06:25:20.801032Z",
+  "uploader": 49511
+}

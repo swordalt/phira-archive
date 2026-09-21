@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:33Z",
+    "lastChanged": "2026-09-21T02:02:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-10T13:42:12.434736Z",
+  "charter": "Trios",
+  "composer": "A-39",
+  "created": "2024-08-10T13:42:12.434736Z",
+  "description": null,
+  "difficulty": 14.300001,
+  "file": "https://phira.5wyxi.com/files/1a8e0fa6-0190-4867-b02e-2b682993d6ac",
+  "id": 25893,
+  "illustration": "https://phira.5wyxi.com/files/a0d1ad47-dc68-465c-8243-bfc1856813a5",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "water",
+  "preview": "https://phira.5wyxi.com/files/45082b2d-6ef4-4c1d-a309-2c670760953e",
+  "ranked": false,
+  "rating": 0.9444234,
+  "ratingCount": 709,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-10T13:42:12.434736Z",
+  "uploader": 651616
+}

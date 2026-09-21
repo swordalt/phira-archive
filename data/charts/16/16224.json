@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:00Z",
+    "lastChanged": "2026-09-21T02:02:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-21T13:40:39.075507Z",
+  "charter": "♡Tempo♡",
+  "composer": "Eve",
+  "created": "2024-02-21T13:40:39.075507Z",
+  "description": "en-US\n\nHappy valentine's month.",
+  "difficulty": 14.6,
+  "file": "https://phira.5wyxi.com/files/30e949a9-e0c2-4db5-b205-523d2b2787a6",
+  "id": 16224,
+  "illustration": "https://phira.5wyxi.com/files/828fb59c-f199-429a-af06-760069df385c",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Heart Forecast",
+  "preview": "https://phira.5wyxi.com/files/717ba850-dbd3-4383-8a08-d290ea940cab",
+  "ranked": false,
+  "rating": 0.961252,
+  "ratingCount": 2971,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "故事板",
+    "shader",
+    "regular"
+  ],
+  "updated": "2024-02-21T13:40:39.075507Z",
+  "uploader": 158825
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:05Z",
+    "lastChanged": "2026-09-21T02:03:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-21T17:00:38.834560Z",
+  "charter": "Mhang_L",
+  "composer": "BlackY",
+  "created": "2025-02-21T17:00:38.834560Z",
+  "description": "本人首键盘谱",
+  "difficulty": 18.000004,
+  "file": "https://phira.5wyxi.com/files/d1bd5473-5c11-4f03-823a-76615ae0d3e4",
+  "id": 34279,
+  "illustration": "https://phira.5wyxi.com/files/73dd540b-7b52-4025-b3e2-82278fd0d80f",
+  "illustrator": "",
+  "level": "AT Lv.18",
+  "name": "Collapsar",
+  "preview": "https://phira.5wyxi.com/files/4910d01a-9d22-4213-92c2-70a2f387c1ab",
+  "ranked": false,
+  "rating": 0.93778497,
+  "ratingCount": 276,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-27T14:21:54.439120Z",
+  "uploader": 512506
+}

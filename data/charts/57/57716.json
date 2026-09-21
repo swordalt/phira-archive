@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:40Z",
+    "lastChanged": "2026-09-21T02:04:40Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-03T14:41:14.871544Z",
+  "charter": "火花茶",
+  "composer": "DJ Myosuke & gram",
+  "created": "2026-05-03T14:41:14.871544Z",
+  "description": "YPC2nd决胜曲。嗯。就是这样。",
+  "difficulty": 17.900003,
+  "file": "https://phira.5wyxi.com/files/d8cd5d43-b68a-4afc-9a01-769e808da1df",
+  "id": 57716,
+  "illustration": "https://phira.5wyxi.com/files/e4943bf4-5d24-4a4a-87bd-713befc3802f",
+  "illustrator": "",
+  "level": "AT.17",
+  "name": "XODUS",
+  "preview": "https://phira.5wyxi.com/files/35e5c9ec-c7ee-4b5c-900b-3a8b43485531",
+  "ranked": false,
+  "rating": 0.6383759,
+  "ratingCount": 75,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-05-03T14:41:14.871544Z",
+  "uploader": 2204508
+}

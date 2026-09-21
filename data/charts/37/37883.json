@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:17Z",
+    "lastChanged": "2026-09-21T02:03:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-10T07:33:58.349772Z",
+  "charter": "JEI is playing Blue Archive",
+  "composer": "ミツキヨ",
+  "created": "2025-05-10T07:33:58.349772Z",
+  "description": "该谱为谱师二谱，经本人上手验证并AP后得出结论：该谱手感上没有问题，仅初见杀较为严重（\n哔哩哔哩：JEI_CCCP_Russia",
+  "difficulty": 13.1,
+  "file": "https://phira.5wyxi.com/files/f8a0f2b1-de5b-4ff6-892d-8e205376d465",
+  "id": 37883,
+  "illustration": "https://phira.5wyxi.com/files/c3c419b6-791c-4b8f-a033-68e9e8d9107f",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "Dolce Biblioteca",
+  "preview": "https://phira.5wyxi.com/files/6fd8dcdc-d907-4780-9cfb-d97c897e8100",
+  "ranked": false,
+  "rating": 0.95554394,
+  "ratingCount": 661,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "蔚蓝档案",
+    "BA",
+    "新人二谱",
+    "regular"
+  ],
+  "updated": "2025-05-10T07:33:58.349772Z",
+  "uploader": 757146
+}

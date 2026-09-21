@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:36Z",
+    "lastChanged": "2026-09-21T02:02:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-23T14:17:28.114602Z",
+  "charter": "白のblack",
+  "composer": "Laur",
+  "created": "2024-08-23T14:17:28.114602Z",
+  "description": "本人上传\n谱面演示视频：BV1SAWUeBE2S\n\n注意事项：\n1.建议使用v0.6.2及以前的phira游玩，此后更新的版本可能使谱面出现bug\n2.解锁视频在部分设备可能无法正常播放（黑屏卡死，退出phira重进即可游玩，也可能音频出现问题）\n3.部分表演的效果因设备不同有所差异（可能无法正常显示）\n4.请确保屏幕比例为1.5（3:2）以获取最佳游戏体验（可在谱面设置中调整）\n\n谱面相关信息：\n制作耗时：约两个月（100h）\n事件数：4w+\n判定线数：72\n物量：3000（不包括fake note）\n使用了shader和故事板",
+  "difficulty": 17.500002,
+  "file": "https://phira.5wyxi.com/files/3ec88d0f-365f-415e-be5e-ed236833cffa",
+  "id": 26796,
+  "illustration": "https://phira.5wyxi.com/files/16a0b75e-4924-45d8-b977-c1cbb39d4e4f",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "国士無双",
+  "preview": "https://phira.5wyxi.com/files/6173c883-599a-467a-833c-eb7a0376e8ed",
+  "ranked": false,
+  "rating": 0.8958661,
+  "ratingCount": 837,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "shader",
+    "故事板",
+    "高难",
+    "regular"
+  ],
+  "updated": "2024-08-23T14:17:28.114602Z",
+  "uploader": 132881
+}

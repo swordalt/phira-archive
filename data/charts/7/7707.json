@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:27Z",
+    "lastChanged": "2026-09-21T02:01:27Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-15T12:23:28.180267Z",
+  "charter": "Phira Chart Team 『Gott Yfirskyggni, Pyhäksi Kutsuttu Loitsu Daga Quid Pro Hetkiin Wachsamkeit.』",
+  "composer": "tn-shi",
+  "created": "2023-08-15T12:23:28.180267Z",
+  "description": "F#比赛特供版，本谱面由Phira Chart Team成员联合创作，作为Phira的第一张官谱登场！特别感谢LTC的成员对谱面提供建议和画师大大细小微small为F#创作的酷炫曲绘（@细小微weismall）也特别感谢谱组成员的大力支持（PS:F#的谱师名单，排名不分前后:kkkkkkkywy，鱼某，gaosheng，Pcechqnt，lizyuethink，冬花，QR，氷川秋乃，WH_C）",
+  "difficulty": 17.700003,
+  "file": "https://phira.5wyxi.com/files/22efc4cc-d61a-4aee-89a0-9a68588c5f30",
+  "id": 7707,
+  "illustration": "https://phira.5wyxi.com/files/d2e834aa-0b37-4891-bfc6-bc786af849b6",
+  "illustrator": "",
+  "level": "EX Lv.17",
+  "name": "Annihilation in F# Minor",
+  "preview": "https://phira.5wyxi.com/files/7e4a998b-b2a5-454d-8852-ed887450b20e",
+  "ranked": true,
+  "rating": 0.9117143,
+  "ratingCount": 5650,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-14T15:33:30.241558Z",
+  "uploader": 213
+}

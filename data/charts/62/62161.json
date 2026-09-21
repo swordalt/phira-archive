@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:56Z",
+    "lastChanged": "2026-09-21T02:06:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-23T11:03:49.092979Z",
+  "charter": "N_neo",
+  "composer": "Laufey",
+  "created": "2026-06-23T11:03:49.092979Z",
+  "description": "谱师：N_neo\n制谱时长：5d\n制谱净时长：13h\n\n谱师本人上传，非转谱。\n\n延迟有点吃不准，最好自行调整哦。",
+  "difficulty": 19.0,
+  "file": "https://phira.5wyxi.com/files/b725156d-c64d-4791-89bc-be346935f0f0",
+  "id": 62161,
+  "illustration": "https://phira.5wyxi.com/files/5e994c82-096d-4e8b-a95d-e0412aa0bfc4",
+  "illustrator": "",
+  "level": "5K Normal Lv.19",
+  "name": "From The Start",
+  "preview": "https://phira.5wyxi.com/files/afd71671-a465-4063-9ba1-5ba3d426e873",
+  "ranked": false,
+  "rating": 0.8803679,
+  "ratingCount": 1487,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "5k",
+    "plain"
+  ],
+  "updated": "2026-06-23T11:03:49.092979Z",
+  "uploader": 1142877
+}

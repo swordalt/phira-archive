@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:57Z",
+    "lastChanged": "2026-09-21T02:03:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-17T11:25:26.466160Z",
+  "charter": "SqrtSecond Chart Team",
+  "composer": "Kobaryo",
+  "created": "2025-10-17T11:25:26.466160Z",
+  "description": "本次谱面为实验性质，每位谱师从拿到谱面到做完全程只有12小时的时间，所以谱面质量可能相对没有精打细磨地那么高。但是仍然是一个创新和特效并行的谱面，希望大家玩的开心！\r\nB站关注 @瑞sonance @曾不留神 @XingChen-星晨伴月 @梦幻不限量 @XSilence_10231 @平方秒和立方吨 谢谢喵~",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/dc5a5f80-722f-43b0-bcb3-daac9e44dcea",
+  "id": 48099,
+  "illustration": "https://phira.5wyxi.com/files/ced64525-66fc-468c-9563-0ffef18e3dc4",
+  "illustrator": "",
+  "level": "AT Lv.16+",
+  "name": "Future Downloader",
+  "preview": "https://phira.5wyxi.com/files/33d026e9-57eb-409d-a081-8d3bb0eaba3e",
+  "ranked": false,
+  "rating": 0.9469599,
+  "ratingCount": 1130,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Kobaryo",
+    "Rizline",
+    "regular"
+  ],
+  "updated": "2025-10-17T11:25:26.466160Z",
+  "uploader": 257272
+}

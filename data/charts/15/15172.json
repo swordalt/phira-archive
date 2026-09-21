@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:55Z",
+    "lastChanged": "2026-09-21T02:01:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-09T16:57:11.823500Z",
+  "charter": "WinterPT",
+  "composer": "irucaice/初音ミク",
+  "created": "2024-02-09T16:57:11.823500Z",
+  "description": "6thPecJam参赛谱面 比较失败的一次尝试 事实证明我还没有驾驭这类曲风的能力；\n由于各类原因 这张谱工期较短 没有仔细打磨修改 今后会改谱 上传的是pj版本；\n曲是@StR-1 帮忙剪的\n改定数加求建议",
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/25e78569-02fb-49bc-bbca-42b214489952",
+  "id": 15172,
+  "illustration": "https://phira.5wyxi.com/files/8900a2fe-35cd-48ae-a705-96ceea757387",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "蒼天のプリズムクラウン (feat. 初音ミク)",
+  "preview": "https://phira.5wyxi.com/files/0e73dc02-744f-4d05-990d-0f52b6359a25",
+  "ranked": false,
+  "rating": 0.7995138,
+  "ratingCount": 372,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2025-05-05T04:02:37.788926Z",
+  "uploader": 10002
+}

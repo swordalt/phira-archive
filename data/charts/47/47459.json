@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:54Z",
+    "lastChanged": "2026-09-21T02:03:54Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-02T02:54:38.604873Z",
+  "charter": "Sakura--CRA",
+  "composer": "英雄联盟",
+  "created": "2025-10-02T02:54:38.604873Z",
+  "description": null,
+  "difficulty": 8.0,
+  "file": "https://phira.5wyxi.com/files/66182fcf-62ac-49ad-9d09-5c2d92a0269e",
+  "id": 47459,
+  "illustration": "https://phira.5wyxi.com/files/602a3e61-8dd8-4e17-9901-9db14d806e67",
+  "illustrator": "",
+  "level": "AT Lv.16.8",
+  "name": "Orchestrated Chaos",
+  "preview": "https://phira.5wyxi.com/files/a082075d-5b61-4a91-96f6-9f7a5395e5ca",
+  "ranked": false,
+  "rating": 0.8312306,
+  "ratingCount": 28,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-10-02T02:54:38.604873Z",
+  "uploader": 1921251
+}

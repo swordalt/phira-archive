@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:08Z",
+    "lastChanged": "2026-09-21T02:06:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-03T07:57:54.895312Z",
+  "charter": "sanakoyi.3.2.1 审判 simirary_cam 审判 ΩUltrAil",
+  "composer": "suzu(wa.)",
+  "created": "2025-02-03T07:57:54.895312Z",
+  "description": null,
+  "difficulty": 3.0,
+  "file": "https://phira.5wyxi.com/files/a7141bb2-563f-4f94-9c47-890d8034b533",
+  "id": 33180,
+  "illustration": "https://phira.5wyxi.com/files/d1065f83-54ea-4a96-b40c-52bb618bf6dc",
+  "illustrator": "",
+  "level": "IN Lv.15.3",
+  "name": "宿星審判",
+  "preview": "https://phira.5wyxi.com/files/b1390e83-9df3-488b-ba83-b137119028e6",
+  "ranked": false,
+  "rating": 0.8816655,
+  "ratingCount": 15,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-02-03T07:57:54.895312Z",
+  "uploader": 1478562
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:58Z",
+    "lastChanged": "2026-09-21T02:03:58Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-19T20:05:35.594568Z",
+  "charter": "Edison",
+  "composer": "Nhato",
+  "created": "2025-10-19T20:05:35.594568Z",
+  "description": null,
+  "difficulty": 15.399998,
+  "file": "https://phira.5wyxi.com/files/00ccaded-d3d6-44b0-a3d1-5a2b32949483",
+  "id": 48243,
+  "illustration": "https://phira.5wyxi.com/files/bc6ec45c-6407-4359-842f-e37d32885987",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Gekka",
+  "preview": "https://phira.5wyxi.com/files/d45d7e3b-6989-4561-8683-0f9b5068c443",
+  "ranked": false,
+  "rating": 0.87797457,
+  "ratingCount": 91,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-10-19T20:05:35.594568Z",
+  "uploader": 1955856
+}

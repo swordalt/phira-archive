@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:47Z",
+    "lastChanged": "2026-09-21T02:05:47Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-17T10:03:48.397214Z",
+  "charter": "ClaudiaDean",
+  "composer": "ガリガリさむし",
+  "created": "2024-05-17T10:03:48.397214Z",
+  "description": "纯配置，因为不会写动效",
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/f7e076bd-f02c-4dc5-aebc-c1cc658e33ef",
+  "id": 20009,
+  "illustration": "https://phira.5wyxi.com/files/cbf34ecc-ae3d-4e06-9bae-f4e3c64c1f7f",
+  "illustrator": "",
+  "level": "IN",
+  "name": "Larva",
+  "preview": "https://phira.5wyxi.com/files/2849090a-7cfd-4ca6-8da3-ed00c44afb2d",
+  "ranked": false,
+  "rating": 0.84664637,
+  "ratingCount": 53,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "maimai",
+    "plain"
+  ],
+  "updated": "2024-05-17T10:03:48.397214Z",
+  "uploader": 146239
+}

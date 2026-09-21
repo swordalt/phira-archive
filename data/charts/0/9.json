@@ -1,0 +1,39 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:03Z",
+    "lastChanged": "2026-09-21T02:01:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-04-02T08:24:52.826382Z",
+  "charter": "WH_C",
+  "composer": "LeaF",
+  "created": "2023-04-02T08:24:52.826382Z",
+  "description": "2ndPecJam单人赛道参赛谱",
+  "difficulty": 15.433333,
+  "file": "https://phira.5wyxi.com/files/6ceadd59-5b9f-48b3-a5a5-b2dc539f8308",
+  "id": 9,
+  "illustration": "https://phira.5wyxi.com/files/0bf3b24f-7c16-4042-83ed-352c157cde4d",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Wizdomiot",
+  "preview": "https://phira.5wyxi.com/files/135a5c60-c17b-4a1d-b4da-701a4f4d851a",
+  "ranked": true,
+  "rating": 0.8821692,
+  "ratingCount": 3844,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "东方",
+    "东方音弹游戏",
+    "帕露西",
+    "2ndPecJam",
+    "东方project",
+    "regular"
+  ],
+  "updated": "2024-04-17T16:02:30.777265Z",
+  "uploader": 20
+}

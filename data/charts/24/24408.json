@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:27Z",
+    "lastChanged": "2026-09-21T02:02:27Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-26T11:04:42.698569Z",
+  "charter": "Neil_827",
+  "composer": "PIKASONIC & Tatsunoshin & Tsugumi Nagahara",
+  "created": "2024-07-26T11:04:42.698569Z",
+  "description": "谱面修复了31秒处手机端可能出现的长条闪现问题  优化了部分观赏体验 对于更新后的排行重置十分抱歉 谱面来自B站Neil_827 谱面+手元：https://www.bilibili.com/video/BV1JUemeLE1F/?share_source=copy_web&vd_source=070909f2e4812e236df36c0095b801a5",
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/bd2da897-ce10-475a-9db2-01a965742626",
+  "id": 24408,
+  "illustration": "https://phira.5wyxi.com/files/c7348e37-c213-4086-9b88-51b297085f1d",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "Euphoria(feat. Tsugumi Nagahara)",
+  "preview": "https://phira.5wyxi.com/files/c8813d03-474d-4a8b-98e4-f5bbba181b0a",
+  "ranked": false,
+  "rating": 0.92967826,
+  "ratingCount": 639,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "PIKASONIC",
+    "regular"
+  ],
+  "updated": "2024-07-26T11:04:42.698569Z",
+  "uploader": 138
+}

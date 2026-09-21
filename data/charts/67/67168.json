@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:59Z",
+    "lastChanged": "2026-09-21T02:04:59Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-05T13:05:30.070412Z",
+  "charter": "zyrf",
+  "composer": "Ludicin",
+  "created": "2026-07-17T07:32:19.123703Z",
+  "description": "B站：@布耶尔-zyrf\n谱面预览：BV1YGKg6iEBi\n8.5：降低整体流速，微调部分动效",
+  "difficulty": 15.700003,
+  "file": "https://phira.5wyxi.com/files/ea0661b1-addc-4693-ba70-d649d849685d",
+  "id": 67168,
+  "illustration": "https://phira.5wyxi.com/files/d924efdc-c1cd-4198-bf14-92ddd9d0653f",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Artificially Flavored Pink Jelly Bean",
+  "preview": "https://phira.5wyxi.com/files/3528b45d-c0ca-4d34-8bdb-44278bac0d2a",
+  "ranked": false,
+  "rating": 0.9209146,
+  "ratingCount": 76,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-05T13:05:30.070412Z",
+  "uploader": 78246
+}

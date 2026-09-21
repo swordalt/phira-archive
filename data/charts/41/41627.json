@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:29Z",
+    "lastChanged": "2026-09-21T02:03:29Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-14T01:24:23.856182Z",
+  "charter": "皎洁的日向",
+  "composer": "陈致逸",
+  "created": "2025-07-14T01:24:23.856182Z",
+  "description": "谱面由谱师本人（@日向666）制作并上传。\n谱面使用了少量shader，高刷设备可能会有掉帧的情况。",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/15ea934d-af42-4b1a-8039-1b26f5edb00b",
+  "id": 41627,
+  "illustration": "https://phira.5wyxi.com/files/258be1d4-7e26-49b1-b8e1-d8b7e28ff731",
+  "illustrator": "",
+  "level": "IN Lv.10",
+  "name": "皎洁的笑颜",
+  "preview": "https://phira.5wyxi.com/files/85bae460-5b5c-4368-a71a-0e20ec9f3cd7",
+  "ranked": false,
+  "rating": 0.8353038,
+  "ratingCount": 211,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-07-14T01:24:23.856182Z",
+  "uploader": 1739759
+}

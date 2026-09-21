@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:12Z",
+    "lastChanged": "2026-09-21T02:06:12Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-01T12:34:39.129216Z",
+  "charter": "Unkn239",
+  "composer": "Yuuni",
+  "created": "2025-05-01T12:34:39.129216Z",
+  "description": null,
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/12a98ce2-f922-48c8-862d-62df5068fcfe",
+  "id": 37203,
+  "illustration": "https://phira.5wyxi.com/files/4f8ba36e-ad4d-4af8-93fc-6601ee623f93",
+  "illustrator": "",
+  "level": "4K  Lv.24",
+  "name": "Angel's Window",
+  "preview": "https://phira.5wyxi.com/files/a6be1627-c1d4-4dc6-9f92-4d71dd1e22f7",
+  "ranked": false,
+  "rating": 0.95482653,
+  "ratingCount": 207,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-05-01T12:34:39.129216Z",
+  "uploader": 43
+}

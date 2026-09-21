@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:31Z",
+    "lastChanged": "2026-09-21T02:02:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-08T07:54:10.959547Z",
+  "charter": "Lnfine_W",
+  "composer": "picco",
+  "created": "2024-08-08T07:54:10.959547Z",
+  "description": "谱面预览 BV1e2YWevEic",
+  "difficulty": 14.600003,
+  "file": "https://phira.5wyxi.com/files/bf55ca31-298a-4ed9-a964-2699bb7efe99",
+  "id": 25635,
+  "illustration": "https://phira.5wyxi.com/files/54266877-a699-4a4a-b46b-aeacfb9ff0ad",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Milky Way",
+  "preview": "https://phira.5wyxi.com/files/54bd09e1-8e50-441c-9cd3-a75bf5d00c79",
+  "ranked": false,
+  "rating": 0.95097226,
+  "ratingCount": 843,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-09-18T06:17:05.880046Z",
+  "uploader": 111281
+}

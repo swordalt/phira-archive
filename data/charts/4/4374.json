@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:17Z",
+    "lastChanged": "2026-09-21T02:01:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-07-01T02:19:35.220956Z",
+  "charter": "ZellZ",
+  "composer": "Team Grimoire",
+  "created": "2023-07-01T02:19:35.220956Z",
+  "description": "",
+  "difficulty": 15.900003,
+  "file": "https://phira.5wyxi.com/files/cd882e80-05f2-4cdb-a372-528bbe7525bb",
+  "id": 4374,
+  "illustration": "https://phira.5wyxi.com/files/d52a033d-50bb-4a63-a6a7-327d3814ad31",
+  "illustrator": "",
+  "level": "AT",
+  "name": "croiX",
+  "preview": "https://phira.5wyxi.com/files/aabc2f60-671a-439f-bd93-22ec2c73ecff",
+  "ranked": false,
+  "rating": 0.74848187,
+  "ratingCount": 147,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-07-01T02:19:35.220956Z",
+  "uploader": 135556
+}

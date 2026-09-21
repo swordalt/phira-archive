@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:11Z",
+    "lastChanged": "2026-09-21T02:04:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-03T09:26:52.212203Z",
+  "charter": "团纸",
+  "composer": "なきそ/初音ミク",
+  "created": "2026-01-03T09:26:52.212203Z",
+  "description": "B站twizzrak，新人三作，使用tpe制作",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/56f592d7-d21a-4b4c-b2bc-b845b78c3dc8",
+  "id": 50941,
+  "illustration": "https://phira.5wyxi.com/files/814383d7-8d1f-4444-a067-249bac6f11df",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "いますぐ輪廻",
+  "preview": "https://phira.5wyxi.com/files/afd18148-b13d-4fe1-9d64-7363b0e591c5",
+  "ranked": false,
+  "rating": 0.94102913,
+  "ratingCount": 2875,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-01-03T09:26:52.212203Z",
+  "uploader": 939316
+}

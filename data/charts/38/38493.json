@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:19Z",
+    "lastChanged": "2026-09-21T02:03:19Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-23T10:19:46.047998Z",
+  "charter": "Secret",
+  "composer": "MIMI",
+  "created": "2025-05-23T10:19:46.047998Z",
+  "description": null,
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/fd857660-c2d6-462e-8f5f-20ef7ee97f8a",
+  "id": 38493,
+  "illustration": "https://phira.5wyxi.com/files/a686f225-32ae-43e5-8929-11ac3833553a",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "ヒミツ (feat. 可不)",
+  "preview": "https://phira.5wyxi.com/files/1983fd00-185f-4db3-9056-d7715c137e70",
+  "ranked": false,
+  "rating": 0.9578541,
+  "ratingCount": 2192,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-05-23T10:19:46.047998Z",
+  "uploader": 1650630
+}

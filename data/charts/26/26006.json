@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:58Z",
+    "lastChanged": "2026-09-21T02:05:58Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-11T13:45:37.871587Z",
+  "charter": "nlqx",
+  "composer": "SharaX",
+  "created": "2024-08-11T13:45:37.871587Z",
+  "description": "谱师本人上传   bilibili:nlqx3220\n\n130耐力小中大混搭叠(没有满，放心)，第一段怕phira顶头就没写\n难度因人而异，初步定级reg10-ex2-(原谱感觉β有了)\n本谱对单手拍力有一定要求，部分break是基于对拍/4222纵写的\n原谱ma定级42，我写的36，在密度下降的同时加入了许多“休息段”(真的!)如果觉得我这个太简单可以去osu上找原谱\n如果打完第一小段之后 acc掉到96，97/有较大耐力压力/bpm不够 建议在游玩过程中暂停休息或退出(小段!不是大段!这两个的区别打一把就清楚了)\n第二大段比第一大段难很多，谱师本人第一段99.86，结算99.58(即ma侧C99.58)\n\n长谱不建议推分，fc99.8可以算ap了\n祝各位游玩愉快!\n",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/186beedb-9121-4d9c-8281-cb9bcc694843",
+  "id": 26006,
+  "illustration": "https://phira.5wyxi.com/files/c260084c-3ca0-4052-a15a-87c60b70db5e",
+  "illustrator": "",
+  "level": "130Jack",
+  "name": "Waterfall Death Dance (Undertale Remix)",
+  "preview": "https://phira.5wyxi.com/files/8e82515a-0191-456a-a83c-0008ca01ad05",
+  "ranked": false,
+  "rating": 0.95340115,
+  "ratingCount": 53,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "叠",
+    "Jack",
+    "4k",
+    "plain"
+  ],
+  "updated": "2024-08-11T13:45:37.871587Z",
+  "uploader": 45421
+}

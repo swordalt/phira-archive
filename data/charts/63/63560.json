@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:54Z",
+    "lastChanged": "2026-09-21T02:04:54Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-02T03:39:58.288444Z",
+  "charter": "...",
+  "composer": "bxqq/axeos",
+  "created": "2026-07-02T03:39:58.288444Z",
+  "description": "本人上传",
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/61e2b3dc-554d-45f0-a35a-8a429962f66a",
+  "id": 63560,
+  "illustration": "https://phira.5wyxi.com/files/9adea90e-7572-44f4-9172-951602dce26a",
+  "illustrator": "",
+  "level": "Lv13",
+  "name": "SABE QUEBRAR",
+  "preview": "https://phira.5wyxi.com/files/3f5a4901-35cd-4e8a-ab2d-6bee3ef271ff",
+  "ranked": false,
+  "rating": 0.910299,
+  "ratingCount": 1211,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-02T03:39:58.288444Z",
+  "uploader": 1595651
+}

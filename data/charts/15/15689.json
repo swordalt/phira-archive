@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:22Z",
+    "lastChanged": "2026-09-21T02:05:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-14T16:37:55.528065Z",
+  "charter": "D（52SZ）",
+  "composer": "D（ABE3）",
+  "created": "2024-02-14T16:37:55.528065Z",
+  "description": "谱师：對内 原定计划是写双指IN Lv.15",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/b15c7839-859c-464e-aea5-55c7e9d45cef",
+  "id": 15689,
+  "illustration": "https://phira.5wyxi.com/files/7eaeaa10-e7e9-4e37-a793-04d5a1fc424f",
+  "illustrator": "",
+  "level": "SP Lv.?",
+  "name": "MANIERA",
+  "preview": "https://phira.5wyxi.com/files/2951fca3-3239-4c01-b588-75e96efd8d53",
+  "ranked": false,
+  "rating": 0.79202956,
+  "ratingCount": 53,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-02-14T16:37:55.528065Z",
+  "uploader": 659554
+}

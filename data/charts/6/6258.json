@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:22Z",
+    "lastChanged": "2026-09-21T02:01:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-07-28T02:23:49.952237Z",
+  "charter": "Phigros165",
+  "composer": "HyuN",
+  "created": "2023-07-28T02:23:49.952237Z",
+  "description": "",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/f86b27cd-ff62-4b60-aa85-d77d73232990",
+  "id": 6258,
+  "illustration": "https://phira.5wyxi.com/files/9d088700-7cb8-41a9-8bc7-2b21ac84f9d8",
+  "illustrator": "",
+  "level": "AT",
+  "name": "Infinity Heaven",
+  "preview": "https://phira.5wyxi.com/files/169916f0-04e6-4a3f-921c-7f65309ecf64",
+  "ranked": false,
+  "rating": 0.813518,
+  "ratingCount": 1706,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-07-28T02:23:49.952237Z",
+  "uploader": 271227
+}

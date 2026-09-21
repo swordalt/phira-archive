@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:06Z",
+    "lastChanged": "2026-09-21T02:06:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-03T08:40:06.281219Z",
+  "charter": "mdhejsk",
+  "composer": "JINGYAN/Rigel Music",
+  "created": "2025-01-03T08:40:06.281219Z",
+  "description": "132耐力大叠\n(审核能把ID29467打回一下吗）",
+  "difficulty": 39.0,
+  "file": "https://phira.5wyxi.com/files/c6759873-0dae-4bcc-9430-ff4b29bada73",
+  "id": 31374,
+  "illustration": "https://phira.5wyxi.com/files/3d97c347-9023-4289-a046-e8eac3eb7f58",
+  "illustrator": "",
+  "level": "Hard Jack Lv.39",
+  "name": "機械降神",
+  "preview": "https://phira.5wyxi.com/files/dc6619cc-182b-4480-b186-909c364e59c7",
+  "ranked": false,
+  "rating": 0.8991904,
+  "ratingCount": 16,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Jack",
+    "plain"
+  ],
+  "updated": "2025-01-03T08:40:06.281219Z",
+  "uploader": 47999
+}

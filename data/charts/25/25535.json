@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:31Z",
+    "lastChanged": "2026-09-21T02:02:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-07T08:08:22.938802Z",
+  "charter": "FLAG",
+  "composer": "shadow_bling",
+  "created": "2024-08-07T08:08:22.938802Z",
+  "description": "Bilibili @FLAG_Xiaoqi",
+  "difficulty": 13.300003,
+  "file": "https://phira.5wyxi.com/files/a3e11d78-be13-4105-909f-de97aa97da62",
+  "id": 25535,
+  "illustration": "https://phira.5wyxi.com/files/e8551ba0-1b8d-4c77-a582-78b700b99262",
+  "illustrator": "",
+  "level": "IN  Lv.13",
+  "name": "Tactics-Exhaustive",
+  "preview": "https://phira.5wyxi.com/files/dd599180-134e-4e4a-9ac0-1d50e3a5c98f",
+  "ranked": false,
+  "rating": 0.8945027,
+  "ratingCount": 538,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Orzmic",
+    "regular"
+  ],
+  "updated": "2024-08-07T08:08:22.938802Z",
+  "uploader": 457
+}

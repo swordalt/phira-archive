@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "visual"
+    ],
+    "firstSeen": "2026-09-21T02:07:08Z",
+    "lastChanged": "2026-09-21T02:07:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-14T09:18:04.628622Z",
+  "charter": "4D69735A6F6EEFBC865A6F6E4D6973",
+  "composer": "陈越龙",
+  "created": "2025-06-14T09:18:04.628622Z",
+  "description": "B站：Million-MisZon",
+  "difficulty": 1.0,
+  "file": "https://phira.5wyxi.com/files/7abd6c9b-3675-454c-b60d-d6cf6550bb78",
+  "id": 39630,
+  "illustration": "https://phira.5wyxi.com/files/88f09ac9-7d4c-4074-96f7-871ca6f7832b",
+  "illustrator": "",
+  "level": "Hard 1",
+  "name": "Nop",
+  "preview": "https://phira.5wyxi.com/files/20f2ccaa-f787-4a77-b6d3-982b45258740",
+  "ranked": false,
+  "rating": 0.9435328,
+  "ratingCount": 1944,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "visual"
+  ],
+  "updated": "2025-08-20T07:30:41.989742Z",
+  "uploader": 397371
+}

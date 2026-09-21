@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:48Z",
+    "lastChanged": "2026-09-21T02:02:48Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-04T08:23:30.176256Z",
+  "charter": "NT1&AN",
+  "composer": "EBIMAYO",
+  "created": "2024-11-24T07:51:29.575142Z",
+  "description": "取得所有譜師同意上傳。2025/04/04更改部分譜面問題。譜師：NotTure1&Another N",
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/322e15ba-edec-4f66-ba00-0468ada2e661",
+  "id": 30066,
+  "illustration": "https://phira.5wyxi.com/files/ee7449ea-aac4-4816-9464-09952aa76a72",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "GOODTEK",
+  "preview": "https://phira.5wyxi.com/files/07cd46a2-3066-4d43-b118-37784aabbb7d",
+  "ranked": false,
+  "rating": 0.92454755,
+  "ratingCount": 1165,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-04-04T08:23:30.176256Z",
+  "uploader": 1302167
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:05Z",
+    "lastChanged": "2026-09-21T02:01:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-04-02T11:17:44.682930Z",
+  "charter": "TheSigmaKappa9",
+  "composer": "F-777",
+  "created": "2023-04-02T11:17:44.682930Z",
+  "description": "",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/aa475960-a23b-4b64-9f31-9f9db9d11889",
+  "id": 425,
+  "illustration": "https://phira.5wyxi.com/files/290947d8-5b4b-40a0-a819-d868c89de971",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Inferno",
+  "preview": "https://phira.5wyxi.com/files/7c3e5065-9fd2-4290-be55-b05cbe18207d",
+  "ranked": false,
+  "rating": 0.91301537,
+  "ratingCount": 645,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-05-15T15:08:53.237357Z",
+  "uploader": 1617
+}

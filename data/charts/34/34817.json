@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:07Z",
+    "lastChanged": "2026-09-21T02:03:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-03-05T08:08:19.386351Z",
+  "charter": "RLCR Lives in the Terrasphere",
+  "composer": "Plum",
+  "created": "2025-03-05T08:08:19.386351Z",
+  "description": "谱面的思路在标题里写了【凛冬至，万籁寂；春风生，万物苏】，主要围绕【冬雪】和【春风】写谱。而且这个谱有很多地方是个人第一次尝试，比如不使用【红键】；高潮段的【盘子】；大量的【拆线】（拆线真的好累）和【绑线】（用来写表演好难啊）；交互段有意空出空白区域塞【雪花】。中间的钢琴也有还原原谱（不知道能不能看出判定线除了踩音还踩了钢琴的键位）。不过第一次写artcord，且作为三谱已经很好了。\n\n关于配置方面，初见的话读谱是有点难度，对定位也有要求，不过多打几遍，这个谱完全是标准的14.4。盘子段本人已检验过双指可AP（在恰当的位置换手即可，但如果你硬要当蛇打的话，手序肯定是有问题的，因为我本来就是按照可以换手来设计的），不会出现只能糊的无解情况。\n\n谱师B站：@RLRC-雨巷猫归\n",
+  "difficulty": 14.400002,
+  "file": "https://phira.5wyxi.com/files/65e59978-5938-435f-ae67-27757b3da68c",
+  "id": 34817,
+  "illustration": "https://phira.5wyxi.com/files/17025470-a921-4463-babe-53089591fe8d",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Terrasphere",
+  "preview": "https://phira.5wyxi.com/files/8f74dc97-2fcf-4815-878d-ec937f289318",
+  "ranked": false,
+  "rating": 0.9293285,
+  "ratingCount": 411,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "交互练习",
+    "读谱定位",
+    "regular"
+  ],
+  "updated": "2025-03-05T08:08:19.386351Z",
+  "uploader": 1352658
+}

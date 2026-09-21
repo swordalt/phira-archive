@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:24Z",
+    "lastChanged": "2026-09-21T02:06:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-20T01:18:13.625710Z",
+  "charter": "woxianbaile",
+  "composer": "Sot-C",
+  "created": "2025-07-20T01:18:13.625710Z",
+  "description": null,
+  "difficulty": 2.0,
+  "file": "https://phira.5wyxi.com/files/2f6f9205-26d1-4054-ab5e-607537a24174",
+  "id": 42172,
+  "illustration": "https://phira.5wyxi.com/files/de2e5bd1-6be9-465f-b08b-f5e4de0f179d",
+  "illustrator": "",
+  "level": "ADOFAI Lv.21.2",
+  "name": "Fledgling",
+  "preview": "https://phira.5wyxi.com/files/2a52cc87-5819-4bc9-b451-88b365b341d2",
+  "ranked": false,
+  "rating": 0.9503408,
+  "ratingCount": 119,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "ADOFAI",
+    "adofai",
+    "冰与火之舞",
+    "plain"
+  ],
+  "updated": "2025-07-20T01:18:13.625710Z",
+  "uploader": 1235406
+}

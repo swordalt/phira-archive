@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:33Z",
+    "lastChanged": "2026-09-21T02:01:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-09-17T09:09:22.646320Z",
+  "charter": "yfklj",
+  "composer": "ProjectG",
+  "created": "2023-09-17T09:09:22.646320Z",
+  "description": "阿巴阿巴",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/ecb54436-8806-4962-8a84-33519fc141bb",
+  "id": 9466,
+  "illustration": "https://phira.5wyxi.com/files/059e7b27-e485-4d1a-b39b-bfca1954731a",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Regain",
+  "preview": "https://phira.5wyxi.com/files/38e14b03-2214-4192-8880-f14b463729c6",
+  "ranked": false,
+  "rating": 0.85545355,
+  "ratingCount": 236,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "BOF2021",
+    "regular"
+  ],
+  "updated": "2023-09-17T09:09:22.646320Z",
+  "uploader": 41362
+}

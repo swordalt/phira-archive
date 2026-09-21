@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:32Z",
+    "lastChanged": "2026-09-21T02:01:32Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-09-09T14:41:58.789171Z",
+  "charter": "Salad's Encly",
+  "composer": "かたぎり",
+  "created": "2023-09-09T14:41:58.789171Z",
+  "description": "谱师Bilibili@ty天远\r\n超级碎的核，故意没有写多面只写了键盘\r\n初见杀很多（主要以变速为主，感觉我在写sv（））",
+  "difficulty": 16.9,
+  "file": "https://phira.5wyxi.com/files/f79cb85e-feb4-42ac-bca3-5ef4736fe93e",
+  "id": 9198,
+  "illustration": "https://phira.5wyxi.com/files/b5b338e6-8a85-4898-a1a8-1a05ed2cb39c",
+  "illustrator": "",
+  "level": "AT Lv.16+",
+  "name": "Angel's Salad",
+  "preview": "https://phira.5wyxi.com/files/41c05a57-7dbe-4fd4-b660-2bddec4fc902",
+  "ranked": false,
+  "rating": 0.90379673,
+  "ratingCount": 999,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "BOFXVI",
+    "regular"
+  ],
+  "updated": "2023-09-09T14:41:58.789171Z",
+  "uploader": 1925
+}

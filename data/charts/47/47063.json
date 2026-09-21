@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:31Z",
+    "lastChanged": "2026-09-21T02:05:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-21T10:50:46.140609Z",
+  "charter": "123",
+  "composer": "nin",
+  "created": "2025-09-21T10:50:46.140609Z",
+  "description": "谱师本人上传\n第一次写谱，写得很史（？",
+  "difficulty": 1.9000002,
+  "file": "https://phira.5wyxi.com/files/08399015-394a-450b-af24-003ccff47be7",
+  "id": 47063,
+  "illustration": "https://phira.5wyxi.com/files/d442a942-c7d9-422d-9c06-582083b8c0c9",
+  "illustrator": "",
+  "level": "SP LV.1",
+  "name": "You Suffer",
+  "preview": "https://phira.5wyxi.com/files/1dc44c75-6cff-4c87-bf27-613401ac5336",
+  "ranked": false,
+  "rating": 0.83510125,
+  "ratingCount": 207,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2025-09-21T10:50:46.140609Z",
+  "uploader": 1850237
+}

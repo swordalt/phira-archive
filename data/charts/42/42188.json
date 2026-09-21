@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:24Z",
+    "lastChanged": "2026-09-21T02:06:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-20T06:23:05.593383Z",
+  "charter": "yumak",
+  "composer": "削除",
+  "created": "2025-07-20T06:23:05.593383Z",
+  "description": "本人上船",
+  "difficulty": 28.0,
+  "file": "https://phira.5wyxi.com/files/fec75891-726b-48ad-861b-61b0a4662e99",
+  "id": 42188,
+  "illustration": "https://phira.5wyxi.com/files/4b07add2-1da3-4ecd-9061-a7fbfbe3170b",
+  "illustrator": "",
+  "level": "4k Lv.28",
+  "name": "Cryptarithm",
+  "preview": "https://phira.5wyxi.com/files/f2a9c7b0-7b99-45c6-8831-408bf828ed57",
+  "ranked": false,
+  "rating": 0.7582032,
+  "ratingCount": 35,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-07-20T06:23:05.593383Z",
+  "uploader": 634799
+}

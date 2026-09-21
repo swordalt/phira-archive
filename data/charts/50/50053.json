@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:06Z",
+    "lastChanged": "2026-09-21T02:04:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-09T15:19:41.878699Z",
+  "charter": "fancy",
+  "composer": "Camellia",
+  "created": "2025-12-09T15:19:41.878699Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/b74b52dc-1594-40fc-9431-47c40d6a0e5d",
+  "id": 50053,
+  "illustration": "https://phira.5wyxi.com/files/4799e40d-f0a9-45a1-b750-b60b8f83f77b",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Nacreous Snowmelt",
+  "preview": "https://phira.5wyxi.com/files/abb90351-c089-44d5-b186-b6f830f4671b",
+  "ranked": false,
+  "rating": 0.8225603,
+  "ratingCount": 168,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-12-09T15:19:41.878699Z",
+  "uploader": 28307
+}

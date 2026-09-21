@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:58Z",
+    "lastChanged": "2026-09-21T02:03:58Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-24T20:47:58.437204Z",
+  "charter": "Amadeu5",
+  "composer": "Lamanya",
+  "created": "2025-10-24T20:47:58.437204Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/34b63887-cacc-44bd-bd80-6468215f26e3",
+  "id": 48351,
+  "illustration": "https://phira.5wyxi.com/files/44108ade-97aa-425d-883e-cb964a2950c2",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "DRE4M1N9",
+  "preview": "https://phira.5wyxi.com/files/f3dbd034-d6a7-4351-99ef-8d6761911003",
+  "ranked": false,
+  "rating": 0.90635365,
+  "ratingCount": 197,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-10-24T20:47:58.437204Z",
+  "uploader": 1176
+}

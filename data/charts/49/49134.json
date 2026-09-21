@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:03Z",
+    "lastChanged": "2026-09-21T02:04:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-15T09:02:02.507907Z",
+  "charter": "WSSB_SBX",
+  "composer": "Silentroom",
+  "created": "2025-11-15T09:02:02.507907Z",
+  "description": null,
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/079fe6bc-9849-47cf-a40a-bd0d0e57b96a",
+  "id": 49134,
+  "illustration": "https://phira.5wyxi.com/files/7fd07419-76bc-4b93-984a-91860b0c1417",
+  "illustrator": "",
+  "level": "Birth SB.17",
+  "name": "Nhelv",
+  "preview": "https://phira.5wyxi.com/files/48f1cdb2-4cee-4cdb-9dd7-a914eb409b65",
+  "ranked": false,
+  "rating": 0.8476051,
+  "ratingCount": 22,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-11-15T09:02:02.507907Z",
+  "uploader": 1621779
+}

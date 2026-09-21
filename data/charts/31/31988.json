@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:56Z",
+    "lastChanged": "2026-09-21T02:02:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-18T10:45:34.496305Z",
+  "charter": "落霜",
+  "composer": "Xomu",
+  "created": "2025-01-18T10:45:34.496305Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/e55216fb-c57b-4472-8162-783cc9b0f441",
+  "id": 31988,
+  "illustration": "https://phira.5wyxi.com/files/c50f4472-59d3-4493-b137-5ad6cd5829df",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Last Dance",
+  "preview": "https://phira.5wyxi.com/files/5d2ef6f3-90ae-40c1-b7e3-9d093dbca3fe",
+  "ranked": false,
+  "rating": 0.8388538,
+  "ratingCount": 306,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-01-18T10:45:34.496305Z",
+  "uploader": 1241642
+}

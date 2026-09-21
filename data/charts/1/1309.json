@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:08Z",
+    "lastChanged": "2026-09-21T02:01:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-07T03:00:55.686546Z",
+  "charter": "XU&AN",
+  "composer": "typeMARS",
+  "created": "2023-05-07T03:00:55.686546Z",
+  "description": "",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/601ea071-dc1a-4afe-8b54-ad69875cd7fa",
+  "id": 1309,
+  "illustration": "https://phira.5wyxi.com/files/4945f06e-30be-40cb-8b51-92723f049cd5",
+  "illustrator": "",
+  "level": "SP Lv. ?",
+  "name": "Triumph&Regret",
+  "preview": "https://phira.5wyxi.com/files/e7b72bd9-0466-4e73-a990-c030165656d8",
+  "ranked": false,
+  "rating": 0.8673911,
+  "ratingCount": 78,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-05-07T03:14:13.390412Z",
+  "uploader": 2191
+}

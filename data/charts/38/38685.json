@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:19Z",
+    "lastChanged": "2026-09-21T02:03:19Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-13T09:10:44.379224Z",
+  "charter": "inferior",
+  "composer": "P丸様。/ iKz_茶壶",
+  "created": "2025-05-25T06:35:30.731949Z",
+  "description": "歌曲由P丸様。的「如果我成为大统领」改编而来，由ikz_茶壶在b站发布。尝试了多样化的配置，相比之前应该更多的考虑到了手感，虽然这个是因人而异的。谱面表演的思路则与我的上一张谱类似，就是没用生成曲线轨迹，所以比上次少了大概1/4的事件数\n修改了一些排键，重新上传",
+  "difficulty": 15.8,
+  "file": "https://phira.5wyxi.com/files/2dfbf0b6-db1e-4a4d-88a8-c86ece186a10",
+  "id": 38685,
+  "illustration": "https://phira.5wyxi.com/files/a4715be5-1259-448a-a1ac-6b5bff340d1c",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "牛牛大胜利",
+  "preview": "https://phira.5wyxi.com/files/96d5095a-7f8d-4cf1-817d-b8c986d9be7e",
+  "ranked": false,
+  "rating": 0.9144799,
+  "ratingCount": 588,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-06-13T09:10:44.379224Z",
+  "uploader": 1013930
+}

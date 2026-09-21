@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:05Z",
+    "lastChanged": "2026-09-21T02:05:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-03T14:52:36.022124Z",
+  "charter": "JRUXI5DMMVGEM===",
+  "composer": "DJ Raisei",
+  "created": "2026-08-03T14:52:36.022124Z",
+  "description": "新人初谱\n此谱面为CTF的比赛谱面\nspecial thanks：\n非常感谢infinite700对此谱面的指导帮助以及非常感谢卞思捷bianscuit制作的shader！！！（跪拜Orz）\n最后，祝我自己18岁快乐。",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/04d8efbf-2ca3-41a9-81b2-c397b4f56e6b",
+  "id": 71022,
+  "illustration": "https://phira.5wyxi.com/files/609fd119-515e-4f20-ae77-62fdd034642e",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "せかいから____がきえるとき",
+  "preview": "https://phira.5wyxi.com/files/388ea704-6373-4228-8027-81ed95974247",
+  "ranked": false,
+  "rating": 0.88001513,
+  "ratingCount": 569,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "shader",
+    "regular"
+  ],
+  "updated": "2026-08-03T14:52:36.022124Z",
+  "uploader": 5222
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:30Z",
+    "lastChanged": "2026-09-21T02:05:30Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-14T16:16:00.898326Z",
+  "charter": "T.S.F.",
+  "composer": "Sound Souler",
+  "created": "2025-07-14T16:16:00.898326Z",
+  "description": "本谱面含有大量sv，请谨慎游玩",
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/1e70cbbf-6379-4dc7-a71b-5675415a7211",
+  "id": 41704,
+  "illustration": "https://phira.5wyxi.com/files/fab4d16e-6b1a-44f5-94fa-4b1c4d56cd14",
+  "illustrator": "",
+  "level": "SP Lv.?",
+  "name": "Dead Soul",
+  "preview": "https://phira.5wyxi.com/files/87758510-e30c-4a82-b8a2-5e5dc51439c6",
+  "ranked": false,
+  "rating": 0.83088005,
+  "ratingCount": 280,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2025-07-14T16:16:00.898326Z",
+  "uploader": 1248937
+}

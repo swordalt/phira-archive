@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:55Z",
+    "lastChanged": "2026-09-21T02:01:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-09T18:34:05.745454Z",
+  "charter": "CUBE",
+  "composer": "Frizk",
+  "created": "2024-02-09T18:34:05.745454Z",
+  "description": "尝试了多指的配置",
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/9e43a994-1123-4655-bd0f-f6b9d530d66d",
+  "id": 15195,
+  "illustration": "https://phira.5wyxi.com/files/672fd047-fec3-445b-8acb-3cda1325227f",
+  "illustrator": "",
+  "level": "IN Lv.15 ",
+  "name": "ALL MY FELLAS (FRIZKY)",
+  "preview": "https://phira.5wyxi.com/files/1d545ad7-0e46-491d-b086-97d143cecf4e",
+  "ranked": false,
+  "rating": 0.90404564,
+  "ratingCount": 294,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-02-09T18:34:05.745454Z",
+  "uploader": 13916
+}

@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:53Z",
+    "lastChanged": "2026-09-21T02:06:53Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-06T04:55:37.646203Z",
+  "charter": "ZIWEI Team",
+  "composer": "Kou！",
+  "created": "2026-06-06T04:55:37.646203Z",
+  "description": "谱面由10xing经过所有谱师同意后上传\n曲名：ZIWEIYUAN，为DWC决赛用曲\n曲师：Kou！\n谱师：ye -srx-(@phigros156#1127978) ＆ 10xing(@10xing#22341) & No-Smoking(@No-Smoking#692383)\nbpm：220\n时长：400s\n物量：7300\n谱面计划于24年10月开始，完成于26年3月20日，第一版移步#54328，在26年6月5日由其中一个谱师完成了配置微调，本次过后将大概率不会进行改动\n分工表（单位为秒）：\nNo-smoking：38～61，78～104，174～192，230～279，349～370\nye -srx-：61～78，192～230，370～393\n10xing：0～38，104～174，279～349\n其中一个谱师因为已经退坑所以这大概率是他最后一张谱面，另一个谱师因为淡坑现在也不怎么写了，这样的长篇估计不复再现",
+  "difficulty": 18.0,
+  "file": "https://phira.5wyxi.com/files/16ba0b1a-90c5-4194-b3be-da095e563c47",
+  "id": 60057,
+  "illustration": "https://phira.5wyxi.com/files/484da4ea-6d04-4f7b-ac93-acbec7e70302",
+  "illustrator": "",
+  "level": "AT Lv.18",
+  "name": "ZIWEIYUAN",
+  "preview": "https://phira.5wyxi.com/files/65b5daaf-8375-43d1-9e12-0184a38df0e5",
+  "ranked": false,
+  "rating": 0.9217775,
+  "ratingCount": 23,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "高难",
+    "键盘",
+    "at18",
+    "yesex",
+    "plain"
+  ],
+  "updated": "2026-06-06T04:55:37.646203Z",
+  "uploader": 2139734
+}

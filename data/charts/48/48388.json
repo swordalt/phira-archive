@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:58Z",
+    "lastChanged": "2026-09-21T02:03:58Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-23T16:50:16.913062Z",
+  "charter": "BeVeath",
+  "composer": "Ardolf",
+  "created": "2025-10-25T09:09:29.308552Z",
+  "description": "最终版确定。不论上架与否，大概率不会再对谱面进行修改。感谢愿意为这张谱面付出的审核员、评议员、以及你。\r\n感谢游玩，喜欢的话请前往哔哩哔哩 @BeVeath 关注我嗷~新人初谱，制谱不易，请多关照QwQ\r\n-\r\n2026.1.24更新：\r\n细化及新增部分判定线表演。\r\n-\r\n2026.1.21更新：\r\n降低整体流速；删除了所有的蜜汁特效（shader及故事板）；修复已知手序问题；修改部分倒带hold演出；删除部分无意义拆线；统一部分采音策略；尾杀配置覆写。\r\n-\r\n2025.11.4更新：\r\n修改开头导致读谱困难的shader表演，修改仿“祈”配置的Flick排键。\r\n-\r\n2025.10.27更新：\r\n修改尾杀过于杂乱的键盘，降低谱面综合难度系数；新增了一些蜜汁特效。\r\n-",
+  "difficulty": 16.700003,
+  "file": "https://phira.5wyxi.com/files/792e85b4-8bd5-45cc-9a5c-5c0c355715d7",
+  "id": 48388,
+  "illustration": "https://phira.5wyxi.com/files/be50f310-d6d0-4648-81cc-a2f205fbd2d2",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Cyberflux",
+  "preview": "https://phira.5wyxi.com/files/f5534794-e92f-4622-8338-5924d7844dee",
+  "ranked": false,
+  "rating": 0.9073554,
+  "ratingCount": 402,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-01-23T16:50:16.913062Z",
+  "uploader": 1962292
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:21Z",
+    "lastChanged": "2026-09-21T02:02:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-08T07:48:20.681637Z",
+  "charter": "果林F-F",
+  "composer": "M-UE vs. ReKu Mochizuki",
+  "created": "2024-07-08T07:48:20.681637Z",
+  "description": "谱中每个配置谱师均p过数次，实测手法正确的话在手感上没有任何问题（包括是否卡手，误触等）难度集中于中间4k爆发和尾杀协调，对4k力（6dan左右）和协调力有较大需求，低实力玩家请酌情下载该谱面游玩。",
+  "difficulty": 16.700003,
+  "file": "https://phira.5wyxi.com/files/d4a331a3-e8ef-4410-a792-a79cf7d4a8cc",
+  "id": 22951,
+  "illustration": "https://phira.5wyxi.com/files/61b34f0c-1eb4-41ea-8d1c-b7a6c2083379",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "明鏡烈火",
+  "preview": "https://phira.5wyxi.com/files/43d31de0-6d0a-4b98-aaec-c614db299159",
+  "ranked": false,
+  "rating": 0.872488,
+  "ratingCount": 1706,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-07-08T07:48:20.681637Z",
+  "uploader": 78121
+}

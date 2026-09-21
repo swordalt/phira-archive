@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:29Z",
+    "lastChanged": "2026-09-21T02:05:29Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-26T13:10:48.417874Z",
+  "charter": "4leaf",
+  "composer": "David Lowe",
+  "created": "2025-06-26T13:10:48.417874Z",
+  "description": "看上去很简单，实则……\n本谱判定由±100ms随时间逐渐缩减至±2ms\n要是有人AP了我就出更难的（",
+  "difficulty": 2.0000002,
+  "file": "https://phira.5wyxi.com/files/e4781311-b91b-4782-95f9-54760048ec67",
+  "id": 40296,
+  "illustration": "https://phira.5wyxi.com/files/18637438-be8f-48ef-9176-087b8ebe9f4d",
+  "illustrator": "",
+  "level": "SP Lv.2",
+  "name": "BBC Count&Judge down",
+  "preview": "https://phira.5wyxi.com/files/d43f22cd-44ec-48b3-a4c2-b89d2d00a27e",
+  "ranked": false,
+  "rating": 0.7337584,
+  "ratingCount": 164,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2025-06-26T13:10:48.417874Z",
+  "uploader": 11967
+}

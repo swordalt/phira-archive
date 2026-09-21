@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:39Z",
+    "lastChanged": "2026-09-21T02:06:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-19T15:12:18.808716Z",
+  "charter": "Aether",
+  "composer": "xL",
+  "created": "2025-10-19T15:12:18.808716Z",
+  "description": null,
+  "difficulty": 18.0,
+  "file": "https://phira.5wyxi.com/files/1274abeb-2999-4d87-a362-b477b9ffcf1a",
+  "id": 48233,
+  "illustration": "https://phira.5wyxi.com/files/0df9fe92-7512-43a1-996a-70dd2d9e4728",
+  "illustrator": "",
+  "level": "AT Lv.18",
+  "name": "Horloge",
+  "preview": "https://phira.5wyxi.com/files/66cb590a-29f3-4840-aca0-8dd91635de27",
+  "ranked": false,
+  "rating": 0.9181861,
+  "ratingCount": 20,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-10-19T15:12:18.808716Z",
+  "uploader": 1526131
+}

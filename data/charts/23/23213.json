@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:21Z",
+    "lastChanged": "2026-09-21T02:02:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-11T13:12:41.105332Z",
+  "charter": "希",
+  "composer": "HOYO-MiX",
+  "created": "2024-07-11T13:12:41.105332Z",
+  "description": "花火「独角戏」",
+  "difficulty": 15.000004,
+  "file": "https://phira.5wyxi.com/files/28dd1d37-9ee2-48b2-9d6a-91281655ba7f",
+  "id": 23213,
+  "illustration": "https://phira.5wyxi.com/files/3e053c5a-fab8-43f3-920c-9861b614e29d",
+  "illustrator": "",
+  "level": "希 Lv.XV",
+  "name": "「独角戏」",
+  "preview": "https://phira.5wyxi.com/files/ea713ef6-d27e-4046-a408-d83556df6084",
+  "ranked": false,
+  "rating": 0.93768,
+  "ratingCount": 9534,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "星穹铁道",
+    "regular"
+  ],
+  "updated": "2024-07-11T13:12:41.105332Z",
+  "uploader": 804100
+}

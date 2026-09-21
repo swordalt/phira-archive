@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:05Z",
+    "lastChanged": "2026-09-21T02:05:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-03T10:36:02.545592Z",
+  "charter": "CoRyDaLiS vS iTzWiNd",
+  "composer": "AweHpeu",
+  "created": "2026-08-03T10:36:02.545592Z",
+  "description": "本曲来自PHIM（Phigros Match）联动\n该谱面为 WSRT x 云梦杯 比赛供谱，首次登场于【沉坠•破晓】8进4淘汰赛图池，经合作谱师同意后上传。",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/eff38adf-29be-43e3-b357-0965924a7b3d",
+  "id": 70957,
+  "illustration": "https://phira.5wyxi.com/files/b81dc297-28ce-4362-aa13-6def99b819d6",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Disordered Space",
+  "preview": "https://phira.5wyxi.com/files/627cda8c-14d6-4a8e-bc06-3dd5f233f960",
+  "ranked": false,
+  "rating": 0.90786445,
+  "ratingCount": 173,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "云梦杯",
+    "WSRT",
+    "PHIM",
+    "regular"
+  ],
+  "updated": "2026-08-03T10:36:02.545592Z",
+  "uploader": 17059
+}

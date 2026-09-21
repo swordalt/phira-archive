@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:03Z",
+    "lastChanged": "2026-09-21T02:02:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-12T05:15:54.764515Z",
+  "charter": "WHITE",
+  "composer": "STEAKA",
+  "created": "2024-03-12T05:15:54.764515Z",
+  "description": "崩坏风的谱面是我最喜欢写的，这个算启蒙之作了，初见杀很多哦，得背的部分不少，算半个观赏用谱面了",
+  "difficulty": 14.8,
+  "file": "https://phira.5wyxi.com/files/7287aeeb-a072-4ed4-b3f1-6ffe831f9136",
+  "id": 17076,
+  "illustration": "https://phira.5wyxi.com/files/29a2364e-38f7-4609-9285-3c82aaa89e28",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Scorpion Girl",
+  "preview": "https://phira.5wyxi.com/files/fc878733-8188-440f-8f9d-efe1a21c9413",
+  "ranked": false,
+  "rating": 0.88172585,
+  "ratingCount": 395,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "崩坏风",
+    "regular"
+  ],
+  "updated": "2024-03-12T05:15:54.764515Z",
+  "uploader": 811846
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:27Z",
+    "lastChanged": "2026-09-21T02:04:27Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-02T13:58:34.730978Z",
+  "charter": "天藍色的巡洋艦",
+  "composer": "猎豹游戏",
+  "created": "2026-03-02T13:58:34.730978Z",
+  "description": null,
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/dcab5040-c233-4ac0-b4fd-0843b6392ae1",
+  "id": 53744,
+  "illustration": "https://phira.5wyxi.com/files/ba3eba1b-ec9d-4e81-ab92-c25756fad9aa",
+  "illustrator": "",
+  "level": "IN  Lv.13",
+  "name": "庙会",
+  "preview": "https://phira.5wyxi.com/files/bd2fe8be-ed2a-4dc6-bc6f-5eef7be04af0",
+  "ranked": false,
+  "rating": 0.91722435,
+  "ratingCount": 100,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-03-02T13:58:34.730978Z",
+  "uploader": 510746
+}

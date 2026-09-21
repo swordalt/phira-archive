@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:33Z",
+    "lastChanged": "2026-09-21T02:04:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-03T14:11:37.188744Z",
+  "charter": "ExceptionalCinnor",
+  "composer": "PTB10",
+  "created": "2026-04-03T14:11:37.188744Z",
+  "description": "谱师：放克麦子、@Abnormalily#1598",
+  "difficulty": 14.1,
+  "file": "https://phira.5wyxi.com/files/1288412d-662c-4216-9508-4b4beeb47676",
+  "id": 54952,
+  "illustration": "https://phira.5wyxi.com/files/9e6f1f86-6181-46fa-98f2-523faabaff6e",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Astronautica",
+  "preview": "https://phira.5wyxi.com/files/9cc6c3f0-8ec6-48b1-b97d-4d351f1125fb",
+  "ranked": false,
+  "rating": 0.8823522,
+  "ratingCount": 38,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-04-08T14:11:12.422644Z",
+  "uploader": 23915
+}

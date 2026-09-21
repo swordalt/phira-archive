@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:14Z",
+    "lastChanged": "2026-09-21T02:02:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-23T11:22:55.101468Z",
+  "charter": "Calepam",
+  "composer": "Sakuzyo",
+  "created": "2024-05-17T09:15:48.040310Z",
+  "description": "[EN/GB] finished in a week\nupdate: remade the chart, changed difficulty",
+  "difficulty": 17.300001,
+  "file": "https://phira.5wyxi.com/files/b7d9703a-75d9-4c9a-81b6-9f7789ef7f8f",
+  "id": 20007,
+  "illustration": "https://phira.5wyxi.com/files/8951c222-4f8a-45d9-bfea-39f98e2fd29b",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "PANDORA PARADOXXX",
+  "preview": "https://phira.5wyxi.com/files/98a1b477-00f2-43d4-8048-b6307ff735da",
+  "ranked": false,
+  "rating": 0.24630862,
+  "ratingCount": 255,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "maimai",
+    "regular"
+  ],
+  "updated": "2024-05-25T21:11:04.988366Z",
+  "uploader": 862130
+}

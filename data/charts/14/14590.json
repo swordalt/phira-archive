@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:52Z",
+    "lastChanged": "2026-09-21T02:01:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-01T04:32:45.470794Z",
+  "charter": "RTX20000 fixed by SCIR",
+  "composer": "minus7LUFS / 月見静華",
+  "created": "2024-02-01T04:32:45.470794Z",
+  "description": "审核请看看\n该谱是观赏区月下缭乱的修改谱（觉得太粉了就跟RTX 20000要了pez文件改了）\n难度:15.6\n谱师:RTX 20000 星云冰雨\n\n删了大部分的卡手玩意和无理配置",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/866547f6-684a-48f4-a384-ba65c5c95498",
+  "id": 14590,
+  "illustration": "https://phira.5wyxi.com/files/573df61b-7dcc-4c2c-890b-aa2accaa5ad2",
+  "illustrator": "",
+  "level": "FIXED Lv.15",
+  "name": "月下缭乱",
+  "preview": "https://phira.5wyxi.com/files/1ab973dd-0bba-496e-bb38-35079d75b7d7",
+  "ranked": false,
+  "rating": 0.8541726,
+  "ratingCount": 1082,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-02-01T04:32:45.470794Z",
+  "uploader": 240875
+}

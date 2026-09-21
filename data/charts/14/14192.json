@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:50Z",
+    "lastChanged": "2026-09-21T02:01:50Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-01-26T10:14:36.580182Z",
+  "charter": "YLLWL",
+  "composer": "Reku Mochizuki",
+  "created": "2024-01-26T10:14:36.580182Z",
+  "description": null,
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/d33814b5-bdc7-48ad-a1d8-73462d1d1a26",
+  "id": 14192,
+  "illustration": "https://phira.5wyxi.com/files/7928e0c3-e3cd-4fb9-b54b-6ea95d40b0e6",
+  "illustrator": "",
+  "level": "AT  Lv.17",
+  "name": "VorpΛlize",
+  "preview": "https://phira.5wyxi.com/files/814e1a49-16c2-4d6a-9ea6-3d21e8b126e7",
+  "ranked": false,
+  "rating": 0.8989446,
+  "ratingCount": 999,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "orzmic",
+    "regular"
+  ],
+  "updated": "2024-01-26T10:14:36.580182Z",
+  "uploader": 4120
+}

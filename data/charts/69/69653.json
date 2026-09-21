@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:03Z",
+    "lastChanged": "2026-09-21T02:05:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-28T06:33:00.890510Z",
+  "charter": "kitten_lai",
+  "composer": "A-Saph vs. log()",
+  "created": "2026-07-28T06:33:00.890510Z",
+  "description": "谱师本人上传，麻烦把上一张还没过审的for.loop打回，那张谱面有点小问题\n\n谱面名称:for.loop\n曲师:A-Saph vs. log（）\n谱面设计:kitten_lai\n难度：IN Lv.15\n音符数：1021\nB站号：kitten赖皮猫吖\n\n使用cmdysj的Re:Phiedit製作",
+  "difficulty": 15.500002,
+  "file": "https://phira.5wyxi.com/files/1acd4cf5-468f-4422-af62-a1ab4c6da6eb",
+  "id": 69653,
+  "illustration": "https://phira.5wyxi.com/files/4a311cc6-94b7-4baa-a5e4-d24b378d573e",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "for.loop",
+  "preview": "https://phira.5wyxi.com/files/e949d1fb-3419-4830-992d-9e421c3b105e",
+  "ranked": false,
+  "rating": 0.8367994,
+  "ratingCount": 68,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "vividstasis",
+    "regular"
+  ],
+  "updated": "2026-07-28T06:33:00.890510Z",
+  "uploader": 784298
+}

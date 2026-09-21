@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:59Z",
+    "lastChanged": "2026-09-21T02:06:59Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-30T13:44:17.035292Z",
+  "charter": "NoSmoking",
+  "composer": "ZAQUVA",
+  "created": "2026-07-30T13:44:17.035292Z",
+  "description": "本谱为AT Lv.20的0.8倍速差分，难度应该在17.9～18.4，修改了结尾的配置使得全谱理论可AP，迎合较低水平的玩家游玩需求。\n\n期待有玩家可以取得AP。",
+  "difficulty": 16.000002,
+  "file": "https://phira.5wyxi.com/files/a1e74e75-6176-4d9c-8751-51132c392bb7",
+  "id": 70171,
+  "illustration": "https://phira.5wyxi.com/files/bec8b9d4-e5a6-4aa8-8d06-e2320bb48068",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Crackpot Evangelist 0.8x",
+  "preview": "https://phira.5wyxi.com/files/785bc79b-238d-4f70-a545-a52c50872843",
+  "ranked": false,
+  "rating": 0.8672365,
+  "ratingCount": 17,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2026-07-30T13:44:17.035292Z",
+  "uploader": 3405853
+}

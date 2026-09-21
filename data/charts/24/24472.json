@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:27Z",
+    "lastChanged": "2026-09-21T02:02:27Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-07T12:53:14.752628Z",
+  "charter": "醋酸铅是弱电解质",
+  "composer": "Blue Archive OST",
+  "created": "2024-07-27T07:45:53.231869Z",
+  "description": "谱师最近沉迷于20号动效，遂写之。\n中间有段纵向flick变横向的一段，该段具有较强实验性，按方向↑↑←←→→↑↑↗划即可\n\n2024/8/9更新：\n排键重排，改善键位太靠中导致误触的问题\n尾杀修改，以及前面，以及中间（\n感谢@Max3957等谱师提出的宝贵建议\n\n嘿嘿，水猫猫，嘿嘿，prpr",
+  "difficulty": 15.500002,
+  "file": "https://phira.5wyxi.com/files/f408d790-ff7e-483c-b664-b82dfede07e2",
+  "id": 24472,
+  "illustration": "https://phira.5wyxi.com/files/f030161a-3b62-4f67-b753-86df139fdeb7",
+  "illustrator": "",
+  "level": "AT  Lv.15",
+  "name": "Summer Attack!",
+  "preview": "https://phira.5wyxi.com/files/687934b0-a4da-48aa-ab41-19bcfc35fcda",
+  "ranked": false,
+  "rating": 0.9485019,
+  "ratingCount": 2130,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "蔚蓝档案",
+    "regular"
+  ],
+  "updated": "2024-08-09T12:51:30.173066Z",
+  "uploader": 114653
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:24Z",
+    "lastChanged": "2026-09-21T02:03:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-19T02:01:32.530462Z",
+  "charter": "FhCello",
+  "composer": "RAI",
+  "created": "2025-06-19T02:01:32.530462Z",
+  "description": null,
+  "difficulty": 16.400002,
+  "file": "https://phira.5wyxi.com/files/338404fb-4b1d-4a41-b9ad-1338f6a3e294",
+  "id": 39889,
+  "illustration": "https://phira.5wyxi.com/files/b73cb40e-e503-4e93-9b11-e993d62cc95d",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Stardust Ember",
+  "preview": "https://phira.5wyxi.com/files/ba2188bd-765b-4956-a07e-f8a64a99b237",
+  "ranked": false,
+  "rating": 0.8099513,
+  "ratingCount": 32,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-06-19T02:01:32.530462Z",
+  "uploader": 661083
+}

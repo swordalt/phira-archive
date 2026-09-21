@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:46Z",
+    "lastChanged": "2026-09-21T02:06:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-24T23:33:12.352838Z",
+  "charter": "Leiyiren",
+  "composer": "seatrus/kuro/Halv/打打だいず",
+  "created": "2026-02-24T23:33:12.352838Z",
+  "description": "新手谱师第二张纯配置， 这张铺面花费10小时制作完成，分三天，相比于格雷海文的抽象排键，这张谱面的拍拍乐更适合新手宝宝。 个人觉得排键比格雷海文成熟了许多。  玩得开心！   B站：泪伊人leiyiren",
+  "difficulty": 18.599998,
+  "file": "https://phira.5wyxi.com/files/f6e9ca0b-b3e9-4536-a781-fcbf90803b56",
+  "id": 53354,
+  "illustration": "https://phira.5wyxi.com/files/961ad452-f649-4995-a707-ec923f3f9b04",
+  "illustrator": "",
+  "level": "AT Lv.18",
+  "name": "Quattro Elements Dimiourgia",
+  "preview": "https://phira.5wyxi.com/files/c4509ca5-84c9-42e0-ae83-92b0851deb70",
+  "ranked": false,
+  "rating": 0.8957063,
+  "ratingCount": 39,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "高难",
+    "抽象",
+    "拍拍乐",
+    "键盘",
+    "plain"
+  ],
+  "updated": "2026-02-24T23:33:12.352838Z",
+  "uploader": 221508
+}

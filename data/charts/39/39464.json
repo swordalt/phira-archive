@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:18Z",
+    "lastChanged": "2026-09-21T02:06:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-10T08:15:48.096675Z",
+  "charter": "Eycisxx",
+  "composer": "KARUT",
+  "created": "2025-06-10T08:15:48.096675Z",
+  "description": "默认延迟:+30\n建议自己调整延迟",
+  "difficulty": 19.0,
+  "file": "https://phira.5wyxi.com/files/1de90abe-4464-4991-b223-57eb5a66462d",
+  "id": 39464,
+  "illustration": "https://phira.5wyxi.com/files/fe481b30-a863-4c82-a821-021a49e0ac18",
+  "illustrator": "",
+  "level": "4K Lv.19",
+  "name": "Glitch Street",
+  "preview": "https://phira.5wyxi.com/files/c706b6f3-4161-4387-9e34-98a3b057fb07",
+  "ranked": false,
+  "rating": 0.96381223,
+  "ratingCount": 599,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "蔚蓝档案",
+    "plain"
+  ],
+  "updated": "2025-06-10T08:15:48.096675Z",
+  "uploader": 1044000
+}

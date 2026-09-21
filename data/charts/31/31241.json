@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:06Z",
+    "lastChanged": "2026-09-21T02:06:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-12-31T03:45:16.272568Z",
+  "charter": "Aether",
+  "composer": "Night Yard",
+  "created": "2024-12-31T03:45:16.272568Z",
+  "description": null,
+  "difficulty": 18.100004,
+  "file": "https://phira.5wyxi.com/files/df6af6d8-a60c-4fce-89d3-56042935cccc",
+  "id": 31241,
+  "illustration": "https://phira.5wyxi.com/files/b486810a-c3aa-4286-bf26-3dbe0322d585",
+  "illustrator": "",
+  "level": "AT Lv.18",
+  "name": "Far Eastern Flavor",
+  "preview": "https://phira.5wyxi.com/files/57d86e5e-a48f-423d-8238-39adf3ef3ced",
+  "ranked": false,
+  "rating": 0.9203233,
+  "ratingCount": 52,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-02-20T05:23:08.373788Z",
+  "uploader": 281127
+}

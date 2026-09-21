@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:44Z",
+    "lastChanged": "2026-09-21T02:01:44Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-09T15:00:44.595475Z",
+  "charter": "kywy as Mr.K",
+  "composer": "C-Show",
+  "created": "2023-12-09T15:00:44.595475Z",
+  "description": null,
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/a2b24515-4976-4011-b7a6-11b6c40aff4f",
+  "id": 12313,
+  "illustration": "https://phira.5wyxi.com/files/daab3357-ebb7-4bf1-90f6-81bfddb678e6",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Invitation from Mr.C",
+  "preview": "https://phira.5wyxi.com/files/13af117b-5563-4be9-b578-d5d55b96f3b3",
+  "ranked": false,
+  "rating": 0.8481202,
+  "ratingCount": 226,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-12-09T15:00:44.595475Z",
+  "uploader": 99
+}

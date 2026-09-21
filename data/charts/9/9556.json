@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:33Z",
+    "lastChanged": "2026-09-21T02:01:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-09-30T07:52:27.341083Z",
+  "charter": "右果ary",
+  "composer": "litmus*",
+  "created": "2023-09-22T12:54:37.318437Z",
+  "description": "5thPecJam参赛谱面SL NO.66，位8",
+  "difficulty": 14.600002,
+  "file": "https://phira.5wyxi.com/files/218c5cba-ad4e-4e49-938a-dbc8391b70bf",
+  "id": 9556,
+  "illustration": "https://phira.5wyxi.com/files/9dac6900-4522-496c-bfb7-23b48f0c772e",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "The Nightscape",
+  "preview": "https://phira.5wyxi.com/files/50986e5c-4c28-4f45-8ffd-7a5a14cc7e5c",
+  "ranked": true,
+  "rating": 0.93162835,
+  "ratingCount": 751,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "5thPecJam",
+    "BOFU2016",
+    "regular"
+  ],
+  "updated": "2023-09-30T07:52:27.341083Z",
+  "uploader": 140
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:11Z",
+    "lastChanged": "2026-09-21T02:01:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-14T16:09:48.296993Z",
+  "charter": "Silent Ailt",
+  "composer": "かねこちはる",
+  "created": "2023-05-14T16:09:48.296993Z",
+  "description": "Thanks for playing my chart.",
+  "difficulty": 15.2,
+  "file": "https://phira.5wyxi.com/files/7678ebb0-f323-4c46-bcdd-5928164cf104",
+  "id": 2098,
+  "illustration": "https://phira.5wyxi.com/files/bee0f433-3995-4816-b0c7-dd862f384ceb",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Silent Blue",
+  "preview": "https://phira.5wyxi.com/files/afeb9931-3d10-4fd7-bcc4-b2c543991106",
+  "ranked": false,
+  "rating": 0.8806586,
+  "ratingCount": 340,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-05-14T16:09:48.296993Z",
+  "uploader": 2745
+}

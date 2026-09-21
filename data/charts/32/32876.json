@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:08Z",
+    "lastChanged": "2026-09-21T02:06:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-30T07:12:50.698455Z",
+  "charter": "20221230",
+  "composer": "Cosmograph",
+  "created": "2025-01-30T07:12:50.698455Z",
+  "description": "修复变速与配置错误 本人上传",
+  "difficulty": 30.0,
+  "file": "https://phira.5wyxi.com/files/3b71477c-97b1-45d6-bdc4-43f7ca035b14",
+  "id": 32876,
+  "illustration": "https://phira.5wyxi.com/files/79de53db-02c0-4b19-8361-01c0e666523a",
+  "illustrator": "",
+  "level": "4K Master Lv.30",
+  "name": "Straight into the lights",
+  "preview": "https://phira.5wyxi.com/files/b9dbbb64-432d-49a9-93db-bd221bcca794",
+  "ranked": false,
+  "rating": 0.90297073,
+  "ratingCount": 247,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-01-30T07:12:50.698455Z",
+  "uploader": 7968
+}

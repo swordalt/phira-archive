@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:07Z",
+    "lastChanged": "2026-09-21T02:02:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-08T05:52:23.462886Z",
+  "charter": "gargH2O",
+  "composer": "HyuN & MIIM",
+  "created": "2024-04-08T05:52:23.462886Z",
+  "description": "[en-US] new chart from me, took about 2 weeks",
+  "difficulty": 13.500002,
+  "file": "https://phira.5wyxi.com/files/d8b3e6e0-5079-4915-987e-ff23a360065c",
+  "id": 18202,
+  "illustration": "https://phira.5wyxi.com/files/48c98a21-20c4-40b9-8a55-62dd11920cd0",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "After Rain",
+  "preview": "https://phira.5wyxi.com/files/3a73ca88-6cff-4d04-85ec-6460e5b759f8",
+  "ranked": true,
+  "rating": 0.9149945,
+  "ratingCount": 3234,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "Rotaeno",
+    "regular"
+  ],
+  "updated": "2024-04-08T05:52:23.462886Z",
+  "uploader": 2608
+}

@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:22Z",
+    "lastChanged": "2026-09-21T02:06:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-09T03:27:39.578281Z",
+  "charter": "XJJ520",
+  "composer": "croove",
+  "created": "2025-07-09T03:27:39.578281Z",
+  "description": "谱面由本人上传",
+  "difficulty": 14.000015,
+  "file": "https://phira.5wyxi.com/files/42314290-5fcd-49ea-8b6f-f3b15d5660c9",
+  "id": 41217,
+  "illustration": "https://phira.5wyxi.com/files/7e4da2b6-2272-49bd-876d-b7c2eb4b3b2b",
+  "illustrator": "",
+  "level": "simple Lv.14",
+  "name": "aquaris",
+  "preview": "https://phira.5wyxi.com/files/24d17240-8e9f-45dd-8fbe-26a87e013dd3",
+  "ranked": false,
+  "rating": 0.92410934,
+  "ratingCount": 30,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "dfc",
+    "simple",
+    "plain"
+  ],
+  "updated": "2025-07-09T03:27:39.578281Z",
+  "uploader": 1202725
+}

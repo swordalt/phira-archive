@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:38Z",
+    "lastChanged": "2026-09-21T02:04:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-25T11:04:13.326756Z",
+  "charter": "Decaplex",
+  "composer": "EBIMAYO",
+  "created": "2026-04-21T09:27:51.408096Z",
+  "description": "First AT map made.",
+  "difficulty": 16.7,
+  "file": "https://phira.5wyxi.com/files/bafb908b-2e46-4e79-8b30-9d84c53857a2",
+  "id": 56873,
+  "illustration": "https://phira.5wyxi.com/files/80d0b9b4-5f34-490f-952d-f0d68f03e17c",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "GOODTEK",
+  "preview": "https://phira.5wyxi.com/files/ab3bb252-c879-47c6-b042-646e2572a2ad",
+  "ranked": false,
+  "rating": 0.88912445,
+  "ratingCount": 388,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-25T11:04:13.326756Z",
+  "uploader": 614143
+}

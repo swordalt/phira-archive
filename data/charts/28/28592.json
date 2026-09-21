@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:43Z",
+    "lastChanged": "2026-09-21T02:02:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-10-09T11:11:52.726688Z",
+  "charter": "Gianore",
+  "composer": "Zeraphym",
+  "created": "2024-10-09T11:11:52.726688Z",
+  "description": null,
+  "difficulty": 15.6,
+  "file": "https://phira.5wyxi.com/files/039ef2a2-cd59-4019-b776-37bb8f8b4d21",
+  "id": 28592,
+  "illustration": "https://phira.5wyxi.com/files/c78ac313-8a5c-4975-8dd8-e755104458da",
+  "illustrator": "",
+  "level": "AT.15",
+  "name": "Lifeline",
+  "preview": "https://phira.5wyxi.com/files/9fd65b4a-f342-4c9b-9fca-28915d1c1362",
+  "ranked": false,
+  "rating": 0.8846556,
+  "ratingCount": 281,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "卡手",
+    "regular"
+  ],
+  "updated": "2024-10-09T11:11:52.726688Z",
+  "uploader": 1294204
+}

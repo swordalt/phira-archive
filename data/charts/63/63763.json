@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:56Z",
+    "lastChanged": "2026-09-21T02:06:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-03T06:43:31.150120Z",
+  "charter": "Noname",
+  "composer": "Down",
+  "created": "2026-07-03T06:43:31.150120Z",
+  "description": "@noname大大#18912\n边缘acc=96.48\n过段acc=97.89\n后光acc=98.94\ndrag 1690/5131",
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/903efc06-14b6-4c05-863a-4c9592c49c49",
+  "id": 63763,
+  "illustration": "https://phira.5wyxi.com/files/136bedd9-3e61-4999-8403-b7ee67e062f0",
+  "illustrator": "",
+  "level": "Slash Lv.13",
+  "name": "鬼斬(Kizan)",
+  "preview": "https://phira.5wyxi.com/files/785b8c2e-97e6-4804-a311-e5dbe929c174",
+  "ranked": false,
+  "rating": null,
+  "ratingCount": 0,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "dfc",
+    "tb",
+    "plain"
+  ],
+  "updated": "2026-07-03T06:43:31.150120Z",
+  "uploader": 1834467
+}

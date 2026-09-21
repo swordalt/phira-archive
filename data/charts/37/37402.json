@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:13Z",
+    "lastChanged": "2026-09-21T02:06:13Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-03T14:29:14.545984Z",
+  "charter": "SfcarisFW25880",
+  "composer": "DJNero",
+  "created": "2025-05-03T14:29:14.545984Z",
+  "description": "该铺面是基于上一次铺面的大改 当时铺面由于是第一次的试写，难度差强人意 里面的配置大部分不合理，比如中间的不明对拍 还有一些地方比较简单，定级完全不合理 这次的大改把大部分水段的全改成了切 甚至有满切，总体比8dan切简单一点（为铺师本人上传）",
+  "difficulty": 19.0,
+  "file": "https://phira.5wyxi.com/files/39a2708f-2242-4d82-989e-3a33cbadf682",
+  "id": 37402,
+  "illustration": "https://phira.5wyxi.com/files/c51250a9-9364-461b-a491-13c29f1232c9",
+  "illustrator": "",
+  "level": "6K [19-] Lv.41",
+  "name": "Joker",
+  "preview": "https://phira.5wyxi.com/files/1ac4c5ca-5e16-42f6-9fe1-c110d958020d",
+  "ranked": false,
+  "rating": 0.9596161,
+  "ratingCount": 53,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6K",
+    "stamina",
+    "plain"
+  ],
+  "updated": "2025-05-03T14:29:14.545984Z",
+  "uploader": 136086
+}

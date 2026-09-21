@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:11Z",
+    "lastChanged": "2026-09-21T02:05:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-22T13:48:03.458857Z",
+  "charter": "拿坡里 & Project Four-To the perfect imperfection.",
+  "composer": "AIKA(feat.Eleamor Forte)",
+  "created": "2026-08-22T13:48:03.458857Z",
+  "description": "《凌梦杯2026》(Rising-Dream Cup)，是一个围绕游戏 Phigros 创办的赛事，赛事组汇集了众多音游爱好者。本届比赛为TGL赛事组创办的第六届系列赛事，全方位升级了赛事规模。\n_______________________________________________________________\n\n基本信息 // Basic Info\n曲名 // Title : Perfect Imperfection\n曲师 // Composer : AIKA(feat.Eleamor Forte)\n曲绘 // Artist : AIKA\n_______________________________________________________________\n\n谱面信息 // Chart Info\n谱师名义 // Level Designer :To the magnificent imperfection.（@InkySAIKYO#104079 @restey#325845 @拿坡里的小孜然#26171 ）\n难度 // Difficulty : AT Lv.15\n————————————————————————\n（曲名因为屏蔽词原因无法拼全 只能将就现在这样了）",
+  "difficulty": 15.700003,
+  "file": "https://phira.5wyxi.com/files/1534e118-57a1-4a8b-b603-3446e381f30a",
+  "id": 75047,
+  "illustration": "https://phira.5wyxi.com/files/4be62086-9b47-46aa-bbe4-fe2fadcd34cc",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "Perfect Imperfection",
+  "preview": "https://phira.5wyxi.com/files/87236f14-91e9-4842-a095-f3b22cfc29f7",
+  "ranked": false,
+  "rating": 0.8872515,
+  "ratingCount": 72,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-22T13:52:45.475720Z",
+  "uploader": 104079
+}

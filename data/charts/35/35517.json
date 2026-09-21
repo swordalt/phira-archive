@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:08Z",
+    "lastChanged": "2026-09-21T02:03:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-27T13:07:30.976206Z",
+  "charter": "122446",
+  "composer": "Dev/Null",
+  "created": "2025-03-22T03:43:25.636511Z",
+  "description": "萌新初谱，整体写的比较粗糙\n个人定数16.9(旧定数16.4)",
+  "difficulty": 16.900002,
+  "file": "https://phira.5wyxi.com/files/eea5368a-940a-430d-9d8c-0d93c5611033",
+  "id": 35517,
+  "illustration": "https://phira.5wyxi.com/files/ef7a6ecb-180b-41db-9e13-286595051a8c",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Rave 7",
+  "preview": "https://phira.5wyxi.com/files/bd9145bc-7b50-40e2-92df-2db5f511e4eb",
+  "ranked": false,
+  "rating": 0.8315313,
+  "ratingCount": 23,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-12-27T13:07:30.976206Z",
+  "uploader": 22941
+}

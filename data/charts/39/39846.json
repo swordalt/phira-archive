@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:24Z",
+    "lastChanged": "2026-09-21T02:03:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-17T16:59:24.449587Z",
+  "charter": "RaiFor",
+  "composer": "HOYO-MIX",
+  "created": "2025-06-17T16:59:24.449587Z",
+  "description": null,
+  "difficulty": 13.6,
+  "file": "https://phira.5wyxi.com/files/27c6a8ab-fdc9-4493-b6c5-c4aafc614db6",
+  "id": 39846,
+  "illustration": "https://phira.5wyxi.com/files/cce55eb0-5ac3-4e01-95b7-e82ee9e92e30",
+  "illustrator": "",
+  "level": "IN Lv.13.6",
+  "name": "Space Walk",
+  "preview": "https://phira.5wyxi.com/files/49fec288-5263-4666-9d60-2894d09a39bb",
+  "ranked": false,
+  "rating": 0.90779054,
+  "ratingCount": 238,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-06-17T16:59:24.449587Z",
+  "uploader": 762826
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:47Z",
+    "lastChanged": "2026-09-21T02:01:47Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-01-28T10:49:18.622867Z",
+  "charter": "Naptie",
+  "composer": "α-kayuxu × kuro",
+  "created": "2024-01-09T05:43:27.032101Z",
+  "description": null,
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/87c22494-f1df-466a-bdd0-cd2f83cdf1af",
+  "id": 13415,
+  "illustration": "https://phira.5wyxi.com/files/69109154-2471-4f8a-9383-2c71d1039387",
+  "illustrator": "",
+  "level": "IN  Lv.14",
+  "name": "reboot*the Starlight",
+  "preview": "https://phira.5wyxi.com/files/992c414f-cfe0-492f-9b4b-20165c231581",
+  "ranked": true,
+  "rating": 0.92350423,
+  "ratingCount": 1089,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "5thPecJam",
+    "regular"
+  ],
+  "updated": "2024-01-28T10:49:18.622867Z",
+  "uploader": 25933
+}

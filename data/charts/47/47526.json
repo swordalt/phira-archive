@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:55Z",
+    "lastChanged": "2026-09-21T02:03:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-03T03:54:56.119294Z",
+  "charter": "DTF100",
+  "composer": "EBIMAYO",
+  "created": "2025-10-03T03:54:56.119294Z",
+  "description": null,
+  "difficulty": 15.7,
+  "file": "https://phira.5wyxi.com/files/0822ee27-8a61-4e4c-9521-4443df1f362f",
+  "id": 47526,
+  "illustration": "https://phira.5wyxi.com/files/15e3e2fc-0fe7-4d99-ab52-a8ba54af8361",
+  "illustrator": "",
+  "level": "AT",
+  "name": "GOODTEK",
+  "preview": "https://phira.5wyxi.com/files/85081bbb-4590-4514-a853-b852d241bda5",
+  "ranked": false,
+  "rating": 0.86955047,
+  "ratingCount": 194,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-10-03T03:54:56.119294Z",
+  "uploader": 1824285
+}

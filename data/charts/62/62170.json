@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:51Z",
+    "lastChanged": "2026-09-21T02:04:51Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-23T12:53:37.767846Z",
+  "charter": "Korus_",
+  "composer": "D_AAN",
+  "created": "2026-06-23T12:53:37.767846Z",
+  "description": null,
+  "difficulty": 16.300005,
+  "file": "https://phira.5wyxi.com/files/2f0465f1-9b6f-4a60-aabb-fc93a052d22c",
+  "id": 62170,
+  "illustration": "https://phira.5wyxi.com/files/94e592d8-53c2-4db7-931b-77f84e11aa37",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Quantum Hyperspace",
+  "preview": "https://phira.5wyxi.com/files/edae155c-e998-44bb-bb63-f3360339f4fb",
+  "ranked": false,
+  "rating": 0.86377656,
+  "ratingCount": 144,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-23T12:53:37.767846Z",
+  "uploader": 32051
+}

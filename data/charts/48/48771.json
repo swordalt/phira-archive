@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:40Z",
+    "lastChanged": "2026-09-21T02:06:40Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-04T17:57:15.373976Z",
+  "charter": "Blicko",
+  "composer": "Harry Dacre",
+  "created": "2025-11-04T17:57:15.373976Z",
+  "description": "[RU/ENG]",
+  "difficulty": 8.0,
+  "file": "https://phira.5wyxi.com/files/795d1cd9-a65a-4a90-ad99-a77ee4bc83d7",
+  "id": 48771,
+  "illustration": "https://phira.5wyxi.com/files/50e98116-3adb-47ad-b631-aac90aa51941",
+  "illustrator": "",
+  "level": "HD",
+  "name": "Daisy Bell",
+  "preview": "https://phira.5wyxi.com/files/7640f544-8d28-4f62-ac23-0679951a0e69",
+  "ranked": false,
+  "rating": 0.85151947,
+  "ratingCount": 23,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "shader",
+    "shaders",
+    "plain"
+  ],
+  "updated": "2026-09-07T09:21:58.479463Z",
+  "uploader": 1905844
+}

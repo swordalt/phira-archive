@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:18Z",
+    "lastChanged": "2026-09-21T02:01:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-07-04T03:44:07.557030Z",
+  "charter": "sej_",
+  "composer": "ぬゆり",
+  "created": "2023-07-04T03:44:07.557030Z",
+  "description": "本人上传，也是第一个上传的谱面",
+  "difficulty": 14.800003,
+  "file": "https://phira.5wyxi.com/files/9b63c2a0-3349-4d70-beb2-607b99451c07",
+  "id": 4577,
+  "illustration": "https://phira.5wyxi.com/files/6373278e-6430-4fc7-942e-fe3495202c9f",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "命ばっかり",
+  "preview": "https://phira.5wyxi.com/files/45f0cd61-0e5c-40d6-9fd0-fac254b38cbd",
+  "ranked": false,
+  "rating": 0.888333,
+  "ratingCount": 559,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-07-28T09:47:03.233321Z",
+  "uploader": 152326
+}

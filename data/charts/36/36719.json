@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:14Z",
+    "lastChanged": "2026-09-21T02:03:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-01T11:08:34.727015Z",
+  "charter": "Mou_xuan",
+  "composer": "Kirara Magic",
+  "created": "2025-04-19T05:03:23.493426Z",
+  "description": "谱面由哔哩哔哩 @某轩哟 本人上传",
+  "difficulty": 14.800003,
+  "file": "https://phira.5wyxi.com/files/e83831d0-9e14-43e3-ae8d-8ac46d23d95d",
+  "id": 36719,
+  "illustration": "https://phira.5wyxi.com/files/163252ca-e88d-4b30-88b9-c29fe7636c8c",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Eternal Snow",
+  "preview": "https://phira.5wyxi.com/files/1d9b5761-f437-4d9c-be3f-09dc9319487a",
+  "ranked": true,
+  "rating": 0.9339027,
+  "ratingCount": 3638,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-05-01T11:08:34.727015Z",
+  "uploader": 6209
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:04Z",
+    "lastChanged": "2026-09-21T02:05:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-31T13:23:36.296151Z",
+  "charter": "5L2K Fighter",
+  "composer": "Chroma",
+  "created": "2026-07-31T13:23:36.296151Z",
+  "description": null,
+  "difficulty": 16.400002,
+  "file": "https://phira.5wyxi.com/files/a78c4f54-74fc-40d6-a70c-978cee8296ad",
+  "id": 70362,
+  "illustration": "https://phira.5wyxi.com/files/375d0ac7-a3ab-48cf-949b-6fd1d26e7b1a",
+  "illustrator": "",
+  "level": "IN  Lv.16",
+  "name": "Don't Fight The Music",
+  "preview": "https://phira.5wyxi.com/files/6eeb6c5b-fe60-43a8-bfdc-dfa00720b68c",
+  "ranked": false,
+  "rating": 0.87460864,
+  "ratingCount": 464,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-31T13:23:36.296151Z",
+  "uploader": 2329
+}

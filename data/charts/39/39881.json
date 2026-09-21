@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:24Z",
+    "lastChanged": "2026-09-21T02:03:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-04T16:30:20.497178Z",
+  "charter": "ᛈᛟᛚᛆᚱᛁᛋ",
+  "composer": "Vexento",
+  "created": "2025-06-18T14:50:04.950304Z",
+  "description": "心血来潮对旧谱进行了翻新。",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/4235f92c-9162-4fd7-8113-3085814a0ece",
+  "id": 39881,
+  "illustration": "https://phira.5wyxi.com/files/5c22e5c1-fd06-4e01-90a0-42586d709b89",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "Valhalla",
+  "preview": "https://phira.5wyxi.com/files/b0dcc6af-7439-4257-9448-e5e9fdc109e7",
+  "ranked": false,
+  "rating": 0.9111585,
+  "ratingCount": 252,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-04T16:30:20.497178Z",
+  "uploader": 93292
+}

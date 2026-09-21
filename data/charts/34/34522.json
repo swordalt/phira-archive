@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:05Z",
+    "lastChanged": "2026-09-21T02:03:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-27T01:56:55.799179Z",
+  "charter": "StarsTwinkle",
+  "composer": "ルゼ",
+  "created": "2025-02-27T01:56:55.799179Z",
+  "description": null,
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/fca60ebc-c7ac-4830-8244-e2d1385cd2a4",
+  "id": 34522,
+  "illustration": "https://phira.5wyxi.com/files/feaf7b81-1450-4188-b163-b4d6b9c260ae",
+  "illustrator": "",
+  "level": "SP Lv.?",
+  "name": "Better Graphic Animation",
+  "preview": "https://phira.5wyxi.com/files/a668a8f8-4197-4512-8d2b-4510c7f2cba0",
+  "ranked": false,
+  "rating": 0.85727173,
+  "ratingCount": 119,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-27T01:56:55.799179Z",
+  "uploader": 919819
+}

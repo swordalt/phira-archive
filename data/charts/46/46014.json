@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:47Z",
+    "lastChanged": "2026-09-21T02:03:47Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-29T06:09:36.766262Z",
+  "charter": "DJ猫",
+  "composer": "Toby Fox",
+  "created": "2025-08-29T06:09:36.766262Z",
+  "description": "不会写特效",
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/2dfba72e-1776-46f6-a138-e0b19285ebcf",
+  "id": 46014,
+  "illustration": "https://phira.5wyxi.com/files/8d39bd68-bbea-4049-8046-f736bf66f00d",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Hammer of Justice",
+  "preview": "https://phira.5wyxi.com/files/2286d78b-25e0-4387-94f1-e606081978ca",
+  "ranked": false,
+  "rating": 0.8521389,
+  "ratingCount": 134,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-29T06:09:36.766262Z",
+  "uploader": 1822394
+}

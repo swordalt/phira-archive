@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:26Z",
+    "lastChanged": "2026-09-21T02:01:26Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-19T16:56:35.924899Z",
+  "charter": "Encly",
+  "composer": "Nor",
+  "created": "2023-08-12T15:56:44.802664Z",
+  "description": "谱师Bilibili@ty天远\r\n曲子来自碧蓝档案",
+  "difficulty": 14.700003,
+  "file": "https://phira.5wyxi.com/files/d73d8709-2844-4f7f-bace-2397c803c703",
+  "id": 7479,
+  "illustration": "https://phira.5wyxi.com/files/f7967d9b-6b41-402e-a8b4-33d32e7a926f",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "RE Aoharu",
+  "preview": "https://phira.5wyxi.com/files/b8a9f941-8da4-43b6-b543-97d67916a458",
+  "ranked": true,
+  "rating": 0.94183093,
+  "ratingCount": 15676,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-08-19T16:56:35.924899Z",
+  "uploader": 1925
+}

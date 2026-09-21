@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:35Z",
+    "lastChanged": "2026-09-21T02:02:35Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-18T02:03:56.288653Z",
+  "charter": "YasoteMay",
+  "composer": "青蛙乐队",
+  "created": "2024-08-18T02:03:56.288653Z",
+  "description": "萌新闲的没事写个简单的",
+  "difficulty": 13.2,
+  "file": "https://phira.5wyxi.com/files/0048184c-8d03-4aaf-8e42-5d07a935277f",
+  "id": 26487,
+  "illustration": "https://phira.5wyxi.com/files/972a76aa-2066-4fcf-a858-ed0e083bab28",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "小跳蛙",
+  "preview": "https://phira.5wyxi.com/files/6f4bafd2-ef7e-4192-8eac-20001d3483ac",
+  "ranked": false,
+  "rating": 0.9256682,
+  "ratingCount": 2115,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-18T02:03:56.288653Z",
+  "uploader": 517569
+}

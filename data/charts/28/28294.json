@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:42Z",
+    "lastChanged": "2026-09-21T02:02:42Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-12-01T01:24:58.679925Z",
+  "charter": "南瓜",
+  "composer": "Daily天利 vs Reku Mochizuki",
+  "created": "2024-10-04T00:28:13.760774Z",
+  "description": null,
+  "difficulty": 15.1,
+  "file": "https://phira.5wyxi.com/files/cd752d8f-2a78-4493-ac75-474928a2d8e0",
+  "id": 28294,
+  "illustration": "https://phira.5wyxi.com/files/33db4de7-3728-4aa5-9306-dd846368d3ce",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Χάρων",
+  "preview": "https://phira.5wyxi.com/files/3007a69e-1469-4fa4-a992-6d9ab9c154f5",
+  "ranked": false,
+  "rating": 0.92074335,
+  "ratingCount": 794,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-12-01T01:24:58.679925Z",
+  "uploader": 482405
+}

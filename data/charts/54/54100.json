@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:28Z",
+    "lastChanged": "2026-09-21T02:04:28Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-13T22:59:48.996364Z",
+  "charter": "NULLData_x",
+  "composer": "Cosmograph",
+  "created": "2026-03-13T22:59:48.996364Z",
+  "description": "谱师允许上传\n谱师b站：@NULLData_x",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/b292d1d9-070e-49fe-b67c-d2e00a2f11d4",
+  "id": 54100,
+  "illustration": "https://phira.5wyxi.com/files/b4d6426f-a65e-4c63-816d-54c0b00b348c",
+  "illustrator": "",
+  "level": "AT Lv.14",
+  "name": "DataErr0r",
+  "preview": "https://phira.5wyxi.com/files/8ac81788-c244-4aa3-94e4-7ce9ef7d1d02",
+  "ranked": false,
+  "rating": 0.8445766,
+  "ratingCount": 19,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-03-13T22:59:48.996364Z",
+  "uploader": 1865723
+}

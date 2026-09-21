@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:33Z",
+    "lastChanged": "2026-09-21T02:06:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-28T10:10:24.690707Z",
+  "charter": "ARXChem",
+  "composer": "TOGENASHI TOGEARI",
+  "created": "2025-08-28T10:10:24.690707Z",
+  "description": "本段位为4k段位，综合难度ep+/LN15，请量力而行。在phira游玩，仅供娱乐。\n\nST1  Jack/LN Jack   VOID/空の箱 BPM148 delta+/LN14\nST2  Speed/LN   爆ぜて咲く/Bleeding Hearts BPM200 ep/LN15\nST3  Jack+LN  Wrong World BPM171 ep+/LN15+\nST4  Boss LN+SpeedJack 運命の華 (命运之花)/I'm Here BPM190 LN16/ep上位 \n\nMapper：ARXChem\n\nNotes\n3704 4775 3887 4565 \ntotal 16931\n\nBPM\n148 200 171 190\n13min\n\n判定：\nMalody V C/ProB 96.5 \nOM od7.5 96\nextra pass od9 96 or D96.5\n\n允许的MOD：\n通用：镜像(Flip/Mirror)；下落速度不与BPM关联(Const)；尾判，sv2。\n不允许使用暂停。",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/85120f2a-d7e4-48ce-852e-67dbd7e878e1",
+  "id": 45915,
+  "illustration": "https://phira.5wyxi.com/files/f1e964d8-5437-44d4-b438-925de504f230",
+  "illustrator": "",
+  "level": "Endless Journey ...",
+  "name": "GBC Dan",
+  "preview": "https://phira.5wyxi.com/files/39d538c4-7230-4d8b-b02a-1c9b2ded3c59",
+  "ranked": false,
+  "rating": 0.88236207,
+  "ratingCount": 10,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-08-28T10:10:24.690707Z",
+  "uploader": 1879228
+}

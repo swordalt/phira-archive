@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:51Z",
+    "lastChanged": "2026-09-21T02:02:51Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-12-21T12:39:36.840769Z",
+  "charter": "owen",
+  "composer": "Machico",
+  "created": "2024-12-21T12:39:36.840769Z",
+  "description": "《赛门娘》东海帝皇的神曲-winning the soul",
+  "difficulty": 13.699998,
+  "file": "https://phira.5wyxi.com/files/ec1c4330-83c4-414d-aab3-3df41acb2b86",
+  "id": 30946,
+  "illustration": "https://phira.5wyxi.com/files/46c8d0b9-ac8d-43cd-b1ef-0e34500fd63a",
+  "illustrator": "",
+  "level": "AT",
+  "name": "winning the soul",
+  "preview": "https://phira.5wyxi.com/files/b13bc9b2-4204-4f8f-8f00-58fc084bb96a",
+  "ranked": false,
+  "rating": 0.92743737,
+  "ratingCount": 421,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "赛门娘",
+    "regular"
+  ],
+  "updated": "2024-12-21T12:39:36.840769Z",
+  "uploader": 1310478
+}

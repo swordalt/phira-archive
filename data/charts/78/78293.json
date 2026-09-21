@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:17Z",
+    "lastChanged": "2026-09-21T02:05:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-17T11:20:53.847867Z",
+  "charter": "Seachannel",
+  "composer": "nora2r",
+  "created": "2026-09-17T11:20:53.847867Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/13ed1b09-7dcf-45e3-b67f-1b1b573bd780",
+  "id": 78293,
+  "illustration": "https://phira.5wyxi.com/files/0eb8d4f9-d2e2-4baa-a267-810d823bd477",
+  "illustrator": "UK",
+  "level": "IN Lv.15",
+  "name": "Evolve Rerise",
+  "preview": "https://phira.5wyxi.com/files/2c473a69-2d78-44a7-ace7-adf4eaa1709c",
+  "ranked": false,
+  "rating": 0.94322985,
+  "ratingCount": 185,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-09-17T13:47:34.102415Z",
+  "uploader": 336285
+}

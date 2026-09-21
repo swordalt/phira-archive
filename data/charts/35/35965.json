@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:10Z",
+    "lastChanged": "2026-09-21T02:03:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-03-31T09:14:26.545335Z",
+  "charter": "Eternal Lapis a.k.a. StarryNight",
+  "composer": "SHIKI",
+  "created": "2025-03-31T09:14:26.545335Z",
+  "description": "半年前的重制，顺手传一下 尾杀叠键提难度有空踩",
+  "difficulty": 14.700003,
+  "file": "https://phira.5wyxi.com/files/1c9ba02d-562d-4dbc-8f2e-0538a7b71cd5",
+  "id": 35965,
+  "illustration": "https://phira.5wyxi.com/files/897759e4-b3a8-4ed0-a9fa-bc9433bfcc42",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Lapis",
+  "preview": "https://phira.5wyxi.com/files/c33aa999-5081-4211-bd83-8562fb1b77bc",
+  "ranked": false,
+  "rating": 0.91784745,
+  "ratingCount": 218,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-03-31T09:14:26.545335Z",
+  "uploader": 5741
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:27Z",
+    "lastChanged": "2026-09-21T02:02:27Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-28T02:32:04.585480Z",
+  "charter": "VoRAnGeR",
+  "composer": "かねこちはる",
+  "created": "2024-07-28T02:32:04.585480Z",
+  "description": "重写了很久以前的\nTEmPTaTiON（低语）",
+  "difficulty": 15.8,
+  "file": "https://phira.5wyxi.com/files/b82b1927-1b2b-4922-8650-98949b06960d",
+  "id": 24518,
+  "illustration": "https://phira.5wyxi.com/files/0c68d1a8-6463-43c2-b947-db635514122f",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "TEmPTaTiON",
+  "preview": "https://phira.5wyxi.com/files/208fa8ac-c21f-4209-8f2a-06d067d89403",
+  "ranked": false,
+  "rating": 0.89755344,
+  "ratingCount": 526,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-07-28T02:32:04.585480Z",
+  "uploader": 1526
+}

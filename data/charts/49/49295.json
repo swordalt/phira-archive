@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:03Z",
+    "lastChanged": "2026-09-21T02:04:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-19T14:13:50.819857Z",
+  "charter": "Z_0001",
+  "composer": "A-39",
+  "created": "2025-11-19T14:13:50.819857Z",
+  "description": "新手写谱，请多指教。谱面为谱师本人上传，B站：Z_0001",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/fb0e0e89-fb7d-4088-9487-9f6a775f5c07",
+  "id": 49295,
+  "illustration": "https://phira.5wyxi.com/files/2d5cb537-cf81-4933-bf76-15b3aad97843",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Silent Answer",
+  "preview": "https://phira.5wyxi.com/files/c5fc07a4-4463-4743-b980-3f14dc16d961",
+  "ranked": false,
+  "rating": 0.93064594,
+  "ratingCount": 68,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-11-19T14:13:50.819857Z",
+  "uploader": 143195
+}

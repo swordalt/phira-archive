@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:32Z",
+    "lastChanged": "2026-09-21T02:03:32Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-24T14:48:59.422844Z",
+  "charter": "电玩 & 芝麻糊",
+  "composer": "滚动的天空",
+  "created": "2025-07-24T14:48:59.422844Z",
+  "description": "Nothing",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/f9e8578b-ffe9-4745-979e-d2acbc92024a",
+  "id": 42630,
+  "illustration": "https://phira.5wyxi.com/files/7230c0ee-002f-42cc-baeb-7cac4043cadf",
+  "illustrator": "",
+  "level": "AT  Lv.15",
+  "name": "电子迷宫",
+  "preview": "https://phira.5wyxi.com/files/445a54b7-a2f9-4b7c-8198-893108f21c90",
+  "ranked": false,
+  "rating": 0.8928797,
+  "ratingCount": 544,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-07-24T14:48:59.422844Z",
+  "uploader": 684028
+}

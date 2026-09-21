@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:09Z",
+    "lastChanged": "2026-09-21T02:03:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-03-27T11:41:41.310959Z",
+  "charter": "审蓝",
+  "composer": "toby fox",
+  "created": "2025-03-27T11:41:41.310959Z",
+  "description": null,
+  "difficulty": 3.0,
+  "file": "https://phira.5wyxi.com/files/8ebe0175-29c9-4083-bd0c-22fbd4827a5b",
+  "id": 35759,
+  "illustration": "https://phira.5wyxi.com/files/7dcc8675-fe75-47da-ac98-1e1e23db12cf",
+  "illustrator": "",
+  "level": "EZ Lv.3",
+  "name": "Pathetic House",
+  "preview": "https://phira.5wyxi.com/files/79796b59-7fdc-4f43-9594-e2b5aa5abd55",
+  "ranked": false,
+  "rating": 0.945495,
+  "ratingCount": 582,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-03-27T11:41:41.310959Z",
+  "uploader": 13620
+}

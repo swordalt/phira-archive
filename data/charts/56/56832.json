@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:38Z",
+    "lastChanged": "2026-09-21T02:04:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-20T07:38:25.866768Z",
+  "charter": "silkscreen",
+  "composer": "taitoki",
+  "created": "2026-04-20T07:38:25.866768Z",
+  "description": "谱师: @SMCharter#3478 as @丝绸SilkScreen#614\n不建议使用 HitSFX。",
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/84fa1a59-a36e-4c6e-b191-71bf0fa205d2",
+  "id": 56832,
+  "illustration": "https://phira.5wyxi.com/files/15eba039-7cdc-4bf6-a353-55cce05d86a8",
+  "illustrator": "",
+  "level": "SP Lv.?",
+  "name": "Without Warning",
+  "preview": "https://phira.5wyxi.com/files/27287839-3d1f-40ac-8b8f-bf0ee3b9da88",
+  "ranked": false,
+  "rating": 0.7011071,
+  "ratingCount": 14,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-04-20T07:38:25.866768Z",
+  "uploader": 614
+}

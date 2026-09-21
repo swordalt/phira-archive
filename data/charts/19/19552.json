@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:12Z",
+    "lastChanged": "2026-09-21T02:02:12Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-05T00:12:56.368924Z",
+  "charter": "SSuent vs. Moonite",
+  "composer": "xi",
+  "created": "2024-05-05T00:12:56.368924Z",
+  "description": null,
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/a5e551ac-36df-4a53-9988-2afdbe1285c4",
+  "id": 19552,
+  "illustration": "https://phira.5wyxi.com/files/e04860d4-ab11-41ff-b860-7a40a30f8fed",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Xeno Gravity",
+  "preview": "https://phira.5wyxi.com/files/20cf47b6-fd46-4642-a304-593427c57baf",
+  "ranked": false,
+  "rating": 0.9265915,
+  "ratingCount": 746,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "高难",
+    "SDVX",
+    "regular"
+  ],
+  "updated": "2024-05-05T00:12:56.368924Z",
+  "uploader": 1279
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:15Z",
+    "lastChanged": "2026-09-21T02:03:15Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-30T14:11:11.469557Z",
+  "charter": "母鸡Sama",
+  "composer": "EVO+",
+  "created": "2025-04-30T11:26:01.469683Z",
+  "description": "谱师本人上传   b站关注@母鸡Sama谢谢awa      8.30更新    微调前两段drop的排键，优化了2nd drop十字红键的视觉表现以减弱其可能存在的视觉误导，微调break段配置",
+  "difficulty": 14.700003,
+  "file": "https://phira.5wyxi.com/files/479b837e-dcd9-46f6-9ded-75b27e3722ef",
+  "id": 37112,
+  "illustration": "https://phira.5wyxi.com/files/b5ceced8-4b63-4640-8ef6-895452257f7c",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "[A]ddiction",
+  "preview": "https://phira.5wyxi.com/files/51ceb7b9-5a8a-4c30-a982-04c8bb91639b",
+  "ranked": true,
+  "rating": 0.93264437,
+  "ratingCount": 1613,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-14T10:20:17.328256Z",
+  "uploader": 3742
+}

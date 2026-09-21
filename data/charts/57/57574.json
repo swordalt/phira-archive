@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:40Z",
+    "lastChanged": "2026-09-21T02:04:40Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-02T09:18:23.040799Z",
+  "charter": "WasilyAZ",
+  "composer": "西福瑞希Ciforance",
+  "created": "2026-05-02T09:18:23.040799Z",
+  "description": "正常判定版本，并非误传两次\n谱面预览BV18EXDBoEAw",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/e7a64ff1-897d-4a57-994b-d440ceabfff6",
+  "id": 57574,
+  "illustration": "https://phira.5wyxi.com/files/7ea86c5d-ec1e-4e84-9397-d03217b06030",
+  "illustrator": "",
+  "level": "SP Lv.?",
+  "name": "Final Resonance Waking Universe",
+  "preview": "https://phira.5wyxi.com/files/8a7ba804-02dc-4ded-ba27-0213cee7f3ff",
+  "ranked": false,
+  "rating": 0.86118627,
+  "ratingCount": 36,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-05-02T09:18:23.040799Z",
+  "uploader": 38082
+}

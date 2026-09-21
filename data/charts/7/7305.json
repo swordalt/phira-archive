@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:25Z",
+    "lastChanged": "2026-09-21T02:01:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-11T03:39:58.233677Z",
+  "charter": "Aiss_Bee",
+  "composer": "Aiss vs Abit",
+  "created": "2023-08-11T03:39:58.233677Z",
+  "description": "本人第二个制作的Phigros谱面，质量有待提升，第二版",
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/f0e9f867-faa4-46b7-86a9-912f4dc950a5",
+  "id": 7305,
+  "illustration": "https://phira.5wyxi.com/files/273e4af4-add4-45a6-acbf-4b0be3cea67c",
+  "illustrator": "",
+  "level": "IN 16",
+  "name": "the everlasting rain",
+  "preview": "https://phira.5wyxi.com/files/d2625357-ad0e-4cc9-8a1d-df63ee818ff6",
+  "ranked": false,
+  "rating": 0.8545272,
+  "ratingCount": 368,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-08-11T03:39:58.233677Z",
+  "uploader": 192140
+}

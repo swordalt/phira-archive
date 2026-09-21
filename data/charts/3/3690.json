@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:16Z",
+    "lastChanged": "2026-09-21T02:01:16Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-06-18T08:41:54.814185Z",
+  "charter": "hikarpis阿光",
+  "composer": "ああああ",
+  "created": "2023-06-18T08:41:54.814185Z",
+  "description": "",
+  "difficulty": 12.0,
+  "file": "https://phira.5wyxi.com/files/7114bf0b-cb06-47b0-abcb-32b46001ec9c",
+  "id": 3690,
+  "illustration": "https://phira.5wyxi.com/files/929d9c96-1efa-47dc-963d-c97360d30aa2",
+  "illustrator": "",
+  "level": "IN Lv.12",
+  "name": "Recollect",
+  "preview": "https://phira.5wyxi.com/files/98fecaa1-75bc-4412-b8a5-59e9c4593062",
+  "ranked": true,
+  "rating": 0.91903317,
+  "ratingCount": 3025,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 51940
+}

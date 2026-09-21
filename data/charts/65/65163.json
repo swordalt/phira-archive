@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:56Z",
+    "lastChanged": "2026-09-21T02:04:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-09T05:24:03.935657Z",
+  "charter": "lxy from The Jupiter",
+  "composer": "LiGaYb",
+  "created": "2026-07-09T05:24:03.935657Z",
+  "description": null,
+  "difficulty": 16.200012,
+  "file": "https://phira.5wyxi.com/files/fe47dc23-9a5b-4475-80e0-37d8a93268f8",
+  "id": 65163,
+  "illustration": "https://phira.5wyxi.com/files/9e82ef07-139e-46af-a1a3-3dbf3f5fd2b7",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "The Jupiter",
+  "preview": "https://phira.5wyxi.com/files/1d46f4b3-8f29-4119-8492-c8ff00b13296",
+  "ranked": false,
+  "rating": 0.827941,
+  "ratingCount": 47,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-09T05:24:03.935657Z",
+  "uploader": 2085325
+}

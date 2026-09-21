@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:14Z",
+    "lastChanged": "2026-09-21T02:01:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-06-03T15:02:04.265140Z",
+  "charter": "Kesyel",
+  "composer": "Eyemedia",
+  "created": "2023-06-03T15:02:04.265140Z",
+  "description": "圣骑士序曲",
+  "difficulty": 14.200001,
+  "file": "https://phira.5wyxi.com/files/b6b832c4-957f-4e6d-8b12-f1b5e0eda6c5",
+  "id": 2897,
+  "illustration": "https://phira.5wyxi.com/files/7d0c2058-04c5-4a86-85ad-aa2a8785021a",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Holy Knight",
+  "preview": "https://phira.5wyxi.com/files/5c938f92-7395-475f-a44d-7fb3806a6d2d",
+  "ranked": false,
+  "rating": 0.92218614,
+  "ratingCount": 113,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Cytus",
+    "小品谱面",
+    "regular"
+  ],
+  "updated": "2023-06-03T15:02:04.265140Z",
+  "uploader": 52773
+}

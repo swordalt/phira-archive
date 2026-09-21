@@ -1,0 +1,40 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:07:02Z",
+    "lastChanged": "2026-09-21T02:07:02Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-24T15:12:39.570627Z",
+  "charter": "HRS-Team",
+  "composer": "P*Light",
+  "created": "2026-08-24T15:12:39.570627Z",
+  "description": "HRS-Lv.15-Sync单曲",
+  "difficulty": 15.499996,
+  "file": "https://phira.5wyxi.com/files/ec201ef4-4d55-40e5-a49d-7eff480678d4",
+  "id": 75494,
+  "illustration": "https://phira.5wyxi.com/files/42e4047d-7c92-4c33-bba5-268d67a8e102",
+  "illustrator": "",
+  "level": "Sync",
+  "name": "SAtAN",
+  "preview": "https://phira.5wyxi.com/files/6c3ec62e-32f3-49ba-a430-6e9570e23c36",
+  "ranked": false,
+  "rating": 0.892196,
+  "ratingCount": 22,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "HRS",
+    "双指",
+    "谐律段位",
+    "15",
+    "Sync",
+    "协",
+    "plain"
+  ],
+  "updated": "2026-08-24T15:12:39.570627Z",
+  "uploader": 3973081
+}

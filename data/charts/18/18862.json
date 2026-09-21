@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:47Z",
+    "lastChanged": "2026-09-21T02:05:47Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-24T11:57:44.525461Z",
+  "charter": "Lomtfjsza",
+  "composer": "Columba",
+  "created": "2024-04-24T11:57:44.525461Z",
+  "description": "因为LPI写了所以跟着写了一个，结果他写的没我快。我觉得这个尾杀比较帅，难度是LPI填的",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/a0ab03cb-9cd2-4697-9a14-071e53829932",
+  "id": 18862,
+  "illustration": "https://phira.5wyxi.com/files/7f7372fe-f941-4d63-87de-5c013b45f469",
+  "illustrator": "",
+  "level": "Metamorphosis",
+  "name": "Poppy",
+  "preview": "https://phira.5wyxi.com/files/4eab292c-6f72-4782-9514-76986dacfb6c",
+  "ranked": false,
+  "rating": 0.76877666,
+  "ratingCount": 26,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2024-04-24T11:57:44.525461Z",
+  "uploader": 20115
+}

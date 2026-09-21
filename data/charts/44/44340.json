@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:39Z",
+    "lastChanged": "2026-09-21T02:03:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-11T08:59:39.251546Z",
+  "charter": "Kenari_15",
+  "composer": "HyuN",
+  "created": "2025-08-11T08:59:39.251546Z",
+  "description": "B站@Kenari_15，谱师本人上传\n；使用改谱面进行创作需要在简介标注谱面出处（@我）",
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/cd186131-5f83-4cad-a30a-7d9595c2b065",
+  "id": 44340,
+  "illustration": "https://phira.5wyxi.com/files/21ed2756-a15e-48db-ad6a-614d27abb483",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Infinity Heaven",
+  "preview": "https://phira.5wyxi.com/files/50031ff1-7a35-412c-b05a-bbc262768c65",
+  "ranked": false,
+  "rating": 0.9282811,
+  "ratingCount": 3054,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-04T18:38:11.794138Z",
+  "uploader": 459003
+}

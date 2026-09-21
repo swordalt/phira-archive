@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:38Z",
+    "lastChanged": "2026-09-21T02:05:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-10-26T03:36:05.229486Z",
+  "charter": "LC Team",
+  "composer": "HyuN",
+  "created": "2023-10-26T03:36:05.229486Z",
+  "description": "谱师本人上传\n该谱面为草生比赛2023第一次比赛双指赛道八强HB1",
+  "difficulty": 11.000002,
+  "file": "https://phira.5wyxi.com/files/0c53f3f5-f91f-4c64-999d-d75053b9f2ac",
+  "id": 10846,
+  "illustration": "https://phira.5wyxi.com/files/7cfdffe7-56a3-48f9-879c-4853331e1c2e",
+  "illustrator": "",
+  "level": "Sky",
+  "name": "Grin",
+  "preview": "https://phira.5wyxi.com/files/feb90a2c-5775-4b57-93ef-5a935a796932",
+  "ranked": false,
+  "rating": 0.9315396,
+  "ratingCount": 153,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "plain"
+  ],
+  "updated": "2023-10-26T03:36:05.229486Z",
+  "uploader": 508559
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:10Z",
+    "lastChanged": "2026-09-21T02:03:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-01T14:27:40.920009Z",
+  "charter": "IF.Zeta",
+  "composer": "MIMI",
+  "created": "2025-04-01T14:27:40.920009Z",
+  "description": "新人3谱\n耗时约1天\n使用Malody转谱工具及MT管理器\n谱师本人上传(IF.Zeta)\n耐力谱(可能？",
+  "difficulty": 15.800004,
+  "file": "https://phira.5wyxi.com/files/8ef9a40f-8269-408c-81d6-4decab13475c",
+  "id": 36014,
+  "illustration": "https://phira.5wyxi.com/files/2c6670ee-c22c-43af-a4b3-d9475f5d97ce",
+  "illustrator": "",
+  "level": "IN Lv.15.8",
+  "name": "サイエンス(科学)",
+  "preview": "https://phira.5wyxi.com/files/2957c5a8-6732-4a21-8ba2-229db70aeed6",
+  "ranked": false,
+  "rating": 0.93911344,
+  "ratingCount": 541,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "サイエンス",
+    "regular"
+  ],
+  "updated": "2025-04-01T14:27:40.920009Z",
+  "uploader": 1253997
+}

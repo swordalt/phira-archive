@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:34Z",
+    "lastChanged": "2026-09-21T02:06:34Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-31T07:32:25.675201Z",
+  "charter": "总闸",
+  "composer": "Camellia",
+  "created": "2025-08-31T07:32:25.675201Z",
+  "description": "时长：5:50.442s\nbpm：220\n物量：3734\n4k耐力谱，主切，带点乱\n忙里偷闲，应该是目前写过最难的一张谱了\n祝游玩愉快，不喜勿喷:)\n（这是修改后的，麻烦打回上一张谱，谢谢）",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/bb7a01a9-6879-4308-b14e-305529e1f7f4",
+  "id": 46208,
+  "illustration": "https://phira.5wyxi.com/files/a5e5ff1b-ec74-4161-810a-2c28799cea33",
+  "illustrator": "",
+  "level": "4K Lv.32",
+  "name": "GHOST",
+  "preview": "https://phira.5wyxi.com/files/25fd5cfd-c58d-47c6-9dd3-e89a96742f7e",
+  "ranked": false,
+  "rating": 0.96400756,
+  "ratingCount": 260,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-08-31T07:32:25.675201Z",
+  "uploader": 49828
+}

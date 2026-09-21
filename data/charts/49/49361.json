@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:03Z",
+    "lastChanged": "2026-09-21T02:04:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-22T02:42:26.817112Z",
+  "charter": "VIRUS-真菌",
+  "composer": "Kobaryo vs. かめりあ",
+  "created": "2025-11-22T02:42:26.817112Z",
+  "description": "因为异象手机谱面会发生偏移，请尽量使用平板游玩",
+  "difficulty": 17.800003,
+  "file": "https://phira.5wyxi.com/files/fa5725d0-a9f5-4388-bba6-1448948e720b",
+  "id": 49361,
+  "illustration": "https://phira.5wyxi.com/files/e5c6aaa6-950b-485f-8951-f0b178cac33d",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "★Villain Virus",
+  "preview": "https://phira.5wyxi.com/files/03cf2715-08fa-4b41-aafd-4e49739bbcf6",
+  "ranked": false,
+  "rating": 0.88418543,
+  "ratingCount": 299,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-11-22T02:42:26.817112Z",
+  "uploader": 993884
+}

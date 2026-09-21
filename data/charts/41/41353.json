@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:28Z",
+    "lastChanged": "2026-09-21T02:03:28Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-10T12:06:24.728947Z",
+  "charter": "highbridge*",
+  "composer": "litmus*",
+  "created": "2025-07-10T12:06:24.728947Z",
+  "description": "本人上传",
+  "difficulty": 14.800003,
+  "file": "https://phira.5wyxi.com/files/27dff719-98d9-4629-b0d7-9bddfdb58a11",
+  "id": 41353,
+  "illustration": "https://phira.5wyxi.com/files/a3ff3011-e0dc-40c1-aa13-3eaa268b5306",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Bliss",
+  "preview": "https://phira.5wyxi.com/files/0c6c2d58-bc66-415e-8a1b-4598392bba50",
+  "ranked": false,
+  "rating": 0.85413873,
+  "ratingCount": 47,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-07-10T12:06:24.728947Z",
+  "uploader": 654458
+}

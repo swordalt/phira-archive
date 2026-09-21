@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:33Z",
+    "lastChanged": "2026-09-21T02:02:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-10T17:10:16.836114Z",
+  "charter": "Charisk",
+  "composer": "林迈可/洛天依",
+  "created": "2024-08-10T17:10:16.836114Z",
+  "description": null,
+  "difficulty": 13.9000025,
+  "file": "https://phira.5wyxi.com/files/43404806-2b91-4182-977b-b360d86fea83",
+  "id": 25925,
+  "illustration": "https://phira.5wyxi.com/files/b1280d23-8d39-485c-9aff-f5bcd3316e4c",
+  "illustrator": "",
+  "level": "IN",
+  "name": "追光使者",
+  "preview": "https://phira.5wyxi.com/files/955a2b8e-e5b1-4eed-88f5-2d5e27afa048",
+  "ranked": false,
+  "rating": 0.9409367,
+  "ratingCount": 656,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-11T05:52:15.210721Z",
+  "uploader": 443095
+}

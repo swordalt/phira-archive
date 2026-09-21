@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:05Z",
+    "lastChanged": "2026-09-21T02:05:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-06T09:01:06.048417Z",
+  "charter": "htmgb",
+  "composer": "Ludicin",
+  "created": "2026-08-06T09:01:06.048417Z",
+  "description": "Song : Lost Requiem\nComposer : Ludicin\nBPM : 100-240\nJacket : KM & Zeth_傑\nChart : htmgb\nDifficulty : AT Lv.18(.4)\nTotalNotes : 6320\n---------------\nThis is the non-shader&UI version of SP difficulty. also removed some trimmings for better visibility.",
+  "difficulty": 18.400002,
+  "file": "https://phira.5wyxi.com/files/f25459f9-ff7d-414b-8518-bbc7363d5441",
+  "id": 71634,
+  "illustration": "https://phira.5wyxi.com/files/dbf4bec1-42b5-4ba3-899e-83837cf618a5",
+  "illustrator": "",
+  "level": "AT Lv.18",
+  "name": "Lost Requiem",
+  "preview": "https://phira.5wyxi.com/files/13ddf64a-400c-40d2-b73d-b5d2959a40db",
+  "ranked": false,
+  "rating": 0.81589895,
+  "ratingCount": 14,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-06T09:01:06.048417Z",
+  "uploader": 1929796
+}

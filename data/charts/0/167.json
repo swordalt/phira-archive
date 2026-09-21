@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:04Z",
+    "lastChanged": "2026-09-21T02:01:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-06-15T07:39:45.103438Z",
+  "charter": "醒了不起的AO娇 feat. Faver",
+  "composer": "USAO",
+  "created": "2023-04-02T08:24:52.826382Z",
+  "description": "USAO金曲，劲爆拍砖，超高物量，底力地狱，等你来戰。这次修改了很多有问题的地方，对大量细节以及部分特效进行了优化。",
+  "difficulty": 15.633334,
+  "file": "https://phira.5wyxi.com/files/149ae1cd-8379-49ce-92ce-dda14aaed5f0",
+  "id": 167,
+  "illustration": "https://phira.5wyxi.com/files/6e9a083f-3acd-4cc8-9e2e-acddb8c2a5b6",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Wildfire",
+  "preview": "https://phira.5wyxi.com/files/a718402e-8a36-4849-b3fb-22456e1c6f3e",
+  "ranked": true,
+  "rating": 0.9198934,
+  "ratingCount": 4352,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "USAO",
+    "regular"
+  ],
+  "updated": "2024-04-17T16:02:30.777265Z",
+  "uploader": 104
+}

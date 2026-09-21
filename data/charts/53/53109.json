@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:23Z",
+    "lastChanged": "2026-09-21T02:04:23Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-21T07:05:57.113535Z",
+  "charter": "Xlipice",
+  "composer": "Aaron Cherof",
+  "created": "2026-02-21T07:05:57.113535Z",
+  "description": "总耗费8小时",
+  "difficulty": 15.200001,
+  "file": "https://phira.5wyxi.com/files/80a3c72b-6629-4f46-b37f-395a8ea2e60c",
+  "id": 53109,
+  "illustration": "https://phira.5wyxi.com/files/a6eeff1d-4f3f-4409-8ed3-3e6222ac23ef",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Precipice",
+  "preview": "https://phira.5wyxi.com/files/f2d4ab3e-b22a-4400-b7f9-0c0355168a40",
+  "ranked": false,
+  "rating": 0.9139849,
+  "ratingCount": 255,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "regular"
+  ],
+  "updated": "2026-02-21T07:05:57.113535Z",
+  "uploader": 223668
+}

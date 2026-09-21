@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:10Z",
+    "lastChanged": "2026-09-21T02:05:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-20T09:25:13.227368Z",
+  "charter": "Haru_12",
+  "composer": "花儿乐队",
+  "created": "2026-08-20T09:25:13.227368Z",
+  "description": null,
+  "difficulty": 13.900001,
+  "file": "https://phira.5wyxi.com/files/aaad10b7-54e4-4604-ad57-b634425d3126",
+  "id": 74593,
+  "illustration": "https://phira.5wyxi.com/files/371163e3-5775-4868-af5d-5391941421ad",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "嘻唰唰",
+  "preview": "https://phira.5wyxi.com/files/8335e626-a0dc-4053-aa5e-b1899ee2aa3d",
+  "ranked": false,
+  "rating": 0.8992262,
+  "ratingCount": 2321,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-20T09:25:13.227368Z",
+  "uploader": 50884
+}

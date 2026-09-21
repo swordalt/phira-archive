@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:55Z",
+    "lastChanged": "2026-09-21T02:04:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-07T17:09:00.616671Z",
+  "charter": "XieHu ＆ LinYve ＆ Kyursure",
+  "composer": "ariiol",
+  "created": "2026-07-07T17:09:00.616671Z",
+  "description": "本谱是基于#64651的优化版本，整改了部分配置和细节\n\n（如果#64651被删了则无视上述文字）\n\n曲：缄色症候-arriol\n谱：N3v_r/linyve/Kyursure\n定数：15.7\nBPM：260\n制作时长：1d10h（原作耗时1d4h，修改耗时5h）",
+  "difficulty": 15.700003,
+  "file": "https://phira.5wyxi.com/files/1c00bcfd-4b62-414c-b3c3-9ec8720fb1c2",
+  "id": 64795,
+  "illustration": "https://phira.5wyxi.com/files/0d25b833-a5ec-49cd-9536-c439ed815d5c",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "缄色症候",
+  "preview": "https://phira.5wyxi.com/files/e54113fe-aaf1-41e7-9bbc-a4e89c01db3e",
+  "ranked": false,
+  "rating": 0.89022446,
+  "ratingCount": 203,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-07T17:09:00.616671Z",
+  "uploader": 1127328
+}

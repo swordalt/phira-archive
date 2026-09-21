@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:05Z",
+    "lastChanged": "2026-09-21T02:03:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-23T12:57:26.907106Z",
+  "charter": "RoraSTAR",
+  "composer": "谭晶/HOYO-MiX",
+  "created": "2025-02-23T12:57:26.907106Z",
+  "description": "谱面视频 BV1PUFxeTENj\n修改了部分采音，增加了shader（研究了老长时间，第一次写望宽容）\n某个谱面片段灵感来源：BV1A2wLeyE4r",
+  "difficulty": 13.400002,
+  "file": "https://phira.5wyxi.com/files/b96dc2cd-9e6e-4681-8937-2e0916004f6c",
+  "id": 34420,
+  "illustration": "https://phira.5wyxi.com/files/88347847-e13e-45fa-bd8e-112e02bbd286",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "何者",
+  "preview": "https://phira.5wyxi.com/files/2807389e-c851-43fa-a3ac-720368e43ec4",
+  "ranked": false,
+  "rating": 0.94342685,
+  "ratingCount": 3152,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-23T12:57:26.907106Z",
+  "uploader": 1407398
+}

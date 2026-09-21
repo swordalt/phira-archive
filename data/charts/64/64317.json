@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:55Z",
+    "lastChanged": "2026-09-21T02:04:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-05T13:46:32.170327Z",
+  "charter": "49.8",
+  "composer": "XH/astrea",
+  "created": "2026-07-05T13:46:32.170327Z",
+  "description": "见tip",
+  "difficulty": 17.2,
+  "file": "https://phira.5wyxi.com/files/96d4d331-bcad-4e19-ae35-c3c8a8a480bf",
+  "id": 64317,
+  "illustration": "https://phira.5wyxi.com/files/168213db-7ed8-4b99-b874-90ca7322ace3",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "NEW GENERATION",
+  "preview": "https://phira.5wyxi.com/files/d89eaf48-d501-45c9-960d-1d35966f8c0f",
+  "ranked": false,
+  "rating": 0.8912762,
+  "ratingCount": 93,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-05T13:46:32.170327Z",
+  "uploader": 2024899
+}

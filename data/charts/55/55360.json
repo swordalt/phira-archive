@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:35Z",
+    "lastChanged": "2026-09-21T02:04:35Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-07T15:32:04.479306Z",
+  "charter": "ab5k feat.ABoKey5",
+  "composer": "RAI",
+  "created": "2026-04-07T15:32:04.479306Z",
+  "description": "0thPecJam参赛谱面，编号RG190。\n0thPecJam会场地址：https://pecjam.phizone.cn/\nb站：@ab5k",
+  "difficulty": 14.700003,
+  "file": "https://phira.5wyxi.com/files/22820d0b-5d6f-4c65-97ba-04a732ae2acb",
+  "id": 55360,
+  "illustration": "https://phira.5wyxi.com/files/6b1d1e35-20b3-48d5-8bab-a3d16c40cac3",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Przepływ światła",
+  "preview": "https://phira.5wyxi.com/files/2b4b716b-54b2-45fc-9ad4-cb335e315308",
+  "ranked": true,
+  "rating": 0.8973589,
+  "ratingCount": 229,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "Orzmic",
+    "0thPecJam",
+    "PecJam",
+    "regular"
+  ],
+  "updated": "2026-04-07T15:32:04.479306Z",
+  "uploader": 211690
+}

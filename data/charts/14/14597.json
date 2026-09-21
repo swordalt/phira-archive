@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:22Z",
+    "lastChanged": "2026-09-21T02:05:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-01T06:22:24.752857Z",
+  "charter": "RTX20000",
+  "composer": "Ctymax NceS",
+  "created": "2024-02-01T06:22:24.752857Z",
+  "description": null,
+  "difficulty": 16.1,
+  "file": "https://phira.5wyxi.com/files/4e9d3697-7e62-4565-b2f6-afc32810761e",
+  "id": 14597,
+  "illustration": "https://phira.5wyxi.com/files/5429d311-ad3b-4063-baf2-cd9963bd88ab",
+  "illustrator": "",
+  "level": "AT Lv.note回收",
+  "name": "Rubbish Sorting",
+  "preview": "https://phira.5wyxi.com/files/1a4e036c-4170-475f-a434-56651d45ff65",
+  "ranked": false,
+  "rating": 0.92659575,
+  "ratingCount": 278,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-02-01T06:22:24.752857Z",
+  "uploader": 506600
+}

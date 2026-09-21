@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:23Z",
+    "lastChanged": "2026-09-21T02:04:23Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-20T12:16:44.309744Z",
+  "charter": "WANG-Barry",
+  "composer": "王子健",
+  "created": "2026-02-20T12:16:44.309744Z",
+  "description": null,
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/43e93e31-dea8-4a48-8789-beba088b56ce",
+  "id": 53056,
+  "illustration": "https://phira.5wyxi.com/files/2a9aecb8-f81e-4f0c-98f4-3f225c3fa05a",
+  "illustrator": "",
+  "level": "HD Lv.10",
+  "name": "循迹",
+  "preview": "https://phira.5wyxi.com/files/10f4cacb-a878-4272-b414-e66008a5c6fe",
+  "ranked": false,
+  "rating": 0.9072228,
+  "ratingCount": 4385,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-20T12:16:44.309744Z",
+  "uploader": 2042476
+}

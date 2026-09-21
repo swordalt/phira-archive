@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:07:04Z",
+    "lastChanged": "2026-09-21T02:07:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-31T05:13:23.329119Z",
+  "charter": "NoSmoking",
+  "composer": "V.A.",
+  "created": "2026-08-31T05:13:23.329119Z",
+  "description": "Smog 0 Dan (Start Dan)\n\n本段位基础赏金：1元\n\nJack : Heart 111\nTechnique : Emulisy\nStream : 物凄い狂っとるフランちゃんが物凄いうた\n\n标准通过≥97.0acc  倍率x1\n高准通过≥99.2acc  倍率x4\n取得Full Combo      倍率x7\n取得All Perfect        倍率x13\n\n最终赏金：基础赏金×倍率×位次倍率\n\n⚠️段位认定细则 B站 cv52735697 请务必查看\n\n完整单曲包 QQ群：674638950\n悬赏领取联系 即时比份 QQ：1822418647",
+  "difficulty": 20.0,
+  "file": "https://phira.5wyxi.com/files/63672d8c-c899-4b06-81d8-2e498d11ff9e",
+  "id": 76701,
+  "illustration": "https://phira.5wyxi.com/files/2ad81b49-6282-4901-960d-89415071aded",
+  "illustrator": "",
+  "level": "Lv.start",
+  "name": "Smog 0 Dan",
+  "preview": "https://phira.5wyxi.com/files/30ee42fa-3a93-48a9-a6d3-238b97c93fda",
+  "ranked": false,
+  "rating": 0.9327519,
+  "ratingCount": 85,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2026-08-31T05:13:23.329119Z",
+  "uploader": 3405853
+}

@@ -1,0 +1,40 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:57Z",
+    "lastChanged": "2026-09-21T02:06:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-08T08:38:51.758158Z",
+  "charter": "HRS-Team",
+  "composer": "Quree",
+  "created": "2026-07-08T08:38:51.758158Z",
+  "description": "HRS-Lv.16-Sync单曲",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/00f47b8a-f9fb-472f-9b3a-917b45883e88",
+  "id": 64918,
+  "illustration": "https://phira.5wyxi.com/files/d44a9358-4553-441c-8cd3-434b571b8125",
+  "illustrator": "",
+  "level": "Sync",
+  "name": "M.O.P.E.-333",
+  "preview": "https://phira.5wyxi.com/files/c86ec165-bc4f-4714-b98c-fabeea22693f",
+  "ranked": false,
+  "rating": 0.85022646,
+  "ratingCount": 21,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "HRS",
+    "双指",
+    "谐律段位",
+    "16",
+    "Sync",
+    "协",
+    "plain"
+  ],
+  "updated": "2026-07-08T08:38:51.758158Z",
+  "uploader": 2815373
+}

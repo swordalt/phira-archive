@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:59Z",
+    "lastChanged": "2026-09-21T02:02:59Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-27T05:55:07.701004Z",
+  "charter": "4waK3N",
+  "composer": "ETIA.",
+  "created": "2025-01-27T05:55:07.701004Z",
+  "description": null,
+  "difficulty": 15.500021,
+  "file": "https://phira.5wyxi.com/files/6bee5ca0-c99a-4ff9-9d06-100bff82544b",
+  "id": 32580,
+  "illustration": "https://phira.5wyxi.com/files/a2b7e5b4-6351-4fb9-868c-5d90efe333fc",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "MVURBD",
+  "preview": "https://phira.5wyxi.com/files/62399d28-6bdb-4f34-9f70-d07e52e86cc0",
+  "ranked": false,
+  "rating": 0.89170754,
+  "ratingCount": 159,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-01-27T05:55:07.701004Z",
+  "uploader": 6134
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:11Z",
+    "lastChanged": "2026-09-21T02:03:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-09T04:13:59.481741Z",
+  "charter": "starterted",
+  "composer": "IOSYS",
+  "created": "2025-04-09T04:13:59.481741Z",
+  "description": "本次更新：\n1.如果不需要80ms延迟矫正则更新成功\n2.我也说不上来改了啥（",
+  "difficulty": 15.5,
+  "file": "https://phira.5wyxi.com/files/4b0956a3-bc37-4c4d-9079-da66c9e27eb2",
+  "id": 36355,
+  "illustration": "https://phira.5wyxi.com/files/e55c9630-2da6-4cde-ac2b-4f0c37e349cc",
+  "illustrator": "",
+  "level": "IN",
+  "name": "魔理沙に大変な役でハコにされました",
+  "preview": "https://phira.5wyxi.com/files/ae5877cf-fe12-4d29-8c7e-62906fff537d",
+  "ranked": false,
+  "rating": 0.89603764,
+  "ratingCount": 156,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-04-09T04:13:59.481741Z",
+  "uploader": 6965
+}

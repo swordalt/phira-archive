@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:04Z",
+    "lastChanged": "2026-09-21T02:02:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-22T13:55:49.084744Z",
+  "charter": ".45",
+  "composer": "モリモリあつし",
+  "created": "2024-03-22T13:55:49.084744Z",
+  "description": "我的第一个多指谱\nBV1Hu4m1g7wz",
+  "difficulty": 16.500002,
+  "file": "https://phira.5wyxi.com/files/52ad0053-cc31-41ca-b18a-b9c96fddb4e7",
+  "id": 17382,
+  "illustration": "https://phira.5wyxi.com/files/104c931a-ba7b-4ff8-b91e-7ddf57d8c3cd",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "PUPA",
+  "preview": "https://phira.5wyxi.com/files/93300d95-8b08-4b9c-b414-ff2adaab3762",
+  "ranked": false,
+  "rating": 0.9073883,
+  "ratingCount": 1413,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-03-23T05:37:03.176808Z",
+  "uploader": 309803
+}

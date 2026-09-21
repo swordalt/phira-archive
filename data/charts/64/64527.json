@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:55Z",
+    "lastChanged": "2026-09-21T02:04:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-06T12:52:21.048438Z",
+  "charter": "跡をたどる",
+  "composer": "PIKASONIC & nakotanmaru",
+  "created": "2026-07-06T12:52:21.048438Z",
+  "description": null,
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/a89ec212-88fa-404b-bf18-29e05412d70e",
+  "id": 64527,
+  "illustration": "https://phira.5wyxi.com/files/8a817b3e-4cd0-4986-a6b0-3400cccadc86",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "再生",
+  "preview": "https://phira.5wyxi.com/files/3e89422b-5eaf-4fbd-aaca-d4737d976333",
+  "ranked": false,
+  "rating": 0.9024656,
+  "ratingCount": 257,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-19T11:31:39.202119Z",
+  "uploader": 1641915
+}

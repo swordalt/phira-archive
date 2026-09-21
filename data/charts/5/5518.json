@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:20Z",
+    "lastChanged": "2026-09-21T02:01:20Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-07-18T02:48:51.235214Z",
+  "charter": "_SтЯ",
+  "composer": "TJ.hangneil",
+  "created": "2023-07-18T02:48:51.235214Z",
+  "description": "本人上传。\n本谱使用了假note，437combo有特殊处理。共使用7根判定线。\n7.18又微调多处，微调容易造成误导的效果。\n已是最终版本。",
+  "difficulty": 12.0,
+  "file": "https://phira.5wyxi.com/files/c680b27b-1375-4cc7-8ad9-12e7876f73fb",
+  "id": 5518,
+  "illustration": "https://phira.5wyxi.com/files/90d47383-df6c-43d3-8d10-e389c00bfe73",
+  "illustrator": "",
+  "level": "HD Lv.12",
+  "name": "Apollo",
+  "preview": "https://phira.5wyxi.com/files/2b97575e-b564-4c17-a270-6e4c0c6bd589",
+  "ranked": true,
+  "rating": 0.8974061,
+  "ratingCount": 5213,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "HD",
+    "ONGEKI",
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 80608
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:36Z",
+    "lastChanged": "2026-09-21T02:02:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-23T01:16:36.689319Z",
+  "charter": "MachoBaker10726",
+  "composer": "VeetaCrush",
+  "created": "2024-08-23T01:16:36.689319Z",
+  "description": "回去修改了一下,削弱变成15.6,这次求过.",
+  "difficulty": 15.6,
+  "file": "https://phira.5wyxi.com/files/9f13402d-6cd6-4140-bd07-e049d6bdc9f3",
+  "id": 26750,
+  "illustration": "https://phira.5wyxi.com/files/7af473a3-be7a-425c-a3c7-fce1173b8c80",
+  "illustrator": "",
+  "level": "AT.Lv15",
+  "name": "Sterelogue",
+  "preview": "https://phira.5wyxi.com/files/cf524ad1-c626-44d3-a87c-64f11ee423c3",
+  "ranked": false,
+  "rating": 0.7475916,
+  "ratingCount": 100,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-29T08:33:03.000259Z",
+  "uploader": 1078625
+}

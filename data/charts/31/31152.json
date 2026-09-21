@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:52Z",
+    "lastChanged": "2026-09-21T02:02:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-12-28T14:01:40.688003Z",
+  "charter": "Calepam",
+  "composer": "xi",
+  "created": "2024-12-28T14:01:40.688003Z",
+  "description": "(en) Add a new difficulty level, and a new solo chart is forthcoming. Thanks for playing.",
+  "difficulty": 17.400002,
+  "file": "https://phira.5wyxi.com/files/a23b79d6-7e85-4625-8739-31822bc8ea89",
+  "id": 31152,
+  "illustration": "https://phira.5wyxi.com/files/01b1f3c4-97a3-4225-943d-f2a0640f5a4b",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Freedom Dive",
+  "preview": "https://phira.5wyxi.com/files/e43035b3-1695-4d4b-b45e-7f6d0bc094a9",
+  "ranked": false,
+  "rating": 0.5190366,
+  "ratingCount": 198,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Ultra",
+    "regular"
+  ],
+  "updated": "2024-12-28T14:01:40.688003Z",
+  "uploader": 1397385
+}

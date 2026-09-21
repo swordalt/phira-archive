@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:20Z",
+    "lastChanged": "2026-09-21T02:04:20Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-12T21:34:06.321279Z",
+  "charter": "FlowerGod",
+  "composer": "Camellia",
+  "created": "2026-02-12T21:34:06.321279Z",
+  "description": "一张极致混乱的铺面，同时考验底力与读谱，拥有极高难度和特殊的多押机制。",
+  "difficulty": 18.0,
+  "file": "https://phira.5wyxi.com/files/68953472-3517-43f3-8bb8-e515e7e2edf0",
+  "id": 52525,
+  "illustration": "https://phira.5wyxi.com/files/9466ba2a-4168-43e4-b1cb-8666368d7783",
+  "illustrator": "",
+  "level": "混",
+  "name": "QuomodocunquizE",
+  "preview": "https://phira.5wyxi.com/files/7748e2df-1202-41b6-b8a6-289c4d662914",
+  "ranked": false,
+  "rating": 0.7204941,
+  "ratingCount": 119,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "最高8K",
+    "混乱",
+    "极高难度",
+    "regular"
+  ],
+  "updated": "2026-02-22T01:48:41.137822Z",
+  "uploader": 41420
+}

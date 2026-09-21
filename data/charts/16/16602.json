@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:01Z",
+    "lastChanged": "2026-09-21T02:02:01Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-02T04:05:59.443214Z",
+  "charter": "灰鸪",
+  "composer": "Reku Mochizuki",
+  "created": "2024-03-02T04:05:59.443214Z",
+  "description": "再改谱，把一些卡手的配置改掉力，但是尾杀不知道怎么改（逃）特效什么的不会写所以还是那样辣眼（悲）",
+  "difficulty": 15.700003,
+  "file": "https://phira.5wyxi.com/files/beedc320-ba9e-4f67-bf4f-5f43fef6a250",
+  "id": 16602,
+  "illustration": "https://phira.5wyxi.com/files/b0a81527-4834-4f6d-90f4-f8132509bf8c",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "VorpAlize",
+  "preview": "https://phira.5wyxi.com/files/fbff3cfa-efe6-47a6-afd2-08235906ba74",
+  "ranked": false,
+  "rating": 0.8505272,
+  "ratingCount": 155,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-03-02T04:05:59.443214Z",
+  "uploader": 22533
+}

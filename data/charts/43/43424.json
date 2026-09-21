@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:36Z",
+    "lastChanged": "2026-09-21T02:03:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-02T03:08:51.820505Z",
+  "charter": "FET",
+  "composer": "WolF.R  &  节奏大师",
+  "created": "2025-08-02T03:08:51.820505Z",
+  "description": "谱面由本人制作并发布，接近纯配置，没有拆谱或倒打，4k",
+  "difficulty": 16.400002,
+  "file": "https://phira.5wyxi.com/files/7698b477-b80d-4eec-8378-cd252398c4be",
+  "id": 43424,
+  "illustration": "https://phira.5wyxi.com/files/e20ef9e1-3e25-4a5b-b24e-a54cb1d8c8a0",
+  "illustrator": "",
+  "level": "16.4   4k",
+  "name": "雪愿",
+  "preview": "https://phira.5wyxi.com/files/1ecd36cc-1b44-4286-82f1-bcd72850d348",
+  "ranked": false,
+  "rating": 0.9307534,
+  "ratingCount": 923,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-02T03:08:51.820505Z",
+  "uploader": 1396873
+}

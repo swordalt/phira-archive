@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:28Z",
+    "lastChanged": "2026-09-21T02:02:28Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-01T14:05:03.417427Z",
+  "charter": "EfiLF1y",
+  "composer": "Teikyou",
+  "created": "2024-08-01T14:05:03.417427Z",
+  "description": "谱师：@悠原EfiLF1y",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/de687244-137f-49ee-83fc-cfda9afc27ba",
+  "id": 24965,
+  "illustration": "https://phira.5wyxi.com/files/43bc78eb-0720-4fc1-a390-be3703e88830",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "!!New Game Start!!",
+  "preview": "https://phira.5wyxi.com/files/b5ae58c0-ef17-45ef-a6f8-93291167f24c",
+  "ranked": false,
+  "rating": 0.82479054,
+  "ratingCount": 49,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "YOSE2024",
+    "星时杯",
+    "游音YOYYIN",
+    "regular"
+  ],
+  "updated": "2024-08-01T14:05:03.417427Z",
+  "uploader": 818
+}

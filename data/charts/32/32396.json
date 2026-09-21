@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:58Z",
+    "lastChanged": "2026-09-21T02:02:58Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-25T02:34:43.841102Z",
+  "charter": "Seromethiopia",
+  "composer": "Loki/Thaehan",
+  "created": "2025-01-25T02:34:43.841102Z",
+  "description": "3小时速写\n预期评分3.5到4 现在看来差不多",
+  "difficulty": 15.099998,
+  "file": "https://phira.5wyxi.com/files/3fd37c52-6af1-4d57-9dad-3f9afe3950dc",
+  "id": 32396,
+  "illustration": "https://phira.5wyxi.com/files/d2b2e6c5-7d6a-4fd0-a8ff-dabc50d42015",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Superpower",
+  "preview": "https://phira.5wyxi.com/files/1197ea9c-c46b-4494-bdd3-2e1ae16f304a",
+  "ranked": false,
+  "rating": 0.8573503,
+  "ratingCount": 35,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-01-27T04:25:27.514566Z",
+  "uploader": 502569
+}

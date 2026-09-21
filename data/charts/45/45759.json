@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:45Z",
+    "lastChanged": "2026-09-21T02:03:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-26T12:11:32.983933Z",
+  "charter": "Aoer",
+  "composer": "-45",
+  "created": "2025-08-26T12:11:32.983933Z",
+  "description": "尾杀叠有点难，但是我3dan这尾杀一小时全p一次，而且配置排列已经削得很厉害了。18.7往上，可能有19.0。没什么初见杀了，所以喷轻点。",
+  "difficulty": 18.7,
+  "file": "https://phira.5wyxi.com/files/3356c411-771e-4a8d-b38d-082c7f12d924",
+  "id": 45759,
+  "illustration": "https://phira.5wyxi.com/files/d103db02-8b3c-4e99-9a4c-4846caf8581b",
+  "illustrator": "",
+  "level": "AT 18+",
+  "name": "Total eclipse of the sun",
+  "preview": "https://phira.5wyxi.com/files/75b62675-3a07-4150-85c6-6072877e6068",
+  "ranked": false,
+  "rating": 0.90978515,
+  "ratingCount": 50,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "-45",
+    "叠",
+    "regular"
+  ],
+  "updated": "2025-08-26T12:11:32.983933Z",
+  "uploader": 455
+}

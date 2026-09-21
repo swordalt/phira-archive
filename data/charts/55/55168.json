@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:34Z",
+    "lastChanged": "2026-09-21T02:04:34Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-06T06:23:45.188205Z",
+  "charter": "ziyang_51571",
+  "composer": "Silentroom",
+  "created": "2026-04-06T06:23:45.188205Z",
+  "description": " 初见可能会特别难..请做好心理准备.   本人上传，B站同名，0pj参赛谱面。有很多不足，还请各位多多指教！ 相比会场版本修改了部分配置。游玩版本为全比例适配更改了部分实现，后半段的横向长条会与B站视频演示有些许差异（非16:9下长条打击后会略微变暗）为此修了二十多版所以抱歉耽误了不少时间上传orz，希望大伙能玩得开心！  哦对了，谱面结尾某表演在16:9、605:417 和 4:3下会呈现略微不同的效果，感兴趣可以试试看哦.  根据普遍反馈将定数上调至15",
+  "difficulty": 15.100004,
+  "file": "https://phira.5wyxi.com/files/bb0580b2-baaf-479e-ba50-67a50e3ffdae",
+  "id": 55168,
+  "illustration": "https://phira.5wyxi.com/files/ad3295fe-3050-45f6-9ace-b8b7240c2ce5",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "Limen",
+  "preview": "https://phira.5wyxi.com/files/3af28e8f-bf08-4ee8-87ea-85dfc68ddd87",
+  "ranked": false,
+  "rating": 0.9010504,
+  "ratingCount": 2038,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-04-06T07:23:24.107941Z",
+  "uploader": 382375
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:59Z",
+    "lastChanged": "2026-09-21T02:01:59Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-18T15:23:32.910052Z",
+  "charter": "TenE",
+  "composer": "Cheetah Mobile",
+  "created": "2024-02-18T15:23:32.910052Z",
+  "description": "初作",
+  "difficulty": 15.500021,
+  "file": "https://phira.5wyxi.com/files/389e3dc4-4b1f-49c4-bb0f-52e362a2a0e1",
+  "id": 16069,
+  "illustration": "https://phira.5wyxi.com/files/562f6589-fd4e-4ce5-a768-5eb4a5de2d5e",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Reindeers Gifts",
+  "preview": "https://phira.5wyxi.com/files/ef327859-4551-402b-b07d-c5ab536c6390",
+  "ranked": false,
+  "rating": 0.78311706,
+  "ratingCount": 82,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-09-19T02:33:49.029231Z",
+  "uploader": 296920
+}

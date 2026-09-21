@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:25Z",
+    "lastChanged": "2026-09-21T02:01:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-07T12:43:35.435543Z",
+  "charter": "twotthrees",
+  "composer": "t+pazolite",
+  "created": "2023-08-06T17:31:19.785026Z",
+  "description": "wjc参赛谱面",
+  "difficulty": 16.200005,
+  "file": "https://phira.5wyxi.com/files/fc6e173e-3e0e-462b-beb4-4903db53b319",
+  "id": 6982,
+  "illustration": "https://phira.5wyxi.com/files/366fa756-ddf5-4482-a5e2-00bd1f9c9f3f",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Contrapasso -paradiso-",
+  "preview": "https://phira.5wyxi.com/files/7e96ef0f-8ab5-4639-b39e-7655a6e841f4",
+  "ranked": true,
+  "rating": 0.9107171,
+  "ratingCount": 2567,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "maimai",
+    "regular"
+  ],
+  "updated": "2025-02-21T17:47:10.449806Z",
+  "uploader": 7679
+}

@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:37Z",
+    "lastChanged": "2026-09-21T02:03:37Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-05T11:46:00.453610Z",
+  "charter": "梦幻鸭子",
+  "composer": "HOYO-MIX",
+  "created": "2025-08-05T11:46:00.453610Z",
+  "description": "《崩坏·星穹铁道》角色「灵砂」PV曲《燎沉香》",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/a34216c8-b0df-4079-b22d-33bd801309c8",
+  "id": 43770,
+  "illustration": "https://phira.5wyxi.com/files/a7527fb6-44ab-4968-b560-c74d6e3e37d4",
+  "illustrator": "",
+  "level": "IN",
+  "name": "燎沉香",
+  "preview": "https://phira.5wyxi.com/files/13d36460-073b-4c27-bf57-d18a38745945",
+  "ranked": false,
+  "rating": 0.9181139,
+  "ratingCount": 547,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "崩坏星穹铁道",
+    "HOYO-MIX",
+    "灵砂",
+    "regular"
+  ],
+  "updated": "2025-08-05T11:46:00.453610Z",
+  "uploader": 1682522
+}

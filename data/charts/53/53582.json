@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:25Z",
+    "lastChanged": "2026-09-21T02:04:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-28T05:49:40.744856Z",
+  "charter": "XI - Golden Slime - X",
+  "composer": "answearingmachine",
+  "created": "2026-02-28T05:49:40.744856Z",
+  "description": "济南双指谱",
+  "difficulty": 16.500002,
+  "file": "https://phira.5wyxi.com/files/5df34b77-6649-41b0-ba08-b1c75cb956f0",
+  "id": 53582,
+  "illustration": "https://phira.5wyxi.com/files/b3dd78c3-5eb6-4fd3-8b7f-1414a6de8ddf",
+  "illustrator": "",
+  "level": "IN Lv.XI-X",
+  "name": "It Go",
+  "preview": "https://phira.5wyxi.com/files/838ebc65-b965-40f6-a459-25550f76f1ca",
+  "ranked": false,
+  "rating": 0.80799156,
+  "ratingCount": 196,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "冰与火之舞",
+    "regular"
+  ],
+  "updated": "2026-05-31T11:10:59.302802Z",
+  "uploader": 698580
+}

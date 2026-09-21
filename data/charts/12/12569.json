@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:39Z",
+    "lastChanged": "2026-09-21T02:05:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-17T04:12:02.776336Z",
+  "charter": "TTEW_",
+  "composer": "REDALiCE/cosMo@暴走P ",
+  "created": "2023-12-17T04:12:02.776336Z",
+  "description": null,
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/bcfd1322-cfd7-4941-99bc-efacd223b7b9",
+  "id": 12569,
+  "illustration": "https://phira.5wyxi.com/files/ea7433db-00e2-4cc5-ae82-1861cc8d7e1b",
+  "illustrator": "",
+  "level": "4K INFERNO Lv.29",
+  "name": "天使光輪",
+  "preview": "https://phira.5wyxi.com/files/ab25fad3-e4dd-4409-a6d5-abe9ad0523d7",
+  "ranked": false,
+  "rating": 0.9515774,
+  "ratingCount": 766,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "WACCA",
+    "plain"
+  ],
+  "updated": "2023-12-17T04:12:02.776336Z",
+  "uploader": 24090
+}

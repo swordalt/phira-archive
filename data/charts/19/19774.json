@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:12Z",
+    "lastChanged": "2026-09-21T02:02:12Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-10T10:34:53.878486Z",
+  "charter": "Shiv",
+  "composer": "sasakure.UK",
+  "created": "2024-05-10T10:34:53.878486Z",
+  "description": "第一次正经写谱投phira，写的不好是正常的（有不少还原bga的内容",
+  "difficulty": 14.799998,
+  "file": "https://phira.5wyxi.com/files/f57767f4-ecd1-4a62-9cd6-9a8bd5253275",
+  "id": 19774,
+  "illustration": "https://phira.5wyxi.com/files/9cf3eacf-d7fb-41f2-904c-3e94919ed209",
+  "illustrator": "",
+  "level": "IN.14",
+  "name": "蜘蛛糸モノポリー",
+  "preview": "https://phira.5wyxi.com/files/9e626bd2-319e-4631-af0f-14462eacac9f",
+  "ranked": false,
+  "rating": 0.9304998,
+  "ratingCount": 4247,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-05-19T04:19:34.283262Z",
+  "uploader": 71560
+}

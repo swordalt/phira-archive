@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:45Z",
+    "lastChanged": "2026-09-21T02:04:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-30T05:31:54.140984Z",
+  "charter": "Lxe.",
+  "composer": "ueotan",
+  "created": "2026-05-30T05:31:54.140984Z",
+  "description": "本人重投，修改了流速",
+  "difficulty": 18.6,
+  "file": "https://phira.5wyxi.com/files/7f814a37-c2d6-4031-bcd1-6ef4ab44db7d",
+  "id": 59468,
+  "illustration": "https://phira.5wyxi.com/files/f7a381fb-f728-42c0-a9b5-b6cffee7ecd2",
+  "illustrator": "",
+  "level": "AT LV.18",
+  "name": "Mario Paint",
+  "preview": "https://phira.5wyxi.com/files/2e5cb0c8-abde-4f9c-ab07-b5cac3026fcb",
+  "ranked": false,
+  "rating": 0.7632685,
+  "ratingCount": 14,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指高难",
+    "regular"
+  ],
+  "updated": "2026-05-30T05:31:54.140984Z",
+  "uploader": 1461218
+}

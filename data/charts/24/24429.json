@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:27Z",
+    "lastChanged": "2026-09-21T02:02:27Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-26T14:55:06.907632Z",
+  "charter": "zhudyfox",
+  "composer": "Sakuzyo",
+  "created": "2024-07-26T14:55:06.907632Z",
+  "description": "双指16，个人定数16.6，打完能得腱鞘炎的那种            注：BPM:270",
+  "difficulty": 16.600002,
+  "file": "https://phira.5wyxi.com/files/2b81c9da-542b-4766-9e0f-59c2383bf1e8",
+  "id": 24429,
+  "illustration": "https://phira.5wyxi.com/files/6653197e-2e55-4987-b893-f931117cd103",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Ultimate Force",
+  "preview": "https://phira.5wyxi.com/files/8958566e-1ba5-4933-a623-593856b9c216",
+  "ranked": false,
+  "rating": 0.88736206,
+  "ratingCount": 256,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-07-26T14:55:06.907632Z",
+  "uploader": 10007
+}

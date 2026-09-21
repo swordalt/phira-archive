@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:00Z",
+    "lastChanged": "2026-09-21T02:02:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-21T16:30:41.871539Z",
+  "charter": "Henry_in_out",
+  "composer": "Kikuo",
+  "created": "2024-02-21T16:30:41.871539Z",
+  "description": null,
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/52fbbcb9-7edc-48ff-9508-1ad377d4b2cd",
+  "id": 16237,
+  "illustration": "https://phira.5wyxi.com/files/395ebe36-14ed-427f-b05a-f13c3f298c39",
+  "illustrator": "",
+  "level": "IN 13",
+  "name": "Searching for Your Love",
+  "preview": "https://phira.5wyxi.com/files/3979e9b3-b472-4bca-9ee2-5755e045159d",
+  "ranked": false,
+  "rating": 0.89297086,
+  "ratingCount": 142,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-02-21T16:30:41.871539Z",
+  "uploader": 6816
+}

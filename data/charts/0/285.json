@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:05Z",
+    "lastChanged": "2026-09-21T02:01:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-04-02T08:24:52.826382Z",
+  "charter": "CWind_凛风",
+  "composer": "xi",
+  "created": "2023-04-02T08:24:52.826382Z",
+  "description": "谱师本人上传谱面\r\n本谱面难度极高，请在自己的实力范围内酌情挑战，严禁发布低创作品！\r\n",
+  "difficulty": 17.100004,
+  "file": "https://phira.5wyxi.com/files/25a4c6d0-6cba-44fa-acf1-5884bdd3769b",
+  "id": 285,
+  "illustration": "https://phira.5wyxi.com/files/f56f6558-5cbd-4f4b-9e36-55e24d3391fe",
+  "illustrator": "",
+  "level": "AT Lv.17\r\n\r\n\r\n",
+  "name": "Quietus Ray",
+  "preview": "https://phira.5wyxi.com/files/b7198cb6-4a59-450a-931c-f7d8db55f10e",
+  "ranked": false,
+  "rating": 0.8808337,
+  "ratingCount": 643,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular",
+    "SDVX"
+  ],
+  "updated": "2023-05-20T14:10:49.135130Z",
+  "uploader": 1231
+}

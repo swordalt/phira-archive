@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:18Z",
+    "lastChanged": "2026-09-21T02:05:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-06-29T13:58:52.296563Z",
+  "charter": "2024040426 节奏医生",
+  "composer": "MYUKKE.",
+  "created": "2023-06-29T13:58:52.296563Z",
+  "description": "希望大家也喜欢我的正常作品，这次主要是为这个星期的另一个铺做的类似“新手教程”一样的东西\n说明：\n这是全屏判定，如果判定有问题，那应该是由于设备问题或Phira的多指断触造成的（快修BUG）\n另外为什么视频这么糊，那是因为Phira上传限制只有10M，我已经尽力维持这个范围内的最高画质了",
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/a8300c58-6f33-484f-b42a-88145fd941b6",
+  "id": 4286,
+  "illustration": "https://phira.5wyxi.com/files/68d4e924-5dd7-4e1c-b319-4d98fe940fab",
+  "illustrator": "",
+  "level": "R.D.",
+  "name": "【节奏医生】The 90's Decision",
+  "preview": "https://phira.5wyxi.com/files/e5314ed9-6779-412c-8640-ae4ef91aaf03",
+  "ranked": false,
+  "rating": 0.8758876,
+  "ratingCount": 199,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-06-29T13:58:52.296563Z",
+  "uploader": 13107
+}

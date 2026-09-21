@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:10Z",
+    "lastChanged": "2026-09-21T02:02:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-24T10:59:29.741330Z",
+  "charter": "CharredRout15",
+  "composer": "ああああ",
+  "created": "2024-04-29T13:57:00.773537Z",
+  "description": "【BOFXVII】ああああ - ∀",
+  "difficulty": 15.700003,
+  "file": "https://phira.5wyxi.com/files/c129157a-e32b-438b-ae61-ef491cce98fd",
+  "id": 19048,
+  "illustration": "https://phira.5wyxi.com/files/5dd4c29f-2155-468d-8818-7a8c1bb72b7b",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "∀",
+  "preview": "https://phira.5wyxi.com/files/154d8994-fa85-4c12-9633-e1fdb57eb543",
+  "ranked": false,
+  "rating": 0.92057186,
+  "ratingCount": 509,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "高难",
+    "regular"
+  ],
+  "updated": "2024-05-24T10:59:29.741330Z",
+  "uploader": 5695
+}

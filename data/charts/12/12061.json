@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:21Z",
+    "lastChanged": "2026-09-21T02:05:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-03T03:07:54.374740Z",
+  "charter": "Dusk",
+  "composer": "NceS",
+  "created": "2023-12-03T03:07:54.374740Z",
+  "description": null,
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/a56ecc2a-75ac-4d04-b17a-551fd0b9815d",
+  "id": 12061,
+  "illustration": "https://phira.5wyxi.com/files/1a5ed0b8-22f0-4beb-86c9-3e4c35357a36",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "Headache",
+  "preview": "https://phira.5wyxi.com/files/c5d952ce-66ff-42b8-a20d-9d297fd46b3d",
+  "ranked": false,
+  "rating": 0.87157196,
+  "ratingCount": 42,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Orzmic",
+    "troll"
+  ],
+  "updated": "2023-12-03T06:46:08.650521Z",
+  "uploader": 3375
+}

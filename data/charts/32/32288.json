@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:06Z",
+    "lastChanged": "2026-09-21T02:06:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-23T12:27:34.113087Z",
+  "charter": "woxianbaile",
+  "composer": "RIOT",
+  "created": "2025-01-23T12:27:34.113087Z",
+  "description": null,
+  "difficulty": 1.0,
+  "file": "https://phira.5wyxi.com/files/208324ab-625d-46b7-8f24-3f19c030bf8e",
+  "id": 32288,
+  "illustration": "https://phira.5wyxi.com/files/459ec610-7380-4e01-aa82-b82c5af0fa1f",
+  "illustrator": "",
+  "level": "ADOFAI Lv.21.1",
+  "name": "Overkill EX",
+  "preview": "https://phira.5wyxi.com/files/a30a40b6-648d-4031-8038-1692136c0e3e",
+  "ranked": false,
+  "rating": 0.9300229,
+  "ratingCount": 110,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "冰与火之舞",
+    "ADOFAI",
+    "adofai",
+    "plain"
+  ],
+  "updated": "2025-01-23T12:27:34.113087Z",
+  "uploader": 1084093
+}

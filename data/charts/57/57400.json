@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:39Z",
+    "lastChanged": "2026-09-21T02:04:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-01T02:20:27.793561Z",
+  "charter": "清羽LE",
+  "composer": "Kirara Magic",
+  "created": "2026-05-01T02:20:27.793561Z",
+  "description": "AT 17.2\n耗时31h\n5修",
+  "difficulty": 17.2,
+  "file": "https://phira.5wyxi.com/files/d82084c4-176b-4c5a-9051-a77f0922d527",
+  "id": 57400,
+  "illustration": "https://phira.5wyxi.com/files/3705676e-8cab-4397-a72b-4b48df81725e",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Ash",
+  "preview": "https://phira.5wyxi.com/files/2df377ba-8112-44da-a0a7-223265184270",
+  "ranked": false,
+  "rating": 0.7260622,
+  "ratingCount": 42,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-05-01T02:20:27.793561Z",
+  "uploader": 1996914
+}

@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:43Z",
+    "lastChanged": "2026-09-21T02:01:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-11-29T12:54:04.206946Z",
+  "charter": "Bradina",
+  "composer": "Feryquitous",
+  "created": "2023-11-29T12:54:04.206946Z",
+  "description": "本人上传；\nBilibili@albertoBradish；\n曲子经过谱师裁剪\n打前请阅：\n本谱面基于谱面物量=总事件量=372的目标前提下写出（别问为什么372，物量美学），总线数3线，为实验谱；\n谱面中有可以逃课的反手元素，怎么开心怎么玩\n此版本不含Phira无法识别的内容（贝塞尔曲线等），原版请私聊谱师",
+  "difficulty": 12.700003,
+  "file": "https://phira.5wyxi.com/files/58f820ba-ae73-481f-ac7f-91486fa3c925",
+  "id": 11918,
+  "illustration": "https://phira.5wyxi.com/files/6a01f0f5-4dfa-4e28-8ee3-b599f9db006b",
+  "illustrator": "",
+  "level": "IN  Lv.12",
+  "name": "Eltina",
+  "preview": "https://phira.5wyxi.com/files/92a7104e-510f-434a-8579-721e4f2f9203",
+  "ranked": false,
+  "rating": 0.9315913,
+  "ratingCount": 311,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "实验谱",
+    "裁剪版",
+    "反手",
+    "regular"
+  ],
+  "updated": "2023-11-29T12:54:04.206946Z",
+  "uploader": 11079
+}

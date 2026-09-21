@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:07Z",
+    "lastChanged": "2026-09-21T02:05:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-11T19:33:42.761434Z",
+  "charter": "E-labyrinth_",
+  "composer": "Lime",
+  "created": "2026-08-11T19:33:42.761434Z",
+  "description": "鬼使神差之下开了谱，那时候还没放暑假呢。配置好像早就写完了，这几天想着不能再继续拖下去了开始写动效，净用时约11h。\n既然是中二的歌那就写多指吧，想着这次一定要写AT16了，总之写这个就当玩中二的学习成果展示了。参考的部分不多，不过drop的三角切是故意还原的\n这一次呢用了一些没用过的功能，试着写了一点自己没写过的东西。比如那个生成曲线轨迹。一个暑假没看书了强行让我复习三角函数了。而且也感觉有进步了，我个人喜欢前半段！再接再厉吧\n因为写动效期间玩到了fremo的csqn，所以稍微学习了一点点嗯对。\n-\n谱面预览BV1G5u66tEMS\n-\nspecial thanks\nTAT_87 凳子 卡日 帮忙测谱定数\n一堆微信好友 给我的朋友圈点赞。这次人太多了就不写了。",
+  "difficulty": 16.500002,
+  "file": "https://phira.5wyxi.com/files/4b46c52f-19a8-4ef7-9d70-a9432e7e8089",
+  "id": 72828,
+  "illustration": "https://phira.5wyxi.com/files/8d4a9bba-d5de-4352-a84c-04f882cd75cd",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Crystallize",
+  "preview": "https://phira.5wyxi.com/files/47c11f1e-dcab-4610-a87d-6767c8f445ae",
+  "ranked": false,
+  "rating": 0.9493249,
+  "ratingCount": 325,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "chunithm",
+    "regular"
+  ],
+  "updated": "2026-08-11T19:33:42.761434Z",
+  "uploader": 24586
+}

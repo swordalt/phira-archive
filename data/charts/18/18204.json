@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:07Z",
+    "lastChanged": "2026-09-21T02:02:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-08T06:15:53.048715Z",
+  "charter": "LoGer",
+  "composer": "Yooh",
+  "created": "2024-04-08T06:15:53.048715Z",
+  "description": null,
+  "difficulty": 15.600002,
+  "file": "https://phira.5wyxi.com/files/3d108b4b-b505-4a7d-a59f-58854027cce4",
+  "id": 18204,
+  "illustration": "https://phira.5wyxi.com/files/d87733f0-d34a-46fd-8cf5-b20858d5c909",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Good bye, Merry-Go-Round.",
+  "preview": "https://phira.5wyxi.com/files/9f9adc15-6139-46ab-a210-eacdf820f86a",
+  "ranked": false,
+  "rating": 0.88747036,
+  "ratingCount": 694,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-04-08T06:15:53.048715Z",
+  "uploader": 9009
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:08Z",
+    "lastChanged": "2026-09-21T02:03:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-03-25T13:44:04.669325Z",
+  "charter": "近似值",
+  "composer": "なみぐる × メドミア",
+  "created": "2025-03-20T07:42:52.074233Z",
+  "description": "第三次上传，修改了一处手序错误，调整了部分配置",
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/613a49eb-f3b6-4917-8521-919003ab28e2",
+  "id": 35454,
+  "illustration": "https://phira.5wyxi.com/files/990dd73b-b91a-4641-85e7-b24a14fd8c84",
+  "illustrator": "",
+  "level": "NG Lv.12",
+  "name": "キッカイケッタイ",
+  "preview": "https://phira.5wyxi.com/files/6f46a6d2-3b91-43cc-8ffe-aa9689714256",
+  "ranked": false,
+  "rating": 0.93327606,
+  "ratingCount": 515,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-03-25T13:44:04.669325Z",
+  "uploader": 65
+}

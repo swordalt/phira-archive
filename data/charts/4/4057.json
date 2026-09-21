@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:17Z",
+    "lastChanged": "2026-09-21T02:01:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-06-25T02:20:55.148491Z",
+  "charter": "Salt×LDA",
+  "composer": "ダイナミック野球兄弟,クロスファイヤーPrim",
+  "created": "2023-06-25T02:20:55.148491Z",
+  "description": "这张谱面是由我和Salt共同完成的，其中我负责配置以及部分动效，Salt负责另一部分特效以及提供某些特效的想法（（\n\n另外，感谢飞飞XL提供的建议！\n\n这是我第一次正式开始制作Phigros谱面，期待大家的建议和意见\n\nTip: 四合院那段如果不会打的话可以全押糊哦~",
+  "difficulty": 16.4,
+  "file": "https://phira.5wyxi.com/files/fa0bfac6-da2b-487f-98e2-f5686cdd0dfc",
+  "id": 4057,
+  "illustration": "https://phira.5wyxi.com/files/6248821c-16e5-4f53-87c7-0ff19859d2b6",
+  "illustrator": "",
+  "level": "HARD Lv.16",
+  "name": "轟け！恋のビーンボール！",
+  "preview": "https://phira.5wyxi.com/files/2068310f-4cea-4322-a655-6ea58785f642",
+  "ranked": false,
+  "rating": 0.88774866,
+  "ratingCount": 218,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-06-25T02:20:55.148491Z",
+  "uploader": 62628
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:00Z",
+    "lastChanged": "2026-09-21T02:03:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-30T11:06:13.933080Z",
+  "charter": "C.Yg_Second fixed",
+  "composer": "Juggernaut.",
+  "created": "2025-01-30T11:06:13.933080Z",
+  "description": "自己的第二张谱，一次机缘巧合听到了这首曲子，感觉相当不错，遂写下这张谱。\n承诺谱师本人上传(bilibili@why-_-hehe)\n(虽然还是写的像那啥一样，经验不足，见谅。)\n\n|更新日志|\n第一次修改：优化整个谱面的排键、多指段调整为定轨4K、解决Note突脸、优化部分判定线演出\n第二次修改：重写/微调部分段落、修复手机端(屏幕比例为16:9以上)游玩时Note的错误显示问题\n\n后续会持续进行谱面优化\n如果对谱面有不满意的地方/对谱面修改的建议，可以随时在B站向我反馈，我会及时做出整改",
+  "difficulty": 15.600002,
+  "file": "https://phira.5wyxi.com/files/a3135d13-956e-4d51-ac8f-43cdc1ae3bce",
+  "id": 32898,
+  "illustration": "https://phira.5wyxi.com/files/b5ce7600-b0f9-47d5-9f98-206ba91ba758",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Memories",
+  "preview": "https://phira.5wyxi.com/files/5dec3cab-d245-453f-abff-0b2e8b5e7f87",
+  "ranked": false,
+  "rating": 0.887335,
+  "ratingCount": 344,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-01-30T11:06:13.933080Z",
+  "uploader": 949432
+}

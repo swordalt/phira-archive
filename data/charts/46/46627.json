@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:50Z",
+    "lastChanged": "2026-09-21T02:03:50Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-09T15:10:00.918845Z",
+  "charter": "Rising 橘风",
+  "composer": "TAG",
+  "created": "2025-09-09T15:10:00.918845Z",
+  "description": null,
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/8edb7f04-bf10-4fc1-95e2-e9c099d576df",
+  "id": 46627,
+  "illustration": "https://phira.5wyxi.com/files/c2f4e6f4-35aa-4a00-9915-8e14609cb36b",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Rising on the horizon",
+  "preview": "https://phira.5wyxi.com/files/6e4b49de-6f6c-4fa4-9dba-72d2137f5133",
+  "ranked": false,
+  "rating": 0.860539,
+  "ratingCount": 12,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-09T15:10:00.918845Z",
+  "uploader": 990886
+}

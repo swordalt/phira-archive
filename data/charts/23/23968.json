@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:25Z",
+    "lastChanged": "2026-09-21T02:02:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-21T09:01:00.344771Z",
+  "charter": "NEKOYO",
+  "composer": "ミツキヨ",
+  "created": "2024-07-21T09:01:00.344771Z",
+  "description": "曲名：Bunny Bunny Carrot Carrot\r\n曲师：ミツキヨ",
+  "difficulty": 14.400002,
+  "file": "https://phira.5wyxi.com/files/1f7c4617-44f4-4a5a-9e93-2b4c42cc3336",
+  "id": 23968,
+  "illustration": "https://phira.5wyxi.com/files/874c7133-b1dc-442c-9b07-79ed34d3d155",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Bunny Bunny Carrot Carrot",
+  "preview": "https://phira.5wyxi.com/files/c3cf80b0-5c49-4e64-8d5b-e39ef7c21093",
+  "ranked": false,
+  "rating": 0.9599158,
+  "ratingCount": 2429,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-07-21T09:01:00.344771Z",
+  "uploader": 1113315
+}

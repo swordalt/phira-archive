@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:35Z",
+    "lastChanged": "2026-09-21T02:05:35Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-06-01T10:59:52.258095Z",
+  "charter": "YUCInoback",
+  "composer": "EZFG",
+  "created": "2023-06-01T10:59:52.258095Z",
+  "description": "",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/f663fd0f-4d72-48be-b34e-6e88bfb41bc7",
+  "id": 2800,
+  "illustration": "https://phira.5wyxi.com/files/0293e1d5-f87e-440e-a130-d920602dba29",
+  "illustrator": "",
+  "level": "4k delta",
+  "name": "Totemo itai itagaritai",
+  "preview": "https://phira.5wyxi.com/files/deae146f-a105-4201-b67f-7ce400e21875",
+  "ranked": false,
+  "rating": 0.8312762,
+  "ratingCount": 69,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2023-06-01T14:14:02.477565Z",
+  "uploader": 1937
+}

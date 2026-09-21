@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:21Z",
+    "lastChanged": "2026-09-21T02:02:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-05T02:17:00.827078Z",
+  "charter": "XanoYu",
+  "composer": "RS1 Music Team",
+  "created": "2024-07-11T13:58:30.660103Z",
+  "description": "新人初铺，有待锐评\n修改1（2024.7.14）判定线下移，物量663→666\n修改2（2025.1.1）谱面重做，物量不变",
+  "difficulty": 13.800001,
+  "file": "https://phira.5wyxi.com/files/476ec694-1129-476f-a61e-1dffba297bdf",
+  "id": 23219,
+  "illustration": "https://phira.5wyxi.com/files/c32cc070-2ed3-4789-b25f-8856414a1cf5",
+  "illustrator": "",
+  "level": "HD Lv.13",
+  "name": "机械动力",
+  "preview": "https://phira.5wyxi.com/files/3fe959a6-e7bb-410d-9418-0032b8a549d9",
+  "ranked": false,
+  "rating": 0.87955916,
+  "ratingCount": 333,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-01-05T02:17:00.827078Z",
+  "uploader": 760530
+}

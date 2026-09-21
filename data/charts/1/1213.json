@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:08Z",
+    "lastChanged": "2026-09-21T02:01:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-05T13:45:26.386848Z",
+  "charter": "Suglarke",
+  "composer": "UK",
+  "created": "2023-05-05T13:45:26.386848Z",
+  "description": "谱师@SugLarke ，经谱师本人授权上传",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/59afb0e8-c08e-40f2-acd9-8318561dd05f",
+  "id": 1213,
+  "illustration": "https://phira.5wyxi.com/files/1411900d-5cd5-49d7-9ba6-5b5d6084f38e",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Orca",
+  "preview": "https://phira.5wyxi.com/files/35aa92a4-bff9-49b8-a8eb-db5e14c11431",
+  "ranked": false,
+  "rating": 0.91577995,
+  "ratingCount": 117,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-05-05T14:24:21.467919Z",
+  "uploader": 2291
+}

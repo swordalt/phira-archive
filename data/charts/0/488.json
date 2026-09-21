@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:05Z",
+    "lastChanged": "2026-09-21T02:01:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-04-12T08:17:03.290779Z",
+  "charter": "XuaN",
+  "composer": "Laura Shigihara",
+  "created": "2023-04-12T08:17:03.290779Z",
+  "description": "有轻微显示错误，不影响游玩/授权上传/谱师b站id：SimPliCity/2022.1.26 我发布了这首曲子的第一版谱面，后来经过修改有了第二版。但当时由于在谱面中使用了大量fake note以及XY事件没有绑定的原因不能导出并游玩。原谱面（初版和改版）：BV1UY411b7Pp 2023.1 26 刚好一年过去，在此我寻求了各方意见和建议，将该谱面重新制作，并将谱面文件一并公开，供各位游玩。 借此感谢各位对该谱面的喜爱。",
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/28c0f05b-7f2c-4b67-a2b5-e3acca3deeca",
+  "id": 488,
+  "illustration": "https://phira.5wyxi.com/files/388e47ca-a5be-4223-86fc-c28bdeef271a",
+  "illustrator": "UK",
+  "level": "IN",
+  "name": "Brainiac Maniac (Re)",
+  "preview": "https://phira.5wyxi.com/files/456cc214-ffeb-4bed-82b1-61a07164963d",
+  "ranked": false,
+  "rating": 0.89829284,
+  "ratingCount": 5882,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-04-12T08:17:03.290779Z",
+  "uploader": 141
+}

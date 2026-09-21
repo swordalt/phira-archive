@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:04Z",
+    "lastChanged": "2026-09-21T02:05:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-31T12:21:38.634915Z",
+  "charter": "8KUHD",
+  "composer": "ETIA.",
+  "created": "2026-07-31T12:21:38.634915Z",
+  "description": "该谱面为 WSRT x 云梦杯 比赛供谱\n首次登场于【沉坠•破晓】16进8淘汰赛第六场\n@Karlott#44",
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/47f39ae8-4a02-453d-ad2a-998be388f910",
+  "id": 70351,
+  "illustration": "https://phira.5wyxi.com/files/acf2864c-2de8-4eeb-a3a6-e6fcb9decc7d",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Gryphone",
+  "preview": "https://phira.5wyxi.com/files/8d8b08a5-9aae-43f2-8415-30985410c06f",
+  "ranked": false,
+  "rating": 0.9435299,
+  "ratingCount": 67,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-31T12:21:38.634915Z",
+  "uploader": 99
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:07Z",
+    "lastChanged": "2026-09-21T02:01:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-01T11:11:48.961611Z",
+  "charter": "御原智乃",
+  "composer": "MisomyL",
+  "created": "2023-05-01T11:11:48.961611Z",
+  "description": null,
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/f6086cf0-bc69-46f5-916f-a28a3df5a378",
+  "id": 963,
+  "illustration": "https://phira.5wyxi.com/files/5f1013dc-ce2c-4917-8eaf-45a83096eeda",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Amnéhilesie",
+  "preview": "https://phira.5wyxi.com/files/ce3784d7-36bf-4987-8f3f-59704d4fab58",
+  "ranked": true,
+  "rating": 0.9229157,
+  "ratingCount": 4565,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-09-25T15:12:41.078104Z",
+  "uploader": 352
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:28Z",
+    "lastChanged": "2026-09-21T02:01:28Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-21T06:17:53.555604Z",
+  "charter": "Chatterbox",
+  "composer": "t+pazolite",
+  "created": "2023-08-21T06:17:53.555604Z",
+  "description": "本人上传\n谱面预览 BV1r841197ZW",
+  "difficulty": 15.400001,
+  "file": "https://phira.5wyxi.com/files/19e32c3a-7b74-4551-8a6b-c3e779b92982",
+  "id": 8127,
+  "illustration": "https://phira.5wyxi.com/files/4fb921b1-91fc-4e08-b97d-55d2d2049ca3",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Prism Fountain",
+  "preview": "https://phira.5wyxi.com/files/1e99d3b1-739e-48ba-bebe-90cde187a039",
+  "ranked": true,
+  "rating": 0.9159807,
+  "ratingCount": 8408,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-12-05T14:33:11.724499Z",
+  "uploader": 120303
+}

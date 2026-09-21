@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:52Z",
+    "lastChanged": "2026-09-21T02:02:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-12-28T11:21:43.973118Z",
+  "charter": "ASDFCVBNHJKL",
+  "composer": "Jinjin",
+  "created": "2024-12-28T11:21:43.973118Z",
+  "description": null,
+  "difficulty": 1.8000001,
+  "file": "https://phira.5wyxi.com/files/cc78e71d-23aa-4360-9695-ec21b31c7bd4",
+  "id": 31137,
+  "illustration": "https://phira.5wyxi.com/files/fc8c2405-5ac9-444d-a2d7-ca635cb189d9",
+  "illustrator": "",
+  "level": "EZ Lv.1",
+  "name": "pi",
+  "preview": "https://phira.5wyxi.com/files/8f9600d5-10ce-412a-93f3-19a11243c5e0",
+  "ranked": false,
+  "rating": 0.9206631,
+  "ratingCount": 778,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-12-28T11:21:43.973118Z",
+  "uploader": 524307
+}

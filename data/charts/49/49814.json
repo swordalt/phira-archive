@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:05Z",
+    "lastChanged": "2026-09-21T02:04:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-05T05:29:13.266399Z",
+  "charter": "Mujisama",
+  "composer": "Synthion",
+  "created": "2025-12-05T05:29:13.266399Z",
+  "description": "谱师本人上传 此谱面为5thWJC参赛谱面   1.15 更新谱面信息，更改谱面定数",
+  "difficulty": 15.500002,
+  "file": "https://phira.5wyxi.com/files/29ecf094-4ed8-41e3-b337-00e5be9cf710",
+  "id": 49814,
+  "illustration": "https://phira.5wyxi.com/files/32490259-bb55-4591-8dfc-df1bec57764a",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "cyanotype",
+  "preview": "https://phira.5wyxi.com/files/c2f3d54b-b005-4c25-968c-f7400b4723d7",
+  "ranked": false,
+  "rating": 0.9628077,
+  "ratingCount": 1188,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "5thWJC",
+    "regular"
+  ],
+  "updated": "2026-01-15T15:19:00.796922Z",
+  "uploader": 3742
+}

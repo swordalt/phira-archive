@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:26Z",
+    "lastChanged": "2026-09-21T02:04:26Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-02T05:37:11.263173Z",
+  "charter": "エメラルト",
+  "composer": "ADA",
+  "created": "2026-03-02T05:37:11.263173Z",
+  "description": "BV1sSPMzdELe 本人上传",
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/f51eac37-562e-47ae-974a-97c8e3580b43",
+  "id": 53717,
+  "illustration": "https://phira.5wyxi.com/files/e50b48f0-dcb9-4cfa-88a3-6da43e953402",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Emeralda",
+  "preview": "https://phira.5wyxi.com/files/116f02fd-51e5-4e23-a027-75228ff648da",
+  "ranked": false,
+  "rating": 0.91798097,
+  "ratingCount": 215,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-03-02T05:37:11.263173Z",
+  "uploader": 1075789
+}

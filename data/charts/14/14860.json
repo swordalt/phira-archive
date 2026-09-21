@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:41Z",
+    "lastChanged": "2026-09-21T02:05:41Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-05T14:16:55.565034Z",
+  "charter": "adk-17",
+  "composer": "Reku Mochizuki",
+  "created": "2024-02-05T14:16:55.565034Z",
+  "description": "先前那张谱子的修改版，主要调整了谱面的流速及配置，如果仍不满意，欢迎继续打低分，我会继续修正。",
+  "difficulty": 27.0,
+  "file": "https://phira.5wyxi.com/files/490da614-0e3e-4d04-9879-b11d3d2046e6",
+  "id": 14860,
+  "illustration": "https://phira.5wyxi.com/files/7f49f766-c4a5-45cb-8a4a-b904358b6745",
+  "illustrator": "",
+  "level": "4K Lv.27",
+  "name": "Ops:Limone",
+  "preview": "https://phira.5wyxi.com/files/2b734d0c-4bed-4966-805c-766dbd398469",
+  "ranked": false,
+  "rating": 0.96011513,
+  "ratingCount": 1684,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4k",
+    "plain"
+  ],
+  "updated": "2024-02-05T14:16:55.565034Z",
+  "uploader": 21992
+}

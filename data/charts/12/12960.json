@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:46Z",
+    "lastChanged": "2026-09-21T02:01:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-30T04:32:37.109191Z",
+  "charter": "UTSN",
+  "composer": "LeaF",
+  "created": "2023-12-30T04:32:37.109191Z",
+  "description": ":)",
+  "difficulty": 17.3,
+  "file": "https://phira.5wyxi.com/files/618d3abe-0ec9-4243-a5ee-2d5a233db7be",
+  "id": 12960,
+  "illustration": "https://phira.5wyxi.com/files/d2c07b1b-74be-47df-80c9-c7fdffa5361e",
+  "illustrator": "",
+  "level": "EX Lv.17",
+  "name": "I",
+  "preview": "https://phira.5wyxi.com/files/e387f94c-2c7f-4a8b-885a-d3194b405393",
+  "ranked": false,
+  "rating": 0.8545401,
+  "ratingCount": 255,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "storyboard",
+    "regular"
+  ],
+  "updated": "2023-12-30T11:35:30.709536Z",
+  "uploader": 553479
+}

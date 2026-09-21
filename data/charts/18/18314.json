@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:07Z",
+    "lastChanged": "2026-09-21T02:02:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-11T21:02:42.332710Z",
+  "charter": "Kuttate",
+  "composer": "Subtact",
+  "created": "2024-04-11T21:02:42.332710Z",
+  "description": "en-US wake up new storyboard chart..",
+  "difficulty": 13.600001,
+  "file": "https://phira.5wyxi.com/files/20605148-b4f8-4b56-877b-f445a773e974",
+  "id": 18314,
+  "illustration": "https://phira.5wyxi.com/files/e9937057-5f98-4fef-999d-24498ea4c4b0",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "Tunnel Vision",
+  "preview": "https://phira.5wyxi.com/files/c62e77b6-31c7-4caf-9e24-b958ea494596",
+  "ranked": false,
+  "rating": 0.90138716,
+  "ratingCount": 124,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "shader",
+    "storyboard",
+    "故事板",
+    "regular"
+  ],
+  "updated": "2024-04-11T21:02:42.332710Z",
+  "uploader": 429016
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:10Z",
+    "lastChanged": "2026-09-21T02:03:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-02T14:49:02.797259Z",
+  "charter": "Greenmint",
+  "composer": "they",
+  "created": "2025-04-02T14:49:02.797259Z",
+  "description": null,
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/6e5d6348-0698-498c-adb0-5568ed6bd9c2",
+  "id": 36041,
+  "illustration": "https://phira.5wyxi.com/files/d010f83e-1eba-4a83-bd6f-c8cd021e574d",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "my (new) beginning",
+  "preview": "https://phira.5wyxi.com/files/129799c8-e9df-4a8c-9552-31e9349d3250",
+  "ranked": false,
+  "rating": 0.8491443,
+  "ratingCount": 9,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-04-02T14:49:02.797259Z",
+  "uploader": 980780
+}

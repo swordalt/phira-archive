@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:30Z",
+    "lastChanged": "2026-09-21T02:01:30Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-31T12:18:20.359329Z",
+  "charter": "罕见见&GoldenGlowFanboy",
+  "composer": "wakadori",
+  "created": "2023-08-31T12:18:20.359329Z",
+  "description": null,
+  "difficulty": 15.200002,
+  "file": "https://phira.5wyxi.com/files/b8ca5295-62a6-44e7-a047-2cd8a6651a88",
+  "id": 8881,
+  "illustration": "https://phira.5wyxi.com/files/7ba3fd8f-e23e-4bcb-bb45-2385a4f4995e",
+  "illustrator": "",
+  "level": "IN",
+  "name": "NightTheater",
+  "preview": "https://phira.5wyxi.com/files/bab80b11-674a-4e6b-8a96-a83a81211404",
+  "ranked": false,
+  "rating": 0.8973486,
+  "ratingCount": 331,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "BOF2020",
+    "regular"
+  ],
+  "updated": "2023-08-31T12:18:20.359329Z",
+  "uploader": 301
+}

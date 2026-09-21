@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:21Z",
+    "lastChanged": "2026-09-21T02:03:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-01T16:41:04.117158Z",
+  "charter": "音游迷",
+  "composer": "m-taku",
+  "created": "2025-06-01T16:41:04.117158Z",
+  "description": "本人创作",
+  "difficulty": 15.300001,
+  "file": "https://phira.5wyxi.com/files/9ace0265-fe9b-471e-8eb3-e8ed53f4f9dd",
+  "id": 39108,
+  "illustration": "https://phira.5wyxi.com/files/4114eaea-e301-4e46-9c0c-7274640e242d",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "komorebi",
+  "preview": "https://phira.5wyxi.com/files/cadbbf92-507a-43bf-b09a-9253d63018d8",
+  "ranked": false,
+  "rating": 0.8989633,
+  "ratingCount": 552,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-06-01T16:41:04.117158Z",
+  "uploader": 1638340
+}

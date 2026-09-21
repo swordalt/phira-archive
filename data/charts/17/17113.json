@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:03Z",
+    "lastChanged": "2026-09-21T02:02:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-14T12:48:00.955294Z",
+  "charter": "A_zz",
+  "composer": "Auein",
+  "created": "2024-03-14T12:48:00.955294Z",
+  "description": "修正版",
+  "difficulty": 12.900003,
+  "file": "https://phira.5wyxi.com/files/8374045e-0b7c-4463-b06b-d786064739e8",
+  "id": 17113,
+  "illustration": "https://phira.5wyxi.com/files/9d7e5716-7c10-443e-9721-ff4a29487fdb",
+  "illustrator": "",
+  "level": "Cute Lv.999+",
+  "name": "Cute",
+  "preview": "https://phira.5wyxi.com/files/3d092b0f-16af-4d3e-9abb-2acfd6e55e0f",
+  "ranked": false,
+  "rating": 0.8775086,
+  "ratingCount": 900,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-03-14T12:48:00.955294Z",
+  "uploader": 813257
+}

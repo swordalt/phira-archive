@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:09Z",
+    "lastChanged": "2026-09-21T02:02:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-18T12:33:14.918940Z",
+  "charter": "凌雨",
+  "composer": "doriko",
+  "created": "2024-04-18T12:33:14.918940Z",
+  "description": "谱师本人，可能实际上没有14（）",
+  "difficulty": 13.9,
+  "file": "https://phira.5wyxi.com/files/2682e64c-df94-4745-8ade-aa3a60c66bd5",
+  "id": 18609,
+  "illustration": "https://phira.5wyxi.com/files/28824a80-75e9-45e9-a1e1-6d625f3c0c5a",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "ロミオとシンデレラ",
+  "preview": "https://phira.5wyxi.com/files/aecd5bf2-cfc3-4857-9c7d-7fe33345158c",
+  "ranked": false,
+  "rating": 0.94197226,
+  "ratingCount": 1374,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-04-18T12:33:14.918940Z",
+  "uploader": 807455
+}

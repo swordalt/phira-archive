@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:58Z",
+    "lastChanged": "2026-09-21T02:03:58Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-20T10:07:04.965805Z",
+  "charter": "CHNHenry",
+  "composer": "ピクド/足立レイ",
+  "created": "2025-10-20T10:07:04.965805Z",
+  "description": null,
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/601634fd-92bf-40a1-85ce-ccd0318d61fa",
+  "id": 48251,
+  "illustration": "https://phira.5wyxi.com/files/3cbe6073-9a07-47d1-9e20-b4b9f05db98d",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "パンこげこげになっちゃった",
+  "preview": "https://phira.5wyxi.com/files/cfc9c959-d163-49a8-a4a4-4a88258cc5ac",
+  "ranked": false,
+  "rating": 0.95148814,
+  "ratingCount": 1850,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-10-20T10:07:04.965805Z",
+  "uploader": 325296
+}

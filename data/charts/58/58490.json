@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:42Z",
+    "lastChanged": "2026-09-21T02:04:42Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-16T09:52:08.063115Z",
+  "charter": "HERLI",
+  "composer": "Li Ga Yb",
+  "created": "2026-05-16T09:52:08.063115Z",
+  "description": null,
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/95593668-6160-4ae4-99b6-8315c109e034",
+  "id": 58490,
+  "illustration": "https://phira.5wyxi.com/files/59810d73-0c1b-4210-ba42-0617e1961bcc",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Valley",
+  "preview": "https://phira.5wyxi.com/files/0125c728-b2cb-4fb7-ad08-79a231627c2b",
+  "ranked": false,
+  "rating": 0.8243802,
+  "ratingCount": 8,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-05-16T09:52:08.063115Z",
+  "uploader": 1610418
+}

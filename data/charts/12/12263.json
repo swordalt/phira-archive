@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:44Z",
+    "lastChanged": "2026-09-21T02:01:44Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-09T03:33:10.547403Z",
+  "charter": "DwaY",
+  "composer": "BlackY",
+  "created": "2023-12-09T03:33:10.547403Z",
+  "description": "还行",
+  "difficulty": 15.400001,
+  "file": "https://phira.5wyxi.com/files/14aa8215-90cc-4a82-b59e-71326e4bf46e",
+  "id": 12263,
+  "illustration": "https://phira.5wyxi.com/files/8e49fd31-78d7-440e-8553-ed24b6b1b153",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Swing Edge",
+  "preview": "https://phira.5wyxi.com/files/74e8ecab-e51e-4c8f-b4b5-ad7e5463effd",
+  "ranked": true,
+  "rating": 0.8895179,
+  "ratingCount": 1947,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "MuseDash",
+    "regular"
+  ],
+  "updated": "2023-12-09T03:33:10.547403Z",
+  "uploader": 10971
+}

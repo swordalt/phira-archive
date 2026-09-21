@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:28Z",
+    "lastChanged": "2026-09-21T02:03:28Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-12T08:36:33.902176Z",
+  "charter": "mgr_",
+  "composer": "xi",
+  "created": "2025-07-12T08:36:33.902176Z",
+  "description": null,
+  "difficulty": 15.900002,
+  "file": "https://phira.5wyxi.com/files/70f2805c-6c12-48fa-bf69-053149209064",
+  "id": 41489,
+  "illustration": "https://phira.5wyxi.com/files/fb8b49be-109b-49ed-8548-552584e3187d",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Per Aspera Ad Astra",
+  "preview": "https://phira.5wyxi.com/files/32819c88-4d59-48f8-87de-6ac517f594b2",
+  "ranked": false,
+  "rating": 0.9419563,
+  "ratingCount": 283,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-07-12T08:36:33.902176Z",
+  "uploader": 4706
+}

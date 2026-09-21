@@ -1,0 +1,40 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:57Z",
+    "lastChanged": "2026-09-21T02:06:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-05T15:05:48.018442Z",
+  "charter": "HRS-Team",
+  "composer": "KARUT",
+  "created": "2026-07-05T15:05:48.018442Z",
+  "description": "HRS-Lv.1-Pattern单曲",
+  "difficulty": 1.7000002,
+  "file": "https://phira.5wyxi.com/files/15cd6a75-718b-47ee-b5d5-a38893e252ea",
+  "id": 64341,
+  "illustration": "https://phira.5wyxi.com/files/e44e99a0-05c0-446d-a1a7-64f0964d3578",
+  "illustrator": "",
+  "level": "Pattern",
+  "name": "Dark Shadows",
+  "preview": "https://phira.5wyxi.com/files/6887007c-4f39-45ec-83a6-6ad522a32b12",
+  "ranked": false,
+  "rating": 0.8962857,
+  "ratingCount": 48,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "HRS",
+    "双指",
+    "谐律段位",
+    "1",
+    "Pattern",
+    "瞬",
+    "plain"
+  ],
+  "updated": "2026-07-05T15:05:48.018442Z",
+  "uploader": 2764605
+}

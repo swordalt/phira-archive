@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:38Z",
+    "lastChanged": "2026-09-21T02:04:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-26T16:18:09.091933Z",
+  "charter": "LPI .vs.BoErN",
+  "composer": "Daily天利 Roon_kun",
+  "created": "2026-04-26T16:18:09.091933Z",
+  "description": "26.4.26第一次上传\n加入解锁动画（tip0.7.0前的版本开启解锁动画会导致出现音频撕裂，建议更新游戏版本）\n谱师本人上传，谱师双方均同意上传\n感谢@羽梦明#120（表演） 为谱面修改表演\n感谢@LPI_#7084（合作） 与我合作制谱",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/aa848abc-befc-4754-aa55-bf9759ba24e5",
+  "id": 57211,
+  "illustration": "https://phira.5wyxi.com/files/44319931-dc11-49d6-b937-c305d8cf9c20",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Ρoppy",
+  "preview": "https://phira.5wyxi.com/files/4f6173ee-7b7a-4102-97c2-314ae2ebe064",
+  "ranked": false,
+  "rating": 0.9155312,
+  "ratingCount": 240,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-04-27T03:58:13.731075Z",
+  "uploader": 1311771
+}

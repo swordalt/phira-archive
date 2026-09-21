@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:39Z",
+    "lastChanged": "2026-09-21T02:02:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-09-08T03:32:00.560205Z",
+  "charter": "CAN_U_C_ME_?",
+  "composer": "San Holo",
+  "created": "2024-09-08T03:32:00.560205Z",
+  "description": "7thPecJam，昙花一现\n与直播演示略有差异",
+  "difficulty": 13.400002,
+  "file": "https://phira.5wyxi.com/files/2d33ed4d-fcbb-478b-a440-02bcb2c04871",
+  "id": 27525,
+  "illustration": "https://phira.5wyxi.com/files/f215c2a5-f7ec-4ebe-834a-79b547302335",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "do you see me?",
+  "preview": "https://phira.5wyxi.com/files/cdd7a951-f430-4f24-98dc-bc16df990ed8",
+  "ranked": false,
+  "rating": 0.9255997,
+  "ratingCount": 155,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "7thPecJam",
+    "regular"
+  ],
+  "updated": "2024-09-08T03:32:00.560205Z",
+  "uploader": 34228
+}

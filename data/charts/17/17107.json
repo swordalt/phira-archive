@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:03Z",
+    "lastChanged": "2026-09-21T02:02:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-14T07:00:26.941318Z",
+  "charter": "A_zz",
+  "composer": "KARUT",
+  "created": "2024-03-14T07:00:26.941318Z",
+  "description": "修正版，麻烦审核请过审这个，拜托了",
+  "difficulty": 14.099999,
+  "file": "https://phira.5wyxi.com/files/7fcae6c9-752f-4153-a6c7-da2664f277c7",
+  "id": 17107,
+  "illustration": "https://phira.5wyxi.com/files/00d01b15-d696-4d6a-b500-c2f6eb6d9caa",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Colorful Mess",
+  "preview": "https://phira.5wyxi.com/files/42ef59cf-9e29-4433-9917-38af7702eb89",
+  "ranked": false,
+  "rating": 0.8778976,
+  "ratingCount": 467,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-03-14T07:00:26.941318Z",
+  "uploader": 813257
+}

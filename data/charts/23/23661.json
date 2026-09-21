@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:23Z",
+    "lastChanged": "2026-09-21T02:02:23Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-17T08:16:53.269238Z",
+  "charter": "C457",
+  "composer": "格非",
+  "created": "2024-07-17T08:16:53.269238Z",
+  "description": null,
+  "difficulty": 12.600007,
+  "file": "https://phira.5wyxi.com/files/6ab973a0-409a-488b-8187-3307e0676757",
+  "id": 23661,
+  "illustration": "https://phira.5wyxi.com/files/23bb733e-2887-478b-a464-bfe67e1ddac7",
+  "illustrator": "",
+  "level": "IN",
+  "name": "再飞行",
+  "preview": "https://phira.5wyxi.com/files/61d72146-cc6f-4b2f-841c-982782ae2ca4",
+  "ranked": false,
+  "rating": 0.9250849,
+  "ratingCount": 804,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-07-17T08:16:53.269238Z",
+  "uploader": 918785
+}

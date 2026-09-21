@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:39Z",
+    "lastChanged": "2026-09-21T02:02:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-09-03T14:06:02.475078Z",
+  "charter": "Сон навсегда",
+  "composer": "АДЛИН",
+  "created": "2024-09-03T14:06:02.475078Z",
+  "description": "谱师本人上传\nB站：噬梦Suika\n曲绘与歌曲谱面无任何关联，只是随便找的图而已\n\n⚡注意：如果你是手机玩家并且感觉谱面有部分比较挤手难打，可以尝试将宽高比例修改为20:9，这样会不那么挤手，当然这只适用于屏幕比例适合的手机，可以根据您的手机以及习惯来修改您的最佳游玩比例\n\n谱面需要一定的多指能力，并且谱面不是一次性的，不要因为一些初见杀而破防",
+  "difficulty": 15.200001,
+  "file": "https://phira.5wyxi.com/files/8fe6b606-f5fe-400a-9c5f-ed46857b37a8",
+  "id": 27369,
+  "illustration": "https://phira.5wyxi.com/files/e2a64d89-2b61-44cd-a59c-b9f02510c83f",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "Dead Inside",
+  "preview": "https://phira.5wyxi.com/files/665589e4-f3dc-4131-b519-cadbe787db4f",
+  "ranked": false,
+  "rating": 0.9369615,
+  "ratingCount": 1114,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-09-03T14:06:02.475078Z",
+  "uploader": 786
+}

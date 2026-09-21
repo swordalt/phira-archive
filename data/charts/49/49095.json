@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:03Z",
+    "lastChanged": "2026-09-21T02:04:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-14T14:36:22.353426Z",
+  "charter": "6122",
+  "composer": "TAG",
+  "created": "2025-11-14T14:36:22.353426Z",
+  "description": null,
+  "difficulty": 17.2,
+  "file": "https://phira.5wyxi.com/files/1706ec59-48e6-4604-be67-2513908e58d3",
+  "id": 49095,
+  "illustration": "https://phira.5wyxi.com/files/ba34006c-84ae-4de1-b3d3-25de42d1c425",
+  "illustrator": "",
+  "level": "AT Lv.17.2",
+  "name": "KIZUNA Resolution",
+  "preview": "https://phira.5wyxi.com/files/b841597d-ac0d-4666-9fa7-71e5eceb9f90",
+  "ranked": false,
+  "rating": 0.88425976,
+  "ratingCount": 222,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-11-14T14:36:22.353426Z",
+  "uploader": 1367529
+}

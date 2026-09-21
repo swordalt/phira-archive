@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:53Z",
+    "lastChanged": "2026-09-21T02:01:53Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-04T15:50:49.178883Z",
+  "charter": "茶子",
+  "composer": "Alpha_Dreemurr",
+  "created": "2024-02-04T15:50:49.178883Z",
+  "description": "欢迎大家游玩（求求审核通过）",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/495cc272-6767-4fff-943e-341a10fba89a",
+  "id": 14808,
+  "illustration": "https://phira.5wyxi.com/files/6e310b56-7e21-4def-af94-534127ec4cca",
+  "illustrator": "",
+  "level": "SP 15",
+  "name": "Alphys takes action",
+  "preview": "https://phira.5wyxi.com/files/c4a42710-0525-42d3-9bdf-6fd924b5832a",
+  "ranked": false,
+  "rating": 0.7449153,
+  "ratingCount": 231,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-02-04T15:50:49.178883Z",
+  "uploader": 614453
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:35Z",
+    "lastChanged": "2026-09-21T02:03:35Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-31T17:39:13.040881Z",
+  "charter": "ESAM*01",
+  "composer": "DECO*27",
+  "created": "2025-07-31T17:39:13.040881Z",
+  "description": "8.1 01:38 修改一处bug\n更新：修改部分排列，删除了大部分点锁，侧落改为红键，解决了误判问题，优化手感\n\n新曲豪庭\n本来打算爽写这个但是好多大神都要写，当时就被劝退了，原定是废稿的\n不过后来好几个大神结束这个曲的谱的写，于是我重燃希望猛改谱补完发出来了\n希望大家喜欢(￣▽￣)~*\n————————————————————————————\nB站：BV1Mg8nzwET9\n支持大家积极评论或给出改进建议\n录制手元请在简介@我谢谢喵",
+  "difficulty": 14.800002,
+  "file": "https://phira.5wyxi.com/files/8d345374-45ae-4905-b5e6-6a102d4b4a35",
+  "id": 43311,
+  "illustration": "https://phira.5wyxi.com/files/8a42cf9e-5310-469c-b816-6368d5483399",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Cherry Pop (feat. 初音ミク)",
+  "preview": "https://phira.5wyxi.com/files/3fb04061-43c9-4c6b-a37b-e9b17b9482be",
+  "ranked": true,
+  "rating": 0.9356984,
+  "ratingCount": 12241,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "Vocaloid",
+    "regular"
+  ],
+  "updated": "2025-07-31T17:39:13.040881Z",
+  "uploader": 385765
+}

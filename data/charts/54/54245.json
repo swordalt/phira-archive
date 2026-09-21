@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:29Z",
+    "lastChanged": "2026-09-21T02:04:29Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-17T11:57:51.473357Z",
+  "charter": "巴布的博弈",
+  "composer": "巴布的博弈",
+  "created": "2026-03-17T11:57:51.473357Z",
+  "description": "歌曲较长",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/d235a84e-2c35-4d73-863f-018581553b1e",
+  "id": 54245,
+  "illustration": "https://phira.5wyxi.com/files/a9615eb4-4b3d-4b74-9f82-507530c13334",
+  "illustrator": "",
+  "level": "IN 15",
+  "name": "夜色DJ",
+  "preview": "https://phira.5wyxi.com/files/a13b097f-83c1-441d-9583-45c2963f112c",
+  "ranked": false,
+  "rating": 0.8113774,
+  "ratingCount": 1055,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-03-17T11:57:51.473357Z",
+  "uploader": 1953848
+}

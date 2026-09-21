@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:00Z",
+    "lastChanged": "2026-09-21T02:03:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-29T11:42:19.208234Z",
+  "charter": "流星雨",
+  "composer": "黒うさP / 初音ミク",
+  "created": "2025-01-29T11:42:19.208234Z",
+  "description": "谱师本人上传。误删重发。\n更正了采音，修复了判定问题。",
+  "difficulty": 16.399998,
+  "file": "https://phira.5wyxi.com/files/63d2da2f-f6f1-46e7-93af-6a881d6fd7c0",
+  "id": 32783,
+  "illustration": "https://phira.5wyxi.com/files/776b3d90-a346-4614-9ba6-dff5aae1029e",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "千本桜",
+  "preview": "https://phira.5wyxi.com/files/3466d88b-e682-45cb-b1aa-308705ecba72",
+  "ranked": false,
+  "rating": 0.86315584,
+  "ratingCount": 1458,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "术力口",
+    "VOCALOID",
+    "谢特",
+    "regular"
+  ],
+  "updated": "2025-01-29T11:42:19.208234Z",
+  "uploader": 1465303
+}

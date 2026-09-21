@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:43Z",
+    "lastChanged": "2026-09-21T02:06:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-04T09:54:39.398007Z",
+  "charter": "墨云绘雨",
+  "composer": "DECO*27 feat.初音ミク",
+  "created": "2026-01-04T09:54:39.398007Z",
+  "description": "使用B站@起名钉子户  制作的Malody转谱器\n使用Malody的定数\n一张非常简单的新手向谱面，虽然是4k谱但并不强制性要求多指，在设计谱面的时候就已经考虑了双指的游玩性，尽量避免了双指的卡手配置，所以双指也可以放心食用(不过还是更推荐多指游玩)\n最后祝玩得开心(๑ゝω╹๑)",
+  "difficulty": 12.0,
+  "file": "https://phira.5wyxi.com/files/ce2a2efb-a0f4-4821-b2d0-2ece499e78d4",
+  "id": 50970,
+  "illustration": "https://phira.5wyxi.com/files/8f8d760c-9512-43a8-b319-d9ae70b08703",
+  "illustrator": "",
+  "level": "4K Easy Lv.12",
+  "name": "妄想感傷代償連盟",
+  "preview": "https://phira.5wyxi.com/files/8582b629-2699-4dcb-98e9-34448b92143a",
+  "ranked": false,
+  "rating": 0.95976514,
+  "ratingCount": 2158,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4K",
+    "简单",
+    "plain"
+  ],
+  "updated": "2026-01-04T09:54:39.398007Z",
+  "uploader": 1425
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:00Z",
+    "lastChanged": "2026-09-21T02:04:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-01T04:47:23.987750Z",
+  "charter": "GZDMDQ",
+  "composer": "Dancing Line",
+  "created": "2025-11-01T04:47:23.987750Z",
+  "description": "位移/协调谱，吃点低力和爆发主要是双指谱",
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/2c5bd6fe-23e4-4bd1-bf04-5b1b40e48a3c",
+  "id": 48613,
+  "illustration": "https://phira.5wyxi.com/files/60e7f210-8d3f-44a7-85e4-99c4f409dd84",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "刺客传奇(The Legend Of Assassin)",
+  "preview": "https://phira.5wyxi.com/files/51d2cb1e-a500-446d-8b75-cba0b519af83",
+  "ranked": false,
+  "rating": 0.8628521,
+  "ratingCount": 187,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-11-01T04:47:23.987750Z",
+  "uploader": 1427239
+}

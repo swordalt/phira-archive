@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:44Z",
+    "lastChanged": "2026-09-21T02:01:44Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-09T06:28:48.528705Z",
+  "charter": "Pigeeeeeon",
+  "composer": "Silentroom",
+  "created": "2023-12-09T06:28:48.528705Z",
+  "description": null,
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/3b7e3b24-bf13-4698-9ce5-1a62d42a4a1e",
+  "id": 12271,
+  "illustration": "https://phira.5wyxi.com/files/e5594321-d5ef-4002-a8ea-0b5915ac66c7",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "驟雨の狹間",
+  "preview": "https://phira.5wyxi.com/files/fed74ab6-3449-461c-aff9-b32f4c42ee24",
+  "ranked": false,
+  "rating": 0.9453238,
+  "ratingCount": 1441,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "FRENZ2019",
+    "regular"
+  ],
+  "updated": "2023-12-09T06:28:48.528705Z",
+  "uploader": 202
+}

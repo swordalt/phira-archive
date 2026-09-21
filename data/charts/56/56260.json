@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:36Z",
+    "lastChanged": "2026-09-21T02:04:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-21T10:08:40.416825Z",
+  "charter": "JoNa1er & LiOuNei's New Story",
+  "composer": "Mitsukiyo",
+  "created": "2026-04-13T12:05:19.506362Z",
+  "description": "双人合作谱\n已经过所有谱师同意并上传\n谱师：巧奈尔、@欧内的灰#1551202\n巧奈尔负责大部分配置和动效，欧内的灰负责优化动效和排键。\n\n2026.4.19更新\n修复了开头假按键未藏好的问题。\n优化部分排键，修改部分特效。\n加强尾杀\n很抱歉为排行榜上面的玩家造成困扰。TAT\n我失误了上个版本传错了对不起。",
+  "difficulty": 16.1,
+  "file": "https://phira.5wyxi.com/files/c7acd581-35f5-4047-9ae3-a5b7c578496a",
+  "id": 56260,
+  "illustration": "https://phira.5wyxi.com/files/4869a542-2657-4104-9cdd-96cf281414b7",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Our New Story",
+  "preview": "https://phira.5wyxi.com/files/0e0b6974-238a-41f6-bb2e-5952c8fc473c",
+  "ranked": false,
+  "rating": 0.93508536,
+  "ratingCount": 452,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-04-21T10:08:40.416825Z",
+  "uploader": 2174320
+}

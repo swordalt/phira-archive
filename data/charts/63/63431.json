@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:53Z",
+    "lastChanged": "2026-09-21T02:04:53Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-01T05:52:59.303986Z",
+  "charter": "lak631",
+  "composer": "HOYO-MIX",
+  "created": "2026-07-01T05:52:59.303986Z",
+  "description": "新人初谱",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/2345565d-648b-4855-873d-be75b3816cb4",
+  "id": 63431,
+  "illustration": "https://phira.5wyxi.com/files/f7e7070f-032b-4933-b58b-1fa2059aadac",
+  "illustrator": "",
+  "level": "IN lv.15",
+  "name": "左道的胜义尊",
+  "preview": "https://phira.5wyxi.com/files/605ffd23-402a-4a60-b40d-fc4d13221a74",
+  "ranked": false,
+  "rating": 0.91378385,
+  "ratingCount": 242,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-01T05:52:59.303986Z",
+  "uploader": 1307573
+}

@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:09Z",
+    "lastChanged": "2026-09-21T02:01:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-09T14:30:40.282942Z",
+  "charter": "FLAG",
+  "composer": "WAiKURO",
+  "created": "2023-05-09T14:30:40.282942Z",
+  "description": "Bilibili @FLAG_Xiaoqi",
+  "difficulty": 14.700003,
+  "file": "https://phira.5wyxi.com/files/43efbcce-69f9-4be4-beac-c6740c979e80",
+  "id": 1510,
+  "illustration": "https://phira.5wyxi.com/files/59177f58-11ee-4cda-9cd8-417582d5fab6",
+  "illustrator": "",
+  "level": "IN  Lv.14",
+  "name": "Androgynos",
+  "preview": "https://phira.5wyxi.com/files/b8529355-ad5f-48b6-a36f-6e6273a2bdd8",
+  "ranked": true,
+  "rating": 0.93870014,
+  "ratingCount": 4618,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular",
+    "art",
+    "Lanota"
+  ],
+  "updated": "2025-03-21T12:09:57.101263Z",
+  "uploader": 457
+}

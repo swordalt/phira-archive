@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:34Z",
+    "lastChanged": "2026-09-21T02:01:34Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-09-29T00:37:46.018907Z",
+  "charter": "yuhang",
+  "composer": "Cheetah Mobile",
+  "created": "2023-09-29T00:37:46.018907Z",
+  "description": null,
+  "difficulty": 13.900003,
+  "file": "https://phira.5wyxi.com/files/a9460118-42cf-4c20-89ed-c6cb634cd0a6",
+  "id": 9752,
+  "illustration": "https://phira.5wyxi.com/files/f0564da9-822b-4ad1-b647-35f3cb372b12",
+  "illustrator": "",
+  "level": "IN LV.13",
+  "name": "水手传说",
+  "preview": "https://phira.5wyxi.com/files/53fec816-967b-4c00-8dfd-45e09b6539b4",
+  "ranked": false,
+  "rating": 0.87128544,
+  "ratingCount": 762,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "DL",
+    "跳舞的线",
+    "dancingline",
+    "regular"
+  ],
+  "updated": "2023-09-30T08:02:36.591637Z",
+  "uploader": 50299
+}

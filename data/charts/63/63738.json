@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:54Z",
+    "lastChanged": "2026-09-21T02:04:54Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-03T04:59:03.060350Z",
+  "charter": "清羽LE",
+  "composer": "_B饼",
+  "created": "2026-07-03T04:59:03.060350Z",
+  "description": "耗时：42h\n定数：18.1\n须知：出现超多音符时出现延迟为设备性能问题，bpm为120亲测无误",
+  "difficulty": 18.2,
+  "file": "https://phira.5wyxi.com/files/8f421abd-b65d-41c9-920c-58f278ecfb73",
+  "id": 63738,
+  "illustration": "https://phira.5wyxi.com/files/4f3e7a80-cd74-4755-8ec5-a4c4ef0f3a89",
+  "illustrator": "",
+  "level": "AT Lv.18",
+  "name": "唐宋八大家之歌（执笔唐宋）",
+  "preview": "https://phira.5wyxi.com/files/df91dd1c-46e4-47aa-ba28-d3aee52f90b1",
+  "ranked": false,
+  "rating": 0.80630267,
+  "ratingCount": 611,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "执笔唐宋",
+    "regular"
+  ],
+  "updated": "2026-07-03T04:59:03.060350Z",
+  "uploader": 1996914
+}

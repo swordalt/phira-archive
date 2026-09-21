@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:43Z",
+    "lastChanged": "2026-09-21T02:03:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-07T14:34:48.077744Z",
+  "charter": "佐田",
+  "composer": "打打だいず + Tanchiky + siromaru",
+  "created": "2025-08-20T14:47:52.792364Z",
+  "description": "本人上传，收录于SDVX的高速曲，由三位知名音乐家合作。音乐很好听，谱面很抽象，谱面后半段更好玩。\n原本想参加6thpecjam，但是没写完，时隔一年多完成，刚刚正式更新，添加许多特效。",
+  "difficulty": 17.600002,
+  "file": "https://phira.5wyxi.com/files/65f2aee0-a260-4a70-829d-8975fa39e48f",
+  "id": 45279,
+  "illustration": "https://phira.5wyxi.com/files/72211946-2317-468e-b8f2-f4a6ada368da",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "天穹のアルカナビット",
+  "preview": "https://phira.5wyxi.com/files/5986c3a4-92f7-4e7e-a955-74f54fdb3432",
+  "ranked": false,
+  "rating": 0.5432681,
+  "ratingCount": 155,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-08T10:38:16.000976Z",
+  "uploader": 643766
+}

@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:24Z",
+    "lastChanged": "2026-09-21T02:01:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-04T13:52:16.990938Z",
+  "charter": "Sugar Cup \"Catfish\" 3.0 Version.",
+  "composer": "s-don",
+  "created": "2023-08-04T13:52:16.990938Z",
+  "description": "久违了。\n本张谱面为里糖杯Secret Track 16强D组供稿。\n ——————【分割线】——————\nLostwizz这张谱面的设计初衷偏侧重于游玩性，在保持谱面具有一定契合度的前提下，添加一些趣味性的手法使谱面不会显得过于枯燥，因此就写了1+1+2，黄条锁链3+1纵连，以及点划等配置。在本家里，因为也是同样的曲师，同样的TechDance的曲风，所以在一定程度上Neta了官谱Upshift的谱面创作思路，提个小细节：尾段的hold下落其实考虑过手感，而且垂判正常打三角没什么问题，所以我个人觉得此次谱面还算蛮成功的一次。",
+  "difficulty": 15.900003,
+  "file": "https://phira.5wyxi.com/files/268de51b-a189-4494-804f-56422509afa2",
+  "id": 6817,
+  "illustration": "https://phira.5wyxi.com/files/5eeffba5-efb5-4b81-8167-bd2cafce9837",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "Lostwizz",
+  "preview": "https://phira.5wyxi.com/files/a249dd79-9611-49c2-a89f-fb07a46b136c",
+  "ranked": true,
+  "rating": 0.9072633,
+  "ratingCount": 3048,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "里糖杯",
+    "ONGEKI",
+    "regular"
+  ],
+  "updated": "2025-02-26T11:23:28.027274Z",
+  "uploader": 400
+}

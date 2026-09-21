@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:52Z",
+    "lastChanged": "2026-09-21T02:01:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-01-31T12:56:45.635568Z",
+  "charter": "HgMercury",
+  "composer": "ゆかてふ Cover.鏡音リン",
+  "created": "2024-01-31T12:56:45.635568Z",
+  "description": "谱面为谱师自行上传\r\n谱师：HgMercury（即StaticStasis）Bilibili UID:481956671\r\n曲目：新幹線でひたすら後ろの子供に席蹴られるリ\r\n难度：IN Lv.14 （？）\r\n作者：ゆかてふ Cover.鏡音リン\r\n曲绘：ゆかてふ\r\n\r\n版本：速写初版 1.0 2024/1/31\r\n物量：743 (+13假note）\r\n判定线：6个",
+  "difficulty": 14.400002,
+  "file": "https://phira.5wyxi.com/files/b14ab0d8-7b46-4820-b1e6-89964564c2db",
+  "id": 14569,
+  "illustration": "https://phira.5wyxi.com/files/e39179b9-01a1-4f1b-aa66-98d3e6535cde",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "新幹線でひたすら後ろの子供に席蹴られるリ",
+  "preview": "https://phira.5wyxi.com/files/d903e927-589c-4da7-9c73-d2272498c5e0",
+  "ranked": false,
+  "rating": 0.9252606,
+  "ratingCount": 1220,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-01-31T12:56:45.635568Z",
+  "uploader": 234315
+}

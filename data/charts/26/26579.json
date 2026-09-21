@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:35Z",
+    "lastChanged": "2026-09-21T02:02:35Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-19T15:47:25.903304Z",
+  "charter": "ATball",
+  "composer": "YOASOBI",
+  "created": "2024-08-19T15:47:25.903304Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/159b6363-6a65-485d-9727-b3e8a855e93b",
+  "id": 26579,
+  "illustration": "https://phira.5wyxi.com/files/0688746c-d2da-4524-b32e-8e534310c0cb",
+  "illustrator": "",
+  "level": "AT Lv.I4",
+  "name": "祝福",
+  "preview": "https://phira.5wyxi.com/files/7fda0edd-b8c8-47d5-8ede-52a2ebf0adcb",
+  "ranked": false,
+  "rating": 0.7929372,
+  "ratingCount": 397,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-19T15:47:25.903304Z",
+  "uploader": 467335
+}

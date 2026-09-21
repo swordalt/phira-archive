@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:27Z",
+    "lastChanged": "2026-09-21T02:04:27Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-08T08:19:56.139054Z",
+  "charter": "izuminohara",
+  "composer": "Camellia",
+  "created": "2026-03-08T04:02:43.673026Z",
+  "description": "点击输入文字。",
+  "difficulty": 16.5,
+  "file": "https://phira.5wyxi.com/files/324c6595-d2ea-4b8c-b407-948d6100c424",
+  "id": 53961,
+  "illustration": "https://phira.5wyxi.com/files/5ec15bbe-6b20-412e-b641-00c6b7f24c4f",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "AIone InteIIigence",
+  "preview": "https://phira.5wyxi.com/files/fd4f4fc5-231e-42e4-a4a0-adbbf17e3e2a",
+  "ranked": false,
+  "rating": 0.9233268,
+  "ratingCount": 305,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-03-08T08:19:56.139054Z",
+  "uploader": 559587
+}

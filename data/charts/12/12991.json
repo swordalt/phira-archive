@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:46Z",
+    "lastChanged": "2026-09-21T02:01:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-31T07:35:32.269584Z",
+  "charter": "a115",
+  "composer": "SP-# /LeaF",
+  "created": "2023-12-30T12:04:03.817344Z",
+  "description": "一时起兴写的，单纯图一乐，不喜欢可以骂(",
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/8d580a2a-9400-4ec8-812b-a36283c01713",
+  "id": 12991,
+  "illustration": "https://phira.5wyxi.com/files/4bbe0d9f-5dfb-44e9-9271-484c2e61ceb0",
+  "illustrator": "",
+  "level": "sp.?",
+  "name": "neo tinnitus（LeaF remix)",
+  "preview": "https://phira.5wyxi.com/files/b8051175-e9aa-474f-af45-1b714ae0b020",
+  "ranked": false,
+  "rating": 0.71642804,
+  "ratingCount": 103,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "LeaF",
+    "remix",
+    "regular"
+  ],
+  "updated": "2023-12-31T07:35:32.269584Z",
+  "uploader": 72056
+}

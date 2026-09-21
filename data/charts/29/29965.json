@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:48Z",
+    "lastChanged": "2026-09-21T02:02:48Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-11-22T20:42:33.057177Z",
+  "charter": "柒十肆",
+  "composer": "PTB10",
+  "created": "2024-11-22T20:42:33.057177Z",
+  "description": null,
+  "difficulty": 15.400003,
+  "file": "https://phira.5wyxi.com/files/244ad9f8-71d5-4c3e-87d6-904933e28e7c",
+  "id": 29965,
+  "illustration": "https://phira.5wyxi.com/files/5fe19529-df84-49de-ac7d-decd420f64f4",
+  "illustrator": "",
+  "level": "IN 15.4",
+  "name": "Interference",
+  "preview": "https://phira.5wyxi.com/files/9acdf9b5-1a0b-4d43-8666-f38715c292b4",
+  "ranked": false,
+  "rating": 0.8724329,
+  "ratingCount": 15,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-11-22T20:42:33.057177Z",
+  "uploader": 12003
+}

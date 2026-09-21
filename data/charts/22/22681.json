@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:21Z",
+    "lastChanged": "2026-09-21T02:02:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-05T08:19:48.041030Z",
+  "charter": "MujiSama",
+  "composer": "SharaX",
+  "created": "2024-07-05T08:19:48.041030Z",
+  "description": "谱师本人上传    该谱面非常规思路谱面，谱面预览视频可以在b站搜索查看，若初见游玩不顺可尝试多次游玩适应跳拍，请勿草率因初见体验不佳而打低分     2.15  定数上调至15.3",
+  "difficulty": 15.300005,
+  "file": "https://phira.5wyxi.com/files/1d279d83-aa13-4bf6-a0a8-f7f51b4cfc74",
+  "id": 22681,
+  "illustration": "https://phira.5wyxi.com/files/686bae63-ad80-4579-8c42-49110e49612d",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Pandemic",
+  "preview": "https://phira.5wyxi.com/files/50a4c8c9-255c-407b-bbd1-aee5566bf37a",
+  "ranked": true,
+  "rating": 0.91990966,
+  "ratingCount": 1069,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "Underfresh",
+    "regular"
+  ],
+  "updated": "2025-02-14T16:29:58.645439Z",
+  "uploader": 3742
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:18Z",
+    "lastChanged": "2026-09-21T02:05:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-19T12:43:42.434724Z",
+  "charter": "WIFI500",
+  "composer": "R300K",
+  "created": "2026-09-19T12:43:42.434724Z",
+  "description": "滚木",
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/e82a84ad-b8c8-4fc9-a5a0-3d39fbab1d42",
+  "id": 78514,
+  "illustration": "https://phira.5wyxi.com/files/9260c430-86d5-482a-ad7b-d51290fdba10",
+  "illustrator": "RM Design Team (青鸟 modified)",
+  "level": "AT Lv.Random",
+  "name": "幻影鬼魅",
+  "preview": "https://phira.5wyxi.com/files/e86b43b5-6ab4-4589-93a6-282d17681cb9",
+  "ranked": false,
+  "rating": 0.8257998,
+  "ratingCount": 7,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-09-20T14:42:34.402464Z",
+  "uploader": 1578478
+}

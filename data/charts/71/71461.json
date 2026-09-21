@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:05Z",
+    "lastChanged": "2026-09-21T02:05:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-05T12:50:23.443202Z",
+  "charter": "Stella [Un] Cadens",
+  "composer": "rintano soma",
+  "created": "2026-08-05T12:50:23.443202Z",
+  "description": "谱师：Frigusacies（Lq.Fri）",
+  "difficulty": 14.900003,
+  "file": "https://phira.5wyxi.com/files/0ae7d2e4-ee93-4410-ad77-c17da8b8cc2e",
+  "id": 71461,
+  "illustration": "https://phira.5wyxi.com/files/977e2cf1-a4b1-46b3-a79a-f6795a74b49d",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "系ぎて",
+  "preview": "https://phira.5wyxi.com/files/876897d4-3920-480b-bf44-1fc3c195a105",
+  "ranked": false,
+  "rating": 0.9340898,
+  "ratingCount": 86,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-05T12:50:23.443202Z",
+  "uploader": 3199253
+}

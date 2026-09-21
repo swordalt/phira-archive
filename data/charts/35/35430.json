@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:08Z",
+    "lastChanged": "2026-09-21T02:03:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-11T02:46:58.392234Z",
+  "charter": "SKY-Planet-天星",
+  "composer": "Plum",
+  "created": "2025-03-19T07:31:19.081044Z",
+  "description": null,
+  "difficulty": 15.6,
+  "file": "https://phira.5wyxi.com/files/45d180f9-ab2c-491c-8502-04eda74226b0",
+  "id": 35430,
+  "illustration": "https://phira.5wyxi.com/files/e55cdbc7-7477-4131-949f-bc869c81bf1a",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "N",
+  "preview": "https://phira.5wyxi.com/files/95ed31f8-ed5b-43cd-93d2-f9dd04491f69",
+  "ranked": false,
+  "rating": 0.91472435,
+  "ratingCount": 466,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-11T02:46:58.392234Z",
+  "uploader": 246763
+}

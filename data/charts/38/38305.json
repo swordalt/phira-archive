@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:18Z",
+    "lastChanged": "2026-09-21T02:03:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-18T07:18:49.330661Z",
+  "charter": "Akisan",
+  "composer": "TJ.hangneil",
+  "created": "2025-05-18T07:18:49.330661Z",
+  "description": null,
+  "difficulty": 15.8,
+  "file": "https://phira.5wyxi.com/files/41fc647a-f7f0-4a74-8d29-904aab7cd648",
+  "id": 38305,
+  "illustration": "https://phira.5wyxi.com/files/da9e4a40-11ba-4b35-8816-34e8bced2099",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "神威",
+  "preview": "https://phira.5wyxi.com/files/ca5e532d-d7e1-49eb-9f0d-552eb01af426",
+  "ranked": false,
+  "rating": 0.935147,
+  "ratingCount": 944,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-05-18T07:18:49.330661Z",
+  "uploader": 32699
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:04Z",
+    "lastChanged": "2026-09-21T02:02:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-20T04:10:40.042732Z",
+  "charter": "Sylveon 雄からの挑戦状",
+  "composer": "穴山大輔",
+  "created": "2024-03-20T04:10:40.042732Z",
+  "description": null,
+  "difficulty": 16.6,
+  "file": "https://phira.5wyxi.com/files/163a5856-ad99-4e4e-a15c-719b17691978",
+  "id": 17308,
+  "illustration": "https://phira.5wyxi.com/files/89a1ba68-6ec1-479d-b092-347a519f033a",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "混沌を越えし我らが神聖なる調律主を讃えよ",
+  "preview": "https://phira.5wyxi.com/files/a21057dd-deda-413d-a1c0-86dd1b314f6c",
+  "ranked": false,
+  "rating": 0.8851026,
+  "ratingCount": 906,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-22T17:28:09.262460Z",
+  "uploader": 1828
+}

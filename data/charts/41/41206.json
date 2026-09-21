@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:21Z",
+    "lastChanged": "2026-09-21T02:06:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-08T16:43:31.611647Z",
+  "charter": "殇儿打不动",
+  "composer": "Various Artists",
+  "created": "2025-07-08T16:43:31.611647Z",
+  "description": "Speed-Rubber Band\nBpm:350(16th+24th)\nItems:4670\nTime:3'36''\n\nSimple-Crazy Tek (1.44x)\nBpm:252(16th)\nItems:2375\nTime:1'41''\n\nSlide-Fragmentation\nBpm:175(64th)\nItems:6666\nTime:1'57''\n\nStamina-Cold Planet\nBpm:348(12th+16th)\nItems:2089\nTime:2'12''\n\n对于技：需要对Phira的判定比较熟练，比如三连点划可以当做二连拍加上一次长上划\n\n总物量：15800\nDrag:3158\nDrag比：0.19987341772\n\n触及边缘要求：acc95.9%\n过段要求：acc97.54%\n后光要求：acc98.77%",
+  "difficulty": 18.000002,
+  "file": "https://phira.5wyxi.com/files/0edcf993-1bf1-439f-a73b-bde13b4a951f",
+  "id": 41206,
+  "illustration": "https://phira.5wyxi.com/files/c88177f2-8087-4972-86aa-5002de184f94",
+  "illustrator": "",
+  "level": "Dan",
+  "name": "Double Finger Course Theta Dan (Fanmade)",
+  "preview": "https://phira.5wyxi.com/files/c0adf1a6-48ee-45b2-a4d5-55f4c516d1d5",
+  "ranked": false,
+  "rating": 0.82259053,
+  "ratingCount": 42,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "DFC",
+    "双指",
+    "theta",
+    "plain"
+  ],
+  "updated": "2025-07-08T16:43:31.611647Z",
+  "uploader": 684149
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:38Z",
+    "lastChanged": "2026-09-21T02:05:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-11-12T16:39:49.201555Z",
+  "charter": "Iblcya = Iblcya + 1",
+  "composer": "Trina Lydia",
+  "created": "2023-11-12T16:39:49.201555Z",
+  "description": "谱师本人上传\n本来是EX+11和sp12一起传的，但是11不知道为啥被删了",
+  "difficulty": 11.0,
+  "file": "https://phira.5wyxi.com/files/37df6a94-b79b-4026-8766-56b3a7b68b89",
+  "id": 11441,
+  "illustration": "https://phira.5wyxi.com/files/eafec879-6c48-4d04-8e3c-176dde5c4732",
+  "illustrator": "",
+  "level": "EXTRA+",
+  "name": "BPM = BPM + 1",
+  "preview": "https://phira.5wyxi.com/files/a9443620-da57-49b1-8c10-1f2dbd43b8d6",
+  "ranked": false,
+  "rating": 0.9036535,
+  "ratingCount": 257,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "plain"
+  ],
+  "updated": "2023-11-12T16:39:49.201555Z",
+  "uploader": 545622
+}

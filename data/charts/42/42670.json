@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:32Z",
+    "lastChanged": "2026-09-21T02:03:32Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-25T14:17:48.039616Z",
+  "charter": "Virtese",
+  "composer": "Xeudo Code&LucaProject",
+  "created": "2025-07-25T07:08:48.766102Z",
+  "description": "堂堂复活！\n注意：\n1.本谱采用故事版，若您开了AP/FC指示器而发现判定线完全是白的，这是正常现象，绝对不是我懒得改qwq......已修复\n2.本谱物量为900，定数15.7（采用新版定数）\n3.我之后可能不定时更新完善谱面，这个是初版，本人还处于写谱萌新阶段，若您认为这个写的不好请多多包含\n4.画师不知道，这歌还是我听网易云发现的，好像是Lanota里面的歌，我没玩过盘子，觉得这个歌很好听也很适合音游（本来就是音游的曲子）所以做了铺\n5.我原本的账号出了问题，这个是小号，还有我不会在哔哩哔哩发布相关视频\n\n更新：\n1.改了一些采音上的问题，减缓了一些动效\n2.关于FC/AP指示器无法显示的情况已修复，解决方法为删除原本线的所有色彩变化，新增一条线负责色彩变化",
+  "difficulty": 15.700003,
+  "file": "https://phira.5wyxi.com/files/b0c99750-70eb-4b98-9563-c09c9f9bad94",
+  "id": 42670,
+  "illustration": "https://phira.5wyxi.com/files/62c80318-1972-4218-b6e6-31e571581798",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Start To The End",
+  "preview": "https://phira.5wyxi.com/files/c93ba9fc-4c9e-4ee7-ba82-269614bd50d5",
+  "ranked": false,
+  "rating": 0.8538404,
+  "ratingCount": 177,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-07-25T14:17:48.039616Z",
+  "uploader": 1789389
+}

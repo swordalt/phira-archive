@@ -1,0 +1,39 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:07Z",
+    "lastChanged": "2026-09-21T02:05:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-10T08:05:49.665544Z",
+  "charter": "IO元素OI",
+  "composer": "Yunomi",
+  "created": "2026-08-10T08:05:49.665544Z",
+  "description": "个人第三张铺面！《总之就是非常可爱》这部番算是我入坑番之一了，当时很喜欢这部番，也很喜欢它的op，一直都想把它改成phigros的铺面来打，所以在学了rpe之后也总算可以达成我的小想法。这张谱我前后断断续续写了很久，但由于是断断续续写的，可能铺面不会很完美，存在一些瑕疵，表现力可能也不会很足。整张谱的话我给它的定位是15.8，前面有协调，后面也考一点底力，我个人感觉还是比较ok的，但也欢迎大家在B站视频底下留下自己的意见与想法。",
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/3a749c68-9b63-48a4-81db-6c609c802bb0",
+  "id": 72505,
+  "illustration": "https://phira.5wyxi.com/files/2acc7e64-da10-4751-890a-daa989b3c208",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "恋のうた",
+  "preview": "https://phira.5wyxi.com/files/8770d696-c61e-426a-a165-f52ae36e0e40",
+  "ranked": false,
+  "rating": 0.94121695,
+  "ratingCount": 385,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "总之就是非常可爱",
+    "トニカクカワイイ",
+    "恋のうた",
+    "恋之歌",
+    "由崎司",
+    "regular"
+  ],
+  "updated": "2026-08-30T05:15:26.158200Z",
+  "uploader": 213724
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:05Z",
+    "lastChanged": "2026-09-21T02:02:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-23T02:40:17.505006Z",
+  "charter": "ZFCarrot",
+  "composer": "M2U",
+  "created": "2024-03-23T02:40:17.505006Z",
+  "description": null,
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/9a8f8f16-ba01-4de5-a0ef-eea0a3ea3925",
+  "id": 17409,
+  "illustration": "https://phira.5wyxi.com/files/c7138db6-a5d6-4582-98a6-38d88692faf6",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Quo Vadis",
+  "preview": "https://phira.5wyxi.com/files/8bbfaa97-3df8-44d5-bdb9-6dfbc72a478b",
+  "ranked": false,
+  "rating": 0.917142,
+  "ratingCount": 355,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-03-23T02:40:17.505006Z",
+  "uploader": 13881
+}

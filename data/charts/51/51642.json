@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:15Z",
+    "lastChanged": "2026-09-21T02:04:15Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-25T12:34:36.819358Z",
+  "charter": "lanfeng",
+  "composer": "Waterflame",
+  "created": "2026-01-25T12:34:36.819358Z",
+  "description": "我的第一张谱子，目前还存在很多不良的地方",
+  "difficulty": 16.700003,
+  "file": "https://phira.5wyxi.com/files/2b339e47-9a9d-4da3-9907-85971e3e97e8",
+  "id": 51642,
+  "illustration": "https://phira.5wyxi.com/files/fa5737bc-d670-4163-9d20-12568e828219",
+  "illustrator": "",
+  "level": "Ex.16",
+  "name": "Ricochet Love",
+  "preview": "https://phira.5wyxi.com/files/379b32f4-132c-4849-b6e5-78dcb85506fb",
+  "ranked": false,
+  "rating": 0.8388982,
+  "ratingCount": 18,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-01-25T12:34:36.819358Z",
+  "uploader": 11518
+}

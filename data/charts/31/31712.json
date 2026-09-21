@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:06Z",
+    "lastChanged": "2026-09-21T02:06:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-12T00:16:29.223199Z",
+  "charter": "zomman",
+  "composer": "Ludicin",
+  "created": "2025-01-12T00:16:29.223199Z",
+  "description": "纯配置，表演正在写\nb站@zomman",
+  "difficulty": 15.200001,
+  "file": "https://phira.5wyxi.com/files/6145db76-4df4-4280-97f9-2cca09a370ac",
+  "id": 31712,
+  "illustration": "https://phira.5wyxi.com/files/ed1d59b4-fad1-47e2-b0cf-996786191e4c",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Signal",
+  "preview": "https://phira.5wyxi.com/files/58a4bd3d-335d-4122-873a-7d2e72ff9527",
+  "ranked": false,
+  "rating": 0.8179562,
+  "ratingCount": 9,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-01-12T00:16:29.223199Z",
+  "uploader": 257312
+}

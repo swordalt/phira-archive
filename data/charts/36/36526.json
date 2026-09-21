@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:13Z",
+    "lastChanged": "2026-09-21T02:03:13Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-13T05:33:36.654206Z",
+  "charter": "twotthrees in 2021",
+  "composer": "Frums",
+  "created": "2025-04-13T05:33:36.654206Z",
+  "description": "初谱，当时觉得243交互太难了改成0.8了",
+  "difficulty": 15.999996,
+  "file": "https://phira.5wyxi.com/files/5cd20d38-f9d3-4644-ac43-1a1bc071e733",
+  "id": 36526,
+  "illustration": "https://phira.5wyxi.com/files/aa2daa45-b00a-4fdb-9d27-f5bc857adb55",
+  "illustrator": "",
+  "level": "Legacy Lv.16",
+  "name": "We want to run",
+  "preview": "https://phira.5wyxi.com/files/102b30ba-8b0b-45c4-8705-a3083cae6e11",
+  "ranked": false,
+  "rating": 0.8376579,
+  "ratingCount": 106,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-04-13T05:33:36.654206Z",
+  "uploader": 7679
+}

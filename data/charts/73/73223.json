@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:08Z",
+    "lastChanged": "2026-09-21T02:05:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-13T19:50:15.287498Z",
+  "charter": "ZenithMire&伍零柒壹",
+  "composer": "Capchii",
+  "created": "2026-08-13T19:50:15.287498Z",
+  "description": "ZMC比赛供谱\n——————————————\n即使命运渺小，也要毫不犹豫的勇往直前\n——————————————\n物量：1899\n难度：17.7\n谱师：ZenithMire&伍零柒壹\n@FZSO5071#2605870（特效）",
+  "difficulty": 17.700003,
+  "file": "https://phira.5wyxi.com/files/fa68998c-7225-4935-a9d4-6a6a1cc140fd",
+  "id": 73223,
+  "illustration": "https://phira.5wyxi.com/files/480ae11b-8d6c-4051-98c5-06b4fbfa6d28",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Tiny Fate",
+  "preview": "https://phira.5wyxi.com/files/9602c38e-cebc-4247-90b0-72cdd1bbb700",
+  "ranked": false,
+  "rating": 0.8967261,
+  "ratingCount": 153,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "ZMC",
+    "",
+    "regular"
+  ],
+  "updated": "2026-08-14T01:26:20.481962Z",
+  "uploader": 142987
+}

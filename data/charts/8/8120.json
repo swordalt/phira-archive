@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:28Z",
+    "lastChanged": "2026-09-21T02:01:28Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-21T08:30:01.007117Z",
+  "charter": "右果ary needs to teach QR",
+  "composer": "Osanzi",
+  "created": "2023-08-21T04:54:50.252194Z",
+  "description": "上传已经过合作谱师清水QR许可\n二改\n@清水QR#1313",
+  "difficulty": 15.000004,
+  "file": "https://phira.5wyxi.com/files/9b259dc1-0042-4837-bd29-29c5685cfb36",
+  "id": 8120,
+  "illustration": "https://phira.5wyxi.com/files/395c28f8-17ef-4508-ba0b-3716df34b2c8",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "瞑々",
+  "preview": "https://phira.5wyxi.com/files/5950d4dc-e060-4b64-b8e5-7bff1536767d",
+  "ranked": true,
+  "rating": 0.8790277,
+  "ratingCount": 2293,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-04-10T14:48:31.259749Z",
+  "uploader": 140
+}

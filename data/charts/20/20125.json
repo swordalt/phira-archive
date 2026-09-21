@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:14Z",
+    "lastChanged": "2026-09-21T02:02:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-19T06:45:56.034917Z",
+  "charter": "二イロウのいぬ",
+  "composer": "Neru",
+  "created": "2024-05-19T06:45:56.034917Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/2a9ad8ea-2909-4fd5-afe6-6263ff665fbd",
+  "id": 20125,
+  "illustration": "https://phira.5wyxi.com/files/da1f2b86-be4d-4723-bc48-26b78ecb47a3",
+  "illustrator": "",
+  "level": "IN Lv15",
+  "name": "ロストワンの号哭",
+  "preview": "https://phira.5wyxi.com/files/32972bb7-c63b-45e3-86d2-44867f05bbf0",
+  "ranked": false,
+  "rating": 0.8387035,
+  "ratingCount": 785,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-05-19T06:45:56.034917Z",
+  "uploader": 14821
+}

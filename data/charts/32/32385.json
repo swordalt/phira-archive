@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:06Z",
+    "lastChanged": "2026-09-21T02:06:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-24T17:00:25.772412Z",
+  "charter": "¿Aether?",
+  "composer": "Schtiffles",
+  "created": "2025-01-24T17:00:25.772412Z",
+  "description": "供双人使用屏幕大的板子游玩",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/b4fd5801-2588-497d-8e25-284e88c760ec",
+  "id": 32385,
+  "illustration": "https://phira.5wyxi.com/files/577cdf50-7f33-41d2-941f-49b10a19e063",
+  "illustrator": "",
+  "level": "DP Lv.30",
+  "name": "？",
+  "preview": "https://phira.5wyxi.com/files/abe123a9-afc4-4a7d-87e2-5e3fb6c1957e",
+  "ranked": false,
+  "rating": 0.85098875,
+  "ratingCount": 16,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双人",
+    "plain"
+  ],
+  "updated": "2025-01-24T17:00:25.772412Z",
+  "uploader": 281127
+}

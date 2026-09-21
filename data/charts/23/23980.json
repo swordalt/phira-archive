@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:25Z",
+    "lastChanged": "2026-09-21T02:02:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-21T12:36:14.540402Z",
+  "charter": "Hoyue",
+  "composer": "ARForest",
+  "created": "2024-07-21T12:36:14.540402Z",
+  "description": null,
+  "difficulty": 15.300001,
+  "file": "https://phira.5wyxi.com/files/ec8aed14-691f-4ade-b832-2729385edffb",
+  "id": 23980,
+  "illustration": "https://phira.5wyxi.com/files/75cc84fc-be8b-4a00-90f3-f0131df4e0a5",
+  "illustrator": "",
+  "level": "FM Lv.15",
+  "name": "Inverted World",
+  "preview": "https://phira.5wyxi.com/files/986fc3d6-9a35-4f8f-8b46-3fe67ad5be60",
+  "ranked": false,
+  "rating": 0.9256934,
+  "ratingCount": 528,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-07-21T12:36:14.540402Z",
+  "uploader": 78815
+}

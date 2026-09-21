@@ -1,0 +1,41 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:07Z",
+    "lastChanged": "2026-09-21T02:05:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-12T10:56:48.278696Z",
+  "charter": "Extra-5『Bring』",
+  "composer": "かめりあ",
+  "created": "2026-08-10T12:42:28.211407Z",
+  "description": "ZMC比赛供谱，本人上传\n双人合作高难暴力键盘\n定数：18.6\n物量：2333\n@巧奈尔JoNa1er#2174320（配置协助+曲绘制作）\nB站：欧内的灰\n于2026.8.10修复一处表演问题\n于2026.8.12修复四处表演问题并微调部分配置\n清榜致歉（\n",
+  "difficulty": 18.600002,
+  "file": "https://phira.5wyxi.com/files/7f4a3e59-2e5c-417f-b8b1-f15b5cb01346",
+  "id": 72563,
+  "illustration": "https://phira.5wyxi.com/files/ce3259ae-ff8b-4b3e-8c06-df06b601f300",
+  "illustrator": "",
+  "level": "AT Lv.18",
+  "name": "Bring Our lgnition Back(1.1x)",
+  "preview": "https://phira.5wyxi.com/files/4c1d2eb6-b8f6-4156-932e-17ee8b6a60b7",
+  "ranked": false,
+  "rating": 0.8719708,
+  "ratingCount": 197,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "かめりあ",
+    "ZMC",
+    "SV",
+    "Vibro",
+    "高难",
+    "键盘",
+    "Jack",
+    "regular"
+  ],
+  "updated": "2026-08-12T10:56:48.278696Z",
+  "uploader": 2411003
+}

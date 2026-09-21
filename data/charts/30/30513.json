@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:50Z",
+    "lastChanged": "2026-09-21T02:02:50Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-12-07T13:29:46.504897Z",
+  "charter": "右果",
+  "composer": "Artifact vs. Dualcast",
+  "created": "2024-12-07T13:29:46.504897Z",
+  "description": "本谱面为@卞思捷  个人约稿",
+  "difficulty": 15.900003,
+  "file": "https://phira.5wyxi.com/files/06803357-8ed1-4862-981b-3ce31f7c5656",
+  "id": 30513,
+  "illustration": "https://phira.5wyxi.com/files/3b2079cd-eb33-45ad-a72c-10e17c860a9d",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Energizing Flame",
+  "preview": "https://phira.5wyxi.com/files/65cff3bf-bfe3-4c74-afa1-e8bcb9057d98",
+  "ranked": true,
+  "rating": 0.89118385,
+  "ratingCount": 1199,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "maimai",
+    "regular"
+  ],
+  "updated": "2025-02-15T03:14:14.229386Z",
+  "uploader": 140
+}

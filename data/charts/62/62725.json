@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:56Z",
+    "lastChanged": "2026-09-21T02:06:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-27T07:30:48.419361Z",
+  "charter": "mzycAB",
+  "composer": "Elektronomia",
+  "created": "2026-06-27T07:30:48.419361Z",
+  "description": null,
+  "difficulty": 12.0,
+  "file": "https://phira.5wyxi.com/files/6c79db02-b93c-498f-a6dd-128b0c9f9e12",
+  "id": 62725,
+  "illustration": "https://phira.5wyxi.com/files/e8598416-bf7c-42fc-ae5b-23e62a941183",
+  "illustrator": "",
+  "level": "IN Lv.12",
+  "name": "Sky High",
+  "preview": "https://phira.5wyxi.com/files/75904dae-1afc-48b6-9373-7745a6bfc4a9",
+  "ranked": false,
+  "rating": 0.7934091,
+  "ratingCount": 10,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2026-06-27T07:30:48.419361Z",
+  "uploader": 820220
+}

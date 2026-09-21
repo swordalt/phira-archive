@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:07:00Z",
+    "lastChanged": "2026-09-21T02:07:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-08T05:56:20.515023Z",
+  "charter": "qwpp",
+  "composer": "Yooh",
+  "created": "2026-08-08T05:56:20.515023Z",
+  "description": "BPM:180\n边缘=96.33% 过段=97.80%\n后光=98.90% 击破=99.63%\n@qwpp#296720",
+  "difficulty": 11.0,
+  "file": "https://phira.5wyxi.com/files/b6762c73-3980-4815-bd59-93dd3e21af28",
+  "id": 72028,
+  "illustration": "https://phira.5wyxi.com/files/29a3068c-3083-45ba-b0e7-137d9bdab082",
+  "illustrator": "",
+  "level": "Stream Lv.11",
+  "name": "Decoy[Cut Ver.]",
+  "preview": "https://phira.5wyxi.com/files/d33f290c-7078-473e-9f7f-6a5900f2bde0",
+  "ranked": false,
+  "rating": 0.9287596,
+  "ratingCount": 38,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "dfc",
+    "双指",
+    "plain"
+  ],
+  "updated": "2026-08-08T05:57:41.448296Z",
+  "uploader": 2112238
+}

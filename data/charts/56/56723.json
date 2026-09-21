@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:38Z",
+    "lastChanged": "2026-09-21T02:04:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-19T05:36:33.610936Z",
+  "charter": "无解",
+  "composer": "EmoCosine",
+  "created": "2026-04-19T05:36:33.610936Z",
+  "description": "0thPecJam参赛作品，编号RG45，谱面已微调",
+  "difficulty": 15.300001,
+  "file": "https://phira.5wyxi.com/files/ed033624-d217-4813-beb1-f502ac2e7425",
+  "id": 56723,
+  "illustration": "https://phira.5wyxi.com/files/cb4708e4-bc1c-44f5-9e7c-1486d36f8bb7",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Cutter",
+  "preview": "https://phira.5wyxi.com/files/8d3f9743-58bb-46a2-81e2-fb5a90f6c4f1",
+  "ranked": false,
+  "rating": 0.9404694,
+  "ratingCount": 750,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-04-19T05:36:33.610936Z",
+  "uploader": 640503
+}

@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:47Z",
+    "lastChanged": "2026-09-21T02:05:47Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-03T05:41:20.638891Z",
+  "charter": "Hiesnoze",
+  "composer": "Nota",
+  "created": "2024-05-03T05:41:20.638891Z",
+  "description": "优化了一下采音\n流速14→13.5\nBPM198\n单手切警告（？）",
+  "difficulty": 33.0,
+  "file": "https://phira.5wyxi.com/files/24cc8ee3-6b6e-47ae-bdfe-b8be064a7f90",
+  "id": 19344,
+  "illustration": "https://phira.5wyxi.com/files/57b1d5e6-108f-427f-877e-c73c32f96d93",
+  "illustrator": "",
+  "level": "4K Freeze Lv.33",
+  "name": "Ice Festival",
+  "preview": "https://phira.5wyxi.com/files/9fb835aa-b7c1-4ba1-89be-eb6dd984f3b8",
+  "ranked": false,
+  "rating": 0.959796,
+  "ratingCount": 141,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "BOFU2017",
+    "Furry",
+    "plain"
+  ],
+  "updated": "2024-05-03T05:41:20.638891Z",
+  "uploader": 158921
+}

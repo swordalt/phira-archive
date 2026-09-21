@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:21Z",
+    "lastChanged": "2026-09-21T02:06:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-08T14:16:13.551501Z",
+  "charter": "awabb",
+  "composer": "碧蓝档案",
+  "created": "2025-07-08T14:16:13.551501Z",
+  "description": "卡手（似乎不太卡手）本人上传",
+  "difficulty": 17.999992,
+  "file": "https://phira.5wyxi.com/files/643fc5de-533c-4a5e-9b69-fb54130e725f",
+  "id": 41194,
+  "illustration": "https://phira.5wyxi.com/files/66df91af-6842-423b-a813-28476ca66aba",
+  "illustrator": "",
+  "level": "4K",
+  "name": "HIGH5LANDER",
+  "preview": "https://phira.5wyxi.com/files/2a10c54c-7850-47b5-8e66-f8be979ab7bc",
+  "ranked": false,
+  "rating": 0.93903404,
+  "ratingCount": 425,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "叠",
+    "4k",
+    "plain"
+  ],
+  "updated": "2025-07-08T14:16:13.551501Z",
+  "uploader": 645822
+}

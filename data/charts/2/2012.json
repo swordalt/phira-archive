@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:11Z",
+    "lastChanged": "2026-09-21T02:01:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-14T07:33:26.511862Z",
+  "charter": "awa_az",
+  "composer": "Street",
+  "created": "2023-05-14T07:33:26.511862Z",
+  "description": "",
+  "difficulty": 14.655556,
+  "file": "https://phira.5wyxi.com/files/11e3c54f-a84c-4f75-bacf-687162a396a5",
+  "id": 2012,
+  "illustration": "https://phira.5wyxi.com/files/96dda701-b2a5-4724-8c24-50884b5d94e5",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Sakura Fubuki",
+  "preview": "https://phira.5wyxi.com/files/d0e6f9b4-9b95-4271-a2e2-993a04498362",
+  "ranked": true,
+  "rating": 0.9207057,
+  "ratingCount": 3566,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-04-17T16:02:30.777265Z",
+  "uploader": 6134
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:08Z",
+    "lastChanged": "2026-09-21T02:01:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-05T13:00:59.088087Z",
+  "charter": "Kedmue VS EfiLF1y",
+  "composer": "t+pazolite",
+  "created": "2023-05-05T13:00:59.088087Z",
+  "description": "与@EfiLF1y 的合作谱，已获得其授权\r\n*大量flick注意",
+  "difficulty": 15.200001,
+  "file": "https://phira.5wyxi.com/files/4e33cf66-c487-44ca-930c-1f8a2cd34675",
+  "id": 1209,
+  "illustration": "https://phira.5wyxi.com/files/b1ce64f4-d5b9-40c3-a44a-a9bff8ef71fa",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "T+ VS SHARK",
+  "preview": "https://phira.5wyxi.com/files/d649c5ec-f381-4278-8df5-f2e446d97f8f",
+  "ranked": false,
+  "rating": 0.8711532,
+  "ratingCount": 216,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-05-05T13:00:59.088087Z",
+  "uploader": 730
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:16Z",
+    "lastChanged": "2026-09-21T02:02:16Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-06-10T13:24:25.905155Z",
+  "charter": "SSHC",
+  "composer": "ZAQUVA",
+  "created": "2024-06-09T09:41:33.067562Z",
+  "description": "第二次改谱，针对913combo红键的采音错误。\n两次更新导致800多名玩家成绩的丢失，在此我表示非常抱歉。\n希望玩家和审核们可以提出许多建设性建议，一起把这张谱子打磨得更好。",
+  "difficulty": 16.1,
+  "file": "https://phira.5wyxi.com/files/3f2b6aa3-cf1f-4a1e-b9e2-fe11ca63c576",
+  "id": 21033,
+  "illustration": "https://phira.5wyxi.com/files/756e4ae9-c8ea-4b60-a36e-6cebfda87f65",
+  "illustrator": "",
+  "level": "AT  Lv.16",
+  "name": "Speculation",
+  "preview": "https://phira.5wyxi.com/files/1353be2d-2e43-4291-ae2f-3b7bf398be6b",
+  "ranked": false,
+  "rating": 0.876378,
+  "ratingCount": 1165,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-06-10T13:24:25.905155Z",
+  "uploader": 86995
+}

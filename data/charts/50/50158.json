@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:06Z",
+    "lastChanged": "2026-09-21T02:04:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-13T08:17:27.421756Z",
+  "charter": "霜炎酱",
+  "composer": "Riya",
+  "created": "2025-12-13T08:17:27.421756Z",
+  "description": null,
+  "difficulty": 15.000001,
+  "file": "https://phira.5wyxi.com/files/2fb77aa6-d2de-46ae-822e-09ca5e0d51dd",
+  "id": 50158,
+  "illustration": "https://phira.5wyxi.com/files/e3f2fa9f-37d0-4c0b-854a-5954d9fa6999",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Final Hope",
+  "preview": "https://phira.5wyxi.com/files/e6d787b0-d250-4db2-95f1-fe11e8e17202",
+  "ranked": false,
+  "rating": 0.89175713,
+  "ratingCount": 217,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "1stpecjam",
+    "冰与火之舞",
+    "regular"
+  ],
+  "updated": "2025-12-13T11:10:19.200429Z",
+  "uploader": 92
+}

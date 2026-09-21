@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:33Z",
+    "lastChanged": "2026-09-21T02:03:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-28T02:29:00.343766Z",
+  "charter": "小光",
+  "composer": "卢韦韬",
+  "created": "2025-07-28T02:29:00.343766Z",
+  "description": "来试试吧，写得不好见谅",
+  "difficulty": 19.6,
+  "file": "https://phira.5wyxi.com/files/f3d75e30-00b1-4ef7-a037-5b7c7a14f474",
+  "id": 42903,
+  "illustration": "https://phira.5wyxi.com/files/9ffb1b3f-fa4d-4e40-9e32-24231eb6057f",
+  "illustrator": "",
+  "level": "IN LV.16",
+  "name": "竞速小英雄",
+  "preview": "https://phira.5wyxi.com/files/a364d35e-89bc-4ec1-99a5-bc15535b2772",
+  "ranked": false,
+  "rating": 0.88414943,
+  "ratingCount": 1188,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-07-28T02:29:00.343766Z",
+  "uploader": 1797700
+}

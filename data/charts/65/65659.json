@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:57Z",
+    "lastChanged": "2026-09-21T02:04:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-11T09:15:23.435103Z",
+  "charter": "Coal（B站@雪白的煤炭）",
+  "composer": "KARUT",
+  "created": "2026-07-11T09:15:23.435103Z",
+  "description": "谱师本人上传 b站@雪白的煤炭",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/aa500481-5e0b-4962-a629-0a273efd1a31",
+  "id": 65659,
+  "illustration": "https://phira.5wyxi.com/files/9a8c0914-3922-4e32-941e-ee575f52c8ca",
+  "illustrator": "",
+  "level": "Ring Lv.15",
+  "name": "Shooting Athletes",
+  "preview": "https://phira.5wyxi.com/files/74c307fe-9019-4ca4-8632-90fbe9c03915",
+  "ranked": false,
+  "rating": 0.9157204,
+  "ratingCount": 390,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-11T09:15:23.435103Z",
+  "uploader": 2793085
+}

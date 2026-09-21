@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:44Z",
+    "lastChanged": "2026-09-21T02:01:44Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-09T03:34:52.623524Z",
+  "charter": "Rainbowcat",
+  "composer": "DJ Noriken",
+  "created": "2023-12-09T03:34:52.623524Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/414cc349-bfbe-4e08-9f12-60b6eb93f4d3",
+  "id": 12264,
+  "illustration": "https://phira.5wyxi.com/files/f79e467b-a689-45f4-80c2-5b39d00efc6f",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Quon",
+  "preview": "https://phira.5wyxi.com/files/6e67475c-d1f4-4e5f-b9c0-f0b3692727f8",
+  "ranked": false,
+  "rating": 0.847395,
+  "ratingCount": 207,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "WACCA",
+    "regular"
+  ],
+  "updated": "2023-12-09T03:34:52.623524Z",
+  "uploader": 5776
+}

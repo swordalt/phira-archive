@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:35Z",
+    "lastChanged": "2026-09-21T02:04:35Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-07T16:50:14.766129Z",
+  "charter": "...good night, PecJam.",
+  "composer": "proxime()",
+  "created": "2026-04-07T16:50:14.766129Z",
+  "description": "0thPecJam参赛谱\nFrom vivid/stasis\n谱师：\n@Fyato#11\n@Cybifer#148983\n@ziyang_51571#382375\n@_Vexxxx_#215\n@LogicM#403\n@Yumouk#6373\n@gaosheng#213\n",
+  "difficulty": 15.600002,
+  "file": "https://phira.5wyxi.com/files/0a49a62a-9c8e-45c4-acc4-1e09b920207a",
+  "id": 55375,
+  "illustration": "https://phira.5wyxi.com/files/1b44bf7d-1493-402e-9e0a-132a95bbf378",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "STARCRASHERS",
+  "preview": "https://phira.5wyxi.com/files/b6e73d36-8067-4f76-b973-e602bf492eb6",
+  "ranked": true,
+  "rating": 0.9282761,
+  "ratingCount": 4629,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-04-15T16:04:33.775313Z",
+  "uploader": 43
+}

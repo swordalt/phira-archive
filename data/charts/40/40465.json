@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:25Z",
+    "lastChanged": "2026-09-21T02:03:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-29T02:12:52.814656Z",
+  "charter": "程荧星光",
+  "composer": "john,初音ミク",
+  "created": "2025-06-29T02:12:52.814656Z",
+  "description": "v2,不是旧版（非重复上传）",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/920e0231-138b-45d9-8d26-5ff20b577e89",
+  "id": 40465,
+  "illustration": "https://phira.5wyxi.com/files/ea2224fa-8b3e-4028-9b12-a1298a075d7d",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "春嵐",
+  "preview": "https://phira.5wyxi.com/files/a9ccc919-5900-4506-b9b5-a165ee3b96f7",
+  "ranked": false,
+  "rating": 0.88823426,
+  "ratingCount": 308,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-06-29T02:12:52.814656Z",
+  "uploader": 1704669
+}

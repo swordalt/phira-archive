@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:35Z",
+    "lastChanged": "2026-09-21T02:01:35Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-10-16T13:57:16.249207Z",
+  "charter": "MKLJRo",
+  "composer": "MYUKKE.",
+  "created": "2023-10-01T04:01:51.786701Z",
+  "description": null,
+  "difficulty": 15.200001,
+  "file": "https://phira.5wyxi.com/files/902d2aba-412b-4dba-8b1d-9f48db404f6f",
+  "id": 9935,
+  "illustration": "https://phira.5wyxi.com/files/b09dfa41-1a6a-4824-88be-c4177d670835",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Era Breath",
+  "preview": "https://phira.5wyxi.com/files/d2b13c5a-c2e4-4426-95d9-1276fc0cae2d",
+  "ranked": false,
+  "rating": 0.83855313,
+  "ratingCount": 688,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Orzmic",
+    "regular"
+  ],
+  "updated": "2023-10-16T13:57:16.249207Z",
+  "uploader": 463394
+}

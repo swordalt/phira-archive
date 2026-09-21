@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:28Z",
+    "lastChanged": "2026-09-21T02:01:28Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-22T12:35:34.819650Z",
+  "charter": "retims",
+  "composer": "iKz",
+  "created": "2023-08-22T12:35:34.819650Z",
+  "description": "做的很刑\n建议先开Autoplay看一遍\n不喜勿喷\n虽然谱子很平淡\n屏幕不花\n更新日志：\n08/21/2023 谱面创作完成,全谱完成检查,纠错器未检测到关键性错误。\n08/22/2023 初次上传(审核老爷们第一次请不要审)\n08/22/2023 第二次上传:修改了谱面预览时间(已通过)\n08/23/2023 更新:修改部分音符Y值偏移和难度等级标识(未知错误闪退后上传失败)\n08/23/2023 更新:修改部分音符Y值偏移和难度等级标识(待审核)",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/ffb485de-b74a-4af5-918b-61dccfab2633",
+  "id": 8200,
+  "illustration": "https://phira.5wyxi.com/files/ab6ed6a5-399f-4af0-b519-d2fa2648d1ea",
+  "illustrator": "",
+  "level": "AT",
+  "name": "约会誓言",
+  "preview": "https://phira.5wyxi.com/files/93489d8d-0daf-4426-8538-44c8225c56b6",
+  "ranked": false,
+  "rating": 0.78227466,
+  "ratingCount": 627,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-08-23T10:40:22.669514Z",
+  "uploader": 32954
+}

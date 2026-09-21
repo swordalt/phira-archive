@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:12Z",
+    "lastChanged": "2026-09-21T02:04:12Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-16T13:56:34.056046Z",
+  "charter": "HL-小蔡丫",
+  "composer": "原口沙铺",
+  "created": "2026-01-16T13:56:34.056046Z",
+  "description": null,
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/69cafe11-16f3-43e8-b7de-ebe540ed61f6",
+  "id": 51281,
+  "illustration": "https://phira.5wyxi.com/files/3183c306-7bc3-4dd3-aa40-66accda0f72d",
+  "illustrator": "",
+  "level": "ZL",
+  "name": "歌唱bot",
+  "preview": "https://phira.5wyxi.com/files/c13efdda-2c68-4316-8e90-ababd801a489",
+  "ranked": false,
+  "rating": 0.7702763,
+  "ratingCount": 4,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-01-16T13:56:34.056046Z",
+  "uploader": 2021835
+}

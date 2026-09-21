@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:58Z",
+    "lastChanged": "2026-09-21T02:04:58Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-13T21:08:16.304494Z",
+  "charter": "Guifei Y",
+  "composer": "SCTL",
+  "created": "2026-07-13T21:08:16.304494Z",
+  "description": null,
+  "difficulty": 20.0,
+  "file": "https://phira.5wyxi.com/files/9bc97ea5-cdc8-42cc-b9b2-83016de9ee2d",
+  "id": 66353,
+  "illustration": "https://phira.5wyxi.com/files/31ce3145-36f4-4ffd-a157-75ef2effaf15",
+  "illustrator": "",
+  "level": "Lv.25",
+  "name": "Cervelle Connexion",
+  "preview": "https://phira.5wyxi.com/files/85509b09-2d05-4ab8-b4de-9fdc59cccb48",
+  "ranked": false,
+  "rating": 0.77882797,
+  "ratingCount": 28,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-13T21:08:16.304494Z",
+  "uploader": 2897015
+}

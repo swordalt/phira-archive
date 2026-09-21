@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:52Z",
+    "lastChanged": "2026-09-21T02:03:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-23T11:28:27.559075Z",
+  "charter": "'Karen'pensait que c'était une belle chanson, alors il voulait l'écrire.",
+  "composer": "黒皇帝",
+  "created": "2025-09-23T11:28:27.559075Z",
+  "description": null,
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/eb9465d3-56c6-4a77-a012-2c73493be08c",
+  "id": 47116,
+  "illustration": "https://phira.5wyxi.com/files/9b07c54f-563b-4b1f-938b-63e37747b830",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "Belle de Nuit (Version d'Auteur)",
+  "preview": "https://phira.5wyxi.com/files/bce7e993-fa80-4f40-8aad-fd953ef58e8d",
+  "ranked": false,
+  "rating": 0.9031794,
+  "ratingCount": 64,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-23T11:28:27.559075Z",
+  "uploader": 65267
+}

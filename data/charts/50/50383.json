@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:07Z",
+    "lastChanged": "2026-09-21T02:04:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-20T13:27:38.473292Z",
+  "charter": "yraihy",
+  "composer": "TJ.hangneil / 怃肆",
+  "created": "2025-12-20T13:27:38.473292Z",
+  "description": null,
+  "difficulty": 15.900001,
+  "file": "https://phira.5wyxi.com/files/b20dae20-8a27-4e22-94c2-f6777eb8e488",
+  "id": 50383,
+  "illustration": "https://phira.5wyxi.com/files/c351f966-1c1a-4ea4-98ec-0ed6e6cae6c5",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "APOLLO Remix",
+  "preview": "https://phira.5wyxi.com/files/7c6ff053-a736-45a0-8115-9c35c20c2735",
+  "ranked": false,
+  "rating": 0.84571856,
+  "ratingCount": 67,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-12-20T13:27:38.473292Z",
+  "uploader": 73232
+}

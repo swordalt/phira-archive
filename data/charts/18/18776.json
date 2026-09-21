@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:09Z",
+    "lastChanged": "2026-09-21T02:02:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-21T10:37:43.148863Z",
+  "charter": "LXyhuman",
+  "composer": "DJ Noriken",
+  "created": "2024-04-21T10:37:43.148863Z",
+  "description": "本人上传\n加了些动效，928cb处大改。\n整张谱的思路重构，部分配置重写\n难度降低\nps：\n传错谱了，审核过一下，谢谢",
+  "difficulty": 15.3,
+  "file": "https://phira.5wyxi.com/files/e80f1616-fadd-45d1-af0d-9bd5c9f1f6cd",
+  "id": 18776,
+  "illustration": "https://phira.5wyxi.com/files/57a592ad-508a-4b2b-9cf9-7ed52d075ac0",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Shinonome",
+  "preview": "https://phira.5wyxi.com/files/4a66c1dc-8c1a-43a7-811f-4f50b71325b6",
+  "ranked": false,
+  "rating": 0.9176628,
+  "ratingCount": 384,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "CHRONOCIRCLE",
+    "regular"
+  ],
+  "updated": "2024-04-21T10:37:43.148863Z",
+  "uploader": 912972
+}

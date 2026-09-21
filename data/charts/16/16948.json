@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:02Z",
+    "lastChanged": "2026-09-21T02:02:02Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-09T16:29:31.525135Z",
+  "charter": "QR",
+  "composer": "Sound Souler",
+  "created": "2024-03-09T16:29:31.525135Z",
+  "description": "2ndWJC参赛谱面NO.16",
+  "difficulty": 14.400001,
+  "file": "https://phira.5wyxi.com/files/a8f4da44-7fc7-4144-bc9d-a830130866f5",
+  "id": 16948,
+  "illustration": "https://phira.5wyxi.com/files/95e8fd2c-45d3-45bb-9f89-a7b125921db4",
+  "illustrator": "",
+  "level": "IN  Lv.14",
+  "name": "Paradise Ⅱ",
+  "preview": "https://phira.5wyxi.com/files/f5be11d7-a24a-4f30-91ab-fe02baf21b27",
+  "ranked": true,
+  "rating": 0.94074374,
+  "ratingCount": 2366,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "2ndWJC",
+    "regular"
+  ],
+  "updated": "2024-03-09T16:29:31.525135Z",
+  "uploader": 1313
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:35Z",
+    "lastChanged": "2026-09-21T02:02:35Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-19T14:17:44.526796Z",
+  "charter": "WRUL",
+  "composer": "Camellia",
+  "created": "2024-08-19T14:17:44.526796Z",
+  "description": "本人上传 建议HT游玩",
+  "difficulty": 18.0,
+  "file": "https://phira.5wyxi.com/files/9a52f5e9-ce7d-456c-8b00-530c625173bf",
+  "id": 26558,
+  "illustration": "https://phira.5wyxi.com/files/e2e2688b-5a72-4101-afdf-42819856042f",
+  "illustrator": "",
+  "level": "AT Lv.18",
+  "name": "Xeroa",
+  "preview": "https://phira.5wyxi.com/files/ee3240f0-d06e-41cd-ab03-6cf03d1037c1",
+  "ranked": false,
+  "rating": 0.81075585,
+  "ratingCount": 64,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-19T14:17:44.526796Z",
+  "uploader": 12997
+}

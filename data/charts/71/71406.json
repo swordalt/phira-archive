@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:05Z",
+    "lastChanged": "2026-09-21T02:05:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-21T03:48:18.386553Z",
+  "charter": "White_foggy",
+  "composer": "しらたま/丸山公詳/七瀬雄一/保科めぐみ",
+  "created": "2026-08-05T09:30:14.808028Z",
+  "description": "第一次写谱面，我在这个谱面上花了12个小时（\n希望大家喜欢！\n\n\r\n\r\n歌曲名：スタートリップ\n\r\n歌手：保科めぐみ\n\r\n作词：保科めぐみ/しらたま\r\n作曲：丸山公詳\r\n\n编曲：七瀬雄一/丸山公詳\n\r\n曲绘：しらたま\n\r\n\r\n这是视觉小说《星空列车与白的旅行》的主题曲\n\r\n\n定数：IN Lv 13.5\n\r\n键数：609\r\n\n事件数：496\r\nB站：BV1DbGg6jEEc\r\n感谢B站 Lens_or_Lays 的指导！",
+  "difficulty": 13.5,
+  "file": "https://phira.5wyxi.com/files/6c934004-d890-45ac-825a-9757c0364874",
+  "id": 71406,
+  "illustration": "https://phira.5wyxi.com/files/050c7f7d-ab1c-4903-a846-3c3a71791da9",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "スタートリップ（short ver.）",
+  "preview": "https://phira.5wyxi.com/files/94996396-6a26-4380-8fe8-9a0ac730684d",
+  "ranked": false,
+  "rating": 0.8996923,
+  "ratingCount": 55,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "星空列车与白的旅行",
+    "星白",
+    "多指",
+    "regular"
+  ],
+  "updated": "2026-08-21T03:48:18.386553Z",
+  "uploader": 1007122
+}

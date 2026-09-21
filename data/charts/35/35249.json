@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:07Z",
+    "lastChanged": "2026-09-21T02:03:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-03-15T07:29:12.151816Z",
+  "charter": "ESAMA",
+  "composer": "kanaria/GUMI",
+  "created": "2025-03-15T07:29:12.151816Z",
+  "description": "曲目：QUEEN\n曲师：kanaria\n谱师：-Esama- B站同名\n定数： 14.8\n﻿——————————————\n录制：RPE Recorder by@不会特效の点缀星空 \n同时感谢@Haru_12 哈如大神提供的哈如。很好用会继续回购。\n以及感谢@muun_585 的kkp\n——————————————\n其实是根据legacy重制而来的一张\n旧谱大概是我二谱时期的产物了（）\n这次前半有基于@生姜片片片片 之前给的建议重写，改正了我新手时期的错误\n——————————————\nbilibili：BV1yVAXeREk1",
+  "difficulty": 14.800003,
+  "file": "https://phira.5wyxi.com/files/60d4c09b-2cad-475d-8c11-9c7d530f40c5",
+  "id": 35249,
+  "illustration": "https://phira.5wyxi.com/files/74a154ab-f4ce-47fe-a5f9-c9bb5ee78007",
+  "illustrator": "",
+  "level": "AT Lv.14",
+  "name": "QUEEN",
+  "preview": "https://phira.5wyxi.com/files/a3457a6b-b56f-4cd8-9964-f03ceed5bf42",
+  "ranked": false,
+  "rating": 0.94603556,
+  "ratingCount": 4174,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-03-15T07:29:12.151816Z",
+  "uploader": 385765
+}

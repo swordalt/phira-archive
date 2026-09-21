@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:56Z",
+    "lastChanged": "2026-09-21T02:02:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-03-23T06:26:25.703098Z",
+  "charter": "WinterPT//反響//",
+  "composer": "とろまる",
+  "created": "2025-01-18T15:10:50.215154Z",
+  "description": "简洁的谱面 事件数2k左右；\nBPM为144 有较多硬抗，不过现在大部分都被删了（笑）\n感谢muun，Ssuent，Rainyseed等谱师提出的谱面修改建议\n十分感谢1E3066对谱面的修改！\nBV12NwMebE5f 支持一下谢谢喵",
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/e2223346-a754-4e7d-910c-88df94e160af",
+  "id": 32011,
+  "illustration": "https://phira.5wyxi.com/files/9f304563-eeee-4d60-8723-53ba55c0d152",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Reverberate",
+  "preview": "https://phira.5wyxi.com/files/10948e70-5e2a-45ac-ba8c-5128a227fb19",
+  "ranked": true,
+  "rating": 0.91702676,
+  "ratingCount": 880,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "CHUNITHM",
+    "regular"
+  ],
+  "updated": "2025-03-23T06:26:25.703098Z",
+  "uploader": 10002
+}

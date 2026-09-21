@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:41Z",
+    "lastChanged": "2026-09-21T02:02:41Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-09-28T02:23:13.123556Z",
+  "charter": "Restain & SSHC & Æ-LeИer / π℡",
+  "composer": "xi",
+  "created": "2024-09-28T02:23:13.123556Z",
+  "description": "谱师：米酪 SSHC Æ-LeИer / π℡ 米酪改谱（五改）\n因为该谱子初版被拿去做茉莉杯半决赛谱面，只赶了三天，有些粗糙：此改谱添加了动效，重写了尾杀，应该不会再改了\n与2.17修改定数16.9",
+  "difficulty": 16.900003,
+  "file": "https://phira.5wyxi.com/files/4cca0b61-fe93-42bb-8302-6508c7eef5f8",
+  "id": 28101,
+  "illustration": "https://phira.5wyxi.com/files/7fb87ae6-50d2-46df-921f-97f941fc7b73",
+  "illustrator": "",
+  "level": "AT  Lv.16",
+  "name": "Bad Elixir",
+  "preview": "https://phira.5wyxi.com/files/5a032ebc-e508-4ac4-903a-589eed94f019",
+  "ranked": false,
+  "rating": 0.9084533,
+  "ratingCount": 465,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-17T15:34:09.829330Z",
+  "uploader": 89520
+}

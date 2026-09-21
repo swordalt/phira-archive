@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:05Z",
+    "lastChanged": "2026-09-21T02:01:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-04-02T08:24:52.826382Z",
+  "charter": "杭杭",
+  "composer": "anubasu-anubasu",
+  "created": "2023-04-02T08:24:52.826382Z",
+  "description": "已经获得杭杭的授权了～",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/ae728b4c-61c0-4d3c-9666-aeb47e7b8088",
+  "id": 239,
+  "illustration": "https://phira.5wyxi.com/files/e23036ee-1d8e-497f-9d24-418fe8f73568",
+  "illustrator": "瑞矢斯 Ration",
+  "level": "IN",
+  "name": "Materialize Anything",
+  "preview": "https://phira.5wyxi.com/files/f16d85bc-fdb8-4d0f-a03c-a36737c75198",
+  "ranked": false,
+  "rating": 0.9265549,
+  "ratingCount": 324,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-04-02T08:24:52.826382Z",
+  "uploader": 235
+}

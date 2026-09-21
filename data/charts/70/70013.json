@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:33Z",
+    "lastChanged": "2026-09-21T02:05:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-29T17:32:44.523418Z",
+  "charter": "DiAMONDGAMER",
+  "composer": "fizzd",
+  "created": "2026-07-29T17:32:44.523418Z",
+  "description": "这是一张《节奏医生》的还原向谱面！\n由于关卡过于复杂，我们建议您在游玩前完整了解《节奏医生》的玩法……\n\n谱面信息：\n- 制谱时长1d 13h 28min\n（≈37.5h）\n- 总判定线 167\n- 总事件 43K\n- 总贴图 9\n\nB站演示视频：@DiAMONDGAMER\n\n@DiAMONDGAMER#2067（曲绘制作与视频发布）",
+  "difficulty": 14.199991,
+  "file": "https://phira.5wyxi.com/files/984e238d-d870-4db4-a603-31567cb33fae",
+  "id": 70013,
+  "illustration": "https://phira.5wyxi.com/files/63c4834a-4c3f-416f-9945-292f0bb42271",
+  "illustrator": "",
+  "level": "RD 7-X",
+  "name": "Miracle Defibrillator",
+  "preview": "https://phira.5wyxi.com/files/666a971f-5b1e-4cf3-a6e8-1870a1aa52bb",
+  "ranked": false,
+  "rating": 0.97689533,
+  "ratingCount": 108,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "节奏医生",
+    "还原",
+    "troll"
+  ],
+  "updated": "2026-08-01T10:02:11.877540Z",
+  "uploader": 841834
+}

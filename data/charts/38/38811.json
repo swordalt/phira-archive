@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:20Z",
+    "lastChanged": "2026-09-21T02:03:20Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-27T19:50:10.163274Z",
+  "charter": "XSilence_10231",
+  "composer": "かめりあ",
+  "created": "2025-05-27T19:50:10.163274Z",
+  "description": "曲目:GHOST\n作曲:かめりあ\n谱面:XSilence_10231\n时长:349.00s\n难度:不知道\n\n事件数:18711\n物量:3777\nBPM:110\n线数:201\n\n制谱器:Re:PhiEdit\n渲染器:Phi Recorder\n渲染比例:3:2\n\n双指可打\n\n改了个定数",
+  "difficulty": 17.000004,
+  "file": "https://phira.5wyxi.com/files/bec1cfba-d633-41fd-9586-233856876f5f",
+  "id": 38811,
+  "illustration": "https://phira.5wyxi.com/files/76153a66-9200-48ec-ad57-347cce38708c",
+  "illustrator": "",
+  "level": "IN Lv.17",
+  "name": "GHOST",
+  "preview": "https://phira.5wyxi.com/files/cf65102e-565f-4949-888b-177415ad12d1",
+  "ranked": false,
+  "rating": 0.94667256,
+  "ratingCount": 1025,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "regular"
+  ],
+  "updated": "2025-08-22T13:20:53.678037Z",
+  "uploader": 10606
+}

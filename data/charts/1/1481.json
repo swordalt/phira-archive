@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:08Z",
+    "lastChanged": "2026-09-21T02:01:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-09T10:15:47.488533Z",
+  "charter": "斷劍のChlith&Langess",
+  "composer": "Rayson",
+  "created": "2023-05-09T10:15:47.488533Z",
+  "description": "代人上传，感谢@langexs 的授权！谱师：@langexs @Chlizi",
+  "difficulty": 15.700003,
+  "file": "https://phira.5wyxi.com/files/b5358811-56b8-446c-9db8-90df0271bf85",
+  "id": 1481,
+  "illustration": "https://phira.5wyxi.com/files/89968aa5-df35-4178-85c9-0f752a262ea3",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "斷劍の獄",
+  "preview": "https://phira.5wyxi.com/files/f61c64e0-bd83-4d85-bf95-020bd1145b10",
+  "ranked": false,
+  "rating": 0.84863925,
+  "ratingCount": 425,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "skill",
+    "regular"
+  ],
+  "updated": "2023-05-09T10:15:47.488533Z",
+  "uploader": 3907
+}

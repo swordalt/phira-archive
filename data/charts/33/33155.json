@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:01Z",
+    "lastChanged": "2026-09-21T02:03:01Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-02T22:38:50.023614Z",
+  "charter": "唯空",
+  "composer": "ヨルシカ",
+  "created": "2025-02-02T22:38:50.023614Z",
+  "description": null,
+  "difficulty": 15.300001,
+  "file": "https://phira.5wyxi.com/files/07fdb22c-6575-41a2-87b0-aa9d08314e01",
+  "id": 33155,
+  "illustration": "https://phira.5wyxi.com/files/1c00b392-f6a2-41b7-96a8-cf7551e8a47f",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "言って。",
+  "preview": "https://phira.5wyxi.com/files/45ae6c36-5adb-4e0e-8752-0f0cf6526699",
+  "ranked": false,
+  "rating": 0.9419029,
+  "ratingCount": 1380,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "ヨルシカ",
+    "suis",
+    "n-buna",
+    "ナブナ",
+    "regular"
+  ],
+  "updated": "2025-02-02T22:38:50.023614Z",
+  "uploader": 4190
+}

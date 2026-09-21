@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:21Z",
+    "lastChanged": "2026-09-21T02:01:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-07-21T09:46:02.421776Z",
+  "charter": "Nobler",
+  "composer": "iF",
+  "created": "2023-07-21T09:46:02.421776Z",
+  "description": "新人第二张谱，本人上传\nB站ID:锘_No（UID:473013596）\n尾杀只需处理长条即可，为避免判定失败，请确保你精准地打击在长条下落的位置上（技术力不足见谅www）",
+  "difficulty": 13.700003,
+  "file": "https://phira.5wyxi.com/files/fd6a936d-9c56-4d27-ab36-278035c207da",
+  "id": 5754,
+  "illustration": "https://phira.5wyxi.com/files/e7290895-bdd9-4440-b5a4-a167ce0366db",
+  "illustrator": "",
+  "level": "AT Lv.13",
+  "name": "Initialize",
+  "preview": "https://phira.5wyxi.com/files/738b24f5-75e5-42a2-95a9-9f8fd580f8c5",
+  "ranked": false,
+  "rating": 0.86005545,
+  "ratingCount": 272,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "协调",
+    "读谱",
+    "WAVEAT",
+    "regular"
+  ],
+  "updated": "2023-07-21T09:46:02.421776Z",
+  "uploader": 164370
+}

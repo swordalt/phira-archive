@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:40Z",
+    "lastChanged": "2026-09-21T02:04:40Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-03T06:19:57.381960Z",
+  "charter": "The message is coming from 75",
+  "composer": "Project Mons",
+  "created": "2026-05-03T06:19:57.381960Z",
+  "description": null,
+  "difficulty": 14.400002,
+  "file": "https://phira.5wyxi.com/files/a78c6e7c-fe8e-42a0-b966-1df2b51a42a8",
+  "id": 57667,
+  "illustration": "https://phira.5wyxi.com/files/8a4ac63e-089a-4d4f-a252-91b2d126dff3",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Heart Message feat. 時守あおい",
+  "preview": "https://phira.5wyxi.com/files/63b1b3f6-7918-4162-b55c-400757ae59c4",
+  "ranked": false,
+  "rating": 0.908796,
+  "ratingCount": 234,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "MuseDash",
+    "Heart",
+    "Message",
+    "regular"
+  ],
+  "updated": "2026-05-03T06:19:57.381960Z",
+  "uploader": 431984
+}

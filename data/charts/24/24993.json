@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:29Z",
+    "lastChanged": "2026-09-21T02:02:29Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-11T08:47:10.800255Z",
+  "charter": "BRH",
+  "composer": "Nces",
+  "created": "2024-08-02T03:23:18.615793Z",
+  "description": "新人初谱，请多指教\n8月11日更新：铺面微改\n谱师本人上传",
+  "difficulty": 16.000004,
+  "file": "https://phira.5wyxi.com/files/fe2861b7-3086-41ca-8211-46514429e0be",
+  "id": 24993,
+  "illustration": "https://phira.5wyxi.com/files/e9e6cb8c-97d8-4751-8640-38b607641da0",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Burn",
+  "preview": "https://phira.5wyxi.com/files/8f43f21f-859e-4d18-bb3e-36a2fd9fcba2",
+  "ranked": false,
+  "rating": 0.78267753,
+  "ratingCount": 563,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-03-09T00:16:19.152134Z",
+  "uploader": 1185310
+}

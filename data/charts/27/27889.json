@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:41Z",
+    "lastChanged": "2026-09-21T02:02:41Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-09-22T12:42:00.379347Z",
+  "charter": "ZYZB ~SeeYouAgain~",
+  "composer": "DingerBox",
+  "created": "2024-09-20T16:36:01.171448Z",
+  "description": "谱师本人上传\n曲绘是网上找的，发的人署名是克劳蒂亚，也没找着其他来源，就这样先吧\n\n叠层甲，本人不具有除谱面外其余资源的版权，侵删\n\n修改了1061cb的谱面错误\n\n协调一张\n因为觉得官谱太创了想写个没那么创的谱子然后写出了很多奇怪的配置.zip（）\n\n谱面配置经我实测能打，部分配置需反手解决，不过由于phira判定的原因有些吃音，抱歉",
+  "difficulty": 15.2,
+  "file": "https://phira.5wyxi.com/files/b0f24ed7-4b2a-4f1d-9594-2388045b17d1",
+  "id": 27889,
+  "illustration": "https://phira.5wyxi.com/files/2929bbac-9f9b-4967-a91f-b90db79861e2",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "bye",
+  "preview": "https://phira.5wyxi.com/files/ce2085cb-c305-45eb-867c-c93205a36a91",
+  "ranked": false,
+  "rating": 0.8921838,
+  "ratingCount": 824,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "15",
+    "协调",
+    "regular"
+  ],
+  "updated": "2024-09-22T12:42:00.379347Z",
+  "uploader": 263516
+}

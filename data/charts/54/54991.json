@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:33Z",
+    "lastChanged": "2026-09-21T02:04:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-27T13:41:56.561512Z",
+  "charter": "[CHARTER_NOT_FOUND]",
+  "composer": "なきそ",
+  "created": "2026-04-04T03:06:29.774760Z",
+  "description": "本人上传，修改了部分内容（黄键保护在Phira中未能体现）。评议时请谨慎给票。",
+  "difficulty": 14.900001,
+  "file": "https://phira.5wyxi.com/files/9ba49c6e-98a8-4fb9-ab2a-23ec56ac43b5",
+  "id": 54991,
+  "illustration": "https://phira.5wyxi.com/files/1ec01c5c-0e2e-4f74-b8bf-9c3bbc56302b",
+  "illustrator": "",
+  "level": "IN Lv.ψ",
+  "name": "化けの花",
+  "preview": "https://phira.5wyxi.com/files/825b3295-894c-4c87-9e6d-f20a26e1da07",
+  "ranked": true,
+  "rating": 0.91503555,
+  "ratingCount": 3406,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "pjsk",
+    "0thPecJam",
+    "regular"
+  ],
+  "updated": "2026-08-27T13:41:56.561512Z",
+  "uploader": 81
+}

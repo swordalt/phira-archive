@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:55Z",
+    "lastChanged": "2026-09-21T02:01:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-09T16:59:14.025213Z",
+  "charter": "Furple vs Stellate",
+  "composer": "xi",
+  "created": "2024-02-09T16:59:14.025213Z",
+  "description": "Zephyros 是古希腊神话中掌管西风的神。本谱面大量表演的目的是体现“风”与“西风”的主题。",
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/7937d971-9a30-4e6d-a274-ef8925988c3d",
+  "id": 15174,
+  "illustration": "https://phira.5wyxi.com/files/3e399f85-cfa9-4848-b1a6-b1772624172a",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "Zephyros",
+  "preview": "https://phira.5wyxi.com/files/586b9244-e324-4b0f-b71e-2fee96bce31c",
+  "ranked": false,
+  "rating": 0.8091391,
+  "ratingCount": 110,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2024-03-09T15:24:17.835540Z",
+  "uploader": 11079
+}

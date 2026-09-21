@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:38Z",
+    "lastChanged": "2026-09-21T02:04:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-18T14:48:48.429391Z",
+  "charter": "Qx625",
+  "composer": "Evin a'k",
+  "created": "2026-04-18T14:48:48.429391Z",
+  "description": "b站Qx625，欧师本人上传，求过审",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/7b0aca9f-9d74-455d-b903-c43711d54d79",
+  "id": 56645,
+  "illustration": "https://phira.5wyxi.com/files/1aead88c-60a5-4bce-bb1c-ab4c2de23bb6",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Ēvocator",
+  "preview": "https://phira.5wyxi.com/files/7c75e510-0ab9-489a-9347-94957e274f83",
+  "ranked": false,
+  "rating": 0.9144496,
+  "ratingCount": 197,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-18T10:29:02.880972Z",
+  "uploader": 1129651
+}

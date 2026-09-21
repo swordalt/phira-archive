@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:28Z",
+    "lastChanged": "2026-09-21T02:02:28Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-31T09:59:22.414088Z",
+  "charter": "Heulis",
+  "composer": "Ponchi♪ feat. はぁち",
+  "created": "2024-07-31T09:59:22.414088Z",
+  "description": "曲名：インフェルノシティ\n曲师：Ponchi♪ feat. はぁち\n谱师：Heulis\n难度：HR Lv.15（15.8）\n物量：1680\n事件数：5793\n判定线数：24（虽然只用了20条）\n配置很正常，没做什么新东西，稍微加了点shader（感谢来自Leekeqing）的shader指导，不然我就等着报错了，同时shader内容只做了俩内置效果，算是一个shader测试了，这方面力度可能有点打了，有点影响读谱了，适应一下。\n谱的配置没什么问题，可能引导有点差，将就打吧，其实手感也不大行，配置中包涵了24分交互和16分小位移双押，有点小难的",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/f4bc8e79-bf7a-460a-b9ea-bb78dea48d60",
+  "id": 24812,
+  "illustration": "https://phira.5wyxi.com/files/0ef2e05a-193e-49e5-82e4-8c095ed2f570",
+  "illustrator": "",
+  "level": "HR Lv.15",
+  "name": "インフェルノシティ",
+  "preview": "https://phira.5wyxi.com/files/8810a409-52f4-40e7-b8a1-f7b596ab1800",
+  "ranked": false,
+  "rating": 0.8783384,
+  "ratingCount": 705,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-07-31T09:59:22.414088Z",
+  "uploader": 9271
+}

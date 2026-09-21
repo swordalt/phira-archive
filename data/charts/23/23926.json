@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:54Z",
+    "lastChanged": "2026-09-21T02:05:54Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-11-27T10:59:50.142315Z",
+  "charter": "861168 with 赤城&紬",
+  "composer": "米倉千尋",
+  "created": "2024-07-20T15:00:03.353523Z",
+  "description": "Yuzu Dan Technical\r\n本段位为模仿DFC的双指段位，本谱为双指谱。\r\n谱师定数：DFC 10.3（～IN 16.2）\r\n发布相关视频请@谱师681186",
+  "difficulty": 10.300001,
+  "file": "https://phira.5wyxi.com/files/604e998e-df93-4f48-979a-e66561c54a95",
+  "id": 23926,
+  "illustration": "https://phira.5wyxi.com/files/f0e0731d-9546-4e79-9560-2a0c233d8946",
+  "illustrator": "",
+  "level": "DF Technical Lv.10",
+  "name": "恋せよ乙女!",
+  "preview": "https://phira.5wyxi.com/files/76440227-237e-4686-ba00-ffb1c9947fd1",
+  "ranked": false,
+  "rating": 0.93764377,
+  "ratingCount": 374,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "底力",
+    "DFC",
+    "plain"
+  ],
+  "updated": "2024-11-27T10:59:50.142315Z",
+  "uploader": 953780
+}

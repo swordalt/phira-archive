@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:17Z",
+    "lastChanged": "2026-09-21T02:02:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-06-17T07:58:25.002118Z",
+  "charter": "破光碎影",
+  "composer": "MDK",
+  "created": "2024-06-17T07:58:25.002118Z",
+  "description": "一个微小的方块，驰骋于无尽的世界之中... 使用@cmdysj 的Re：phiedit制谱 使用prpr:client渲染 曲目：Dash 曲师：MDK 曲绘：取自Geomeytry Dash本家 BPM：128 定数：？（15.7） 事件数:10502 + 830 共耗时：2月 + 0.5个月 由于16:9会出现奇异bug，所以请使用标准4:3游玩（将宽高比调至1.33333）",
+  "difficulty": 15.700002,
+  "file": "https://phira.5wyxi.com/files/3cde90da-a172-436f-81c8-2dd171ed3922",
+  "id": 21459,
+  "illustration": "https://phira.5wyxi.com/files/71f50954-bb70-489a-932e-38fec3bc34ae",
+  "illustrator": "",
+  "level": "SP ?",
+  "name": "DASH",
+  "preview": "https://phira.5wyxi.com/files/94739b1a-f0e2-4311-96ad-7f24c6e88d0e",
+  "ranked": false,
+  "rating": 0.934763,
+  "ratingCount": 509,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "sp",
+    "几何冲刺",
+    "regular"
+  ],
+  "updated": "2024-06-17T07:58:25.002118Z",
+  "uploader": 115786
+}

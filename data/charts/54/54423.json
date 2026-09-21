@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:29Z",
+    "lastChanged": "2026-09-21T02:04:29Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-21T17:53:41.482154Z",
+  "charter": "MCyyr",
+  "composer": "MYUKKE.",
+  "created": "2026-03-21T17:53:41.482154Z",
+  "description": "谱师本人上传，建议游玩前先进行0.5倍速练习\n这回真的是9小时速写了（）\n最近突然喜欢上打sv谱，在Malody搜了一些sv谱玩了一会后发现这些sv谱子都有一个共性，就是整个谱面在动，就好像是有一个人在拖动时间轴一样，只不过sv谱子里那个人发神经一般瞎动时间轴，以营造出变速效果。我在RPE里面就通过一根透明判定线带着谱面一直动来实现这种变速，这也是我第一次在常规（？）谱面中运用这种sv\n说是9小时速写，其实写的挺累的，线要怎么动来取得好一些的变速效果，以及sv谱面的跳变瞬移，这些都有一点点试出来。还有一些绑线的地方，线怎么运动好看，这些都要试的。",
+  "difficulty": 17.200003,
+  "file": "https://phira.5wyxi.com/files/320691e8-d742-4bb0-8f1d-3711c1bd7d93",
+  "id": 54423,
+  "illustration": "https://phira.5wyxi.com/files/e496ea33-b069-42ed-8615-61141dfa421a",
+  "illustrator": "",
+  "level": "SV Lv.?",
+  "name": "OiL-CAD-OiL",
+  "preview": "https://phira.5wyxi.com/files/764dafc8-8147-4ea2-82d9-edbf8cab15f0",
+  "ranked": false,
+  "rating": 0.87930256,
+  "ratingCount": 79,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Orzmic",
+    "SV",
+    "regular"
+  ],
+  "updated": "2026-03-21T17:53:41.482154Z",
+  "uploader": 1018686
+}

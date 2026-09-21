@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:56Z",
+    "lastChanged": "2026-09-21T02:01:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-11T05:58:29.967481Z",
+  "charter": "6thPecJam",
+  "composer": "Plum",
+  "created": "2024-02-11T05:58:29.967481Z",
+  "description": "是 6thPecJam！（交的上一份信息爆了所以重交一份应该没事的对吧？对吧！）",
+  "difficulty": 15.8,
+  "file": "https://phira.5wyxi.com/files/9f873597-bc80-4c43-8e59-f78e576f5a83",
+  "id": 15352,
+  "illustration": "https://phira.5wyxi.com/files/9cc4df02-0ca0-4ec3-a92c-e9050825b3db",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Dustwind",
+  "preview": "https://phira.5wyxi.com/files/353452b3-a2a0-4a77-99b0-987e880409a1",
+  "ranked": false,
+  "rating": 0.750939,
+  "ratingCount": 344,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2024-03-09T15:24:17.835540Z",
+  "uploader": 55376
+}

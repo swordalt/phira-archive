@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:02Z",
+    "lastChanged": "2026-09-21T02:03:02Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-08T19:05:37.995334Z",
+  "charter": "Hello (HKR) Sira",
+  "composer": "かめリあ",
+  "created": "2025-02-08T19:05:37.995334Z",
+  "description": "合作谱面\n2025好听捏",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/39a5b75d-eb1d-45e3-9d59-7351ea441ff5",
+  "id": 33613,
+  "illustration": "https://phira.5wyxi.com/files/66a4a97b-de1e-459b-bc41-50a16b719cf0",
+  "illustrator": "",
+  "level": "SP Lv.20.25",
+  "name": "Hello (BPM) 2025",
+  "preview": "https://phira.5wyxi.com/files/92c12aed-4a35-4b03-9cfa-790670822176",
+  "ranked": false,
+  "rating": 0.9260976,
+  "ratingCount": 2159,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-08T19:05:37.995334Z",
+  "uploader": 31941
+}

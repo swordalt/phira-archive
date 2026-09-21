@@ -1,0 +1,39 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:51Z",
+    "lastChanged": "2026-09-21T02:06:51Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-10T12:28:32.918786Z",
+  "charter": "KiLi-sens",
+  "composer": "ミハイル",
+  "created": "2026-05-10T12:28:32.918786Z",
+  "description": "本人上传\nsv加ln，初见警告",
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/956ac31c-b9f4-45f2-abcc-c3879d14fcf4",
+  "id": 58160,
+  "illustration": "https://phira.5wyxi.com/files/1252a051-70c7-4477-a7a0-b476c30010e7",
+  "illustrator": "",
+  "level": "SV Lv.?",
+  "name": "Swing Skip Drop",
+  "preview": "https://phira.5wyxi.com/files/053c08e7-1e6b-49ed-b9da-6fa6cf816436",
+  "ranked": false,
+  "rating": 0.8139423,
+  "ratingCount": 18,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4k",
+    "sv",
+    "ln",
+    "变速",
+    "ssd",
+    "plain"
+  ],
+  "updated": "2026-05-10T12:28:32.918786Z",
+  "uploader": 200430
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:45Z",
+    "lastChanged": "2026-09-21T02:01:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-23T15:29:25.841209Z",
+  "charter": "CHCAT1320",
+  "composer": "初音ミク",
+  "created": "2023-12-23T15:29:25.841209Z",
+  "description": "该谱面修改后上传，发b站要@<谱师>",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/db9b7e3a-fd01-4345-b9dd-a538ef37de47",
+  "id": 12760,
+  "illustration": "https://phira.5wyxi.com/files/05bd7e7a-7804-4cba-8185-ea67f9c24b87",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "甩葱歌",
+  "preview": "https://phira.5wyxi.com/files/d50e0978-c4aa-4991-9140-2c52d246146c",
+  "ranked": false,
+  "rating": 0.9268358,
+  "ratingCount": 8374,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-12-23T15:29:25.841209Z",
+  "uploader": 47124
+}

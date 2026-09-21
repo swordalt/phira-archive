@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:25Z",
+    "lastChanged": "2026-09-21T02:04:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-27T13:10:22.766735Z",
+  "charter": "TS013",
+  "composer": "岩田恭明",
+  "created": "2026-02-27T13:10:22.766735Z",
+  "description": null,
+  "difficulty": 11.0,
+  "file": "https://phira.5wyxi.com/files/3e1201b8-219d-41f1-b605-87a07f616cad",
+  "id": 53553,
+  "illustration": "https://phira.5wyxi.com/files/0bae94cd-5cc6-4f92-aaed-f97ae2c4843e",
+  "illustrator": "",
+  "level": "IN.11",
+  "name": "Mipha's Theme",
+  "preview": "https://phira.5wyxi.com/files/608aa92b-9b2e-482e-8297-e42f5306d915",
+  "ranked": false,
+  "rating": 0.9326397,
+  "ratingCount": 541,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-27T13:10:22.766735Z",
+  "uploader": 423791
+}

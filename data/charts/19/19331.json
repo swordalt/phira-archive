@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:47Z",
+    "lastChanged": "2026-09-21T02:05:47Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-03T02:59:32.056970Z",
+  "charter": "无天MK",
+  "composer": "Xyris",
+  "created": "2024-05-03T02:59:32.056970Z",
+  "description": "Malody 4K转谱，常规4K，流速12.50，难度是按照Malody的难度定的",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/ac3c6d5c-74b7-4129-a206-f19978a6f383",
+  "id": 19331,
+  "illustration": "https://phira.5wyxi.com/files/5346e598-fbd8-43d1-8f49-fd2ff2935fc6",
+  "illustrator": "",
+  "level": "4K Normal Lv.17",
+  "name": "Eviternity",
+  "preview": "https://phira.5wyxi.com/files/9bd0cc66-b5e1-42d4-ae97-04434cd4bdf5",
+  "ranked": false,
+  "rating": 0.9610668,
+  "ratingCount": 1775,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2024-05-03T02:59:32.056970Z",
+  "uploader": 60889
+}

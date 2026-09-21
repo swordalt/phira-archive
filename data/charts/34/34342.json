@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:09Z",
+    "lastChanged": "2026-09-21T02:06:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-22T14:10:56.758922Z",
+  "charter": "\nPT-ER",
+  "composer": "uma",
+  "created": "2025-02-22T14:10:56.758922Z",
+  "description": "由Malody转谱，在此感谢@起名钉子户的转谱器",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/d6210585-99ee-457f-a2b0-0de49f4bc8cc",
+  "id": 34342,
+  "illustration": "https://phira.5wyxi.com/files/cdad79f9-0467-4571-b459-695ebf1070dc",
+  "illustrator": "",
+  "level": "IN.LV.16",
+  "name": "Keep it up",
+  "preview": "https://phira.5wyxi.com/files/f8d5359a-bd5b-4ae6-ac4a-f3fbaa7a8047",
+  "ranked": false,
+  "rating": 0.7786,
+  "ratingCount": 4,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-02-22T14:10:56.758922Z",
+  "uploader": 31
+}

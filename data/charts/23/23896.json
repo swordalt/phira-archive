@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:25Z",
+    "lastChanged": "2026-09-21T02:02:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-20T09:12:11.815298Z",
+  "charter": "DDD",
+  "composer": "Ary-You",
+  "created": "2024-07-20T09:12:11.815298Z",
+  "description": null,
+  "difficulty": 15.7,
+  "file": "https://phira.5wyxi.com/files/fc4d6669-7d58-45e8-b822-8f3142690cde",
+  "id": 23896,
+  "illustration": "https://phira.5wyxi.com/files/e37791d8-fec0-4d1a-be6a-a00abafad86d",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Vanitas ac Redemptionis",
+  "preview": "https://phira.5wyxi.com/files/6d5eb6b0-4b24-4b4e-9054-23a402741606",
+  "ranked": false,
+  "rating": 0.9090019,
+  "ratingCount": 1651,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-05-10T14:28:41.050439Z",
+  "uploader": 683322
+}

@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:14Z",
+    "lastChanged": "2026-09-21T02:03:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-25T13:14:24.824385Z",
+  "charter": "S_Ga_Zn",
+  "composer": "カンザキイオリ/ 花譜",
+  "created": "2025-04-25T13:14:24.824385Z",
+  "description": "视频地址：BV1y2LHzsEA4\r\n更新如下：\r\n\r\n1.开头拉大弓没那么大了。而且新增了提示\r\n\r\n2.为intro与主歌的过渡段细微修改了特效\r\n\r\n3.修复了156cb处的踩音错误\r\n\r\n4.副歌某些段落的手感变好了\r\n\r\n5.倒打段上了点难度，没那么无聊了。\r\n\r\n-----------------------------------------------\r\n\r\n这首歌热度似乎不算高啊。\r\n\r\n我觉得这首歌最好地诠释了“花谱”的存在，是我个人非常喜欢的一首。\r\n\r\n最后感谢来自Cybifer的改谱建议。",
+  "difficulty": 13.5,
+  "file": "https://phira.5wyxi.com/files/153c1150-fe51-439c-bec2-fb735b77ae10",
+  "id": 36953,
+  "illustration": "https://phira.5wyxi.com/files/1483a564-9ac4-48c8-88ff-d8366f67159e",
+  "illustrator": "",
+  "level": "IN",
+  "name": "そして花になる",
+  "preview": "https://phira.5wyxi.com/files/d2e8371e-8ac2-4073-a90d-66d34aa399a9",
+  "ranked": false,
+  "rating": 0.95151126,
+  "ratingCount": 586,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "花譜",
+    "カンザキイオリ",
+    "regular"
+  ],
+  "updated": "2025-04-25T13:14:24.824385Z",
+  "uploader": 428466
+}

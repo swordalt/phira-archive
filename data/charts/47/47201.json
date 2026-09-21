@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:53Z",
+    "lastChanged": "2026-09-21T02:03:53Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-25T11:37:54.833121Z",
+  "charter": "blazedgrating",
+  "composer": "Xyris",
+  "created": "2025-09-25T11:37:54.833121Z",
+  "description": "极难双指谱。\n现在已经感觉不到写判定线表演的意义了，写这张谱时其实主要只做了一件事情：疯狂堆砌手速。\nM1LLI0N PP严格来说依然还是用到了辅助指，不能称得上是名正言顺的双指谱，而Eviternity真正做到了没有任何一处强制要求辅助指。比起一味卷手法需求，这张谱可以说得上手速特化，即对位移的速度有要求又对长时间硬抗的耐力有要求。",
+  "difficulty": 17.500002,
+  "file": "https://phira.5wyxi.com/files/ebb04beb-0f4f-4f1b-ba1e-927216f09d8d",
+  "id": 47201,
+  "illustration": "https://phira.5wyxi.com/files/8be752a4-4f1f-45c5-9dc8-5af935edfd5a",
+  "illustrator": "",
+  "level": "双指 AT Lv.17",
+  "name": "Eviternity",
+  "preview": "https://phira.5wyxi.com/files/9c3244f6-98d7-4127-97cb-d86dbff7865c",
+  "ranked": false,
+  "rating": 0.8592147,
+  "ratingCount": 819,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "底力",
+    "regular"
+  ],
+  "updated": "2025-09-25T11:37:54.833121Z",
+  "uploader": 446087
+}

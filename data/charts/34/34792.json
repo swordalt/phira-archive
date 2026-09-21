@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:10Z",
+    "lastChanged": "2026-09-21T02:06:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-03-03T14:23:11.306592Z",
+  "charter": "byd979",
+  "composer": "toby fox",
+  "created": "2025-03-03T14:23:11.306592Z",
+  "description": "啊呀，懒得说什么了",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/22e5bacb-31bc-4faa-a69f-862eda78dd05",
+  "id": 34792,
+  "illustration": "https://phira.5wyxi.com/files/f5a49ed4-cb4d-4e17-87c3-c9322411692a",
+  "illustrator": "",
+  "level": "4k",
+  "name": "shop",
+  "preview": "https://phira.5wyxi.com/files/091c508f-1df7-4bef-a389-0091d55d0c04",
+  "ranked": false,
+  "rating": 0.94975615,
+  "ratingCount": 241,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4k",
+    "plain"
+  ],
+  "updated": "2025-03-03T14:23:11.306592Z",
+  "uploader": 882769
+}

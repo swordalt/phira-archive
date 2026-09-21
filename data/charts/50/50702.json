@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:10Z",
+    "lastChanged": "2026-09-21T02:04:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-29T10:54:38.522148Z",
+  "charter": "SiENSY  绿色心情 （主要两位谱师）  奶浆（帮了一点点很小的忙）",
+  "composer": "MYTK",
+  "created": "2025-12-29T10:54:38.522148Z",
+  "description": "曲名：靈（líng）\n曲绘：nanakaria\n定数：AT Lv.17 .5\n物量：2185\n---------------------\n谱师们想说的\n---------------------\nSiENSY：这个谱怎么这么蹭。动效怎么这么丑。\n绿豆：这个谱怎么这么多子弹。配置怎么这么猎奇。\n---------------------\n感谢@MiviQ的phira\n制谱器：malody",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/5f27b0a8-92b8-4d8e-8f54-b2b7e02b1a3e",
+  "id": 50702,
+  "illustration": "https://phira.5wyxi.com/files/c9876002-39eb-4386-a72c-0514abbc4e3b",
+  "illustrator": "",
+  "level": "AT Lv.17.5",
+  "name": "靈",
+  "preview": "https://phira.5wyxi.com/files/154bbf07-5e05-431d-a97c-09e101be0c14",
+  "ranked": false,
+  "rating": 0.92738914,
+  "ratingCount": 246,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "子弹",
+    "高难",
+    "milthm",
+    "regular"
+  ],
+  "updated": "2025-12-29T10:54:38.522148Z",
+  "uploader": 904401
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:05Z",
+    "lastChanged": "2026-09-21T02:03:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-27T15:31:31.740798Z",
+  "charter": "514",
+  "composer": "かねこちはる",
+  "created": "2025-02-27T15:31:31.740798Z",
+  "description": "应该不算粪，本来判定线不动只有14，有问题去b站找旅人514",
+  "difficulty": 15.3,
+  "file": "https://phira.5wyxi.com/files/b7fa33fa-c12d-49aa-bde6-b259c8b89177",
+  "id": 34540,
+  "illustration": "https://phira.5wyxi.com/files/184109ea-30a5-45d9-8e9d-b4cf5beb8468",
+  "illustrator": "",
+  "level": "IN",
+  "name": "雪女",
+  "preview": "https://phira.5wyxi.com/files/5693489c-bedc-4bf5-b262-5c42fc9e5989",
+  "ranked": false,
+  "rating": 0.9181313,
+  "ratingCount": 138,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-27T15:31:31.740798Z",
+  "uploader": 1010495
+}

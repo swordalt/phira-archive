@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:00Z",
+    "lastChanged": "2026-09-21T02:03:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-31T16:47:05.695374Z",
+  "charter": "Foehn_Uragan",
+  "composer": "稲葉曇",
+  "created": "2025-01-31T16:47:05.695374Z",
+  "description": "我回来了孩子们",
+  "difficulty": 14.799998,
+  "file": "https://phira.5wyxi.com/files/1daf192d-5ee3-498d-aea3-be7fddfbbaa9",
+  "id": 32994,
+  "illustration": "https://phira.5wyxi.com/files/3fd86315-1b0f-4cb7-9c8e-1438820e7ca8",
+  "illustrator": "",
+  "level": "lost",
+  "name": "lost umbrella(yuigot Remix)",
+  "preview": "https://phira.5wyxi.com/files/53f8c7df-607d-40e4-b890-6a314a131df2",
+  "ranked": true,
+  "rating": 0.9354645,
+  "ratingCount": 11736,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "故事板",
+    "shader",
+    "VOCALOID",
+    "regular"
+  ],
+  "updated": "2025-01-31T16:47:05.695374Z",
+  "uploader": 3661
+}

@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:36Z",
+    "lastChanged": "2026-09-21T02:03:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-03T01:18:33.612577Z",
+  "charter": "XerdouS",
+  "composer": "塞壬唱片-MSR/遠山明孝",
+  "created": "2025-08-03T01:18:33.612577Z",
+  "description": "该谱面为【云梦•始源】比赛供谱\n首次登场于EX区16进8小组赛第一场\n\n迷迭香也太可爱了吧.......",
+  "difficulty": 16.600002,
+  "file": "https://phira.5wyxi.com/files/37595265-fbfb-4787-b1d2-faa397ae1dcc",
+  "id": 43517,
+  "illustration": "https://phira.5wyxi.com/files/0d43a64b-fe73-4893-9e5e-c108746596db",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Challenger",
+  "preview": "https://phira.5wyxi.com/files/d35e461d-01c9-427a-959a-1d7d26fd07d5",
+  "ranked": true,
+  "rating": 0.8301497,
+  "ratingCount": 290,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "云梦杯",
+    "明日方舟",
+    "regular"
+  ],
+  "updated": "2025-08-03T01:18:33.612577Z",
+  "uploader": 22799
+}

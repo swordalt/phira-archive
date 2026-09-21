@@ -1,0 +1,39 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:06Z",
+    "lastChanged": "2026-09-21T02:04:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-10T12:33:23.257234Z",
+  "charter": "金枪鱼",
+  "composer": "Qezzhin/beztebya",
+  "created": "2025-12-10T12:33:23.257234Z",
+  "description": "2024年九月的谱面，耗时十余小时制作。谱师写嗨了，改过谱，非常考验消化能力。\n音乐是印尼儿歌的DJ版，歌名是Dudidam，原曲名写错了。",
+  "difficulty": 18.60001,
+  "file": "https://phira.5wyxi.com/files/262541e1-dc61-42b7-b27e-acabd94d3786",
+  "id": 50069,
+  "illustration": "https://phira.5wyxi.com/files/d85c8735-0c9b-4e4c-a2a8-7a83ccc73e8b",
+  "illustrator": "",
+  "level": "SP Lv.?",
+  "name": "Dudidam",
+  "preview": "https://phira.5wyxi.com/files/61fc928c-4916-4a56-9baa-ca724fed02a3",
+  "ranked": false,
+  "rating": 0.74432534,
+  "ratingCount": 259,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "脑裂",
+    "四合院",
+    "多指",
+    "高难",
+    "读谱",
+    "regular"
+  ],
+  "updated": "2025-12-10T12:33:23.257234Z",
+  "uploader": 1566388
+}

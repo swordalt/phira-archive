@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:45Z",
+    "lastChanged": "2026-09-21T02:05:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-30T11:19:26.102161Z",
+  "charter": "DesRemuci",
+  "composer": "Raimukun",
+  "created": "2024-03-30T11:19:26.102161Z",
+  "description": "谱师本人亲自上传(B站:@DesRemuci)",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/f7d72fda-963c-4869-96d6-551d4a91648a",
+  "id": 17744,
+  "illustration": "https://phira.5wyxi.com/files/13d26a62-95d9-4cbd-9c45-b8f573874300",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Nyarlathotep's Dreamland",
+  "preview": "https://phira.5wyxi.com/files/62248843-8241-4633-b564-1ca8c4cf763e",
+  "ranked": false,
+  "rating": 0.95203495,
+  "ratingCount": 733,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2024-03-30T11:19:26.102161Z",
+  "uploader": 3139
+}

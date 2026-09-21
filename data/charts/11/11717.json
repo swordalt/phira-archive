@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:42Z",
+    "lastChanged": "2026-09-21T02:01:42Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-11-23T12:53:18.922279Z",
+  "charter": "GuanfzyA fixed by FN花计",
+  "composer": "奇然/沈谧仁",
+  "created": "2023-11-23T12:53:18.922279Z",
+  "description": "谱师组：@GuanfzyA @FN花计\n谱面演示：B站：BV1Mw411n7VF\n谱面内部版本：2.0.2.1（long ver.）",
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/c9da1929-9d1c-4db3-ba09-3a940b6cfc26",
+  "id": 11717,
+  "illustration": "https://phira.5wyxi.com/files/a4cff1ea-0615-4756-bb4e-1b85479498bb",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "琵琶行（Full ver.）",
+  "preview": "https://phira.5wyxi.com/files/3a969ec5-f13d-462f-817c-eac11e8e48bc",
+  "ranked": false,
+  "rating": 0.91207033,
+  "ratingCount": 3799,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-11-23T12:53:18.922279Z",
+  "uploader": 1082
+}

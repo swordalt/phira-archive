@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:38Z",
+    "lastChanged": "2026-09-21T02:03:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-08T15:24:30.182846Z",
+  "charter": "Rocket-cat",
+  "composer": "Aoi with mAoA9",
+  "created": "2025-08-08T15:24:30.182846Z",
+  "description": "本人\nb站同名\n更新:修改了部分配置加入了部分演出\n紧急更新:修复了表演异常 常态下出现假键的问题",
+  "difficulty": 15.300001,
+  "file": "https://phira.5wyxi.com/files/6fb33b9b-181a-4f6f-bf06-d6bcedd4b730",
+  "id": 44078,
+  "illustration": "https://phira.5wyxi.com/files/8888d34a-cad3-4e3d-a33d-69444fba8521",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "to soar",
+  "preview": "https://phira.5wyxi.com/files/a277b507-443c-49d8-8f51-5e09934723c9",
+  "ranked": false,
+  "rating": 0.90698755,
+  "ratingCount": 49,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-08T15:24:30.182846Z",
+  "uploader": 18486
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:33Z",
+    "lastChanged": "2026-09-21T02:05:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-14T14:00:04.002790Z",
+  "charter": "xykkk",
+  "composer": "黒魔",
+  "created": "2026-09-14T14:00:04.002790Z",
+  "description": "大小键神人谱面，该谱面自带150毫秒延迟，请各位妥善调整。\n由于上传整活标签迟迟无果，所以只能上传标准区了",
+  "difficulty": 17.9,
+  "file": "https://phira.5wyxi.com/files/8d196695-29c6-43ad-a370-183c875dd1e5",
+  "id": 78138,
+  "illustration": "https://phira.5wyxi.com/files/4102488f-ea4d-4f0d-a635-3b214bcf9d48",
+  "illustrator": "山山奇 feat.Jimwaz",
+  "level": "SP Lv.17",
+  "name": "Never Say Goodbye",
+  "preview": "https://phira.5wyxi.com/files/29336616-0456-4d93-9f9c-91005b0fea8c",
+  "ranked": false,
+  "rating": 0.8685086,
+  "ratingCount": 24,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "大小键",
+    "troll"
+  ],
+  "updated": "2026-09-18T06:05:38.694380Z",
+  "uploader": 10896
+}

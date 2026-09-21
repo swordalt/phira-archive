@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:25Z",
+    "lastChanged": "2026-09-21T02:05:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-11T08:11:04.534839Z",
+  "charter": "huqi_",
+  "composer": "WAN池宛",
+  "created": "2024-08-11T08:11:04.534839Z",
+  "description": "用时1小时，谱面风格是按旧谱写的；谱师本人上传",
+  "difficulty": 15.8,
+  "file": "https://phira.5wyxi.com/files/a4ffbc6d-d193-43d2-8344-3c4f1fa77e63",
+  "id": 25969,
+  "illustration": "https://phira.5wyxi.com/files/daa93f64-c516-44a3-8642-971e20b64f11",
+  "illustrator": "",
+  "level": "SP Lv.不想开学",
+  "name": "不想开学！",
+  "preview": "https://phira.5wyxi.com/files/414a2abc-d931-43ae-87b9-8ce3410dd028",
+  "ranked": false,
+  "rating": 0.89822924,
+  "ratingCount": 981,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-08-11T08:11:04.534839Z",
+  "uploader": 293705
+}

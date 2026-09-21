@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:22Z",
+    "lastChanged": "2026-09-21T02:03:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-10T09:03:15.534444Z",
+  "charter": "Jkey",
+  "composer": "PEPOYO",
+  "created": "2025-06-10T09:03:15.534444Z",
+  "description": "miku",
+  "difficulty": 15.9,
+  "file": "https://phira.5wyxi.com/files/ec4724bf-77b1-4b44-b048-46b01a21695d",
+  "id": 39465,
+  "illustration": "https://phira.5wyxi.com/files/17585c88-c0a8-484d-ac54-33b7daa1130f",
+  "illustrator": "",
+  "level": "SP Lv.15",
+  "name": "あめだま",
+  "preview": "https://phira.5wyxi.com/files/9e441fad-5e2c-4ac3-86aa-a9a1d95f69bc",
+  "ranked": false,
+  "rating": 0.87563616,
+  "ratingCount": 183,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "miku",
+    "regular"
+  ],
+  "updated": "2025-06-10T09:03:15.534444Z",
+  "uploader": 928649
+}

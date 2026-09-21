@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:17Z",
+    "lastChanged": "2026-09-21T02:04:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-29T05:55:01.949779Z",
+  "charter": "钍钍232",
+  "composer": "J.T. Peterson",
+  "created": "2026-01-29T05:55:01.949779Z",
+  "description": null,
+  "difficulty": 12.0,
+  "file": "https://phira.5wyxi.com/files/875ed1b7-2fe7-47d5-919a-f08c06c0dbae",
+  "id": 51764,
+  "illustration": "https://phira.5wyxi.com/files/cd8c99bb-ff6f-46c2-a97c-63f4e12ecde0",
+  "illustrator": "",
+  "level": "IN Lv.12",
+  "name": "Tales of Neverland",
+  "preview": "https://phira.5wyxi.com/files/880fc12f-24de-4fa0-9b14-b371538925f7",
+  "ranked": false,
+  "rating": 0.87759614,
+  "ratingCount": 64,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-01-29T05:55:01.949779Z",
+  "uploader": 2057401
+}

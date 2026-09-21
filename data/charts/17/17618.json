@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:45Z",
+    "lastChanged": "2026-09-21T02:05:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-18T05:21:45.146499Z",
+  "charter": "861168",
+  "composer": "Frums",
+  "created": "2024-03-28T06:23:46.492096Z",
+  "description": "早期谱面改谱\n初版是想写得比较常规，但是效果很差，于是改成了纯配置。这版想体现一种混乱感，但是体现得好不好就另说了（）\n这里的Technical和4k类似，侧重考察爆发等",
+  "difficulty": 11.300001,
+  "file": "https://phira.5wyxi.com/files/5142e202-24c4-43f6-99cb-5e525252ec75",
+  "id": 17618,
+  "illustration": "https://phira.5wyxi.com/files/0ac4167b-87ff-46f0-9b1f-d9998822c443",
+  "illustrator": "",
+  "level": "DF Technical Lv.11",
+  "name": "Credits",
+  "preview": "https://phira.5wyxi.com/files/f57826ed-0a19-4e14-b08e-1ede4e937482",
+  "ranked": false,
+  "rating": 0.84917194,
+  "ratingCount": 386,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "底力",
+    "DFC",
+    "BOFU2015",
+    "plain"
+  ],
+  "updated": "2025-04-18T05:21:45.146499Z",
+  "uploader": 54678
+}

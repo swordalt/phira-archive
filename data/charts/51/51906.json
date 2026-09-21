@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:17Z",
+    "lastChanged": "2026-09-21T02:04:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-16T16:04:46.791785Z",
+  "charter": "Hvquer",
+  "composer": "Project-G",
+  "created": "2026-02-01T04:45:37.042961Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/d298b2bd-87e6-4d24-89fd-780b5e7e3929",
+  "id": 51906,
+  "illustration": "https://phira.5wyxi.com/files/5d0384e4-ba56-4342-b453-9c12b7682e8d",
+  "illustrator": "",
+  "level": "Anxiatus Lv.15",
+  "name": "Choke",
+  "preview": "https://phira.5wyxi.com/files/93aa8c03-a9c6-45a2-bce5-d1d65d68dd5b",
+  "ranked": false,
+  "rating": 0.8462898,
+  "ratingCount": 18,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-16T16:04:46.791785Z",
+  "uploader": 2062274
+}

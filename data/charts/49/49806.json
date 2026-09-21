@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:05Z",
+    "lastChanged": "2026-09-21T02:04:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-05T03:27:18.486217Z",
+  "charter": "Burns彭斯",
+  "composer": "Street",
+  "created": "2025-12-05T03:27:18.486217Z",
+  "description": "『修改谱面延迟』谱师本人上传",
+  "difficulty": 15.1,
+  "file": "https://phira.5wyxi.com/files/7e7f8f25-b501-4ec8-b102-acb6c95bbd67",
+  "id": 49806,
+  "illustration": "https://phira.5wyxi.com/files/882cb2f1-1109-4b46-bbc7-1390ffdd349a",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "Sakura Fubuki",
+  "preview": "https://phira.5wyxi.com/files/719c5d87-f8b9-4faf-a244-50eeb8a34a28",
+  "ranked": true,
+  "rating": 0.9369078,
+  "ratingCount": 1717,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-12-14T12:29:28.940604Z",
+  "uploader": 1650630
+}

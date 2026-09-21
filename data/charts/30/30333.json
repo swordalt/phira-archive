@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:49Z",
+    "lastChanged": "2026-09-21T02:02:49Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-12-01T09:03:09.543227Z",
+  "charter": "MujiSama",
+  "composer": "Project Moon",
+  "created": "2024-12-01T09:03:09.543227Z",
+  "description": "谱师本人上传   谱面预览视频可在b站搜索查看    特别感谢@不会特效の点缀星空对全谱细节提出的建议，@zerouth对谱面部分黄条排列的优化修改      因上架区谱面疑似被误删再次上传",
+  "difficulty": 15.200003,
+  "file": "https://phira.5wyxi.com/files/deb174ea-e05a-417b-bd08-d628fad58263",
+  "id": 30333,
+  "illustration": "https://phira.5wyxi.com/files/f55044f4-d425-4edd-b8d4-5a4e261b332a",
+  "illustrator": "",
+  "level": "WAW Lv.15",
+  "name": "时间口口事件",
+  "preview": "https://phira.5wyxi.com/files/1784fc29-af78-42cd-8965-7af9690da57e",
+  "ranked": true,
+  "rating": 0.9473823,
+  "ratingCount": 4085,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "月计",
+    "regular"
+  ],
+  "updated": "2024-12-01T09:03:09.543227Z",
+  "uploader": 3742
+}

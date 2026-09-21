@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:15Z",
+    "lastChanged": "2026-09-21T02:04:15Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-24T02:36:41.111985Z",
+  "charter": "薛定谔の猫",
+  "composer": "陈亦洺",
+  "created": "2026-01-24T02:36:41.111985Z",
+  "description": "谱师本人 一张底力+小脑裂谱",
+  "difficulty": 15.200003,
+  "file": "https://phira.5wyxi.com/files/85050f42-1f24-45cc-833b-004d07aa08ef",
+  "id": 51563,
+  "illustration": "https://phira.5wyxi.com/files/3f595b0f-9731-4bbb-882c-0d9176bacda9",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "晚夜微雨问海棠",
+  "preview": "https://phira.5wyxi.com/files/e70d89bb-9256-43aa-b8a9-ea0071f05723",
+  "ranked": false,
+  "rating": 0.9486135,
+  "ratingCount": 35420,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-01-24T02:36:41.111985Z",
+  "uploader": 1614899
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:02Z",
+    "lastChanged": "2026-09-21T02:05:02Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-23T05:50:01.901205Z",
+  "charter": "Luvia",
+  "composer": "PYKAMIA",
+  "created": "2026-07-23T05:50:01.901205Z",
+  "description": "萌新三谱喵！\n是一张交互特化谱，全谱没有使用1个drag且含有大量的交互\n初见杀略多，但是基本都是一个模板且很容易音押\n花了很多功夫在表演上，大部分note都拆了线，一共写了4500+个事件，很多表演借鉴了官谱\n希望你能喜欢这张谱面w 如有建议欢迎提出(b站 @Luvia7)",
+  "difficulty": 15.199995,
+  "file": "https://phira.5wyxi.com/files/53192946-fd0e-4787-9abe-539e42a3bea0",
+  "id": 68588,
+  "illustration": "https://phira.5wyxi.com/files/b6b66a89-b3e8-4ef8-ab04-3982437c2bb8",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "Fantasia Sonata Sky Syndrome",
+  "preview": "https://phira.5wyxi.com/files/e51c5468-7085-4946-a705-60757f6236bc",
+  "ranked": false,
+  "rating": 0.9095978,
+  "ratingCount": 108,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-23T05:50:01.901205Z",
+  "uploader": 2202378
+}

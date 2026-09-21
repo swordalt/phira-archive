@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:12Z",
+    "lastChanged": "2026-09-21T02:04:12Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-17T14:54:42.065327Z",
+  "charter": "neko",
+  "composer": "TSAR,ariiol,奏sou",
+  "created": "2026-01-17T14:54:42.065327Z",
+  "description": null,
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/a299d390-8a9c-4bc9-94e6-dc7211911d4a",
+  "id": 51343,
+  "illustration": "https://phira.5wyxi.com/files/06007565-c2a3-4058-b2fe-05512a49ecb5",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "ABYSSMOTION192.333",
+  "preview": "https://phira.5wyxi.com/files/73a6e067-f16a-44bc-856c-038532c30cec",
+  "ranked": false,
+  "rating": 0.94928837,
+  "ratingCount": 374,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-01-17T14:54:42.065327Z",
+  "uploader": 641183
+}

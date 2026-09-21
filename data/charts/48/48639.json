@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:00Z",
+    "lastChanged": "2026-09-21T02:04:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-01T10:31:36.769595Z",
+  "charter": "某轩哟",
+  "composer": "Laur",
+  "created": "2025-11-01T10:31:36.769595Z",
+  "description": "谱面由哔哩哔哩@某轩哟本人上传 有无限槽位了所以上传了这张古老的神谱",
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/9aa3497c-f62e-4d94-8ea9-47786594ccc5",
+  "id": 48639,
+  "illustration": "https://phira.5wyxi.com/files/4438b1e1-d67d-4fe9-80c1-f3e3c52887ce",
+  "illustrator": "",
+  "level": "ST",
+  "name": "Sound Chimera",
+  "preview": "https://phira.5wyxi.com/files/22e63997-fa0d-4cdd-8fff-3f756eb1be01",
+  "ranked": false,
+  "rating": 0.8359407,
+  "ratingCount": 339,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-11-01T10:31:36.769595Z",
+  "uploader": 6209
+}

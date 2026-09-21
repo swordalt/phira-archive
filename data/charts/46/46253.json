@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:48Z",
+    "lastChanged": "2026-09-21T02:03:48Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-01T05:31:27.280123Z",
+  "charter": "Pb(Ac)2",
+  "composer": "Toby Fox & Camellia",
+  "created": "2025-09-01T05:31:27.280123Z",
+  "description": "5thWJC  L4 No.8\n与比赛版有所修改",
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/7f9999f6-413e-4e5e-9cba-5e46ae188a88",
+  "id": 46253,
+  "illustration": "https://phira.5wyxi.com/files/c1dc3cdc-a8bf-4aee-a7f2-7ce5758a0e9e",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "Theatore Creatore",
+  "preview": "https://phira.5wyxi.com/files/3693d068-8d8d-4ff4-bbaa-22b5059c9ad6",
+  "ranked": true,
+  "rating": 0.9362828,
+  "ratingCount": 1455,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "5thWJC",
+    "CHUNITHM",
+    "regular"
+  ],
+  "updated": "2025-09-01T05:31:27.280123Z",
+  "uploader": 114653
+}

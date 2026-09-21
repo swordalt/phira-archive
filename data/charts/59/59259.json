@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:44Z",
+    "lastChanged": "2026-09-21T02:04:44Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-31T12:43:19.821384Z",
+  "charter": "12qoq12 vs Tmade",
+  "composer": "SEPHID/aria",
+  "created": "2026-05-27T14:06:59.189117Z",
+  "description": "注1:该谱由双人合作完成\n谱师1:@qwq1212#54401(策划)\n谱师2:@样本标准差#8368(参与) \n注2:本次上传已通过双人协商\nBV194G26WEYS",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/404f71c1-2d6d-4aba-81d6-638f4f58e91d",
+  "id": 59259,
+  "illustration": "https://phira.5wyxi.com/files/7d7262ce-9653-4a26-a1e4-409f7c3b2d99",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Fine Logic (full ver.)",
+  "preview": "https://phira.5wyxi.com/files/034aa442-4db7-4c3b-b5db-c9a8fe7b809f",
+  "ranked": false,
+  "rating": 0.9311413,
+  "ratingCount": 322,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-05-31T12:43:19.821384Z",
+  "uploader": 8368
+}

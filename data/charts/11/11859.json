@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:42Z",
+    "lastChanged": "2026-09-21T02:01:42Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-13T13:37:52.987131Z",
+  "charter": "glazed tempo",
+  "composer": "Relemo",
+  "created": "2023-11-26T12:28:17.204749Z",
+  "description": "(en-US) \n\nupdate log:\nnote placement adjusted, added some extra notes",
+  "difficulty": 13.7,
+  "file": "https://phira.5wyxi.com/files/f0749f10-1929-4a9a-87b4-8fd1126f11fb",
+  "id": 11859,
+  "illustration": "https://phira.5wyxi.com/files/406de8f2-5939-44af-9425-adea5c4f5547",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "Glazed Color",
+  "preview": "https://phira.5wyxi.com/files/bee1f400-7cdc-409f-8701-a91ab01b7b6d",
+  "ranked": false,
+  "rating": 0.9206926,
+  "ratingCount": 862,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "RYCEAM",
+    "regular"
+  ],
+  "updated": "2023-12-16T13:39:14.155258Z",
+  "uploader": 71432
+}

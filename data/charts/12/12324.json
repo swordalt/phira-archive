@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:44Z",
+    "lastChanged": "2026-09-21T02:01:44Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-09T22:34:07.136682Z",
+  "charter": "tempo",
+  "composer": "Kikuo",
+  "created": "2023-12-09T22:34:07.136682Z",
+  "description": "(en-US)",
+  "difficulty": 13.000002,
+  "file": "https://phira.5wyxi.com/files/b98c7db1-81f0-47f0-9b04-1b189ac645a7",
+  "id": 12324,
+  "illustration": "https://phira.5wyxi.com/files/5ecfc171-27d0-49c7-873b-2c3380056aa4",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "Aishite Aishite Aishite",
+  "preview": "https://phira.5wyxi.com/files/c86dd5b7-268b-4725-b461-8de9211b7196",
+  "ranked": false,
+  "rating": 0.92673177,
+  "ratingCount": 1072,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-12-09T22:34:07.136682Z",
+  "uploader": 600092
+}

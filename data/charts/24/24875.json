@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:28Z",
+    "lastChanged": "2026-09-21T02:02:28Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-31T18:34:14.103444Z",
+  "charter": "3.77",
+  "composer": "sasakure.UK",
+  "created": "2024-07-31T18:34:14.103444Z",
+  "description": null,
+  "difficulty": 15.600002,
+  "file": "https://phira.5wyxi.com/files/6180842b-8a02-4a7f-ad50-f71b628771ec",
+  "id": 24875,
+  "illustration": "https://phira.5wyxi.com/files/e5f41df3-8e9d-4ff6-9967-c5fbe46d904a",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "麒麟",
+  "preview": "https://phira.5wyxi.com/files/a6cf33b7-64e1-46c7-851a-5e2578d5f8f0",
+  "ranked": false,
+  "rating": 0.93290836,
+  "ratingCount": 732,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-07-31T18:34:14.103444Z",
+  "uploader": 31661
+}

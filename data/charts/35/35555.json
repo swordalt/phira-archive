@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:09Z",
+    "lastChanged": "2026-09-21T02:03:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-03-22T12:23:02.853886Z",
+  "charter": "Calepam",
+  "composer": "削除",
+  "created": "2025-03-22T12:23:02.853886Z",
+  "description": "(en) I received a low rating so I made some refinements, but perhaps they aren't significant.\nnew difficulty: Lv.18.4",
+  "difficulty": 17.3,
+  "file": "https://phira.5wyxi.com/files/5caa1964-9ffd-41c6-979f-04f21343aa11",
+  "id": 35555,
+  "illustration": "https://phira.5wyxi.com/files/2f980018-c11a-4e10-b897-c7baf0016c2b",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "PANDORA PARADOXXX",
+  "preview": "https://phira.5wyxi.com/files/1e5dcf91-6fd5-4be7-844d-cd48448066f0",
+  "ranked": false,
+  "rating": 0.41663837,
+  "ratingCount": 174,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "maimai",
+    "regular"
+  ],
+  "updated": "2025-03-22T12:23:02.853886Z",
+  "uploader": 1397385
+}

@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:06Z",
+    "lastChanged": "2026-09-21T02:01:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-04-19T00:42:36.326737Z",
+  "charter": "Usami Yuko",
+  "composer": "Poppin'Party",
+  "created": "2023-04-19T00:42:36.326737Z",
+  "description": null,
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/38d517a7-cf85-4d8f-8da5-af2495d3a29a",
+  "id": 570,
+  "illustration": "https://phira.5wyxi.com/files/5d8460e7-eff9-4fab-941d-1633d7b61577",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "ティアドロップス(Tear Drops)",
+  "preview": "https://phira.5wyxi.com/files/001c7d23-3bfc-4aa8-a4ae-e643b33d9f3a",
+  "ranked": true,
+  "rating": 0.93936366,
+  "ratingCount": 1841,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "4thPecJam",
+    "Bangdream",
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 860
+}

@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:07Z",
+    "lastChanged": "2026-09-21T02:01:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-04-30T12:58:14.247040Z",
+  "charter": "MVsVPD",
+  "composer": "阿鲲",
+  "created": "2023-04-30T12:58:14.247040Z",
+  "description": "一张普通的自（da）制（bian）谱",
+  "difficulty": 14.200018,
+  "file": "https://phira.5wyxi.com/files/0306b9f1-46fd-4a2f-b695-d0bcb020b94a",
+  "id": 891,
+  "illustration": "https://phira.5wyxi.com/files/651ccfd0-55dd-4600-ab03-51ba6194cb32",
+  "illustrator": "",
+  "level": "N\\.OSS",
+  "name": "太空电梯",
+  "preview": "https://phira.5wyxi.com/files/157f5aa6-1406-4311-bcfb-11c9eed05335",
+  "ranked": false,
+  "rating": 0.89915895,
+  "ratingCount": 2717,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "流浪地球2",
+    "太空电梯",
+    "regular"
+  ],
+  "updated": "2023-04-30T12:58:14.247040Z",
+  "uploader": 4022
+}

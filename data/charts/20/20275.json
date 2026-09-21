@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:14Z",
+    "lastChanged": "2026-09-21T02:02:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-06-25T15:25:02.945312Z",
+  "charter": "醋酸铅是弱电解质",
+  "composer": "Blue Archive OST",
+  "created": "2024-05-24T14:28:24.597084Z",
+  "description": "觉得听着带感就写了，神名十文字作战系列中的Theme 2。\n带有一点协调的多指谱，难点主要是单双押之间的切换。\n2024/6/25 更新：\n减弱50-78s整体的动效\n修改36s后全屏判定黄键可能存在的问题\n简化部分配置，调整定数为15.8",
+  "difficulty": 15.799999,
+  "file": "https://phira.5wyxi.com/files/9f46c5bf-81c3-4c8e-a340-3ca0ee1aebec",
+  "id": 20275,
+  "illustration": "https://phira.5wyxi.com/files/0b12568e-9f4a-474d-9a0c-f470f83a5b7c",
+  "illustrator": "",
+  "level": "AT  Lv.15",
+  "name": "「特殊作戦『デカグラマトン』編」Theme 2",
+  "preview": "https://phira.5wyxi.com/files/b865e053-3d8c-47b7-b059-6e3b257e2d5c",
+  "ranked": false,
+  "rating": 0.94115674,
+  "ratingCount": 2039,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "蔚蓝档案",
+    "regular"
+  ],
+  "updated": "2024-06-25T15:25:02.945312Z",
+  "uploader": 114653
+}

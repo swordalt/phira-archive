@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:43Z",
+    "lastChanged": "2026-09-21T02:04:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-14T12:26:56.412434Z",
+  "charter": "-Be a Good Boy-",
+  "composer": "ARI HICKS",
+  "created": "2026-05-21T15:42:42.777250Z",
+  "description": "6.14更新：\n当前用时11h\n削弱了部分sv强度\n修改了部分排列\n尾杀进行了大规模的修改重制\n收尾踩音思路修改\n\n感谢各位评议老师的建议\n\n———\n\n5.26初次投稿：\n0pj RG175 黑马 排名16\n当时最后一天晚上写了5h，不知道延迟截止1h匆匆上交，导致有很多小问题没有做好，现在终于算是修改好了，目前用时8h，14L\n使用了大量sv，请各位谨慎游玩，谨慎评分。",
+  "difficulty": 15.500002,
+  "file": "https://phira.5wyxi.com/files/781eb244-8007-49ab-8057-329a331797a1",
+  "id": 58776,
+  "illustration": "https://phira.5wyxi.com/files/99457975-fd35-4149-92a8-9eef3079711e",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "Good Boy",
+  "preview": "https://phira.5wyxi.com/files/7708f450-f221-4e60-95d0-80ef6b210897",
+  "ranked": true,
+  "rating": 0.8270974,
+  "ratingCount": 2164,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-14T12:26:56.412434Z",
+  "uploader": 33817
+}

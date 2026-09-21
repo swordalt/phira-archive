@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:24Z",
+    "lastChanged": "2026-09-21T02:03:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-28T10:34:05.448658Z",
+  "charter": "YMoeung",
+  "composer": "Laur/Juggernaut.",
+  "created": "2025-06-19T12:02:40.243930Z",
+  "description": "算是我第二张完完整整的写完的谱子吧。先前因为高三的原因一直没写完，高考完终于有时间了。\n本谱的楼梯和切键较多，除了尾杀的少数几个键外，所有配置均可用四指之内解决，包括5k段。\n一改：略微提升前半段流速。\n二改：红键点滑上抬段落手感提升，107，108combo的红键判定bug修正，部分动效优化，部分键盘排键微调。",
+  "difficulty": 17.200005,
+  "file": "https://phira.5wyxi.com/files/b5d852ea-f9c0-4f3c-ab9a-2a36cd22e3eb",
+  "id": 39905,
+  "illustration": "https://phira.5wyxi.com/files/66458f3c-bcd4-4ce5-9217-e47021132cfa",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Last Judgement",
+  "preview": "https://phira.5wyxi.com/files/9385d770-b7dd-4bb0-b228-6aecb9595d21",
+  "ranked": false,
+  "rating": 0.89921755,
+  "ratingCount": 547,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-28T10:34:05.448658Z",
+  "uploader": 39283
+}

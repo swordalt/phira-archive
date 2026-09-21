@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:46Z",
+    "lastChanged": "2026-09-21T02:05:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-13T12:23:13.952244Z",
+  "charter": "ErSamu",
+  "composer": "Salla Hakkola",
+  "created": "2024-04-13T12:23:13.952244Z",
+  "description": null,
+  "difficulty": 12.9,
+  "file": "https://phira.5wyxi.com/files/e9f9ac86-ab24-4920-bb99-42571a98fb30",
+  "id": 18403,
+  "illustration": "https://phira.5wyxi.com/files/8d0cf3e7-5a46-4d93-8616-525d8518054e",
+  "illustrator": "",
+  "level": "IN 13",
+  "name": "AB Space Boss",
+  "preview": "https://phira.5wyxi.com/files/d02db82b-ac3c-4ccb-888e-c5d77750df62",
+  "ranked": false,
+  "rating": 0.87690526,
+  "ratingCount": 40,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "angrybirds",
+    "plain"
+  ],
+  "updated": "2024-04-13T12:23:13.952244Z",
+  "uploader": 703968
+}

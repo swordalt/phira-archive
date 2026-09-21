@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:58Z",
+    "lastChanged": "2026-09-21T02:01:58Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-16T10:36:06.344777Z",
+  "charter": "6thPecJam",
+  "composer": "ぱらどっと",
+  "created": "2024-02-16T10:36:06.344777Z",
+  "description": "新人四谱，首次参加PecJam。\n因为时间安排的很紧，写谱时间完全不充裕，到ddl还有一半没写，所以很多地方都处理的很草率，只能草草上传，抱歉了各位。今后有时间一定会好好修改润色。\n希望各位多多提建议呀！",
+  "difficulty": 15.7,
+  "file": "https://phira.5wyxi.com/files/4fde63fe-83b3-41a1-807f-3e20bd66ddd3",
+  "id": 15830,
+  "illustration": "https://phira.5wyxi.com/files/640a81d8-210f-4dea-a649-a6474bb18482",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "フランちゃんが時速200kmくらいで飛んでる時に流れてる曲",
+  "preview": "https://phira.5wyxi.com/files/892022f8-91b0-48d0-bd73-806367b9241a",
+  "ranked": false,
+  "rating": 0.85588217,
+  "ratingCount": 437,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6thPecJam",
+    "东方PROJECT",
+    "regular"
+  ],
+  "updated": "2024-04-08T16:48:11.026593Z",
+  "uploader": 14791
+}

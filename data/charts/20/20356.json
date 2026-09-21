@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:14Z",
+    "lastChanged": "2026-09-21T02:02:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-02T04:25:20.837572Z",
+  "charter": "potato",
+  "composer": "DECO * 27",
+  "created": "2024-05-25T13:03:59.606888Z",
+  "description": null,
+  "difficulty": 15.000017,
+  "file": "https://phira.5wyxi.com/files/7c155b84-20bf-4326-adf9-a120282ee344",
+  "id": 20356,
+  "illustration": "https://phira.5wyxi.com/files/2d605bbe-aef9-421a-b8a3-5c93bc159efd",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Delusion Sensation Compensation Federation",
+  "preview": "https://phira.5wyxi.com/files/d31a6f06-e5e6-4b96-b370-80b81906f1de",
+  "ranked": false,
+  "rating": 0.9006807,
+  "ratingCount": 2551,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-07-02T04:25:20.837572Z",
+  "uploader": 278405
+}

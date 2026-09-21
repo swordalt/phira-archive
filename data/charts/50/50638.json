@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:09Z",
+    "lastChanged": "2026-09-21T02:04:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-27T15:42:48.034114Z",
+  "charter": "フェブリス",
+  "composer": "柊マグネタイト / 重音テトSV",
+  "created": "2025-12-27T15:42:48.034114Z",
+  "description": "Charter:Fevm1r / 本人上传",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/bfa13dfa-7fa4-433a-b6e2-3db4506113d1",
+  "id": 50638,
+  "illustration": "https://phira.5wyxi.com/files/4621a417-7fe6-42f7-8e4a-c5d12cd2001b",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "テトリス",
+  "preview": "https://phira.5wyxi.com/files/da543ce3-7063-49da-b389-a1ca3e121cab",
+  "ranked": false,
+  "rating": 0.9300567,
+  "ratingCount": 2020,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-12-27T15:42:48.034114Z",
+  "uploader": 1426179
+}

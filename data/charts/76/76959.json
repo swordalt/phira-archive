@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:14Z",
+    "lastChanged": "2026-09-21T02:05:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-03T15:14:41.689682Z",
+  "charter": "7poLoyo vs. 0x4443595F",
+  "composer": "Kobaryo",
+  "created": "2026-09-03T15:14:41.689682Z",
+  "description": "合作谱 上传已经过另一位谱师同意\n协作者@0x4443595F#4049834（合作）\n两个人的大乱炖 混着写的 应该没啥个人味很大的段落（\n定数：18.4\n各位玩得愉快",
+  "difficulty": 20.0,
+  "file": "https://phira.5wyxi.com/files/dc58fe62-d41f-4b0d-927a-d6c680e319ce",
+  "id": 76959,
+  "illustration": "https://phira.5wyxi.com/files/a0cb6dde-bf4c-49ac-8127-dc08c1edba83",
+  "illustrator": "",
+  "level": "AT Lv.18",
+  "name": "Dimension Hacker",
+  "preview": "https://phira.5wyxi.com/files/c44ee9e8-a461-415e-a1da-0cad484fef32",
+  "ranked": false,
+  "rating": 0.8825276,
+  "ratingCount": 74,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "高难",
+    "regular"
+  ],
+  "updated": "2026-09-03T15:15:22.416602Z",
+  "uploader": 3847574
+}

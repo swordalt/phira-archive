@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:15Z",
+    "lastChanged": "2026-09-21T02:05:15Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-06T15:58:08.259501Z",
+  "charter": "Pb(Ac)2",
+  "composer": "Rux(Hotta Audio)",
+  "created": "2026-09-06T15:58:08.259501Z",
+  "description": "6thWJC单人赛道参赛谱，谱面编号G2 No.14",
+  "difficulty": 15.600002,
+  "file": "https://phira.5wyxi.com/files/43c39c54-5b13-4352-915e-72223cfafe08",
+  "id": 77411,
+  "illustration": "https://phira.5wyxi.com/files/2d3b38bf-6c1d-4fdf-ac1f-ce88729d3b1c",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "Elysium",
+  "preview": "https://phira.5wyxi.com/files/0c79c7b3-7608-4253-b60d-e5390d8d9b39",
+  "ranked": false,
+  "rating": 0.93143183,
+  "ratingCount": 615,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-09-06T15:58:08.259501Z",
+  "uploader": 114653
+}

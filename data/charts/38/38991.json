@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:21Z",
+    "lastChanged": "2026-09-21T02:03:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-31T14:26:02.621820Z",
+  "charter": "85378924",
+  "composer": "WyvernP",
+  "created": "2025-05-31T14:26:02.621820Z",
+  "description": "推荐宽高比:16:9 非16:9可能会出现演出bug\n新人初谱，写了挺久的，多多关照\n写的比较保守，takumi³风格键盘配置，表演尽量写的不违和\nB站同名(85378924)",
+  "difficulty": 16.800003,
+  "file": "https://phira.5wyxi.com/files/0e3feffd-b850-47b5-b585-2c5e9e56ff68",
+  "id": 38991,
+  "illustration": "https://phira.5wyxi.com/files/d26346f9-3ff0-4780-9833-c59ba292a22f",
+  "illustrator": "",
+  "level": "MR Lv.16",
+  "name": "Moon River",
+  "preview": "https://phira.5wyxi.com/files/5e8efe94-d712-45ee-859c-6bfc3ff3cddf",
+  "ranked": false,
+  "rating": 0.81866866,
+  "ratingCount": 119,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "BerryMelody",
+    "键盘",
+    "regular"
+  ],
+  "updated": "2025-05-31T14:26:02.621820Z",
+  "uploader": 2399
+}

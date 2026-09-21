@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:18Z",
+    "lastChanged": "2026-09-21T02:03:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-05-18T05:33:32.575792Z",
+  "charter": "EnderCuber",
+  "composer": "ARForest",
+  "created": "2025-05-18T05:33:32.575792Z",
+  "description": null,
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/f60aef85-2172-4f03-b75c-26469bafacac",
+  "id": 38288,
+  "illustration": "https://phira.5wyxi.com/files/942a41a7-1345-4482-b6d1-80c8db957c84",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Inverted World",
+  "preview": "https://phira.5wyxi.com/files/605fcf8e-a7c0-4b63-9db8-eee89b1d83b9",
+  "ranked": false,
+  "rating": 0.89598215,
+  "ratingCount": 460,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-05-18T05:33:32.575792Z",
+  "uploader": 273527
+}

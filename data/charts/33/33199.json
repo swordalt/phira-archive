@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:01Z",
+    "lastChanged": "2026-09-21T02:03:01Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-03T11:47:07.212980Z",
+  "charter": "ネコヨ",
+  "composer": "MARETU/初音ミク",
+  "created": "2025-02-03T11:47:07.212980Z",
+  "description": "*半天赶工乱写的谱\n曲名：ビノミ\n曲师：MARETU/初音ミク\n曲绘：MARETU\n谱师：NEKOYO\n难度：AT Lv.15+（16？）\nBPM：162\n物量：1033\n事件：约3200\n录制屏元或手元需要@谱师",
+  "difficulty": 15.8,
+  "file": "https://phira.5wyxi.com/files/c4bdd98c-30c2-43a4-b18e-ae440d217fc4",
+  "id": 33199,
+  "illustration": "https://phira.5wyxi.com/files/ce0de616-1592-4a7e-b4ac-199f81d76ea5",
+  "illustrator": "",
+  "level": "AT Lv.15+",
+  "name": "ビノミ",
+  "preview": "https://phira.5wyxi.com/files/95398c82-e5f4-401d-b963-d13918ca9aa5",
+  "ranked": false,
+  "rating": 0.93371284,
+  "ratingCount": 3257,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-03T11:47:07.212980Z",
+  "uploader": 8351
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:43Z",
+    "lastChanged": "2026-09-21T02:02:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-10-09T03:26:01.945334Z",
+  "charter": "ZXRweavers",
+  "composer": "Feint",
+  "created": "2024-10-09T03:26:01.945334Z",
+  "description": "-没有修复谱师骂自己**的问题\n-修改了一些配置\n-添加了一些东西",
+  "difficulty": 15.199999,
+  "file": "https://phira.5wyxi.com/files/d3afdd97-2da4-46d8-9d44-978169ec2e72",
+  "id": 28578,
+  "illustration": "https://phira.5wyxi.com/files/f1cf4638-aa7d-430c-9f02-a688e92cd78a",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Weavers",
+  "preview": "https://phira.5wyxi.com/files/24cd5771-4343-4f3e-9771-641e78cd978f",
+  "ranked": false,
+  "rating": 0.89041525,
+  "ratingCount": 219,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-10-09T03:26:01.945334Z",
+  "uploader": 166772
+}

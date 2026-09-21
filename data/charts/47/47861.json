@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:56Z",
+    "lastChanged": "2026-09-21T02:03:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-07T18:43:11.309715Z",
+  "charter": "porjf",
+  "composer": "Tony Ann",
+  "created": "2025-10-07T18:43:11.309715Z",
+  "description": null,
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/6dc5ca26-0361-4307-835d-c02ffe5c4f7a",
+  "id": 47861,
+  "illustration": "https://phira.5wyxi.com/files/58698b54-869a-42e0-b432-d10ea05736cd",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "DESIRE",
+  "preview": "https://phira.5wyxi.com/files/04b76d0b-e735-4ebb-9ae3-b3be4f407295",
+  "ranked": false,
+  "rating": 0.8243802,
+  "ratingCount": 8,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-10-07T18:43:11.309715Z",
+  "uploader": 1011230
+}

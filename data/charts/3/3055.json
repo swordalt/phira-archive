@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:14Z",
+    "lastChanged": "2026-09-21T02:01:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-07-10T07:50:19.992883Z",
+  "charter": "天使と悪魔",
+  "composer": "Jacques Offenbach&泉陸奥彦",
+  "created": "2023-06-06T12:55:34.357930Z",
+  "description": "曲目：天国と地狱\n曲师：Jacques Offenbach&泉陸奥彦\n定数：IN Lv.14.5\n谱师：天使と悪魔\n软件：RPE公测版v1.1\n感谢：@cmdysj 提供的RPE公测版v1.1, \n@lchzh3473 提供的模拟器\n\nDisclaimer: I do not own the song, the image or the program. I only made the chart. If you don't want your illustration or music to be shown in this video, contact me and I will delete this video.",
+  "difficulty": 14.5,
+  "file": "https://phira.5wyxi.com/files/83b2e248-7af1-4000-8ed3-6ab940969591",
+  "id": 3055,
+  "illustration": "https://phira.5wyxi.com/files/d1983dba-c097-476f-b21a-57e915e498ef",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "天国と地狱",
+  "preview": "https://phira.5wyxi.com/files/2c4677c7-98d1-4299-aed5-25cac12fe028",
+  "ranked": false,
+  "rating": 0.9156601,
+  "ratingCount": 1183,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "天国と地狱",
+    "天使と悪魔",
+    "泉陸奥彦",
+    "regular"
+  ],
+  "updated": "2023-07-10T07:50:19.992883Z",
+  "uploader": 5883
+}

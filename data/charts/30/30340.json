@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:50Z",
+    "lastChanged": "2026-09-21T02:02:50Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-12-01T10:04:12.333667Z",
+  "charter": "雨巷猫归",
+  "composer": "kyutatsuki",
+  "created": "2024-12-01T10:04:12.333667Z",
+  "description": "新人初谱，写得不好的地方还请见谅\n有关谱面更多的信息请移步至B站\n谱师B站@RLRC-雨巷猫归\n\n更新日志：\n修改谱面定数：16.7（新）  16.4（旧）",
+  "difficulty": 16.700003,
+  "file": "https://phira.5wyxi.com/files/551ed28e-949c-4aa3-9fbb-142295527fe2",
+  "id": 30340,
+  "illustration": "https://phira.5wyxi.com/files/11bb8a20-2fbf-4050-b5d2-e1f218e097c6",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Gravitational Revert",
+  "preview": "https://phira.5wyxi.com/files/3011f566-d213-4cea-a658-aa6d20b05ec6",
+  "ranked": false,
+  "rating": 0.9310411,
+  "ratingCount": 475,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "多指",
+    "键盘",
+    "协调",
+    "regular"
+  ],
+  "updated": "2025-03-04T08:43:52.853951Z",
+  "uploader": 1352658
+}

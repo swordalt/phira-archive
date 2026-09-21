@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:05Z",
+    "lastChanged": "2026-09-21T02:03:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-28T12:54:01.750424Z",
+  "charter": "FSK_",
+  "composer": "iTlC",
+  "created": "2025-02-28T12:54:01.750424Z",
+  "description": "谱面信息\n曲名：Altaïr\n曲师：iTlC\n等级：IN Lv.15.8（旧15.5）\nBPM：205\n物量：1023\nTotal Lines：24\n本人第一张Lv.15的谱子，用时24h＋，期间听取群内许多大佬的意见，进行了数次修改，期待各位玩得开心（\n个人QQ：3354508699",
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/ec2cbc6c-68fc-4c87-87c7-0e6f63a62863",
+  "id": 34570,
+  "illustration": "https://phira.5wyxi.com/files/5a4eadec-1e39-4caf-8215-a34304781220",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Altaïr",
+  "preview": "https://phira.5wyxi.com/files/e15c5f41-9c51-4999-add0-d659d5c83963",
+  "ranked": false,
+  "rating": 0.9280457,
+  "ratingCount": 59,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-28T12:54:01.750424Z",
+  "uploader": 257533
+}

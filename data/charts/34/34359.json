@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:05Z",
+    "lastChanged": "2026-09-21T02:03:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-23T00:07:40.664740Z",
+  "charter": "zsc985246",
+  "composer": "Kry.exe",
+  "created": "2025-02-23T00:07:40.664740Z",
+  "description": "主催上传（卖不出花的美穗），已经过谱师同意",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/6ef80a24-466c-41d9-b026-1ef4a0bfc8ac",
+  "id": 34359,
+  "illustration": "https://phira.5wyxi.com/files/09972327-61f9-412c-a38d-5e4ba06ba9d4",
+  "illustrator": "",
+  "level": "AT Lv.18",
+  "name": "Vicious Mockery",
+  "preview": "https://phira.5wyxi.com/files/50706884-499b-4a35-b9fb-d6606d645da7",
+  "ranked": false,
+  "rating": 0.9103883,
+  "ratingCount": 264,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Rizline",
+    "regular"
+  ],
+  "updated": "2025-05-31T14:11:51.734245Z",
+  "uploader": 402477
+}

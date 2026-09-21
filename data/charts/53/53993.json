@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:27Z",
+    "lastChanged": "2026-09-21T02:04:27Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-08T16:12:22.356173Z",
+  "charter": "porjf",
+  "composer": "Sakura小舞",
+  "created": "2026-03-08T16:12:22.356173Z",
+  "description": "相较于原谱调整了部分按键排列以至于没那么多反手且引导更直接，尾杀大改",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/e551f1e1-87ae-4924-9681-27f820c37eb2",
+  "id": 53993,
+  "illustration": "https://phira.5wyxi.com/files/8d165e46-9080-4805-825a-74cd3f7d1888",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "温柔的回忆",
+  "preview": "https://phira.5wyxi.com/files/d9e457bd-d1cb-4669-91e5-e755039b73e0",
+  "ranked": false,
+  "rating": 0.9029099,
+  "ratingCount": 241,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-03-08T16:12:22.356173Z",
+  "uploader": 1433155
+}

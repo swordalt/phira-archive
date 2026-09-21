@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:33Z",
+    "lastChanged": "2026-09-21T02:05:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-07T14:56:35.625544Z",
+  "charter": "DiAMONDGAMER",
+  "composer": "fizzd feat. Mardy Leith",
+  "created": "2026-02-07T14:56:35.625544Z",
+  "description": "谱面为《节奏医生》5-X的还原向谱面，请先了解：\n二拍\n跳过二拍\n细分二拍\n冰冻拍子\n\nB站同名\n\n\n（简介本来有很多东西，但是Phira的词汇检测...）",
+  "difficulty": 7.999993,
+  "file": "https://phira.5wyxi.com/files/5d61a3a0-e93f-4855-abfe-63be293a9084",
+  "id": 52247,
+  "illustration": "https://phira.5wyxi.com/files/3e6460ee-554f-4565-9e95-e2c68ab1dc9a",
+  "illustrator": "",
+  "level": "RE:RD 5-X",
+  "name": "Dreams Don't Stop",
+  "preview": "https://phira.5wyxi.com/files/2c3a3be6-8b6d-4d6b-b152-3f0ee45171ee",
+  "ranked": false,
+  "rating": 0.9641664,
+  "ratingCount": 280,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "节奏医生",
+    "还原",
+    "troll"
+  ],
+  "updated": "2026-02-07T14:56:35.625544Z",
+  "uploader": 2067
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:27Z",
+    "lastChanged": "2026-09-21T02:03:27Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-09T14:50:12.833386Z",
+  "charter": "Phoenixes",
+  "composer": "Sakuzyo",
+  "created": "2025-07-09T14:50:12.833386Z",
+  "description": "原视频：BV1MQGnzpEVP\n曲目:天火明命\n曲师:Sakuzyo\n画师:Taiyo Yamamoto(SEGA)\n铺师:Phoenixes\nBPM:155\n难度:IN Lv.14\n物量:950\n————————————————\n最近比较懒，这张也是赶工来的，算是第二张完整的铺了，但是最近有很多存货，应该会写完端上来的（\n",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/699ebcbc-2f89-4e3c-a2a5-6803d143d33a",
+  "id": 41288,
+  "illustration": "https://phira.5wyxi.com/files/5e6c6bbe-e3fd-443c-bfa4-df38f4bb0f2b",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "天火明命",
+  "preview": "https://phira.5wyxi.com/files/b4cf9d96-1a08-4bb9-8ccd-3e6240094f97",
+  "ranked": false,
+  "rating": 0.9339686,
+  "ratingCount": 327,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-07-09T14:50:12.833386Z",
+  "uploader": 11043
+}

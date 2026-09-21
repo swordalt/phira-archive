@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:22Z",
+    "lastChanged": "2026-09-21T02:04:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-17T14:54:00.669798Z",
+  "charter": "Chlizi*XXXX1nH",
+  "composer": "LucaProject vs NeLiME",
+  "created": "2026-02-17T14:54:00.669798Z",
+  "description": null,
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/b8169747-da95-4731-bf9d-0978db37eb66",
+  "id": 52871,
+  "illustration": "https://phira.5wyxi.com/files/50bab835-4707-49e8-9ec8-efb5803a4849",
+  "illustrator": "",
+  "level": "IN  Lv.16",
+  "name": "Quadruplicity",
+  "preview": "https://phira.5wyxi.com/files/bd2620bb-71d5-41cb-a9c2-b347ce90721c",
+  "ranked": false,
+  "rating": 0.94223845,
+  "ratingCount": 192,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-17T14:54:00.669798Z",
+  "uploader": 10654
+}

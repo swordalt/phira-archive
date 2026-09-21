@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:45Z",
+    "lastChanged": "2026-09-21T02:02:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-10-27T10:16:38.162424Z",
+  "charter": "LanShan087",
+  "composer": "KARUT",
+  "created": "2024-10-27T10:16:38.162424Z",
+  "description": "铺面为本人上传，使用默认shader\n（写了一坨）",
+  "difficulty": 13.6,
+  "file": "https://phira.5wyxi.com/files/29f48c12-3a68-4338-90b2-85ff27f182db",
+  "id": 29158,
+  "illustration": "https://phira.5wyxi.com/files/f762070f-2bbd-4942-8fd2-a1c7e3ba1745",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "Encroach Sky",
+  "preview": "https://phira.5wyxi.com/files/528a208d-b4bc-4be2-b58a-40e46d4483b2",
+  "ranked": false,
+  "rating": 0.9268108,
+  "ratingCount": 197,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "shader",
+    "regular"
+  ],
+  "updated": "2024-10-27T10:16:38.162424Z",
+  "uploader": 49511
+}

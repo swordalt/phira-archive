@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:04Z",
+    "lastChanged": "2026-09-21T02:03:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-18T15:48:35.844095Z",
+  "charter": "Memories of Team",
+  "composer": "Ludicin",
+  "created": "2025-02-18T15:48:35.844095Z",
+  "description": null,
+  "difficulty": 17.800003,
+  "file": "https://phira.5wyxi.com/files/67a4be3d-8da9-460c-aef4-d41d0634f2c9",
+  "id": 34208,
+  "illustration": "https://phira.5wyxi.com/files/47fcb429-4719-4bae-a16f-3a64328650db",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Echoes of Memoria",
+  "preview": "https://phira.5wyxi.com/files/504696f4-58a6-4f3f-81c4-b122eb951bbe",
+  "ranked": false,
+  "rating": 0.93139136,
+  "ratingCount": 711,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-18T15:48:35.844095Z",
+  "uploader": 828271
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:55Z",
+    "lastChanged": "2026-09-21T02:03:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-03T00:31:25.897765Z",
+  "charter": "user_0113386",
+  "composer": "网易蛋仔派对",
+  "created": "2025-10-03T00:31:25.897765Z",
+  "description": null,
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/06e03d91-42ca-4386-8e07-319edebacce3",
+  "id": 47510,
+  "illustration": "https://phira.5wyxi.com/files/900d0342-e5b8-433e-bb32-7eff2e6b4c11",
+  "illustrator": "",
+  "level": "AT LV.16",
+  "name": "蛋仔闹新春",
+  "preview": "https://phira.5wyxi.com/files/9026391b-f50e-4ca4-9619-c5ce1cffcf96",
+  "ranked": false,
+  "rating": 0.8269806,
+  "ratingCount": 239,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-10-03T00:31:25.897765Z",
+  "uploader": 1606472
+}

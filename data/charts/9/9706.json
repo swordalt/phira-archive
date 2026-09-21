@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:34Z",
+    "lastChanged": "2026-09-21T02:01:34Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-09-28T10:08:03.551055Z",
+  "charter": "sumuNC",
+  "composer": "Daily天利",
+  "created": "2023-09-28T10:08:03.551055Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/409aced7-e2b2-4271-a95e-84110238d3f7",
+  "id": 9706,
+  "illustration": "https://phira.5wyxi.com/files/8bc6a758-63cf-4863-b6b4-05fa63ee0719",
+  "illustrator": "",
+  "level": "RE：IN Lv.15",
+  "name": "After ZABANIYA",
+  "preview": "https://phira.5wyxi.com/files/c46c821c-78f3-4870-84e9-fb6dc5201bc9",
+  "ranked": false,
+  "rating": 0.8284342,
+  "ratingCount": 244,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "BOFXVI",
+    "regular"
+  ],
+  "updated": "2023-09-28T10:08:03.551055Z",
+  "uploader": 1876
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:04Z",
+    "lastChanged": "2026-09-21T02:01:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-04-02T08:24:52.826382Z",
+  "charter": "zqr",
+  "composer": "Sakuzyo",
+  "created": "2023-04-02T08:24:52.826382Z",
+  "description": "",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/51ccef82-bbcc-454c-8000-1cda28995b01",
+  "id": 202,
+  "illustration": "https://phira.5wyxi.com/files/68e4fb3b-e264-43ba-b8fb-52c9728b5966",
+  "illustrator": "MAIMAI",
+  "level": "AT",
+  "name": "PANDORA PARADOXXX",
+  "preview": "https://phira.5wyxi.com/files/e1b930af-17a0-4f51-a123-9b062ef6b7ac",
+  "ranked": false,
+  "rating": 0.19936974,
+  "ratingCount": 1548,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-04-02T08:24:52.826382Z",
+  "uploader": 804
+}

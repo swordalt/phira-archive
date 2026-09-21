@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:20Z",
+    "lastChanged": "2026-09-21T02:02:20Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-01T03:17:37.395380Z",
+  "charter": "Saikyoyo",
+  "composer": "Nakaiankow + F Rabbeat",
+  "created": "2024-07-01T03:17:37.395380Z",
+  "description": "本人之前的初谱，因为一些原因之前下架了，动效没有做，但优化了一些排键",
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/f7b24808-a4f3-452f-ba51-5f73efce495c",
+  "id": 22362,
+  "illustration": "https://phira.5wyxi.com/files/2ca9f09c-7ba1-4b2f-9cf9-155bec11b2bc",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Anything",
+  "preview": "https://phira.5wyxi.com/files/6b203ccc-a52f-4fca-948f-639d0aec085b",
+  "ranked": false,
+  "rating": 0.9007464,
+  "ratingCount": 167,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "BOFXVII",
+    "regular"
+  ],
+  "updated": "2024-07-01T03:17:37.395380Z",
+  "uploader": 10806
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:25Z",
+    "lastChanged": "2026-09-21T02:02:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-21T08:28:40.371066Z",
+  "charter": "NEKOYO",
+  "composer": "ヒトリエ",
+  "created": "2024-07-21T08:28:40.371066Z",
+  "description": "曲名：Namid[A]me\r\n曲师：ヒトリエ\r\n定数：IN Lv.14",
+  "difficulty": 13.9,
+  "file": "https://phira.5wyxi.com/files/1b34810c-54ac-41e1-aa7e-9bc5fd469399",
+  "id": 23963,
+  "illustration": "https://phira.5wyxi.com/files/4b684613-16a1-42e2-af36-f9f58b5879b9",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Namid[A]me",
+  "preview": "https://phira.5wyxi.com/files/f4808451-a0e3-41f7-b666-b5574102ce73",
+  "ranked": false,
+  "rating": 0.9427696,
+  "ratingCount": 211,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-07-21T08:28:40.371066Z",
+  "uploader": 1113315
+}

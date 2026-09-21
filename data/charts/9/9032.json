@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:31Z",
+    "lastChanged": "2026-09-21T02:01:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-09-03T10:54:12.728611Z",
+  "charter": "blazedgrating",
+  "composer": "Nurko/Roniit ",
+  "created": "2023-09-03T10:54:12.728611Z",
+  "description": "萌新三谱改版",
+  "difficulty": 15.100004,
+  "file": "https://phira.5wyxi.com/files/743e80fd-3086-4407-af37-4f92e6570d57",
+  "id": 9032,
+  "illustration": "https://phira.5wyxi.com/files/972c5af1-5358-4130-9fb3-f8572fc298ac",
+  "illustrator": "",
+  "level": "FALLING Lv.15",
+  "name": "Falling Again",
+  "preview": "https://phira.5wyxi.com/files/3a973292-b5cc-4b54-832d-736bcce7e237",
+  "ranked": false,
+  "rating": 0.93802005,
+  "ratingCount": 1062,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "微多指",
+    "regular"
+  ],
+  "updated": "2023-09-03T10:54:12.728611Z",
+  "uploader": 5152
+}

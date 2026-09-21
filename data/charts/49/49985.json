@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:06Z",
+    "lastChanged": "2026-09-21T02:04:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-07T12:09:16.835832Z",
+  "charter": "马尔杜克梦女",
+  "composer": "Masayoshi limori",
+  "created": "2025-12-07T12:09:16.835832Z",
+  "description": null,
+  "difficulty": 15.1,
+  "file": "https://phira.5wyxi.com/files/47636555-f530-44af-8776-a45e551f8c4a",
+  "id": 49985,
+  "illustration": "https://phira.5wyxi.com/files/48155a1f-d99b-44c0-adf6-912eec55e30c",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "Brightness",
+  "preview": "https://phira.5wyxi.com/files/528ba7ab-a9e1-4fd7-ac67-bd3574d14462",
+  "ranked": true,
+  "rating": 0.89952,
+  "ratingCount": 365,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "CHUNITHM",
+    "regular"
+  ],
+  "updated": "2025-12-19T09:45:43.634086Z",
+  "uploader": 43
+}

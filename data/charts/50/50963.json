@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:11Z",
+    "lastChanged": "2026-09-21T02:04:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-04T05:27:27.785624Z",
+  "charter": "ln_137",
+  "composer": "Lemonade Factory",
+  "created": "2026-01-04T05:27:27.785624Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/412fdfd4-454c-49b9-ae3b-28a22b5d65fe",
+  "id": 50963,
+  "illustration": "https://phira.5wyxi.com/files/214601c3-fe61-42ce-b6e4-605ff9bda90a",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "明け星",
+  "preview": "https://phira.5wyxi.com/files/00c2894c-2cd7-4147-8c79-541e8a15c9fc",
+  "ranked": false,
+  "rating": 0.8835872,
+  "ratingCount": 60,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-01-04T05:27:27.785624Z",
+  "uploader": 313621
+}

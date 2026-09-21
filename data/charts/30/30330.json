@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:49Z",
+    "lastChanged": "2026-09-21T02:02:49Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-12-01T07:46:50.656221Z",
+  "charter": "LPI",
+  "composer": "shadow_bling",
+  "created": "2024-12-01T07:46:50.656221Z",
+  "description": "本人上传\nbilibili: @LPI_",
+  "difficulty": 16.400002,
+  "file": "https://phira.5wyxi.com/files/071f6ece-33d4-4d82-9dcb-ab7b20e08b10",
+  "id": 30330,
+  "illustration": "https://phira.5wyxi.com/files/cac1e195-3820-4bde-bab0-b05b00654f4e",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "CRIT TANK",
+  "preview": "https://phira.5wyxi.com/files/70b628e2-5133-46f5-a930-183bcff885cf",
+  "ranked": false,
+  "rating": 0.86919063,
+  "ratingCount": 146,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "舞立方",
+    "DanceCube",
+    "regular"
+  ],
+  "updated": "2024-12-01T07:46:50.656221Z",
+  "uploader": 815464
+}

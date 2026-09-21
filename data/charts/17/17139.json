@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:03Z",
+    "lastChanged": "2026-09-21T02:02:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-15T17:09:18.468069Z",
+  "charter": "778Y0E",
+  "composer": "Tatsunoshin",
+  "created": "2024-03-15T17:09:18.468069Z",
+  "description": "想来想去，这谱面也确实不适合17，更别说吸引热度了，， 所以我决定降低定数为16.1，并且保留谱面以警告后代不要标虚高（",
+  "difficulty": 16.100002,
+  "file": "https://phira.5wyxi.com/files/7cea4caa-09b0-4541-991f-ad01b8ff976a",
+  "id": 17139,
+  "illustration": "https://phira.5wyxi.com/files/31a9ae0f-0509-44cb-a5d7-500fc2818fa5",
+  "illustrator": "",
+  "level": "Legacy Lv.16",
+  "name": "HALO（Legacy谱面）",
+  "preview": "https://phira.5wyxi.com/files/f31e9dfc-0e06-4461-84d8-c53353eec5e0",
+  "ranked": false,
+  "rating": 0.9040103,
+  "ratingCount": 369,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "SDVX",
+    "Legacy",
+    "regular"
+  ],
+  "updated": "2024-10-14T12:17:14.182202Z",
+  "uploader": 14238
+}

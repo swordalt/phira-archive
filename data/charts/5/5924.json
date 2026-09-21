@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:22Z",
+    "lastChanged": "2026-09-21T02:01:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-07-23T15:32:15.247434Z",
+  "charter": "AWAKEN",
+  "composer": "USAO",
+  "created": "2023-07-23T15:32:15.247434Z",
+  "description": null,
+  "difficulty": 15.500002,
+  "file": "https://phira.5wyxi.com/files/2cb4bcb1-ffb6-4db1-aa51-99913d738c05",
+  "id": 5924,
+  "illustration": "https://phira.5wyxi.com/files/7bc73111-1a43-40c1-8a45-032f31f3efcf",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Boss Rush",
+  "preview": "https://phira.5wyxi.com/files/32c9602c-8cb5-4768-b424-9d1381ed1b73",
+  "ranked": true,
+  "rating": 0.90440255,
+  "ratingCount": 4017,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-01-21T08:30:19.813105Z",
+  "uploader": 6134
+}

@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:36Z",
+    "lastChanged": "2026-09-21T02:03:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-03T13:15:52.766988Z",
+  "charter": "LØgicM",
+  "composer": "かぼちゃ",
+  "created": "2025-08-03T13:15:52.766988Z",
+  "description": "该谱面为【云梦•始源】比赛供谱\n首次登场于EX区16进8淘汰赛第四场\n\n————————————————\n曲名：ΣmbryØ\n曲师：かぼちゃ\n谱师：LØgicM\n难度：IN Lv.16\n物量：1678",
+  "difficulty": 16.5,
+  "file": "https://phira.5wyxi.com/files/7e5a3d4e-4e46-4fb8-b4f2-209a190f3c4a",
+  "id": 43602,
+  "illustration": "https://phira.5wyxi.com/files/86b4c50a-ebc2-4262-9ac1-68191ef3b8ab",
+  "illustrator": "",
+  "level": "IN  Lv.16",
+  "name": "ΣmbryØ",
+  "preview": "https://phira.5wyxi.com/files/14034834-c916-42d4-830e-2c61e318bb21",
+  "ranked": true,
+  "rating": 0.9153216,
+  "ratingCount": 793,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "云梦杯",
+    "Soundvoltex",
+    "regular"
+  ],
+  "updated": "2025-08-03T13:15:52.766988Z",
+  "uploader": 403
+}

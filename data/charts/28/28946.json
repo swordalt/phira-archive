@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:44Z",
+    "lastChanged": "2026-09-21T02:02:44Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-10-20T06:24:18.686961Z",
+  "charter": "QM_Cat",
+  "composer": "Plum",
+  "created": "2024-10-20T06:24:18.686961Z",
+  "description": null,
+  "difficulty": 14.800001,
+  "file": "https://phira.5wyxi.com/files/8ea564d7-5d20-4f08-8214-fc435caf1bd1",
+  "id": 28946,
+  "illustration": "https://phira.5wyxi.com/files/acd8627b-c059-4220-8df1-861e22c4b062",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "秘密人偶剧Ⅱ",
+  "preview": "https://phira.5wyxi.com/files/c2e46224-0f3f-405c-a847-6cf4401b85a9",
+  "ranked": false,
+  "rating": 0.9268038,
+  "ratingCount": 732,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-10-20T06:24:18.686961Z",
+  "uploader": 1309717
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:33Z",
+    "lastChanged": "2026-09-21T02:04:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-04T07:37:58.437964Z",
+  "charter": "A200_Prime",
+  "composer": "虹羽RFeather & 一杯猫头",
+  "created": "2026-04-04T07:37:58.437964Z",
+  "description": "Description Description Description",
+  "difficulty": 14.700003,
+  "file": "https://phira.5wyxi.com/files/eabc1466-fe52-4b8b-a3e8-ef1d0f68f7d0",
+  "id": 55008,
+  "illustration": "https://phira.5wyxi.com/files/4da82234-11ea-4003-876d-fdb4b6fe78cd",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Parade Pageantry",
+  "preview": "https://phira.5wyxi.com/files/d8f7c91e-3362-489b-84b3-bebc33d67e5f",
+  "ranked": false,
+  "rating": 0.83647734,
+  "ratingCount": 16,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-04-04T07:37:58.437964Z",
+  "uploader": 1625960
+}

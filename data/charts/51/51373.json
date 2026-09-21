@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:13Z",
+    "lastChanged": "2026-09-21T02:04:13Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-18T07:53:39.372387Z",
+  "charter": "aletris",
+  "composer": "katagiri",
+  "created": "2026-01-18T07:53:39.372387Z",
+  "description": "may the universe have mercy",
+  "difficulty": 18.600002,
+  "file": "https://phira.5wyxi.com/files/1d28cba8-5d12-4a3d-aaa0-a1c7b96032cf",
+  "id": 51373,
+  "illustration": "https://phira.5wyxi.com/files/c1cfda56-c0a7-4649-a48f-a5578e438494",
+  "illustrator": "",
+  "level": "@ Lv.18",
+  "name": "CAT ROTATION",
+  "preview": "https://phira.5wyxi.com/files/f13fa19f-542a-40f1-a0b0-e9861859de6d",
+  "ranked": false,
+  "rating": 0.85774314,
+  "ratingCount": 38,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-01-18T07:53:39.372387Z",
+  "uploader": 1904390
+}

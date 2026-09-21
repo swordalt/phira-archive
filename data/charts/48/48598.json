@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:00Z",
+    "lastChanged": "2026-09-21T02:04:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-31T15:51:36.139843Z",
+  "charter": "绿系百川",
+  "composer": "步博",
+  "created": "2025-10-31T15:51:36.139843Z",
+  "description": null,
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/43de34a3-b128-41ee-a9ca-1bc82332e96d",
+  "id": 48598,
+  "illustration": "https://phira.5wyxi.com/files/efbe8d51-65d9-40a3-a085-a72d76f5584b",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "勇敢说不",
+  "preview": "https://phira.5wyxi.com/files/90a9ea3b-2dcc-460d-860f-bb7e2e0298e5",
+  "ranked": false,
+  "rating": 0.8756029,
+  "ratingCount": 57,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-10-31T15:51:36.139843Z",
+  "uploader": 1951194
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:59Z",
+    "lastChanged": "2026-09-21T02:01:59Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-17T20:11:14.783353Z",
+  "charter": "飞飞",
+  "composer": "Kobaryo",
+  "created": "2024-02-17T20:11:14.783353Z",
+  "description": "Puremoon 羽源杯 比赛用谱",
+  "difficulty": 16.1,
+  "file": "https://phira.5wyxi.com/files/f4cbb382-da0d-4d50-b5fe-0242c5cf49bd",
+  "id": 15992,
+  "illustration": "https://phira.5wyxi.com/files/ec491d16-ae75-4e76-bd4c-f8211a258c7c",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Radical Jinja",
+  "preview": "https://phira.5wyxi.com/files/beabc313-9d9c-40d0-a8a2-0cb92e5f6822",
+  "ranked": false,
+  "rating": 0.9606806,
+  "ratingCount": 6453,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-02-17T20:11:14.783353Z",
+  "uploader": 410
+}

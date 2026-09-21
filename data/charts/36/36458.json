@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:13Z",
+    "lastChanged": "2026-09-21T02:03:13Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-12T05:30:20.457804Z",
+  "charter": "DiaoLin",
+  "composer": "Klaus Badelt",
+  "created": "2025-04-12T05:30:20.457804Z",
+  "description": null,
+  "difficulty": 13.5,
+  "file": "https://phira.5wyxi.com/files/0d549130-1bfc-448c-9199-31260e59c346",
+  "id": 36458,
+  "illustration": "https://phira.5wyxi.com/files/f2ce43a0-3042-43b9-8851-ad8ef0c52b7e",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "He's a Pirate",
+  "preview": "https://phira.5wyxi.com/files/244a1886-f247-4895-9b47-3f44051af5cf",
+  "ranked": false,
+  "rating": 0.9108806,
+  "ratingCount": 3783,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-04-12T05:30:20.457804Z",
+  "uploader": 1419099
+}

@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:00Z",
+    "lastChanged": "2026-09-21T02:03:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-29T11:42:49.150761Z",
+  "charter": "流星雨",
+  "composer": "アンメルツP",
+  "created": "2025-01-29T11:42:49.150761Z",
+  "description": "谱师本人上传。",
+  "difficulty": 16.900003,
+  "file": "https://phira.5wyxi.com/files/ca589ed7-ea0b-4a9f-879f-28ff43c853eb",
+  "id": 32786,
+  "illustration": "https://phira.5wyxi.com/files/b2f0612f-f1c1-4198-90c1-1956b3b287e0",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "人生",
+  "preview": "https://phira.5wyxi.com/files/faca8639-a1ab-492a-b003-274f3a6125ad",
+  "ranked": false,
+  "rating": 0.57827604,
+  "ratingCount": 244,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "PJSK",
+    "VOCALOID",
+    "regular"
+  ],
+  "updated": "2025-01-29T11:42:49.150761Z",
+  "uploader": 1465303
+}

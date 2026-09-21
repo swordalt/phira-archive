@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:38Z",
+    "lastChanged": "2026-09-21T02:01:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-10-21T15:56:03.137696Z",
+  "charter": "MVsVPD",
+  "composer": "HOYO-MiX",
+  "created": "2023-10-21T15:56:03.137696Z",
+  "description": null,
+  "difficulty": 13.499999,
+  "file": "https://phira.5wyxi.com/files/c399a554-08df-4456-a2d2-9eccacbcfcc6",
+  "id": 10703,
+  "illustration": "https://phira.5wyxi.com/files/eedba30f-9edb-471b-b1cb-c617a75faf06",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "尘世闲游",
+  "preview": "https://phira.5wyxi.com/files/8a8c81ba-51a2-4faa-ae40-6a183ffeee49",
+  "ranked": false,
+  "rating": 0.938849,
+  "ratingCount": 14340,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "原神",
+    "regular"
+  ],
+  "updated": "2023-10-21T15:56:03.137696Z",
+  "uploader": 4022
+}

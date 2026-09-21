@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:54Z",
+    "lastChanged": "2026-09-21T02:03:54Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-07T07:49:36.413298Z",
+  "charter": "Ex1stenS",
+  "composer": "ned x PahNic",
+  "created": "2025-10-01T07:55:28.233078Z",
+  "description": "5thwjc参赛谱，修改了大量配置与动效，非常感谢muun大神的指导以及对开头表演的修改，修复了一点穿帮",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/f852957f-7602-4964-ba89-64eafd5ee285",
+  "id": 47407,
+  "illustration": "https://phira.5wyxi.com/files/6e671780-fad7-4383-8a9a-3394e7191396",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Checkmate (feat. Re.may)",
+  "preview": "https://phira.5wyxi.com/files/fb06aba1-8ed9-4adf-ae92-9710fb948639",
+  "ranked": false,
+  "rating": 0.9086419,
+  "ratingCount": 260,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-12-07T07:49:36.413298Z",
+  "uploader": 1503
+}

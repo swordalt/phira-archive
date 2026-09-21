@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:40Z",
+    "lastChanged": "2026-09-21T02:01:40Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-11-12T16:47:06.278657Z",
+  "charter": "Rizur & Kalsey",
+  "composer": "Akira Complex / かめりあ",
+  "created": "2023-11-12T16:47:06.278657Z",
+  "description": "因谱面部分动效产生播放器bug而导致本谱面无法提供视频预览投放至B站；请在著作权审核时自查B站UID82707502标有“S2N67L”的动态（它的发出时间应该在这个投稿请求之后），其附有该投稿账号ID。\n谱面文件上传已经过所有参与制作的谱师的同意（Rizur即提到的UID，可查证或直接私信；Kalsey为本人，Phira账号为该账号Kaltist）",
+  "difficulty": 16.6,
+  "file": "https://phira.5wyxi.com/files/34fe652c-d0b7-4d29-b7e8-d571c9600e6f",
+  "id": 11442,
+  "illustration": "https://phira.5wyxi.com/files/f4c75476-eb89-4a62-8c7a-4998ad4301bd",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Reality Distortion",
+  "preview": "https://phira.5wyxi.com/files/27b9a79e-5a71-408b-9784-837be6e45641",
+  "ranked": false,
+  "rating": 0.91310745,
+  "ratingCount": 404,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-11-12T16:47:06.278657Z",
+  "uploader": 24821
+}

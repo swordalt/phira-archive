@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:20Z",
+    "lastChanged": "2026-09-21T02:02:20Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-01T05:19:30.239816Z",
+  "charter": "朱邪冷羽",
+  "composer": "塞壬唱片-MSR,Elvin Shen",
+  "created": "2024-07-01T05:19:30.239816Z",
+  "description": "Visage HD版本",
+  "difficulty": 9.0,
+  "file": "https://phira.5wyxi.com/files/38722dda-766e-4610-a230-6aad3dd175d3",
+  "id": 22371,
+  "illustration": "https://phira.5wyxi.com/files/4496683b-ce36-4507-8907-af1b9210fbc1",
+  "illustrator": "",
+  "level": "HD",
+  "name": "Visage",
+  "preview": "https://phira.5wyxi.com/files/d48981d0-52ba-48b0-a1d1-372daed76c04",
+  "ranked": false,
+  "rating": 0.91405606,
+  "ratingCount": 488,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "明日方舟",
+    "regular"
+  ],
+  "updated": "2024-07-01T05:19:30.239816Z",
+  "uploader": 33666
+}

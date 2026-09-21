@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:00Z",
+    "lastChanged": "2026-09-21T02:02:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-20T14:34:29.313660Z",
+  "charter": "NOUS_WAVE",
+  "composer": "塞壬唱片-MSR/Adam Gubman/Nini Guerry",
+  "created": "2024-02-20T14:34:29.313660Z",
+  "description": null,
+  "difficulty": 14.599999,
+  "file": "https://phira.5wyxi.com/files/1a18d8a9-5b5d-403c-8f95-8cc9df015a4b",
+  "id": 16170,
+  "illustration": "https://phira.5wyxi.com/files/771396d5-5812-4604-8a8c-2f65d9ba71ee",
+  "illustrator": "",
+  "level": "MD-EX-14",
+  "name": "morning dew(game.ver)",
+  "preview": "https://phira.5wyxi.com/files/036db6e5-9f1f-4259-9b9f-0bff8e261d14",
+  "ranked": false,
+  "rating": 0.8898704,
+  "ratingCount": 352,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-02-20T14:34:29.313660Z",
+  "uploader": 1815
+}

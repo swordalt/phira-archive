@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:18Z",
+    "lastChanged": "2026-09-21T02:01:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-07-04T03:31:58.334085Z",
+  "charter": "MVsVPD",
+  "composer": "琴葉茜·葵",
+  "created": "2023-07-04T03:31:58.334085Z",
+  "description": "",
+  "difficulty": 13.7,
+  "file": "https://phira.5wyxi.com/files/725ff297-6812-4203-9645-ad43d2aa528a",
+  "id": 4574,
+  "illustration": "https://phira.5wyxi.com/files/effe4c1f-93b6-4f1a-9357-96ab5552c968",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "萨卡萨卡班班甲鱼鱼",
+  "preview": "https://phira.5wyxi.com/files/17e74abd-898d-4fb9-bcff-54afb96f939c",
+  "ranked": false,
+  "rating": 0.9273852,
+  "ratingCount": 6792,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "萨卡班甲鱼",
+    "regular"
+  ],
+  "updated": "2023-07-04T08:22:15.591960Z",
+  "uploader": 4022
+}

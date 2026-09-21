@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:43Z",
+    "lastChanged": "2026-09-21T02:03:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-19T23:07:27.029748Z",
+  "charter": "El-xxx",
+  "composer": "Lundy vs. Wyvren",
+  "created": "2025-08-19T23:07:27.029748Z",
+  "description": null,
+  "difficulty": 16.8,
+  "file": "https://phira.5wyxi.com/files/61425913-9c1f-4f6e-877f-4538675500b4",
+  "id": 45197,
+  "illustration": "https://phira.5wyxi.com/files/d3d3e83f-67bc-4e5d-ae1c-141ca8e15461",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "valor/starcross",
+  "preview": "https://phira.5wyxi.com/files/8bcaf098-8187-45be-9b71-c106074ba1c6",
+  "ranked": false,
+  "rating": 0.8546322,
+  "ratingCount": 368,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-19T23:07:27.029748Z",
+  "uploader": 5631
+}

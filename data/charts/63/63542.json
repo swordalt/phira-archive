@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:53Z",
+    "lastChanged": "2026-09-21T02:04:53Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-01T23:44:59.502711Z",
+  "charter": "Gypin极品",
+  "composer": "GFY1994",
+  "created": "2026-07-01T23:44:59.502711Z",
+  "description": null,
+  "difficulty": 12.0,
+  "file": "https://phira.5wyxi.com/files/5a15aef7-c900-43c2-9a51-30be5c45af44",
+  "id": 63542,
+  "illustration": "https://phira.5wyxi.com/files/17628c55-8a41-4c9d-b630-31ce23079b5a",
+  "illustrator": "",
+  "level": "IN Lv.12",
+  "name": "Overturn",
+  "preview": "https://phira.5wyxi.com/files/7b6f5505-4dcf-463b-b80c-763eaf28fed3",
+  "ranked": false,
+  "rating": 0.8734418,
+  "ratingCount": 121,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-01T23:44:59.502711Z",
+  "uploader": 2454501
+}

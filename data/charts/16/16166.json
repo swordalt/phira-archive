@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:00Z",
+    "lastChanged": "2026-09-21T02:02:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-20T13:17:08.562703Z",
+  "charter": "陶林",
+  "composer": "Mili",
+  "created": "2024-02-20T13:17:08.562703Z",
+  "description": "审核对不起啊，上传了那么多次都有错误",
+  "difficulty": 13.200005,
+  "file": "https://phira.5wyxi.com/files/1f0c43fd-95ef-4ed3-8e0f-493e3e48f2a9",
+  "id": 16166,
+  "illustration": "https://phira.5wyxi.com/files/64932570-8f12-4d04-b7f9-881c64c83704",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "World.execute (me)",
+  "preview": "https://phira.5wyxi.com/files/89e15d76-1911-4281-b84b-1cef1a73a40a",
+  "ranked": false,
+  "rating": 0.88577765,
+  "ratingCount": 2045,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-02-20T13:17:08.562703Z",
+  "uploader": 595859
+}

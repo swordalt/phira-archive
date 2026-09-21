@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:37Z",
+    "lastChanged": "2026-09-21T02:02:37Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-26T03:16:22.347893Z",
+  "charter": "Biebie Cup",
+  "composer": "q",
+  "created": "2024-08-26T03:16:22.347893Z",
+  "description": "此为憋憋杯参赛谱\n这里是代传\n活动内使用",
+  "difficulty": 11.0,
+  "file": "https://phira.5wyxi.com/files/153398e5-f633-4fe8-80dd-a985ff7fee1a",
+  "id": 26928,
+  "illustration": "https://phira.5wyxi.com/files/62d9ad3e-bfc4-4f86-95b9-0ebbe07b6c4a",
+  "illustrator": "",
+  "level": "BBC No.J11",
+  "name": "jsl",
+  "preview": "https://phira.5wyxi.com/files/adb9dcd9-db38-40f9-abd0-e0f557982988",
+  "ranked": false,
+  "rating": 0.95000505,
+  "ratingCount": 342,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-26T03:16:22.347893Z",
+  "uploader": 1222298
+}

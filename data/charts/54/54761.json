@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:32Z",
+    "lastChanged": "2026-09-21T02:04:32Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-29T16:39:20.535117Z",
+  "charter": "あかニャン Lv.60",
+  "composer": "細江慎治",
+  "created": "2026-03-29T16:39:20.535117Z",
+  "description": "怨撃——細江慎治\r\n人声——光吉猛修\r\n12h速写，0th PecJam RG-67\r\n与会场版本稍有不同，打分请以会场版本为准！\r\n不太想还原本家了，有点烧脑",
+  "difficulty": 15.800003,
+  "file": "https://phira.5wyxi.com/files/34cd4335-d48d-4b94-a074-9058c61f9999",
+  "id": 54761,
+  "illustration": "https://phira.5wyxi.com/files/a810f3c6-fa84-467a-8fc7-9d13687013e5",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "怨撃",
+  "preview": "https://phira.5wyxi.com/files/0e695bdf-0e3d-49d2-a915-ef89b5e25b10",
+  "ranked": true,
+  "rating": 0.8476964,
+  "ratingCount": 399,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "0thPecJam",
+    "ONGEKI",
+    "regular"
+  ],
+  "updated": "2026-04-03T11:38:33.137482Z",
+  "uploader": 540194
+}

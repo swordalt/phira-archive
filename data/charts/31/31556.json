@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:55Z",
+    "lastChanged": "2026-09-21T02:02:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-08T02:41:42.056895Z",
+  "charter": "boluoovo",
+  "composer": "打打だいず(D-D-Dice) ",
+  "created": "2025-01-08T02:41:42.056895Z",
+  "description": null,
+  "difficulty": 15.1,
+  "file": "https://phira.5wyxi.com/files/58a78b47-8c45-4032-b691-d0718a57dea0",
+  "id": 31556,
+  "illustration": "https://phira.5wyxi.com/files/e7372db8-6010-41fd-9cd9-1e726de2d7b4",
+  "illustrator": "",
+  "level": "IN 15",
+  "name": "welcome spooky",
+  "preview": "https://phira.5wyxi.com/files/fcaeaf6a-b4e4-4c60-be22-3d158e92bb58",
+  "ranked": false,
+  "rating": 0.9073083,
+  "ratingCount": 97,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-01-08T02:41:42.056895Z",
+  "uploader": 155593
+}

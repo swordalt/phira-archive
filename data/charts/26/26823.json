@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:36Z",
+    "lastChanged": "2026-09-21T02:02:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-24T02:10:56.835064Z",
+  "charter": "宁武",
+  "composer": "茶鸣十二律",
+  "created": "2024-08-24T02:10:56.835064Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/6d264d7b-ae28-4406-bf51-9a734403e341",
+  "id": 26823,
+  "illustration": "https://phira.5wyxi.com/files/28313702-5c54-4eca-968b-b0f08947dbff",
+  "illustrator": "",
+  "level": "IN   Lv.15",
+  "name": "茗图盛景",
+  "preview": "https://phira.5wyxi.com/files/f89a2b8f-1e6f-498d-904a-6c4ab33b7435",
+  "ranked": false,
+  "rating": 0.8903737,
+  "ratingCount": 129,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-24T02:10:56.835064Z",
+  "uploader": 767509
+}

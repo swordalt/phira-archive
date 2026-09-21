@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:52Z",
+    "lastChanged": "2026-09-21T02:03:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-23T12:13:17.869117Z",
+  "charter": "IM2B in School",
+  "composer": "LeaF",
+  "created": "2025-09-23T12:13:17.869117Z",
+  "description": "曲目：命日 曲师：LeaF 曲绘：Melunia 定数：IN Lv.16.8（新） BPM：249 --- 使用RPE制谱 物量：1884 线数：13 事件数：11571 制谱总时长：23h                            谱面预览：BV15jY7z3ECF                                          ---                                                        第三张谱 写谱速度还是慢 基本都是正落，没多写倒打之类的",
+  "difficulty": 16.800003,
+  "file": "https://phira.5wyxi.com/files/fad0493d-71e3-49de-a810-2435aa80045c",
+  "id": 47121,
+  "illustration": "https://phira.5wyxi.com/files/1a945cf8-d517-4cea-94ac-408e1c5aeb69",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "命日",
+  "preview": "https://phira.5wyxi.com/files/fcb4dae8-5b43-4b14-aa2e-0ee297af101c",
+  "ranked": false,
+  "rating": 0.83407253,
+  "ratingCount": 312,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-23T12:13:17.869117Z",
+  "uploader": 603465
+}

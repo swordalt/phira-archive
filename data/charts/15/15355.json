@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:42Z",
+    "lastChanged": "2026-09-21T02:05:42Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-11T06:59:53.964616Z",
+  "charter": "lz1sss",
+  "composer": "ARForest",
+  "created": "2024-02-11T06:59:53.964616Z",
+  "description": null,
+  "difficulty": 27.0,
+  "file": "https://phira.5wyxi.com/files/090ac02c-866c-406c-a119-4b68ed051b75",
+  "id": 15355,
+  "illustration": "https://phira.5wyxi.com/files/fd174774-747c-4dc2-ae32-b2f33b55f00b",
+  "illustrator": "",
+  "level": "4K Lv.27",
+  "name": "Prometheus",
+  "preview": "https://phira.5wyxi.com/files/b8d7a313-a27f-4be5-aaa5-429453eabcd1",
+  "ranked": false,
+  "rating": 0.90308887,
+  "ratingCount": 111,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2024-02-11T06:59:53.964616Z",
+  "uploader": 2914
+}

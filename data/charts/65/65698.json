@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:57Z",
+    "lastChanged": "2026-09-21T02:04:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-11T12:37:11.751130Z",
+  "charter": "AZZURR",
+  "composer": "Casualties:Unknown",
+  "created": "2026-07-11T12:37:11.751130Z",
+  "description": null,
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/b13da9b3-006d-4a62-9778-08d79bead35d",
+  "id": 65698,
+  "illustration": "https://phira.5wyxi.com/files/f756206e-f2ee-4b47-8e60-a127958a68d6",
+  "illustrator": "",
+  "level": "RUN Lv.15",
+  "name": "RUN FOR YOUR LIFE",
+  "preview": "https://phira.5wyxi.com/files/d5bb6740-dc73-47dd-80b8-f5d77e71f38d",
+  "ranked": false,
+  "rating": 0.88539934,
+  "ratingCount": 28,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-11T12:37:11.751130Z",
+  "uploader": 2159842
+}

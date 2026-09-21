@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:50Z",
+    "lastChanged": "2026-09-21T02:06:50Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-22T14:45:12.066458Z",
+  "charter": "Aether",
+  "composer": "ああああ/Aoi",
+  "created": "2026-04-22T14:45:12.066458Z",
+  "description": "手法+键盘 谱面预览BV1JEdsBkE1q",
+  "difficulty": 18.0,
+  "file": "https://phira.5wyxi.com/files/99f6a01b-0c17-4feb-9488-5ee297aef149",
+  "id": 56936,
+  "illustration": "https://phira.5wyxi.com/files/0aacfd8f-02a0-47ef-96b6-6e744d8512af",
+  "illustrator": "",
+  "level": "AT Lv.18",
+  "name": "Dahlia",
+  "preview": "https://phira.5wyxi.com/files/c8a38ca9-0657-46e6-8e03-532a31bd4de3",
+  "ranked": false,
+  "rating": 0.93518794,
+  "ratingCount": 43,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2026-04-22T14:45:12.066458Z",
+  "uploader": 1526131
+}

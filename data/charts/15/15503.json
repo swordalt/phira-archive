@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:57Z",
+    "lastChanged": "2026-09-21T02:01:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-12T13:20:30.238788Z",
+  "charter": "6thPecJam",
+  "composer": "JINGYAN",
+  "created": "2024-02-12T13:20:30.238788Z",
+  "description": "",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/389ace59-9b33-4be4-b1bd-646110336616",
+  "id": 15503,
+  "illustration": "https://phira.5wyxi.com/files/3990b196-88c4-45fd-936f-3ae1492d86d4",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Azure Above",
+  "preview": "https://phira.5wyxi.com/files/82033197-2ba4-4907-99b8-dc6b308d2bd3",
+  "ranked": false,
+  "rating": 0.6972624,
+  "ratingCount": 97,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2024-03-09T15:24:17.835540Z",
+  "uploader": 6772
+}

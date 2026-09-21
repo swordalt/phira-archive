@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:23Z",
+    "lastChanged": "2026-09-21T02:03:23Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-14T11:50:21.134946Z",
+  "charter": "黑兽 酉 Muji",
+  "composer": "Mili",
+  "created": "2025-06-15T03:16:22.475500Z",
+  "description": "谱师本人上传，此为无shader版重投，特别感谢FM壹某，不爱说话的紫叶和Ezcape对谱面给出的建议，以及噗鲁鲁老师的精美曲绘      11.14 修复了休息段一处易漏的bug，对于重置排行榜深感抱歉",
+  "difficulty": 14.600002,
+  "file": "https://phira.5wyxi.com/files/815e0044-f876-4626-8c63-1322d2b827f8",
+  "id": 39703,
+  "illustration": "https://phira.5wyxi.com/files/ba6ab9ee-314f-47b2-87e6-272138f33ca2",
+  "illustrator": "",
+  "level": "HL Lv.14",
+  "name": "TIANTIAN(低配)",
+  "preview": "https://phira.5wyxi.com/files/c33a4dcc-3849-48d0-a226-439945013b8b",
+  "ranked": false,
+  "rating": 0.96302927,
+  "ratingCount": 1858,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "月计",
+    "regular"
+  ],
+  "updated": "2025-11-14T11:50:21.134946Z",
+  "uploader": 3742
+}

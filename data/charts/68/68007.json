@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:01Z",
+    "lastChanged": "2026-09-21T02:05:01Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-20T13:41:12.148905Z",
+  "charter": "Fragments of Us",
+  "composer": "Fractal Dreamers",
+  "created": "2026-07-20T13:41:12.148905Z",
+  "description": "该谱面为 WSRT x 云梦杯 比赛供谱\n首次登场于S区决赛\n————————————————\n曲名：Fragments of You\n曲师：Fractal Dreamers\n谱师：Fragments of Us\n难度：AT Lv.17\n物量：930\n定数：17.2（16.5）\n————————————————\n@N07h1n95en5ea2y#1026384\n@whenhow#1839450",
+  "difficulty": 17.2,
+  "file": "https://phira.5wyxi.com/files/252f8c6d-9d75-419f-8cb3-9b572e4a425a",
+  "id": 68007,
+  "illustration": "https://phira.5wyxi.com/files/fa86ffe7-9233-4efb-a321-ce77edeb069c",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Fragments of You",
+  "preview": "https://phira.5wyxi.com/files/f7160229-35f0-4845-bce5-e9067894bfb4",
+  "ranked": false,
+  "rating": 0.9286766,
+  "ratingCount": 302,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "WSRTx云梦杯",
+    "云梦杯",
+    "WSRT",
+    "regular"
+  ],
+  "updated": "2026-07-20T13:41:12.148905Z",
+  "uploader": 57085
+}

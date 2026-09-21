@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:56Z",
+    "lastChanged": "2026-09-21T02:01:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-11T12:21:17.535396Z",
+  "charter": "InkOfSilicon",
+  "composer": "HyuN",
+  "created": "2024-02-11T12:21:17.535396Z",
+  "description": "",
+  "difficulty": 15.9,
+  "file": "https://phira.5wyxi.com/files/af103173-c965-4b8b-82ca-b6894540d0aa",
+  "id": 15391,
+  "illustration": "https://phira.5wyxi.com/files/ef5df4ac-29c2-44cb-9c1f-005fc003207a",
+  "illustrator": "",
+  "level": "EX Lv.15",
+  "name": "Infinity Heaven",
+  "preview": "https://phira.5wyxi.com/files/b2fb2cea-3bcc-496c-ab85-96c94e788045",
+  "ranked": false,
+  "rating": 0.68907565,
+  "ratingCount": 401,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2024-03-09T15:24:17.835540Z",
+  "uploader": 2052
+}

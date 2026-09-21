@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:28Z",
+    "lastChanged": "2026-09-21T02:01:28Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-23T12:37:53.531205Z",
+  "charter": "NekoTown",
+  "composer": "テヅカ/Qayo/Mii",
+  "created": "2023-08-23T12:37:53.531205Z",
+  "description": "",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/b1ba08da-4406-444b-bba9-6b76cbdfc3a2",
+  "id": 8252,
+  "illustration": "https://phira.5wyxi.com/files/58b7cf46-f5d3-41fc-a074-102725803588",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "ニニ ",
+  "preview": "https://phira.5wyxi.com/files/3e66b72b-f5ae-4ca4-91e2-53f9c82a4aec",
+  "ranked": false,
+  "rating": 0.85015255,
+  "ratingCount": 222,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-08-23T15:33:05.884271Z",
+  "uploader": 2904
+}

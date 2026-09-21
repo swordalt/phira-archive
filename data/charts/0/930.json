@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:07Z",
+    "lastChanged": "2026-09-21T02:01:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-06-04T02:37:46.297119Z",
+  "charter": "It's ショウタイム",
+  "composer": "烏屋茶房",
+  "created": "2023-05-01T02:42:37.160679Z",
+  "description": "本人上传\nBV号：BV1y8411h7m1",
+  "difficulty": 14.500002,
+  "file": "https://phira.5wyxi.com/files/a3f44202-e7fc-41dd-843e-e43af76a2d3a",
+  "id": 930,
+  "illustration": "https://phira.5wyxi.com/files/51602b2a-fdf6-49d6-bda9-9df6ecb85b6f",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "ショウタイム・ルーラー (Game ver.)",
+  "preview": "https://phira.5wyxi.com/files/81b543d6-bcb1-412a-9aed-09c59ff96db8",
+  "ranked": false,
+  "rating": 0.9071662,
+  "ratingCount": 463,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "PJSK",
+    "regular"
+  ],
+  "updated": "2023-06-04T02:37:46.297119Z",
+  "uploader": 4611
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:07Z",
+    "lastChanged": "2026-09-21T02:02:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-16T07:28:58.780945Z",
+  "charter": "ShenlI",
+  "composer": "Sakuzyo",
+  "created": "2024-04-07T03:18:58.337609Z",
+  "description": "初來乍到，請多指教\n2024.04.11 修改優化譜面（優化讀譜）",
+  "difficulty": 16.7,
+  "file": "https://phira.5wyxi.com/files/8e630f95-1097-41ff-99e8-c275e979eaab",
+  "id": 18183,
+  "illustration": "https://phira.5wyxi.com/files/f04d3c90-b5dc-48df-a45c-73d84f354e34",
+  "illustrator": "",
+  "level": "SP Lv.16?",
+  "name": "Synthesized Angel",
+  "preview": "https://phira.5wyxi.com/files/2ce907be-949f-4486-a14c-a010888e0bd3",
+  "ranked": false,
+  "rating": 0.37005672,
+  "ratingCount": 75,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-04-16T07:28:58.780945Z",
+  "uploader": 784163
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:14Z",
+    "lastChanged": "2026-09-21T02:01:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-06-05T12:10:54.336853Z",
+  "charter": "SrY-ABYSS",
+  "composer": "HOYO-MiX",
+  "created": "2023-06-05T12:10:54.336853Z",
+  "description": "音乐来自游戏\n《崩坏：星穹铁道》",
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/3da3752f-7334-496a-ae4b-0ab3296b7c55",
+  "id": 3017,
+  "illustration": "https://phira.5wyxi.com/files/c6475539-7bf2-4061-904b-7cdca9b3fcf0",
+  "illustrator": "",
+  "level": "Space",
+  "name": "太空漫步 Space Walk",
+  "preview": "https://phira.5wyxi.com/files/d4851529-81ff-4048-bb00-e0e95c267d5e",
+  "ranked": true,
+  "rating": 0.93207073,
+  "ratingCount": 13172,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 1437
+}

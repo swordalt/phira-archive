@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:29Z",
+    "lastChanged": "2026-09-21T02:04:29Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-21T04:12:12.953834Z",
+  "charter": "牢喵LM",
+  "composer": "任路加",
+  "created": "2026-03-21T04:12:12.953834Z",
+  "description": null,
+  "difficulty": 15.49999,
+  "file": "https://phira.5wyxi.com/files/2a88f9b8-f2c1-433f-a6c3-636771ac3db1",
+  "id": 54349,
+  "illustration": "https://phira.5wyxi.com/files/77b1464d-1a16-4256-9b6d-411a7a874ef6",
+  "illustrator": "",
+  "level": "IN",
+  "name": "半道英雄",
+  "preview": "https://phira.5wyxi.com/files/520c6b8d-4ff3-4111-8f81-662356f55710",
+  "ranked": false,
+  "rating": 0.94285035,
+  "ratingCount": 150,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-03-21T04:12:12.953834Z",
+  "uploader": 2139120
+}

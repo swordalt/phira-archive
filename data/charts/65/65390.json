@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:56Z",
+    "lastChanged": "2026-09-21T02:04:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-10T03:55:24.714018Z",
+  "charter": "DrLeft",
+  "composer": "Toby Fox, Camellia",
+  "created": "2026-07-10T03:55:24.714018Z",
+  "description": "谱师b站DanielLeft\n该谱面适于使用平板游玩\n使用手机游玩会出现一些显示bug\n手机版本见b站视频简介",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/f1613b5b-bbdd-432c-9d26-7ebea46fec97",
+  "id": 65390,
+  "illustration": "https://phira.5wyxi.com/files/4fb5aaec-fe90-41ec-b6ae-77f3d029f26e",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Cutie Mew Mew Magic",
+  "preview": "https://phira.5wyxi.com/files/fd5be6c5-c2d8-4518-b058-5db72379d179",
+  "ranked": false,
+  "rating": 0.9108275,
+  "ratingCount": 97,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-10T03:55:24.714018Z",
+  "uploader": 209803
+}

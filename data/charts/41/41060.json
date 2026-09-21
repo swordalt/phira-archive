@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:21Z",
+    "lastChanged": "2026-09-21T02:06:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-07T05:31:46.754555Z",
+  "charter": "Entity_303-E3 (Nephrolepis, 굥욷, Becl935‬, 수버, Bingsu_official‬‬)",
+  "composer": "かめりあ (Camellia)",
+  "created": "2025-07-07T05:31:46.754555Z",
+  "description": "adofai转谱的削弱版，16键和脚键部分用黄键送了，理论正常人可以AP（比2024略难~）",
+  "difficulty": 20.0,
+  "file": "https://phira.5wyxi.com/files/5c514efa-5d70-41b6-b0af-15a0ba05a68a",
+  "id": 41060,
+  "illustration": "https://phira.5wyxi.com/files/b61f442f-e930-4d1d-b918-eee603d3e852",
+  "illustrator": "",
+  "level": "21.3 (U14)",
+  "name": "Hello (BPM) 2025",
+  "preview": "https://phira.5wyxi.com/files/424c24d4-7988-43b6-bb54-1e40e3918840",
+  "ranked": false,
+  "rating": 0.95179665,
+  "ratingCount": 170,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-07-07T05:31:46.754555Z",
+  "uploader": 1677765
+}

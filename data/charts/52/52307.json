@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:19Z",
+    "lastChanged": "2026-09-21T02:04:19Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-10T10:00:15.368552Z",
+  "charter": "Cybifer vs. Autino",
+  "composer": "Sakuzyo",
+  "created": "2026-02-09T06:29:33.202599Z",
+  "description": "与半秋Autino合作完成的重制！修缮了大部分配置并重写了全谱特效。希望各位喜欢！如想游玩旧版谱面，请移步#25193。Update(20260210)：修改了部分排列，重写了尾杀。感谢233和wpt的改谱。\r\n@半秋Autino#825\n@twotthrees233#7679",
+  "difficulty": 16.8,
+  "file": "https://phira.5wyxi.com/files/1996d51c-60d0-42ec-8039-041add9e5914",
+  "id": 52307,
+  "illustration": "https://phira.5wyxi.com/files/b74b39d8-446b-4229-b876-ba83f098cbd5",
+  "illustrator": "",
+  "level": "IN  Lv.16+",
+  "name": "Ultimate Force",
+  "preview": "https://phira.5wyxi.com/files/152ec115-8cdd-4a56-bd33-a9948d9f7459",
+  "ranked": true,
+  "rating": 0.90544367,
+  "ratingCount": 2661,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "CHUNITHM",
+    "regular"
+  ],
+  "updated": "2026-04-11T18:25:05.090628Z",
+  "uploader": 148983
+}

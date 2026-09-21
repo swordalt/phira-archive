@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:41Z",
+    "lastChanged": "2026-09-21T02:01:41Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-11-18T19:58:18.480637Z",
+  "charter": "Ardioz",
+  "composer": "Kanaria",
+  "created": "2023-11-18T19:58:18.480637Z",
+  "description": null,
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/3b8ea006-0110-4c74-828c-6524a4136fe4",
+  "id": 11586,
+  "illustration": "https://phira.5wyxi.com/files/2c3660cd-62ad-4518-a74e-4327f264edf7",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "KING",
+  "preview": "https://phira.5wyxi.com/files/d3e6b8d5-2b0d-444a-a2aa-ab285f7fb172",
+  "ranked": false,
+  "rating": 0.80178463,
+  "ratingCount": 1107,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "VOCALOID",
+    "regular"
+  ],
+  "updated": "2023-11-18T19:58:18.480637Z",
+  "uploader": 519196
+}

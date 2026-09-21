@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:21Z",
+    "lastChanged": "2026-09-21T02:02:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-09T12:20:52.517758Z",
+  "charter": "Willonve",
+  "composer": "Halv",
+  "created": "2024-07-09T12:20:52.517758Z",
+  "description": "新人初铺，请多关照（经群友提醒，修改一下bug，这是第二次上传了）",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/645f37b1-051a-40a5-bb3f-6e65a98f9dbd",
+  "id": 23053,
+  "illustration": "https://phira.5wyxi.com/files/a433ba09-e427-4582-9ede-94fe08d84385",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "rvp7vre",
+  "preview": "https://phira.5wyxi.com/files/4a1d6ef6-a283-4056-b1c7-8db2072ef831",
+  "ranked": false,
+  "rating": 0.90130967,
+  "ratingCount": 150,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-07-09T12:20:52.517758Z",
+  "uploader": 105713
+}

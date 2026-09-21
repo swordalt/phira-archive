@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:12Z",
+    "lastChanged": "2026-09-21T02:04:12Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-12T05:30:38.133251Z",
+  "charter": "相变中微子-Synkra",
+  "composer": "Andreas Waldetoft、Mia Stegmar",
+  "created": "2026-01-12T05:30:38.133251Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/b55b492b-a99c-411c-8bbe-444decc251cc",
+  "id": 51197,
+  "illustration": "https://phira.5wyxi.com/files/59a21896-b4c2-40bd-b12c-17f3b3e49631",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Faster Than Light",
+  "preview": "https://phira.5wyxi.com/files/4c2e2575-10a0-430a-873e-d4219a1bddb4",
+  "ranked": false,
+  "rating": 0.8258486,
+  "ratingCount": 7,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-01-12T05:30:38.133251Z",
+  "uploader": 2038155
+}

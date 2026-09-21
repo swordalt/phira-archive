@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:04Z",
+    "lastChanged": "2026-09-21T02:03:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-14T10:51:10.225130Z",
+  "charter": "澜枫awa",
+  "composer": "Wacky",
+  "created": "2025-02-14T10:51:10.225130Z",
+  "description": "曲师本人上传，已经过谱师同意",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/f4b80d9b-fb92-4888-a8e0-1b2d3e528d9d",
+  "id": 33999,
+  "illustration": "https://phira.5wyxi.com/files/3c406bdb-364e-4aa7-8e99-9c37490ea0a5",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "造冰行动",
+  "preview": "https://phira.5wyxi.com/files/ffe7c895-f8a7-416b-ad77-e6ec94d4117e",
+  "ranked": false,
+  "rating": 0.93290985,
+  "ratingCount": 492,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-14T10:51:10.225130Z",
+  "uploader": 376153
+}

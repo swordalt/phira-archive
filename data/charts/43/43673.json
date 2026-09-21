@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:37Z",
+    "lastChanged": "2026-09-21T02:03:37Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-04T10:30:24.443209Z",
+  "charter": "LanShan087",
+  "composer": "Nor",
+  "created": "2025-08-04T10:30:24.443209Z",
+  "description": null,
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/7502b8b8-2cb3-497d-845c-c3f5af6011d1",
+  "id": 43673,
+  "illustration": "https://phira.5wyxi.com/files/bd611ed9-d2f3-4fce-80cb-0b4e0831cf4b",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "RE Aoharu",
+  "preview": "https://phira.5wyxi.com/files/6703f81a-9386-49ae-81b0-b45977b9a321",
+  "ranked": false,
+  "rating": 0.9617413,
+  "ratingCount": 1660,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-04T10:30:24.443209Z",
+  "uploader": 49511
+}

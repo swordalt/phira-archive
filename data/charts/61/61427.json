@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:49Z",
+    "lastChanged": "2026-09-21T02:04:49Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-10T15:26:15.910076Z",
+  "charter": "zyrf",
+  "composer": "さたぱんP",
+  "created": "2026-06-19T06:24:51.072917Z",
+  "description": "B站：@布耶尔-zyrf\n谱面预览：BV1SPja6mEN9\n感觉一下子好多事开始涌上来了，根本没有写谱的心思，这么就下来技术也是不进反退了……\n接下来估计很难有新谱了，不知道写些什么了，可能会旧谱翻新一下？\n6.20：修复了点判定bug\n7.10：修复判定bug，微调部分流速，微调部分配置，修正后半段部分BPM，修正错误采音",
+  "difficulty": 15.900003,
+  "file": "https://phira.5wyxi.com/files/cbbe90e5-eb7a-4432-8e2b-9654350ca342",
+  "id": 61427,
+  "illustration": "https://phira.5wyxi.com/files/7ab28e1d-5972-457c-871f-3f123c36bf52",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Singularilari",
+  "preview": "https://phira.5wyxi.com/files/c23bd923-7ea5-455e-a3a9-35c0ef2d16f5",
+  "ranked": false,
+  "rating": 0.92667496,
+  "ratingCount": 481,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "神秘",
+    "regular"
+  ],
+  "updated": "2026-07-10T15:26:15.910076Z",
+  "uploader": 78246
+}

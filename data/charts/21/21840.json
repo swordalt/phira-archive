@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:51Z",
+    "lastChanged": "2026-09-21T02:05:51Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-06-24T02:20:50.330806Z",
+  "charter": "cgl",
+  "composer": "Reol",
+  "created": "2024-06-24T02:20:50.330806Z",
+  "description": "BPM150",
+  "difficulty": 30.0,
+  "file": "https://phira.5wyxi.com/files/59d77a67-f2b2-4ae6-be11-30246e40b880",
+  "id": 21840,
+  "illustration": "https://phira.5wyxi.com/files/20e76903-8011-432c-bd60-b1bbdc4da074",
+  "illustrator": "",
+  "level": "4k5k6k lv35",
+  "name": "Electric Angle",
+  "preview": "https://phira.5wyxi.com/files/86e0f4d7-d5cf-41e2-a259-ae1bb0162e2c",
+  "ranked": false,
+  "rating": 0.794848,
+  "ratingCount": 28,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2024-06-24T02:20:50.330806Z",
+  "uploader": 801758
+}

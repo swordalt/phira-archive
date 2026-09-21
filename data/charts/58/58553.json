@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:42Z",
+    "lastChanged": "2026-09-21T02:04:42Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-17T04:42:07.879592Z",
+  "charter": "FurinFlutter",
+  "composer": "Reku Mochizuki",
+  "created": "2026-05-17T04:42:07.879592Z",
+  "description": "谱师本人上传\r\n方便面。",
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/d3cf990c-828a-494d-b76b-7e060627fa18",
+  "id": 58553,
+  "illustration": "https://phira.5wyxi.com/files/ee71a32c-faff-4ef3-afaf-8a3712ec6186",
+  "illustrator": "",
+  "level": "AT  Lv.16",
+  "name": "Moonflutter",
+  "preview": "https://phira.5wyxi.com/files/f91f19e2-ab74-471c-8c66-e44aebcaff6a",
+  "ranked": false,
+  "rating": 0.88215494,
+  "ratingCount": 560,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-05-17T04:42:07.879592Z",
+  "uploader": 1952577
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:20Z",
+    "lastChanged": "2026-09-21T02:05:20Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-18T08:01:22.610563Z",
+  "charter": "FYD-W11",
+  "composer": "モリモリあつし",
+  "created": "2023-08-18T08:01:22.610563Z",
+  "description": "谱面是本人创作，只在phira上传，未在其他任何平台上传",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/416782a8-9768-4667-bd29-4fcb4352b95e",
+  "id": 7891,
+  "illustration": "https://phira.5wyxi.com/files/54780e1d-9ebe-41c9-b310-7dd89b3c9aab",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "PUPA",
+  "preview": "https://phira.5wyxi.com/files/b791bc8e-c843-4b20-8b6d-e284acc4c689",
+  "ranked": false,
+  "rating": 0.3247177,
+  "ratingCount": 274,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-08-19T01:10:45.156672Z",
+  "uploader": 358850
+}

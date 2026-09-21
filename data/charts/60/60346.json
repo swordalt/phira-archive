@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:47Z",
+    "lastChanged": "2026-09-21T02:04:47Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-08T02:39:16.303869Z",
+  "charter": "无敌池沼大王",
+  "composer": "sakanaction",
+  "created": "2026-06-08T02:39:16.303869Z",
+  "description": null,
+  "difficulty": 14.600002,
+  "file": "https://phira.5wyxi.com/files/32a98a24-ad44-409e-9e7f-2e2768c4abdc",
+  "id": 60346,
+  "illustration": "https://phira.5wyxi.com/files/f399b603-1b2b-401b-a796-223cbd2556ed",
+  "illustrator": "",
+  "level": "AT Lv.14",
+  "name": "Light Dance",
+  "preview": "https://phira.5wyxi.com/files/08f5b4c6-581d-40b6-834e-40a05a12d811",
+  "ranked": false,
+  "rating": 0.8821738,
+  "ratingCount": 480,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-08T02:39:16.303869Z",
+  "uploader": 2005962
+}

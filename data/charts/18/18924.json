@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:47Z",
+    "lastChanged": "2026-09-21T02:05:47Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-26T11:47:01.407051Z",
+  "charter": "Ayu.",
+  "composer": "奏音",
+  "created": "2024-04-26T11:47:01.407051Z",
+  "description": "BPM：200\n小时候最喜欢听的一集，挺简单一4k小爽谱\n\n6月22日修改定数：\nlv.20→lv.23",
+  "difficulty": 23.0,
+  "file": "https://phira.5wyxi.com/files/7ea2b150-599f-4a02-96d2-ea13f810ad37",
+  "id": 18924,
+  "illustration": "https://phira.5wyxi.com/files/5fb94cb0-f55b-49ae-b17d-78ca7b689c4e",
+  "illustrator": "",
+  "level": "4k Lv.23",
+  "name": "ほしぞらスペクタクル",
+  "preview": "https://phira.5wyxi.com/files/6bbb35f5-ce62-41f0-9513-41a76fa4edd0",
+  "ranked": false,
+  "rating": 0.951512,
+  "ratingCount": 475,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "maimai",
+    "plain"
+  ],
+  "updated": "2024-06-23T07:19:07.309912Z",
+  "uploader": 74783
+}

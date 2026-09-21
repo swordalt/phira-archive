@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:17Z",
+    "lastChanged": "2026-09-21T02:04:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-03T14:48:05.922408Z",
+  "charter": "Zeta",
+  "composer": "MIMI",
+  "created": "2026-02-03T14:48:05.922408Z",
+  "description": "可能还有改进空间\n更多信息:BV1nargBiEDC",
+  "difficulty": 15.399998,
+  "file": "https://phira.5wyxi.com/files/1ac6b5c8-c1c6-43b8-93f0-0303e1d08ae7",
+  "id": 52049,
+  "illustration": "https://phira.5wyxi.com/files/9a0ac436-87d0-497f-81be-473c4861f29f",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "トリックハート",
+  "preview": "https://phira.5wyxi.com/files/5a9235a3-954c-49b5-b5b3-dba10fc61b8e",
+  "ranked": false,
+  "rating": 0.9478796,
+  "ratingCount": 413,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-03T14:48:05.922408Z",
+  "uploader": 1253997
+}

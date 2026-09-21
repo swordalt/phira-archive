@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:05Z",
+    "lastChanged": "2026-09-21T02:05:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-04T13:52:25.547942Z",
+  "charter": "Rui",
+  "composer": "モリモリあつし",
+  "created": "2026-08-04T13:52:25.547942Z",
+  "description": null,
+  "difficulty": 13.5,
+  "file": "https://phira.5wyxi.com/files/a88469df-7303-4e68-81b0-c284031ad210",
+  "id": 71239,
+  "illustration": "https://phira.5wyxi.com/files/ba11835b-a5a2-4d80-a1c4-8b6df751b0fe",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "Milk",
+  "preview": "https://phira.5wyxi.com/files/add95f3e-4044-48ab-a78b-6e2393abd37c",
+  "ranked": false,
+  "rating": 0.9037306,
+  "ratingCount": 563,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-04T13:52:25.547942Z",
+  "uploader": 780
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:30Z",
+    "lastChanged": "2026-09-21T02:01:30Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-29T15:15:42.441853Z",
+  "charter": "キサラ(Another)",
+  "composer": "Kry.exe",
+  "created": "2023-08-29T15:15:42.441853Z",
+  "description": "本人上传，超级龙谱",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/f43287ba-1011-4d11-ac59-f17bd9e9417d",
+  "id": 8740,
+  "illustration": "https://phira.5wyxi.com/files/7401690b-40eb-4241-ab90-f4685b478280",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Broken Altair",
+  "preview": "https://phira.5wyxi.com/files/d1f77135-682e-4a3e-a07b-d436df7ef156",
+  "ranked": false,
+  "rating": 0.88701266,
+  "ratingCount": 300,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-08-29T15:15:42.441853Z",
+  "uploader": 35
+}

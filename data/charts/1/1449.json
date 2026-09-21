@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:08Z",
+    "lastChanged": "2026-09-21T02:01:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-08T15:17:19.455151Z",
+  "charter": "Magazet",
+  "composer": "VeetaCrush",
+  "created": "2023-05-08T15:17:19.455151Z",
+  "description": "简单双指谱，水14，希望大家喜欢（",
+  "difficulty": 14.200001,
+  "file": "https://phira.5wyxi.com/files/406b3a6f-7518-4aa2-b56d-78b261af121e",
+  "id": 1449,
+  "illustration": "https://phira.5wyxi.com/files/48145db9-95ce-4095-b2e8-104e96646c86",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Sterelogue",
+  "preview": "https://phira.5wyxi.com/files/2d23723c-71ba-4a39-9aca-7817f4d110f1",
+  "ranked": false,
+  "rating": 0.88624084,
+  "ratingCount": 587,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "regular"
+  ],
+  "updated": "2023-06-01T10:48:05.010665Z",
+  "uploader": 10659
+}

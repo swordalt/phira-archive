@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:38Z",
+    "lastChanged": "2026-09-21T02:01:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-10-19T09:02:17.505971Z",
+  "charter": "Hyme",
+  "composer": "Asahi vs Corona",
+  "created": "2023-10-19T09:02:17.505971Z",
+  "description": null,
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/5582ac0b-ba4e-469a-81bf-d56e71e3589a",
+  "id": 10616,
+  "illustration": "https://phira.5wyxi.com/files/28cc5ae1-18f9-41ef-8e18-25c509a053e2",
+  "illustrator": "",
+  "level": "BMS",
+  "name": "Pierce",
+  "preview": "https://phira.5wyxi.com/files/5bd857d8-8b74-4e86-bee4-af413a8b09c5",
+  "ranked": false,
+  "rating": 0.945275,
+  "ratingCount": 145,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "BOFU2016",
+    "regular"
+  ],
+  "updated": "2023-10-19T09:02:17.505971Z",
+  "uploader": 164312
+}

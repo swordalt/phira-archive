@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:50Z",
+    "lastChanged": "2026-09-21T02:03:50Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-09-12T08:16:10.782027Z",
+  "charter": "eihei",
+  "composer": "--",
+  "created": "2025-09-12T08:16:10.782027Z",
+  "description": null,
+  "difficulty": 8.0,
+  "file": "https://phira.5wyxi.com/files/c002b5de-a135-4392-947e-0b7e29f689c5",
+  "id": 46679,
+  "illustration": "https://phira.5wyxi.com/files/4c54ba36-5c05-4f35-a5b3-f8da458c78db",
+  "illustrator": "",
+  "level": "AT lv.14.8",
+  "name": "theme-44",
+  "preview": "https://phira.5wyxi.com/files/aa5c33ce-792f-4733-b982-719aa6d749b1",
+  "ranked": false,
+  "rating": 0.91686386,
+  "ratingCount": 395,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-09-12T08:16:10.782027Z",
+  "uploader": 780034
+}

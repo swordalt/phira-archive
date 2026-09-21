@@ -1,0 +1,40 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:59Z",
+    "lastChanged": "2026-09-21T02:06:59Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-28T12:07:18.509418Z",
+  "charter": "Host \"Zenith\"",
+  "composer": "Various Artists",
+  "created": "2026-07-28T12:07:18.509418Z",
+  "description": "本人上传 DRAG 5020/13654\n标准分 97.99\n梦离杯半决赛标杆课题组\n梦离杯详细信息：b站@TEC空城\n双指高难段位，多指谨慎游玩\n\n单曲信息\n\n其一\n曲名：Sphere\n难度：约16.7\n时长：240s\n物量：976/3156\n标准分：97.83%\nBPM：100\nDrag占比：30.93%\nid：#67450\n\n其二\n曲名：At the Speed of Light\n时长：251s\n难度：约16.4\n物量：531/4000\n标准分：97.36%\nBPM：162\nDrag占比：13.28%\nid：#67448\n\n其三\n曲名：Villain Virus\n时长：269s\n难度：约16.5\n物量：3513/6500\n标准分：98.46%\nBPM：260\nDrag占比：54.05%\nid: #68691",
+  "difficulty": 16.600002,
+  "file": "https://phira.5wyxi.com/files/82bf0d3e-870f-4a02-b2f0-4e0185c0c6b3",
+  "id": 69720,
+  "illustration": "https://phira.5wyxi.com/files/c6a7ad1c-9e51-4e19-9486-9310304ddcf5",
+  "illustrator": "",
+  "level": "Dan Lv.16",
+  "name": "TEC 2026 Host Challenge",
+  "preview": "https://phira.5wyxi.com/files/c7d5db7d-6bf8-4d8f-b0dc-2cf274959116",
+  "ranked": false,
+  "rating": 0.8062489,
+  "ratingCount": 8,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "DFC",
+    "双指",
+    "段位",
+    "梦离杯",
+    "挑战",
+    "半决赛",
+    "plain"
+  ],
+  "updated": "2026-07-28T12:07:18.509418Z",
+  "uploader": 3186030
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:31Z",
+    "lastChanged": "2026-09-21T02:01:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-09-05T10:24:06.462623Z",
+  "charter": "瑞矢斯的黑色高级车",
+  "composer": "Chicala Lpis",
+  "created": "2023-09-05T10:24:06.462623Z",
+  "description": "谱师：B站@瑞矢斯\r\n5th PecJam作品，在原基础上作了更多细节上的调整和修改，也是目前暂时相对满意的一版，祝玩得愉快。",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/5277f7a0-5bd8-4f07-b0db-911af7ce4c22",
+  "id": 9076,
+  "illustration": "https://phira.5wyxi.com/files/cc0f42a2-a83c-42b9-abb5-f5155ebd6434",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Blackest Luxury Car",
+  "preview": "https://phira.5wyxi.com/files/6b4c0900-3ef7-4cad-ab0b-8431e236151e",
+  "ranked": true,
+  "rating": 0.9393242,
+  "ratingCount": 2086,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "5thPecJam",
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 13095
+}

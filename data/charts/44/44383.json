@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:31Z",
+    "lastChanged": "2026-09-21T02:05:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-11T21:47:31.313661Z",
+  "charter": "KiLi-sens",
+  "composer": "Zoltán Kovács/C-Slim",
+  "created": "2025-08-11T21:47:31.313661Z",
+  "description": "本人上传\n还原《永不言弃》的玩法\n点击的时机：在必须要点的时候点\n例如：\n●\n□    □\n□□□\n小球会先落到第二格方块，再跳到第三格方块\n而不会是直接从第一格方块跳到第三格方块\n1\n2\n3\n4\n5\n6\n7\n8\n9\n8\n7\n6\n5\n4\n3\n2\n1\n真正点击的时机：一直按照节奏点",
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/ba39638a-827d-4f2e-9a1d-48993e680da8",
+  "id": 44383,
+  "illustration": "https://phira.5wyxi.com/files/75a5045e-07c6-4c1f-8d5b-477b26ba4aa2",
+  "illustrator": "",
+  "level": "JUMP Lv.●",
+  "name": "永不言弃(Give It Up)",
+  "preview": "https://phira.5wyxi.com/files/4c920337-5484-4753-9a14-621fe6a3b686",
+  "ranked": false,
+  "rating": 0.93928504,
+  "ratingCount": 1081,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "永不言弃",
+    "troll"
+  ],
+  "updated": "2025-08-11T21:47:31.313661Z",
+  "uploader": 200430
+}

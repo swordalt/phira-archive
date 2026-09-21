@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:00Z",
+    "lastChanged": "2026-09-21T02:03:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-30T14:03:51.238734Z",
+  "charter": "Adonis",
+  "composer": "fripSide",
+  "created": "2025-01-30T14:03:51.238734Z",
+  "description": null,
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/8be8c12a-4b57-41c1-83f5-6a4db14704bf",
+  "id": 32916,
+  "illustration": "https://phira.5wyxi.com/files/56f90050-a9e8-40b0-bbce-ce1eafcdadd5",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "Only My Railgun",
+  "preview": "https://phira.5wyxi.com/files/06960fc1-98e7-402f-8c2a-e039669c9b6d",
+  "ranked": false,
+  "rating": 0.9516409,
+  "ratingCount": 4857,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-01-30T14:03:51.238734Z",
+  "uploader": 990873
+}

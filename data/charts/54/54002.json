@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:48Z",
+    "lastChanged": "2026-09-21T02:06:48Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-09T10:29:38.851234Z",
+  "charter": "drunken",
+  "composer": "月見静華/LUNARiUM",
+  "created": "2026-03-09T10:29:38.851234Z",
+  "description": "14难度的TB，建议双指游玩，纯配置版本",
+  "difficulty": 14.800003,
+  "file": "https://phira.5wyxi.com/files/62793b7e-28a7-4ae0-bccc-97f96d5d0bc7",
+  "id": 54002,
+  "illustration": "https://phira.5wyxi.com/files/897619bd-7429-4342-93f3-4d410ba49770",
+  "illustrator": "",
+  "level": "Exorcise Lv.14",
+  "name": "Fight Against the Past",
+  "preview": "https://phira.5wyxi.com/files/ac65391b-297f-4cd2-ba23-3802590d8e25",
+  "ranked": false,
+  "rating": 0.9072431,
+  "ratingCount": 30,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "DFC",
+    "高难",
+    "TB",
+    "plain"
+  ],
+  "updated": "2026-03-09T10:29:38.851234Z",
+  "uploader": 641760
+}

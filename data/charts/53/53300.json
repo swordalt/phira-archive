@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:24Z",
+    "lastChanged": "2026-09-21T02:04:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-24T04:36:29.740749Z",
+  "charter": "STRATLUS",
+  "composer": "seatrus",
+  "created": "2026-02-24T04:36:29.740749Z",
+  "description": "stralus 本人上传，对前谱做了一点优化\n已重新上传",
+  "difficulty": 14.800003,
+  "file": "https://phira.5wyxi.com/files/56da59a6-f90b-49cd-94b7-6a7387b40c4f",
+  "id": 53300,
+  "illustration": "https://phira.5wyxi.com/files/f31dba3d-25b0-47cb-8226-f6ccb438bd09",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "星降る夜と一輪の花",
+  "preview": "https://phira.5wyxi.com/files/351a3a7e-57e1-469e-bbfd-6ff1e5e88bdb",
+  "ranked": false,
+  "rating": 0.9349712,
+  "ratingCount": 427,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-24T04:36:29.740749Z",
+  "uploader": 760069
+}

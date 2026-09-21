@@ -1,0 +1,39 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:49Z",
+    "lastChanged": "2026-09-21T02:06:49Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-18T08:47:28.395884Z",
+  "charter": "HellovoX",
+  "composer": "Camellia",
+  "created": "2026-04-18T08:47:28.395884Z",
+  "description": "慢轮爽谱，纯自制谱，不是adofai转谱，是左撇谱面，右撇子可以开个镜像玩。主要挑战AP情况下的误差，越小越好，也欢迎严判挑战～本人上传。",
+  "difficulty": 19.000002,
+  "file": "https://phira.5wyxi.com/files/98746e77-7843-4b00-b64b-b15f983378be",
+  "id": 56595,
+  "illustration": "https://phira.5wyxi.com/files/b209d16e-bec0-4eb2-a7e8-61cb4ae6bbc5",
+  "illustrator": "",
+  "level": "adofai Lv.19",
+  "name": "Hello (BPM) 2026",
+  "preview": "https://phira.5wyxi.com/files/3e5ec82d-8dae-441e-9844-2fd6634db041",
+  "ranked": false,
+  "rating": 0.93417335,
+  "ratingCount": 60,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "adofai",
+    "ADOFAI",
+    "内轮",
+    "10K",
+    "8K",
+    "plain"
+  ],
+  "updated": "2026-04-18T08:47:28.395884Z",
+  "uploader": 430681
+}

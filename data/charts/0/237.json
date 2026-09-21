@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:05Z",
+    "lastChanged": "2026-09-21T02:01:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-04-02T08:24:52.826382Z",
+  "charter": "杭杭",
+  "composer": "UK",
+  "created": "2023-04-02T08:24:52.826382Z",
+  "description": "已经获得杭杭的授权了～",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/ce0af9d8-5e79-42c2-b11d-d9855c5de69e",
+  "id": 237,
+  "illustration": "https://phira.5wyxi.com/files/3b3c2c94-faed-4661-b21e-9bbfcd511c07",
+  "illustrator": "inukoro",
+  "level": "IN",
+  "name": "獅子舞",
+  "preview": "https://phira.5wyxi.com/files/9068b901-1e7d-4cfe-acbe-bf1bc27ed57d",
+  "ranked": false,
+  "rating": 0.864986,
+  "ratingCount": 202,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-04-02T08:24:52.826382Z",
+  "uploader": 235
+}

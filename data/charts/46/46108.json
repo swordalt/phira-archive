@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:48Z",
+    "lastChanged": "2026-09-21T02:03:48Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-30T06:02:00.029510Z",
+  "charter": "Esama",
+  "composer": "Ruliea",
+  "created": "2025-08-30T04:29:16.111666Z",
+  "description": "更新，提高部分段落完成度",
+  "difficulty": 14.700001,
+  "file": "https://phira.5wyxi.com/files/eb578c51-d262-4814-bf9f-5e8fa3326865",
+  "id": 46108,
+  "illustration": "https://phira.5wyxi.com/files/00f5c722-b05d-45b0-9c46-cba6014ebaa7",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "憑いている (feat. 初音ミク)",
+  "preview": "https://phira.5wyxi.com/files/72e96967-3dfb-4438-b416-48dec2f17eae",
+  "ranked": true,
+  "rating": 0.9324342,
+  "ratingCount": 4684,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "VOCALOID",
+    "regular"
+  ],
+  "updated": "2025-08-30T06:02:00.029510Z",
+  "uploader": 385765
+}

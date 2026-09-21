@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:25Z",
+    "lastChanged": "2026-09-21T02:01:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-12T02:02:04.254834Z",
+  "charter": "MujiSama",
+  "composer": "きくお×cosMo@暴走P feat.影縫英",
+  "created": "2023-08-12T02:02:04.254834Z",
+  "description": "BV1LM411G7LJ 谱师本人上传，此为修改优化后的版本 内容为: 削弱全谱动效密度，尽可能打起来不那么花 更改部分段落的排列，主要是尾杀段 尾杀16分纵改为长红键 难度由15.9因官谱定数系统更改上调至16.2",
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/da4f27ad-f2fa-4cbf-95d8-300e1d733bd1",
+  "id": 7386,
+  "illustration": "https://phira.5wyxi.com/files/1d72fff4-4f0d-4ed3-868e-9fa3a5f0392d",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Spider's Thread",
+  "preview": "https://phira.5wyxi.com/files/5ce44c50-fd8b-4eaa-95fc-ba08b6eb73a5",
+  "ranked": true,
+  "rating": 0.89119756,
+  "ratingCount": 7197,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "CHUNITHM",
+    "regular"
+  ],
+  "updated": "2025-02-14T16:11:20.731204Z",
+  "uploader": 3742
+}

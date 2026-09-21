@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:27Z",
+    "lastChanged": "2026-09-21T02:02:27Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-30T13:51:37.048198Z",
+  "charter": "BLUECAT",
+  "composer": "Caravan Palace",
+  "created": "2024-07-30T13:51:37.048198Z",
+  "description": null,
+  "difficulty": 13.500002,
+  "file": "https://phira.5wyxi.com/files/dd2ff30d-b707-4cd3-8a6c-88af3deec0cc",
+  "id": 24758,
+  "illustration": "https://phira.5wyxi.com/files/015b1511-d012-4c2c-af25-1130b36e6ac2",
+  "illustrator": "",
+  "level": "Lv.13.5",
+  "name": "Lay Down",
+  "preview": "https://phira.5wyxi.com/files/d63c690e-67e1-4e70-9729-c37f314b3d5b",
+  "ranked": false,
+  "rating": 0.9122526,
+  "ratingCount": 4310,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-07-30T13:51:37.048198Z",
+  "uploader": 695637
+}

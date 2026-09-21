@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:03Z",
+    "lastChanged": "2026-09-21T02:02:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-13T11:30:19.631438Z",
+  "charter": "A_zz",
+  "composer": "灰澈",
+  "created": "2024-03-13T11:30:19.631438Z",
+  "description": null,
+  "difficulty": 15.1,
+  "file": "https://phira.5wyxi.com/files/f80fabe9-9b3a-4a7c-8213-639acd46801b",
+  "id": 17098,
+  "illustration": "https://phira.5wyxi.com/files/b17accba-c669-4907-ba53-a327f658fd66",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "星茶会",
+  "preview": "https://phira.5wyxi.com/files/fe90133e-8c9a-4afb-957a-39cfe882b0ab",
+  "ranked": false,
+  "rating": 0.9022035,
+  "ratingCount": 3647,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-03-13T11:30:19.631438Z",
+  "uploader": 813257
+}

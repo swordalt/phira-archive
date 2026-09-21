@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:33Z",
+    "lastChanged": "2026-09-21T02:05:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-03T07:59:38.648865Z",
+  "charter": "Ling-578",
+  "composer": "-45",
+  "created": "2026-04-03T07:59:38.648865Z",
+  "description": "谱师本人上传 2026DFC愚人节",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/4cbbf593-9dff-497b-b379-aa6c3396f603",
+  "id": 54932,
+  "illustration": "https://phira.5wyxi.com/files/ec80a8ac-2d32-420a-8763-52a3d6e32bb2",
+  "illustrator": "",
+  "level": "Polygon Lv.?",
+  "name": "G e n g a o z o",
+  "preview": "https://phira.5wyxi.com/files/b98a30ac-6105-42d5-8815-2bfc07e67d36",
+  "ranked": false,
+  "rating": 0.91042435,
+  "ratingCount": 36,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "DFC",
+    "双指",
+    "愚人节",
+    "troll"
+  ],
+  "updated": "2026-04-03T07:59:38.648865Z",
+  "uploader": 2120306
+}

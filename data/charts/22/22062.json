@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:19Z",
+    "lastChanged": "2026-09-21T02:02:19Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-06-28T05:49:01.110981Z",
+  "charter": "被咯素质",
+  "composer": "Se-U-Ra",
+  "created": "2024-06-28T05:49:01.110981Z",
+  "description": null,
+  "difficulty": 15.6,
+  "file": "https://phira.5wyxi.com/files/e521cfe6-eed0-475b-9426-79b0ca916fc8",
+  "id": 22062,
+  "illustration": "https://phira.5wyxi.com/files/823ba772-a95f-41ef-a8f6-bb420beb2f36",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Andragoon",
+  "preview": "https://phira.5wyxi.com/files/8a80f3d5-7a5f-43ac-99fa-9246afd18258",
+  "ranked": false,
+  "rating": 0.8641948,
+  "ratingCount": 229,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-06-28T05:49:01.110981Z",
+  "uploader": 10101
+}

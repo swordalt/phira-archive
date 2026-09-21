@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:38Z",
+    "lastChanged": "2026-09-21T02:04:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-27T10:09:28.490832Z",
+  "charter": "iph22222",
+  "composer": "litmus*",
+  "created": "2026-04-27T10:09:28.490832Z",
+  "description": "*试图还原BGA",
+  "difficulty": 17.2,
+  "file": "https://phira.5wyxi.com/files/22064e92-0de1-41b2-865c-6a08c852d38d",
+  "id": 57236,
+  "illustration": "https://phira.5wyxi.com/files/d58acaa6-f51a-488e-ba1b-24da3a69b3f8",
+  "illustrator": "",
+  "level": "AT",
+  "name": "Lumichan Chronicles",
+  "preview": "https://phira.5wyxi.com/files/a7a315b0-fd4f-49d6-b57b-f5ddcff3bef0",
+  "ranked": false,
+  "rating": 0.73606724,
+  "ratingCount": 3,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-04-27T10:09:28.490832Z",
+  "uploader": 1556181
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:21Z",
+    "lastChanged": "2026-09-21T02:04:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-15T07:45:05.770438Z",
+  "charter": "Entity Smiler",
+  "composer": "HyuN",
+  "created": "2026-02-15T07:45:05.770438Z",
+  "description": null,
+  "difficulty": 13.900001,
+  "file": "https://phira.5wyxi.com/files/ee07fb56-7294-47d7-8f86-65e48febfa10",
+  "id": 52706,
+  "illustration": "https://phira.5wyxi.com/files/346a2f0e-24e2-43db-a5ce-d58ef870bbec",
+  "illustrator": "",
+  "level": "IN Lv.13(.9)",
+  "name": "Infinity Heaven",
+  "preview": "https://phira.5wyxi.com/files/fe9238d4-932f-40ed-8413-bc8a424eb5bc",
+  "ranked": false,
+  "rating": 0.9232321,
+  "ratingCount": 2475,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-15T07:45:05.770438Z",
+  "uploader": 14222
+}

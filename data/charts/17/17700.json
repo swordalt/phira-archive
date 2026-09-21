@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:05Z",
+    "lastChanged": "2026-09-21T02:02:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-30T01:16:52.437182Z",
+  "charter": "Fly of Crab",
+  "composer": "DM DOKURO",
+  "created": "2024-03-30T01:16:52.437182Z",
+  "description": "谱面：除了蟹就是屑\r\n特效：除了蟹就是屑\r\n事件量：13000+\r\n物量：1263（含假键为1447）\r\n解锁动画素材来自BV1tW4y197t7\r\nshader来源于prpr/phira内置shader",
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/b6c6b659-cadf-42aa-b710-6867b3a99a48",
+  "id": 17700,
+  "illustration": "https://phira.5wyxi.com/files/b4769211-e44e-4bbf-86a2-ec147806d01e",
+  "illustrator": "",
+  "level": "Infernum Lv.15",
+  "name": "Fly of Beelzebub",
+  "preview": "https://phira.5wyxi.com/files/9a12cf1a-da10-44a8-9b2e-f4044fcfce0b",
+  "ranked": false,
+  "rating": 0.9179808,
+  "ratingCount": 692,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Calamity",
+    "Terraria",
+    "Shader",
+    "故事版",
+    "regular"
+  ],
+  "updated": "2024-03-30T01:16:52.437182Z",
+  "uploader": 358280
+}

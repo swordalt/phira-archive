@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:47Z",
+    "lastChanged": "2026-09-21T02:04:47Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-09T10:47:23.485629Z",
+  "charter": "† DLVRCE †",
+  "composer": "MYTK",
+  "created": "2026-06-09T10:47:23.485629Z",
+  "description": "本来上传了全特效版，结果大家也反映说卡，那应该不是我设备的问题了。这个版本没有特效，可以流畅游玩，抱歉之前没有仔细确认可玩性",
+  "difficulty": 18.0,
+  "file": "https://phira.5wyxi.com/files/3737844d-55b3-4e34-9d6d-bd880b32a9af",
+  "id": 60491,
+  "illustration": "https://phira.5wyxi.com/files/44a7433a-eaa7-4d49-9688-4a62066cafeb",
+  "illustrator": "",
+  "level": "END Lv.18",
+  "name": "靈",
+  "preview": "https://phira.5wyxi.com/files/8b38b635-50a5-454b-a326-3a9655328b7f",
+  "ranked": false,
+  "rating": 0.9453887,
+  "ratingCount": 803,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-09T10:47:23.485629Z",
+  "uploader": 1559353
+}

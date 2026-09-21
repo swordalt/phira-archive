@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:21Z",
+    "lastChanged": "2026-09-21T02:03:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-01T11:55:25.244313Z",
+  "charter": "NQCG",
+  "composer": "Laur",
+  "created": "2025-06-01T11:55:25.244313Z",
+  "description": null,
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/2ceec5ad-9ae2-424a-a920-b7439d9f605e",
+  "id": 39091,
+  "illustration": "https://phira.5wyxi.com/files/60eabda5-fed8-4ae1-be10-cb9c00b9b922",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Cry of viyella",
+  "preview": "https://phira.5wyxi.com/files/dc471276-1e77-465e-b194-bcd63c8e4515",
+  "ranked": false,
+  "rating": 0.80659604,
+  "ratingCount": 41,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-06-01T15:51:12.633451Z",
+  "uploader": 38035
+}

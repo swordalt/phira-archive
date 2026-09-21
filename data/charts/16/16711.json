@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:02Z",
+    "lastChanged": "2026-09-21T02:02:02Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-03T09:32:33.089352Z",
+  "charter": "zzy114514",
+  "composer": "ARForest",
+  "created": "2024-03-03T09:32:33.089352Z",
+  "description": null,
+  "difficulty": 13.000001,
+  "file": "https://phira.5wyxi.com/files/8f426426-c429-4e80-99c4-862a297e5fda",
+  "id": 16711,
+  "illustration": "https://phira.5wyxi.com/files/521adb99-7e42-4f98-b6e7-6911e3ca1fed",
+  "illustrator": "",
+  "level": "PhiTaeno Lv.13",
+  "name": "Inverted Forest",
+  "preview": "https://phira.5wyxi.com/files/2fcf1c98-36ed-4371-916c-dfdf0036cccf",
+  "ranked": false,
+  "rating": 0.909695,
+  "ratingCount": 99,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-03-03T09:32:33.089352Z",
+  "uploader": 653743
+}

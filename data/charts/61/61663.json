@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:50Z",
+    "lastChanged": "2026-09-21T02:04:50Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-20T08:29:10.263979Z",
+  "charter": "Lincyn",
+  "composer": "Xomu",
+  "created": "2026-06-20T08:29:10.263979Z",
+  "description": "不确定是否会发布至B站(Lincyn涟青)，5k段有些小难度，其它地方难度均衡，感谢各位的游玩\n～(￣▽￣～)~",
+  "difficulty": 15.500002,
+  "file": "https://phira.5wyxi.com/files/9df03f66-42a2-4391-90a9-5c88f9f7012b",
+  "id": 61663,
+  "illustration": "https://phira.5wyxi.com/files/224050cc-e942-494e-9912-947397a5ee32",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "Last Dance",
+  "preview": "https://phira.5wyxi.com/files/cfca2ac3-6734-41e3-9ed0-ce38896781e4",
+  "ranked": false,
+  "rating": 0.94322217,
+  "ratingCount": 656,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-20T08:29:10.263979Z",
+  "uploader": 93946
+}

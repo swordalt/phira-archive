@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:30Z",
+    "lastChanged": "2026-09-21T02:01:30Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-15T15:19:40.243872Z",
+  "charter": "fancylife",
+  "composer": "ikaruga",
+  "created": "2023-08-30T05:57:25.870486Z",
+  "description": "本人上传，bilibili@Fancy灬life\n5thPecJam参赛作品，编号SL NO.49",
+  "difficulty": 14.6,
+  "file": "https://phira.5wyxi.com/files/6e1e11ba-d65c-4e45-901c-f5e947d205a6",
+  "id": 8776,
+  "illustration": "https://phira.5wyxi.com/files/e3950d4f-745f-4773-8a2a-c815a85099b2",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Auzof Ctrl",
+  "preview": "https://phira.5wyxi.com/files/ecc35754-2806-480e-9e4b-845d1d1f7805",
+  "ranked": true,
+  "rating": 0.874894,
+  "ratingCount": 856,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "5thPecJam",
+    "regular"
+  ],
+  "updated": "2023-12-17T07:39:41.919559Z",
+  "uploader": 28307
+}

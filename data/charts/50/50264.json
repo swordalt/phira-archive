@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:06Z",
+    "lastChanged": "2026-09-21T02:04:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-16T13:10:18.225278Z",
+  "charter": "HaloAya as \"Ena\"",
+  "composer": "ARForest",
+  "created": "2025-12-16T13:10:18.225278Z",
+  "description": "谱师本人上传\n【简介】\n初谱，总体写的差强人意。比较满意的部分是Glitch段的前半段和类白复生AT段前半段；不太满意的段落主要是那个六押（实在不知道怎么写）。以及难度曲线有点写崩了，导致谱面难度并不是16，而是14-15-16下位-17.6。",
+  "difficulty": 16.000006,
+  "file": "https://phira.5wyxi.com/files/db26f93b-a9bb-4f08-9143-e36f6b2227d5",
+  "id": 50264,
+  "illustration": "https://phira.5wyxi.com/files/45765f28-f6e9-4590-bd3d-cdce1032dc6b",
+  "illustrator": "",
+  "level": "AT Lv.16?",
+  "name": "Journey",
+  "preview": "https://phira.5wyxi.com/files/9c89133d-3076-471e-baed-1a0dcd631291",
+  "ranked": false,
+  "rating": 0.9157395,
+  "ratingCount": 56,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-12-16T13:10:18.225278Z",
+  "uploader": 2009216
+}

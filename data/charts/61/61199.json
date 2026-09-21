@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:49Z",
+    "lastChanged": "2026-09-21T02:04:49Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-06-17T14:38:13.401010Z",
+  "charter": "末揭",
+  "composer": "Di Young",
+  "created": "2026-06-17T14:38:13.401010Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/34142f89-ca65-4c33-85fe-3cf21b9b573e",
+  "id": 61199,
+  "illustration": "https://phira.5wyxi.com/files/fc4cd436-be8e-4831-8986-3a8d648aeab8",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "pixel pig",
+  "preview": "https://phira.5wyxi.com/files/bb66484a-14e0-415d-b98e-dab6b0ed50b3",
+  "ranked": false,
+  "rating": 0.8799771,
+  "ratingCount": 869,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-17T14:38:13.401010Z",
+  "uploader": 2110907
+}

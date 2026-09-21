@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:30Z",
+    "lastChanged": "2026-09-21T02:01:30Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-29T16:15:09.455430Z",
+  "charter": "Lingchen_Yoake",
+  "composer": "Takahiro Aoki",
+  "created": "2023-08-29T16:15:09.455430Z",
+  "description": null,
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/7905fe66-1b1f-44ec-964e-a2efccca8444",
+  "id": 8747,
+  "illustration": "https://phira.5wyxi.com/files/03ab5f42-e09e-43a7-bf12-52b87d070a52",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Mid Night Metropolitan Highway（90s Version）",
+  "preview": "https://phira.5wyxi.com/files/cad43020-c266-4c80-99b7-1bfea54a4ac6",
+  "ranked": false,
+  "rating": 0.8952944,
+  "ratingCount": 259,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-08-30T08:41:37.884521Z",
+  "uploader": 76
+}

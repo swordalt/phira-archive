@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:30Z",
+    "lastChanged": "2026-09-21T02:04:30Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-03-23T14:34:48.182475Z",
+  "charter": "count 16",
+  "composer": "uma/モリモリあつし",
+  "created": "2026-03-23T14:34:48.182475Z",
+  "description": "谱师本人上传 b站视频链接 BV1T6A3ziEtj",
+  "difficulty": 16.800003,
+  "file": "https://phira.5wyxi.com/files/7814abb7-f420-46cd-ac7a-dcceeb1eded7",
+  "id": 54528,
+  "illustration": "https://phira.5wyxi.com/files/7071a11a-a566-437c-a830-1268c3c4ca68",
+  "illustrator": "",
+  "level": "IN 16.8",
+  "name": "Re End of the Dream",
+  "preview": "https://phira.5wyxi.com/files/0d4fd897-9eb5-4c20-8915-99b8939b4d01",
+  "ranked": false,
+  "rating": 0.85920715,
+  "ratingCount": 375,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-03-23T14:34:48.182475Z",
+  "uploader": 1236950
+}

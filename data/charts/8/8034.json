@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:28Z",
+    "lastChanged": "2026-09-21T02:01:28Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-20T05:14:00.274688Z",
+  "charter": "awa_az",
+  "composer": "yooh",
+  "created": "2023-08-20T05:14:00.274688Z",
+  "description": "",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/4ea63dec-c4c5-41f9-8b13-e16d3ed6076d",
+  "id": 8034,
+  "illustration": "https://phira.5wyxi.com/files/32ef970a-63fd-4d19-9a2c-3637b00c7263",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "Phoebus",
+  "preview": "https://phira.5wyxi.com/files/198ded30-6bab-4548-b55f-346a28bed621",
+  "ranked": true,
+  "rating": 0.92425144,
+  "ratingCount": 1586,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "Lanota",
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 6134
+}

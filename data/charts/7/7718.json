@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:36Z",
+    "lastChanged": "2026-09-21T02:05:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-15T14:07:27.242101Z",
+  "charter": "Daniel休",
+  "composer": "春卷饭",
+  "created": "2023-08-15T14:07:27.242101Z",
+  "description": "V2修复叠键",
+  "difficulty": 13.600014,
+  "file": "https://phira.5wyxi.com/files/a9b1d12c-88ba-4ec9-8378-b60c20cc7bdd",
+  "id": 7718,
+  "illustration": "https://phira.5wyxi.com/files/a0554c52-18b5-4fb5-aa17-ecea63df7b86",
+  "illustrator": "",
+  "level": "5k",
+  "name": "彗星になれたなら",
+  "preview": "https://phira.5wyxi.com/files/b3151048-1ae1-4bf1-87bc-4720eda9e1ca",
+  "ranked": false,
+  "rating": 0.9090277,
+  "ratingCount": 286,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2023-08-15T14:07:27.242101Z",
+  "uploader": 3967
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:10Z",
+    "lastChanged": "2026-09-21T02:02:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-27T13:12:48.568792Z",
+  "charter": "语言过稽",
+  "composer": "Arch/n3pu",
+  "created": "2024-04-27T13:12:48.568792Z",
+  "description": "已经修改谱面bug",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/e0a7e02e-1bb9-4e6e-9371-725c2bd54d32",
+  "id": 18969,
+  "illustration": "https://phira.5wyxi.com/files/113411e7-2f11-42e3-b23d-c92639c6bf7f",
+  "illustrator": "",
+  "level": "　",
+  "name": "Evoltex (poppi'n extended mix)",
+  "preview": "https://phira.5wyxi.com/files/b6101a47-6ae9-4142-8f6a-dab22e41741b",
+  "ranked": false,
+  "rating": 0.7220311,
+  "ratingCount": 51,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-04-27T13:12:48.568792Z",
+  "uploader": 123037
+}

@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:24Z",
+    "lastChanged": "2026-09-21T02:03:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-18T14:17:35.054591Z",
+  "charter": "hyx2566",
+  "composer": "log()",
+  "created": "2025-06-18T14:17:35.054591Z",
+  "description": "该曲目来自于vivid/stasis的Final Chapter part 2，原曲师log()已允许玩家用该曲目创作社区自制谱，本人上传，延迟与采音都经过了调整，该谱面为第二次修改后的重制谱面，原谱已被本人删除（phira能审核快点嘛awa）",
+  "difficulty": 14.900003,
+  "file": "https://phira.5wyxi.com/files/fdb42610-1f5a-4f12-aff1-52453f249e9f",
+  "id": 39876,
+  "illustration": "https://phira.5wyxi.com/files/0bc9e2d7-14a2-4583-b18b-81eb2a320dc7",
+  "illustrator": "",
+  "level": "IN LV.14",
+  "name": "SELF",
+  "preview": "https://phira.5wyxi.com/files/d891544c-2eda-4c5b-9322-179fd0ca0faa",
+  "ranked": false,
+  "rating": 0.92877805,
+  "ratingCount": 178,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "故事板",
+    "vividstasis",
+    "regular"
+  ],
+  "updated": "2025-06-18T14:17:35.054591Z",
+  "uploader": 1103849
+}

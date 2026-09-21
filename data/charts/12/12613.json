@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:45Z",
+    "lastChanged": "2026-09-21T02:01:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-18T10:44:19.712418Z",
+  "charter": "舟芷",
+  "composer": "HOYO-MiX",
+  "created": "2023-12-18T10:44:19.712418Z",
+  "description": null,
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/a99d3f43-fcac-4e7d-9b2e-b378f2ee9e2c",
+  "id": 12613,
+  "illustration": "https://phira.5wyxi.com/files/57f836c9-cd44-4182-bad6-54431fee0a97",
+  "illustrator": "",
+  "level": "IN Lv.10",
+  "name": "Nimble as Lightning 霆霓快雨",
+  "preview": "https://phira.5wyxi.com/files/1eff1dd7-bc55-467d-b415-fa34609e396c",
+  "ranked": false,
+  "rating": 0.89826024,
+  "ratingCount": 1404,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "原神",
+    "regular"
+  ],
+  "updated": "2023-12-18T10:44:19.712418Z",
+  "uploader": 111412
+}

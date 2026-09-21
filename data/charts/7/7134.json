@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:25Z",
+    "lastChanged": "2026-09-21T02:01:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-08T19:40:32.245063Z",
+  "charter": "lkm",
+  "composer": "pepoyo",
+  "created": "2023-08-08T19:40:32.245063Z",
+  "description": "1纵连是干嘛的：涨难度，那一段不好写\n2为什么有判定线透明：谱面特色，有提示\n3为什么特效那么少：自己写的配置，把自己的特效给堵死了，只能硬加点特效，希望能丢常规里qwq\n",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/fb331b49-af8a-47a6-9537-863b10fb8623",
+  "id": 7134,
+  "illustration": "https://phira.5wyxi.com/files/9dde3d63-2adf-49b9-9b3c-7454e92422f0",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "「±0」",
+  "preview": "https://phira.5wyxi.com/files/d6a7e062-580b-410c-91ba-532fceee8177",
+  "ranked": false,
+  "rating": 0.9333213,
+  "ratingCount": 4020,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-09-09T09:29:18.383898Z",
+  "uploader": 2966
+}

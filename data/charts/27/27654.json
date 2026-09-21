@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:40Z",
+    "lastChanged": "2026-09-21T02:02:40Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-09-16T21:54:38.619925Z",
+  "charter": "jm333",
+  "composer": "STEAKA / 初音ミク",
+  "created": "2024-09-14T09:48:34.483857Z",
+  "description": "本人上传",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/ec6b285c-167f-409f-a80f-5893f7f610c2",
+  "id": 27654,
+  "illustration": "https://phira.5wyxi.com/files/dc5e88a2-bbd7-4195-9bd4-3e83c4e6f54d",
+  "illustrator": "",
+  "level": "MI Lv.15",
+  "name": "メディカドール",
+  "preview": "https://phira.5wyxi.com/files/001e9bb2-c6d6-45b7-a81d-b78d58dee88a",
+  "ranked": true,
+  "rating": 0.9238093,
+  "ratingCount": 3251,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "VOCALOID",
+    "regular"
+  ],
+  "updated": "2024-09-16T21:54:38.619925Z",
+  "uploader": 65
+}

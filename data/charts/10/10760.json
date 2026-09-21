@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:38Z",
+    "lastChanged": "2026-09-21T02:01:38Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-10-22T10:21:42.991010Z",
+  "charter": "FunkierWheat feat. XerdouS",
+  "composer": "ProjectG",
+  "created": "2023-10-22T10:21:42.991010Z",
+  "description": "Evening Star #1",
+  "difficulty": 13.8,
+  "file": "https://phira.5wyxi.com/files/d3ab03ee-abec-4ffa-9f1f-228f706ce574",
+  "id": 10760,
+  "illustration": "https://phira.5wyxi.com/files/1f13f37e-98e2-4824-8460-c5ae7fb88f9f",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "Midnight Flux",
+  "preview": "https://phira.5wyxi.com/files/f6d1389f-f8a4-40a3-b776-a8b0ef682ef1",
+  "ranked": true,
+  "rating": 0.9000681,
+  "ratingCount": 1149,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "5thPecJam",
+    "regular"
+  ],
+  "updated": "2023-10-22T10:21:42.991010Z",
+  "uploader": 23915
+}

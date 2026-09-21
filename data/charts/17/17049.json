@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:03Z",
+    "lastChanged": "2026-09-21T02:02:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-12T13:37:05.258427Z",
+  "charter": "XING feat.SEAKO",
+  "composer": "Sephid",
+  "created": "2024-03-11T07:38:00.113191Z",
+  "description": "合作谱面，上传已经过所有谱师同意。谱师：醒了不起的老傲娇，seac_blue。特别鸣谢Unknown239和滺绿参与了结尾部分表演的制作，欢迎各位玩家去B站给几位谱师点点关注。谱面上传的最初几天会尽可能收集有用的建议并对谱面做出一定的修改，为了更好的游玩体验在谱面更新时可能清空排行榜，还请各位谅解。",
+  "difficulty": 15.100004,
+  "file": "https://phira.5wyxi.com/files/5c3bcd2c-7d21-4f90-a89b-0648fbcc0ddd",
+  "id": 17049,
+  "illustration": "https://phira.5wyxi.com/files/7e58198d-fda0-41ca-a684-1e899268e072",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "The Next Arcady",
+  "preview": "https://phira.5wyxi.com/files/fed748dc-ebc8-40f6-883d-6b1342fb5bb4",
+  "ranked": true,
+  "rating": 0.91872925,
+  "ratingCount": 1462,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-15T12:39:37.731848Z",
+  "uploader": 104
+}

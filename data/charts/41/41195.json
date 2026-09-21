@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:27Z",
+    "lastChanged": "2026-09-21T02:03:27Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-09T02:31:43.590931Z",
+  "charter": "SrY-ABYSS",
+  "composer": "HOYO-MiX / YMIR",
+  "created": "2025-07-08T14:42:30.652612Z",
+  "description": "7.9 已更新谱面\n建议以3: 2的比例游玩\n视频预览 BV1fSGHzrEgN\nB站关注 @SrY-ABYSS 谢谢喵",
+  "difficulty": 15.200001,
+  "file": "https://phira.5wyxi.com/files/671f2c93-2c85-48b0-856e-aaf22affb182",
+  "id": 41195,
+  "illustration": "https://phira.5wyxi.com/files/b6ea2146-60ea-4103-9815-e17b50f7e34f",
+  "illustrator": "",
+  "level": "MN Lv.15",
+  "name": "耀斑",
+  "preview": "https://phira.5wyxi.com/files/9d6dcd28-8e78-4dc5-a1a2-969c5f7cc9c5",
+  "ranked": false,
+  "rating": 0.95665264,
+  "ratingCount": 14709,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-07-09T02:31:43.590931Z",
+  "uploader": 1437
+}

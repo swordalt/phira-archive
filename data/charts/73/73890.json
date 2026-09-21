@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:09Z",
+    "lastChanged": "2026-09-21T02:05:09Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-17T05:59:14.800128Z",
+  "charter": "zmh054",
+  "composer": "ナユタン星人",
+  "created": "2026-08-17T05:59:14.800128Z",
+  "description": "本人上传。小烧杯位1",
+  "difficulty": 15.499999,
+  "file": "https://phira.5wyxi.com/files/686e7ad6-fefd-4ef5-bd02-d301d0e8ec70",
+  "id": 73890,
+  "illustration": "https://phira.5wyxi.com/files/ccbd0c51-47c6-4706-b2de-eaf84d56899d",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "ダンスロボットダンス",
+  "preview": "https://phira.5wyxi.com/files/04268df7-efdb-48b1-aee5-45abcabab37c",
+  "ranked": false,
+  "rating": 0.9175332,
+  "ratingCount": 377,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-17T05:59:14.800128Z",
+  "uploader": 1436
+}

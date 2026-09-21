@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:43Z",
+    "lastChanged": "2026-09-21T02:03:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-19T05:19:08.063905Z",
+  "charter": "qj_1016",
+  "composer": "kuro",
+  "created": "2025-08-19T05:19:08.063905Z",
+  "description": "谱师：qj_1016（我）\n新人初谱（配置不是\n使用TPhi Editor制作（也就是手机端制谱器啦）\n特别感谢 @乱炖鸽子汤 提供的一点表演思路 \n\n三次全屏黄键建议在屏幕上放三根手指（我也不知道为什么会突然断，反正就是解决不了）\n亲测放三根正常\n\n8.19更新：\n修复一处小错误\n\n喵",
+  "difficulty": 16.00001,
+  "file": "https://phira.5wyxi.com/files/0d1d88ff-059b-4208-962f-e28bf40fb915",
+  "id": 45094,
+  "illustration": "https://phira.5wyxi.com/files/72df8c71-afd0-40df-a24a-ec33f40ead37",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "REVΘCATE",
+  "preview": "https://phira.5wyxi.com/files/55a413d8-4aca-4b29-b00c-829e1a5addb4",
+  "ranked": false,
+  "rating": 0.9368567,
+  "ratingCount": 165,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-19T05:19:08.063905Z",
+  "uploader": 1238019
+}

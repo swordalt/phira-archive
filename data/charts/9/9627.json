@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:33Z",
+    "lastChanged": "2026-09-21T02:01:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-09-23T16:49:19.800284Z",
+  "charter": "pwar",
+  "composer": "Plum",
+  "created": "2023-09-23T16:49:19.800284Z",
+  "description": "B站@pwar_123\n目前已公开的第二张铺\n相比于B站版稍有修改（毕竟是以前录制的）",
+  "difficulty": 13.700003,
+  "file": "https://phira.5wyxi.com/files/d4000dcf-4d80-4ce5-9f51-e133538a275c",
+  "id": 9627,
+  "illustration": "https://phira.5wyxi.com/files/52e37fd0-5924-4c8f-9855-67b7568a88b1",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "R",
+  "preview": "https://phira.5wyxi.com/files/bb20ebd7-9b67-49f0-a9e3-b99b87b4f16b",
+  "ranked": false,
+  "rating": 0.9099082,
+  "ratingCount": 1019,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-09-23T16:49:19.800284Z",
+  "uploader": 449441
+}

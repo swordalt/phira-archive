@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:41Z",
+    "lastChanged": "2026-09-21T02:06:41Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-25T09:49:03.987777Z",
+  "charter": "Redeemv_9372(spacewalkerDTR)",
+  "composer": "Plum",
+  "created": "2025-11-25T09:49:03.987777Z",
+  "description": "由于不了解4K谱面的难度定级所以就暂时没标，见谅qwq\n也知道可能在4K中写纵连的手感不太好，但目前想不到其他配置改善了……可以在B站搜索@spacewalkerDTR给我建议！\n起因是一位朋友想让我写点纯配置，然后就凭感觉试了下，因为个人时间不多所以也没有太多时间仔细去了解4K的写法就先...酱紫草率地写了一张",
+  "difficulty": 16.600002,
+  "file": "https://phira.5wyxi.com/files/20ab5855-b8e4-40cb-ab71-b288d268182e",
+  "id": 49502,
+  "illustration": "https://phira.5wyxi.com/files/dc6ef084-f8b7-41ef-b5fa-e92381afd200",
+  "illustrator": "",
+  "level": "4K",
+  "name": "Timeline",
+  "preview": "https://phira.5wyxi.com/files/8333d1d2-c5e9-41fc-b26a-05617cf280bf",
+  "ranked": false,
+  "rating": 0.87081367,
+  "ratingCount": 150,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4k",
+    "plain"
+  ],
+  "updated": "2025-11-25T09:49:03.987777Z",
+  "uploader": 30412
+}

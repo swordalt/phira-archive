@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:11Z",
+    "lastChanged": "2026-09-21T02:01:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-15T15:00:30.714677Z",
+  "charter": "DaVinci-2nd",
+  "composer": "USAO",
+  "created": "2023-05-15T15:00:30.714677Z",
+  "description": "本谱面为旧谱，我会重写这张谱子，所以这张谱现在变成了Legacy。\nb站ID与我这里同名，头像相同。\n如果大家喜欢这种谱面我可以多写点。\n欢迎在b站同谱面下提出建议。",
+  "difficulty": 15.2,
+  "file": "https://phira.5wyxi.com/files/392f23e2-a717-46ff-b310-8095225c877c",
+  "id": 2131,
+  "illustration": "https://phira.5wyxi.com/files/acbe1a7b-d410-49c3-b025-8363cf5b3844",
+  "illustrator": "",
+  "level": "Legacy Lv.15",
+  "name": "Boss Rush",
+  "preview": "https://phira.5wyxi.com/files/f3be2ec2-cf0b-440e-9154-7bdb609a5f0c",
+  "ranked": false,
+  "rating": 0.9015601,
+  "ratingCount": 1227,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "USAO",
+    "底力",
+    "regular"
+  ],
+  "updated": "2023-10-30T05:42:39.334312Z",
+  "uploader": 25956
+}

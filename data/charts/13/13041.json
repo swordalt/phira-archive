@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:46Z",
+    "lastChanged": "2026-09-21T02:01:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-31T07:55:46.575491Z",
+  "charter": "061024cherry",
+  "composer": "CH17S",
+  "created": "2023-12-31T07:55:46.575491Z",
+  "description": "新人第一次写谱，动效做的不好请谅解",
+  "difficulty": 15.200004,
+  "file": "https://phira.5wyxi.com/files/435fbac8-340b-47cb-932f-4fe73b5f95f3",
+  "id": 13041,
+  "illustration": "https://phira.5wyxi.com/files/cc732677-efdb-464e-a044-a471dc4b3d89",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "survivors",
+  "preview": "https://phira.5wyxi.com/files/e316862c-f936-415a-8522-87d8c20b555c",
+  "ranked": false,
+  "rating": 0.87615246,
+  "ratingCount": 153,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-12-31T07:55:46.575491Z",
+  "uploader": 240145
+}

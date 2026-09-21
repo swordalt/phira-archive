@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:26Z",
+    "lastChanged": "2026-09-21T02:02:26Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-24T09:50:22.921389Z",
+  "charter": "VANDY",
+  "composer": "uynet",
+  "created": "2024-07-24T09:50:22.921389Z",
+  "description": "LC2024#2预赛RC1\n铺师本人上传",
+  "difficulty": 11.0,
+  "file": "https://phira.5wyxi.com/files/d1207838-06d3-4ab9-9d4b-a4b50beba988",
+  "id": 24244,
+  "illustration": "https://phira.5wyxi.com/files/74945135-b947-40fa-8305-754f9985b270",
+  "illustrator": "",
+  "level": "speed",
+  "name": "音速宇宙旅行",
+  "preview": "https://phira.5wyxi.com/files/5aaf33f0-601f-440d-9cf3-9330888c3ace",
+  "ranked": false,
+  "rating": 0.8582302,
+  "ratingCount": 472,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "LC2024",
+    "regular"
+  ],
+  "updated": "2024-07-24T09:50:22.921389Z",
+  "uploader": 21497
+}

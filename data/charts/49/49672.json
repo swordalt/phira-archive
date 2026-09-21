@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:04Z",
+    "lastChanged": "2026-09-21T02:04:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-30T03:35:45.953691Z",
+  "charter": "Black Breaker（Geocart）",
+  "composer": "COSIO",
+  "created": "2025-11-30T03:35:45.953691Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/36d1b6c2-2ed9-4942-9b04-22842997a886",
+  "id": 49672,
+  "illustration": "https://phira.5wyxi.com/files/f8e388e4-6a71-47aa-90b7-5232fea56885",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Black MInD",
+  "preview": "https://phira.5wyxi.com/files/3b0a3ed6-2543-4b50-a724-8d5e895836c3",
+  "ranked": false,
+  "rating": 0.9078301,
+  "ratingCount": 43,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-11-30T03:35:45.953691Z",
+  "uploader": 915290
+}

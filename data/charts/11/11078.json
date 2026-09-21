@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:39Z",
+    "lastChanged": "2026-09-21T02:01:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-11-02T06:09:15.416588Z",
+  "charter": "fu",
+  "composer": "稲葉曇（Vo.歌愛ユキ）",
+  "created": "2023-11-02T06:09:15.416588Z",
+  "description": "Vocal是歌愛ユキ。我动效不是很会写w",
+  "difficulty": 14.700003,
+  "file": "https://phira.5wyxi.com/files/dcc6dc2d-4ac0-45e1-8d39-a7bbac66957b",
+  "id": 11078,
+  "illustration": "https://phira.5wyxi.com/files/889208bf-fc27-4643-9872-11285089a77f",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "ラグトレイン (延误列车)",
+  "preview": "https://phira.5wyxi.com/files/7f308a4e-b2b9-4df1-8c3d-bc39f9eb4da7",
+  "ranked": false,
+  "rating": 0.93729657,
+  "ratingCount": 3587,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "VOCALOID",
+    "歌愛ユキ",
+    "稲葉曇",
+    "regular"
+  ],
+  "updated": "2023-11-02T06:09:15.416588Z",
+  "uploader": 529013
+}

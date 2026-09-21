@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:11Z",
+    "lastChanged": "2026-09-21T02:03:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-06T15:55:22.805627Z",
+  "charter": "星鸿 with FreMo",
+  "composer": "Kirara Magic",
+  "created": "2025-04-06T10:37:15.457773Z",
+  "description": "FreMo负责了初版配置，本人负责了所有动效及配置修改。二改：FreMo帮助修正了可能影响游玩体验的几个小问题。",
+  "difficulty": 5.0,
+  "file": "https://phira.5wyxi.com/files/115f104b-fbd9-490e-bade-e1a08ac68cc5",
+  "id": 36289,
+  "illustration": "https://phira.5wyxi.com/files/b21fd95e-674e-42ab-89c0-78f360aef37e",
+  "illustrator": "",
+  "level": "EZ  Lv.5",
+  "name": "Dragonflame",
+  "preview": "https://phira.5wyxi.com/files/1e0d405f-49fb-410f-ac06-e93da11a9843",
+  "ranked": false,
+  "rating": 0.9468772,
+  "ratingCount": 505,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-04-06T15:55:22.805627Z",
+  "uploader": 1802
+}

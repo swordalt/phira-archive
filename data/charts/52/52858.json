@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:22Z",
+    "lastChanged": "2026-09-21T02:04:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-17T09:55:49.992463Z",
+  "charter": "Ragnarok",
+  "composer": "Raphiiel",
+  "created": "2026-02-17T09:55:49.992463Z",
+  "description": "本谱十分钟，游玩请注意",
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/a9e6e5f6-49fe-477a-9f02-0c5bed12f612",
+  "id": 52858,
+  "illustration": "https://phira.5wyxi.com/files/2c341eb1-7f4a-4d31-bb4a-b55a20d0aee8",
+  "illustrator": "",
+  "level": "Destiny Lv.0",
+  "name": "Roquira Between Life and Death",
+  "preview": "https://phira.5wyxi.com/files/59a773be-9e4e-463d-b75d-e07a65f026bc",
+  "ranked": false,
+  "rating": 0.9362314,
+  "ratingCount": 158,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-17T09:55:49.992463Z",
+  "uploader": 977148
+}

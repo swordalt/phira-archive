@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:48Z",
+    "lastChanged": "2026-09-21T02:05:48Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-06-05T13:55:26.716853Z",
+  "charter": "AuroraP",
+  "composer": "V.A.",
+  "created": "2024-06-05T13:55:26.716853Z",
+  "description": "Alpha，其实是给sp1的。可惜换成了别的",
+  "difficulty": 11.0,
+  "file": "https://phira.5wyxi.com/files/9636b2ba-4f51-48f4-9207-ba68a326daf1",
+  "id": 20809,
+  "illustration": "https://phira.5wyxi.com/files/70a27a18-a253-43e3-88a2-fd49b5391c9e",
+  "illustrator": "",
+  "level": "Alpha",
+  "name": "Amber Starlight(1.2x)",
+  "preview": "https://phira.5wyxi.com/files/e07969db-4345-470f-8517-70c4a82ffb8b",
+  "ranked": false,
+  "rating": 0.88309246,
+  "ratingCount": 39,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2024-06-05T13:55:26.716853Z",
+  "uploader": 1006674
+}

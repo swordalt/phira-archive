@@ -1,0 +1,40 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:07:02Z",
+    "lastChanged": "2026-09-21T02:07:02Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-30T10:42:17.119314Z",
+  "charter": "HRS-Team",
+  "composer": "超てんちゃん/原口沙輔",
+  "created": "2026-08-30T10:42:17.119314Z",
+  "description": "HRS-Lv.15-Flow单曲",
+  "difficulty": 15.300001,
+  "file": "https://phira.5wyxi.com/files/384e1f93-b7a1-43f6-8889-d83c0c006c69",
+  "id": 76579,
+  "illustration": "https://phira.5wyxi.com/files/4e4ce50b-1025-4064-9ecf-e83a19c59832",
+  "illustrator": "",
+  "level": "Flow Lv.15",
+  "name": "きゅびびびびずむ",
+  "preview": "https://phira.5wyxi.com/files/5e154e8e-6972-4032-a24b-197273e4c803",
+  "ranked": false,
+  "rating": 0.9068022,
+  "ratingCount": 15,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "HRS",
+    "双指",
+    "谐律段位",
+    "Flow",
+    "幻",
+    "15",
+    "plain"
+  ],
+  "updated": "2026-08-30T10:42:17.119314Z",
+  "uploader": 4032686
+}

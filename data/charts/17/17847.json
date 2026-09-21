@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:06Z",
+    "lastChanged": "2026-09-21T02:02:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-31T13:31:48.204834Z",
+  "charter": "Me",
+  "composer": "HyuN feat. Sennzai",
+  "created": "2024-03-31T13:31:48.204834Z",
+  "description": "高难双指谱，难度为DFC beta+/gamma-  ps:结尾有故事版",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/ce5bec7b-16de-4865-a127-71df95690cf4",
+  "id": 17847,
+  "illustration": "https://phira.5wyxi.com/files/2f1084ca-c714-4f0b-8b04-5afccdafea02",
+  "illustrator": "",
+  "level": "IN Lv.17",
+  "name": "Duplicity Shade",
+  "preview": "https://phira.5wyxi.com/files/624234dc-e706-4469-81d9-81c1fc0ffb2f",
+  "ranked": false,
+  "rating": 0.9021487,
+  "ratingCount": 253,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "高难",
+    "shader",
+    "故事版",
+    "regular"
+  ],
+  "updated": "2024-03-31T13:31:48.204834Z",
+  "uploader": 1393
+}

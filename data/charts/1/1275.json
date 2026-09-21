@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:08Z",
+    "lastChanged": "2026-09-21T02:01:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-06T14:38:34.011233Z",
+  "charter": "27-2",
+  "composer": "meiyo",
+  "created": "2023-05-06T14:38:34.011233Z",
+  "description": "谱面有些重叠的双押是模拟器播放时产生的问题，原谱还请以B站视频为准。\n这个人忘记了自己的账号密码（哭\nB站账号：https://space.bilibili.com/421782617?spm_id_from=333.1007.0.0",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/0e60d9d1-f86a-4649-89d2-88d77db4b630",
+  "id": 1275,
+  "illustration": "https://phira.5wyxi.com/files/b97c4bd1-3bbf-4e05-a526-e4ebc4a31c39",
+  "illustrator": "",
+  "level": "IN.15",
+  "name": "なにやってもうまくいかない",
+  "preview": "https://phira.5wyxi.com/files/bb7c69f3-c0b8-457d-97a1-d6e30e295cec",
+  "ranked": false,
+  "rating": 0.9351763,
+  "ratingCount": 4846,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-05-21T05:09:45.014655Z",
+  "uploader": 8575
+}

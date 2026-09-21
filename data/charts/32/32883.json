@@ -1,0 +1,39 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:00Z",
+    "lastChanged": "2026-09-21T02:03:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-30T08:38:12.991317Z",
+  "charter": "Little White",
+  "composer": "NyxTheShield",
+  "created": "2025-01-30T08:38:12.991317Z",
+  "description": "本人上传，b站@新手小白qwq\n更新：修改延迟至＋40ms\n个人初常规，用时55h（44h初稿＋3h改bug＋8h优化）\n中间剧情是Xchara偷决心\n初见杀不少但都有提示\n配置和动效都不算特别好\n不过感觉还不错\nenjoy~",
+  "difficulty": 15.8,
+  "file": "https://phira.5wyxi.com/files/ffd2e4ec-5771-4693-8638-64dc28ec3190",
+  "id": 32883,
+  "illustration": "https://phira.5wyxi.com/files/5729f275-4907-4336-acf8-44e225462b46",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "Tangled",
+  "preview": "https://phira.5wyxi.com/files/18226776-232a-4df7-a737-a45ac878ad9d",
+  "ranked": false,
+  "rating": 0.9002349,
+  "ratingCount": 875,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Underverse",
+    "Undertale",
+    "boss",
+    "故事版",
+    "多指",
+    "regular"
+  ],
+  "updated": "2025-01-30T08:38:12.991317Z",
+  "uploader": 11304
+}

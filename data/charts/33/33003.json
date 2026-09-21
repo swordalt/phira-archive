@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:28Z",
+    "lastChanged": "2026-09-21T02:05:28Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-01T03:26:42.365051Z",
+  "charter": "交互当双押",
+  "composer": "林海",
+  "created": "2025-02-01T03:26:42.365051Z",
+  "description": null,
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/f63bf0a4-131f-4fe5-b4e8-5bc1b529d4a5",
+  "id": 33003,
+  "illustration": "https://phira.5wyxi.com/files/e419da92-c24e-4e9a-a27c-3c43151f54f9",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "欢沁",
+  "preview": "https://phira.5wyxi.com/files/d8de5262-eff8-490c-9531-5b08374b6ceb",
+  "ranked": false,
+  "rating": 0.836503,
+  "ratingCount": 143,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2025-02-01T03:26:42.365051Z",
+  "uploader": 136574
+}

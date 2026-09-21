@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:10Z",
+    "lastChanged": "2026-09-21T02:06:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-03-01T15:03:50.469628Z",
+  "charter": "LSW",
+  "composer": "Etherwood",
+  "created": "2025-03-01T15:03:50.469628Z",
+  "description": "本人首张5K",
+  "difficulty": 16.500002,
+  "file": "https://phira.5wyxi.com/files/088cf6fa-7f6e-4fa4-a2f8-f183f7b99a97",
+  "id": 34684,
+  "illustration": "https://phira.5wyxi.com/files/faee7ca3-0f4b-41ef-ac9a-4622d6bf4414",
+  "illustrator": "",
+  "level": "5K",
+  "name": "Cast Away (5K)",
+  "preview": "https://phira.5wyxi.com/files/a3bdf27f-a8e4-4acf-92f2-c6131db3efcf",
+  "ranked": false,
+  "rating": 0.9365565,
+  "ratingCount": 475,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "5K",
+    "plain"
+  ],
+  "updated": "2025-03-01T15:03:50.469628Z",
+  "uploader": 1201739
+}

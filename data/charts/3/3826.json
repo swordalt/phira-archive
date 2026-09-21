@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:16Z",
+    "lastChanged": "2026-09-21T02:01:16Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-06-21T23:52:22.723962Z",
+  "charter": "AronKing",
+  "composer": "Vicetone",
+  "created": "2023-06-21T23:52:22.723962Z",
+  "description": null,
+  "difficulty": 14.500002,
+  "file": "https://phira.5wyxi.com/files/81b4a732-41fc-42ed-b8b7-02e4786ace08",
+  "id": 3826,
+  "illustration": "https://phira.5wyxi.com/files/2298598d-15be-4e57-9f7e-929edf3d21bc",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "The World Has A Heartbeat",
+  "preview": "https://phira.5wyxi.com/files/a7589f6a-7c80-4aea-8dce-7841dbbc2faa",
+  "ranked": false,
+  "rating": 0.87379074,
+  "ratingCount": 411,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-02-13T14:20:02.574335Z",
+  "uploader": 24364
+}

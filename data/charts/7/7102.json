@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:25Z",
+    "lastChanged": "2026-09-21T02:01:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-08T11:38:33.749932Z",
+  "charter": "Muji",
+  "composer": "Project Moon",
+  "created": "2023-08-08T11:38:33.749932Z",
+  "description": "谱师本人上传，此为WJC参赛谱面，编号32       谱面多处复刻了废墟图书馆的元素，本谱面动效核心为钢琴家与安吉莉卡之战，关于废墟图书馆有关设定可在b站搜索",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/b02af866-0a16-418c-9138-1f028c3b6710",
+  "id": 7102,
+  "illustration": "https://phira.5wyxi.com/files/962d312d-9d99-4db9-aec6-dcc280b6f291",
+  "illustrator": "",
+  "level": "WAW Lv.15",
+  "name": "Emergency2",
+  "preview": "https://phira.5wyxi.com/files/d842e62c-ab2f-409c-ae98-c2fdbe03ecd3",
+  "ranked": true,
+  "rating": 0.93534553,
+  "ratingCount": 2798,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "WJC",
+    "废墟图书馆",
+    "月计",
+    "1stWJC",
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 3742
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:25Z",
+    "lastChanged": "2026-09-21T02:05:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-04T14:45:51.467709Z",
+  "charter": "Better Charting HDE",
+  "composer": "LUZE",
+  "created": "2024-08-04T14:45:51.467709Z",
+  "description": "2024愚人节谱，大部分配置来自BMS原谱",
+  "difficulty": 41.0,
+  "file": "https://phira.5wyxi.com/files/b325c96f-733c-4d11-b751-cacae4c3925e",
+  "id": 25287,
+  "illustration": "https://phira.5wyxi.com/files/a9f44924-0b41-401e-abc7-cce19d84c814",
+  "illustrator": "",
+  "level": "SP Lv.41",
+  "name": "Better Graphic Animation",
+  "preview": "https://phira.5wyxi.com/files/27cd2cf5-0175-417d-b568-86807eb78781",
+  "ranked": false,
+  "rating": 0.7503753,
+  "ratingCount": 352,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-08-04T14:45:51.467709Z",
+  "uploader": 764
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:19Z",
+    "lastChanged": "2026-09-21T02:04:19Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-08T01:20:40.916105Z",
+  "charter": "GPZT_ROOM",
+  "composer": "Silentroom",
+  "created": "2026-02-08T01:20:40.916105Z",
+  "description": "音乐：Limen\n曲师：Silentroom\n谱师：GPZT_0714\n\n减法式写谱的一次尝试，事件仅3900，但似乎减少了\n谱面有些地方确实缺乏思考\n可以前往b站同名up视频支持或者提出建议",
+  "difficulty": 18.0,
+  "file": "https://phira.5wyxi.com/files/c2a7e591-fe3c-4f5b-a5ef-7832fdb51448",
+  "id": 52262,
+  "illustration": "https://phira.5wyxi.com/files/e138f115-0d3e-4cce-b379-b1bb34ab2a88",
+  "illustrator": "",
+  "level": "Requiem Lv.18",
+  "name": "Limen",
+  "preview": "https://phira.5wyxi.com/files/4672e22c-db86-4954-b08e-2fec219eb58a",
+  "ranked": false,
+  "rating": 0.85529983,
+  "ratingCount": 176,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-08T01:20:40.916105Z",
+  "uploader": 101331
+}

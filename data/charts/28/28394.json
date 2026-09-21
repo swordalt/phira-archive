@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:42Z",
+    "lastChanged": "2026-09-21T02:02:42Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-10-28T05:12:00.911162Z",
+  "charter": "It's sixi",
+  "composer": "ARforest",
+  "created": "2024-10-06T03:00:30.751930Z",
+  "description": "1.是本人尝试的第一张独作谱\n2.本人已上传最终版本，B站预览视频请见 BV1b623YMEoq\n3.尽管谱面有一些缺点(承认很多时候是定轨)，但是我希望大家能玩的开心\n4.简介已进行简单修改，对定数进行微调(14.6->14.8)",
+  "difficulty": 14.800003,
+  "file": "https://phira.5wyxi.com/files/d5a5b881-2427-4ace-b484-ad90a17a47fb",
+  "id": 28394,
+  "illustration": "https://phira.5wyxi.com/files/703e3dc3-6100-437d-88e2-069e1bd0d04d",
+  "illustrator": "",
+  "level": "IN  Lv.14",
+  "name": "It's alright",
+  "preview": "https://phira.5wyxi.com/files/6be6b45e-5334-4ca6-9a4d-ee669fce3042",
+  "ranked": false,
+  "rating": 0.91191113,
+  "ratingCount": 219,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-11-26T16:12:26.209852Z",
+  "uploader": 5426
+}

@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:29Z",
+    "lastChanged": "2026-09-21T02:02:29Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-03-02T09:01:04.023027Z",
+  "charter": "Cybifer",
+  "composer": "Sakuzyo",
+  "created": "2024-08-03T15:25:37.828083Z",
+  "description": "7pj弃赛谱，谱师本人上传，现已合作翻新，可移步上架区#52307游玩。",
+  "difficulty": 16.499987,
+  "file": "https://phira.5wyxi.com/files/523310a5-3609-4bef-8db7-7212f97e1eb8",
+  "id": 25193,
+  "illustration": "https://phira.5wyxi.com/files/27993e62-c724-4bd4-aaab-efa491220de3",
+  "illustrator": "",
+  "level": "Legacy  Lv.16",
+  "name": "Ultimate Force",
+  "preview": "https://phira.5wyxi.com/files/2c933372-f9d4-45a3-b2da-7ca09d17e984",
+  "ranked": false,
+  "rating": 0.9401136,
+  "ratingCount": 2201,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Sakuzyo",
+    "Chunithm",
+    "regular"
+  ],
+  "updated": "2026-02-11T02:49:02.923459Z",
+  "uploader": 148983
+}

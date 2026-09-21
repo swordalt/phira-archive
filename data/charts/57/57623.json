@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:40Z",
+    "lastChanged": "2026-09-21T02:04:40Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-02T16:03:36.942146Z",
+  "charter": "== X - Cross ==",
+  "composer": "takehirotei/HowToPlayLN",
+  "created": "2026-05-02T16:03:36.942146Z",
+  "description": "曲目内置bpm变化提示「85-317」\n一年前创建文件夹，由于高三基本没时间写，今天劳动节终于把这个原来弄了很久又没填的坑填上了。\n底力双指谱，没有无理配置，主打一个敲屏幕爽。\n我是说真的，一个人写这么长的真的很累，卧槽累死我了！\n不过也好，大家尽管玩吧，我先润了。\nb站@BaioOT150T\n（白傲）",
+  "difficulty": 16.900003,
+  "file": "https://phira.5wyxi.com/files/92f86aee-d59f-40af-8a0c-a33a0cd35c56",
+  "id": 57623,
+  "illustration": "https://phira.5wyxi.com/files/f61a2429-b191-4749-a851-4b5597710bec",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Essence",
+  "preview": "https://phira.5wyxi.com/files/65711486-c20f-46f8-a98b-8494f998cd75",
+  "ranked": false,
+  "rating": 0.94588023,
+  "ratingCount": 551,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-05-02T16:03:36.942146Z",
+  "uploader": 32694
+}

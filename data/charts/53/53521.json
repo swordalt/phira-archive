@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:25Z",
+    "lastChanged": "2026-09-21T02:04:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-27T05:34:12.788365Z",
+  "charter": "LaNdEr",
+  "composer": "ああああ",
+  "created": "2026-02-27T05:34:12.788365Z",
+  "description": null,
+  "difficulty": 16.700003,
+  "file": "https://phira.5wyxi.com/files/634a7980-817a-47f6-9bfd-bae05790772b",
+  "id": 53521,
+  "illustration": "https://phira.5wyxi.com/files/8da9dd98-6001-4fc6-8674-0f4079ca1531",
+  "illustrator": "",
+  "level": "IN.16",
+  "name": "lost in the snow",
+  "preview": "https://phira.5wyxi.com/files/3a5dc021-f13e-4009-91a0-bba3b7b7b161",
+  "ranked": false,
+  "rating": 0.63038415,
+  "ratingCount": 2,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-27T05:34:12.788365Z",
+  "uploader": 33053
+}

@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:55Z",
+    "lastChanged": "2026-09-21T02:01:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-04-20T07:26:02.248425Z",
+  "charter": "黑草の右果",
+  "composer": "Yu-dachi",
+  "created": "2024-02-09T16:58:04.748301Z",
+  "description": null,
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/a4910306-f86a-40b9-bf85-ff9d216d0a55",
+  "id": 15173,
+  "illustration": "https://phira.5wyxi.com/files/4cc79d48-af66-4d0e-a1b5-d9a7debf56ff",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "白花の天使",
+  "preview": "https://phira.5wyxi.com/files/600cabab-e85c-42ec-aef5-ffcc2b3eff5f",
+  "ranked": true,
+  "rating": 0.8960348,
+  "ratingCount": 1562,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "6thPecJam",
+    "maimai",
+    "regular"
+  ],
+  "updated": "2025-02-15T03:15:29.685665Z",
+  "uploader": 140
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:24Z",
+    "lastChanged": "2026-09-21T02:04:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-02-23T10:40:07.957128Z",
+  "charter": "A380P",
+  "composer": "A380P",
+  "created": "2026-02-23T10:40:07.957128Z",
+  "description": "A380P的第一首像样的音游曲（划掉）完全由A380P编曲-曲绘-制谱。",
+  "difficulty": 16.399996,
+  "file": "https://phira.5wyxi.com/files/3f0f8e25-c4f1-42f1-99db-0a6a32e2d1b2",
+  "id": 53246,
+  "illustration": "https://phira.5wyxi.com/files/4400cded-d379-4e5e-b9e7-85c7c9962c4a",
+  "illustrator": "",
+  "level": "AT.Lv16",
+  "name": "CrackSatellite",
+  "preview": "https://phira.5wyxi.com/files/c3c4080b-f9f1-4b4c-8fba-a3c1f5af927c",
+  "ranked": false,
+  "rating": 0.6164572,
+  "ratingCount": 8,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-02-23T10:40:07.957128Z",
+  "uploader": 33344
+}

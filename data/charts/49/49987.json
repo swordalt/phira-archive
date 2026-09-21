@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:06Z",
+    "lastChanged": "2026-09-21T02:04:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-12-15T04:12:30.197519Z",
+  "charter": "银落†_Remotely Ephemeral Star",
+  "composer": "ShooTinGStaR",
+  "created": "2025-12-07T12:42:51.474828Z",
+  "description": "谱师本人上传\n庆生作（12-15）\n在此致谢每一位审核，辛苦了！\n\nb站：银落_Restar\n视频BV号：BV1hY2JBsEVC\n\n希望你喜欢这张谱面\n（频繁修改致歉Orz）\n\n\n历史记录\n2025-12-7\n上传\n\n2025-12-8\n一处表演补丁\n\n2025-12-9\n修复表演note未藏好的问题，增加一小处shader\n\n2025-12-10 \n(1)排键小幅度排开修改，部分初见杀修改，修正shader强度\n(2)再次修改初见杀，添加意外丢失的shader，补充表演\n\n2025-12-15\n结尾shader类型修改，修改了突兀消失的效果\n补上了bv号",
+  "difficulty": 14.3,
+  "file": "https://phira.5wyxi.com/files/9aadb87e-9b7c-4ec1-9f3f-7b136973e65c",
+  "id": 49987,
+  "illustration": "https://phira.5wyxi.com/files/721b30fd-a7b1-4fa5-831a-dc841ab6662f",
+  "illustrator": "",
+  "level": "Star Lv.14",
+  "name": "Fly To Meteor",
+  "preview": "https://phira.5wyxi.com/files/2a5a3df3-2929-4afd-8a6f-4801982805a1",
+  "ranked": false,
+  "rating": 0.95233804,
+  "ratingCount": 1575,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "故事板",
+    "Shader",
+    "生日作",
+    "regular"
+  ],
+  "updated": "2025-12-15T04:12:30.197519Z",
+  "uploader": 128437
+}

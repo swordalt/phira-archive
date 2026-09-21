@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:15Z",
+    "lastChanged": "2026-09-21T02:04:15Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-28T05:09:41.845885Z",
+  "charter": "WasilyAZ",
+  "composer": "Plum",
+  "created": "2026-01-28T05:09:41.845885Z",
+  "description": "单人写完的第一张谱\n谱面预览BV1Dm63BnEXA",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/e62ba80c-0dcb-41ba-b732-8ca2d09e119a",
+  "id": 51722,
+  "illustration": "https://phira.5wyxi.com/files/907fad96-5f55-4147-bd82-6a17125161da",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "Terrasphere",
+  "preview": "https://phira.5wyxi.com/files/76e6f044-2b9e-4c20-acb9-7c5ff3efcac5",
+  "ranked": false,
+  "rating": 0.8929116,
+  "ratingCount": 210,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-01-28T05:09:41.845885Z",
+  "uploader": 38082
+}

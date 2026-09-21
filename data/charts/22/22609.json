@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:21Z",
+    "lastChanged": "2026-09-21T02:02:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-04T05:19:02.930406Z",
+  "charter": "qj79",
+  "composer": "知更鸟/HOYO-MiX/Chevy",
+  "created": "2024-07-04T05:19:02.930406Z",
+  "description": null,
+  "difficulty": 11.1,
+  "file": "https://phira.5wyxi.com/files/c712daa7-12ef-402b-8e4b-9ea81d92d245",
+  "id": 22609,
+  "illustration": "https://phira.5wyxi.com/files/496f2d32-4d50-4a85-86f7-12d7cc1b6b77",
+  "illustrator": "",
+  "level": "IN Lv.11",
+  "name": "若我不曾见过太阳",
+  "preview": "https://phira.5wyxi.com/files/67a6c8c9-f8a2-4551-9051-ae3305b1d6d0",
+  "ranked": false,
+  "rating": 0.93366,
+  "ratingCount": 4399,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "星穹铁道",
+    "regular"
+  ],
+  "updated": "2024-07-04T05:19:02.930406Z",
+  "uploader": 651811
+}

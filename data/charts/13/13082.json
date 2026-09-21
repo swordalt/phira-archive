@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:46Z",
+    "lastChanged": "2026-09-21T02:01:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-12-31T13:20:38.123514Z",
+  "charter": "Zero_5368,but Rea_cy",
+  "composer": "Reku Mochizuki",
+  "created": "2023-12-31T13:20:38.123514Z",
+  "description": "谱面为谱师本人上传\n玩的愉快～",
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/2973593d-ecf3-46c6-982a-9a062914f654",
+  "id": 13082,
+  "illustration": "https://phira.5wyxi.com/files/40d0e2df-bf96-40ba-a0a9-a448b08885c7",
+  "illustrator": "",
+  "level": "AT  Lv.15",
+  "name": "★Star Fall in Evernight City",
+  "preview": "https://phira.5wyxi.com/files/100b4e83-f6e3-4034-ad75-10278294b3e0",
+  "ranked": false,
+  "rating": 0.9370461,
+  "ratingCount": 674,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "shader",
+    "着色器",
+    "regular"
+  ],
+  "updated": "2024-01-01T01:21:26.542705Z",
+  "uploader": 916
+}

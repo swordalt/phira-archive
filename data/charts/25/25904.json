@@ -1,0 +1,42 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-09-21T02:05:25Z",
+    "lastChanged": "2026-09-21T02:05:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-10T14:44:37.794190Z",
+  "charter": "SqrtSecond",
+  "composer": "Function Phantom",
+  "created": "2024-08-10T14:44:37.794190Z",
+  "description": "第一遍游玩时可能会卡顿，建议等待20~30秒后重开。 部分设备请在游玩前将宽高比设置成1.5(3:2)以获取最佳体验。 新人初谱，制谱不易，如果觉得好玩的话给个5星支持一下吧~ 也去B站关注一下@平方秒和立方吨 吧，Ta以后还会带来更多奇妙的谱面哦！以及手元记得@谱师哦qwq",
+  "difficulty": 16.8,
+  "file": "https://phira.5wyxi.com/files/9abc8d37-33ec-46db-8f51-6367b18a4b23",
+  "id": 25904,
+  "illustration": "https://phira.5wyxi.com/files/da6c847f-2089-4b76-89ab-a98aecb33b1b",
+  "illustrator": "",
+  "level": "AT×SP Lv.17",
+  "name": "Algebra",
+  "preview": "https://phira.5wyxi.com/files/289cda08-d2fc-4869-b9cc-09564cbfc36a",
+  "ranked": false,
+  "rating": 0.9606135,
+  "ratingCount": 11695,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "愚人节",
+    "故事版",
+    "故事板",
+    "音游模拟器",
+    "数学",
+    "观赏",
+    "异象",
+    "特效",
+    "troll"
+  ],
+  "updated": "2025-06-14T07:22:43.532624Z",
+  "uploader": 257272
+}

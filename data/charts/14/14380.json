@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:51Z",
+    "lastChanged": "2026-09-21T02:01:51Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-01-29T07:39:12.709987Z",
+  "charter": "HgMercury",
+  "composer": "Mitsukiyo",
+  "created": "2024-01-29T07:39:12.709987Z",
+  "description": "本谱为谱师自行上传，此曲目来自《蔚蓝档案》。\r\n已内置延迟125ms，不需要再调节。\r\n\r\nPhigros 自制谱 ：Bunny Bunny Carrot Carrot\r\n难度：IN Lv.15.4\r\n物量：668 （无假Note）\r\nBPM：全曲 170\r\n\r\n曲师：Mitsukiyo\r\n曲绘：© NAT Games & Yostar\r\n谱师名义：HgMercury （即StaticStasis）\r\nBilibili UID:481956671 谱面录屏:BV1PV411X7pM\r\n\r\n谱面版本：1月29日 1.3 Fixed",
+  "difficulty": 15.400002,
+  "file": "https://phira.5wyxi.com/files/fcf6033e-9f58-482a-8341-6162c44a4f9d",
+  "id": 14380,
+  "illustration": "https://phira.5wyxi.com/files/fc33aba2-ce33-479f-ba76-dbba708b2790",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Bunny Bunny Carrot Carrot",
+  "preview": "https://phira.5wyxi.com/files/6484980b-bb23-494d-9146-d3273f038de8",
+  "ranked": false,
+  "rating": 0.9362263,
+  "ratingCount": 1161,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-01-29T07:39:12.709987Z",
+  "uploader": 234315
+}

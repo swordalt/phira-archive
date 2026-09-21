@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:14Z",
+    "lastChanged": "2026-09-21T02:02:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-17T18:34:33.449607Z",
+  "charter": "spacewalker",
+  "composer": "BLACKDD",
+  "created": "2024-05-17T18:34:33.449607Z",
+  "description": "建议使用1.5宽高比进行游玩以达到最佳观赏体验！（孩子不会把RPE窗口调成手机比例，裂开）\n这是我写的第二张谱，学会或者自己折腾会了使用RPE的一些其他功能，对我来说是不小的进步！但我感觉在配置和特效方面还是有一些不如意……但我会努力的！毕竟目前写谱是我为数不多想做的事了\n如果你有什么建议，欢迎到B站搜索“spacewalkerDTR”联系我！",
+  "difficulty": 12.499999,
+  "file": "https://phira.5wyxi.com/files/a14b1744-c0e1-4ff5-aa13-629d602c8654",
+  "id": 20038,
+  "illustration": "https://phira.5wyxi.com/files/10578dc9-d5b9-48f1-8327-d3cf7350b748",
+  "illustrator": "",
+  "level": "Freedom Lv.12",
+  "name": "Liberty",
+  "preview": "https://phira.5wyxi.com/files/8a86966a-2fdc-4340-a8ea-27bfbbb3ef8a",
+  "ranked": false,
+  "rating": 0.92748374,
+  "ratingCount": 247,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-05-17T18:34:33.449607Z",
+  "uploader": 30412
+}

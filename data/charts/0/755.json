@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:06Z",
+    "lastChanged": "2026-09-21T02:01:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-28T15:08:38.061097Z",
+  "charter": "cmdysj",
+  "composer": "cosMo＠暴走P",
+  "created": "2023-04-25T07:30:52.917640Z",
+  "description": "本人上传；之前的延迟不对改了一下",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/99700546-c235-4164-910e-a16947afb06d",
+  "id": 755,
+  "illustration": "https://phira.5wyxi.com/files/052aa4e6-69aa-4f75-a828-4d06d6f0e3b8",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "マシンガンポエムドール",
+  "preview": "https://phira.5wyxi.com/files/57f792d5-b42e-4fa2-90ff-f8d3ee10a076",
+  "ranked": false,
+  "rating": 0.91665167,
+  "ratingCount": 12324,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "VOCALOID",
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 538
+}

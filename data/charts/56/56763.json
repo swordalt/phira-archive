@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:50Z",
+    "lastChanged": "2026-09-21T02:06:50Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-04-19T12:01:15.382642Z",
+  "charter": "Jiuwenzi",
+  "composer": "V.A.",
+  "created": "2026-04-19T12:01:15.382642Z",
+  "description": "spd震撼来袭！\n乱bpm277 level=14.7\n叠bpm182 level=14.2\n技bpm172 level=14.5\n切bpm227 level=14.4\ndrag：\n乱253/1800\n叠224/1384\n技1727/3336\n切685/2295\n全段2889/8815\n过段acc=97.88\n后光=98.94",
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/6f6a47f5-7dec-40f9-b73f-0c9e2da0cf5a",
+  "id": 56763,
+  "illustration": "https://phira.5wyxi.com/files/62c44b97-02c1-46ce-a7e1-0c2225e65d17",
+  "illustrator": "",
+  "level": "Dan Lv.14",
+  "name": "DFC Delta Dan(Sample) v1.1",
+  "preview": "https://phira.5wyxi.com/files/79a27212-4b47-4acd-9502-ef0ae200dc2e",
+  "ranked": false,
+  "rating": 0.90103656,
+  "ratingCount": 30,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2026-04-19T12:01:15.382642Z",
+  "uploader": 2169349
+}

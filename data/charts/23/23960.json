@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:25Z",
+    "lastChanged": "2026-09-21T02:02:25Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-21T07:39:31.884197Z",
+  "charter": "a4rd",
+  "composer": "ARForest",
+  "created": "2024-07-21T07:39:31.884197Z",
+  "description": null,
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/cbf8b757-e713-404a-89ef-52a0d5f1ddbb",
+  "id": 23960,
+  "illustration": "https://phira.5wyxi.com/files/d4944acf-af6f-4135-8be0-64969b303790",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Find Myself",
+  "preview": "https://phira.5wyxi.com/files/472e268f-ad0e-4146-9543-98d055289809",
+  "ranked": false,
+  "rating": 0.85427636,
+  "ratingCount": 48,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-07-21T07:39:31.884197Z",
+  "uploader": 72131
+}

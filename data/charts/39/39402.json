@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:21Z",
+    "lastChanged": "2026-09-21T02:03:21Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-08T10:59:32.598053Z",
+  "charter": "Air",
+  "composer": "かねこちか vs. Chikanya",
+  "created": "2025-06-08T10:59:32.598053Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/67f95602-f098-4ddc-9d48-77679e423251",
+  "id": 39402,
+  "illustration": "https://phira.5wyxi.com/files/9f552772-37c6-4d06-86c7-ff65dd3285fb",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Hyper Rhapsody",
+  "preview": "https://phira.5wyxi.com/files/256f660c-8934-45a0-b736-9c7859e1cf81",
+  "ranked": false,
+  "rating": 0.9052867,
+  "ratingCount": 376,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-06-08T10:59:32.598053Z",
+  "uploader": 9425
+}

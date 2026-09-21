@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:04Z",
+    "lastChanged": "2026-09-21T02:02:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-22T15:50:37.571963Z",
+  "charter": "Iblcya",
+  "composer": "siromaru / Cranky",
+  "created": "2024-03-22T15:50:37.571963Z",
+  "description": "谱师本人上传\n1.05为LC2024#2SFRC2\n3RDFJC参赛作品",
+  "difficulty": 11.499999,
+  "file": "https://phira.5wyxi.com/files/bb9c675d-ab45-4499-bf14-1bf05dba8d0d",
+  "id": 17391,
+  "illustration": "https://phira.5wyxi.com/files/abe2b1af-cd6a-4194-ad8e-761b30dea261",
+  "illustrator": "",
+  "level": "Conflict Lv.11",
+  "name": "Conflict",
+  "preview": "https://phira.5wyxi.com/files/f141aa91-38a0-409e-aeca-0e35f9c8ca49",
+  "ranked": false,
+  "rating": 0.84226376,
+  "ratingCount": 102,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "LC2024",
+    "regular"
+  ],
+  "updated": "2024-03-22T15:50:37.571963Z",
+  "uploader": 829044
+}

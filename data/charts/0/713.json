@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:06Z",
+    "lastChanged": "2026-09-21T02:01:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-13T14:20:32.293419Z",
+  "charter": "\"梗\" 带来阴影",
+  "composer": "黒皇帝 feat. AKA",
+  "created": "2023-04-22T21:47:58.344384Z",
+  "description": "就一个15上位底力谱，祝各位玩得开心",
+  "difficulty": 15.94,
+  "file": "https://phira.5wyxi.com/files/44c6ddb8-58b6-47f1-94dc-897a7be9644b",
+  "id": 713,
+  "illustration": "https://phira.5wyxi.com/files/3799d791-270c-4155-bef3-2cf8c1bbc265",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Le Porteur d'Ombre",
+  "preview": "https://phira.5wyxi.com/files/c5d857b9-5559-4d84-b01f-ad1497fbd761",
+  "ranked": true,
+  "rating": 0.9131468,
+  "ratingCount": 10326,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "Orzmic",
+    "regular"
+  ],
+  "updated": "2024-04-17T16:02:30.777265Z",
+  "uploader": 35
+}

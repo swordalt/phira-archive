@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:19Z",
+    "lastChanged": "2026-09-21T02:01:19Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-08-19T12:43:24.366225Z",
+  "charter": "XerdouS",
+  "composer": "HOYO-MiX",
+  "created": "2023-07-07T13:17:59.076876Z",
+  "description": "（本人上传）drop正常优化，结尾负优化，但是stb审核叫我改我也没办法。\n烦死了。",
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/43b456f6-10dd-4065-a6b0-7f90f85a452f",
+  "id": 4861,
+  "illustration": "https://phira.5wyxi.com/files/a7ce60e3-5f55-435f-80b1-ac241f827f36",
+  "illustrator": "",
+  "level": "IN Lv.13\n",
+  "name": "Surasthana Fantasia 净善的遐歌",
+  "preview": "https://phira.5wyxi.com/files/ebf593f8-44b4-434e-bb27-c6046459ae7f",
+  "ranked": true,
+  "rating": 0.92419213,
+  "ratingCount": 19642,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 22799
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:12Z",
+    "lastChanged": "2026-09-21T02:04:12Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-12T14:14:28.113043Z",
+  "charter": "◇",
+  "composer": "MYTK",
+  "created": "2026-01-11T01:29:58.679110Z",
+  "description": "谱师：B站 芙铃海_FurinSea\n曲目本家：Milthm\n谱面事件数23011（不含shader）\n净耗时1d3h\n\n1.12微调：\n-修了1276cb处长条没藏好\n-优化中杀排键，排宽间距；降低尾杀拆线幅度\n-优化结尾黄键判定（不知道有没有用\n根据普遍反馈定数改为17.8（\n前三位杀掉的留档：Aoer、i-ku_n、poisonlaw，清成绩致歉（\n因为神秘兼容性问题，判定线贴图有奇异搞笑bug，所以只能上传无shader版本的",
+  "difficulty": 17.8,
+  "file": "https://phira.5wyxi.com/files/6e84366a-b422-46b2-9663-34918e670aa5",
+  "id": 51175,
+  "illustration": "https://phira.5wyxi.com/files/9a0c0e5a-bca1-42c2-9192-b7b9a9984f7e",
+  "illustrator": "",
+  "level": "AT  Lv.17+",
+  "name": "靈",
+  "preview": "https://phira.5wyxi.com/files/d72970b6-063d-47ee-b835-b5bef53e0fd8",
+  "ranked": false,
+  "rating": 0.95590454,
+  "ratingCount": 1156,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-01-18T14:10:47.376637Z",
+  "uploader": 1806660
+}

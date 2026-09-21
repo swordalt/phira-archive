@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:13Z",
+    "lastChanged": "2026-09-21T02:03:13Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-04-12T07:21:35.532746Z",
+  "charter": "AsAu3 ",
+  "composer": "王忻辰",
+  "created": "2025-04-12T07:21:35.532746Z",
+  "description": null,
+  "difficulty": 15.600002,
+  "file": "https://phira.5wyxi.com/files/6e32c4a7-a0de-4182-8655-9145c164e22f",
+  "id": 36463,
+  "illustration": "https://phira.5wyxi.com/files/01c027bb-46d4-4513-ad90-0d6d3d00b521",
+  "illustrator": "",
+  "level": "AT.15",
+  "name": "迷失幻境",
+  "preview": "https://phira.5wyxi.com/files/db956ff5-0ff6-43b3-8184-7cb3497a9280",
+  "ranked": false,
+  "rating": 0.87131697,
+  "ratingCount": 1688,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-04-12T07:21:35.532746Z",
+  "uploader": 1190672
+}

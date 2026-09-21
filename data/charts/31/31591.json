@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:55Z",
+    "lastChanged": "2026-09-21T02:02:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-08T14:08:18.640519Z",
+  "charter": "Aliath",
+  "composer": "ISOMERZ(seatrus+DJ Raisei)",
+  "created": "2025-01-08T14:08:18.640519Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/e1e6014d-9bb3-485d-b13d-54b907f11537",
+  "id": 31591,
+  "illustration": "https://phira.5wyxi.com/files/93912a70-1030-4f92-b5d4-3e81c4b2aecb",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "DiXaster",
+  "preview": "https://phira.5wyxi.com/files/ab4e42a1-576d-4c76-9df3-74136d7b77e0",
+  "ranked": false,
+  "rating": 0.78618824,
+  "ratingCount": 58,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-01-08T14:08:18.640519Z",
+  "uploader": 1267726
+}

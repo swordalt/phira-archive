@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:22Z",
+    "lastChanged": "2026-09-21T02:06:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-12T14:37:21.885541Z",
+  "charter": "Iblcko",
+  "composer": "TamaDo",
+  "created": "2025-07-12T14:37:21.885541Z",
+  "description": "Stellium打不过可以打这个",
+  "difficulty": 17.8,
+  "file": "https://phira.5wyxi.com/files/ecc9084f-3dd1-4065-a720-c824b673a7ee",
+  "id": 41519,
+  "illustration": "https://phira.5wyxi.com/files/8a65136b-48ff-45a2-bf44-d444fd6e43d1",
+  "illustrator": "",
+  "level": "Victory Lv.17",
+  "name": "Triumphal Return",
+  "preview": "https://phira.5wyxi.com/files/be66ac72-d5e3-46a9-9fd7-d953a1316647",
+  "ranked": false,
+  "rating": 0.8239762,
+  "ratingCount": 15,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "双指",
+    "Stellium",
+    "plain"
+  ],
+  "updated": "2025-07-12T14:37:21.885541Z",
+  "uploader": 1633218
+}

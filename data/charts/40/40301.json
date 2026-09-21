@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:19Z",
+    "lastChanged": "2026-09-21T02:06:19Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-06-26T14:09:36.799716Z",
+  "charter": "EReN",
+  "composer": "MARETU/初音ミク",
+  "created": "2025-06-26T14:09:36.799716Z",
+  "description": "bpm:162\n第四次写纯配置",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/4f8c52b3-ddb0-498f-b109-52b9528aaa4f",
+  "id": 40301,
+  "illustration": "https://phira.5wyxi.com/files/c94792ba-f160-4e3e-a9f1-222c063bed7a",
+  "illustrator": "",
+  "level": "4k ex5 Jack",
+  "name": "ビノミ",
+  "preview": "https://phira.5wyxi.com/files/7bba75b4-6e50-4d4b-90b7-f09c3b9aae17",
+  "ranked": false,
+  "rating": 0.92094237,
+  "ratingCount": 57,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "stable",
+    "plain"
+  ],
+  "updated": "2025-06-26T14:09:36.799716Z",
+  "uploader": 928385
+}

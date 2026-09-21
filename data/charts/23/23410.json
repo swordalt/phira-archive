@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:22Z",
+    "lastChanged": "2026-09-21T02:02:22Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-07-14T06:00:19.879795Z",
+  "charter": "Laichi_CHIP",
+  "composer": "サツキ",
+  "created": "2024-07-14T06:00:19.879795Z",
+  "description": "呃…能过吗？ （bilibili、QQ都是同名）",
+  "difficulty": 15.700003,
+  "file": "https://phira.5wyxi.com/files/4ab2e52a-4b32-4e6f-b124-b7742b1447e7",
+  "id": 23410,
+  "illustration": "https://phira.5wyxi.com/files/72d6a71f-4ecd-4ceb-ab46-7d57f5123c8a",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "メズマライザー",
+  "preview": "https://phira.5wyxi.com/files/53d24af2-8d1f-43db-82d1-3258a42c3b1f",
+  "ranked": false,
+  "rating": 0.85990435,
+  "ratingCount": 775,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-07-14T06:00:19.879795Z",
+  "uploader": 721841
+}

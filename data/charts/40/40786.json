@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:27Z",
+    "lastChanged": "2026-09-21T02:03:27Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-03T06:05:56.440090Z",
+  "charter": "Rui",
+  "composer": "HOYO-MiX/NIDA",
+  "created": "2025-07-03T06:05:56.440090Z",
+  "description": null,
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/111a14f9-09be-4aae-a4cc-9e551ece7056",
+  "id": 40786,
+  "illustration": "https://phira.5wyxi.com/files/76645e0f-febb-4065-a644-ac6e3438e504",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "拂晓",
+  "preview": "https://phira.5wyxi.com/files/e8be5e6b-bb82-4783-8f79-99f596ae1189",
+  "ranked": false,
+  "rating": 0.9529411,
+  "ratingCount": 6454,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-07-03T06:05:56.440090Z",
+  "uploader": 780
+}

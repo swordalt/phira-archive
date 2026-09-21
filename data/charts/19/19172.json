@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:05:47Z",
+    "lastChanged": "2026-09-21T02:05:47Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-05-01T12:45:33.085894Z",
+  "charter": "Skyuntarxice",
+  "composer": "かめりあ",
+  "created": "2024-05-01T12:45:33.085894Z",
+  "description": "一次比较新的尝试\n质量应该不会太好",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/3b2b3b08-9fec-4f94-8193-4df064577933",
+  "id": 19172,
+  "illustration": "https://phira.5wyxi.com/files/aa3705f1-d5c0-4b5a-bbd4-8b1b05c01a51",
+  "illustrator": "",
+  "level": "6K Meteor [16]",
+  "name": "Beyond the Geostationary Orbit Level",
+  "preview": "https://phira.5wyxi.com/files/b67f04f1-4280-441a-a86c-5d0a2e1d0a76",
+  "ranked": false,
+  "rating": 0.93223983,
+  "ratingCount": 106,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6K",
+    "plain"
+  ],
+  "updated": "2024-05-01T12:45:33.085894Z",
+  "uploader": 948746
+}

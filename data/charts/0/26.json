@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:03Z",
+    "lastChanged": "2026-09-21T02:01:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-04-02T08:24:52.826382Z",
+  "charter": "Sublcya",
+  "composer": "takehirotei",
+  "created": "2023-04-02T08:24:52.826382Z",
+  "description": "",
+  "difficulty": 12.0,
+  "file": "https://phira.5wyxi.com/files/d088347f-46f9-45aa-acbe-02105fba8417",
+  "id": 26,
+  "illustration": "https://phira.5wyxi.com/files/78e510c8-c5b5-47b5-9d75-f42fb4d8afac",
+  "illustrator": "takehirotei",
+  "level": "EXTRA+",
+  "name": "sus;apple",
+  "preview": "https://phira.5wyxi.com/files/1bb421cc-bb40-46bb-bd5d-6410d4573cf8",
+  "ranked": false,
+  "rating": 0.8468653,
+  "ratingCount": 125,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-04-02T08:24:52.826382Z",
+  "uploader": 77
+}

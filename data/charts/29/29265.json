@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:46Z",
+    "lastChanged": "2026-09-21T02:02:46Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-11-01T06:20:15.022013Z",
+  "charter": "HenRy",
+  "composer": "Plum",
+  "created": "2024-11-01T06:20:15.022013Z",
+  "description": null,
+  "difficulty": 15.1,
+  "file": "https://phira.5wyxi.com/files/c1b856e5-c2c6-4f40-8ac4-b303ba779bc9",
+  "id": 29265,
+  "illustration": "https://phira.5wyxi.com/files/29894d8c-d3af-4ad5-959d-4f2dd529055e",
+  "illustrator": "",
+  "level": "IN lv.15",
+  "name": "Skyscape",
+  "preview": "https://phira.5wyxi.com/files/09823e56-be08-4cb1-b19b-5d3a066c58e1",
+  "ranked": false,
+  "rating": 0.9453441,
+  "ratingCount": 419,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-11-01T06:20:15.022013Z",
+  "uploader": 1263739
+}

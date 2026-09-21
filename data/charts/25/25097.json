@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:29Z",
+    "lastChanged": "2026-09-21T02:02:29Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-08-02T20:12:11.215944Z",
+  "charter": "Fal1En",
+  "composer": "BEMANI Sound Team \"ZAQUVA\"/-κryst∅llizeΔ-",
+  "created": "2024-08-02T20:12:11.215944Z",
+  "description": "第三张谱，写的很放飞自我\n\n内含大量32分楼梯，大部分键形都很简单，打不动可以直接拍\n\n263cb处正攻是右手单手切，左手拍双押，为了防止误触，单手切和后六个双押的判定区域都是平行于所属判定线的矩形区域（原本是垂直于判定线的矩形区域），经测试基本不会误触，左手四押拍上去都行\n\n392cb后点锁包含反手，正攻没有问题，多指糊也可以，但需要注意误触",
+  "difficulty": 16.700003,
+  "file": "https://phira.5wyxi.com/files/b0539621-0071-406c-b70d-ae3fd40a7b43",
+  "id": 25097,
+  "illustration": "https://phira.5wyxi.com/files/663abc3e-27fd-45cf-8aec-f1bc88ebe0da",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Speculation(-κryst∅llizeΔ- Bootleg)",
+  "preview": "https://phira.5wyxi.com/files/c9ce391c-89d1-404b-8b9d-f577612116ac",
+  "ranked": false,
+  "rating": 0.89847445,
+  "ratingCount": 234,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-08-02T20:12:11.215944Z",
+  "uploader": 8470
+}

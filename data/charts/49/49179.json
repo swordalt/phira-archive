@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "visual"
+    ],
+    "firstSeen": "2026-09-21T02:07:08Z",
+    "lastChanged": "2026-09-21T02:07:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-16T01:44:43.045246Z",
+  "charter": "Heronmony（鹭鸟音律）",
+  "composer": "MYTK",
+  "created": "2025-11-16T01:44:43.045246Z",
+  "description": "17.9",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/ddcfbf6f-4708-4ce3-896c-1b015abd915f",
+  "id": 49179,
+  "illustration": "https://phira.5wyxi.com/files/435fda4e-bc85-41ab-a3bc-d2f56f1c521f",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "靈",
+  "preview": "https://phira.5wyxi.com/files/b695454c-156e-49f8-922b-adf7c8f290ee",
+  "ranked": false,
+  "rating": 0.8204693,
+  "ratingCount": 139,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "visual"
+  ],
+  "updated": "2025-11-16T01:44:43.045246Z",
+  "uploader": 1017966
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:00Z",
+    "lastChanged": "2026-09-21T02:05:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-19T14:45:13.216925Z",
+  "charter": "极光-light-",
+  "composer": "t+pazolite VS 削除",
+  "created": "2026-07-19T14:45:13.216925Z",
+  "description": "ARC 2nd S组(rks 16.36-16.65)正赛原创谱",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/d8bf4a82-9c63-4afb-8d33-22159f5a21e9",
+  "id": 67781,
+  "illustration": "https://phira.5wyxi.com/files/d7169b64-6a07-4917-8342-59fc42b9de2e",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Silentphobia",
+  "preview": "https://phira.5wyxi.com/files/8ef7f7e4-1a0d-471d-a509-956409a83946",
+  "ranked": false,
+  "rating": 0.8907722,
+  "ratingCount": 199,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-19T14:45:13.216925Z",
+  "uploader": 31941
+}

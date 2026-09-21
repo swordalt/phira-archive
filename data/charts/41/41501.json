@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:28Z",
+    "lastChanged": "2026-09-21T02:03:28Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-13T10:06:53.642697Z",
+  "charter": "Calepam",
+  "composer": "DJ Myosuke & Gram",
+  "created": "2025-07-12T11:24:41.954236Z",
+  "description": "(en) New charting style. My most polished chart to date.\nNew difficulty: Lv.19.0\nThank you for playing.",
+  "difficulty": 17.800003,
+  "file": "https://phira.5wyxi.com/files/9651e501-f93a-4337-906e-ced41f04a4ea",
+  "id": 41501,
+  "illustration": "https://phira.5wyxi.com/files/bf25203a-2123-403e-b390-c70b4df0066e",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "XODUS",
+  "preview": "https://phira.5wyxi.com/files/61edfb83-d915-42c4-ac5a-ed452a37733a",
+  "ranked": false,
+  "rating": 0.45621768,
+  "ratingCount": 202,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "MuseDash",
+    "regular"
+  ],
+  "updated": "2025-10-17T19:36:49.568931Z",
+  "uploader": 1397385
+}

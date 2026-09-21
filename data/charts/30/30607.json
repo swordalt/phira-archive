@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:50Z",
+    "lastChanged": "2026-09-21T02:02:50Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-12-10T08:19:41.794552Z",
+  "charter": "SOYOo",
+  "composer": "DJ Raisei",
+  "created": "2024-12-10T08:19:41.794552Z",
+  "description": "BPM301，时长5分钟，因为对原谱把最爽段剪了感到惋惜才写的，在第一个长条闪烁时有一点判定bug，如果二指按会掉得话建议四指全拍，全谱多301bpm的16分爆发以及少量32分楼梯（原曲就是32分",
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/1f292ba5-1699-4e69-a0d9-c8836147b947",
+  "id": 30607,
+  "illustration": "https://phira.5wyxi.com/files/b0ba40b7-4e0d-49cf-b438-3d721cfb6ce1",
+  "illustrator": "",
+  "level": "FRACTURE 16",
+  "name": "Fractured Angel",
+  "preview": "https://phira.5wyxi.com/files/a20611ff-bc74-445c-a024-3714838780c9",
+  "ranked": false,
+  "rating": 0.8697119,
+  "ratingCount": 365,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-12-10T08:19:41.794552Z",
+  "uploader": 9290
+}

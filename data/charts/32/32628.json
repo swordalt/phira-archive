@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:59Z",
+    "lastChanged": "2026-09-21T02:02:59Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-02-03T13:13:36.576238Z",
+  "charter": "醒了不起的老傲娇",
+  "composer": "Riya",
+  "created": "2025-01-27T12:37:49.125080Z",
+  "description": "B站@醒了不起的老傲娇，久违的单人作谱面。欢迎提供建议，录手元请标注谱师，玩得开心。制作谱面耗时三天，总计有效时长约10小时。\n曲绘其实是Ai生成的。。。\n2025.2.3 更新了谱面，部分段落表演修正与优化，休息段增加引导，排列微调，修复两处对音错误，删除了脑梗一般的X形交互。",
+  "difficulty": 14.600002,
+  "file": "https://phira.5wyxi.com/files/b16a8755-19b8-407c-a509-5e4dccf3ce49",
+  "id": 32628,
+  "illustration": "https://phira.5wyxi.com/files/a50ff022-0a74-4311-b2d7-6bbce3400ee5",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Intruder",
+  "preview": "https://phira.5wyxi.com/files/51d06e90-b0e3-4789-b92b-ce5c9f43c43c",
+  "ranked": true,
+  "rating": 0.92481947,
+  "ratingCount": 1363,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-02-03T13:13:36.576238Z",
+  "uploader": 104
+}

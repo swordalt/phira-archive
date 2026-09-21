@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:27Z",
+    "lastChanged": "2026-09-21T02:02:27Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-09-11T10:35:10.871612Z",
+  "charter": "NEKOYO",
+  "composer": "EmoCosine",
+  "created": "2024-07-29T10:27:48.819980Z",
+  "description": "9月8日更新：\r\n物量：953\r\n事件：4818\r\n难度：15.1",
+  "difficulty": 15.1,
+  "file": "https://phira.5wyxi.com/files/cdbe0856-b811-4883-87d7-448949b1994d",
+  "id": 24667,
+  "illustration": "https://phira.5wyxi.com/files/5fa3e6ad-d5d1-4f35-8f91-f34460b41d68",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Summer Attack!",
+  "preview": "https://phira.5wyxi.com/files/415e4fec-ec68-434d-88ab-159fadf21073",
+  "ranked": false,
+  "rating": 0.9554188,
+  "ratingCount": 2050,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-09-11T10:35:10.871612Z",
+  "uploader": 1172900
+}

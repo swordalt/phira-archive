@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:42Z",
+    "lastChanged": "2026-09-21T02:04:42Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-09T12:53:52.164842Z",
+  "charter": "纵横*Crisscrosser[3] feat.SCL",
+  "composer": "void",
+  "created": "2026-05-09T12:53:52.164842Z",
+  "description": "@Again_白#757309(合作发起者，曾经的主谱师，B站上传者)@SayuCoLtd#1475865(负责休息段，中杀，后半段表演)@SunflowerABC#1260396(负责前半段部分配置，中杀段配置) @菜菜の鱼#1578426(现任主谱师，phira上传者，负责前半部分表演，尾杀配置，及表演修改)\n(以625cb-785cb为中杀分界线区别前后半段，1106cb-1368cb为尾杀段)\n新定数16.2\n旧定数15.8\n这次合作主要目的是陪萌新写，但是由于没有分工表导致写的有点四不像，我加入之后情况更明显了。。。后续因为部分原因导致主谱师变更(我给原来主谱师的大部分配置全改了，还有一个原因是特邀谱师写的比主谱师多)，最后这个谱也是成功的没有烂尾，可喜可贺",
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/9fe331b8-fd55-49f4-9da7-4f9202acadb8",
+  "id": 58044,
+  "illustration": "https://phira.5wyxi.com/files/fbc1f85e-918a-437a-bf37-057c2ea3cd21",
+  "illustrator": "",
+  "level": "IN Lv.16.2",
+  "name": "Crisscrosser",
+  "preview": "https://phira.5wyxi.com/files/3cdf3530-ae38-4ef5-be5e-26665b3faafd",
+  "ranked": false,
+  "rating": 0.8926669,
+  "ratingCount": 140,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-05-09T12:53:52.164842Z",
+  "uploader": 1578426
+}

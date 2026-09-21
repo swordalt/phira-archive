@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:37Z",
+    "lastChanged": "2026-09-21T02:03:37Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-09T13:49:50.717147Z",
+  "charter": "swewed",
+  "composer": "Joel Hanson",
+  "created": "2025-08-05T08:30:07.349355Z",
+  "description": null,
+  "difficulty": 5.0,
+  "file": "https://phira.5wyxi.com/files/629b8571-050b-454f-bdca-75571b05219d",
+  "id": 43762,
+  "illustration": "https://phira.5wyxi.com/files/8c1dec3f-1ec1-454c-b0f7-58a9f97034bf",
+  "illustrator": "",
+  "level": "IN  Lv.13.5",
+  "name": "Traveling Light",
+  "preview": "https://phira.5wyxi.com/files/8c792eba-b314-4fe2-94df-99041ee63189",
+  "ranked": false,
+  "rating": 0.8912312,
+  "ratingCount": 200,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-09T13:49:50.717147Z",
+  "uploader": 1105154
+}

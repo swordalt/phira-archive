@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:45Z",
+    "lastChanged": "2026-09-21T02:03:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-25T08:48:50.426669Z",
+  "charter": "Chronoba0",
+  "composer": "FFFanwen",
+  "created": "2025-08-25T08:48:50.426669Z",
+  "description": null,
+  "difficulty": 15.900003,
+  "file": "https://phira.5wyxi.com/files/86715ead-1f83-4216-a25d-058515926043",
+  "id": 45646,
+  "illustration": "https://phira.5wyxi.com/files/c0b4a8f3-15de-417c-8dc0-410df6ec5926",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "深圳东",
+  "preview": "https://phira.5wyxi.com/files/6f9dfe40-3962-4c5e-bf74-874356577002",
+  "ranked": false,
+  "rating": 0.8641516,
+  "ratingCount": 80,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-08-25T08:48:50.426669Z",
+  "uploader": 1887045
+}

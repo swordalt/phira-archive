@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:57Z",
+    "lastChanged": "2026-09-21T02:01:57Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-02-15T14:32:16.998591Z",
+  "charter": "6thPecJam",
+  "composer": "かたぎり",
+  "created": "2024-02-15T14:32:16.998591Z",
+  "description": "谱师：NightForest vs. 中微子 vs. l9o0 vs. YUYAKE",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/dbda5b84-5a5c-45b8-86e2-a710c40b16a7",
+  "id": 15760,
+  "illustration": "https://phira.5wyxi.com/files/97a16d60-03b4-4618-89f9-0c574851d667",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "Angel's Salad",
+  "preview": "https://phira.5wyxi.com/files/cf149c56-f482-43e2-99ad-e116f396d5c8",
+  "ranked": false,
+  "rating": 0.8396028,
+  "ratingCount": 198,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2024-03-09T15:24:17.835540Z",
+  "uploader": 156
+}

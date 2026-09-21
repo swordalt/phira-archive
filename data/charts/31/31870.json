@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:06Z",
+    "lastChanged": "2026-09-21T02:06:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-01-15T16:44:31.549862Z",
+  "charter": "InFeng",
+  "composer": "Plum",
+  "created": "2025-01-15T16:44:31.549862Z",
+  "description": "延迟已改为-20ms（慢放没问题，原速听起来note打击音不均匀原因未知）B站@InFengQwQ Plum的这首歌的好听绝不逊于Timeline",
+  "difficulty": 25.0,
+  "file": "https://phira.5wyxi.com/files/b3192b0e-3f7a-4c7c-b739-e7407c9dc3fc",
+  "id": 31870,
+  "illustration": "https://phira.5wyxi.com/files/4973d940-5c68-4610-aa14-98315792c495",
+  "illustrator": "",
+  "level": "4K Byd Lv.25",
+  "name": "Beyond the Timeline",
+  "preview": "https://phira.5wyxi.com/files/d6f30987-87b5-472a-b588-3fa84fe02b8f",
+  "ranked": false,
+  "rating": 0.950485,
+  "ratingCount": 254,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4K",
+    "plain"
+  ],
+  "updated": "2025-01-15T16:44:31.549862Z",
+  "uploader": 5898
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:55Z",
+    "lastChanged": "2026-09-21T02:04:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-06T01:50:55.041527Z",
+  "charter": "5071 fixed by wind",
+  "composer": "Silentroom",
+  "created": "2026-07-06T01:50:55.041527Z",
+  "description": "谱师本人上传，感谢灵风的微调\n\n借鉴了或许很多谱面，但我相信仍能给你带来不一样的体验。\n欢迎游玩！",
+  "difficulty": 15.700003,
+  "file": "https://phira.5wyxi.com/files/d8f41e46-8669-48d9-9e13-5ca50d054435",
+  "id": 64394,
+  "illustration": "https://phira.5wyxi.com/files/b0b280e5-0260-4192-ab54-69167153cdf0",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "NULCTRL",
+  "preview": "https://phira.5wyxi.com/files/649d5fd4-3b33-4ce2-848e-ddaac7db7507",
+  "ranked": false,
+  "rating": 0.8477836,
+  "ratingCount": 104,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-06T01:50:55.041527Z",
+  "uploader": 2605870
+}

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:55Z",
+    "lastChanged": "2026-09-21T02:04:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-06T03:51:24.840267Z",
+  "charter": "与世无争（B站戏-作）",
+  "composer": "cYsmix",
+  "created": "2026-07-06T03:51:24.840267Z",
+  "description": "读谱辅助会在B站发布",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/19439f6c-a271-4dd6-ae20-c08075aeb828",
+  "id": 64412,
+  "illustration": "https://phira.5wyxi.com/files/afd18b7f-136c-4168-9376-452091b3d02b",
+  "illustrator": "",
+  "level": "SP Lv.？",
+  "name": "Babaroque",
+  "preview": "https://phira.5wyxi.com/files/6fc7519e-5b9a-4e3b-89d6-261f5b005f72",
+  "ranked": false,
+  "rating": 0.78745353,
+  "ratingCount": 8,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-06T03:51:24.840267Z",
+  "uploader": 2026397
+}

@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:43Z",
+    "lastChanged": "2026-09-21T02:01:43Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-11-28T14:06:44.046822Z",
+  "charter": "Hry_鲱",
+  "composer": "t＋pazolite/Laur",
+  "created": "2023-11-28T14:06:44.046822Z",
+  "description": "第一次写多指谱",
+  "difficulty": 15.8,
+  "file": "https://phira.5wyxi.com/files/da697fae-ae7e-4feb-b5cf-3547498be1dd",
+  "id": 11905,
+  "illustration": "https://phira.5wyxi.com/files/6f459c93-d443-448e-a3d9-e75cc40f7f0e",
+  "illustrator": "",
+  "level": "AT Lv.15",
+  "name": "You are the Miserable (Laur Remix)",
+  "preview": "https://phira.5wyxi.com/files/9121c031-fd6a-4386-a816-7c77c2f95808",
+  "ranked": false,
+  "rating": 0.9433722,
+  "ratingCount": 3856,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Lanota",
+    "regular"
+  ],
+  "updated": "2023-11-28T14:06:44.046822Z",
+  "uploader": 15995
+}

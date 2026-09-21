@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:04:53Z",
+    "lastChanged": "2026-09-21T02:04:53Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-05T03:13:03.113922Z",
+  "charter": "YSTAR-T'S Coffee",
+  "composer": "Dashydesu",
+  "created": "2026-07-01T04:00:42.297866Z",
+  "description": "谱师本人上传\nOpentaiko 第八章 OP来了\r\n物量888\n定数14.7\r→15.0\n7.1日更新:更换英文版音源\r\n谱师失误:音源换了谱面对不上音了，已修复\r\n\n7.5日更新\n重改动效，配置部分更改\n\r\n7.5第六改：感谢千宵的谱面指导，部分移动幅度增大\r\n\r\n7.29:更改曲绘，使用可漏Chloe模板调整曲绘，谱面无变化",
+  "difficulty": 15.000004,
+  "file": "https://phira.5wyxi.com/files/b3535bcb-21cb-4324-88b2-c0e6ed79306a",
+  "id": 63413,
+  "illustration": "https://phira.5wyxi.com/files/dd69758c-5071-4e70-b25d-915def8a2394",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Apeiroscopy",
+  "preview": "https://phira.5wyxi.com/files/61294112-dccc-46e4-97fa-e5765a5136fb",
+  "ranked": false,
+  "rating": 0.9192377,
+  "ratingCount": 383,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Opentaiko",
+    "regular"
+  ],
+  "updated": "2026-07-29T02:23:20.199121Z",
+  "uploader": 1213694
+}

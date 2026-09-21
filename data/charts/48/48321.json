@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:39Z",
+    "lastChanged": "2026-09-21T02:06:39Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-10-24T04:56:50.871709Z",
+  "charter": "yzbg",
+  "composer": "Dev/Null",
+  "created": "2025-10-24T04:56:50.871709Z",
+  "description": "疯狂双指，是不是14不好说",
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/7058b173-b52b-4bc3-b7d2-e681df7c32bc",
+  "id": 48321,
+  "illustration": "https://phira.5wyxi.com/files/0e38400a-d6f0-414c-9f54-cbfc50fb98de",
+  "illustrator": "",
+  "level": "Technical Lv.14",
+  "name": "Rave 7",
+  "preview": "https://phira.5wyxi.com/files/98ff8407-b613-4881-9f30-e909f8b182a0",
+  "ranked": false,
+  "rating": 0.6845286,
+  "ratingCount": 5,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "dfc",
+    "双指",
+    "osu",
+    "reform",
+    "plain"
+  ],
+  "updated": "2025-10-24T04:56:50.871709Z",
+  "uploader": 1960863
+}

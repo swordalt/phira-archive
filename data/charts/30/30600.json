@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:05Z",
+    "lastChanged": "2026-09-21T02:06:05Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-12-10T04:48:36.763519Z",
+  "charter": "zomman",
+  "composer": "Camellia",
+  "created": "2024-12-10T04:48:36.763519Z",
+  "description": "双指15.9\n有一些奇怪配置\n耗时10h",
+  "difficulty": 15.900001,
+  "file": "https://phira.5wyxi.com/files/985ac822-43f6-48de-b4f7-78751baa79cb",
+  "id": 30600,
+  "illustration": "https://phira.5wyxi.com/files/9845c54d-7072-4abf-abd5-e46c2749fa26",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Spin Eternally",
+  "preview": "https://phira.5wyxi.com/files/c0343334-8fad-4922-8c2d-514f6e5497ba",
+  "ranked": false,
+  "rating": 0.90810615,
+  "ratingCount": 63,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2024-12-10T04:48:36.763519Z",
+  "uploader": 257312
+}

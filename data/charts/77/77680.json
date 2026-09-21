@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:16Z",
+    "lastChanged": "2026-09-21T02:05:16Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-10T18:59:01.158083Z",
+  "charter": "vs. SMCharter",
+  "composer": "rider",
+  "created": "2026-09-10T18:59:01.158083Z",
+  "description": "(en-US) BV1ZiYE6KEEh",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/645cabf5-e04f-4e9e-b9b8-d89780acde4c",
+  "id": 77680,
+  "illustration": "https://phira.5wyxi.com/files/91e3b330-c4f7-4e0c-ba07-789a0482e99d",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Fight Against Myself",
+  "preview": "https://phira.5wyxi.com/files/f7dbedeb-6377-416f-af4b-07a1e24ed59d",
+  "ranked": false,
+  "rating": 0.88295597,
+  "ratingCount": 43,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "hardstyle",
+    "regular"
+  ],
+  "updated": "2026-09-12T07:28:40.924476Z",
+  "uploader": 3478
+}

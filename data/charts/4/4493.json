@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:18Z",
+    "lastChanged": "2026-09-21T02:01:18Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-07-02T11:58:50.279395Z",
+  "charter": "LogicM",
+  "composer": "litmus*",
+  "created": "2023-07-02T11:58:50.279395Z",
+  "description": "",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/47175fe2-1a79-45a5-b1fc-c7529240db2d",
+  "id": 4493,
+  "illustration": "https://phira.5wyxi.com/files/e699096e-1536-4f14-b1a7-ad5b878a906a",
+  "illustrator": "",
+  "level": "IN  Lv.15",
+  "name": "Good Life",
+  "preview": "https://phira.5wyxi.com/files/b84c00e2-47f9-472d-93cd-3b4d3c3ad259",
+  "ranked": true,
+  "rating": 0.8952152,
+  "ratingCount": 1896,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 403
+}

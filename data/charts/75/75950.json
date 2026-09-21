@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:05:13Z",
+    "lastChanged": "2026-09-21T02:05:13Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-27T04:24:00.481154Z",
+  "charter": "Waicu:>fana",
+  "composer": "ZAWA",
+  "created": "2026-08-27T04:24:00.481154Z",
+  "description": "谱师本人上传\n新人初谱，创作共耗时9h。\r\n本来想写7轨的纯双指谱，但写到后半段就忘乎所以了。\r\n定数为18.0\r\n可以认为双指无理（\n修正了一部分无理配置和Bug以后重新上传\nenjoy！",
+  "difficulty": 18.0,
+  "file": "https://phira.5wyxi.com/files/3561167f-7e51-48ec-b125-f545347be197",
+  "id": 75950,
+  "illustration": "https://phira.5wyxi.com/files/138e74da-20c3-459c-ac93-ae3538b82a96",
+  "illustrator": "",
+  "level": "Waicu Lv.18",
+  "name": "Aether Ingita!",
+  "preview": "https://phira.5wyxi.com/files/f4ef0c4a-2691-41b3-88ec-d0b78b8bf194",
+  "ranked": false,
+  "rating": 0.8030532,
+  "ratingCount": 46,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-27T04:24:00.481154Z",
+  "uploader": 1949341
+}

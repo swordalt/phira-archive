@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:04Z",
+    "lastChanged": "2026-09-21T02:02:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2024-03-16T10:30:37.514886Z",
+  "charter": "DR3AMLAND",
+  "composer": "Sakuzyo",
+  "created": "2024-03-16T10:30:37.514886Z",
+  "description": "en-US Hi people",
+  "difficulty": 13.499999,
+  "file": "https://phira.5wyxi.com/files/9f96c8d1-ff7f-4b9e-b4eb-c871acd3a057",
+  "id": 17188,
+  "illustration": "https://phira.5wyxi.com/files/1ccb96ac-ed12-4751-946a-77cdf696be77",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "Altale",
+  "preview": "https://phira.5wyxi.com/files/dff5dc7e-7e2d-4b41-a9e9-11374d30916c",
+  "ranked": false,
+  "rating": 0.9563739,
+  "ratingCount": 891,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "故事板",
+    "shader",
+    "regular"
+  ],
+  "updated": "2024-03-16T10:30:37.514886Z",
+  "uploader": 600092
+}

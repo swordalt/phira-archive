@@ -1,0 +1,41 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:41Z",
+    "lastChanged": "2026-09-21T02:06:41Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-16T09:55:51.313251Z",
+  "charter": "Ling-578",
+  "composer": "Yu_Asahina",
+  "created": "2025-11-16T09:55:51.313251Z",
+  "description": "谱师本人上传；gamma-耐切",
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/ffad34e1-0ba3-4bf2-abc0-d39db75837ea",
+  "id": 49210,
+  "illustration": "https://phira.5wyxi.com/files/f15c8564-b5d1-412d-9f25-0ddbf55e22a4",
+  "illustrator": "",
+  "level": "Stamina Lv.13",
+  "name": "Trickstarz (1.15x)",
+  "preview": "https://phira.5wyxi.com/files/8513f771-9110-44de-aeee-6c16acca0762",
+  "ranked": false,
+  "rating": 0.95256025,
+  "ratingCount": 53,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "dfc",
+    "DFC",
+    "beta",
+    "stamina",
+    "stream",
+    "双指",
+    "切",
+    "plain"
+  ],
+  "updated": "2025-11-16T09:55:51.313251Z",
+  "uploader": 595129
+}

@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:01:13Z",
+    "lastChanged": "2026-09-21T02:01:13Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2023-05-27T05:38:36.482219Z",
+  "charter": "WH_C in the rainshower",
+  "composer": "Silentroom",
+  "created": "2023-05-27T05:38:36.482219Z",
+  "description": "【此谱面为4thPecJam故事版赛道参赛谱】\r\n\r\n★光敏性癫痫警告★\r\n极小部分人可能会在看到特定视觉图像（包括可能出现在视频游戏中的闪烁效果或图案）时出现癫痫症状\r\n如果你出现了任何症状，请立即停止观看视频并咨询医生\r\n\r\n注：\r\n贴图中“驟雨の狭間”并非错打成“骤雨の狭间”，是因为这个字体中没有繁体字\r\n本谱经过了修改，与比赛上传版本并不一致\r\n\r\n----------5.27更新----------\r\n裁剪了贴图大小，修复了严重掉帧的问题\r\n优化部分演出",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/c56cc432-d21a-4a9a-b436-d9b8edfe3092",
+  "id": 2613,
+  "illustration": "https://phira.5wyxi.com/files/0192c810-badc-4cb4-bf36-f2c337c0b6bd",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "驟雨の狭間",
+  "preview": "https://phira.5wyxi.com/files/af3e8aa3-3314-4464-8d68-84b81e78f42a",
+  "ranked": false,
+  "rating": 0.94864017,
+  "ratingCount": 21893,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "tags": [
+    "FRENZ2019",
+    "故事板",
+    "shader",
+    "regular"
+  ],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 20
+}

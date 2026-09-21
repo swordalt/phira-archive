@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:55Z",
+    "lastChanged": "2026-09-21T02:03:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-11T09:14:02.463689Z",
+  "charter": "Sucrose + LinZae",
+  "composer": "蒼狼風亞",
+  "created": "2025-10-04T15:24:56.804612Z",
+  "description": "1.11改谱\n\n本次更新加入了NF_灵泽（主要负责00:31-1:01的背景线）\nkkp：中微子、FreMo\n修改内容主要有：\n00:00-00:14 修改了特效与小部分配置\n00:23-00:31 将Tap换为Hold以作音色区分，并修改了过渡\n00:31-00:46 彻底重写\n00:46-01:01 部分重写\n01:01-01:16 重写配置\n01:16-01:29 修改了特效与小部分配置\n01:29-01:46 缩短了两根长条的长度，并用假长条补上了头部\n02:01-02:20 修改了特效与小部分配置\n\n旧简介：\n\n初谱一周年重制\n本人上传，B站同名\n本家跳舞的线轮回",
+  "difficulty": 14.400002,
+  "file": "https://phira.5wyxi.com/files/30b5abbe-4089-4192-8c59-3b9b83923124",
+  "id": 47615,
+  "illustration": "https://phira.5wyxi.com/files/d73b70db-0748-4774-9563-ae2faf3b85f3",
+  "illustrator": "",
+  "level": "IN  Lv.14",
+  "name": "FindersX",
+  "preview": "https://phira.5wyxi.com/files/37666145-5deb-45ce-bc47-8ccef5123f71",
+  "ranked": false,
+  "rating": 0.9281315,
+  "ratingCount": 1125,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "DL",
+    "跳舞的线",
+    "轮回",
+    "regular"
+  ],
+  "updated": "2026-01-11T09:14:02.463689Z",
+  "uploader": 980229
+}

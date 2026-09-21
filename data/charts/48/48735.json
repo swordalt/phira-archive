@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-21T02:06:40Z",
+    "lastChanged": "2026-09-21T02:06:40Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-02T14:14:25.494439Z",
+  "charter": "maoni-",
+  "composer": "litmus*",
+  "created": "2025-11-02T14:14:25.494439Z",
+  "description": "因为歌很豪庭，很快就赶出来了\n整张谱难度在7dan+左右，中间有一段6秒左右的8dan乱切(？不确定)\n确认为本人上传，使用Malody转谱器喵\n上一个出了问题，重投一遍",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/54bf7c2f-0b5b-4a1a-a69c-fed258e8d7e9",
+  "id": 48735,
+  "illustration": "https://phira.5wyxi.com/files/5d0d81b5-c5c0-4281-944b-fb86a5fc34d8",
+  "illustrator": "",
+  "level": "4k Lv.29",
+  "name": "Rush-Hour",
+  "preview": "https://phira.5wyxi.com/files/dbbf452e-a868-4ca3-bff7-ae708bf2d2dd",
+  "ranked": false,
+  "rating": 0.79426795,
+  "ratingCount": 3,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2025-11-02T14:14:25.494439Z",
+  "uploader": 1227856
+}

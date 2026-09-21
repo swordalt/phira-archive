@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:02:59Z",
+    "lastChanged": "2026-09-21T02:02:59Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-07-24T12:11:38.520558Z",
+  "charter": "Weavingcube",
+  "composer": "Feint",
+  "created": "2025-01-28T09:35:25.245494Z",
+  "description": "谱面视频见B站@Wintercube\n发布手元请@Wintercube\n\n修改日志：\n2025.7.24 修复一处采音问题，修改部分初见杀",
+  "difficulty": 15.600002,
+  "file": "https://phira.5wyxi.com/files/83e15bdf-0743-4a65-ba1e-854ef49810de",
+  "id": 32687,
+  "illustration": "https://phira.5wyxi.com/files/5b113616-4672-49ef-b5a0-744cee5bf9f0",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Weavers",
+  "preview": "https://phira.5wyxi.com/files/830a0e23-34b6-44b9-ae5f-bea24aa04a76",
+  "ranked": false,
+  "rating": 0.94550335,
+  "ratingCount": 1525,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2025-07-24T12:11:38.520558Z",
+  "uploader": 11195
+}

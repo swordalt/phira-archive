@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-21T02:03:42Z",
+    "lastChanged": "2026-09-21T02:03:42Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-08-15T06:42:05.973073Z",
+  "charter": "AnoForward",
+  "composer": "ナナツカゼ/PIKASONIC",
+  "created": "2025-08-15T06:42:05.973073Z",
+  "description": "初次投稿，动效写得比较一般，配置设计了多种解法，底力要求较低，但需要一定读谱拆铺能力，收歌定数为13.1～13.3，希望大家玩的开心",
+  "difficulty": 13.200005,
+  "file": "https://phira.5wyxi.com/files/e1818f15-9ce3-425c-812e-9727f8280b68",
+  "id": 44745,
+  "illustration": "https://phira.5wyxi.com/files/a2242a57-9ea6-4de9-8299-6a1b8a4b16d6",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "感傷生命",
+  "preview": "https://phira.5wyxi.com/files/4d92d5fe-8368-4377-a433-027d1e6d1b3a",
+  "ranked": false,
+  "rating": 0.90737337,
+  "ratingCount": 228,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "PIKASONIC",
+    "ナナツカゼ",
+    "regular"
+  ],
+  "updated": "2025-08-18T16:24:09.203804Z",
+  "uploader": 70040
+}
