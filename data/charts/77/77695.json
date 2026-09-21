@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T15:51:51Z",
-    "lastChanged": "2026-09-21T15:51:51Z",
-    "revisions": 1
+    "lastChanged": "2026-09-21T20:23:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-11T05:07:04.626442Z",
   "charter": "YX沅绪",
@@ -21,14 +21,14 @@
   "name": "supersonic",
   "preview": "https://phira.5wyxi.com/files/afe642a8-60be-4085-a3c7-93b3a9b2c440",
   "ranked": false,
-  "rating": 0.8423025,
-  "ratingCount": 5,
+  "rating": 0.86835164,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-21T15:19:58.771272Z",
+  "updated": "2026-09-21T15:19:58.771272395Z",
   "uploader": 595411
 }
