@@ -41,6 +41,6 @@ Something is rewritten upon a change, except for `rating` and `ratingCount` as t
 git log -p --follow data/charts/78/78514.json
 ```
 
-## Downloading Files
-
-The URL stored within `file` points to a ZIP that can be imported into Phira to play. As said before, URLs are kept alive even if the chart is removed.
+## Phira API Notes
+- `order` accepts both `id` and `-id` only via direct API calls; not within the user-facing webpage.
+- `pageNum` is capped at 30.
