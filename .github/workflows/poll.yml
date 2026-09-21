@@ -26,7 +26,7 @@ jobs:
       - name: Commit
         if: ${{ !cancelled() }}
         env:
-          MESSAGE: ${{ steps.archive.outputs.message || 'poll: update' }}
+          MESSAGE: "${{ steps.archive.outputs.message || 'poll: update' }}"
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
