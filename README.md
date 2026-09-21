@@ -1,28 +1,31 @@
-# phira-archive
+# Phira Archive
 
-An unattended archive of chart (level) metadata from [Phira](https://phira.moe)'s API.
+An unofficial automated archive that scrapes chart metadata from [Phira](https://phira.moe)'s API, using GitHub Actions.
 
-A GitHub Actions job runs **hourly**, asks the API what is new across all four divisions, and
-commits the metadata for anything it has not seen before. A **weekly** job walks every page of
-every division, which catches charts that were private or delisted and later became public again.
+## How It Works
+The archival process is split into two jobs:
+- The `poll` job runs hourly, comparing the first page of results across all four divisions.
+  - *There should not be more than 10-20 charts being pushed to the homepage per hour.*
+- The `sweep` job runs weekly, going through all charts across all four divisions.
+  - *This catches any stray charts as well as previously-delisted charts.*
 
-Chart *files* are not mirrored. The API's `file`, `illustration` and `preview` URLs keep working
-even for charts that have been delisted, so preserving the metadata record — which contains those
-URLs — is enough to recover the assets later.
+Files themselves (illustration, audio preview, and chart file) are not archived. The API url for such resources remain active even after the chart is removed from Phira, meaning preserving metadata (which contains these direct URLs) is enough to recover files in the future.
 
-## Layout
+## Repository Layout
+Archived information is found within `/data`. Everything else is for GitHub Actions to do its job.
 
+Charts are organized into subdirectories based on their numerical IDs, mod 1000. (Ex. Find `#77769` in `/data/charts/77`.)
+
+Files and what they are:
 | Path | What it is |
 |---|---|
-| `data/charts/<id/1000>/<id>.json` | One chart, exactly as the API returned it, plus an `_archive` key |
-| `data/index.jsonl` | One compact line per chart, id-ascending — the file to grep or load |
-| `data/log/YYYY-MM.jsonl` | Append-only event log: `new`, `updated`, `missing` |
-| `data/state.json` | Per-division counts, high-water ids, last run times |
+| `/data/charts/<id%1000>/<id>.json` | One chart's metadata & archive metadata (stored in `_archive` key). |
+| `/data/index.jsonl` | All chart data within the archive. For reference only; it is very large! |
+| `/data/log/YYYY-MM.jsonl` | Event log: `new`, `updated`, `missing` |
+| `/data/state.json` | Status: per-division count, last run time, etc. |
 
-### Chart record
-
-Every field the API returned, unmodified, plus:
-
+## Comparison
+In addition to storing chart metadata from the API, the following is also kept for reference:
 ```json
 "_archive": {
   "firstSeen": "2026-09-21T01:59:46Z",
@@ -32,47 +35,12 @@ Every field the API returned, unmodified, plus:
 }
 ```
 
-A record is only rewritten when something meaningful changed — `rating` and `ratingCount` drift is
-ignored, so a commit touching a chart means the chart itself changed (re-upload, rename, new
-difficulty, ranked/stable status, tags). Previous versions are in git:
+Something is rewritten upon a change, except for `rating` and `ratingCount` as those are volatile. Use git to view history:
 
 ```bash
 git log -p --follow data/charts/78/78514.json
 ```
 
-### Getting the files for a chart
+## Downloading Files
 
-```bash
-jq -r '.file, .illustration, .preview' data/charts/78/78514.json | xargs -n1 curl -O
-```
-
-The `file` URL is a zip containing the chart, its audio and its illustration.
-
-## Running it by hand
-
-Requires Python 3.9+ and nothing else — no dependencies.
-
-```bash
-python scripts/archive.py poll --dry-run          # report, write nothing
-python scripts/archive.py poll                    # hourly job
-python scripts/archive.py sweep                   # full walk of every division (~460 requests)
-python scripts/archive.py sweep --division visual --max-pages 2
-```
-
-`--division` takes a comma-separated subset of `regular,troll,plain,visual`; `--delay` sets the
-pacing between requests (default 0.3s).
-
-## API notes
-
-Learned by probing the live API, since it is undocumented:
-
-- `GET /chart?division=<d>` returns `{"count": N, "results": [...]}` and each result is the **full**
-  chart object — the same schema as `GET /chart/{id}`.
-- `pageNum` (page size) defaults to 30 and is capped at 30; `page` is 1-based; deep pages work.
-- Default sort is `-updated`. `order=-id` gives newest uploads, `order=id` ascending — the sweep
-  uses ascending so pagination stays stable while charts are being uploaded mid-run.
-- Errors are JSON: `404 NOT_FOUND`, `400 INVALID_INPUT`. No authentication required.
-
-`poll` uses exactly two list queries per division: `order=-id` to find new uploads, and the default
-`-updated` order to notice re-uploads of charts already archived. New charts then get one
-`GET /chart/{id}` so the stored record is the canonical one.
+The URL stored within `file` points to a ZIP that can be imported into Phira to play. As said before, URLs are kept alive even if the chart is removed.
