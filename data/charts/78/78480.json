@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:18Z",
-    "lastChanged": "2026-09-21T02:05:18Z",
-    "revisions": 1
+    "lastChanged": "2026-09-22T14:44:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-19T08:57:18.442024Z",
   "charter": "~ 雪麦 ~",
@@ -21,11 +21,11 @@
   "name": "Snow Dance",
   "preview": "https://phira.5wyxi.com/files/82bdf924-2008-44d0-b647-2131fa21a0fa",
   "ranked": false,
-  "rating": 0.9324995,
-  "ratingCount": 64,
-  "reviewed": false,
+  "rating": 0.91098297,
+  "ratingCount": 105,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

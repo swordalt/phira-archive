@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-22T14:44:17Z",
+    "lastChanged": "2026-09-22T14:44:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-21T01:18:50.949499Z",
+  "charter": "不会双指的屑冷",
+  "composer": "Xyris",
+  "created": "2026-09-21T01:18:50.949499Z",
+  "description": "谱面预览可前往b站@不会多指的屑冷 的主页\n----------------\n这里是不会多指的屑冷的第一张自制，下了挺多功夫，净耗时大概有50h+（ovo）\n很久之前（大概我上高一的时候）就在幻想写谱，但由于一直没有win电脑下不了rpe而只能在脑子里写（）这张是我把脑子里比较满意的一张谱尽可能复刻出来的作品，但由于初接触rpe不太熟练，目前的效果毕竟和我所期望的没法完全一致，仍有不少地方不尽人意。\n----------------\n关于谱面\n本谱定位是IN17，奔着双指高难写的，除了底力要求外有些地方也极其考察协调因而会卡手，但多指可以很顺畅地解掉（）\n配置上有不少极创之处，看起来相当前卫，但纯双均有解（本人已原速下分段ap）\n----------------\n特别感谢b站@平方秒与立方吨 @SPtam的批评与建议",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/70450e1a-3edb-4fcc-bcbd-31bf901cc814",
+  "id": 78620,
+  "illustration": "https://phira.5wyxi.com/files/6423d021-3d48-45d0-8154-b7195132f9df",
+  "illustrator": "",
+  "level": "IN 17",
+  "name": "Eviternity",
+  "preview": "https://phira.5wyxi.com/files/44dc7fac-bc5c-4d8f-88d7-0bbbdc38c4da",
+  "ranked": false,
+  "rating": null,
+  "ratingCount": 0,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-09-22T14:31:17.176940Z",
+  "uploader": 5775
+}
