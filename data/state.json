@@ -6,7 +6,7 @@
       "maxId": 78532
     },
     "regular": {
-      "apiCount": 9642,
+      "apiCount": 9641,
       "archived": 9644,
       "maxId": 78641
     },
@@ -21,8 +21,8 @@
       "maxId": 71070
     }
   },
-  "generated": "2026-09-21T20:24:02Z",
-  "lastPoll": "2026-09-21T20:24:02Z",
+  "generated": "2026-09-22T00:02:44Z",
+  "lastPoll": "2026-09-22T00:02:44Z",
   "lastSweep": "2026-09-21T04:00:22Z",
   "totalCharts": 13798
 }
