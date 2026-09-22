@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:24Z",
+    "lastChanged": "2026-09-22T01:05:24Z",
+    "localBackup": {
+      "asset": "5352.zip",
+      "files": [
+        {
+          "path": "14769038.PNG",
+          "sha256": "57743eaa139003a731b8794deee9ad137c63a9bac26234ea00bfe3a0adf5e9f6",
+          "size": 1016278
+        },
+        {
+          "path": "14769038.json",
+          "sha256": "af9c6619ba2456d31f946391fbd2255fd13b5ecb13893f48350c1b85c43ccc54",
+          "size": 858178
+        },
+        {
+          "path": "14769038.mp3",
+          "sha256": "26ad99c1d9d85bb22f2a4bd12dfaae78e77c4cdabcd36fdfa6c97b2cd01d2c30",
+          "size": 6826567
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b8dca2dbbcc3c86e82d09c7e65d5d6e37a5592b2feac335879cf63fc80f8f06d",
+          "size": 148
+        },
+        {
+          "path": "info.yml",
+          "sha256": "ad34c47c722a990309d1bfc9a578e9ef9259ef674d416d5f2e78313e250d0814",
+          "size": 515
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.5,
+        "backgroundDim": 0.6,
+        "chart": "14769038.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "14769038.PNG",
+        "lineLength": 6.0,
+        "music": "14769038.mp3",
+        "offset": 0.0,
+        "previewEnd": 144.0,
+        "previewStart": 124.0,
+        "tip": "Tip：μ"
+      },
+      "release": "backup-5000-5999",
+      "sha256": "d1f22fdcabe9b8398c7a2dacadfe6d080c0a670077040cea376b268ba77d3f5e",
+      "size": 8702194,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5352.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-15T03:15:30.453361Z",
+  "charter": "zzxl12138",
+  "composer": "Frums",
+  "created": "2023-07-15T03:15:30.453361Z",
+  "description": "bilibili@zzxl12138\n本人上传",
+  "difficulty": 15.900003,
+  "id": 5352,
+  "illustrator": "Frums",
+  "level": "μ Lv.15",
+  "name": "μ",
+  "tags": [],
+  "updated": "2023-07-15T03:15:30.453361Z",
+  "uploader": 51
+}

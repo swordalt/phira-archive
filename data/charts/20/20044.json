@@ -1,0 +1,75 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:23:44Z",
+    "lastChanged": "2026-09-22T01:23:44Z",
+    "localBackup": {
+      "asset": "20044.zip",
+      "files": [
+        {
+          "path": "RTX 20000 (From Malody).json",
+          "sha256": "a4cb1a32800ca99008d4cb5cc3a222e82f308a56342b8d57e7802e7fcd3d9048",
+          "size": 9297344
+        },
+        {
+          "path": "audio.ogg",
+          "sha256": "b3da0559bbc37e02f8da6373c5e861afd90c42c975bf0031e9a9bbb69805bc63",
+          "size": 3887310
+        },
+        {
+          "path": "info.csv",
+          "sha256": "36693c7e8c1d206ca94aedc2d5f55e485b0e7ab8410c95a33f5ef1ce9c94a913",
+          "size": 155
+        },
+        {
+          "path": "info.yml",
+          "sha256": "58bb8fbbf610ee4c9ee473c5ea08747b2adade4fe37b0eb398d5629d28829a01",
+          "size": 587
+        },
+        {
+          "path": "rtx20000.jpg",
+          "sha256": "e461c1390d02ed0ab146864081c0d8740531760ee353e8296cf89269a75f2736",
+          "size": 132041
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "RTX 20000 (From Malody).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "rtx20000.jpg",
+        "lineLength": 6.0,
+        "music": "audio.ogg",
+        "offset": 0.0,
+        "previewEnd": 112.16,
+        "previewStart": 102.16,
+        "tip": "冰与火之舞转谱",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "2463ca8968b00574a09409575bc42d1275fba5a60078b9dcbe1ae0e565f0c3f9",
+      "size": 13317969,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20044.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "woxianbaile",
+  "composer": "Kobaryo",
+  "created": null,
+  "description": "b站谱面预览BV1cJ4m1N76b\n审核我错了别拷打我了",
+  "difficulty": 0.0,
+  "id": 20044,
+  "illustrator": "V0W4N & GamingGoose239",
+  "level": "ADOFAI Lv.-21",
+  "name": "RTX 20000",
+  "tags": [
+    "冰与火之舞",
+    "adofai",
+    "visual"
+  ],
+  "updated": null,
+  "uploader": null
+}

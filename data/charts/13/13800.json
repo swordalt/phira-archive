@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:15:53Z",
+    "lastChanged": "2026-09-22T01:15:53Z",
+    "localBackup": {
+      "asset": "13800.zip",
+      "files": [
+        {
+          "path": "15678892.json",
+          "sha256": "20088b30c70cce09c3998bf8b5abe8ce07de847b5b7a3f11e3d8420d076d1eb7",
+          "size": 2091542
+        },
+        {
+          "path": "15678892.mp3",
+          "sha256": "89aa7184e3e3f073e65e007677a58a4714a7ebe8d129d96104e8a45fb70528c0",
+          "size": 7551281
+        },
+        {
+          "path": "15678892.png",
+          "sha256": "d570c67abdd1d021579d531af0851274d25f92aa1dc9d6511bb935fecfd7a249",
+          "size": 2238509
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ed430736118ed7b47e034b7f8e21f9e2c38a12d80646f5afcc5662dddda21cbc",
+          "size": 174
+        },
+        {
+          "path": "info.yml",
+          "sha256": "947dec1528aedaacfa16ea851c57dd71fe72e7d3d481f764e30c4d999b4fb1f0",
+          "size": 524
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "15678892.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "15678892.png",
+        "lineLength": 6.0,
+        "music": "15678892.mp3",
+        "offset": 0.0,
+        "previewEnd": 124.5,
+        "previewStart": 109.5,
+        "tip": null
+      },
+      "release": "backup-13000-13999",
+      "sha256": "6fb4f673378e270b761560c6735bb74ac57aa89e036b58010513dfe03bb57e32",
+      "size": 11882538,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13800.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-19T17:10:43.572470Z",
+  "charter": "||: vlith feat. albertoBradish",
+  "composer": "DingerBox",
+  "created": "2024-01-19T17:10:43.572470Z",
+  "description": "from 单曲",
+  "difficulty": 15.600002,
+  "id": 13800,
+  "illustrator": "海产",
+  "level": "AT Lv.15",
+  "name": "bye",
+  "tags": [],
+  "updated": "2024-01-20T03:12:08.541726Z",
+  "uploader": 397770
+}

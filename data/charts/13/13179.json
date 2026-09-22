@@ -1,0 +1,65 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:14:18Z",
+    "lastChanged": "2026-09-22T01:14:18Z",
+    "localBackup": {
+      "asset": "13179.zip",
+      "files": [
+        {
+          "path": "20134736.json",
+          "sha256": "0d92858ea1b5397f72372745d63a420eaa3e24a9031452cbbaef09e9d798ea53",
+          "size": 608188
+        },
+        {
+          "path": "20134736.wav",
+          "sha256": "3eb15a735c30c23821abd66b39a7b8fe454435665dc8e6adb92a6aab5b02ccab",
+          "size": 16982124
+        },
+        {
+          "path": "info.yml",
+          "sha256": "730cefb209b5f09900e0a16ed90f2d6350b570aeadc8af0238f538ce3187acf4",
+          "size": 682
+        },
+        {
+          "path": "th.jpg",
+          "sha256": "b5ca5090be2ed366c7333be4bdf6153fb5269630bbf79a9a05b071ee89fee021",
+          "size": 11818
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "20134736.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "th.jpg",
+        "lineLength": 6.0,
+        "music": "20134736.wav",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "When I See You Again."
+      },
+      "release": "backup-13000-13999",
+      "sha256": "f8b720e33aada615ea3cc248a0a2e0bc7d925a3a52c518405ed32257ce656fd0",
+      "size": 17603216,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13179.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-01T13:00:26.852046Z",
+  "charter": "屑の小康",
+  "composer": "Wiz Khalifa/Charlie Puth",
+  "created": "2024-01-01T13:00:26.852046Z",
+  "description": "是B站@屑の谢小康 的初谱，可能会有点初见杀，请见谅\n本谱的定向是双指底力谱。\n\nB站本谱预览视频bv号：BV1tG411r7Bk",
+  "difficulty": 15.300005,
+  "id": 13179,
+  "illustrator": "UK",
+  "level": "IN Lv.15",
+  "name": "See You Again",
+  "tags": [],
+  "updated": "2024-01-01T13:00:26.852046Z",
+  "uploader": 6630
+}

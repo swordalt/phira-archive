@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:25Z",
+    "lastChanged": "2026-09-22T01:21:25Z",
+    "localBackup": {
+      "asset": "18188.zip",
+      "files": [
+        {
+          "path": "78648598.jpg",
+          "sha256": "d929d26534be9c19aa6337f2bf33077cb2476037c9f83440a6848ae8a718d76d",
+          "size": 745823
+        },
+        {
+          "path": "78648598.json",
+          "sha256": "fad9f91f47af1abd903f87b4a3eb4acd30f0e94fd7c6539dff2af6f7673ce9e7",
+          "size": 756284
+        },
+        {
+          "path": "78648598.mp3",
+          "sha256": "98b4d0093aae5a041a6dc1b2ae8a7472650ab57fc47cbc7275d8194916d6781f",
+          "size": 271324
+        },
+        {
+          "path": "info.txt",
+          "sha256": "5ba111b8b91063ab2548999ae10b2fbec9ca5855ea6c64ca75a604ed421c5a5e",
+          "size": 213
+        },
+        {
+          "path": "info.yml",
+          "sha256": "a4528085d97ae8f8d1f700b28b8cd32864efb328c9ec36f9c9735982179d7a2b",
+          "size": 582
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "78648598.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "78648598.jpg",
+        "lineLength": 6.0,
+        "music": "78648598.mp3",
+        "offset": 0.0,
+        "previewEnd": 6.76,
+        "previewStart": 5.76,
+        "tip": "Tip: エイプリルフール7日目",
+        "unlockVideo": null
+      },
+      "release": "backup-18000-18999",
+      "sha256": "2a5b2f9194336f76f1660d75812b6c59984f3cacffda998cc68626efd27a29f9",
+      "size": 1774734,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-18000-18999/18188.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "あれしんちゅ",
+  "composer": "Jehezukiel + Yukino",
+  "created": null,
+  "description": "春休みの課題終わらない！！助けて！！！(知らんがな)",
+  "difficulty": 0.0,
+  "id": 18188,
+  "illustrator": "Mitcchoco",
+  "level": "SP Lv.?",
+  "name": "ARESI(2024 April Fool's Day)",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

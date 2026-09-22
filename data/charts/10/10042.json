@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:38Z",
+    "lastChanged": "2026-09-22T01:09:38Z",
+    "localBackup": {
+      "asset": "10042.zip",
+      "files": [
+        {
+          "path": "86654501.jpg",
+          "sha256": "cb833ec1a8d15628a123b80505cdae174b54f36706f531e212926d0e119a348f",
+          "size": 828980
+        },
+        {
+          "path": "86654501.json",
+          "sha256": "6c0953ed19431f01ed611392e3acfc4c267403b195bc4d22f7515c6ba4d686d9",
+          "size": 3148484
+        },
+        {
+          "path": "86654501.mp3",
+          "sha256": "55020a8b7f0fa7b67a7a04f4a5263d48a1f6e192dd4962cc63cd762b546a65ec",
+          "size": 6793760
+        },
+        {
+          "path": "info.txt",
+          "sha256": "52700613f4484cb1e32dc6ebcadae2608b5e781d9fd53579345f43fdc27d5a81",
+          "size": 178
+        },
+        {
+          "path": "info.yml",
+          "sha256": "d9e8e93c347e045cbca1e346022cad75eb9e634a0ffbfa721b347803f426f6d0",
+          "size": 659
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "86654501.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "86654501.jpg",
+        "lineLength": 6.0,
+        "music": "86654501.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-10000-10999",
+      "sha256": "ee2c883581133c4683a0b996c395f970f0444ab39db5957e33e27ecec312bc6d",
+      "size": 10772569,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-10000-10999/10042.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-09T01:30:14.800192Z",
+  "charter": "+R3M0",
+  "composer": "Camellia",
+  "created": "2023-10-02T10:52:17.862377Z",
+  "description": "FreMo本人上传，发布手元需要注明谱师@FM壹某 \n \n该谱面为双指极限谱，谨慎游玩（差分版，请审核不要打回！！！）",
+  "difficulty": 16.600002,
+  "id": 10042,
+  "illustrator": "Camellia",
+  "level": "IN  Lv.16²",
+  "name": "+ERABY+E CONNEC+10N",
+  "tags": [],
+  "updated": "2023-12-09T01:30:14.800192Z",
+  "uploader": 31055
+}

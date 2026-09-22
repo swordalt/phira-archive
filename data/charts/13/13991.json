@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:03Z",
+    "lastChanged": "2026-09-22T01:16:03Z",
+    "localBackup": {
+      "asset": "13991.zip",
+      "files": [
+        {
+          "path": "3222989.json",
+          "sha256": "f5dc68c766fde67c93a1847f624aa84ec69256e864bd9dd433151d925a54746f",
+          "size": 289785
+        },
+        {
+          "path": "3222989.mp3",
+          "sha256": "7866c8b825052354e48d2a2570d6ce649210eabf2e9243c9652bb95ee60eb744",
+          "size": 6194809
+        },
+        {
+          "path": "3222989.png",
+          "sha256": "b7b7b9896bda7bc2e79e484b9aa4523c4ea1216964e55879da91a8a43ffe233e",
+          "size": 2845285
+        },
+        {
+          "path": "info.txt",
+          "sha256": "fffccd8e2df1fc5267832b3135ca119bb4055623247a575ae15227575c42516b",
+          "size": 154
+        },
+        {
+          "path": "info.yml",
+          "sha256": "93f931f0d44e48489f375a2555c1f58766f1df55852e383413b16fe0892bb114",
+          "size": 533
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "3222989.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "3222989.png",
+        "lineLength": 6.0,
+        "music": "3222989.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip:口古"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "a431397f20f857b2dfcaf05bd56f5a965d02436b5e489f44ff54037abbb869e8",
+      "size": 9331068,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13991.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-23T05:36:38.568335Z",
+  "charter": "弦子",
+  "composer": "黑皇帝",
+  "created": "2024-01-23T05:36:38.568335Z",
+  "description": "好久之前写的，理论能打（）",
+  "difficulty": 0.0,
+  "id": 13991,
+  "illustrator": "弦子",
+  "level": "4k Lv.?",
+  "name": "Chronostasis",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-01-23T05:36:38.568335Z",
+  "uploader": 166772
+}

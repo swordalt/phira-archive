@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:15:58Z",
+    "lastChanged": "2026-09-22T01:15:58Z",
+    "localBackup": {
+      "asset": "13963.zip",
+      "files": [
+        {
+          "path": "64739917.jpg",
+          "sha256": "6232098400d9ec52ed3be773f9b9ac924e18c2021f28a6e3f13d17ff9f2daf64",
+          "size": 49036
+        },
+        {
+          "path": "64739917.json",
+          "sha256": "c461d60adad695cf02f7eab1e2adbbce3762428bcab97a13116a37fe7b164b7b",
+          "size": 9100562
+        },
+        {
+          "path": "64739917.mp3",
+          "sha256": "f718aae7dbdcb411816bacd65131b6be40908f41d13de54ebb20c6ee12eb8f6b",
+          "size": 2938715
+        },
+        {
+          "path": "info.txt",
+          "sha256": "2d3c1eba1002e8a889d679595021d321d0b8f5b8e85ec74ade0545399e2c72e9",
+          "size": 171
+        },
+        {
+          "path": "info.yml",
+          "sha256": "564674436558ec3ce9e677774433d5cacef4fb1ca6ad536771ebebb4048bec93",
+          "size": 604
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "64739917.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "64739917.jpg",
+        "lineLength": 6.0,
+        "music": "64739917.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-13000-13999",
+      "sha256": "5e57b80b32a0b4df424b3c4311eb2f32955b7ac1df5a0a1a3ffd10f8fb4078da",
+      "size": 12089596,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13963.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-22T11:42:45.373877Z",
+  "charter": "colGem x obj",
+  "composer": "t+pazolite",
+  "created": "2024-01-22T11:42:45.373877Z",
+  "description": "微调版本，看看有没有人能p 不定期删谱跑路 谱师本人上传，bilibili RH-七彩宝石ga",
+  "difficulty": 16.7,
+  "id": 13963,
+  "illustrator": "tpz x 鲨鱼",
+  "level": "AT Lv.16",
+  "name": "T+ VS SHARK",
+  "tags": [],
+  "updated": "2024-01-22T11:42:45.373877Z",
+  "uploader": 200
+}

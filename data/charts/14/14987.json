@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:36Z",
+    "lastChanged": "2026-09-22T01:17:36Z",
+    "localBackup": {
+      "asset": "14987.zip",
+      "files": [
+        {
+          "path": "10580518.json",
+          "sha256": "811bd7b63ab60c29edf066e883ee3bf9979f45f6d2a9f6110665fd0d07e9987f",
+          "size": 2792756
+        },
+        {
+          "path": "10580518.mp3",
+          "sha256": "2c059d5b25f614d2b62994dd340819eba597fbd1d6823bfd77693dece4800c53",
+          "size": 3365131
+        },
+        {
+          "path": "10580518.png",
+          "sha256": "33a6f209aedea97621b86cf56531de6b66eaf16157da429a75381b3897438bd8",
+          "size": 956668
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b9f1e847dd7ea3f1f9e31d8001fec1eca72999dd1c84d1b41ce0f5df58ec5e3c",
+          "size": 186
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f876fe5cbd312a37cb4a4536696fd6f937e7d4f4204011e882d8c59984c4d7cf",
+          "size": 599
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "10580518.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "10580518.png",
+        "lineLength": 6.0,
+        "music": "10580518.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Apocalypse...",
+        "unlockVideo": null
+      },
+      "release": "backup-14000-14999",
+      "sha256": "d72b2b54fcf9d63df8ad042b5a82e9d12fdc123693a3aaf2cc0e821c79e057f7",
+      "size": 7115848,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14987.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-08T05:15:02.941885Z",
+  "charter": "CWind",
+  "composer": "kanone",
+  "created": "2024-02-08T05:15:02.941885Z",
+  "description": "本谱为羽笙杯赛用谱，原谱师@CWind，主办方代传。",
+  "difficulty": 10.0,
+  "id": 14987,
+  "illustrator": "UK",
+  "level": "Apocalypse 16+",
+  "name": "Apocalypse Nemesis -Meteor Noise-",
+  "tags": [],
+  "updated": "2024-02-08T05:15:02.941885Z",
+  "uploader": 76596
+}

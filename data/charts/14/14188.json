@@ -1,0 +1,67 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:19Z",
+    "lastChanged": "2026-09-22T01:16:19Z",
+    "localBackup": {
+      "asset": "14188.zip",
+      "files": [
+        {
+          "path": "70258274.jpg",
+          "sha256": "2877c44997e97faf7976d8f566dd27ad52ff418095022a9a241c3bb21998bdc1",
+          "size": 137954
+        },
+        {
+          "path": "70258274.json",
+          "sha256": "15ea28bc1e61db85ca52984828e8273be270e6290449e5646159f0fd78760037",
+          "size": 974613
+        },
+        {
+          "path": "70258274.mp3",
+          "sha256": "2be0f58e898c733ca313c689578bf40d14ea920a0b3a0fe03a5ea1aaac14e35e",
+          "size": 949804
+        },
+        {
+          "path": "info.yml",
+          "sha256": "12b9c8a9f14e2c58c90f316521943a8cbcf09adf390ba4bdc9c6bb85d528dcc6",
+          "size": 608
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "70258274.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "70258274.jpg",
+        "lineLength": 6.0,
+        "music": "70258274.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "神曲，我懂得欣赏"
+      },
+      "release": "backup-14000-14999",
+      "sha256": "1fd774fb7d7b33e499a713e3ecb5c73396092cf54fc88fe6fd09d93d42cd9589",
+      "size": 2063395,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14188.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-26T08:05:38.051586Z",
+  "charter": "guy__kun",
+  "composer": "BEMANI Sound Team \"ZAQUVA\"",
+  "created": "2024-01-26T08:05:38.051586Z",
+  "description": "本人上传且非重复上传\nB站名guy__kun\n喜欢我b键盘吗",
+  "difficulty": 16.7,
+  "id": 14188,
+  "illustrator": "BGA中截取",
+  "level": "S-UL-3",
+  "name": "speculation",
+  "tags": [
+    "plain"
+  ],
+  "updated": "2024-01-26T08:05:38.051586Z",
+  "uploader": 1737
+}

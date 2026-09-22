@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:10:48Z",
+    "lastChanged": "2026-09-22T01:10:48Z",
+    "localBackup": {
+      "asset": "11229.zip",
+      "files": [
+        {
+          "path": "14016857.jpg",
+          "sha256": "60a01d9d99f8e78007eb8f3774863fb161d32ef2da60e910d1c7b80965d2e567",
+          "size": 178481
+        },
+        {
+          "path": "14016857.json",
+          "sha256": "edd2846fb7a33578f9dd29b0249dfcaab27df2b5136005289823153dc51e57a0",
+          "size": 2760747
+        },
+        {
+          "path": "14016857.mp3",
+          "sha256": "ef50b3fffb0fbdcdda2d08468b182c25acb8232ca15d044ca0fc7e2d6632ac55",
+          "size": 5823917
+        },
+        {
+          "path": "info.txt",
+          "sha256": "540944b9b5cc8e1bc36b9196390e5a220fcb53ddb7d8b267ea367352e01b1011",
+          "size": 172
+        },
+        {
+          "path": "info.yml",
+          "sha256": "96c50d2e44674b87431fc22c5bf2a51cfacdb630484cacb80a75dab91ed800e4",
+          "size": 568
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "14016857.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "14016857.jpg",
+        "lineLength": 6.0,
+        "music": "14016857.mp3",
+        "offset": 0.0,
+        "previewEnd": 127.0,
+        "previewStart": 112.0,
+        "tip": "我朋友我把六个好吊起来肛"
+      },
+      "release": "backup-11000-11999",
+      "sha256": "041c32f82ddddc05008e7af40a54cdaf3f3cbb17f4c859025c2b733bd4900849",
+      "size": 8764393,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11229.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-06T06:04:13.562285Z",
+  "charter": "zhudyfox",
+  "composer": "Columba(Daily vs. Roon_kun)",
+  "created": "2023-11-06T06:04:13.562285Z",
+  "description": "新人二谱\n定数15.9",
+  "difficulty": 15.900003,
+  "id": 11229,
+  "illustrator": "TRAF",
+  "level": "IN Lv.15",
+  "name": "Poppy",
+  "tags": [],
+  "updated": "2023-11-06T06:04:13.562285Z",
+  "uploader": 10007
+}

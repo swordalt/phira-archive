@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:19Z",
+    "lastChanged": "2026-09-22T01:05:19Z",
+    "localBackup": {
+      "asset": "5284.zip",
+      "files": [
+        {
+          "path": "62557114.json",
+          "sha256": "b32128d0ae8ca8077fcf12858011d088e511c85e2dd064ca1b52179f6abb4e3f",
+          "size": 30110
+        },
+        {
+          "path": "62557114.mp3",
+          "sha256": "7376fd4312d06ebe8acc523ba72c47fb2e25bd78270cefbf6e5d0f8de255f572",
+          "size": 250553
+        },
+        {
+          "path": "62557114.png",
+          "sha256": "041a000cad38e0314cebc7a291e01a210b19df1415fdfed45198584dfb738c0c",
+          "size": 353282
+        },
+        {
+          "path": "info.txt",
+          "sha256": "f52b65a0a3feb9236d9072c9c182d23f24885e6c902097654d88029067462271",
+          "size": 173
+        },
+        {
+          "path": "info.yml",
+          "sha256": "3025ce5c5e2d7aefbef4f07325efc615806291b8a0096275cf7a13df4bc28459",
+          "size": 1016
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "62557114.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "62557114.png",
+        "lineLength": 6.0,
+        "music": "62557114.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "周杰伦：能不能给我一首歌的时间，李荣浩：给你一首《贝贝》"
+      },
+      "release": "backup-5000-5999",
+      "sha256": "18b4ee48079173a1d4e46a8937885b6d616569e436742b0eddb43296ce7cd7af",
+      "size": 635642,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5284.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-14T03:03:44.721017Z",
+  "charter": "CatGames In Just 4 Seconds ",
+  "composer": "李荣浩",
+  "created": "2023-07-14T03:03:44.721017Z",
+  "description": "曲目：贝贝\n曲师：李荣浩\n谱师： CatGames In Just 4 Seconds\n定数：IN Lv.4\n软件：RPE公测版v1.2.1\n感谢：@cmdysj 提供的RPE公测版v1.2.1, \n@lchzh3473 提供的模拟器\n\nDisclaimer: I do not own the song, the image or the program. I only made the chart. If you don't want your illustration or music to be shown in this video, contact me and I will delete this video.",
+  "difficulty": 3.9999995,
+  "id": 5284,
+  "illustrator": "李荣浩",
+  "level": "IN Lv.4",
+  "name": "贝贝",
+  "tags": [
+    "贝贝",
+    "李荣浩",
+    "troll"
+  ],
+  "updated": "2023-07-14T03:03:44.721017Z",
+  "uploader": 5883
+}

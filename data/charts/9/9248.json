@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:55Z",
+    "lastChanged": "2026-09-22T01:08:55Z",
+    "localBackup": {
+      "asset": "9248.zip",
+      "files": [
+        {
+          "path": "61936761.jpg",
+          "sha256": "713c9597b09eddd03152c093de54dc610280530f000ecf217b501457a9bb0b3b",
+          "size": 222526
+        },
+        {
+          "path": "61936761.json",
+          "sha256": "92f7d24507061f1d882772fce38aebacb3f6bf122b1cb02eeb1031327b7104f0",
+          "size": 1211301
+        },
+        {
+          "path": "61936761.mp3",
+          "sha256": "56e73d2ab0851ce229bf1d4dccae89fa381e6ab83716139ea6b9501a3f7fac76",
+          "size": 3362721
+        },
+        {
+          "path": "info.txt",
+          "sha256": "87b6dea63fbffb7ff43080c398ea5004dd4c008d84466546d4acb83f28c7f08f",
+          "size": 175
+        },
+        {
+          "path": "info.yml",
+          "sha256": "13dd38c850e953b9c08ae794fa4f0ecd86f19a4b686a12273def6fd0710d3adf",
+          "size": 509
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "61936761.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "61936761.jpg",
+        "lineLength": 6.0,
+        "music": "61936761.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-9000-9999",
+      "sha256": "33b94798e859c8dd8620ed19d443b058676429db37798fcbd4b0c83920c3293f",
+      "size": 4797740,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-9000-9999/9248.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-09-10T06:07:27.263424Z",
+  "charter": "梦可tos",
+  "composer": "Normal1zer",
+  "created": "2023-09-10T06:07:27.263424Z",
+  "description": "",
+  "difficulty": 16.0,
+  "id": 9248,
+  "illustrator": "水晶",
+  "level": "AT lv:16",
+  "name": "Non-Melodic Ragez(MUG Edit) ",
+  "tags": [],
+  "updated": "2023-09-10T06:47:44.379949Z",
+  "uploader": 2757
+}

@@ -1,0 +1,65 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:02:23Z",
+    "lastChanged": "2026-09-22T01:02:23Z",
+    "localBackup": {
+      "asset": "636.zip",
+      "files": [
+        {
+          "path": "89824811.jpg",
+          "sha256": "ad5b55e1acba4da8811858641ece9f0ff30b8ba49ba45a0d8d81e61305f10b62",
+          "size": 194729
+        },
+        {
+          "path": "89824811.json",
+          "sha256": "31b79ef6a8911802e87134a21067a0556605eaa4c43b7f94eeb2a3efbfa8fb66",
+          "size": 1399298
+        },
+        {
+          "path": "89824811.mp3",
+          "sha256": "ce15bef2ad100c43f94b457c5593b5c4a5389c51158ed370c26ae63ac06422b7",
+          "size": 5738613
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f0ecaeaa30eb4f406bcd8e34171602a6d94a3fa11e2602485fbf195fd88eadc7",
+          "size": 542
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.90000004,
+        "chart": "89824811.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "89824811.jpg",
+        "lineLength": 6.0,
+        "music": "89824811.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "萌新初谱 含粪量较高"
+      },
+      "release": "backup-0-999",
+      "sha256": "932ec2479992b8b0fcd5b5dfbd4ac6a0d1c3b16f19b5f9da18e8ce8996b097bf",
+      "size": 7333598,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-0-999/636.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-04-21T05:33:09.549279Z",
+  "charter": "AaronP",
+  "composer": "t+pazolite",
+  "created": "2023-04-21T05:33:09.549279Z",
+  "description": "萌新不懂事写着玩的",
+  "difficulty": 15.400002,
+  "id": 636,
+  "illustrator": "UK",
+  "level": "IN Lv.15",
+  "name": "Chrome VOX",
+  "tags": [],
+  "updated": "2023-04-21T05:33:09.549279Z",
+  "uploader": 2275
+}

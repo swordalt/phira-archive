@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:06Z",
+    "lastChanged": "2026-09-22T01:11:06Z",
+    "localBackup": {
+      "asset": "11327.zip",
+      "files": [
+        {
+          "path": "42570799.json",
+          "sha256": "eac5498d548414d6b01af55d2de4b2d0b6a9be5960daa9a88cbbc044330ea472",
+          "size": 1893045
+        },
+        {
+          "path": "42570799.mp3",
+          "sha256": "f526e71002d159ec0db96b4133141b6128528bd5ed77afb3a7c9f038012b968e",
+          "size": 2093019
+        },
+        {
+          "path": "42570799.png",
+          "sha256": "d4b3d4b09b81d7f13a10bbf91870d5bdb8a34a372d68fe6f8883780c4b132636",
+          "size": 1517565
+        },
+        {
+          "path": "info.txt",
+          "sha256": "178f0ca587cf026bfca1ee135674f323312acd91c7789fec7c636e7393a2ad14",
+          "size": 192
+        },
+        {
+          "path": "info.yml",
+          "sha256": "409523eb10bc18bce9fca3812081d91af802e3beb5d8239058a962e8d7abd164",
+          "size": 1017
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "42570799.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "42570799.png",
+        "lineLength": 6.0,
+        "music": "42570799.mp3",
+        "offset": 0.0,
+        "previewEnd": 110.0,
+        "previewStart": 100.0,
+        "tip": null
+      },
+      "release": "backup-11000-11999",
+      "sha256": "bec3f94954dc8291974736cac404b26d9118ed5be28b1d307eb0b24ab1b426f3",
+      "size": 5505346,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11327.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-10T17:36:27.503611Z",
+  "charter": "梦幻是魅魔捏",
+  "composer": "我叫瞬哥qaq",
+  "created": "2023-11-10T17:36:27.503611Z",
+  "description": "谱师本人上传，新人第五谱\n暑假的时候刷到这个视频才认识了雪distance，前几天回看收藏夹看到这个视频，心血来潮写了这张谱子，但是这张有点偷懒了，希望轻点评分（\n14下位主考爆发力的双纵天堂爽谱，除了跳跃双押读谱有些难度外其他打起来手感很不错，希望大家玩的开心awa\n记得去B站关注@梦幻不限量!!!\n制谱时间:3天\nBPM:136",
+  "difficulty": 14.399999,
+  "id": 11327,
+  "illustrator": "Minecraft",
+  "level": "IN Lv.14",
+  "name": "雪distance(Minecraft ver.)",
+  "tags": [
+    "Minecraft",
+    "我的世界",
+    "regular"
+  ],
+  "updated": "2023-11-10T17:36:27.503611Z",
+  "uploader": 15214
+}

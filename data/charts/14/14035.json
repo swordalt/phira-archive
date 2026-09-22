@@ -1,0 +1,92 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:07Z",
+    "lastChanged": "2026-09-22T01:16:07Z",
+    "localBackup": {
+      "asset": "14035.zip",
+      "files": [
+        {
+          "path": "Ark.JPG",
+          "sha256": "84530613541ca19c5c8f1f52c03b347bca291cd32dfb96e0fb237644e9b049d4",
+          "size": 1890174
+        },
+        {
+          "path": "Ark.json",
+          "sha256": "70b3bc7c2d7199097031fc299ad8091e081e1e7b32a985ed92956c9b5b9679a3",
+          "size": 999889
+        },
+        {
+          "path": "Ark.mp3",
+          "sha256": "118828abcf810101a08117919ee22f4763a0165417431a2282831d6a6e4fe63b",
+          "size": 2633813
+        },
+        {
+          "path": "Continue.PNG",
+          "sha256": "8a1dafe6d71f9ee4e5bf2d24e9f56ced9e25dba483c986965851ef61059070ad",
+          "size": 10718
+        },
+        {
+          "path": "Reset.png",
+          "sha256": "cbd8a19d3d479c95b07fd7513ca3eb6ce0a5e6a6e6c186e99e4a0fc3f0600665",
+          "size": 357138
+        },
+        {
+          "path": "info.csv",
+          "sha256": "81f28fcb1a9b21b8f96fd62399913c43ec8e9ed4637764ed822ec3c197f4ccc5",
+          "size": 174
+        },
+        {
+          "path": "info.txt",
+          "sha256": "274e00ba6898f8104ba70b9e65d6653df85e16264ea3ca9c88282e675a2640bd",
+          "size": 133
+        },
+        {
+          "path": "info.yml",
+          "sha256": "231786326c70ca300d50ee55b017eed0a523a49c6707ad5aab2d21be45ac2c64",
+          "size": 554
+        },
+        {
+          "path": "line.csv",
+          "sha256": "10b5692219687196fba97b4e3699022483e4908a3f9f808e7a5be0b81d634ba5",
+          "size": 113
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.4,
+        "chart": "Ark.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "Reset.png",
+        "lineLength": 6.0,
+        "music": "Ark.mp3",
+        "offset": 0.0,
+        "previewEnd": 125.0,
+        "previewStart": 105.7,
+        "tip": "「逆行至黑暗的蓝色方舟」"
+      },
+      "release": "backup-14000-14999",
+      "sha256": "88957be8bc3ccadfb8a8f748aba74d97157e58e66e07ada56445b35326ac1d09",
+      "size": 5893562,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14035.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-24T05:32:01.660977Z",
+  "charter": "MuJiSama",
+  "composer": "kanoyo",
+  "created": "2024-01-24T05:32:01.660977Z",
+  "description": "谱师本人上传      并非最终版本",
+  "difficulty": 15.500002,
+  "id": 14035,
+  "illustrator": "From BGA",
+  "level": "CM Lv.15",
+  "name": "Ark",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-01-24T05:32:21.199083Z",
+  "uploader": 3742
+}

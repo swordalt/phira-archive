@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:13:10Z",
+    "lastChanged": "2026-09-22T01:13:10Z",
+    "localBackup": {
+      "asset": "12537.zip",
+      "files": [
+        {
+          "path": "1702559237.ogg",
+          "sha256": "4c587debc2f1ef5dea0c180c3ac14b60c0d7ead979c5dc132201060b0e89e31f",
+          "size": 2328165
+        },
+        {
+          "path": "MANIERA (From Malody).json",
+          "sha256": "5c44f344ebbe3e1ac7f04999986c23d67b4060569f8d55012678db50d2947d29",
+          "size": 1590810
+        },
+        {
+          "path": "dbe1ed1b80b740d45773c4b20323fbce.jpg",
+          "sha256": "44e635f61570f386db8d0808588a0af39c72949738e575de40985664e4369ca4",
+          "size": 110352
+        },
+        {
+          "path": "info.csv",
+          "sha256": "d15d7dfad20305fd1c62a707fdaea6c4f59c1356db2a22cf6eb06757b667948c",
+          "size": 165
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f8b8ed65a037c0c83486a3f7252cfc9f782d44fdc54cc465711e8c0c84ab6b7a",
+          "size": 561
+        }
+      ],
+      "info": {
+        "aspectRatio": 2.0,
+        "backgroundDim": 0.6,
+        "chart": "MANIERA (From Malody).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "dbe1ed1b80b740d45773c4b20323fbce.jpg",
+        "lineLength": 6.0,
+        "music": "1702559237.ogg",
+        "offset": 0.0,
+        "previewEnd": 29.0,
+        "previewStart": 15.0,
+        "tip": null
+      },
+      "release": "backup-12000-12999",
+      "sha256": "292f4683a8ace307aff953857f8c9669c47671f19d7d3804ccd33cf0366c31be",
+      "size": 4030639,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12537.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-16T11:23:09.467241Z",
+  "charter": "YM-EA",
+  "composer": "D",
+  "created": "2023-12-16T11:23:09.467241Z",
+  "description": "感谢@Lage的转谱😒",
+  "difficulty": 0.0,
+  "id": 12537,
+  "illustrator": "D",
+  "level": "Impossible Lv.?",
+  "name": "MANIERA",
+  "tags": [
+    "BOF2011",
+    "我不道啊",
+    "plain"
+  ],
+  "updated": "2023-12-16T11:23:09.467241Z",
+  "uploader": 5238
+}

@@ -1,0 +1,127 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:04:29Z",
+    "lastChanged": "2026-09-22T01:04:29Z",
+    "localBackup": {
+      "asset": "4895.zip",
+      "files": [
+        {
+          "path": "39280090.JPG",
+          "sha256": "ec7d150b93f25748653957a77da979e624c466a5558af42c0023cddf032b97c3",
+          "size": 286140
+        },
+        {
+          "path": "39280090.json",
+          "sha256": "0eb41c8c0ba2fb3958409cad467d207ae307d05e80292d4cfd5eac605490714a",
+          "size": 2613171
+        },
+        {
+          "path": "39280090.mp3",
+          "sha256": "fa650247f9d44fc374b88a513ceb77321140796a9585bc0d3c65a19332d060c7",
+          "size": 11074917
+        },
+        {
+          "path": "Black.png",
+          "sha256": "a0f3ce388e78c7577f9dcc5a2fa5ccfde1c314f5aa5f65d16711e98961f63435",
+          "size": 3173
+        },
+        {
+          "path": "CG1.PNG",
+          "sha256": "dab58c6f3c3fa99702cd0d9b9016938969770813602e9256a2547bb89319badd",
+          "size": 635961
+        },
+        {
+          "path": "CG2.PNG",
+          "sha256": "c4306b2581950f825baaadbbb1aa47a30ea5f2e3f291d93e0cb88aa63dc3c8c7",
+          "size": 657724
+        },
+        {
+          "path": "CG3.PNG",
+          "sha256": "1b01308dcadbbd9b2d8cef8c603ca1d773aad5f71b22fe07486d338dede09ed1",
+          "size": 387377
+        },
+        {
+          "path": "CG4.PNG",
+          "sha256": "bdddb41ee936e7d9e7a2b95c32cac52b658cd2169ca22691e1931ec5d303b9f4",
+          "size": 426906
+        },
+        {
+          "path": "CG5.PNG",
+          "sha256": "2e8da252d295600f187d815e2849749f028afff5d21f116d9b09956127826410",
+          "size": 334231
+        },
+        {
+          "path": "CG6.PNG",
+          "sha256": "2b72ac6d7a41a060713a10006de134d80270223d2f46d0d26bacaf8a0b605a75",
+          "size": 216177
+        },
+        {
+          "path": "CG7.PNG",
+          "sha256": "5bae63cf22a8602f8a4755a1f26db8b6f1fb7569818b36e36a054d20db428bac",
+          "size": 290015
+        },
+        {
+          "path": "SET.mp4",
+          "sha256": "67c30023e4cf0bac860c98a67de10ffe746a541629c7ec9f2b4b0e57a7c9c9e9",
+          "size": 14555903
+        },
+        {
+          "path": "White.png",
+          "sha256": "c1dba15bb2d8c7355a1e0fa4132735cd428bfb92d94e57b96454bdd5f1318196",
+          "size": 2812
+        },
+        {
+          "path": "extra.json",
+          "sha256": "5246ee810040b22a23158de4297e503f4806a83b50025a689bf1753f62a69ccc",
+          "size": 1826
+        },
+        {
+          "path": "info.yml",
+          "sha256": "2ad15c3a7a40980115d3a27c0b97dfc7aff886eee4c4d6a89428aa0e63019a0a",
+          "size": 641
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "39280090.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "39280090.JPG",
+        "lineLength": 6.0,
+        "music": "39280090.mp3",
+        "offset": 0.049999993,
+        "previewEnd": 205.0,
+        "previewStart": 191.45,
+        "tip": "Tip：「RIN」",
+        "unlockVideo": null
+      },
+      "release": "backup-4000-4999",
+      "sha256": "cad8b4326467b1929d352689a06390571ba7646419e022c45ba7eaf367fce4c9",
+      "size": 31488394,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-4000-4999/4895.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-09T09:18:53.701486Z",
+  "charter": "Kanylant",
+  "composer": "Porter Robinson/Madeon",
+  "created": "2023-07-08T04:45:07.707014Z",
+  "description": "没有简介 作为Kanylant的第二张谱",
+  "difficulty": 15.500002,
+  "id": 4895,
+  "illustrator": "黒狐",
+  "level": "Shelter Lv.15",
+  "name": "Shelter",
+  "tags": [
+    "特效谱",
+    "故事版",
+    "着色器",
+    "Shader",
+    "regular"
+  ],
+  "updated": "2023-07-09T14:15:12.708253Z",
+  "uploader": 97691
+}

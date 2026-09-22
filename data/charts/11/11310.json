@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:02Z",
+    "lastChanged": "2026-09-22T01:11:02Z",
+    "localBackup": {
+      "asset": "11310.zip",
+      "files": [
+        {
+          "path": "87966179.json",
+          "sha256": "5e495b4f1c722ee979307e7be57ef645e52efbb68f38fe9d38404aaef6cf8391",
+          "size": 130192
+        },
+        {
+          "path": "87966179.mp3",
+          "sha256": "0eb6844e253f445ac85842339dad9121fef97ef8b541918d6089c219748a76b8",
+          "size": 65245
+        },
+        {
+          "path": "87966179.png",
+          "sha256": "020b77b809ba3fbfb1191a019a6bcdd6c450c1a421e1198d9a1605415bad506d",
+          "size": 151045
+        },
+        {
+          "path": "info.txt",
+          "sha256": "e3f00fc8a42b5865926944e9f3efcad567441b349304670601f3f0ca46ad9d15",
+          "size": 162
+        },
+        {
+          "path": "info.yml",
+          "sha256": "14dd0fbe2692d9773129a8041cf5b571eea49a3cd5c3459590b9d90d9744740b",
+          "size": 447
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "87966179.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "87966179.png",
+        "lineLength": 6.0,
+        "music": "87966179.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-11000-11999",
+      "sha256": "3fb808eb29200867060ab07f740615d06e7475622e1692579ac3d17bd2371521",
+      "size": 347599,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11310.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "伍零柒壹5071",
+  "composer": "李荣浩",
+  "created": null,
+  "description": "谱师本人上传",
+  "difficulty": 20.0,
+  "id": 11310,
+  "illustrator": "李荣浩 & 5071",
+  "level": "EZ Lv.2",
+  "name": "贝贝",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

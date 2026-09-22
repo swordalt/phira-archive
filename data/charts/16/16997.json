@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:20:07Z",
+    "lastChanged": "2026-09-22T01:20:07Z",
+    "localBackup": {
+      "asset": "16997.zip",
+      "files": [
+        {
+          "path": "92808887.jpg",
+          "sha256": "d8582c5e498899221cc1d71a3cee2f340eb37dbe1b99588e34a125fb540be2d2",
+          "size": 157563
+        },
+        {
+          "path": "92808887.json",
+          "sha256": "beb7905a26efe47a090c5a434f30502280c26549411f775e5aa79802841944ea",
+          "size": 157639
+        },
+        {
+          "path": "92808887.mp3",
+          "sha256": "21af047fa73c4f7953e023bb2b1c04df6fcbea7443e9c3d45b6b2394138388eb",
+          "size": 237124
+        },
+        {
+          "path": "info.txt",
+          "sha256": "1b5c877560edaa116d1577f348dd8759ac0f1073ffa7ebb7a289579ce3e8cdc9",
+          "size": 128
+        },
+        {
+          "path": "info.yml",
+          "sha256": "de3640c66aa34ec8f8d62a46c118cc6e8a267b029c9c1774982c59161a59dc62",
+          "size": 540
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "92808887.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "92808887.jpg",
+        "lineLength": 6.0,
+        "music": "92808887.mp3",
+        "offset": 0.0,
+        "previewEnd": 29.0,
+        "previewStart": 12.0,
+        "tip": "我___你不问_______（2分）",
+        "unlockVideo": null
+      },
+      "release": "backup-16000-16999",
+      "sha256": "341962fb33b5db0387eced092096ae3ef1cdd4d4118b4d2ba325880a2605fb0e",
+      "size": 553502,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-16000-16999/16997.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "羽毛",
+  "composer": "陈佳嵘",
+  "created": null,
+  "description": "本人上传，B站视频BV1jF4m1L7uS",
+  "difficulty": 11.200004,
+  "id": 16997,
+  "illustrator": "这是大帝素颜照",
+  "level": "IN Lv.11",
+  "name": "爱你不问归期［CJR］",
+  "tags": [
+    "troll"
+  ],
+  "updated": null,
+  "uploader": null
+}

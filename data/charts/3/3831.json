@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:32Z",
+    "lastChanged": "2026-09-22T01:03:32Z",
+    "localBackup": {
+      "asset": "3831.zip",
+      "files": [
+        {
+          "path": "60143872.jpg",
+          "sha256": "78f9c53996871cc44d7f1697dc078a1f3ea67c67345192560533c55923d070df",
+          "size": 628554
+        },
+        {
+          "path": "60143872.json",
+          "sha256": "7b75436ca5776ec9ad184820ecf5c907e35136321206ce3ca65f173738976cdf",
+          "size": 768451
+        },
+        {
+          "path": "60143872.mp3",
+          "sha256": "0ceb05f7fc350aef488b1d32667c4d214fb182c7716d736253a6d2c7963e9847",
+          "size": 9790659
+        },
+        {
+          "path": "info.txt",
+          "sha256": "c102c9fdef3d2e835d797eeab518f8b9254d40f4f60e7b5a75e65a9336cc4072",
+          "size": 163
+        },
+        {
+          "path": "info.yml",
+          "sha256": "91c78fb07fbcf35cc0f180770511750ac84fef4cb643eb8ae816ff4b3d0b25cd",
+          "size": 594
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "60143872.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "60143872.jpg",
+        "lineLength": 6.0,
+        "music": "60143872.mp3",
+        "offset": 0.0,
+        "previewEnd": 125.5,
+        "previewStart": 110.5,
+        "tip": "\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\":)"
+      },
+      "release": "backup-3000-3999",
+      "sha256": "1959850b5e8749b97a0d94395cd14040f467c3d45321f218998d61a310881a2c",
+      "size": 11188929,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-3000-3999/3831.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-06-22T01:36:51.186141Z",
+  "charter": "rokren",
+  "composer": "silentroom",
+  "created": "2023-06-22T01:36:51.186141Z",
+  "description": "原版 谱面作者：rokrenUra\n改良版 谱面作者：rokrenUra",
+  "difficulty": 11.900003,
+  "id": 3831,
+  "illustrator": "UK",
+  "level": "HD Lv.11",
+  "name": "驟雨の狭間",
+  "tags": [],
+  "updated": "2023-07-22T15:17:35.985640Z",
+  "uploader": 65907
+}

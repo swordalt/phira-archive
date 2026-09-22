@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:18:48Z",
+    "lastChanged": "2026-09-22T01:18:48Z",
+    "localBackup": {
+      "asset": "15553.zip",
+      "files": [
+        {
+          "path": "59015827.jpg",
+          "sha256": "865b310f29b05040c11b0c5265fb7d8f7567b47306b8db61c6cec157794c3416",
+          "size": 1048670
+        },
+        {
+          "path": "59015827.json",
+          "sha256": "6e85f6322e94cf062391f5155aa0e398909efec2636356d83a342a2ed2b35318",
+          "size": 1738970
+        },
+        {
+          "path": "59015827.mp3",
+          "sha256": "473feb50a378febdce517e03861d15c2e75555e1715ce91aeb0353034cd57b27",
+          "size": 5623040
+        },
+        {
+          "path": "info.txt",
+          "sha256": "5bc50aa7a4a3360ae129812c035e0ebf54a0071b431544d070813250c25de819",
+          "size": 179
+        },
+        {
+          "path": "info.yml",
+          "sha256": "751405b9b415fc411e19f40796bc9ded0913171c2ce7f41eadd3fd4ec7fbfc4d",
+          "size": 627
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "59015827.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "59015827.jpg",
+        "lineLength": 6.0,
+        "music": "59015827.mp3",
+        "offset": 0.0,
+        "previewEnd": 122.0,
+        "previewStart": 102.0,
+        "tip": "Tips：蹦迪部分在最后"
+      },
+      "release": "backup-15000-15999",
+      "sha256": "33b9fb9ed952e6592e1c54e19c37f4563b54cf356c69bf85fadbffab8a474665",
+      "size": 8411994,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15553.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-13T07:30:38.948312Z",
+  "charter": "HOLDSUIKA 2085",
+  "composer": "PRASTIK DANCEFLOOR",
+  "created": "2024-02-13T07:30:38.948312Z",
+  "description": "B站搜索 噬梦Suika 谢谢喵~\n有什么说的我会在视频下面全部说的",
+  "difficulty": 0.0,
+  "id": 15553,
+  "illustrator": "CHUNITHM",
+  "level": "SP Lv.?",
+  "name": "TECHNOPOLIS 2085",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-02-13T07:30:38.948312Z",
+  "uploader": 786
+}

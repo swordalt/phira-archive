@@ -1,0 +1,77 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:54Z",
+    "lastChanged": "2026-09-22T01:07:54Z",
+    "localBackup": {
+      "asset": "7761.zip",
+      "files": [
+        {
+          "path": "1550379.json",
+          "sha256": "6ba77e649ad9ce207fcb095f96cb31a8be58244a2921320eb63bedf222b7c735",
+          "size": 1197508
+        },
+        {
+          "path": "1550379.mp3",
+          "sha256": "901baf21dc4c4415a5d47403f07f40180ec3e291e3378f2735e07cb592bfd5bb",
+          "size": 594421
+        },
+        {
+          "path": "1550379.png",
+          "sha256": "4f7f2d9f2abf7796172b4ad6f9a86ee51d9f1a5e58f53462886dc83da8046905",
+          "size": 45916
+        },
+        {
+          "path": "18.png",
+          "sha256": "ee7ae71e766a3e20f1e494a45328bbdfd418108874084be88d677fda1d704ff1",
+          "size": 34494
+        },
+        {
+          "path": "cap.png",
+          "sha256": "389fe78613b13d6aae1fd365aa2c18aa7462e643c63d9233fd39cfa9ac02b873",
+          "size": 92232
+        },
+        {
+          "path": "info.yml",
+          "sha256": "90765aad980175f095233c46e6273cb48ba73a95dc12e10dbb6da64f2b048fe7",
+          "size": 563
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "1550379.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "1550379.png",
+        "lineLength": 6.0,
+        "music": "1550379.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "你在玩什么，我看看"
+      },
+      "release": "backup-7000-7999",
+      "sha256": "e1b56e271c7b0261b4c1d477b19f44b3275e97ef7f5ae835c6e97b3c038bd107",
+      "size": 1965722,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-7000-7999/7761.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-16T07:10:51.901956Z",
+  "charter": "cHojINg",
+  "composer": "我自己",
+  "created": "2023-08-16T07:10:51.901956Z",
+  "description": "做了个加长！B站昵称ChoJing",
+  "difficulty": 12.900001,
+  "id": 7761,
+  "illustrator": "我自己",
+  "level": "o.O",
+  "name": "音效库限时加长！",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-08-16T07:10:51.901956Z",
+  "uploader": 161912
+}

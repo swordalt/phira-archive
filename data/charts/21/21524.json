@@ -1,0 +1,75 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:28:35Z",
+    "lastChanged": "2026-09-22T01:28:35Z",
+    "localBackup": {
+      "asset": "21524.zip",
+      "files": [
+        {
+          "path": "20684648.jpeg",
+          "sha256": "e4a300af8c070abc9e35fa439292fadeac6c3c764185aec01c78aff5dc1c60ae",
+          "size": 43302
+        },
+        {
+          "path": "20684648.json",
+          "sha256": "543b5c220c2b7a34df9a44a47d3c55c7c464d6a02d8929fca261e7afbbdebac0",
+          "size": 807706
+        },
+        {
+          "path": "20684648.mp3",
+          "sha256": "7d40836ffd3a9f53b7341e4d10ae49b1fb7ecbf1e315bf7a950e92c1044370af",
+          "size": 4735769
+        },
+        {
+          "path": "info.txt",
+          "sha256": "2b8e66ef559301363bae58f8b4bd6663609d350971b2728332be337684642f2f",
+          "size": 187
+        },
+        {
+          "path": "info.yml",
+          "sha256": "4b362068c33f8b206d1a5750bfb46c77673ce269ce47493f7d0ee4bc47498101",
+          "size": 742
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "20684648.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "20684648.jpeg",
+        "lineLength": 6.0,
+        "music": "20684648.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "永世传颂，不休独舞，神爱众人，芙门永存！",
+        "unlockVideo": null
+      },
+      "release": "backup-21000-21999",
+      "sha256": "4d290ba9a6f51f85d39a926493fcfa7ad7af27ed574542348a2fb8868dc9dd6f",
+      "size": 5588216,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-21000-21999/21524.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-19T14:13:56.881774Z",
+  "charter": "zhanwai, 这个人有点懒-",
+  "composer": "HOYO-MiX",
+  "created": "2024-06-19T14:13:56.881774Z",
+  "description": "本谱踩音主要由这个人有点懒-负责，特效由zhanwai负责，凭热爱写谱，喜欢的话欢迎B站关注喵",
+  "difficulty": 11.100004,
+  "id": 21524,
+  "illustrator": "UK",
+  "level": "Lv.Fontaine",
+  "name": "时暮的思眷",
+  "tags": [
+    "原神",
+    "芙宁娜",
+    "regular"
+  ],
+  "updated": "2024-06-19T14:13:56.881774Z",
+  "uploader": 325275
+}

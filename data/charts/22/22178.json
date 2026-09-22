@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:29:58Z",
+    "lastChanged": "2026-09-22T01:29:58Z",
+    "localBackup": {
+      "asset": "22178.zip",
+      "files": [
+        {
+          "path": "86992952.json",
+          "sha256": "a7bd7be2b172cab95a1c158b58fd062de573896c7ea1cf9bbc3deb8ddb4fc347",
+          "size": 249487
+        },
+        {
+          "path": "86992952.ogg",
+          "sha256": "edf1fda596cf2175aaa8d35afbf430563181290642e590df01b4e157b4e62a3a",
+          "size": 3230789
+        },
+        {
+          "path": "86992952.png",
+          "sha256": "14622d33a27a995284faa2d6ad29791f1978f33e81b16f5ce6f2a95a13cc95a6",
+          "size": 17880
+        },
+        {
+          "path": "info.txt",
+          "sha256": "164c73bfa48771661acc083873d0181f436b1879d69db42286e96e2db22ddccd",
+          "size": 200
+        },
+        {
+          "path": "info.yml",
+          "sha256": "acb62e8636ddfe2172df1b266b21e10076c884035f0e735aad5822ea6a4dfe9a",
+          "size": 630
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "86992952.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "86992952.png",
+        "lineLength": 6.0,
+        "music": "86992952.ogg",
+        "offset": 0.0,
+        "previewEnd": 170.0,
+        "previewStart": 150.0,
+        "tip": "诶？判定线怎么不动了？",
+        "unlockVideo": null
+      },
+      "release": "backup-22000-22999",
+      "sha256": "a434446f7ce7ac28e1fda7600234a3d80e2ec1ae637ab81fe089f0b061dc17a9",
+      "size": 3499494,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-22000-22999/22178.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-29T10:33:23.682041Z",
+  "charter": "t琳",
+  "composer": "Daily天利/EndCat-终猫",
+  "created": "2024-06-29T10:33:23.682041Z",
+  "description": "本谱经过多次手感改良，谱师本人亲测可打",
+  "difficulty": 15.0,
+  "id": 22178,
+  "illustrator": "Convert by MTP",
+  "level": "Lv.15",
+  "name": "野花香 (Haocore Mix)",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-06-29T10:33:23.682041Z",
+  "uploader": 8368
+}

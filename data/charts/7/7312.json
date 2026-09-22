@@ -1,0 +1,82 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:24Z",
+    "lastChanged": "2026-09-22T01:07:24Z",
+    "localBackup": {
+      "asset": "7312.zip",
+      "files": [
+        {
+          "path": "42851013.jpg",
+          "sha256": "7d8a4834ad9576e8277ccba5062ed7b23e172069fc4ad453aec71f97e977b3cf",
+          "size": 11813
+        },
+        {
+          "path": "42851013.json",
+          "sha256": "0f458945921720e53140f1f629edd2cd15fd4e936d151f7cf89768010cffdf0c",
+          "size": 499677
+        },
+        {
+          "path": "42851013.mp3",
+          "sha256": "fd3f39099dd53ee4472bb16588a2d87add8a2dad92b5df1285936fc41b053766",
+          "size": 243057
+        },
+        {
+          "path": "info.txt",
+          "sha256": "951e20d831b0534dc871b1ba4206b13fbfd88298424a2759c8ac5408fe5734d9",
+          "size": 148
+        },
+        {
+          "path": "info.yml",
+          "sha256": "6e1c1b861841e9799e5dabc8ab350c7fc70f3ab17c9e95be3aa1e5d527908239",
+          "size": 450
+        },
+        {
+          "path": "rpelogo.png",
+          "sha256": "8a5ae57322968921bcdd98e39b32e9d28b3251598607223f3717027beb0c69ca",
+          "size": 172496
+        },
+        {
+          "path": "stickbugged.png",
+          "sha256": "a4bd8a1e3418439040747adfdc885f0ed9e9fac7304d3c46acf630db8b6a0c35",
+          "size": 87758
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "42851013.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "42851013.jpg",
+        "lineLength": 6.0,
+        "music": "42851013.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": " "
+      },
+      "release": "backup-7000-7999",
+      "sha256": "26e31a9032a972c0badce569e1b3304e79e6ed566d31f57ff7f5790db6e245d3",
+      "size": 1016111,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-7000-7999/7312.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "疏淡星晨",
+  "composer": "meme",
+  "created": null,
+  "description": "本人上传。原视频BV1uu4y1z7Eo\n",
+  "difficulty": 0.0,
+  "id": 7312,
+  "illustrator": " ",
+  "level": "Lv.?",
+  "name": "Stick Bug",
+  "tags": [
+    "troll"
+  ],
+  "updated": null,
+  "uploader": null
+}

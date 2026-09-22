@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:04:44Z",
+    "lastChanged": "2026-09-22T01:04:44Z",
+    "localBackup": {
+      "asset": "5004.zip",
+      "files": [
+        {
+          "path": "2305885.json",
+          "sha256": "e91bef5ed9a1c0e9c716e8798ec4c77ae369895946ef3b136c8e9b68430aed84",
+          "size": 1653847
+        },
+        {
+          "path": "2305885.png",
+          "sha256": "d1723cee88b50a382443aa85bc540e0d6c7586c7e7c55c878a4b5dc9eb5fcade",
+          "size": 345826
+        },
+        {
+          "path": "2305885.wav",
+          "sha256": "bad4573b0d344502453491b54ac425533d3a44e674c01443ced59cc1d872aa92",
+          "size": 27049004
+        },
+        {
+          "path": "info.txt",
+          "sha256": "bf99de2a64a0a5f5e21a07f11d52afab4561044da984b86a0683929a437185da",
+          "size": 149
+        },
+        {
+          "path": "info.yml",
+          "sha256": "065a4d8396a23351f3a86597ae6446e60e7549661ac8adf6b3f4ea719bdc4919",
+          "size": 634
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "2305885.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "2305885.png",
+        "lineLength": 6.0,
+        "music": "2305885.wav",
+        "offset": 0.06,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "分数我所欲也，准度亦我所欲也，若二者不可兼得，多练也～QwQ"
+      },
+      "release": "backup-5000-5999",
+      "sha256": "fad7e257c03f4f4d6c4ebfad4a40e4f18df81bf7fcb5a3f9bede22a8d63aeeb4",
+      "size": 29049962,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5004.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-09T09:38:16.090173Z",
+  "charter": "渡夜寻月",
+  "composer": "Ardolf",
+  "created": "2023-07-09T09:38:16.090173Z",
+  "description": "本人上传，B站同名。有些地方有难度，欢迎来战QwQ",
+  "difficulty": 15.400005,
+  "id": 5004,
+  "illustrator": "UK",
+  "level": "AT",
+  "name": "XURRENDER",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-07-09T09:38:16.090173Z",
+  "uploader": 125339
+}

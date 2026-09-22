@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:22:54Z",
+    "lastChanged": "2026-09-22T01:22:54Z",
+    "localBackup": {
+      "asset": "19579.zip",
+      "files": [
+        {
+          "path": "98934840.jpg",
+          "sha256": "c0709a6522c3612575d233a4d5a4a6ae5461a6358bf95c524a8c5bcde836ebd2",
+          "size": 359636
+        },
+        {
+          "path": "98934840.json",
+          "sha256": "89a54e7d8fc80219aaaf9d5858e1c82b1168424cb80474f7eae9dce66b31571e",
+          "size": 5134819
+        },
+        {
+          "path": "98934840.ogg",
+          "sha256": "87f1e7acc5b8d7d28e4118ff6e55146c852cc8802f5764aee6065fb2ca4970d7",
+          "size": 2809219
+        },
+        {
+          "path": "info.txt",
+          "sha256": "1a0c04e6fdb88a684220c1990b68be2a48a820fd2f9f51beca9905f0804e903b",
+          "size": 161
+        },
+        {
+          "path": "info.yml",
+          "sha256": "2a28941893855b1a07b218c6e86790adc143db73f57d812d3fafda51e7f40e99",
+          "size": 766
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "98934840.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "98934840.jpg",
+        "lineLength": 6.0,
+        "music": "98934840.ogg",
+        "offset": 0.0,
+        "previewEnd": 105.0,
+        "previewStart": 91.0,
+        "tip": "Tip : A new challenge is coming to us....",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "5d4efc93e04effc019dee2adb2f647b280ad39e26f942b2d1bc1282c23d872a7",
+      "size": 8305109,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19579.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "Astronauts.V",
+  "composer": "TJ.hangneil",
+  "created": null,
+  "description": "已取得所有譜師同意上傳 \n\n譜師：Astronauts.V (NotTure1, eggeggegg, Sided Cookie) \n製作時間 : \n2024/04/20~2024/05/05\n\n譜師們的留言 \nNotTure1 : \n遠古的神即將被喚醒 浩劫\neggeggegg : \n啊~\nSided Cookie : \n月球表面好看嗎（",
+  "difficulty": 16.900003,
+  "id": 19579,
+  "illustrator": "_ihcanan & eznirm",
+  "level": "AT Lv.16",
+  "name": "Apollo",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

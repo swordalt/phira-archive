@@ -1,0 +1,68 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:47Z",
+    "lastChanged": "2026-09-22T01:08:47Z",
+    "localBackup": {
+      "asset": "9174.zip",
+      "files": [
+        {
+          "path": "fuli.jpg",
+          "sha256": "a3f62de9d03fb5605a8c9a57ae0a6898777b6ba89246bc2dbcd1ed03a672ab6e",
+          "size": 612107
+        },
+        {
+          "path": "fuli.mp3",
+          "sha256": "98d7ac02f786f8f5a9c6d4013ba80726daf8c2665f5a2278a2dcb543acc8a996",
+          "size": 5176494
+        },
+        {
+          "path": "fuli.pec",
+          "sha256": "826a3a984c90b94332d71a07116b98608b17ff25d2ff373e77edd7259831c707",
+          "size": 55735
+        },
+        {
+          "path": "info.yml",
+          "sha256": "6ef2913314e9f5514d44a6965b29db5c18b44e47c036d735e8e10722e1e09fbb",
+          "size": 663
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "fuli.pec",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "fuli.jpg",
+        "lineLength": 6.0,
+        "music": "fuli.mp3",
+        "offset": 0.16999999,
+        "previewEnd": 75.0,
+        "previewStart": 60.0,
+        "tip": "tips:全新配置，考验你对这首曲子的熟悉度！"
+      },
+      "release": "backup-9000-9999",
+      "sha256": "0f76ae76aa8ae42e5ac58245b43553592b76f5bf08c6b1ec3c004c2ab6fe7c58",
+      "size": 5845389,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-9000-9999/9174.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-09-09T10:22:10.001778Z",
+  "charter": "114514123456",
+  "composer": "myukke.",
+  "created": "2023-09-09T10:22:10.001778Z",
+  "description": "kkk制作，欢迎大家来游玩，感兴趣的可在b站关注我:xy--kkk",
+  "difficulty": 12.5,
+  "id": 9174,
+  "illustrator": "myukke.",
+  "level": "SP Lv.?",
+  "name": "FULi AUTO SHOOTER (全新配置警告)",
+  "tags": [
+    "全新配置",
+    "troll"
+  ],
+  "updated": "2023-09-09T10:22:10.001778Z",
+  "uploader": 10896
+}

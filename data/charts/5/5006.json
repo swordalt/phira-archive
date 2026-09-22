@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:04:46Z",
+    "lastChanged": "2026-09-22T01:04:46Z",
+    "localBackup": {
+      "asset": "5006.zip",
+      "files": [
+        {
+          "path": "16600569.jpg",
+          "sha256": "e4deb51daa3bc44472162f09db13b7b359904fd0e8fd67a5ad59878c7c16fd6b",
+          "size": 189729
+        },
+        {
+          "path": "16600569.json",
+          "sha256": "56d8bb3779d7ea00dcb8d942e58e17b2dc0e5abddc3da051adee89bf2cc60d96",
+          "size": 75592
+        },
+        {
+          "path": "16600569.mp3",
+          "sha256": "b8bb58119d5d76d3353d2832201d0a2c0ab2a6f111b85ebd63c6ab25ad6ce766",
+          "size": 5604876
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b2186938f9e11ba69d244ee7652a31f3ab3b82906e1842afb0b0a8902bee48aa",
+          "size": 163
+        },
+        {
+          "path": "info.yml",
+          "sha256": "baa96e492f7ceb607cafe64b6999e3190f0cf2a0911c7f70bdade8d728d15461",
+          "size": 525
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "16600569.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "16600569.jpg",
+        "lineLength": 6.0,
+        "music": "16600569.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip：底 力 爆 炸"
+      },
+      "release": "backup-5000-5999",
+      "sha256": "2bf775778815f3e2498e256204a4d569c59e95d48f91d35794cd5428151f4d5b",
+      "size": 5871393,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5006.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-09T10:08:40.372008Z",
+  "charter": "A_xie_A",
+  "composer": "t+pazolite",
+  "created": "2023-07-09T10:08:40.372008Z",
+  "description": "这是简介",
+  "difficulty": 15.500002,
+  "id": 5006,
+  "illustrator": "UK",
+  "level": "AT LV.15",
+  "name": "QZKago Requiem",
+  "tags": [
+    "plain"
+  ],
+  "updated": "2023-07-09T10:08:40.372008Z",
+  "uploader": 37747
+}

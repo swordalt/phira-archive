@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:18:31Z",
+    "lastChanged": "2026-09-22T01:18:31Z",
+    "localBackup": {
+      "asset": "15363.zip",
+      "files": [
+        {
+          "path": "72341547.json",
+          "sha256": "63c076bc67b838ee572c78edb6852e2faa74424303533931cfdeed0f550c380a",
+          "size": 4481462
+        },
+        {
+          "path": "72341547.mp3",
+          "sha256": "c90ee8869b5cca4391f3511b66ec328baca01b01a69038769a268a5a0491f76f",
+          "size": 4000109
+        },
+        {
+          "path": "72341547.png",
+          "sha256": "1e95519a46e99dd77af5362eb074013a2c5a685540e371acc2aa76d46d20d003",
+          "size": 601052
+        },
+        {
+          "path": "info.txt",
+          "sha256": "8a20eac2de3e4ef5499ea302910c5b2d5fae6bd8383d08f5993da29c5eb1b505",
+          "size": 192
+        },
+        {
+          "path": "info.yml",
+          "sha256": "65e1db80aa28fe3dc50f68e5f48a59c503f6ee97f50b90d11ab9ab807b3b17b2",
+          "size": 552
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "72341547.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "72341547.png",
+        "lineLength": 6.0,
+        "music": "72341547.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip: 2085=3×5×139",
+        "unlockVideo": null
+      },
+      "release": "backup-15000-15999",
+      "sha256": "69489a8088df82dd1288441d1a8e132e7176030cec0e244e55c4f570da6f45a0",
+      "size": 9083875,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15363.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "ASOBUNTYU 2085",
+  "composer": "PRASTIK DANCEFLOOR",
+  "created": null,
+  "description": "☆超☆絶☆個☆人☆差☆大☆爆☆発☆",
+  "difficulty": 16.1,
+  "id": 15363,
+  "illustrator": "マッシュピザ",
+  "level": "SP Lv.?",
+  "name": "TECHNOPOLIS 2085",
+  "tags": [
+    "CHUNICHM",
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:00Z",
+    "lastChanged": "2026-09-22T01:08:00Z",
+    "localBackup": {
+      "asset": "7924.zip",
+      "files": [
+        {
+          "path": "30434351.jpg",
+          "sha256": "44100be15471961459adb3590bae7023ebaae307c71bce333e26f19aeb0de635",
+          "size": 135944
+        },
+        {
+          "path": "30434351.json",
+          "sha256": "66fdb17cc8d501c1fe40e00ec743083abe6f7e26c3ae6ac4e8a12dd1cd70f39f",
+          "size": 115512
+        },
+        {
+          "path": "30434351.mp3",
+          "sha256": "6431e24a5396f06778b8fc07a34fcc3a7ea44ccdba776ed042cd3dd30dfcefe5",
+          "size": 61868
+        },
+        {
+          "path": "info.txt",
+          "sha256": "f54a11a7d8428ec975ab7001686f382d8fb3c0831b394c836646a7d82cf4ca20",
+          "size": 206
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f52f312be0dfce6f9e704a3576ca7a9a9318944618df29e6441cc1868d541d89",
+          "size": 620
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "30434351.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "30434351.jpg",
+        "lineLength": 6.0,
+        "music": "30434351.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip:小鸽子们开飞机的时候要专注哦"
+      },
+      "release": "backup-7000-7999",
+      "sha256": "8918ba24e65c44d2ca32c2a5219fe91c3d49e956581caac2bec1b5bf3fa17f2d",
+      "size": 314658,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-7000-7999/7924.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-18T12:20:12.345422Z",
+  "charter": "JQIGANMG",
+  "composer": "EBIMAYO",
+  "created": "2023-08-18T12:20:12.345422Z",
+  "description": "新人初谱，若有不太好的地方请指出",
+  "difficulty": 10.0,
+  "id": 7924,
+  "illustrator": "UK",
+  "level": "SP LV.Boo!!!!!!!",
+  "name": "注意！航班即将下降，请系好安全带！",
+  "tags": [],
+  "updated": "2023-08-18T12:20:12.345422Z",
+  "uploader": 136040
+}

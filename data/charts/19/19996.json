@@ -1,0 +1,76 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:23:36Z",
+    "lastChanged": "2026-09-22T01:23:36Z",
+    "localBackup": {
+      "asset": "19996.zip",
+      "files": [
+        {
+          "path": "84785527.jpg",
+          "sha256": "5fdb87a1aec35e9d2588c9737f0ffa5095235606d4ec972ae50d5b0628b73653",
+          "size": 547735
+        },
+        {
+          "path": "84785527.json",
+          "sha256": "b365ffd6df10d8064c8cd388277f20f3db62358679146388a47d1589f309d1e5",
+          "size": 2423365
+        },
+        {
+          "path": "84785527.mp3",
+          "sha256": "96d310f14b1de056f78f53561ce18c3763a9676b240b95a4611f25d2dbdd4950",
+          "size": 3751283
+        },
+        {
+          "path": "info.txt",
+          "sha256": "41123f5dd6362e4fa427220bbb938dc445c9ed12f3b2fdd74b2b0e0e8f9edd3e",
+          "size": 193
+        },
+        {
+          "path": "info.yml",
+          "sha256": "8347d974bfe456e46d06e3b2c8656d2845d97daf4bca4be7e097fd1143d33252",
+          "size": 601
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "84785527.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "84785527.jpg",
+        "lineLength": 6.0,
+        "music": "84785527.mp3",
+        "offset": 0.0,
+        "previewEnd": 115.0,
+        "previewStart": 104.0,
+        "tip": "TapTap搜索“律动轨迹”即可下载鸽游新作！",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "298f22a432df144096014ead6480287279f6cfe1b93bf1d4acda39a7c8838b24",
+      "size": 6723685,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19996.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "勇哥 a.k.a. 谱零",
+  "composer": "uma vs. モリモリあつし",
+  "created": null,
+  "description": "本人上传",
+  "difficulty": 17.100002,
+  "id": 19996,
+  "illustrator": "山山奇 feat. V17AMax",
+  "level": "AT Lv.17",
+  "name": "BRAVE：ROAD",
+  "tags": [
+    "律动轨迹",
+    "Rizline",
+    "morimori",
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

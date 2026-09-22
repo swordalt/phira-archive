@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:24:40Z",
+    "lastChanged": "2026-09-22T01:24:40Z",
+    "localBackup": {
+      "asset": "20270.zip",
+      "files": [
+        {
+          "path": "59133961.jpg",
+          "sha256": "4b55ab02530a9ace2d021a777011a17fea0d0e3c4bbdb711392bd3e32f46d244",
+          "size": 203991
+        },
+        {
+          "path": "59133961.json",
+          "sha256": "fc13b722f465f4e2f62a49a5665a1c7aa024e2433d11d521c83bf3183b9d39d6",
+          "size": 4747506
+        },
+        {
+          "path": "59133961.mp3",
+          "sha256": "c594592ce5ca566ccc6be741d47e76455c4acd3c95fda26a58fff2f4c5700f34",
+          "size": 3818584
+        },
+        {
+          "path": "info.txt",
+          "sha256": "924c07f1bf75da36e3c1d77e79a162ea8d8cf5d5da3b33b08c8f630dcfe9152b",
+          "size": 169
+        },
+        {
+          "path": "info.yml",
+          "sha256": "442918dc0154a8733d5e4db7e9b5932e48e9decc81ae4697a3826d3967e696b8",
+          "size": 521
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "59133961.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "59133961.jpg",
+        "lineLength": 6.0,
+        "music": "59133961.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "b9a8f545d44e6e4915d1fc1504d83b6874945a30cf8268e68dc93ac439799f53",
+      "size": 8771279,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20270.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-24T13:18:39.913955Z",
+  "charter": "速核酱",
+  "composer": "DECO*27",
+  "created": "2024-05-24T13:18:39.913955Z",
+  "description": "",
+  "difficulty": 15.0,
+  "id": 20270,
+  "illustrator": "不知道",
+  "level": "IN Lv.15",
+  "name": "ラビットホール",
+  "tags": [],
+  "updated": "2024-05-24T13:18:39.913955Z",
+  "uploader": 506600
+}

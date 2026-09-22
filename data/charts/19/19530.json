@@ -1,0 +1,152 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:22:51Z",
+    "lastChanged": "2026-09-22T01:22:51Z",
+    "localBackup": {
+      "asset": "19530.zip",
+      "files": [
+        {
+          "path": "81150646.jpg",
+          "sha256": "7c5a5ad5c53f64412d52626488cde2a510ca6745137e5aa4bb3a0ff4756873e7",
+          "size": 104175
+        },
+        {
+          "path": "81150646.json",
+          "sha256": "d3563126b71e9255493d818af6d03a9d09a478a737cefad9860b89de7a88172f",
+          "size": 9402532
+        },
+        {
+          "path": "81150646.mp3",
+          "sha256": "6e7fa5b8e677278a7b2d398d658e95b4af7435805565d56d0475d476bd4227be",
+          "size": 2655498
+        },
+        {
+          "path": "break-lizitou-a.png",
+          "sha256": "3015009654bf8beca7072dfc9a787aff965ee27296256ec7a90256240f360aef",
+          "size": 400947
+        },
+        {
+          "path": "break-lizitou-b.png",
+          "sha256": "898111dff2ed45481ac6971b432ceba46366e6abcad16b01ab917a3c8996e1ab",
+          "size": 293472
+        },
+        {
+          "path": "break-shuodedaoli-a.png",
+          "sha256": "406a1c345898b63aea6540f1d5c31f9b0321f237b3c6c417c17e3b7f5b233155",
+          "size": 318841
+        },
+        {
+          "path": "break-shuodedaoli-b.png",
+          "sha256": "0413260aceee0466cb892136de1cb43b875ad2acbc8dacc87280def5ef77876f",
+          "size": 305205
+        },
+        {
+          "path": "break-waao-a.png",
+          "sha256": "eb7d0ed536be5a20faa93717e4f1da2dd4cdd9e2fdd4ad01a7f9c4e9834dd23f",
+          "size": 335714
+        },
+        {
+          "path": "break-waao-b.png",
+          "sha256": "e82ff7a2b56032a65d22ddb551611bd1ae6cad70a954f294e5e22b83e621e4b7",
+          "size": 194601
+        },
+        {
+          "path": "breakflick1.png",
+          "sha256": "68c74a5bf57cd24fa76e4193bc61577a14a91f7329a40d1d4315abaecb32898f",
+          "size": 5785
+        },
+        {
+          "path": "breakflick2.png",
+          "sha256": "747d6d1fa0c84bfd3ba5f826f0eaa870ac9522d2e3d4afaa5f15b17f7fa8bfc0",
+          "size": 6190
+        },
+        {
+          "path": "breaktap1.png",
+          "sha256": "ed75694ea44edf3648ec23ee9a77104f4438bc47f6c9a51c9cd8a5f88ce48ffd",
+          "size": 3600
+        },
+        {
+          "path": "breaktap2.png",
+          "sha256": "6ca01c2bd917b2ae413ddfea8c3cf8982b236dcaa32203e446e6379f8f09ad8f",
+          "size": 3970
+        },
+        {
+          "path": "gunmu NO.png",
+          "sha256": "d46767c052dc788cf35be30b4bcd4de82a464d4013f919ff9812b4ff7c2d66a2",
+          "size": 10306
+        },
+        {
+          "path": "info.txt",
+          "sha256": "2f54ab67436ea4cbce3dc302dd5113b4d40ddf7965ef51118a24bd0232fdfad1",
+          "size": 211
+        },
+        {
+          "path": "info.yml",
+          "sha256": "fc55bc066d677906af995641b29f0df449ed3818ecccac96cbebbac3671548fc",
+          "size": 1655
+        },
+        {
+          "path": "lizitou.png",
+          "sha256": "28672adec34252f27e2afd00ee9d8b58a776b727d83ef5939901bbe828d4ed0d",
+          "size": 623220
+        },
+        {
+          "path": "shuodedaoli.png",
+          "sha256": "b8c5428f3f573566bbe27f1bd3365b5ee6cd2f7a9d03ebb4699731410ea4630b",
+          "size": 572558
+        },
+        {
+          "path": "tianjiao NO.png",
+          "sha256": "90b80d9ac8d47994c61d37b6368e9add8a3eebfc82ce87f4d61a4dd77c1fdae2",
+          "size": 34152
+        },
+        {
+          "path": "waao.png",
+          "sha256": "4f69ce40ff1ada541bd59cb3fb219974942314b0f13603d1c44700d5902647cd",
+          "size": 497676
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "81150646.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "81150646.jpg",
+        "lineLength": 6.0,
+        "music": "81150646.mp3",
+        "offset": 0.0,
+        "previewEnd": 72.0,
+        "previewStart": 52.5,
+        "tip": "Tips:今天疯狂栗子头，V我五十个哇袄看看道理",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "d4d4caa0bc47c207d80ce070e7c403c1ba6c264b91ac6dd1dc223bf1f6869760",
+      "size": 15772422,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19530.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-04T15:39:36.918319Z",
+  "charter": "\"史前大战\"——MeowGreen~机械の城~ ",
+  "composer": "顾秋グライ",
+  "created": "2024-05-04T15:39:36.918319Z",
+  "description": "本次邀请到了@Vlouy-滺绿  客串了本谱面 负责了两段高楼表演和一些细节方面的优化 十分感谢！\nphiottos系列于本次谱面开始进行了一次优化 加入了支线光碟档案 以便更好的理解整个phiottos的剧情线，光碟档案会显示在视频简介的最下方和phira的简介里，以及phira的简介将尽量同步于B站的简介格式\n光碟说明：\n在抢到的飞船上发现的光碟，这张光碟有一些被加密的数据无法破解，按照常规手段破解只会显示灰色块面。\n这张光碟似乎记录了一场大战，从为数不多的信息来看，我们只能推断出无法破解的数据中的两位成员的其中一位是属于说的道理服务器的，而另外一个显然不是，但是他应该是宇宙中为数不多会使用高阶武器的人。\n目前只能推测出来这些了\n记得B站关注@梦幻不限量，制谱不易，如果玩的开心还请点点五星，爱你！",
+  "difficulty": 16.600002,
+  "id": 19530,
+  "illustrator": "顾秋グライ",
+  "level": "AT Lv.16",
+  "name": "♿Latent Kingdom♿",
+  "tags": [
+    "舞萌DX",
+    "otto",
+    "电棍",
+    "OTTO",
+    "troll"
+  ],
+  "updated": "2024-05-04T15:39:36.918319Z",
+  "uploader": 15214
+}

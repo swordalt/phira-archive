@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:04Z",
+    "lastChanged": "2026-09-22T01:09:04Z",
+    "localBackup": {
+      "asset": "9284.zip",
+      "files": [
+        {
+          "path": "71527857.json",
+          "sha256": "560b9520c2917b6c5e0574b47a511df83716a17d77df3abb9706e616aba722e2",
+          "size": 178255
+        },
+        {
+          "path": "71527857.mp3",
+          "sha256": "358a09cdd6ed2042a1937a6840c255b96635966b0929b5e249fcc8f1dc740b2e",
+          "size": 2609736
+        },
+        {
+          "path": "71527857.png",
+          "sha256": "9b6474db91d86179a67ac35b892997226776eb2051dec6e1afca4f261d3ca152",
+          "size": 884187
+        },
+        {
+          "path": "info.txt",
+          "sha256": "c696d06863915779b1aca8d2f7de6357208f19d41086f8cf20f840aa7e46b283",
+          "size": 191
+        },
+        {
+          "path": "info.yml",
+          "sha256": "bcdc7f793ca567a363c01fd57f768814a135d1d35774cb9a43bdf5fade39bb39",
+          "size": 656
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "71527857.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "71527857.png",
+        "lineLength": 6.0,
+        "music": "71527857.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip:奇怪的配置"
+      },
+      "release": "backup-9000-9999",
+      "sha256": "ab1a4fb75637ea58e01fb12462a50afe3c011726f2ce3061394c1a9920bb6fc4",
+      "size": 3673533,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-9000-9999/9284.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-09-11T05:22:38.641664Z",
+  "charter": "CHCAT1320",
+  "composer": "EndCat-终猫",
+  "created": "2023-09-11T05:22:38.641664Z",
+  "description": "此谱多为4k，愚人节谱，请谨慎选择。注：发b站需要at谱师，其他平台标注即可",
+  "difficulty": 10.0,
+  "id": 9284,
+  "illustrator": "EndCat-终猫",
+  "level": "SP Lv.?",
+  "name": "星相运轨-The Fake of EndCat-(Badcore Mix)",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-09-11T05:22:38.641664Z",
+  "uploader": 47124
+}

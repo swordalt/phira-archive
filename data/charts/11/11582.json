@@ -1,0 +1,75 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:31Z",
+    "lastChanged": "2026-09-22T01:11:31Z",
+    "localBackup": {
+      "asset": "11582.zip",
+      "files": [
+        {
+          "path": "5953562.jpg",
+          "sha256": "12a5a538040f9c16944d997a424cc461a3341a5a6ad489274867126e8ea50f88",
+          "size": 916864
+        },
+        {
+          "path": "5953562.json",
+          "sha256": "18ce63eafbd6b102f8e4f4d44cc999bcaad320defcef1567c963cbd1b8543ddb",
+          "size": 11006038
+        },
+        {
+          "path": "5953562.ogg",
+          "sha256": "e7fd40a5e5ef9396967f57bca1b0f8c8486f9170a05e970e2395424a51dc154b",
+          "size": 5342187
+        },
+        {
+          "path": "info.txt",
+          "sha256": "07419df03fbe12d501760ba84733c79dcd01bec1f4a71d0121a6347902098f3f",
+          "size": 157
+        },
+        {
+          "path": "info.yml",
+          "sha256": "e0cb333f8feada107ef024e7b6a0f241407551fadc194cecb5b6874331099546",
+          "size": 597
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "5953562.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "5953562.jpg",
+        "lineLength": 6.0,
+        "music": "5953562.ogg",
+        "offset": -0.024999999,
+        "previewEnd": 75.0,
+        "previewStart": 60.0,
+        "tip": "GO!! GO!! GO!! GO!!"
+      },
+      "release": "backup-11000-11999",
+      "sha256": "d670b503eb9d6b60ef4759582ad32c373f6c2f0d748c6354f504c267cb95d577",
+      "size": 17266345,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11582.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-18T16:52:59.219266Z",
+  "charter": "L11 Restart",
+  "composer": "Shirobon",
+  "created": "2023-11-18T16:52:59.219266Z",
+  "description": "[EN/US] Dualscroll stamina go brrrrrrrrr",
+  "difficulty": 16.1,
+  "id": 11582,
+  "illustrator": "Neal Coghlan ",
+  "level": "IN Lv.16",
+  "name": "On The Run",
+  "tags": [
+    "Dualscroll",
+    "Tech",
+    "Stamina",
+    "regular"
+  ],
+  "updated": "2023-11-19T21:51:45.267330Z",
+  "uploader": 591
+}

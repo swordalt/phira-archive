@@ -1,0 +1,85 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:24:14Z",
+    "lastChanged": "2026-09-22T01:24:14Z",
+    "localBackup": {
+      "asset": "20153.zip",
+      "files": [
+        {
+          "path": "63358862.json",
+          "sha256": "3ef3cc7e5a210d4bfc7924e528c71ac993be78e4ae54c0c36847520e0a23d8e6",
+          "size": 488716
+        },
+        {
+          "path": "63358862.mp3",
+          "sha256": "d860b7c7352a474ab2d8e7dd8d4bed07437397f904665e4aab253bdc31433675",
+          "size": 3617974
+        },
+        {
+          "path": "63358862.png",
+          "sha256": "c571abc820d74117bf5b16fdb09a1edcddd5c222bfdcfb7b6f34e08a8a52c4cd",
+          "size": 1622931
+        },
+        {
+          "path": "blue.png",
+          "sha256": "d432d74cb12e4127b56817731b6bf068c5cf99a62bde46c7b18eb5d6ba9a372c",
+          "size": 29332
+        },
+        {
+          "path": "extra.json",
+          "sha256": "e217e46c2f74e5f88defd1ac4ec37ace3247f66b51d797e457125cf2c6f96fb9",
+          "size": 3011
+        },
+        {
+          "path": "info.txt",
+          "sha256": "fa0c1b06bbaae4f1ae19edaeffddc60e94d382dfd38cdeae6d2a732540e0acbc",
+          "size": 179
+        },
+        {
+          "path": "info.yml",
+          "sha256": "c98673cb4f2c59dc4b0f6116265237e9d4f25ba8089a586d85b8d8574ee5eba8",
+          "size": 629
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.0,
+        "chart": "63358862.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "63358862.png",
+        "lineLength": 6.0,
+        "music": "63358862.mp3",
+        "offset": 0.06,
+        "previewEnd": 103.8,
+        "previewStart": 83.8,
+        "tip": "醒醒吧，芙宁娜，真正的水神，或许已经不在了吧",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "ee1833a725a0870412d7a2d578931fe198edebfa2a4fd32ff881d9d6afdf72fe",
+      "size": 5763468,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20153.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "钟诚胜",
+  "composer": "HOYO-MIX",
+  "created": null,
+  "description": "作者本人上传，未经授权禁止转载，如需发布B站等平台请标明原作者",
+  "difficulty": 20.0,
+  "id": 20153,
+  "illustrator": "miHoYo",
+  "level": "FLN NWLT.500",
+  "name": "轻涟 La vaguelette",
+  "tags": [
+    "原神",
+    "芙芙",
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

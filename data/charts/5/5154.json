@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:04Z",
+    "lastChanged": "2026-09-22T01:05:04Z",
+    "localBackup": {
+      "asset": "5154.zip",
+      "files": [
+        {
+          "path": "14687319.json",
+          "sha256": "871c8aacccb4021dab19175d6bbf4c3690881de6495a154859ed4c2936e15816",
+          "size": 4996909
+        },
+        {
+          "path": "14687319.mp3",
+          "sha256": "a46b1d50c38d1e1ddd577d04bfe3fa3ed80065d1f80b47a75bc5532045933506",
+          "size": 2323228
+        },
+        {
+          "path": "14687319.png",
+          "sha256": "979d333e1be891b97b0aec3dd41146ad660e6eeaec46b4023146462931c18f7c",
+          "size": 80987
+        },
+        {
+          "path": "info.txt",
+          "sha256": "889a2daf02d9043b19db2f0596a69d5649fc605aa579617312a771edfdc2f47d",
+          "size": 157
+        },
+        {
+          "path": "info.yml",
+          "sha256": "ec89be8a5d1eafa02317ed49a4a8962574feef589da93214f28a6013175baad3",
+          "size": 563
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "14687319.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "14687319.png",
+        "lineLength": 6.0,
+        "music": "14687319.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "嗯嗯啊啊哦哦咦咦"
+      },
+      "release": "backup-5000-5999",
+      "sha256": "d42c0c9b7c475932ff786692a0cb7cd449eac7e406ba2b34515902128399f146",
+      "size": 7402352,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5154.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-12T08:12:15.949674Z",
+  "charter": "ZBObby",
+  "composer": "seatrus",
+  "created": "2023-07-12T08:12:15.949674Z",
+  "description": "让你还原这个本家，不是那个本家（恼）",
+  "difficulty": 16.500002,
+  "id": 5154,
+  "illustrator": "2AI4wU4",
+  "level": "AT Lv.16",
+  "name": "零號車輛",
+  "tags": [],
+  "updated": "2023-07-12T08:57:35.929748Z",
+  "uploader": 6232
+}

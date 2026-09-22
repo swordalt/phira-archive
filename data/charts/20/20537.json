@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:25:07Z",
+    "lastChanged": "2026-09-22T01:25:07Z",
+    "localBackup": {
+      "asset": "20537.zip",
+      "files": [
+        {
+          "path": "87262425.json",
+          "sha256": "5a80ef95252e63c0a016ca070015b50fbf419baabb68645fe26eb6496f7b671d",
+          "size": 2887171
+        },
+        {
+          "path": "87262425.mp3",
+          "sha256": "4f50b342b17998834bd148db2a77809fd5f3d6fce1ad2a615f95a2b06154cc8b",
+          "size": 5921561
+        },
+        {
+          "path": "87262425.png",
+          "sha256": "06fe13ba32bcdd853e63419456210763c58fcee6f0abfbd1489e5d8f5c0eddc5",
+          "size": 748931
+        },
+        {
+          "path": "info.txt",
+          "sha256": "bd9e9a8210bb769a04cb59b431c816e0ff608864452feb9f35bfb821d2686286",
+          "size": 154
+        },
+        {
+          "path": "info.yml",
+          "sha256": "c0d9a22ee899bb4a067dfba2a6fca8e63db29368bfaab46f3bb16d7b38a9066c",
+          "size": 802
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.5,
+        "backgroundDim": 0.6,
+        "chart": "87262425.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "87262425.png",
+        "lineLength": 6.0,
+        "music": "87262425.mp3",
+        "offset": 0.0,
+        "previewEnd": 50.1,
+        "previewStart": 35.1,
+        "tip": "Tip: 今乃盛夏日，惟我独恋雪。",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "776e724c6b7211babd9ef11090f59dc1fd7e439bc4c190b8bb0c06f6d3c6cb9d",
+      "size": 9559127,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20537.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-30T16:00:06.417643Z",
+  "charter": "LithiumLee",
+  "composer": "Delos",
+  "created": "2024-05-30T16:00:06.417643Z",
+  "description": "新人六谱，本人上传\n个人非常喜欢《恋雪》这首歌，所以用这首歌写了一首谱子。谱面里面还会有很多细节。\n（屏幕比例3:2游玩最佳，比例已调好。建议不要随意修改宽高比，否则影响观感。 ）",
+  "difficulty": 13.1,
+  "id": 20537,
+  "illustrator": "AN_358",
+  "level": "IN  Lv.13",
+  "name": "恋雪",
+  "tags": [],
+  "updated": "2024-06-06T01:58:32.864032Z",
+  "uploader": 378329
+}

@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:44Z",
+    "lastChanged": "2026-09-22T01:07:44Z",
+    "localBackup": {
+      "asset": "7716.zip",
+      "files": [
+        {
+          "path": "1550379.json",
+          "sha256": "be19a1968e71d16cbf4b9f5f291379d1ffb792a8088fb71942709f6a4ad73f90",
+          "size": 565119
+        },
+        {
+          "path": "1550379.mp3",
+          "sha256": "adfa51b13d9b1baeff6b16688ade3f3d75adfce4fecfee8a397d28427d8226a3",
+          "size": 222019
+        },
+        {
+          "path": "1550379.png",
+          "sha256": "4f7f2d9f2abf7796172b4ad6f9a86ee51d9f1a5e58f53462886dc83da8046905",
+          "size": 45916
+        },
+        {
+          "path": "info.txt",
+          "sha256": "7264cc2c4ddf75a81168628e1ea67fc491d801f0e28393b8c3e19e779271e633",
+          "size": 251
+        },
+        {
+          "path": "info.yml",
+          "sha256": "2ee89f347b92500d07e14b10e495e5731c2378a4b3ba31acea9f245dc9c50169",
+          "size": 538
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.5,
+        "chart": "1550379.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "1550379.png",
+        "lineLength": 6.0,
+        "music": "1550379.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "我在干什么"
+      },
+      "release": "backup-7000-7999",
+      "sha256": "4a3044dab7412082f251f48ae64b121a949e95ab441016939a7c8dd4a22ae69c",
+      "size": 834345,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-7000-7999/7716.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-15T14:00:25.732839Z",
+  "charter": "cHoJInG",
+  "composer": "我自己",
+  "created": "2023-08-15T14:00:25.732839Z",
+  "description": "我b站叫ChoJing",
+  "difficulty": 11.900001,
+  "id": 7716,
+  "illustrator": "我自己",
+  "level": "CJ Lv.-1",
+  "name": "音效库限时免费！",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-08-15T16:50:03.050743Z",
+  "uploader": 161912
+}

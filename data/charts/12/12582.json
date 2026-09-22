@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:13:16Z",
+    "lastChanged": "2026-09-22T01:13:16Z",
+    "localBackup": {
+      "asset": "12582.zip",
+      "files": [
+        {
+          "path": "63286269.jpg",
+          "sha256": "d53ad143f941fd20e99e5ca999126eb2196cda883963ac63748a4ee1611e7586",
+          "size": 1102711
+        },
+        {
+          "path": "63286269.json",
+          "sha256": "eeaa07f0179df6f6ce0f22202f4c5b993cfd55afb71506373f5fc77559a5dc17",
+          "size": 48447
+        },
+        {
+          "path": "63286269.mp3",
+          "sha256": "d1fc936be345799d3c6991aa642533d377cd7695a572746abd3b0f1010daa350",
+          "size": 4057344
+        },
+        {
+          "path": "info.txt",
+          "sha256": "43bad6709637897d1cb46994eb71bcec06c5dc0cbeb82dc8e0e1ebea65f0d81f",
+          "size": 167
+        },
+        {
+          "path": "info.yml",
+          "sha256": "13fe059e49e235e1934d1d3f9596e1eab04b47b4162b2b5bd270a54c04d4ae46",
+          "size": 423
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "63286269.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "63286269.jpg",
+        "lineLength": 6.0,
+        "music": "63286269.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-12000-12999",
+      "sha256": "86d1c4c49e54a6519ab4997e8602c7dcfa81a049185643098ebab396cf1289cf",
+      "size": 5209600,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12582.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "Asa v.s. Kobe",
+  "composer": "Kobe",
+  "created": null,
+  "description": "",
+  "difficulty": 0.0,
+  "id": 12582,
+  "illustrator": "UK",
+  "level": "0",
+  "name": "See you again(Kobe remix)",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

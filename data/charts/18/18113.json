@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:17Z",
+    "lastChanged": "2026-09-22T01:21:17Z",
+    "localBackup": {
+      "asset": "18113.zip",
+      "files": [
+        {
+          "path": "1712291379.ogg",
+          "sha256": "379df239743cc87a9ae0d7da2f9aab69b21695792bb432106b3807d78dd7e1bd",
+          "size": 3512669
+        },
+        {
+          "path": "Latent Kingdom (From Malody).json",
+          "sha256": "5c0c9e87c0e95ddc5e51607b485fec39b7df3960ddec4233992d424ea9969db1",
+          "size": 1005486
+        },
+        {
+          "path": "info.csv",
+          "sha256": "fbc795c833db4ad002029721af7d359ea5d5fced53b58a9dc0a18b406befa8c7",
+          "size": 206
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f794f9c5862042473a87b9e8ac4745c4840c22e511a2cd793c81b628df693661",
+          "size": 622
+        },
+        {
+          "path": "ΦÇüΣ║îvs.σñºσ¢╜σÑÅΘƒ│.jpg",
+          "sha256": "3cb9fb346e3f38d943dd983994273dd8daeb02cf98cb1e87e44e47028a369ac0",
+          "size": 745110
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "Latent Kingdom (From Malody).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "ΦÇüΣ║îvs.σñºσ¢╜σÑÅΘƒ│.jpg",
+        "lineLength": 6.0,
+        "music": "1712291379.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-18000-18999",
+      "sha256": "4021711d8da76e40f9525aa9670f285ec375bab4c64fd7f6504c3bf3483b77a5",
+      "size": 5264713,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-18000-18999/18113.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-04-07T14:16:00.462246Z",
+  "charter": "InkyYu vs. NyceYu",
+  "composer": "Laur vs. 大国奏音",
+  "created": "2024-04-05T13:45:32.904165Z",
+  "description": "4小时速写\n制谱器为Malody.",
+  "difficulty": 20.0,
+  "id": 18113,
+  "illustrator": "UK",
+  "level": "4k Lv.20",
+  "name": "Latent Kingdom",
+  "tags": [],
+  "updated": "2024-04-07T14:16:00.462246Z",
+  "uploader": 81801
+}

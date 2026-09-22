@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:14:32Z",
+    "lastChanged": "2026-09-22T01:14:32Z",
+    "localBackup": {
+      "asset": "13309.zip",
+      "files": [
+        {
+          "path": "18557370.jpg",
+          "sha256": "695959d82706ed2063af40e4316d74396b7ceaf71e04cffb72c7f8829ad63e6e",
+          "size": 107520
+        },
+        {
+          "path": "18557370.json",
+          "sha256": "2b17c0c07caa27ca14eb7f2734bec348a674514abb56f428105e8fdc34388369",
+          "size": 2043514
+        },
+        {
+          "path": "18557370.mp3",
+          "sha256": "50657ebd756a46208be14edb4b37fce855dc7f57d0bf6bb5060a8fffaa96429f",
+          "size": 6023085
+        },
+        {
+          "path": "info.txt",
+          "sha256": "1be930241458eee4fbc516f39096176a277258ca1c110cc73eda99c196cf9a8d",
+          "size": 160
+        },
+        {
+          "path": "info.yml",
+          "sha256": "0ce46254e0196c11e0aecb5bae1a2279d5b4b44ad7326999ffb9acf916cc58c7",
+          "size": 556
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "18557370.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "18557370.jpg",
+        "lineLength": 6.0,
+        "music": "18557370.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-13000-13999",
+      "sha256": "c5fe9c19c078fabc2e2f0675d8d42c717892aab7a36f78534d169a671e8455fa",
+      "size": 8175343,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13309.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-06T15:13:53.962575Z",
+  "charter": "三角TriΔngle",
+  "composer": "RiraN",
+  "created": "2024-01-06T15:13:53.962575Z",
+  "description": "這是我做的第一張譜面，希望大佬們能不吝指教～",
+  "difficulty": 15.300001,
+  "id": 13309,
+  "illustrator": "UK",
+  "level": "AT Lv.15",
+  "name": "Daydream",
+  "tags": [],
+  "updated": "2024-01-06T15:13:53.962575Z",
+  "uploader": 546286
+}

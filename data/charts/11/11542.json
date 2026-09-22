@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:26Z",
+    "lastChanged": "2026-09-22T01:11:26Z",
+    "localBackup": {
+      "asset": "11542.zip",
+      "files": [
+        {
+          "path": "10697474.json",
+          "sha256": "b27c2f92fa216dddc8f0846d52bbfcf8299d1943a0bec4e1a309c08aa8b92cc5",
+          "size": 187271
+        },
+        {
+          "path": "10697474.mp3",
+          "sha256": "86a66dab266019504adc63d377ef7fdbe273fe80c6f86740c52ad761bdfc780b",
+          "size": 520610
+        },
+        {
+          "path": "IMG_3699.jpg",
+          "sha256": "e8d10dbce6b9eef41d87af8737cc982c8b05b8b9aafed452bc5efc1930522637",
+          "size": 704510
+        },
+        {
+          "path": "info.txt",
+          "sha256": "03a8660b49a83fddc1099997fed0e481783ff557c99084503fe052e9777d3190",
+          "size": 159
+        },
+        {
+          "path": "info.yml",
+          "sha256": "4a911be9aba8c5a88d89de04471d1018d1fd34ceeac931944041405d36d5fa27",
+          "size": 543
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "10697474.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "IMG_3699.jpg",
+        "lineLength": 6.0,
+        "music": "10697474.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "IP地址为…妈妈省？"
+      },
+      "release": "backup-11000-11999",
+      "sha256": "443be7a9f5a99d51e1be0b7a693cdc32644721b6b41d1d7b74f8bfa11928f3ad",
+      "size": 1413601,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11542.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-18T00:49:50.602100Z",
+  "charter": "rui1218",
+  "composer": "ANANYA NABILA",
+  "created": "2023-11-18T00:49:50.602100Z",
+  "description": "脑子好痛，要长脑子了",
+  "difficulty": 14.0,
+  "id": 11542,
+  "illustrator": "B站上截的图",
+  "level": "IN",
+  "name": "Galaxy",
+  "tags": [],
+  "updated": "2023-11-18T00:49:50.602100Z",
+  "uploader": 520765
+}

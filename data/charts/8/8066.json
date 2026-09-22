@@ -1,0 +1,65 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:04Z",
+    "lastChanged": "2026-09-22T01:08:04Z",
+    "localBackup": {
+      "asset": "8066.zip",
+      "files": [
+        {
+          "path": "Raven Emperor (Absolute Version).pec",
+          "sha256": "dd82f798c0533fda519ef09f0b83dfbdb46417f65952e7093cb0cc4a853402d2",
+          "size": 253587
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5d0c838f2c5f87196c58d97a8495d315e17b28061ef83e44eded91c5f427ba70",
+          "size": 478
+        },
+        {
+          "path": "re.mp3",
+          "sha256": "f319c56345d572c0627a6e62e6d69a17334a3d72963dff73435cf619135f4724",
+          "size": 7990628
+        },
+        {
+          "path": "re.png",
+          "sha256": "af4b14c40f6f57b534b763b669323775b551a8f65b90155e152252890a734c54",
+          "size": 3013308
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "Raven Emperor (Absolute Version).pec",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "re.png",
+        "lineLength": 6.0,
+        "music": "re.mp3",
+        "offset": 0.875,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "飞技杯十号选手"
+      },
+      "release": "backup-8000-8999",
+      "sha256": "f03fd104d5182cf9975ddec145c4162d84d7f387dba5aae821fde7dcf152ee08",
+      "size": 11258439,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-8000-8999/8066.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "twotthrees emperror",
+  "composer": "kobaryo",
+  "created": null,
+  "description": "飞技杯 No.10",
+  "difficulty": 18.000004,
+  "id": 8066,
+  "illustrator": "UK",
+  "level": "英国 Lv.18",
+  "name": "Raven Emperor",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

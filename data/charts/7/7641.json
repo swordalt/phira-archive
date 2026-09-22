@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:34Z",
+    "lastChanged": "2026-09-22T01:07:34Z",
+    "localBackup": {
+      "asset": "7641.zip",
+      "files": [
+        {
+          "path": "1526207.jpg",
+          "sha256": "e0440cda7835c56b48a43b83341e51b2ce9ce37a98150c72887d20f3e3f3752c",
+          "size": 1297776
+        },
+        {
+          "path": "1526207.json",
+          "sha256": "521d8ea916251abac21b808b82212756006ecb718cdc31756b1e85c5d81ee57f",
+          "size": 1412480
+        },
+        {
+          "path": "1526207.ogg",
+          "sha256": "b5e9de7709eb70b649e7102bab1d49c0cc863e546d86ce7d3597cc3ae443d82e",
+          "size": 3332766
+        },
+        {
+          "path": "info.txt",
+          "sha256": "4e55fd728b36787dcf4951f5cf5a5135666bc6b5977a86a8811c36433647f5b1",
+          "size": 150
+        },
+        {
+          "path": "info.yml",
+          "sha256": "3bde05dc1c423fd4a8553b0d92154bd8a28e3cd3c443962613f3c56321a3a8a9",
+          "size": 467
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "1526207.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "1526207.jpg",
+        "lineLength": 6.0,
+        "music": "1526207.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "加入萝莉次元368835276谢谢喵"
+      },
+      "release": "backup-7000-7999",
+      "sha256": "9b580f456b4597a8d73a5684ac9040fc834e5ac917959c9b79b5daca40c8e2a4",
+      "size": 6044141,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-7000-7999/7641.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "星星awa",
+  "composer": "Laur",
+  "created": null,
+  "description": "加入萝莉次元 368835276",
+  "difficulty": 16.0,
+  "id": 7641,
+  "illustrator": "WACCA",
+  "level": "AT Lv.17",
+  "name": "Animosity",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

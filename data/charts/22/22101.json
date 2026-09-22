@@ -1,0 +1,90 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:29:56Z",
+    "lastChanged": "2026-09-22T01:29:56Z",
+    "localBackup": {
+      "asset": "22101.zip",
+      "files": [
+        {
+          "path": "79398729.jpg",
+          "sha256": "08d685cda47fb67d0f04644140593d29fee15c5a2df7b0287c2e88f29b707eba",
+          "size": 168600
+        },
+        {
+          "path": "79398729.json",
+          "sha256": "83ce8cfba87a7dd481c204c0b22297241718fd6c2e487b1119eb2583004fc416",
+          "size": 4680205
+        },
+        {
+          "path": "79398729.mp3",
+          "sha256": "be22aefc96a0039575cbc8ae22c7a11e79610a9ba055d725179074443acc1bbb",
+          "size": 2036366
+        },
+        {
+          "path": "info.txt",
+          "sha256": "19cf386fd2be190f4e04ea396f22a910dccf5fdde299df1181fc7541eac64faf",
+          "size": 180
+        },
+        {
+          "path": "info.yml",
+          "sha256": "454d3ea9f37ad7bdeafbda9b584ddc63065c8c5269f530ee19c65fe278691a1a",
+          "size": 1322
+        },
+        {
+          "path": "lizitou.png",
+          "sha256": "28672adec34252f27e2afd00ee9d8b58a776b727d83ef5939901bbe828d4ed0d",
+          "size": 623220
+        },
+        {
+          "path": "shuodedaoli.png",
+          "sha256": "b8c5428f3f573566bbe27f1bd3365b5ee6cd2f7a9d03ebb4699731410ea4630b",
+          "size": 572558
+        },
+        {
+          "path": "waao.png",
+          "sha256": "4f69ce40ff1ada541bd59cb3fb219974942314b0f13603d1c44700d5902647cd",
+          "size": 497676
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "79398729.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "79398729.jpg",
+        "lineLength": 6.0,
+        "music": "79398729.mp3",
+        "offset": 0.0,
+        "previewEnd": 38.0,
+        "previewStart": 20.0,
+        "tip": "Tips:人生有梦，各自阐述",
+        "unlockVideo": null
+      },
+      "release": "backup-22000-22999",
+      "sha256": "6ee46a0173de53c33f179fc4c6b51216e43b162c90f2a2bfafab2da3fb7f441c",
+      "size": 8580931,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-22000-22999/22101.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-28T15:37:01.701047Z",
+  "charter": "梦 幻 狂 冲 一 小 时",
+  "composer": "-W33K-",
+  "created": "2024-06-28T15:37:01.701047Z",
+  "description": "这次偷懒了些，特效方面没有过多运用，观感可能不是很好，但还是建议大家先给五星，你们的支持是梦幻创作的动力！\n此谱面隶属于主线第二章\n解锁方式：在This Future (we didn't expect)中获得A评价\n主线剧情概述：距离吉吉服务器还有一段距离，不过更多的说的道理服务器的成员追上来了，而且他们的战斗力比之前的那批更强。危急关头电棍加足马力逃离了包围圈。平静下来后，电棍再次朝着吉吉服务器的方向驶去，不过，电棍心里隐隐有种不好的预感，似乎在这之后还有一场巨大的恶战即将爆发......\nB站关注@梦幻不限量，谢谢喵，记得五星哦",
+  "difficulty": 15.900001,
+  "id": 22101,
+  "illustrator": "-W33K-",
+  "level": "IN Lv.15",
+  "name": "♿Rush-Hour♿",
+  "tags": [
+    "otto",
+    "故事版",
+    "troll"
+  ],
+  "updated": "2024-06-28T15:37:01.701047Z",
+  "uploader": 565793
+}

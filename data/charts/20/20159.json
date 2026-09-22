@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:24:26Z",
+    "lastChanged": "2026-09-22T01:24:26Z",
+    "localBackup": {
+      "asset": "20159.zip",
+      "files": [
+        {
+          "path": "63499631.jpg",
+          "sha256": "710f8dd01bf309a7e2081ac2aff080a9140686f07f1f15d72a69513ac55a6abb",
+          "size": 41964
+        },
+        {
+          "path": "63499631.json",
+          "sha256": "2aabf24d1d6f19f703c55f181aacfbe2e3730da036169bdaf163e605c674dcfd",
+          "size": 1693807
+        },
+        {
+          "path": "63499631.mp3",
+          "sha256": "84a5ea2857cce8336285b5b4f626082bf68fae133e75940c52214bfd02e5cfde",
+          "size": 2395368
+        },
+        {
+          "path": "info.txt",
+          "sha256": "088960a46dca6e6cbb27e1c514a45479d5dcf373aaa843f3e3bea7d812d48694",
+          "size": 202
+        },
+        {
+          "path": "info.yml",
+          "sha256": "6b9dd6fa2e1d9c978578dc9bd080f4dd53b89b32b7f6d1503867368033e1ee8d",
+          "size": 1161
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "63499631.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "63499631.jpg",
+        "lineLength": 6.0,
+        "music": "63499631.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "永夜城，曾经也有白天……",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "02a82edddbed4298f7c726d49ebce332cc7eb2e8534aac053144a40b4253b55b",
+      "size": 4133010,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20159.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "Hikari Originaire de Lci ARCAEA",
+  "composer": "黒皇帝 feat. AKA",
+  "created": null,
+  "description": "审核员快捷审核区：\n3.25补充画师\n5.18因为看到hd谱面上了也迫不及待的想回归这张谱面\n5.19对比实验 只要这张谱评分大于上一张谱就把上一张谱撤掉喽\n\n改了第114514次 再试一次\nB站与p站（phira）同名 xhs名为Re：End of the Hikari（谱师本人）\n验证谱师是否为本人的方式：\nQQ1027250801 密码16.27\n\n孩子们，我的谱面回归了\n我希望下次不要再有不标谱师的情况\n所以发布到xhs以及哔站请@底力の神\n发布到其他平台上请与我本人联系\nQQ：1072750801 密码：16.27\n（诶我为什么要再说一遍）",
+  "difficulty": 10.0,
+  "id": 20159,
+  "illustrator": "NekoFTR",
+  "level": "EZ Lv.7+",
+  "name": "Le porteur d’Ombre",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

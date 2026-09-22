@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:19:53Z",
+    "lastChanged": "2026-09-22T01:19:53Z",
+    "localBackup": {
+      "asset": "16850.zip",
+      "files": [
+        {
+          "path": "82684072.jpg",
+          "sha256": "124b687cd66c543cf615bdbb4afe8e5eba4d185cb399a15b5f8aa9e1e2e8a20a",
+          "size": 58369
+        },
+        {
+          "path": "82684072.json",
+          "sha256": "d1d4c3cf9a0e04da08d1fa2de0d4423d06bcdea4ed0257663ef932a4b052612a",
+          "size": 1459878
+        },
+        {
+          "path": "82684072.mp3",
+          "sha256": "73c544a5f4eab4dca02948bbf8fe9952de9f8db0e402800d75cd5683a1a160af",
+          "size": 6967423
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d54fa28bf76248b88f4f9b12addce965182f16c30fd99bd408ec69a9df867fd8",
+          "size": 158
+        },
+        {
+          "path": "info.yml",
+          "sha256": "533948b8d6dd63e9426d280379cdcd254050c130690d991d88605327320ca02b",
+          "size": 553
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "82684072.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "82684072.jpg",
+        "lineLength": 6.0,
+        "music": "82684072.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-16000-16999",
+      "sha256": "6135ef7a90a4237664b8303f8f1be223fa881c44c536554210a3c62758491133",
+      "size": 8486889,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-16000-16999/16850.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-03-08T14:57:02.421165Z",
+  "charter": "warma猫猫~",
+  "composer": "Leat‘eq",
+  "created": "2024-03-08T14:57:02.421165Z",
+  "description": "我尊的不知道曲绘作者 求过",
+  "difficulty": 14.900003,
+  "id": 16850,
+  "illustrator": "未知",
+  "level": "SP Lv.14",
+  "name": "Tokyo",
+  "tags": [
+    "visual"
+  ],
+  "updated": "2024-03-08T14:57:02.421165Z",
+  "uploader": 506600
+}

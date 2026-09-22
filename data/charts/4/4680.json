@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:04:00Z",
+    "lastChanged": "2026-09-22T01:04:00Z",
+    "localBackup": {
+      "asset": "4680.zip",
+      "files": [
+        {
+          "path": "30868368.jpg",
+          "sha256": "49a974f589834740be6d389eb9276ebc92077d33a0c3592d5cb7d77aa5ff8722",
+          "size": 57661
+        },
+        {
+          "path": "30868368.json",
+          "sha256": "8aad1c47c3bd6e4ff4594eb86d8bde39be304d793b945c6737d9386380840699",
+          "size": 13081
+        },
+        {
+          "path": "30868368.mp3",
+          "sha256": "25edebb25f436539ae022e543a894e5babdbb8a03ceb20add8778695fba7a9cd",
+          "size": 240975
+        },
+        {
+          "path": "info.txt",
+          "sha256": "47af1a7544544ffeff701641b9e2d47af6256aea2df568538844c0692e67afee",
+          "size": 154
+        },
+        {
+          "path": "info.yml",
+          "sha256": "7793d6ced3a9e9d1eea083410b2d3cab3c3c3647bd27f5189010c7ed566d0384",
+          "size": 542
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "30868368.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "30868368.jpg",
+        "lineLength": 6.0,
+        "music": "30868368.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "同学之间的恶作剧(￣◇￣;)"
+      },
+      "release": "backup-4000-4999",
+      "sha256": "ea9e424e7acb21ef1f8ffe545e643755a16a1f1278134faaf532b32942468664",
+      "size": 312921,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-4000-4999/4680.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-05T10:24:54.052965Z",
+  "charter": "DY classmate",
+  "composer": "GUO Vegetable",
+  "created": "2023-07-05T10:24:54.052965Z",
+  "description": "呃呃呃",
+  "difficulty": 10.0,
+  "id": 4680,
+  "illustrator": "微信头像",
+  "level": "Boluo",
+  "name": "菠萝咒",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-07-05T10:24:54.052965Z",
+  "uploader": 11729
+}

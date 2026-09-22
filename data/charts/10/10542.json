@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:55Z",
+    "lastChanged": "2026-09-22T01:09:55Z",
+    "localBackup": {
+      "asset": "10542.zip",
+      "files": [
+        {
+          "path": "1515563449.jpg",
+          "sha256": "10cd4b2802700343b018fe0c01cdc70bf04cb05d4666f326db024167e0823d5f",
+          "size": 32501
+        },
+        {
+          "path": "1561458192.ogg",
+          "sha256": "3b0b65e6637d1bcd77667ad15276dff5a678a37bc136ab60370dc1cd9eb9bd0e",
+          "size": 2711370
+        },
+        {
+          "path": "G e n g a o z o(From Malody).json",
+          "sha256": "4776557c3c4ea96a3d2f853f184eadfb96f3865116ecc6f643c689f1cb7979bb",
+          "size": 2145928
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d4f4e4f0d3e639ca532e95a3046c3f870f8577242c2d39ecd8fb559bb4a53841",
+          "size": 190
+        },
+        {
+          "path": "info.yml",
+          "sha256": "b3cc91082ca124ee348984c838a89e9d739417fbd20fdde446b288aca25d9c1d",
+          "size": 593
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 1.0,
+        "chart": "G e n g a o z o(From Malody).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "1515563449.jpg",
+        "lineLength": 6.0,
+        "music": "1561458192.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "极致诡谲"
+      },
+      "release": "backup-10000-10999",
+      "sha256": "3909306d30f536bba82d63ef4b6b204d33bf815160b27384c0aed7d806924e30",
+      "size": 4891138,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-10000-10999/10542.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-10-16T00:27:45.687724Z",
+  "charter": "cooodecy",
+  "composer": "-45",
+  "created": "2023-10-16T00:27:45.687724Z",
+  "description": "本人写的，代表了这张图表是我造的而非别人造的",
+  "difficulty": 16.5,
+  "id": 10542,
+  "illustrator": "-45",
+  "level": "4K SB Lv.-45",
+  "name": "G e n g a o z o",
+  "tags": [
+    "plain"
+  ],
+  "updated": "2023-10-16T00:27:45.687724Z",
+  "uploader": 3955
+}

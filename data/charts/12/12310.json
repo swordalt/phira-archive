@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:12:18Z",
+    "lastChanged": "2026-09-22T01:12:18Z",
+    "localBackup": {
+      "asset": "12310.zip",
+      "files": [
+        {
+          "path": "85416782.jpg",
+          "sha256": "15128f4f46872fc8e4102bcd1ecfed3329390010a2035e713637abf05052c9d9",
+          "size": 372507
+        },
+        {
+          "path": "85416782.json",
+          "sha256": "e16ea6b13202c63010a38b561d3b2aa4c315f26f79427312a79ee568c08f5f33",
+          "size": 1887366
+        },
+        {
+          "path": "85416782.mp3",
+          "sha256": "741801b4f0dc81d3bb98adb9251a625a15c2def65db04544aea199df06040d36",
+          "size": 6122077
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d951115b6df2025b269334d8d12c2d0ecb7052ff867e496e6da14dcc025bb45d",
+          "size": 185
+        },
+        {
+          "path": "info.yml",
+          "sha256": "404ae8de5366cb2e7d12ce631dbf388d16b2cb5341066d67fb99cb55660ebd1a",
+          "size": 673
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.39999998,
+        "chart": "85416782.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "85416782.jpg",
+        "lineLength": 6.0,
+        "music": "85416782.mp3",
+        "offset": 0.0,
+        "previewEnd": 125.0,
+        "previewStart": 110.0,
+        "tip": null
+      },
+      "release": "backup-12000-12999",
+      "sha256": "eca539e9217b7854110cb6c97ad4d3960d44202efc876c7b9bd3bb42ec32ff59",
+      "size": 8383316,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12310.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-09T14:06:44.635020Z",
+  "charter": "Days-Waste-Ж",
+  "composer": "LYRi \"Cyanblue\" WHiTE x NIKANON ",
+  "created": "2023-12-09T14:06:44.635020Z",
+  "description": "为谱师本人上传\n是个人的第一张16，部分配置可能十分不合理，见谅见谅（）\nb站视频链接BV1YH4y1k7mg",
+  "difficulty": 16.500002,
+  "id": 12310,
+  "illustrator": "Siesphere",
+  "level": "AT Lv.16",
+  "name": "《Ж》",
+  "tags": [],
+  "updated": "2023-12-09T14:06:44.635020Z",
+  "uploader": 50884
+}

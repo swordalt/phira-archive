@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:22:58Z",
+    "lastChanged": "2026-09-22T01:22:58Z",
+    "localBackup": {
+      "asset": "19596.zip",
+      "files": [
+        {
+          "path": "1711037673.ogg",
+          "sha256": "3c27b1b112cff0c869f59006816fb0744020a4106014b728929fadf73d3b01d7",
+          "size": 3676490
+        },
+        {
+          "path": "8.json",
+          "sha256": "b758327553e8362280b002e91a7bf267acbfb0315e2c1786852f4a523f4e1c27",
+          "size": 688944
+        },
+        {
+          "path": "Illustration #2414.jpg",
+          "sha256": "97d67d0cad826db820b6ddbc879ea588986f938aec04a93d12649a9e6ca62cbb",
+          "size": 1360854
+        },
+        {
+          "path": "info.csv",
+          "sha256": "169f6ff82d6c86ad77d45d5c3ad302a47762a0cb3e1c8414bac8e9588998478e",
+          "size": 173
+        },
+        {
+          "path": "info.yml",
+          "sha256": "7890c2a334095890b88c40f6e85f6ccc24805572714a26aa5ed7569897406a47",
+          "size": 677
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "8.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "Illustration #2414.jpg",
+        "lineLength": 6.0,
+        "music": "1711037673.ogg",
+        "offset": 0.0,
+        "previewEnd": 117.14,
+        "previewStart": 97.14,
+        "tip": "Tip: 这回真四世同堂了(不是)",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "36a4d7bdd33afd18f5242fd330df6df5a93f568a9cd25d2b52de02759e46355c",
+      "size": 5727656,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19596.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-05T09:53:53.350129Z",
+  "charter": "Miku_awa",
+  "composer": "Silentroom",
+  "created": "2024-05-05T09:53:53.350129Z",
+  "description": "做的有点急，排版没怎么调\n整活向\n下次再改一下\n敬请期待",
+  "difficulty": 1.9000007,
+  "id": 19596,
+  "illustrator": "Lanota © Noxy Games Inc.",
+  "level": "BYD Lv.flick",
+  "name": "Protoflicker",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-05-05T09:53:53.350129Z",
+  "uploader": 828795
+}

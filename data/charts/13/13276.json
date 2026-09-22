@@ -1,0 +1,66 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:14:27Z",
+    "lastChanged": "2026-09-22T01:14:27Z",
+    "localBackup": {
+      "asset": "13276.zip",
+      "files": [
+        {
+          "path": "94794146.PNG",
+          "sha256": "988692ad6c49d2c2c47290690832a4bc53221eb36409ccf95cee621605587ee5",
+          "size": 2555776
+        },
+        {
+          "path": "94794146.json",
+          "sha256": "efc93fbc4d4f19383c6fbd9a170a8eb57b6fa0098ee86912a45e4c4e7ba1cdb1",
+          "size": 3384891
+        },
+        {
+          "path": "94794146.mp3",
+          "sha256": "365c719012c3697f5f55f02bd519573cd77aa5c1f5e8ff7471fe7605f1a42d44",
+          "size": 6848353
+        },
+        {
+          "path": "info.yml",
+          "sha256": "d140e17f35bf68ac08644ae21c8ba53e8373ad3739ee9ee195695737e21f1c36",
+          "size": 687
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "94794146.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "94794146.PNG",
+        "lineLength": 6.0,
+        "music": "94794146.mp3",
+        "offset": 0.015,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "“坠落深渊”",
+        "unlockVideo": null
+      },
+      "release": "backup-13000-13999",
+      "sha256": "a5faf292e0dcdd9d955f9458c5282abe614399b44eca363fb776c0482f92d6ff",
+      "size": 12790123,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13276.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-06T08:24:57.499682Z",
+  "charter": "Kanylant\"Not Furry\"",
+  "composer": "Daily vs. Roon_kun",
+  "created": "2024-01-06T08:24:57.499682Z",
+  "description": "最新力作！本人上传，b站不发，视情况决定最终是否留下此谱面。重点：我不是福瑞，我只喜欢歌！！！",
+  "difficulty": 15.600002,
+  "id": 13276,
+  "illustrator": "KeiHachi",
+  "level": "IN Lv.15",
+  "name": "Mandragora",
+  "tags": [],
+  "updated": "2024-01-06T08:24:57.499682Z",
+  "uploader": 97691
+}

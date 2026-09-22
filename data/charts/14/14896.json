@@ -1,0 +1,100 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:21Z",
+    "lastChanged": "2026-09-22T01:17:21Z",
+    "localBackup": {
+      "asset": "14896.zip",
+      "files": [
+        {
+          "path": "22230782.jpg",
+          "sha256": "7cc06244ff3368ca8f206aa298c771d398c979440ef3d7f70a234aba953784e8",
+          "size": 872508
+        },
+        {
+          "path": "22230782.json",
+          "sha256": "0592c6e4e9a9b5403d1e5f6773991a3c753046a4b3a6615e0f73c2386343cfc6",
+          "size": 1996996
+        },
+        {
+          "path": "22230782.mp3",
+          "sha256": "3f9eb68033b5a87784d28ef43ff437839b750a25e2b14f4ab86690be07f87d25",
+          "size": 1704214
+        },
+        {
+          "path": "bao.png",
+          "sha256": "203cc861639caa17ca35e3753f22dac44d0f7fc6982382b3372496bcb9227617",
+          "size": 12943
+        },
+        {
+          "path": "info.txt",
+          "sha256": "0ccff913e04d5d2ccb11c2c5015cda6660e7066ec5309f5d1341d82f13e501b1",
+          "size": 201
+        },
+        {
+          "path": "info.yml",
+          "sha256": "703ab588886b3dac2de07305bdb895e054e75306348505275df83b8fbc47090f",
+          "size": 994
+        },
+        {
+          "path": "lizitou.png",
+          "sha256": "28672adec34252f27e2afd00ee9d8b58a776b727d83ef5939901bbe828d4ed0d",
+          "size": 623220
+        },
+        {
+          "path": "phi.png",
+          "sha256": "589884ade09404ed7eff534519b4267b512c3c3fd3721c60f4bdb37c5d6491a6",
+          "size": 42915
+        },
+        {
+          "path": "shuodedaoli.png",
+          "sha256": "b8c5428f3f573566bbe27f1bd3365b5ee6cd2f7a9d03ebb4699731410ea4630b",
+          "size": 572558
+        },
+        {
+          "path": "waao.png",
+          "sha256": "4f69ce40ff1ada541bd59cb3fb219974942314b0f13603d1c44700d5902647cd",
+          "size": 497676
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "22230782.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "22230782.jpg",
+        "lineLength": 6.0,
+        "music": "22230782.mp3",
+        "offset": 0.0,
+        "previewEnd": 42.0,
+        "previewStart": 26.0,
+        "tip": "新的一年，鸠和Gino祝你永不性歌，把把打出好成绩！"
+      },
+      "release": "backup-14000-14999",
+      "sha256": "a8009aef77a17299bb45e18b44db3f75de2370f95a5fc14d741d338e841ad8c5",
+      "size": 6325209,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14896.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-06T09:27:16.652038Z",
+  "charter": "♿草！我的梦幻回来了！♿",
+  "composer": "欠债调音狮",
+  "created": "2024-02-06T09:27:16.652038Z",
+  "description": "新人谱师第14张谱子\n这次做的是比较赶了，但是还是能打的\n好久以前就刷到这个，看着挺合适，播放也挺多，就拿来做了\n也是第一次写较为简单的OTTO谱子，质量差点，见谅\n记得来B站关注@梦幻不限量\n玩的开心OwO，记得五星好评！\n最后祝大家新年快乐！",
+  "difficulty": 12.900001,
+  "id": 14896,
+  "illustrator": "欠债调音狮",
+  "level": "IN Lv.12",
+  "name": "♿恭喜发财♿",
+  "tags": [
+    "otto",
+    "OTTO",
+    "故事版",
+    "troll"
+  ],
+  "updated": "2024-02-06T09:27:16.652038Z",
+  "uploader": 565793
+}

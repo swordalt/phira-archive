@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:50Z",
+    "lastChanged": "2026-09-22T01:17:50Z",
+    "localBackup": {
+      "asset": "15081.zip",
+      "files": [
+        {
+          "path": "71392505.json",
+          "sha256": "9858ed833f4995ec01db713102f6429823837e097c5a324879b7b2e0e27d8de5",
+          "size": 3983030
+        },
+        {
+          "path": "71392505.mp3",
+          "sha256": "1c4b553e36eb7f68d75265f9bf8a5ec183ec90558aaae9445e4af957f969c576",
+          "size": 3260507
+        },
+        {
+          "path": "71392505.png",
+          "sha256": "11dd3b2b930cd9b3791c0ba39cf580dfad71a68896888c8be07701df2fb693fb",
+          "size": 9011943
+        },
+        {
+          "path": "info.txt",
+          "sha256": "f3d7765cb05f3b4bc5e47ea8854723c47a4ff061cd61e72a0cef47953ddae0b2",
+          "size": 203
+        },
+        {
+          "path": "info.yml",
+          "sha256": "ca897fa59d5dbcde89d0b5c70ab7132bb4f5e7f49f368ce101345e7b9be11a96",
+          "size": 560
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "71392505.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "71392505.png",
+        "lineLength": 6.0,
+        "music": "71392505.mp3",
+        "offset": 0.0,
+        "previewEnd": 35.0,
+        "previewStart": 20.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-15000-15999",
+      "sha256": "f79b70cb2b8b59254cd48f4f4469caf7d8c42dff6b0c45aa191e1e24ccd44b75",
+      "size": 16256751,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15081.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-08T16:30:27.921504Z",
+  "charter": "WhiteLight & Resonance",
+  "composer": "MYUKKE.",
+  "created": "2024-02-08T16:30:27.921504Z",
+  "description": "Puremoon 羽源杯 比赛用谱",
+  "difficulty": 16.0,
+  "id": 15081,
+  "illustrator": "YimonDC",
+  "level": "IN Lv.16",
+  "name": "Friendly Gigant Fire",
+  "tags": [],
+  "updated": "2024-02-16T09:23:18.456074Z",
+  "uploader": 10857
+}

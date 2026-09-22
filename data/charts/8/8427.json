@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:15Z",
+    "lastChanged": "2026-09-22T01:08:15Z",
+    "localBackup": {
+      "asset": "8427.zip",
+      "files": [
+        {
+          "path": "70024267.json",
+          "sha256": "ccb82b5c3dffcf22932ddd2ab0c2187abd52128aa1f13616489e4a9b9d135156",
+          "size": 789812
+        },
+        {
+          "path": "70024267.mp3",
+          "sha256": "aa99bd64ae1ddc081eda71169248a8f3f9124a8f3f9ffc87693272531432a319",
+          "size": 4501496
+        },
+        {
+          "path": "af56978a1700a97aaa1818eaec8730cb.png",
+          "sha256": "af1b0dacc40a6026565c3ac652e17040117481d44d93c896aa628e8964471113",
+          "size": 1117518
+        },
+        {
+          "path": "info.txt",
+          "sha256": "2743fc79c5debb10021ea6e4f0660fdc94c20b0bee5562f53f84a8eacea3dc87",
+          "size": 171
+        },
+        {
+          "path": "info.yml",
+          "sha256": "be28875b5c51f6cfc3c7a23ccac84be0bfc5dd95a7afbfd5ca48f6fd3c42095f",
+          "size": 880
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.5,
+        "chart": "70024267.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "af56978a1700a97aaa1818eaec8730cb.png",
+        "lineLength": 6.0,
+        "music": "70024267.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "？",
+        "unlockVideo": null
+      },
+      "release": "backup-8000-8999",
+      "sha256": "b45d6798c88f4a64159893f7f2a3e781ea6996c481892bcd07f1c16dd89284c5",
+      "size": 6410433,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-8000-8999/8427.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-09-16T15:28:37.545413Z",
+  "charter": "DY ╳ miyakoucat",
+  "composer": "Hinkik/A Himitsu",
+  "created": "2023-08-26T08:05:35.023172Z",
+  "description": "原本这张谱子是我(DY)个人制作,后来遇到了miyakoucat.TA说可以帮我改谱,我们就开始了合作.\r\n这一张谱子内包含了部分官谱节目(就一点点),但是主要的思路还是我想的,每一个过渡段都有不一样的谱面表演\r\n希望大家喜欢,同时也去支持一下miyakoucat.\r\n",
+  "difficulty": 14.599999,
+  "id": 8427,
+  "illustrator": "Hinkik",
+  "level": "IN LV.14",
+  "name": "Realms",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-03-03T09:48:15.576007Z",
+  "uploader": 11729
+}

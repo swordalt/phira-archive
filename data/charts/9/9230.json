@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:50Z",
+    "lastChanged": "2026-09-22T01:08:50Z",
+    "localBackup": {
+      "asset": "9230.zip",
+      "files": [
+        {
+          "path": "60034311.jpg",
+          "sha256": "992f37c062d1e4e2abf329344abb48584e61639991cc52a6cfacb379cab0c381",
+          "size": 73974
+        },
+        {
+          "path": "60034311.json",
+          "sha256": "635f3f7e243ae00936780741d15d0693dff62bdfe9354aa2c14f153665cf6af3",
+          "size": 6676040
+        },
+        {
+          "path": "60034311.ogg",
+          "sha256": "2d43a6e14702d666b68f5dd076188367cba1dd579c071e6eb1e85ee8b1098831",
+          "size": 3302673
+        },
+        {
+          "path": "info.txt",
+          "sha256": "12c258ebd1b73d4c9ff871a2a19ccfc4519a0223af922854f4c6249dff61f427",
+          "size": 149
+        },
+        {
+          "path": "info.yml",
+          "sha256": "6a94c83c9741aa05635d386eacbbac3157cb42ebbe5173fa357e1c2bdafc7413",
+          "size": 496
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "60034311.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "60034311.jpg",
+        "lineLength": 6.0,
+        "music": "60034311.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "半成品"
+      },
+      "release": "backup-9000-9999",
+      "sha256": "c4381a4cd7a91495c738abf6c61fb3f429d1f65ea532bc37ab5985dbcad36107",
+      "size": 10053840,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-9000-9999/9230.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-09-10T05:16:32.480867Z",
+  "charter": "Fwxl",
+  "composer": "Lime",
+  "created": "2023-09-10T03:50:15.048300Z",
+  "description": "半成品",
+  "difficulty": 16.300001,
+  "id": 9230,
+  "illustrator": "inukoro",
+  "level": "AT Lv.16",
+  "name": "Chronomia",
+  "tags": [],
+  "updated": "2023-09-10T05:16:32.480867Z",
+  "uploader": 16532
+}

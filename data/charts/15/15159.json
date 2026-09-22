@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:18:00Z",
+    "lastChanged": "2026-09-22T01:18:00Z",
+    "localBackup": {
+      "asset": "15159.zip",
+      "files": [
+        {
+          "path": "46305230.json",
+          "sha256": "f2e78c726a8f4617f79546cd35a54842a8d1e8cdcb2d51429e55a0253e161ad4",
+          "size": 14269933
+        },
+        {
+          "path": "46305230.mp3",
+          "sha256": "be252f26404658ddf752d72ad12279ff06e5d6e559a590d5db79833ec9b0fab7",
+          "size": 6440839
+        },
+        {
+          "path": "46305230.png",
+          "sha256": "791144699acea4a945c3090f2441618585ea899eb716729e9007e7336e2a920c",
+          "size": 2078233
+        },
+        {
+          "path": "info.txt",
+          "sha256": "808804937e1bfe9a0c1db7c33afe58c3ed2e8ac36b258742c5809599f9ec7b01",
+          "size": 213
+        },
+        {
+          "path": "info.yml",
+          "sha256": "00b14f0434b4de8426105080a5e15b3dd5db32f096b8f60dac0e0bfab789703b",
+          "size": 968
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "46305230.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "46305230.png",
+        "lineLength": 6.0,
+        "music": "46305230.mp3",
+        "offset": 0.0,
+        "previewEnd": 96.0,
+        "previewStart": 81.0,
+        "tip": "Tip: (*盯)看我干什么？"
+      },
+      "release": "backup-15000-15999",
+      "sha256": "735b2a351dbbb64d4ebece2e55e111f3ca6db6e9373d9bd49ca038f90b45186b",
+      "size": 22790694,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15159.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-11T09:21:39.011188Z",
+  "charter": "ιχιερ as \"Λ\"",
+  "composer": "EndCat-终猫",
+  "created": "2024-02-09T16:11:17.409606Z",
+  "description": "谱师本人上传，视频链接:\nBV1d7421K7Dx\n削弱了主线的一些动效，砍掉了天地段的一些无理配置\n龙年快乐捏。\n这张谱是本人从前年拿到rpe以来写的第一张16，而且本人并不会16往上的多指高难，所以配置会非常奇异搞笑，请各位下手轻点QwQ\n尝试了很多，也学(抄)了很多新东西，算是我对高难谱的一个理解？",
+  "difficulty": 16.600002,
+  "id": 15159,
+  "illustrator": "AOGLI (Icier modified)",
+  "level": "AT Lv.16",
+  "name": "AzazeL -REGINX-",
+  "tags": [],
+  "updated": "2024-02-11T09:21:39.011188Z",
+  "uploader": 4004
+}

@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:12:26Z",
+    "lastChanged": "2026-09-22T01:12:26Z",
+    "localBackup": {
+      "asset": "12380.zip",
+      "files": [
+        {
+          "path": "76484745.JPG",
+          "sha256": "1945cb5840fc99c7613ebbf5f474ec5d5c22940a7b1cfb814b17f5975b574aed",
+          "size": 13250
+        },
+        {
+          "path": "76484745.json",
+          "sha256": "0d84d140167f5080c7ec8692f4110e40be553dbe2af91bee17270a1838b30aa3",
+          "size": 1856229
+        },
+        {
+          "path": "76484745.wav",
+          "sha256": "c190f1d2121ec0cfa06a1064021bb5a1dcd3ab64d49f82c709f397650fee3174",
+          "size": 20400172
+        },
+        {
+          "path": "info.txt",
+          "sha256": "762b3f2ff3bd6c1e6ee970056bc31aeb57d880e277b0c71217306b7dc5ba18b1",
+          "size": 156
+        },
+        {
+          "path": "info.yml",
+          "sha256": "9a9aa60903e87ae7d397e1d963160d036c544cc73cec8d8cb54627ab48b3b073",
+          "size": 539
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "76484745.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "76484745.JPG",
+        "lineLength": 6.0,
+        "music": "76484745.wav",
+        "offset": 0.029999997,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-12000-12999",
+      "sha256": "90141ac733bb053569907c707e7513d291f442d293af2e0c6922fcf2a8c974b1",
+      "size": 22270854,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12380.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-11T04:30:52.329849Z",
+  "charter": "Parssce",
+  "composer": "Orzmic",
+  "created": "2023-12-11T04:30:52.329849Z",
+  "description": "Merry Christmas!!! 这是第二个整活谱了",
+  "difficulty": 10.0,
+  "id": 12380,
+  "illustrator": "UK",
+  "level": "SP Lv.?",
+  "name": "圣诞快乐",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-12-11T04:30:52.329849Z",
+  "uploader": 17820
+}

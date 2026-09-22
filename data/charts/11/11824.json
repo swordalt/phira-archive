@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:43Z",
+    "lastChanged": "2026-09-22T01:11:43Z",
+    "localBackup": {
+      "asset": "11824.zip",
+      "files": [
+        {
+          "path": "98093.jpg",
+          "sha256": "7d1824aa8ced0bd0a0921f7aa34b9c7b3d9bcce2ce8222fa152bbe9ceb191311",
+          "size": 102760
+        },
+        {
+          "path": "98093.json",
+          "sha256": "272b1e35d90d78654416b00dfa0c631ad377316cbd470510b4aed8d32db8740f",
+          "size": 3809198
+        },
+        {
+          "path": "98093.mp3",
+          "sha256": "cf64b0d5feff449ab6d7f1ea605c94de421d1e6032cc0151b493f92344cdbde9",
+          "size": 2313547
+        },
+        {
+          "path": "info.txt",
+          "sha256": "768d90ee57b11c0771f29716c4363f41fa04d2b29492ed9a147df4b9725d455f",
+          "size": 151
+        },
+        {
+          "path": "info.yml",
+          "sha256": "c3734523b679fa8ee114ced81d27085e413947cd15804358f299e5f3317e294a",
+          "size": 507
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.90000004,
+        "chart": "98093.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "98093.jpg",
+        "lineLength": 6.0,
+        "music": "98093.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-11000-11999",
+      "sha256": "b44612ad2b2785ed22763a504eae0f83f2868dca23d1b679af1d63cdbcca046f",
+      "size": 6226653,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11824.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-26T02:01:03.325773Z",
+  "charter": "hwere",
+  "composer": "kobaryo",
+  "created": "2023-11-26T02:01:03.325773Z",
+  "description": "铺师本人上传",
+  "difficulty": 15.800003,
+  "id": 11824,
+  "illustrator": "UK",
+  "level": "AT Lv.15",
+  "name": "Unlimited Hyperlink",
+  "tags": [],
+  "updated": "2023-11-29T12:11:57.853872Z",
+  "uploader": 2181
+}

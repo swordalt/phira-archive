@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:24:51Z",
+    "lastChanged": "2026-09-22T01:24:51Z",
+    "localBackup": {
+      "asset": "20388.zip",
+      "files": [
+        {
+          "path": "63499631.jpg",
+          "sha256": "710f8dd01bf309a7e2081ac2aff080a9140686f07f1f15d72a69513ac55a6abb",
+          "size": 41964
+        },
+        {
+          "path": "63499631.json",
+          "sha256": "5802c1cc504ff59bf880a1aec37f9117acb356e90cecf2c1b9c421e766bdbf87",
+          "size": 1831508
+        },
+        {
+          "path": "63499631.mp3",
+          "sha256": "84a5ea2857cce8336285b5b4f626082bf68fae133e75940c52214bfd02e5cfde",
+          "size": 2395368
+        },
+        {
+          "path": "info.txt",
+          "sha256": "bfde1fe8339a1af156464c197b103802ed0776445f09d93601ec2e4c1532de9c",
+          "size": 250
+        },
+        {
+          "path": "info.yml",
+          "sha256": "6039504fdfb1576e718db92915c72e3644fd9db9be4c956bffb29f3f4c1b736c",
+          "size": 1359
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "63499631.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "63499631.jpg",
+        "lineLength": 6.0,
+        "music": "63499631.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "永夜城，曾经也有白天…",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "e00be70fa998e90fffd7ed6342eb7e46563e687dcfb7e3dd4f58812f2e0f371e",
+      "size": 4270957,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20388.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-26T02:50:56.123175Z",
+  "charter": "『永夜の呪いを打ち破り、永夜城の光をも取る＆エユアケ』",
+  "composer": "黒皇帝 feat. AKA",
+  "created": "2024-05-26T02:50:56.123175Z",
+  "description": "审核员快捷审核区：\n3.25补充画师\n5.18因为看到hd谱面上了也迫不及待的想回归这张谱面\n5.24改谱 用于挑战stable（肯定不行\n5.26改谱改定数\n\nB站与p站（phira）与小红书同名底力の神（谱师本人）\n验证谱师是否为本人的方式：\nQQ1027250801 密码16.27\n\n孩子们，我的谱面回归了\n然后没了 等等我看一下台词\n感谢@suik的改谱\n感谢@不会特效の点缀星空 与另外一位群友给出的建议\n（对不起给您忘名字了w）\n所以发布到xhs以及哔站请@底力の神，@suik\n或者直接将上面的谱师名复制下来标上去即可\n发布到其他平台上请与QQ1072750801联系\n密码16.27\n",
+  "difficulty": 9.500001,
+  "id": 20388,
+  "illustrator": "NekoFTR",
+  "level": "EZ Lv.9",
+  "name": "Le porteur d'Ombre",
+  "tags": [],
+  "updated": "2024-05-26T02:50:56.123175Z",
+  "uploader": 58106
+}

@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:16Z",
+    "lastChanged": "2026-09-22T01:07:16Z",
+    "localBackup": {
+      "asset": "7020.zip",
+      "files": [
+        {
+          "path": "15190600 (1).json",
+          "sha256": "84aed0fe31e47726c9c90a3d8a97dd8cddd43a72226ba624656f0c7b3c05b48e",
+          "size": 565977
+        },
+        {
+          "path": "15190600.jpg",
+          "sha256": "8afe02935e86e971b7f3f16ef69c5e8614e9443c1b2a72dd40a0eceb1a706fd6",
+          "size": 16316
+        },
+        {
+          "path": "15190600.mp3",
+          "sha256": "618faed2afc4754fe5df90d95c7a768cb72964bcad92539ee2c72e18467ad81f",
+          "size": 1495398
+        },
+        {
+          "path": "info.txt",
+          "sha256": "06ec65237b696cde2c7e7fb888fb40866b739178135113bbdcc47bf9c4f3aa16",
+          "size": 180
+        },
+        {
+          "path": "info.yml",
+          "sha256": "1b4aa5a6c7da7fc14d6df384123304d23b0c5802662c7a7ed84f7f798a8a137a",
+          "size": 438
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "15190600 (1).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "15190600.jpg",
+        "lineLength": 6.0,
+        "music": "15190600.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-7000-7999",
+      "sha256": "07795ea23f461a68a1e59fd0b898547c7039f282a223a1df0be62cfa99dd21fd",
+      "size": 2078825,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-7000-7999/7020.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "phigros199",
+  "composer": "文梧凤 feat.电棍otto",
+  "created": null,
+  "description": "",
+  "difficulty": 1.0,
+  "id": 7020,
+  "illustrator": "UK",
+  "level": "SP Lv.0.1",
+  "name": "说的道理",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

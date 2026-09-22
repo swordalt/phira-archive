@@ -1,0 +1,80 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:18:40Z",
+    "lastChanged": "2026-09-22T01:18:40Z",
+    "localBackup": {
+      "asset": "15456.zip",
+      "files": [
+        {
+          "path": ".gnl.png",
+          "sha256": "71c467466b6781a9119583b2798d99209072f9fb88a69d7a2c5b86309ab96a5c",
+          "size": 51251
+        },
+        {
+          "path": ".hhxxgdn.png",
+          "sha256": "9a8de22696de45e46b7394d42470224de14f9ef23030107ca7be40e248524255",
+          "size": 214775
+        },
+        {
+          "path": "85299984.json",
+          "sha256": "c60f75196da3ec2c485b4b3a0a470726c8e26073e5bcfdce4eb0cd9902bd4905",
+          "size": 637380
+        },
+        {
+          "path": "85299984.mp3",
+          "sha256": "af938541f12129f5e0926fe1377090df8bfbedf167e032f25d7b22c514328e68",
+          "size": 1159101
+        },
+        {
+          "path": "85299984.png",
+          "sha256": "db2fe377f903eb1048246ac9e2db922f84374d5ead6841a43628829b4bfeed91",
+          "size": 236827
+        },
+        {
+          "path": "info.txt",
+          "sha256": "45f0948a65192ca28f94eba45f1b8ecb51a4dd926a3f68df85517ab73937ac11",
+          "size": 172
+        },
+        {
+          "path": "info.yml",
+          "sha256": "b85b14e8082d22f9f93eb272a5b2c8bec1e2930fa4a0d375aff07c98014069af",
+          "size": 519
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "85299984.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "85299984.png",
+        "lineLength": 6.0,
+        "music": "85299984.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-15000-15999",
+      "sha256": "1913d46e40f5c6d5b1f022c7f69b7241f98c83d0081e44b4010bed09134d55a2",
+      "size": 2300725,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15456.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-12T07:01:19.153196Z",
+  "charter": "cxxk",
+  "composer": "YiYi",
+  "created": "2024-02-12T07:01:19.153196Z",
+  "description": "bilibili BV1PC411673o",
+  "difficulty": 0.0,
+  "id": 15456,
+  "illustrator": "YiYi",
+  "level": "AE  Lv.?",
+  "name": "我用RPE摆烂了你的AE作业",
+  "tags": [],
+  "updated": "2024-02-12T07:01:19.153196Z",
+  "uploader": 467813
+}

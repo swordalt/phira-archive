@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:03Z",
+    "lastChanged": "2026-09-22T01:17:03Z",
+    "localBackup": {
+      "asset": "14770.zip",
+      "files": [
+        {
+          "path": "1706965087.ogg",
+          "sha256": "eb128c2e9fcf8f3b6188f4cd8821f1093688544533fb1c67247dc384c48d964e",
+          "size": 4780515
+        },
+        {
+          "path": "Cyber Induction [卡祖笛 Ver] (From Malody).json",
+          "sha256": "fcae8ff583390f8ef6522c559e28994df4c0eb0dde5da7f61e496285db3bb6ed",
+          "size": 3116642
+        },
+        {
+          "path": "info.csv",
+          "sha256": "0a26664da08a0e3c48774e098c0a7749d8a38e5644880d90489ce632721d11d6",
+          "size": 294
+        },
+        {
+          "path": "info.yml",
+          "sha256": "755c9cd7267ab5a2c1fe4176c63cc03d608f85515ca667c96635b2ca440aa19c",
+          "size": 670
+        },
+        {
+          "path": "u=3987578850,2374973632&fm=220&app=103&size=w931&q=75&n=0&g=12n&f=JPEG&fmt=auto&maxorilen2heic=2000000.jpg",
+          "sha256": "8004c7755f590b0bb49f413c082294a28ba423fffb6ed21795185bab304e3332",
+          "size": 58212
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "Cyber Induction [卡祖笛 Ver] (From Malody).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "u=3987578850,2374973632&fm=220&app=103&size=w931&q=75&n=0&g=12n&f=JPEG&fmt=auto&maxorilen2heic=2000000.jpg",
+        "lineLength": 6.0,
+        "music": "1706965087.ogg",
+        "offset": 0.0,
+        "previewEnd": 165.0,
+        "previewStart": 153.76,
+        "tip": null
+      },
+      "release": "backup-14000-14999",
+      "sha256": "b0ce993a697a2fe21e167bc4f8cf401aea1aa913b23d8e81ee954dbc58480859",
+      "size": 7957107,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14770.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-04T07:41:43.102861Z",
+  "charter": "YMEA",
+  "composer": "DJ Sharphel????",
+  "created": "2024-02-04T07:41:43.102861Z",
+  "description": "干什么！",
+  "difficulty": 0.0,
+  "id": 14770,
+  "illustrator": "爱音游的孙浩祖",
+  "level": "Stream",
+  "name": "Cyber Induction [卡祖笛 Ver]",
+  "tags": [],
+  "updated": "2024-02-04T07:41:43.102861Z",
+  "uploader": 5238
+}

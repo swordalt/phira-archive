@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:41Z",
+    "lastChanged": "2026-09-22T01:21:41Z",
+    "localBackup": {
+      "asset": "18647.zip",
+      "files": [
+        {
+          "path": "30191524.json",
+          "sha256": "237c76e44b381c73dfde39a3eadb02adce3b1e1d6e7e4b4c0603954d6d56be70",
+          "size": 6642767
+        },
+        {
+          "path": "30191524.mp3",
+          "sha256": "60162b42dcbdc6bacbc6b1e3e8a3fe691b6b95a8f4768bfe794fc535b0db3763",
+          "size": 2403062
+        },
+        {
+          "path": "30191524.png",
+          "sha256": "829c42595a1abcf67297163d9d85e50c361091501c41674dff230bde41f7bb6e",
+          "size": 739044
+        },
+        {
+          "path": "info.txt",
+          "sha256": "2387693039d09c06fc47bc10787696a2406842c1a5130f89192f5c197f4a2acb",
+          "size": 208
+        },
+        {
+          "path": "info.yml",
+          "sha256": "a2835eaaa25ef095ac7e411e8a03be6c36f1c67c675f4294395b5a8420642196",
+          "size": 530
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "30191524.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "30191524.png",
+        "lineLength": 6.0,
+        "music": "30191524.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-18000-18999",
+      "sha256": "e7a9fd9b86f2f8dda953625332825a41126d3fdc4ef28e8881b3d02e3f334964",
+      "size": 9786119,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-18000-18999/18647.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "Veliel Castle in the Sky",
+  "composer": "うえつ氏、ueotan",
+  "created": null,
+  "description": "迟到愚人节\n谱师本人上传",
+  "difficulty": 114514.0,
+  "id": 18647,
+  "illustrator": "UK",
+  "level": "AT Lv.114514",
+  "name": "天空の城ヴェリエル",
+  "tags": [
+    "visual"
+  ],
+  "updated": null,
+  "uploader": null
+}

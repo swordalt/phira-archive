@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:26Z",
+    "lastChanged": "2026-09-22T01:08:26Z",
+    "localBackup": {
+      "asset": "8657.zip",
+      "files": [
+        {
+          "path": "71839652.jpg",
+          "sha256": "9285a996f3f060a989290dfeb4c0a8f8f79c4d58a37f80c481a721b52bf9480a",
+          "size": 123647
+        },
+        {
+          "path": "71839652.json",
+          "sha256": "d8e7218966568165ced290b36c5cdf7af022a841ec22faba15225675f7a6ecf7",
+          "size": 2172983
+        },
+        {
+          "path": "71839652.mp3",
+          "sha256": "8d5463956730a45bf3c790907c8109c63f46da11ffaf9d2f908b813dc200dedd",
+          "size": 1349826
+        },
+        {
+          "path": "info.txt",
+          "sha256": "5cc5fa580d76c38e6f30653777aef653678ef5a870cb81dec17107b50fef0f00",
+          "size": 175
+        },
+        {
+          "path": "info.yml",
+          "sha256": "37b849eff521fe284d8678026e9f981b55f36a9fb5cbb5341bf89cbea96c7011",
+          "size": 796
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "71839652.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "71839652.jpg",
+        "lineLength": 6.0,
+        "music": "71839652.mp3",
+        "offset": 0.02,
+        "previewEnd": 55.0,
+        "previewStart": 40.0,
+        "tip": "太虚之握！！！",
+        "unlockVideo": null
+      },
+      "release": "backup-8000-8999",
+      "sha256": "61e75a4fcc5da6868bc38d272d71309a1403b0acaf9a21ee43f414eeca25c181",
+      "size": 3647935,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-8000-8999/8657.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-29T02:17:44.084642Z",
+  "charter": "识之律者忠实的信徒",
+  "composer": "HOYO-MiX",
+  "created": "2023-08-29T02:17:44.084642Z",
+  "description": "谱师本人上传\n曲名：Domineer\n曲师：HOYO-MiX\n谱师：识之律者忠实的信徒(@一只Rui呀  )\n本人制谱经验不足，还请各位大佬多多提建议。\n最后说一句:\n识之律者女士万岁(撕心裂肺)！！！",
+  "difficulty": 14.200001,
+  "id": 8657,
+  "illustrator": "miHoYo",
+  "level": "IN Lv.14",
+  "name": "Domineer",
+  "tags": [],
+  "updated": "2023-08-30T09:34:31.733614Z",
+  "uploader": 780
+}

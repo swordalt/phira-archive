@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:28:16Z",
+    "lastChanged": "2026-09-22T01:28:16Z",
+    "localBackup": {
+      "asset": "21344.zip",
+      "files": [
+        {
+          "path": "64664404.json",
+          "sha256": "3b229a796f24470e3781337b9746785eeee552c911f6af2a0994e48cea593bf4",
+          "size": 910300
+        },
+        {
+          "path": "64664404.mp3",
+          "sha256": "c1502719a9670ff68e71cb879d9567bd6832e5d947d1431dec66798c6a1bd7b2",
+          "size": 1916235
+        },
+        {
+          "path": "64664404.png",
+          "sha256": "04f80d71a5fdf3046fa377e9576c92b75636dfc9e7b26d855d6b768a89931bb6",
+          "size": 103284
+        },
+        {
+          "path": "info.txt",
+          "sha256": "6e0ed71710412006e68b5e9fac78b9e23388a4b2b22343b1af689ce747ccf42c",
+          "size": 161
+        },
+        {
+          "path": "info.yml",
+          "sha256": "7ed24b456d3fb66114967439105b7e90fe4b6c3afa1ce39e977c6491b3388b3c",
+          "size": 549
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "64664404.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "64664404.png",
+        "lineLength": 6.0,
+        "music": "64664404.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "我不会写，我是废物。",
+        "unlockVideo": null
+      },
+      "release": "backup-21000-21999",
+      "sha256": "4ad5ab292354fe4a74efc7f555a5924b07c0eb870870d23092acf116d25ec217",
+      "size": 2931037,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-21000-21999/21344.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-15T14:41:38.344949Z",
+  "charter": "sm",
+  "composer": "linear ring",
+  "created": "2024-06-15T14:41:38.344949Z",
+  "description": "老谱重传",
+  "difficulty": 14.0,
+  "id": 21344,
+  "illustrator": "百舌谷",
+  "level": "LOVE Lv.14",
+  "name": "enchanted love",
+  "tags": [],
+  "updated": "2024-06-15T14:41:38.344949Z",
+  "uploader": 165742
+}

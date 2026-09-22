@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:27:28Z",
+    "lastChanged": "2026-09-22T01:27:28Z",
+    "localBackup": {
+      "asset": "20840.zip",
+      "files": [
+        {
+          "path": "1717645515.jpg",
+          "sha256": "37f0aa714ae8bf4324d646ad6578a45c96687211d1bfdd691d7dd2740e3d17e6",
+          "size": 145847
+        },
+        {
+          "path": "1717645515.json",
+          "sha256": "9dc7c684101a74320a89c6d90c28c6e919d81e7ecee67ffa98cd01c32aa9ecfe",
+          "size": 562414
+        },
+        {
+          "path": "1717645515.ogg",
+          "sha256": "d251fb11bab7d88503d92c739fb158d0ce556b011ffd2ac1915bf61adb0f1442",
+          "size": 3437850
+        },
+        {
+          "path": "info.txt",
+          "sha256": "e3e572a7f7ec8951128c473bd9e2d1a2d147640e58349ccf740bb373c776042b",
+          "size": 182
+        },
+        {
+          "path": "info.yml",
+          "sha256": "b9309c9d5938c0a7e115b06cc94c3399ba20c523c2131d3c6f113104eb830069",
+          "size": 645
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "1717645515.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "1717645515.jpg",
+        "lineLength": 6.0,
+        "music": "1717645515.ogg",
+        "offset": 0.0,
+        "previewEnd": 34.0,
+        "previewStart": 14.0,
+        "tip": "Tip：判定线后的，是另一个我...？",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "92e83963532fb1fbd73fbb7a1a4835ae0858468d513ca19aae8ef2082b497df0",
+      "size": 4147458,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20840.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "XieChara",
+  "composer": "D_AAN",
+  "created": null,
+  "description": "温馨提示:该谱面含有假note，请注意区分\n这谱子写挺久的，虽然有较严重的初见杀？\nb站有视频，详见https://b23.tv/pbZjuD4",
+  "difficulty": 15.1,
+  "id": 20840,
+  "illustrator": "XieChara",
+  "level": "AM Lv.15",
+  "name": "Another Me",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

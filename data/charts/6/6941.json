@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:09Z",
+    "lastChanged": "2026-09-22T01:07:09Z",
+    "localBackup": {
+      "asset": "6941.zip",
+      "files": [
+        {
+          "path": "1690870214.ogg",
+          "sha256": "b542d7569062155cf1902c87ac4ff21380c042ed4f3d8c3ac4bd20ebbc17698a",
+          "size": 218588
+        },
+        {
+          "path": "333.jpg",
+          "sha256": "b757fc58cfd99b2da7e89dd189ea3f142d6d32903651b21cbfe9011d34567b26",
+          "size": 5608
+        },
+        {
+          "path": "info.csv",
+          "sha256": "9e56b073679b283710a56c4d0249330328ec596eae586077ca2b2ac913e26ffc",
+          "size": 183
+        },
+        {
+          "path": "info.yml",
+          "sha256": "9afbeae44318dc23a89a81ade6366d0d38e0b3bb95bfe7260f212764fb3fdf46",
+          "size": 539
+        },
+        {
+          "path": "『我上不了白银↗』 (From Malody).json",
+          "sha256": "127bcf2135c3d4e1a252ca7b88b7cba63f54d038d04c25c0e49c97cef1c19e3e",
+          "size": 126720
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "『我上不了白银↗』 (From Malody).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "333.jpg",
+        "lineLength": 6.0,
+        "music": "1690870214.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-6000-6999",
+      "sha256": "2809f25b14b5678fa6b3e1dd897c504caae318c97ad97567169d0bd7c3993050",
+      "size": 352206,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6941.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-06T08:15:14.280986Z",
+  "charter": "洋漫",
+  "composer": "？？？",
+  "created": "2023-08-06T08:15:14.280986Z",
+  "description": "本人上传",
+  "difficulty": 20.0,
+  "id": 6941,
+  "illustrator": "？",
+  "level": "SP Lv.？",
+  "name": "我上不了白银↗",
+  "tags": [
+    "plain"
+  ],
+  "updated": "2023-08-06T08:15:14.280986Z",
+  "uploader": 5238
+}

@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:12:21Z",
+    "lastChanged": "2026-09-22T01:12:21Z",
+    "localBackup": {
+      "asset": "12368.zip",
+      "files": [
+        {
+          "path": "39457377.jpeg",
+          "sha256": "c3943e964dd1ed045aac083fe9c8a74f697f2a9d1004023935ec1ff7c91f5a3e",
+          "size": 170190
+        },
+        {
+          "path": "39457377.json",
+          "sha256": "be1878afbd4452947dff673eebfc01ad0ee8d9ddc7ed69247f34129cc1fc1dd4",
+          "size": 977102
+        },
+        {
+          "path": "39457377.wav",
+          "sha256": "ace9ebd73f95b54afe26f144d7c7054d0d924d198ee862c38d9ecda5c267a7af",
+          "size": 17319936
+        },
+        {
+          "path": "info.txt",
+          "sha256": "48307aa5f17543ff1ebff5f4ad0ef829ef5cfbfe2ed73d911371acdc82d1921d",
+          "size": 151
+        },
+        {
+          "path": "info.yml",
+          "sha256": "7fa731b2fa0029c8cdc78d9fef43e795e85d5fbcf7121a80b271b91c94510805",
+          "size": 533
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "39457377.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "39457377.jpeg",
+        "lineLength": 6.0,
+        "music": "39457377.wav",
+        "offset": 0.08000001,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-12000-12999",
+      "sha256": "6e107f893d57196578094ea86b0ddd43e57d064598a1ff7a4cb79564eefdb8c0",
+      "size": 18468422,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12368.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-10T12:47:05.302200Z",
+  "charter": "Parssce",
+  "composer": "山水组合",
+  "created": "2023-12-10T12:47:05.302200Z",
+  "description": "第三张谱面，感觉是过度谱",
+  "difficulty": 0.0,
+  "id": 12368,
+  "illustrator": "不知道",
+  "level": "SP Lv.?",
+  "name": "你莫走",
+  "tags": [],
+  "updated": "2023-12-10T12:47:05.302200Z",
+  "uploader": 17820
+}

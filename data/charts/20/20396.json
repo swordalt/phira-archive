@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:24:53Z",
+    "lastChanged": "2026-09-22T01:24:53Z",
+    "localBackup": {
+      "asset": "20396.zip",
+      "files": [
+        {
+          "path": "87558271.jpg",
+          "sha256": "5481654a58f72c8b85696eedec91f84c5540aa2778b994abd6894e6485e8c942",
+          "size": 18320
+        },
+        {
+          "path": "87558271.json",
+          "sha256": "e49b0f217a4bfd9a600271804dc863b80051fa8f5d8e3474e61ced759ddf1862",
+          "size": 2557447
+        },
+        {
+          "path": "87558271.mp3",
+          "sha256": "390e4df3c0a71e4d7dd038a631c501bc91bb452cbcb55972fd148edbb219d718",
+          "size": 2402154
+        },
+        {
+          "path": "info.txt",
+          "sha256": "18467087e8596c032fde75f8239e305d3348d7f666083d77ada2e0b1446cd114",
+          "size": 131
+        },
+        {
+          "path": "info.yml",
+          "sha256": "bb498bd5cd6f903416c6fea6a52961980eb7b026ddd9f4fecfe05dba569a112d",
+          "size": 530
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "87558271.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "87558271.jpg",
+        "lineLength": 6.0,
+        "music": "87558271.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "e7531e3956118d7dd7e80ff36a733359bc60a034025d6667d821d16ad5857924",
+      "size": 4979090,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20396.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-26T04:18:12.855267Z",
+  "charter": "小狼胶",
+  "composer": "Kobaryo",
+  "created": "2024-05-26T04:18:12.855267Z",
+  "description": "唉.....",
+  "difficulty": 20.0,
+  "id": 20396,
+  "illustrator": "Kobaryo",
+  "level": "RTX Lv.?",
+  "name": "RTX20000",
+  "tags": [
+    "bilibili",
+    "regular"
+  ],
+  "updated": "2024-05-26T04:18:12.855267Z",
+  "uploader": 940916
+}

@@ -1,0 +1,76 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:13:18Z",
+    "lastChanged": "2026-09-22T01:13:18Z",
+    "localBackup": {
+      "asset": "12594.zip",
+      "files": [
+        {
+          "path": "77149810.jpg",
+          "sha256": "e724ce65b42c28df4f60c32ca62b6edef646b65dbfd6be017687e9cece78974a",
+          "size": 67274
+        },
+        {
+          "path": "77149810.json",
+          "sha256": "fc71c817002bfa96fcabde863d76421f049251d84b53727bf6ec0ee028fad834",
+          "size": 340017
+        },
+        {
+          "path": "77149810.mp3",
+          "sha256": "eb8358b287d00ae41f341d6b59e8807e20a4a52132d2dd787702719ef2766842",
+          "size": 756819
+        },
+        {
+          "path": "info.txt",
+          "sha256": "a10714d76f038951e9698f593621d03843eb21d4bc6dc2b69957e2b71a03e887",
+          "size": 176
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f293ffb07370b9f90c5ab8e261609a4cfd1dfdead5d824d6886e6038bd23c441",
+          "size": 783
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 1.0,
+        "chart": "77149810.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "77149810.jpg",
+        "lineLength": 6.0,
+        "music": "77149810.mp3",
+        "offset": -0.01,
+        "previewEnd": 17.0,
+        "previewStart": 2.0,
+        "tip": "尴尬警告"
+      },
+      "release": "backup-12000-12999",
+      "sha256": "106e0416b0b02977e5f305d68aa4b0fa134a07ee05a56e29822f68a03c9e0f7d",
+      "size": 1165577,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12594.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-17T12:03:45.809740Z",
+  "charter": "白涧君OvO",
+  "composer": "白涧君OvO",
+  "created": "2023-12-17T12:03:45.809740Z",
+  "description": "谱师没活后搞出来的依托。因为原曲忘了是什么了，所以随便用自己人声+268Bpm节拍造了个原曲片段。\nB站同名。个人第一张整活谱，做的不好还望提出意见。",
+  "difficulty": 0.0,
+  "id": 12594,
+  "illustrator": "白涧君OvO",
+  "level": "PaiZhuan Lv.?",
+  "name": "拍 砖 练 习",
+  "tags": [
+    "拍砖",
+    "多指谱",
+    "依托",
+    "人声音乐",
+    "troll"
+  ],
+  "updated": "2023-12-17T12:03:45.809740Z",
+  "uploader": 39297
+}

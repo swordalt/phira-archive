@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:57Z",
+    "lastChanged": "2026-09-22T01:09:57Z",
+    "localBackup": {
+      "asset": "10551.zip",
+      "files": [
+        {
+          "path": "98455717.jpg",
+          "sha256": "5329e500ecdec50ddb0fc08a71cf0141210b96c4a03716ad8d434f5e02d634f0",
+          "size": 11383
+        },
+        {
+          "path": "98455717.json",
+          "sha256": "05ee122af181f35636d0c75f9ab1bee11bec3cf1b76edfe697a90d5fc0ff3b15",
+          "size": 193554
+        },
+        {
+          "path": "98455717.mp3",
+          "sha256": "9f6909ec90bbb63e9ee190432b5a4895ed29f837207b424fd759eb8efcd285c2",
+          "size": 2170879
+        },
+        {
+          "path": "info.txt",
+          "sha256": "0284e6d5232f13981730c23bd2c2159ca0b011e160a0059155367e6d781b5784",
+          "size": 160
+        },
+        {
+          "path": "info.yml",
+          "sha256": "9b25bffd6e501cdc116f4502aba9a252ad382f0b551aea24bd20a24397261ed4",
+          "size": 556
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.5,
+        "chart": "98455717.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "98455717.jpg",
+        "lineLength": 6.0,
+        "music": "98455717.mp3",
+        "offset": 0.0,
+        "previewEnd": 50.0,
+        "previewStart": 30.0,
+        "tip": null
+      },
+      "release": "backup-10000-10999",
+      "sha256": "e01bc7e48dcc74a4b106935d6e7b5ee8a773299d8981cff9e75f709e5e182b3f",
+      "size": 2377040,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-10000-10999/10551.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-10-16T11:32:56.608386Z",
+  "charter": "Allen",
+  "composer": "Powerless",
+  "created": "2023-10-16T11:32:56.608386Z",
+  "description": "第二張譜 爛請見諒",
+  "difficulty": 15.3,
+  "id": 10551,
+  "illustrator": "Lanota © Noxy Games Inc.",
+  "level": "IN Lv.15 ",
+  "name": "Frey's Philosophy",
+  "tags": [
+    "Lanota",
+    "regular"
+  ],
+  "updated": "2023-10-16T11:32:56.608386Z",
+  "uploader": 461807
+}

@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:18:44Z",
+    "lastChanged": "2026-09-22T01:18:44Z",
+    "localBackup": {
+      "asset": "15502.zip",
+      "files": [
+        {
+          "path": "21224870.MP3",
+          "sha256": "05b73328a343896bdab80555716e2bda54198760e925d805f7473fb55898d0d2",
+          "size": 2330590
+        },
+        {
+          "path": "21224870.json",
+          "sha256": "7a3b5b5011d8b1f42d869ddcc6adbc0bd82623c9026fcfb540c4cf89cced938f",
+          "size": 1943989
+        },
+        {
+          "path": "21224870.png",
+          "sha256": "d2c4895cb3e5a950e80c80143be4ff8bbe9d11292c0b6142101daecb84bcf78c",
+          "size": 190926
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ba0e9c9fa9ba5b604adcc2d4f1a250667805bdab4f4ea25ad4bff482b6b6efdb",
+          "size": 167
+        },
+        {
+          "path": "info.yml",
+          "sha256": "7d4a579181ad279f4228099e50e8264ea6228129961bccb49a00dd65e19d4fb0",
+          "size": 723
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "21224870.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "21224870.png",
+        "lineLength": 6.0,
+        "music": "21224870.MP3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "敢 杀 我 的 马？！"
+      },
+      "release": "backup-15000-15999",
+      "sha256": "81715f3fac7418db7d834b34c57d7166cc4f5202949d5f76abff1c24c97aba61",
+      "size": 4466903,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15502.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-12T13:16:29.720833Z",
+  "charter": "rbtree_",
+  "composer": "哦呼w",
+  "created": "2024-02-12T13:16:29.720833Z",
+  "description": "审核，之前那个我不小心删掉了，再提交的时候显示不能重复上传，能把铺面换成这个吗，谢谢啦！\n\n作者：B站rbtree_\n新人初铺，请多包涵",
+  "difficulty": 14.900003,
+  "id": 15502,
+  "illustrator": "让子弹飞",
+  "level": "IN Lv.14",
+  "name": "敢 杀 我 的 马？！",
+  "tags": [],
+  "updated": "2024-02-12T13:16:29.720833Z",
+  "uploader": 180981
+}

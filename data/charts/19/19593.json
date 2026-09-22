@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:22:56Z",
+    "lastChanged": "2026-09-22T01:22:56Z",
+    "localBackup": {
+      "asset": "19593.zip",
+      "files": [
+        {
+          "path": "41283597.json",
+          "sha256": "7ff5b56e36d8ad029d7e2be01c18eb14e6d6cbc915f816b9fea1962b8fc4d740",
+          "size": 455015
+        },
+        {
+          "path": "41283597.mp3",
+          "sha256": "40900d3f4c5216f7c839784ba7c93052291650d13b6561b5316498eb43872d78",
+          "size": 995159
+        },
+        {
+          "path": "41283597.png",
+          "sha256": "52fe373cdaaa9aa5cf48fe3dca47ba11f31ea3e62e4bb8b8934c7572d05ec38e",
+          "size": 39832
+        },
+        {
+          "path": "info.txt",
+          "sha256": "c4fbc50499ff87f44edc15b2063f1796e9c223c798c145cf40462b3a3e6240b1",
+          "size": 168
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5469910b0575fa1e8afa0957c9fc665dceccfd2f870b8a8e3b4fb104701982c4",
+          "size": 1292
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "41283597.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "41283597.png",
+        "lineLength": 6.0,
+        "music": "41283597.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "音乐取自“兽屋之龙”大佬做的游戏《Changed》\n我第一次写谱，写的挺烂的说实话",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "add1bd1b010ed3b29aeee6a3440ddbdad2b9528c9e0f2034e36cbbc114945590",
+      "size": 1491974,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19593.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-05T09:11:52.287522Z",
+  "charter": "spacewalker",
+  "composer": "噬子",
+  "created": "2024-05-05T09:11:52.287522Z",
+  "description": "特效写不好，配置写不好，连延迟都要调半天……我承认我的制谱技术很差，这是我写的第一张谱，但这不是借口……总之我认为还没到粉扑那个级别吧……发上来只是为了获得点可能的认同感罢了\n（其实这个谱子是为了感谢兽屋之龙大佬的游戏《Changed》给我每日被迫“无所事事”的无聊生活带来了一些色彩而做给他的礼物，只是由于我做的真的不好，同时他也在忙于游戏的开发，所以我这一举动很可能适得其反，如果我这么做打扰到了他我在此道歉，虽然我知道他大概率看不到这些）",
+  "difficulty": 12.7,
+  "id": 19593,
+  "illustrator": "兽屋之龙",
+  "level": "Black Goo Lv.12",
+  "name": "Crystal Zone",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-05-05T09:11:52.287522Z",
+  "uploader": 30412
+}

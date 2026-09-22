@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:14:51Z",
+    "lastChanged": "2026-09-22T01:14:51Z",
+    "localBackup": {
+      "asset": "13385.zip",
+      "files": [
+        {
+          "path": "90654959.jpg",
+          "sha256": "e0b343304b348dc70622579b1b5b1d47a8dd345f348c3bfb79f4de2d464e0152",
+          "size": 99026
+        },
+        {
+          "path": "90654959.json",
+          "sha256": "0611be7cfb2637143495d440ff93543738e11d0b03a4902830501162219abf24",
+          "size": 481955
+        },
+        {
+          "path": "90654959.mp3",
+          "sha256": "722528a24633986cc157a581f148e1091bc7063939fad75508d1d263bd0e37a7",
+          "size": 6619832
+        },
+        {
+          "path": "info.txt",
+          "sha256": "816f968f2d9f7b1f23ae2602f6dfc996cddf92a3f9f722a795aa1c853dcb259e",
+          "size": 155
+        },
+        {
+          "path": "info.yml",
+          "sha256": "0fe71abc6590b23eb66ebd54a61d21ff71228d2b3c7ca99c747f1b0978d8d608",
+          "size": 464
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.5,
+        "backgroundDim": 0.6,
+        "chart": "90654959.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "90654959.jpg",
+        "lineLength": 6.0,
+        "music": "90654959.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Falls the curtain"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "1f69cead4a08735c3580ef5eb238dded0c6425dbf202c9bd49f02217e371e4ba",
+      "size": 7201940,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13385.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "INKnoname",
+  "composer": "eicateve",
+  "created": null,
+  "description": "欢迎关注bilibili@ink无名之辈\r\n",
+  "difficulty": 15.6,
+  "id": 13385,
+  "illustrator": "UK",
+  "level": "SP Lv.-1",
+  "name": "R.I.P.",
+  "tags": [
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

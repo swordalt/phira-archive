@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:58Z",
+    "lastChanged": "2026-09-22T01:07:58Z",
+    "localBackup": {
+      "asset": "7816.zip",
+      "files": [
+        {
+          "path": "58991893.json",
+          "sha256": "4a8d57897069f7b16aa770ae6e736aacd2a373f0530e0b50e3339017f3946750",
+          "size": 57486
+        },
+        {
+          "path": "58991893.mp3",
+          "sha256": "4c81e1a37a3eb26c3781d0f29e5a7457583c09d4d285fda26ce3df09598d224d",
+          "size": 2110529
+        },
+        {
+          "path": "58991893.png",
+          "sha256": "7f166c8e52bd5f7a987ab7f24746033c9e45cc66802dd5420e88f2e802836184",
+          "size": 376754
+        },
+        {
+          "path": "info.txt",
+          "sha256": "70926c713656a4bbeb30febd97fe087685978816b49c060370ce757114c70d32",
+          "size": 193
+        },
+        {
+          "path": "info.yml",
+          "sha256": "870fe5bb579dabfd07a2ef686515469d6a967d7e7ca43c23abda9434dea28111",
+          "size": 485
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "58991893.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "58991893.png",
+        "lineLength": 6.0,
+        "music": "58991893.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "？"
+      },
+      "release": "backup-7000-7999",
+      "sha256": "395870b4ca34c2aff04b62315f2631acc13ded441c606197e79872a740019be5",
+      "size": 2545955,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-7000-7999/7816.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "高适",
+  "composer": "文宇6868",
+  "created": null,
+  "description": "粪谱别看(谱师上传者同人)",
+  "difficulty": 10.0,
+  "id": 7816,
+  "illustrator": "文宇6868",
+  "level": "l N lv. 高适",
+  "name": "吉诗三伯手:♿别董大♿",
+  "tags": [
+    "troll"
+  ],
+  "updated": null,
+  "uploader": null
+}

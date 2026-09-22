@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:41Z",
+    "lastChanged": "2026-09-22T01:03:41Z",
+    "localBackup": {
+      "asset": "4063.zip",
+      "files": [
+        {
+          "path": "1669117626.ogg",
+          "sha256": "5800af1182bd9c0ec78b7b4528c1c1bc5330a9d461db8e9195f8899a42838355",
+          "size": 3341755
+        },
+        {
+          "path": "Avantgarde(From Malody).json",
+          "sha256": "a98fe261c8860ad5caac2311f714409aa8a58f65fbaa167a22f8312e43aabd2c",
+          "size": 1374903
+        },
+        {
+          "path": "Avantgarde.jpg",
+          "sha256": "3c9a22a01de8c6a4e35e1892908f6c24ff2a08e30302e1c6ff01ea5f8f6dcc4b",
+          "size": 323978
+        },
+        {
+          "path": "info.txt",
+          "sha256": "8812ea02d14c73d6040b0707aa8125508a22d57a6b17c649580ffe4843f96b56",
+          "size": 173
+        },
+        {
+          "path": "info.yml",
+          "sha256": "827076d3c320b5363a07cbed995ba251dc71f687ba72398f133bdaf9ed0776fb",
+          "size": 649
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.70000005,
+        "chart": "Avantgarde(From Malody).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "Avantgarde.jpg",
+        "lineLength": 6.0,
+        "music": "1669117626.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "建议至少v3 6dan以上玩家挑战本铺以达到合格成绩（acc不低于90）"
+      },
+      "release": "backup-4000-4999",
+      "sha256": "f30abbc63161e0471e3dd2566256aba0889ea641eeeab3c67599bced03304ab8",
+      "size": 5042004,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-4000-4999/4063.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "cooodecy",
+  "composer": "Raimukun",
+  "created": null,
+  "description": "谱师本人空の逝传谱，scylic为本人不常用马甲\n谱面cid:c124691\n早一点的技巧图，略卡手",
+  "difficulty": 36.0,
+  "id": 4063,
+  "illustrator": "UK",
+  "level": "4K Tech  Lv.36",
+  "name": "Avantgarde",
+  "tags": [
+    "plain"
+  ],
+  "updated": null,
+  "uploader": null
+}

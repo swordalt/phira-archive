@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:23Z",
+    "lastChanged": "2026-09-22T01:17:23Z",
+    "localBackup": {
+      "asset": "14929.zip",
+      "files": [
+        {
+          "path": "91838917.json",
+          "sha256": "1bae272b9e6d7520de5b29f5a51d82b6b49742435b2203fcc4ad4564781772d1",
+          "size": 934469
+        },
+        {
+          "path": "91838917.mp3",
+          "sha256": "cae7feb736f26bff0feb1255862ee2dc935facbc23cf24609ca7f2f36dbc110d",
+          "size": 1748818
+        },
+        {
+          "path": "91838917.png",
+          "sha256": "a59db9c2ac7dedd592c0859b879ddfd7b73cfd7999ae745d44a50a000732c316",
+          "size": 186605
+        },
+        {
+          "path": "info.txt",
+          "sha256": "43cd9f6bd09b421242573093e56118029e86e40ffca4c17097f82db4145dd82a",
+          "size": 170
+        },
+        {
+          "path": "info.yml",
+          "sha256": "707bc4fd9723e8f8b24d7bc172a05387d6cf3282dd27b42013904d801fa46c22",
+          "size": 865
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "91838917.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "91838917.png",
+        "lineLength": 6.0,
+        "music": "91838917.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tips:新春快乐"
+      },
+      "release": "backup-14000-14999",
+      "sha256": "72dc0021ac10c5e2d1e2e05997d51056181405d139f9b817047f405e068c06d7",
+      "size": 2871435,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14929.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-06T15:56:08.371657Z",
+  "charter": "5byolb-i-pn6lucky",
+  "composer": "溪-趣",
+  "created": "2024-02-06T15:56:08.371657Z",
+  "description": "整活谱面，粪铺一个，本人上传，注意：土耳其，悬溺处踩音不是很好！因为我不知道BPM怎么调搞得锚线踩不准音（）最后祝你们新春快乐，玩得开心（）此谱面会在新春后删除（2月14日），届时我会练习写谱技术，以便上传其他谱面\nB站id：LittleLuck四叶草",
+  "difficulty": 16.2,
+  "id": 14929,
+  "illustrator": "截自视频",
+  "level": "IN Lv.?",
+  "name": "春 节 嘘 蛆",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-02-07T05:28:01.724743Z",
+  "uploader": 922
+}

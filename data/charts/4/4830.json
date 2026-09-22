@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:04:22Z",
+    "lastChanged": "2026-09-22T01:04:22Z",
+    "localBackup": {
+      "asset": "4830.zip",
+      "files": [
+        {
+          "path": "95651541.jpeg",
+          "sha256": "416df5d42c0a3f96e49ae993789d8ccce0bbe86ddb2ce45ab1611047317dbcd3",
+          "size": 119398
+        },
+        {
+          "path": "95651541.json",
+          "sha256": "784604493302dac0c15361c823f48b2022da52357d4ef4bb1e97601d434745be",
+          "size": 2054202
+        },
+        {
+          "path": "95651541.mp3",
+          "sha256": "f0b35c79a04b40a37101c7ca967820dd9df6bf7b2efa1da6871f177c558e6548",
+          "size": 5202682
+        },
+        {
+          "path": "info.txt",
+          "sha256": "dc6ac5236f49a235580a63e68d68ae7e540f4706d812f7289243dc636c3f8a27",
+          "size": 170
+        },
+        {
+          "path": "info.yml",
+          "sha256": "157b76e920d49e17dcdbee5c2ea8d5ec46c6178cb3a22a8cd5d5b5bf905984f2",
+          "size": 503
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "95651541.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "95651541.jpeg",
+        "lineLength": 6.0,
+        "music": "95651541.mp3",
+        "offset": -0.005,
+        "previewEnd": 74.0,
+        "previewStart": 54.0,
+        "tip": null
+      },
+      "release": "backup-4000-4999",
+      "sha256": "24bc42eeb5a6bead235612d48d355d324104f66b0a9f96b03cbb6a8f6cdcd01f",
+      "size": 7377465,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-4000-4999/4830.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-07T07:13:25.044339Z",
+  "charter": "cmdysj",
+  "composer": "cosMo＠暴走P",
+  "created": "2023-07-07T07:13:25.044339Z",
+  "description": "",
+  "difficulty": 16.300001,
+  "id": 4830,
+  "illustrator": "UK",
+  "level": "AT Lv.16",
+  "name": "ヤミナベ!!!!",
+  "tags": [],
+  "updated": "2023-07-07T07:13:25.044339Z",
+  "uploader": 3551
+}

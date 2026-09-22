@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:47Z",
+    "lastChanged": "2026-09-22T01:06:47Z",
+    "localBackup": {
+      "asset": "6649.zip",
+      "files": [
+        {
+          "path": "65922369.jpg",
+          "sha256": "1fc53e0b0a33a50f794ffd50c93f6a69d2566f94f21e8110e600d3a99ce8bfb5",
+          "size": 228180
+        },
+        {
+          "path": "65922369.json",
+          "sha256": "95dd5f4ad2f30e8d076c4dae2c22b538ce90e493f8b6b0f56b0a4a8646615acf",
+          "size": 2585294
+        },
+        {
+          "path": "65922369.mp3",
+          "sha256": "a1521cf40b777765960a73d74bac6bd418d93724568ec45a5a285dd03889705d",
+          "size": 8282157
+        },
+        {
+          "path": "info.txt",
+          "sha256": "a8c5aa5f121b7682062fedf78c1ceb212a899505c6607f864805d6a7d578d183",
+          "size": 172
+        },
+        {
+          "path": "info.yml",
+          "sha256": "d30ca690001000359cd3ffccb561a9bdfa68abedc4e2b295c098022624a5c4da",
+          "size": 552
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "65922369.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "65922369.jpg",
+        "lineLength": 6.0,
+        "music": "65922369.mp3",
+        "offset": 0.025000006,
+        "previewEnd": 34.6,
+        "previewStart": 21.1,
+        "tip": "IQが下がっていく感じ"
+      },
+      "release": "backup-6000-6999",
+      "sha256": "2886be7f371451d30ae592661db9c82ece7283a18081dda3881a539e5ba66b2b",
+      "size": 11096863,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6649.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-02T06:35:00.354362Z",
+  "charter": "Naptie",
+  "composer": "ピノキオピー",
+  "created": "2023-08-02T06:35:00.354362Z",
+  "description": "",
+  "difficulty": 14.800003,
+  "id": 6649,
+  "illustrator": "ピノキオピー",
+  "level": "IN  Lv.14",
+  "name": "神っぽいな",
+  "tags": [],
+  "updated": "2023-08-02T08:40:54.825165Z",
+  "uploader": 25933
+}

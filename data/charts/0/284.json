@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:01:58Z",
+    "lastChanged": "2026-09-22T01:01:58Z",
+    "localBackup": {
+      "asset": "284.zip",
+      "files": [
+        {
+          "path": "77248079.jpg",
+          "sha256": "11525dfd24e78831b840466ebcd78947ad7040ae33c334c3bf3cc6df8603fe4e",
+          "size": 174911
+        },
+        {
+          "path": "77248079.json",
+          "sha256": "3ecc1d139ce3997fc1de8a83a1b05cfb7dd0c7754bdc4d2f00b4c2631f2bd3e1",
+          "size": 146742
+        },
+        {
+          "path": "77248079.mp3",
+          "sha256": "8939147a3a43d23ef3afac3173e9816dc68fa640ece82e364afc0bd3c0cfa268",
+          "size": 3760468
+        },
+        {
+          "path": "info.txt",
+          "sha256": "32833999c57098a8b813599a4b13258abadcc6e483d6e3ecd42afd1a58e8b028",
+          "size": 160
+        },
+        {
+          "path": "info.yml",
+          "sha256": "43db5dcd605d95563e20448dd2ec63f7d9ceec33681b95c7433055a4fbc1d08f",
+          "size": 782
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.77778,
+        "backgroundDim": 0.6,
+        "chart": "77248079.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "77248079.jpg",
+        "lineLength": 6.0,
+        "music": "77248079.mp3",
+        "offset": 0.025,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip:你又在玩亚音游[doge]"
+      },
+      "release": "backup-0-999",
+      "sha256": "2d55851e698dc38ce1a79d333efbcb7d4a4548736cd12632b5fdb5b151d46da3",
+      "size": 4083571,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-0-999/284.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-04-02T08:24:52.826382Z",
+  "charter": "Han Yan",
+  "composer": "Dancing Line",
+  "created": "2023-04-02T08:24:52.826382Z",
+  "description": "别玩prpr了，快去玩跳舞的线[吃瓜]\n\n这不是我的自制谱，已获得谱师@寒炎的上传许可\n视频地址：【[Phigros自制 x Dancing Line]你的长条炸了！金牛座 IN Lv.13-哔哩哔哩】 https://b23.tv/LFGExI2",
+  "difficulty": 13.0,
+  "id": 284,
+  "illustrator": "UK",
+  "level": "鲁迅组准备！",
+  "name": "金牛座",
+  "tags": [
+    "跳舞的线专区"
+  ],
+  "updated": "2023-04-02T08:24:52.826382Z",
+  "uploader": 524
+}

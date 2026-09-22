@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:19:50Z",
+    "lastChanged": "2026-09-22T01:19:50Z",
+    "localBackup": {
+      "asset": "16821.zip",
+      "files": [
+        {
+          "path": "98982613.json",
+          "sha256": "a160fd25b7d7c792c6c2db0efe2aad4aec56b61a327b5a10855fd2cd9083f852",
+          "size": 3968923
+        },
+        {
+          "path": "98982613.mp3",
+          "sha256": "1756f3f9718e5cb45ff1dec3ad63794bf838f23960e6e7da9bc121a89275287d",
+          "size": 2718565
+        },
+        {
+          "path": "98982613.png",
+          "sha256": "a917065d83dbca710490b15e5b6ee41d876bfd7d14ba70f9d9dfc2d5821e6d2c",
+          "size": 417541
+        },
+        {
+          "path": "info.txt",
+          "sha256": "f1a8b53c7c657033eec423a76715ace2dd1e8ddc4d163645751438db08483ea7",
+          "size": 169
+        },
+        {
+          "path": "info.yml",
+          "sha256": "cf912c4457db36548ca050eee1c93a352469a2b24583d2b82edcc7e9f6425a22",
+          "size": 508
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "98982613.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "98982613.png",
+        "lineLength": 6.0,
+        "music": "98982613.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-16000-16999",
+      "sha256": "4f3cf161ce9a6830f4888daf918fd0e00df8050d4dc6c56446e8c855430f6526",
+      "size": 7106214,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-16000-16999/16821.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "御空",
+  "composer": "Laur/大国奏音",
+  "created": null,
+  "description": "本谱由谱师亲自上传，祝大家游玩愉快",
+  "difficulty": 15.699999,
+  "id": 16821,
+  "illustrator": "yoshimo",
+  "level": "AT Lv.16",
+  "name": "Latent Kingdom",
+  "tags": [
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

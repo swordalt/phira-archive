@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:26Z",
+    "lastChanged": "2026-09-22T01:03:26Z",
+    "localBackup": {
+      "asset": "3261.zip",
+      "files": [
+        {
+          "path": "32346489.jpg",
+          "sha256": "bc1b46368a1d523ce77831af68b660fb3336f46c67946c258e64c4c8e4b50718",
+          "size": 63125
+        },
+        {
+          "path": "32346489.json",
+          "sha256": "089614bbd5b036fe8b684926713b7acf0fe4a015fb9bad97492748d4e3fc3b56",
+          "size": 4189545
+        },
+        {
+          "path": "32346489.mp3",
+          "sha256": "8e26f66fc75f786f4de95915893c2c166f3c895eac9f497c036443885ddb2b0f",
+          "size": 6579532
+        },
+        {
+          "path": "info.txt",
+          "sha256": "7454f080401198c62d87186f7888a3b663024acbf646e4efcd8a58acfe8fb1a9",
+          "size": 169
+        },
+        {
+          "path": "info.yml",
+          "sha256": "cc5cbe5569a52770a6f9cd14095ae8f7d052fee21ba3671febb7cb50a9733f77",
+          "size": 641
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.4,
+        "chart": "32346489.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "32346489.jpg",
+        "lineLength": 6.0,
+        "music": "32346489.mp3",
+        "offset": 0.0,
+        "previewEnd": 82.0,
+        "previewStart": 67.0,
+        "tip": "我超!潘!(谱师Vluoy兴奋地紫砂"
+      },
+      "release": "backup-3000-3999",
+      "sha256": "fae4bd6713e8813b6fd98a5d5e48c4e087a2eb03f3ede942eb9f1235bf6f80d2",
+      "size": 10833520,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-3000-3999/3261.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-06-10T01:21:43.684369Z",
+  "charter": "VLOUY—DOXXX",
+  "composer": "削除",
+  "created": "2023-06-10T01:21:43.684369Z",
+  "description": "(中间的高潮段黄键是全屏判哦～)\n本人上传!本人上传!是本人!Vluoy是彦卿厨子!",
+  "difficulty": 15.700003,
+  "id": 3261,
+  "illustrator": "UK",
+  "level": "Lv IN.15",
+  "name": "PANDORA  PARADOXXX",
+  "tags": [],
+  "updated": "2023-06-10T01:21:43.684369Z",
+  "uploader": 47432
+}

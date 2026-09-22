@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:58Z",
+    "lastChanged": "2026-09-22T01:16:58Z",
+    "localBackup": {
+      "asset": "14711.zip",
+      "files": [
+        {
+          "path": "1706802155.ogg",
+          "sha256": "7b88bf34ba17bf020d874aea37a3b7a8e45212b99bb6f168eaf082459dda19fb",
+          "size": 2826106
+        },
+        {
+          "path": "IMG_20240201_234348.jpg",
+          "sha256": "7b891338c934653215bdee5897e3a74e2db1d3e7916212b1454c15322c931257",
+          "size": 167028
+        },
+        {
+          "path": "info.csv",
+          "sha256": "da012a76fd2fc644ee15cf9c2b344ee6ff39ea1311a3ece008fc4ef152237e62",
+          "size": 246
+        },
+        {
+          "path": "info.yml",
+          "sha256": "7dad9cb33395800f5108ea0833eeacf84b789f4d1cfcae78573b46026b4dd4ae",
+          "size": 665
+        },
+        {
+          "path": "花と、雪と、ドラムンベース。 (From Malody).json",
+          "sha256": "19866210a9ff6abd1156effb7e0024552923583145e3ee8f212671827d3964c5",
+          "size": 849539
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "花と、雪と、ドラムンベース。 (From Malody).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "IMG_20240201_234348.jpg",
+        "lineLength": 6.0,
+        "music": "1706802155.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "花花花花花一轮"
+      },
+      "release": "backup-14000-14999",
+      "sha256": "1a2a4695fec86fd21173c5a4ed150d81cc0fa3ac157cecfa93fb6db7041629e9",
+      "size": 3844214,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14711.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-03T08:32:51.476776Z",
+  "charter": "congratulations",
+  "composer": "kanone feat. せんざい",
+  "created": "2024-02-03T08:32:51.476776Z",
+  "description": "新人第五张谱\n轻点骂qaq",
+  "difficulty": 19.800001,
+  "id": 14711,
+  "illustrator": "UK",
+  "level": "4k Lv.20",
+  "name": "花と、雪と、ドラムンベース。",
+  "tags": [
+    "plain"
+  ],
+  "updated": "2024-02-03T08:32:51.476776Z",
+  "uploader": 139542
+}

@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:05Z",
+    "lastChanged": "2026-09-22T01:21:05Z",
+    "localBackup": {
+      "asset": "17976.zip",
+      "files": [
+        {
+          "path": "12278511.jpg",
+          "sha256": "7bc08be1520d5d88a857b1fe245ad975d462b73d5d68e0ced40ea58099950e6f",
+          "size": 170978
+        },
+        {
+          "path": "12278511.json",
+          "sha256": "523672f19b16c017eb13be893b0c714789dab0cfb9c71b98b1e4cb5f0086f8a6",
+          "size": 1273378
+        },
+        {
+          "path": "12278511.mp3",
+          "sha256": "d4ad753cbed21c9b6151637e575ad37ccfe1afdeed5b2e60aec82b46a1347e92",
+          "size": 2838213
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d7e112a14b04f512c8168389d589a40ec94d33894961caad7ae644d2327a0fb0",
+          "size": 156
+        },
+        {
+          "path": "info.yml",
+          "sha256": "4c43dec9789f50a4462c1b011013b4d5790dd78ef21648933357174ce5339b80",
+          "size": 442
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "12278511.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "12278511.jpg",
+        "lineLength": 6.0,
+        "music": "12278511.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-17000-17999",
+      "sha256": "1653e77b332713fdf09f53ad6e8b39a771baf482047153075021ca12a0efb875",
+      "size": 4283675,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-17000-17999/17976.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "莉莉",
+  "composer": "t+pazolite",
+  "created": null,
+  "description": "",
+  "difficulty": 15.0,
+  "id": 17976,
+  "illustrator": "网易云上嘟",
+  "level": "IN Lv.15",
+  "name": "CENSORED",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

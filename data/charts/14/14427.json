@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:32Z",
+    "lastChanged": "2026-09-22T01:16:32Z",
+    "localBackup": {
+      "asset": "14427.zip",
+      "files": [
+        {
+          "path": "24024611.jpg",
+          "sha256": "eb1d5d9600a530afec29b7e75a97160d85b84ea4f497590318737f25b877f828",
+          "size": 111463
+        },
+        {
+          "path": "24024611.json",
+          "sha256": "d20e09daef77fc0e1427795d20798b581c7f4c3562b4bd3e26c07d22965a0e6e",
+          "size": 367844
+        },
+        {
+          "path": "24024611.mp3",
+          "sha256": "f132d558d4fc6fb8c63e08f31ca36066603b3eb72fd0df38be54543ac16e2360",
+          "size": 1376695
+        },
+        {
+          "path": "info.txt",
+          "sha256": "8d1442dca4c709f8abb9e120078ace600aa194da5ceb588fc90134297382ec43",
+          "size": 188
+        },
+        {
+          "path": "info.yml",
+          "sha256": "8c46a29764eec06c719218165b6e5f8c007990f6f0fadfae01244b9880b22b75",
+          "size": 737
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "24024611.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "24024611.jpg",
+        "lineLength": 6.0,
+        "music": "24024611.mp3",
+        "offset": 0.0,
+        "previewEnd": 52.5,
+        "previewStart": 36.0,
+        "tip": "心在跳，是爱情如烈火！"
+      },
+      "release": "backup-14000-14999",
+      "sha256": "48991631549f32bebf578d8830a752d8c0841a35a58a874cce3b735163400501",
+      "size": 1857435,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14427.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-30T03:31:05.171967Z",
+  "charter": "引羽小垚",
+  "composer": "球球特别大",
+  "created": "2024-01-30T03:31:05.171967Z",
+  "description": "这是我做的第八个自制谱，歌曲和曲绘来源于球球特别大的视频，如果出现侵权现象，作者会删掉这个自制谱。希望大家喜欢这个作品！",
+  "difficulty": 13.5,
+  "id": 14427,
+  "illustrator": "球球特别大",
+  "level": "IN  Lv.13",
+  "name": "爱如火（汤姆Remix版）",
+  "tags": [],
+  "updated": "2024-01-30T03:31:05.171967Z",
+  "uploader": 653515
+}

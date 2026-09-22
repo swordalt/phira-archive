@@ -1,0 +1,67 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:14Z",
+    "lastChanged": "2026-09-22T01:03:14Z",
+    "localBackup": {
+      "asset": "2936.zip",
+      "files": [
+        {
+          "path": "24189266.PNG",
+          "sha256": "434f35a646ef110436143588f833ed7bd7be251db1fd7d42a881d7f62b7bc962",
+          "size": 557864
+        },
+        {
+          "path": "24189266.json",
+          "sha256": "0fbe8590489502d3ff05f4d0462aea733a1a642bfe585af1cf1fa81b07143cd0",
+          "size": 3268235
+        },
+        {
+          "path": "24189266.mp3",
+          "sha256": "719b59265f4b37245b5562a7765ef99898a75b6e23cb588552c56baa4f25e11c",
+          "size": 29919821
+        },
+        {
+          "path": "info.yml",
+          "sha256": "26bb82fe8eaf969eceb89254efcc43aa041d29f9b1f5b492a33ac993aa71071c",
+          "size": 552
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "24189266.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "24189266.PNG",
+        "lineLength": 6.0,
+        "music": "24189266.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-2000-2999",
+      "sha256": "0a579e339afd5656b4654fcacac1e11b38d2923ff05f686b6a344d9e28c728fe",
+      "size": 33746888,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-2000-2999/2936.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-06-04T04:39:51.296332Z",
+  "charter": "qiuqiu",
+  "composer": "布智Pigeon_P",
+  "created": "2023-06-04T04:39:51.296332Z",
+  "description": "不知道为什么更新不了 只能重传",
+  "difficulty": 16.600002,
+  "id": 2936,
+  "illustrator": "UK",
+  "level": "AT Lv.16",
+  "name": "Hardcore Oiiaioooooiai",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-06-04T04:39:51.296332Z",
+  "uploader": 12202
+}

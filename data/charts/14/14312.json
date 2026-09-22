@@ -1,0 +1,78 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:25Z",
+    "lastChanged": "2026-09-22T01:16:25Z",
+    "localBackup": {
+      "asset": "14312.zip",
+      "files": [
+        {
+          "path": "75080162.json",
+          "sha256": "225ae9f59218093fc6e803d727b0f73aa76518432e6d2f77093cb6126dd779fc",
+          "size": 3136895
+        },
+        {
+          "path": "75080162.mp3",
+          "sha256": "f8521694c81213f61039c2f3bfb2b75ebf32df5f8030e7b80d3d0c1cbe0c8835",
+          "size": 5131167
+        },
+        {
+          "path": "75080162.png",
+          "sha256": "9f222571b49e88204619184f039cdf3025424b7c3b18ae33049c4862c734f2c1",
+          "size": 4398568
+        },
+        {
+          "path": "cmdysj.ttf",
+          "sha256": "bdf044bd3c17b1464d52e67aa0532c446f2399214e8915a11a1e0425518d2028",
+          "size": 8470944
+        },
+        {
+          "path": "info.txt",
+          "sha256": "247a784a70c4bd37d9de90531ab0562601aa12ef3f8ee529f4067bf1c2cae3ca",
+          "size": 190
+        },
+        {
+          "path": "info.yml",
+          "sha256": "1359cf210fb979db2cefee4c3f649543ee2ad0e26ff55e1f7afa6b88794148fa",
+          "size": 700
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "75080162.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "75080162.png",
+        "lineLength": 6.0,
+        "music": "75080162.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "谱面质量由音乐决定（不是",
+        "unlockVideo": null
+      },
+      "release": "backup-14000-14999",
+      "sha256": "e39e3c723b165551ed7680ccac3a2ee98b9449909383f19ca48d66ceb6152d42",
+      "size": 21139068,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14312.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-28T05:12:21.480373Z",
+  "charter": "神谱，我们懂得制作（雾）",
+  "composer": "ZAQUVA",
+  "created": "2024-01-28T05:12:21.480373Z",
+  "description": "合作谱，上传已经过另一位谱师同意，如需b站发布录屏/手元请@澄橙子Orighting @鹿粦虎甘虎虎",
+  "difficulty": 16.500002,
+  "id": 14312,
+  "illustrator": "From PV",
+  "level": "神曲 Lv.16+",
+  "name": "Speculation",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-01-28T05:12:21.480373Z",
+  "uploader": 8883
+}

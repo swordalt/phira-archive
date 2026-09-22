@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:06Z",
+    "lastChanged": "2026-09-22T01:08:06Z",
+    "localBackup": {
+      "asset": "8076.zip",
+      "files": [
+        {
+          "path": "4920271.json",
+          "sha256": "f49f61b881f0e22d4c1131e25b471961f4526cd287daa6af779ba81f0da9fc7a",
+          "size": 703323
+        },
+        {
+          "path": "4920271.mp3",
+          "sha256": "93dd9faa279d074ddc0f7a1ec45e87813316d1f80e0ca724a88e9d01b17be414",
+          "size": 7990628
+        },
+        {
+          "path": "4920271.png",
+          "sha256": "af4b14c40f6f57b534b763b669323775b551a8f65b90155e152252890a734c54",
+          "size": 3013308
+        },
+        {
+          "path": "info.txt",
+          "sha256": "eff5fd52f58c5f9227c178c985f99f3aad81f2df3fed9da94d4f9de8c898dffe",
+          "size": 178
+        },
+        {
+          "path": "info.yml",
+          "sha256": "e0a02c8cf20f88ac745a0c97eafb4cfd308b06fbc1ca3e5c3958b3bca8310777",
+          "size": 691
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "4920271.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "4920271.png",
+        "lineLength": 6.0,
+        "music": "4920271.mp3",
+        "offset": 0.0,
+        "previewEnd": 148.5,
+        "previewStart": 133.5,
+        "tip": "Tip:drop that bass！"
+      },
+      "release": "backup-8000-8999",
+      "sha256": "fd745c7893c1aed7be79a9f2cd7731ff2cb3a2b76ecb05a5e408ec79eb5e0d05",
+      "size": 11708630,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-8000-8999/8076.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-20T14:01:34.966757Z",
+  "charter": "InkySAIKYO",
+  "composer": "Kobaryo",
+  "created": "2023-08-20T14:01:34.966757Z",
+  "description": "b站关注@1nkySAIKYO谢谢喵\nFJC NO.6\n速写出来挺一般般的\n速写水平有待提高\n我投的谱跟之前过的不一样 不是重复投稿qaq",
+  "difficulty": 16.1,
+  "id": 8076,
+  "illustrator": "Kobaryo",
+  "level": "IN Lv.16",
+  "name": "Raven Emperor (Absolute Version)",
+  "tags": [],
+  "updated": "2023-08-20T15:49:27.217228Z",
+  "uploader": 104079
+}

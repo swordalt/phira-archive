@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:02:28Z",
+    "lastChanged": "2026-09-22T01:02:28Z",
+    "localBackup": {
+      "asset": "857.zip",
+      "files": [
+        {
+          "path": "5781239.jpg",
+          "sha256": "c7c3eb330fa14d11017a0ad48a7d33cb00ea92e543af26da336758d09b7a4f94",
+          "size": 838948
+        },
+        {
+          "path": "5781239.json",
+          "sha256": "30686c3359b7f8d2ce849d12a863976b86faa6bbda09970a067d87e7b543674f",
+          "size": 1312258
+        },
+        {
+          "path": "5781239.mp3",
+          "sha256": "8fe52f7dcae736021008803bb3ac9e07c8a8bc61ea7c754d7086d44386d20609",
+          "size": 6318636
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b9c2f7e38fc9d22e6668b8e4842ac2be103074ec35772873f63cdc9cd61e24b1",
+          "size": 154
+        },
+        {
+          "path": "info.yml",
+          "sha256": "738c50d841a40a2bfb97ee96e1cd0aab85d97b9a2e217fc2f664aad4de9bdfbc",
+          "size": 484
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "5781239.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "5781239.jpg",
+        "lineLength": 6.0,
+        "music": "5781239.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-0-999",
+      "sha256": "05acfed42f690bfbd8f87216776c2c4e82b0aad8100bc5ff114756f3fba25c77",
+      "size": 8470982,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-0-999/857.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-04-30T04:28:55.288038Z",
+  "charter": "YanChuan",
+  "composer": "Raimukun",
+  "created": "2023-04-30T04:28:55.288038Z",
+  "description": "",
+  "difficulty": 16.2,
+  "id": 857,
+  "illustrator": "あるし",
+  "level": "AT Lv.16",
+  "name": "Avantgarde",
+  "tags": [],
+  "updated": "2023-07-23T08:34:55.308750Z",
+  "uploader": 228
+}

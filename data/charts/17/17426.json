@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:20:27Z",
+    "lastChanged": "2026-09-22T01:20:27Z",
+    "localBackup": {
+      "asset": "17426.zip",
+      "files": [
+        {
+          "path": "63499631.jpg",
+          "sha256": "710f8dd01bf309a7e2081ac2aff080a9140686f07f1f15d72a69513ac55a6abb",
+          "size": 41964
+        },
+        {
+          "path": "63499631.json",
+          "sha256": "8c9662c36ea1fb2b22ce9d584b8cc3d4482506ba3f6e62904acfa415e3bc62b1",
+          "size": 1352204
+        },
+        {
+          "path": "63499631.mp3",
+          "sha256": "84a5ea2857cce8336285b5b4f626082bf68fae133e75940c52214bfd02e5cfde",
+          "size": 2395368
+        },
+        {
+          "path": "info.txt",
+          "sha256": "497bbd4b1e880a649c0342bd45d58a04dbb2e6f6015e5b550c0145e196cbd935",
+          "size": 195
+        },
+        {
+          "path": "info.yml",
+          "sha256": "db8c19f215f8491a9624760a28828fa7b7c66868c45577c0780ef8807f7d3839",
+          "size": 576
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "63499631.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "63499631.jpg",
+        "lineLength": 6.0,
+        "music": "63499631.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-17000-17999",
+      "sha256": "564d7ded493558ccc9d115f03a8b05bdbd5efd02c37fb44e5ce70ff95e79c9a3",
+      "size": 3790815,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-17000-17999/17426.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "Hikari Originaire de Lci",
+  "composer": "黒皇帝 feat. AKA",
+  "created": null,
+  "description": "第四张谱面 有些比例没调好请见谅\n请审核员将我第一次上传的永夜城打回",
+  "difficulty": 10.0,
+  "id": 17426,
+  "illustrator": "NekoFTR",
+  "level": "EZ Lv.7+",
+  "name": "Le porteur d’Ombre",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

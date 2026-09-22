@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:30Z",
+    "lastChanged": "2026-09-22T01:08:30Z",
+    "localBackup": {
+      "asset": "8702.zip",
+      "files": [
+        {
+          "path": "36699985.jpg",
+          "sha256": "6724ad9ebaf60d0d2c49ee29a4e17ab89e232787b62b15b7a4bce21fea0464e4",
+          "size": 160111
+        },
+        {
+          "path": "36699985.json",
+          "sha256": "32a75bc0d36870882068452d353a589dacabd1a40f310cc227cca20508896cac",
+          "size": 4606739
+        },
+        {
+          "path": "36699985.mp3",
+          "sha256": "2ba57fe9bfe99ac6a8580670a18c69f6819375e37344caa1ded325d265ca561d",
+          "size": 878913
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b8af53b2cabdb7360820c24e71c8233b67a5137933e9801bb7a781b0ef935fe8",
+          "size": 168
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f5bab729a81e91a1fd04bfe888c6cc98fbbd0bac1cb96e2f97c43e6e0b5ad2d3",
+          "size": 857
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "36699985.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "36699985.jpg",
+        "lineLength": 6.0,
+        "music": "36699985.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "!!!!!!!!!!!!!!!!!"
+      },
+      "release": "backup-8000-8999",
+      "sha256": "34d5fb5fa9fb61874a6f74bcf42f67f41084876f0ccccef4a889d3bba2bb0f15",
+      "size": 5647296,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-8000-8999/8702.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-29T12:17:38.042705Z",
+  "charter": "Team RKCL",
+  "composer": "からめる",
+  "created": "2023-08-29T12:17:38.042705Z",
+  "description": "B站：BV1Xh4y1T7Cy\n\nComposer/Illustrator: @KARAMERUChannel \nCharter(s): Team RKCL (RollbowSkash(@R8P3S_CYCLE) , Ketheopribet, Chronolaxis, Lapsystrone)\n\n一天写完，最速记录\n\n设计变速纵连的意图：在打谱时也可体会到剧烈的压迫感，无力感和反感\n\n祝您游玩愉快！顺利P掉纵连段!\n",
+  "difficulty": 10.0,
+  "id": 8702,
+  "illustrator": "からめる",
+  "level": "!! Lv.!!",
+  "name": "重 要 通 知",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-08-29T12:17:38.042705Z",
+  "uploader": 9376
+}

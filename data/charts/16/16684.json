@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:19:46Z",
+    "lastChanged": "2026-09-22T01:19:46Z",
+    "localBackup": {
+      "asset": "16684.zip",
+      "files": [
+        {
+          "path": "7958412.json",
+          "sha256": "4a8a090de262fbf150da783a07adb6f9fd8d1cb311e21b42999642036e7409e2",
+          "size": 1511432
+        },
+        {
+          "path": "7958412.mp3",
+          "sha256": "50c5ab12d55ac36d8f2c96cf53b8d43aa810bdf02424f331162af2d9ad6dc594",
+          "size": 2448085
+        },
+        {
+          "path": "7958412.png",
+          "sha256": "1fcf3f838d8533100a9d07e174ba7fad763b55b01a9d8c51b768235870ce34ba",
+          "size": 40629
+        },
+        {
+          "path": "info.txt",
+          "sha256": "44b9d08f26819fb8df270bf16a05c4d5c6728a8d651a576861a0d57bf9b6192e",
+          "size": 149
+        },
+        {
+          "path": "info.yml",
+          "sha256": "217baccb069ae1419dba4fd922783620cc865a8e05283776653d437f55763dd9",
+          "size": 525
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "7958412.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "7958412.png",
+        "lineLength": 6.0,
+        "music": "7958412.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-16000-16999",
+      "sha256": "0e901e8e9ec66929602f0dc204996ede5260a9ffe7dbf2a0846a94255854d606",
+      "size": 4001322,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-16000-16999/16684.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-03-03T04:02:12.568174Z",
+  "charter": "huanp",
+  "composer": "BACO",
+  "created": "2024-03-03T04:02:12.568174Z",
+  "description": "2ndWJC参赛谱 一天速写",
+  "difficulty": 16.0,
+  "id": 16684,
+  "illustrator": "いか",
+  "level": "AT Lv.16",
+  "name": "DENGEKI Tube",
+  "tags": [],
+  "updated": "2024-03-03T04:02:12.568174Z",
+  "uploader": 134083
+}

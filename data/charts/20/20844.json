@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:27:36Z",
+    "lastChanged": "2026-09-22T01:27:36Z",
+    "localBackup": {
+      "asset": "20844.zip",
+      "files": [
+        {
+          "path": "97967061.jpg",
+          "sha256": "1f8ff19addb93082d91dd29ef3f6bd2e3cd38feea0a5cc496908aea009222400",
+          "size": 46839
+        },
+        {
+          "path": "97967061.json",
+          "sha256": "480fc7fe7c0c8f04bbd5c4becd05bfeecd1bca5af9f4d01a26299c9f6ad48072",
+          "size": 2890996
+        },
+        {
+          "path": "97967061.mp3",
+          "sha256": "28ccbba1aac6585360502829661e090e798ec75dc92ff26f8a28cc15ac13bf18",
+          "size": 2314604
+        },
+        {
+          "path": "info.txt",
+          "sha256": "585c49d4b5ec05b6191188268dcc7e71b49862f165c9a90b5d9432d8ac60c7ca",
+          "size": 187
+        },
+        {
+          "path": "info.yml",
+          "sha256": "c21778704a5b7d0e67ead70def13f0f6492dbd6c11684a45e049ca93103b0fc7",
+          "size": 1102
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "97967061.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "97967061.jpg",
+        "lineLength": 6.0,
+        "music": "97967061.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip: 今年的火之国也下起了雪",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "f3f3f75321a261d07011082a44d879e7fc3ec22c81f269f9c159d727763cafcd",
+      "size": 5254236,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20844.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-07T01:50:22.315793Z",
+  "charter": "Icier vs. [6A9EC0]",
+  "composer": "Columba(Daily vs. Roon_kun)",
+  "created": "2024-06-07T01:50:22.315793Z",
+  "description": "谱师本人上传\n年度自交（啊？）环节\n一年半前就计划要写的曲目，中间因为没思路+技术力不足所以搁置了\n最近几天想起来了这个谱然后把它完善了，于是乎\n分段大概是：\n0~247cb：寒冰写主体，6A负责追加和修改特效+修改配置\n248~488cb：6A全部推翻重写\n489~538cb：依旧是寒冰写主体，6A负责追加和修改特效\n539~1080cb：6Aの魅力时刻，因为写到这寒冰就没写了，即使写了，也被6A推翻重写了",
+  "difficulty": 15.200001,
+  "id": 20844,
+  "illustrator": "E.coil",
+  "level": "IN Lv.15",
+  "name": "Muspelheim",
+  "tags": [],
+  "updated": "2024-06-08T00:40:55.714060Z",
+  "uploader": 4004
+}

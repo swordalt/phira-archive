@@ -1,0 +1,193 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:16Z",
+    "lastChanged": "2026-09-22T01:17:16Z",
+    "localBackup": {
+      "asset": "14821.zip",
+      "files": [
+        {
+          "path": "30867803.json",
+          "sha256": "7a8b176f6dd974532c8000d9bb09a1e091b4a1e16f25e8efec19184f3a0e76e7",
+          "size": 424341
+        },
+        {
+          "path": "30867803.mp3",
+          "sha256": "6e4e165a58e7858c259c98c86e0915bc7782470c4524f75fbc1eb263f3c3b124",
+          "size": 148077
+        },
+        {
+          "path": "30867803.png",
+          "sha256": "df47ddadcedb06948f2365722f93b52ba94f479e61a9578a89a9cf5fcf3ebf61",
+          "size": 3619
+        },
+        {
+          "path": "info.txt",
+          "sha256": "bc3dbbdc4e1f45a7c88d9851791f30bde90b08d68ed5f133206cb122b950c147",
+          "size": 145
+        },
+        {
+          "path": "info.yml",
+          "sha256": "e3c30f12149a15f8fbc71edd164cab3e51466835fcf0e77063321338809b6124",
+          "size": 580
+        },
+        {
+          "path": "右14.png",
+          "sha256": "292bc9afc9108bc04a47033dadf60ee2f1fdc46952f74b9008cca13951713e88",
+          "size": 4641
+        },
+        {
+          "path": "右2.png",
+          "sha256": "54ad0e0572cec3eb0c7e7fbf0e9aa51af36608ce09112dffa13b1825d8c3bc95",
+          "size": 4659
+        },
+        {
+          "path": "右20.png",
+          "sha256": "66a6a90830aedd01f73b1aaf89e88031157f67c6901cde2cb17dd10276f2af91",
+          "size": 4639
+        },
+        {
+          "path": "右26.png",
+          "sha256": "e698b52f5d9b9cfe27dd9f11de23123b6ac66f8709fe45d4035af5aa85adfd16",
+          "size": 4436
+        },
+        {
+          "path": "右32.png",
+          "sha256": "713b3d7fb89945d827db0667b7ce0c4e9d8d22348c7d7e5054dce74074eae856",
+          "size": 4552
+        },
+        {
+          "path": "右38.png",
+          "sha256": "7cf8efc7096336e3e5b3e65afe939f031ce723c79369837af47ca94ab314127a",
+          "size": 4542
+        },
+        {
+          "path": "右44.png",
+          "sha256": "41994f5e6ad918c4761eabf77887a3ed4f21e213e67fc1ab53c34a575d11190d",
+          "size": 4511
+        },
+        {
+          "path": "右50.png",
+          "sha256": "993b57840d63b9ccd8a8f6d7cd446385fe890d07cd51c9587c5bda540b5c4762",
+          "size": 4489
+        },
+        {
+          "path": "右56.png",
+          "sha256": "58761726f5723982465fac10dbf4ab4f94f8941aa44d58e8121e1cac05841a34",
+          "size": 4492
+        },
+        {
+          "path": "右62.png",
+          "sha256": "15be39def01a74a117095bb3cf3e210697f53a1ba0d737f550cc85b6f51f9ea3",
+          "size": 4439
+        },
+        {
+          "path": "右68.png",
+          "sha256": "019f12e3e1e85f2f8d29ef9b6a7272ff769c6c88f794859c872d7cf30b65657b",
+          "size": 4472
+        },
+        {
+          "path": "右74.png",
+          "sha256": "6a4123dc1997f09c2258aa7cdee3737ecdda8c58e5d717d7b87846f376847fb0",
+          "size": 4691
+        },
+        {
+          "path": "右8.png",
+          "sha256": "3c78f376f726061e0613f71164449ff5df519937649ef207ba9bb634fcfa9422",
+          "size": 4595
+        },
+        {
+          "path": "左14.png",
+          "sha256": "43cd3ac05c133b0a4f12c7c91a2055dff6e78dfa737f6223b2716723964faafb",
+          "size": 6132
+        },
+        {
+          "path": "左2.png",
+          "sha256": "d452f6d98c891cdb34d00e9a04567dcba79f54b1803e63fd4698b6fb5fd3360c",
+          "size": 6444
+        },
+        {
+          "path": "左20.png",
+          "sha256": "73a6b05fa339020c119d47bee10e78e82978270d9bc3fea3fcab39bd6a103167",
+          "size": 6252
+        },
+        {
+          "path": "左26.png",
+          "sha256": "54af1cd557227da0d608577342301396d8326b961fef229ebbb49e0696ad5b83",
+          "size": 6734
+        },
+        {
+          "path": "左32.png",
+          "sha256": "98851c1205fe1ada66673b75c97f9c02003d042ce4fbe89745954eb2d03c217c",
+          "size": 7020
+        },
+        {
+          "path": "左38.png",
+          "sha256": "953c20fe2ff5b82e0b6442581e030b4e814bf9bca30ce416fffbd5a6e7e9cedf",
+          "size": 7516
+        },
+        {
+          "path": "左44.png",
+          "sha256": "dae622350251ce5692319880a82a54794f085fbcd95c7dcbd4c2ffdc785104de",
+          "size": 7434
+        },
+        {
+          "path": "左50.png",
+          "sha256": "2437f4aac1f9e51af524efe548431dd4b696ed595053a4410eb461caa2e000c2",
+          "size": 7042
+        },
+        {
+          "path": "左56.png",
+          "sha256": "b74fa5299cc403d42f1ea27f06f2556e265229b331783ca1ed98cca0b5afcf06",
+          "size": 7153
+        },
+        {
+          "path": "左58.png",
+          "sha256": "24cb126a0f389f55dd8012c825bb055ab71cfb512327520d9a816f622622e71e",
+          "size": 7295
+        },
+        {
+          "path": "左8.png",
+          "sha256": "5fc0ebd8f2b99896eed4aed956e176c794603a276560252f61de7a85df077304",
+          "size": 6108
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "30867803.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "30867803.png",
+        "lineLength": 6.0,
+        "music": "30867803.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tips: 还原Halv原视频警告"
+      },
+      "release": "backup-14000-14999",
+      "sha256": "6795415199b8fdeacca2e510502f86823abfbeb4ab7177a713183a4600873f32",
+      "size": 713806,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14821.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-05T02:24:42.087270Z",
+  "charter": "滔赫",
+  "composer": "Halv",
+  "created": "2024-02-05T02:24:42.087270Z",
+  "description": "本人上传（原视频来自Halv）\n真的是最后的版本了",
+  "difficulty": 0.0,
+  "id": 14821,
+  "illustrator": "UK",
+  "level": "HA Lv.?",
+  "name": "Haa?",
+  "tags": [
+    "Halv",
+    "troll"
+  ],
+  "updated": "2024-02-05T02:24:42.087270Z",
+  "uploader": 9245
+}

@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:44Z",
+    "lastChanged": "2026-09-22T01:09:44Z",
+    "localBackup": {
+      "asset": "10245.zip",
+      "files": [
+        {
+          "path": "4319685.jpg",
+          "sha256": "8d40be1f7b21873fac7a705ac016fcd9def68c93eb438643453aad59cab8b06b",
+          "size": 91122
+        },
+        {
+          "path": "4319685.json",
+          "sha256": "3c6602d99cf805bf0dc51e324fdde29ca3ceafead524ec8997f7a665ef1aa4b7",
+          "size": 3076682
+        },
+        {
+          "path": "4319685.mp3",
+          "sha256": "076331694cd58890ba78bbf1f3ec66995098d542a1b93ae7329af358d6532a09",
+          "size": 6542783
+        },
+        {
+          "path": "info.txt",
+          "sha256": "bc7bf9f999c94520f61856a02136ab828ae091a33cc9182b3c057bf14f508528",
+          "size": 179
+        },
+        {
+          "path": "info.yml",
+          "sha256": "9e589abf699a0fd3d1376dbe025277a080a523f4f095f71c970ae3a82a2bff73",
+          "size": 541
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "4319685.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "4319685.jpg",
+        "lineLength": 6.0,
+        "music": "4319685.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-10000-10999",
+      "sha256": "ae826cae9c2d753fbe2e93e0f57f9a081360005a024206a27b0595c81e4b7959",
+      "size": 9711809,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-10000-10999/10245.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-10-06T12:17:29.612458Z",
+  "charter": "[2348517 vs 1296473]",
+  "composer": "Rabbit House",
+  "created": "2023-10-06T12:17:29.612458Z",
+  "description": "谱师本人上传，此为修改版",
+  "difficulty": 16.0,
+  "id": 10245,
+  "illustrator": "UK",
+  "level": "AT Lv.16",
+  "name": "Ad astra per aspera",
+  "tags": [],
+  "updated": "2023-10-06T12:17:29.612458Z",
+  "uploader": 2181
+}

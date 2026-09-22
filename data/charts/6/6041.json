@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:08Z",
+    "lastChanged": "2026-09-22T01:06:08Z",
+    "localBackup": {
+      "asset": "6041.zip",
+      "files": [
+        {
+          "path": "560778.jpg",
+          "sha256": "39bd339f305f3fcc17e96d78ccb4df0c129c6f7949a0f10b8abacb493e9f02d2",
+          "size": 545608
+        },
+        {
+          "path": "560778.json",
+          "sha256": "0ffb7aa0237439a27e31c9da46d138383b3143da5cfc2b0d6bd93c7af43de237",
+          "size": 310106
+        },
+        {
+          "path": "560778.mp3",
+          "sha256": "460563aa89b33d5278ed64b0906544f4b7c9753abd59ff4117a6825805fcfefc",
+          "size": 5769723
+        },
+        {
+          "path": "info.txt",
+          "sha256": "283fa4077061bef4de6e44a2cdb728b94e86b844a6e1174b0a1157e53b0d2f5d",
+          "size": 196
+        },
+        {
+          "path": "info.yml",
+          "sha256": "36e78e712bf90ed5c97c20864efed9136c0fa9f637026e12389444bd83a480d6",
+          "size": 641
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "560778.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "560778.jpg",
+        "lineLength": 6.0,
+        "music": "560778.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip: 你将如何向前？"
+      },
+      "release": "backup-6000-6999",
+      "sha256": "ae22096329ef6a0ee254a19ad297b0e6b2dafaa7c06425e5c47d4eed3ca9f669",
+      "size": 6626770,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6041.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-27T10:29:18.491264Z",
+  "charter": "RESTART: Beyond Rays of Light",
+  "composer": "uma vs. Morimori Atsushi",
+  "created": "2023-07-25T09:28:02.594086Z",
+  "description": "谱师Bilibili@ty天远 我觉得这张谱非常好玩！定位是双指",
+  "difficulty": 16.600002,
+  "id": 6041,
+  "illustrator": "masiro vs. adaptor",
+  "level": "IN  Lv.16",
+  "name": "Re: End of a Dream",
+  "tags": [],
+  "updated": "2023-07-27T10:29:18.491264Z",
+  "uploader": 1925
+}

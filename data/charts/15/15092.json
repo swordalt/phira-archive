@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:53Z",
+    "lastChanged": "2026-09-22T01:17:53Z",
+    "localBackup": {
+      "asset": "15092.zip",
+      "files": [
+        {
+          "path": "54435441.jpg",
+          "sha256": "6e3d0a13794cb057e55573fde79b20637e9d1c8861f475a42a021108afbf36e2",
+          "size": 481481
+        },
+        {
+          "path": "54435441.json",
+          "sha256": "4107a8af47b4b55e9aa5562c76c1920bb323ce1de90d701dfad1bb7451de4702",
+          "size": 2833138
+        },
+        {
+          "path": "54435441.mp3",
+          "sha256": "6d3bf6927a35878985942d2503f41dd4445e1751a0800c7a661a90bab274b68e",
+          "size": 5281965
+        },
+        {
+          "path": "info.txt",
+          "sha256": "49aa9b170d719115f2dfe22e7a95a4479369f9d808c2e2e44cc7e75c5c670829",
+          "size": 169
+        },
+        {
+          "path": "info.yml",
+          "sha256": "b99d756e8a8c8792eb847d20c4c89d869a909a6bdd82681ad2d4796c6c576b66",
+          "size": 511
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "54435441.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "54435441.jpg",
+        "lineLength": 6.0,
+        "music": "54435441.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-15000-15999",
+      "sha256": "028e6f03b23331ae359d54b48aadfb90362869c6668dcdf2fb51ee8582aa7999",
+      "size": 8597772,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15092.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-09T00:46:47.181883Z",
+  "charter": "RTX20000",
+  "composer": "Yooh",
+  "created": "2024-02-09T00:46:47.181883Z",
+  "description": "",
+  "difficulty": 15.0,
+  "id": 15092,
+  "illustrator": "网上找嘟",
+  "level": "IN Lv.15",
+  "name": "Good bye，Meerry-GoRound",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-02-09T00:46:47.181883Z",
+  "uploader": 506600
+}

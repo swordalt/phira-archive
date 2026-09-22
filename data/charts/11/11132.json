@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:10:36Z",
+    "lastChanged": "2026-09-22T01:10:36Z",
+    "localBackup": {
+      "asset": "11132.zip",
+      "files": [
+        {
+          "path": "44109494.PNG",
+          "sha256": "fd70cfc141d53a9f48b631044e7c57355e27a1e0a680aca239dfa6d991f6e221",
+          "size": 1332455
+        },
+        {
+          "path": "44109494.json",
+          "sha256": "3065320cb5d35332bf8ed8d11818bd7551c7258daf750e33493be1a1eb034973",
+          "size": 7122967
+        },
+        {
+          "path": "44109494.mp3",
+          "sha256": "08c7a3b1bf45c94ebd805117bc69d07430e09054b77a550404b429424fe1cb0a",
+          "size": 2399532
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d6397cf4ac9de4e89b6de8be79883dc6d17f6fe2724281fdcc7edc0c76ecdbac",
+          "size": 179
+        },
+        {
+          "path": "info.yml",
+          "sha256": "a2f982991a705fea10f7f7027971b9afed8494a143f5ec7956124c1eb73a7498",
+          "size": 605
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "44109494.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "44109494.PNG",
+        "lineLength": 6.0,
+        "music": "44109494.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "这是一个tip"
+      },
+      "release": "backup-11000-11999",
+      "sha256": "841490c5f1582b9fb26476f520cd9f8e81ee7ff6e395214c6fcce839d909685d",
+      "size": 10856246,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11132.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "Poria",
+  "composer": "黒皇帝 feat. AKA ",
+  "created": null,
+  "description": "本谱为个人改谱，平衡了一下谱面难度，减少了尾杀出张，前面改了啥我也忘了）欢迎锐评谱面BV1M94y1t7i7@茯苓子poria",
+  "difficulty": 16.500002,
+  "id": 11132,
+  "illustrator": "NekoFTR",
+  "level": "AT Lv.16+",
+  "name": "Le Porteur d'Ombre",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

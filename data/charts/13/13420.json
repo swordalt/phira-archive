@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:15:00Z",
+    "lastChanged": "2026-09-22T01:15:00Z",
+    "localBackup": {
+      "asset": "13420.zip",
+      "files": [
+        {
+          "path": "30224307.jpg",
+          "sha256": "1960f34c6472d979d58f7fa3f67a874f2eea7fc23a08c1c4e6d4da37ff967333",
+          "size": 230860
+        },
+        {
+          "path": "30224307.json",
+          "sha256": "e700b96bf25ab53d7ce2aba8cda514deae8496b0532268c6d14048b2ffc6a003",
+          "size": 9648668
+        },
+        {
+          "path": "30224307.mp3",
+          "sha256": "40da5aedc25e3892ca098fed282843082d06cad76e38f33f6b1b2a511511dfcf",
+          "size": 1497915
+        },
+        {
+          "path": "info.txt",
+          "sha256": "523a356da923ff3024f977047ee5dc39d76f4fe78655f0d807689116c7e5675e",
+          "size": 208
+        },
+        {
+          "path": "info.yml",
+          "sha256": "aa86c6ed7dcafe577061a82af3b790fff2f6efece2f66180ff15f367164739af",
+          "size": 678
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "30224307.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "30224307.jpg",
+        "lineLength": 6.0,
+        "music": "30224307.mp3",
+        "offset": 0.0,
+        "previewEnd": 20.0,
+        "previewStart": 0.0,
+        "tip": "Tip: !!!!!!爆音注意!!!!!!"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "fca4cf26152d4a3fedefbdea690d9356698380ea39bc7c71b90028a1d439a689",
+      "size": 11378837,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13420.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-09T09:44:13.668130Z",
+  "charter": "あそぶんちゅ vs. χ",
+  "composer": "からめる",
+  "created": "2024-01-09T09:44:13.668130Z",
+  "description": "これが音取りを正確にやった結果です、あーあ。",
+  "difficulty": 7.5,
+  "id": 13420,
+  "illustrator": "からめる",
+  "level": "SP Lv.?",
+  "name": "一人だけ気合が入りまくっているハンドベル隊",
+  "tags": [
+    "からめる",
+    "troll"
+  ],
+  "updated": "2024-01-09T09:44:13.668130Z",
+  "uploader": 561240
+}

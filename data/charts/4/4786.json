@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:04:09Z",
+    "lastChanged": "2026-09-22T01:04:09Z",
+    "localBackup": {
+      "asset": "4786.zip",
+      "files": [
+        {
+          "path": "43358156.json",
+          "sha256": "301505f5531d167f749406ded691dc8a0a7c5c9d8e5cb831d613372bf44f5982",
+          "size": 1358643
+        },
+        {
+          "path": "43358156.mp3",
+          "sha256": "25bde0021546e958f012ebffe6f7be96b7a04ec849d010076e538f4a3a462974",
+          "size": 3450912
+        },
+        {
+          "path": "43358156.png",
+          "sha256": "f1af14f2c58c15a2f42811b020123b67c0cf38c539747a3fa53485b582ddd3ba",
+          "size": 1582455
+        },
+        {
+          "path": "info.txt",
+          "sha256": "a0b62b0a3f77965c962c017164b8078bd622ec3943802a9c68381c040dd1fb9e",
+          "size": 172
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f300a6a92160043ad02746722ddff16c346995a07d25a12cfbd5ef5dbbba4fb6",
+          "size": 654
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.8,
+        "chart": "43358156.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "43358156.png",
+        "lineLength": 6.0,
+        "music": "43358156.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "救命啊，龙活了啊！！！！"
+      },
+      "release": "backup-4000-4999",
+      "sha256": "85cb6da30a46136ba0bfdd498beee1ca243536479596ab4491e3d1ea60ac65b8",
+      "size": 6393344,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-4000-4999/4786.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-06T11:47:50.654558Z",
+  "charter": "AlchemistDinnerbone",
+  "composer": "TTOD",
+  "created": "2023-07-06T11:47:50.654558Z",
+  "description": "本人B站小up炼金Dinnerbone，这张谱是本人原创。对上个版本进行了一些优化，上个版本已删除",
+  "difficulty": 15.199998,
+  "id": 4786,
+  "illustrator": "UK",
+  "level": "TTOD Lv?",
+  "name": "Tales of Dragonia",
+  "tags": [],
+  "updated": "2023-07-25T01:12:02.372885Z",
+  "uploader": 114247
+}

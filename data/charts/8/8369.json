@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:09Z",
+    "lastChanged": "2026-09-22T01:08:09Z",
+    "localBackup": {
+      "asset": "8369.zip",
+      "files": [
+        {
+          "path": "69347750.jpg",
+          "sha256": "79dce9335f3c1c28779c9b125c6704f64ef07043aa3ca3a7a161f07449943353",
+          "size": 1564910
+        },
+        {
+          "path": "69347750.json",
+          "sha256": "e63152d01b2be1f04b103bcca50faeee5eaf938af92b9ad6b0311beff1c7c612",
+          "size": 8782850
+        },
+        {
+          "path": "69347750.mp3",
+          "sha256": "b0a0c77d0331db5e7dfa6194e88dce3e447f537f01aab3f6b4cc0b8ef2b2295e",
+          "size": 3001651
+        },
+        {
+          "path": "info.txt",
+          "sha256": "0f44ab771d90776522c8fdc511c59af00519083928b2e00deceef2172e74a929",
+          "size": 174
+        },
+        {
+          "path": "info.yml",
+          "sha256": "525c52ff5f68bf059580092819879b805f0959f8048f20af8015b2f880ff5331",
+          "size": 576
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "69347750.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "69347750.jpg",
+        "lineLength": 6.0,
+        "music": "69347750.mp3",
+        "offset": 0.0,
+        "previewEnd": 131.0,
+        "previewStart": 116.0,
+        "tip": "like a SUPER NOVA!!"
+      },
+      "release": "backup-8000-8999",
+      "sha256": "26a03b5a56777d72a4d796891df5b028b4d32ad0d2b93d67f5b0d0022e2778b5",
+      "size": 13350669,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-8000-8999/8369.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "LPI. Project",
+  "composer": "shadow_bling",
+  "created": null,
+  "description": "本人上传\nbilibili: @LPI_\n迷烟我舔舔舔舔舔舔舔舔舔舔舔舔舔舔舔舔舔舔舔舔舔舔舔",
+  "difficulty": 14.700002,
+  "id": 8369,
+  "illustrator": "狂想心匣",
+  "level": "IN Lv.14",
+  "name": "Super Nova Project",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

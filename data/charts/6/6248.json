@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:20Z",
+    "lastChanged": "2026-09-22T01:06:20Z",
+    "localBackup": {
+      "asset": "6248.zip",
+      "files": [
+        {
+          "path": "74737040.jpg",
+          "sha256": "a28c30dcb02831e9dd046607480ef3e1fbad39e6c960d81d5091a7773f2ac88c",
+          "size": 207046
+        },
+        {
+          "path": "74737040.json",
+          "sha256": "20fe4c38680e32bfc49d5c9a5f07488a6a133ac334a126c48a7788d548fe5f4f",
+          "size": 5635329
+        },
+        {
+          "path": "74737040.mp3",
+          "sha256": "a8eff3f4a625167543a0d4acf6500442e4035e15f533a830c030cb836e03021e",
+          "size": 2786412
+        },
+        {
+          "path": "info.txt",
+          "sha256": "8a6e45b054875903f9f0f6bf6eae64ff09466aea78cc4e614dcb776beccbcc3e",
+          "size": 192
+        },
+        {
+          "path": "info.yml",
+          "sha256": "7401560f79d1516caca875d993ff213ce9cc9189e6c649c91d1753b426218b3a",
+          "size": 462
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "74737040.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "74737040.jpg",
+        "lineLength": 6.0,
+        "music": "74737040.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "QWQ"
+      },
+      "release": "backup-6000-6999",
+      "sha256": "5962982af754ec5096caf83a73d8c98693351be79a2650381abe54ada8db6b6f",
+      "size": 8629949,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6248.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "开始写口口声声",
+  "composer": "DySkyLan&VAlzpary",
+  "created": null,
+  "description": "以后会努力的",
+  "difficulty": 17.800001,
+  "id": 6248,
+  "illustrator": "嵵隙嵐",
+  "level": "Lv.SP",
+  "name": "ill city",
+  "tags": [
+    "troll"
+  ],
+  "updated": null,
+  "uploader": null
+}

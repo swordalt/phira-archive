@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:41Z",
+    "lastChanged": "2026-09-22T01:06:41Z",
+    "localBackup": {
+      "asset": "6544.zip",
+      "files": [
+        {
+          "path": "47864947.jpg",
+          "sha256": "be1ee7b4a7c376e75ba5ea16c5b6dbd4e09d41dbdfa865de0ebd8bc85d65d2b2",
+          "size": 414740
+        },
+        {
+          "path": "47864947.json",
+          "sha256": "7a0909809844d2a7e1260ba4ed4979ad78337af5793b97d3e5418081b993a652",
+          "size": 1257774
+        },
+        {
+          "path": "47864947.mp3",
+          "sha256": "5f6145bebc4512197af11075d5d6919c4e1a00304f505da0181ec697922bf31f",
+          "size": 5376513
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d133c45c806decab66a35bc3bd7af0c8fddd5aad36b3e34daa95b9c1fd145a46",
+          "size": 168
+        },
+        {
+          "path": "info.yml",
+          "sha256": "d30c6fdd6821a86cc54d56c21b185d518d905affb6070cb75235ceaffcc94522",
+          "size": 746
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.5,
+        "backgroundDim": 0.65000004,
+        "chart": "47864947.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "47864947.jpg",
+        "lineLength": 6.0,
+        "music": "47864947.mp3",
+        "offset": 0.0,
+        "previewEnd": 14.5,
+        "previewStart": 0.0,
+        "tip": "Tip：玩的开心哦xwx~"
+      },
+      "release": "backup-6000-6999",
+      "sha256": "8c0dea63bcc85e77c690075a01b7af1a7883487feaed3562c209f68967fc67cb",
+      "size": 7050449,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6544.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-31T23:49:39.868793Z",
+  "charter": "咕咕YA/",
+  "composer": "Reku Mochizuki",
+  "created": "2023-07-31T23:49:39.868793Z",
+  "description": "为本人上传：BV1eG4y1Q7Z7\n（上次忘记标画师了）（被打）\n想要发手元或屏元的请在视频内@ 我一下并且注明本视频的链接或BV号，最后祝您玩的开心xwx",
+  "difficulty": 12.400001,
+  "id": 6544,
+  "illustrator": "山山奇",
+  "level": "IN Lv.？",
+  "name": "Pastel Lines",
+  "tags": [
+    "故事板",
+    "regular"
+  ],
+  "updated": "2023-07-31T23:49:39.868793Z",
+  "uploader": 105
+}

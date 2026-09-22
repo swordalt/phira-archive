@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:34Z",
+    "lastChanged": "2026-09-22T01:17:34Z",
+    "localBackup": {
+      "asset": "14986.zip",
+      "files": [
+        {
+          "path": "62282606.jpg",
+          "sha256": "2e05868243c154273dda23d08f2436426f865dccebb27c762e81df8f94057053",
+          "size": 125975
+        },
+        {
+          "path": "62282606.json",
+          "sha256": "1a6353cb3a3098df691a15f99b15aeec7492eafc2b63f781398684ed172a2480",
+          "size": 11267485
+        },
+        {
+          "path": "62282606.mp3",
+          "sha256": "1c20b0da293dd764084ea36f770b204fd7407ff334f21a002e4063248ef59c21",
+          "size": 7711499
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ee8633f4e88f8227b550c75f14e10d0c8377d07440e1108e2b23ba24bcdec336",
+          "size": 169
+        },
+        {
+          "path": "info.yml",
+          "sha256": "6f65754d52650236c581e9125438c294e2a1994fb6c7c86291d229d5db7ba038",
+          "size": 583
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "62282606.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "62282606.jpg",
+        "lineLength": 6.0,
+        "music": "62282606.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Enjoy it",
+        "unlockVideo": null
+      },
+      "release": "backup-14000-14999",
+      "sha256": "11a10f089b8a1ddf1193b62465ca15315836e3f7646fe6ab52a3aca8a0f9e773",
+      "size": 19106219,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14986.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-08T05:13:39.182931Z",
+  "charter": "[Unlimited]",
+  "composer": "Kobaryo",
+  "created": "2024-02-08T05:13:39.182931Z",
+  "description": "本谱为羽笙杯赛用谱，主办方代传，原谱师@Moonlite",
+  "difficulty": 15.5,
+  "id": 14986,
+  "illustrator": "UK",
+  "level": "UL Lv.15",
+  "name": "Unlimited Hyperlink",
+  "tags": [],
+  "updated": "2024-02-08T05:13:39.182931Z",
+  "uploader": 76596
+}

@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:01Z",
+    "lastChanged": "2026-09-22T01:11:01Z",
+    "localBackup": {
+      "asset": "11309.zip",
+      "files": [
+        {
+          "path": "22513045.jpg",
+          "sha256": "ce312c0d25cf1d53e42858708189e26a01273b38ae33d2b27a7facb23476501a",
+          "size": 116277
+        },
+        {
+          "path": "22513045.json",
+          "sha256": "3d263d23da1c0cde8bc4510d2a18214c1f5a037c2b51ac8f78592c9130122fff",
+          "size": 5239390
+        },
+        {
+          "path": "22513045.mp3",
+          "sha256": "e2ab20094f52e5c3085453821dd3eff294d25013aae7fb6d000ea1329860cf87",
+          "size": 1750031
+        },
+        {
+          "path": "info.txt",
+          "sha256": "071dfe1f01dd2f07d0243ec6200958b25fe6e4824733ffa16a617a9bd6c5932e",
+          "size": 163
+        },
+        {
+          "path": "info.yml",
+          "sha256": "eca98ce1fb386b7ef3a2b944397799f0f5aa1b9511e4431d1c8c761325fd37a7",
+          "size": 509
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "22513045.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "22513045.jpg",
+        "lineLength": 6.0,
+        "music": "22513045.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-11000-11999",
+      "sha256": "3cb1fae1912ecfbb0699d6e710eea6a26a21e9d7b7e1aff3831ef0ba5ac14003",
+      "size": 7106878,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11309.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-10T12:47:56.558656Z",
+  "charter": "keunk",
+  "composer": "USAO / かめりあ",
+  "created": "2023-11-10T12:47:56.558656Z",
+  "description": "铺师本人上传",
+  "difficulty": 16.700003,
+  "id": 11309,
+  "illustrator": "UK",
+  "level": "AT Lv.16",
+  "name": "Möbius",
+  "tags": [],
+  "updated": "2023-11-10T12:47:56.558656Z",
+  "uploader": 2181
+}

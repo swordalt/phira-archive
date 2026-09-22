@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:12:35Z",
+    "lastChanged": "2026-09-22T01:12:35Z",
+    "localBackup": {
+      "asset": "12461.zip",
+      "files": [
+        {
+          "path": "5127702.jpg",
+          "sha256": "4068b518b2b28398c6be944602f0fd7d08dc62c8f17e446e171d704f5237069b",
+          "size": 40586
+        },
+        {
+          "path": "5127702.json",
+          "sha256": "24894d8f3a366468a13ee3400e29e96c58676b4a01b180813ae4b652f5ccc79c",
+          "size": 943633
+        },
+        {
+          "path": "5127702.mp3",
+          "sha256": "4039f2b47db1d236c0833e1eb1c064a307d2acdd7a3a238501192feb2d315490",
+          "size": 5741297
+        },
+        {
+          "path": "info.txt",
+          "sha256": "af4b0b16e3259cf8cca1eb2442238b8762c2667af8fc744c638a10c98b762da7",
+          "size": 141
+        },
+        {
+          "path": "info.yml",
+          "sha256": "a02841275211eaacf32e87524a4d28413e82dfac170e06191c0648a88058f092",
+          "size": 525
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.35,
+        "chart": "5127702.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "5127702.jpg",
+        "lineLength": 6.0,
+        "music": "5127702.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "tap：烤全鸭？～考全压"
+      },
+      "release": "backup-12000-12999",
+      "sha256": "ba0032dc606f79aee4769fa14bc5023e2cd099854454add32a34da281c8442ec",
+      "size": 6726684,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12461.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-14T12:47:45.034225Z",
+  "charter": "梦可tos",
+  "composer": "Nces",
+  "created": "2023-12-14T12:47:45.034225Z",
+  "description": "本人创作",
+  "difficulty": 15.0,
+  "id": 12461,
+  "illustrator": "zris",
+  "level": "IN lv:15",
+  "name": "Burn",
+  "tags": [
+    "BOFXV",
+    "regular"
+  ],
+  "updated": "2023-12-14T12:47:45.034225Z",
+  "uploader": 2757
+}

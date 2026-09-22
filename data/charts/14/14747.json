@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:01Z",
+    "lastChanged": "2026-09-22T01:17:01Z",
+    "localBackup": {
+      "asset": "14747.zip",
+      "files": [
+        {
+          "path": "1557933036.ogg",
+          "sha256": "47723cd95318027b71e67f14263ed5ce73a55bcebf4dc9148d0803729ef59c16",
+          "size": 3311420
+        },
+        {
+          "path": "PANDORA PARADOXXX (From Malody).json",
+          "sha256": "1e8dbba6ca4788739849e17507e08bc95cd0801d6f38ca517eb9bdfd298d5421",
+          "size": 1072279
+        },
+        {
+          "path": "info.csv",
+          "sha256": "c21e39251c66372491aa88488faceae9831cffa4c71016bb625cca7a21926056",
+          "size": 176
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f225cf183ffae39b7f1e8fc36aef84a01e69d0186ee5ecae6ea19b9ed5df5178",
+          "size": 525
+        },
+        {
+          "path": "tmp_1558158325.jpg",
+          "sha256": "063ee1906ca39725685655a7163123bf51a38032450112fecacca00cf7fd66f8",
+          "size": 105572
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "PANDORA PARADOXXX (From Malody).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "tmp_1558158325.jpg",
+        "lineLength": 6.0,
+        "music": "1557933036.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-14000-14999",
+      "sha256": "291bee9da329cc1e21273e1ae8519f7cf20efbf63f4bd84141d2b117b99fb57e",
+      "size": 4490542,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14747.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-03T16:53:21.261777Z",
+  "charter": "ColdSnow",
+  "composer": "Sakuzyo",
+  "created": "2024-02-03T16:53:21.261777Z",
+  "description": "",
+  "difficulty": 23.0,
+  "id": 14747,
+  "illustrator": "UK",
+  "level": "4K Hard Lv.23",
+  "name": "PANDORA PARADOXXX",
+  "tags": [],
+  "updated": "2024-02-03T16:53:21.261777Z",
+  "uploader": 2420
+}

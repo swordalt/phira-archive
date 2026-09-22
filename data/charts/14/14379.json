@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:28Z",
+    "lastChanged": "2026-09-22T01:16:28Z",
+    "localBackup": {
+      "asset": "14379.zip",
+      "files": [
+        {
+          "path": "41881915.jpg",
+          "sha256": "7b9f503ee6758bec4d8b972cdde680446c3a3e63e1091b85d49700cd6d65c2e5",
+          "size": 156911
+        },
+        {
+          "path": "41881915.json",
+          "sha256": "4c9628876a9c9b5c7a4a81ef9c3f48ba5067a994dd15b1e6da966cdfcfa94727",
+          "size": 11149263
+        },
+        {
+          "path": "41881915.mp3",
+          "sha256": "59fc3d686d04a72fbb4e9c030317f2466584013dd72d9d6a6e6b2790b7e1f674",
+          "size": 6185668
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ed793275fbede2dfb08c6ca819c4e257d27f62a80f34f987827c0f9d24f669d5",
+          "size": 172
+        },
+        {
+          "path": "info.yml",
+          "sha256": "545c19906ec9a6bc89c9af63b12d34775faf0ea6a099855108774bd9b34947e8",
+          "size": 516
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "41881915.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "41881915.jpg",
+        "lineLength": 6.0,
+        "music": "41881915.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-14000-14999",
+      "sha256": "71c117c06e6c6723629fdc81e35017c490da3b61dc047f634c7b8c6a3c704344",
+      "size": 17493038,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14379.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-29T07:36:32.101478Z",
+  "charter": "RTX20000",
+  "composer": "かめりあ",
+  "created": "2024-01-29T07:36:32.101478Z",
+  "description": "",
+  "difficulty": 2024.0,
+  "id": 14379,
+  "illustrator": "曲绘自带",
+  "level": "AT Lv.2024",
+  "name": "Hello（BPM）2024",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-01-29T07:36:32.101478Z",
+  "uploader": 506600
+}

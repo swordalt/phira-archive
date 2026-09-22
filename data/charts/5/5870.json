@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:49Z",
+    "lastChanged": "2026-09-22T01:05:49Z",
+    "localBackup": {
+      "asset": "5870.zip",
+      "files": [
+        {
+          "path": "53563566.jpg",
+          "sha256": "135f8b17c5100855392f27a564cadb362c8b6c0f3f79ec34c604cf3f91425e19",
+          "size": 79158
+        },
+        {
+          "path": "53563566.json",
+          "sha256": "ee7cdb0559c1eb4aba448b0752431e4cb640383aaaa073679562298ac7c82e55",
+          "size": 1801474
+        },
+        {
+          "path": "53563566.mp3",
+          "sha256": "b7dcb3592d639160104c4cbd14bcb2d34ca87a6bbd1e8dff0552d09aab39a278",
+          "size": 1718035
+        },
+        {
+          "path": "info.txt",
+          "sha256": "4d004f894a221e060460d2bd28e0c4b3e12e9df298a23104718c413916e7d852",
+          "size": 164
+        },
+        {
+          "path": "info.yml",
+          "sha256": "306efccb1dc33d011282a536d08cd09209c5c8b480981b29ec44c240dc21f1a1",
+          "size": 641
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "53563566.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "53563566.jpg",
+        "lineLength": 6.0,
+        "music": "53563566.mp3",
+        "offset": 0.0,
+        "previewEnd": 81.75,
+        "previewStart": 66.75,
+        "tip": null
+      },
+      "release": "backup-5000-5999",
+      "sha256": "0c4f754fb00221bbe340ceecd143b5d6643a0bae6e63ce84a854e0b05de61295",
+      "size": 3599980,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5870.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-23T04:43:02.328690Z",
+  "charter": "Polar1s",
+  "composer": "Mokle莫可",
+  "created": "2023-07-23T04:43:02.328690Z",
+  "description": "谱面由本人制作。音源：BV1Pz4y1v7Ax，原作者为Mokle莫可。\n注：我藏的不是零食，是白衣四百零四的薯片。",
+  "difficulty": 0.0,
+  "id": 5870,
+  "illustrator": " ",
+  "level": "Lv.?",
+  "name": "洛天依被电击",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-07-23T04:43:02.328690Z",
+  "uploader": 214162
+}

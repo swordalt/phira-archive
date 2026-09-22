@@ -1,0 +1,65 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:57Z",
+    "lastChanged": "2026-09-22T01:05:57Z",
+    "localBackup": {
+      "asset": "5986.zip",
+      "files": [
+        {
+          "path": "38807736.jpg",
+          "sha256": "4e1efc889d4fadd65fadb3b636fb3f9d2c2f7ddeaf7ede40cbb0e0c9f8b7981a",
+          "size": 270538
+        },
+        {
+          "path": "38807736.json",
+          "sha256": "b8b45031f36ff1a279634a66b05d4476646ae16c0fe1a342d92c0f9abcde149a",
+          "size": 1285192
+        },
+        {
+          "path": "38807736.mp3",
+          "sha256": "ed2e4cf30deb6ba3e3f86248a9d89688c3c186ce0617354f218d75b370133e90",
+          "size": 2019574
+        },
+        {
+          "path": "info.yml",
+          "sha256": "a3c28a1b04d92dc2e678e575daf9da31af189674f27bd414e190a7aee09ea876",
+          "size": 590
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "38807736.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "38807736.jpg",
+        "lineLength": 6.0,
+        "music": "38807736.mp3",
+        "offset": 0.0,
+        "previewEnd": 75.0,
+        "previewStart": 60.0,
+        "tip": "希望这张谱抽象到让你笑出来，摆脱一天的烦恼"
+      },
+      "release": "backup-5000-5999",
+      "sha256": "5214f9959bf4793c63abd632951485a56fb6e877643852c92d0dc804da899691",
+      "size": 3576310,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5986.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "JEETPEART.",
+  "composer": "Jurokuneta.",
+  "created": null,
+  "description": "乐子谱，各方面都谔谔，本人上传。BiliBili@NOVASTAR-T",
+  "difficulty": 14.400002,
+  "id": 5986,
+  "illustrator": "redo&使徒行者黑长直",
+  "level": "IN Lv.14",
+  "name": "浮遊城-Living City#E6BBAD",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

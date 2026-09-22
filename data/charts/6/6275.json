@@ -1,0 +1,75 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:28Z",
+    "lastChanged": "2026-09-22T01:06:28Z",
+    "localBackup": {
+      "asset": "6275.zip",
+      "files": [
+        {
+          "path": "25190641.jpg",
+          "sha256": "a1cf270d33e9335ad7e47111c00f0c4e7109a339a01a8b9e4f6d88ff3f5be566",
+          "size": 131243
+        },
+        {
+          "path": "25190641.json",
+          "sha256": "408bd77cb8f6a15eb6694d14d8d905de0e0e694932ddf1bbd36a60c0012672c5",
+          "size": 2884448
+        },
+        {
+          "path": "25190641.mp3",
+          "sha256": "8fe52f7dcae736021008803bb3ac9e07c8a8bc61ea7c754d7086d44386d20609",
+          "size": 6318636
+        },
+        {
+          "path": "info.txt",
+          "sha256": "14148ae2230594485c0e4f4090a87bb25be61f1db84321ae950b3834daec078f",
+          "size": 170
+        },
+        {
+          "path": "info.yml",
+          "sha256": "1e7fc7e8ca3cc175aa8361b792e505681f5d9d20668f0e19c5e28ed186dcea65",
+          "size": 635
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.5,
+        "chart": "25190641.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "25190641.jpg",
+        "lineLength": 6.0,
+        "music": "25190641.mp3",
+        "offset": 0.054999992,
+        "previewEnd": 126.7,
+        "previewStart": 115.4,
+        "tip": "先驱者，屹立于混沌之间"
+      },
+      "release": "backup-6000-6999",
+      "sha256": "afc08e0c3f22774138ba22359589703a9df7b0181f0b8c69ba1bd56608ecaddc",
+      "size": 9335640,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6275.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-28T05:33:54.405832Z",
+  "charter": "Yizlin [Trailblazer]",
+  "composer": "Raimukun",
+  "created": "2023-07-28T05:33:54.405832Z",
+  "description": "Bilibili @叶子林233 请将延迟调整为+55ms",
+  "difficulty": 16.2,
+  "id": 6275,
+  "illustrator": "あるし",
+  "level": "AT LV.16",
+  "name": "Avantgarde",
+  "tags": [
+    "键盘",
+    "比较简单",
+    "不要恐慌",
+    "regular"
+  ],
+  "updated": "2023-07-28T14:03:14.843999Z",
+  "uploader": 10068
+}

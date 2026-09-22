@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:20:44Z",
+    "lastChanged": "2026-09-22T01:20:44Z",
+    "localBackup": {
+      "asset": "17666.zip",
+      "files": [
+        {
+          "path": "51371537.jpg",
+          "sha256": "7aa7fb8163d5f4aa7ed6eb30f8f3f85e19fe04a49db8fd976fe9b8ba208d0887",
+          "size": 211476
+        },
+        {
+          "path": "51371537.json",
+          "sha256": "2eb0592addaf957bedcec59bf01bb8c1c657c2554d6d41812740a1c0eb332e9b",
+          "size": 18251450
+        },
+        {
+          "path": "51371537.mp3",
+          "sha256": "d824f1556ad3a9c44f64ad277dca46e324bcaf53702955a2b8920e99a3d9547e",
+          "size": 14109244
+        },
+        {
+          "path": "info.txt",
+          "sha256": "1bb69cb975e79dbe2c1a59505c7358bfccc3289434302967b941ef2dcee7ff34",
+          "size": 201
+        },
+        {
+          "path": "info.yml",
+          "sha256": "363879363a172fb2f06d39513065d1be204f00596bb27b270aab6e85e22a1844",
+          "size": 1438
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "51371537.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "51371537.jpg",
+        "lineLength": 6.0,
+        "music": "51371537.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-17000-17999",
+      "sha256": "6f31975430fc3674c1d16ee1b1634653786a6368a8565323ead59c6caffaa6ec",
+      "size": 32574317,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-17000-17999/17666.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-06T11:53:42.528317Z",
+  "charter": "The Shadows",
+  "composer": "Sad Keyboard Guy & Gardens & Eili",
+  "created": "2024-03-29T07:47:13.723636Z",
+  "description": "感谢来自@cmdysj 的Rpe\n以及@MivikQ 的prpr\n还有@-南风-LIFEhope 和@桉凉ANL 的剪辑\n以及@超爱吃盐的盐盐 的热心指导（虽然没改完\n\n\n曲：SKG/Gardens/Eili\n绘：rice01200120\n谱：@-南风-LIFEhope @草梦MSG @-Esama- @Days-Waste-W @桉凉ANL @某个屑柒 @celestial_bodies \n\n\n谱师留言：\n屑柒：\n「是的，我什么也没做」\nEsama：「拖延症谱师放弃治疗」\nclvvvv：\n不知道怎么的就加入合作负责了p14初版的所有，本来8不是只叫我改改配置来着吗（\nLIFE：［我是表演fw，所以把点数全点配置了］\n凉sensei（桉凉）：「现在我是动效谱师重度依赖」\nZalves_：我不是特效p，我更不是配置p。我不玩故事版，我更不玩shader\nCele：全程发视频后由Cele一人修改，可怜可怜我吧，就算写的一般尾杀我也没办法了QAQ",
+  "difficulty": 16.0,
+  "id": 17666,
+  "illustrator": "rice01200120",
+  "level": "AT Lv.16",
+  "name": "Waking Shadows(feat.Eili)",
+  "tags": [],
+  "updated": "2024-05-06T11:53:42.528317Z",
+  "uploader": 828271
+}

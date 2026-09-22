@@ -1,0 +1,76 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:52Z",
+    "lastChanged": "2026-09-22T01:21:52Z",
+    "localBackup": {
+      "asset": "18937.zip",
+      "files": [
+        {
+          "path": "80504365.jpg",
+          "sha256": "820a1ca16faaa5ddcdf0a2090c6ff740c5f7248ce8c74796a0422ad4cb08f8c8",
+          "size": 29727
+        },
+        {
+          "path": "80504365.json",
+          "sha256": "b2d46b1f79b079d9253dd37571d87399b76027e114fa44685cbc4efb2eca8920",
+          "size": 1274758
+        },
+        {
+          "path": "80504365.mp3",
+          "sha256": "5565b1069630981805654ae49fe0524ba0154fdb2ca89f4efcb7d6830296399e",
+          "size": 2201517
+        },
+        {
+          "path": "info.txt",
+          "sha256": "981ec9d7499af6202720c946d9b8133c37ce8cc714b3eb055a9e5adc3ecb099a",
+          "size": 180
+        },
+        {
+          "path": "info.yml",
+          "sha256": "a8abe49e2f05b3517a04d34f92162cbf42bde45fcc8955e62b7f0e6312a2aac3",
+          "size": 596
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "80504365.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "80504365.jpg",
+        "lineLength": 6.0,
+        "music": "80504365.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-18000-18999",
+      "sha256": "4506121c447145d301ef3dee6a8f18542f0366812e7f500ab765ae9bdf635203",
+      "size": 3507286,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-18000-18999/18937.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-04-27T02:26:19.712739Z",
+  "charter": "5071",
+  "composer": "PRASTIK DANCEFLOOR",
+  "created": "2024-04-27T02:26:19.712739Z",
+  "description": "谱师本人上传",
+  "difficulty": 2085555600.0,
+  "id": 18937,
+  "illustrator": "UK but idk",
+  "level": "2085 Lv.2085555555",
+  "name": "TECHNOPOLIS 2085",
+  "tags": [
+    "2085",
+    "小烧杯",
+    "1stFireCup",
+    "troll"
+  ],
+  "updated": "2024-04-27T10:31:09.668165Z",
+  "uploader": 3604
+}

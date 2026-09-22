@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:28Z",
+    "lastChanged": "2026-09-22T01:11:28Z",
+    "localBackup": {
+      "asset": "11580.zip",
+      "files": [
+        {
+          "path": "78683762.jpg",
+          "sha256": "350a705306e300429d716e6fc7108e408e525217215f4d5b4d0a443f6755d74b",
+          "size": 572592
+        },
+        {
+          "path": "78683762.json",
+          "sha256": "c4a1b1df3c8b9e1d9b9fd65b35d669ea3718d783ee34d4b7fb3e1e2b4b456ae8",
+          "size": 932318
+        },
+        {
+          "path": "78683762.mp3",
+          "sha256": "007b5861e97e50245114b3437aabfa3cbaf1e69295397ed556b5858140a06fc3",
+          "size": 1806434
+        },
+        {
+          "path": "info.txt",
+          "sha256": "386dfe5ddfb39d08d16974db0a477d004499c9abdba43379469e206d0119e253",
+          "size": 176
+        },
+        {
+          "path": "info.yml",
+          "sha256": "43c5306da2ce779fba06172365be38c98528524730f3707ea23779f9d137e34d",
+          "size": 699
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.7500001,
+        "chart": "78683762.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "78683762.jpg",
+        "lineLength": 6.0,
+        "music": "78683762.mp3",
+        "offset": 0.0,
+        "previewEnd": 20.0,
+        "previewStart": 4.85,
+        "tip": "只用两条线能写什么样的谱？"
+      },
+      "release": "backup-11000-11999",
+      "sha256": "927f4ae5aa8518a3793cf17cb2ce4a9f6dfee86f785eaae3e20bf9d0e995bad6",
+      "size": 3312727,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11580.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-18T11:22:20.815059Z",
+  "charter": "[En // Xi]",
+  "composer": "LeaF",
+  "created": "2023-11-18T11:22:20.815059Z",
+  "description": "这也许是某个比赛的参赛作品。参赛要求是以本音频制谱，且仅使用两条判定线。反正就是，写得很爽！",
+  "difficulty": 5.5,
+  "id": 11580,
+  "illustrator": "[En // Xi]",
+  "level": "Sample Lv.15+",
+  "name": "I (Long ver.) (Short ver.)",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-11-18T11:22:20.815059Z",
+  "uploader": 11193
+}

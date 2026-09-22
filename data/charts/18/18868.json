@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:48Z",
+    "lastChanged": "2026-09-22T01:21:48Z",
+    "localBackup": {
+      "asset": "18868.zip",
+      "files": [
+        {
+          "path": "18356858.json",
+          "sha256": "7fd99942006878c752279108abcf52c99635bae2799b61cc7e6b1509a3c0d547",
+          "size": 34772429
+        },
+        {
+          "path": "18356858.mp3",
+          "sha256": "e34289ccf34c5ee5aef28360d7b66e36d3fa034c04701e65ad5157c96a392f1e",
+          "size": 8865117
+        },
+        {
+          "path": "18356858.png",
+          "sha256": "ca0b37ba15af6e3c3b942980838591547b8eaff5e4b8dddc0e0e210000f1f253",
+          "size": 51947
+        },
+        {
+          "path": "info.txt",
+          "sha256": "7cc92757ed55eccbc003f4557efe05186ac1f7d06bf5a4fb32cdcff1cbeed728",
+          "size": 153
+        },
+        {
+          "path": "info.yml",
+          "sha256": "c36030c2e05cd3fa7536e5e3ddd83b721aeeb414719fa5250843348e9e71b4dc",
+          "size": 511
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "18356858.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "18356858.png",
+        "lineLength": 6.0,
+        "music": "18356858.mp3",
+        "offset": 0.03,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-18000-18999",
+      "sha256": "7b9c3230e66c560fe54f712a83610e894412d80fe32a78f7fcf93958178fc0e9",
+      "size": 43690665,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-18000-18999/18868.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-04-24T13:12:07.205873Z",
+  "charter": "SearchAbyss",
+  "composer": "Camellia",
+  "created": "2024-04-24T13:12:07.205873Z",
+  "description": "",
+  "difficulty": 20.0,
+  "id": 18868,
+  "illustrator": "UK",
+  "level": "SP Lv.57",
+  "name": "∀NOMALY",
+  "tags": [
+    "visual"
+  ],
+  "updated": "2024-04-24T13:12:07.205873Z",
+  "uploader": 10606
+}

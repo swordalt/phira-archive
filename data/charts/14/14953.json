@@ -1,0 +1,82 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:25Z",
+    "lastChanged": "2026-09-22T01:17:25Z",
+    "localBackup": {
+      "asset": "14953.zip",
+      "files": [
+        {
+          "path": "31785322.jpg",
+          "sha256": "a1e8e4915000b120990e3f80b03ba4d88a356e689949b61512d48f3ba951d8e6",
+          "size": 52698
+        },
+        {
+          "path": "31785322.json",
+          "sha256": "8f2f1d87d1bff8eaa753a34cd89c84652d7e1b0a05f978e3ea35886374b9dce6",
+          "size": 600491
+        },
+        {
+          "path": "31785322.mp3",
+          "sha256": "7aa00bf847d483313c2170bebb4c6c76504610690580de101a4fa9fd03403cee",
+          "size": 644284
+        },
+        {
+          "path": "extra.json",
+          "sha256": "b75d2b62169e285de56607b46e03895b9452b508849d7b3b021d745b68e0100e",
+          "size": 350
+        },
+        {
+          "path": "info.txt",
+          "sha256": "940c69ca0b6b7b22ef3ed6b4b04e96aa3befe17758ca2ab5979210ac92d8e662",
+          "size": 154
+        },
+        {
+          "path": "info.yml",
+          "sha256": "8d9f5a11ae5b60fb443ea12c86bb56947ea5a5b2313cc03efb4a824c53b02c9f",
+          "size": 542
+        },
+        {
+          "path": "xblm.mp4",
+          "sha256": "69eb5f2fca0b66c067434efe953522d9c22fb2706ebe1792d40fa69d8aa7bfa8",
+          "size": 10653291
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "31785322.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "31785322.jpg",
+        "lineLength": 6.0,
+        "music": "31785322.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "含马量最高的一集"
+      },
+      "release": "backup-14000-14999",
+      "sha256": "5a7b24f603c973abf78be61a86c57a255ef27c8e044c5f7ff349ba380a5f960a",
+      "size": 11952506,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14953.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-07T11:18:23.672732Z",
+  "charter": "Resonance",
+  "composer": "JJALTOON",
+  "created": "2024-02-07T11:18:23.672732Z",
+  "description": "谱师b站：_-Resonance-_",
+  "difficulty": 15.199999,
+  "id": 14953,
+  "illustrator": "JJALTOON",
+  "level": "SP",
+  "name": "西巴老马",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-02-07T11:18:23.672732Z",
+  "uploader": 565722
+}

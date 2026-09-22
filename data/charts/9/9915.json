@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:25Z",
+    "lastChanged": "2026-09-22T01:09:25Z",
+    "localBackup": {
+      "asset": "9915.zip",
+      "files": [
+        {
+          "path": "63361619.json",
+          "sha256": "8f22b5aa009da3d5167a0a1b2f330acfb5d83ebfafa2b114dcab34c27e3a4bcb",
+          "size": 3967557
+        },
+        {
+          "path": "63361619.mp3",
+          "sha256": "3eca4630ea97da81b27b49f87c1efc5c35834bcea2c493c23b252060d724c149",
+          "size": 5556599
+        },
+        {
+          "path": "63361619.png",
+          "sha256": "59daa4269758289716d5510bc3a8c3cc49b6c86beba169c98f1ae151a1bca466",
+          "size": 1747546
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d00d6c91acc3059d167490f163a4017f9563d9a9e445b88bf4f9c92aa22e42c0",
+          "size": 163
+        },
+        {
+          "path": "info.yml",
+          "sha256": "528b4c0a49dd43879a88fe9af2f7e5d3eda8c28f585995075b96c196dacd63df",
+          "size": 529
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "63361619.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "63361619.png",
+        "lineLength": 6.0,
+        "music": "63361619.mp3",
+        "offset": 0.0,
+        "previewEnd": 37.4,
+        "previewStart": 28.6,
+        "tip": null
+      },
+      "release": "backup-9000-9999",
+      "sha256": "3ea0f9d1b376d5e3a2b9a53a26f0ee46417fc76fe400ec16c0b79d3f761c2215",
+      "size": 11272902,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-9000-9999/9915.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-10-01T00:43:22.483229Z",
+  "charter": "AV Night!  AV Day!",
+  "composer": "USAO",
+  "created": "2023-10-01T00:43:22.483229Z",
+  "description": "谱师本人上传",
+  "difficulty": 15.600002,
+  "id": 9915,
+  "illustrator": "HARDCORE TANO*C HARD",
+  "level": "IN Lv.15",
+  "name": "You & DIE",
+  "tags": [],
+  "updated": "2023-10-01T00:43:22.483229Z",
+  "uploader": 436798
+}

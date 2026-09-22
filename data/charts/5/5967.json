@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:55Z",
+    "lastChanged": "2026-09-22T01:05:55Z",
+    "localBackup": {
+      "asset": "5967.zip",
+      "files": [
+        {
+          "path": "59909694.jpg",
+          "sha256": "f3aa5d20807f36ed73cd8aa301bc3f047be67516822092536ac2eb8f8a1219af",
+          "size": 101207
+        },
+        {
+          "path": "59909694.json",
+          "sha256": "73f7251546fe4a6666c2120c74854103304c53d581bf8e14413a51ba903212e5",
+          "size": 2041218
+        },
+        {
+          "path": "59909694.mp3",
+          "sha256": "ed3c3973ef583e566c703c8f1605763ffc9daea0df776954531439325e6c8ede",
+          "size": 1693092
+        },
+        {
+          "path": "info.txt",
+          "sha256": "6d1141a8dfd903eca8c39faf907f724ae405e6ae8f5f3cbbeddcccdf8d2c6b59",
+          "size": 159
+        },
+        {
+          "path": "info.yml",
+          "sha256": "980d70e06d299ffa139ee81c56e81d58c99fd2159fd9f09cecaac77ed0787974",
+          "size": 743
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.85,
+        "chart": "59909694.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "59909694.jpg",
+        "lineLength": 6.0,
+        "music": "59909694.mp3",
+        "offset": 0.0039999997,
+        "previewEnd": 55.0,
+        "previewStart": 40.0,
+        "tip": "我超，劲爆！"
+      },
+      "release": "backup-5000-5999",
+      "sha256": "a1717ef32f919e65bda2e73fb7c0e7ff819f9b0092f3a69789ea1b8164d0a6f0",
+      "size": 3836927,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5967.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-26T02:27:05.299434Z",
+  "charter": "765 GO & DROP YS",
+  "composer": "RiraN",
+  "created": "2023-07-24T09:46:10.773375Z",
+  "description": "765GO 即 DROP YS，也就是谱师本人制作+重做 。第二次微调：141小节双押黄减慢流速，整体流速10.4上升至11.1，交互段修改，其他小部分配置及动效微调。更换音源。",
+  "difficulty": 14.800003,
+  "id": 5967,
+  "illustrator": "I relriser",
+  "level": "IN Lv.14",
+  "name": "Time For Revenge",
+  "tags": [],
+  "updated": "2023-07-26T02:27:05.299434Z",
+  "uploader": 12514
+}

@@ -1,0 +1,84 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:14:10Z",
+    "lastChanged": "2026-09-22T01:14:10Z",
+    "localBackup": {
+      "asset": "13159.zip",
+      "files": [
+        {
+          "path": "99478675.jpg",
+          "sha256": "ac08234425164101c75e3cbb3f516969892497b78c0298a192c038321819e237",
+          "size": 1152185
+        },
+        {
+          "path": "99478675.json",
+          "sha256": "900095715395747b0c3a5269f453a1c0638a7521ed022548e6cb2f151d76dc64",
+          "size": 11420217
+        },
+        {
+          "path": "99478675.mp3",
+          "sha256": "a9c8d1bdd7a04dd2b70598e414e35830ac16e41f169f119800b420d84dc31195",
+          "size": 7246303
+        },
+        {
+          "path": "extra.json",
+          "sha256": "fb626bdc8e7cc7d5541809e643531b2392ef0c5eda31651284b76da71aa7c984",
+          "size": 1852
+        },
+        {
+          "path": "info.txt",
+          "sha256": "a342f898ef0ab2d6c9fbc23a20614ec87d3007c409bc593ef2c0bf162711f7db",
+          "size": 159
+        },
+        {
+          "path": "info.yml",
+          "sha256": "07a8c43b9ebb8d1e69a8080931b508f59236ad3e709274b6704ae5831f0e9bcc",
+          "size": 856
+        },
+        {
+          "path": "picture.png",
+          "sha256": "5d98c16ae71a2b4ee71a57362d1ed95ff53fa59653635d62bda8f76d8e361dc8",
+          "size": 609936
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "99478675.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "99478675.jpg",
+        "lineLength": 6.0,
+        "music": "99478675.mp3",
+        "offset": 0.0,
+        "previewEnd": 78.0,
+        "previewStart": 58.0,
+        "tip": "Tip: 无尽星海，未有诞神，祂掌管的星域之下，之有无止境的循环……"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "48d8042d90a619af6e57f469f64874bae51cddc50bdea197459d8eee750adb2e",
+      "size": 20432210,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13159.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-05T14:01:18.366331Z",
+  "charter": "星夜·溯溡",
+  "composer": "nm-y",
+  "created": "2024-01-01T06:34:02.996991Z",
+  "description": "一改/定稿，之后没有特殊情况应该就不会再改了。增加/修改部分特效；闪现衔接段流速微调；1st drop排键调整；2nd drop排键调整/削弱；部分小地方也有点更改。希望可以你喜欢这张谱子",
+  "difficulty": 16.600002,
+  "id": 13159,
+  "illustrator": "Transendium",
+  "level": "AT Lv.16",
+  "name": "πevergod",
+  "tags": [
+    "nevergod",
+    "nm-y",
+    "regular"
+  ],
+  "updated": "2024-01-05T15:21:09.173162Z",
+  "uploader": 5741
+}

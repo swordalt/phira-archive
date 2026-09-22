@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:10:03Z",
+    "lastChanged": "2026-09-22T01:10:03Z",
+    "localBackup": {
+      "asset": "10624.zip",
+      "files": [
+        {
+          "path": "3132373.json",
+          "sha256": "49607814067c296df1e4a54b38f1dbf99b9e40fdbd68fba672f2db2dde6b65f2",
+          "size": 725503
+        },
+        {
+          "path": "3132373.mp3",
+          "sha256": "dc76388bb32a1cc5509a23e0b84da124a160194296d6fdbbca1fb3781cc9b979",
+          "size": 6397403
+        },
+        {
+          "path": "3132373.png",
+          "sha256": "1acc8451571716ed6ae082603c592f625bfd8e8e21c60e9bf8001b49d504df10",
+          "size": 768829
+        },
+        {
+          "path": "info.txt",
+          "sha256": "e4e4e77eeccac1f55cafe0b14db76f9a88ec2fa5bbf92ad87c42c40e720998de",
+          "size": 145
+        },
+        {
+          "path": "info.yml",
+          "sha256": "1cc69b6d40216dcd6f6f0fa2b45452b7c93ed16b2998ff1fd497dc4f49939852",
+          "size": 503
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.25,
+        "chart": "3132373.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "3132373.png",
+        "lineLength": 6.0,
+        "music": "3132373.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-10000-10999",
+      "sha256": "f52270b237aae6d5ddc9d852bbad7c05e96f1d3b408b5a7ed1c0339ff0dc6da3",
+      "size": 7892885,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-10000-10999/10624.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-10-19T16:17:12.358838Z",
+  "charter": "fu",
+  "composer": "Pica & M2U",
+  "created": "2023-10-19T16:17:12.358838Z",
+  "description": "",
+  "difficulty": 15.400002,
+  "id": 10624,
+  "illustrator": "mology",
+  "level": "IN Lv.15",
+  "name": "神話",
+  "tags": [
+    "OverRapid",
+    "regular"
+  ],
+  "updated": "2023-10-19T16:17:12.358838Z",
+  "uploader": 306793
+}

@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:34Z",
+    "lastChanged": "2026-09-22T01:03:34Z",
+    "localBackup": {
+      "asset": "3845.zip",
+      "files": [
+        {
+          "path": "31325821.jpg",
+          "sha256": "a6feebfd3de825f839536043267b3a19bf3485ff2bdec3c4624ceacf2bd0dda4",
+          "size": 272467
+        },
+        {
+          "path": "31325821.json",
+          "sha256": "d4cb3fd64e4f124a3cdd153904cca5e022cd9020d0dced9e0d9211e183ae17db",
+          "size": 2280643
+        },
+        {
+          "path": "31325821.mp3",
+          "sha256": "1a4343c14b7c0ada6efe670d8756a1937c5362161df999176ccc3c63e1541b5e",
+          "size": 1154733
+        },
+        {
+          "path": "info.txt",
+          "sha256": "01d17bfebe274250ba077658c61ff5667011a6d41faeea97346ae78a8b154d6b",
+          "size": 165
+        },
+        {
+          "path": "info.yml",
+          "sha256": "afb8f6a419f872cba7c3da6d8086766b86bf2e913c14bc0466b6cdcd1f1a2daf",
+          "size": 618
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "31325821.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "31325821.jpg",
+        "lineLength": 6.0,
+        "music": "31325821.mp3",
+        "offset": 0.038000003,
+        "previewEnd": 80.0,
+        "previewStart": 60.0,
+        "tip": "Tip:看到＜ ＞说明是X轴判定"
+      },
+      "release": "backup-3000-3999",
+      "sha256": "c6efa8332edc0153cbac07def76f08a4f4df904d59bb4c5b7b228093fbbe217a",
+      "size": 3709134,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-3000-3999/3845.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "SrY-ABYSS",
+  "composer": "闫东炜",
+  "created": null,
+  "description": "第二次修改\n背景来自LiGaYb的DL饭制-端午节，部分灵感（开头部分、盘子部分和结尾部分）来自于此",
+  "difficulty": 12.399998,
+  "id": 3845,
+  "illustrator": "端午节 By LiGaYb",
+  "level": "IN Lv.12",
+  "name": "盛夏与响恋",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

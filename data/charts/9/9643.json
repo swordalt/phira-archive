@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:18Z",
+    "lastChanged": "2026-09-22T01:09:18Z",
+    "localBackup": {
+      "asset": "9643.zip",
+      "files": [
+        {
+          "path": "38868119.jpg",
+          "sha256": "397c81e98bb460526e327f8727b11f5fd29a153c572fc9c10c568e8163a3a60c",
+          "size": 242084
+        },
+        {
+          "path": "38868119.json",
+          "sha256": "a1dcdfb4453ef683775450ce2e7afd7c3601a2e3263fb0e3212fe055d269a458",
+          "size": 1987321
+        },
+        {
+          "path": "38868119.mp3",
+          "sha256": "802a15b98c16a1206f7faad6cbc41e69455618c9cf88797d744277ccd4670c1f",
+          "size": 3193795
+        },
+        {
+          "path": "info.txt",
+          "sha256": "81c06254cd34568138ba88d2dfcc4a3ebc7eafd629ffe7749993f5445e7dda3a",
+          "size": 171
+        },
+        {
+          "path": "info.yml",
+          "sha256": "c5b1a7f6d1f30499c25fe0b6d3e81456d13261277a200cffea5d24828fe404e9",
+          "size": 556
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "38868119.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "38868119.jpg",
+        "lineLength": 6.0,
+        "music": "38868119.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-9000-9999",
+      "sha256": "64e8f56a13aae966d504ef921b70b7160ae86705423d1ed1bc8239613e0f39c7",
+      "size": 5424435,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-9000-9999/9643.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-09-24T08:28:55.582387Z",
+  "charter": "热爱LPI的你",
+  "composer": "阿肆",
+  "created": "2023-09-24T08:28:55.582387Z",
+  "description": "本人上传\nbilibili@LPI_",
+  "difficulty": 13.600002,
+  "id": 9643,
+  "illustrator": "UK",
+  "level": "IN Lv.13",
+  "name": "热爱105°C的你",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-09-24T08:28:55.582387Z",
+  "uploader": 379201
+}

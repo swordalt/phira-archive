@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:28:20Z",
+    "lastChanged": "2026-09-22T01:28:20Z",
+    "localBackup": {
+      "asset": "21382.zip",
+      "files": [
+        {
+          "path": "83908541.jpg",
+          "sha256": "8390424ba126c0d7e6c0ce2c3278cf48d6c6d9416dc2c3fa45adbdff2878489d",
+          "size": 212235
+        },
+        {
+          "path": "83908541.json",
+          "sha256": "de6fa6a9ab430089a19c30ca83c323c7ad0501de96264c9d259898abc1c6928c",
+          "size": 5697637
+        },
+        {
+          "path": "83908541.mp3",
+          "sha256": "4fae34e0f4c8a993799903687eaabecd4185f5eb16d2e206b49cf9e7209b5216",
+          "size": 4418577
+        },
+        {
+          "path": "info.txt",
+          "sha256": "73f54593b896f0aa10a029a263c5d00d8addcfccee0b4dfc1cf7412bc5efceb4",
+          "size": 170
+        },
+        {
+          "path": "info.yml",
+          "sha256": "6ea24d24843e33b94684369f6cd8c3f5d329f9992107abc144667758af1caaba",
+          "size": 589
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "83908541.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "83908541.jpg",
+        "lineLength": 6.0,
+        "music": "83908541.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "超级尾杀，小子",
+        "unlockVideo": null
+      },
+      "release": "backup-21000-21999",
+      "sha256": "2d212972b9f75a5c5e135623ea85804d1851c3d4aa6a33c026b47e1ef0a03476",
+      "size": 10329716,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-21000-21999/21382.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-16T04:35:35.324969Z",
+  "charter": "底力神",
+  "composer": "kobaryo camellia",
+  "created": "2024-06-16T04:35:35.324969Z",
+  "description": "我错了不要拷打我我再也不写龙了😭😭",
+  "difficulty": 19.2,
+  "id": 21382,
+  "illustrator": "UK",
+  "level": "IN Lv.19",
+  "name": "Villain Virus",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-06-16T04:35:35.324969Z",
+  "uploader": 58106
+}

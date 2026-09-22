@@ -1,0 +1,102 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:15Z",
+    "lastChanged": "2026-09-22T01:21:15Z",
+    "localBackup": {
+      "asset": "18084.zip",
+      "files": [
+        {
+          "path": "8905781.jpg",
+          "sha256": "25f1334807d39b3bf93f702f3bfb7c3116744dbc14d8dfe41d1152abab35dda7",
+          "size": 286120
+        },
+        {
+          "path": "8905781.json",
+          "sha256": "7b1c71ecb2569956aabb11ce4bd70a40c20fcaf12242814ff6008379e51d5c40",
+          "size": 4449895
+        },
+        {
+          "path": "8905781.mp3",
+          "sha256": "2655f0ec055d96010bfcb69f462552910472d17fcf092b78e076d9d8bbbd3b5e",
+          "size": 2188430
+        },
+        {
+          "path": "emp.png",
+          "sha256": "a57079cdb07e615fdc5eec81da1f51b373737633c7643c79355aafa8329b0ae2",
+          "size": 142214
+        },
+        {
+          "path": "error.png",
+          "sha256": "af7fae37be0cb10216caa71ba7c28009defa1baa80865b5065df7305c17a14c8",
+          "size": 268106
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b5e084f7b69424830779b5ac751b4674f5ad75285e18d128433f0adf3394c077",
+          "size": 190
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5bccef65ed8512875b0331bef866001e83ae96c5d74cadd04d2df7c3006ba9ca",
+          "size": 1351
+        },
+        {
+          "path": "lizitou.png",
+          "sha256": "28672adec34252f27e2afd00ee9d8b58a776b727d83ef5939901bbe828d4ed0d",
+          "size": 623220
+        },
+        {
+          "path": "shuodedaoli.png",
+          "sha256": "b8c5428f3f573566bbe27f1bd3365b5ee6cd2f7a9d03ebb4699731410ea4630b",
+          "size": 572558
+        },
+        {
+          "path": "waao.png",
+          "sha256": "4f69ce40ff1ada541bd59cb3fb219974942314b0f13603d1c44700d5902647cd",
+          "size": 497676
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "8905781.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "8905781.jpg",
+        "lineLength": 6.0,
+        "music": "8905781.mp3",
+        "offset": 0.0,
+        "previewEnd": 39.5,
+        "previewStart": 29.0,
+        "tip": "Tips:我怎么在天上",
+        "unlockVideo": null
+      },
+      "release": "backup-18000-18999",
+      "sha256": "5c06826b7d7e665a6152a222cadb2593b3a930aac8db31de62d2a0c497908fe8",
+      "size": 9030742,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-18000-18999/18084.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-04-05T05:49:12.071401Z",
+  "charter": "MeowHell~电棍的化身~",
+  "composer": "平方秒和立方吨",
+  "created": "2024-04-05T05:49:12.071401Z",
+  "description": "时隔一个月的沉淀，你们的梦幻又回来写电棍谱了\n本次是主线第二章的更新。过去的一个月我重构了剧情链，所以从这张谱面开始均有一段剧情与之对应，并且在谱面中有体现\n为了集中讲述剧情，我们phiottos的制作组也没闲着，新的剧情谱面正在制作中，预计5月份发布第一章的剧情视频！（内存太大就以视频形式发在B站，如果内存允许将以谱面形式投稿到phira）\n感谢大家一直以来的支持！梦幻一定会做的更好！\n最后，希望可以给个五星好评OvO\n记得B站关注@梦幻不限量\n（另:B站发布谱面手元需简介/评论@梦幻不限量。其他平台无需标明）",
+  "difficulty": 13.900003,
+  "id": 18084,
+  "illustrator": "平方秒和立方吨",
+  "level": "IN Lv.13",
+  "name": "♿Crush BETA♿",
+  "tags": [
+    "otto",
+    "OTTO",
+    "故事版",
+    "BOFXVI",
+    "troll"
+  ],
+  "updated": "2024-04-05T05:49:12.071401Z",
+  "uploader": 15214
+}

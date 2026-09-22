@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:31Z",
+    "lastChanged": "2026-09-22T01:21:31Z",
+    "localBackup": {
+      "asset": "18394.zip",
+      "files": [
+        {
+          "path": "52276833.jpg",
+          "sha256": "9aec61f820ef35a306d21241680b29b5b9e2310245c41314ee4b0addefa1d791",
+          "size": 327724
+        },
+        {
+          "path": "52276833.json",
+          "sha256": "e3c25cf2d80efb811dc0a0989c08a1aaafd549a86d13716334941df2ab7259bf",
+          "size": 3356900
+        },
+        {
+          "path": "52276833.mp3",
+          "sha256": "f59fddbb10c30fb08161b6e7ed91b7aaabbe6f5599118aa5ea13bc37c4aa3cd0",
+          "size": 3884560
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b574930d84d33a071184e9fb5a7c1b40677cceac4bc2d1b5a6e47e869c3d99d9",
+          "size": 171
+        },
+        {
+          "path": "info.yml",
+          "sha256": "29672c89fc9f0772d62db345266be11a2fcd7a5f2c5d9171d840de27d7cc3bf2",
+          "size": 531
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "52276833.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "52276833.jpg",
+        "lineLength": 6.0,
+        "music": "52276833.mp3",
+        "offset": 0.0,
+        "previewEnd": 83.75,
+        "previewStart": 68.75,
+        "tip": "Tip: どうなっても知りません。",
+        "unlockVideo": null
+      },
+      "release": "backup-18000-18999",
+      "sha256": "1a55c53e05332e4b39e64160b5ef1ad40674b12803b1a1bd1afc38a9bf59bfae",
+      "size": 7570394,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-18000-18999/18394.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "つなぐんちゅ",
+  "composer": "rintaro soma",
+  "created": null,
+  "description": "――この先の、Phiraへ",
+  "difficulty": 16.1,
+  "id": 18394,
+  "illustrator": "SEGA",
+  "level": "AT Lv.16",
+  "name": "系ぎて",
+  "tags": [
+    "maimai",
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

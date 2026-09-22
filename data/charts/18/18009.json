@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:13Z",
+    "lastChanged": "2026-09-22T01:21:13Z",
+    "localBackup": {
+      "asset": "18009.zip",
+      "files": [
+        {
+          "path": "36317808.jpg",
+          "sha256": "63c500c148afec2b03f1880e965ee84c277bbc298a903a4716d0e85e082927ba",
+          "size": 129196
+        },
+        {
+          "path": "36317808.json",
+          "sha256": "e281a388f1b077650b97ae2dbb42cc29f6c8956cf790062772c9bde9530e2cb2",
+          "size": 2436961
+        },
+        {
+          "path": "36317808.ogg",
+          "sha256": "6b0ba334833dce2faef549d772d0095293e548ec2cfd4fc4430caa5965690285",
+          "size": 2794348
+        },
+        {
+          "path": "info.txt",
+          "sha256": "de084007ea590f3a2d7529447d8c47b1e941c3d998e7a3b7e7fc665066d06ab5",
+          "size": 188
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5c5931da4aa6f459bf3910cfcb3acae0e1f0b43ffd1fb7805a6da651478210e4",
+          "size": 634
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.75000006,
+        "chart": "36317808.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "36317808.jpg",
+        "lineLength": 6.0,
+        "music": "36317808.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-18000-18999",
+      "sha256": "974d4d7069ca50f5b20143e5b80be296a83c1a317df41e9e14af2bc3a3d2e437",
+      "size": 5361835,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-18000-18999/18009.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-04-04T02:20:31.353176Z",
+  "charter": "NT : 1NS",
+  "composer": "uma vs. モリモリあつし",
+  "created": "2024-04-04T02:20:31.353176Z",
+  "description": "譜師本人上傳。\n咕了不少時間，希望大家玩的開心。\n\n@NotTure1",
+  "difficulty": 16.400002,
+  "id": 18009,
+  "illustrator": "UK",
+  "level": "FM Lv.16",
+  "name": "Re：End of a Dream",
+  "tags": [],
+  "updated": "2024-04-09T15:08:27.606024Z",
+  "uploader": 12901
+}

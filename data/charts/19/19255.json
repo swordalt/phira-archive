@@ -1,0 +1,338 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:22:29Z",
+    "lastChanged": "2026-09-22T01:22:29Z",
+    "localBackup": {
+      "asset": "19255.zip",
+      "files": [
+        {
+          "path": "20399533.json",
+          "sha256": "ec6b5d386a4fab3506b50b434984e8339307969bc89cf5fca8c6885455b67dfc",
+          "size": 38037681
+        },
+        {
+          "path": "20399533.mp3",
+          "sha256": "4a61c152773805a505478512c59916534c4e06b72c550246b067ea7e5f11f5a3",
+          "size": 15494093
+        },
+        {
+          "path": "20399533.png",
+          "sha256": "f4d12062942bf752401e753cd654a68fec408144d30c63b3abe35532694ecf3f",
+          "size": 3750314
+        },
+        {
+          "path": "MISS.png",
+          "sha256": "61879f37f13abf10df1faed7724d6d8caa2aedfb48dd8f2da7357b16855b4b91",
+          "size": 994
+        },
+        {
+          "path": "info.txt",
+          "sha256": "1f113ed70ee54c7bd20d5e274b424ef00ee7b0f4ad7b088207fe1061f6e4121b",
+          "size": 160
+        },
+        {
+          "path": "info.yml",
+          "sha256": "64c0018007ab22051511555cddd80206c6472c7b5dda7e9b3646e0b75b0ebcec",
+          "size": 526
+        },
+        {
+          "path": "photo.jpg",
+          "sha256": "d40daa7d664d7f89f8481490e179516e2ae946591cc8aaed2e79a42011924043",
+          "size": 217922
+        },
+        {
+          "path": "retouch_2024042701260884.png",
+          "sha256": "5492767c62c7ffdca8a94de1b19579ef031147925e709ef0e19273ae6cff2c25",
+          "size": 51012
+        },
+        {
+          "path": "retouch_2024042701295950.png",
+          "sha256": "f5f5e907dce68bf45cfbc978e7e84b1e2f98953a5de8268e0623087efbb8509a",
+          "size": 50219
+        },
+        {
+          "path": "retouch_2024042701303169.png",
+          "sha256": "bb6d4869f8b33600f69bb35c81e5fdaf52ee8074942e73c68d1fb05e604e1802",
+          "size": 31258
+        },
+        {
+          "path": "retouch_2024042701311633.png",
+          "sha256": "07a5affcb27d2ae02885f61b6a185bb7af7224f44194dfd1d3a83ed7204c0fdc",
+          "size": 62944
+        },
+        {
+          "path": "retouch_2024050120091867.png",
+          "sha256": "105f4ba2412c1fbc0d2df6864ccbae79267b79c105ddc1a301b3b64fb3a21975",
+          "size": 21957
+        },
+        {
+          "path": "retouch_2024050120102547.png",
+          "sha256": "5a6a23969807d820ce7b2caaa61b5347e31224a118c14a84515abd03fc820a28",
+          "size": 18553
+        },
+        {
+          "path": "retouch_2024050120113790.png",
+          "sha256": "692a27272624b42ea52403974e4f77a605a889f40094205803ab15585fd688de",
+          "size": 22017
+        },
+        {
+          "path": "retouch_2024050120130780.png",
+          "sha256": "b0fea945d89ab8c7ada797065c9db96ab10a499e0606db806d608ceea39f05fe",
+          "size": 22392
+        },
+        {
+          "path": "retouch_2024050120145797.png",
+          "sha256": "23c8a50fccf6685ed2cbf5d02ac2d8030a486e3c92f2428cf09f16731655818e",
+          "size": 21375
+        },
+        {
+          "path": "spr_allsoul_0.png",
+          "sha256": "9965e46008582f447884db03774b0a7336c566a668b4ade48cf626705518f75f",
+          "size": 195
+        },
+        {
+          "path": "spr_allsoul_1.png",
+          "sha256": "6a1578bcb2b7a87e84d006d7d744f8bc2408da02d524aed4d262cd58df6c0932",
+          "size": 195
+        },
+        {
+          "path": "spr_allsoul_2.png",
+          "sha256": "c36bcd89e7c39f513fc0d5576261160f9ca34b1e371517d61cf7ccc60598fc03",
+          "size": 191
+        },
+        {
+          "path": "spr_allsoul_3.png",
+          "sha256": "6e07fc5e5ae47e7fc2894e341a7589369b2e4b589d339f638fea1df8bdf0d011",
+          "size": 197
+        },
+        {
+          "path": "spr_allsoul_4.png",
+          "sha256": "6819d90ee0f069781c27566a3c899ef2a1a54a8dd065f2c8a29b85a14119ad2c",
+          "size": 191
+        },
+        {
+          "path": "spr_allsoul_5.png",
+          "sha256": "6e1fbea836e00a6ceb6aa5c5144cc5fc3e4a9aed3bdd5883c02219feb0a84c33",
+          "size": 214
+        },
+        {
+          "path": "spr_asrielpanels_0.png",
+          "sha256": "288133f9399bb1799afe457b0147e5ebf958bca32b9dbd3c6361abc8abab7cd5",
+          "size": 5571
+        },
+        {
+          "path": "spr_asrielpanels_1.png",
+          "sha256": "3303ccdba6c6ed4670c41bdee0118b3838bfbfd470cdb748fc0fa05118de5d31",
+          "size": 5478
+        },
+        {
+          "path": "spr_asrielpanels_2.png",
+          "sha256": "3e20b9e03302161105a7066cec137d708b831bfe22950ccd51b31b4611d42f8d",
+          "size": 6039
+        },
+        {
+          "path": "spr_asrielpanels_3.png",
+          "sha256": "84e054d2823ac6c9cda81e9ff7dcf030fc23d10dce1684b825c7f3348d4b0b77",
+          "size": 5112
+        },
+        {
+          "path": "spr_asrielpanels_4.png",
+          "sha256": "1c9fb29040b392ab7455545e5b09d93c21095fbaa1208a1eb2d119052297e180",
+          "size": 4228
+        },
+        {
+          "path": "spr_gasterblaster_0.png",
+          "sha256": "f08c0d56232699289eb7469a4b162ebee02e807c5021739b53800b5e729e2c15",
+          "size": 820
+        },
+        {
+          "path": "spr_gasterblaster_1.png",
+          "sha256": "afcaf484e4b38be17eb12851a7219093ceea6c0240cff0f9b52ae64769a336ab",
+          "size": 809
+        },
+        {
+          "path": "spr_gasterblaster_2.png",
+          "sha256": "f09a62fd819f5d194c7944348810d99d7b365e5d0e3efb654ea00aff5d764886",
+          "size": 785
+        },
+        {
+          "path": "spr_gasterblaster_3.png",
+          "sha256": "1fd32663d8eecccf564dfd5855e877493da9ec76867d0bcabe12cf46c8ab9427",
+          "size": 985
+        },
+        {
+          "path": "spr_gasterblaster_4.png",
+          "sha256": "2af84c30f64ae0e691748932c0517384f67e7714485cd1f104382eb4a20d802c",
+          "size": 993
+        },
+        {
+          "path": "spr_gasterblaster_5.png",
+          "sha256": "955be5c4e2d2a9e157f52093e9b90ae995baf0920e72cca9c7a55b3b5ef4369e",
+          "size": 887
+        },
+        {
+          "path": "spr_heart_0.png",
+          "sha256": "c0b6998194beef77a699c3b83b83c80d684637b237ab6c24e88a931cca9c5dca",
+          "size": 192
+        },
+        {
+          "path": "spr_heartblue_0.png",
+          "sha256": "c36bcd89e7c39f513fc0d5576261160f9ca34b1e371517d61cf7ccc60598fc03",
+          "size": 191
+        },
+        {
+          "path": "spr_introimage_0.png",
+          "sha256": "27276e319e70f24cf8135831a9907a209c0bb6d6538386e93ba61fc2f99666f0",
+          "size": 3903
+        },
+        {
+          "path": "spr_introimage_1.png",
+          "sha256": "49746a18ea25d109a4f72c21ba823ac704dcd76ef5fae7ccfc4add8343534684",
+          "size": 4640
+        },
+        {
+          "path": "spr_introimage_10.png",
+          "sha256": "80accc687787c500cbca7c4c8fcd081f5e166511ed02b110261c14af7d0689d7",
+          "size": 916
+        },
+        {
+          "path": "spr_introimage_2.png",
+          "sha256": "c5ad5b718da6fd13d15c3666d2b4c5d88d573bdefa137420c37be5bf0510e8ed",
+          "size": 6196
+        },
+        {
+          "path": "spr_introimage_3.png",
+          "sha256": "460ca6c37a9cccede319c42152158c7919b6a0f4e8ba9b841fd2b527eb282dc1",
+          "size": 6529
+        },
+        {
+          "path": "spr_introimage_5.png",
+          "sha256": "4aef1567ad69aeb6134cd5623e8446a33ed6ee2c7dc582e11e05b095018b52e7",
+          "size": 3895
+        },
+        {
+          "path": "spr_introimage_6.png",
+          "sha256": "eef9a0604a5c5696c4cdc4c6dd96ccdef4e61f0e19677534d9d4952c6d99f132",
+          "size": 7853
+        },
+        {
+          "path": "spr_introimage_7.png",
+          "sha256": "91d0f3a2f2f8862c3358a144f7c663a40f80e7609bc6c7e9e054071405ce0fe7",
+          "size": 7614
+        },
+        {
+          "path": "spr_introimage_8.png",
+          "sha256": "6d278cecc08740905d2a26a3c6d45b97d61e5e7bc5f0f44a2ed3319501900921",
+          "size": 6422
+        },
+        {
+          "path": "spr_introimage_9.png",
+          "sha256": "4cfb5dd103aec5d5273eed8623f1eb476307c171a78ca3f5fc481be39d97826a",
+          "size": 7278
+        },
+        {
+          "path": "spr_introlast_0.png",
+          "sha256": "c0f2d84ccd1127f929f9e1c62e4addef5f1bfd10b25ba4488eee4f84d5989470",
+          "size": 23074
+        },
+        {
+          "path": "spr_mtebott_1.png",
+          "sha256": "eb0424cce609445a3e743302a5f70f7d8da279909ac7e1ca3423092220443d0b",
+          "size": 2522
+        },
+        {
+          "path": "spr_s_boneloop_0.png",
+          "sha256": "199f2e852c73bcd205dc999a0bb0a129c893d64cba2d643bdd2be54ac5be879d",
+          "size": 265
+        },
+        {
+          "path": "spr_s_boneloop_out_0.png",
+          "sha256": "eddd44e6a56349ec26ec80b4b07413068bca44c9c1d21ea018aeadf2289a768e",
+          "size": 218
+        },
+        {
+          "path": "spr_s_bonestab_h_0.png",
+          "sha256": "2bb5dd33f999ac6b5f21d107375c54ad55055d0946729363baca8858e3a9d6d3",
+          "size": 195
+        },
+        {
+          "path": "spr_s_bonestab_h_tall_0.png",
+          "sha256": "525ee2d4deffc900d7f025bf2643f029738ee15abf9c5a83f1868ba9d2c030ee",
+          "size": 1092
+        },
+        {
+          "path": "spr_s_bonestab_v_0.png",
+          "sha256": "415747db6a6fd220a29dcf29f5e3fcb0ee0164ebb9cb175d0631f6cba58fc561",
+          "size": 424
+        },
+        {
+          "path": "spr_s_bonestab_v_wide_0.png",
+          "sha256": "037c9fca14fb349cf067e2b7455115d45735452596f34506bf519c92fe8c49f7",
+          "size": 4246
+        },
+        {
+          "path": "spr_s_bonewall_0.png",
+          "sha256": "2e61903bb7bdc1945323d7b526ff460cb31354b8c7a68acf97c8516ff8266d73",
+          "size": 292
+        },
+        {
+          "path": "spr_s_bonewall_tall_0.png",
+          "sha256": "d8a0d20fdfbc456753df5942367616b603a67aa15b430b1394502008ea17c687",
+          "size": 686
+        },
+        {
+          "path": "spr_s_bonewall_wide_0.png",
+          "sha256": "0ef6b27162d63b6c5ac598ed84009315aa02cec4f8029786ee9aff1399ef8b58",
+          "size": 199
+        },
+        {
+          "path": "spr_superbone_0.png",
+          "sha256": "0bfabf3ad6f952deeaf15c113bda0f2ba61f8d01222ff54fa6bde698c88af2e8",
+          "size": 1532
+        },
+        {
+          "path": "spr_titleimage_0.png",
+          "sha256": "455327c4a22e5cb9a6e75940016e5a5b25b6a24ac899263eb3aa000ac2fb40a9",
+          "size": 2093
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "20399533.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "20399533.png",
+        "lineLength": 6.0,
+        "music": "20399533.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "保持你的决心",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "ae2e797aa03729e24b3239c8917575db44a71dc93b8152bfeb0ea361f4047467",
+      "size": 57935592,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19255.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "NEXT RAIN（明雨）",
+  "composer": "Camellia",
+  "created": null,
+  "description": "哔哩哔哩给个三连罢呜呜呜写了超级久",
+  "difficulty": 16.700003,
+  "id": 19255,
+  "illustrator": "Camellia",
+  "level": "IN Lv.16",
+  "name": "MEGALOVANIA",
+  "tags": [
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

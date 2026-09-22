@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:02Z",
+    "lastChanged": "2026-09-22T01:09:02Z",
+    "localBackup": {
+      "asset": "9279.zip",
+      "files": [
+        {
+          "path": "49053376.json",
+          "sha256": "3a4a3e2c86ee273fd6973567c74152cc5c6763dce22aa265b215c09b586b1417",
+          "size": 2323492
+        },
+        {
+          "path": "49053376.mp3",
+          "sha256": "9da03717d1b9f0a0b4b58ae5e7a576abab9408300cdb45ee5846f59570f3f732",
+          "size": 3447046
+        },
+        {
+          "path": "49053376.png",
+          "sha256": "a02b61d5b3d99da5c9508b419567412b8c7b7d82bc42837f19209276c576e713",
+          "size": 165359
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b1e36eb7f70877b2c12690b764c67699f0c1593708e54ec3a9b039de335b82e5",
+          "size": 183
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5cf60438f1fff1f8e538dbc59399ab2ca1c9f20894a0cd5edd35cf43fb7a4db9",
+          "size": 567
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "49053376.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "49053376.png",
+        "lineLength": 6.0,
+        "music": "49053376.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-9000-9999",
+      "sha256": "9f895f9cd2118424ac0b9db59613f9d2e419c063265fa3d42991d823243d223c",
+      "size": 5937155,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-9000-9999/9279.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-09-10T22:23:39.301864Z",
+  "charter": "tempo underwater",
+  "composer": "AwesomeBoy18",
+  "created": "2023-09-10T22:23:39.301864Z",
+  "description": "最初是混音版，现在是滚动天空的歌曲。",
+  "difficulty": 0.0,
+  "id": 9279,
+  "illustrator": "UK",
+  "level": "IN Lv.14",
+  "name": "Tsunami / The Sea (Rock Remix)",
+  "tags": [],
+  "updated": "2023-09-11T11:07:53.784087Z",
+  "uploader": 158825
+}

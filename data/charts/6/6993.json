@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:12Z",
+    "lastChanged": "2026-09-22T01:07:12Z",
+    "localBackup": {
+      "asset": "6993.zip",
+      "files": [
+        {
+          "path": "1690217766.ogg",
+          "sha256": "a1f1cc67534c38cd379d7176aeeb48814f2ed84e1ea30ebafcb03bb230fa8db1",
+          "size": 2419221
+        },
+        {
+          "path": "7373.jpg",
+          "sha256": "d41c4cb5373ed29241dbb176c10d33b88c856c552176f93d1b962baf69f34387",
+          "size": 436978
+        },
+        {
+          "path": "info.csv",
+          "sha256": "21d558e6c4ec26a8bb15b5ea0a46a2aa213578664b317bbc7efe8aae115b068d",
+          "size": 195
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5441adf74d5d641a86226e44f6e6aedc6b84f048d8c88254cdfea945e7066124",
+          "size": 487
+        },
+        {
+          "path": "浮遊城 - Living City#E6BBAD (From Malody).json",
+          "sha256": "01c0919e8fb405246e2c8d42828c2e6ae41e29facbb544c8ba8d329b9e968e97",
+          "size": 1161012
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "浮遊城 - Living City#E6BBAD (From Malody).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "7373.jpg",
+        "lineLength": 6.0,
+        "music": "1690217766.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-6000-6999",
+      "sha256": "3fbf57a0ff4eaa759404aabef7cbab68757776f178308418d8be12108d329729",
+      "size": 4018469,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6993.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "洋漫",
+  "composer": "Jurokuneta",
+  "created": null,
+  "description": "本人上传",
+  "difficulty": 34.0,
+  "id": 6993,
+  "illustrator": "Jurokuneta",
+  "level": "Hard Lv.33",
+  "name": "浮遊城 - Living City#E6BBAD",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

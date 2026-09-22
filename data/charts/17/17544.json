@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:20:31Z",
+    "lastChanged": "2026-09-22T01:20:31Z",
+    "localBackup": {
+      "asset": "17544.zip",
+      "files": [
+        {
+          "path": "15609208.json",
+          "sha256": "c252a5fab34c0ec992db3b9ca595a8eceeacafd095bb516dd1e7271f1424e14b",
+          "size": 380034
+        },
+        {
+          "path": "15609208.mp3",
+          "sha256": "a4139c67d69b9c1309d8f51f5c914f8951bbdf043e59c193307dcfad88ca90d2",
+          "size": 1730592
+        },
+        {
+          "path": "15609208.png",
+          "sha256": "1ec7c978f85f0a78d4824ac9d22552c70295ba10175c745d2d71b2e66a3e007d",
+          "size": 1801224
+        },
+        {
+          "path": "info.txt",
+          "sha256": "05019b3eb035cf98e5c90572d48dce826a2098e10a02f96af226eeda8cbedfcb",
+          "size": 162
+        },
+        {
+          "path": "info.yml",
+          "sha256": "cb6c743ce3db9cd95bf507668ceaef017f2593b8f4462253c6647e94240fbd7a",
+          "size": 847
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.5,
+        "chart": "15609208.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "15609208.png",
+        "lineLength": 6.0,
+        "music": "15609208.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-17000-17999",
+      "sha256": "be0314a30ef931551ced511ed66de525b610118eee39ff724af4b4a1c33fb90f",
+      "size": 3913367,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-17000-17999/17544.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-03-25T03:47:07.831318Z",
+  "charter": "NMcampus",
+  "composer": "WDSXF-Mayonez",
+  "created": "2024-03-25T03:47:07.831318Z",
+  "description": "曲师/曲绘: B站@麦油涅籽WDSXF\n谱师B站同名\n\n难度应该归为Insane,标Hard是切合曲名“硬”，不过13级的谱子(甚至标高了，论配置和时长应该12，不过已经发视频了定了就不改了）想必对于能刷到这个谱面的各位来说不是特别硬茬甚至特别软茬吧！",
+  "difficulty": 12.3,
+  "id": 17544,
+  "illustrator": "WDSXF-Mayonez",
+  "level": "Hard Level! 13",
+  "name": "硬",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-03-26T06:41:06.657215Z",
+  "uploader": 89240
+}

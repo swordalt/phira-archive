@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:19Z",
+    "lastChanged": "2026-09-22T01:21:19Z",
+    "localBackup": {
+      "asset": "18115.zip",
+      "files": [
+        {
+          "path": "44347358.jpg",
+          "sha256": "2ccb4ffb715353813c75b466ddb9ba1c13ebd90b1382f232832a3c1008952c8a",
+          "size": 29594
+        },
+        {
+          "path": "44347358.json",
+          "sha256": "8e18ce9ac7c9a73ee42e85bdd1f57f71d71b5746a3ad9f75f28f8bd9a7a4f06d",
+          "size": 83512
+        },
+        {
+          "path": "44347358.mp3",
+          "sha256": "db4084b769b3acc32da620ad2ebf6cea9c4b8181fa3894a1bc2bef7df244c643",
+          "size": 1311665
+        },
+        {
+          "path": "info.txt",
+          "sha256": "8e7372ad97a3b4a4ff9af8450f67b8610b9568ee763d09c9fa62fc55a431c10d",
+          "size": 187
+        },
+        {
+          "path": "info.yml",
+          "sha256": "6ecbbbc9b42e5dcde5722e79328da91a2686a6242d7120327b32d4a52c89feee",
+          "size": 585
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "44347358.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "44347358.jpg",
+        "lineLength": 6.0,
+        "music": "44347358.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip:你知道吗？蔡坤练了两年半！",
+        "unlockVideo": null
+      },
+      "release": "backup-18000-18999",
+      "sha256": "9d989954cc6fecd77ab34b1127c5163e40423760487b28e5d9f40b5eaaa1403a",
+      "size": 1426051,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-18000-18999/18115.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-04-05T13:53:56.857936Z",
+  "charter": "在下百面人",
+  "composer": "RK/WILLIUS/蔡徐坤",
+  "created": "2024-04-05T13:53:56.857936Z",
+  "description": "",
+  "difficulty": 10.0,
+  "id": 18115,
+  "illustrator": "蔡就唱跳",
+  "level": "SB Lv.114514",
+  "name": "只因你太美",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-04-05T13:53:56.857936Z",
+  "uploader": 819143
+}

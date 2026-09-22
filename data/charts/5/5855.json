@@ -1,0 +1,75 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:47Z",
+    "lastChanged": "2026-09-22T01:05:47Z",
+    "localBackup": {
+      "asset": "5855.zip",
+      "files": [
+        {
+          "path": "24391520.jpg",
+          "sha256": "10ed04ba9961876a10748776a834b1c438aba78e31a9d28265c315688c698d48",
+          "size": 71330
+        },
+        {
+          "path": "24391520.json",
+          "sha256": "a90131b4649eebcc748bd1bf4b2af6b6f709269583ebda5693b74cd57ea1e023",
+          "size": 1430924
+        },
+        {
+          "path": "24391520.mp3",
+          "sha256": "092cea548bd09552a844247e5ea4d98768142e9a645898d0e260a90b6ef12891",
+          "size": 6448898
+        },
+        {
+          "path": "c.png",
+          "sha256": "f640111ec83c00fc29893b79ece6bbde157be32c4860776492ff4f9679091e5b",
+          "size": 181057
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b4497ad20ffe25b9dd1be31ce7f3a4cea784c495ad4299b9ec6debcb41406e5c",
+          "size": 172
+        },
+        {
+          "path": "info.yml",
+          "sha256": "b701169bb007c520169799358c1fec5b7781d182712674ab39e99f84d1dd556b",
+          "size": 582
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "24391520.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "24391520.jpg",
+        "lineLength": 6.0,
+        "music": "24391520.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip:大葱是绿色的"
+      },
+      "release": "backup-5000-5999",
+      "sha256": "11ae28e93f23527d443c031ea31ee3a5f37bf0b842751bb574b1b02a3d81d7c4",
+      "size": 8133557,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5855.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-22T17:43:28.244698Z",
+  "charter": "冷酷的猫猫1320",
+  "composer": "初音ミク",
+  "created": "2023-07-22T17:43:28.244698Z",
+  "description": "瞎写的，没那么好，娱乐一下就行。发b站需要at谱师",
+  "difficulty": 14.0,
+  "id": 5855,
+  "illustrator": "UK",
+  "level": "IN Lv.14",
+  "name": "甩葱歌",
+  "tags": [],
+  "updated": "2023-07-23T16:31:32.898635Z",
+  "uploader": 47124
+}

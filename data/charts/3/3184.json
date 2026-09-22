@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:24Z",
+    "lastChanged": "2026-09-22T01:03:24Z",
+    "localBackup": {
+      "asset": "3184.zip",
+      "files": [
+        {
+          "path": "27218125.jpg",
+          "sha256": "8f78eae80ad72cab7f6efd0b10cdbd5b9470477f081e543a807326d915f1bcdd",
+          "size": 117611
+        },
+        {
+          "path": "27218125.json",
+          "sha256": "93dbc11ad629d33688f0ec2780af0f73e87d69992a4a0f7962b8c1d79d288380",
+          "size": 3483207
+        },
+        {
+          "path": "27218125.mp3",
+          "sha256": "510d67e9922f1d410087ab54b1cd9c35edc6f066ddf55c99f71e87640c1ac751",
+          "size": 2300428
+        },
+        {
+          "path": "info.txt",
+          "sha256": "81baa180adea524e310d13d6ad5067cc66f6b06a77d059bc6f4c1b50394a776f",
+          "size": 165
+        },
+        {
+          "path": "info.yml",
+          "sha256": "81f8fbc57bb28b9cde4b0fa56e08a6eae9adce5acedee9596776df31df10f778",
+          "size": 490
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "27218125.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "27218125.jpg",
+        "lineLength": 6.0,
+        "music": "27218125.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "「循此苦旅,直抵群星！」"
+      },
+      "release": "backup-3000-3999",
+      "sha256": "60debefc3a27a544115cc4d6cb408700651ae619d373919b92e5275e6fddad87",
+      "size": 5902409,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-3000-3999/3184.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "YF",
+  "composer": "Rabbit House",
+  "created": null,
+  "description": "谱师本人B站@尤赋_YF",
+  "difficulty": 15.0,
+  "id": 3184,
+  "illustrator": "OVERPAPID Official",
+  "level": "IN Lv.16",
+  "name": "Ad astra per aspera",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

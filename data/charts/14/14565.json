@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:44Z",
+    "lastChanged": "2026-09-22T01:16:44Z",
+    "localBackup": {
+      "asset": "14565.zip",
+      "files": [
+        {
+          "path": "27589716.jpg",
+          "sha256": "6e455377e4bdd90b46c63a3903cece0619d6731ec761c5448b0cd8afd94c98e6",
+          "size": 102665
+        },
+        {
+          "path": "27589716.json",
+          "sha256": "be2ac4514daf0794e4a8a1d94065f7fdb66b2ed756fa6bd49e575c36ba899d37",
+          "size": 2245292
+        },
+        {
+          "path": "27589716.mp3",
+          "sha256": "b9ad5db72d3676d0e1e73f72713f69344db118ddd50fcd8c3bd3e5934137480a",
+          "size": 4469908
+        },
+        {
+          "path": "info.txt",
+          "sha256": "21b155076b2f4379d9198473559c2180d608112a08d3a2bea5be53af2da82c52",
+          "size": 185
+        },
+        {
+          "path": "info.yml",
+          "sha256": "0943754b4e772528f6e689c349991cfb1e4fa13100c1be7bc6dbcb40e85e23e3",
+          "size": 629
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "27589716.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "27589716.jpg",
+        "lineLength": 6.0,
+        "music": "27589716.mp3",
+        "offset": 0.42600006,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "你琴润了！",
+        "unlockVideo": null
+      },
+      "release": "backup-14000-14999",
+      "sha256": "6bcc4d75de9e4de7c00ef444eff96756dd409c1e8abdc1e4886d8f55fff18dd6",
+      "size": 6819187,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14565.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-31T12:24:53.283394Z",
+  "charter": "XO is escaping",
+  "composer": "Plum",
+  "created": "2024-01-31T12:24:53.283394Z",
+  "description": "作者不到一天就把配置写完了。写了一坨SP Lv.15",
+  "difficulty": 16.900003,
+  "id": 14565,
+  "illustrator": "만든이\n",
+  "level": "IN Lv.15",
+  "name": "My Piano Is Escaping(No Drama Ver.)",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-06-09T16:43:19.149786Z",
+  "uploader": 515455
+}

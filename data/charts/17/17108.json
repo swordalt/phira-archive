@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:20:15Z",
+    "lastChanged": "2026-09-22T01:20:15Z",
+    "localBackup": {
+      "asset": "17108.zip",
+      "files": [
+        {
+          "path": "27730203.json",
+          "sha256": "e95bf0f0d948a4b3f78b6e7a6b9ff7a29c94ecd9cbf4edb422d5e73f2cd02953",
+          "size": 1864630
+        },
+        {
+          "path": "27730203.mp3",
+          "sha256": "7cc087366c163485573ced6520a856b9a77008cca048229753267171fbf43f04",
+          "size": 6353324
+        },
+        {
+          "path": "27730203.png",
+          "sha256": "3e1fa7c3eb451e7e8e3ec9f672441b93e10854a01e22ec574a8fa6b91e7c6269",
+          "size": 280083
+        },
+        {
+          "path": "info.txt",
+          "sha256": "0fc2d93cb6caa650d3fd5629eae013327c53cec0396d8edeabdf8fbf095dcbc7",
+          "size": 174
+        },
+        {
+          "path": "info.yml",
+          "sha256": "d99320a2d3bb760ab2da9a2c616332410659c59f56bd046de5813289978f0c31",
+          "size": 473
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "27730203.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "27730203.png",
+        "lineLength": 6.0,
+        "music": "27730203.mp3",
+        "offset": 0.0,
+        "previewEnd": 127.37,
+        "previewStart": 112.369995,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-17000-17999",
+      "sha256": "43a6decb6a0cda365ee73e52974fddf11fecc2745da618be83d7d6a3d28b9afe",
+      "size": 8499192,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-17000-17999/17108.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "jm333",
+  "composer": "nogi / 初音ミク",
+  "created": null,
+  "description": "本人上传。",
+  "difficulty": 14.0,
+  "id": 17108,
+  "illustrator": "薬屋",
+  "level": "MI Lv.14",
+  "name": "猫化現象Lv.100",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

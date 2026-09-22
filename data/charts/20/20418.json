@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:24:55Z",
+    "lastChanged": "2026-09-22T01:24:55Z",
+    "localBackup": {
+      "asset": "20418.zip",
+      "files": [
+        {
+          "path": "37483697.jpg",
+          "sha256": "6789864cdfaec642f63bdae9ede586b3334ea0831834bfc50a1318743cb51e65",
+          "size": 524678
+        },
+        {
+          "path": "37483697.json",
+          "sha256": "179e72e525823020e17dddbf334902ade747d30c29b6cc63b39837bcf63d0f9c",
+          "size": 1643311
+        },
+        {
+          "path": "37483697.mp3",
+          "sha256": "d44b59774173c2e270e156853c8d2bf0c72111f0ef2ef52e94b4fbb1c667d235",
+          "size": 2743248
+        },
+        {
+          "path": "info.txt",
+          "sha256": "6f2e8fae730f0da7bb54dddd03b70a28821cf3b8ef56b10cca2e1a8aa8ab4fc2",
+          "size": 171
+        },
+        {
+          "path": "info.yml",
+          "sha256": "e255fa3217fa928773a58076248b11605997369ef9bfe3cc76e63ba07aed0785",
+          "size": 528
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "37483697.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "37483697.jpg",
+        "lineLength": 6.0,
+        "music": "37483697.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "4826216bfae9651ee51033482e7d580fd77eea1c964401841378e5f31c779efd",
+      "size": 4912444,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20418.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-26T10:04:55.303299Z",
+  "charter": "飞惪更高",
+  "composer": "Crystal Cube",
+  "created": "2024-05-26T10:04:55.303299Z",
+  "description": "",
+  "difficulty": 16.600002,
+  "id": 20418,
+  "illustrator": "Winderlust",
+  "level": "AT LV.16",
+  "name": "Restricted area",
+  "tags": [],
+  "updated": "2024-05-26T10:04:55.303299Z",
+  "uploader": 91917
+}

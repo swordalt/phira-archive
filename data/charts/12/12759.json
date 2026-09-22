@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:13:39Z",
+    "lastChanged": "2026-09-22T01:13:39Z",
+    "localBackup": {
+      "asset": "12759.zip",
+      "files": [
+        {
+          "path": "83769999.json",
+          "sha256": "e6eeb97095ef7ac1738cf744dd7fe5d3aef8f9f75f5c4c8f6c89a311d83a519d",
+          "size": 654916
+        },
+        {
+          "path": "83769999.mp3",
+          "sha256": "06560a131bca8a6505e84040db4c616e0aba396422116454ec21c856270bb88e",
+          "size": 6153401
+        },
+        {
+          "path": "83769999.png",
+          "sha256": "f028f2b00068cc40e0c83d464ed54fd51047282582d21513cd16503b0147e3c8",
+          "size": 375427
+        },
+        {
+          "path": "info.txt",
+          "sha256": "2ff66edd550010684f8b81dbdda1666dc5577b3739d57f863aec3dacfb478b74",
+          "size": 187
+        },
+        {
+          "path": "info.yml",
+          "sha256": "b704cafbdb77cd52aeec7f0a0fdddca211353f7137309d744489f7c24d751068",
+          "size": 840
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "83769999.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "83769999.png",
+        "lineLength": 6.0,
+        "music": "83769999.mp3",
+        "offset": 0.15,
+        "previewEnd": 45.0,
+        "previewStart": 30.0,
+        "tip": "合理编排手序可以玩得更舒服。"
+      },
+      "release": "backup-12000-12999",
+      "sha256": "c27a57021b3bc554dbaa45c8e634629cc476767473ffcf085f5e5d92544da459",
+      "size": 7185279,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12759.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-23T15:13:57.353818Z",
+  "charter": "Meteor",
+  "composer": "Lena Raine & Stereo",
+  "created": "2023-12-23T15:13:57.353818Z",
+  "description": "这个谱是我拿到制谱器后，写的第一张谱（有部分修改）。原本想当做比赛投稿，想了想还是算了，决定写个新谱。\n质量一言难尽，反正我再也不会这么写了。但是手法挺好玩的，就发出来了。",
+  "difficulty": 16.100004,
+  "id": 12759,
+  "illustrator": "Minecraft",
+  "level": "Legacy Lv.16",
+  "name": "Pigstep (Stereo Mix)",
+  "tags": [
+    "Minecraft",
+    "regular"
+  ],
+  "updated": "2023-12-24T09:13:46.754585Z",
+  "uploader": 211613
+}

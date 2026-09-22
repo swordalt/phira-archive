@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:53Z",
+    "lastChanged": "2026-09-22T01:06:53Z",
+    "localBackup": {
+      "asset": "6712.zip",
+      "files": [
+        {
+          "path": "34776700.json",
+          "sha256": "25a2ba4b726e9beb241dcb2c06f7f73b99ca9d4ab1bfd6b993622e3d9882550d",
+          "size": 90811
+        },
+        {
+          "path": "34776700.mp3",
+          "sha256": "cace7643b4ba116563aeafc6dafc48668c03afb70619763e90d4e9ee58f65e82",
+          "size": 147438
+        },
+        {
+          "path": "34776700.png",
+          "sha256": "f26f972d7e584bd333cc10ac96341cf874df4964ff982e4f73fdb36486da63bd",
+          "size": 355959
+        },
+        {
+          "path": "info.txt",
+          "sha256": "f3f4160e8c7c91fe37c02072d45bcf159937769ae29af75bf7278bb307e340aa",
+          "size": 153
+        },
+        {
+          "path": "info.yml",
+          "sha256": "cea65c0639683f26584d7061d647c242639e15177029f25a91581ddf7f3e6425",
+          "size": 611
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "34776700.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "34776700.png",
+        "lineLength": 6.0,
+        "music": "34776700.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip：修改了采音问题"
+      },
+      "release": "backup-6000-6999",
+      "sha256": "0b35be7984707398bbfdf589bee7023fab0812e8224d5b027563ac152327f014",
+      "size": 595480,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6712.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-05T01:27:41.416679Z",
+  "charter": "hc",
+  "composer": "恐龙的冒险",
+  "created": "2023-08-03T05:06:10.901359Z",
+  "description": "因为抖音上有人说我这个谱没有12，所以就改成七了。欢迎关注b站@hc不会音游",
+  "difficulty": 7.3,
+  "id": 6712,
+  "illustrator": "恐龙的冒险",
+  "level": "EZ Lv.7",
+  "name": "Yee~",
+  "tags": [],
+  "updated": "2023-08-05T01:27:41.416679Z",
+  "uploader": 6169
+}

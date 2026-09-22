@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:04:59Z",
+    "lastChanged": "2026-09-22T01:04:59Z",
+    "localBackup": {
+      "asset": "5130.zip",
+      "files": [
+        {
+          "path": "44071469.jpg",
+          "sha256": "e1bdd40b4b650accef1e4d42a2578406cf242216c4d1c4c50cdc7f78c5781a54",
+          "size": 228142
+        },
+        {
+          "path": "44071469.json",
+          "sha256": "490f6a9e452a6800918b7e990bbe101dbeff9fcc9d7d8f36c3ae78d576da6a5a",
+          "size": 1022885
+        },
+        {
+          "path": "44071469.mp3",
+          "sha256": "f825d31fa6835171bb9f8ac6aa6770cea388dc709a66b8efbf0977d6852ec62c",
+          "size": 4317691
+        },
+        {
+          "path": "info.txt",
+          "sha256": "5b99a9fe9250672b64beb1395207e3578f55a57d71dd3f511346625617dc82fb",
+          "size": 157
+        },
+        {
+          "path": "info.yml",
+          "sha256": "038eb0fe862e5b2a6810176acd2433459366a291b0123ec28f92b861f4dd0b8a",
+          "size": 519
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "44071469.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "44071469.jpg",
+        "lineLength": 6.0,
+        "music": "44071469.mp3",
+        "offset": 0.03,
+        "previewEnd": 108.5,
+        "previewStart": 92.5,
+        "tip": "迷宫IN重置"
+      },
+      "release": "backup-5000-5999",
+      "sha256": "e6d7ce015f6f15eb2974bee58baec0fcded4f79d3e430ec0ff3d9692008f1864",
+      "size": 5569902,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5130.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "JumP",
+  "composer": "LeaF",
+  "created": null,
+  "description": "嫌官谱怪，重写一个\n（这是第二版，做了部分改动）",
+  "difficulty": 15.900001,
+  "id": 5130,
+  "illustrator": "遥壱朗",
+  "level": "IN Lv.15",
+  "name": "Lyrith -迷宮リリス-",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

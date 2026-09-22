@@ -1,0 +1,75 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:38Z",
+    "lastChanged": "2026-09-22T01:07:38Z",
+    "localBackup": {
+      "asset": "7656.zip",
+      "files": [
+        {
+          "path": "40722949.PNG",
+          "sha256": "cc5c045f7eda1b3623eccac0d2dfa8762b80481a340f7a618f4fcec5d5888e53",
+          "size": 223146
+        },
+        {
+          "path": "40722949.json",
+          "sha256": "89c3e4edda2bbd224e4a1f0886b5a1f6813243b50784b25ebbe91abf17c55c40",
+          "size": 614380
+        },
+        {
+          "path": "40722949.mp3",
+          "sha256": "40bae7b657da5827cb08b12ae5d874a93badcb6ebb99d4202a4fb51382f2c9cb",
+          "size": 2266316
+        },
+        {
+          "path": "info.txt",
+          "sha256": "417dac67514b72e0eb1a16bc1f77c4d901aa2c7bfd2c00469d65fc83eb731eb1",
+          "size": 190
+        },
+        {
+          "path": "info.yml",
+          "sha256": "158dc9eeef0167611b1c018f4e13b99eabace135f21b59bbbc0a98b821e59f77",
+          "size": 570
+        },
+        {
+          "path": "tmp2.pec",
+          "sha256": "ec52351c5a8cad023cfcdf1998820a4665621954bb1b76d794737960edfd4058",
+          "size": 80036
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.5,
+        "chart": "40722949.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "40722949.PNG",
+        "lineLength": 6.0,
+        "music": "40722949.mp3",
+        "offset": 0.037999995,
+        "previewEnd": 22.0,
+        "previewStart": 2.0,
+        "tip": "爸爸的雷达，啊啊啊 啊啊 啊啊 啊啊啊啊啊啊啊啊"
+      },
+      "release": "backup-7000-7999",
+      "sha256": "e7242e8c12faf84ff8083638cf024608329007dfbc6eee7883888c48afe41a42",
+      "size": 3185238,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-7000-7999/7656.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "围裙妈妈",
+  "composer": "闫晓男",
+  "created": null,
+  "description": "b站关注zmyisti啊，不然我会伤心的呜呜",
+  "difficulty": 0.0,
+  "id": 7656,
+  "illustrator": "screenshot",
+  "level": "SP Lv.dad",
+  "name": "大头儿子和小头爸爸主题曲",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

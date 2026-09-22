@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:37Z",
+    "lastChanged": "2026-09-22T01:03:37Z",
+    "localBackup": {
+      "asset": "3959.zip",
+      "files": [
+        {
+          "path": "97026203.jpg",
+          "sha256": "6ca3834d69824ce3384dbb4221052ca6502fec9d792972d243845307cf594d1c",
+          "size": 186051
+        },
+        {
+          "path": "97026203.json",
+          "sha256": "8680ba551053f7f2938dbfb739ec408cc25072143263d237703630b52f7ff7b1",
+          "size": 270860
+        },
+        {
+          "path": "97026203.mp3",
+          "sha256": "56dd126725caef3db7f5293b7be7f75873a77d500b052e51248f170ff25e8979",
+          "size": 8371015
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d2e0fd9bb31a9a01fe9369bfd676970ba99c8f1b8b315c194d0f7bb14b18b121",
+          "size": 171
+        },
+        {
+          "path": "info.yml",
+          "sha256": "42e2afa4de69854a6d1ea61ccf9dd6dfbffb64fa9bef6c0bd26e7db831dc8865",
+          "size": 495
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "97026203.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "97026203.jpg",
+        "lineLength": 6.0,
+        "music": "97026203.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-3000-3999",
+      "sha256": "50d7c2756a7cf58bb46a743c948b4be6097fe8b65c643608fdec612ee5e2fefb",
+      "size": 8829100,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-3000-3999/3959.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-06-23T14:29:26.364052Z",
+  "charter": "Ifa",
+  "composer": "Camellia & Toby Fox",
+  "created": "2023-06-23T14:29:26.364052Z",
+  "description": "",
+  "difficulty": 10.0,
+  "id": 3959,
+  "illustrator": "UK",
+  "level": "Inferno",
+  "name": "Rude Buster(Remake)",
+  "tags": [],
+  "updated": "2023-06-23T14:29:26.364052Z",
+  "uploader": 558
+}

@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:28:52Z",
+    "lastChanged": "2026-09-22T01:28:52Z",
+    "localBackup": {
+      "asset": "21794.zip",
+      "files": [
+        {
+          "path": "3525976.MP3",
+          "sha256": "74f7eb61a2e0ed0ab94fdf0379d1e8aaa1bec216d349f7023fe18ebc820a2ee1",
+          "size": 2379073
+        },
+        {
+          "path": "3525976.json",
+          "sha256": "4cff6fbf545c83e9839aff226c368d3d5f67fdbb94a61dd54ca1dfb611048945",
+          "size": 995000
+        },
+        {
+          "path": "3525976.png",
+          "sha256": "7f60282d5400ad0db201443d06cf74bc79de18d880cdfe574bc0a6769d34a168",
+          "size": 1223476
+        },
+        {
+          "path": "info.txt",
+          "sha256": "75b12c56bb95dddc677c346b287ed6d1e202504d566e4013e6bcb21381185020",
+          "size": 167
+        },
+        {
+          "path": "info.yml",
+          "sha256": "89ce926e85cd76edc4269ef5466441057c736f16a4655ca6bebb04542be59895",
+          "size": 690
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.5,
+        "chart": "3525976.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "3525976.png",
+        "lineLength": 6.0,
+        "music": "3525976.MP3",
+        "offset": 0.0,
+        "previewEnd": 83.0,
+        "previewStart": 63.0,
+        "tip": "【手绘逐帧meme】一键三连变成女孩子有多可爱！",
+        "unlockVideo": null
+      },
+      "release": "backup-21000-21999",
+      "sha256": "41213aac965e037a9bd5b6986a7373ae7aa7d4b8414252f56870cbb1e0973823",
+      "size": 4598908,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-21000-21999/21794.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-23T08:32:47.552278Z",
+  "charter": "XC",
+  "composer": "PSYQUI/中村さんそ",
+  "created": "2024-06-23T08:32:47.552278Z",
+  "description": "作者bilibili@星河非昨夜cagey；定数13.1虚高，但是只有13级以上才有多押，只能这样了",
+  "difficulty": 13.1,
+  "id": 21794,
+  "illustrator": "略nd",
+  "level": "IN Lv.13",
+  "name": "Fly to the Moon",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-06-23T08:32:47.552278Z",
+  "uploader": 591565
+}

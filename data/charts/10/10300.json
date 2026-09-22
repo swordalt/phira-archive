@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:46Z",
+    "lastChanged": "2026-09-22T01:09:46Z",
+    "localBackup": {
+      "asset": "10300.zip",
+      "files": [
+        {
+          "path": "72324972.jpg",
+          "sha256": "ef7c102c6f4075dc4265b758dcecefc0ca8b0d714d146d8a41513202d35869e6",
+          "size": 27957
+        },
+        {
+          "path": "72324972.json",
+          "sha256": "3305c5145da1bb476fb2d021b66838cd8d5cd07ddc8693a15e2759080736b54f",
+          "size": 483009
+        },
+        {
+          "path": "72324972.mp3",
+          "sha256": "dc7078f65706cf153d12e7b313b4f38ac9b3f76a73550d363e196ce163dc27b8",
+          "size": 4220968
+        },
+        {
+          "path": "info.txt",
+          "sha256": "cb9d376be7bc1e5f00893ee35069f660421f209eedd37de77f992367867aa3bf",
+          "size": 151
+        },
+        {
+          "path": "info.yml",
+          "sha256": "4c38792cc85d43d9e1f530c9ebdde27346c80c6aa90b6607b082642a71818feb",
+          "size": 454
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.85,
+        "chart": "72324972.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "72324972.jpg",
+        "lineLength": 6.0,
+        "music": "72324972.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "真的可以打啦！"
+      },
+      "release": "backup-10000-10999",
+      "sha256": "9edcba13c59e1e0f6980ac662abb691420e91f0489ef8d9fe66c1b88fbcc5171",
+      "size": 4733047,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-10000-10999/10300.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "Allen",
+  "composer": "Camellia",
+  "created": null,
+  "description": "第一張譜 爛很正常",
+  "difficulty": 10.0,
+  "id": 10300,
+  "illustrator": "UK",
+  "level": "SP Lv.?",
+  "name": "ANOMALY",
+  "tags": [
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:42Z",
+    "lastChanged": "2026-09-22T01:16:42Z",
+    "localBackup": {
+      "asset": "14542.zip",
+      "files": [
+        {
+          "path": "11634796.json",
+          "sha256": "71359f4573a053225c5a7a951979b286367cb0b160bf9d99b00cde45a48cb90f",
+          "size": 749263
+        },
+        {
+          "path": "11634796.mp3",
+          "sha256": "d5fa656c5d02e88f92eb0f5b5f66ea16a027aa5fb52ec854400ddcc1567bc974",
+          "size": 1669691
+        },
+        {
+          "path": "11634796.png",
+          "sha256": "350ae7d5770d3d8a878adafbbc5a2166113ffd496e939e23740151f877f6c04e",
+          "size": 129493
+        },
+        {
+          "path": "info.txt",
+          "sha256": "e0620bea54a9d0cbcee8f5c9eea69f2a683f17d8f6c5ee9b452add70418a8cb5",
+          "size": 158
+        },
+        {
+          "path": "info.yml",
+          "sha256": "c0f326316b0e12ebeee1cde0da980cce15614c8d49fb2643adf042d8600e3c87",
+          "size": 537
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "11634796.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "11634796.png",
+        "lineLength": 6.0,
+        "music": "11634796.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "这首你要收？？还是换一首吧"
+      },
+      "release": "backup-14000-14999",
+      "sha256": "5199417d462a50a53ca6a1e46128e2b324113578bcb09dfdbd34ace0124241b3",
+      "size": 2549650,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14542.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-31T09:13:51.393971Z",
+  "charter": "Anxve13",
+  "composer": "溪-趣",
+  "created": "2024-01-31T09:13:51.393971Z",
+  "description": "2024新年快乐 ",
+  "difficulty": 10.0,
+  "id": 14542,
+  "illustrator": "UK",
+  "level": "SP Lv.??",
+  "name": "春节嘘蛆",
+  "tags": [],
+  "updated": "2024-01-31T09:13:51.393971Z",
+  "uploader": 455830
+}

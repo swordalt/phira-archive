@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:44Z",
+    "lastChanged": "2026-09-22T01:03:44Z",
+    "localBackup": {
+      "asset": "4120.zip",
+      "files": [
+        {
+          "path": "Crystar.jpg",
+          "sha256": "20342e9cb3934929ab7a9a580d669ec680d05c9aca4ca4fb284251556d97d44a",
+          "size": 94337
+        },
+        {
+          "path": "Crystar.mp3",
+          "sha256": "76104d29bcb072a676b800d2707bd566334622d11f096c7604843d32eb05d453",
+          "size": 2229805
+        },
+        {
+          "path": "Crystar.pec",
+          "sha256": "3810e298209d2ca6ed2d56fdd4da651bc6dca97b036ba30872a45c0101725040",
+          "size": 321881
+        },
+        {
+          "path": "info.csv",
+          "sha256": "5abf6a202185fb8c87c14def86929fce5599bbd9ffb4bd5359771e627299a4fd",
+          "size": 273
+        },
+        {
+          "path": "info.yml",
+          "sha256": "a5b4e5e2f04411ba06edc90b306974f3d55bc0a799fd7c5b7c5ebf8db2843d28",
+          "size": 562
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.777778,
+        "backgroundDim": 0.6,
+        "chart": "Crystar.pec",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "Crystar.jpg",
+        "lineLength": 6.0,
+        "music": "Crystar.mp3",
+        "offset": 0.0,
+        "previewEnd": 100.0,
+        "previewStart": 80.0,
+        "tip": "削除听完都感动哭了"
+      },
+      "release": "backup-4000-4999",
+      "sha256": "1bafd7b8a0bd2a1d7e652a2bbbad1e42f830d0a187c99f483600a081ec711e01",
+      "size": 2647358,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-4000-4999/4120.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-06-26T11:06:43.035656Z",
+  "charter": "Pur.s & I.II",
+  "composer": "Sakuzyo",
+  "created": "2023-06-26T11:06:43.035656Z",
+  "description": "谱师有俩个人（醋酸跟我）",
+  "difficulty": 13.0,
+  "id": 4120,
+  "illustrator": "Sakuzyo",
+  "level": "IN Lv.13",
+  "name": "Crystar",
+  "tags": [
+    "好听好玩",
+    "regular"
+  ],
+  "updated": "2023-06-26T14:12:50.422448Z",
+  "uploader": 384
+}

@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:17Z",
+    "lastChanged": "2026-09-22T01:11:17Z",
+    "localBackup": {
+      "asset": "11423.zip",
+      "files": [
+        {
+          "path": "1662291.json",
+          "sha256": "0344de350026440e14718a66fe6f74525c491405aa19b338de4a02bace323322",
+          "size": 741991
+        },
+        {
+          "path": "1662291.ogg",
+          "sha256": "8f612b5d3035727991b1e69deb4984b3a6f1fb1fc9195462136359ffb582e30d",
+          "size": 2174268
+        },
+        {
+          "path": "1662291.png",
+          "sha256": "a2034226e8b86d0e6f3e0136406a75005e6f7f9e07f62bb48142dee302cdc255",
+          "size": 66970
+        },
+        {
+          "path": "info.txt",
+          "sha256": "6cf6646851426d6a35531bafb5e6d0258fa779bd5b14bff3009fc171a8090e1a",
+          "size": 192
+        },
+        {
+          "path": "info.yml",
+          "sha256": "8768fde5bbc8be1969f4d3ca76945fb08f707cb5061b373ca3459c5ab7bc33b5",
+          "size": 566
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "1662291.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "1662291.png",
+        "lineLength": 6.0,
+        "music": "1662291.ogg",
+        "offset": -0.04,
+        "previewEnd": 63.0,
+        "previewStart": 48.0,
+        "tip": "囃狼's chart"
+      },
+      "release": "backup-11000-11999",
+      "sha256": "3e223585fba91cfd7d29696befe256558e63298df17bf12aaee21815f2412062",
+      "size": 2984489,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11423.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-12T09:22:25.241260Z",
+  "charter": "while(囃狼 ≠ 囃狼);",
+  "composer": "Reku Mochizuki",
+  "created": "2023-11-12T09:22:25.241260Z",
+  "description": "Tap→Flick, Flick→Drag, Drag→Tap",
+  "difficulty": 10.0,
+  "id": 11423,
+  "illustrator": "UK",
+  "level": "SP Lv.?",
+  "name": "INFiNiTE ENERZY -Overdoze-",
+  "tags": [],
+  "updated": "2023-11-12T09:22:25.241260Z",
+  "uploader": 3747
+}

@@ -1,0 +1,83 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:40Z",
+    "lastChanged": "2026-09-22T01:17:40Z",
+    "localBackup": {
+      "asset": "15024.zip",
+      "files": [
+        {
+          "path": "26494002.json",
+          "sha256": "c694ac0044adab15c5cf331ec277a44ac9ddaa94cfee68a8edfcb7f8950b7ee0",
+          "size": 4869275
+        },
+        {
+          "path": "26494002.mp3",
+          "sha256": "f0a0fbe3db64c7e1f4c4c49e27180c1372f2e351c6ad1bcb0fbd8a416fd2e208",
+          "size": 2037965
+        },
+        {
+          "path": "26494002.png",
+          "sha256": "5ffe352959d9968475bbba7ab47ab7ccd84a56a150defb5365b09d30642ab869",
+          "size": 1260620
+        },
+        {
+          "path": "OIP-C.jpg",
+          "sha256": "137359fbee86b466b81c3d0aa76d12e9550650e48c95aa2004a276fc41ac51dc",
+          "size": 33266
+        },
+        {
+          "path": "info.txt",
+          "sha256": "26a610262a622464fe860c19bd9023a62507a0789e01cea2f7d23207ddb87e58",
+          "size": 159
+        },
+        {
+          "path": "info.yml",
+          "sha256": "8751e79a1fc01c8d0785424229a6ab931f5f4b40e8ee6f39e1fb3a97460c4e9f",
+          "size": 907
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "26494002.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "26494002.png",
+        "lineLength": 6.0,
+        "music": "26494002.mp3",
+        "offset": 0.04,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "神奇的鸡蛋纺纱机将白色和蛋黄融为一体这不神奇吗点击连接我简历获取一个",
+        "unlockVideo": null
+      },
+      "release": "backup-15000-15999",
+      "sha256": "bebbf7c1c9f004b54d36182219037d4ca1e15d2a3e7f8ddcd9a702c2ccecaf0a",
+      "size": 8202794,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15024.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-08T09:56:49.604296Z",
+  "charter": "N",
+  "composer": "Cupcakke",
+  "created": "2024-02-08T09:56:49.604296Z",
+  "description": "我就那句话，愚人节，本来当观赏谱的，观赏性够了就行\n普通人能玩，擒史皇能收，别说什么什么合理性，都在这个分区了聊什么合理\nB站：NEKOYO_NKY",
+  "difficulty": 17.000002,
+  "id": 15024,
+  "illustrator": "NEKOYO（我自己用psP的你说是不是）",
+  "level": "Jiafei Lv.?",
+  "name": "Jiafeiマニア",
+  "tags": [
+    "Jiafei",
+    "观赏",
+    "故事版",
+    "硅胶",
+    "鬼叫",
+    "troll"
+  ],
+  "updated": "2024-02-09T01:51:22.984519Z",
+  "uploader": 442485
+}

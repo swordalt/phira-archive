@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:21Z",
+    "lastChanged": "2026-09-22T01:05:21Z",
+    "localBackup": {
+      "asset": "5308.zip",
+      "files": [
+        {
+          "path": "21045931.json",
+          "sha256": "dee969fbf552f99347b0f8bf7c77e677697f47d7dc86d7fd60283be3fdeeb83a",
+          "size": 4473057
+        },
+        {
+          "path": "21045931.mp3",
+          "sha256": "488a6928c3df3b9f6e35f6442350f431d3ef6e4229358179692a1b032da75838",
+          "size": 4098668
+        },
+        {
+          "path": "21045931.png",
+          "sha256": "bb7b098ebd5fb400f9e5e821b82377502ae41d55fcf41bf920e3715e2429e540",
+          "size": 582982
+        },
+        {
+          "path": "info.txt",
+          "sha256": "f63935add3e324cf8efc0ed2c3603228a13715dd0e3745cb6e34422dcae20be5",
+          "size": 185
+        },
+        {
+          "path": "info.yml",
+          "sha256": "27d7d969e9c6c2e1715601214fb898f70414b66ef60383709dec7e513f21d4b2",
+          "size": 813
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.0,
+        "chart": "21045931.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "21045931.png",
+        "lineLength": 6.0,
+        "music": "21045931.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-5000-5999",
+      "sha256": "1ab9796ae85b8de3197db74432654e0bc6c7b0fbbff67165ddf201bc60164912",
+      "size": 9156213,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5308.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-18T05:00:31.817396Z",
+  "charter": "baixiong",
+  "composer": "Plum",
+  "created": "2023-07-14T10:37:00.095519Z",
+  "description": "本谱面是二创观赏谱（但是理论可打），已经经过原谱师同意\n更新：\n更改了一下谱面高潮部分的键位\n添加了一下配置，还加了特♂效（低端机型可能会卡）还改了定数从原来的16.1>16.7，显示等级改成4♂K",
+  "difficulty": 16.700003,
+  "id": 5308,
+  "illustrator": "UK",
+  "level": "AT Lv.4♂K",
+  "name": "Beyond The Timeline AT of 4K",
+  "tags": [
+    "二创",
+    "理论可打",
+    "visual"
+  ],
+  "updated": "2023-07-20T12:06:51.904379Z",
+  "uploader": 22003
+}

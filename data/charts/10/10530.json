@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:53Z",
+    "lastChanged": "2026-09-22T01:09:53Z",
+    "localBackup": {
+      "asset": "10530.zip",
+      "files": [
+        {
+          "path": "70871147.json",
+          "sha256": "d07aa3a010c897bf4f9078471ebb309a5ff2022077cc89efab3db48df44a31e5",
+          "size": 2137748
+        },
+        {
+          "path": "70871147.ogg",
+          "sha256": "313b656c392e886110b7e9f35fc7d3c4ac827116526a9c13ede1ea6de807b3e3",
+          "size": 3238888
+        },
+        {
+          "path": "70871147.png",
+          "sha256": "9f3baa61f418c230d018bb58fe1c10489b7feee44f587c6aa3a5b4a371c982d2",
+          "size": 6665710
+        },
+        {
+          "path": "info.txt",
+          "sha256": "56174f3bfa9c8266ccb690a7e454144ff7291c7fde3a5a2622c2b2b99fe32155",
+          "size": 150
+        },
+        {
+          "path": "info.yml",
+          "sha256": "31d10b8847f25ef751e51734f8e6819e8827bbdb628e3a649e4bb93ef9215221",
+          "size": 622
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "70871147.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "70871147.png",
+        "lineLength": 6.0,
+        "music": "70871147.ogg",
+        "offset": 0.0,
+        "previewEnd": 120.0,
+        "previewStart": 105.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-10000-10999",
+      "sha256": "600fe7b16d850caf921f41fdae4be5d7caa2fc32751a7a909c20a2258bd092a5",
+      "size": 12043626,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-10000-10999/10530.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-01T08:33:35.643389Z",
+  "charter": "NotTure1",
+  "composer": "kanoryo",
+  "created": "2023-10-15T12:43:35.484041Z",
+  "description": "譜師本人上傳 新人譜師的第四張譜面， 內涵勁爆四合院！ 2024/06/01：微調配置&部分特效",
+  "difficulty": 15.800003,
+  "id": 10530,
+  "illustrator": "NOAHNAME",
+  "level": "AT Lv.15",
+  "name": "Ark",
+  "tags": [],
+  "updated": "2024-06-01T08:33:35.643389Z",
+  "uploader": 12901
+}

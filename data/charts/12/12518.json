@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:13:04Z",
+    "lastChanged": "2026-09-22T01:13:04Z",
+    "localBackup": {
+      "asset": "12518.zip",
+      "files": [
+        {
+          "path": "43279863.jpg",
+          "sha256": "7efe490faf6a21f02a9877bd1a6678e2d9f39c912aa3b847f0bf8669de264b09",
+          "size": 300481
+        },
+        {
+          "path": "43279863.json",
+          "sha256": "aba893eee8e66cd321580ac21b4f439c565b8fa152e486ec13120901fe2a0867",
+          "size": 103356
+        },
+        {
+          "path": "43279863.mp3",
+          "sha256": "d8a47ffb29de98d05c933f2a06578fb68f8386a46e0d1aa8dd1aedc264265f66",
+          "size": 2639695
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d4c9901652991b3acf23d5e4a744d333f8ea1cc43edbd628cd785953b3d93b66",
+          "size": 166
+        },
+        {
+          "path": "info.yml",
+          "sha256": "6d0e72ad6c5fc9839c082e3192b802b91e7be9f3bb7ef42513703f05ae4a24a3",
+          "size": 510
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "43279863.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "43279863.jpg",
+        "lineLength": 6.0,
+        "music": "43279863.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Enjoy！"
+      },
+      "release": "backup-12000-12999",
+      "sha256": "2535bb7cb3f02c722da5589ba681c0ebc8c521fb011c0f1ba40709ae588bd608",
+      "size": 3044716,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12518.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-16T07:47:58.531633Z",
+  "charter": "zmh",
+  "composer": "ShinkoNet",
+  "created": "2023-12-16T07:47:58.531633Z",
+  "description": "不是粪谱了",
+  "difficulty": 19.2,
+  "id": 12518,
+  "illustrator": "UK",
+  "level": "IN Lv.15",
+  "name": "Hypixel Dungeon Drama!",
+  "tags": [],
+  "updated": "2023-12-16T07:47:58.531633Z",
+  "uploader": 583621
+}

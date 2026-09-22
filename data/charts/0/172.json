@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:01:53Z",
+    "lastChanged": "2026-09-22T01:01:53Z",
+    "localBackup": {
+      "asset": "172.zip",
+      "files": [
+        {
+          "path": "44706783.json",
+          "sha256": "d2bd81fc540f1e676d9400972d2f97f57e36d3a04a1a26430465905073e42fbb",
+          "size": 1947128
+        },
+        {
+          "path": "44706783.mp3",
+          "sha256": "ada27d3f4698137fec8e3603897f64f913fdc3f307e5b1655e7e984518b1d976",
+          "size": 2163077
+        },
+        {
+          "path": "44706783.png",
+          "sha256": "8af127ffb285f774a0d00c77099d131187cdd812366795772ed18c2115b9e632",
+          "size": 1715279
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ebb1d42b08fa57854d293b2d6c2d91dc467ab55c1aec65a1ef41c6a431c3ff06",
+          "size": 159
+        },
+        {
+          "path": "info.yml",
+          "sha256": "03da75590dc009d99d41a7a5e6cafdefe9d349d9d7a488a10766f95350254f4f",
+          "size": 480
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "44706783.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "44706783.png",
+        "lineLength": 6.0,
+        "music": "44706783.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-0-999",
+      "sha256": "3b5da42a1af0ad61f7f2cf71f6649c647efc617cbbf9d66fbed5e29c42b090c6",
+      "size": 5826631,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-0-999/172.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-04-02T08:24:52.826382Z",
+  "charter": "UNKNOWN239",
+  "composer": "EBIMAYO",
+  "created": "2023-04-02T08:24:52.826382Z",
+  "description": "",
+  "difficulty": 14.0,
+  "id": 172,
+  "illustrator": "UK",
+  "level": "IN  LV.14",
+  "name": "GOODWORLD",
+  "tags": [],
+  "updated": "2023-04-02T08:24:52.826382Z",
+  "uploader": 43
+}

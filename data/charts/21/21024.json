@@ -1,0 +1,81 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:27:57Z",
+    "lastChanged": "2026-09-22T01:27:57Z",
+    "localBackup": {
+      "asset": "21024.zip",
+      "files": [
+        {
+          "path": "69282323.json",
+          "sha256": "46d442a8f76d78b4f817d71a2bd839aad990962839368a3731225d26c5e0ffac",
+          "size": 993723
+        },
+        {
+          "path": "69282323.mp3",
+          "sha256": "95e99163a5d4bf02b75149fd4d5a80d981f9aed0b8bbd099fea23e72dbd97f03",
+          "size": 4113345
+        },
+        {
+          "path": "69282323.png",
+          "sha256": "336a73bfe784acb3b4acf768170704e7132568203bd4bfc4378466e1a09b5548",
+          "size": 1123865
+        },
+        {
+          "path": "FX_Black.png",
+          "sha256": "64e236fa5485d3a2049c09a1fb217f63e00ea362124a83457fb59e5b641dfab5",
+          "size": 300053
+        },
+        {
+          "path": "FX_Cover.png",
+          "sha256": "5178c118f8625812db3160c16b6f1e3dd2cc2181d634650de8f85dabde2bb4bd",
+          "size": 11302
+        },
+        {
+          "path": "info.txt",
+          "sha256": "f56043c99bba4df0652ab646e9e0da0e43a36b30c2be49ea781b7fe95ec3b358",
+          "size": 198
+        },
+        {
+          "path": "info.yml",
+          "sha256": "6f5252a87a2fa3d814b0bbdbeb33d4effbe6f9e4f0901578833b5f2f7855f3a6",
+          "size": 570
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "69282323.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "69282323.png",
+        "lineLength": 6.0,
+        "music": "69282323.mp3",
+        "offset": 0.02799999,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-21000-21999",
+      "sha256": "308f9a405c73076b5628362fbedc2252e28c7c7c6f71c2ba3b858cd85b541a05",
+      "size": 6543764,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-21000-21999/21024.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-09T06:57:16.717425Z",
+  "charter": "Lingyu_233",
+  "composer": "rintaro soma",
+  "created": "2024-06-09T06:57:16.717425Z",
+  "description": "谱面演示：https://b23.tv/qrgGIvc",
+  "difficulty": 13.200001,
+  "id": 21024,
+  "illustrator": "Shinichiro Miyazaki",
+  "level": "HD Lv.13",
+  "name": "系ぎて",
+  "tags": [],
+  "updated": "2024-06-09T06:57:16.717425Z",
+  "uploader": 6487
+}

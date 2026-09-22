@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:27:51Z",
+    "lastChanged": "2026-09-22T01:27:51Z",
+    "localBackup": {
+      "asset": "20940.zip",
+      "files": [
+        {
+          "path": "86784899.jpg",
+          "sha256": "f63a54e9fa5d5079223a88c6afff8476c0267414bcbd62fedc0b8a3a67d8bedb",
+          "size": 164303
+        },
+        {
+          "path": "86784899.json",
+          "sha256": "7ce714d2507ee21188cb53d3dd54e9d41d91ee5cd913690278184af636f6680d",
+          "size": 3783140
+        },
+        {
+          "path": "86784899.mp3",
+          "sha256": "46fa5a7d4abd736f8093c3a9dd9efc4d57b641087c13b10cf68099e88be44eec",
+          "size": 5819881
+        },
+        {
+          "path": "info.txt",
+          "sha256": "9b05e359739dc0c5538bc30825923132b0e078fd26ed1061db6a68a58559cfff",
+          "size": 206
+        },
+        {
+          "path": "info.yml",
+          "sha256": "e4926e24ae4d9c5219e828699be0410f0efdc3b72dd69abf06eeafd8a38fbcc7",
+          "size": 551
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "86784899.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "86784899.jpg",
+        "lineLength": 6.0,
+        "music": "86784899.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "be95919ef2082dd64926dea6aeb1e15525dbe021df643605467d0c1f4c7e23f0",
+      "size": 9768589,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20940.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-08T11:51:12.837849Z",
+  "charter": "不是小烦のxf",
+  "composer": "t＋pazolite",
+  "created": "2024-06-08T11:51:12.837849Z",
+  "description": "",
+  "difficulty": 15.0,
+  "id": 20940,
+  "illustrator": "UK",
+  "level": "SP Lv.15",
+  "name": "†††カオスタイム the DARK†††",
+  "tags": [],
+  "updated": "2024-06-08T11:51:12.837849Z",
+  "uploader": 536393
+}

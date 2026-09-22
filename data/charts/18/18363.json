@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:29Z",
+    "lastChanged": "2026-09-22T01:21:29Z",
+    "localBackup": {
+      "asset": "18363.zip",
+      "files": [
+        {
+          "path": "-20076622721288df.jpg",
+          "sha256": "b8c79dd2699f072c9e50327df605e3addc5f1a1ec64e885fc23fbd310c23b099",
+          "size": 119355
+        },
+        {
+          "path": "1692873406.ogg",
+          "sha256": "4b3c5fb0fdca0d86ecd4bc46da7b0c558830677d68a2309a329e5351838f2546",
+          "size": 2120121
+        },
+        {
+          "path": "fall damage (From Malody).json",
+          "sha256": "2526358afa297ced6ef000c54f37680548158daee119b37dfb98e0719a239217",
+          "size": 445609
+        },
+        {
+          "path": "info.csv",
+          "sha256": "ed02a626ff30414b4d9fc38d9d5f33231bced221fe1c760b652f88f3e2122fa2",
+          "size": 183
+        },
+        {
+          "path": "info.yml",
+          "sha256": "23c9b2fdc5608b178e2b0a39f2b8b85ea06a6a0c1a4f32f6981c298640ab1765",
+          "size": 533
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "fall damage (From Malody).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "-20076622721288df.jpg",
+        "lineLength": 6.0,
+        "music": "1692873406.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "小心摔落伤害",
+        "unlockVideo": null
+      },
+      "release": "backup-18000-18999",
+      "sha256": "659d5bf04415cdd9b4b89c7902b2b3896a2c7c1bc88950fcc91595a257b4fb48",
+      "size": 2686365,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-18000-18999/18363.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "wkfi",
+  "composer": "crafter2011",
+  "created": null,
+  "description": "简单4k，有基础的随便秒，b站wkfi3fe2560",
+  "difficulty": 19.0,
+  "id": 18363,
+  "illustrator": "UK",
+  "level": "4K damage Lv.19",
+  "name": "fall damage",
+  "tags": [
+    "plain"
+  ],
+  "updated": null,
+  "uploader": null
+}

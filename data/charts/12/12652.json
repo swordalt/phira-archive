@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:13:22Z",
+    "lastChanged": "2026-09-22T01:13:22Z",
+    "localBackup": {
+      "asset": "12652.zip",
+      "files": [
+        {
+          "path": "29332668.jpg",
+          "sha256": "6ee1310ac19a67ed57e7863a25ffa3b6abc6b684d88bb935b60e14c7bce2d75a",
+          "size": 55530
+        },
+        {
+          "path": "29332668.json",
+          "sha256": "249c8244497d84f463875955d55e2a5b36a8c733fc8735ca9f5984826dfdeddb",
+          "size": 3801294
+        },
+        {
+          "path": "29332668.mp3",
+          "sha256": "ea8ef78c69580ef6966059734143b27d2cd34f9f61ee6d47b27523149d436242",
+          "size": 9521026
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d3b8c915f25a131580ba9c7a3d1b0abc72b7adc760e73e5b7885670262228244",
+          "size": 174
+        },
+        {
+          "path": "info.yml",
+          "sha256": "01390827915af21fef9427e478cbe7e8c71a1ddfb6e50792beed5b4386ab4d29",
+          "size": 871
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6000001,
+        "chart": "29332668.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "29332668.jpg",
+        "lineLength": 6.0,
+        "music": "29332668.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "啧，不是bpm666哦～"
+      },
+      "release": "backup-12000-12999",
+      "sha256": "90f27e00e456ab6e5ca9fa5c98aa434038b1d4d8e0ef9f1fe9056e301a7c42e0",
+      "size": 13379403,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12652.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-20T13:30:33.250632Z",
+  "charter": "sundayrain",
+  "composer": "森羅万象",
+  "created": "2023-12-20T13:30:33.250632Z",
+  "description": "b站：期天雨，新人谱师第三作，详情见b站视频简介，我总结一下就是，可能会有一些初见杀～，有些地方配置可能有点卡手，我也不太会写配置，会继续学习的😭还有森罗万象永远滴神，有什么建议还请提出，首杀是我的啦，哈哈哈哈哈哈哈！",
+  "difficulty": 14.900008,
+  "id": 12652,
+  "illustrator": "森羅万象",
+  "level": "AT Lv.15",
+  "name": "無間嫉妬劇場『666』",
+  "tags": [],
+  "updated": "2023-12-22T12:11:28.774549Z",
+  "uploader": 112146
+}

@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:24:01Z",
+    "lastChanged": "2026-09-22T01:24:01Z",
+    "localBackup": {
+      "asset": "20100.zip",
+      "files": [
+        {
+          "path": "48889312.jpeg",
+          "sha256": "525e601c539afc5710439f6ea75819232b47c8152c283d9fe07836406390774a",
+          "size": 15635
+        },
+        {
+          "path": "48889312.json",
+          "sha256": "20ad1e1eb284bb590d9dcf5817381532352ccbbc022a74883deb6c2b72b8c808",
+          "size": 10902208
+        },
+        {
+          "path": "48889312.mp3",
+          "sha256": "c9f329ddb78d92f3c0b5e762ad8e7c4558852d08d8c4c69441005a162145d41f",
+          "size": 2553041
+        },
+        {
+          "path": "info.txt",
+          "sha256": "8f2e499f9c5e24a4f4cc394591a47242dee222339507eb989a2817bf8524fcb5",
+          "size": 162
+        },
+        {
+          "path": "info.yml",
+          "sha256": "c7bc0b3ba46aa125ce511268ff8b070246a9accaa0e61f9cfaa9633ca9a04f05",
+          "size": 480
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "48889312.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "48889312.jpeg",
+        "lineLength": 6.0,
+        "music": "48889312.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "89ef4e49b80f559a4adc1f5b3599d7849e5024a369bc27fc3be6652a73a3ca93",
+      "size": 13472036,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20100.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "黑_胶_",
+  "composer": "sheet music boss",
+  "created": null,
+  "description": "部分音符位置還原鋼琴的 音符 位置",
+  "difficulty": 10.0,
+  "id": 20100,
+  "illustrator": "UK",
+  "level": "SP Lv.?",
+  "name": "Rush e",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

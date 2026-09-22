@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:09Z",
+    "lastChanged": "2026-09-22T01:09:09Z",
+    "localBackup": {
+      "asset": "9291.zip",
+      "files": [
+        {
+          "path": "86422935.jpg",
+          "sha256": "cd2ab6bb68910f163228b71544ffb81dc333807b88dc21ef4c36466ea7d78f47",
+          "size": 339919
+        },
+        {
+          "path": "86422935.json",
+          "sha256": "0f6b43a50f629b1d98b184c0f42d788af6ffa69f52e3d498cad666a4231d2fe3",
+          "size": 292106
+        },
+        {
+          "path": "86422935.mp3",
+          "sha256": "5a7471e19bea306e2a742ccfe8d8bf2882b8eb62eddeebb06db6f25834656905",
+          "size": 8535746
+        },
+        {
+          "path": "info.txt",
+          "sha256": "96985b5c109f90dcf9db5fcf275db12dfd23cb9a0a406bb0fb9def73a61da970",
+          "size": 152
+        },
+        {
+          "path": "info.yml",
+          "sha256": "b750d6c95555c7d79bc7bd04e860a657986f93458008aef5490f2b1203b808f8",
+          "size": 509
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "86422935.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "86422935.jpg",
+        "lineLength": 6.0,
+        "music": "86422935.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "没有手感"
+      },
+      "release": "backup-9000-9999",
+      "sha256": "42d84c2d667054a9c623fd35b1a7bf5414ee77320af874581e4b9d26d81cd761",
+      "size": 9168940,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-9000-9999/9291.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-09-15T13:27:27.338678Z",
+  "charter": "Q",
+  "composer": "YOASOBI",
+  "created": "2023-09-11T12:22:55.370549Z",
+  "description": "手感一般般吧，",
+  "difficulty": 15.0,
+  "id": 9291,
+  "illustrator": "UK",
+  "level": "IN Lv.15",
+  "name": "アイドル",
+  "tags": [
+    "plain"
+  ],
+  "updated": "2023-09-15T13:27:27.338678Z",
+  "uploader": 33467
+}

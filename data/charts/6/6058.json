@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:10Z",
+    "lastChanged": "2026-09-22T01:06:10Z",
+    "localBackup": {
+      "asset": "6058.zip",
+      "files": [
+        {
+          "path": "40294404.jpg",
+          "sha256": "8abe378a24d75ef9e1c8b054e859d9dbe6a8e0a0c9ee7bbfad62296ed46bf61e",
+          "size": 119581
+        },
+        {
+          "path": "40294404.json",
+          "sha256": "304d4995743f19e271ec315d17be3b47c8231a74195ced563c4684a9951d11a6",
+          "size": 1504649
+        },
+        {
+          "path": "40294404.mp3",
+          "sha256": "0f6f7cbbb8033f4f5a6701e1237dcdcbc7eb9d01ea5e4bab942e2fb58648b21b",
+          "size": 5907034
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ed18a27c0b8e3063f7e312b333f96d8315781216348bb7a3cbaa2ddc156c1aaa",
+          "size": 149
+        },
+        {
+          "path": "info.yml",
+          "sha256": "b8b6c4009b3154dd9a7e8beaa4f7c66212003c67c77226a0286fbec6d80dd03f",
+          "size": 581
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "40294404.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "40294404.jpg",
+        "lineLength": 6.0,
+        "music": "40294404.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip:(￣へ￣)"
+      },
+      "release": "backup-6000-6999",
+      "sha256": "3e47e018407a271f7dcdd59387fee1b7b42a56abba186745634a701dff1708e2",
+      "size": 7532502,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6058.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "Heulis",
+  "composer": "Blacklolita",
+  "created": null,
+  "description": "本人上传，发布相关作品请@B站本人（B站:鞦蠊）有什么建议也欢迎提出哟 (*^▽^*) [感谢@暮阳残月cy的友情指导和赞助]",
+  "difficulty": 15.899998,
+  "id": 6058,
+  "illustrator": "UK",
+  "level": "IN",
+  "name": "【X】",
+  "tags": [
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:04:18Z",
+    "lastChanged": "2026-09-22T01:04:18Z",
+    "localBackup": {
+      "asset": "4813.zip",
+      "files": [
+        {
+          "path": "65597914.pec",
+          "sha256": "b3559480d374c234bd0db4b6fc88b6272408ee7bdd19d922eb3b0e44869c4811",
+          "size": 72061
+        },
+        {
+          "path": "65597914.png.jpg",
+          "sha256": "32071a12369e7341cefecb3a2b21edb14d288d41da25ae51ea0e30286ee5ebaa",
+          "size": 492437
+        },
+        {
+          "path": "65597914.wav.mp3",
+          "sha256": "a235bb0af35483781e4aaae747ffd64c17625db0befd9056801989c45a375aba",
+          "size": 357826
+        },
+        {
+          "path": "info.txt.txt",
+          "sha256": "2aceff5877088de9bb72cf2d42cc0acc34da0f9fd85cc5362672824aa785ac0e",
+          "size": 163
+        },
+        {
+          "path": "info.yml",
+          "sha256": "9125c94a2b2a4c10174a19395b9afa5d4936cf4ab8b05691c387b166bacaaff9",
+          "size": 456
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "65597914.pec",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "65597914.png.jpg",
+        "lineLength": 6.0,
+        "music": "65597914.wav.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "楼上的下来搞核酸！"
+      },
+      "release": "backup-4000-4999",
+      "sha256": "a35b391ecaf27812220dc0d1ecff7c1d1315c42c7d030ab785b67588242ec24e",
+      "size": 923473,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-4000-4999/4813.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "koitato",
+  "composer": "大白小天使",
+  "created": null,
+  "description": "",
+  "difficulty": 12.8,
+  "id": 4813,
+  "illustrator": "大白小大便",
+  "level": "PCR",
+  "name": "叮咚鸡",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

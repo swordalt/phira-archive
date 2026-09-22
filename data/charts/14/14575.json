@@ -1,0 +1,77 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:46Z",
+    "lastChanged": "2026-09-22T01:16:46Z",
+    "localBackup": {
+      "asset": "14575.zip",
+      "files": [
+        {
+          "path": "81274174.jpg",
+          "sha256": "882083e9844e91e01590d880e2e3f3259cfe61fed168d979426362aa86bd1df5",
+          "size": 303046
+        },
+        {
+          "path": "81274174.json",
+          "sha256": "fa9d8baa290fa2500a5b7535d5e42f5423d456c8343f2bae8e4c5ecc5cd484b2",
+          "size": 1790146
+        },
+        {
+          "path": "81274174.mp3",
+          "sha256": "5fc351a37a7f5ab9d4555ae04993c8f9c099cc15c28dbafdbb21c3489e3bbc9d",
+          "size": 2296760
+        },
+        {
+          "path": "info.txt",
+          "sha256": "cab2ee50661813c4ae2ae8a1de238ea54442a95bcba064532411f1c76372a82b",
+          "size": 194
+        },
+        {
+          "path": "info.yml",
+          "sha256": "ad576106184db0e472f2043f237e71fa23b37ae88a113428ecc9fec97569c415",
+          "size": 1108
+        },
+        {
+          "path": "love.png",
+          "sha256": "90cd8201c1e3f666d3b371be8d942a1d2627765d32f3e41c4878529637f23249",
+          "size": 1470
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "81274174.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "81274174.jpg",
+        "lineLength": 6.0,
+        "music": "81274174.mp3",
+        "offset": 0.0,
+        "previewEnd": 86.0,
+        "previewStart": 71.9,
+        "tip": "Tips:鸠，学名鸽子，俗称phigros"
+      },
+      "release": "backup-14000-14999",
+      "sha256": "2bb5a5cd067c0ea256ecbac8f366ab4bf915f2ffe71e7e8496f9d28019a66eb3",
+      "size": 4393324,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14575.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-31T18:35:20.226726Z",
+  "charter": "与魅魔谱师的甜蜜爱情♡~",
+  "composer": "Gz music",
+  "created": "2024-01-31T18:35:20.226726Z",
+  "description": "新人第13张谱子\n回归经典，使用了较早期的写谱风格，简化了一些特效，打起来更舒服\n歌词将在UI底部充当字幕，也有还原播放器的歌词显示布局，歌词翻译参考了网易云音乐和B站原视频\n在某个meme里刷到的这首，虽然我还不懂格温是什么游戏里的哪个角色，但是这首歌真的好好听，超级甜，所以写了这张谱子，也算是练习基本功吧\n祝大家玩的开心OwO，轻点评分！\n记得来B站关注@梦幻不限量",
+  "difficulty": 13.800003,
+  "id": 14575,
+  "illustrator": "Gz music",
+  "level": "IN Lv.13",
+  "name": "Cupid(sped up remix)",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-01-31T18:35:20.226726Z",
+  "uploader": 565793
+}

@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:20:37Z",
+    "lastChanged": "2026-09-22T01:20:37Z",
+    "localBackup": {
+      "asset": "17660.zip",
+      "files": [
+        {
+          "path": "54305016.jpg",
+          "sha256": "7123f1bed1ac62820c361b945f6428ccfd14d02fd5aca84708cc625e7a3864c4",
+          "size": 38307
+        },
+        {
+          "path": "54305016.json",
+          "sha256": "425f739efa1fa2eac2fe2bd0b19622c3189a8351d65d22a3fb0a6b68cc85f9cc",
+          "size": 687139
+        },
+        {
+          "path": "54305016.mp3",
+          "sha256": "3878115c9ae315fe244a2fb1c767f48eeb437469022e533c810296364a04053f",
+          "size": 2190591
+        },
+        {
+          "path": "info.txt",
+          "sha256": "8104e6ed6e59415e879f359d5be8427ed763f5027f9041a144a7749c26cc0369",
+          "size": 150
+        },
+        {
+          "path": "info.yml",
+          "sha256": "3a555d66a0761e17c19f3ba1d94793588a80585ff56e24ca4912b63933ca1478",
+          "size": 534
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.5999999,
+        "chart": "54305016.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "54305016.jpg",
+        "lineLength": 6.0,
+        "music": "54305016.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-17000-17999",
+      "sha256": "481a80330a5c655c7567ea00a4243972c1cdf6b65123bbaeaf29c17d0e4c86af",
+      "size": 2917229,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-17000-17999/17660.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "ns123",
+  "composer": "Leaf",
+  "created": null,
+  "description": "本人制作，终于改完了\nB站：MilkyWay_th\n改了一下结尾黄键的采音",
+  "difficulty": 14.800006,
+  "id": 17660,
+  "illustrator": "Optie",
+  "level": "IN Lv.14",
+  "name": "Calamity Fortune",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

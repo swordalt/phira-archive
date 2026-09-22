@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:15:24Z",
+    "lastChanged": "2026-09-22T01:15:24Z",
+    "localBackup": {
+      "asset": "13618.zip",
+      "files": [
+        {
+          "path": "33152409.json",
+          "sha256": "1b29e63328a7ed12777d7de5089901d0715139bc30d8846e18af77f1e766626a",
+          "size": 2983310
+        },
+        {
+          "path": "33152409.ogg",
+          "sha256": "6a45c041bf75672c4bf919c9f736c48bedf8677a75397c1bc9c5cdfe2a596177",
+          "size": 10685128
+        },
+        {
+          "path": "33152409.png",
+          "sha256": "b73b6c605f51799367e7965ddb0ed7fe70577b272cd0049a84dd5623e4983a4d",
+          "size": 514900
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b28e54838c0e39e13a09360e9c953c86fd599931dddfbdaa77695fa2ee22d960",
+          "size": 165
+        },
+        {
+          "path": "info.yml",
+          "sha256": "ca6ec887b11aaf4274d9afc939f117d849d4c2cd312bfc6971a56da5c55b2b80",
+          "size": 676
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "33152409.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "33152409.png",
+        "lineLength": 6.0,
+        "music": "33152409.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "难度16.9，物量4444～",
+        "unlockVideo": null
+      },
+      "release": "backup-13000-13999",
+      "sha256": "fe3b1c2c802f2cb1e89477c483a031379feb967d158b36accd6709325ff3fc0e",
+      "size": 14184687,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13618.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-14T08:50:30.279275Z",
+  "charter": "YasoteMay",
+  "composer": "e_ku",
+  "created": "2024-01-14T08:50:30.279275Z",
+  "description": "这张谱总算是可以打了，虽然物量较高，但难度确实不超过16，还是可以打的。总之新人，做的不好请见谅",
+  "difficulty": 16.900003,
+  "id": 13618,
+  "illustrator": "-",
+  "level": "AT Lv.16",
+  "name": "witch of the hollows",
+  "tags": [],
+  "updated": "2024-01-14T08:50:30.279275Z",
+  "uploader": 517569
+}

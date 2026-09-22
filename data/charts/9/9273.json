@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:00Z",
+    "lastChanged": "2026-09-22T01:09:00Z",
+    "localBackup": {
+      "asset": "9273.zip",
+      "files": [
+        {
+          "path": "86878625.jpg",
+          "sha256": "9f6e028bf39d8c9b2c8a3763e9641d5be5fabb9d839a3c8f7ce5e20f1197949e",
+          "size": 740510
+        },
+        {
+          "path": "86878625.json",
+          "sha256": "8a1c7211c0ed653b4aae843edb7750bd00c158dfc03336c6db9f7b184441d7fa",
+          "size": 2043611
+        },
+        {
+          "path": "86878625.ogg",
+          "sha256": "92a51987b9993c0246ba8a846508f9e42c598c36ec5af0ef2b5da7f41ea8d847",
+          "size": 2950859
+        },
+        {
+          "path": "info.txt",
+          "sha256": "e7d191d11cdbc48f39063703891d4eb2e9c36a66532f73dcdcc9d48a58048dd0",
+          "size": 153
+        },
+        {
+          "path": "info.yml",
+          "sha256": "a9e35ea8057849377069577ce4e7708f929ca6a04ce07b8d99377180a24c8424",
+          "size": 604
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "86878625.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "86878625.jpg",
+        "lineLength": 6.0,
+        "music": "86878625.ogg",
+        "offset": 0.0,
+        "previewEnd": 116.0,
+        "previewStart": 101.0,
+        "tip": "Tip:BPM20000"
+      },
+      "release": "backup-9000-9999",
+      "sha256": "a2cb93c2b4f4ce62094c81cbce662a85d4ec246c241a905368abdea2f06d3ec5",
+      "size": 5736245,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-9000-9999/9273.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-09-10T13:23:02.052152Z",
+  "charter": "Lemon(NotTure1)",
+  "composer": "Kobaryo",
+  "created": "2023-09-10T13:23:02.052152Z",
+  "description": "本人上傳。\n一半是Drag。\n三分之一Flick。\n剩下不算太難。",
+  "difficulty": 15.900003,
+  "id": 9273,
+  "illustrator": "窓壁九真好キ",
+  "level": "IN Lv.15",
+  "name": "RTX 20000",
+  "tags": [],
+  "updated": "2023-09-10T13:23:02.052152Z",
+  "uploader": 12901
+}

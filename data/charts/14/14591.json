@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:50Z",
+    "lastChanged": "2026-09-22T01:16:50Z",
+    "localBackup": {
+      "asset": "14591.zip",
+      "files": [
+        {
+          "path": "77235693.jpg",
+          "sha256": "c97ebd881c25db49d565238a9aa5610f796fcce82c08ae5b5436f5930598e899",
+          "size": 1461154
+        },
+        {
+          "path": "77235693.json",
+          "sha256": "d234bf1c73abb958669bdc6374a0a3b221041aa014c863f1e073f27be764bb6c",
+          "size": 23098048
+        },
+        {
+          "path": "77235693.mp3",
+          "sha256": "fa3174eae9fd33887bdd362d2bf232f887f624572c10be3e2a6a0f8d0203eace",
+          "size": 2631713
+        },
+        {
+          "path": "info.txt",
+          "sha256": "c817b9c73e7a706bc3730cbbd2d6c1c462013205028c5eb73b5bc7938cfa03a5",
+          "size": 188
+        },
+        {
+          "path": "info.yml",
+          "sha256": "10fbdcccdabdfb976110b5c0902d9b76b1f56c6ba30aab8f527cc476ebadc6b1",
+          "size": 557
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "77235693.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "77235693.jpg",
+        "lineLength": 6.0,
+        "music": "77235693.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "高难博物馆",
+        "unlockVideo": null
+      },
+      "release": "backup-14000-14999",
+      "sha256": "c0a0c61afe6bc345660b6b7de7ef448e82b19a0fe7481e22a36af6e96a61494e",
+      "size": 27192168,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14591.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-01T04:34:42.403502Z",
+  "charter": "Yurisky_ vs. Purplstar",
+  "composer": "5KiLOBYTE vs Raphiiel",
+  "created": "2024-02-01T04:34:42.403502Z",
+  "description": "本人上传",
+  "difficulty": 16.9,
+  "id": 14591,
+  "illustrator": "TARO_head",
+  "level": "AT Lv.16+",
+  "name": "十拳剣",
+  "tags": [],
+  "updated": "2024-03-17T00:57:13.075120Z",
+  "uploader": 89136
+}

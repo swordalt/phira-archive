@@ -1,0 +1,85 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:24:36Z",
+    "lastChanged": "2026-09-22T01:24:36Z",
+    "localBackup": {
+      "asset": "20200.zip",
+      "files": [
+        {
+          "path": "74270717.jpg",
+          "sha256": "d98540a71e8bb9195d2df0becba3756d6266a614a9d3c762ca2db3cafffb4913",
+          "size": 97781
+        },
+        {
+          "path": "74270717.json",
+          "sha256": "285520522d3eed0c59921d76f18ebd23fe58a2d82402db4fbf9912aec88bd127",
+          "size": 1038327
+        },
+        {
+          "path": "74270717.mp3",
+          "sha256": "5f838822d0756b3f5f1bf93e7136512d577bce7585f1e8a0178ae2906c0d0604",
+          "size": 10523603
+        },
+        {
+          "path": "extra.json",
+          "sha256": "b1bfa086363b5e93da9bfc4cef32707f391ec1719121726781d7c4b83c0a85f8",
+          "size": 4653
+        },
+        {
+          "path": "info.txt",
+          "sha256": "48262729fb5beb89510e832c9212f9cb2bf23582fd665fda867e1943aaaba11a",
+          "size": 181
+        },
+        {
+          "path": "info.yml",
+          "sha256": "d051b5b612654a6d40e7dd7e0db4aa1a6f185291a1c7c01b1a5c09d4698ad25e",
+          "size": 656
+        },
+        {
+          "path": "unlock.mp4",
+          "sha256": "409ee2d6148af0553cb721e19019c7cc4f460b5f02977b4775cb27d0402bffd9",
+          "size": 17324172
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "74270717.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "74270717.jpg",
+        "lineLength": 6.0,
+        "music": "74270717.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "十年之约，希望再次与你同行",
+        "unlockVideo": "unlock.mp4"
+      },
+      "release": "backup-20000-20999",
+      "sha256": "2e7959fbd75f82613e290a8db5ea67a139091795cb8cd7451c3d724d09672773",
+      "size": 28990073,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20200.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-21T11:44:29.702995Z",
+  "charter": "御空_yk",
+  "composer": "熊出没BoonieBears",
+  "created": "2024-05-21T11:44:29.702995Z",
+  "description": "十年之约，希望再次与你同行",
+  "difficulty": 12.3,
+  "id": 20200,
+  "illustrator": "熊出没BoonieBears",
+  "level": "Year Lv.10",
+  "name": "★再次与你同行",
+  "tags": [
+    "十年之约",
+    "shader",
+    "regular"
+  ],
+  "updated": "2024-05-21T11:44:29.702995Z",
+  "uploader": 393436
+}

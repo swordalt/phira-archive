@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:12Z",
+    "lastChanged": "2026-09-22T01:06:12Z",
+    "localBackup": {
+      "asset": "6064.zip",
+      "files": [
+        {
+          "path": "94169124.jpg",
+          "sha256": "f21b1149a21d4235cec7fc4649c711c49ad58b96fd5f936c2291c71017d14971",
+          "size": 160839
+        },
+        {
+          "path": "94169124.json",
+          "sha256": "c1d41b790b4dd67c6949ed4813320a92651eb4b7cb4a3266385ebf519035ac3c",
+          "size": 333816
+        },
+        {
+          "path": "94169124.mp3",
+          "sha256": "a77c2cec369f3a0c90d08ceea25e7f2e6297847833033349d9d46297cd7008c8",
+          "size": 4818690
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ce320d6d03d2967d27c95233c5ff157decdc9529044176d853e6c23905ed360f",
+          "size": 178
+        },
+        {
+          "path": "info.yml",
+          "sha256": "1a50d032484b9203ec0253fcfd71b36a9d5f5b6532867a6b3f3aee7db923f49e",
+          "size": 520
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "94169124.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "94169124.jpg",
+        "lineLength": 6.0,
+        "music": "94169124.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-6000-6999",
+      "sha256": "3c20ea1b08685c43dd0f001869d68e1bd8807b2b76ddea7e90f0ffa3fcbcd800",
+      "size": 5314551,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6064.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-25T13:04:36.866561Z",
+  "charter": "SSuent",
+  "composer": "xi vs. モリモリあつし",
+  "created": "2023-07-25T13:04:36.866561Z",
+  "description": "",
+  "difficulty": 17.0,
+  "id": 6064,
+  "illustrator": "UK",
+  "level": "AT Lv.17",
+  "name": "SuddeИDeath",
+  "tags": [],
+  "updated": "2023-07-25T13:04:36.866561Z",
+  "uploader": 1279
+}

@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:25:36Z",
+    "lastChanged": "2026-09-22T01:25:36Z",
+    "localBackup": {
+      "asset": "20732.zip",
+      "files": [
+        {
+          "path": "50588681.json",
+          "sha256": "ae681de55744980f11e39d45ffcdcc22b4e04f8969b5f8acda2fa16f7f9af463",
+          "size": 5282510
+        },
+        {
+          "path": "50588681.mp3",
+          "sha256": "bd522417d816e5e5f2f034b8c42139babb4a664e58d2a88fc306ba00c91ffc96",
+          "size": 5312892
+        },
+        {
+          "path": "50588681.png",
+          "sha256": "6ac6679fab656011e83f4c04c293ae53e8f3a560c86adcb175ca5d3aea84a339",
+          "size": 1116991
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b1be43a9b4c73a845b7cdcb8faaeb2a8a7f4ba017768127f7e7c4ea419218cc6",
+          "size": 161
+        },
+        {
+          "path": "info.yml",
+          "sha256": "6dd899095ecf66d40cb9760e3dc708092c1597508aa92cd2142993a8374f4e15",
+          "size": 673
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "50588681.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "50588681.png",
+        "lineLength": 6.0,
+        "music": "50588681.mp3",
+        "offset": 0.002,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "关注B站@天崽awa & @不爱说话的紫叶 咕~",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "7680a82115badfc1c68cddae39a4779b3f67ea0a3d798bbe8871441aee48a9d1",
+      "size": 11713735,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20732.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-02T14:34:59.557119Z",
+  "charter": "紫叶 feat.天崽awa",
+  "composer": "USAO",
+  "created": "2024-06-02T14:34:59.557119Z",
+  "description": "本谱面为眉山音游社原创谱面\n发布屏元/手元请务必注明谱师及#眉山音游社",
+  "difficulty": 16.1,
+  "id": 20732,
+  "illustrator": "BerryVerrine",
+  "level": "AT  Lv.16",
+  "name": "You & DIE",
+  "tags": [],
+  "updated": "2024-06-03T11:12:13.338325Z",
+  "uploader": 17576
+}

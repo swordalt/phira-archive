@@ -1,0 +1,76 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:23:20Z",
+    "lastChanged": "2026-09-22T01:23:20Z",
+    "localBackup": {
+      "asset": "19762.zip",
+      "files": [
+        {
+          "path": "38504956.jpg",
+          "sha256": "195faf80cf9138b322b1ff32bbd5238dbd4ef4b040a019db8dbce31d08ac0c4d",
+          "size": 187665
+        },
+        {
+          "path": "38504956.json",
+          "sha256": "0c9373e4451db06a1144b97fb6410dea3a0de334fdbec85864889ae7b48dd0e0",
+          "size": 2770272
+        },
+        {
+          "path": "38504956.mp3",
+          "sha256": "b7fb0cc37e941c431fd23bb4ce2bf8d0528d2c417692a37b3e3e432a4e52b3ce",
+          "size": 9244565
+        },
+        {
+          "path": "info.txt",
+          "sha256": "25d0ce8dca9b11e7cb2df60f09f3beb40d4c4ab08530f6e813b96c95dbcb6270",
+          "size": 178
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5deed9e0304c77ba9ee21c28f26ab18367811e15407fb3877d3fb8251d22ba65",
+          "size": 626
+        },
+        {
+          "path": "tiantai.jpg",
+          "sha256": "2d7e509a14cf226b3c8556e699d706fd6fabe6334b3faffdc4e004e4d6737d32",
+          "size": 157637
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "38504956.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "38504956.jpg",
+        "lineLength": 6.0,
+        "music": "38504956.mp3",
+        "offset": 0.02,
+        "previewEnd": 180.0,
+        "previewStart": 160.0,
+        "tip": "梦...该醒了",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "f01fbaf7dd30fe19bc296d98c910d3fdbf2c29b4cb8415f65d7bad36f7ada859",
+      "size": 12361549,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19762.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-10T04:49:07.573343Z",
+  "charter": "Abyss",
+  "composer": "知更鸟",
+  "created": "2024-05-10T04:49:07.573343Z",
+  "description": "音乐来自知更鸟专辑《空气蛹》\nb站关注@SrY-ABYSS谢谢喵",
+  "difficulty": 14.0,
+  "id": 19762,
+  "illustrator": "游戏内截取",
+  "level": "Bird Lv.13",
+  "name": "Hope Is the Thing With Feather",
+  "tags": [],
+  "updated": "2024-05-13T01:01:33.925026Z",
+  "uploader": 1437
+}

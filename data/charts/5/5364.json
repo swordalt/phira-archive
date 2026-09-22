@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:28Z",
+    "lastChanged": "2026-09-22T01:05:28Z",
+    "localBackup": {
+      "asset": "5364.zip",
+      "files": [
+        {
+          "path": "52983048.json",
+          "sha256": "54b245a2b1e6e92620b4e25a0e8b926c4648f8ca4fe240341b89b8222e63fc6c",
+          "size": 4770628
+        },
+        {
+          "path": "52983048.mp3",
+          "sha256": "c885169b2d51dc7cd222c6c65321d4c03299521dd572f243a7c31c9115928327",
+          "size": 5642989
+        },
+        {
+          "path": "52983048.png",
+          "sha256": "12544f32ad7c28efa5bc52a84adb0578fb6dac057d35e51c2a0a30aa35eecf24",
+          "size": 1084900
+        },
+        {
+          "path": "info.txt",
+          "sha256": "7d697e270f01a798bc6c6aebf785e13093d7031fec146ac640df2d90e33e6d77",
+          "size": 157
+        },
+        {
+          "path": "info.yml",
+          "sha256": "b226a12b4ae5bd4d66adb668a0e6dbfcc0febec1fd5ab9d5051a3f8ec7e0e917",
+          "size": 668
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "52983048.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "52983048.png",
+        "lineLength": 6.0,
+        "music": "52983048.mp3",
+        "offset": 0.05,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "快乐的世界，竹子每一天！"
+      },
+      "release": "backup-5000-5999",
+      "sha256": "0145df665fb2a243c6520e4a967d95b05d1feb372e233684cbd33b3fbf11622d",
+      "size": 11499850,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5364.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-16T12:18:41.088009Z",
+  "charter": "橙小橘&鸿影",
+  "composer": "立秋 feat. ちょこ",
+  "created": "2023-07-15T05:54:51.070725Z",
+  "description": "双人合作谱，B站@鸿影SAMA＆@我是橙小橘。\n经鸿影微调后授权发布。\n该谱注重手法。",
+  "difficulty": 16.2,
+  "id": 5364,
+  "illustrator": "石王マサト",
+  "level": "AT Lv.16",
+  "name": "竹",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-07-16T13:26:42.114024Z",
+  "uploader": 1243
+}

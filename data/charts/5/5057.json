@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:04:48Z",
+    "lastChanged": "2026-09-22T01:04:48Z",
+    "localBackup": {
+      "asset": "5057.zip",
+      "files": [
+        {
+          "path": "7099858.json",
+          "sha256": "8043612371f5ec54729a49989664d3724d5903ad62f76025d670713dbde56b7b",
+          "size": 5812467
+        },
+        {
+          "path": "7099858.mp3",
+          "sha256": "124bddea8ebe11f916695dd7729dd20ce80ffac0b01348f8324d2c7856df5334",
+          "size": 6276900
+        },
+        {
+          "path": "7099858.png",
+          "sha256": "25655c1a64bbf6d7e5c63636e597cb94844e7f360f4036512c506ff3e52aeeb4",
+          "size": 53606
+        },
+        {
+          "path": "info.txt",
+          "sha256": "bbbd8cb34b30f90adec7ac7781b7884d98161aba5f6c6e5e5b6d51f0bcce35d2",
+          "size": 156
+        },
+        {
+          "path": "info.yml",
+          "sha256": "39f33f2a7f1633afe4716846688c3647119e8190294da3dfcc079f1680fd8f52",
+          "size": 604
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "7099858.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "7099858.png",
+        "lineLength": 6.0,
+        "music": "7099858.mp3",
+        "offset": 0.0,
+        "previewEnd": 50.49,
+        "previewStart": 37.79,
+        "tip": "Tip:Who are you?"
+      },
+      "release": "backup-5000-5999",
+      "sha256": "136e83f378de6bb1e8ae067c50a5d67479bdf333f7a59e0a765ff40d84e9f707",
+      "size": 12144235,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5057.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-10T05:37:02.764942Z",
+  "charter": "Vøranger",
+  "composer": "rintaro soma",
+  "created": "2023-07-10T05:37:02.764942Z",
+  "description": "谱师：本人\n我有抑郁症.mp4\n有建议可以去b站提\nb站账号：@幻橙_Voranger",
+  "difficulty": 15.900003,
+  "id": 5057,
+  "illustrator": "Optie",
+  "level": "IN Lv.15",
+  "name": "sølips",
+  "tags": [],
+  "updated": "2023-07-14T16:26:16.108319Z",
+  "uploader": 1526
+}

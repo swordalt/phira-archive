@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:14:22Z",
+    "lastChanged": "2026-09-22T01:14:22Z",
+    "localBackup": {
+      "asset": "13220.zip",
+      "files": [
+        {
+          "path": "59955841.jpg",
+          "sha256": "a165e39b5125d36eab0fa4355ac277b4492d72e7316e145b022dff3c8d789d4f",
+          "size": 866081
+        },
+        {
+          "path": "59955841.json",
+          "sha256": "c84696d4328a753dc38a4f1518f134f0b99a249eef32084ed70ce4bec56371e3",
+          "size": 2401548
+        },
+        {
+          "path": "59955841.mp3",
+          "sha256": "c1f2fbbd19a61b2010e4a560f567c42bd88b4a65783871a78d63c32875aa411d",
+          "size": 3887023
+        },
+        {
+          "path": "info.txt",
+          "sha256": "867c9cdd30dbacdb831517902b708da06d34dad6b070408290fb49b5dad7d3f0",
+          "size": 158
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f1cd4f28bda7259033c116db9dcaf9d09bc4f271d2ea98e8940316d75a653462",
+          "size": 597
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "59955841.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "59955841.jpg",
+        "lineLength": 6.0,
+        "music": "59955841.mp3",
+        "offset": 0.0,
+        "previewEnd": 60.0,
+        "previewStart": 45.0,
+        "tip": "Tip: OH YES!!!!!!!!"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "800e92e690a4a5fb571cd66239e26eb13f9355ba7127e7425d299738d4dcb34c",
+      "size": 7155915,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13220.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-03T08:36:01.288872Z",
+  "charter": "あそぶんちゅEχ",
+  "composer": "Toby Fox",
+  "created": "2024-01-03T08:36:01.288872Z",
+  "description": "＊あそぶんちゅEχの　おひろめだ！",
+  "difficulty": 14.8,
+  "id": 13220,
+  "illustrator": "Pdubbsquared",
+  "level": "IN Lv.14",
+  "name": "Death by Glamour",
+  "tags": [
+    "UNDERTALE",
+    "regular"
+  ],
+  "updated": "2024-01-03T08:36:01.288872Z",
+  "uploader": 561240
+}

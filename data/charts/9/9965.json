@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:27Z",
+    "lastChanged": "2026-09-22T01:09:27Z",
+    "localBackup": {
+      "asset": "9965.zip",
+      "files": [
+        {
+          "path": "19984412.jpg",
+          "sha256": "a3f1915ad9b4e8de0e7f579381b20840167e69018aba91feb147259013f2bf00",
+          "size": 85134
+        },
+        {
+          "path": "19984412.json",
+          "sha256": "9806959c2d2a958a3f46a0d4cc73c68181f99e3f419e7504e9fbcde24f433b12",
+          "size": 4110322
+        },
+        {
+          "path": "19984412.mp3",
+          "sha256": "cd534b8ba43c775022cff476bb665712da337d74aada0022adabe18e2a3361e3",
+          "size": 2323479
+        },
+        {
+          "path": "info.txt",
+          "sha256": "a09bf994097543d6adf6a2f9872d16a91a455e37524cc3c8151150d29759f005",
+          "size": 169
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5b89cd48966c61e0f7bb990cf413a38b27754060d5235fa42f36adb830fa8b9f",
+          "size": 586
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "19984412.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "19984412.jpg",
+        "lineLength": 6.0,
+        "music": "19984412.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "动人的踢",
+        "unlockVideo": null
+      },
+      "release": "backup-9000-9999",
+      "sha256": "e0b2fac7ba0f9fe708011068a45a2d524c26ef0bcba6d2da36fe922210a72ce9",
+      "size": 6520198,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-9000-9999/9965.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-10-01T10:06:18.374658Z",
+  "charter": "TRADERRRR",
+  "composer": "Daily天利 /  Roon_kun",
+  "created": "2023-10-01T10:06:18.374658Z",
+  "description": "谱师本人上传，希望过stb，要是过不了给点意见",
+  "difficulty": 15.0,
+  "id": 9965,
+  "illustrator": "Axleaki",
+  "level": "IN Lv.15",
+  "name": "Poppy",
+  "tags": [],
+  "updated": "2023-10-02T14:28:15.173340Z",
+  "uploader": 23845
+}

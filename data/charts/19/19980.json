@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:23:31Z",
+    "lastChanged": "2026-09-22T01:23:31Z",
+    "localBackup": {
+      "asset": "19980.zip",
+      "files": [
+        {
+          "path": "32484213.jpg",
+          "sha256": "8a765b3593c454f017143a73181a6acac3324b05764ecdd546ef22d4969cbebf",
+          "size": 607589
+        },
+        {
+          "path": "32484213.json",
+          "sha256": "97ec557537b55bea0b3f38fbc38be47cea505cbacef30b339c00bfb94b494657",
+          "size": 1392748
+        },
+        {
+          "path": "32484213.mp3",
+          "sha256": "bc8ba0fee095087d8d6c5289b536fadec9de82dd9fba30e3badadea1cc3a3183",
+          "size": 7266183
+        },
+        {
+          "path": "info.txt",
+          "sha256": "97089cc6e3a265c299ce669dc9982fe8393c917954d09b2a9f18ddc2f97d7cb8",
+          "size": 170
+        },
+        {
+          "path": "info.yml",
+          "sha256": "53618b30437772cad2a031884528ee26bb3dc1cec23b122b98067b6489319bbd",
+          "size": 663
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "32484213.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "32484213.jpg",
+        "lineLength": 6.0,
+        "music": "32484213.mp3",
+        "offset": 0.0060000047,
+        "previewEnd": 153.0,
+        "previewStart": 133.0,
+        "tip": "Rise up into my World",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "c5a09cf8cc134e25bfd4b412c3664e7e51b10d20630094467bb560d39781368d",
+      "size": 9267861,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19980.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-16T10:12:10.236824Z",
+  "charter": "Abyss",
+  "composer": "知更鸟",
+  "created": "2024-05-16T10:12:10.236824Z",
+  "description": "音乐来自知更鸟专辑《空气蛹》\n视频 BV1ax4y1W7BN\nB站关注@SrY-ABYSS 谢谢喵",
+  "difficulty": 12.600002,
+  "id": 19980,
+  "illustrator": "PV截取",
+  "level": "Lonely Swing Lv.12",
+  "name": "在银河中孤独摇摆",
+  "tags": [],
+  "updated": "2024-05-21T04:28:43.543540Z",
+  "uploader": 1437
+}

@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:25:18Z",
+    "lastChanged": "2026-09-22T01:25:18Z",
+    "localBackup": {
+      "asset": "20705.zip",
+      "files": [
+        {
+          "path": "43403051.jpg",
+          "sha256": "2cf3b72396cda96a1f665b1ba91c9958f966e55c2b95ad94822cd1d97b7c0ac3",
+          "size": 1692595
+        },
+        {
+          "path": "43403051.json",
+          "sha256": "c3bdb91b7b7f46f6f1e3304e62f88638f54ddb6747d9535b6b85d112839d76d9",
+          "size": 7042174
+        },
+        {
+          "path": "43403051.mp3",
+          "sha256": "bac2130c413161808501f44caa08c1f9c3aa66aaa4aaea84ac775fab5512419b",
+          "size": 1530192
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ca4aecdb27fc5a14c5821aac0bbc05fa4bf059317705efee0d901fd41ba6f6a0",
+          "size": 160
+        },
+        {
+          "path": "info.yml",
+          "sha256": "8b656ae8bd4fb65a78511b96e6eff459392de49cb9f4e5cedf4903d99ce46c31",
+          "size": 496
+        }
+      ],
+      "info": {
+        "aspectRatio": 2.0,
+        "backgroundDim": 0.65000004,
+        "chart": "43403051.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "43403051.jpg",
+        "lineLength": 6.0,
+        "music": "43403051.mp3",
+        "offset": 0.0,
+        "previewEnd": 40.0,
+        "previewStart": 31.0,
+        "tip": "黄键那里其实不难",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "d47ee8ff7d5a5f2f4ff68e307e636cd7f2683f7dbb271a5735f3a597db5cf85c",
+      "size": 10266125,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20705.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "权4乐想要上架",
+  "composer": "salty salt",
+  "created": null,
+  "description": "祝我好运",
+  "difficulty": 15.4000025,
+  "id": 20705,
+  "illustrator": "UKKKKK",
+  "level": "IN.Lv.15.4",
+  "name": "全系电子樱花",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

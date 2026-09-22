@@ -1,0 +1,81 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:08Z",
+    "lastChanged": "2026-09-22T01:17:08Z",
+    "localBackup": {
+      "asset": "14810.zip",
+      "files": [
+        {
+          "path": "5406675.json",
+          "sha256": "6c070345b10dc2050df34ea284d7b4997838e245f7c6df239f510bcf9eaf828e",
+          "size": 4142331
+        },
+        {
+          "path": "5406675.mp3",
+          "sha256": "6f0518fea125630b779f980f4d07edf0eb98bd1beb6452d7ef7c4bde183d3853",
+          "size": 1963291
+        },
+        {
+          "path": "5406675.png",
+          "sha256": "8f5fa2b21c34c69b0649570bdc8e17cdc029765ebd164e4d50f6c9e8794cb0be",
+          "size": 425295
+        },
+        {
+          "path": "info.txt",
+          "sha256": "02bd1550eb4d98ddf75829cff9a12858b7001806dfb3df23dc4784d6e52e3b59",
+          "size": 185
+        },
+        {
+          "path": "info.yml",
+          "sha256": "1bd83397b33ef61963e4988c6b7e325a00f69bf9eb527c7b56834e2ff42d535b",
+          "size": 637
+        },
+        {
+          "path": "moj.png",
+          "sha256": "7aaf515b27ec1e501e7860abd350a415dd0f81d069a2e68a6683e1c78f19cf09",
+          "size": 187219
+        },
+        {
+          "path": "ven.png",
+          "sha256": "5209049dc141eed5e7b837e7ac0c3b59bd5841b1c400c6fc44f9c3ef811a9233",
+          "size": 247009
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "5406675.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "5406675.png",
+        "lineLength": 6.0,
+        "music": "5406675.mp3",
+        "offset": 0.04,
+        "previewEnd": 19.0,
+        "previewStart": 8.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-14000-14999",
+      "sha256": "b7bdfaa051ca0bcd8f33a60e24f982743efd5f36bed1c397571ba9637e94935d",
+      "size": 6966649,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14810.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-04T16:47:37.389935Z",
+  "charter": "ven ft.NEKOjira",
+  "composer": "LisicA",
+  "created": "2024-02-04T16:47:37.389935Z",
+  "description": "Song approved for use by LisicA\nfor \"Endless Adventure - Spring 2024\" event on Phira\nLuzeriA X NILLAWORKs\n©LuzeriA",
+  "difficulty": 15.6,
+  "id": 14810,
+  "illustrator": "Kein",
+  "level": "IN Lv.15",
+  "name": "フエネック",
+  "tags": [],
+  "updated": "2024-02-04T16:47:37.389935Z",
+  "uploader": 614766
+}

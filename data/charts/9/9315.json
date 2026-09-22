@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:11Z",
+    "lastChanged": "2026-09-22T01:09:11Z",
+    "localBackup": {
+      "asset": "9315.zip",
+      "files": [
+        {
+          "path": "69289348.json",
+          "sha256": "36ec191c5da39ed90c4fd3a0b860c4d137725d8ec0cb29f268d28b7bfc6a65c4",
+          "size": 747264
+        },
+        {
+          "path": "69289348.mp3",
+          "sha256": "0bfc93942fe209838178c4e555b00786c98ba19e2830f301939dc7cb67ebd84b",
+          "size": 6141041
+        },
+        {
+          "path": "69289348.png",
+          "sha256": "d674a5f552df4f3d4cface25c9e8b54bd74dc8d82ddad21424fb0e1df4542d37",
+          "size": 112132
+        },
+        {
+          "path": "info.txt",
+          "sha256": "fe041da67c2145ba143a618743c4b73edab25af97188fad8a02e97879da211b1",
+          "size": 190
+        },
+        {
+          "path": "info.yml",
+          "sha256": "ca9345f28810b07f8b6116c4aaa1bbbd5bb90c0f043f33884fb24d95ec27e769",
+          "size": 567
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "69289348.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "69289348.png",
+        "lineLength": 6.0,
+        "music": "69289348.mp3",
+        "offset": 0.0,
+        "previewEnd": 88.9,
+        "previewStart": 70.9,
+        "tip": null
+      },
+      "release": "backup-9000-9999",
+      "sha256": "2a0c12d1a8e96722bc0ff9ce30950181ac945e7f012e9342b3e60dddd5defc1b",
+      "size": 7001702,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-9000-9999/9315.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-09-13T07:26:48.317423Z",
+  "charter": "Le Porteur d'Laosiji",
+  "composer": "黒皇帝 feat. AKA",
+  "created": "2023-09-13T07:26:48.317423Z",
+  "description": "改谱，视频链接BV1bj411y7tq。",
+  "difficulty": 15.900001,
+  "id": 9315,
+  "illustrator": "NekoFTR",
+  "level": "IN Lv.15+",
+  "name": "Le Porteur d'Ombre",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-09-13T07:26:48.317423Z",
+  "uploader": 96647
+}

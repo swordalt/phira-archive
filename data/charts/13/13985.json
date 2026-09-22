@@ -1,0 +1,77 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:01Z",
+    "lastChanged": "2026-09-22T01:16:01Z",
+    "localBackup": {
+      "asset": "13985.zip",
+      "files": [
+        {
+          "path": "73526425.jpg",
+          "sha256": "951df588a34d2c6323884f5221366e551c6904aea3fd35f11bd2fdf5f5940eac",
+          "size": 120536
+        },
+        {
+          "path": "73526425.json",
+          "sha256": "a3c31dbfc8bdf35fc94d19b50386a648e9e878762b06104934bc30997fe6ef64",
+          "size": 4198553
+        },
+        {
+          "path": "73526425.mp3",
+          "sha256": "56d99a3d14cdb1d1c1704610da67a9148aad64760c2387c6b71a6d2df3bfd496",
+          "size": 1950193
+        },
+        {
+          "path": "R-C.png",
+          "sha256": "af24aacaf8819f86994a0353ca0664ee5c38919e5be4f4d1ffb24d02bd5137a5",
+          "size": 422925
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ad0a1c5ba37be0a2f40dbaf8e8ae1fb106f7210f11a06a970a9cac73278a3284",
+          "size": 143
+        },
+        {
+          "path": "info.yml",
+          "sha256": "11ef27e8da15b46d3bd5a8d520e40a77e223df257d291f0d1fe01f7e380a6d83",
+          "size": 552
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "73526425.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "73526425.jpg",
+        "lineLength": 6.0,
+        "music": "73526425.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "doge"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "c5942509e9c9f311d15105fe9b319944196cfd2d17bca8f87e0269f4433127b7",
+      "size": 6693500,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13985.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-23T04:57:03.526973Z",
+  "charter": "N(NEKOYO)",
+  "composer": "t+pazolite",
+  "created": "2024-01-23T04:57:03.526973Z",
+  "description": "第一次写AT\n不太熟，所以整活了一点）",
+  "difficulty": 15.500002,
+  "id": 13985,
+  "illustrator": "C.H.S",
+  "level": "AT Lv.15",
+  "name": "Dogbite",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-01-23T06:34:04.335083Z",
+  "uploader": 8351
+}

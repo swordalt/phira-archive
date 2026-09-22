@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:11Z",
+    "lastChanged": "2026-09-22T01:05:11Z",
+    "localBackup": {
+      "asset": "5251.zip",
+      "files": [
+        {
+          "path": "77280962.jpg",
+          "sha256": "585d9edc3bdd2a2d2f8dd26c6dde7b6da8ff4056f739540410335610f72b6b04",
+          "size": 210849
+        },
+        {
+          "path": "77280962.json",
+          "sha256": "2def147936e74c695662d95ce9c94a8d6b6c5faa810723c923bb343c8eef85ee",
+          "size": 1245851
+        },
+        {
+          "path": "77280962.mp3",
+          "sha256": "a94f7e370bfc7614d68df7c76eee97b08e3841dbe551593f3044f474056346e4",
+          "size": 5347381
+        },
+        {
+          "path": "info.txt",
+          "sha256": "89db126e161accf49c51d3173974c01d35a3bd3d85fb5d66a64c38767280c9aa",
+          "size": 157
+        },
+        {
+          "path": "info.yml",
+          "sha256": "bcaab710948d47167bb19c519061279b6e77baa1d3322490639e0d30b00e4caf",
+          "size": 499
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "77280962.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "77280962.jpg",
+        "lineLength": 6.0,
+        "music": "77280962.mp3",
+        "offset": 0.0,
+        "previewEnd": 110.0,
+        "previewStart": 97.0,
+        "tip": "大哥逛街！！！"
+      },
+      "release": "backup-5000-5999",
+      "sha256": "b19df20f1d96893c0f16a3aa55c43372bb5b4f79e6780bb9c53d5acce74854ad",
+      "size": 6805245,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5251.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-13T12:49:59.251324Z",
+  "charter": "kbcrt",
+  "composer": "utzbo",
+  "created": "2023-07-13T12:49:59.251324Z",
+  "description": "",
+  "difficulty": 15.5,
+  "id": 5251,
+  "illustrator": "UK",
+  "level": "IN Lv.15",
+  "name": "九龍霓虹街",
+  "tags": [],
+  "updated": "2023-07-16T04:24:35.312855Z",
+  "uploader": 409
+}

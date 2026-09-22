@@ -1,0 +1,93 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:20:18Z",
+    "lastChanged": "2026-09-22T01:20:18Z",
+    "localBackup": {
+      "asset": "17115.zip",
+      "files": [
+        {
+          "path": "23903625.jpg",
+          "sha256": "a29d7bafcad5477d691f1beaa539f4be5b954f72af75eb98d27ef341e21d2584",
+          "size": 210083
+        },
+        {
+          "path": "23903625.json",
+          "sha256": "48dd6e638215083aa14abb4ad6bb04485ae3fddcba9334057ba3ad33997c14e1",
+          "size": 3655375
+        },
+        {
+          "path": "23903625.mp3",
+          "sha256": "9154fd7d939dbd112c67635e66686c96944fab6e91de155767b9a72324cfc6ad",
+          "size": 3344505
+        },
+        {
+          "path": "aline.png",
+          "sha256": "ef23ea8b7cc0d47edc1cca946ba17fcf8a8f71504b3dd1363c8c558ae92be010",
+          "size": 3864
+        },
+        {
+          "path": "bline.png",
+          "sha256": "110dea6889548e7b4846f8538f526603db07cf8e519f04861a8b7490df61319a",
+          "size": 8155
+        },
+        {
+          "path": "cline.png",
+          "sha256": "cce58b646ddd243605d11375c67bf6e185cc7bc2528b1e8203ddf28b4d833782",
+          "size": 6147
+        },
+        {
+          "path": "dline.png",
+          "sha256": "bd77bad3ca03fe7f7232a89e9747b5108eb74b62b423ec647afea3d72e900585",
+          "size": 7120
+        },
+        {
+          "path": "info.txt",
+          "sha256": "79b46c8c10c2a93f4da9d0d03b4e5d945f016636efce469e8018938bd13ff3d6",
+          "size": 156
+        },
+        {
+          "path": "info.yml",
+          "sha256": "29dc77e82137faa0494976cf362ecdf58c0160b104f7dec9004c0c55321395bb",
+          "size": 704
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "23903625.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "23903625.jpg",
+        "lineLength": 6.0,
+        "music": "23903625.mp3",
+        "offset": 0.0,
+        "previewEnd": 171.0,
+        "previewStart": 151.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-17000-17999",
+      "sha256": "48e3d58365f653d928744dfce1803c52ada360b4a4c994ff305c64fd1f792746",
+      "size": 7236993,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-17000-17999/17115.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-03-14T13:11:28.821963Z",
+  "charter": "MeowHell",
+  "composer": "Alan Walker",
+  "created": "2024-03-14T13:11:28.821963Z",
+  "description": "经典老歌，浅浅的写首14锻炼下基本功，虽然谱面还是很粪就是了\n哭死，学校课排的好满都没时间写谱子了\n玩得开心，轻点评分qwq",
+  "difficulty": 14.500002,
+  "id": 17115,
+  "illustrator": "Alan walker",
+  "level": "IN Lv.14",
+  "name": "Faded",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-03-14T13:11:28.821963Z",
+  "uploader": 565793
+}

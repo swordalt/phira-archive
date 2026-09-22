@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:25:23Z",
+    "lastChanged": "2026-09-22T01:25:23Z",
+    "localBackup": {
+      "asset": "20717.zip",
+      "files": [
+        {
+          "path": "83908541.jpg",
+          "sha256": "8390424ba126c0d7e6c0ce2c3278cf48d6c6d9416dc2c3fa45adbdff2878489d",
+          "size": 212235
+        },
+        {
+          "path": "83908541.json",
+          "sha256": "586a0d9b21028b2c19abcd7941714f71345fb0f88cc5a656957b96cbb886770d",
+          "size": 5194224
+        },
+        {
+          "path": "83908541.mp3",
+          "sha256": "4fae34e0f4c8a993799903687eaabecd4185f5eb16d2e206b49cf9e7209b5216",
+          "size": 4418577
+        },
+        {
+          "path": "info.txt",
+          "sha256": "8747c5342f4584e0bb5d7f61a690f7c05a8188ae26ea04cb24459a06eac2c7d7",
+          "size": 170
+        },
+        {
+          "path": "info.yml",
+          "sha256": "a9b78540a44672eca9430bb86128938be3998b3651c5c1dec1460d7a0891137a",
+          "size": 614
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "83908541.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "83908541.jpg",
+        "lineLength": 6.0,
+        "music": "83908541.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "哇袄",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "588dc95e38c05c880d3b4476855a189bc9d66402406d5e21076549e742400121",
+      "size": 9826328,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20717.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-02T11:19:42.014112Z",
+  "charter": "Hikario & 底力の神",
+  "composer": "kobaryo camellia",
+  "created": "2024-06-02T11:19:42.014112Z",
+  "description": "瞎写的17\n事件8000+\n喵喵喵\n帮忙把上传的旧版打回感谢",
+  "difficulty": 17.6,
+  "id": 20717,
+  "illustrator": "kobaryo",
+  "level": "AT Lv.17+",
+  "name": "Villain Virus",
+  "tags": [],
+  "updated": "2024-06-02T11:19:42.014112Z",
+  "uploader": 58106
+}

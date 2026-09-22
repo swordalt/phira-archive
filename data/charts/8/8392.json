@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:11Z",
+    "lastChanged": "2026-09-22T01:08:11Z",
+    "localBackup": {
+      "asset": "8392.zip",
+      "files": [
+        {
+          "path": "19822465.jpg",
+          "sha256": "8695f1396f2c5965c52c82df69f8252c5ef0044038e32f3d37f57eb40fa6da55",
+          "size": 17834
+        },
+        {
+          "path": "19822465.json",
+          "sha256": "1e8d23da18979002ad6bf1993f8370204e3d61d10dcc591b957a6a5593758405",
+          "size": 245352
+        },
+        {
+          "path": "19822465.mp3",
+          "sha256": "b0a7cee1531c97cf7b9cf55a5d263d023563451d4256ff13adcaab6ebd0c4c73",
+          "size": 1291847
+        },
+        {
+          "path": "info.txt",
+          "sha256": "42d8112cc44d4efd67b554a4007128f9547d88aa722211d778f776e30099a2cf",
+          "size": 174
+        },
+        {
+          "path": "info.yml",
+          "sha256": "686692acece770285e715fa0a6c82593cc56d96b88cadf68d7fd2e7fcf85c714",
+          "size": 499
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "19822465.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "19822465.jpg",
+        "lineLength": 6.0,
+        "music": "19822465.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-8000-8999",
+      "sha256": "71e8bfcadcbdee5782215aea41f86ca5370373c24467f98d913e3eb4ec449616",
+      "size": 1556214,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-8000-8999/8392.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-25T14:50:23.062686Z",
+  "charter": "iamxiazhi",
+  "composer": "Cheetah Mobile",
+  "created": "2023-08-25T14:50:23.062686Z",
+  "description": "",
+  "difficulty": 4.0,
+  "id": 8392,
+  "illustrator": "UK",
+  "level": "EZ Lv.4",
+  "name": "Winter (House Remix)",
+  "tags": [],
+  "updated": "2023-08-25T14:50:23.062686Z",
+  "uploader": 279990
+}

@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:02:37Z",
+    "lastChanged": "2026-09-22T01:02:37Z",
+    "localBackup": {
+      "asset": "1624.zip",
+      "files": [
+        {
+          "path": "8484037.json",
+          "sha256": "964c8ac708d1c772474efd54d63fcc7e4b5372de418f95c3496cc03774039b23",
+          "size": 1700014
+        },
+        {
+          "path": "8484037.mp3",
+          "sha256": "8c6f2a7885e0df6e4efde5f2d298e65a62b1fe52f181a44e954803cb66093e81",
+          "size": 3137560
+        },
+        {
+          "path": "8484037.png",
+          "sha256": "b38101a7d43688df99ddb52b2f2d066b9b0e86dc10ed692a465fe4607b332a35",
+          "size": 1561143
+        },
+        {
+          "path": "info.txt",
+          "sha256": "a9d9d853af0731c1e3b7a3efede98ce93e13ec21056f22a24f5b3d2eca80f8a2",
+          "size": 153
+        },
+        {
+          "path": "info.yml",
+          "sha256": "02e1dffd14ccc9707581dacdaaf35024e3b481475dcbd1e60f615784733ebbad",
+          "size": 562
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "8484037.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "8484037.png",
+        "lineLength": 6.0,
+        "music": "8484037.mp3",
+        "offset": 0.05,
+        "previewEnd": 75.0,
+        "previewStart": 60.0,
+        "tip": "Rechart of my first chart",
+        "unlockVideo": null
+      },
+      "release": "backup-1000-1999",
+      "sha256": "6f290fc27c9167fabff936e4dd93839ee09d728e2c0670b85c5c3ea9ff629196",
+      "size": 6399934,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-1000-1999/1624.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-05-11T02:55:00.829312Z",
+  "charter": "L11 Restart",
+  "composer": "T+pazolite",
+  "created": "2023-05-11T02:55:00.829312Z",
+  "description": "I tried my best and i believe i did my best",
+  "difficulty": 16.0,
+  "id": 1624,
+  "illustrator": "UK",
+  "level": "AT Lv.16",
+  "name": "Dogbite",
+  "tags": [],
+  "updated": "2023-05-18T02:24:51.074927Z",
+  "uploader": 591
+}

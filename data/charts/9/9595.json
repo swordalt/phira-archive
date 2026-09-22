@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:16Z",
+    "lastChanged": "2026-09-22T01:09:16Z",
+    "localBackup": {
+      "asset": "9595.zip",
+      "files": [
+        {
+          "path": "8969030.jpg",
+          "sha256": "543151369fde0c982034c2d8db25245bff5e03cd1c7a86e8904076efbe9ef4d7",
+          "size": 98625
+        },
+        {
+          "path": "8969030.json",
+          "sha256": "374aaa5350e7b71b73a4287e9e2156911b08506b202d1a4548e7d2924d6cef7f",
+          "size": 91858
+        },
+        {
+          "path": "8969030.mp3",
+          "sha256": "ae7b889fd3f8d386686729d9855a184a729fa1c4f3487b2b376f96a09049f1bc",
+          "size": 4147534
+        },
+        {
+          "path": "info.txt",
+          "sha256": "e47305c60853c69065ee1b66e7a1be0e3ab843492cd5fbd463c229e91b48e1b4",
+          "size": 151
+        },
+        {
+          "path": "info.yml",
+          "sha256": "36c81a38a990f3c92aff393c849a26996da08194c5a667b723d5041f6d90924b",
+          "size": 574
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "8969030.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "8969030.jpg",
+        "lineLength": 6.0,
+        "music": "8969030.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "适合新人游玩和品尝米共（确信）"
+      },
+      "release": "backup-9000-9999",
+      "sha256": "bed506f84f27fbce9d4d5c30e101b55d45b6f9086c27de3d0c2fbe7dac0e3282",
+      "size": 4339244,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-9000-9999/9595.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-09-23T09:43:22.562310Z",
+  "charter": "Drista",
+  "composer": "Silentroom",
+  "created": "2023-09-23T09:43:22.562310Z",
+  "description": "写个纯点的玩玩（拉满了，真的拉满了）",
+  "difficulty": 10.0,
+  "id": 9595,
+  "illustrator": "UK",
+  "level": "Lv.Limited",
+  "name": "Nhelv",
+  "tags": [
+    "plain"
+  ],
+  "updated": "2023-09-23T09:43:22.562310Z",
+  "uploader": 8972
+}

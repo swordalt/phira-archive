@@ -1,0 +1,134 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:19:16Z",
+    "lastChanged": "2026-09-22T01:19:16Z",
+    "localBackup": {
+      "asset": "16184.zip",
+      "files": [
+        {
+          "path": "42531053.jpg",
+          "sha256": "6071856886d573c7fbb69520e0435106015e12bc76803f4f62040178a1c95863",
+          "size": 259046
+        },
+        {
+          "path": "42531053.json",
+          "sha256": "7895fcbb5169828eb0881e6ab7083c08a512de82ab064c7aa2de3a4ab6d66d30",
+          "size": 19857296
+        },
+        {
+          "path": "42531053.mp3",
+          "sha256": "0cd56cf49d4af7e5df085c43644a51618bdcb7d04885a4799e6af31b0537865e",
+          "size": 4213859
+        },
+        {
+          "path": "gunboss.png",
+          "sha256": "f752c12a70bbd4c8eeaef2f68eedf45c15c89f13ee94fc3423a79be8efa3d6df",
+          "size": 830810
+        },
+        {
+          "path": "gunfu.png",
+          "sha256": "59018b23a3588bb96ca724ffe4c8bff1c54fbb287bf17718df354db0cb5a61a4",
+          "size": 485210
+        },
+        {
+          "path": "info.txt",
+          "sha256": "99db56a5b710795baa9d96795e2eb8ff5a7d12b8586cf3a6cee5f7d6ae2cce9b",
+          "size": 243
+        },
+        {
+          "path": "info.yml",
+          "sha256": "bb0dfda434dc8dab90d90664bb631cf73ec95d4534841e74ec757f471843f078",
+          "size": 613
+        },
+        {
+          "path": "lizitou.png",
+          "sha256": "28672adec34252f27e2afd00ee9d8b58a776b727d83ef5939901bbe828d4ed0d",
+          "size": 623220
+        },
+        {
+          "path": "long1.jpg",
+          "sha256": "e749d4f3d913aa5384e70b0e5f345c0189fb601d0e14d0b3637701cef3d06f94",
+          "size": 5035
+        },
+        {
+          "path": "long2.jpg",
+          "sha256": "f85e06219514936546c2fb662fefbeeb487768181f578fe632fc9c9865a8a8a8",
+          "size": 135350
+        },
+        {
+          "path": "long3.jpg",
+          "sha256": "28d103e0d7e8787609a43e499435639967e87203107a46d7369532cb1943f32f",
+          "size": 17874
+        },
+        {
+          "path": "long4.jpg",
+          "sha256": "bca3b9e655835edabbd906d34099a4cce119ca44fa7a042e130ced0b3696ff47",
+          "size": 96292
+        },
+        {
+          "path": "long5.jpg",
+          "sha256": "bd4db074683254a751cd0fd56d1eabfa362800101379cc9436c12561a48d6f55",
+          "size": 27416
+        },
+        {
+          "path": "long6.jpg",
+          "sha256": "7c248c4deb21ecda4fa9811dd81d6b50ee485fc4c63e8bc4cb4566eb8d12a7cf",
+          "size": 19386
+        },
+        {
+          "path": "long7.jpg",
+          "sha256": "f40903cc1a7a063b6cd11f5e27b6f3ebe4c1591ec2cf8f5d5ad489f3ba2f38aa",
+          "size": 24012
+        },
+        {
+          "path": "shuodedaoli.png",
+          "sha256": "b8c5428f3f573566bbe27f1bd3365b5ee6cd2f7a9d03ebb4699731410ea4630b",
+          "size": 572558
+        },
+        {
+          "path": "waao.png",
+          "sha256": "4f69ce40ff1ada541bd59cb3fb219974942314b0f13603d1c44700d5902647cd",
+          "size": 497676
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.70000005,
+        "chart": "42531053.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "42531053.jpg",
+        "lineLength": 6.0,
+        "music": "42531053.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip：卧槽，冰！！！\r\n"
+      },
+      "release": "backup-16000-16999",
+      "sha256": "fa3b074932f1c024123f77b0a2b5adf9ac9223d2687946c54cdd1e9150d0905c",
+      "size": 27667550,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-16000-16999/16184.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "棍 -我ら棍神と共に乘む轮な椅-",
+  "composer": "默雪SilentSnow",
+  "created": null,
+  "description": "谱面为谱师之一Rea_cy上传",
+  "difficulty": 16.500002,
+  "id": 16184,
+  "illustrator": "默雪SilentSnow",
+  "level": "AT Lv.16",
+  "name": "♿️祈_-我ら神祖と共に歩む者なり♿️",
+  "tags": [
+    "电棍",
+    "中二节奏",
+    "troll"
+  ],
+  "updated": null,
+  "uploader": null
+}

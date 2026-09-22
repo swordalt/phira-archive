@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:14:58Z",
+    "lastChanged": "2026-09-22T01:14:58Z",
+    "localBackup": {
+      "asset": "13417.zip",
+      "files": [
+        {
+          "path": "1245411.jpg",
+          "sha256": "fd55bc63f9db622469712a236a20438bb020c8dba051dd24e2c6b0cb23df069b",
+          "size": 59813
+        },
+        {
+          "path": "1245411.json",
+          "sha256": "f811529e6cc2f7fd6df8536cc0d1630e571a0f09ba442a85a01cb3a5fb10e115",
+          "size": 701589
+        },
+        {
+          "path": "1245411.mp3",
+          "sha256": "5b7760155d5119ee35d8fee83585886ff222206b1afc4cdaf88f8c7151cd6d90",
+          "size": 6252973
+        },
+        {
+          "path": "info.txt",
+          "sha256": "0062380429ec81f7aef38146947c3fc6cb638e8b14d8bf18b9b1bb46d906b786",
+          "size": 150
+        },
+        {
+          "path": "info.yml",
+          "sha256": "c431cd032587aa84f605cc25336a7a347739ae92f781de07aa068f2648308fbf",
+          "size": 621
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.5,
+        "chart": "1245411.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "1245411.jpg",
+        "lineLength": 6.0,
+        "music": "1245411.mp3",
+        "offset": 0.05,
+        "previewEnd": 122.0,
+        "previewStart": 107.0,
+        "tip": "Stasis，启动！！"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "8ad57bc24ec0d10e26350e0a569cc66a972cee7e4e75c3aef0ef8c2c19628257",
+      "size": 7015648,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13417.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-09T09:03:35.784092Z",
+  "charter": "三月鸠",
+  "composer": "Maozon",
+  "created": "2024-01-09T09:03:35.784092Z",
+  "description": "谱师B站@三月鸠，第一次写4k可能会写出来许多雷人的东西（此谱子夹杂了6k解的排键）",
+  "difficulty": 11.400001,
+  "id": 13417,
+  "illustrator": "UK",
+  "level": "4K Lv.I98",
+  "name": "Stasis",
+  "tags": [
+    "plain"
+  ],
+  "updated": "2024-01-09T09:03:35.784092Z",
+  "uploader": 100926
+}

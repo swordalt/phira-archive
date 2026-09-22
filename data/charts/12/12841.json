@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:13:47Z",
+    "lastChanged": "2026-09-22T01:13:47Z",
+    "localBackup": {
+      "asset": "12841.zip",
+      "files": [
+        {
+          "path": "1883298.json",
+          "sha256": "914219224e127592933f346d0baa07c425f95a8a59a04595c93194fa045b350c",
+          "size": 1379002
+        },
+        {
+          "path": "1883298.mp3",
+          "sha256": "afb00c6d99c7086b01ac588c46c98b6f97badbd2a2a717f311adcf296a58496f",
+          "size": 1612892
+        },
+        {
+          "path": "1883298.webp",
+          "sha256": "d5fdddcf05901c59bc827d90d97f2e38a493eb36094c6abac16795d6bac47ef1",
+          "size": 6560
+        },
+        {
+          "path": "info.txt",
+          "sha256": "5ade8fa17aad9db381ffc41522e5553066d63bf3073d5bc63f7908e93e5b6dad",
+          "size": 171
+        },
+        {
+          "path": "info.yml",
+          "sha256": "953a7584c83b9dcc570274e5c58e823b1cae1d80ee62f69da6e0282e070e9820",
+          "size": 668
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "1883298.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "1883298.webp",
+        "lineLength": 6.0,
+        "music": "1883298.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "要～要～要～ 嗷～～～～～～"
+      },
+      "release": "backup-12000-12999",
+      "sha256": "ed29d6e58700213138dc807ed8087010c4f8e6440e84bf5e7156c694f9cbd270",
+      "size": 2999797,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12841.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-25T06:43:05.727425Z",
+  "charter": "sundayrain",
+  "composer": "SEGA Sound Team",
+  "created": "2023-12-25T06:43:05.727425Z",
+  "description": "精神状态良好的请赶快离开，有一部分参考了东方的玩法（手动滑稽），我也只能拿S，仅供娱乐（",
+  "difficulty": 14.7,
+  "id": 12841,
+  "illustrator": "UK",
+  "level": "Lv. 14+",
+  "name": "ジングルベル",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-12-25T06:43:05.727425Z",
+  "uploader": 112146
+}

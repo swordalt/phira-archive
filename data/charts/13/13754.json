@@ -1,0 +1,110 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:15:45Z",
+    "lastChanged": "2026-09-22T01:15:45Z",
+    "localBackup": {
+      "asset": "13754.zip",
+      "files": [
+        {
+          "path": "31109560.jpg",
+          "sha256": "173cf163542abfd1aea0b9dc66788d7d10ae0c06bee0d90e53b2582615497ccb",
+          "size": 723453
+        },
+        {
+          "path": "31109560.json",
+          "sha256": "8b15c3be928e75165a3acda4011af31d8cb1de2ed80a56f2a772ae5401ba27ba",
+          "size": 14041157
+        },
+        {
+          "path": "31109560.mp3",
+          "sha256": "3297616151c647370fc250e4ed7c3271daf49fe84f6c5aa6b6544830aad81a13",
+          "size": 8464762
+        },
+        {
+          "path": "dh.jpg",
+          "sha256": "373f7867d4df9668638cb6218d32e8d58fc3982738454efeb1cbbe854d256939",
+          "size": 394867
+        },
+        {
+          "path": "extra.json",
+          "sha256": "43f4f792f4ef64f580ed8b5fe332ddd879861d935910f1b4fefa3ee11c565cd4",
+          "size": 663
+        },
+        {
+          "path": "info.txt",
+          "sha256": "a383533be99af61c1fb5f89b773aee08a072d7aff779075e0f2ab21fff951c6d",
+          "size": 180
+        },
+        {
+          "path": "info.yml",
+          "sha256": "b02031be671e1fadc38a9a7223c4abd9a94dd428ad660c4508e28f1e665a3baf",
+          "size": 600
+        },
+        {
+          "path": "lll.jpg",
+          "sha256": "64e6c19424551f87eae0ba98f1160cc7f4b099d68a987b6c873ed0d7199248c2",
+          "size": 442520
+        },
+        {
+          "path": "nimu.jpg",
+          "sha256": "ca6f47752d52f938fe132c249f3c97d729fcbd8fcdb81065a30b5531becd5d92",
+          "size": 377427
+        },
+        {
+          "path": "nm.jpg",
+          "sha256": "def430272c3c0dfafb48b8da1b2c8ff34edf13a25c69f522ea3b068d96faa2b8",
+          "size": 225018
+        },
+        {
+          "path": "nmm.jpg",
+          "sha256": "6ade7d0785dbc76acbfd4b1483c4f8dbbb0c52ff24435d866021a56c2e636460",
+          "size": 440914
+        },
+        {
+          "path": "sin.jpg",
+          "sha256": "4f4f936f8e99afb634e45abbbfb3e97858fe8258d40d58a90f783e13db4b3bb0",
+          "size": 397123
+        },
+        {
+          "path": "yee.jpg",
+          "sha256": "74d8fdc54a87f637200c84fc47fc497970dd60cdc12538ea1b96afd478cbf6d0",
+          "size": 312609
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "31109560.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "31109560.jpg",
+        "lineLength": 6.0,
+        "music": "31109560.mp3",
+        "offset": 0.0,
+        "previewEnd": 195.0,
+        "previewStart": 180.0,
+        "tip": "阿巴阿巴"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "173d57dff8a8bfd07f0aa4e0a804ce4545b458be842b18bfe1b57ba4817651cd",
+      "size": 25822525,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13754.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-19T02:36:55.555950Z",
+  "charter": "霓▚暮◍",
+  "composer": "あよ",
+  "created": "2024-01-19T02:36:55.555950Z",
+  "description": "【phigros自制谱：無意識レクイエム-哔哩哔哩】 https://b23.tv/eagGbS0",
+  "difficulty": 16.1,
+  "id": 13754,
+  "illustrator": "UK",
+  "level": "SP Lv.◛◚¿",
+  "name": "無意識レクイエム",
+  "tags": [],
+  "updated": "2024-01-19T08:46:15.586169Z",
+  "uploader": 12475
+}

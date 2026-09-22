@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:13:20Z",
+    "lastChanged": "2026-09-22T01:13:20Z",
+    "localBackup": {
+      "asset": "12642.zip",
+      "files": [
+        {
+          "path": "8506448.json",
+          "sha256": "e07073ff0391e600c3532364d737b737834b440e9d0c6e865d241a2d6d91a1bd",
+          "size": 1034363
+        },
+        {
+          "path": "8506448.mp3",
+          "sha256": "69197d85d939ddc1420dba18255bbe3a10b4101f15088e186f3e44e932d23257",
+          "size": 2144722
+        },
+        {
+          "path": "8506448.png",
+          "sha256": "008f29d2b299ea496ad5fb2ebb2db01da996b0b869fce297c46d25852ff4bba5",
+          "size": 160711
+        },
+        {
+          "path": "info.txt",
+          "sha256": "1e9da1a1af4b0b10a3cd6d9876da2812838cb9f3be4f2375970d87a55c86d14e",
+          "size": 159
+        },
+        {
+          "path": "info.yml",
+          "sha256": "fb6705702db3651c9e0965d315275b8e55dc676a4dd0f3f6488d15be04586fb5",
+          "size": 633
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "8506448.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "8506448.png",
+        "lineLength": 6.0,
+        "music": "8506448.mp3",
+        "offset": 0.059999984,
+        "previewEnd": 67.0,
+        "previewStart": 52.0,
+        "tip": "Tip: 走って揺らいで 決めて戻れ！",
+        "unlockVideo": null
+      },
+      "release": "backup-12000-12999",
+      "sha256": "217b9e75300910212152b50ab0d32a20fdc60ac7a9e05e3cab98424a61054e2b",
+      "size": 3341090,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12642.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-19T22:09:10.903190Z",
+  "charter": "χ番出口",
+  "composer": "EO(エオ)",
+  "created": "2023-12-19T22:09:10.903190Z",
+  "description": "引き返せ引き返せ引き返せ Turn back Turn back Turn back",
+  "difficulty": 13.400001,
+  "id": 12642,
+  "illustrator": "UK",
+  "level": "IN Lv.13",
+  "name": "8番出口",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-02-06T10:57:19.584171Z",
+  "uploader": 561240
+}

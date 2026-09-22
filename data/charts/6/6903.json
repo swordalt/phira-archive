@@ -1,0 +1,120 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:05Z",
+    "lastChanged": "2026-09-22T01:07:05Z",
+    "localBackup": {
+      "asset": "6903.zip",
+      "files": [
+        {
+          "path": "73570035.jpg",
+          "sha256": "7a7ef326f6091b813c5acf6c59b472d7bba7b64feb2edba90a47225e9b6e552b",
+          "size": 191841
+        },
+        {
+          "path": "73570035.json",
+          "sha256": "2de4b88f00edba1749532a5a10fe905dff12c0c08a31ff27bc5214f1fb6b1a6b",
+          "size": 243979
+        },
+        {
+          "path": "73570035.mp3",
+          "sha256": "2948b764736ca576298c6fc47bc34bd384e5e5cd378583881f1b9d5fedcc0630",
+          "size": 441158
+        },
+        {
+          "path": "AutoSave_2023_8_6_3_41_2_73570035.json",
+          "sha256": "a02731d5f009778c984663bd9628b2f2d39c7a4817ad45a65c16fbca303aa117",
+          "size": 243521
+        },
+        {
+          "path": "AutoSave_2023_8_6_3_43_2_73570035.json",
+          "sha256": "a02731d5f009778c984663bd9628b2f2d39c7a4817ad45a65c16fbca303aa117",
+          "size": 243521
+        },
+        {
+          "path": "AutoSave_2023_8_6_3_45_51_73570035.json",
+          "sha256": "86c6b9a4c540643210be6b824930a80352d34172a3e62a8914930061dff0e8cc",
+          "size": 243525
+        },
+        {
+          "path": "black.png",
+          "sha256": "5f5df9ecbaf2b98ddd838ee0bfae400296aa3d24ad196e02ca17602860b259eb",
+          "size": 534
+        },
+        {
+          "path": "cd.png",
+          "sha256": "7d45969cda94e72b4405d5c3c18da8e3504eab4f56de36cb022e264a79cdbda2",
+          "size": 59011
+        },
+        {
+          "path": "gd.png",
+          "sha256": "76a0c7b99d49b710457731599b7512e9d47ebd7840c0d1b55d0d538a6888c292",
+          "size": 147004
+        },
+        {
+          "path": "info.txt",
+          "sha256": "009f848f5d72cae326a19275117c7dd9f6c3f230c3247c1588be5380544d673c",
+          "size": 159
+        },
+        {
+          "path": "info.yml",
+          "sha256": "07280c5e27247173fffdfa806604b8011523071acb420ecaf94d08d876747d44",
+          "size": 608
+        },
+        {
+          "path": "laoda.PNG",
+          "sha256": "7790f191cf25aca8de15551a6aba25eab17e3a9a844d3902dfdae99c7ef75867",
+          "size": 141816
+        },
+        {
+          "path": "laodaa.jpg",
+          "sha256": "ad223d52114ba84731f978988a72fa0881eda6ac617454d92fed910127738c76",
+          "size": 141362
+        },
+        {
+          "path": "ld.PNG",
+          "sha256": "1d461a3c5101d88c2f41a38a3385f417c5f66c1214ab4e5b8c2df3f31037baba",
+          "size": 74871
+        },
+        {
+          "path": "md.png",
+          "sha256": "d6873649b038915ca59b0f23501422cbc1e9fef44c6f732309aa5403b4fd513b",
+          "size": 144723
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "73570035.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "73570035.jpg",
+        "lineLength": 6.0,
+        "music": "73570035.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-6000-6999",
+      "sha256": "a80b7db12dc4320b31ff897b6808f08a0ed31d7843ccbd98e0a2cee0a3e8742f",
+      "size": 2319235,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6903.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-05T19:49:39.582778Z",
+  "charter": "Fyato",
+  "composer": "UK",
+  "created": "2023-08-05T19:49:39.582778Z",
+  "description": "谱师bilibili@飞野同学是笨蛋\n发布手元/屏元请@我\n严禁在任何平台发布本谱面的autoplay视频。",
+  "difficulty": 10.0,
+  "id": 6903,
+  "illustrator": "UK",
+  "level": "baba Lv.leida",
+  "name": "爸爸的雷达",
+  "tags": [],
+  "updated": "2023-08-06T00:41:12.826030Z",
+  "uploader": 11
+}

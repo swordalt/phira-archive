@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:15Z",
+    "lastChanged": "2026-09-22T01:03:15Z",
+    "localBackup": {
+      "asset": "2941.zip",
+      "files": [
+        {
+          "path": "93947280.MP3",
+          "sha256": "0751eb1483fdb00199132c6800e03c39a7ce7acb2cb36a2cab731f0a24381163",
+          "size": 147171
+        },
+        {
+          "path": "93947280.jpg",
+          "sha256": "a3ba02c973d9e869a5c5dde81b2fcda9036377f4d105e097e32e5edb90e21332",
+          "size": 139217
+        },
+        {
+          "path": "93947280.json",
+          "sha256": "acff06307906ef1c0ec9ab203d6416bbf4320cad99fe0c15ccc79b643f427730",
+          "size": 8764
+        },
+        {
+          "path": "info.txt",
+          "sha256": "640e13a116491562f80e7f8b976569341d1ff0d33a334dff279a5225c6fef050",
+          "size": 168
+        },
+        {
+          "path": "info.yml",
+          "sha256": "b46b3decdfde1a9668d4520ce07334368ef43383516f3677e2705bfffbf5e83d",
+          "size": 506
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "93947280.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "93947280.jpg",
+        "lineLength": 6.0,
+        "music": "93947280.MP3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "恐龙抗狼抗狼抗",
+        "unlockVideo": null
+      },
+      "release": "backup-2000-2999",
+      "sha256": "7bc6a08023a783831edaaeeedc55e51d0d6d4c4c13f178808d0399aaa3370245",
+      "size": 296334,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-2000-2999/2941.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "LPI",
+  "composer": "云南权妹",
+  "created": null,
+  "description": "本人亲自上传\nbilibili @LPI_",
+  "difficulty": 12.0,
+  "id": 2941,
+  "illustrator": "云南权妹",
+  "level": "IN Lv.12",
+  "name": "恐龙抗狼抗狼抗",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

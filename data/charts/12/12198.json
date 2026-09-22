@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:12:11Z",
+    "lastChanged": "2026-09-22T01:12:11Z",
+    "localBackup": {
+      "asset": "12198.zip",
+      "files": [
+        {
+          "path": "62040039.PNG",
+          "sha256": "0dfd721c257d1924b7d535a03af00078cb8344cc103468dec52b95e8f2feff05",
+          "size": 5130887
+        },
+        {
+          "path": "62040039.json",
+          "sha256": "01ae7d050306ec9e6019772bda7df44f4db91646330b3be82d0628da257e4ca7",
+          "size": 3827606
+        },
+        {
+          "path": "62040039.mp3",
+          "sha256": "ade3f20873d414144e077d8d70f442ac6e6e15933c3a541ae1e3d3298ab5be00",
+          "size": 6669165
+        },
+        {
+          "path": "info.yml",
+          "sha256": "1455be3f9f9f173950ada5a09b08b6159ab85c1c256bb5f2e75c7bcfa261b687",
+          "size": 687
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "62040039.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "62040039.PNG",
+        "lineLength": 6.0,
+        "music": "62040039.mp3",
+        "offset": 0.040000003,
+        "previewEnd": 126.6,
+        "previewStart": 111.6,
+        "tip": "此即终焉之时，于此叩响「决战」之门扉...",
+        "unlockVideo": null
+      },
+      "release": "backup-12000-12999",
+      "sha256": "2a6f61a0b6a7a915666740056ff58ef6a9e5b312249c2adbabbf488c68cd2f8c",
+      "size": 15628761,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12198.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "Kanylant as \"KING\"",
+  "composer": "Laur vs. 大国奏音",
+  "created": null,
+  "description": "堂堂复活！ 这次更改了部分配置以及错误采音 本人上传 （未上架谱面槽位增加了，好耶）",
+  "difficulty": 16.300001,
+  "id": 12198,
+  "illustrator": "yoshimo",
+  "level": "AT Lv.16",
+  "name": "Latent Kingdom",
+  "tags": [
+    "微高难",
+    "maimai",
+    "多指",
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

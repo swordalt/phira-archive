@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:54Z",
+    "lastChanged": "2026-09-22T01:11:54Z",
+    "localBackup": {
+      "asset": "11916.zip",
+      "files": [
+        {
+          "path": "3501123.jpg",
+          "sha256": "b4b792198acf18e8cdb0749e8b5db853b0c6fa3f91f5c6fb34d626a4f38c0a4d",
+          "size": 768650
+        },
+        {
+          "path": "3501123.json",
+          "sha256": "48a08ffc5fd4a62fd5acc997271ae56af9b95e2d5b1df3f3214de1e24d233ed8",
+          "size": 3574258
+        },
+        {
+          "path": "3501123.mp3",
+          "sha256": "adc6ae87705e718e5d54205b882f7a380c5891329895951c3a40a87e1b95062d",
+          "size": 5020782
+        },
+        {
+          "path": "info.txt",
+          "sha256": "86460e154f1afda9b06544df4c8fb1b54544421cc8022674419b31ad48660aee",
+          "size": 171
+        },
+        {
+          "path": "info.yml",
+          "sha256": "84ea018296500b2f27c82d7311949a1eda50a5cf8cfc8520c9c64d3049c00f6e",
+          "size": 1102
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "3501123.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "3501123.jpg",
+        "lineLength": 6.0,
+        "music": "3501123.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tips:一飞冲天，直抵城市之巅"
+      },
+      "release": "backup-11000-11999",
+      "sha256": "5e210f3c6891b66ff5a68230e57bd3950ca2612b4d89f4dc453c73b462a4aa0f",
+      "size": 9365465,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11916.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-29T09:59:14.401395Z",
+  "charter": "The Next 梦幻&屑影",
+  "composer": "SEPHID",
+  "created": "2023-11-29T09:59:14.401395Z",
+  "description": "新人第八谱，又是和老朋友屑影的合作\n梦幻不限量：采音＆排键＆部分线效＆第一次修改＆第三次修改\n屑影一只：特效＆部分线效＆故事版＆第二次修改＆封装\n这次参与了部分线效的制作，屑影让我学到了很多关于制谱方面的经验，感谢他awa\n14中位爽谱，含有一点初见杀，尾杀32分小距离散点要求一点读谱力和底力，玩的开心么么哒，记得轻点评分\n合作谱由 梦幻不限量 上传，已经过所有谱师同意",
+  "difficulty": 14.599993,
+  "id": 11916,
+  "illustrator": "青鸟",
+  "level": "IN Lv.14",
+  "name": "The Next Arcady",
+  "tags": [
+    "rizline",
+    "regular"
+  ],
+  "updated": "2023-11-29T09:59:14.401395Z",
+  "uploader": 565793
+}

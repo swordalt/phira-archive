@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:12:32Z",
+    "lastChanged": "2026-09-22T01:12:32Z",
+    "localBackup": {
+      "asset": "12437.zip",
+      "files": [
+        {
+          "path": "81842497.jpg",
+          "sha256": "c1529bb565d78e0580697964433518f612b8c1c8f86b337acb10dedbb340288c",
+          "size": 129441
+        },
+        {
+          "path": "81842497.json",
+          "sha256": "f21f0decc821f00aa3c51bb0f2eb543fbdc03d5e15878b972a1c965f4657aed9",
+          "size": 2395037
+        },
+        {
+          "path": "81842497.mp3",
+          "sha256": "e98c0319edaaa1884c2623fd1dd030871d3faddd80673494a940dd7f1c0b65ed",
+          "size": 5756119
+        },
+        {
+          "path": "info.txt",
+          "sha256": "c6f4eed0432fbfe15cc908cfcd4efdcc3c637daa0860735757097b9528901761",
+          "size": 168
+        },
+        {
+          "path": "info.yml",
+          "sha256": "58541b45ce8c62e6c1cadc3374891c4006a9ee99b60969e11ae2cc993b539d25",
+          "size": 750
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "81842497.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "81842497.jpg",
+        "lineLength": 6.0,
+        "music": "81842497.mp3",
+        "offset": 0.030000009,
+        "previewEnd": 70.0,
+        "previewStart": 50.0,
+        "tip": "停转的齿轮，从此刻重新运转；万年的冰山，在此刻悄然消融"
+      },
+      "release": "backup-12000-12999",
+      "sha256": "0c245131838e560cd4c3f69ff6b5a364d6169d5680def7e783d5ac7cb84ee0d9",
+      "size": 8282023,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12437.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-13T14:53:05.697255Z",
+  "charter": "SrY-ABYSS",
+  "composer": "Łukasz Michalski",
+  "created": "2023-12-13T14:53:05.697255Z",
+  "description": "音乐来自游戏《跳舞的线》\n谱面大部分灵感来自跳舞的线旅程关卡\n偏观赏谱，DL七周年纪念谱\nB站关注@SrY-ABYSS 谢谢喵",
+  "difficulty": 0.0,
+  "id": 12437,
+  "illustrator": "RS-Crystal",
+  "level": "DL Lv.7",
+  "name": "The Journey",
+  "tags": [],
+  "updated": "2023-12-17T01:12:26.921504Z",
+  "uploader": 1437
+}

@@ -1,0 +1,68 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:18:29Z",
+    "lastChanged": "2026-09-22T01:18:29Z",
+    "localBackup": {
+      "asset": "15287.zip",
+      "files": [
+        {
+          "path": "bad apple.ogg",
+          "sha256": "17e595a1283cb6305bffe5130f0157fe3d1bca355778299bb26db11e82ac4c35",
+          "size": 4514776
+        },
+        {
+          "path": "bad apple.pec",
+          "sha256": "4a6b78b9e91516a50c32d14bcea3b6593c369b633a1a9cb0ffe4f59d755202f6",
+          "size": 153649229
+        },
+        {
+          "path": "black.png",
+          "sha256": "16e6b2954c683e157639ef50e980d4cb96ae160cf82328eba859924630437e8f",
+          "size": 5307
+        },
+        {
+          "path": "info.yml",
+          "sha256": "dc6fc698688f7b935ddfc6e6780ffb8f0b23c06da925055326c493a6ff52360a",
+          "size": 592
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.3333334,
+        "backgroundDim": 0.6,
+        "chart": "bad apple.pec",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "black.png",
+        "lineLength": 6.0,
+        "music": "bad apple.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-15000-15999",
+      "sha256": "564725c4748ace13a52dedf71c277de8afaa614347a1a3cada4cc1ac3316fb8d",
+      "size": 158170316,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15287.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-10T10:42:37.667050Z",
+  "charter": "Mothal and his computer",
+  "composer": "Masayoshi Minoshima & Nomico",
+  "created": "2024-02-10T10:42:37.667050Z",
+  "description": "b站视频：BV1Pv421i7y5\n30帧观赏最佳",
+  "difficulty": 0.0,
+  "id": 15287,
+  "illustrator": "UK",
+  "level": "Bad Apple.mp4",
+  "name": "Bad Apple播放器",
+  "tags": [
+    "东方",
+    "visual"
+  ],
+  "updated": "2024-02-10T10:42:37.667050Z",
+  "uploader": 50526
+}

@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:02:33Z",
+    "lastChanged": "2026-09-22T01:02:33Z",
+    "localBackup": {
+      "asset": "1191.zip",
+      "files": [
+        {
+          "path": "75876586.json",
+          "sha256": "f8fbc28d9575e9e3ef7d0ae2ee41e56c9168cf21f69906ed75859ae4e72895b8",
+          "size": 2618520
+        },
+        {
+          "path": "75876586.png",
+          "sha256": "427fa59f2fb08afbd13ccc0e40436248690afd05aae36999dde79350da72cf71",
+          "size": 82441
+        },
+        {
+          "path": "75876586.wav",
+          "sha256": "b2e522c24055b4951f37aed275542d57d1df53863ce2b38487cad78d9f63274f",
+          "size": 24424816
+        },
+        {
+          "path": "info.txt",
+          "sha256": "c9371781c3ecb091695141f4271e4dbb5d70ee4e9659801a5269a87f7fa8db90",
+          "size": 176
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f9ed8f19de36a4007ede6e18112596c9a04efeac03848f1bbe7441fb5cb40ebf",
+          "size": 567
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.8000001,
+        "chart": "75876586.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "75876586.png",
+        "lineLength": 6.0,
+        "music": "75876586.wav",
+        "offset": 0.0,
+        "previewEnd": 20.0,
+        "previewStart": 0.0,
+        "tip": "生命活動停止せよ！"
+      },
+      "release": "backup-1000-1999",
+      "sha256": "f510393bc281409461554a620aef6ec37e0ecfa63cd6b02c21ddc555a8ada0a4",
+      "size": 27127028,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-1000-1999/1191.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-05-05T02:03:04.369288Z",
+  "charter": "偲烏⇔囃狼",
+  "composer": "さかみりと",
+  "created": "2023-05-05T02:03:04.369288Z",
+  "description": "地獄の底へご招待♪",
+  "difficulty": 17.1,
+  "id": 1191,
+  "illustrator": "さかみりと",
+  "level": "Hell Lv.17",
+  "name": "哀煉獄歌",
+  "tags": [],
+  "updated": "2023-05-05T02:03:04.369288Z",
+  "uploader": 3747
+}

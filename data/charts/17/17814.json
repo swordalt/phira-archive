@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:20:52Z",
+    "lastChanged": "2026-09-22T01:20:52Z",
+    "localBackup": {
+      "asset": "17814.zip",
+      "files": [
+        {
+          "path": "15147368.json",
+          "sha256": "8c8ba73f4723c41aff688349f8c71e15cfda923f4d277bbb06c571559c7ea176",
+          "size": 6284957
+        },
+        {
+          "path": "15147368.mp3",
+          "sha256": "0085498a6c1c33ae97f17827e57823eca9de82fed16e8958cf127fef8ddd20af",
+          "size": 8405415
+        },
+        {
+          "path": "15147368.png",
+          "sha256": "0bdac7e93266a046a166093d391fa11d35a793b2e258f6828333c55d5b6e2861",
+          "size": 1274703
+        },
+        {
+          "path": "info.txt",
+          "sha256": "440241d4a8b060701b15ec3f8abbbae5d4a3ba19aa0c9ca746203f3d5dfa4151",
+          "size": 176
+        },
+        {
+          "path": "info.yml",
+          "sha256": "8c4139c966f1b8923cab0905cecb16463460e982ca3ff84d31d25e0444bf54c9",
+          "size": 591
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "15147368.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "15147368.png",
+        "lineLength": 6.0,
+        "music": "15147368.mp3",
+        "offset": 0.015000008,
+        "previewEnd": 80.0,
+        "previewStart": 65.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-17000-17999",
+      "sha256": "267642e40579d60bb12b31df2dd9e4437a4a0dd3ebb44dd43b56441b20ca4a83",
+      "size": 15966350,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-17000-17999/17814.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-03-31T04:25:58.291057Z",
+  "charter": "Yurisky_vs.Moonite",
+  "composer": "DJ Raisei",
+  "created": "2024-03-31T04:25:58.291057Z",
+  "description": "本人上传，b站@Yurisky_ @澄橙子Orighting",
+  "difficulty": 16.900003,
+  "id": 17814,
+  "illustrator": "OsuMe65",
+  "level": "AT Lv.16+",
+  "name": "Fractured Angel",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-04-13T11:25:00.405449Z",
+  "uploader": 89136
+}

@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:24:29Z",
+    "lastChanged": "2026-09-22T01:24:29Z",
+    "localBackup": {
+      "asset": "20171.zip",
+      "files": [
+        {
+          "path": "6797348.jpg",
+          "sha256": "77460a7fe29160c216f450d682b36ed45b324a115b870dbfd7a26c9420306949",
+          "size": 217104
+        },
+        {
+          "path": "6797348.json",
+          "sha256": "9cfd994596331f0c73bc54bc79175ccb96b4e302e2203151993a7d3ed8a49a46",
+          "size": 457145
+        },
+        {
+          "path": "6797348.mp3",
+          "sha256": "89a990a4415920c94b7a68d3d61ce24cbb9647fb90614e5be98d6b642996e7e9",
+          "size": 7123445
+        },
+        {
+          "path": "info.txt",
+          "sha256": "1b6d5a0ab54d99cef231929502deace37bb3a835d6e4838d90e413e464740e87",
+          "size": 158
+        },
+        {
+          "path": "info.yml",
+          "sha256": "75c1c55ce8f7d5da84c74439e1732f667048ae4e359cac2840b3a3991e118253",
+          "size": 592
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "6797348.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "6797348.jpg",
+        "lineLength": 6.0,
+        "music": "6797348.mp3",
+        "offset": 0.0,
+        "previewEnd": 91.0,
+        "previewStart": 74.0,
+        "tip": "尽情舞起来吧",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "33d3c32eaceefa645bd8897175b84ed7fc952590d2937808f4a047f262fc632b",
+      "size": 7798946,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20171.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-20T04:31:45.649594Z",
+  "charter": "水杯 dance with 凌雨",
+  "composer": "Ado",
+  "created": "2024-05-20T04:31:45.649594Z",
+  "description": "1line制谱挑战①\n本人谱师，凌雨同意上传",
+  "difficulty": 14.300003,
+  "id": 20171,
+  "illustrator": "pv截图",
+  "level": "? Lv.踊",
+  "name": "踊",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-05-20T04:31:45.649594Z",
+  "uploader": 36
+}

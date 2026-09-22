@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:22Z",
+    "lastChanged": "2026-09-22T01:08:22Z",
+    "localBackup": {
+      "asset": "8484.zip",
+      "files": [
+        {
+          "path": "60014901.json",
+          "sha256": "2d20a44b7453726e33cf7837db5442566c1e52acd219295d9a17ce5304e00f98",
+          "size": 4635573
+        },
+        {
+          "path": "60014901.mp3",
+          "sha256": "51b451281a0f70d93440edae99d6c260325c9e572275a8ae091a39bcbec61b6d",
+          "size": 6012537
+        },
+        {
+          "path": "60014901.png",
+          "sha256": "fb6ae6ddba4d73a3fb72edf32bd34e4a87cf88bd64b96e5658671b793f36e5e8",
+          "size": 130960
+        },
+        {
+          "path": "info.txt",
+          "sha256": "071959d3b94f6baa8b89caf8870ee3c3071244e915612b410856cd2496d8a80c",
+          "size": 160
+        },
+        {
+          "path": "info.yml",
+          "sha256": "55e44bead2df2f676ba679e2d0ca5ff5522e780d525fe9101799c1a6598ce904",
+          "size": 585
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "60014901.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "60014901.png",
+        "lineLength": 6.0,
+        "music": "60014901.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "~极致的狂暴~",
+        "unlockVideo": null
+      },
+      "release": "backup-8000-8999",
+      "sha256": "5b78843db7f6d2c41550a51fd3d6d111995660b9a037038838a468a2a5a70693",
+      "size": 10780323,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-8000-8999/8484.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-27T01:51:36.310493Z",
+  "charter": "NNNN",
+  "composer": "Kobaryo",
+  "created": "2023-08-27T01:51:36.310493Z",
+  "description": "本人上传，bilibili @fwxl-past，更新了简介与tips",
+  "difficulty": 17.199999,
+  "id": 8484,
+  "illustrator": "UK",
+  "level": "AT Lv.17",
+  "name": "G.G.S.B.N.D.S. ",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-11-10T12:17:48.994807Z",
+  "uploader": 16532
+}

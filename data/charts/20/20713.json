@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:25:21Z",
+    "lastChanged": "2026-09-22T01:25:21Z",
+    "localBackup": {
+      "asset": "20713.zip",
+      "files": [
+        {
+          "path": "68086105.jpg",
+          "sha256": "8b190a84b3a12ed77b9e0e4494fac8d62ce5547c9529bdfc8ec3575ec1cabf97",
+          "size": 35701
+        },
+        {
+          "path": "68086105.json",
+          "sha256": "6cc39fea00d911e7db70bf24601a73dc1fd5532246ec16d9066cd8085b9a0285",
+          "size": 4043570
+        },
+        {
+          "path": "68086105.mp3",
+          "sha256": "26977f97aa49392873c5017c8a50adbbd1db41fcafc8cbe94757f25ee431ab1d",
+          "size": 6375550
+        },
+        {
+          "path": "info.txt",
+          "sha256": "dcab30f7fc4dab41ebb2d182ddad72a14e2912e57818b0d0517c0543121c7827",
+          "size": 158
+        },
+        {
+          "path": "info.yml",
+          "sha256": "a2f0f7b4f1d8e3cbbcde4f58535a189ca871c628d35b1656af53bff2c2b56aa7",
+          "size": 552
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "68086105.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "68086105.jpg",
+        "lineLength": 6.0,
+        "music": "68086105.mp3",
+        "offset": 0.0,
+        "previewEnd": 30.0,
+        "previewStart": 20.0,
+        "tip": "Tip : 輕鞭謝謝",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "22015d82bdcc9d7574af5d00b16e0386a19278314989014c93e960a18b4dcc5c",
+      "size": 10456039,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20713.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-02T10:36:56.560549Z",
+  "charter": "NotTure1",
+  "composer": "Raimukun",
+  "created": "2024-06-02T10:36:56.560549Z",
+  "description": "譜師本人上傳 @NotTure1",
+  "difficulty": 17.2,
+  "id": 20713,
+  "illustrator": "あるし",
+  "level": "AT Lv.17",
+  "name": "Avantgarde",
+  "tags": [],
+  "updated": "2024-06-02T10:36:56.560549Z",
+  "uploader": 12901
+}

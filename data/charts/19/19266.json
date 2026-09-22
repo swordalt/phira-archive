@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:22:33Z",
+    "lastChanged": "2026-09-22T01:22:33Z",
+    "localBackup": {
+      "asset": "19266.zip",
+      "files": [
+        {
+          "path": "38048459.jpeg",
+          "sha256": "0aed6eedcc076d6cc0331b0c4edc16290953a0a37300cccc887b7c790be7c5d4",
+          "size": 6237
+        },
+        {
+          "path": "38048459.json",
+          "sha256": "bbb9e48be3a86ec08f09df0a625dd5b1a253a6359bb19d40422509af23fc8b94",
+          "size": 2802693
+        },
+        {
+          "path": "38048459.mp3",
+          "sha256": "8b2d5c981a29e796d0ecd707eb1b71a6450d75a6e61664957e3ffa635e0cb3e6",
+          "size": 966464
+        },
+        {
+          "path": "info.txt",
+          "sha256": "7d2f8ffca953fc2aa9736c9244e0acd9737849bc3c9c75c33f0d4912db210c86",
+          "size": 183
+        },
+        {
+          "path": "info.yml",
+          "sha256": "8c19dc3fde1a9100211bf80b5636b1247e0b3893b7166e84ba694640d7e8ed65",
+          "size": 532
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "38048459.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "38048459.jpeg",
+        "lineLength": 6.0,
+        "music": "38048459.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tips:榜一你是不是怪物？(",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "82306dcd73c0d6d4679b17cd2a6bb8463be89ea42a786910d692636d38a80c17",
+      "size": 3776619,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19266.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "OIIAIOIIIAI黑_胶_",
+  "composer": "黑瘦的鱼头",
+  "created": null,
+  "description": "我就不信有大神phi了",
+  "difficulty": 10.0,
+  "id": 19266,
+  "illustrator": "UK",
+  "level": "SP Lv.OIIAIOIIIAI",
+  "name": "OIIAIOIIIAI",
+  "tags": [
+    "bilibili",
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

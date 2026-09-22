@@ -1,0 +1,65 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:54Z",
+    "lastChanged": "2026-09-22T01:03:54Z",
+    "localBackup": {
+      "asset": "4419.zip",
+      "files": [
+        {
+          "path": "62425178.jpg",
+          "sha256": "15f163d4dc3e5de9802f8bc88ab3798933ca2094f6096c2836936092aaf105a1",
+          "size": 1028785
+        },
+        {
+          "path": "62425178.json",
+          "sha256": "389a2a06023233a6edd10ff86c3b63a347a129879f6cd155fe44580b4bd1e8b8",
+          "size": 1152455
+        },
+        {
+          "path": "62425178.mp3",
+          "sha256": "48f82e4c4684c4955a9f566466c48137c8e426fb8ab0f5ece026b3cf3436c480",
+          "size": 2536644
+        },
+        {
+          "path": "info.yml",
+          "sha256": "aeec6ed367e277dee4a53363ea5cd51e40001220d7bcf39376ef9d914c4e73e5",
+          "size": 537
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "62425178.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "62425178.jpg",
+        "lineLength": 6.0,
+        "music": "62425178.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "我超，Hinkik"
+      },
+      "release": "backup-4000-4999",
+      "sha256": "f45092208a4102aff3a1704d22f3b1652fce2d53337b0dd05160ee387f8cfa25",
+      "size": 4718837,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-4000-4999/4419.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-05T13:55:04.611468Z",
+  "charter": "h2oYue",
+  "composer": "Hinkik & A Himitsu",
+  "created": "2023-07-01T14:06:17.214209Z",
+  "description": "BV1uV4y1S774\n烂谱轻喷",
+  "difficulty": 14.300001,
+  "id": 4419,
+  "illustrator": "Hinkik",
+  "level": "IN Lv.14",
+  "name": "Realms",
+  "tags": [],
+  "updated": "2023-07-06T13:12:45.644357Z",
+  "uploader": 15744
+}

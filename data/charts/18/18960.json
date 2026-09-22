@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:55Z",
+    "lastChanged": "2026-09-22T01:21:55Z",
+    "localBackup": {
+      "asset": "18960.zip",
+      "files": [
+        {
+          "path": "99728204.MP3",
+          "sha256": "470900749e6a2a1485b77574c7a153f7ff045e0e3694aa16fde4c622ddc62ce1",
+          "size": 2595347
+        },
+        {
+          "path": "99728204.jpg",
+          "sha256": "a9f14dfb8af01e84027b49080dfbf63240a926a8be049963b5069d147b569f36",
+          "size": 1157911
+        },
+        {
+          "path": "99728204.json",
+          "sha256": "92d0dbd02dc0392da4903d16ea13144c712680fe7c577ba3cf9e9a54f1f9c6f4",
+          "size": 1219699
+        },
+        {
+          "path": "info.txt",
+          "sha256": "a48aeade5f29fa2df2a5ab84600c3f0004c540e3987648b9054b166a0b478f16",
+          "size": 159
+        },
+        {
+          "path": "info.yml",
+          "sha256": "17f3846e4ee961131b711221b531a52f457c39ee653c43c7f5ef711a5d7e54c8",
+          "size": 677
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "99728204.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "99728204.jpg",
+        "lineLength": 6.0,
+        "music": "99728204.MP3",
+        "offset": 0.0,
+        "previewEnd": 30.0,
+        "previewStart": 13.0,
+        "tip": "This is ture music.",
+        "unlockVideo": null
+      },
+      "release": "backup-18000-18999",
+      "sha256": "8e6778b426dba5a412e3fe006eb11106c2e3ceeb76798db5d1baf738776e702b",
+      "size": 4974301,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-18000-18999/18960.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-04-27T11:09:22.993109Z",
+  "charter": "LPI",
+  "composer": "刘江",
+  "created": "2024-04-27T11:09:22.993109Z",
+  "description": "本人上传\nbilibili: @LPI_\n原标题：牢玩家的小曲\n审核员让我改的\n牢玩家看完泪目了",
+  "difficulty": 15.700003,
+  "id": 18960,
+  "illustrator": "这才是真正的音乐",
+  "level": "IN Lv.15",
+  "name": "大吉大利今晚吃鸡",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-04-27T11:09:22.993109Z",
+  "uploader": 815464
+}

@@ -1,0 +1,114 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:18:57Z",
+    "lastChanged": "2026-09-22T01:18:57Z",
+    "localBackup": {
+      "asset": "15846.zip",
+      "files": [
+        {
+          "path": "99410492.jpg",
+          "sha256": "75c0e4946e39c7450711e08ac6778c1f541fefcb303f756971bbfa4276720a0f",
+          "size": 190094
+        },
+        {
+          "path": "99410492.json",
+          "sha256": "2d1f3ae87c75c3fe0926701fb9f4f3604e720f3d3cf18da8365009a9cf2125cf",
+          "size": 3812674
+        },
+        {
+          "path": "99410492.mp3",
+          "sha256": "22ec1c60417d3b14b163b704bf67026c42ba7ad351750c10447d573a955542e9",
+          "size": 2040054
+        },
+        {
+          "path": "Drag2.png",
+          "sha256": "4ae29e9040410601a642fdd97e635bf49a3d817b1f43374cf6241c6bc60e9dc3",
+          "size": 3033
+        },
+        {
+          "path": "Tap2.png",
+          "sha256": "eb1f5024126c5106165dd0562508f54f83b3ecd00fdf18d0afde2e0cfde86f29",
+          "size": 4000
+        },
+        {
+          "path": "Tap2HL.png",
+          "sha256": "8d89723e62a48a5a7ba8e840335b3049ee8d8d3434d6f9445a5aed1e33912044",
+          "size": 29702
+        },
+        {
+          "path": "info.txt",
+          "sha256": "5a82b9606ce5866bc4d3733da9683407d2c15d770447c7e0096150549ef08246",
+          "size": 196
+        },
+        {
+          "path": "info.yml",
+          "sha256": "ffff5efb4283871e1dcac74ca785b90ecf9dbd63319663dc4504d299ed96abb4",
+          "size": 980
+        },
+        {
+          "path": "lizitou.png",
+          "sha256": "28672adec34252f27e2afd00ee9d8b58a776b727d83ef5939901bbe828d4ed0d",
+          "size": 623220
+        },
+        {
+          "path": "shuodedaoli.png",
+          "sha256": "b8c5428f3f573566bbe27f1bd3365b5ee6cd2f7a9d03ebb4699731410ea4630b",
+          "size": 572558
+        },
+        {
+          "path": "shuodedaoli2.png",
+          "sha256": "508907677b402a4be00542441508cf85f6e36650e2c06dd5a29b99d7bb748253",
+          "size": 1084985
+        },
+        {
+          "path": "waao.png",
+          "sha256": "4f69ce40ff1ada541bd59cb3fb219974942314b0f13603d1c44700d5902647cd",
+          "size": 497676
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "99410492.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "99410492.jpg",
+        "lineLength": 6.0,
+        "music": "99410492.mp3",
+        "offset": 0.0,
+        "previewEnd": 92.0,
+        "previewStart": 72.0,
+        "tip": "Tips:百合是鸠和伊洛文明之宝",
+        "unlockVideo": null
+      },
+      "release": "backup-15000-15999",
+      "sha256": "438ba50e049a9a11d94e38b4094dc812562a9f58b730cc2d388f0b7c75560e6b",
+      "size": 8860366,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15846.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-16T13:06:39.915016Z",
+  "charter": "哇这个梦幻好可爱吖(♥∀♥)",
+  "composer": "默雪SilentSnow",
+  "created": "2024-02-16T13:06:39.915016Z",
+  "description": "新人谱师第15张谱\n⚠️该谱面含有实验性配置，谨慎游玩⚠️\n进入瓶颈期了，最近的谱面可能质量稍差，大家见谅\n轻点评分，过年制谱不易qwq\n顺便提一嘴默雪做的冰真的爽\n祝大家玩的开心OwO\n喜欢我的谱面请B站关注@梦幻不限量",
+  "difficulty": 16.099998,
+  "id": 15846,
+  "illustrator": "默雪SilentSnow",
+  "level": "AT Lv.16",
+  "name": "♿K.Moe (VIP)♿",
+  "tags": [
+    "OTTO",
+    "otto",
+    "电棍",
+    "rotaeno",
+    "故事版",
+    "方向盘",
+    "troll"
+  ],
+  "updated": "2024-02-16T13:06:39.915016Z",
+  "uploader": 565793
+}

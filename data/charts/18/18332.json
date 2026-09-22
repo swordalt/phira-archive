@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:27Z",
+    "lastChanged": "2026-09-22T01:21:27Z",
+    "localBackup": {
+      "asset": "18332.zip",
+      "files": [
+        {
+          "path": "22395588.json",
+          "sha256": "2c64a1c9cbf5afc62e6fa19e15f373601c563caa1446f2bbb0969f184c367620",
+          "size": 1412842
+        },
+        {
+          "path": "22395588.mp3",
+          "sha256": "29f832d6a3930ac926a60d158f1e4381464325e020112d762f3400ca20491d39",
+          "size": 6152891
+        },
+        {
+          "path": "22395588.png",
+          "sha256": "5df6436a9c08bbd9773daddc193572a4364285965c394b7d98c768df4a348843",
+          "size": 1820673
+        },
+        {
+          "path": "info.txt",
+          "sha256": "dd8ada4df58bdee6ffcf922db1db8332c79823823cb0da9f7fada1bede40d84e",
+          "size": 161
+        },
+        {
+          "path": "info.yml",
+          "sha256": "17cc2f71325088ce242c0815eb1136897656384e7e468237ba4f1cd7a990fa49",
+          "size": 590
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "22395588.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "22395588.png",
+        "lineLength": 6.0,
+        "music": "22395588.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-18000-18999",
+      "sha256": "252a275b4e9e4543e754f1dd75a69ffd9036440274fe802dd24cbd5fea4582b9",
+      "size": 9387665,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-18000-18999/18332.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-04-12T12:42:38.497146Z",
+  "charter": "无叶 fighting in 5Lines",
+  "composer": "sasakure.UK",
+  "created": "2024-04-12T12:42:38.497146Z",
+  "description": "简洁的5线2k事件！而且只花了8天",
+  "difficulty": 15.500002,
+  "id": 18332,
+  "illustrator": "ツツミヒデアキ",
+  "level": "IN Lv.15",
+  "name": "the EmpErroR",
+  "tags": [],
+  "updated": "2024-04-15T03:05:47.779860Z",
+  "uploader": 540194
+}

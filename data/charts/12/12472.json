@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:12:37Z",
+    "lastChanged": "2026-09-22T01:12:37Z",
+    "localBackup": {
+      "asset": "12472.zip",
+      "files": [
+        {
+          "path": "8967516.jpg",
+          "sha256": "3dddf5035712fc07f457f74869c0b76cc3d3d034073034eae9218d87d782c7c8",
+          "size": 3541981
+        },
+        {
+          "path": "8967516.json",
+          "sha256": "0e43ab8c19563ba3507b90643e1b675fb4c884f167393757712527eeadc65a13",
+          "size": 1315736
+        },
+        {
+          "path": "8967516.mp3",
+          "sha256": "582d00e6c09fb7df63efe272ce2334b1f8e680379e49143cd957e246d74c289d",
+          "size": 1700024
+        },
+        {
+          "path": "info.txt",
+          "sha256": "95f467dfc00ec11084573e2c275c21b33f7720e22a2e4d4469afe56668f5ee9e",
+          "size": 190
+        },
+        {
+          "path": "info.yml",
+          "sha256": "40bdb5be3964669b74ea92b4f5ab81a5d37e2ad34d9ea614cc6d41546333864d",
+          "size": 588
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "8967516.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "8967516.jpg",
+        "lineLength": 6.0,
+        "music": "8967516.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-12000-12999",
+      "sha256": "2013b712c06ededc92fb467bf69382db46d4e4847c2a07368f331ec8d8788848",
+      "size": 6559021,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12472.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-14T02:44:59.228704Z",
+  "charter": "盐盐",
+  "composer": "水瀬いのり ",
+  "created": "2023-12-15T04:24:44.389459Z",
+  "description": "增加演出,提高观赏度,希望你喜欢——HD版本,本人上传。",
+  "difficulty": 8.0,
+  "id": 12472,
+  "illustrator": "WYY",
+  "level": "HD Lv.8",
+  "name": "快眠!安眠!スヤリスト生活 ",
+  "tags": [],
+  "updated": "2024-01-14T02:44:59.228704Z",
+  "uploader": 39950
+}

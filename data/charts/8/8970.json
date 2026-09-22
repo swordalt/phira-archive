@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:39Z",
+    "lastChanged": "2026-09-22T01:08:39Z",
+    "localBackup": {
+      "asset": "8970.zip",
+      "files": [
+        {
+          "path": "62268287.json",
+          "sha256": "dde8a852496bd4f3753f1e265e281dcecf8ceb5c4bed338a8b37ecf9f0a6cb14",
+          "size": 10918454
+        },
+        {
+          "path": "62268287.mp3",
+          "sha256": "1253fc28c1bee311e4f370673ea70332881c83ceb0111ddc3eb9c44cbc11df81",
+          "size": 4137940
+        },
+        {
+          "path": "62268287.png",
+          "sha256": "0981524349e0b16240d8eaaec2dda477a2a162a2db49821a5040b3192ef96d95",
+          "size": 6853508
+        },
+        {
+          "path": "info.txt",
+          "sha256": "f645c47be8848ca3cf0c377a16d94323d998fd9fde9a303f94dc66d932a9c8e5",
+          "size": 200
+        },
+        {
+          "path": "info.yml",
+          "sha256": "56b950036816425c5ce77e1a19179d4e0fcb82b27889af11fe80947f883b6904",
+          "size": 592
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "62268287.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "62268287.png",
+        "lineLength": 6.0,
+        "music": "62268287.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "关注B站@不爱说话的紫叶 & @衍川Yc 咕~"
+      },
+      "release": "backup-8000-8999",
+      "sha256": "f7a8cbe69be300126fc2f8bba5d51ddd82cd16a2581c85fa482da20497db1e92",
+      "size": 21911202,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-8000-8999/8970.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-09-02T11:49:49.793839Z",
+  "charter": "Ziyieee vs. 衍川Yc",
+  "composer": "USAO",
+  "created": "2023-09-02T11:49:49.793839Z",
+  "description": "谱师本人上传",
+  "difficulty": 15.800003,
+  "id": 8970,
+  "illustrator": "mika",
+  "level": "IN  Lv.15",
+  "name": "ナイト・オブ・ナイツ (USAO Remix)",
+  "tags": [],
+  "updated": "2023-09-02T18:07:32.843169Z",
+  "uploader": 7137
+}

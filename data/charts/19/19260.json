@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:22:31Z",
+    "lastChanged": "2026-09-22T01:22:31Z",
+    "localBackup": {
+      "asset": "19260.zip",
+      "files": [
+        {
+          "path": "38801268.jpg",
+          "sha256": "1ba3fe3bdb1740fc40d0867f2aa0e3c85ede9b86af18621a31c142c9f9f59f28",
+          "size": 96839
+        },
+        {
+          "path": "38801268.json",
+          "sha256": "90ad716c9edbb29eef618c9be41e4a78317040b4271cb02bb0eef46a0942eae8",
+          "size": 131290
+        },
+        {
+          "path": "38801268.mp3",
+          "sha256": "a981b9b60f565d2929041ca3479c7e59f4dbf58a0e6425daaa8ef7cdec5d0703",
+          "size": 419196
+        },
+        {
+          "path": "info.txt",
+          "sha256": "e2da288c4ad5172aab89ca844244cfd37a16a1d42588afd387f60745de01bc90",
+          "size": 150
+        },
+        {
+          "path": "info.yml",
+          "sha256": "4d55a7367b24aaf9c2a2b53ca8d4c3fac49678f57d25d773af01804e00a1c650",
+          "size": 702
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "38801268.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "38801268.jpg",
+        "lineLength": 6.0,
+        "music": "38801268.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip：随便写的",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "9deb8bd683b88aaa6cef05198f9e6251c4d84b52fad40087453c20a77b00eda8",
+      "size": 648685,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19260.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-02T11:26:20.268175Z",
+  "charter": "hc",
+  "composer": "大川Dietry",
+  "created": "2024-05-02T11:26:20.268175Z",
+  "description": "整活谱。\n论我为什么不写特效?原因：我懒，差的特效也是我不想写特效导致的（bushi）\n更新日志：\nV1.0.0（当前版本）：初次上传",
+  "difficulty": 6.0000005,
+  "id": 19260,
+  "illustrator": "网络",
+  "level": "IN Lv.6",
+  "name": "Show it Ben",
+  "tags": [],
+  "updated": "2024-05-02T11:26:20.268175Z",
+  "uploader": 6169
+}

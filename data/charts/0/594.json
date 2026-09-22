@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:02:21Z",
+    "lastChanged": "2026-09-22T01:02:21Z",
+    "localBackup": {
+      "asset": "594.zip",
+      "files": [
+        {
+          "path": "89765069.jpeg",
+          "sha256": "bf081795d0722f7d0fe16177e62a297f24a69e144dafcfd23d52ff1b67c91a58",
+          "size": 448690
+        },
+        {
+          "path": "89765069.json",
+          "sha256": "bc392103ff5286bdd47e0c18b4846308b1380bfb5376860ad1d1387fc55cac1c",
+          "size": 13705256
+        },
+        {
+          "path": "89765069.ogg",
+          "sha256": "0a863d3b6141cf580a280ebfaf9aeec7a091a309907720525b2456a50408f83c",
+          "size": 7522365
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d0f170d00760d282405cc301a9a143411c260ef204721b0843631111b4007c51",
+          "size": 174
+        },
+        {
+          "path": "info.yml",
+          "sha256": "fd6d86ec2d4dc6445bf9c7b3952a19aa183ddd92f5b6f5e777dc0af70b4fc99b",
+          "size": 507
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "89765069.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "89765069.jpeg",
+        "lineLength": 6.0,
+        "music": "89765069.ogg",
+        "offset": 0.05999999,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-0-999",
+      "sha256": "67a8c1c7100c6b3eb17296369d3911d7c702f739242c6c70c478b9360d0e8e09",
+      "size": 21677502,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-0-999/594.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-04-19T17:04:10.561569Z",
+  "charter": "cmdysj",
+  "composer": "Aiobahn feat. KOTOKO",
+  "created": "2023-04-19T17:04:10.561569Z",
+  "description": "本人上传",
+  "difficulty": 16.2,
+  "id": 594,
+  "illustrator": "UK",
+  "level": "AT",
+  "name": "INTERNET YAMERO",
+  "tags": [],
+  "updated": "2023-04-19T17:04:10.561569Z",
+  "uploader": 538
+}

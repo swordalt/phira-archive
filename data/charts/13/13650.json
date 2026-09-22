@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:15:28Z",
+    "lastChanged": "2026-09-22T01:15:28Z",
+    "localBackup": {
+      "asset": "13650.zip",
+      "files": [
+        {
+          "path": "32456787.jpg",
+          "sha256": "ac08234425164101c75e3cbb3f516969892497b78c0298a192c038321819e237",
+          "size": 1152185
+        },
+        {
+          "path": "32456787.json",
+          "sha256": "aa0029825184e5ee2f83b16b67e29f7d117a85d9bdf4d641533b0b4733daedc5",
+          "size": 12794104
+        },
+        {
+          "path": "32456787.mp3",
+          "sha256": "7b9d3335e31eaaa624f58826859fa1036da45cef198200d12a421d7c66b92936",
+          "size": 6643870
+        },
+        {
+          "path": "info.txt",
+          "sha256": "7f0859b9605f912cc0cec5a740c3156744d248910aa464ba24f626aec91e555c",
+          "size": 172
+        },
+        {
+          "path": "info.yml",
+          "sha256": "6dc4018ec2a5a616c6affdafa89849a12a2e13ecbaee835527a3adf7cbe21475",
+          "size": 782
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "32456787.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "32456787.jpg",
+        "lineLength": 6.0,
+        "music": "32456787.mp3",
+        "offset": 0.0,
+        "previewEnd": 78.0,
+        "previewStart": 58.0,
+        "tip": "Tip: 子丑寅卯、辰巳午未、申酉戌亥，一切永无止境地循环下去..."
+      },
+      "release": "backup-13000-13999",
+      "sha256": "4311eec6e88b4c3310981aa5266c2c9f2669b6a8308a7078b48721827b36283d",
+      "size": 20591621,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13650.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-17T14:26:20.866341Z",
+  "charter": "πeverEmp@гθR.L'Kεqinδ",
+  "composer": "nm-y",
+  "created": "2024-01-15T05:22:16.424969Z",
+  "description": "谱师本人上传（马甲总不可能是别人套的吧）。谱有点赶，有点不满意，归类为A谱。\n配置改动，按之后的排行及评分情况进行再打磨。",
+  "difficulty": 15.7,
+  "id": 13650,
+  "illustrator": "Transendium",
+  "level": "IN  Lv.15",
+  "name": "πevergod",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-01-17T14:26:20.866341Z",
+  "uploader": 5798
+}

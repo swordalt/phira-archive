@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:02Z",
+    "lastChanged": "2026-09-22T01:05:02Z",
+    "localBackup": {
+      "asset": "5145.zip",
+      "files": [
+        {
+          "path": "43570638.json",
+          "sha256": "5d5fa9e87f8c80f9d81f4a6554b2bbef8c7ea0eea7eadff9aebff1b1771be4c1",
+          "size": 1524881
+        },
+        {
+          "path": "43570638.mp3",
+          "sha256": "12fb932e466312c9ccbb94db63921221b3642ea5f75e5cb99950802beea23278",
+          "size": 2451812
+        },
+        {
+          "path": "43570638.png",
+          "sha256": "cc6c808d62eee8ea5ff0bf1dcc902b72ca94eede0f3b830ea4b7314a5e65897b",
+          "size": 2501357
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ad923dfa8f49706c7ae15d0b89f9618a564e295a6d44034620355a54a5277e5e",
+          "size": 170
+        },
+        {
+          "path": "info.yml",
+          "sha256": "c56295e33272db656c731f37e971019318a8b1d34e014fa912de6cfbb4a87606",
+          "size": 649
+        }
+      ],
+      "info": {
+        "aspectRatio": 2.1,
+        "backgroundDim": 0.6,
+        "chart": "43570638.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "43570638.png",
+        "lineLength": 6.0,
+        "music": "43570638.mp3",
+        "offset": 0.0,
+        "previewEnd": 135.0,
+        "previewStart": 120.0,
+        "tip": null
+      },
+      "release": "backup-5000-5999",
+      "sha256": "4e585cc50ec684a29d28913b55a08fce33f8e0e2aeb2a87ebf7a4aa48c82d888",
+      "size": 6479377,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5145.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-26T09:07:16.688777Z",
+  "charter": "AlchemistDinnerbone",
+  "composer": "D_AAN",
+  "created": "2023-07-12T05:50:25.784338Z",
+  "description": "本人原创谱，B站炼金Dinnerbone（不久就会发视频），新手作谱，质量还要多练习（\n第二个版本，敬请期待优化修改",
+  "difficulty": 15.799992,
+  "id": 5145,
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Dead Angel",
+  "tags": [],
+  "updated": "2023-07-26T09:07:16.688777Z",
+  "uploader": 114247
+}

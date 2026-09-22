@@ -1,0 +1,65 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:13:49Z",
+    "lastChanged": "2026-09-22T01:13:49Z",
+    "localBackup": {
+      "asset": "12844.zip",
+      "files": [
+        {
+          "path": "18434472.jpg",
+          "sha256": "6c52ca34d6bc1db50bf05fe8734555b83f421a047d25cbf0ce98d8b567b7250b",
+          "size": 108400
+        },
+        {
+          "path": "18434472.json",
+          "sha256": "2d322518771533ed2587449171533995ac04b07eac3149688cc23f8f24503ba6",
+          "size": 1264160
+        },
+        {
+          "path": "18434472.mp3",
+          "sha256": "9dc838b4b90a6cc40780e97565d328768fc685371f6915bf117746be071cc88f",
+          "size": 3572094
+        },
+        {
+          "path": "info.yml",
+          "sha256": "204726309a57df2379943c5b0c7cac6da30446b9659bcca77229d86685d4fb1c",
+          "size": 659
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.39999998,
+        "chart": "18434472.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "18434472.jpg",
+        "lineLength": 6.0,
+        "music": "18434472.mp3",
+        "offset": 0.0,
+        "previewEnd": 110.0,
+        "previewStart": 96.0,
+        "tip": "Tip::qiT"
+      },
+      "release": "backup-12000-12999",
+      "sha256": "6eb86c429e3a2d64261ad36b13ea4232b7a7d6a91d6eb0a2149c351c50334a39",
+      "size": 4945729,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12844.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-25T10:37:46.254025Z",
+  "charter": "春汵ミク",
+  "composer": "gcmstyle feat.初音ミク、鏡音リン、鏡音レン、巡音ルカ、MEIKO、KAITO",
+  "created": "2023-12-25T10:37:46.254025Z",
+  "description": "本人上传，不是观赏谱，理论可打，但仅理论可打(",
+  "difficulty": 16.9,
+  "id": 12844,
+  "illustrator": "gcmstyle",
+  "level": "AT Lv.17",
+  "name": "人生（Our Life)",
+  "tags": [],
+  "updated": "2023-12-25T10:37:46.254025Z",
+  "uploader": 67009
+}

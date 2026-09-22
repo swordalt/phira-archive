@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:25Z",
+    "lastChanged": "2026-09-22T01:06:25Z",
+    "localBackup": {
+      "asset": "6251.zip",
+      "files": [
+        {
+          "path": "92291345.jpg",
+          "sha256": "aa200634c8ad17534fb817b8885016db65f2d533b141e3d78d0d41fb47b08a79",
+          "size": 1178384
+        },
+        {
+          "path": "92291345.json",
+          "sha256": "603efb3c577f034ab11410bc979c054359e743db21951ac487a3facc8ea07bb1",
+          "size": 18967497
+        },
+        {
+          "path": "92291345.mp3",
+          "sha256": "666becd0d61daa69ade5fe8e6d917230f4fe6f39bf6937accb36bc9b0a847ebb",
+          "size": 7024298
+        },
+        {
+          "path": "info.txt",
+          "sha256": "1e8ee870e73006fbe52ad09e0a894dc7cf05fa776a488e95a8c3b41467447242",
+          "size": 169
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f849a5a4e75637d74ca32b9c7de197de3ac4b596e3680e204e9658d27afc1b1e",
+          "size": 805
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.75000006,
+        "chart": "92291345.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "92291345.jpg",
+        "lineLength": 6.0,
+        "music": "92291345.mp3",
+        "offset": 0.04,
+        "previewEnd": 120.0,
+        "previewStart": 100.0,
+        "tip": "\"列车即将启动，旅客朋友请注意安全，祝您旅途愉快!\""
+      },
+      "release": "backup-6000-6999",
+      "sha256": "a870f5210cffca0d33fc5940a37cd7fd72599729a33b3a4ef8616f4ec79e947d",
+      "size": 27171661,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6251.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-29T10:14:33.409621Z",
+  "charter": "列车长——滺绿",
+  "composer": "seatrus",
+  "created": "2023-07-27T18:42:48.895295Z",
+  "description": "谱面为谱师本人上传，如果想要了解更多作品请关注bilibili滺绿—Vlouy，如需录制手元或二次创作请在评论区或者简介下@谱师\n(曲绘改好惹~快让我过罢~♡)",
+  "difficulty": 16.199991,
+  "id": 6251,
+  "illustrator": "2AI4WU4",
+  "level": "Vehicle G-0",
+  "name": "零號車輌",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-07-29T10:14:33.409621Z",
+  "uploader": 47432
+}

@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:12:03Z",
+    "lastChanged": "2026-09-22T01:12:03Z",
+    "localBackup": {
+      "asset": "12165.zip",
+      "files": [
+        {
+          "path": "1689245325.ogg",
+          "sha256": "b54db3ddec64c957f6898d9ba96e45417d97ee6a3312d841b53495934bc5d7eb",
+          "size": 2987495
+        },
+        {
+          "path": "IMG_20230701_220035.jpg",
+          "sha256": "4d70a3fbbf7a2d4880144e2d5d93622cd9d76df43bb7ca79320e27c2531af87f",
+          "size": 631840
+        },
+        {
+          "path": "info.txt",
+          "sha256": "3659607f04715b0bba9dab3db2621bc6a92c3b44c2405c6398037b9fbee444e0",
+          "size": 189
+        },
+        {
+          "path": "info.yml",
+          "sha256": "78372cf400ade03740bae856a56599889b4606def00d9f17b7cfcc4d905e67ca",
+          "size": 621
+        },
+        {
+          "path": "Ēvocator(From Malody).json",
+          "sha256": "eae66151f319345d7026046136e622bd0cb04ff058cfe866ff3bd4c21748e516",
+          "size": 951567
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "Ēvocator(From Malody).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "IMG_20230701_220035.jpg",
+        "lineLength": 6.0,
+        "music": "1689245325.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-12000-12999",
+      "sha256": "1b973d901bac714b13ec06050ae05a1cbb3cb888f596aee85644db7fa710b6d6",
+      "size": 4572274,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12165.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-04T15:10:17.771571Z",
+  "charter": "天崽awa vs 苹果rage",
+  "composer": "Evin a'k",
+  "created": "2023-12-04T15:10:17.771571Z",
+  "description": "限时复刻\n发布屏元/手元需要标注谱师\nQQ1689703497，欢迎锐评",
+  "difficulty": 20.0,
+  "id": 12165,
+  "illustrator": "Evin a'k",
+  "level": "5k Lv.23",
+  "name": "Ēvocator",
+  "tags": [
+    "plain"
+  ],
+  "updated": "2023-12-05T12:09:51.195119Z",
+  "uploader": 17576
+}

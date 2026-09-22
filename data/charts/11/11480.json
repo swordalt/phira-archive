@@ -1,0 +1,78 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:24Z",
+    "lastChanged": "2026-09-22T01:11:24Z",
+    "localBackup": {
+      "asset": "11480.zip",
+      "files": [
+        {
+          "path": "12593511.jpg",
+          "sha256": "e858800f4fdf8b24321b54922d8d1eb170626b4395ee2a5636611e5ff81d5dea",
+          "size": 1245996
+        },
+        {
+          "path": "12593511.mp3",
+          "sha256": "887fb55d19059a4ce4b9cc7faa3fe1d6714a78c5ee06a137683a9e0fe827afe1",
+          "size": 6177423
+        },
+        {
+          "path": "6_12593511.json",
+          "sha256": "49cd091b4e003e22b3d14d41119bebbddf390aa273b2a8bf469187ab53930f35",
+          "size": 12078838
+        },
+        {
+          "path": "Drag10zi.png",
+          "sha256": "69b34b7a6d0138da7aab4ba7e3e63a8c29b9bef509284217b31ca3158f33f85e",
+          "size": 10992
+        },
+        {
+          "path": "extra.json",
+          "sha256": "3fa142394781a50086fc9a635d2f15c09f90accb032f6394b1962b0ee624dc0a",
+          "size": 266
+        },
+        {
+          "path": "info.yml",
+          "sha256": "0a85c333f4ee7ff7150b8042e28c0d519e0dcdfbe427fe659aac3373d590783a",
+          "size": 1536
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "6_12593511.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "12593511.jpg",
+        "lineLength": 6.0,
+        "music": "12593511.mp3",
+        "offset": 0.0,
+        "previewEnd": 112.0,
+        "previewStart": 92.0,
+        "tip": null
+      },
+      "release": "backup-11000-11999",
+      "sha256": "850457ee13c31f4a9f55e7901b4397d5a7f375c59d0ce4b13850fadb39a95f66",
+      "size": 19515667,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11480.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-14T12:40:03.574801Z",
+  "charter": "超级屑影 in the 梦幻宇宙",
+  "composer": "Knighthood",
+  "created": "2023-11-14T12:40:03.574801Z",
+  "description": "新人制谱里程碑，和另一名特效大佬的究极合作谱！\n\n谱师名单:\n梦幻不限量---采音&排键&第一次修改\n一只屑影---特效&第二次修改&封装\n\n谱师留言:\n梦幻不限量:很感谢屑影让我学会了很多特效呢，还有他每次提的意见和见解，感觉让我成长了很多，以及屑影对我排键不恰当的修改，我敢说没有他就没有这张好谱面！非常感激屑影的付出，辛苦啦！\n\n一只屑影:第一次和别人合作，相当开心，此次负责较多特效，感觉有点发力过猛（加入了一点点故事版成分）这次合作学到很多，很感谢梦幻的各种意见和解疑，另外祝好好享受谱面！感谢核审！\n\n15上位爽谱！主考底力爆发，劲爽交互贯穿全谱，特效华丽，手感超好\n最后还是希望大家轻点评分owo\n谱面上传已经过两位谱师的同意，由梦幻不限量上传\n希望大家玩的开心！",
+  "difficulty": 15.799999,
+  "id": 11480,
+  "illustrator": "绀屋",
+  "level": "IN Lv.15",
+  "name": "Super Universe(Knighthood Remix)",
+  "tags": [
+    "rizline",
+    "regular"
+  ],
+  "updated": "2023-11-14T13:06:19.879305Z",
+  "uploader": 15214
+}

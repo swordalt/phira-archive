@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:04:52Z",
+    "lastChanged": "2026-09-22T01:04:52Z",
+    "localBackup": {
+      "asset": "5079.zip",
+      "files": [
+        {
+          "path": "16365811.jpeg",
+          "sha256": "3b8650cd8c294ff70afee6c9ccba1d0d765a26f8fde75f789b582b02619fcda5",
+          "size": 43174
+        },
+        {
+          "path": "16365811.json",
+          "sha256": "5dcdb2e9f61f50eb6c8a670411816c959f715e710e748272c2ad31646c25bf2e",
+          "size": 77027
+        },
+        {
+          "path": "16365811.mp3",
+          "sha256": "fe8552b4a1755ca083b8f28b3292e62efe1f51b9c3b80ac27877ef156159f4ed",
+          "size": 2400768
+        },
+        {
+          "path": "info.txt",
+          "sha256": "eb7ad5e158aea4631e48eab706b3ce6dbe450ec47d5d00037576b338e6f1ccda",
+          "size": 175
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5670edeb843bd2239217ae4964c8c4b7e0c0bf6dcdc282e4500c138340df470b",
+          "size": 508
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "16365811.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "16365811.jpeg",
+        "lineLength": 6.0,
+        "music": "16365811.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip:喵！"
+      },
+      "release": "backup-5000-5999",
+      "sha256": "27895541b86d3a30e0d6b1105b83358e72def06cdcddf3a4c3ef069f7c1cc76b",
+      "size": 2522162,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5079.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-10T10:03:09.439416Z",
+  "charter": "冷酷的猫猫1320",
+  "composer": "Wo只出一剑 ",
+  "created": "2023-07-10T10:03:09.439416Z",
+  "description": "",
+  "difficulty": 13.0,
+  "id": 5079,
+  "illustrator": "UK",
+  "level": "IN Lv.13",
+  "name": "baby喵~",
+  "tags": [],
+  "updated": "2023-07-10T10:03:09.439416Z",
+  "uploader": 47124
+}

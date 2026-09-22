@@ -1,0 +1,85 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:10:46Z",
+    "lastChanged": "2026-09-22T01:10:46Z",
+    "localBackup": {
+      "asset": "11192.zip",
+      "files": [
+        {
+          "path": "27804473.jpg",
+          "sha256": "4e328902dbf83762aa4f0cb0084d57e85d9f63069c126f2cf7dd2015090ba665",
+          "size": 189998
+        },
+        {
+          "path": "27804473.json",
+          "sha256": "9387b5ad4ddb641745a7c6c4eed6d0bfa6feda000b94bf46144b029b8bcca7e7",
+          "size": 24733538
+        },
+        {
+          "path": "27804473.mp3",
+          "sha256": "6612f48954b7c40944d536f04d2b300b130376808c8e02b06fd3649434e5b60a",
+          "size": 2982963
+        },
+        {
+          "path": "AutoSave_2023_11_4_11_32_1_27804473.json",
+          "sha256": "ae1b3e3f11617cef9c7bfce0c7631bf586b2471a6f9c39252780e2999e27a21c",
+          "size": 24760548
+        },
+        {
+          "path": "Flash.fs",
+          "sha256": "eeadecb84ab151177e7fe41a8b8ef611422851f4c7aaaebad84bfc53c084ff9c",
+          "size": 702
+        },
+        {
+          "path": "extra.json",
+          "sha256": "d51238fcbdabb0722e7584dc453ee8c68cfb744e43ab4a66ff311aea6006632e",
+          "size": 4670
+        },
+        {
+          "path": "info.txt",
+          "sha256": "76476e1887ac1ee4fdb32dde1f477b23b4a3c966f83ac477a2b536845d504baa",
+          "size": 184
+        },
+        {
+          "path": "info.yml",
+          "sha256": "68b8fcedf92af5fd4a654b4a66803bce0b46ccb9c12825121c537b16dd93fc44",
+          "size": 783
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "27804473.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "27804473.jpg",
+        "lineLength": 6.0,
+        "music": "27804473.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "最后一直是纵连哦"
+      },
+      "release": "backup-11000-11999",
+      "sha256": "a86d7b084858be969dd4a679d761ff40fcf94d88012f5ef069da7587f3ec2a3c",
+      "size": 52674238,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11192.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-12T09:35:29.097201Z",
+  "charter": "Starduster谱师组",
+  "composer": "RiraN,NeLiME",
+  "created": "2023-11-05T05:50:59.152159Z",
+  "description": "本铺面由@柴犬仙人@寒毅_@TXD_DZ@Starduster_China谱师联合出品。纯粹拍砖曲，视频详见bilibili（用户名即上述@）暂时定数为16.5，有不足多在评论区留言！是本人上传！是本人上传！是本人上传！",
+  "difficulty": 16.500002,
+  "id": 11192,
+  "illustrator": "UK",
+  "level": "AT Lv.16",
+  "name": "Obliviscetur Historia",
+  "tags": [],
+  "updated": "2023-11-18T16:59:49.870593Z",
+  "uploader": 13041
+}

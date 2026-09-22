@@ -1,0 +1,78 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:50Z",
+    "lastChanged": "2026-09-22T01:09:50Z",
+    "localBackup": {
+      "asset": "10498.zip",
+      "files": [
+        {
+          "path": "10028174.jpg",
+          "sha256": "739e82a976f2a4bfc52e6a53ef91934105070ee5955750cc27c314b4495cb0d6",
+          "size": 444512
+        },
+        {
+          "path": "10028174.json",
+          "sha256": "6e5d35fa1f1dc66b0f676250f07741282d3cd7f8917d94454317f700dc4ec719",
+          "size": 71057
+        },
+        {
+          "path": "10028174.mp3",
+          "sha256": "eaeacf0b2283921cc20d96010448cd915f3f6e46cbcd30b7e646888d3fb17ff0",
+          "size": 227984
+        },
+        {
+          "path": "info.txt",
+          "sha256": "156dfd6db8e855803954c2984f944c70ee423c65f4ebf9067de2e2e8093dcfe0",
+          "size": 212
+        },
+        {
+          "path": "info.yml",
+          "sha256": "e3b8f200c583ad6c880eb6b43dd04f29693f4168ea43f2a9318dddf3e1c8d90a",
+          "size": 813
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "10028174.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "10028174.jpg",
+        "lineLength": 6.0,
+        "music": "10028174.mp3",
+        "offset": 0.0,
+        "previewEnd": 19.0,
+        "previewStart": 0.0,
+        "tip": "Tip : 垃圾RPE，我是永远也不会原谅你的！永远都不会！",
+        "unlockVideo": null
+      },
+      "release": "backup-10000-10999",
+      "sha256": "0a170579683ba8e97ccc3e07dd607d1577a5a4ce1216bb3b79d011ead85d8535",
+      "size": 745086,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-10000-10999/10498.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-10-15T05:13:03.230741Z",
+  "charter": "开心的SystemBM5071",
+  "composer": "❤游❤乐❤王❤子❤",
+  "created": "2023-10-15T05:13:03.230741Z",
+  "description": "为谱师本人上传，请放到整活区里。\nB站游览：https://b23.tv/mOaZPCr",
+  "difficulty": 12.5,
+  "id": 10498,
+  "illustrator": "❤游❤乐❤王❤子❤",
+  "level": "SP Lv.?",
+  "name": "我是永远都不会原谅你的",
+  "tags": [
+    "李云龙",
+    "游乐王子",
+    "冷漠无情的人",
+    "故事板",
+    "stable",
+    "troll"
+  ],
+  "updated": "2023-10-28T01:28:11.760419Z",
+  "uploader": 3604
+}

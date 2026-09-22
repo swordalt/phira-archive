@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:04Z",
+    "lastChanged": "2026-09-22T01:07:04Z",
+    "localBackup": {
+      "asset": "6853.zip",
+      "files": [
+        {
+          "path": "55939321.jpg",
+          "sha256": "806a904cfff43739af620dd9ba4409946992745fcbed2cd7ee0d2a7ea2fa1561",
+          "size": 20880
+        },
+        {
+          "path": "55939321.json",
+          "sha256": "2e79e1397a43727cd015b0817dbbf824c1b43c7124b259dad09ec7ed81ec95bd",
+          "size": 87208
+        },
+        {
+          "path": "55939321.mp3",
+          "sha256": "9a69d6a820c1877b7b9fce5a73f3247d874eac8217f70e8cde1edbb44d08d052",
+          "size": 2324930
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ca75e9f559af360647532fc4858978814731a93e2342f248012b27ab5b9cfee1",
+          "size": 160
+        },
+        {
+          "path": "info.yml",
+          "sha256": "9344ca093bd487946b16d5862e9b469ff9d9d562d9647fee967aba6cd60df7c0",
+          "size": 607
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "55939321.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "55939321.jpg",
+        "lineLength": 6.0,
+        "music": "55939321.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip：我是天利的狗"
+      },
+      "release": "backup-6000-6999",
+      "sha256": "bf30bc386bc02900692b4ced7da0b59bee990675e16e9bfc46ec6848a19a4658",
+      "size": 2434293,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6853.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-05T05:37:44.691229Z",
+  "charter": "A_xie_A",
+  "composer": "Daily、Roon_Kun",
+  "created": "2023-08-05T05:37:44.691229Z",
+  "description": "后面懒得写特效力（\n基本是纯4k配置\n希望审核能提出您宝贵的建议ww",
+  "difficulty": 16.300001,
+  "id": 6853,
+  "illustrator": "UK",
+  "level": "AT LV.16",
+  "name": "Poppy",
+  "tags": [],
+  "updated": "2023-08-14T16:22:28.496081Z",
+  "uploader": 37747
+}

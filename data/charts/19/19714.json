@@ -1,0 +1,80 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:23:17Z",
+    "lastChanged": "2026-09-22T01:23:17Z",
+    "localBackup": {
+      "asset": "19714.zip",
+      "files": [
+        {
+          "path": "22811981.jpg",
+          "sha256": "d6989ae8418c2c921607bb4948f73a0279ed7dd94e71e3cebea48a627653cf88",
+          "size": 215181
+        },
+        {
+          "path": "22811981.json",
+          "sha256": "c37f2a5c6b6af2975ffe2523d70b815e530e8de6e27fa54ea83a9541eb6d9b3e",
+          "size": 6217552
+        },
+        {
+          "path": "22811981.ogg",
+          "sha256": "273ba6fb5a545c482f17c9894410ba9669ff29ecfbf9a2e97c8796a8a96fdb1a",
+          "size": 3021688
+        },
+        {
+          "path": "info.txt",
+          "sha256": "c65397e684a4d4362bc4ed2201053e32dc32f615a5781581ae1fea260edb5603",
+          "size": 177
+        },
+        {
+          "path": "info.yml",
+          "sha256": "9b70b54e0b11065265f4782c6d67c1b01a8d96b0af6a21ca4febb608b6c0709a",
+          "size": 738
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "22811981.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "22811981.jpg",
+        "lineLength": 6.0,
+        "music": "22811981.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "ERROR 403: FORBIDDEN",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "06ca454364f0907794a352e613365e45af716522f1278f331fcbc27db74af356",
+      "size": 9455844,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19714.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-08T18:31:28.694640Z",
+  "charter": "L11 Restart VS. Ekrixi",
+  "composer": "Knighthood",
+  "created": "2024-05-08T18:31:28.694640Z",
+  "description": "[EN/US]\r\n\r\nChart finished in 2 weeks\r\n\r\nSolo chart\r\n\r\nEnjoy, and good luck on the quadscroll part",
+  "difficulty": 16.700003,
+  "id": 19714,
+  "illustrator": "Sin.",
+  "level": "AT Lv.16",
+  "name": "Access Denied",
+  "tags": [
+    "Orzmic",
+    "Knighthood",
+    "Bluewind",
+    "Valtrax",
+    "Val7rax",
+    "Hardcore",
+    "Multifinger",
+    "regular"
+  ],
+  "updated": "2024-05-08T18:31:28.694640Z",
+  "uploader": 591
+}

@@ -1,0 +1,65 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:02:04Z",
+    "lastChanged": "2026-09-22T01:02:04Z",
+    "localBackup": {
+      "asset": "376.zip",
+      "files": [
+        {
+          "path": "6.jpg",
+          "sha256": "a0f0649e2083c3ebebff39cba979bf6524f26b8b52d1b647db2def3f4a336a02",
+          "size": 232996
+        },
+        {
+          "path": "6.mp3",
+          "sha256": "c31c12ac780908f945b22c3b69bccd85a077b0aec40ac41c366eeb2ae9e5e358",
+          "size": 4268472
+        },
+        {
+          "path": "6.pec",
+          "sha256": "66f104e4cdca92ed89c96fcbdb2aab7cba570074cecf54cac7ed2145380674dd",
+          "size": 106941
+        },
+        {
+          "path": "info.yml",
+          "sha256": "bf03bf0021a1c10d2d441611feb8a0f2b4185a75e5ea11cf34fbacf535fbc5bc",
+          "size": 606
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "6.pec",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "6.jpg",
+        "lineLength": 6.0,
+        "music": "6.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "谱师是怎么忍住不写难的"
+      },
+      "release": "backup-0-999",
+      "sha256": "445e7ae677548ae52fa25ae0c77cb312fe6c6d2288f346e0ff8ab74eea7345e2",
+      "size": 4609387,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-0-999/376.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-04-02T08:24:52.826382Z",
+  "charter": "DFC_Team",
+  "composer": "V.A.",
+  "created": "2023-04-02T08:24:52.826382Z",
+  "description": "",
+  "difficulty": 6.0,
+  "id": 376,
+  "illustrator": "V.A.",
+  "level": "Stamina",
+  "name": "Various Artists - Double Finger Course ~ REFORM ~ StaminaMap Pack (DFC_Team) [End Mark ni Kibou to Namida wo Soete ~ 6th ~ (Marathon)]",
+  "tags": [],
+  "updated": "2023-04-02T08:24:52.826382Z",
+  "uploader": 77
+}

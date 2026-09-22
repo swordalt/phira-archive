@@ -1,0 +1,78 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:23:22Z",
+    "lastChanged": "2026-09-22T01:23:22Z",
+    "localBackup": {
+      "asset": "19830.zip",
+      "files": [
+        {
+          "path": "info.txt",
+          "sha256": "95e4cd6931521060ba32a90cd1d0550e4db3ae6fed3e16110c319baf8cb446d6",
+          "size": 129
+        },
+        {
+          "path": "info.yml",
+          "sha256": "01d455cd2366a17e05e50e3d512cbdc3d18a131a5ab8f3084c93988a9dd3417b",
+          "size": 762
+        },
+        {
+          "path": "qaz.jpg",
+          "sha256": "3c8d0e8775d65a48e6705ee3cf23b8dd5ddb043102b88900ddfba38c8e9b940f",
+          "size": 131324
+        },
+        {
+          "path": "qaz.json",
+          "sha256": "a2d602cb515c6092e1ad2b9240399b6ed22bca2e83e2323ec322763ab4bfefdf",
+          "size": 1035524
+        },
+        {
+          "path": "qaz.ogg",
+          "sha256": "638d94621a9c029a0162aa59280c2082da99f0fb3793fc3dd1b8655ca49abe8e",
+          "size": 1769905
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "qaz.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "qaz.jpg",
+        "lineLength": 6.0,
+        "music": "qaz.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "王！大！师！",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "27f8572ea7b81ee44ba7ca745adcf566af5b1ba4cb69cfaf7f05c8f80754b9dd",
+      "size": 2938122,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19830.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-11T15:06:09.691845Z",
+  "charter": "某猫中的某猫",
+  "composer": "鸽潭一姐",
+  "created": "2024-05-11T15:06:09.691845Z",
+  "description": "瞎几把写的粉扑，主打一个放飞自我\n拿Malody写的，然后转换格式得到的谱面，所以有点小问题",
+  "difficulty": 17.5,
+  "id": 19830,
+  "illustrator": "鸽潭一姐",
+  "level": "SP lv.巅峰",
+  "name": "萨菲罗斯男人中的男人",
+  "tags": [
+    "粉扑",
+    "精神状态",
+    "萨菲罗斯男人中的男人",
+    "王大师",
+    "巅峰",
+    "troll"
+  ],
+  "updated": "2024-05-11T15:06:09.691845Z",
+  "uploader": 206982
+}

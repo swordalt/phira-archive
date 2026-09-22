@@ -1,0 +1,122 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:14:04Z",
+    "lastChanged": "2026-09-22T01:14:04Z",
+    "localBackup": {
+      "asset": "13080.zip",
+      "files": [
+        {
+          "path": "35143049.jpg",
+          "sha256": "4d5f3846114e10c1fc8535e64de2343c2f141d2282ab5c6c05c92a9aaa540b98",
+          "size": 266338
+        },
+        {
+          "path": "35143049.json",
+          "sha256": "1bdd2da6127a5c943d6e2e4485be835c51f890a7802c940f5b47be7d6940cefe",
+          "size": 17038676
+        },
+        {
+          "path": "35143049.mp3",
+          "sha256": "2d6462af3017c8aafc6538acba5a7cfd5c35f078510eba6d28fbc2a31e5e2c72",
+          "size": 3520896
+        },
+        {
+          "path": "DragHL.png",
+          "sha256": "5dd56de2af05477bfcc697ce373d8b1895cdceecef3306a934f4545d5d85b1ad",
+          "size": 24750
+        },
+        {
+          "path": "Flick2HL.png",
+          "sha256": "dcbd287215c560dddd60fdca8bdb6d5492931d88122c6183e02af38f074fc911",
+          "size": 51672
+        },
+        {
+          "path": "OTTO.mp4",
+          "sha256": "ef443c007683122dab5e272f2f363424ac55e5efb943717942feaffa9da33a30",
+          "size": 4559117
+        },
+        {
+          "path": "Tap2HL.png",
+          "sha256": "8d89723e62a48a5a7ba8e840335b3049ee8d8d3434d6f9445a5aed1e33912044",
+          "size": 29702
+        },
+        {
+          "path": "extra.json",
+          "sha256": "95b68ea574829d4b9b7c9a4653f5cb5aa7c3712a6fcef4cbbb07087023dc165e",
+          "size": 345
+        },
+        {
+          "path": "info.txt",
+          "sha256": "68e48cdae1eaf8f85d277e829bf53f035409b83fc60f1962e9c6051e7aad5d7f",
+          "size": 174
+        },
+        {
+          "path": "info.yml",
+          "sha256": "979b46f132f0d4d12669563bf09d28ca460770706574133068fe4b5cd00fe327",
+          "size": 1017
+        },
+        {
+          "path": "lizitou.png",
+          "sha256": "28672adec34252f27e2afd00ee9d8b58a776b727d83ef5939901bbe828d4ed0d",
+          "size": 623220
+        },
+        {
+          "path": "shuodedaoli.png",
+          "sha256": "b8c5428f3f573566bbe27f1bd3365b5ee6cd2f7a9d03ebb4699731410ea4630b",
+          "size": 572558
+        },
+        {
+          "path": "shuomugunge.png",
+          "sha256": "58b109d04713b66f403138e6608bf030ab2a410627718ed5ea0b804ac6e4a340",
+          "size": 747174
+        },
+        {
+          "path": "waao.png",
+          "sha256": "4f69ce40ff1ada541bd59cb3fb219974942314b0f13603d1c44700d5902647cd",
+          "size": 497676
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "35143049.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "35143049.jpg",
+        "lineLength": 6.0,
+        "music": "35143049.mp3",
+        "offset": 0.0,
+        "previewEnd": 114.0,
+        "previewStart": 94.3,
+        "tip": "Tips:你这么写谱，你的马是批发的?"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "3076114102f1c7a820756efc3fc3597813161bf933d3b83295936c56f311b914",
+      "size": 27934705,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13080.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-31T12:50:15.167414Z",
+  "charter": "我超，梦幻",
+  "composer": "DJDracula",
+  "created": "2023-12-31T12:50:15.167414Z",
+  "description": "烂活新整，新人谱师第11张谱\n谱师得甲流了，所以这张谱子拖了快一周，深感抱歉\n这首曲子蛮爽的，听到的时候就大了，于是写了这张谱子\n因为是带病赶出来的，所以可能存在部分配置手感不太好的问题，见谅\n可以来B站关注@梦幻不限量\n请勿在吃饭/喝水时游玩本谱面\n光敏性癫痫深入，内含闪光",
+  "difficulty": 16.400003,
+  "id": 13080,
+  "illustrator": "我超，P的",
+  "level": "AT Lv.16",
+  "name": "♿Nuclear-Star♿",
+  "tags": [
+    "OTTO",
+    "otto",
+    "电棍",
+    "故事版",
+    "camellia",
+    "troll"
+  ],
+  "updated": "2023-12-31T12:50:15.167414Z",
+  "uploader": 15214
+}

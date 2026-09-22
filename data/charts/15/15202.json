@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:18:03Z",
+    "lastChanged": "2026-09-22T01:18:03Z",
+    "localBackup": {
+      "asset": "15202.zip",
+      "files": [
+        {
+          "path": "46001750.json",
+          "sha256": "e0d3c118d4828d38d8f70fe37e39190c8a013f4d560fe85501f539426dda6c46",
+          "size": 9258417
+        },
+        {
+          "path": "46001750.mp3",
+          "sha256": "606a5c42dcd7369b0f935893a5a20b86d8f6e60633b151e3eefbd8c59531d320",
+          "size": 6281102
+        },
+        {
+          "path": "46001750.png",
+          "sha256": "846805034e6896709d38706189a95eb2ea3ad2a040fb3133405f5500d5daa7e1",
+          "size": 2801220
+        },
+        {
+          "path": "info.txt",
+          "sha256": "735c5744c2d33b9bf946ccbf452206cac6fe6287825d16b30d82d8f273204e42",
+          "size": 181
+        },
+        {
+          "path": "info.yml",
+          "sha256": "c468493882ef0757be690ef2439d7a830caf68d3e4b7fabba4cbe3c148d201bb",
+          "size": 586
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "46001750.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "46001750.png",
+        "lineLength": 6.0,
+        "music": "46001750.mp3",
+        "offset": 0.0,
+        "previewEnd": 33.0,
+        "previewStart": 18.0,
+        "tip": "Tip: 口爸，神（泪",
+        "unlockVideo": null
+      },
+      "release": "backup-15000-15999",
+      "sha256": "2a4655162fb07c5bd77b0f0e801a1cfb0567b345021a406e83d82031a77d43f0",
+      "size": 18342014,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15202.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-09T22:44:17.962562Z",
+  "charter": "6thPecJam",
+  "composer": "Kobaryo, blaxervant",
+  "created": "2024-02-09T22:44:17.962562Z",
+  "description": "本人上传（",
+  "difficulty": 15.800003,
+  "id": 15202,
+  "illustrator": "ﾒﾄ",
+  "level": "IN Lv.15",
+  "name": "Unlock the Blacksky",
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2024-03-09T15:24:17.835540Z",
+  "uploader": 28748
+}

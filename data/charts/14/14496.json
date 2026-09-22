@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:38Z",
+    "lastChanged": "2026-09-22T01:16:38Z",
+    "localBackup": {
+      "asset": "14496.zip",
+      "files": [
+        {
+          "path": "73899771.json",
+          "sha256": "07d0ef690fc571223f454144d17b8c7a7ee59dc2920c50e001d5de055dea9ea3",
+          "size": 6051442
+        },
+        {
+          "path": "73899771.mp3",
+          "sha256": "c4ce7f2e7b046878ffd9b4039ae50cdfd3285f16f6ecbf8edfe34b6073e2132a",
+          "size": 6053291
+        },
+        {
+          "path": "73899771.png",
+          "sha256": "8a7472bb4857f6968b1f7c8ac90c4b897002182e2761e0adbfa54ec376c26704",
+          "size": 849294
+        },
+        {
+          "path": "info.txt",
+          "sha256": "7f513194a0acacfbbf2e5e5cae0011a89d2721418154d9d1c4b4aa198cb0c299",
+          "size": 177
+        },
+        {
+          "path": "info.yml",
+          "sha256": "325c1a1cba50d7bbe8da362358cad30e04d0e102a9b1aabe3942fc77090ab3f7",
+          "size": 562
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "73899771.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "73899771.png",
+        "lineLength": 6.0,
+        "music": "73899771.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "也不知道说什么所以就说说什么吧！"
+      },
+      "release": "backup-14000-14999",
+      "sha256": "e704ac60f67e1bd1ae7b87e6738b321b49fe8fb6d2a7800aae32627e3787ef67",
+      "size": 12955274,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14496.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "RTX20000",
+  "composer": "minus7LUFS / 月見静華",
+  "created": null,
+  "description": "把上一个下架一下谢谢我感觉这个铺不太常规（",
+  "difficulty": 15.3,
+  "id": 14496,
+  "illustrator": "博客曲绘（不是",
+  "level": "AT Lv.15",
+  "name": "月下缭乱",
+  "tags": [
+    "visual"
+  ],
+  "updated": null,
+  "uploader": null
+}

@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:19:12Z",
+    "lastChanged": "2026-09-22T01:19:12Z",
+    "localBackup": {
+      "asset": "16059.zip",
+      "files": [
+        {
+          "path": "39093404.jpg",
+          "sha256": "bd37098f41cc7d3c7ec23c6952a24743ac60d88f3d4eeb27c314ec267fd750d8",
+          "size": 143202
+        },
+        {
+          "path": "39093404.json",
+          "sha256": "5405f7ed4f34566a5992e382163446b47b7a4c688ee314b0fbce2cc852b655e5",
+          "size": 3403841
+        },
+        {
+          "path": "39093404.mp3",
+          "sha256": "155819b858fc40064773a7d92db42ca9a1d1b8d61ab883b7b6b774ee598326f4",
+          "size": 6039843
+        },
+        {
+          "path": "info.txt",
+          "sha256": "da0898f115d968237d803cd0547490249536c892287550beacd37dc384c9ada0",
+          "size": 144
+        },
+        {
+          "path": "info.yml",
+          "sha256": "2ef201efc065afda7008b24d2ce8b9a44291324207ed0ae9732a3fe14a3e9b71",
+          "size": 525
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "39093404.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "39093404.jpg",
+        "lineLength": 6.0,
+        "music": "39093404.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-16000-16999",
+      "sha256": "a17ab862154decd3b0bffdd4b9d8dc328a35cf74086ad291f0dc2b33d9dacce6",
+      "size": 9588063,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-16000-16999/16059.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "Hwere",
+  "composer": "黒魔",
+  "created": null,
+  "description": "谱师本人上传，借鉴了很多谱师的作品，但效果可能不是特别好，毕竟6天速写",
+  "difficulty": 15.0,
+  "id": 16059,
+  "illustrator": "From SDVX",
+  "level": "IN Lv.15",
+  "name": "I",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

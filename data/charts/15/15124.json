@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:57Z",
+    "lastChanged": "2026-09-22T01:17:57Z",
+    "localBackup": {
+      "asset": "15124.zip",
+      "files": [
+        {
+          "path": "30991926.json",
+          "sha256": "c0d05017a8ead9100268b966cee94bde5cdcd76be28a5d3370283d9ddeeaf0b5",
+          "size": 589825
+        },
+        {
+          "path": "30991926.ogg",
+          "sha256": "9df3bab385191c0942a638801fa3de8f8b446744de1b98c5d1e4cd91def7a073",
+          "size": 1838528
+        },
+        {
+          "path": "30991926.png",
+          "sha256": "16e104c42fee4167cadc8fdada6afb73671be6b3c54cd8eb39a42b11d01a2a15",
+          "size": 235520
+        },
+        {
+          "path": "info.txt",
+          "sha256": "0f6167e260af606c1fce3c8b1c2f15bdf34ad51409ca06e5e65f517257fcf39f",
+          "size": 181
+        },
+        {
+          "path": "info.yml",
+          "sha256": "c272c0e574b1a6eff241cecdee0ef3aa74740b359395684aad71898f61c1bb6e",
+          "size": 798
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "30991926.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "30991926.png",
+        "lineLength": 6.0,
+        "music": "30991926.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "新人初谱，见谅，莫被初见杀坏了一天的好心情（你，戴耳机了吗？）",
+        "unlockVideo": null
+      },
+      "release": "backup-15000-15999",
+      "sha256": "d2b05c6bf915d8ff52b8be0b03c48618a3a41e080746423aa97fbbe9e151bb11",
+      "size": 2665360,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15124.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-09T08:36:42.563558Z",
+  "charter": "Tyan-an",
+  "composer": "Comrade Proletariat",
+  "created": "2024-02-09T08:36:42.563558Z",
+  "description": "新人初谱。原曲实在太长，作了删减。初见会比较难受，但适应后会好很多！B站同名。【戴上耳机，打开新世界的大门】",
+  "difficulty": 15.100004,
+  "id": 15124,
+  "illustrator": "QQ音乐",
+  "level": "IN Lv.15",
+  "name": "天上太阳红彤彤（short ver.）",
+  "tags": [],
+  "updated": "2024-02-09T08:36:42.563558Z",
+  "uploader": 155919
+}

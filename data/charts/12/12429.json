@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:12:29Z",
+    "lastChanged": "2026-09-22T01:12:29Z",
+    "localBackup": {
+      "asset": "12429.zip",
+      "files": [
+        {
+          "path": "69347750.jpg",
+          "sha256": "79dce9335f3c1c28779c9b125c6704f64ef07043aa3ca3a7a161f07449943353",
+          "size": 1564910
+        },
+        {
+          "path": "69347750.json",
+          "sha256": "89e2bf5c0d553a9fa95b05dd9a43675e505794ee7e22e2979fe6b5603dda2042",
+          "size": 8759745
+        },
+        {
+          "path": "69347750.mp3",
+          "sha256": "b0a0c77d0331db5e7dfa6194e88dce3e447f537f01aab3f6b4cc0b8ef2b2295e",
+          "size": 3001651
+        },
+        {
+          "path": "info.txt",
+          "sha256": "0f44ab771d90776522c8fdc511c59af00519083928b2e00deceef2172e74a929",
+          "size": 174
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5af612a7358d6feb6dcb1e97b9066ca51d383ef06f8328ee6851aee0febd2321",
+          "size": 691
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.55555,
+        "backgroundDim": 0.59999996,
+        "chart": "69347750.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "69347750.jpg",
+        "lineLength": 6.0,
+        "music": "69347750.mp3",
+        "offset": 0.0,
+        "previewEnd": 130.92,
+        "previewStart": 115.92,
+        "tip": "like a SUPER NOVA!!!"
+      },
+      "release": "backup-12000-12999",
+      "sha256": "a4c894cee4c0eae6e84a8d32327632396e7387bff0c9f77f7f50b444dbee7498",
+      "size": 13327679,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12429.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-13T10:57:51.789626Z",
+  "charter": "LPI. Project",
+  "composer": "shadow_bling",
+  "created": "2023-12-13T10:57:51.789626Z",
+  "description": "本人上傳\nbilibili: @LPI_\n很早之前就寫的答辯，\n特效拉垮了，\n先暫時傳一下\n等重做好後再下架",
+  "difficulty": 14.700003,
+  "id": 12429,
+  "illustrator": "狂想心匣",
+  "level": "IN Lv.14",
+  "name": "Super Nova Project",
+  "tags": [
+    "RYCEAM",
+    "regular"
+  ],
+  "updated": "2023-12-13T10:57:51.789626Z",
+  "uploader": 7084
+}

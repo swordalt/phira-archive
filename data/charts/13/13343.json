@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:14:38Z",
+    "lastChanged": "2026-09-22T01:14:38Z",
+    "localBackup": {
+      "asset": "13343.zip",
+      "files": [
+        {
+          "path": "69279834.jpg",
+          "sha256": "c1e774b4b531fb81e9b3e868c331036cf210ef35d8e18267c97f4f126d8c425a",
+          "size": 64671
+        },
+        {
+          "path": "69279834.json",
+          "sha256": "2888b579b85902723dd16fb10224f2ab5098447833541ea6a85a9a0913ebe5b5",
+          "size": 1274390
+        },
+        {
+          "path": "69279834.mp3",
+          "sha256": "7f63d531601cd3a71830f42a413fe390c4fac8f923d21cbfb9b900586d0cfda0",
+          "size": 2390814
+        },
+        {
+          "path": "info.txt",
+          "sha256": "24c38a95cbe0ce5eca42a34a1d8a6a81188fb3f4901d2aac3408ac53400338fb",
+          "size": 162
+        },
+        {
+          "path": "info.yml",
+          "sha256": "e46b4a021fcac86c1afae37b7fa6956a4db44003f3ca705fb2a2a23b215eee6a",
+          "size": 605
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "69279834.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "69279834.jpg",
+        "lineLength": 6.0,
+        "music": "69279834.mp3",
+        "offset": 0.0,
+        "previewEnd": 63.0,
+        "previewStart": 48.0,
+        "tip": null
+      },
+      "release": "backup-13000-13999",
+      "sha256": "4dae4474bcc7a924feeaefc1a8661b6cd0157c2caf584adc4508bb352d78e4d5",
+      "size": 3731150,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13343.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-07T06:28:45.343543Z",
+  "charter": "Daily天利",
+  "composer": "Daily天利 vs. Roon_kun",
+  "created": "2024-01-07T06:28:45.343543Z",
+  "description": "肝了两天做出来的                            B站：瑞12183（未发视频）",
+  "difficulty": 17.300001,
+  "id": 13343,
+  "illustrator": "UK",
+  "level": "AT Lv.17",
+  "name": "Muspelheim（finish）",
+  "tags": [],
+  "updated": "2024-01-07T06:28:45.343543Z",
+  "uploader": 520765
+}

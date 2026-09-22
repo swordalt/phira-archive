@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:02:57Z",
+    "lastChanged": "2026-09-22T01:02:57Z",
+    "localBackup": {
+      "asset": "2077.zip",
+      "files": [
+        {
+          "path": "29735487.jpg",
+          "sha256": "65a50b95abeb5739e43c039bcd1d8949041f64497e5b99b72e7552aa2d13fd8e",
+          "size": 68669
+        },
+        {
+          "path": "29735487.json",
+          "sha256": "dd70de87fc53b7f217867bbc5f390adcca336b2f6983ecd17cd14965e3937a99",
+          "size": 7540475
+        },
+        {
+          "path": "29735487.mp3",
+          "sha256": "1ec6dc828abbbeef084fc22c2de405b73b21c5fcf01945ad667cab0253bafa3e",
+          "size": 12458642
+        },
+        {
+          "path": "info.txt",
+          "sha256": "cf5bb599ebda5b872562672a20c2c2487dc0015c268b8069a090c754781528da",
+          "size": 274
+        },
+        {
+          "path": "info.yml",
+          "sha256": "1ddf51b60d6ee6bd0da9324f0b017e2c71f83099c329a5feba5805f5fd338af4",
+          "size": 828
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "29735487.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "29735487.jpg",
+        "lineLength": 6.0,
+        "music": "29735487.mp3",
+        "offset": -0.045,
+        "previewEnd": 14.45,
+        "previewStart": 0.0,
+        "tip": "转发这个谱面来恶心你身边喜欢Random的好友"
+      },
+      "release": "backup-2000-2999",
+      "sha256": "90da0ebc9e4ad7b95a2dde7708be7e98e890a8f6a6a105f4bc4136c6df5c21ca",
+      "size": 20069396,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-2000-2999/2077.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-05-14T13:12:44.255052Z",
+  "charter": "类人谱师群星闪耀时",
+  "composer": "Ju_E,WTD,EvilServant,Forle,으엨희,Lidelle,binmode,chilldive,artworld,Qyubey,Quree",
+  "created": "2023-05-14T13:12:44.255052Z",
+  "description": "B站视频BV1Bv4y1G7Dj《转发这个谱面来恶心你身边喜欢Random的好友》简化版，理论可打，原视频作者上传，已取得各合作谱师同意",
+  "difficulty": 10.0,
+  "id": 2077,
+  "illustrator": "UK",
+  "level": "SP Lv. Never Decided Before",
+  "name": "Яαиđòм",
+  "tags": [
+    "愚人节"
+  ],
+  "updated": "2023-05-14T13:12:44.255052Z",
+  "uploader": 2999
+}

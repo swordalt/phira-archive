@@ -1,0 +1,77 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:25:12Z",
+    "lastChanged": "2026-09-22T01:25:12Z",
+    "localBackup": {
+      "asset": "20593.zip",
+      "files": [
+        {
+          "path": "22043902.json",
+          "sha256": "fd52cdcb76d61d99384d8d4415619fe8de1c8791d07d9fad61521bed52359925",
+          "size": 2045835
+        },
+        {
+          "path": "22043902.mp3",
+          "sha256": "9bc2621b4cdcd6c5655e3cbf1e2222608e5852e25fdb02a7a22ba61700376410",
+          "size": 2373454
+        },
+        {
+          "path": "22043902.png",
+          "sha256": "64480d3dc96a5e12073e274c30174d67d5a73ed7f8c1aa7c995ce3d925b0c815",
+          "size": 1119284
+        },
+        {
+          "path": "info.txt",
+          "sha256": "6f10617a2b46f3ac9b22dfb96cc4514fb86a112be3b00a9ba2eb878571de14ac",
+          "size": 135
+        },
+        {
+          "path": "info.yml",
+          "sha256": "771407ab2dd8832fa74e0e9d328cd9e72d1e5ef8853619963b6f3da047c56085",
+          "size": 673
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "22043902.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "22043902.png",
+        "lineLength": 6.0,
+        "music": "22043902.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "“神谱，写出了人生的真谛”",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "b08a641bd9f863a2eb28fb9c5752f929a75ce1805fe12cf02ae0e428f15b4926",
+      "size": 5539889,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20593.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "流星雨 a.k.a AphasiaSAMA",
+  "composer": "アンメルツP",
+  "created": null,
+  "description": "流星雨作品集#3\n成名作巅峰作，感谢大家对此谱的喜爱。我认为写的还可以，结尾那里有点保守了。",
+  "difficulty": 16.9,
+  "id": 20593,
+  "illustrator": "黎",
+  "level": "AT Lv.16",
+  "name": "人生",
+  "tags": [
+    "高难",
+    "pjsk",
+    "VOCALOID",
+    "魔王曲",
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

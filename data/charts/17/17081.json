@@ -1,0 +1,88 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:20:13Z",
+    "lastChanged": "2026-09-22T01:20:13Z",
+    "localBackup": {
+      "asset": "17081.zip",
+      "files": [
+        {
+          "path": "70011112.json",
+          "sha256": "f367a3e44cdb760667163b17eb0b47f42623b698691917a68455b59a07b50954",
+          "size": 1420704
+        },
+        {
+          "path": "70011112.mp3",
+          "sha256": "5d7580522d111eb2736f1e6e6c902c5920c9f66e8876da430b2e916310153ad4",
+          "size": 4288149
+        },
+        {
+          "path": "70011112.png",
+          "sha256": "7b4500abe740537e8777838247127af0d95c14cbd1b855b02fa7865780755269",
+          "size": 102561
+        },
+        {
+          "path": "black.png",
+          "sha256": "fe40b14be1cf55228b94718c587f0847f1d4b272c5468036a503591a9f50acd5",
+          "size": 6681
+        },
+        {
+          "path": "info.txt",
+          "sha256": "3eb5189563b4356fc2208d2469ec1d32ade49dc37ecb489effc4d9bc9015e188",
+          "size": 178
+        },
+        {
+          "path": "info.yml",
+          "sha256": "3cecc1ca6423410404b44eff6817bcb63023fdcbb1a6b22522e63b76956b417c",
+          "size": 590
+        },
+        {
+          "path": "long.png",
+          "sha256": "54d1f499421b70331426c9473b6fb76b05657fe8d6fad761e98fb1ec119d658e",
+          "size": 65015
+        },
+        {
+          "path": "mn.png",
+          "sha256": "24a546feca3613ad251b54e0a69e7c2d915722a1e50a22e2258927ab8f71cca0",
+          "size": 102252
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.5,
+        "backgroundDim": 0.6,
+        "chart": "70011112.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "70011112.png",
+        "lineLength": 6.0,
+        "music": "70011112.mp3",
+        "offset": 0.0,
+        "previewEnd": 18.0,
+        "previewStart": 0.5,
+        "tip": "天空啊！太美丽了！",
+        "unlockVideo": null
+      },
+      "release": "backup-17000-17999",
+      "sha256": "d6ea5f4e45b82e3e59ca987edf62f541e596eb5e353eef5ff8d9d061fb03d373",
+      "size": 5986912,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-17000-17999/17081.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "BigPigeon",
+  "composer": "马甲",
+  "created": null,
+  "description": "1st丁真杯 No.1参赛谱。\n看到6thPecJam的天空主题，一时起兴，在窗边freestyle了此曲。",
+  "difficulty": 11.400001,
+  "id": 17081,
+  "illustrator": "马甲",
+  "level": "?? Lv.???",
+  "name": "天空赞歌 (DCC ver.)",
+  "tags": [
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

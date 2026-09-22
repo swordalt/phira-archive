@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:06Z",
+    "lastChanged": "2026-09-22T01:09:06Z",
+    "localBackup": {
+      "asset": "9286.zip",
+      "files": [
+        {
+          "path": "56564870.jpg",
+          "sha256": "e1621e90a7dacafcaed2e5f528fd81a04480d51b87b66a69ff2782b2f0e123dc",
+          "size": 47732
+        },
+        {
+          "path": "56564870.json",
+          "sha256": "4d6b751b1f7bf6f9ad014292a61e65342f17a4149e1b7e00c3d78bb9570c48ad",
+          "size": 500736
+        },
+        {
+          "path": "56564870.mp3",
+          "sha256": "5a2e64e53d05271ac9928f753e6fe3c7c69aa976cb1ab903f33be456a0646026",
+          "size": 141744
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b92c660450227359c37c68ad3de28b077f1d6e93c4d83524b3e0e0b71afc7000",
+          "size": 206
+        },
+        {
+          "path": "info.yml",
+          "sha256": "33156ead62422e36500a7a038950467f6628a8182348f818bda803785ae4f521",
+          "size": 509
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "56564870.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "56564870.jpg",
+        "lineLength": 6.0,
+        "music": "56564870.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "mi mi ma mo mo mi ma mo mi ma mo mo"
+      },
+      "release": "backup-9000-9999",
+      "sha256": "ce9b9cb7ab5245d777c709c1559145a87d8c331624f59f3251812e4da8b07fbc",
+      "size": 691435,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-9000-9999/9286.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "NEKOYO",
+  "composer": "网络",
+  "created": null,
+  "description": "mi mi ma mo mo mi ma mo mi ma mo mo",
+  "difficulty": 0.0,
+  "id": 9286,
+  "illustrator": "UK",
+  "level": "咪咪吗摸摸",
+  "name": "mi mi ma mo mo mi ma mo mi ma mo mo",
+  "tags": [
+    "troll"
+  ],
+  "updated": null,
+  "uploader": null
+}

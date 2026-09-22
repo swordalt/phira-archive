@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:08Z",
+    "lastChanged": "2026-09-22T01:05:08Z",
+    "localBackup": {
+      "asset": "5244.zip",
+      "files": [
+        {
+          "path": "-1993800586.jpg",
+          "sha256": "1ae1a37e966dc141656e88f51e82e0c3ad3d04296f36096a615b65661ea128ac",
+          "size": 215223
+        },
+        {
+          "path": "1689245070.ogg",
+          "sha256": "4befe5c1d361114bfa2568b587453e8410bd8bb6a5b5b73e74e47c54369401cd",
+          "size": 3458389
+        },
+        {
+          "path": "info.txt",
+          "sha256": "daa4bd4f2ca7b2194f9c1c23f04125ca0fa7b0779b6515f750c21249f194f2f9",
+          "size": 196
+        },
+        {
+          "path": "info.yml",
+          "sha256": "aa272c49f17632106132b9c02a924a9e322537773461e3a23fa3e9df9adeccda",
+          "size": 537
+        },
+        {
+          "path": "月下缭乱(From Malody).json",
+          "sha256": "ce1c3d0ceed7f7e2e92de7e7712abda0841506a4c9691eb7a6a84595967cd8d0",
+          "size": 985950
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "月下缭乱(From Malody).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "-1993800586.jpg",
+        "lineLength": 6.0,
+        "music": "1689245070.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-5000-5999",
+      "sha256": "01941141e6ff83385267183d6374d920430f0171367f50356a8ebe411c0d27fa",
+      "size": 4660847,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5244.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-13T10:54:52.744588Z",
+  "charter": "苹果rage.vs.天崽",
+  "composer": "月見静華 vs LUNARIUM",
+  "created": "2023-07-13T10:54:52.744588Z",
+  "description": "",
+  "difficulty": 20.0,
+  "id": 5244,
+  "illustrator": "TNik",
+  "level": "4K Lv.21",
+  "name": "月下缭乱",
+  "tags": [],
+  "updated": "2023-07-13T10:54:52.744588Z",
+  "uploader": 17576
+}

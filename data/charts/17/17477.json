@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:20:29Z",
+    "lastChanged": "2026-09-22T01:20:29Z",
+    "localBackup": {
+      "asset": "17477.zip",
+      "files": [
+        {
+          "path": "1711037673.ogg",
+          "sha256": "3c27b1b112cff0c869f59006816fb0744020a4106014b728929fadf73d3b01d7",
+          "size": 3676490
+        },
+        {
+          "path": "8.json",
+          "sha256": "c91e41552484c34d3a6492d178e720a1f287103030cdb2e021ea9c0638788fad",
+          "size": 531094
+        },
+        {
+          "path": "Illustration #2414.jpg",
+          "sha256": "c0bcf455dd66cec26f8d1fe8c7dc7843f3fa73092cbfbd24c0c9ec1edab048e5",
+          "size": 1359661
+        },
+        {
+          "path": "info.csv",
+          "sha256": "3b2830857aa1e7225e039b432610cc204f9eb2912c63806627d2130b7b3aa613",
+          "size": 170
+        },
+        {
+          "path": "info.yml",
+          "sha256": "aa36ded954e55c2c0bfdc48df70817043395793e95448b89d6274bf80a826052",
+          "size": 1003
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "8.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "Illustration #2414.jpg",
+        "lineLength": 6.0,
+        "music": "1711037673.ogg",
+        "offset": 0.0,
+        "previewEnd": 117.14,
+        "previewStart": 97.14,
+        "tip": "Tip：小心双押",
+        "unlockVideo": null
+      },
+      "release": "backup-17000-17999",
+      "sha256": "0bb5ce84a6bc94b6bb5875d6a44aa9f8c4cb3dd5633ca7076c440d8d39875117",
+      "size": 5568936,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-17000-17999/17477.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-03-24T02:25:49.617859Z",
+  "charter": "XieChara",
+  "composer": "Silentroom",
+  "created": "2024-03-24T02:25:49.617859Z",
+  "description": "这是一个简介\n突发奇想写的\n评价嘛，还是酌情一点罢\n自己打过了，理论可打（什）\n理论上属于整活，但出于4k配置考虑，我觉得还是选纯配置吧\n具体还是让审核决定\nb站UID:702311735\n手元不用艾特我，屏元可以考虑\n——更新日志——\n原谱删了，这是改谱\n更新内容:\n1.修改了两处采音错误\n2.微调排键，以及加了一点点采音",
+  "difficulty": 14.499999,
+  "id": 17477,
+  "illustrator": "Lanora？by XieChara",
+  "level": "Tap Lv.?",
+  "name": "Prototapper",
+  "tags": [],
+  "updated": "2024-03-24T02:25:49.617859Z",
+  "uploader": 92123
+}

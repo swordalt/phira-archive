@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:28Z",
+    "lastChanged": "2026-09-22T01:07:28Z",
+    "localBackup": {
+      "asset": "7404.zip",
+      "files": [
+        {
+          "path": "40893158.json",
+          "sha256": "c6d982098d56996a2500382f52836960ccc96b0ccebdc1e530ac17c480aeb983",
+          "size": 8803
+        },
+        {
+          "path": "40893158.mp3",
+          "sha256": "7376fd4312d06ebe8acc523ba72c47fb2e25bd78270cefbf6e5d0f8de255f572",
+          "size": 250553
+        },
+        {
+          "path": "40893158.png",
+          "sha256": "041a000cad38e0314cebc7a291e01a210b19df1415fdfed45198584dfb738c0c",
+          "size": 353282
+        },
+        {
+          "path": "info.txt",
+          "sha256": "51551c59425c9d38c3b3119b2bc09abb5bf4311783f45f2d270acdd40c2f905c",
+          "size": 149
+        },
+        {
+          "path": "info.yml",
+          "sha256": "4b837e0cacd1e8875e849f8dd2506984bcf1911545273bbc67870283ecfdb122",
+          "size": 633
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "40893158.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "40893158.png",
+        "lineLength": 6.0,
+        "music": "40893158.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "一tuo东东"
+      },
+      "release": "backup-7000-7999",
+      "sha256": "3834a0a690279db8ac0aeb6b5aa13c2c9091ba2e402d224dfb478d45b89d1729",
+      "size": 613928,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-7000-7999/7404.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-12T04:11:56.527122Z",
+  "charter": "蛙蛙吖",
+  "composer": "李荣浩",
+  "created": "2023-08-12T04:11:56.527122Z",
+  "description": "个人初谱，做的不好请见谅！（长谱暂时没时间做了 嘤）\n创作时间：2023.8.11 22:10\n\n币站:BV1544y1c7e7",
+  "difficulty": 10.000005,
+  "id": 7404,
+  "illustrator": "UK",
+  "level": "EZ Lv.?",
+  "name": "贝贝",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-08-12T04:11:56.527122Z",
+  "uploader": 39325
+}

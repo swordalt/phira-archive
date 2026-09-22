@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:13:41Z",
+    "lastChanged": "2026-09-22T01:13:41Z",
+    "localBackup": {
+      "asset": "12787.zip",
+      "files": [
+        {
+          "path": "773170.jpg",
+          "sha256": "384da33654f57a7ed1be8690f23d92e98fde7ac0228167df219d44d7d9e64c55",
+          "size": 3557
+        },
+        {
+          "path": "773170.json",
+          "sha256": "339d49cd39256f6f6afc03a78ac76955ac97afe87496447c1f2dad0309547f20",
+          "size": 404956
+        },
+        {
+          "path": "773170.mp3",
+          "sha256": "16752d30fa026056ac50d3b453be9e1abadcd127ca2d2120d965e21634e53fca",
+          "size": 849328
+        },
+        {
+          "path": "info.txt",
+          "sha256": "123ca2627401ccd85d39a010cf06a607efe7f549e2b23d3c1bef2af9cbde8650",
+          "size": 148
+        },
+        {
+          "path": "info.yml",
+          "sha256": "139cf8e1ba93b7ecac9127fc1d4d33cf807e9c29363d86e770331bd63a2b1c67",
+          "size": 572
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 1.0,
+        "chart": "773170.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "773170.jpg",
+        "lineLength": 6.0,
+        "music": "773170.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "堆黄键警告"
+      },
+      "release": "backup-12000-12999",
+      "sha256": "d0060a3f779acdbcf6685853fe24f20d6a58177a26d73d78918630bad7c656de",
+      "size": 1259057,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12787.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-24T05:03:07.588503Z",
+  "charter": "Xiaoq",
+  "composer": "未知",
+  "created": "2023-12-24T05:03:07.588503Z",
+  "description": "十分钟速写，刚才写难度忘记保存了，不是重复上传！！！",
+  "difficulty": 0.0,
+  "id": 12787,
+  "illustrator": "UK",
+  "level": "Lv.18",
+  "name": "刚~满~十~八~岁~",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-12-24T05:03:07.588503Z",
+  "uploader": 449625
+}

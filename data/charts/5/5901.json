@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:52Z",
+    "lastChanged": "2026-09-22T01:05:52Z",
+    "localBackup": {
+      "asset": "5901.zip",
+      "files": [
+        {
+          "path": "Splatter Doll.json",
+          "sha256": "9ad2ec84709ba7e189cc768a72fc0a655fdd60f06489a24bf7c6f9b32d7741d1",
+          "size": 1084456
+        },
+        {
+          "path": "Splatter Doll.ogg",
+          "sha256": "3c1ab61bb9ad10570c5ec96446366aa8f6dc698579da23ad8c3069a586df3d3c",
+          "size": 2048768
+        },
+        {
+          "path": "Splatter Doll.png",
+          "sha256": "514f1d3b6e27ad979bf9c26dc4eb73321babeb2be461cf7f75c22695c8c7d65a",
+          "size": 3407724
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d7fa3eb9ad26894595e0e59e50cbf8ef80f5b53e5b13cf40e8e8121e659fe5e2",
+          "size": 218
+        },
+        {
+          "path": "info.yml",
+          "sha256": "1fdb5add7bbaaf4e89b5179e259f983f981e0037d3310f1ab4a701d80672473c",
+          "size": 795
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "Splatter Doll.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "Splatter Doll.png",
+        "lineLength": 6.0,
+        "music": "Splatter Doll.ogg",
+        "offset": 0.0,
+        "previewEnd": 96.0,
+        "previewStart": 81.0,
+        "tip": "Tip:什么？尾杀占一半物量？！"
+      },
+      "release": "backup-5000-5999",
+      "sha256": "db994d9af60de03a812a0cb8ce38888f2bd9db09af18a2e7f8c89365ccd3b444",
+      "size": 6542499,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5901.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-23T09:09:38.876602Z",
+  "charter": "YOMABIE",
+  "composer": "モリモリあつし",
+  "created": "2023-07-23T09:09:38.876602Z",
+  "description": "上课摸鱼写的6K谱，也就花了2个小时。这个谱子主要是用来练习6K映射的，因此难度并不高，除了尾杀的vibro个人认为难度在21以下。谱面展示：BV18j411R7xb。Malody定数为23。",
+  "difficulty": 23.0,
+  "id": 5901,
+  "illustrator": "わんびい",
+  "level": "6K Lv.23",
+  "name": "Splatter Doll",
+  "tags": [
+    "Orzmic",
+    "plain"
+  ],
+  "updated": "2023-07-23T09:09:38.876602Z",
+  "uploader": 6158
+}

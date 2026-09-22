@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:13:02Z",
+    "lastChanged": "2026-09-22T01:13:02Z",
+    "localBackup": {
+      "asset": "12481.zip",
+      "files": [
+        {
+          "path": "17820262.json",
+          "sha256": "7f75717f31b982a8844b3fbcbafb483d4253e3cf29590f7769847fba9e6b8133",
+          "size": 25724281
+        },
+        {
+          "path": "17820262.mp3",
+          "sha256": "9acdc211c0a30bbffa75ea1e431e3885174b2ddae507c84bc3924796f1692698",
+          "size": 8307065
+        },
+        {
+          "path": "17820262.png",
+          "sha256": "1b28e142a7e42d590b999ef7fecacde98ab65e4eeeacc724576025af7700144a",
+          "size": 8545761
+        },
+        {
+          "path": "info.txt",
+          "sha256": "e940101d0d10869df3df45b8a08e1c9555929d0d149319250c845fb5eaa49462",
+          "size": 176
+        },
+        {
+          "path": "info.yml",
+          "sha256": "e1f3596b5794b3a621c70547d8d2a2109380cf43e257a23e668cbca24d050242",
+          "size": 574
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "17820262.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "17820262.png",
+        "lineLength": 6.0,
+        "music": "17820262.mp3",
+        "offset": 0.0,
+        "previewEnd": 163.0,
+        "previewStart": 148.0,
+        "tip": " "
+      },
+      "release": "backup-12000-12999",
+      "sha256": "fae52ad84c4cb74fab5ffeba1db0351b700b1d466791e2b3ac782f42988cc2e2",
+      "size": 42578365,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12481.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-15T15:19:40.680590Z",
+  "charter": "Next Rain vs MUJI",
+  "composer": "HoYo-MiX & TSAR_",
+  "created": "2023-12-15T15:19:40.680590Z",
+  "description": "最不可能过stable的一集（特效向观赏谱面）",
+  "difficulty": 423.0,
+  "id": 12481,
+  "illustrator": "UK",
+  "level": "IN Lv.K423",
+  "name": "Nightglow (TSAR_ Remix)",
+  "tags": [],
+  "updated": "2023-12-15T15:19:40.680590Z",
+  "uploader": 24699
+}

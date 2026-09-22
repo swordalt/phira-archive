@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:22:35Z",
+    "lastChanged": "2026-09-22T01:22:35Z",
+    "localBackup": {
+      "asset": "19289.zip",
+      "files": [
+        {
+          "path": "37159974.jpg",
+          "sha256": "f0fb584d23b03933497068e872c882988a73084c0da53e6a4cebf59dfc117053",
+          "size": 1362102
+        },
+        {
+          "path": "37159974.json",
+          "sha256": "aa446be18b1d99c710705a5defd854f485de0ad9def40866765647388c7b9baa",
+          "size": 2712628
+        },
+        {
+          "path": "37159974.mp3",
+          "sha256": "e2e09804c790f1d5c31e8554d961cd7c37126c50a5673035e12bfa1509f853db",
+          "size": 2057595
+        },
+        {
+          "path": "info.txt",
+          "sha256": "9563a46ee0ec1fb353970beab02f182d153c0cdba3f2a35bd80c04ef2303b4b4",
+          "size": 159
+        },
+        {
+          "path": "info.yml",
+          "sha256": "23c8fd1a888d738c9c97992a29d59a9240dff065961f5a555cbbd7d07cf7c307",
+          "size": 586
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.5,
+        "chart": "37159974.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "37159974.jpg",
+        "lineLength": 6.0,
+        "music": "37159974.mp3",
+        "offset": 0.0,
+        "previewEnd": 100.0,
+        "previewStart": 85.0,
+        "tip": "⚠️234bpm高速交互警告⚠️",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "6b96101fdb57a2b5892658c5c7030d7d9a898f13de131470d5c13bdb1c3c5996",
+      "size": 6133578,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19289.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-03T05:10:23.547941Z",
+  "charter": "Haru-12",
+  "composer": "Team Grimoire",
+  "created": "2024-05-02T14:08:26.328440Z",
+  "description": "谱师本人上传\n优化了部分配置",
+  "difficulty": 15.9,
+  "id": 19289,
+  "illustrator": "镜璃",
+  "level": "IN Lv.15+",
+  "name": "Eligos",
+  "tags": [],
+  "updated": "2024-05-03T05:10:23.547941Z",
+  "uploader": 50884
+}

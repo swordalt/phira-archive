@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:13:29Z",
+    "lastChanged": "2026-09-22T01:13:29Z",
+    "localBackup": {
+      "asset": "12722.zip",
+      "files": [
+        {
+          "path": "1703313809.ogg",
+          "sha256": "60acd10253b8af3a86d542649f85e860e171a47790a1876a3a8b2c0b47f211f1",
+          "size": 249061
+        },
+        {
+          "path": "I am shiyi,You spread rumors!!(From Malody).json",
+          "sha256": "accc64105f30147866fe7cc57773bd1d37688956fbbb93168f6300af409ee382",
+          "size": 195815
+        },
+        {
+          "path": "QQ截图20231223144436.jpg",
+          "sha256": "b8f70a40fc58e7d89efd0382cf7a8b92ecec3be96aad117615b9ea646d7e0eee",
+          "size": 78313
+        },
+        {
+          "path": "info.txt",
+          "sha256": "0994cc1841f5292139da5e8d7b9dbbad701fb6f572b2747ccc9d5b28696fa2f0",
+          "size": 228
+        },
+        {
+          "path": "info.yml",
+          "sha256": "17c1e6d10c5db97d67ac42b1daa351ae76c7ecde2847b9c45442e642e087ca1e",
+          "size": 546
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "I am shiyi,You spread rumors!!(From Malody).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "QQ截图20231223144436.jpg",
+        "lineLength": 6.0,
+        "music": "1703313809.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-12000-12999",
+      "sha256": "550db993e3ecb280a9f70c0ef1978659d2121c36487044712afaff11fdcd7906",
+      "size": 524573,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12722.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-23T07:07:47.127318Z",
+  "charter": "Fwxl",
+  "composer": "狮忆",
+  "created": "2023-12-23T07:07:47.127318Z",
+  "description": "",
+  "difficulty": 10.0,
+  "id": 12722,
+  "illustrator": "UK",
+  "level": "shiyi",
+  "name": "I am shiyi,You spread rumors!!",
+  "tags": [],
+  "updated": "2023-12-23T07:07:47.127318Z",
+  "uploader": 16532
+}

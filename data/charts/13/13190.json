@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:14:20Z",
+    "lastChanged": "2026-09-22T01:14:20Z",
+    "localBackup": {
+      "asset": "13190.zip",
+      "files": [
+        {
+          "path": "71228861.jpg",
+          "sha256": "b0b825cc47dbf9256d525227292eb07ae10d63cb8725fc40528797db7e35a5d4",
+          "size": 121282
+        },
+        {
+          "path": "71228861.json",
+          "sha256": "03a3688913c1daedcfa0765037666ba71dca75c0bbb010fb96250be7a058b20a",
+          "size": 2281762
+        },
+        {
+          "path": "71228861.ogg",
+          "sha256": "9d72e58a140a40f9a8f901948062f9bc53af8e027275f8756d67b4ef4c8597d2",
+          "size": 3435680
+        },
+        {
+          "path": "info.txt",
+          "sha256": "c8df1ecbf5d5767d230a9a345d26eaa3374a48a310ee94ed106c03ff5869601c",
+          "size": 169
+        },
+        {
+          "path": "info.yml",
+          "sha256": "b703cf94fccaa1f8a05e94e4e0fb1880449fcb1c7c96e3d8db76b730d78c3368",
+          "size": 591
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "71228861.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "71228861.jpg",
+        "lineLength": 6.0,
+        "music": "71228861.ogg",
+        "offset": 0.0,
+        "previewEnd": 98.0,
+        "previewStart": 87.5,
+        "tip": null
+      },
+      "release": "backup-13000-13999",
+      "sha256": "3e2f4ea75404bd4e7f2ad78e857d4b1e89529a0e9d9a7bb64ecfa0b881a0a228",
+      "size": 5839992,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13190.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-02T05:26:33.700991Z",
+  "charter": "Lemon",
+  "composer": "Raimukun",
+  "created": "2024-01-02T05:26:33.700991Z",
+  "description": "譜師本人上傳\n\n我2024第一張譜面，也是第一張16。",
+  "difficulty": 16.600002,
+  "id": 13190,
+  "illustrator": "Lanota",
+  "level": "AT Lv.16",
+  "name": "Nyarlathotep's Dreamland",
+  "tags": [
+    "高難",
+    "regular"
+  ],
+  "updated": "2024-01-02T14:46:48.470007Z",
+  "uploader": 12901
+}

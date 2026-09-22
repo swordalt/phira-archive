@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:57Z",
+    "lastChanged": "2026-09-22T01:21:57Z",
+    "localBackup": {
+      "asset": "18965.zip",
+      "files": [
+        {
+          "path": "43945778.jpg",
+          "sha256": "b38c4a74dc5669d2e2d7d4ecb53877cca9c6b86ec3298920980bdf227e1c78eb",
+          "size": 948368
+        },
+        {
+          "path": "43945778.json",
+          "sha256": "c3125b65fb2e664f0a70f72fab89d017e6bc516619bea90f2f4a3723e89796af",
+          "size": 2434990
+        },
+        {
+          "path": "43945778.ogg",
+          "sha256": "9db4c9e0581d09d273894df3e9557bced0694eb846c0a77df5705543dba8ed22",
+          "size": 6389538
+        },
+        {
+          "path": "info.txt",
+          "sha256": "faf314e16e547736026766e9435e1dfc61ae470c1a2d6556dcce72e7aa883aff",
+          "size": 160
+        },
+        {
+          "path": "info.yml",
+          "sha256": "44a3a71e6d5552f618a67c2e75da118852e8f04d6677c7fa33b99c8eb4de0bc4",
+          "size": 560
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "43945778.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "43945778.jpg",
+        "lineLength": 6.0,
+        "music": "43945778.ogg",
+        "offset": 0.055000007,
+        "previewEnd": 30.0,
+        "previewStart": 14.3,
+        "tip": "像观赏",
+        "unlockVideo": null
+      },
+      "release": "backup-18000-18999",
+      "sha256": "7cf4b2436ea5f52fd720aaecae8bb2149d6848098d0e71ccf94da088aecc1a4f",
+      "size": 9774124,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-18000-18999/18965.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-04-27T12:36:41.563309Z",
+  "charter": "渊琼_deep",
+  "composer": "ルゼ",
+  "created": "2024-04-27T12:36:41.563309Z",
+  "description": "没事😐",
+  "difficulty": 16.800007,
+  "id": 18965,
+  "illustrator": "あおお/A-ZERO",
+  "level": "AT Lv.16",
+  "name": "RENDA_ JOCEKY",
+  "tags": [
+    "",
+    "regular"
+  ],
+  "updated": "2024-04-27T12:36:41.563309Z",
+  "uploader": 312532
+}

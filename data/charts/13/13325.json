@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:14:35Z",
+    "lastChanged": "2026-09-22T01:14:35Z",
+    "localBackup": {
+      "asset": "13325.zip",
+      "files": [
+        {
+          "path": "71311419.jpg",
+          "sha256": "4f3de825c4fb33fa809661389e9d0cf05388d5f977f16c2efe500e09527c2dd2",
+          "size": 51998
+        },
+        {
+          "path": "71311419.json",
+          "sha256": "67cbb70955f56d9291adc2224c8e910bce7555696401fb39cebe82a5f66160d9",
+          "size": 415932
+        },
+        {
+          "path": "71311419.mp3",
+          "sha256": "1f158e3e38e8ca582daa83a5568d964c161889ad54b6d14884b8355d09174de1",
+          "size": 6271771
+        },
+        {
+          "path": "info.txt",
+          "sha256": "3f9bdc9ecbf08c1909349d8f512d10b7c0e2441b7bdf4586c4b4aa06ded2f425",
+          "size": 161
+        },
+        {
+          "path": "info.yml",
+          "sha256": "35c165a78b9d6e30d028c43ccd6f091f1d349152dda3016a24f41b29caecdc74",
+          "size": 747
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "71311419.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "71311419.jpg",
+        "lineLength": 6.0,
+        "music": "71311419.mp3",
+        "offset": 0.0,
+        "previewEnd": 27.0,
+        "previewStart": 15.0,
+        "tip": "神よ"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "ae0e195c3e4015dde4a88f41785ce7f69342a0e4a477b481bcb68ef0bc14c1aa",
+      "size": 6741117,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13325.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-07T02:42:38.119320Z",
+  "charter": "A_xie_A",
+  "composer": "DJ Myosuke、Masaki",
+  "created": "2024-01-07T02:42:38.119320Z",
+  "description": "2024.1.07——————————\n\n本人上传\n龙年就要写龙谱（？）\n花了一个下午加急赶出来的，后面还会改\nB站：A__xie__A\n\n*不建议纯双指游玩！\n\n————————————————",
+  "difficulty": 15.900003,
+  "id": 13325,
+  "illustrator": "UK",
+  "level": "IN LV.15+",
+  "name": "神",
+  "tags": [],
+  "updated": "2024-01-07T02:42:38.119320Z",
+  "uploader": 37747
+}

@@ -1,0 +1,80 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:15:55Z",
+    "lastChanged": "2026-09-22T01:15:55Z",
+    "localBackup": {
+      "asset": "13895.zip",
+      "files": [
+        {
+          "path": "111.jpg",
+          "sha256": "7618369a124533ecbe4c20b00ec4d63e6466dbe0f71eb73a7c8646eaf5713892",
+          "size": 693031
+        },
+        {
+          "path": "31700863.jpg",
+          "sha256": "ea0bc1f3442d986be9a466fa9f21026a25014bb9c9775c7bd70bf14e045f795a",
+          "size": 81343
+        },
+        {
+          "path": "31700863.json",
+          "sha256": "878d856b7a8cd5a56cb0cb868f230fa1e5084bdf5e16aae8a4ce433dd35cbce7",
+          "size": 1098986
+        },
+        {
+          "path": "31700863.mp3",
+          "sha256": "1234e07e03e30d13eeb88032d996f674e76b64fcc183b51bbff00fc9184635ec",
+          "size": 306444
+        },
+        {
+          "path": "info.txt",
+          "sha256": "02c134a2ba4afaf3aece4fe005c133855e2f8cbbb6bfb85bcb35ccb769768d59",
+          "size": 197
+        },
+        {
+          "path": "info.yml",
+          "sha256": "de01e39847186f75a37f3b6f1c4c2245dd6282db332c6a9efd12f02c975a9e3c",
+          "size": 1470
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "31700863.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "31700863.jpg",
+        "lineLength": 6.0,
+        "music": "31700863.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "核爆就是爽"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "2d452c57e7ee67cc3c77b21c22b77b05b39301c44cf656decf805d5f33a3bab9",
+      "size": 2182069,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13895.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-21T10:13:49.439844Z",
+  "charter": "5071 be like",
+  "composer": "四点一公分",
+  "created": "2024-01-21T10:13:49.439844Z",
+  "description": "看太久没过就重传了一个()\n————————————————————\n曲目：大家好啊，我是Dubstep\n制曲者：四点一公分  \n谱师：5071 be like(伍零柒壹  )\n难度：Dubstep Lv.Dubstep\n定数：？(14.59)\n————————————————————\n谱面由谱师本人上传\n速写谱，质量不好，当个乐子看\n当然，要发打谱视频的，只需 @ 我就行了\n还有，禁止任何人在哔哩哔哩等视频平台发布此谱面的Autoplay视频！！！\n————————————————————\n哔哩哔哩视频链接： https://b23.tv/hF4eczO\n————————————————————\n里面有超大核爆，打的时候小心耳朵（）\n开胃菜\n————————————————————\nNext \nComing on\n2024/2/10",
+  "difficulty": 10.0,
+  "id": 13895,
+  "illustrator": "说的道理(四点一公分)",
+  "level": "Dubstep Lv.Dubstep",
+  "name": "大家好啊，我是Dubstep",
+  "tags": [
+    "otto",
+    "电棍",
+    "核爆",
+    "troll"
+  ],
+  "updated": "2024-01-21T10:13:49.439844Z",
+  "uploader": 464049
+}

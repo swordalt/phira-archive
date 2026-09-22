@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:20:11Z",
+    "lastChanged": "2026-09-22T01:20:11Z",
+    "localBackup": {
+      "asset": "17004.zip",
+      "files": [
+        {
+          "path": "70586678.jpg",
+          "sha256": "33ec1d0430b608cb1d17a2c2bf59ff25641eee77f4815e218ff041ce17d6b3f7",
+          "size": 116640
+        },
+        {
+          "path": "70586678.json",
+          "sha256": "e40e61deea4b3ebbb6f1418403d79ba3dd8a2e25cc3d902285dfac7c8e1eff12",
+          "size": 1597226
+        },
+        {
+          "path": "70586678.mp3",
+          "sha256": "78ef4dcf27ba65bbd8c03cd3ea94570c202bc4bac64fe7c7c69c15eaf393b97b",
+          "size": 6368095
+        },
+        {
+          "path": "info.txt",
+          "sha256": "079e7e52256fa164bf38c74e299290ca91f85a43a6af9c0f18bc9cb318bbadbf",
+          "size": 167
+        },
+        {
+          "path": "info.yml",
+          "sha256": "1d7e5864f295a73c2b50c616b621e3897763580e8696dc9d32e961347617aeea",
+          "size": 545
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "70586678.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "70586678.jpg",
+        "lineLength": 6.0,
+        "music": "70586678.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "发布游玩视频请@suik_L",
+        "unlockVideo": null
+      },
+      "release": "backup-17000-17999",
+      "sha256": "0fa4308f5321018442dfe90be207e15c0b89d0705eeaa50484e6c535a77101ce",
+      "size": 8083181,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-17000-17999/17004.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "DCC No.4",
+  "composer": "PRASTIK DANCEFLOOR",
+  "created": null,
+  "description": "BV1PZ421h7Sv\n发布游玩视频请@suik_L",
+  "difficulty": 11.400005,
+  "id": 17004,
+  "illustrator": "SEGA(V17AMAX modified )",
+  "level": "SP Lv.2085",
+  "name": "TECHNOPOLIS 2085",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

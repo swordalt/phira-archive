@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:21Z",
+    "lastChanged": "2026-09-22T01:11:21Z",
+    "localBackup": {
+      "asset": "11471.zip",
+      "files": [
+        {
+          "path": "62480268.jpeg",
+          "sha256": "64fb14d83ae897d359edac6a2b6d8d602df335de1c072d62debfb00722f194dc",
+          "size": 138296
+        },
+        {
+          "path": "62480268.json",
+          "sha256": "15043967dc116fc3e61bd5141741f4ddad1095fac6c9c3848e8c3c7a9415e1c5",
+          "size": 1944626
+        },
+        {
+          "path": "62480268.mp3",
+          "sha256": "91c99ee68b3dc085862b002f56e108ae62482fe872bdb0db4d94e6098bc84407",
+          "size": 1344557
+        },
+        {
+          "path": "info.txt",
+          "sha256": "9dc37d7ea18baf2fdf0c69de0d105477c5e4f7863c87c015faa4100bd996368e",
+          "size": 164
+        },
+        {
+          "path": "info.yml",
+          "sha256": "40a5768b25263b70b83be50d363159c9fbe4cefd75cb3fcf121a9f7844f3bf5e",
+          "size": 599
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "62480268.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "62480268.jpeg",
+        "lineLength": 6.0,
+        "music": "62480268.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "这里是Tips！"
+      },
+      "release": "backup-11000-11999",
+      "sha256": "1556202f1ed6ff02945bd47a65baa8cd837be5f8edc08ac226776e0c8669852d",
+      "size": 3428752,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11471.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-19T03:45:32.204512Z",
+  "charter": "Parssce",
+  "composer": "王莎莎",
+  "created": "2023-11-14T09:01:29.039431Z",
+  "description": "第一个谱，还原的部分旧谱。b站名称:Star邃，Parssce_Offical也是我的号（）",
+  "difficulty": 0.0,
+  "id": 11471,
+  "illustrator": "UK",
+  "level": "SP Lv.?",
+  "name": "姐就是女王",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-11-19T03:45:32.204512Z",
+  "uploader": 17820
+}

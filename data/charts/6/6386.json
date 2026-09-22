@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:35Z",
+    "lastChanged": "2026-09-22T01:06:35Z",
+    "localBackup": {
+      "asset": "6386.zip",
+      "files": [
+        {
+          "path": "11630834.jpg",
+          "sha256": "f15adc7f293bc3ff88ccbc4375f81a40aa4ca521153245f82afad970e373a9f1",
+          "size": 535425
+        },
+        {
+          "path": "11630834.json",
+          "sha256": "52b773307ef4a648d2ca72aa9e88faf67b8d86e2827f0ebeeff2cb210f3952f9",
+          "size": 1462488
+        },
+        {
+          "path": "11630834.mp3",
+          "sha256": "31c7212b21dc1e573af3c380d4083074e4a107a3eabef4ea40ec8f8d91d53798",
+          "size": 1939200
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d25ac0ff5df8415dcd6d08d4229035fd380489eeacab6c045fb43b41a3881412",
+          "size": 165
+        },
+        {
+          "path": "info.yml",
+          "sha256": "dbb3a6a1ff5b9a732ecc97ef7c4d317b6ed0cf8094dcffa5673f785d5df0c611",
+          "size": 554
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 1.0,
+        "chart": "11630834.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "11630834.jpg",
+        "lineLength": 6.0,
+        "music": "11630834.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip:这是张粪谱（嗯）"
+      },
+      "release": "backup-6000-6999",
+      "sha256": "49682300971880718d1ac7145ff897f3bb1e0fe3c6b3a3ed972de40cd10986c5",
+      "size": 3938340,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6386.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-29T12:32:37.240438Z",
+  "charter": "wintkis of the 3ND",
+  "composer": "Sephid",
+  "created": "2023-07-29T12:32:37.240438Z",
+  "description": "本人上传,b站用户名：wintkis",
+  "difficulty": 15.799999,
+  "id": 6386,
+  "illustrator": "UK",
+  "level": "IN",
+  "name": "Rondo of the 3ND",
+  "tags": [],
+  "updated": "2023-07-29T13:20:06.744272Z",
+  "uploader": 14637
+}

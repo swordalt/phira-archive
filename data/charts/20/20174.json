@@ -1,0 +1,76 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:24:32Z",
+    "lastChanged": "2026-09-22T01:24:32Z",
+    "localBackup": {
+      "asset": "20174.zip",
+      "files": [
+        {
+          "path": "40721351.jpg",
+          "sha256": "d49679d1c6fe7c2d3eff7c2cf72e1c095297c2121241be1d235b5115a58abc2a",
+          "size": 240474
+        },
+        {
+          "path": "40721351.json",
+          "sha256": "6d1dc841cc72e284b814411574a20578bd6cc590fca24cfc67c2a9ada45c4cab",
+          "size": 8222767
+        },
+        {
+          "path": "40721351.ogg",
+          "sha256": "67618bb14fbed69e610508bf64d3e01dc47aafe40d8986d9f4f0ad51f73edbd2",
+          "size": 7481512
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ac8adfac402fa2c2ab67645156e56ec9dbbf0d152d85b5180d49763498030d49",
+          "size": 162
+        },
+        {
+          "path": "info.yml",
+          "sha256": "83deb4014da153bf615a77d1445952e3dcc0ded1e128341854c14a38db5a4696",
+          "size": 499
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "40721351.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "40721351.jpg",
+        "lineLength": 6.0,
+        "music": "40721351.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "朱音杯供谱",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "83612d51fb91603adb5ba06f76e06d4fda76659e2f97b7093d076b6a56275987",
+      "size": 15945922,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20174.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "MYLV",
+  "composer": "Camellia",
+  "created": null,
+  "description": "b站@令游灵虚LYVX",
+  "difficulty": 17.0,
+  "id": 20174,
+  "illustrator": "UK",
+  "level": "EX Lv.17",
+  "name": "Blackmagik Blazing",
+  "tags": [
+    "龙谱",
+    "超难",
+    "键盘",
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

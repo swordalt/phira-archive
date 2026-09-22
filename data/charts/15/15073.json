@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:43Z",
+    "lastChanged": "2026-09-22T01:17:43Z",
+    "localBackup": {
+      "asset": "15073.zip",
+      "files": [
+        {
+          "path": "25616111.json",
+          "sha256": "5277fbeff2a191889cd7dc43789c094d01580b3dc816c438d4a12d865a8d7c23",
+          "size": 5438080
+        },
+        {
+          "path": "25616111.mp3",
+          "sha256": "52269e21946716ce81e41286cf27dedf25ac36ec26a21227dda8bcecf7c3e89a",
+          "size": 7276206
+        },
+        {
+          "path": "25616111.png",
+          "sha256": "f750592bb2325c3e8c67bf5a39b5d8d3b73b0e3cd067020e3f99dd276a5a674f",
+          "size": 3669097
+        },
+        {
+          "path": "info.txt",
+          "sha256": "8779da797f84838680b8f8fdeac85a6460413832589ad87b1827e231d306da9b",
+          "size": 197
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f204582f4561b72dde0dfde0059c7f5585232ae29d96c36affa246be66b18c2b",
+          "size": 602
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "25616111.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "25616111.png",
+        "lineLength": 6.0,
+        "music": "25616111.mp3",
+        "offset": 0.0,
+        "previewEnd": 75.0,
+        "previewStart": 60.0,
+        "tip": "狭缝中高亮的，只是操纵的把戏罢了",
+        "unlockVideo": null
+      },
+      "release": "backup-15000-15999",
+      "sha256": "425924a6451bb62622a0c363d49a5f25f502d53e7bc28418648ff6d4a004997f",
+      "size": 16384690,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15073.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-08T16:20:00.625950Z",
+  "charter": "-C8H7N- & Indole",
+  "composer": "t+pazolite & Laur",
+  "created": "2024-02-08T16:20:00.625950Z",
+  "description": "Puremoon 羽源杯 比赛用谱",
+  "difficulty": 16.300001,
+  "id": 15073,
+  "illustrator": "米秋",
+  "level": "AT Lv.16",
+  "name": "Pandemonium",
+  "tags": [],
+  "updated": "2024-02-08T16:20:00.625950Z",
+  "uploader": 4737
+}

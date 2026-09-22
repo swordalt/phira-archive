@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:33Z",
+    "lastChanged": "2026-09-22T01:06:33Z",
+    "localBackup": {
+      "asset": "6348.zip",
+      "files": [
+        {
+          "path": "1258640.jpg",
+          "sha256": "d9fb91c2de37f51d4293c02984c8dec1d514bf00b758ae87c4daa4cd458a9ed3",
+          "size": 819285
+        },
+        {
+          "path": "1258640.json",
+          "sha256": "c869a55f3d07e3ec77c8f69007302fb7a39e1843735c0843776877c714291f6c",
+          "size": 4524789
+        },
+        {
+          "path": "1258640.mp3",
+          "sha256": "dc48380506fe6292ffdf8ebb82a84358b48f43a4f1c325792e42bcf38c085b98",
+          "size": 7706447
+        },
+        {
+          "path": "info.txt",
+          "sha256": "8a2bcbf46c207a11e281d4a3d1665cfa243af6dd81f498116c3e434d16378e1a",
+          "size": 158
+        },
+        {
+          "path": "info.yml",
+          "sha256": "8709f732d1d479675754fac10c48e00e3205b9b6f2fde75c737f5b3caedddda5",
+          "size": 1199
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "1258640.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "1258640.jpg",
+        "lineLength": 6.0,
+        "music": "1258640.mp3",
+        "offset": 0.0,
+        "previewEnd": 112.0,
+        "previewStart": 97.0,
+        "tip": "Longitudinal continuity is life!!!!!"
+      },
+      "release": "backup-6000-6999",
+      "sha256": "15847c2d3e515edac151ebfdfec2d49d40eb0c150a86417d78a31b9ff7405364",
+      "size": 13052380,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6348.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-29T07:16:23.759692Z",
+  "charter": "LANGUTOU",
+  "composer": "ルゼ",
+  "created": "2023-07-29T07:16:23.759692Z",
+  "description": "纵连是生活!!!!!\n本谱为整活谱，难度偏高，主要用于多人联机模式坑队友用\n该谱诞生的原因:转谱的那张没意思，所以自己写了一张（\n如果需要录制手元或视频仅需B在站@LANGUTOU即可\n享受谱面罢~\n\n注:\n〔!〕切勿当成常规谱评价\n〔!〕录制的视频或手元仅允许在B站或油管上传，其他视频网站（如抖音、快手、西瓜视频等）禁止上传，一经发现将按照侵权处理\n〔!〕严禁未经允许对谱面进行篡改\n〔!〕骂谱可以，记得带上骂的地方及骂的原因，无端指责将会收获谱师对线资格卡一张～",
+  "difficulty": 10.0,
+  "id": 6348,
+  "illustrator": "TAKUMI³ Team",
+  "level": "/\\T Lv.4.5²",
+  "name": "RENDA JOCEKY",
+  "tags": [
+    "纵连",
+    "troll"
+  ],
+  "updated": "2023-07-29T07:16:23.759692Z",
+  "uploader": 1178
+}

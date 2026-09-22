@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:13:14Z",
+    "lastChanged": "2026-09-22T01:13:14Z",
+    "localBackup": {
+      "asset": "12556.zip",
+      "files": [
+        {
+          "path": "86829287.json",
+          "sha256": "78b323e5d97232121afc6be628dcb343ce71edd27cd9d2462b371c4e0a94a4aa",
+          "size": 14311601
+        },
+        {
+          "path": "86829287.mp3",
+          "sha256": "40ca314cbb4e9ca71dc884ed6820e8359ec41d64efd7131bddb76f533187492a",
+          "size": 3522186
+        },
+        {
+          "path": "86829287.png",
+          "sha256": "4345b92bb5a147d3be51847d0ceda77a7aca054084c6d835616598c62b6b8f6f",
+          "size": 4625077
+        },
+        {
+          "path": "info.txt",
+          "sha256": "83be532b4f54fefcc779b6bfdb0c093205d806fc5e1365d672d881a6b378afd4",
+          "size": 154
+        },
+        {
+          "path": "info.yml",
+          "sha256": "249e5bc4f2f4c45ddff096e16d9d947630d2d4bc32f69a61a0e7f54bc910a7f8",
+          "size": 500
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "86829287.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "86829287.png",
+        "lineLength": 6.0,
+        "music": "86829287.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "(^^)"
+      },
+      "release": "backup-12000-12999",
+      "sha256": "739711646210e6e3d76ec7040de5995d9c48772eff11bb270b567f9860a48e3b",
+      "size": 22460026,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12556.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-16T14:35:57.174249Z",
+  "charter": "Hazefrost",
+  "composer": "LeaF",
+  "created": "2023-12-16T14:35:57.174249Z",
+  "description": "×15.9   ○16.2",
+  "difficulty": 15.900001,
+  "id": 12556,
+  "illustrator": "UK",
+  "level": "IN Lv.15",
+  "name": "Wizdomiot",
+  "tags": [],
+  "updated": "2023-12-16T14:35:57.174249Z",
+  "uploader": 301144
+}

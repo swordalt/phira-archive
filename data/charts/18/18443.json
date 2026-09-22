@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:36Z",
+    "lastChanged": "2026-09-22T01:21:36Z",
+    "localBackup": {
+      "asset": "18443.zip",
+      "files": [
+        {
+          "path": "47337913.json",
+          "sha256": "8656572cf19e93778244c3193b9c168dce0b9921a2184c7ef7e86a4cb2506e78",
+          "size": 1320263
+        },
+        {
+          "path": "47337913.mp3",
+          "sha256": "c22e912297e8b1bb08909b88f1f78dfe6264a2585c10394dee556012487a7812",
+          "size": 2059698
+        },
+        {
+          "path": "47337913.png",
+          "sha256": "5df6436a9c08bbd9773daddc193572a4364285965c394b7d98c768df4a348843",
+          "size": 1820673
+        },
+        {
+          "path": "info.txt",
+          "sha256": "8c214e338ff7f70b4699366167eb5e3243697701a0f6f431187457f9c04d266f",
+          "size": 161
+        },
+        {
+          "path": "info.yml",
+          "sha256": "90f5821bc66d27a38c0db06a0c6cf7f6fae1f047399924756b94aec1aa276eac",
+          "size": 582
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "47337913.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "47337913.png",
+        "lineLength": 6.0,
+        "music": "47337913.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-18000-18999",
+      "sha256": "d8cde37f84d13977ba4cf70c7fb8c713d9d69682d0fe265ff13a305d08f48131",
+      "size": 5201885,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-18000-18999/18443.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-04-21T02:56:24.892798Z",
+  "charter": "mxy",
+  "composer": "sasakure.UK",
+  "created": "2024-04-14T01:53:37.473241Z",
+  "description": "5L2K参赛谱，总事件1800+，共用五线        删除了尾杀震动",
+  "difficulty": 15.299997,
+  "id": 18443,
+  "illustrator": "MAIMAI",
+  "level": "IN Lv.15",
+  "name": "The EmpError",
+  "tags": [],
+  "updated": "2024-04-21T02:56:24.892798Z",
+  "uploader": 6209
+}

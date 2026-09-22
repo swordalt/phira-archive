@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:02:02Z",
+    "lastChanged": "2026-09-22T01:02:02Z",
+    "localBackup": {
+      "asset": "326.zip",
+      "files": [
+        {
+          "path": "96623640.json",
+          "sha256": "52e098c164a50e0f97a161fe9c354f853c918e939ff44f0bb12e6296c1b2d472",
+          "size": 4917029
+        },
+        {
+          "path": "96623640.mp3",
+          "sha256": "5a28a3dcbb5c6b54eeae8d16d13ce07b50d6379752a6feac0de8f90eecf239fd",
+          "size": 3867237
+        },
+        {
+          "path": "96623640.png",
+          "sha256": "3e0c77bc663d145d1a7750acfc9a671b7acba7504e8be3747fbb0ccf76652181",
+          "size": 302486
+        },
+        {
+          "path": "info.txt",
+          "sha256": "957bc42f3b356049058339b4a8b830f5709fdc81a3fdba3f47b9dbcf0b9fdcdb",
+          "size": 197
+        },
+        {
+          "path": "info.yml",
+          "sha256": "036d60589710da20bc843bfcee25cce62b3fc7c4423f06eb35b51f4b93905a2b",
+          "size": 537
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "96623640.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "96623640.png",
+        "lineLength": 6.0,
+        "music": "96623640.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-0-999",
+      "sha256": "49b8d16a122ca42c1e782520b583a457ef571f5a6b4ab47102c71a877494bbf4",
+      "size": 9087994,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-0-999/326.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-04-02T08:24:52.826382Z",
+  "charter": "4thPecJam",
+  "composer": "IOSYS",
+  "created": "2023-04-02T08:24:52.826382Z",
+  "description": "",
+  "difficulty": 15.0,
+  "id": 326,
+  "illustrator": "UK",
+  "level": "AT Lv.15",
+  "name": "恋の氷結おてんば湯けむりチルノ温泉",
+  "tags": [],
+  "updated": "2023-04-02T08:24:52.826382Z",
+  "uploader": 405
+}

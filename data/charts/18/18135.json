@@ -1,0 +1,75 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:21Z",
+    "lastChanged": "2026-09-22T01:21:21Z",
+    "localBackup": {
+      "asset": "18135.zip",
+      "files": [
+        {
+          "path": "10808955.jpg",
+          "sha256": "c9dd72df02979a6714e17746f5f9a330097d200d240f7b961fb2e3e660cdf295",
+          "size": 325785
+        },
+        {
+          "path": "10808955.json",
+          "sha256": "966c3d20ab96f2a9751f77b4253ef1ecb33a46371205bf80f67420d435ddb8bf",
+          "size": 1252308
+        },
+        {
+          "path": "10808955.mp3",
+          "sha256": "02d859b9c0fd49442bcbfa26bfdc37ed3ef2136278fb746299881f3daed89046",
+          "size": 2289304
+        },
+        {
+          "path": "info.txt",
+          "sha256": "420f7e69692600b842bc4b2125b880e0f2aa7157991427c4b0daf3104c432ed3",
+          "size": 201
+        },
+        {
+          "path": "info.yml",
+          "sha256": "7971864bbea93c7f88ac503f6a067276c144516128b51418de26f7519166727d",
+          "size": 711
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "10808955.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "10808955.jpg",
+        "lineLength": 6.0,
+        "music": "10808955.mp3",
+        "offset": 0.02,
+        "previewEnd": 93.0,
+        "previewStart": 77.5,
+        "tip": "每次都想装作很坚强",
+        "unlockVideo": null
+      },
+      "release": "backup-18000-18999",
+      "sha256": "eced764dc9e7ce60ec203d3a3c675f27b954a23438b58a47bed9f3c620910ce7",
+      "size": 3868817,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-18000-18999/18135.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-04-06T06:05:00.897650Z",
+  "charter": "渊琼_deep",
+  "composer": "EndCat-终猫 vs StartDoge-始犬 vs 终焉机器=/=恶磁木亥 ",
+  "created": "2024-04-06T06:05:00.897650Z",
+  "description": "你的🐎🐎被抓走了",
+  "difficulty": 16.700022,
+  "id": 18135,
+  "illustrator": "我要把你的🐎🐎抓走",
+  "level": "SP Lv.?",
+  "name": "终暮~核磁共振+(SuperBadcore-VeryBad REMIX)",
+  "tags": [
+    "Orzmic",
+    "愚人节",
+    "regular"
+  ],
+  "updated": "2024-04-06T06:05:00.897650Z",
+  "uploader": 312532
+}

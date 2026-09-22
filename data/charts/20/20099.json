@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:23:56Z",
+    "lastChanged": "2026-09-22T01:23:56Z",
+    "localBackup": {
+      "asset": "20099.zip",
+      "files": [
+        {
+          "path": "24609048.jpg",
+          "sha256": "5f751ec911570d5e0cc905588aa9469d02e3bdf5a65bac139be569b87082d1b1",
+          "size": 273402
+        },
+        {
+          "path": "24609048.json",
+          "sha256": "cd85dab60a8bddd208354e1c3aa7f759fdb1a7d75a9f9f818b998ab3f2d70e74",
+          "size": 2983401
+        },
+        {
+          "path": "24609048.ogg",
+          "sha256": "f3f98cd0156aaac3b127aa8e7685c2e1565c7df671e0349c841aa3ae7e3d9fbd",
+          "size": 2882327
+        },
+        {
+          "path": "info.txt",
+          "sha256": "e2fa768c230729b1ecaa0218d9bb3f0c1ebf8d2e4b2a2ebb17245e27347a4212",
+          "size": 181
+        },
+        {
+          "path": "info.yml",
+          "sha256": "d88a700d613d784c660d80989bcd82a9ae33b902877a97ccceb05bb3f7c3f97d",
+          "size": 547
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "24609048.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "24609048.jpg",
+        "lineLength": 6.0,
+        "music": "24609048.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "请关注@天崽awa和@o1b喵～",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "300d8310dc19b705a3f6132c037e710c753608ffe3ddc9e09b8fd73f862932fe",
+      "size": 6140366,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20099.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "天崽awa & 欧一biang",
+  "composer": "Powerless",
+  "created": null,
+  "description": "发布屏元/手元请务必标明谱师信息",
+  "difficulty": 15.400002,
+  "id": 20099,
+  "illustrator": "©Noxy.Game Lanota",
+  "level": "IN Lv.15",
+  "name": "Frey's Philosophy",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

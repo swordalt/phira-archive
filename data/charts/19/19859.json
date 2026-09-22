@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:23:24Z",
+    "lastChanged": "2026-09-22T01:23:24Z",
+    "localBackup": {
+      "asset": "19859.zip",
+      "files": [
+        {
+          "path": "86432968.jpg",
+          "sha256": "ba6a729174abaad131c90bcb05564d0b519ff37006a699a1b979723f8d746a99",
+          "size": 65965
+        },
+        {
+          "path": "86432968.json",
+          "sha256": "31234d3616a6af60f3a9af71241dbe2ac142cc0cbae649abfd1ce0faa173f75c",
+          "size": 1672396
+        },
+        {
+          "path": "86432968.mp3",
+          "sha256": "4a8c824e9059de91fbdacb30a644aedbac9a2a86e92d9735642036ae09dbf6d9",
+          "size": 5054986
+        },
+        {
+          "path": "info.txt",
+          "sha256": "fb9d5b6f9f1598cf740996edaf4f013291b26ef46b947986b20ea9e9368d3907",
+          "size": 154
+        },
+        {
+          "path": "info.yml",
+          "sha256": "1835620a4f9f9f9315557bc719f707a0500beacd0f49eba7c335048c129ab8ce",
+          "size": 576
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "86432968.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "86432968.jpg",
+        "lineLength": 6.0,
+        "music": "86432968.mp3",
+        "offset": 0.0,
+        "previewEnd": 188.0,
+        "previewStart": 176.0,
+        "tip": "快帮助鸠！",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "0727ad1504f94159719b316f19f3fb198032dcfbfc874a74e09884b35282a15e",
+      "size": 6794585,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19859.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-12T04:01:35.334475Z",
+  "charter": "衣玖",
+  "composer": "Adaptor",
+  "created": "2024-05-12T04:01:35.334475Z",
+  "description": "灵感来源于《节奏医生》自制谱《iceshard》",
+  "difficulty": 8.999996,
+  "id": 19859,
+  "illustrator": "UK",
+  "level": "SP Lv.⑨",
+  "name": "iceshard",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-05-19T05:43:14.744474Z",
+  "uploader": 563094
+}

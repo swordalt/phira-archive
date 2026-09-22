@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:14:37Z",
+    "lastChanged": "2026-09-22T01:14:37Z",
+    "localBackup": {
+      "asset": "13336.zip",
+      "files": [
+        {
+          "path": "96582475.jpg",
+          "sha256": "1fb17a3d46f35e2c8a547ffa216a0aa6b0a8c546c90240d54dbbc6646f9a7dab",
+          "size": 99555
+        },
+        {
+          "path": "96582475.json",
+          "sha256": "94f5f96a9d2a8f432001d56fe3ddb310b6df702ac5a1061c2017b05cc6547501",
+          "size": 783898
+        },
+        {
+          "path": "96582475.mp3",
+          "sha256": "4598af7072e945b0edae09d42e4369fefe94dbde322433a490ec85b4b0c887cf",
+          "size": 1691897
+        },
+        {
+          "path": "info.txt",
+          "sha256": "7ed508aed39eeb270a5a1f4b76aa65cf024ee2ea2938bfbfedfc1ecf17b35827",
+          "size": 199
+        },
+        {
+          "path": "info.yml",
+          "sha256": "cc0db75d3c06446bf6467114b96f7ca9098f1f3a792fa761ac88b46f05fe3aa4",
+          "size": 813
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "96582475.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "96582475.jpg",
+        "lineLength": 6.0,
+        "music": "96582475.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tips：大芬，请小心尝试"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "1431d3ba7432877f84ec877bd72ebac356f86da4353558ad5df1d751470424a2",
+      "size": 2576870,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13336.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-07T05:44:10.690378Z",
+  "charter": "hc eat 弦子, very yummy",
+  "composer": "Jordan Lee",
+  "created": "2024-01-07T05:44:10.690378Z",
+  "description": "已经过另一位谱师同意。整活谱\nhc：个人发疯做，因为好久没写谱，而且在学校累个半死，在这种精神状态下写了张粉扑。我负责按键，另一位谱师写特效。\n打谱请@b站的：h-c-啦 和 周弦蕤",
+  "difficulty": 20.0,
+  "id": 13336,
+  "illustrator": "UK",
+  "level": "AT Lv.屎",
+  "name": "你电脑崩了(Windows Redzone)",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-01-07T05:44:10.690378Z",
+  "uploader": 6169
+}

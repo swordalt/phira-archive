@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:14Z",
+    "lastChanged": "2026-09-22T01:16:14Z",
+    "localBackup": {
+      "asset": "14164.zip",
+      "files": [
+        {
+          "path": "12061801.jpg",
+          "sha256": "58ca27ee783bf4cfb32e1b538a58926507eafbce8c391fb1d04aace1d22ad4f7",
+          "size": 78361
+        },
+        {
+          "path": "12061801.json",
+          "sha256": "a8be6babb90a45b1f270223b48380586597b7e1e433896c0d74c3cf385327d18",
+          "size": 1494030
+        },
+        {
+          "path": "12061801.mp3",
+          "sha256": "18bf5ada4cdf619a85291778733b0a56b2e2524d166a6df6b890692610457171",
+          "size": 322835
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b8e6c9d89ed0490838639f35632ed8451fe8b65a559d5e4ee313a7a686b994e9",
+          "size": 166
+        },
+        {
+          "path": "info.yml",
+          "sha256": "bee3988bfb521c0b23d69f9abf68d5d1fdc663b24b9a92de51133bffc8cba7c9",
+          "size": 548
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "12061801.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "12061801.jpg",
+        "lineLength": 6.0,
+        "music": "12061801.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "原来你也玩第五"
+      },
+      "release": "backup-14000-14999",
+      "sha256": "8a6f0e3cdb925d28e3ebcdac4b48731bba8914cfe608a7ea5a97b25675202982",
+      "size": 1896448,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14164.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-26T03:54:39.169109Z",
+  "charter": "RTX20000",
+  "composer": "RTX20000",
+  "created": "2024-01-26T03:54:39.169109Z",
+  "description": "我是最强前锋",
+  "difficulty": 18.0,
+  "id": 14164,
+  "illustrator": "第五 人格启动",
+  "level": "AT LV.18",
+  "name": "我是最强前锋",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-01-26T03:54:39.169109Z",
+  "uploader": 506600
+}

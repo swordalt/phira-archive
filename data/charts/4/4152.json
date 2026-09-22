@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:47Z",
+    "lastChanged": "2026-09-22T01:03:47Z",
+    "localBackup": {
+      "asset": "4152.zip",
+      "files": [
+        {
+          "path": "82515635.jpg",
+          "sha256": "0054c4ece88ee076c37aa3ffdc0d03fd77aab0a560ea84c4e0e3f02035bf9b36",
+          "size": 165978
+        },
+        {
+          "path": "82515635.json",
+          "sha256": "6d1ebe010747655d9ace3ed125530f9c24e5e2f8e866e97b7218a1a34b057140",
+          "size": 2952867
+        },
+        {
+          "path": "82515635.ogg",
+          "sha256": "7f37e4e5752c546142f5be7e4ce22cbb2a4c49b5ddd45ceb05b11b269a4c1aa4",
+          "size": 3332019
+        },
+        {
+          "path": "info.txt",
+          "sha256": "60a1a1bdb202fcb82c9c2b3cba7933a84e1125c8a3055a7f62ac54064096ac69",
+          "size": 198
+        },
+        {
+          "path": "info.yml",
+          "sha256": "c8a12a9d96dbbf549c173469e06714d8cc8617f1f6c36322aacfc45a929fa0b1",
+          "size": 564
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "82515635.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "82515635.jpg",
+        "lineLength": 6.0,
+        "music": "82515635.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-4000-4999",
+      "sha256": "402c52d4c42afa642de654748e8f944cdd1d609dd9bb0a34b74ac3ee94c95b38",
+      "size": 6452134,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-4000-4999/4152.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-06-27T04:56:07.873612Z",
+  "charter": "hsX小轩 as 「純粋な暴力」",
+  "composer": "cosmo@暴走p",
+  "created": "2023-06-27T04:56:07.873612Z",
+  "description": "本人上传\n关注hsX小轩谢谢喵",
+  "difficulty": 18.0,
+  "id": 4152,
+  "illustrator": "UK",
+  "level": "AT  Lv.18",
+  "name": "ギザバ怪文書",
+  "tags": [],
+  "updated": "2023-06-29T07:23:33.424806Z",
+  "uploader": 1130
+}

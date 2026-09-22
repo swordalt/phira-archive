@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:13:51Z",
+    "lastChanged": "2026-09-22T01:13:51Z",
+    "localBackup": {
+      "asset": "12857.zip",
+      "files": [
+        {
+          "path": "81418640.json",
+          "sha256": "df41cbc931dec8044544b0b775d9436335c14346fe85cf7c5c431c859d61c808",
+          "size": 1457125
+        },
+        {
+          "path": "81418640.mp3",
+          "sha256": "439084bd63e413e97619301a58514c118df5b3a565aca6c23bdc4f61350423a2",
+          "size": 6205097
+        },
+        {
+          "path": "81418640.png",
+          "sha256": "d4892ca92fa65509c422f98368566e0bc1330594b47556d5fc36f068f91d5592",
+          "size": 546307
+        },
+        {
+          "path": "info.txt",
+          "sha256": "dc53f00f748e57560ba52700d60d4a4e442ab0346521e7090b8365924057154e",
+          "size": 169
+        },
+        {
+          "path": "info.yml",
+          "sha256": "533c498438ca19ba256944094c6fd05e96eb0e19849b7358f9078b009da31541",
+          "size": 505
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "81418640.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "81418640.png",
+        "lineLength": 6.0,
+        "music": "81418640.mp3",
+        "offset": 0.0,
+        "previewEnd": 100.0,
+        "previewStart": 80.0,
+        "tip": null
+      },
+      "release": "backup-12000-12999",
+      "sha256": "d283c4baf9d8fae491921b9cb88ea7d440a8d8842dad9bfe5d3f1c4a0ee12170",
+      "size": 8209711,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12857.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-26T01:59:14.966424Z",
+  "charter": "Spider0457",
+  "composer": "LeaF",
+  "created": "2023-12-26T01:59:14.966424Z",
+  "description": "",
+  "difficulty": 13.299999,
+  "id": 12857,
+  "illustrator": "Optie",
+  "level": "IN Lv.13",
+  "name": "Posion AND÷OR Affection",
+  "tags": [],
+  "updated": "2023-12-26T01:59:14.966424Z",
+  "uploader": 1545
+}

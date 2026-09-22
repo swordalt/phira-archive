@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:19:55Z",
+    "lastChanged": "2026-09-22T01:19:55Z",
+    "localBackup": {
+      "asset": "16906.zip",
+      "files": [
+        {
+          "path": "55986899.json",
+          "sha256": "033e7b8c080eeb2bb77b65f52190cb6b67902a426edf9f88e253f2e05a41f80c",
+          "size": 4363115
+        },
+        {
+          "path": "55986899.ogg",
+          "sha256": "fd745097e6f75d933cd4e968da7fa8b5d030e5bf27746b7e3d53aacde6b97eb4",
+          "size": 3205918
+        },
+        {
+          "path": "55986899.png",
+          "sha256": "a6aae90be46eb4b9ab39d600bd698450543ddc8d965ce869be03119a2803e26d",
+          "size": 319436
+        },
+        {
+          "path": "info.txt",
+          "sha256": "66de2fa1c67f2f9f74f003ae4f45dc383a09e1aff8b6dd47d9f8b8f6eb345022",
+          "size": 141
+        },
+        {
+          "path": "info.yml",
+          "sha256": "b2ed827230e3418e89bc796a91f94a2b2f6f367bf318c3d1a927920b2fc7052a",
+          "size": 556
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "55986899.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "55986899.png",
+        "lineLength": 6.0,
+        "music": "55986899.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip:縺→縺→",
+        "unlockVideo": null
+      },
+      "release": "backup-16000-16999",
+      "sha256": "61c27a7daf4d4a6ac1f642eeb74ab74fba87dc3c710b434985f0db68c9faf952",
+      "size": 7889674,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-16000-16999/16906.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-03-09T09:17:05.477951Z",
+  "charter": "Li",
+  "composer": "Leaf",
+  "created": "2024-03-09T09:17:05.477951Z",
+  "description": "沉淀了半个月……\nb站视频:BV1oZ421a7Wk",
+  "difficulty": 15.900003,
+  "id": 16906,
+  "illustrator": "Fiz",
+  "level": "IN Lv.15",
+  "name": "彁",
+  "tags": [],
+  "updated": "2024-03-09T10:43:52.458920Z",
+  "uploader": 93670
+}

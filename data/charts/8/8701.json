@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:28Z",
+    "lastChanged": "2026-09-22T01:08:28Z",
+    "localBackup": {
+      "asset": "8701.zip",
+      "files": [
+        {
+          "path": "59019371.jpg",
+          "sha256": "dc845efba4a6b0657fe894ed23b97ba93e2e08f600723251f423addc1d47ab56",
+          "size": 91435
+        },
+        {
+          "path": "59019371.json",
+          "sha256": "50c26f732e36468d59f95e83fb2b6d9a683c481ee1c8e0d80ace87de6c7b3dc5",
+          "size": 2503285
+        },
+        {
+          "path": "59019371.ogg",
+          "sha256": "94310e8a3ce5015618d35e14e7bb0677907374fdc9bab686aded191a5b4799bb",
+          "size": 2659956
+        },
+        {
+          "path": "info.txt",
+          "sha256": "9dbf2d94733eced17e5dc25996e7f4edb769f53414209e3030d1459ff3997332",
+          "size": 160
+        },
+        {
+          "path": "info.yml",
+          "sha256": "e14253e3e536a19fef2fdac7534fa0b128ad37e951f0e74bab3d19496e3cba25",
+          "size": 622
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "59019371.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "59019371.jpg",
+        "lineLength": 6.0,
+        "music": "59019371.ogg",
+        "offset": 0.0,
+        "previewEnd": 115.0,
+        "previewStart": 100.0,
+        "tip": "Tip：我真的找不到繪師"
+      },
+      "release": "backup-8000-8999",
+      "sha256": "c3b4d71de198199ee0dce720e9249d3d53528c302994adac923e07d0072a5065",
+      "size": 5255966,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-8000-8999/8701.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-29T12:11:37.218216Z",
+  "charter": "NotTure1",
+  "composer": "LeaF",
+  "created": "2023-08-29T12:11:37.218216Z",
+  "description": "譜師本人上傳\n第一次寫譜，(大)部分特效轉的沒有很好請見諒。",
+  "difficulty": 15.799999,
+  "id": 8701,
+  "illustrator": "UK",
+  "level": "AT Lv.15",
+  "name": "Calamity Fortune",
+  "tags": [
+    "LeaF",
+    "regular"
+  ],
+  "updated": "2023-09-01T08:15:40.758701Z",
+  "uploader": 12901
+}

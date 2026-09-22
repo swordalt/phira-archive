@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:18:52Z",
+    "lastChanged": "2026-09-22T01:18:52Z",
+    "localBackup": {
+      "asset": "15617.zip",
+      "files": [
+        {
+          "path": "81110074.jpg",
+          "sha256": "b5f392afe8d0a93b85f1700fd312e9983708b2c8eaf44aa063f0bbd48c875acc",
+          "size": 18091
+        },
+        {
+          "path": "81110074.json",
+          "sha256": "e8a2759bd37e822c92dfd1c1c9b1a90688154f21c052977711a072680710b8ae",
+          "size": 963536
+        },
+        {
+          "path": "81110074.wav",
+          "sha256": "d4ee7ede5efcf7934257d38d6da9a1403f7aff455d245e975a7e57a80ad588d0",
+          "size": 8413240
+        },
+        {
+          "path": "info.txt",
+          "sha256": "7bc8608e6c72edd32910aae1ec51fd1e76479d382f76791005eeec43e89ec71e",
+          "size": 159
+        },
+        {
+          "path": "info.yml",
+          "sha256": "3021f8862f272e75961a1b3424ecd34d31354a9fb54ea2fafad049d5f8749a9d",
+          "size": 631
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "81110074.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "81110074.jpg",
+        "lineLength": 6.0,
+        "music": "81110074.wav",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "群友拿谱师语音消息恶搞的"
+      },
+      "release": "backup-15000-15999",
+      "sha256": "46b2e4391a65c60e32830df2b511f1863e72016749257eabad944ee00f8cdfe5",
+      "size": 9396165,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15617.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-14T04:28:08.396471Z",
+  "charter": "凕羽",
+  "composer": "獨.",
+  "created": "2024-02-14T04:28:08.396471Z",
+  "description": "B站快手抖音发布手元均@大家好我是黄同学 即可（tip：凕羽是我的马甲）",
+  "difficulty": 11.4,
+  "id": 15617,
+  "illustrator": "大家好我是黄同学",
+  "level": "114514",
+  "name": "草梨马笔",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-02-14T04:28:08.396471Z",
+  "uploader": 830
+}

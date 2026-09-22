@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:02:09Z",
+    "lastChanged": "2026-09-22T01:02:09Z",
+    "localBackup": {
+      "asset": "417.zip",
+      "files": [
+        {
+          "path": "84188957.jpg",
+          "sha256": "08e2867ef7da87bb065a1a4a9a9aff092048c04a97b2b55e8f22fe40041f2f43",
+          "size": 241322
+        },
+        {
+          "path": "84188957.json",
+          "sha256": "1ecc98b2fc28651b64d4e51f08bcaf87a67399841caa98edadb16f71a64a0e46",
+          "size": 293124
+        },
+        {
+          "path": "84188957.mp3",
+          "sha256": "9392d9187c10c309a27d1b46142052acdaaf1f6fa46c13842e68e1be0784279e",
+          "size": 5915662
+        },
+        {
+          "path": "info.txt",
+          "sha256": "49e4888111eedf9527cb3adad74f84746b6ec7c9b42ace7750e8d28458de196d",
+          "size": 175
+        },
+        {
+          "path": "info.yml",
+          "sha256": "d069a4bab505f74a87eca4d79e780b30e4f7bafd7c14838a6c47d548b0fd4715",
+          "size": 695
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.77778,
+        "backgroundDim": 0.6,
+        "chart": "84188957.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "84188957.jpg",
+        "lineLength": 6.0,
+        "music": "84188957.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip：永夜城也曾有过白天。",
+        "unlockVideo": null
+      },
+      "release": "backup-0-999",
+      "sha256": "30ba983273f1690ea398dcef720d950da25ba46d2c19371464334e9a41ac8e6a",
+      "size": 6451486,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-0-999/417.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-04-02T11:17:37.791787Z",
+  "charter": "HAN YAN",
+  "composer": "黒皇帝 feat AKA",
+  "created": "2023-04-02T11:17:37.791787Z",
+  "description": "谱面：寒炎（b站寒炎是个夕崽），这本来是我上周就得写完的，无奈上周没时间只能搞到这周，祝各位游玩愉快～",
+  "difficulty": 16.0,
+  "id": 417,
+  "illustrator": "UK",
+  "level": "AT Lv.16",
+  "name": "Le Porteur d'Ombre",
+  "tags": [],
+  "updated": "2023-04-02T11:17:37.791787Z",
+  "uploader": 1143
+}

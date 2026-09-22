@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:33Z",
+    "lastChanged": "2026-09-22T01:08:33Z",
+    "localBackup": {
+      "asset": "8937.zip",
+      "files": [
+        {
+          "path": "44109494.PNG",
+          "sha256": "fd70cfc141d53a9f48b631044e7c57355e27a1e0a680aca239dfa6d991f6e221",
+          "size": 1332455
+        },
+        {
+          "path": "44109494.json",
+          "sha256": "797d263961bf338132953d64209f465fc626452f2dac34b592503cee09142a40",
+          "size": 5838381
+        },
+        {
+          "path": "44109494.mp3",
+          "sha256": "08c7a3b1bf45c94ebd805117bc69d07430e09054b77a550404b429424fe1cb0a",
+          "size": 2399532
+        },
+        {
+          "path": "info.txt",
+          "sha256": "98c6581970017db991eddf601e340763706bba32fb856ac02dfdf3358d715b45",
+          "size": 164
+        },
+        {
+          "path": "info.yml",
+          "sha256": "67e4a8eca15f24aa325ebe9a03397a06a85b37c204c486047eb18b065c223ea6",
+          "size": 548
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "44109494.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "44109494.PNG",
+        "lineLength": 6.0,
+        "music": "44109494.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "?!"
+      },
+      "release": "backup-8000-8999",
+      "sha256": "4c3516a9883362a7cdd5de99e1c9182fc5bd6d33e9f0a3abc34d2108fa6ac351",
+      "size": 9571588,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-8000-8999/8937.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "FFporia x 幻射忍者 x 克鲁鲁·采佩西 x 纯黑先生",
+  "composer": "黒皇帝 feat. AKA ",
+  "created": null,
+  "description": "5thpecjam CO.8 一改 BV1M94y1t7i7 已经修复叠键",
+  "difficulty": 16.2,
+  "id": 8937,
+  "illustrator": "NekoFTR",
+  "level": "AT Lv.16",
+  "name": "Le Porteur d'Ombre",
+  "tags": [
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

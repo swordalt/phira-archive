@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:20:25Z",
+    "lastChanged": "2026-09-22T01:20:25Z",
+    "localBackup": {
+      "asset": "17189.zip",
+      "files": [
+        {
+          "path": "46336317.json",
+          "sha256": "c97c3d79ecace09a953fffc9dd9ec19ad93bdd9d0ad77239e02168a9cf543463",
+          "size": 3280729
+        },
+        {
+          "path": "46336317.mp3",
+          "sha256": "06dc240fd1ea6793592d730685e754ff1ab13922cea537a49ebf56cbc18011f4",
+          "size": 12081154
+        },
+        {
+          "path": "46336317.png",
+          "sha256": "0367e2bf40689b60eca089fc3cc6d8b163dd831c0e416026bf81db5193733b6a",
+          "size": 1430190
+        },
+        {
+          "path": "info.txt",
+          "sha256": "6b969b00efc6f83fd2d7cd9a5e3b01e2c0ae613e8c73a8c82da23d51a3f3d63c",
+          "size": 147
+        },
+        {
+          "path": "info.yml",
+          "sha256": "d38472406f63176466103eb07cd4a16741c61b0cb2b2b5ac940f87ab8acfcd90",
+          "size": 429
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.7,
+        "chart": "46336317.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "46336317.png",
+        "lineLength": 6.0,
+        "music": "46336317.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "想创人了",
+        "unlockVideo": null
+      },
+      "release": "backup-17000-17999",
+      "sha256": "31dc4aa6bad5c5819987b33f689476c1d328504caa7d621ee5c64cbf83289651",
+      "size": 16793157,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-17000-17999/17189.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "Ray",
+  "composer": "rN",
+  "created": null,
+  "description": "",
+  "difficulty": 17.9,
+  "id": 17189,
+  "illustrator": "铭山owo",
+  "level": "AT Lv.17",
+  "name": "opia",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:46Z",
+    "lastChanged": "2026-09-22T01:07:46Z",
+    "localBackup": {
+      "asset": "7730.zip",
+      "files": [
+        {
+          "path": "2021.jpg",
+          "sha256": "f2036b561d4b3a66f4c74d990c2c3c0cc86b085f124f85598ba5cb465d66b38c",
+          "size": 291418
+        },
+        {
+          "path": "2021.mp3",
+          "sha256": "3892ac5c050f97c12ddabca6e5c913c33436aea28cc995a45f8ae39de9dbb73c",
+          "size": 2340073
+        },
+        {
+          "path": "2021.pec",
+          "sha256": "bcb96ecac8f1a07099571ba2c04f918c746af05f1f519143dfdd1cd8a014c02e",
+          "size": 324505
+        },
+        {
+          "path": "info.csv",
+          "sha256": "a26622c0cb28735d0c3638fa5823ef52f22f735cfc6db8081863ca24654c6610",
+          "size": 248
+        },
+        {
+          "path": "info.yml",
+          "sha256": "0807166d5a7c3e666074ec6b0fecd294abe076c3ff48f7ff602e7f8e8344e526",
+          "size": 566
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.888889,
+        "backgroundDim": 0.6,
+        "chart": "2021.pec",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "2021.jpg",
+        "lineLength": 6.0,
+        "music": "2021.mp3",
+        "offset": 0.0,
+        "previewEnd": 67.0,
+        "previewStart": 51.0,
+        "tip": null
+      },
+      "release": "backup-7000-7999",
+      "sha256": "6f3a99734a77ccbbe2de2048b7dd6954b46df273dc83b7d36384a61f4d1484ae",
+      "size": 2957292,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-7000-7999/7730.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-15T16:09:23.555022Z",
+  "charter": "Demolisher XINGLING",
+  "composer": "Camellia",
+  "created": "2023-08-15T16:09:23.555022Z",
+  "description": "谱师本人上传\n古早谱面，传上去给双指神仙玩玩",
+  "difficulty": 16.500002,
+  "id": 7730,
+  "illustrator": "Camellia",
+  "level": "HARD Lv.16",
+  "name": "Hello(bpm)2021",
+  "tags": [],
+  "updated": "2023-08-15T16:09:23.555022Z",
+  "uploader": 2329
+}

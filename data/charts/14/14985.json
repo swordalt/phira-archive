@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:31Z",
+    "lastChanged": "2026-09-22T01:17:31Z",
+    "localBackup": {
+      "asset": "14985.zip",
+      "files": [
+        {
+          "path": "79526428.jpg",
+          "sha256": "34b7ae0b6ae0314b816201574bac7b8e0cdc68759b65b99976af9ce481e55d40",
+          "size": 45828
+        },
+        {
+          "path": "79526428.json",
+          "sha256": "b82cf53bce381f70c7364eeb4f1e9f8fffc46be18cdc28535c8abc0593356051",
+          "size": 25381933
+        },
+        {
+          "path": "79526428.mp3",
+          "sha256": "e8b6d109b3e992d6604f26d50cb4e1f246a45b7a9758d977c497bf62eeb549a3",
+          "size": 3529291
+        },
+        {
+          "path": "info.txt",
+          "sha256": "c685b183dc3e17712df3a02232655b6bbd7c116b8103618b42c5757235987249",
+          "size": 161
+        },
+        {
+          "path": "info.yml",
+          "sha256": "d6e587237c4ba17c69e31e267559656d708683a475e6fde823fbdd64a8500174",
+          "size": 585
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777777,
+        "backgroundDim": 0.95,
+        "chart": "79526428.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "79526428.jpg",
+        "lineLength": 6.0,
+        "music": "79526428.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-14000-14999",
+      "sha256": "3e7729cb1a6b4fb2facf9c6287b2623bf9d49d6ea37474f13b0e7426674ed74a",
+      "size": 28958306,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14985.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-08T05:11:51.136138Z",
+  "charter": "qhnps",
+  "composer": "Camellia",
+  "created": "2024-02-08T05:11:51.136138Z",
+  "description": "赛事主办方上传，谱师@qhnps，本谱面为羽笙杯赛事用谱。",
+  "difficulty": 16.500002,
+  "id": 14985,
+  "illustrator": "UK",
+  "level": "AT Lv.16",
+  "name": "Circles of Death",
+  "tags": [
+    "羽笙杯",
+    "regular"
+  ],
+  "updated": "2024-02-08T05:11:51.136138Z",
+  "uploader": 76596
+}

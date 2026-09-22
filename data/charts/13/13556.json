@@ -1,0 +1,68 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:15:06Z",
+    "lastChanged": "2026-09-22T01:15:06Z",
+    "localBackup": {
+      "asset": "13556.zip",
+      "files": [
+        {
+          "path": "1.pec",
+          "sha256": "d42fd04d6131192a583f853a35e7e964b607ac9320492f953aa21bced25e168a",
+          "size": 68328
+        },
+        {
+          "path": "1705116997.ogg",
+          "sha256": "137729deb5209b4e37b9404cda92961d2671fdb3ae8dd82419c2a3cf266936a2",
+          "size": 2026951
+        },
+        {
+          "path": "info.yml",
+          "sha256": "dd73ece30b5f00df3486d145289113aaaa705655b0341286c9f3977d101597b8",
+          "size": 633
+        },
+        {
+          "path": "tmp_1705125179.jpg",
+          "sha256": "d9f7363849defb905a1378b868a24a83509220f3c1fbc7e751a03fed66ccfb32",
+          "size": 2203601
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "1.pec",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "tmp_1705125179.jpg",
+        "lineLength": 6.0,
+        "music": "1705116997.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "tip:tip:tip:tip:tip:tip:tip:tip:tip:tip"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "f71ff444c93b36cb8e8dfb21f9bdae2a54a23b3b58bb6aaa402d2b075be17820",
+      "size": 4299929,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13556.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-13T13:04:41.318573Z",
+  "charter": "“Picasso”DESREMUCI",
+  "composer": "Jay Eazy",
+  "created": "2024-01-13T13:04:41.318573Z",
+  "description": "在Malody上写的抽象谱面，憋憋(由谱师亲自上传)",
+  "difficulty": 17.999992,
+  "id": 13556,
+  "illustrator": "Camellia",
+  "level": "SP Lv.?",
+  "name": "Mega Man (Camellia Remix)",
+  "tags": [
+    "Camellia",
+    "troll"
+  ],
+  "updated": "2024-01-13T13:04:41.318573Z",
+  "uploader": 3139
+}

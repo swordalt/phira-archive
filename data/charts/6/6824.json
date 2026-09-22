@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:57Z",
+    "lastChanged": "2026-09-22T01:06:57Z",
+    "localBackup": {
+      "asset": "6824.zip",
+      "files": [
+        {
+          "path": "83361564.json",
+          "sha256": "3c71ff704813d164f63eeb7287245eeb018d3d29b249d0df425fdeb7812a972c",
+          "size": 100182
+        },
+        {
+          "path": "83361564.mp3",
+          "sha256": "73156f852c16951cc2fb92b60f12f575091051d90f24f1d55da0bb71628336c4",
+          "size": 35411
+        },
+        {
+          "path": "83361564.png",
+          "sha256": "dbcc75b7f2068292f4db31d4239b48edb4927a724ba0e8e1d2da9c8802d6c7bd",
+          "size": 16132
+        },
+        {
+          "path": "info.txt",
+          "sha256": "0e2db12770a8ae2974392b3f193069117f8f0ac649f494dd42e4f7cbe9f01a41",
+          "size": 162
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f8332b69a293910a904addb04adaf4529ce7c607d81c98e27afc943b58fb57b5",
+          "size": 567
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "83361564.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "83361564.png",
+        "lineLength": 6.0,
+        "music": "83361564.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "AUGHHHH!!!"
+      },
+      "release": "backup-6000-6999",
+      "sha256": "8b9c493432b1e4f3aec458f55c0f394b82a5b508f73d970f4c368db6844a2fe9",
+      "size": 152962,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6824.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-04T14:43:02.000909Z",
+  "charter": "FJZZZZZZZZZZ",
+  "composer": "我不到啊",
+  "created": "2023-08-04T14:43:02.000909Z",
+  "description": "我用Malody测BPM测出了434.271。。。",
+  "difficulty": 11.400001,
+  "id": 6824,
+  "illustrator": "FJZZZZZZZZZZZZZZZ",
+  "level": "AUGHHHH",
+  "name": "AUGHHHH",
+  "tags": [
+    "sleep",
+    "troll"
+  ],
+  "updated": "2023-08-04T14:43:02.000909Z",
+  "uploader": 12419
+}

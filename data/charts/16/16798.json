@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:19:48Z",
+    "lastChanged": "2026-09-22T01:19:48Z",
+    "localBackup": {
+      "asset": "16798.zip",
+      "files": [
+        {
+          "path": "32530087.jpg",
+          "sha256": "4fd0c372875c82ed2b889bec4bdaf8a18295d081e7814fb513259c54317bde4e",
+          "size": 36774
+        },
+        {
+          "path": "32530087.json",
+          "sha256": "910c0f812eb4d5ac5f026501cf635755d0cf24fdde399fc7456170211976448e",
+          "size": 696676
+        },
+        {
+          "path": "32530087.mp3",
+          "sha256": "f9c003a3f9ba9dd124b7b5f0f01a1521abb1e0fb456164b9c3a5f3d262595a35",
+          "size": 5472506
+        },
+        {
+          "path": "info.txt",
+          "sha256": "5805d38c1fc297b088e76e35dc56dbebcd631b63cb044ccd2a2c0be442caadbb",
+          "size": 183
+        },
+        {
+          "path": "info.yml",
+          "sha256": "1fa35bbcc17c43e674b3afd2265ca3298eca9b0a154343029e486ecd1f2cc9ac",
+          "size": 499
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.2,
+        "chart": "32530087.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "32530087.jpg",
+        "lineLength": 6.0,
+        "music": "32530087.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-16000-16999",
+      "sha256": "deb45ccc6e2f580106e6b40ca516bcced71b050f4d3b0a2e137ea104582ca430",
+      "size": 6207146,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-16000-16999/16798.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "凌雨皇帝 vs 水杯皇帝",
+  "composer": "Sasakure.UK",
+  "created": null,
+  "description": "本人谱师已经过水杯老师同意上传",
+  "difficulty": 11.7,
+  "id": 16798,
+  "illustrator": "UK",
+  "level": "HD Lv.11",
+  "name": "the EmpErroR",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

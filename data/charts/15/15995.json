@@ -1,0 +1,90 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:19:04Z",
+    "lastChanged": "2026-09-22T01:19:04Z",
+    "localBackup": {
+      "asset": "15995.zip",
+      "files": [
+        {
+          "path": "64527158.jpg",
+          "sha256": "ad3438ab43fdb93effe89b9265fb03c55b5ae0df116913e922b9cf680bc305b0",
+          "size": 46154
+        },
+        {
+          "path": "64527158.json",
+          "sha256": "a4c71b7465b478404dfd3579687d0b6af4ecd3479ec439436f771f9993e31e35",
+          "size": 869968
+        },
+        {
+          "path": "Mili - World_execute (me).mp3",
+          "sha256": "f41cf6a4bd76b19fdf0b8c161cfb04009f6d819b5ad042e7b691d5c074f2d59d",
+          "size": 3398261
+        },
+        {
+          "path": "info.csv",
+          "sha256": "b8a9f9ea10d16eeb458e331e08687c756f2b8a33eb50c8268350c5b72862678f",
+          "size": 252
+        },
+        {
+          "path": "info.yml",
+          "sha256": "2001b288d393835c63a88976d9187036bbbe4ad1de4d256f413523bb958b0f26",
+          "size": 506
+        },
+        {
+          "path": "World.execute (me)/64527158.jpg",
+          "sha256": "ad3438ab43fdb93effe89b9265fb03c55b5ae0df116913e922b9cf680bc305b0",
+          "size": 46154
+        },
+        {
+          "path": "World.execute (me)/64527158.json",
+          "sha256": "a4c71b7465b478404dfd3579687d0b6af4ecd3479ec439436f771f9993e31e35",
+          "size": 869968
+        },
+        {
+          "path": "World.execute (me)/64527158.ogg",
+          "sha256": "d806dc4179b24459c11d6d0daeb3cfb904e17a60900b05d8cee34900a51d3779",
+          "size": 2399467
+        },
+        {
+          "path": "World.execute (me)/info.csv",
+          "sha256": "71b3b5c3ea95e1907d49992a7fb3373bbf4266cd3a3c6e462be8183fa53651ad",
+          "size": 261
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "64527158.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "64527158.jpg",
+        "lineLength": 6.0,
+        "music": "Mili - World_execute (me).mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-15000-15999",
+      "sha256": "7d338e042a0b07e2eb34db75b7bee816afe3860f124f3a392dfcf1b02e79a328",
+      "size": 7632079,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15995.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-18T00:16:25.726143Z",
+  "charter": "陶林",
+  "composer": "MILI",
+  "created": "2024-02-18T00:16:25.726143Z",
+  "description": "",
+  "difficulty": 12.0,
+  "id": 15995,
+  "illustrator": "Mili",
+  "level": "HD Lv.12",
+  "name": "world.execute (me)",
+  "tags": [],
+  "updated": "2024-02-19T06:24:47.051166Z",
+  "uploader": 595859
+}

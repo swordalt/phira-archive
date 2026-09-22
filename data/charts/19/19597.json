@@ -1,0 +1,97 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:23:00Z",
+    "lastChanged": "2026-09-22T01:23:00Z",
+    "localBackup": {
+      "asset": "19597.zip",
+      "files": [
+        {
+          "path": "68433053.jpg",
+          "sha256": "de8ccde8430e4a86b0e3fb5fb3937c9e88447ab76e7399bf1b5284f7b8aa240a",
+          "size": 139067
+        },
+        {
+          "path": "68433053.json",
+          "sha256": "03e571b8c92d260016d7ae30bd3e2a90b7736708b97b4474ea11aa2b6e8cdcae",
+          "size": 719541
+        },
+        {
+          "path": "68433053.mp3",
+          "sha256": "ab28af855a5e95e50218f1cbd91b2fbb5ff1775062a105fc4f9b9d1fef988160",
+          "size": 706767
+        },
+        {
+          "path": "dayuanzhong.png",
+          "sha256": "4011e7c82b1f4af4933650d6ab4d52db6d41bb9771a925e6816c59072d2e6604",
+          "size": 109120
+        },
+        {
+          "path": "info.txt",
+          "sha256": "fa76885927fe475f2763915453ee102b80961246afcfadcd4830912d75dfe0ac",
+          "size": 232
+        },
+        {
+          "path": "info.yml",
+          "sha256": "bb954312fa0f2350874712eb5a783736113eca64eb29ad13b9b9b17ec369eb0e",
+          "size": 1067
+        },
+        {
+          "path": "lizitou.png",
+          "sha256": "28672adec34252f27e2afd00ee9d8b58a776b727d83ef5939901bbe828d4ed0d",
+          "size": 623220
+        },
+        {
+          "path": "shuodedaoli.png",
+          "sha256": "b8c5428f3f573566bbe27f1bd3365b5ee6cd2f7a9d03ebb4699731410ea4630b",
+          "size": 572558
+        },
+        {
+          "path": "waao.png",
+          "sha256": "4f69ce40ff1ada541bd59cb3fb219974942314b0f13603d1c44700d5902647cd",
+          "size": 497676
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "68433053.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "68433053.jpg",
+        "lineLength": 6.0,
+        "music": "68433053.mp3",
+        "offset": 0.0,
+        "previewEnd": 16.0,
+        "previewStart": 0.0,
+        "tip": "Tips:梦幻酱最终履行了他之前在他的粉丝群里说的那句话",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "bec6977ede16a69c930da393fdee00029f2fd5f624d459c1066febb0a40d7965",
+      "size": 3370158,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19597.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-05T10:16:31.336733Z",
+  "charter": "[梦幻酱]请使用最新版Phira体验新功能",
+  "composer": "DJdracula",
+  "created": "2024-05-05T10:16:31.336733Z",
+  "description": "但凡加我QQ好友的人都知道我爱发一只很糖的狗头，频率之高甚至你往下拉消息基本哪里都是这只狗头，在一次写谱后我突然想到能不能把这个狗头也塞进去，于是就有了这张谱面\n此谱面隶属于phiottos单曲选集\n制谱不易，还望给个五星！\n最后祝大家玩得开心OwO！",
+  "difficulty": 11.700003,
+  "id": 19597,
+  "illustrator": "麦谷米CHZTSIKW",
+  "level": "IN Lv.11",
+  "name": "♿鸡跌げこげになっちゃった♿",
+  "tags": [
+    "OTTO",
+    "otto",
+    "电棍",
+    "足立レイ",
+    "troll"
+  ],
+  "updated": "2024-05-05T10:16:31.336733Z",
+  "uploader": 565793
+}

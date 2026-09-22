@@ -1,0 +1,66 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:10:16Z",
+    "lastChanged": "2026-09-22T01:10:16Z",
+    "localBackup": {
+      "asset": "10643.zip",
+      "files": [
+        {
+          "path": "Raven Emperor (Absolute Version).pec",
+          "sha256": "dd82f798c0533fda519ef09f0b83dfbdb46417f65952e7093cb0cc4a853402d2",
+          "size": 253587
+        },
+        {
+          "path": "info.yml",
+          "sha256": "17376e3cfa1d4a8788730146e560433960d9509f7f69d0b4cdaf8003c9636163",
+          "size": 585
+        },
+        {
+          "path": "re.mp3",
+          "sha256": "f319c56345d572c0627a6e62e6d69a17334a3d72963dff73435cf619135f4724",
+          "size": 7990628
+        },
+        {
+          "path": "re.png",
+          "sha256": "af4b14c40f6f57b534b763b669323775b551a8f65b90155e152252890a734c54",
+          "size": 3013308
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "Raven Emperor (Absolute Version).pec",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "re.png",
+        "lineLength": 6.0,
+        "music": "re.mp3",
+        "offset": 0.875,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "飞技杯十号选手",
+        "unlockVideo": null
+      },
+      "release": "backup-10000-10999",
+      "sha256": "70ac8cc6371194111d582bc22985bab361863c7c003d228badee6d00e79352ff",
+      "size": 11258546,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-10000-10999/10643.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-10-20T13:55:39.979923Z",
+  "charter": "twotthrees emperror",
+  "composer": "kobaryo",
+  "created": "2023-10-20T13:55:39.979923Z",
+  "description": "飞技杯 No.10",
+  "difficulty": 18.000004,
+  "id": 10643,
+  "illustrator": "UK",
+  "level": "英国 Lv.18",
+  "name": "Raven Emperor (Absolute Version)",
+  "tags": [],
+  "updated": "2023-10-20T13:55:39.979923Z",
+  "uploader": 7679
+}

@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:19:30Z",
+    "lastChanged": "2026-09-22T01:19:30Z",
+    "localBackup": {
+      "asset": "16330.zip",
+      "files": [
+        {
+          "path": "Möbius(From Malody).json",
+          "sha256": "f009f4d36dfad4362e395417e7ea4c6c9a5c16d7d218ba111bca7391e67252b1",
+          "size": 1174191
+        },
+        {
+          "path": "audio.ogg",
+          "sha256": "3db1a2a9a9301418be83b89805bb2ccec3ffc275502bc7a0e76f34ad78ae7eff",
+          "size": 2031498
+        },
+        {
+          "path": "bg.jpg",
+          "sha256": "dab58a59b3d020eb51663ffa420acab6d80bd7949c5fef94d5e840749a4b9f02",
+          "size": 946503
+        },
+        {
+          "path": "info.txt",
+          "sha256": "4eeab312cb5362e39dd8976e15450edcf68c7d1173b4124efef7be9e865e1bd5",
+          "size": 169
+        },
+        {
+          "path": "info.yml",
+          "sha256": "9ec34142b10824e84e6321e8c76739b154a64e8462e8c2895003f84cee939298",
+          "size": 531
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "Möbius(From Malody).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "bg.jpg",
+        "lineLength": 6.0,
+        "music": "audio.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-16000-16999",
+      "sha256": "f837150581f10652897521d3ffa15fd2fb19318eb7ee43d22269a93aa4475a48",
+      "size": 4153406,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-16000-16999/16330.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-23T05:40:16.412328Z",
+  "charter": "Enhies",
+  "composer": "USAO & かめりあ",
+  "created": "2024-02-23T05:40:16.412328Z",
+  "description": "",
+  "difficulty": 29.0,
+  "id": 16330,
+  "illustrator": "UK",
+  "level": "4K END FIGHT Lv.29",
+  "name": "Möbius",
+  "tags": [
+    "4k",
+    "plain"
+  ],
+  "updated": "2024-02-23T05:40:16.412328Z",
+  "uploader": 22831
+}

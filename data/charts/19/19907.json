@@ -1,0 +1,81 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:23:27Z",
+    "lastChanged": "2026-09-22T01:23:27Z",
+    "localBackup": {
+      "asset": "19907.zip",
+      "files": [
+        {
+          "path": "2317.gif_wh860_0.jpg",
+          "sha256": "c0c2f980ab238652dcf8a3a414a742b3c6df1b51cef1533086103a8863764b88",
+          "size": 22480
+        },
+        {
+          "path": "888.png",
+          "sha256": "4ac5febafec8b4f6840a76e2715339540b6025ebc77dc9e6e48af46073ebd0a8",
+          "size": 250048
+        },
+        {
+          "path": "90226447.jpeg",
+          "sha256": "fb01d3b87c24c806534ed58dbbc1d081dcd67ab10e9bc72d67c10912cdb4b9a0",
+          "size": 349816
+        },
+        {
+          "path": "90226447.json",
+          "sha256": "191889ac5a29b355fd198790a712251f795665e315b1b4900a17cca2eddf23f2",
+          "size": 1664690
+        },
+        {
+          "path": "90226447.mp3",
+          "sha256": "637bba73e96ef8a278d7c057b139be80c1bf1b121f85302e15a57c26334485e6",
+          "size": 2494387
+        },
+        {
+          "path": "info.txt",
+          "sha256": "a7b12f0e9771a0149449e1aa548941a3568260808be9461ac25f8fd63326389e",
+          "size": 155
+        },
+        {
+          "path": "info.yml",
+          "sha256": "9f6bdc4c3ee26157eda33715de361f34aad1ebd31950707bc9e647bd86381abf",
+          "size": 743
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.55,
+        "chart": "90226447.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "90226447.jpeg",
+        "lineLength": 6.0,
+        "music": "90226447.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "如繁星般闪烁的钥匙，沉落在星辰的远方.....",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "e2d582ed92aa13305e7a3601a95fa5fbd08a4d979c31ac8e73f17803da464b10",
+      "size": 4783035,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19907.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-14T14:46:23.439021Z",
+  "charter": "YS STAR-T",
+  "composer": "Sakuzyo",
+  "created": "2024-05-12T13:49:52.486953Z",
+  "description": "BBC NO.02\n憋憋杯最正常谱面之一\n换了一种不同的思路完成了谱面\n谱面制作时间 2024.4.23\n5.14微调一次\n采音部分更正，新增3处动效",
+  "difficulty": 10.1,
+  "id": 19907,
+  "illustrator": "レオル",
+  "level": "IN Lv.10",
+  "name": "Altale",
+  "tags": [],
+  "updated": "2024-05-14T14:46:23.439021Z",
+  "uploader": 255281
+}

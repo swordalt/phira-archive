@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:42Z",
+    "lastChanged": "2026-09-22T01:08:42Z",
+    "localBackup": {
+      "asset": "9039.zip",
+      "files": [
+        {
+          "path": "62525718.jpg",
+          "sha256": "58f5aa0d86a1c49e2779408a569cb78b45e7838509e928eaa4d9396123c9a20b",
+          "size": 123606
+        },
+        {
+          "path": "62525718.json",
+          "sha256": "96c86eaf0a2485ac5101a68d8b9d12194b07c7e4066719b6191fd2d41ab6ba68",
+          "size": 639609
+        },
+        {
+          "path": "62525718.mp3",
+          "sha256": "af1a5006f304363bc962e871cb59f4e6e7dc82e879a76d17e98b5ac409435a79",
+          "size": 1637268
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ee1782dfd2ddae6f00872b99541715bf302a840ed69a1982632b43ab65fa77d6",
+          "size": 146
+        },
+        {
+          "path": "info.yml",
+          "sha256": "c798cbde6d066006fcd2c7ac7ebf61b5fc914505630dee96a34f4ece372d64eb",
+          "size": 515
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "62525718.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "62525718.jpg",
+        "lineLength": 6.0,
+        "music": "62525718.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-9000-9999",
+      "sha256": "a0c21ccb331c595717c2c276bace7e496fc0a59b07b930cc17e13bab12ad8a6a",
+      "size": 2401652,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-9000-9999/9039.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-09-03T13:03:40.996073Z",
+  "charter": "LPI",
+  "composer": "Frums",
+  "created": "2023-09-03T13:03:40.996073Z",
+  "description": "本人上传\nbilibili: @LPI_",
+  "difficulty": 15.7,
+  "id": 9039,
+  "illustrator": "Ctymax",
+  "level": "SP Lv.?",
+  "name": "Credits",
+  "tags": [
+    "visual"
+  ],
+  "updated": "2023-09-03T13:03:40.996073Z",
+  "uploader": 379201
+}

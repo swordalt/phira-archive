@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:22:48Z",
+    "lastChanged": "2026-09-22T01:22:48Z",
+    "localBackup": {
+      "asset": "19401.zip",
+      "files": [
+        {
+          "path": "41237857.jpg",
+          "sha256": "ebc6fba7221e766aa4d93f5b53dc7d432dfd00a8ad41874dff20e800ef3345ee",
+          "size": 351711
+        },
+        {
+          "path": "41237857.json",
+          "sha256": "9fb0efc5ff00e99118f732c7090e921cc075c63690bf1abb9085d1bd67849a7a",
+          "size": 1226638
+        },
+        {
+          "path": "41237857.mp3",
+          "sha256": "d155c0d34dfb1fd0e1cc70a355b543c4e31f3d7a8fd15dc76ffa6717aa2d27c6",
+          "size": 4500931
+        },
+        {
+          "path": "info.txt",
+          "sha256": "3d2f64a85822e219edd1ae219250cbc794d546d33619593211d2b61762646e2b",
+          "size": 156
+        },
+        {
+          "path": "info.yml",
+          "sha256": "a899b626fa6f247bea3979d0e325eeb33d78eb730a44639c184929a41de4206f",
+          "size": 451
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "41237857.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "41237857.jpg",
+        "lineLength": 6.0,
+        "music": "41237857.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "e16d16137b49191cbcdb8fba55ee85eab18b99f54d84457fae124de8ae5a757a",
+      "size": 6080395,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19401.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "飞惪更高",
+  "composer": "Jordan Lee",
+  "created": null,
+  "description": "",
+  "difficulty": 17.099995,
+  "id": 19401,
+  "illustrator": "黑屏",
+  "level": "AT LV.17",
+  "name": "windows redzone",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

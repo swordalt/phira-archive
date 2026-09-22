@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:02:12Z",
+    "lastChanged": "2026-09-22T01:02:12Z",
+    "localBackup": {
+      "asset": "435.zip",
+      "files": [
+        {
+          "path": "58860774.jpg",
+          "sha256": "5b2db414b026720cf28d4e151d145f97ccac1f413f40e541e9b6bd2cda5bd2c2",
+          "size": 238914
+        },
+        {
+          "path": "58860774.json",
+          "sha256": "004333313783ab0545c30c51cf9c4889bb47c8c1a4b43479b040a1e25b2eef15",
+          "size": 6822541
+        },
+        {
+          "path": "58860774.mp3",
+          "sha256": "dfa5149b5276874d7c5b22d1a2234dc1249dd0477e748b15bd0d6051b52fe80b",
+          "size": 2257357
+        },
+        {
+          "path": "info.txt",
+          "sha256": "f330cb988e60551b861435ad0c080cdce46fe2e61099498d9f3ccbfb8d167bca",
+          "size": 170
+        },
+        {
+          "path": "info.yml",
+          "sha256": "e2c6073f6adce74c5715f8bdd92979b284263e39158e5c6699c183f55178f5a9",
+          "size": 493
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "58860774.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "58860774.jpg",
+        "lineLength": 6.0,
+        "music": "58860774.mp3",
+        "offset": 0.05,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-0-999",
+      "sha256": "9aa0223fbfa3d65a7834079a1d6602a6ee6afb55b215d0e71fd8c8e3862659f9",
+      "size": 9319983,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-0-999/435.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-04-02T11:17:50.824586Z",
+  "charter": "御原智乃 && 盐",
+  "composer": "seatrus",
+  "created": "2023-04-02T11:17:50.824586Z",
+  "description": "",
+  "difficulty": 16.0,
+  "id": 435,
+  "illustrator": "UK",
+  "level": "IN Lv.16",
+  "name": "零號車輛",
+  "tags": [],
+  "updated": "2023-04-02T11:17:50.824586Z",
+  "uploader": 352
+}

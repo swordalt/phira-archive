@@ -1,0 +1,69 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:18:50Z",
+    "lastChanged": "2026-09-22T01:18:50Z",
+    "localBackup": {
+      "asset": "15593.zip",
+      "files": [
+        {
+          "path": "Firmament Star.jpg",
+          "sha256": "7cc7153cfbd134598630791cd41b7765fc74244320e3456f9a64b8c04358cefe",
+          "size": 155599
+        },
+        {
+          "path": "Firmament Star.mp3",
+          "sha256": "765953f220b26692dc60fc6a871c0eace60b62c7d371f9755f2956741d6312ec",
+          "size": 2330255
+        },
+        {
+          "path": "Firmament Star.pec",
+          "sha256": "5fde506a5f22091af9d82eaaa6d9cf1977bbbc18fa7a1819d05e90887b8e0eed",
+          "size": 222120
+        },
+        {
+          "path": "info.yml",
+          "sha256": "fb97272a4df5166a913f42e63cbb058ca8ddfe4f697e67cc4e977a6939d1f982",
+          "size": 548
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.33333,
+        "backgroundDim": 0.6,
+        "chart": "Firmament Star.pec",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "Firmament Star.jpg",
+        "lineLength": 6.0,
+        "music": "Firmament Star.mp3",
+        "offset": 0.0,
+        "previewEnd": 100.0,
+        "previewStart": 83.5,
+        "tip": "  ",
+        "unlockVideo": null
+      },
+      "release": "backup-15000-15999",
+      "sha256": "51e90fb7cb8b558aad05ac12e1f184200a1590a11bd8121064e8cb3717f9f2a3",
+      "size": 2708972,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15593.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-13T14:32:35.840546Z",
+  "charter": "6thPecJam",
+  "composer": "Raimukun",
+  "created": "2024-02-13T14:32:35.840546Z",
+  "description": "  ",
+  "difficulty": 16.1,
+  "id": 15593,
+  "illustrator": "inukoro",
+  "level": "IN Lv.16",
+  "name": "Firmament Star",
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "updated": "2024-03-09T15:24:17.835540Z",
+  "uploader": 249
+}

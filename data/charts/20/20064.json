@@ -1,0 +1,133 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:23:50Z",
+    "lastChanged": "2026-09-22T01:23:50Z",
+    "localBackup": {
+      "asset": "20064.zip",
+      "files": [
+        {
+          "path": "74568242.jpg",
+          "sha256": "b5a0320518a04fee97110c5c9986631e0bdb9df378edd9df5f0fd79d1aed85e0",
+          "size": 81276
+        },
+        {
+          "path": "74568242.json",
+          "sha256": "666a71a5918b9674f5086f7643242b2fa0f4e579b4d158c567d2f0b16551c9c6",
+          "size": 1314121
+        },
+        {
+          "path": "74568242.mp3",
+          "sha256": "d7c7b5a83b5da574e77e0bc77ac193db912a3ef5a9edd918514739f4e4940f5c",
+          "size": 2780988
+        },
+        {
+          "path": "QQ═╝╞¼20240505141217.jpg",
+          "sha256": "6063792244b253fae3fe84c62cd095c29bfa32e99f0b2653870d6629d855f136",
+          "size": 122905
+        },
+        {
+          "path": "ball.png",
+          "sha256": "7bfd0283379bb885e4665c15bdabde205b2908a6570fd7a0c51b1061a712e319",
+          "size": 318
+        },
+        {
+          "path": "hj1.png",
+          "sha256": "c663675f6ad5cff8091727c932609b92a25614151e38452167f9c6841e8a6531",
+          "size": 3255868
+        },
+        {
+          "path": "info.txt",
+          "sha256": "20c8a5ea0e35eb7742f89f315eb9d517fefcdd2b09cc056646c7873e46c5fce1",
+          "size": 148
+        },
+        {
+          "path": "info.yml",
+          "sha256": "6734f0793df3cf9f2edcc0335852f01588c7c67ad136ef680b5399edba5f93ec",
+          "size": 532
+        },
+        {
+          "path": "o1.png",
+          "sha256": "e5cf5ce44ce58d19791cdcb83c860160901a97a5852234d60a07e4567cf82f7c",
+          "size": 1919486
+        },
+        {
+          "path": "o2.png",
+          "sha256": "d3917fb8ceaaf1a31d347e602d599aec2689af18e117eaf4fc8849ca4727729f",
+          "size": 1104523
+        },
+        {
+          "path": "o2gs.png",
+          "sha256": "685fc4dd1c46ad9599c1a59d9483eed34c1171b44eba4dcee1df57be882a5259",
+          "size": 501356
+        },
+        {
+          "path": "oy1.png",
+          "sha256": "b4c53a711051910455081e4c89cbe9215cc10e7ce96144a64d58bf46d630a9f0",
+          "size": 1663963
+        },
+        {
+          "path": "oy2.png",
+          "sha256": "117a0bf369bc691d03db208b2d4c7b56d15621c633892f0d78afe58471864cbb",
+          "size": 1874197
+        },
+        {
+          "path": "oy3.png",
+          "sha256": "818a8ea138239824fbbce09f8d79bb9309fcca4965cde996bb5f94716b010a28",
+          "size": 2853445
+        },
+        {
+          "path": "save.set",
+          "sha256": "7393eec53e16fdacd0337768ae013b60f5a163fda34500fca69a2ea7e4aeda53",
+          "size": 26556
+        },
+        {
+          "path": "y1.png",
+          "sha256": "1e6c0afa5d6a38d62dab29a75229eada27431dde774c8303ca2085fc3dad4977",
+          "size": 3241929
+        },
+        {
+          "path": "yuan.png",
+          "sha256": "9a84143c4ff66ffe977b201703a3652cd1fca08783819b96acc5ffe0f8cd890f",
+          "size": 9672
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "74568242.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "74568242.jpg",
+        "lineLength": 6.0,
+        "music": "74568242.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "a665bb7af28c575b5ce4bbfe1405c71f901edf7d1bad6661a8fe8c3e9624c20d",
+      "size": 20752921,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20064.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-18T09:41:52.815143Z",
+  "charter": "EMM-U",
+  "composer": "ClariS",
+  "created": "2024-05-18T09:41:52.815143Z",
+  "description": "写给花椒的生日礼物",
+  "difficulty": 13.5,
+  "id": 20064,
+  "illustrator": "UK",
+  "level": "IN  Lv.13-SP",
+  "name": "コネクト",
+  "tags": [
+    "visual"
+  ],
+  "updated": "2024-05-24T12:35:29.873426Z",
+  "uploader": 381
+}

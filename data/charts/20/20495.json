@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:25:02Z",
+    "lastChanged": "2026-09-22T01:25:02Z",
+    "localBackup": {
+      "asset": "20495.zip",
+      "files": [
+        {
+          "path": "6748128.jpg",
+          "sha256": "7b3efe4c929d9b01a044fa42635a1dbfc19af26d78cd571e91258ebbfe9f8962",
+          "size": 44210
+        },
+        {
+          "path": "6748128.json",
+          "sha256": "d805871cab5eeedb582d0615aa5bf319de9173ba312038302bf3101f121c3aeb",
+          "size": 2254395
+        },
+        {
+          "path": "6748128.mp3",
+          "sha256": "ea1b0b02e02d37011be5c2ed80d317ffa990c02ba2221c73fb1a99185c0712a6",
+          "size": 6462491
+        },
+        {
+          "path": "info.txt",
+          "sha256": "0028eae2b1dc6961d205b4340a0727c41c700fe7bcd850f633c7e3ed35636214",
+          "size": 148
+        },
+        {
+          "path": "info.yml",
+          "sha256": "4d2980c13debcf47f7f6cc120d94b5f60c955591817f57b7e3dee774b1862284",
+          "size": 690
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "6748128.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "6748128.jpg",
+        "lineLength": 6.0,
+        "music": "6748128.mp3",
+        "offset": 0.016,
+        "previewEnd": 120.0,
+        "previewStart": 100.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "9556515ec9d6780977851622ff447bb4f42d10fb217e607b7ace42f8bc237682",
+      "size": 8762436,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20495.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-29T06:44:06.510833Z",
+  "charter": "SrY-ABYSS",
+  "composer": "kanoryo",
+  "created": "2024-05-29T06:44:06.510833Z",
+  "description": "两年前的今天，我发布了自制谱Ark AT Lv.15(BV1LB4y1X7Cd)\n现在，我拾起这张谱，为其重置\n玩的开心，B站关注@SrY-ABYSS 谢谢喵",
+  "difficulty": 15.799997,
+  "id": 20495,
+  "illustrator": "NOAHNAME",
+  "level": "AT Lv.15+",
+  "name": "Ark",
+  "tags": [
+    "BOFU2017",
+    "regular"
+  ],
+  "updated": "2024-05-29T06:44:06.510833Z",
+  "uploader": 1437
+}

@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:19Z",
+    "lastChanged": "2026-09-22T01:03:19Z",
+    "localBackup": {
+      "asset": "3120.zip",
+      "files": [
+        {
+          "path": "00000.json",
+          "sha256": "cbb2cabfb83f7e5ab8332468992da97d884a98267446cc0b340eee5680cf117c",
+          "size": 7653936
+        },
+        {
+          "path": "00000.mp3",
+          "sha256": "1d33f61d4d0cab1cdd7e495483633dcfffd7aeb093710c8679dbc53f44fae484",
+          "size": 1941320
+        },
+        {
+          "path": "00000.png",
+          "sha256": "58ef9a44d7866c0b26bd89de1f5f59f6824d421f532718ee1026352a278622ed",
+          "size": 57379
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d50c22ceb64a2ba8a2795988de452669ee973fa33b34e2b6f899faed385ebb4c",
+          "size": 167
+        },
+        {
+          "path": "info.yml",
+          "sha256": "ea1de429b4c09bf416b93a88a312496e4debed1049d7c0e3a844f0f49bacbb94",
+          "size": 627
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "00000.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "00000.png",
+        "lineLength": 6.0,
+        "music": "00000.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip：冷知识，谱师原本想标14级的"
+      },
+      "release": "backup-3000-3999",
+      "sha256": "0a97b5232aaa97743ff3975c0d417c0b001e6f257bbf0ba7ea953576b419ae19",
+      "size": 9653919,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-3000-3999/3120.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-06-07T10:32:52.878475Z",
+  "charter": "听说你有很多黄键放不下",
+  "composer": "F-777",
+  "created": "2023-06-07T10:32:52.878475Z",
+  "description": "谱师：我自己\n“创新配置，等你来战！”",
+  "difficulty": 0.0,
+  "id": 3120,
+  "illustrator": "UK",
+  "level": "SP lv.?",
+  "name": "Inferno",
+  "tags": [
+    "创新",
+    "谱师脑袋抽风",
+    "regular"
+  ],
+  "updated": "2023-06-07T10:32:52.878475Z",
+  "uploader": 1344
+}

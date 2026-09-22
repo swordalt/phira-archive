@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:26:15Z",
+    "lastChanged": "2026-09-22T01:26:15Z",
+    "localBackup": {
+      "asset": "20768.zip",
+      "files": [
+        {
+          "path": "12766417.jpg",
+          "sha256": "e988499cabc0aa88db0dae72e8f358a4031ccd07d98675a9041ccf82d1e9553e",
+          "size": 72453
+        },
+        {
+          "path": "12766417.json",
+          "sha256": "37f22068dfb1daf035364888591c78914c4e97837c1c9d340bcdb497fc356082",
+          "size": 5990801
+        },
+        {
+          "path": "12766417.mp3",
+          "sha256": "45a92eeebf1444678ccf5ac502836b6c7f461ee0fff51a77141cb4900ec410be",
+          "size": 5655208
+        },
+        {
+          "path": "info.txt",
+          "sha256": "bc521e8689078f701312ef30eb288636ccaf0058a8f6bb7a09c347733e68e0c5",
+          "size": 164
+        },
+        {
+          "path": "info.yml",
+          "sha256": "c54075c3dddab26bdc38da7057df4f2c125981ed921edd722445c9ffc872d98a",
+          "size": 744
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "12766417.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "12766417.jpg",
+        "lineLength": 6.0,
+        "music": "12766417.mp3",
+        "offset": 0.0,
+        "previewEnd": 100.0,
+        "previewStart": 83.9,
+        "tip": "Tip：巧克力大战香子兰？",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "d9818cc4248f3f27fea07cfbd818edd26e3df6f2e6ebd4438c860dcb26bcfede",
+      "size": 11719878,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20768.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "屛庐",
+  "composer": "t+pazolite",
+  "created": null,
+  "description": "生日到了想着用QZ做一张谱，花了2个多月，学生党没时间做只能做成这样了，也应该现在对我来说是我做的最好的了，独自完成的第三个谱子，本人技术力不行，希望大家玩的开心(实际难度：IN Lv.15)",
+  "difficulty": 15.499998,
+  "id": 20768,
+  "illustrator": "maimai",
+  "level": "EX Lv.13+?",
+  "name": "QZKago Requiem",
+  "tags": [
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

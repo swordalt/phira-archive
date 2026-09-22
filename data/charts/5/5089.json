@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:04:54Z",
+    "lastChanged": "2026-09-22T01:04:54Z",
+    "localBackup": {
+      "asset": "5089.zip",
+      "files": [
+        {
+          "path": "44583291.json",
+          "sha256": "bfed992b0d0338aa56398e8d22e0c24a55c9a056813ccd0fe9865827dd435da7",
+          "size": 579047
+        },
+        {
+          "path": "44583291.mp3",
+          "sha256": "10a1d76934d25638ca00453261c872b405e5be7c8c58972e5780ac568b17a8d5",
+          "size": 1510903
+        },
+        {
+          "path": "44583291.png",
+          "sha256": "cb9927b50283f2ecaa088ffd72ad25826fd135818f9e6221f2e626ec3d263059",
+          "size": 117390
+        },
+        {
+          "path": "info.txt",
+          "sha256": "3f004f6822ab654d2b84b40bf9931892caf651e9e513acbc892abcfa96f6a6e0",
+          "size": 152
+        },
+        {
+          "path": "info.yml",
+          "sha256": "6c44b89ca0f30cdfc1db33bb9bdc524fefb009410964c0f5888735eb4b146ce2",
+          "size": 629
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "44583291.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "44583291.png",
+        "lineLength": 6.0,
+        "music": "44583291.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-5000-5999",
+      "sha256": "d682eb6d8cecff11e40d75b0c6a9f0b3a699af7feabd091241c5489b3f02bbe6",
+      "size": 2208629,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5089.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-10T15:24:10.740396Z",
+  "charter": "？？？",
+  "composer": "电棍",
+  "created": "2023-07-10T15:24:10.740396Z",
+  "description": "谱师：我本人（北极星Suika）\n写谱没灵感，然后无聊花十分钟做出来的玩意\n一坨，欢迎品尝）",
+  "difficulty": 0.0,
+  "id": 5089,
+  "illustrator": "Unknown",
+  "level": "想看的东西",
+  "name": "说的道理",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-07-10T15:24:10.740396Z",
+  "uploader": 786
+}

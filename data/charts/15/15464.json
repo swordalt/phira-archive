@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:18:42Z",
+    "lastChanged": "2026-09-22T01:18:42Z",
+    "localBackup": {
+      "asset": "15464.zip",
+      "files": [
+        {
+          "path": "14577227.jpg",
+          "sha256": "cfe81ef191458634106104e1ece17a685bc24f52aba660ad4a1862bd1d35263d",
+          "size": 14623
+        },
+        {
+          "path": "14577227.json",
+          "sha256": "19664574e6c428fcfcf9ad28d9931bd2410273691254b20d00329a6006b1849d",
+          "size": 864777
+        },
+        {
+          "path": "14577227.mp3",
+          "sha256": "0c7a52b9b1e21b7a842cd10e30f4707defa5ea4c89d01e7c246cbfde60375c03",
+          "size": 1824734
+        },
+        {
+          "path": "info.txt",
+          "sha256": "a0eaa19abfddf011cf5d7847a5cb1dd72438a04a09dd32f5467adb27f19f927b",
+          "size": 205
+        },
+        {
+          "path": "info.yml",
+          "sha256": "7502b7f78b0fbb29b0bce52eae0a9e9d6116adbfc0bfe4671b489868df585e36",
+          "size": 508
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "14577227.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "14577227.jpg",
+        "lineLength": 6.0,
+        "music": "14577227.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-15000-15999",
+      "sha256": "b1d0a628811fb13042e36bfdd7e86ac85aca03683c0de55a944869104b91d4fa",
+      "size": 2705355,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15464.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-12T08:52:42.375259Z",
+  "charter": "sniper654hf",
+  "composer": "Marcel Prodan/Andrei Nemirschi",
+  "created": "2024-02-12T08:52:42.375259Z",
+  "description": "",
+  "difficulty": 16.0,
+  "id": 15464,
+  "illustrator": "UK",
+  "level": "?",
+  "name": "All My People",
+  "tags": [],
+  "updated": "2024-02-12T08:52:42.375259Z",
+  "uploader": 258019
+}

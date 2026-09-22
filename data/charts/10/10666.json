@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:10:19Z",
+    "lastChanged": "2026-09-22T01:10:19Z",
+    "localBackup": {
+      "asset": "10666.zip",
+      "files": [
+        {
+          "path": "80265243.json",
+          "sha256": "16bf380d3cba5a8226b0566f7c23778344ccd646b60061e80bb1825d57d91545",
+          "size": 4076897
+        },
+        {
+          "path": "80265243.mp3",
+          "sha256": "941bd0e5bc0faf341ed4b8527b34b8a1a10c76a6d27e27058cb00dc868e1e320",
+          "size": 6929392
+        },
+        {
+          "path": "80265243.png",
+          "sha256": "c5389e8c552010f604e8d8d8e9f1e75ca54d8955415dea399725e8790c454b3d",
+          "size": 1124248
+        },
+        {
+          "path": "info.txt",
+          "sha256": "77f280feaf1b7ff78cf165a24f99ae40eeae64d5b8cef713ac7b7b7b265189fd",
+          "size": 179
+        },
+        {
+          "path": "info.yml",
+          "sha256": "c32d2f11c39a212d49765eaf04420fc046d66e89f1094bcca157b57880851125",
+          "size": 595
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "80265243.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "80265243.png",
+        "lineLength": 6.0,
+        "music": "80265243.mp3",
+        "offset": 7.450581e-09,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "写的第二张谱"
+      },
+      "release": "backup-10000-10999",
+      "sha256": "3fd940f46f46643c4ae4348f1c6b94d6f8a277aaf873b0008f12f74a03df2580",
+      "size": 12131819,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-10000-10999/10666.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-10-21T06:20:16.244966Z",
+  "charter": "月白 as 机械魔王",
+  "composer": "Team Grimoire",
+  "created": "2023-10-21T06:20:16.244966Z",
+  "description": "本人上传，发布手元在b站请@澄橙子Orighting",
+  "difficulty": 16.2,
+  "id": 10666,
+  "illustrator": "（From Lanota）",
+  "level": "Master Lv.16",
+  "name": "Astaroth",
+  "tags": [],
+  "updated": "2023-10-21T06:20:16.244966Z",
+  "uploader": 8883
+}

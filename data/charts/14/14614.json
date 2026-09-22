@@ -1,0 +1,131 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:53Z",
+    "lastChanged": "2026-09-22T01:16:53Z",
+    "localBackup": {
+      "asset": "14614.zip",
+      "files": [
+        {
+          "path": "95852709.jpg",
+          "sha256": "da021341e12c9a43d66015abe568158f5a517bb1d072095cb08a4c9aad75e72a",
+          "size": 7432070
+        },
+        {
+          "path": "95852709.json",
+          "sha256": "37c7dd0ff8e5a23936ea4baf94b412f7713362c987f72431c7e3036a4259c696",
+          "size": 6190217
+        },
+        {
+          "path": "95852709.mp3",
+          "sha256": "e4bfc8385fbe9d635f016d7fe78aa935cc30de9b47bbac7a153c2ce7c8ae729d",
+          "size": 7632780
+        },
+        {
+          "path": "Light.png",
+          "sha256": "c1ed02a9c9e01ec4338f855fc781809c054187ecf43a3e4a5231c08cf43941fa",
+          "size": 82823
+        },
+        {
+          "path": "ab.png",
+          "sha256": "7711468c56eb08b0042fa18801e3f23773b568c6a0071259e9f9f3b63a0dd5f8",
+          "size": 8831
+        },
+        {
+          "path": "bar.png",
+          "sha256": "dfa07df125cb8a3ae67d578f7c1f77d511ac6210c7f0c88a5c8e626b11f71043",
+          "size": 1646
+        },
+        {
+          "path": "comet.png",
+          "sha256": "e7c98167e82b3758c912e4f0dbf5f293e8819c78a97884df32b6eac4f360fdfc",
+          "size": 75428
+        },
+        {
+          "path": "cr.png",
+          "sha256": "633f8cd405f908f13c0e30875ec16552be6c0a820e9ed5f47d93ae259c3419b5",
+          "size": 27564
+        },
+        {
+          "path": "dot.png",
+          "sha256": "c0223f90691a3eff0bf1c2f1737aab1779b6f1a533364c5305832dd63a618794",
+          "size": 58
+        },
+        {
+          "path": "gr.png",
+          "sha256": "f299e6c036b7bf3d6dda027a35dc7a75c865750ed3a96a7d456015ac4e1e6651",
+          "size": 188372
+        },
+        {
+          "path": "info.txt",
+          "sha256": "dc5923e6dfc4805eb3114b52b0e625d0c6fb1b2cc05f6610d1585970f9846a5d",
+          "size": 162
+        },
+        {
+          "path": "info.yml",
+          "sha256": "815736e86dd4468c6c3c845e0dc71e471db5a6e286d2dff92552fc5108e0ad73",
+          "size": 545
+        },
+        {
+          "path": "ripple.png",
+          "sha256": "4c058437e6900edcdd05f327f7432d95867d5aee2a4447913b91a7b8d4b181aa",
+          "size": 38696
+        },
+        {
+          "path": "star.png",
+          "sha256": "610517ddd92435a9124d980faf01b116a67225eb5101183541ae04bede4d44e0",
+          "size": 19283
+        },
+        {
+          "path": "t.png",
+          "sha256": "032994dd6a37123e79ec7d98745d869d6d689b106bb439c979bb9bd38fe5793c",
+          "size": 7439
+        },
+        {
+          "path": "trail.png",
+          "sha256": "e2612129c66381ad560f11c99555e68562cc9c8ea5db51d3c289035c0722bfe2",
+          "size": 27324
+        },
+        {
+          "path": "z.png",
+          "sha256": "116a50625da45857d809f831d62a239e8784e809747dd3118fd6f5234653a66e",
+          "size": 18591
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "95852709.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "95852709.jpg",
+        "lineLength": 6.0,
+        "music": "95852709.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "累死了",
+        "unlockVideo": null
+      },
+      "release": "backup-14000-14999",
+      "sha256": "e74a8404d6d6a58862be25f5e4a1bca67998c994243e017fa6993fdcf7a38457",
+      "size": 21753423,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14614.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-01T09:17:38.064500Z",
+  "charter": "む_Akira",
+  "composer": "かめりあ",
+  "created": "2024-02-01T09:17:38.064500Z",
+  "description": "B站む_Akira谱师上传",
+  "difficulty": 16.399996,
+  "id": 14614,
+  "illustrator": "unknown",
+  "level": "AT",
+  "name": "Hello (BPM) 2024",
+  "tags": [],
+  "updated": "2024-02-03T04:30:43.203324Z",
+  "uploader": 92993
+}

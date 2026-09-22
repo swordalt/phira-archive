@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:22:38Z",
+    "lastChanged": "2026-09-22T01:22:38Z",
+    "localBackup": {
+      "asset": "19315.zip",
+      "files": [
+        {
+          "path": "1714391234.ogg",
+          "sha256": "6dc1a4ba87f2171289e07b3ee94fb7c93d8d0dbbd845181936217558777e4417",
+          "size": 8255216
+        },
+        {
+          "path": "Galaxy Collapse (From Malody).json",
+          "sha256": "f308cd40cd5aa37ecb7ce4c2cd992f1502f0711cda900dba2f70e84a2767e162",
+          "size": 10406612
+        },
+        {
+          "path": "Galaxy Collapse.jpg",
+          "sha256": "0eb337a38ec44be6152478e85d05a2a611161a6800eb228d917a4a6d785a25a5",
+          "size": 89345
+        },
+        {
+          "path": "info.csv",
+          "sha256": "4b68fa08e9b199a8d3df6309543dbafaf9057cd0f7c5803fea90364596edd80a",
+          "size": 157
+        },
+        {
+          "path": "info.yml",
+          "sha256": "47f5d3b3bb1a48eda53e7cc651e8d9a4781761ed4c1797cbc29ada15fe2a36eb",
+          "size": 472
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "Galaxy Collapse (From Malody).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "Galaxy Collapse.jpg",
+        "lineLength": 6.0,
+        "music": "1714391234.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "d81ef048c48dc00684d5a3afd0dc7ff08158f3e6aa976d0fc33d857e3a1f3ba3",
+      "size": 18752370,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19315.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "rzgEY1tG",
+  "composer": "Kurokotei",
+  "created": null,
+  "description": "",
+  "difficulty": 8.1,
+  "id": 19315,
+  "illustrator": "UK",
+  "level": "4k Lv.81",
+  "name": "Galaxy Collapse",
+  "tags": [
+    "visual"
+  ],
+  "updated": null,
+  "uploader": null
+}

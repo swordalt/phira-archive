@@ -21,8 +21,12 @@
       "maxId": 71070
     }
   },
-  "generated": "2026-09-22T00:02:44Z",
+  "generated": "2026-09-22T01:31:25Z",
   "lastPoll": "2026-09-22T00:02:44Z",
   "lastSweep": "2026-09-21T04:00:22Z",
-  "totalCharts": 13798
+  "localBackup": {
+    "archived": 526,
+    "lastImport": "2026-09-22T01:31:25Z"
+  },
+  "totalCharts": 14324
 }

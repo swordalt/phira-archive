@@ -1,0 +1,122 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:19:44Z",
+    "lastChanged": "2026-09-22T01:19:44Z",
+    "localBackup": {
+      "asset": "16626.zip",
+      "files": [
+        {
+          "path": "1945548.jpg",
+          "sha256": "82675e2e8eed930068fcf7f4c77a5658af582e42cac079ef2142f865f3aa127e",
+          "size": 219776
+        },
+        {
+          "path": "1945548.json",
+          "sha256": "b9151a2ddae8ac71fa37f213d3c3ac173a8701318d6818ba20cd8fb72f206a43",
+          "size": 12472290
+        },
+        {
+          "path": "1945548.mp3",
+          "sha256": "b0adfa950b0c0f82a9479486a051d09822c91a8c259f1173eca700ad8ea6eb7b",
+          "size": 4317204
+        },
+        {
+          "path": "extra.json",
+          "sha256": "8b6353dd17eefdf974e7a864b6c8421184e57e7e8491e7b346deaf60eafc0e4d",
+          "size": 12264
+        },
+        {
+          "path": "gunboss.png",
+          "sha256": "f752c12a70bbd4c8eeaef2f68eedf45c15c89f13ee94fc3423a79be8efa3d6df",
+          "size": 830810
+        },
+        {
+          "path": "info.txt",
+          "sha256": "be2247954dd567c102bcf5b03b3787a567463701c91c253856c6cec4e0275a0e",
+          "size": 189
+        },
+        {
+          "path": "info.yml",
+          "sha256": "4637e4f7cf406fc474c78c7f23842f6001b2889896f7dae21a26e5ee85fa6106",
+          "size": 1420
+        },
+        {
+          "path": "jiucaihezi.png",
+          "sha256": "d36bce07abd790e5bb30330a9fd5be00132ee9b36cf38eb1026f0d747bf4c059",
+          "size": 1156951
+        },
+        {
+          "path": "lizitou.png",
+          "sha256": "28672adec34252f27e2afd00ee9d8b58a776b727d83ef5939901bbe828d4ed0d",
+          "size": 623220
+        },
+        {
+          "path": "shuodedaoli.png",
+          "sha256": "b8c5428f3f573566bbe27f1bd3365b5ee6cd2f7a9d03ebb4699731410ea4630b",
+          "size": 572558
+        },
+        {
+          "path": "shuodedaoli2.png",
+          "sha256": "508907677b402a4be00542441508cf85f6e36650e2c06dd5a29b99d7bb748253",
+          "size": 1084985
+        },
+        {
+          "path": "shuomugunge.png",
+          "sha256": "58b109d04713b66f403138e6608bf030ab2a410627718ed5ea0b804ac6e4a340",
+          "size": 747174
+        },
+        {
+          "path": "unlock.mp4",
+          "sha256": "397b1ec468af0dc042e3afde5b15b1cb9c312353477fd80165c306cf5018ef00",
+          "size": 26295167
+        },
+        {
+          "path": "waao.png",
+          "sha256": "4f69ce40ff1ada541bd59cb3fb219974942314b0f13603d1c44700d5902647cd",
+          "size": 497676
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "1945548.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "1945548.jpg",
+        "lineLength": 6.0,
+        "music": "1945548.mp3",
+        "offset": 0.04,
+        "previewEnd": 130.0,
+        "previewStart": 117.0,
+        "tip": "tips:最终之战",
+        "unlockVideo": "unlock.mp4"
+      },
+      "release": "backup-16000-16999",
+      "sha256": "42bc6b70d5190167c2c8dc3c43d94482d32122bc3e13c66ded6f3f6b0b4eaa82",
+      "size": 48833090,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-16000-16999/16626.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-03-02T10:04:14.153077Z",
+  "charter": "♿Fractured MeowHell♿",
+  "composer": "默雪SilentSnow",
+  "created": "2024-03-02T10:04:14.153077Z",
+  "description": "phiottos第一章:最终之战 魔王曲目\n\n本次曲目是B站的音mad创作者@默雪SilentSnow的特供曲目，他主要制作有关于各种音游的电棍音mad，以后的phiottos系列会经常收录他的曲目，大家感兴趣可以去B站关注他以了解更多！\n\nB站发布我所有的谱面手元/autoplay视频需标明谱师 @梦幻不限量 ，除B站外，其他平台需简介注明谱师 梦幻不限量 （不用艾特）\n\n这次真的尽力创作了，寒假末期作业繁多，一直赶到了开学第一周的周末才做好，让大家久等了，这次真的尽全力去创作了，大家轻点评分吧，我也想要一个4.8哇QWQ\n\nB站关注@梦幻不限量，可以了解phiottos详细剧情和观看带剧情版谱面演示\n\n祝审核和大家玩得开心OwO",
+  "difficulty": 17.2,
+  "id": 16626,
+  "illustrator": "默雪SilentSnow",
+  "level": "AT Lv.17",
+  "name": "♿Fractured Angel♿",
+  "tags": [
+    "OTTO",
+    "otto",
+    "故事版",
+    "shader",
+    "troll"
+  ],
+  "updated": "2024-03-02T10:04:14.153077Z",
+  "uploader": 15214
+}

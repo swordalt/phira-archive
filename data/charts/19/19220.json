@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:22:21Z",
+    "lastChanged": "2026-09-22T01:22:21Z",
+    "localBackup": {
+      "asset": "19220.zip",
+      "files": [
+        {
+          "path": "51541450.jpg",
+          "sha256": "835c59f0dce1fc5d5a2508e454ec661e540f4357e551646456fee7056acca113",
+          "size": 101963
+        },
+        {
+          "path": "51541450.json",
+          "sha256": "7fa3f4f9c430bccf622209bc6d1adcabafe70665c52c4e9e4a3f17bbf023de49",
+          "size": 6300715
+        },
+        {
+          "path": "51541450.ogg",
+          "sha256": "b5b693f50fbb92351c64cb03a9ce5727395b4a8bc21539ff868a8e9004472bcf",
+          "size": 3354834
+        },
+        {
+          "path": "info.txt",
+          "sha256": "cca3ed9a544eef34d33ca65177b115f62f501ea0d88f653f73b88b2163f3aed1",
+          "size": 200
+        },
+        {
+          "path": "info.yml",
+          "sha256": "793fa62b18e1e830ce1b1f119a27d6e1a400a195b652592af5d60d3425cdbe9a",
+          "size": 497
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.68,
+        "backgroundDim": 0.6,
+        "chart": "51541450.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "51541450.jpg",
+        "lineLength": 6.0,
+        "music": "51541450.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Special",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "8336514d22b7354e3f772e76eaa9af953dc5827b1431e42f2f32f1b36bb3a2c3",
+      "size": 9758717,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19220.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "OverWide",
+  "composer": "Nick Furry vs 悪いケモノ-A",
+  "created": null,
+  "description": "蝎虎天体 -Lacertid-",
+  "difficulty": 16.000004,
+  "id": 19220,
+  "illustrator": "OverWide",
+  "level": "FR Lv.16",
+  "name": "蝎虎天体 -Lacertid-",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:29:28Z",
+    "lastChanged": "2026-09-22T01:29:28Z",
+    "localBackup": {
+      "asset": "22008.zip",
+      "files": [
+        {
+          "path": "83011913.jpg",
+          "sha256": "aab5b3a2da4318647db231ac003ea27a44d58b893f943bf8dbce736331dfc81d",
+          "size": 204123
+        },
+        {
+          "path": "83011913.json",
+          "sha256": "ab9d59c580ed5b6b8e0917bf12531428abd9ce5d1f1d7672121fb9a8b2ebf874",
+          "size": 5418453
+        },
+        {
+          "path": "83011913.mp3",
+          "sha256": "12c08e1c6c69772e9baeb7637b3d19b95fc7db0b1ffa8f5e6f9ae7280f6d60ff",
+          "size": 7360500
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d250e8f5fead0345a5c4e9e2e768544b9e5bfd1b1b23c1fa5384962772bee3f9",
+          "size": 190
+        },
+        {
+          "path": "info.yml",
+          "sha256": "db8564226771c9040fd16ac1e509992ddd7b511589ebb29d92e9272436857844",
+          "size": 656
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "83011913.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "83011913.jpg",
+        "lineLength": 6.0,
+        "music": "83011913.mp3",
+        "offset": 0.0,
+        "previewEnd": 149.5,
+        "previewStart": 130.0,
+        "tip": "这不神奇吗",
+        "unlockVideo": null
+      },
+      "release": "backup-22000-22999",
+      "sha256": "850f7afd91f6ef9faa2bffb77df634623b35740d40901da07292c5d6365df5cc",
+      "size": 12984430,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-22000-22999/22008.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-27T06:51:23.456478Z",
+  "charter": "SrY-ABYSS",
+  "composer": "Daily天利 & EndCat-终猫",
+  "created": "2024-06-27T06:51:23.456478Z",
+  "description": "音乐原视频BV1jD421u7x7\n整个烂活\n视频预览BV1ZZ421M7Q7\nB站关注@SrY-ABYSS 谢谢喵",
+  "difficulty": 0.0,
+  "id": 22008,
+  "illustrator": "UK",
+  "level": "SP Lv.?",
+  "name": "野花香 (Haocore Mix)",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-06-27T09:55:48.308957Z",
+  "uploader": 1437
+}

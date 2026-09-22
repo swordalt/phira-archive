@@ -1,0 +1,76 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:28:46Z",
+    "lastChanged": "2026-09-22T01:28:46Z",
+    "localBackup": {
+      "asset": "21712.zip",
+      "files": [
+        {
+          "path": "65326124.MP3",
+          "sha256": "8bbd4390a87d090028a1494ba4d0f088cb0eabddcd6f9053c829c33f151aefad",
+          "size": 2188464
+        },
+        {
+          "path": "65326124.jpg",
+          "sha256": "ba3577d9c725e0d111ffed21df48dacbcbf624f9490daeeb49382f48a7384995",
+          "size": 3276230
+        },
+        {
+          "path": "65326124.json",
+          "sha256": "d5b0e7863e9f5b30ceca77eb9e94b25c8cf02d87e1d1ffb02e15524d9c701e3e",
+          "size": 6442761
+        },
+        {
+          "path": "info.txt",
+          "sha256": "4b828938c5a1fa7dae94288fca15029f5680d8ea85b2ffb4c3c0125728dec0d3",
+          "size": 188
+        },
+        {
+          "path": "info.yml",
+          "sha256": "e07383965e0c47e9e89079335c3ab7428e5520d8320468942077654e2a0b8906",
+          "size": 921
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "65326124.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "65326124.jpg",
+        "lineLength": 6.0,
+        "music": "65326124.MP3",
+        "offset": 0.0,
+        "previewEnd": 91.5,
+        "previewStart": 71.5,
+        "tip": "Tip：你确定让我做麻麻吗？",
+        "unlockVideo": null
+      },
+      "release": "backup-21000-21999",
+      "sha256": "bcfba9526140429ba7143ba8a58afbc326c0c145087688ca9eb795201a614e5e",
+      "size": 11909072,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-21000-21999/21712.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-22T15:28:57.314970Z",
+  "charter": "♿Proclip♿",
+  "composer": "平方秒和立方吨",
+  "created": "2024-06-22T15:28:57.314970Z",
+  "description": "注意！如果玩家发现此谱面被删除或下架，严禁点击上传按钮！！！严禁点击上传按钮！！！后果自负！！！为本人制作且由本人上传，头像和昵称都和B站的一致（B站id：Proclip；暂无视频）开大了，结果拉了依托",
+  "difficulty": 0.0,
+  "id": 21712,
+  "illustrator": "The Picture is Proclip,but Goldenglow is Namie",
+  "level": "SP Lv.?",
+  "name": "♿Quantum Ottospace♿",
+  "tags": [
+    "otto",
+    "电棍",
+    "山泥若",
+    "troll"
+  ],
+  "updated": "2024-06-22T15:28:57.314970Z",
+  "uploader": 138219
+}

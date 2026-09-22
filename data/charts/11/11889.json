@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:51Z",
+    "lastChanged": "2026-09-22T01:11:51Z",
+    "localBackup": {
+      "asset": "11889.zip",
+      "files": [
+        {
+          "path": "68415998.json",
+          "sha256": "92cd0b4917775c62888d9ba40411e7a824f8ef281bf0437265d7212c88dbf8c7",
+          "size": 7404168
+        },
+        {
+          "path": "68415998.mp3",
+          "sha256": "30c9317f2c248f43c1419492ec0d89848d3a305d617e9b212825ace62be7b1a3",
+          "size": 8870190
+        },
+        {
+          "path": "68415998.png",
+          "sha256": "853f32de4964c0ef51890b47b5c78387520a8406778e08b70c876ee30ffcd3c5",
+          "size": 162208
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d01f6a078bcb941ae4dc68e76a353de1324f33b1a065829cd539118ec267504b",
+          "size": 154
+        },
+        {
+          "path": "info.yml",
+          "sha256": "da92bc7c0e674ac1634778663faa54288e2b1d0a529e72678c1e68ee30c2acf2",
+          "size": 543
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "68415998.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "68415998.png",
+        "lineLength": 6.0,
+        "music": "68415998.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-11000-11999",
+      "sha256": "2c263c77266bd4648c4fcf222b02afa7fdd5d24211ccf087a48b31ca814f45ee",
+      "size": 16437771,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11889.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-28T01:16:30.526199Z",
+  "charter": "む_Akira",
+  "composer": "Juggernaut.",
+  "created": "2023-11-28T01:16:30.526199Z",
+  "description": "b站@む_Akira本人上传，曲绘网上找的",
+  "difficulty": 16.0,
+  "id": 11889,
+  "illustrator": "UK",
+  "level": "AT",
+  "name": "Revenant",
+  "tags": [],
+  "updated": "2023-11-28T07:59:44.933596Z",
+  "uploader": 92993
+}

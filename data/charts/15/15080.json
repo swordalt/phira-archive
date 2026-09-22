@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:47Z",
+    "lastChanged": "2026-09-22T01:17:47Z",
+    "localBackup": {
+      "asset": "15080.zip",
+      "files": [
+        {
+          "path": "82925005.jpg",
+          "sha256": "5ba12416ee5017f4c4a4c9325d47b8a5fceb12a721d83d8dc2f4d4e6f916e904",
+          "size": 2355380
+        },
+        {
+          "path": "82925005.json",
+          "sha256": "b5df2c2486eab4df5dff0d0f231b580778e82dbb7d070efa9f3c17aad0c617a3",
+          "size": 18899325
+        },
+        {
+          "path": "82925005.mp3",
+          "sha256": "e0cb189b943e79f143fe407df2091543c6aebe6010b683ba0f6a7435b8fb130e",
+          "size": 5980722
+        },
+        {
+          "path": "info.txt",
+          "sha256": "7a497c0e7df56be61f512cbbab6204d6f04175e84729313bd22e48ec7c8bebd4",
+          "size": 185
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5ee4a1410a395b2b865fdbdb7bbcd84ae442351bc5e0b53582703fccdce13c1f",
+          "size": 607
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "82925005.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "82925005.jpg",
+        "lineLength": 6.0,
+        "music": "82925005.mp3",
+        "offset": 0.0,
+        "previewEnd": 72.5,
+        "previewStart": 57.5,
+        "tip": "霓虹晚霞之下，一缕倩影灵巧地穿过街道……",
+        "unlockVideo": null
+      },
+      "release": "backup-15000-15999",
+      "sha256": "6ce5a8959195d1724be26dd920261c75bc47430829a84f9603a326acc391a708",
+      "size": 27236727,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15080.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-08T16:28:42.215555Z",
+  "charter": "YanChuan",
+  "composer": "DJ Noriken",
+  "created": "2024-02-08T16:28:42.215555Z",
+  "description": "Puremoon 羽源杯 比赛用谱",
+  "difficulty": 16.3,
+  "id": 15080,
+  "illustrator": "清酒 with 米秋",
+  "level": "AT Lv.16",
+  "name": "Meta-Mysteria",
+  "tags": [],
+  "updated": "2024-02-08T16:28:42.215555Z",
+  "uploader": 228
+}

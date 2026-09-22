@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:45Z",
+    "lastChanged": "2026-09-22T01:06:45Z",
+    "localBackup": {
+      "asset": "6598.zip",
+      "files": [
+        {
+          "path": "8621141.jpg",
+          "sha256": "bf307381e724fabecc00210d1a5d7c45bfdf42738f1df6621e6cfe087a52242f",
+          "size": 300422
+        },
+        {
+          "path": "8621141.json",
+          "sha256": "55636786de3381fde127f06446e586493a39bf87c45cc5890a8edf5be7ecbfe1",
+          "size": 2112323
+        },
+        {
+          "path": "8621141.mp3",
+          "sha256": "44b278db8b658c4ecd19afb49dd9bbfbe8eff93086ec5236e550cffc44faf5f5",
+          "size": 2449296
+        },
+        {
+          "path": "info.txt",
+          "sha256": "0b34520c17971b2557acfca70ce2b5e03c9cf816be20a575a4efcc517abcc7f6",
+          "size": 164
+        },
+        {
+          "path": "info.yml",
+          "sha256": "785aec125efdecf77292b677b25eca110269db40d0207ac17beb676c7b77827e",
+          "size": 567
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.24999996,
+        "chart": "8621141.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "8621141.jpg",
+        "lineLength": 6.0,
+        "music": "8621141.mp3",
+        "offset": 0.0,
+        "previewEnd": 102.0,
+        "previewStart": 87.0,
+        "tip": "tip: You are infected by Trojan virus!!!"
+      },
+      "release": "backup-6000-6999",
+      "sha256": "2010f03abb7619c3099030644091e272575a102bee4bfc842290c540b3b0f196",
+      "size": 4863274,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6598.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-01T15:01:35.780513Z",
+  "charter": "Restain and SSHC Trojan",
+  "composer": "litmus*",
+  "created": "2023-08-01T15:01:35.780513Z",
+  "description": "谱师之一上传",
+  "difficulty": 14.700003,
+  "id": 6598,
+  "illustrator": "Lapelristar",
+  "level": "AT Lv.14",
+  "name": "Trojan",
+  "tags": [],
+  "updated": "2023-08-02T05:54:34.908998Z",
+  "uploader": 89520
+}

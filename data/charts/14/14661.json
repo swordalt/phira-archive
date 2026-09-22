@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:56Z",
+    "lastChanged": "2026-09-22T01:16:56Z",
+    "localBackup": {
+      "asset": "14661.zip",
+      "files": [
+        {
+          "path": "21083464.jpg",
+          "sha256": "0c421d74e21765c4c0179fccc00c69495a191bbc4e0557f1fdc4a6bd5f7329b0",
+          "size": 72828
+        },
+        {
+          "path": "21083464.json",
+          "sha256": "a99977da0dabcf6333671f7342e0ad04507b4598556a650441829f236b64f43e",
+          "size": 11537619
+        },
+        {
+          "path": "21083464.mp3",
+          "sha256": "2062c1ba88e8a1746dbd3bf1c6db836f1f10485cab911cf71fe57b89fd1f32f2",
+          "size": 370876
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b424352dfd229bcef895103b4a97a2f8bc5893f5884ad1edb2fc279fe234fe1b",
+          "size": 164
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f2d1bf477853d4d0acceec5be473a3485f702ca04548ffa3dbff67ffec66ed3a",
+          "size": 609
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "21083464.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "21083464.jpg",
+        "lineLength": 6.0,
+        "music": "21083464.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "我们唱着…"
+      },
+      "release": "backup-14000-14999",
+      "sha256": "42d22ec0567d0c66e9fb6bea5257f9148214732531ec8c1be4fd6e36fef886a3",
+      "size": 11982604,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14661.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-02T06:38:39.004157Z",
+  "charter": "扎尔很乐观",
+  "composer": "翻唱:一只瓜瓜\n闷猪\nJanmy姜铭杨\n​juju ",
+  "created": "2024-02-02T06:38:39.004157Z",
+  "description": "好听就写了没事干╮(¯▽¯)╭",
+  "difficulty": 0.0,
+  "id": 14661,
+  "illustrator": "博主自己",
+  "level": "SP Lv.？",
+  "name": "我们唱着时间的歌",
+  "tags": [],
+  "updated": "2024-02-02T06:38:39.004157Z",
+  "uploader": 1670
+}

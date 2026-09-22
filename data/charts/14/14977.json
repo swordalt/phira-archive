@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:28Z",
+    "lastChanged": "2026-09-22T01:17:28Z",
+    "localBackup": {
+      "asset": "14977.zip",
+      "files": [
+        {
+          "path": "47530457.json",
+          "sha256": "c8880a8b2f3ab5451eee28584e627c6d34f9432c67fb2b5ae66248918e441464",
+          "size": 2335223
+        },
+        {
+          "path": "47530457.mp3",
+          "sha256": "2d1b22e1d84c91a551a439643c2dbd0613134f3db74439ae7cad65a3820b96d5",
+          "size": 1470314
+        },
+        {
+          "path": "47530457.png",
+          "sha256": "3cc6ee35723b4b3b70e8b86ee80e9c2061820980f0bbacea39e3f1dd79450b12",
+          "size": 889883
+        },
+        {
+          "path": "info.txt",
+          "sha256": "739f7afb53f927d8d236cf6f8b9aa3e4c9b5ffc62d10f3fc1b14da642c279e0c",
+          "size": 210
+        },
+        {
+          "path": "info.yml",
+          "sha256": "0ac85a6d2d2e75c2dafe71ac7110a4f77d3e685df56c5f7dad73709a8b501581",
+          "size": 629
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "47530457.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "47530457.png",
+        "lineLength": 6.0,
+        "music": "47530457.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-14000-14999",
+      "sha256": "867f0be3432b3d809c4cd9468f85478f7fb627819c5720adab8a5af9c7c232ec",
+      "size": 4696767,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14977.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-08T03:01:18.243522Z",
+  "charter": "sata vs. infinight",
+  "composer": "seatrus/kuro/Halv/打打だいず",
+  "created": "2024-02-08T03:01:18.243522Z",
+  "description": "羽笙杯的特供谱，算是我近来写得很快的，大家加油（",
+  "difficulty": 14.900001,
+  "id": 14977,
+  "illustrator": "UK",
+  "level": "IN Lv.14",
+  "name": "Quattro Elements Dimiourgia",
+  "tags": [
+    "羽笙杯",
+    "regular"
+  ],
+  "updated": "2024-02-08T08:52:12.045539Z",
+  "uploader": 4218
+}

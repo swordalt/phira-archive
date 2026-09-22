@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:04:20Z",
+    "lastChanged": "2026-09-22T01:04:20Z",
+    "localBackup": {
+      "asset": "4817.zip",
+      "files": [
+        {
+          "path": "18309922.json",
+          "sha256": "d7230d7e6b4a1056011ce7a3817541d854fc86e0c1972b61fee8a699947b72d5",
+          "size": 588384
+        },
+        {
+          "path": "18309922.mp3",
+          "sha256": "82c8872ceba3a1d56b93753aae0f1f68edade75ffd3895b072d05aeddd10164c",
+          "size": 1513742
+        },
+        {
+          "path": "18309922.png",
+          "sha256": "9000831bec42defbccadca9b863c4ae3d3a95b92820c20b86278eb905f6c904c",
+          "size": 1673135
+        },
+        {
+          "path": "info.txt",
+          "sha256": "db6641c25bfaa000fc43ac7a8715e1a5b3a09a3e227ab862936b265a1c3c106c",
+          "size": 207
+        },
+        {
+          "path": "info.yml",
+          "sha256": "689676fd5da34f0fe232e64f0f6d2f6723a83de350d141eec3a5c65ddd05450e",
+          "size": 549
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "18309922.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "18309922.png",
+        "lineLength": 6.0,
+        "music": "18309922.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-4000-4999",
+      "sha256": "f52f140a5aa4e624c8140425c6e64121bcadccd64316a7f30a4bfd7a564a96ef",
+      "size": 3776525,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-4000-4999/4817.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-07T03:40:31.136773Z",
+  "charter": "SystemBM5071 vs. SWDT_思维导图",
+  "composer": "自动鬼畜中的WZ",
+  "created": "2023-07-07T03:40:31.136773Z",
+  "description": "",
+  "difficulty": 10.0,
+  "id": 4817,
+  "illustrator": "自动鬼畜中的WZ",
+  "level": "SWDT Lv.?",
+  "name": "耍把戏(张三版)",
+  "tags": [],
+  "updated": "2023-07-07T03:40:31.136773Z",
+  "uploader": 3604
+}

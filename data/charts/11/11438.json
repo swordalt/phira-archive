@@ -1,0 +1,80 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:19Z",
+    "lastChanged": "2026-09-22T01:11:19Z",
+    "localBackup": {
+      "asset": "11438.zip",
+      "files": [
+        {
+          "path": "39049799.jpg",
+          "sha256": "5b4757ea17562b4d4f6b1632ca01ffdba9de2fd4d049ba3ee425b0bc8b8665be",
+          "size": 77932
+        },
+        {
+          "path": "39049799.json",
+          "sha256": "7929aaf33f4d7d18724dd9ae4db157e863cb36e093171e07ab219055884e3c87",
+          "size": 1119091
+        },
+        {
+          "path": "39049799.mp3",
+          "sha256": "3359c8b64a535a4bc8ed3c89e6e384b573fd35c302cba18048d8cada2f99d2d8",
+          "size": 5507090
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b23c9b09aac1448913510c94cf8332df6ace3e0faff4289cb7f489fc2c140879",
+          "size": 155
+        },
+        {
+          "path": "info.yml",
+          "sha256": "088c2fd9ec71ad4dd388f9b654d721b7ce9ecde2677c68eff89d5396792fd675",
+          "size": 589
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.2,
+        "chart": "39049799.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "39049799.jpg",
+        "lineLength": 6.0,
+        "music": "39049799.mp3",
+        "offset": 0.0,
+        "previewEnd": 92.7,
+        "previewStart": 73.0,
+        "tip": "管子！.jpg"
+      },
+      "release": "backup-11000-11999",
+      "sha256": "124fecf87e08c1433b189797e30f997758000a73cd45c681e8ebb8ba553d9a4c",
+      "size": 6705365,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11438.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "翠楼屋",
+  "composer": "Kobaryo",
+  "created": null,
+  "description": "预计2023.11.18将谱面预览上传至bilibili  标签已填齐",
+  "difficulty": 15.900001,
+  "id": 11438,
+  "illustrator": "Kobaryo",
+  "level": "IN",
+  "name": "Raven Emperor",
+  "tags": [
+    "maimai",
+    "Maimai",
+    "舞萌DX",
+    "底力",
+    "耐力",
+    "多指",
+    "部分还原本家",
+    "翠楼屋",
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

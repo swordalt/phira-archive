@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:20:05Z",
+    "lastChanged": "2026-09-22T01:20:05Z",
+    "localBackup": {
+      "asset": "16979.zip",
+      "files": [
+        {
+          "path": "67832718.jpg",
+          "sha256": "662471d7bf4bdc3646afad037df62cd649623dff32b98ea9e9877748f1ba86cc",
+          "size": 5687389
+        },
+        {
+          "path": "67832718.json",
+          "sha256": "c987f7471165b797234dc5c1c30d5aa414a7bed053f2ffd8b3fb24d68510f994",
+          "size": 3033338
+        },
+        {
+          "path": "67832718.mp3",
+          "sha256": "b8b33dc1ed7bf61c753010ec90453a7b46c1ee59cb4ffbb156e60f68fe032677",
+          "size": 2444717
+        },
+        {
+          "path": "info.txt",
+          "sha256": "e3f410a1381d2a6425b1b62330aaafaa7dd34d8791b2665ae54197b1d014bcfd",
+          "size": 148
+        },
+        {
+          "path": "info.yml",
+          "sha256": "1c5a7339125bc02e782c467086827116825d4463c67310db432eccf87cb23f4b",
+          "size": 540
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "67832718.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "67832718.jpg",
+        "lineLength": 6.0,
+        "music": "67832718.mp3",
+        "offset": 0.029999997,
+        "previewEnd": 75.0,
+        "previewStart": 60.0,
+        "tip": "Tips：DDDDAAAASSSSHHHH",
+        "unlockVideo": null
+      },
+      "release": "backup-16000-16999",
+      "sha256": "60fae7d8dfc85e3f0d50d14c392d4e34478be0a3bc734c370b5eaf3aa8935d1a",
+      "size": 11166640,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-16000-16999/16979.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-04-19T16:07:47.683436Z",
+  "charter": "RT_ESCADE",
+  "composer": "MDK",
+  "created": "2024-03-10T04:17:23.252653Z",
+  "description": "做的不好",
+  "difficulty": 15.1,
+  "id": 16979,
+  "illustrator": "Geometry Dash",
+  "level": "DS Lv.15",
+  "name": "DASH",
+  "tags": [],
+  "updated": "2024-04-19T16:07:47.683436Z",
+  "uploader": 6759
+}

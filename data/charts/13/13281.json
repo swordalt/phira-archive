@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:14:29Z",
+    "lastChanged": "2026-09-22T01:14:29Z",
+    "localBackup": {
+      "asset": "13281.zip",
+      "files": [
+        {
+          "path": "96582475.jpg",
+          "sha256": "1fb17a3d46f35e2c8a547ffa216a0aa6b0a8c546c90240d54dbbc6646f9a7dab",
+          "size": 99555
+        },
+        {
+          "path": "96582475.json",
+          "sha256": "0529fee1dd9fa6934b7e2ac6089cd86df229445a61bcb1516bb09f223fe14e83",
+          "size": 783855
+        },
+        {
+          "path": "96582475.mp3",
+          "sha256": "4598af7072e945b0edae09d42e4369fefe94dbde322433a490ec85b4b0c887cf",
+          "size": 1691897
+        },
+        {
+          "path": "info.txt",
+          "sha256": "7ed508aed39eeb270a5a1f4b76aa65cf024ee2ea2938bfbfedfc1ecf17b35827",
+          "size": 199
+        },
+        {
+          "path": "info.yml",
+          "sha256": "35342597afd373acfafd5ef6eb99b2945fda85a3827c3aed336c7677f80d9c2c",
+          "size": 727
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "96582475.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "96582475.jpg",
+        "lineLength": 6.0,
+        "music": "96582475.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "大芬，请小心尝试"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "1afa2f3239a5cacca4b53c3c58f79555d4f3053f6ac9226122bb6b2131c3897a",
+      "size": 2576741,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13281.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "hc eat 弦子, very yummy",
+  "composer": "Jordan Lee",
+  "created": null,
+  "description": "已经过另一位谱师同意。\nhc：个人发疯做，因为好久没写谱，而且在学校累个半死，在这种精神状态下写了张粉扑。我负责按键，另一位谱师写特效。\n打谱请@b站的：h-c-啦 和 周弦蕤",
+  "difficulty": 20.0,
+  "id": 13281,
+  "illustrator": "UK",
+  "level": "AT Lv.屎",
+  "name": "你电脑崩了(Windows Redzone)",
+  "tags": [
+    "troll"
+  ],
+  "updated": null,
+  "uploader": null
+}

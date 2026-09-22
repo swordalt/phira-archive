@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:02Z",
+    "lastChanged": "2026-09-22T01:03:02Z",
+    "localBackup": {
+      "asset": "2293.zip",
+      "files": [
+        {
+          "path": "24585564.jpg",
+          "sha256": "30e223e4d5ba6cbd393e51e0694bfadd28ed6476086db7c1b11badd7b660751f",
+          "size": 21670
+        },
+        {
+          "path": "24585564.json",
+          "sha256": "6c8513e8acfdd93b75749b60d6501b2a85575ece896b88f6df5e1d6b1b134d2f",
+          "size": 327289
+        },
+        {
+          "path": "24585564.ogg",
+          "sha256": "37d4b22bbb6e7f5a021aa4729804ba50cc4aa4030295cdf6352afa14e650dbc6",
+          "size": 2577555
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ad3d9ed4ffca8d223097ce2b352f91cba185fec7549e7b02eb00e3aa686278b8",
+          "size": 149
+        },
+        {
+          "path": "info.yml",
+          "sha256": "d00855c008fc3004546fd09e4c7790905435e423632042121750a057f171fe65",
+          "size": 512
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.75,
+        "chart": "24585564.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "24585564.jpg",
+        "lineLength": 6.0,
+        "music": "24585564.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "特殊配置"
+      },
+      "release": "backup-2000-2999",
+      "sha256": "91a6171ff3fe36092f22e0e7a27479052eb0aee3fb469e18614bfd80f4f59de8",
+      "size": 2927683,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-2000-2999/2293.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-05-20T04:12:23.971315Z",
+  "charter": "qwwshs",
+  "composer": "Nhato",
+  "created": "2023-05-20T04:12:23.971315Z",
+  "description": "认真写了一下",
+  "difficulty": 15.600002,
+  "id": 2293,
+  "illustrator": "UK",
+  "level": "IN Lv.15",
+  "name": "Dawn Saga",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-05-20T12:47:18.180232Z",
+  "uploader": 353
+}

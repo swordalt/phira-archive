@@ -1,0 +1,75 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:40Z",
+    "lastChanged": "2026-09-22T01:07:40Z",
+    "localBackup": {
+      "asset": "7688.zip",
+      "files": [
+        {
+          "path": "47419749.jpg",
+          "sha256": "856c443547e71e332a5249695d14ab3d76ca57913cda659c8bdc80e94b1b23a1",
+          "size": 147939
+        },
+        {
+          "path": "47419749.json",
+          "sha256": "8672b034e94c92cd4d7b8f2a2bf3996252bc619dfcc6b12b5a2ef54d4808d541",
+          "size": 376947
+        },
+        {
+          "path": "47419749.mp3",
+          "sha256": "2064c0bc3d743e5d66ba79152faf4a34da23f7c9fc52efa3c709e815a85fd9f5",
+          "size": 329763
+        },
+        {
+          "path": "info.txt",
+          "sha256": "89469f56964a0ed6cd78d955b9c05809bf8c5f3a3a71ccd42c3c577b76aa1386",
+          "size": 227
+        },
+        {
+          "path": "info.yml",
+          "sha256": "7380e720c55b7ea6439ad606d1eabb0b2175d22e96dff33a26441a6712c96a71",
+          "size": 704
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "47419749.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "47419749.jpg",
+        "lineLength": 6.0,
+        "music": "47419749.mp3",
+        "offset": 0.0,
+        "previewEnd": 20.0,
+        "previewStart": 0.0,
+        "tip": "枫丹更新更新更新更新更新更新快点快点"
+      },
+      "release": "backup-7000-7999",
+      "sha256": "b6d6ead80523f00565221a746cfa90a3b6ed9fe1b81c091528ddd460ad5a11f4",
+      "size": 856088,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-7000-7999/7688.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "余火4.0真他妈急死我了",
+  "composer": "米哈游 feat.大伟哥",
+  "created": null,
+  "description": "整活谱 写的保证了手感 但是乱写的 不代表谱师水平 因为谱师水平不如这个",
+  "difficulty": 4.0,
+  "id": 7688,
+  "illustrator": "枫丹你快更新快更新我要琳妮特",
+  "level": "枫丹 Lv.4.0",
+  "name": "大伟哥4.0前瞻语气词纯享版",
+  "tags": [
+    "原神",
+    "大伟哥",
+    "鬼畜",
+    "troll"
+  ],
+  "updated": null,
+  "uploader": null
+}

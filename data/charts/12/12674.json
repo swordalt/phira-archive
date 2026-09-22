@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:13:27Z",
+    "lastChanged": "2026-09-22T01:13:27Z",
+    "localBackup": {
+      "asset": "12674.zip",
+      "files": [
+        {
+          "path": "72498935.json",
+          "sha256": "fc545d9f8c516054d41aeef4b5778d3bde355c7fbfcd8dbeff13f3d9c31087bb",
+          "size": 1798569
+        },
+        {
+          "path": "72498935.mp3",
+          "sha256": "5d9b0666af5c08f6321b86806073673dc16bef84af752657392b263344d32951",
+          "size": 6985620
+        },
+        {
+          "path": "72498935.png",
+          "sha256": "e27b26d548b91716c7de43e9fef5b5bbebb9045d3bbbb3776c7b1b03dddc8981",
+          "size": 3161816
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d815f102e27ce399b2affef2ddfb8866aa488164b219b9fe7f72c71889450db2",
+          "size": 176
+        },
+        {
+          "path": "info.yml",
+          "sha256": "382660a61dc777af9bff353ae0c45a3a71793def114e1a0a9a10d5fd9fff5ce4",
+          "size": 723
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "72498935.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "72498935.png",
+        "lineLength": 6.0,
+        "music": "72498935.mp3",
+        "offset": 0.0,
+        "previewEnd": 27.0,
+        "previewStart": 8.5,
+        "tip": "大家圣诞节快乐！"
+      },
+      "release": "backup-12000-12999",
+      "sha256": "590d32417baf3c58cf862a07a1ec9b320682069192adc1234ad0827e1bcc656d",
+      "size": 11947412,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12674.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-22T05:01:16.086284Z",
+  "charter": "秋山",
+  "composer": "Lindsey Stirling",
+  "created": "2023-12-22T05:01:16.086284Z",
+  "description": "难点：\n位移长条\n锁手长条\n大量滑键\n\n请务必熟练运用垂直判定\n本人上传\nup：梦仙-林溪山人\n欢迎来评论交流！有评必回~\n本人上传",
+  "difficulty": 13.900005,
+  "id": 12674,
+  "illustrator": "UK",
+  "level": "IN 13",
+  "name": "You're A Mean One, Mr. Grinch",
+  "tags": [],
+  "updated": "2023-12-22T05:01:16.086284Z",
+  "uploader": 526407
+}

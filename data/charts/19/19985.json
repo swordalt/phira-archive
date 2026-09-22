@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:23:34Z",
+    "lastChanged": "2026-09-22T01:23:34Z",
+    "localBackup": {
+      "asset": "19985.zip",
+      "files": [
+        {
+          "path": "7956979.jpg",
+          "sha256": "e4d4346832a2ffc449cca718d4d135963c30dda367398b08c7a07c69d69503b6",
+          "size": 298139
+        },
+        {
+          "path": "7956979.json",
+          "sha256": "be0e44fb0049046938f655047d7134dd43bda9b72eebbb4571d2cc8da989ef0f",
+          "size": 2903277
+        },
+        {
+          "path": "7956979.ogg",
+          "sha256": "7394022f09da7b4eddf2c197ae466875454036ef4e720285dd9a24d046ec7ef7",
+          "size": 1950770
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ea863198860094751ef2e7cf3f884bed64ddb15d11ffbe922d3a3134f4029770",
+          "size": 156
+        },
+        {
+          "path": "info.yml",
+          "sha256": "a1aaf715a8cfd50a3c51908999728dc1485b18ae7638792aa0c76ba27b514fb9",
+          "size": 536
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "7956979.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "7956979.jpg",
+        "lineLength": 6.0,
+        "music": "7956979.ogg",
+        "offset": 0.1,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "哇袄",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "e105f7b50452e86c701f12a341c8ef16050875f4cdfaee1288977e3ba5675a1f",
+      "size": 5153380,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19985.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-16T12:43:01.297812Z",
+  "charter": "SearchAbyss",
+  "composer": "SearchAbyss",
+  "created": "2024-05-16T12:43:01.297812Z",
+  "description": "",
+  "difficulty": 16.400002,
+  "id": 19985,
+  "illustrator": "UK",
+  "level": "SP Lv.开大",
+  "name": "♿️Inverted otto♿️",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-05-18T04:16:51.164715Z",
+  "uploader": 10606
+}

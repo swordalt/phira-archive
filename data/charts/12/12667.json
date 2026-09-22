@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:13:24Z",
+    "lastChanged": "2026-09-22T01:13:24Z",
+    "localBackup": {
+      "asset": "12667.zip",
+      "files": [
+        {
+          "path": "28797642.jpg",
+          "sha256": "c1e86927aa581c6bddb6d243e15d56212d8877087bf6646f0c5ed96753184957",
+          "size": 1021531
+        },
+        {
+          "path": "28797642.json",
+          "sha256": "d813676017ad5bf301a6c335d6707adc4b004bf29e22cfdb1bbe00dba5367094",
+          "size": 219999
+        },
+        {
+          "path": "28797642.mp3",
+          "sha256": "e3725ff4771c8c93e16694464a8eb1a544725a3dd867c02d3fce0edd2e7df604",
+          "size": 947188
+        },
+        {
+          "path": "info.txt",
+          "sha256": "c4bb7ce10575f146e304070398fc27e89165d53f1ac27bacb50dd121440a183c",
+          "size": 203
+        },
+        {
+          "path": "info.yml",
+          "sha256": "38784ba8dff073ff22f30fb5ab9eb2d4c0b71bdae0bc3975483713306870b1a5",
+          "size": 674
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "28797642.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "28797642.jpg",
+        "lineLength": 6.0,
+        "music": "28797642.mp3",
+        "offset": 0.0,
+        "previewEnd": 45.0,
+        "previewStart": 27.0,
+        "tip": "哈→哈↗哈↑哈↖哈←哈↙哈↓哈↘哈！~~~~~"
+      },
+      "release": "backup-12000-12999",
+      "sha256": "0fc9cd7afea7a524216203de8016cc9319fef96092403ba7e548c992be673c70",
+      "size": 2190103,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12667.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-21T16:58:39.056919Z",
+  "charter": "大外孙牛波一",
+  "composer": "Take a bite of Pai Meng",
+  "created": "2023-12-21T16:58:39.056919Z",
+  "description": "这个谱只有1个判定线，本人上传，注意被创飞",
+  "difficulty": 15.299999,
+  "id": 12667,
+  "illustrator": "UK",
+  "level": "IN Lv.15",
+  "name": "Mata Hah？march Genshen lmpact",
+  "tags": [
+    "原神",
+    "粪谱",
+    "troll"
+  ],
+  "updated": "2023-12-21T16:58:39.056919Z",
+  "uploader": 299546
+}

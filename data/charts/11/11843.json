@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:48Z",
+    "lastChanged": "2026-09-22T01:11:48Z",
+    "localBackup": {
+      "asset": "11843.zip",
+      "files": [
+        {
+          "path": "27734164.jpg",
+          "sha256": "1045077adb172ea2edf980f784c8a935f9d653fe8c18172912f45ee1434fc019",
+          "size": 34031
+        },
+        {
+          "path": "27734164.json",
+          "sha256": "ba7cb2ce04749077bc34df07a5f970a19a3d6f615eeafeb7f54573d22c2804cb",
+          "size": 81935
+        },
+        {
+          "path": "27734164.mp3",
+          "sha256": "435c2f02fcd360ab46df9857c692513deec36aee23fb46314c16c7790c52bf85",
+          "size": 2344558
+        },
+        {
+          "path": "info.txt",
+          "sha256": "668c03b1f9b31a5880d856ed3466e6188a6de336bdff01235cf7ac352eeeedc8",
+          "size": 163
+        },
+        {
+          "path": "info.yml",
+          "sha256": "a7b1cc3a7814aea0fb3d7f91a552be524bb3d7ec67e5cd5cdab67ef3ac156c26",
+          "size": 418
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "27734164.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "27734164.jpg",
+        "lineLength": 6.0,
+        "music": "27734164.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-11000-11999",
+      "sha256": "ae4ff911e12b3d97a85a6c2627538fc23d78b130a89e0f9d7c0260428843d6f1",
+      "size": 2461613,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11843.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "爱音游的孙大神",
+  "composer": "leaf",
+  "created": null,
+  "description": "",
+  "difficulty": 15.0,
+  "id": 11843,
+  "illustrator": "UK",
+  "level": "IN.lv.15",
+  "name": "命日",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

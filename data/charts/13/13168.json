@@ -1,0 +1,76 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:14:15Z",
+    "lastChanged": "2026-09-22T01:14:15Z",
+    "localBackup": {
+      "asset": "13168.zip",
+      "files": [
+        {
+          "path": "11585459.json",
+          "sha256": "8cdf313188a8ffd424430f1fa8cf66a7392a5bc780276e88f24847ae20a5ddc2",
+          "size": 2365667
+        },
+        {
+          "path": "11585459.mp3",
+          "sha256": "6e529b6f08f0a7f4ec43534b193dad8eccf2dbd10d1cc2e32cf318a8501ff2cf",
+          "size": 1474560
+        },
+        {
+          "path": "11585459.mp4",
+          "sha256": "00a68e702e1facfe41d2d677e40b1ee3660355a72d750e762c62de733db161df",
+          "size": 35007119
+        },
+        {
+          "path": "11585459.png",
+          "sha256": "71dfb05f34f5dbd4996ff8380ee71d590c639d00d4595c6043a52b2b5483a25d",
+          "size": 2790377
+        },
+        {
+          "path": "extra.json",
+          "sha256": "9d2a99ee989d2c93255930ea78f8ae0823ab6c306983a45b03535aac8bf24820",
+          "size": 10123
+        },
+        {
+          "path": "info.yml",
+          "sha256": "1466b782ea33619e4a9139e81af1c18f9384b77800ee18b54253acf565860f76",
+          "size": 579
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "11585459.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "11585459.png",
+        "lineLength": 6.0,
+        "music": "11585459.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "demon~",
+        "unlockVideo": null
+      },
+      "release": "backup-13000-13999",
+      "sha256": "334252e8dac93591473b19583727e07e3953e614fb39cf1c67d114530f033c42",
+      "size": 41649037,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13168.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-01T09:12:21.190655Z",
+  "charter": "sundayrainy",
+  "composer": "マキシマム ザ ホルモン",
+  "created": "2024-01-01T09:12:21.190655Z",
+  "description": "把它当作shader试水就完了",
+  "difficulty": 15.8,
+  "id": 13168,
+  "illustrator": "UK",
+  "level": "Chainsaw15.8",
+  "name": "刃渡り2億センチ",
+  "tags": [],
+  "updated": "2024-01-01T09:12:21.190655Z",
+  "uploader": 112146
+}

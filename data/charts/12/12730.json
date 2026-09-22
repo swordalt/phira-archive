@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:13:34Z",
+    "lastChanged": "2026-09-22T01:13:34Z",
+    "localBackup": {
+      "asset": "12730.zip",
+      "files": [
+        {
+          "path": "83559466.json",
+          "sha256": "2e705bdcdbe19d87f5faf264a2555208c73cb23c0f5b98a874b8e18234060d34",
+          "size": 10594628
+        },
+        {
+          "path": "83559466.mp3",
+          "sha256": "84296b747478e544db7bafb21e34187ab0f1fbf2b875f55c7e79d447e78fa241",
+          "size": 2266636
+        },
+        {
+          "path": "83559466.png",
+          "sha256": "8b1f8473006e1b25858391dc94e4de297b5db8f35f1b4671821fcb22299f3848",
+          "size": 646588
+        },
+        {
+          "path": "info.txt",
+          "sha256": "21e785e6677371559e9610c6c1763eb165c28d93dcddcad9d2769d69d8c45d33",
+          "size": 175
+        },
+        {
+          "path": "info.yml",
+          "sha256": "7daa8c9bde0e5f0664557420b56488dc39ad30ab54c494a78d8a501ebc8d2295",
+          "size": 593
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.70000005,
+        "chart": "83559466.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "83559466.png",
+        "lineLength": 6.0,
+        "music": "83559466.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-12000-12999",
+      "sha256": "eaa4b1d6e2c20a3682761c0f642e338b14324ba3150484ce0ca4bcb3f3a865c3",
+      "size": 13509128,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12730.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-23T08:27:12.360158Z",
+  "charter": "英梨梨无了",
+  "composer": "DJ Myosuke,Gram",
+  "created": "2023-12-23T08:27:12.360158Z",
+  "description": "憋不住了偷跑了!视频会在10月25日00：00发布 bilibili @英梨梨无了",
+  "difficulty": 15.700001,
+  "id": 12730,
+  "illustrator": "UK",
+  "level": "IN  Lv.15",
+  "name": "JINGLE DEATH",
+  "tags": [],
+  "updated": "2023-12-23T08:27:12.360158Z",
+  "uploader": 4120
+}

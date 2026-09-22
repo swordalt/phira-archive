@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:29:23Z",
+    "lastChanged": "2026-09-22T01:29:23Z",
+    "localBackup": {
+      "asset": "21907.zip",
+      "files": [
+        {
+          "path": "2901996.jpg",
+          "sha256": "c7de13fa870099db35d0c4c937729ae24c2abc83b0b23cb768227dc36be0a524",
+          "size": 176173
+        },
+        {
+          "path": "2901996.json",
+          "sha256": "846db9e2412dd66f9d5152af635e5bfb01c3d7814625a867033bbbe5636c2c53",
+          "size": 713708
+        },
+        {
+          "path": "2901996.ogg",
+          "sha256": "30a070c0df207ec08c94848fd2a5a541539f1cf55e6f0f48a855497826d8c132",
+          "size": 2643564
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b814d1775eec6b990e2d40631f2247bd2282b2ad16ae5835d88a7382b9d4370f",
+          "size": 197
+        },
+        {
+          "path": "info.yml",
+          "sha256": "3396cf6f77d1c18ed6e45bff35038eb477df5c9d3de5d458508a1ac66a426208",
+          "size": 482
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "2901996.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "2901996.jpg",
+        "lineLength": 6.0,
+        "music": "2901996.ogg",
+        "offset": 0.0,
+        "previewEnd": 63.0,
+        "previewStart": 43.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-21000-21999",
+      "sha256": "aa62eef50690d6c610dd10aab92f1c2d669766ff86450b689996ffa9d11aecff",
+      "size": 3534626,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-21000-21999/21907.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "The End of Earth Civilization",
+  "composer": "LYRi \"Cyanblue\" WHiTE × NIKANON",
+  "created": null,
+  "description": "本人上传",
+  "difficulty": 18.0,
+  "id": 21907,
+  "illustrator": "UK",
+  "level": "AT Lv.18",
+  "name": "《Ж》",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

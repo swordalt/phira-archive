@@ -1,0 +1,91 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:24:03Z",
+    "lastChanged": "2026-09-22T01:24:03Z",
+    "localBackup": {
+      "asset": "20118.zip",
+      "files": [
+        {
+          "path": "5660320.jpg",
+          "sha256": "f9c218207389465b6e5ceaca5dc56ba6afab3c8ea43d242b309d3a564bfb571e",
+          "size": 102511
+        },
+        {
+          "path": "5660320.json",
+          "sha256": "af976cc5749b605a732dc7cbbbb17d8b87bc5ed2410a9f183068b10279a3e4af",
+          "size": 8349120
+        },
+        {
+          "path": "5660320.mp3",
+          "sha256": "bbe894b290ab574c6c22d8c0e4f92dea6628867c4c8d13f0cf34428fa24ab56b",
+          "size": 3093518
+        },
+        {
+          "path": "info.txt",
+          "sha256": "1b4a6c123d8a3343168fc5ef42b8c86c841a4cdc646a84a212658db3a11a9beb",
+          "size": 211
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5d07acd3e69096cf65f9420e8d7861bce54f20644c33dd8b1f2e37368982e19c",
+          "size": 684
+        },
+        {
+          "path": "lizitou.png",
+          "sha256": "28672adec34252f27e2afd00ee9d8b58a776b727d83ef5939901bbe828d4ed0d",
+          "size": 623220
+        },
+        {
+          "path": "shuodedaoli.png",
+          "sha256": "b8c5428f3f573566bbe27f1bd3365b5ee6cd2f7a9d03ebb4699731410ea4630b",
+          "size": 572558
+        },
+        {
+          "path": "shuodedaoli2.png",
+          "sha256": "508907677b402a4be00542441508cf85f6e36650e2c06dd5a29b99d7bb748253",
+          "size": 1084985
+        },
+        {
+          "path": "waao.png",
+          "sha256": "4f69ce40ff1ada541bd59cb3fb219974942314b0f13603d1c44700d5902647cd",
+          "size": 497676
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "5660320.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "5660320.jpg",
+        "lineLength": 6.0,
+        "music": "5660320.mp3",
+        "offset": 0.0,
+        "previewEnd": 94.0,
+        "previewStart": 77.0,
+        "tip": "啊这个好可爱呀",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "47ca87495ca311a28477a0daf7e0efbb1492c8c1511944f36e3b921caf57d08f",
+      "size": 14325389,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20118.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-19T04:54:33.555515Z",
+  "charter": "造神棍趴（NEKOYO、阿绫、Rasket、awa、cele）",
+  "composer": "K♿bary♿",
+  "created": "2024-05-19T04:54:33.555515Z",
+  "description": "\n物量：4♿♿♿\n\n剩下的看NEKOYO_NKY的B站账号上此视频简介",
+  "difficulty": 17.600002,
+  "id": 20118,
+  "illustrator": "K♿bary♿",
+  "level": "♿tt♿ Lv.17",
+  "name": "♿Unlimited Hyperlink♿",
+  "tags": [],
+  "updated": "2024-05-19T06:20:34.122208Z",
+  "uploader": 442485
+}

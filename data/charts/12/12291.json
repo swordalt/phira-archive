@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:12:13Z",
+    "lastChanged": "2026-09-22T01:12:13Z",
+    "localBackup": {
+      "asset": "12291.zip",
+      "files": [
+        {
+          "path": "86322606.jpg",
+          "sha256": "c043f664c8118c719c358cae05ec225d39d67f1c169adecf78181a0ed7b2714f",
+          "size": 393833
+        },
+        {
+          "path": "86322606.json",
+          "sha256": "1986fbbf4fcef1246fcdc8ccd34de7f2356a29ce479745b136273b67a951c4ad",
+          "size": 2523512
+        },
+        {
+          "path": "86322606.mp3",
+          "sha256": "2f2fe31e0fd05e8a9cfdb4815d1d67a5b250a9214f0675560372a11a90b3b326",
+          "size": 6129145
+        },
+        {
+          "path": "info.txt",
+          "sha256": "41350110214caca1a288b9c9fdfaaf24a345ff0c204c93fc7dbada062eb25693",
+          "size": 152
+        },
+        {
+          "path": "info.yml",
+          "sha256": "d4692baa217bb4f2f5c3d60e69b91cc45e75bfe122e1f2932ad27dc3c033e167",
+          "size": 543
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "86322606.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "86322606.jpg",
+        "lineLength": 6.0,
+        "music": "86322606.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-12000-12999",
+      "sha256": "7d8cb960942babe35a3f08b57c1066524209226ca2430a7dee1397e7e3cc1ab3",
+      "size": 9047693,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12291.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-09T11:16:26.852418Z",
+  "charter": "jossion",
+  "composer": "LeaF",
+  "created": "2023-12-09T11:16:26.852418Z",
+  "description": "尾杀逆天，前半后半写完它鸽了半年（）",
+  "difficulty": 15.800003,
+  "id": 12291,
+  "illustrator": "UK",
+  "level": "IN Lv.15",
+  "name": "Wizdomiot",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-12-09T11:16:26.852418Z",
+  "uploader": 293508
+}

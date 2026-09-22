@@ -1,0 +1,77 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:14:47Z",
+    "lastChanged": "2026-09-22T01:14:47Z",
+    "localBackup": {
+      "asset": "13347.zip",
+      "files": [
+        {
+          "path": "1704592797135-removebg-preview.png",
+          "sha256": "cea978b7d1189a3ad18df550906e8928446c507aeb9b329cd8082838c99b6fd1",
+          "size": 117953
+        },
+        {
+          "path": "69905136.json",
+          "sha256": "b653f25d4179f0b05db2f0e84099393b03d14e129355020d35b4e47e04cca9d7",
+          "size": 1462316
+        },
+        {
+          "path": "69905136.mp3",
+          "sha256": "fb70ecb0af66fb176f9288cb626aac7b5e80e9ae7b2b95236c2184a282e99a76",
+          "size": 4122391
+        },
+        {
+          "path": "69905136.png",
+          "sha256": "638f0eeb1ecfdf52f635497727e6fc4589f710a6c918617273645673a046dea7",
+          "size": 266981
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ab369d5ecd059d8b0cd1657b1af3232691f439192bf42f7057bc53551dadef38",
+          "size": 164
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f960e0237781f98ac0c33b54a5d106da3d77b40488776d86d40b3715f982b243",
+          "size": 1000
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.5,
+        "chart": "69905136.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "69905136.png",
+        "lineLength": 6.0,
+        "music": "69905136.mp3",
+        "offset": 0.0,
+        "previewEnd": 88.0,
+        "previewStart": 73.0,
+        "tip": "Tips：底力大爆发！（指尾杀）"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "49ba2e8e40151f744322ded19cd0f0757f5346493d81cfb76c3610377fd5a1ce",
+      "size": 5971457,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13347.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-07T07:07:20.663597Z",
+  "charter": "FN花计",
+  "composer": "Sakuzyo",
+  "created": "2024-01-07T07:07:20.663597Z",
+  "description": "谱师：@FN花计\n谱面版本：1.2.0\n谱面预览（B站）：BV1QK4y167Zz\n谱面预览（抖音）：https://v.douyin.com/iLebrPt1/\n谱面预览（快手）：https://v.kuaishou.com/eY9ej9\n然后\n敕勒川 阴山下\n天似穹庐 笼盖四野\n天苍苍 野茫茫\n风吹草低见牛羊\n争渡 争渡\n惊起一滩鸥鹭\n日月之行 若出其中\n星汉灿烂 若出其里\n枯藤老树昏鸦\n小桥流水人家\n竹杖芒鞋轻胜马",
+  "difficulty": 16.2,
+  "id": 13347,
+  "illustrator": "UK",
+  "level": "AT Lv.16",
+  "name": "PANDORA PARADOXXX",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-01-07T07:07:20.663597Z",
+  "uploader": 1082
+}

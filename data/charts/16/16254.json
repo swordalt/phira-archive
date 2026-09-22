@@ -1,0 +1,75 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:19:22Z",
+    "lastChanged": "2026-09-22T01:19:22Z",
+    "localBackup": {
+      "asset": "16254.zip",
+      "files": [
+        {
+          "path": "42531053.jpg",
+          "sha256": "6071856886d573c7fbb69520e0435106015e12bc76803f4f62040178a1c95863",
+          "size": 259046
+        },
+        {
+          "path": "42531053.json",
+          "sha256": "1f7b8e836e3a82837c9811e379064beb0b290f5bf6255f6e202903e566367a77",
+          "size": 6280110
+        },
+        {
+          "path": "42531053.mp3",
+          "sha256": "0cd56cf49d4af7e5df085c43644a51618bdcb7d04885a4799e6af31b0537865e",
+          "size": 4213859
+        },
+        {
+          "path": "info.txt",
+          "sha256": "99db56a5b710795baa9d96795e2eb8ff5a7d12b8586cf3a6cee5f7d6ae2cce9b",
+          "size": 243
+        },
+        {
+          "path": "info.yml",
+          "sha256": "3c001d8e0f1ac8740e7b6d28481957bc71f8731de1995851be6d4a57b29b7f8c",
+          "size": 619
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.75000006,
+        "chart": "42531053.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "42531053.jpg",
+        "lineLength": 6.0,
+        "music": "42531053.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip：我超！冰！",
+        "unlockVideo": null
+      },
+      "release": "backup-16000-16999",
+      "sha256": "f934d4e7cc223a18ef696e774dc45683f7c86427d36e5f1734ee4ab5acb42292",
+      "size": 10754385,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-16000-16999/16254.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "棍 -我ら棍神と共に乘む轮な椅-",
+  "composer": "默雪SilentSnow",
+  "created": null,
+  "description": "谱面为谱师本人上传",
+  "difficulty": 16.500002,
+  "id": 16254,
+  "illustrator": "默雪SilentSnow",
+  "level": "AT Lv.16",
+  "name": "♿️祈_-我ら神祖と共に歩む者なり♿️",
+  "tags": [
+    "中二节奏",
+    "电棍otto",
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

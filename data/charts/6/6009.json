@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:01Z",
+    "lastChanged": "2026-09-22T01:06:01Z",
+    "localBackup": {
+      "asset": "6009.zip",
+      "files": [
+        {
+          "path": "28703582.jpg",
+          "sha256": "c63d3b02c38391f6878064a630c0a3faf1b510db0ff162f11cd5f31e1624c891",
+          "size": 83442
+        },
+        {
+          "path": "28703582.json",
+          "sha256": "1cb59c6451da7e9bbcd133671799768aef2164ae796f5e98c9ada35030f71598",
+          "size": 26593
+        },
+        {
+          "path": "28703582.mp3",
+          "sha256": "4dcdd19e25907d122f40efe85f08fedbf574afab92a12748f3331496583c1c25",
+          "size": 1949460
+        },
+        {
+          "path": "info.txt",
+          "sha256": "18b413d00b770ce3023f8cc13fb71e1391bc03e739de32d3a5bb4592710f9084",
+          "size": 154
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5c0b3cb5505af4abd38023365b18bc240d64a5fad4e36ca017c9e769bc60c69d",
+          "size": 563
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "28703582.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "28703582.jpg",
+        "lineLength": 6.0,
+        "music": "28703582.mp3",
+        "offset": 0.0,
+        "previewEnd": 35.0,
+        "previewStart": 17.0,
+        "tip": "2022.7制作，演出尝试，配置较创"
+      },
+      "release": "backup-6000-6999",
+      "sha256": "15a773139f8658c04d8adf2336ed6a14b786e5c1836f0cf8b970e7b0c8fc35ed",
+      "size": 2060720,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6009.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-25T04:09:16.649254Z",
+  "charter": "Cup shop",
+  "composer": "Moe shop",
+  "created": "2023-07-25T04:09:16.649254Z",
+  "description": "谱师是本人，刚刚传的时候忘写了",
+  "difficulty": 15.5,
+  "id": 6009,
+  "illustrator": "UK",
+  "level": "IN LV.15",
+  "name": "Notice",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-07-25T04:09:16.649254Z",
+  "uploader": 36
+}

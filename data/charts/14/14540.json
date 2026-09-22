@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:40Z",
+    "lastChanged": "2026-09-22T01:16:40Z",
+    "localBackup": {
+      "asset": "14540.zip",
+      "files": [
+        {
+          "path": "49004419.json",
+          "sha256": "b07a9ba530823909730bf5acacdb68e15226efd05f1f49bc43ee5af1186503a5",
+          "size": 1349885
+        },
+        {
+          "path": "49004419.mp3",
+          "sha256": "092d16a304b8e514dd17be8b42e124302780e92ac4cfb34bce661b87e72398f0",
+          "size": 6157016
+        },
+        {
+          "path": "49004419.png",
+          "sha256": "2bc75a0336af0ad9014ed033f65a04dc701d54b0de8a6cb77fdb640b2cf94346",
+          "size": 44420
+        },
+        {
+          "path": "info.txt",
+          "sha256": "641b74d10c25a748783ea70e268a19cd04a97fd1ee948d90a8237fd26023324e",
+          "size": 162
+        },
+        {
+          "path": "info.yml",
+          "sha256": "90bde4ffbe04af045512850a41ae01df3c9ae66a03adfe93f09c68c307a95c21",
+          "size": 495
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "49004419.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "49004419.png",
+        "lineLength": 6.0,
+        "music": "49004419.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-14000-14999",
+      "sha256": "72a375f6b3623ba033904ae20bfdbe9d9d5b287df872d63eb8a2ef744b2cff72",
+      "size": 7552486,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14540.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-31T09:06:02.894920Z",
+  "charter": "videogame-20",
+  "composer": "Daily天利",
+  "created": "2024-01-31T09:06:02.894920Z",
+  "description": "",
+  "difficulty": 14.0,
+  "id": 14540,
+  "illustrator": "UK",
+  "level": "IN Lv.14",
+  "name": "Dice 20",
+  "tags": [
+    "visual"
+  ],
+  "updated": "2024-01-31T09:06:02.894920Z",
+  "uploader": 684028
+}

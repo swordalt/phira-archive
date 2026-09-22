@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:15:51Z",
+    "lastChanged": "2026-09-22T01:15:51Z",
+    "localBackup": {
+      "asset": "13781.zip",
+      "files": [
+        {
+          "path": "22185794.jpg",
+          "sha256": "6ef1916c7f66bec31493ab83b204611f01c1d2e9673c0bdaf03a2ea19edbcdeb",
+          "size": 245627
+        },
+        {
+          "path": "22185794.json",
+          "sha256": "9bcc3138fae40dbcd2bd9d412ef95c73ef9de5d7d2a3e44a44c8360db4763a8b",
+          "size": 3517115
+        },
+        {
+          "path": "22185794.ogg",
+          "sha256": "6e699e15db4a82aa9f7a32d3063984e72e8db465c5990ac9536e096b38e26de9",
+          "size": 2635740
+        },
+        {
+          "path": "info.txt",
+          "sha256": "2b387fa72337bbb8dcb78f11dd85c5d22d0b4efc6df066541815b2b61415c00c",
+          "size": 178
+        },
+        {
+          "path": "info.yml",
+          "sha256": "9356a8c0feaf8985f35d466b41340456bba5ca755e0e6115641c7c944ac66957",
+          "size": 588
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "22185794.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "22185794.jpg",
+        "lineLength": 6.0,
+        "music": "22185794.ogg",
+        "offset": 0.055,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "永夜城也曾拥有过白天"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "a42f9f8eb512eb903523db567a2a83ac436d676888f11ed1b73ae31147b26a85",
+      "size": 6399756,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13781.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-24T11:36:50.682830Z",
+  "charter": "渊琼_deep",
+  "composer": "黒皇帝feat.AKA",
+  "created": "2024-01-19T11:22:25.957195Z",
+  "description": "做了三个星期，脖子快断了",
+  "difficulty": 16.0,
+  "id": 13781,
+  "illustrator": "NekoFTR",
+  "level": "AT Lv.16",
+  "name": "Le Porteur d'Ombre",
+  "tags": [
+    "Orzmic",
+    "regular"
+  ],
+  "updated": "2024-01-24T11:36:50.682830Z",
+  "uploader": 312532
+}

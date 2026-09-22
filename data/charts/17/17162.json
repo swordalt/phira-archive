@@ -1,0 +1,68 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:20:20Z",
+    "lastChanged": "2026-09-22T01:20:20Z",
+    "localBackup": {
+      "asset": "17162.zip",
+      "files": [
+        {
+          "path": "1707535635.ogg",
+          "sha256": "48362718d7d6ffa90a384e9efd2b036381aceb549a835faacd099cbddd0c26c8",
+          "size": 3082286
+        },
+        {
+          "path": "805133763(1).jpg",
+          "sha256": "f9fce7a846812ac22e98c159d91993b21e587e14d97d4f3c70d0fb72e251c6e3",
+          "size": 240191
+        },
+        {
+          "path": "info.yml",
+          "sha256": "fce842f9510828765ae63d725c48cbc76a1e66736e67e5c9f9b4df5e586d5da4",
+          "size": 598
+        },
+        {
+          "path": "╔±═■ (From Malody).json",
+          "sha256": "a3af3a76ef0f5ff21a1eea470fb4053785d30fa07ec84a45a4b04466734168c8",
+          "size": 1350101
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "╔±═■ (From Malody).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "805133763(1).jpg",
+        "lineLength": 6.0,
+        "music": "1707535635.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "请关注@天崽awa 喵",
+        "unlockVideo": null
+      },
+      "release": "backup-17000-17999",
+      "sha256": "3b3866e23f7915d771cbcb606e6eb42418a451735042173a705874b5fed79713",
+      "size": 4673638,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-17000-17999/17162.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-03-16T04:13:41.143355Z",
+  "charter": "天崽awa x 苹果rage",
+  "composer": "TJ.hangneil",
+  "created": "2024-03-16T04:13:41.143355Z",
+  "description": "发布屏元/手元请标注谱师喵",
+  "difficulty": 27.0,
+  "id": 17162,
+  "illustrator": "sta",
+  "level": "5K Lv.27",
+  "name": "神威",
+  "tags": [
+    "plain"
+  ],
+  "updated": "2024-03-16T04:13:41.143355Z",
+  "uploader": 17576
+}

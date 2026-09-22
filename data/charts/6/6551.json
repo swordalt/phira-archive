@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:43Z",
+    "lastChanged": "2026-09-22T01:06:43Z",
+    "localBackup": {
+      "asset": "6551.zip",
+      "files": [
+        {
+          "path": "31358708.json",
+          "sha256": "8d6311215ec3984ac17615fd3180b587b8afc6dcd1b51a570333ff5ab3fb44a9",
+          "size": 9530
+        },
+        {
+          "path": "31358708.mp3",
+          "sha256": "6f0e4a62b6afd5141be516bdbc96b094ff3c32969f2c493f5d28a85e33554f99",
+          "size": 214309
+        },
+        {
+          "path": "31358708.png",
+          "sha256": "172b9f7a97c899bddf3d0129dc8a1b6a3c5961fe1684a46e8301647f77248143",
+          "size": 100614
+        },
+        {
+          "path": "info.txt",
+          "sha256": "77a678deb9b11708559e05450e83fd50b61ce6beaa5dbe5ac627347b8448aaaf",
+          "size": 179
+        },
+        {
+          "path": "info.yml",
+          "sha256": "137e2bc33708c6a5fb2274a9ccbd9d96828b747938e3bda39a178a0304d779ea",
+          "size": 483
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "31358708.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "31358708.png",
+        "lineLength": 6.0,
+        "music": "31358708.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "答辩警告"
+      },
+      "release": "backup-6000-6999",
+      "sha256": "a55e0be7d39bac6a7c33bb64e402bec87918da8d0c17122c9dcbcaa73f1975f1",
+      "size": 325623,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6551.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "FossssssssssssssssiL",
+  "composer": "爱无极の聋割",
+  "created": null,
+  "description": "群友日常发癫",
+  "difficulty": 0.0,
+  "id": 6551,
+  "illustrator": "还是聋割",
+  "level": "SP Lv.無極",
+  "name": "我爱无极.mp4",
+  "tags": [
+    "troll"
+  ],
+  "updated": null,
+  "uploader": null
+}

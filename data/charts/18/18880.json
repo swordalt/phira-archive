@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:50Z",
+    "lastChanged": "2026-09-22T01:21:50Z",
+    "localBackup": {
+      "asset": "18880.zip",
+      "files": [
+        {
+          "path": "85059693.jpg",
+          "sha256": "5f630bf5e0b8a4b8bece81483ed74ecb8226345c5ac100b395c3deb24aa40568",
+          "size": 1658755
+        },
+        {
+          "path": "85059693.json",
+          "sha256": "eea5c3445d840eebcac754298ca8098299eafb4e3334287686deecb6d08adc4d",
+          "size": 1995107
+        },
+        {
+          "path": "85059693.mp3",
+          "sha256": "e75703cfb3a10ed0642a10543d748e723b1cb40fb0ec9828be6cd63f82dea725",
+          "size": 6080739
+        },
+        {
+          "path": "info.txt",
+          "sha256": "04c3e820edd408940eddf0e87008eea5bd9d5e2963c300b00469db4c16930a1a",
+          "size": 168
+        },
+        {
+          "path": "info.yml",
+          "sha256": "41a96349e73735b86476a1ba579917f3f29655c46872d7f638aa07ab6276f09b",
+          "size": 663
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.65000004,
+        "chart": "85059693.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "85059693.jpg",
+        "lineLength": 6.0,
+        "music": "85059693.mp3",
+        "offset": 0.010000013,
+        "previewEnd": 100.0,
+        "previewStart": 80.0,
+        "tip": "在颠倒的世界里，寻找并追逐",
+        "unlockVideo": null
+      },
+      "release": "backup-18000-18999",
+      "sha256": "2ad5c62c605e1b1ca98019ec2ae0a8841d7be8bf6a95925a31d9fca66b004172",
+      "size": 9735940,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-18000-18999/18880.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "ゐろㄚらら",
+  "composer": "ARForest",
+  "created": null,
+  "description": "视频预览 BV1c1421R7K3\n谱师是ABYSS的日文形状\n特别感谢某知名谱师对文字描述错误的修正\nB站关注@SrY-ABYSS 谢谢喵",
+  "difficulty": 11.800003,
+  "id": 18880,
+  "illustrator": "Mechari",
+  "level": "Inverted Lv.11",
+  "name": "Inverted World",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

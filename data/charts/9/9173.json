@@ -1,0 +1,68 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:45Z",
+    "lastChanged": "2026-09-22T01:08:45Z",
+    "localBackup": {
+      "asset": "9173.zip",
+      "files": [
+        {
+          "path": "fuli.jpg",
+          "sha256": "a3f62de9d03fb5605a8c9a57ae0a6898777b6ba89246bc2dbcd1ed03a672ab6e",
+          "size": 612107
+        },
+        {
+          "path": "fuli.mp3",
+          "sha256": "98d7ac02f786f8f5a9c6d4013ba80726daf8c2665f5a2278a2dcb543acc8a996",
+          "size": 5176494
+        },
+        {
+          "path": "fuli.pec",
+          "sha256": "826a3a984c90b94332d71a07116b98608b17ff25d2ff373e77edd7259831c707",
+          "size": 55735
+        },
+        {
+          "path": "info.yml",
+          "sha256": "02702a26e905539cfc3aa2a2b554cad021eefd05ec09f676dadd86124f6015cf",
+          "size": 668
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "fuli.pec",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "fuli.jpg",
+        "lineLength": 6.0,
+        "music": "fuli.mp3",
+        "offset": 0.16999999,
+        "previewEnd": 75.0,
+        "previewStart": 60.0,
+        "tip": "tips:全新配置，考验你对这首曲子的熟悉度！",
+        "unlockVideo": null
+      },
+      "release": "backup-9000-9999",
+      "sha256": "88bd76f70fda62198160e17329c3b897893f2520ea543c4767eb77dd9d7390c9",
+      "size": 5845394,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-9000-9999/9173.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-09-09T10:21:17.791185Z",
+  "charter": "114514123456",
+  "composer": "myukke.",
+  "created": "2023-09-09T10:21:17.791185Z",
+  "description": "kkk制作，欢迎大家来游玩，感兴趣的可在b站关注我:xy--kkk",
+  "difficulty": 12.5,
+  "id": 9173,
+  "illustrator": "不知道",
+  "level": "SP Lv.?",
+  "name": "FULi AUTO SHOOTER (全新配置警告)",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-09-09T10:21:17.791185Z",
+  "uploader": 10896
+}

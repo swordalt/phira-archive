@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:03Z",
+    "lastChanged": "2026-09-22T01:03:03Z",
+    "localBackup": {
+      "asset": "2381.zip",
+      "files": [
+        {
+          "path": "30666736.jpg",
+          "sha256": "af22380fc23de5cc4d3242583db2f0235863fcab6992a4284104bfc090ea81d5",
+          "size": 49550
+        },
+        {
+          "path": "30666736.json",
+          "sha256": "09b532a11f43ea5e141f8040520054c352a70c529c24344dc6c6bbda278652be",
+          "size": 1147515
+        },
+        {
+          "path": "30666736.mp3",
+          "sha256": "163bae516aeea44479b14ac794ab088b8fe53e2f2fa8f904731046d2b5acc839",
+          "size": 1758732
+        },
+        {
+          "path": "info.txt",
+          "sha256": "246939a0ed743204338a860b675531683001c52e61e7c6f866e21e89aa33e7cc",
+          "size": 178
+        },
+        {
+          "path": "info.yml",
+          "sha256": "0ec6d5d0c2192e0a65c476845d460008c9b83ab0eaa04c8dfba9b90b6a03d79b",
+          "size": 519
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "30666736.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "30666736.jpg",
+        "lineLength": 6.0,
+        "music": "30666736.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-2000-2999",
+      "sha256": "0799b57f04c1e6fc0025ec71e7d7d127fd40b5126e138b7e6ad93d9a12a2cd9e",
+      "size": 2957002,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-2000-2999/2381.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-05-21T05:11:07.165072Z",
+  "charter": "Wuyang114514",
+  "composer": "哦呼w",
+  "created": "2023-05-21T05:11:07.165072Z",
+  "description": "",
+  "difficulty": 14.0,
+  "id": 2381,
+  "illustrator": "UK",
+  "level": "IN Lv.14",
+  "name": "⚡原来它们会说话⚡",
+  "tags": [],
+  "updated": "2023-05-21T13:08:03.358559Z",
+  "uploader": 108
+}

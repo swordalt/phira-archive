@@ -1,0 +1,66 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:24:45Z",
+    "lastChanged": "2026-09-22T01:24:45Z",
+    "localBackup": {
+      "asset": "20298.zip",
+      "files": [
+        {
+          "path": "TEmPTaTiON.JPG",
+          "sha256": "69ab032684a02b36b96292bb08e006746a9e77870f64cb8b81ad4436f2cb70b2",
+          "size": 1783332
+        },
+        {
+          "path": "TEmPTaTiON.mp3",
+          "sha256": "15e23cbae5339220440dd311e2f18a06c82ffdfc1597051df334f1e1228313f0",
+          "size": 6080030
+        },
+        {
+          "path": "info.yml",
+          "sha256": "58bde4aa634f49902de9130f9ca94fe635a1c8da0851b40458e2bb963c4a6638",
+          "size": 522
+        },
+        {
+          "path": "temptation.pec",
+          "sha256": "2b9d3559136153064341383a2239ee5c20056c681795a16767d4fd0ebec30863",
+          "size": 238913
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "temptation.pec",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "TEmPTaTiON.JPG",
+        "lineLength": 6.0,
+        "music": "TEmPTaTiON.mp3",
+        "offset": 0.735,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "29e41c013910059a0d942e118904edee1436048346fd4b1f1518a5c2e4019461",
+      "size": 8103223,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20298.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-25T01:37:52.357545Z",
+  "charter": "Febriz",
+  "composer": "かねこちはる",
+  "created": "2024-05-25T01:37:52.357545Z",
+  "description": "",
+  "difficulty": 16.5,
+  "id": 20298,
+  "illustrator": "©SEGA",
+  "level": "AT Lv.16",
+  "name": "TEmPTaTiON",
+  "tags": [],
+  "updated": "2024-05-31T07:07:40.226340Z",
+  "uploader": 112692
+}

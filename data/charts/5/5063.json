@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:04:50Z",
+    "lastChanged": "2026-09-22T01:04:50Z",
+    "localBackup": {
+      "asset": "5063.zip",
+      "files": [
+        {
+          "path": "2327380.jpg",
+          "sha256": "776a5127af60fba1ad6945d8d4c9b5712f0dbb1301bf2103c78dffddddf40ac3",
+          "size": 85227
+        },
+        {
+          "path": "2327380.json",
+          "sha256": "e44bb8f4c7a5c839d7ca65ef5a7c861f271b35ae9fb940984417156b79d6005b",
+          "size": 471196
+        },
+        {
+          "path": "2327380.mp3",
+          "sha256": "99f9bbcf1f354ffd2dff105f513371a15a64f5c3f1f0fd447cee2c4c6b89a302",
+          "size": 3640076
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d891bce202f47970fff914d095f8e6f75cec0d34aec844ca2b524036ea6ea410",
+          "size": 153
+        },
+        {
+          "path": "info.yml",
+          "sha256": "a11e0def0570c0d0591c9ea97674a0faeedec499cba863908474e86e966ead86",
+          "size": 500
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "2327380.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "2327380.jpg",
+        "lineLength": 6.0,
+        "music": "2327380.mp3",
+        "offset": 0.0,
+        "previewEnd": 53.5,
+        "previewStart": 41.5,
+        "tip": null
+      },
+      "release": "backup-5000-5999",
+      "sha256": "71068aee76320f4f1e87e6a12c5a5c5553418a3abfe67afaa1d214eea132fdb6",
+      "size": 4197654,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5063.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-10T06:17:37.064912Z",
+  "charter": "C8H7N",
+  "composer": "Knighthood",
+  "created": "2023-07-10T06:17:37.064912Z",
+  "description": "B站@-C8H7N-",
+  "difficulty": 16.5,
+  "id": 5063,
+  "illustrator": "苦苦",
+  "level": "AT Lv.16",
+  "name": "Restricted Access",
+  "tags": [],
+  "updated": "2023-07-13T12:43:45.393387Z",
+  "uploader": 4737
+}

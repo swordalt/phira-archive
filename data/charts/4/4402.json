@@ -1,0 +1,65 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:52Z",
+    "lastChanged": "2026-09-22T01:03:52Z",
+    "localBackup": {
+      "asset": "4402.zip",
+      "files": [
+        {
+          "path": "28996528.jpg",
+          "sha256": "09b9c73894d34ca6a588a280afc19fbe43bdb14b50190b82e9e73f43b17b5b73",
+          "size": 301862
+        },
+        {
+          "path": "28996528.json",
+          "sha256": "62f2c2f900bc0b25db8c6a1f3f26260849ad389be51c463a0bfd2279d8bb530a",
+          "size": 2789993
+        },
+        {
+          "path": "28996528.mp3",
+          "sha256": "cbe4d1138a728b8d2dd13cf1409133f47b9f571c3e1f91f7523bb3cb9b973f19",
+          "size": 4355705
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5a73f92b5448aae7d1381cd3a9140ac22c223efc53825979fa60a184861ddecf",
+          "size": 580
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.90000004,
+        "chart": "28996528.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "28996528.jpg",
+        "lineLength": 6.0,
+        "music": "28996528.mp3",
+        "offset": 0.0,
+        "previewEnd": 120.0,
+        "previewStart": 106.0,
+        "tip": "Who's afraid the big black?"
+      },
+      "release": "backup-4000-4999",
+      "sha256": "81777653763d34cb9d5dab94fced4cb652536f6dbe149c6e2ffb54c95e433fec",
+      "size": 7448556,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-4000-4999/4402.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-01T09:55:32.203601Z",
+  "charter": "ChunHan in black,And Lin",
+  "composer": "The Quick Brown Fox",
+  "created": "2023-07-01T09:55:32.203601Z",
+  "description": "结尾音量警告！",
+  "difficulty": 0.0,
+  "id": 4402,
+  "illustrator": "The Quick Brown Fox",
+  "level": "SP Lv.?",
+  "name": "The Big Black",
+  "tags": [],
+  "updated": "2023-07-01T09:55:32.203601Z",
+  "uploader": 67009
+}

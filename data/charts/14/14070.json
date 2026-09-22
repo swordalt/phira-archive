@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:12Z",
+    "lastChanged": "2026-09-22T01:16:12Z",
+    "localBackup": {
+      "asset": "14070.zip",
+      "files": [
+        {
+          "path": "97484666.json",
+          "sha256": "c6ab36b25da36e1009e361ea2bcf80e1c44da2602c7dc6e8742fd88c3eee8d7a",
+          "size": 1828509
+        },
+        {
+          "path": "97484666.mp3",
+          "sha256": "6c891550eadb1674b612d278b4bd4ca0ce45d0e2b2a49166b44a1e06f070d395",
+          "size": 3863893
+        },
+        {
+          "path": "97484666.png",
+          "sha256": "70fb7da1c2fae693d96dda189a3803cfe332dff1a78db6aea6860e8d685b9c0f",
+          "size": 1677002
+        },
+        {
+          "path": "info.txt",
+          "sha256": "aa9b033970175bbf203527f4a69bb3fa046604dd454358165303670b6f36f7f1",
+          "size": 174
+        },
+        {
+          "path": "info.yml",
+          "sha256": "46a50b2bef9c5a847f78ce533fde6ec03508f920dd2dfb65ecf6526e77c53597",
+          "size": 823
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "97484666.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "97484666.png",
+        "lineLength": 6.0,
+        "music": "97484666.mp3",
+        "offset": 0.0,
+        "previewEnd": 147.3,
+        "previewStart": 127.3,
+        "tip": null
+      },
+      "release": "backup-14000-14999",
+      "sha256": "ba3b23776f5ee3604ac97a44e93dabe44c7b82c2af28dea5cf38939ea00bb7ab",
+      "size": 7370909,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14070.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-24T13:22:40.496401Z",
+  "charter": "壁咚星白",
+  "composer": "5KiLOBYTE vs Raphiiel",
+  "created": "2024-01-24T13:22:40.496401Z",
+  "description": "谱师：我（B站up主：玩音游的原批）\n实际难度：IN Lv.病（因为是在我生病4周期间创作的）\n后续谱面还会更新，前提是我病好了。\n-------------------------------------------------------------------\n不好笑吗？（咳嗽）",
+  "difficulty": 15.0,
+  "id": 14070,
+  "illustrator": "EiSELE feat. TARO",
+  "level": "IN Lv.15",
+  "name": "十拳剣",
+  "tags": [
+    "Orzmic",
+    "第八章",
+    "regular"
+  ],
+  "updated": "2024-01-24T13:22:40.496401Z",
+  "uploader": 8200
+}

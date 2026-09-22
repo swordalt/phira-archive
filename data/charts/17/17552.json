@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:20:33Z",
+    "lastChanged": "2026-09-22T01:20:33Z",
+    "localBackup": {
+      "asset": "17552.zip",
+      "files": [
+        {
+          "path": "63499631.jpg",
+          "sha256": "710f8dd01bf309a7e2081ac2aff080a9140686f07f1f15d72a69513ac55a6abb",
+          "size": 41964
+        },
+        {
+          "path": "63499631.json",
+          "sha256": "04148d28a7ffe55def111f5ac304d66f4ea47a40f51da8236e07f48f04d4afeb",
+          "size": 1315348
+        },
+        {
+          "path": "63499631.mp3",
+          "sha256": "84a5ea2857cce8336285b5b4f626082bf68fae133e75940c52214bfd02e5cfde",
+          "size": 2395368
+        },
+        {
+          "path": "info.txt",
+          "sha256": "088960a46dca6e6cbb27e1c514a45479d5dcf373aaa843f3e3bea7d812d48694",
+          "size": 202
+        },
+        {
+          "path": "info.yml",
+          "sha256": "a9d542ff65e103318ae4fcf1540987f0ecc094d9d32613ec9a05281881bf8e4a",
+          "size": 1058
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "63499631.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "63499631.jpg",
+        "lineLength": 6.0,
+        "music": "63499631.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "永夜城，曾经也有光明…",
+        "unlockVideo": null
+      },
+      "release": "backup-17000-17999",
+      "sha256": "7397b93da551c9bddabd793c839904c002ad9420694557d870b4cf401f06fc07",
+      "size": 3754448,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-17000-17999/17552.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "Hikari Originaire de Lci ARCAEA",
+  "composer": "黒皇帝 feat. AKA",
+  "created": null,
+  "description": "审核员快捷审核区：\n3.25补充画师\n\n第四张谱的改谱 很抱歉比例没法调好 但是已经修改了一些棘手配置\nB站与p站（phira）与小红书同名底力の神（谱师本人）\n验证谱师是否为本人的方式：\nQQ1027250801 密码16.27\n\n本人定数：8.27\n本人目标：4.5/5.0\n我想要一个高评分😭😭😭下手轻点吧\n发布到xhs以及哔站请@底力の神\n发布到其他平台上请与我本人联系\nQQ：1072750801 密码：16.27\n（诶我为什么要再说一遍）",
+  "difficulty": 10.0,
+  "id": 17552,
+  "illustrator": "NekoFTR",
+  "level": "EZ Lv.7+",
+  "name": "Le porteur d’Ombre",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

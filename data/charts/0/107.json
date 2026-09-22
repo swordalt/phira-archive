@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:01:46Z",
+    "lastChanged": "2026-09-22T01:01:46Z",
+    "localBackup": {
+      "asset": "107.zip",
+      "files": [
+        {
+          "path": "35495821.json",
+          "sha256": "fb0e1412d32377df4778bb5c25322861d1f3c9087296d0c19b021e78b7430360",
+          "size": 2080763
+        },
+        {
+          "path": "35495821.mp3",
+          "sha256": "9aa5edf54408b30eab6b30925d8bf61b8848bed02593360c585909c1efcf718b",
+          "size": 3043449
+        },
+        {
+          "path": "info.txt",
+          "sha256": "79896fc5c2aaed9ee86c81364297a66d83f1a8eb3310d4fef5d736f0a649a35b",
+          "size": 191
+        },
+        {
+          "path": "info.yml",
+          "sha256": "0fe4228908d9f87aa38460cc248e9bdfd27aac59907d6713ac58e4a3c36ca6eb",
+          "size": 634
+        },
+        {
+          "path": "rip.png",
+          "sha256": "a8e332d1b91b7762f8d3be5e67f597a97f1053084103e868e19072dfe414a60d",
+          "size": 1377136
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.77778,
+        "backgroundDim": 0.6,
+        "chart": "35495821.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "rip.png",
+        "lineLength": 6.0,
+        "music": "35495821.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "在另一端，凝望，远方……"
+      },
+      "release": "backup-0-999",
+      "sha256": "e12f4e2db7e3ec50828e290797176390c71522fd39e194168761f1bb1f4237d9",
+      "size": 6502671,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-0-999/107.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-04-02T08:24:52.826382Z",
+  "charter": "Ziyieee ×3rdPecJam",
+  "composer": "eicateve x hrchem x TOHRU MiTSUHASHi",
+  "created": "2023-04-02T08:24:52.826382Z",
+  "description": "上传已获得谱师不爱说话的紫叶授权 关注哔哩哔哩up主@不爱说话的紫叶~",
+  "difficulty": 15.0,
+  "id": 107,
+  "illustrator": "UK",
+  "level": "IN Lv.15",
+  "name": "R.I.P.",
+  "tags": [],
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "uploader": 7137
+}

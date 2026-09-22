@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:18Z",
+    "lastChanged": "2026-09-22T01:17:18Z",
+    "localBackup": {
+      "asset": "14864.zip",
+      "files": [
+        {
+          "path": "58888590.jpg",
+          "sha256": "2a56323c434c5d8f8dc5b3933d6a2ffcb0fc032d5d29f04558d4b915fb02cad6",
+          "size": 860675
+        },
+        {
+          "path": "58888590.json",
+          "sha256": "281fcdff810b24932e95d33cdbbf35606341985d9b724fd645f6b0ce35ee2ae9",
+          "size": 3523984
+        },
+        {
+          "path": "58888590.mp3",
+          "sha256": "13edc3c1fd20a756f38c2826f4d7eee5be5fdbc0073710289d3707a8df81f7d9",
+          "size": 2584840
+        },
+        {
+          "path": "info.txt",
+          "sha256": "9328c4b0f4a60555320000dcb4daee2993401030ff2281bf459331a432d136b7",
+          "size": 225
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f2c9f3f2336adbfb182dd1f80b6846631e7a60f78a27e378324cf7e8ac386ddd",
+          "size": 747
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "58888590.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "58888590.jpg",
+        "lineLength": 6.0,
+        "music": "58888590.mp3",
+        "offset": 0.0,
+        "previewEnd": 62.3,
+        "previewStart": 47.3,
+        "tip": "Tip: 本来不会拆的，现在更不会拆了。"
+      },
+      "release": "backup-14000-14999",
+      "sha256": "19c3108b2692cb2bbbdf229eb5415ba55d88261181773e9f294ef5e6da689585",
+      "size": 6970979,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14864.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "I.I.R.(InaCtion,InfErior and Resistance)",
+  "composer": "Salty Salt & Unfold33",
+  "created": null,
+  "description": "谱师本人上传\n视频链接:\nBV1UB421z75j\n三天时间写的一张速写谱，因为看到官方写得不够好，于是自己就写了一张\n但是自己写的也是一坨(笑)",
+  "difficulty": 15.0,
+  "id": 14864,
+  "illustrator": "AI Generated(Icier modified)",
+  "level": "FM Lv.15",
+  "name": "G.V.N.(Glitter,Vomitus and Neon)",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

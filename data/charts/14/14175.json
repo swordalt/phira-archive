@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:16Z",
+    "lastChanged": "2026-09-22T01:16:16Z",
+    "localBackup": {
+      "asset": "14175.zip",
+      "files": [
+        {
+          "path": "50968794.jpg",
+          "sha256": "8f6ab71e79e8eebd71f2ca206529ee277815d456b8253ff0b7eaac0ef1192c2e",
+          "size": 241173
+        },
+        {
+          "path": "50968794.json",
+          "sha256": "599c061c4f1afe72a0501519343d665edc601639874dc303233abc74b15692ca",
+          "size": 564626
+        },
+        {
+          "path": "50968794.ogg",
+          "sha256": "563bde162f77129d6590c84bf5651eb07ff6169bd80dec8a626f6542bbf16d8d",
+          "size": 2769936
+        },
+        {
+          "path": "info.txt",
+          "sha256": "13b209390c5b5b6e5e3863503d8cc1ec45abf2211dac3f7c60ad02d1127de0e9",
+          "size": 128
+        },
+        {
+          "path": "info.yml",
+          "sha256": "7597f5267650840f17708a3a84aa24493c19ca17241342aeb01144f18dede13e",
+          "size": 526
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "50968794.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "50968794.jpg",
+        "lineLength": 6.0,
+        "music": "50968794.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "键盘龙谱"
+      },
+      "release": "backup-14000-14999",
+      "sha256": "a023a20129db6ca79c88c09aa30f3898197742d649e277eae22611c53763a2b7",
+      "size": 3576897,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14175.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-26T06:04:17.736054Z",
+  "charter": "KINRDHALP",
+  "composer": "华漾Emoji",
+  "created": "2024-01-26T06:04:17.736054Z",
+  "description": "感谢转谱",
+  "difficulty": 16.9,
+  "id": 14175,
+  "illustrator": "UK",
+  "level": "AT",
+  "name": "weli welo wela",
+  "tags": [
+    "高难",
+    "键盘",
+    "plain"
+  ],
+  "updated": "2024-01-26T06:04:17.736054Z",
+  "uploader": 2487
+}

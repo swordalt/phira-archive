@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:01:50Z",
+    "lastChanged": "2026-09-22T01:01:50Z",
+    "localBackup": {
+      "asset": "142.zip",
+      "files": [
+        {
+          "path": "21581255.jpg",
+          "sha256": "553e950622d31a4f59e331c3d416bd601f3aa514ba9ae34ee6f575ed328359c1",
+          "size": 281185
+        },
+        {
+          "path": "21581255.json",
+          "sha256": "ba6b6ce8bd412ccaba10ecd5d56aa30a359678260c768a43867d1b3436fcfc2a",
+          "size": 2631255
+        },
+        {
+          "path": "21581255.mp3",
+          "sha256": "7f94325f6bd3767666b4e68cbfa1976967f73996e017a02ac0745f9a28d05150",
+          "size": 3820941
+        },
+        {
+          "path": "info.txt",
+          "sha256": "9c0062940c83d7fc9c262af1fb9816070ec1bcffe03a544c8390f3b3913c61c1",
+          "size": 194
+        },
+        {
+          "path": "info.yml",
+          "sha256": "df704e9b670625d3d35a7d45f134c4bd8186c69e18e1af3f76f29fcca36689ea",
+          "size": 516
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "21581255.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "21581255.jpg",
+        "lineLength": 6.0,
+        "music": "21581255.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-0-999",
+      "sha256": "f1856c9656edcb86e5a6dff6feb008b59a651f8988a59653285f636313eeee62",
+      "size": 6734599,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-0-999/142.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-04-02T08:24:52.826382Z",
+  "charter": "DDC0v0",
+  "composer": "IOSYS",
+  "created": "2023-04-02T08:24:52.826382Z",
+  "description": "",
+  "difficulty": 10.0,
+  "id": 142,
+  "illustrator": "UK",
+  "level": "BAKA Lv.⑨",
+  "name": "チルノのパーフェクトさんすう教室",
+  "tags": [],
+  "updated": "2023-04-02T08:24:52.826382Z",
+  "uploader": 405
+}

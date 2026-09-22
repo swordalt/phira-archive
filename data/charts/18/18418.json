@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:34Z",
+    "lastChanged": "2026-09-22T01:21:34Z",
+    "localBackup": {
+      "asset": "18418.zip",
+      "files": [
+        {
+          "path": "32598885.jpg",
+          "sha256": "42a852c3712cf97bb0161348ac71479bb9156f514031beddb5e9f9af1e006761",
+          "size": 87240
+        },
+        {
+          "path": "32598885.json",
+          "sha256": "ef6a0f8f02976f5158210b224a99f07628dbd217d6ed54f91ffa5b476a034e32",
+          "size": 2589563
+        },
+        {
+          "path": "32598885.mp3",
+          "sha256": "d3226faa5334f93ca2e01ed96c554f11ddaaf3bdab46783f045cf8f8ddc436e9",
+          "size": 4441766
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d6bc690162f8e1e800bf34269ee647a4b0876eab6b92d7876fddf37405dd578a",
+          "size": 187
+        },
+        {
+          "path": "info.yml",
+          "sha256": "37968f4d22846bee4b5253c72562468bcc72d7a05a02f2cf2245b10e3e3df93a",
+          "size": 637
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "32598885.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "32598885.jpg",
+        "lineLength": 6.0,
+        "music": "32598885.mp3",
+        "offset": 0.0,
+        "previewEnd": 156.6,
+        "previewStart": 143.0,
+        "tip": "鉴定为嗑多了",
+        "unlockVideo": null
+      },
+      "release": "backup-18000-18999",
+      "sha256": "21894c2899737d1f6ee0cbf292c5609af361d7440b3df189e57f66cda0127f79",
+      "size": 7119901,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-18000-18999/18418.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-04-13T14:46:26.918991Z",
+  "charter": "DiAMONDS YAMERO",
+  "composer": "Aiobahn feat. KOTOKO",
+  "created": "2024-04-13T14:46:26.918991Z",
+  "description": "我去，一天写完判定线也太有实力了吧",
+  "difficulty": 16.400002,
+  "id": 18418,
+  "illustrator": "こかむも & お久しぶり",
+  "level": "tan(α) LV.6·√-1",
+  "name": "INTERNET YAMERO",
+  "tags": [],
+  "updated": "2024-04-13T14:46:26.918991Z",
+  "uploader": 841834
+}

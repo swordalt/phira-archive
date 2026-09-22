@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:48Z",
+    "lastChanged": "2026-09-22T01:09:48Z",
+    "localBackup": {
+      "asset": "10399.zip",
+      "files": [
+        {
+          "path": "12522891.json",
+          "sha256": "dcf73066eb238c36c5995b7b6d67c1037c16cd10138771df0646a9fad9662821",
+          "size": 871097
+        },
+        {
+          "path": "12522891.mp3",
+          "sha256": "965a095171dd54d57e204998560e23add243e083d8d31899bb0f22f55bd59f88",
+          "size": 3681378
+        },
+        {
+          "path": "12522891.png",
+          "sha256": "17b65513993b6c1323e0f68b3fb653ab5db4f65d49bba75bb994e20e2021f02e",
+          "size": 1791
+        },
+        {
+          "path": "info.txt",
+          "sha256": "6256eb5bf6de042f119dd7740f595f0b43ff7686269476e1841c0a36366ea099",
+          "size": 179
+        },
+        {
+          "path": "info.yml",
+          "sha256": "41c60796fd39b38a566f1f7ae6ae7b33bdae948bedfa5697064a08a03f5a0fb3",
+          "size": 454
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "12522891.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "12522891.png",
+        "lineLength": 6.0,
+        "music": "12522891.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "难又不难"
+      },
+      "release": "backup-10000-10999",
+      "sha256": "4e4bd58fcf2c9fa968a9a70716b1982aa6e15d90f66b5377c336ed7e74ad5f10",
+      "size": 4555407,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-10000-10999/10399.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "Anxve13",
+  "composer": "？？？",
+  "created": null,
+  "description": "喝多时写的",
+  "difficulty": 5.0,
+  "id": 10399,
+  "illustrator": "UK",
+  "level": "SP Lv.5",
+  "name": "Purple Passion（二胡版本）",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

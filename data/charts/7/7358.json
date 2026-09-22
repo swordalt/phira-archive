@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:26Z",
+    "lastChanged": "2026-09-22T01:07:26Z",
+    "localBackup": {
+      "asset": "7358.zip",
+      "files": [
+        {
+          "path": "40893158.json",
+          "sha256": "c6d982098d56996a2500382f52836960ccc96b0ccebdc1e530ac17c480aeb983",
+          "size": 8803
+        },
+        {
+          "path": "40893158.mp3",
+          "sha256": "7376fd4312d06ebe8acc523ba72c47fb2e25bd78270cefbf6e5d0f8de255f572",
+          "size": 250553
+        },
+        {
+          "path": "40893158.png",
+          "sha256": "041a000cad38e0314cebc7a291e01a210b19df1415fdfed45198584dfb738c0c",
+          "size": 353282
+        },
+        {
+          "path": "info.txt",
+          "sha256": "51551c59425c9d38c3b3119b2bc09abb5bf4311783f45f2d270acdd40c2f905c",
+          "size": 149
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f6316c330debfe183a0f6a44ab55ff40cfcd352377001b7656547c8fe7dbb79f",
+          "size": 535
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "40893158.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "40893158.png",
+        "lineLength": 6.0,
+        "music": "40893158.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "一tuo东东"
+      },
+      "release": "backup-7000-7999",
+      "sha256": "02c98156cfa1db9ca5b19cfb1fd1d5c8aa42ebea57b1992ad8bad2c7f77bcba2",
+      "size": 613830,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-7000-7999/7358.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "蛙蛙吖",
+  "composer": "李荣浩",
+  "created": null,
+  "description": "个人初谱，做的不好请见谅！（长谱暂时没时间做了 嘤）\n创作时间：2023.8.11 22:10",
+  "difficulty": 10.000005,
+  "id": 7358,
+  "illustrator": "UK",
+  "level": "EZ Lv.?",
+  "name": "贝贝",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

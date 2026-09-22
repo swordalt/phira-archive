@@ -1,0 +1,102 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:22Z",
+    "lastChanged": "2026-09-22T01:16:22Z",
+    "localBackup": {
+      "asset": "14221.zip",
+      "files": [
+        {
+          "path": "42890035.jpg",
+          "sha256": "49bbe8903c9bdeadd508739a76f85bd446e54489e37dc6f3105d7025f77508f8",
+          "size": 188089
+        },
+        {
+          "path": "42890035.json",
+          "sha256": "3b2747ec78eb8c2dd1f7bf49dedd610d0279356e194d2811bf069a8acd011635",
+          "size": 8076868
+        },
+        {
+          "path": "42890035.mp3",
+          "sha256": "9252a1d49c166a093a0b8b495a604058f199c30091edec73da7e9a0786d9570a",
+          "size": 2828328
+        },
+        {
+          "path": "gunboss.png",
+          "sha256": "f752c12a70bbd4c8eeaef2f68eedf45c15c89f13ee94fc3423a79be8efa3d6df",
+          "size": 830810
+        },
+        {
+          "path": "gunfu.png",
+          "sha256": "59018b23a3588bb96ca724ffe4c8bff1c54fbb287bf17718df354db0cb5a61a4",
+          "size": 485210
+        },
+        {
+          "path": "info.txt",
+          "sha256": "de117cc9578a53244608d2247ce13d01fa991ea6fc24ff548b910d1e51aa1704",
+          "size": 238
+        },
+        {
+          "path": "info.yml",
+          "sha256": "2b346cd94248b37fb360bef4d9b6a85b4af00aecce1e0172b40ecfbedec69e16",
+          "size": 1308
+        },
+        {
+          "path": "lizitou.png",
+          "sha256": "28672adec34252f27e2afd00ee9d8b58a776b727d83ef5939901bbe828d4ed0d",
+          "size": 623220
+        },
+        {
+          "path": "shuodedaoli.png",
+          "sha256": "b8c5428f3f573566bbe27f1bd3365b5ee6cd2f7a9d03ebb4699731410ea4630b",
+          "size": 572558
+        },
+        {
+          "path": "waao.png",
+          "sha256": "4f69ce40ff1ada541bd59cb3fb219974942314b0f13603d1c44700d5902647cd",
+          "size": 497676
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "42890035.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "42890035.jpg",
+        "lineLength": 6.0,
+        "music": "42890035.mp3",
+        "offset": 0.0,
+        "previewEnd": 91.0,
+        "previewStart": 74.0,
+        "tip": "Tips:传说鸠看完这张谱子第二天就坐上了轮椅",
+        "unlockVideo": null
+      },
+      "release": "backup-14000-14999",
+      "sha256": "c2005c8759bb1eb4cdce0e4dc01ea2f2a7fb461ad2b8c1b575431bdd8e18c714",
+      "size": 14105301,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14221.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-27T06:12:03.950649Z",
+  "charter": "我ら梦幻と共に冰む者なり",
+  "composer": "默雪SilentSnow",
+  "created": "2024-01-26T18:37:00.397095Z",
+  "description": "新人谱师第12张谱，制冰器选集魔王\n不好意思，让大家久等了，这次的谱子我肝了好久才做出来，质量比较差，也来不及准备视频背景，而且特效比较花眼睛，大家伙见谅一下\n烂活继续整，以后制冰器选集将正式填坑成为一个系列集，后续将持续更新更多电棍音mad和人力作品，大家敬请期待！\n最后，祝大家玩得开心，制谱不易，还望给个五星好评OwO，爱你们呦！\n光敏性癫痫慎入，内含闪光\n记得在B站关注@梦幻不限量\n另：于2024.1.27进行了一次改谱",
+  "difficulty": 16.900002,
+  "id": 14221,
+  "illustrator": "默雪SilentSnow",
+  "level": "AT Lv.16",
+  "name": "♿️祈 -我ら神祖と共に歩む者なり-♿️",
+  "tags": [
+    "OTTO",
+    "otto",
+    "故事版",
+    "电棍",
+    "troll"
+  ],
+  "updated": "2024-01-27T06:12:03.950649Z",
+  "uploader": 565793
+}

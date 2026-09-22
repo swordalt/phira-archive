@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:04:02Z",
+    "lastChanged": "2026-09-22T01:04:02Z",
+    "localBackup": {
+      "asset": "4716.zip",
+      "files": [
+        {
+          "path": "36560849.jpg",
+          "sha256": "fbaf39b773ea1d353aef01149007758eb05b4b969787ce0efe471130043a33cd",
+          "size": 49544
+        },
+        {
+          "path": "36560849.json",
+          "sha256": "b3930b8ec86a4f77ae1ced5ff1e76339a2a3a3700c4061ba334e9e5d8ebc8eda",
+          "size": 114680
+        },
+        {
+          "path": "36560849.mp3",
+          "sha256": "153a58ef27abdfda7485ac9170501b22bcd16a68e88d227bfa94d9ebe6024ef1",
+          "size": 6320631
+        },
+        {
+          "path": "info.txt",
+          "sha256": "cc939ef345c1295486f29855866515e840524f2d0be484e4632aadd5a2bc58ea",
+          "size": 157
+        },
+        {
+          "path": "info.yml",
+          "sha256": "68e5c67a7c2103fb9c7fd94133929368d7aad099e867710fd3a3c93f47531737",
+          "size": 438
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "36560849.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "36560849.jpg",
+        "lineLength": 6.0,
+        "music": "36560849.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tips：无理7k，等您来战"
+      },
+      "release": "backup-4000-4999",
+      "sha256": "6f21acbe9b468340d481c415b8124ac6360e808808a43270f172c50e0bb80f1b",
+      "size": 6485958,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-4000-4999/4716.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "A_xie_A",
+  "composer": "Raimukun",
+  "created": null,
+  "description": "",
+  "difficulty": 17.9,
+  "id": 4716,
+  "illustrator": "UK",
+  "level": "AT LV.17",
+  "name": "Avantgarde",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

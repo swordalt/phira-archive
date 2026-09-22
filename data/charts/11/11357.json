@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:11Z",
+    "lastChanged": "2026-09-22T01:11:11Z",
+    "localBackup": {
+      "asset": "11357.zip",
+      "files": [
+        {
+          "path": "6315876.json",
+          "sha256": "2cc21b1aad1a6de1cf4074372d493e7d4320d8deb4e032cffd647aceebe3c58b",
+          "size": 517318
+        },
+        {
+          "path": "6315876.wav",
+          "sha256": "f7c2a7a3749f0ebe1b8558ab8988cb8a594b9b2261358c574e5469e02f9ff7d4",
+          "size": 31660832
+        },
+        {
+          "path": "info.txt",
+          "sha256": "6125577a1fcaebd169183c864268cd5d5e4dc9dcb47fc4e381e7eed69706b6fd",
+          "size": 165
+        },
+        {
+          "path": "info.yml",
+          "sha256": "9880dbc37a3a85a33f6a9ae8a20df1291ccd3f1f74c87d0f8b01e796024eb1db",
+          "size": 554
+        },
+        {
+          "path": "retouch_2023103001164109.jpg",
+          "sha256": "79fdb0669078e841fec0de53c0c928e866b8ca0a21855131dac2ead61dba6465",
+          "size": 118060
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "6315876.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "retouch_2023103001164109.jpg",
+        "lineLength": 6.0,
+        "music": "6315876.wav",
+        "offset": 0.0,
+        "previewEnd": 128.0,
+        "previewStart": 113.0,
+        "tip": "Silence"
+      },
+      "release": "backup-11000-11999",
+      "sha256": "1e6e8a9076782f1154628a0a05e84e8eb05222cbc598405672d32b679184bb89",
+      "size": 32297465,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11357.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-11T07:57:41.139724Z",
+  "charter": "唉2333",
+  "composer": "かめりあ",
+  "created": "2023-11-11T07:57:41.139724Z",
+  "description": "真的很难\n会在B站上传",
+  "difficulty": 16.6,
+  "id": 11357,
+  "illustrator": "唉2333",
+  "level": "AT Lv.16",
+  "name": "Dance with Silence",
+  "tags": [],
+  "updated": "2023-11-11T07:57:41.139724Z",
+  "uploader": 23821
+}

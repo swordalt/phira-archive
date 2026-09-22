@@ -1,0 +1,76 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:25:48Z",
+    "lastChanged": "2026-09-22T01:25:48Z",
+    "localBackup": {
+      "asset": "20743.zip",
+      "files": [
+        {
+          "path": "98184479.json",
+          "sha256": "efff543e729435de7d7395c061520251532a01b0e87329e354670cadd9be611e",
+          "size": 1530951
+        },
+        {
+          "path": "98184479.mp3",
+          "sha256": "4a2ec4b679baa2c63a051bf50aa624622402b3765df82012c50ccafb9dd76528",
+          "size": 2414960
+        },
+        {
+          "path": "98184479.png",
+          "sha256": "83e82532bdc414d9d6239b8f814fa61ce01a5f0b0fc179255576c5c3614b559b",
+          "size": 1060953
+        },
+        {
+          "path": "info.txt",
+          "sha256": "0fd1a9a5f4cf1025b1bc53938c1a788207215eec3ec574ebe86d1adc9183a591",
+          "size": 179
+        },
+        {
+          "path": "info.yml",
+          "sha256": "726a83bf948eaaa2cd96d73dad18472ce72852697afbcc9f5bb01493769981ca",
+          "size": 922
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.8000001,
+        "chart": "98184479.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "98184479.png",
+        "lineLength": 6.0,
+        "music": "98184479.mp3",
+        "offset": 0.0,
+        "previewEnd": 57.0,
+        "previewStart": 44.0,
+        "tip": "Tip: O - I - I - A - I - O - O - O - O - O - I - A - I",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "8f30d4c786e85f9ca33b5fb7e222eb91acfd652720d67ababd43b1286f7fd11e",
+      "size": 5008473,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20743.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-02T18:34:53.512646Z",
+  "charter": "Foxtroiiaioooooiait",
+  "composer": "鱼头FishHead",
+  "created": "2024-06-02T18:34:53.512646Z",
+  "description": "This is my first finished chart - nothing more, nothing less.\r\n——————————————————\r\nMade with RPE v1.4.0\r\nTotal Lines: 16\r\nEvents: 2700+\r\n——————————————————\r\nDiscord: @lorzitz\r\nYouTube: @lorzitz\r\n(aka. Foxtrot)",
+  "difficulty": 15.1,
+  "id": 20743,
+  "illustrator": "鱼头FishHead",
+  "level": "IN Lv. 15",
+  "name": "OIIAIOOOOOIAI",
+  "tags": [
+    "funny",
+    "cat",
+    "psytrance",
+    "regular"
+  ],
+  "updated": "2024-06-02T18:34:53.512646Z",
+  "uploader": 590
+}

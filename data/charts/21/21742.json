@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:28:48Z",
+    "lastChanged": "2026-09-22T01:28:48Z",
+    "localBackup": {
+      "asset": "21742.zip",
+      "files": [
+        {
+          "path": "47562522.jpg",
+          "sha256": "733ede3708c0adc66975d82569f628705daf64691f4174b4a1704c6b5d632e11",
+          "size": 166261
+        },
+        {
+          "path": "47562522.json",
+          "sha256": "dda4378e452813f4663ec4c881ae0f614ed1a62d853be3193c2c427c0d5b1d5f",
+          "size": 2292451
+        },
+        {
+          "path": "47562522.mp3",
+          "sha256": "133a7fd7f458f8446885d01bc67465bd0e003375981f4f646d37dbe4a07da26c",
+          "size": 6194759
+        },
+        {
+          "path": "info.txt",
+          "sha256": "9252fb21fa7d7c068da052db27f8d830ce39ac9fdc485d6b0e01701679b76f36",
+          "size": 157
+        },
+        {
+          "path": "info.yml",
+          "sha256": "71c2544fb040995c2c8653f854c43d2fbeb24a38e4ced6f5b862343581894ea6",
+          "size": 587
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.49999988,
+        "chart": "47562522.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "47562522.jpg",
+        "lineLength": 6.0,
+        "music": "47562522.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "没有tips",
+        "unlockVideo": null
+      },
+      "release": "backup-21000-21999",
+      "sha256": "bc4d6651503bd1f2316090a0baa52668193a4fc58da2ae1ce131b161cae7b6ea",
+      "size": 8654723,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-21000-21999/21742.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-23T03:25:07.077968Z",
+  "charter": "GriM Treepig",
+  "composer": "Puru",
+  "created": "2024-06-23T03:25:07.077968Z",
+  "description": "谱师本人上传，谱面视频已上传至bilibili  BV1VM4m1m7M4",
+  "difficulty": 12.400001,
+  "id": 21742,
+  "illustrator": "Puru",
+  "level": "IN  Lv.?",
+  "name": "Grimheart",
+  "tags": [],
+  "updated": "2024-06-24T01:20:16.215001Z",
+  "uploader": 340260
+}

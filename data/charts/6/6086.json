@@ -1,0 +1,92 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:15Z",
+    "lastChanged": "2026-09-22T01:06:15Z",
+    "localBackup": {
+      "asset": "6086.zip",
+      "files": [
+        {
+          "path": "13098628.json",
+          "sha256": "5aa7810e23b095dc3a964f9ec8b9b07507042ed694b092b75dcee75e72c41401",
+          "size": 89468
+        },
+        {
+          "path": "13098628.mp3",
+          "sha256": "f375f470470030d6a7cf66add71e6f434dc7c5ecf14df7b3343c06b86bea5911",
+          "size": 4423148
+        },
+        {
+          "path": "13098628.png",
+          "sha256": "420f15e27ce2a3eebe012a4411d9ea7fa7523ea26eb1952c2a91524d6e612a96",
+          "size": 241587
+        },
+        {
+          "path": "info.txt",
+          "sha256": "e5ead11bdf40338aac2a8b75f42ae68bd264ad8665ba844d4209110af251a7fa",
+          "size": 154
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f7a9376801fc263a64e6a45185d0b9015753a0f272883dcca779938b8368c155",
+          "size": 719
+        },
+        {
+          "path": "114514(Ver1.14)/13098628.json",
+          "sha256": "5aa7810e23b095dc3a964f9ec8b9b07507042ed694b092b75dcee75e72c41401",
+          "size": 89468
+        },
+        {
+          "path": "114514(Ver1.14)/13098628.mp3",
+          "sha256": "f375f470470030d6a7cf66add71e6f434dc7c5ecf14df7b3343c06b86bea5911",
+          "size": 4423148
+        },
+        {
+          "path": "114514(Ver1.14)/13098628.png",
+          "sha256": "2624f176dcbf4abe7e2061a7b08584c25639409846e6fe153d0e2ee35ff2acc1",
+          "size": 19803
+        },
+        {
+          "path": "114514(Ver1.14)/info.txt",
+          "sha256": "e5ead11bdf40338aac2a8b75f42ae68bd264ad8665ba844d4209110af251a7fa",
+          "size": 154
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "13098628.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "13098628.png",
+        "lineLength": 6.0,
+        "music": "13098628.mp3",
+        "offset": 0.0,
+        "previewEnd": 10.0,
+        "previewStart": 0.0,
+        "tip": "Tips:1145141919810"
+      },
+      "release": "backup-6000-6999",
+      "sha256": "1c4f9b9ac5f6bb13509d9420ad57ec321c68969fdfedf43e241c100cdd2a4291",
+      "size": 9288679,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6086.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-25T20:16:51.187528Z",
+  "charter": "LittleLucky",
+  "composer": "Vicho",
+  "created": "2023-07-25T20:16:51.187528Z",
+  "description": "谱师本人上传，B站ID为：LittleLuck四叶草，谱面视频BV：BV1eg411b7PJ\n本人的第二张谱，写谱技术力低，有点粪量在里面（悲），轻喷，后面会陆续更新谱面",
+  "difficulty": 14.500002,
+  "id": 6086,
+  "illustrator": "〔114514〕",
+  "level": "IN Lv.14",
+  "name": "114514",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-07-25T20:16:51.187528Z",
+  "uploader": 922
+}

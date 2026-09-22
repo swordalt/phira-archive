@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:04:07Z",
+    "lastChanged": "2026-09-22T01:04:07Z",
+    "localBackup": {
+      "asset": "4768.zip",
+      "files": [
+        {
+          "path": "94216925.jpg",
+          "sha256": "40284cc35e57f1e421700fd0f33e25e97da66084daa15b60e2ec47ce6037e0b2",
+          "size": 323868
+        },
+        {
+          "path": "94216925.json",
+          "sha256": "f526cb3484ace00550e3fdc28fe0e82f5563a93980b0cd6eff39a153f50c9d92",
+          "size": 2042905
+        },
+        {
+          "path": "94216925.mp3",
+          "sha256": "be54268c181544fc39e3927209180e6f5397845de2e80a0d823e9d0e191d61f5",
+          "size": 5106486
+        },
+        {
+          "path": "info.txt",
+          "sha256": "331739890e25b091d61d7664a07291982e7b122c72fb5ff057e986fb8719a540",
+          "size": 146
+        },
+        {
+          "path": "info.yml",
+          "sha256": "d54aceb04309d3ea52dae689e4ded6d197bf0770e6595f6412816f36d6ebfc7d",
+          "size": 520
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "94216925.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "94216925.jpg",
+        "lineLength": 6.0,
+        "music": "94216925.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-4000-4999",
+      "sha256": "0de5a104b217a116fdb140fc2cbb6bfd86e24fb4076f3914862bd86038f6a6d2",
+      "size": 7474433,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-4000-4999/4768.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-07T12:23:36.748275Z",
+  "charter": "HY",
+  "composer": "Hinkik&A Himitsu",
+  "created": "2023-07-06T07:55:06.355936Z",
+  "description": "谱师本人上传，b站名HevoY",
+  "difficulty": 14.500002,
+  "id": 4768,
+  "illustrator": "藤原",
+  "level": "IN Lv.14",
+  "name": "Realms",
+  "tags": [],
+  "updated": "2023-07-07T12:23:36.748275Z",
+  "uploader": 1247
+}

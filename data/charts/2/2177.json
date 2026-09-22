@@ -1,0 +1,65 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:00Z",
+    "lastChanged": "2026-09-22T01:03:00Z",
+    "localBackup": {
+      "asset": "2177.zip",
+      "files": [
+        {
+          "path": "Chart_AT.pec",
+          "sha256": "23744fae7d41a9596c739d3c36b6f9ff0c317bd74bfd2e65e0dbe5abe4eac184",
+          "size": 226324
+        },
+        {
+          "path": "info.yml",
+          "sha256": "445b25fa22bcc4e47bc89c73724d12e5b781599b9b3daf5a55e6efa092860d8e",
+          "size": 486
+        },
+        {
+          "path": "music.mp3",
+          "sha256": "b2837dbf0de8b687cc209bd3f182791319a9451cfcb3954875ecb74199ffbbc7",
+          "size": 7885147
+        },
+        {
+          "path": "rag.jpg",
+          "sha256": "d2f98967c5e8abdd4f6745a934c97718527749d02690c4cd52a7513b3d8de0cb",
+          "size": 187606
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "Chart_AT.pec",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "rag.jpg",
+        "lineLength": 6.0,
+        "music": "music.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-2000-2999",
+      "sha256": "f07172b206d048a437aad6977f0dd236647358c2b60a1a56dc6622c3acdf6a47",
+      "size": 8299961,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-2000-2999/2177.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-05-16T13:11:31.832154Z",
+  "charter": "La certa",
+  "composer": "DJ Genki vs. Camellia",
+  "created": "2023-05-16T13:11:31.832154Z",
+  "description": "",
+  "difficulty": 18.2,
+  "id": 2177,
+  "illustrator": "osu",
+  "level": "AT Lv.18",
+  "name": "Ragnarok",
+  "tags": [],
+  "updated": "2023-05-20T12:46:10.740962Z",
+  "uploader": 12997
+}

@@ -1,0 +1,85 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:22:42Z",
+    "lastChanged": "2026-09-22T01:22:42Z",
+    "localBackup": {
+      "asset": "19327.zip",
+      "files": [
+        {
+          "path": "63358862.json",
+          "sha256": "8ad7388715fe705bcf2d06d0297e9a95c238e01388c11df6a2d597bc6f96bd90",
+          "size": 488662
+        },
+        {
+          "path": "63358862.mp3",
+          "sha256": "d860b7c7352a474ab2d8e7dd8d4bed07437397f904665e4aab253bdc31433675",
+          "size": 3617974
+        },
+        {
+          "path": "63358862.png",
+          "sha256": "c571abc820d74117bf5b16fdb09a1edcddd5c222bfdcfb7b6f34e08a8a52c4cd",
+          "size": 1622931
+        },
+        {
+          "path": "blue.png",
+          "sha256": "d432d74cb12e4127b56817731b6bf068c5cf99a62bde46c7b18eb5d6ba9a372c",
+          "size": 29332
+        },
+        {
+          "path": "extra.json",
+          "sha256": "13f20ca73bf631ca3dcb670d5f62482d764523e17d9c909a02575ff289133bde",
+          "size": 3137
+        },
+        {
+          "path": "info.txt",
+          "sha256": "fa0c1b06bbaae4f1ae19edaeffddc60e94d382dfd38cdeae6d2a732540e0acbc",
+          "size": 179
+        },
+        {
+          "path": "info.yml",
+          "sha256": "75f5c3cb507d3e8b7a8c6cbf797c454fc04185a6c253a6786a2a1a5542c20e69",
+          "size": 706
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.0,
+        "chart": "63358862.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "63358862.png",
+        "lineLength": 6.0,
+        "music": "63358862.mp3",
+        "offset": 0.06,
+        "previewEnd": 103.8,
+        "previewStart": 83.8,
+        "tip": "醒醒吧，芙宁娜，真正的水神，或许已经不在了吧",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "eb8f2ebe01e59314e071efaca1945e05572376d8564111472fdc550b431641f2",
+      "size": 5763617,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19327.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-03T02:38:10.659976Z",
+  "charter": "天才威玩游戏",
+  "composer": "HOYO-MIX",
+  "created": "2024-05-03T02:38:10.659976Z",
+  "description": "作者本人上传，未经授权禁止转载，如需发布B站等平台请标明原作者",
+  "difficulty": 12.7,
+  "id": 19327,
+  "illustrator": "miHoYo",
+  "level": "IN  Lv.12",
+  "name": "轻涟 La vaguelette",
+  "tags": [
+    "原神",
+    "芙芙",
+    "regular"
+  ],
+  "updated": "2024-05-03T02:38:10.659976Z",
+  "uploader": 74184
+}

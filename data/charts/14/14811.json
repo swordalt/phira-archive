@@ -1,0 +1,131 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:10Z",
+    "lastChanged": "2026-09-22T01:17:10Z",
+    "localBackup": {
+      "asset": "14811.zip",
+      "files": [
+        {
+          "path": "2021_beam.png",
+          "sha256": "67738678073552fe924cde70f568e830d12afe36bf3e3aab07e5e7f0015715e8",
+          "size": 174097
+        },
+        {
+          "path": "91365195.json",
+          "sha256": "41962acf0b7f53810efbed60a30ca07f72a0e16be914127c12c31d5be5430c2f",
+          "size": 4747625
+        },
+        {
+          "path": "91365195.ogg",
+          "sha256": "44397b60b2f1f39f15aea72f53b529a39e8b69b32b049e046d9475e1b4f4a55d",
+          "size": 2770832
+        },
+        {
+          "path": "91365195.png",
+          "sha256": "333425b3dc64c732d899c457c0ea0a2f475ead0142b1e5b19fdf2585ea059f7e",
+          "size": 3228297
+        },
+        {
+          "path": "Bloom.fs",
+          "sha256": "eeadecb84ab151177e7fe41a8b8ef611422851f4c7aaaebad84bfc53c084ff9c",
+          "size": 702
+        },
+        {
+          "path": "D_light.png",
+          "sha256": "c809295c9412563c6176b9892d9ff40c56102c3692621cb5d54c5fa8fb5b1732",
+          "size": 213105
+        },
+        {
+          "path": "D_particles.png",
+          "sha256": "c4014d1efd58f0c74a941854ee5675ee1600aecb8c2f94fb261d25f3943d86c9",
+          "size": 85019
+        },
+        {
+          "path": "E_BG.png",
+          "sha256": "92f7333188ed450d775cd023a5ba3a7f3fc3791f4299921bdb87443dff3f0e3b",
+          "size": 692122
+        },
+        {
+          "path": "MoveCamera.fs",
+          "sha256": "5e052e90c915312af765eef448f524b617b77978e85fa200cfc90d55aeae0a91",
+          "size": 881
+        },
+        {
+          "path": "N_light.png",
+          "sha256": "b608cecfe8498000315ac3d4938cc07089eba42d6cc0f15f5342efee5f86bcba",
+          "size": 749918
+        },
+        {
+          "path": "N_particles.png",
+          "sha256": "6c59c167d0c67e47aa1b8635ec1b3a8bcf65e538b6b74b4bd7b1f45b93b133d1",
+          "size": 85484
+        },
+        {
+          "path": "N_speedlight.png",
+          "sha256": "b9a4e50a4971ee4c617fc5225732aa3891fc29bf18c026153b9354849076a5b0",
+          "size": 803180
+        },
+        {
+          "path": "extra.json",
+          "sha256": "41e29ab796c8e3487ad0899b314e7fcca085e55becbe6cb308ff26532a045560",
+          "size": 19587
+        },
+        {
+          "path": "gradient.png",
+          "sha256": "f01f0c2794e1dc285a8838495119b2291d2e7d726482c0c5d345cb0e69d8d8ec",
+          "size": 154284
+        },
+        {
+          "path": "imageBlur.png",
+          "sha256": "d89da9cc3f86a6b4e9aaa7ae0b045cbe43c53c85e25ae5aaea07c4016944bb0c",
+          "size": 892523
+        },
+        {
+          "path": "info.txt",
+          "sha256": "97afae440063648627f70da967d31473cca682343eb6f816852363fb841caac4",
+          "size": 171
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f3c9001a313d2b725e61cf02bce03465f680adcfc72fc71ed32a44809110eead",
+          "size": 679
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "91365195.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "91365195.png",
+        "lineLength": 6.0,
+        "music": "91365195.ogg",
+        "offset": 0.06,
+        "previewEnd": 72.0,
+        "previewStart": 52.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-14000-14999",
+      "sha256": "133f7a4496aee61a77636b19899157912f9ec4060e6f333711cd83c00cd01384",
+      "size": 14620216,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14811.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-04T16:47:57.253040Z",
+  "charter": "YukiNeko X Hua (ft.ven)",
+  "composer": "Harunao X Kanna",
+  "created": "2024-02-04T16:47:57.253040Z",
+  "description": "Song approved for use by Harunao\nfor \"Endless Adventure - Spring 2024\" event on Phira\nHarunao X NILLAWORKs\n©Harunao & Kanna",
+  "difficulty": 15.700002,
+  "id": 14811,
+  "illustrator": "Harunao's Friend",
+  "level": "AT Lv.15",
+  "name": "DELTA CORE",
+  "tags": [],
+  "updated": "2024-02-04T16:47:57.253040Z",
+  "uploader": 614766
+}

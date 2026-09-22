@@ -1,0 +1,82 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:28:54Z",
+    "lastChanged": "2026-09-22T01:28:54Z",
+    "localBackup": {
+      "asset": "21893.zip",
+      "files": [
+        {
+          "path": "60800047.jpg",
+          "sha256": "b0d74188b5bc212fe4aa2da4e5f17debc9f5a1e1796aaa7f8288fb7dbbdcf90c",
+          "size": 147119
+        },
+        {
+          "path": "60800047.json",
+          "sha256": "5055c230e57b712a22ea9a38d1f85c7f084c5ce904c7a6ce73fa25108085fd8d",
+          "size": 432772
+        },
+        {
+          "path": "60800047.mp3",
+          "sha256": "b0f87c2519b805acaa8f3ade2f3ff522f9d378d28c08dd8753d240507ade7859",
+          "size": 1364285
+        },
+        {
+          "path": "gangqin.png",
+          "sha256": "220a353a93624739ee84ebf93abfd436c3f4a62f40e2f241e1eb0d136215f5d6",
+          "size": 133276
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d50947c1dcf79c7fb76b6dfa0ac7ac8fd36426e783a2baafb271aacb7772a604",
+          "size": 176
+        },
+        {
+          "path": "info.yml",
+          "sha256": "067a7e450904980e3333b7e244dab2b5142424a5a059a28e659bf0210d38de71",
+          "size": 891
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "60800047.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "60800047.jpg",
+        "lineLength": 6.0,
+        "music": "60800047.mp3",
+        "offset": 0.0,
+        "previewEnd": 47.0,
+        "previewStart": 31.0,
+        "tip": "Tip：建议使用1.77778（即比例为16:9）进行游玩以获得最佳体验",
+        "unlockVideo": null
+      },
+      "release": "backup-21000-21999",
+      "sha256": "7c4c8d43da9bc5aabcdbbb0f5c61cceb45058831d6ca5952a4fe71987234b265",
+      "size": 2079125,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-21000-21999/21893.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-25T05:15:04.085921Z",
+  "charter": "白涧君OvO",
+  "composer": "Cheetah Moblie",
+  "created": "2024-06-25T05:15:04.085921Z",
+  "description": "建议用16:9（即1.77778）比例来游玩此谱！\n个人第二张整活谱，可能有点半但是由于BPM的原因，该谱采音可能会有部分不准的地方。\nB站同名，以后应该会按照大家的意见来修改此谱。",
+  "difficulty": 0.0,
+  "id": 21893,
+  "illustrator": "原游戏截图",
+  "level": "SP Lv.?",
+  "name": "钢琴 The Piano",
+  "tags": [
+    "钢琴",
+    "跳舞的线",
+    "DL",
+    "",
+    "troll"
+  ],
+  "updated": "2024-06-25T05:15:04.085921Z",
+  "uploader": 39297
+}

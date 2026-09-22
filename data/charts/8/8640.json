@@ -1,0 +1,87 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:24Z",
+    "lastChanged": "2026-09-22T01:08:24Z",
+    "localBackup": {
+      "asset": "8640.zip",
+      "files": [
+        {
+          "path": "5159675.json",
+          "sha256": "02ddb14cb1930f798bfa524889648570871c58f3ea1f59b418b4090fd08ee5b5",
+          "size": 4844138
+        },
+        {
+          "path": "5159675.mp3",
+          "sha256": "8236487011388119806c3b2114b6ac8b9edfdddfa66029847ad4e2e81588fa2b",
+          "size": 3935991
+        },
+        {
+          "path": "5159675.png",
+          "sha256": "59b5ee3fba27e17a7fa9589880219104794254b23c4830ee2d5f6b764f3a4158",
+          "size": 121661
+        },
+        {
+          "path": "aaaa.png",
+          "sha256": "b67e2eb03426922cfcede7a437294205f93a2aba4cadbf21942b5a615b727b3e",
+          "size": 24151
+        },
+        {
+          "path": "bbbb.png",
+          "sha256": "d0005a625867081030442062e5574b8a5804277884e08c58185700c67ede7cc0",
+          "size": 12057
+        },
+        {
+          "path": "info.txt",
+          "sha256": "13223dc172566b8f102f6a250e508abfd26e713b5fcdabf6c3bb182f3101657a",
+          "size": 220
+        },
+        {
+          "path": "info.yml",
+          "sha256": "e51b51b5c03311a528da61dc94cce15b5f6a1c5ede62af1542bb659afbbafad1",
+          "size": 691
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 1.0,
+        "chart": "5159675.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "5159675.png",
+        "lineLength": 6.0,
+        "music": "5159675.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "我有抑郁症"
+      },
+      "release": "backup-8000-8999",
+      "sha256": "31c7075dc361921c3a60afc69d17db625f441d70ba4d5f46a9425149fbb18081",
+      "size": 8939595,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-8000-8999/8640.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-28T18:33:17.818707Z",
+  "charter": "NEKOYOvs.鳝丝大爹",
+  "composer": "EndCat-终猫",
+  "created": "2023-08-28T18:33:17.818707Z",
+  "description": "原视频请到B站去搜NEKOYO_NKY喵",
+  "difficulty": 0.0,
+  "id": 8640,
+  "illustrator": "EndCat-终猫",
+  "level": "The Fake IN.114514",
+  "name": "星相运轨-The Fake of EndCat-(Badcore Mix)",
+  "tags": [
+    "观赏",
+    "光敏性癫痫别打",
+    "我有抑郁症",
+    "我有易欲症",
+    "我有玉米症",
+    "troll"
+  ],
+  "updated": "2023-08-28T18:33:17.818707Z",
+  "uploader": 8351
+}

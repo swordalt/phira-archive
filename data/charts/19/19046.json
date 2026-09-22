@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:22:12Z",
+    "lastChanged": "2026-09-22T01:22:12Z",
+    "localBackup": {
+      "asset": "19046.zip",
+      "files": [
+        {
+          "path": "38048459.jpeg",
+          "sha256": "0aed6eedcc076d6cc0331b0c4edc16290953a0a37300cccc887b7c790be7c5d4",
+          "size": 6237
+        },
+        {
+          "path": "38048459.json",
+          "sha256": "4138c4778ba3fb1ee4f31e8aed5eeeab12b984b3edc4962421c6f7f1a3142d74",
+          "size": 6406794
+        },
+        {
+          "path": "38048459.mp3",
+          "sha256": "8b2d5c981a29e796d0ecd707eb1b71a6450d75a6e61664957e3ffa635e0cb3e6",
+          "size": 966464
+        },
+        {
+          "path": "info.txt",
+          "sha256": "7d2f8ffca953fc2aa9736c9244e0acd9737849bc3c9c75c33f0d4912db210c86",
+          "size": 183
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5af65a9ec4c0eb2b4f6ec894182efd182529b096ceef69bf98c2d342d751556a",
+          "size": 489
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "38048459.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "38048459.jpeg",
+        "lineLength": 6.0,
+        "music": "38048459.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tips:榜一你是不是怪物？(",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "babe38c212aeafc4c11dafcfed92deb661e4a6ff449f94ebea701e86edc958d5",
+      "size": 7380677,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19046.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "OIIAIOIIIAI黑_胶_",
+  "composer": "黑瘦的鱼头",
+  "created": null,
+  "description": "",
+  "difficulty": 10.0,
+  "id": 19046,
+  "illustrator": "UK",
+  "level": "SP Lv.OIIAIOIIIAI",
+  "name": "OIIAIOIIIAI",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

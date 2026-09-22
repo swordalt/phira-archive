@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:00Z",
+    "lastChanged": "2026-09-22T01:07:00Z",
+    "localBackup": {
+      "asset": "6834.zip",
+      "files": [
+        {
+          "path": "38868119.jpg",
+          "sha256": "397c81e98bb460526e327f8727b11f5fd29a153c572fc9c10c568e8163a3a60c",
+          "size": 242084
+        },
+        {
+          "path": "38868119.json",
+          "sha256": "a1dcdfb4453ef683775450ce2e7afd7c3601a2e3263fb0e3212fe055d269a458",
+          "size": 1987321
+        },
+        {
+          "path": "38868119.mp3",
+          "sha256": "802a15b98c16a1206f7faad6cbc41e69455618c9cf88797d744277ccd4670c1f",
+          "size": 3193795
+        },
+        {
+          "path": "info.txt",
+          "sha256": "81c06254cd34568138ba88d2dfcc4a3ebc7eafd629ffe7749993f5445e7dda3a",
+          "size": 171
+        },
+        {
+          "path": "info.yml",
+          "sha256": "67e7474aae5924f209add671b86b543359b318ff785d657c4268e6714e3f854e",
+          "size": 581
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "38868119.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "38868119.jpg",
+        "lineLength": 6.0,
+        "music": "38868119.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "热爱105℃的你，滴滴清纯的蒸馏水～"
+      },
+      "release": "backup-6000-6999",
+      "sha256": "a553d71e55b283c378a26cf9b4e69e2aa1310f31061b20ce4984f35249133e1e",
+      "size": 5424460,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6834.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-04T16:47:56.101142Z",
+  "charter": "热爱LPI的你",
+  "composer": "阿肆",
+  "created": "2023-08-04T16:47:56.101142Z",
+  "description": "本人上传\nbilibili @LPI_",
+  "difficulty": 13.0,
+  "id": 6834,
+  "illustrator": "不知道awa",
+  "level": "IN Lv.13",
+  "name": "热爱105°C的你",
+  "tags": [],
+  "updated": "2023-08-04T16:47:56.101142Z",
+  "uploader": 7084
+}

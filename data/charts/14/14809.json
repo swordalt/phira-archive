@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:05Z",
+    "lastChanged": "2026-09-22T01:17:05Z",
+    "localBackup": {
+      "asset": "14809.zip",
+      "files": [
+        {
+          "path": "8094631.jpg",
+          "sha256": "eb2ee6aa79a97621c45e17be18cb8021207f069190ced54e3612a0bca9780040",
+          "size": 114935
+        },
+        {
+          "path": "8094631.json",
+          "sha256": "97cfbf5c290a281658ba9946ffe50322bd59f7003076c45a5635834c35d2afc3",
+          "size": 3026003
+        },
+        {
+          "path": "8094631.ogg",
+          "sha256": "5eeeff865cb3494e7dd5de0c4ddd8c5018c1d73076c60b15f31fdbe912ba2138",
+          "size": 5122597
+        },
+        {
+          "path": "info.txt",
+          "sha256": "3b5a064212faadde53cefd4bd5e5d7f1c945b6fa0212cbc9a7d21712e86f6d68",
+          "size": 161
+        },
+        {
+          "path": "info.yml",
+          "sha256": "665a70f82ff91b2224f4b03e948b7fade40a0adc68961c49fa4e48b040842d88",
+          "size": 620
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "8094631.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "8094631.jpg",
+        "lineLength": 6.0,
+        "music": "8094631.ogg",
+        "offset": 0.025,
+        "previewEnd": 57.0,
+        "previewStart": 42.0,
+        "tip": null
+      },
+      "release": "backup-14000-14999",
+      "sha256": "a3167d99a54a897bae8d422e66e4567f49178eedc1d5ff98921791ad39d4cfcb",
+      "size": 8264818,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14809.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-04T16:47:23.731036Z",
+  "charter": "Mojira with hUa",
+  "composer": "PoppoOVO",
+  "created": "2024-02-04T16:47:23.731036Z",
+  "description": "Song approved for use by Uyuki\nfor \"Endless Adventure - Spring 2024\" event on Phira\nUyuki X NILLAWORKs\n©Uyuki",
+  "difficulty": 14.700001,
+  "id": 14809,
+  "illustrator": "镜玲",
+  "level": "IN Lv.14",
+  "name": "Be With Me",
+  "tags": [],
+  "updated": "2024-02-04T16:47:23.731036Z",
+  "uploader": 614766
+}

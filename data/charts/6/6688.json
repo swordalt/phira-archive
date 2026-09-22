@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:51Z",
+    "lastChanged": "2026-09-22T01:06:51Z",
+    "localBackup": {
+      "asset": "6688.zip",
+      "files": [
+        {
+          "path": "45302023.json",
+          "sha256": "d87e34d98e271f87bd35b3fc946880d064e231507e6936e71ae6216377d20929",
+          "size": 824216
+        },
+        {
+          "path": "45302023.mp3",
+          "sha256": "4e44cd262af45167b3083d9faa3b10ae3aec1ea0c02639f945e7fd244aaa7151",
+          "size": 6757567
+        },
+        {
+          "path": "45302023.png",
+          "sha256": "e2b36b0997aa6bb253397a07b556fe064273d343f2ab84fa1c64aa15be02b8e9",
+          "size": 1568274
+        },
+        {
+          "path": "info.txt",
+          "sha256": "71bc73630466f4960a57916e83090721df0be7665b081a84a60003c551f0328b",
+          "size": 174
+        },
+        {
+          "path": "info.yml",
+          "sha256": "fb8f9a721eeb552a29a7ca329a11a7e91b9b59ad5443b9bf002a079f05eed546",
+          "size": 437
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "45302023.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "45302023.png",
+        "lineLength": 6.0,
+        "music": "45302023.mp3",
+        "offset": 0.0,
+        "previewEnd": 39.0,
+        "previewStart": 24.0,
+        "tip": null
+      },
+      "release": "backup-6000-6999",
+      "sha256": "8ad88f5ea91fd6a8a2257ca0f7e189937ec8db8695b892ce0e51903dfc79b535",
+      "size": 9151176,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6688.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "挨踢时崎",
+  "composer": "D_AAN,初音ミク",
+  "created": null,
+  "description": "改谱。",
+  "difficulty": 17.1,
+  "id": 6688,
+  "illustrator": "ZG",
+  "level": "AT Lv.17.1",
+  "name": "Another Me",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

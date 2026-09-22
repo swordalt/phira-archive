@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:10:26Z",
+    "lastChanged": "2026-09-22T01:10:26Z",
+    "localBackup": {
+      "asset": "10838.zip",
+      "files": [
+        {
+          "path": "34344771.jpg",
+          "sha256": "965b908c71e7e17792642004b2640020609d406291edb3a61e6a7cfb3c7d3c21",
+          "size": 923594
+        },
+        {
+          "path": "34344771.json",
+          "sha256": "7adda6248f247eee2455d5668353d5136e677261ca7c488f29a2813359441249",
+          "size": 315444
+        },
+        {
+          "path": "34344771.mp3",
+          "sha256": "f6ccf332b3bf2eee7af548fb7169d3ff5501d8d742f78f3e341f6ff35dce25df",
+          "size": 1928920
+        },
+        {
+          "path": "info.txt",
+          "sha256": "e9e162a5a7afb89329e33a75cd4aab1c88ab9077403fdfbb7e02d7e3265e3a89",
+          "size": 187
+        },
+        {
+          "path": "info.yml",
+          "sha256": "37c6ba0fe9f682d5169a425d183f5fe23b6b5b7b59438e40cb2ab0e89153463b",
+          "size": 618
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "34344771.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "34344771.jpg",
+        "lineLength": 6.0,
+        "music": "34344771.mp3",
+        "offset": 0.0,
+        "previewEnd": 110.85,
+        "previewStart": 95.85,
+        "tip": "CODE：！33*34 9# ！97？",
+        "unlockVideo": null
+      },
+      "release": "backup-10000-10999",
+      "sha256": "c16c0312092195fd215e359e6d77604129ff7e8ea37e7bcc70c491b8b6be4b87",
+      "size": 3169271,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-10000-10999/10838.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-06T02:39:34.172469Z",
+  "charter": "AW'LF - The Reason for Disaster",
+  "composer": "水野健治 VS 大国奏音",
+  "created": "2023-10-25T15:49:14.467994Z",
+  "description": "手元B站请@AwlF_",
+  "difficulty": 16.9,
+  "id": 10838,
+  "illustrator": "おぐち",
+  "level": "AT Lv.16",
+  "name": "DA'AT -The First Seeker of Souls-",
+  "tags": [],
+  "updated": "2023-11-06T02:39:34.172469Z",
+  "uploader": 8209
+}

@@ -1,0 +1,81 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:22:23Z",
+    "lastChanged": "2026-09-22T01:22:23Z",
+    "localBackup": {
+      "asset": "19234.zip",
+      "files": [
+        {
+          "path": "68520923.jpg",
+          "sha256": "1767f9f835f56043f0a0892bd65e25c06a5b5f793a960c28449dee8399045e57",
+          "size": 287503
+        },
+        {
+          "path": "68520923.json",
+          "sha256": "c79e438d6008fad7bfa46623301b3c8b618119cef4af45cf51c04e11064fd221",
+          "size": 499783
+        },
+        {
+          "path": "68520923.mp3",
+          "sha256": "e7cb22c0a7cd4a7f01df71387dd8a2bcf6ad0d012fee7d267c3c7cf85ae20005",
+          "size": 1983405
+        },
+        {
+          "path": "AutoSave_2024_4_25_20_12_29_68520923.json",
+          "sha256": "3286b6ffd158e2f62dbaed5b1a346da290b140b7d7f50b887ce6e527980bd564",
+          "size": 147205
+        },
+        {
+          "path": "AutoSave_2024_5_1_8_43_56_68520923.json",
+          "sha256": "85b8631f44e6ed1bd9a01fe87a23b25fd1315ded8dfbb05da2f97154ae87510a",
+          "size": 464303
+        },
+        {
+          "path": "info.txt",
+          "sha256": "a7d119e3a3f5ee2c63c035081ab28d6dd2c7f9ea0642033b7f6862e6c488c467",
+          "size": 193
+        },
+        {
+          "path": "info.yml",
+          "sha256": "00b21f48b0853f3e7b5b9fd30ebc77b4979b2c3b43208edb21b947facb3be06d",
+          "size": 649
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.25,
+        "chart": "68520923.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "68520923.jpg",
+        "lineLength": 6.0,
+        "music": "68520923.mp3",
+        "offset": 6.519258e-09,
+        "previewEnd": 73.15,
+        "previewStart": 62.45,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "52b7e08df830003c5d01a1946bd97f17c70f14c5c1e31237a561e23162a2dbad",
+      "size": 3383861,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19234.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-02T06:55:04.710766Z",
+  "charter": "Qc_Tianshui",
+  "composer": "Ponchi♪ feat.はぁち",
+  "created": "2024-05-02T06:55:04.710766Z",
+  "description": "谱师Qc天水本人上传，B站有号。难的谱不想做了，做个人人都会的",
+  "difficulty": 1.5000001,
+  "id": 19234,
+  "illustrator": "Qc_Tianshui",
+  "level": "EZ Lv.1",
+  "name": "インフェルノシティ",
+  "tags": [],
+  "updated": "2024-05-04T09:36:10.958663Z",
+  "uploader": 342236
+}

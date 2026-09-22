@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:58Z",
+    "lastChanged": "2026-09-22T01:08:58Z",
+    "localBackup": {
+      "asset": "9268.zip",
+      "files": [
+        {
+          "path": "76089989.jpg",
+          "sha256": "a0a80818aa75c01fe65191535e65e24a35727dc8c6f3da3e7a2eb4fc1a7df993",
+          "size": 174337
+        },
+        {
+          "path": "76089989.json",
+          "sha256": "e6d62c0c02814bf588117381ba1c40d085768da3e98720b9296f48ab8bb0749d",
+          "size": 5460276
+        },
+        {
+          "path": "76089989.mp3",
+          "sha256": "73c2d480f2f7265598ca57dfb4cc9910a6ef679cb76c8a1c9a884d5e5cf842c7",
+          "size": 6262422
+        },
+        {
+          "path": "info.txt",
+          "sha256": "c88c13920da73770c2b2de78ef84302db8bc27752e3baabc1193a1815055f02f",
+          "size": 218
+        },
+        {
+          "path": "info.yml",
+          "sha256": "16f9ed359b7b0e5f058bbb352f475d0e131c00343d67e95228d2fe8269eb25e7",
+          "size": 696
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.8000001,
+        "chart": "76089989.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "76089989.jpg",
+        "lineLength": 6.0,
+        "music": "76089989.mp3",
+        "offset": 0.0,
+        "previewEnd": 105.0,
+        "previewStart": 88.0,
+        "tip": "星河飘转，寰宇闪耀，即存在之理"
+      },
+      "release": "backup-9000-9999",
+      "sha256": "aa07538f5de0fc91048f6b44fc929438a4e1387b2a52b0b53ea871c651848951",
+      "size": 11898457,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-9000-9999/9268.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-09-10T10:11:22.726797Z",
+  "charter": "滺绿—存在之理",
+  "composer": "Composer: Apo11o program/お月さま交響曲/Kuroa*/荒巻",
+  "created": "2023-09-10T10:11:22.726797Z",
+  "description": "谱面为谱师本人上传\n如果想了解更多谱面请关注b站Vlouy—滺绿",
+  "difficulty": 15.200001,
+  "id": 9268,
+  "illustrator": "hideo",
+  "level": "AT  Lv.15",
+  "name": "Sein",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-09-10T11:10:37.799670Z",
+  "uploader": 47432
+}

@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:24:57Z",
+    "lastChanged": "2026-09-22T01:24:57Z",
+    "localBackup": {
+      "asset": "20427.zip",
+      "files": [
+        {
+          "path": "84856985.jpg",
+          "sha256": "707e7bd3b3afdb8d67af2f7ff13438cada761f6903f83b3e282ac4bf750d981f",
+          "size": 64208
+        },
+        {
+          "path": "84856985.json",
+          "sha256": "3fd4f7b3c0795dca9bccb7002b2e4d79b655ac1bcc34d724a5166735e247c904",
+          "size": 195056
+        },
+        {
+          "path": "84856985.mp3",
+          "sha256": "da940d311895e722f48de9a6c7e92c138f4e7f8caf831c0ca89a3c694e8c10ce",
+          "size": 278444
+        },
+        {
+          "path": "info.txt",
+          "sha256": "4982a5ca3d00c5e51db54402d272914f764dfaabb3638a46f5842792c0a32656",
+          "size": 161
+        },
+        {
+          "path": "info.yml",
+          "sha256": "193de742f10aa812b938b492206f75dcbff0bcbe2bb3f1862d4055788e02684b",
+          "size": 564
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "84856985.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "84856985.jpg",
+        "lineLength": 6.0,
+        "music": "84856985.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "好赤的史",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "05fb49709e53cbe5bf954e9a90a5fbc616fcca21e20cb433e7351a3b135c6d54",
+      "size": 538941,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20427.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-26T12:54:44.305279Z",
+  "charter": "1",
+  "composer": "Lovely_HuTao（Baberri）",
+  "created": "2024-05-26T12:54:44.305279Z",
+  "description": "粪（本人上传）",
+  "difficulty": 5.0,
+  "id": 20427,
+  "illustrator": "UK",
+  "level": "EZ lv.5 NoLine",
+  "name": "Ye Yicheng HARDCORE!!!",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-05-26T12:54:44.305279Z",
+  "uploader": 778863
+}

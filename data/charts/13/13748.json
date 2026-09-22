@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:15:41Z",
+    "lastChanged": "2026-09-22T01:15:41Z",
+    "localBackup": {
+      "asset": "13748.zip",
+      "files": [
+        {
+          "path": "95143378.json",
+          "sha256": "b3862df44401fb1a1b9c7fa585d34605aa20daa8ca372d6cda9c1aa382be7805",
+          "size": 1047499
+        },
+        {
+          "path": "95143378.ogg",
+          "sha256": "5fa14ac0768e2b35631f7df1bd7c096d910bb582e98f9f437d7755382325f727",
+          "size": 2077285
+        },
+        {
+          "path": "95143378.png",
+          "sha256": "4b87c417c34bcc63d0c18cdc167d99ab21c749d68b6d918f90c26fee2446a951",
+          "size": 2432643
+        },
+        {
+          "path": "info.txt",
+          "sha256": "50285b59d377beb1eadaf915cff5e8e1d06367f5a929d20f92e06ce869b6d4eb",
+          "size": 178
+        },
+        {
+          "path": "info.yml",
+          "sha256": "58acaed1a8129ec6eed2ac47ec059672d25d67941ff9d86d2c797a167bd9c295",
+          "size": 1465
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "95143378.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "95143378.png",
+        "lineLength": 6.0,
+        "music": "95143378.ogg",
+        "offset": 0.015,
+        "previewEnd": 74.0,
+        "previewStart": 59.0,
+        "tip": "流速很慢，预计收歌时间5min以内，大佬建议1.35倍速收歌"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "06039c34093b799adf6a364746cf83173e56683a92b03110cdbed4f170e7a874",
+      "size": 5559578,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13748.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-18T17:01:22.538206Z",
+  "charter": "Canis lupus laniger",
+  "composer": "sho From「IGNITER」",
+  "created": "2024-01-18T17:01:22.538206Z",
+  "description": "(B站@pH-Fuzw0lf本人上传，谱师名是马甲 )        \n｜*谱面信息     \n曲名：Forest     \n曲师：sho(From <IGNITER>)     \n难度：IN Lv.11 (11.2)    \n制谱时间：2023.12.7-12.10  2024.1.19少量修改\n | *简介     \n用时三天完成，几乎是闭门造车。   \n1.音乐和封面图片均来自尚未完工的视觉小说《IGNITER》，侵权告知即删\n2.感觉写得挺满意的，当然一定有很多有不足的地方，也希望大家能指出动效、配置或者手感等方面的问题 \n 3.写的时候特意侧重了曲子带给自己的印象，尽管经过反复修改，也还可能存在导致一些手感方面的问题；如果有的话请一定要指出  \n4.第一次在谱面内不使用任何假音符，增加了对回收note的经验。 (P.S.：IN11难度是我第一张自制谱的难度，也算一种.. '回顾'了？）",
+  "difficulty": 11.200001,
+  "id": 13748,
+  "illustrator": "shin.",
+  "level": "IN Lv.11",
+  "name": "Forest",
+  "tags": [],
+  "updated": "2024-01-18T17:01:22.538206Z",
+  "uploader": 10914
+}

@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:10:34Z",
+    "lastChanged": "2026-09-22T01:10:34Z",
+    "localBackup": {
+      "asset": "11131.zip",
+      "files": [
+        {
+          "path": "67032933.jpg",
+          "sha256": "b657962619fed704c376da978fc3d04ffa7660b1b013abd09eca72007dda036f",
+          "size": 32007
+        },
+        {
+          "path": "67032933.json",
+          "sha256": "d603bca82ece62cb02469b4570a4c6c5812eb8c89ea7b2f051cb178fbd161c6e",
+          "size": 1325362
+        },
+        {
+          "path": "67032933.mp3",
+          "sha256": "4b04e3fee9846505bf104cd75e51600c85df5fe2b72a9e9c6cf7ca43366a9829",
+          "size": 4838124
+        },
+        {
+          "path": "info.txt",
+          "sha256": "6e23b4adfe6d5ca16f7d3ec72628863a984b90966200e5e72a9f86ee04f2beda",
+          "size": 183
+        },
+        {
+          "path": "info.yml",
+          "sha256": "95e0fdd726d7497451a08b82d3e1f817b96cb108a3b339cb3b2e9ed16c9b1cd0",
+          "size": 900
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "67032933.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "67032933.jpg",
+        "lineLength": 6.0,
+        "music": "67032933.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "～1～2～3～4～3～2～1～",
+        "unlockVideo": null
+      },
+      "release": "backup-11000-11999",
+      "sha256": "fcf7961558538354cef1e83842bc101563c4f0e78e21582d5cb6d8d58a3179cf",
+      "size": 6197084,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11131.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-04T03:46:17.401220Z",
+  "charter": "Vilstk_凌云、Esama",
+  "composer": "七草くりむ",
+  "created": "2023-11-04T03:46:17.401220Z",
+  "description": "远古谱面\n这是我和凌云在各自写完初谱之后的第二张谱，\n同时也是第一张合作谱。\n由于我这边的原因导致只有三天时间写，\n写得很快，也很水。\n大概算是黑历史吧？其实也还好，就是技术含量不怎么高。\n期待与凌云以后的合作～",
+  "difficulty": 12.600003,
+  "id": 11131,
+  "illustrator": "七草くりむ",
+  "level": "HD Lv.12",
+  "name": "だいあるのーと",
+  "tags": [],
+  "updated": "2023-11-04T11:47:36.896119Z",
+  "uploader": 385765
+}

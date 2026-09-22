@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:40Z",
+    "lastChanged": "2026-09-22T01:05:40Z",
+    "localBackup": {
+      "asset": "5771.zip",
+      "files": [
+        {
+          "path": "6148926.json",
+          "sha256": "2fddcda80470a40c146b1fd7c186689e439cd661a231d431be5733b669049746",
+          "size": 596396
+        },
+        {
+          "path": "6148926.mp3",
+          "sha256": "e5c43b73dd948a6c33673f97980f1e1c0c64d04efacbdd5a5ee8d765c161031d",
+          "size": 12359734
+        },
+        {
+          "path": "6148926.png",
+          "sha256": "0ff5de926130918305dd655a7dac43fd40a4350a8e27c5c930604f4ad67caa14",
+          "size": 2654687
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b6ddc8f61522ce2b5edd7bda9da9a913d480b5082beb57e0d6655519d6157b93",
+          "size": 169
+        },
+        {
+          "path": "info.yml",
+          "sha256": "112553fe5fe9450db1423ce04b0d1083087f87866ac2a999fe53ba6e429dd7ae",
+          "size": 646
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "6148926.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "6148926.png",
+        "lineLength": 6.0,
+        "music": "6148926.mp3",
+        "offset": 0.0,
+        "previewEnd": 228.0,
+        "previewStart": 213.0,
+        "tip": "%不推荐使用手机游玩此谱面"
+      },
+      "release": "backup-5000-5999",
+      "sha256": "e4fc4ae472bd16288e2e2fdce4823abd30656a1563495fae0a84acb64aa20f8e",
+      "size": 15612134,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5771.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-21T20:36:03.221199Z",
+  "charter": "Awakimot",
+  "composer": "Laur,Sennzai",
+  "created": "2023-07-21T13:19:12.659756Z",
+  "description": "%不推荐使用手机游玩此谱面\n>7.21.21 谱面换源，修改结尾8k部分",
+  "difficulty": 17.1,
+  "id": 5771,
+  "illustrator": "CIERRA",
+  "level": "AT Lv.17.1",
+  "name": "The Angel's Message",
+  "tags": [
+    "挨踢时崎",
+    "regular"
+  ],
+  "updated": "2023-07-24T21:50:02.408585Z",
+  "uploader": 47152
+}

@@ -1,0 +1,65 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:01:55Z",
+    "lastChanged": "2026-09-22T01:01:55Z",
+    "localBackup": {
+      "asset": "219.zip",
+      "files": [
+        {
+          "path": "Rainshower.json",
+          "sha256": "4a7393313410a380583933f83dd3c763c8bc29d3adedd792fe312594e865a836",
+          "size": 3322486
+        },
+        {
+          "path": "Rainshower.mp3",
+          "sha256": "94f17c9d598fded4ebc950c8010d5f14bf354f44637a2bbfe4ceb5ad058ec0ac",
+          "size": 5478263
+        },
+        {
+          "path": "Rainshower.png",
+          "sha256": "0b3a03a15a75b013d3cc464bc8392da052dd3abfbbee2d993839c3fa171be0f9",
+          "size": 477040
+        },
+        {
+          "path": "info.yml",
+          "sha256": "88eb60c19212b5b61206f058d10298d7393f53062b7763f827b8207765bce549",
+          "size": 515
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.77778,
+        "backgroundDim": 0.6,
+        "chart": "Rainshower.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "Rainshower.png",
+        "lineLength": 6.0,
+        "music": "Rainshower.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-0-999",
+      "sha256": "a85071fb85b29b246f9ac43c195239ee8a1617028586faae10b52de017b1b459",
+      "size": 9278732,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-0-999/219.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-04-02T08:24:52.826382Z",
+  "charter": "Thes un shine sat dusk",
+  "composer": "Silentroom",
+  "created": "2023-04-02T08:24:52.826382Z",
+  "description": "天马行空",
+  "difficulty": 16.0,
+  "id": 219,
+  "illustrator": "UK",
+  "level": "AT Lv.16",
+  "name": "骤雨の狭間",
+  "tags": [],
+  "updated": "2023-07-26T22:43:37.364071Z",
+  "uploader": 818
+}

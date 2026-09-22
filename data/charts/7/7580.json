@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:29Z",
+    "lastChanged": "2026-09-22T01:07:29Z",
+    "localBackup": {
+      "asset": "7580.zip",
+      "files": [
+        {
+          "path": "74052177.MP3",
+          "sha256": "ceec9270c512504caba5d280c01c510870741baa380b2e681e3f4d13abf4f875",
+          "size": 432637
+        },
+        {
+          "path": "74052177.jpg",
+          "sha256": "4fdd39780f5f728e5eb3109c848e26e25ac004dd0f0faaa37b1f8ba9c79c2038",
+          "size": 85539
+        },
+        {
+          "path": "74052177.json",
+          "sha256": "a80faaf0c292281e4a7ce8de0d47574f60ee0303b9404f94b09aa44d05de01f8",
+          "size": 24930
+        },
+        {
+          "path": "info.txt",
+          "sha256": "a75fa9a03ec22b4aa843008db546239eeee65cb3f9a2054139d910933d1682ed",
+          "size": 162
+        },
+        {
+          "path": "info.yml",
+          "sha256": "d60fe93555c339e07b50e8365e336483f3c102de3d86f80a240dbf4b065384c8",
+          "size": 571
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "74052177.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "74052177.jpg",
+        "lineLength": 6.0,
+        "music": "74052177.MP3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "你跟我比夹夹，还想跟我比绿茶"
+      },
+      "release": "backup-7000-7999",
+      "sha256": "518f44c8963af7e912abd3567fc974ad917073ff113e601d8ab9e1615e00ee19",
+      "size": 544347,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-7000-7999/7580.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-14T03:36:39.451489Z",
+  "charter": "LPI",
+  "composer": "姜乐柔",
+  "created": "2023-08-14T03:36:39.451489Z",
+  "description": "本人上传\nbilibili @LPI_",
+  "difficulty": 12.200001,
+  "id": 7580,
+  "illustrator": "不知道awa",
+  "level": "IN Lv.12",
+  "name": "你跟我比夹夹",
+  "tags": [],
+  "updated": "2023-08-14T03:36:39.451489Z",
+  "uploader": 7084
+}

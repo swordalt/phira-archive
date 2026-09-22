@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:08Z",
+    "lastChanged": "2026-09-22T01:03:08Z",
+    "localBackup": {
+      "asset": "2754.zip",
+      "files": [
+        {
+          "path": "28476004.json",
+          "sha256": "1c7ed1b793d8e8dfdba58327c709681de9f5c560c703d9b4b17839e84aa00f3f",
+          "size": 655069
+        },
+        {
+          "path": "28476004.mp3",
+          "sha256": "309e9dd8636c964605365dd93303385e71fb6dfc8d732efc7a2bd4e081da9cef",
+          "size": 7750124
+        },
+        {
+          "path": "28476004.png",
+          "sha256": "7cbf99a82e2435d514f869077f9d94b8009fc154d254a57ac58a6cd2fa538d7b",
+          "size": 120416
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d4ac59bea3e70779cfe73b10ded9743ffbfe9a3dbd11fcab99e7c04e749e8758",
+          "size": 128
+        },
+        {
+          "path": "info.yml",
+          "sha256": "951662ca3e67a82b9309e694746b4e29fb987c13317471768c056afe58f63e1f",
+          "size": 537
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "28476004.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "28476004.png",
+        "lineLength": 6.0,
+        "music": "28476004.mp3",
+        "offset": 0.03,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-2000-2999",
+      "sha256": "41cedd77213cd2be4c4923bed8eac18be5ac286521882141a5c7e180f8853514",
+      "size": 8526782,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-2000-2999/2754.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-05-30T11:24:30.349193Z",
+  "charter": "CRAEmix",
+  "composer": "AJR",
+  "created": "2023-05-30T11:24:30.349193Z",
+  "description": "纯4合院尝试无特效非正常phigros谱面",
+  "difficulty": 20.0,
+  "id": 2754,
+  "illustrator": "AJR",
+  "level": "Lv.SPPPP",
+  "name": "World's Smallest Violin",
+  "tags": [],
+  "updated": "2023-05-30T11:24:30.349193Z",
+  "uploader": 46403
+}

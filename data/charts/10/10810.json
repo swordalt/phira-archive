@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:10:24Z",
+    "lastChanged": "2026-09-22T01:10:24Z",
+    "localBackup": {
+      "asset": "10810.zip",
+      "files": [
+        {
+          "path": "72430061.MP3",
+          "sha256": "adc46b9601de3fe5d203c98049addec6f804299994f0b068c986a87103ecba92",
+          "size": 4852556
+        },
+        {
+          "path": "72430061.jpg",
+          "sha256": "5b55b639b9a9d61d365ed08bef5a643223cec079d07689c8fc8f7d5678df46da",
+          "size": 2757646
+        },
+        {
+          "path": "72430061.json",
+          "sha256": "be5f3e860246bff8186a23c17ac80a69e1719150e80d048404d167209bcada9c",
+          "size": 3348645
+        },
+        {
+          "path": "info.txt",
+          "sha256": "74848ca163e9805f20aa3492424de56f65e9d6ffc6cd0f63e01240bcd7f8b147",
+          "size": 214
+        },
+        {
+          "path": "info.yml",
+          "sha256": "259ecb42569d6c332a88750c3d446d024a7d64156d5cd995bef21e73cac48ea0",
+          "size": 697
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "72430061.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "72430061.jpg",
+        "lineLength": 6.0,
+        "music": "72430061.MP3",
+        "offset": 0.0,
+        "previewEnd": 129.0,
+        "previewStart": 114.0,
+        "tip": "tip：你是否听见，那段来自水下领域的倾诉之声？"
+      },
+      "release": "backup-10000-10999",
+      "sha256": "88f704cacf33f185b11c1afa03493053ff64940cb08955d768739709ba1ababb",
+      "size": 10960266,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-10000-10999/10810.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-10-24T10:44:00.840245Z",
+  "charter": "日向666",
+  "composer": "A-39&Hinkik&Himitsu(天铭_Boomobile mix)",
+  "created": "2023-10-24T10:44:00.840245Z",
+  "description": "已经过B站 @天铭＿Boomobile 允许使用混曲\n谱面由 @日向666 本人制作",
+  "difficulty": 14.7,
+  "id": 10810,
+  "illustrator": "AI",
+  "level": "AT Lv.14.7",
+  "name": "Water Realms（水下领域）",
+  "tags": [],
+  "updated": "2023-10-24T10:44:00.840245Z",
+  "uploader": 482981
+}

@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:31Z",
+    "lastChanged": "2026-09-22T01:09:31Z",
+    "localBackup": {
+      "asset": "10011.zip",
+      "files": [
+        {
+          "path": "37229997.jpg",
+          "sha256": "e7f886146390ff594758b92161e2b67d7225cd0c940b4a4754e5e3b27a5400ad",
+          "size": 116000
+        },
+        {
+          "path": "37229997.json",
+          "sha256": "092afd1c54cb846480d73ff5262537ee51caeebe1821f249308926a16d3d7833",
+          "size": 6036849
+        },
+        {
+          "path": "37229997.mp3",
+          "sha256": "603c94013826987f8725d42da5784521a3e7d3d611d0374bcf4607cc6919f6d6",
+          "size": 2588825
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b32425d366c07c8db737f768bbc5e82b87ec7e2c4e988e70a5dffee5526f3156",
+          "size": 175
+        },
+        {
+          "path": "info.yml",
+          "sha256": "3d8cd67ec72b0ad71e5be0386e92b65dfec7fa7a1991fac0e3d030f3ab8740a5",
+          "size": 915
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "37229997.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "37229997.jpg",
+        "lineLength": 6.0,
+        "music": "37229997.mp3",
+        "offset": 0.029999997,
+        "previewEnd": 110.0,
+        "previewStart": 98.0,
+        "tip": "可以的话还请麻烦去BV1fu411u7ig支持一下，谢谢啦"
+      },
+      "release": "backup-10000-10999",
+      "sha256": "4b25363173160bbd5d9026741c2240a71583a6f802b3fe57ae16f4e01da14d38",
+      "size": 8743272,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-10000-10999/10011.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-10-05T14:44:51.412941Z",
+  "charter": "雪降 CharTing TeaM",
+  "composer": "Kobaryo",
+  "created": "2023-10-02T04:26:55.517950Z",
+  "description": "本谱为合作谱\n参与人员如下：\n配置：雪降大魔王，无限iNFiNiTY，雪降小魔王\n特效：这位天才很天才，无限iNFiNiTY，白涧君OvO\nB站同名\n\n这张谱用了几个月的时间终于写出来了\n最开始只想写15，后来写着写着就成16了（）\n\n特别感谢参与人员！！",
+  "difficulty": 16.300001,
+  "id": 10011,
+  "illustrator": "Kobaryo",
+  "level": "AT Lv.16",
+  "name": "Invisible Frenzy",
+  "tags": [],
+  "updated": "2023-10-22T11:29:06.540910Z",
+  "uploader": 33128
+}

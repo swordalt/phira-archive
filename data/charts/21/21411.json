@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:28:24Z",
+    "lastChanged": "2026-09-22T01:28:24Z",
+    "localBackup": {
+      "asset": "21411.zip",
+      "files": [
+        {
+          "path": "93741429.jpg",
+          "sha256": "ef700b9ef310306cdfb179a23d6e787854a55ea33ab1e87b58651fce394fd27a",
+          "size": 30135
+        },
+        {
+          "path": "93741429.json",
+          "sha256": "8c8d5ce558d16abd0726074f4a31de11ea9fddd933f4bbf7a259321573c5ddbb",
+          "size": 2891180
+        },
+        {
+          "path": "93741429.mp3",
+          "sha256": "6fe095c48763b6ba13bf50fd031a69829496ef780bcd8e152337a154e230a237",
+          "size": 2274431
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ee5080f07b8e18bf192b5151872d1d78fb03f567832addb3b7ce153142039936",
+          "size": 148
+        },
+        {
+          "path": "info.yml",
+          "sha256": "ef8e4420cad591d73851a713e38331de93d39b47c15e40511d4e762470a93b01",
+          "size": 573
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "93741429.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "93741429.jpg",
+        "lineLength": 6.0,
+        "music": "93741429.mp3",
+        "offset": 0.0,
+        "previewEnd": 30.0,
+        "previewStart": 13.0,
+        "tip": "勿把蓝夹黄当双押拍",
+        "unlockVideo": null
+      },
+      "release": "backup-21000-21999",
+      "sha256": "c068f35621685670303ed065b656b437ea95a04c24da2d1282b1e8cb69b8cad4",
+      "size": 5196975,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-21000-21999/21411.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-16T08:53:39.614262Z",
+  "charter": "Kyursure",
+  "composer": "nekodex",
+  "created": "2024-06-16T08:53:39.614262Z",
+  "description": "脑子一热把隔壁osu主界面曲子搬来了）",
+  "difficulty": 14.1,
+  "id": 21411,
+  "illustrator": "UK",
+  "level": "IN Lv.14",
+  "name": "circles!",
+  "tags": [],
+  "updated": "2024-06-16T08:53:39.614262Z",
+  "uploader": 366493
+}

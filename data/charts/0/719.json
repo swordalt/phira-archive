@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:02:25Z",
+    "lastChanged": "2026-09-22T01:02:25Z",
+    "localBackup": {
+      "asset": "719.zip",
+      "files": [
+        {
+          "path": "38207664.json",
+          "sha256": "dff10bdb78d4bacda43a1abd133c46ce29a083ffeb9357e535900782a261ac99",
+          "size": 301943
+        },
+        {
+          "path": "38207664.mp3",
+          "sha256": "17c9dc9af421031a634eb286fbb996965445e55a5fde5487c25b1ac86b14aa4f",
+          "size": 7806589
+        },
+        {
+          "path": "38207664.png",
+          "sha256": "7c995cdd20b59b1d5f4085c6ee4129cf568fc91342ce6dfaf85cddad10fc7d2a",
+          "size": 357393
+        },
+        {
+          "path": "info.txt",
+          "sha256": "07f23f8f0000b5fc1aa9203b85cf841e34ae917ea4446449978c5bf8c16dced1",
+          "size": 152
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f95b526723e1a25660cb938c75d04c801fde2f5a8488451cc65996397cf9990a",
+          "size": 663
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "38207664.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "38207664.png",
+        "lineLength": 6.0,
+        "music": "38207664.mp3",
+        "offset": 0.029,
+        "previewEnd": 29.8,
+        "previewStart": 15.65,
+        "tip": "Tip：你们找周树人关我鲁迅什么事？"
+      },
+      "release": "backup-0-999",
+      "sha256": "1a1729238d426fed224f7064886211ea44c4359c293e1cc452047ab770ec6c92",
+      "size": 8467248,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-0-999/719.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-04-23T05:43:36.496397Z",
+  "charter": "MVsVPD",
+  "composer": "Cheetah Moblie",
+  "created": "2023-04-23T05:43:36.496397Z",
+  "description": "横眉冷对……诶，说过了……\n\n该铺面又获得了MVsVPD的上传许可💦",
+  "difficulty": 6.4999943,
+  "id": 719,
+  "illustrator": "Dancing Line",
+  "level": "SP Lv.周树人",
+  "name": "The Chaos",
+  "tags": [
+    "跳舞的线专区"
+  ],
+  "updated": "2023-04-23T05:43:36.496397Z",
+  "uploader": 524
+}

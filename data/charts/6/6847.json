@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:02Z",
+    "lastChanged": "2026-09-22T01:07:02Z",
+    "localBackup": {
+      "asset": "6847.zip",
+      "files": [
+        {
+          "path": "14644305.jpg",
+          "sha256": "3d429651559418c50c550b925018fa26d6b2428990c44b1f5dfea271ba1dd076",
+          "size": 77134
+        },
+        {
+          "path": "14644305.json",
+          "sha256": "3442d57e3b79222e87448ae0c18e5b14469f0830882b5eece1e664a257e7cd62",
+          "size": 553694
+        },
+        {
+          "path": "14644305.mp3",
+          "sha256": "a7d202195127b28091c47db70705038e7d314bed140704c81249af40b0c62cf8",
+          "size": 3157443
+        },
+        {
+          "path": "info.txt",
+          "sha256": "a8b509fd3bee351a27669098e3843c57ab9844c13211cec2ccbf4f5e8ee0e402",
+          "size": 163
+        },
+        {
+          "path": "info.yml",
+          "sha256": "988eb38a7b34eece669d55882d6611a19e9cdb3eceb6acc3c330f906622ee52e",
+          "size": 523
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "14644305.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "14644305.jpg",
+        "lineLength": 6.0,
+        "music": "14644305.mp3",
+        "offset": -0.025000008,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-6000-6999",
+      "sha256": "5b5e12ab7dd58ef3c6bbbc155aa070c980a2b9c7ba2f6d2b800a86fa0a3c4070",
+      "size": 3789465,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6847.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-05T01:36:59.118255Z",
+  "charter": "Hello_Moore",
+  "composer": "Handle",
+  "created": "2023-08-05T01:36:59.118255Z",
+  "description": "初稿(懒）",
+  "difficulty": 11.0,
+  "id": 6847,
+  "illustrator": "沃趣,O神!",
+  "level": "1.15⭐",
+  "name": "Welcome to Osu!",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-08-05T01:36:59.118255Z",
+  "uploader": 52562
+}

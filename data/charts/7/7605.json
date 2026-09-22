@@ -1,0 +1,75 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:32Z",
+    "lastChanged": "2026-09-22T01:07:32Z",
+    "localBackup": {
+      "asset": "7605.zip",
+      "files": [
+        {
+          "path": "31338971.json",
+          "sha256": "3268ace24551245b6d8e723bfe6dc9cae27afd0f9829b2ad37dfbe674c7a75e8",
+          "size": 1500940
+        },
+        {
+          "path": "31338971.png",
+          "sha256": "10ea1c0573b0fac64a39bf9071ef0f303adad76f815ba78a84cd31df2af2c7b4",
+          "size": 171390
+        },
+        {
+          "path": "31338971.wav",
+          "sha256": "c7b46537ea9912a2b1ba074ed5d559052e85acb7fc8a1be559bc8c20be874991",
+          "size": 6802670
+        },
+        {
+          "path": "AutoSave_2023_8_12_10_54_25_31338971.json",
+          "sha256": "14da7100c90ba39807371fe5e21317d368a034e9d38c2481035cf4ebca74bf8d",
+          "size": 1542003
+        },
+        {
+          "path": "info.txt",
+          "sha256": "c7528c6d92783a776320c43d4d68ae2decfda4c37acdfc1c99619295be3cd8da",
+          "size": 150
+        },
+        {
+          "path": "info.yml",
+          "sha256": "a455957a145627fd4c7327ec90ebd8fa97308f4c7f39e99023c1581b2a8a0b22",
+          "size": 544
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "31338971.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "31338971.png",
+        "lineLength": 6.0,
+        "music": "31338971.wav",
+        "offset": 0.05,
+        "previewEnd": 76.0,
+        "previewStart": 66.0,
+        "tip": "几根判定线就是几押哦"
+      },
+      "release": "backup-7000-7999",
+      "sha256": "895edeb3acaef80f867f295871b7f2d90186fbc2458f4d42163b321dcc853bf9",
+      "size": 10018363,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-7000-7999/7605.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-14T09:47:18.386334Z",
+  "charter": "Koukona",
+  "composer": "LeaF",
+  "created": "2023-08-14T09:47:18.386334Z",
+  "description": "新人第二张谱，b站：小时Hoooooour",
+  "difficulty": 15.0,
+  "id": 7605,
+  "illustrator": "UK",
+  "level": "AT Lv.15",
+  "name": "MARENOL",
+  "tags": [],
+  "updated": "2023-08-14T09:47:18.386334Z",
+  "uploader": 14274
+}

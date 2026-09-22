@@ -1,0 +1,96 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:28:41Z",
+    "lastChanged": "2026-09-22T01:28:41Z",
+    "localBackup": {
+      "asset": "21701.zip",
+      "files": [
+        {
+          "path": "6.png",
+          "sha256": "8bd9e5b38a4b16dbd1adf8822e44ed55341d72bf1a76301b14ee09b9e94563eb",
+          "size": 1078350
+        },
+        {
+          "path": "61085952.jpg",
+          "sha256": "2c203429c36b0a5a07524bad1a9ce35248d5e7bf2ff09a1bdcb6d68d1ab289c9",
+          "size": 104611
+        },
+        {
+          "path": "61085952.json",
+          "sha256": "6eee6a1959bfdf70e704be08328d629c92926aeeec68877e3f02e886f2ed1e11",
+          "size": 5620327
+        },
+        {
+          "path": "61085952.mp3",
+          "sha256": "a48f14d85123c34076f55decb509971ef2b69857aa17a8790bd75247a8ccce68",
+          "size": 4147372
+        },
+        {
+          "path": "Arrow.png",
+          "sha256": "3d162ca53e77a56d11d728ed7e05867e055bc270e56db1ad20d4b4bcad5b0c65",
+          "size": 216716
+        },
+        {
+          "path": "MoveCamera.fs",
+          "sha256": "5e052e90c915312af765eef448f524b617b77978e85fa200cfc90d55aeae0a91",
+          "size": 881
+        },
+        {
+          "path": "Turn.jpg",
+          "sha256": "94fff968cc28b77f253240f058547d8803e6c7b707616ec40fb5e1fa03b5e141",
+          "size": 5187
+        },
+        {
+          "path": "extra.json",
+          "sha256": "2d01619a654711261f35c937ec7d6398802f4e7e2969ac1506128ab641b1b6ca",
+          "size": 59087
+        },
+        {
+          "path": "info.txt",
+          "sha256": "5ad853174cc8b045acef58f49c29832360349ad5bb698917e63437081b55c099",
+          "size": 197
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5796bcee57abc823bdaf86d829acd7c775cb62494f03f40cba245e86b6b89f06",
+          "size": 676
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.5,
+        "chart": "61085952.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "61085952.jpg",
+        "lineLength": 6.0,
+        "music": "61085952.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "我不信有人能ap（小声",
+        "unlockVideo": null
+      },
+      "release": "backup-21000-21999",
+      "sha256": "68e381449fd6c563c74ecac069a900ae85377d27a11e49b0ec97dbd3e555985c",
+      "size": 11234382,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-21000-21999/21701.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "Kmoon-空月",
+  "composer": "Daily天利 & EndCat-终猫",
+  "created": null,
+  "description": "这么神奇吗～\n本人上传，Bilibili @Kmoon-空月\n定位是底力谱，有较大难度；有些地方还比较创，当观赏谱玩叭（（\n玩得开心～",
+  "difficulty": 15.900003,
+  "id": 21701,
+  "illustrator": "Jiafei",
+  "level": "IN Lv.15",
+  "name": "野花香（Haocore Mix）",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

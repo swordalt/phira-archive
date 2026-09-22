@@ -1,0 +1,82 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:30Z",
+    "lastChanged": "2026-09-22T01:05:30Z",
+    "localBackup": {
+      "asset": "5390.zip",
+      "files": [
+        {
+          "path": "cf.jpg",
+          "sha256": "9df2445c009f18f4164ce898b4e14d5e43ef120b57770055ececc62cfe0da891",
+          "size": 209777
+        },
+        {
+          "path": "cf.ogg",
+          "sha256": "a4dc4d605ca56e0f25d7913bab88ef1ada5f2bd65a052b9ab0fb1606282f9e80",
+          "size": 4697492
+        },
+        {
+          "path": "cf.pec",
+          "sha256": "4ed185ad65684ad9741da2b60098cbf4a37b7b2556b104b1d059d27bf5a0dd3b",
+          "size": 72471
+        },
+        {
+          "path": "info.yml",
+          "sha256": "80a81cfa48e4d3fa669dc084c0391e50cbb223c09b1040194738505d7467672d",
+          "size": 478
+        },
+        {
+          "path": "__MACOSX/._cf.jpg",
+          "sha256": "9b183510ddd6a77f983ae4277390f8d7c584102d31870b98f994b9f05ca8180d",
+          "size": 176
+        },
+        {
+          "path": "__MACOSX/._cf.ogg",
+          "sha256": "332502f72778e9a5d33032afc3295a9276d78d3339e9f16a8b1229f8019589f4",
+          "size": 176
+        },
+        {
+          "path": "__MACOSX/._cf.pec",
+          "sha256": "af128e06b9b84cea2d2f58c8fd91ed9e2369eb436543151045b70a2b41ffe215",
+          "size": 176
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "cf.pec",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "cf.jpg",
+        "lineLength": 6.0,
+        "music": "cf.ogg",
+        "offset": -0.2,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "键盘"
+      },
+      "release": "backup-5000-5999",
+      "sha256": "290953ab412911d5581a6f7642bdfed70992aecbe00ad0b10f8cbd08a784426a",
+      "size": 4981454,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5390.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-15T11:51:33.353394Z",
+  "charter": "Bounacary",
+  "composer": "leaF",
+  "created": "2023-07-15T11:51:33.353394Z",
+  "description": "键盘",
+  "difficulty": 16.9,
+  "id": 5390,
+  "illustrator": "UK",
+  "level": "AT Lv.16",
+  "name": "Calamity Fortune",
+  "tags": [
+    "plain"
+  ],
+  "updated": "2023-07-15T11:51:33.353394Z",
+  "uploader": 1447
+}

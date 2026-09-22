@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:22:16Z",
+    "lastChanged": "2026-09-22T01:22:16Z",
+    "localBackup": {
+      "asset": "19136.zip",
+      "files": [
+        {
+          "path": "38048459.jpeg",
+          "sha256": "0aed6eedcc076d6cc0331b0c4edc16290953a0a37300cccc887b7c790be7c5d4",
+          "size": 6237
+        },
+        {
+          "path": "38048459.json",
+          "sha256": "bbb9e48be3a86ec08f09df0a625dd5b1a253a6359bb19d40422509af23fc8b94",
+          "size": 2802693
+        },
+        {
+          "path": "38048459.mp3",
+          "sha256": "8b2d5c981a29e796d0ecd707eb1b71a6450d75a6e61664957e3ffa635e0cb3e6",
+          "size": 966464
+        },
+        {
+          "path": "info.txt",
+          "sha256": "7d2f8ffca953fc2aa9736c9244e0acd9737849bc3c9c75c33f0d4912db210c86",
+          "size": 183
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5f9c472c81e7d3933dc501cde1c0fa8f83a5c8a2fd273578b60739220d3d8781",
+          "size": 586
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "38048459.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "38048459.jpeg",
+        "lineLength": 6.0,
+        "music": "38048459.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tips:榜一你是不是怪物？(",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "4d1592582df1bd15eb8a8f234bb74a4004a7b9463d850e04e8a8bb226aad40de",
+      "size": 3776673,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19136.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-01T06:13:44.995080Z",
+  "charter": "OIIAIOIIIAI黑_胶_",
+  "composer": "黑瘦的鱼头",
+  "created": "2024-05-01T06:13:44.995080Z",
+  "description": "我就不信有大神phi了",
+  "difficulty": 10.0,
+  "id": 19136,
+  "illustrator": "UK",
+  "level": "SP Lv.OIIAIOIIIAI",
+  "name": "OIIAIOIIIAI",
+  "tags": [],
+  "updated": "2024-05-01T06:13:44.995080Z",
+  "uploader": 940916
+}

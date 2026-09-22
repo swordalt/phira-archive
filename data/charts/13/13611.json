@@ -1,0 +1,76 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:15:11Z",
+    "lastChanged": "2026-09-22T01:15:11Z",
+    "localBackup": {
+      "asset": "13611.zip",
+      "files": [
+        {
+          "path": "38312752.MP3",
+          "sha256": "c78ffdcc9b8f16a64db629a2ba3b309123a21097bd314d330b948c1281e842fb",
+          "size": 2242401
+        },
+        {
+          "path": "38312752.json",
+          "sha256": "b534a33e2842a52d301cc66c7234add273f8a2393b1b2224de6c59eadea1c206",
+          "size": 2767411
+        },
+        {
+          "path": "38312752.png",
+          "sha256": "ebdf3450f7258222087bb40c624c4aab0cea0abd54fc0cf37cf6e3148b8fb6f4",
+          "size": 2530500
+        },
+        {
+          "path": "info.txt",
+          "sha256": "1511e64beee54e579ead54224feec8ea37a9d1af62358eef82a2429c4ba2d348",
+          "size": 181
+        },
+        {
+          "path": "info.yml",
+          "sha256": "7e0e62059facfbc8055fd99deb306525d8b39afb80d8cab6edf0b10cb00cbb98",
+          "size": 1105
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "38312752.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "38312752.png",
+        "lineLength": 6.0,
+        "music": "38312752.MP3",
+        "offset": 0.0,
+        "previewEnd": 119.1,
+        "previewStart": 103.95,
+        "tip": "Tip：我阐述你的梦"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "81cdb52a1ffa871de31d1dde7dc9e9f435ff0a586db28a4b52d35011ee9da8d4",
+      "size": 7542106,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13611.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-14T06:57:58.270502Z",
+  "charter": "Pr♿clip!!!!",
+  "composer": "默雪SilentSnow",
+  "created": "2024-01-14T06:57:58.270502Z",
+  "description": "不是重复发布，原版已经删除，审核重点看！ ♿谱面为本人制作且由本人上传，头像和昵称都和B站的一致（B站id：Proclip）！♿ ♿整活向谱面，不是重复发布，原版已经删除，请审核重点查询12999号谱面是否存在（出于公平性）♿ ♿音乐换了，谱面微调，没有核弹♿ ♿如果侵权了我会下架并且向这位大佬道歉♿ （♿是的你没看错曲绘里的实景图片是我7月左右在广州拍的，然后自己瞎整的♿）",
+  "difficulty": 0.0,
+  "id": 13611,
+  "illustrator": "Proclip",
+  "level": "SP Lv.?",
+  "name": "♿TECHNOOTTO 2085♿",
+  "tags": [
+    "电棍",
+    "otto",
+    "山泥若",
+    "中二节奏",
+    "troll"
+  ],
+  "updated": "2024-01-14T06:57:58.270502Z",
+  "uploader": 138219
+}

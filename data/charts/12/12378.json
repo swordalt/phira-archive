@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:12:23Z",
+    "lastChanged": "2026-09-22T01:12:23Z",
+    "localBackup": {
+      "asset": "12378.zip",
+      "files": [
+        {
+          "path": "71534650.json",
+          "sha256": "a32ceea5b9e85af67899097baad60b024bea1db9d7a5935d68e4b669d251bc46",
+          "size": 232157
+        },
+        {
+          "path": "71534650.mp3",
+          "sha256": "8bbf6959404e8bdf9102989961811dec424b99f14de3fd79d1fd0c7c5cd69004",
+          "size": 3311000
+        },
+        {
+          "path": "71534650.png",
+          "sha256": "010fa3ba7fa6e8872e5719d7e35850ce9ca1f81713c8beadfb11875ad7e62efe",
+          "size": 945081
+        },
+        {
+          "path": "info.txt",
+          "sha256": "7921a4bc732a10ef522011fc1f59d9a96432b9a4628b25bd4ea2077a3698563c",
+          "size": 172
+        },
+        {
+          "path": "info.yml",
+          "sha256": "170b0d469d59ff073d0f58b3216f472edc96bed2bba71625be9815a6a780f660",
+          "size": 631
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "71534650.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "71534650.png",
+        "lineLength": 6.0,
+        "music": "71534650.mp3",
+        "offset": 0.0,
+        "previewEnd": 61.0,
+        "previewStart": 45.5,
+        "tip": "Lets go!!!!"
+      },
+      "release": "backup-12000-12999",
+      "sha256": "646515e47545706b7dd93c06c5fd07152e462f45e6289d2e3d5a9f40c45b0ccc",
+      "size": 4489549,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12378.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-11T02:07:08.679878Z",
+  "charter": "Cookie",
+  "composer": "EmoCosine + Synthion",
+  "created": "2023-12-11T02:07:08.679878Z",
+  "description": "因為IN有人寫了 所以我就寫AT\n希望各位能玩的開心 :D\n@CookieRacer",
+  "difficulty": 16.800003,
+  "id": 12378,
+  "illustrator": "ONGEKI",
+  "level": "AT  Lv.16",
+  "name": "Stellar:Dream",
+  "tags": [
+    "多指",
+    "stellar",
+    "regular"
+  ],
+  "updated": "2023-12-11T02:07:08.679878Z",
+  "uploader": 260639
+}

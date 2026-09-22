@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:29:43Z",
+    "lastChanged": "2026-09-22T01:29:43Z",
+    "localBackup": {
+      "asset": "22014.zip",
+      "files": [
+        {
+          "path": "77368983.jpg",
+          "sha256": "b1cafee924650c23284b7f89f2802edbcadf30503e9d5649589592fca3a02d73",
+          "size": 77248
+        },
+        {
+          "path": "77368983.json",
+          "sha256": "b0f6de69edcd884e0b057133f804f61ea177ef6fe3fd2fe82e5340e84f24453e",
+          "size": 3178459
+        },
+        {
+          "path": "77368983.ogg",
+          "sha256": "e2841e8d12d122883305a0ea320185a4075ad6d38d2d51fb376e380d06dedb17",
+          "size": 6918013
+        },
+        {
+          "path": "info.txt",
+          "sha256": "513642b0a171133711321eb09fb2e581faa2b0f9d6747b2dd0c8dd2f851a2e98",
+          "size": 159
+        },
+        {
+          "path": "info.yml",
+          "sha256": "1f614550bf7d65de0be84b1eb5e7f9b32afdcb0a470ee411575df149a0b54964",
+          "size": 599
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "77368983.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "77368983.jpg",
+        "lineLength": 6.0,
+        "music": "77368983.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "？？？点不到？",
+        "unlockVideo": null
+      },
+      "release": "backup-22000-22999",
+      "sha256": "abae0ccd34e598192e86f0930bc80fe46cb481eeec0d076a3ea7687ca3c48702",
+      "size": 10174986,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-22000-22999/22014.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-27T07:32:59.106288Z",
+  "charter": "帆帆",
+  "composer": "Charter: Hink",
+  "created": "2024-06-27T07:32:59.106288Z",
+  "description": "有着一段时间的制谱经历，上传的第一张谱面",
+  "difficulty": 14.0,
+  "id": 22014,
+  "illustrator": "UK",
+  "level": "IE 14",
+  "name": "Time Leaper",
+  "tags": [
+    "故事版",
+    "regular"
+  ],
+  "updated": "2024-06-27T07:32:59.106288Z",
+  "uploader": 84370
+}

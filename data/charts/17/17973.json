@@ -1,0 +1,68 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:03Z",
+    "lastChanged": "2026-09-22T01:21:03Z",
+    "localBackup": {
+      "asset": "17973.zip",
+      "files": [
+        {
+          "path": "Hello (BPM) 2021.mp3",
+          "sha256": "97a9372a99c97e2cd1af9e48e3b7fb862710998cf7041868fb681add905a1529",
+          "size": 5971923
+        },
+        {
+          "path": "Hello (BPM) 2021.png",
+          "sha256": "516528b8a8d9d4c58fe138f5d75a4c9a71cae80cc5bfeffc95f3656b12bf3385",
+          "size": 871839
+        },
+        {
+          "path": "Hello 2021.pec",
+          "sha256": "df8da1b9e1efe15f14ad0a29d2056b02a679dbaa1d17bd497275c4664becff77",
+          "size": 426141
+        },
+        {
+          "path": "info.yml",
+          "sha256": "720c039eb3913321ea46252b4d6b6bd14e94ab40cf7613a6d1ef78495a5ca9e5",
+          "size": 516
+        }
+      ],
+      "info": {
+        "aspectRatio": 3.77778,
+        "backgroundDim": 0.0,
+        "chart": "Hello 2021.pec",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "Hello (BPM) 2021.png",
+        "lineLength": 6.0,
+        "music": "Hello (BPM) 2021.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Trp.这是一张连奥托普雷都收录不下的谱子。",
+        "unlockVideo": null
+      },
+      "release": "backup-17000-17999",
+      "sha256": "b40350605f9278e47229c2e61f995ce8f1176ec99baebf7d3a18ba20b8b4fd74",
+      "size": 7270869,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-17000-17999/17973.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "特殊音乐人",
+  "composer": "camellia",
+  "created": null,
+  "description": "",
+  "difficulty": 20.0,
+  "id": 17973,
+  "illustrator": "UK",
+  "level": "SP Lv.?",
+  "name": "Hello(BPM)2021",
+  "tags": [
+    "visual"
+  ],
+  "updated": null,
+  "uploader": null
+}

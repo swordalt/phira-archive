@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:10Z",
+    "lastChanged": "2026-09-22T01:03:10Z",
+    "localBackup": {
+      "asset": "2832.zip",
+      "files": [
+        {
+          "path": "43613188.json",
+          "sha256": "ab65e306ff1ad6ffe5954335f077db9756d485e46d0b4b8fc62183a0298921b7",
+          "size": 71629
+        },
+        {
+          "path": "43613188.mp3",
+          "sha256": "09821c54472533b5b7dffaf0a6936de358749359d18b3055eafbf6187195d0a2",
+          "size": 1005754
+        },
+        {
+          "path": "43613188.png",
+          "sha256": "7ddcd0c5ec748728f3955aa236645c9c80a4d439e1912128e9bfaf9ccf66d46e",
+          "size": 3767
+        },
+        {
+          "path": "info.txt",
+          "sha256": "4af8cb5a517c518b000a33f71a6153d025d2a17da17e38f5110f2ad1bfbb6544",
+          "size": 157
+        },
+        {
+          "path": "info.yml",
+          "sha256": "231d56b6b89584c37e9f20159d05b5e7183b7a73107eed6bd48a55e6137b722d",
+          "size": 499
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "43613188.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "43613188.png",
+        "lineLength": 6.0,
+        "music": "43613188.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-2000-2999",
+      "sha256": "abee090541c3ad92dc5c7a528a89b321fa2ae945c4193778eee2ceed28092f8a",
+      "size": 1082314,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-2000-2999/2832.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-06-02T09:55:29.171782Z",
+  "charter": "王牌杠神",
+  "composer": "F-777",
+  "created": "2023-06-02T09:55:29.171782Z",
+  "description": "",
+  "difficulty": 19.0,
+  "id": 2832,
+  "illustrator": "UK",
+  "level": "adofai.19",
+  "name": "Inferno",
+  "tags": [],
+  "updated": "2023-06-02T09:55:29.171782Z",
+  "uploader": 4081
+}

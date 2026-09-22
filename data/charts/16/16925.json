@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:19:58Z",
+    "lastChanged": "2026-09-22T01:19:58Z",
+    "localBackup": {
+      "asset": "16925.zip",
+      "files": [
+        {
+          "path": "67669367.jpg",
+          "sha256": "ddf3ad1fefe46ef2dac9eeb2921ed8a4908d2791e9b6e7bd4ba1f08287ed5dbb",
+          "size": 261564
+        },
+        {
+          "path": "67669367.json",
+          "sha256": "0c87798c9978cee1f14df3f6dc5ea8a634c693ad59d3bf0edad34a62cac61f2b",
+          "size": 1917148
+        },
+        {
+          "path": "67669367.mp3",
+          "sha256": "986c04b461ac5d58a747ce2addf91f4f579e959fd51078e5ef3acd6af3006b6c",
+          "size": 7110618
+        },
+        {
+          "path": "info.txt",
+          "sha256": "edbbe26d7f85792b760e3c036b63edd100e850e3610ce165dc4c2c8653903574",
+          "size": 188
+        },
+        {
+          "path": "info.yml",
+          "sha256": "a52dd91e682bba1c544d4660be9e2e1aec9a3bc9037da1e211c86600ab64d009",
+          "size": 617
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "67669367.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "67669367.jpg",
+        "lineLength": 6.0,
+        "music": "67669367.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "前段15.8,后段114514 谱师:@FUNNY_EXE",
+        "unlockVideo": null
+      },
+      "release": "backup-16000-16999",
+      "sha256": "7f46aa9c4cfee5a6fc7405ae3a8fef5d4f35b1973a71d13ff43f90bf9830d22d",
+      "size": 9290643,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-16000-16999/16925.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-03-09T12:57:41.480998Z",
+  "charter": "ERROR185",
+  "composer": "ころねぽち With 立秋",
+  "created": "2024-03-09T12:57:41.480998Z",
+  "description": "此谱面前段双指可打,但尾杀为观赏段",
+  "difficulty": 17.1,
+  "id": 16925,
+  "illustrator": "UK",
+  "level": "AT Lv.17",
+  "name": "ぱぴぷぴぷぴぱ",
+  "tags": [],
+  "updated": "2024-03-09T12:57:41.480998Z",
+  "uploader": 672668
+}

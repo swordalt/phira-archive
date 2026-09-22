@@ -1,0 +1,76 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:43Z",
+    "lastChanged": "2026-09-22T01:21:43Z",
+    "localBackup": {
+      "asset": "18688.zip",
+      "files": [
+        {
+          "path": "47987255.jpg",
+          "sha256": "b466bfdc1120d80e5c7408ea32b6f56691a0b795ea2fd4a6b75a7a5bf9d0f91f",
+          "size": 277017
+        },
+        {
+          "path": "47987255.json",
+          "sha256": "d75ca6efade40146b142d70d0adceabc556a9406e663de6c0dee5a9336e61f2a",
+          "size": 1323014
+        },
+        {
+          "path": "47987255.mp3",
+          "sha256": "93fb46c23478b0aa1b325b2240f1145a919f099cfc7fc7644741fd0c7158e9ae",
+          "size": 3606764
+        },
+        {
+          "path": "info.txt",
+          "sha256": "f989965e1736a2a53538aaf6e195db635e8c8da9c1e31f7e8c3e18148c3294ed",
+          "size": 163
+        },
+        {
+          "path": "info.yml",
+          "sha256": "cb1d2f61a738f44b23c69de343a8087685e4e474f3bcac62f12312342e21f431",
+          "size": 549
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "47987255.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "47987255.jpg",
+        "lineLength": 6.0,
+        "music": "47987255.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-18000-18999",
+      "sha256": "7ec4f25ef125bc0c4e4146c4f73df1dc47e5a16c055cbd60131975d017b1f983",
+      "size": 5208015,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-18000-18999/18688.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-04-20T08:55:27.136026Z",
+  "charter": "Rui",
+  "composer": "HOYO-MiX  张杰",
+  "created": "2024-04-20T08:55:27.136026Z",
+  "description": "",
+  "difficulty": 13.7,
+  "id": 18688,
+  "illustrator": "miHoYo",
+  "level": "IN Lv.13",
+  "name": "不眠之夜",
+  "tags": [
+    "星穹铁道",
+    "崩坏",
+    "张杰",
+    "regular"
+  ],
+  "updated": "2024-04-20T15:54:15.900555Z",
+  "uploader": 780
+}

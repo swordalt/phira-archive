@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:42Z",
+    "lastChanged": "2026-09-22T01:03:42Z",
+    "localBackup": {
+      "asset": "4116.zip",
+      "files": [
+        {
+          "path": "69024128.jpg",
+          "sha256": "376c0ed0db2600a97dbae6fd6b13fdffe6e800e4207519e57541430ce3ebc628",
+          "size": 125844
+        },
+        {
+          "path": "69024128.json",
+          "sha256": "6732a5ce01291a0ab5fba25349c3f6083306e90ad920ca70ab73a8f71d1b6236",
+          "size": 360762
+        },
+        {
+          "path": "69024128.mp3",
+          "sha256": "7c9598cfb814057efe9a82e1d781ce720d5b3e753684aa3dd7450f16f1b81c8a",
+          "size": 503425
+        },
+        {
+          "path": "info.txt",
+          "sha256": "0c60388d76d58b3d91b2663fb6dc92e3209f6a28a43e622d8e1afe8be102217b",
+          "size": 212
+        },
+        {
+          "path": "info.yml",
+          "sha256": "30ac0f7ff7c2d7e6e9f5ae42fea1ffb25959d3a9d6971b7d33dae651b1711573",
+          "size": 522
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "69024128.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "69024128.jpg",
+        "lineLength": 6.0,
+        "music": "69024128.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-4000-4999",
+      "sha256": "49f23502aaeddc44ff41e16f640ad72da1a21dfd94e2e3ee5ebb7fc4aa11072c",
+      "size": 991273,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-4000-4999/4116.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-06-26T10:24:29.754673Z",
+  "charter": "Rui & iuR(????)",
+  "composer": "K-forest & Yooh(????)",
+  "created": "2023-06-26T10:24:29.754673Z",
+  "description": "",
+  "difficulty": 14.6,
+  "id": 4116,
+  "illustrator": "UK",
+  "level": "IN Lv.14",
+  "name": "Break Over听起来就像……",
+  "tags": [],
+  "updated": "2023-06-27T12:51:28.875340Z",
+  "uploader": 780
+}

@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:50Z",
+    "lastChanged": "2026-09-22T01:03:50Z",
+    "localBackup": {
+      "asset": "4344.zip",
+      "files": [
+        {
+          "path": "008 AT.jpg",
+          "sha256": "32b7ad9c239ed2ad015c38d00c99d99ac8c3bf5458e1c5906299873cc79b9799",
+          "size": 235532
+        },
+        {
+          "path": "008 AT.json",
+          "sha256": "61cf1035b623aa79c00e350099f964e0cb0db2d9cc38c498885c367663b8b60a",
+          "size": 9176554
+        },
+        {
+          "path": "008 AT.mp3",
+          "sha256": "c31c19763407ca7a344dfa220233b6307295bc82a5b7142652a12144adcb25b5",
+          "size": 6109076
+        },
+        {
+          "path": "info.txt",
+          "sha256": "1216851557c4d001b4510dc8630b0e9bcc70773e01333b5bccebfa5c313737ad",
+          "size": 173
+        },
+        {
+          "path": "info.yml",
+          "sha256": "c5bb27a6a8a73b63254e94edc4256396117673d8266b6375ca25c99b84b22c61",
+          "size": 442
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "008 AT.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "008 AT.jpg",
+        "lineLength": 6.0,
+        "music": "008 AT.mp3",
+        "offset": 0.0,
+        "previewEnd": 126.0,
+        "previewStart": 107.0,
+        "tip": "Tip：NULCHART by BOXCTRL"
+      },
+      "release": "backup-4000-4999",
+      "sha256": "67be6ae9bf4f9ebbdd473ea923ea3067e8eaaaa8ec8c880aca9d877916535a56",
+      "size": 15522273,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-4000-4999/4344.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "BOX2000",
+  "composer": "Silentroom",
+  "created": null,
+  "description": "",
+  "difficulty": 15.300001,
+  "id": 4344,
+  "illustrator": "Silentroom",
+  "level": "AT Lv.15",
+  "name": "NULCTRL",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:15:04Z",
+    "lastChanged": "2026-09-22T01:15:04Z",
+    "localBackup": {
+      "asset": "13545.zip",
+      "files": [
+        {
+          "path": "76060312.jpg",
+          "sha256": "129d15e592b6928cdc5e343f0ec85efd8f01107f8a7569abb3498e4f11e25f4c",
+          "size": 628585
+        },
+        {
+          "path": "76060312.json",
+          "sha256": "37764572dce46dd0d96ad1bfdc39118c31367d1baf7f1a7387b4f0cad074daae",
+          "size": 2947441
+        },
+        {
+          "path": "76060312.mp3",
+          "sha256": "0237b37be18c29de319aab81926eda859a77f886c3622e301566cef8ac20f27a",
+          "size": 3430653
+        },
+        {
+          "path": "info.txt",
+          "sha256": "a0f8d42629ee6be57470511ff30683495d87168d59d413eff07c3ddef47d15e4",
+          "size": 163
+        },
+        {
+          "path": "info.yml",
+          "sha256": "56391bf16b2b5ed3c66fb50fc86bbcb5c872dfd35e326ae6a711f636a51bb657",
+          "size": 703
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "76060312.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "76060312.jpg",
+        "lineLength": 6.0,
+        "music": "76060312.mp3",
+        "offset": 0.0,
+        "previewEnd": 105.0,
+        "previewStart": 90.0,
+        "tip": "以此「决心」，超越生死的边界"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "5d386bece564a8a5948710eea4acc9c683b326094c78f13d0813700cbee68dcf",
+      "size": 7008053,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13545.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-13T10:11:17.672745Z",
+  "charter": "DaysWaste-W",
+  "composer": "Sk-Kent",
+  "created": "2024-01-13T10:11:17.672745Z",
+  "description": "由谱师本人上传\n脑裂段是还原本家，初见可能会被创死，这边的建议是背谱和一些音押（\n4k段是伪4k，亲测双指可抗",
+  "difficulty": 15.600002,
+  "id": 13545,
+  "illustrator": "Taebi甜虾",
+  "level": "IN Lv.15",
+  "name": "Transcendence",
+  "tags": [],
+  "updated": "2024-01-13T10:11:17.672745Z",
+  "uploader": 50884
+}

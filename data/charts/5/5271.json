@@ -1,0 +1,80 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:15Z",
+    "lastChanged": "2026-09-22T01:05:15Z",
+    "localBackup": {
+      "asset": "5271.zip",
+      "files": [
+        {
+          "path": "5159675.json",
+          "sha256": "669442219b01a1e5827479259d7b2edf4e6b2c03ec2e5d8de72c9e9736d299ca",
+          "size": 3879157
+        },
+        {
+          "path": "5159675.mp3",
+          "sha256": "8236487011388119806c3b2114b6ac8b9edfdddfa66029847ad4e2e81588fa2b",
+          "size": 3935991
+        },
+        {
+          "path": "5159675.png",
+          "sha256": "59b5ee3fba27e17a7fa9589880219104794254b23c4830ee2d5f6b764f3a4158",
+          "size": 121661
+        },
+        {
+          "path": "aaaa.png",
+          "sha256": "b67e2eb03426922cfcede7a437294205f93a2aba4cadbf21942b5a615b727b3e",
+          "size": 24151
+        },
+        {
+          "path": "bbbb.png",
+          "sha256": "d0005a625867081030442062e5574b8a5804277884e08c58185700c67ede7cc0",
+          "size": 12057
+        },
+        {
+          "path": "info.txt",
+          "sha256": "13223dc172566b8f102f6a250e508abfd26e713b5fcdabf6c3bb182f3101657a",
+          "size": 220
+        },
+        {
+          "path": "info.yml",
+          "sha256": "2c3682a9058128ba583b0043df02dc77e459fca2d5218efc4df38c3d956c76cf",
+          "size": 588
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.8,
+        "chart": "5159675.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "5159675.png",
+        "lineLength": 6.0,
+        "music": "5159675.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "我有抑郁症"
+      },
+      "release": "backup-5000-5999",
+      "sha256": "2b212cbf69da3b5887317f78a5f6fa3daefe747868ac2ec6f6e42a1b2f7f1fb8",
+      "size": 7974511,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5271.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-13T19:17:45.210158Z",
+  "charter": "NEKOYOvs.鳝丝大爹",
+  "composer": "EndCat-终猫",
+  "created": "2023-07-13T19:17:45.210158Z",
+  "description": "原视频请到B站去搜NEKOYO_NKY喵",
+  "difficulty": 0.0,
+  "id": 5271,
+  "illustrator": "UK",
+  "level": "The Fake IN.114514",
+  "name": "星相运轨-The Fake of EndCat-(Badcore Mix)",
+  "tags": [],
+  "updated": "2023-07-13T19:17:45.210158Z",
+  "uploader": 8351
+}

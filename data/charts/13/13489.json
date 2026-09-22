@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:15:02Z",
+    "lastChanged": "2026-09-22T01:15:02Z",
+    "localBackup": {
+      "asset": "13489.zip",
+      "files": [
+        {
+          "path": "96507543.jpg",
+          "sha256": "6aa53ed7c55ab44f887ad39c79cbed8f9968b90becc478a9e198073673f5e3e8",
+          "size": 477527
+        },
+        {
+          "path": "96507543.json",
+          "sha256": "42ad014d70eeccd178179c174e38560c6062e3a708db7e879740cdaea210aaa7",
+          "size": 933988
+        },
+        {
+          "path": "96507543.mp3",
+          "sha256": "aad7277835c71bd541511e1d3c8330235e1ede586eb535b833d0d9417d56911a",
+          "size": 2085526
+        },
+        {
+          "path": "info.txt",
+          "sha256": "9392acfd198e4effdeda032c013a1b8964418a76b79a146badb2f6b6ecc27d37",
+          "size": 141
+        },
+        {
+          "path": "info.yml",
+          "sha256": "81c229fc61ee43674b9adb3a4e0aee1035b0882b2ca9b44863f0780240e042c3",
+          "size": 909
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 1.0,
+        "chart": "96507543.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "96507543.jpg",
+        "lineLength": 6.0,
+        "music": "96507543.mp3",
+        "offset": 0.0,
+        "previewEnd": 15.0,
+        "previewStart": 0.0,
+        "tip": "超难",
+        "unlockVideo": null
+      },
+      "release": "backup-13000-13999",
+      "sha256": "8af03d05f0e9f5777d85a9afa6b3cbc3fd621d29491cabf8ea7cb8832b31210f",
+      "size": 3498599,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13489.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-12T05:15:13.163805Z",
+  "charter": "LIFEhope",
+  "composer": "CS4W",
+  "created": "2024-01-12T05:15:13.163805Z",
+  "description": "不能糊糊的dr谱能有多难\n\n当年为了研究谱面一帧一帧的对着视频复刻下来的谱面，现在配置得益于这次转谱也算有所收获。\nQ：那你为什么发\nA：为了发出来用dr3的谱子创人\n\n在并非用于获利的前提下，此谱面仅供学习游玩用途，若有利用此谱面获利的情况下，请及时举报。这玩意免费",
+  "difficulty": 20.0,
+  "id": 13489,
+  "illustrator": "black.jpg",
+  "level": "Tier.15+",
+  "name": "CX-ronos",
+  "tags": [
+    "观赏谱",
+    "plain"
+  ],
+  "updated": "2024-01-12T05:15:13.163805Z",
+  "uploader": 10145
+}

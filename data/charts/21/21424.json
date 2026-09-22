@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:28:27Z",
+    "lastChanged": "2026-09-22T01:28:27Z",
+    "localBackup": {
+      "asset": "21424.zip",
+      "files": [
+        {
+          "path": "38362826.jpg",
+          "sha256": "01fb7655b0c3628013f953f7b89013b4fdd8e90027c3f09ed549e7cd8a141109",
+          "size": 224123
+        },
+        {
+          "path": "38362826.json",
+          "sha256": "d9e1eff798c531ef8e480c418f7da29e7886db15630b9ba60e75ad85fa50d289",
+          "size": 1802372
+        },
+        {
+          "path": "38362826.mp3",
+          "sha256": "9329d1339704dc435f8d55e095bbc3844ea5d87185d76b74050356c355ffdb81",
+          "size": 5049606
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b7e44c0ec7771ce14b2cc395e5afa372e976c47f610475b21bf187defac9aa61",
+          "size": 181
+        },
+        {
+          "path": "info.yml",
+          "sha256": "74344f5eece8ac743880360e00e586e841646a765f0b01609e66ed6498a90ab0",
+          "size": 533
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "38362826.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "38362826.jpg",
+        "lineLength": 6.0,
+        "music": "38362826.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-21000-21999",
+      "sha256": "a5ac5f413bf269c9671cc6346c3e62025870c2ba083e09f5ecdd26ff01d4a4e1",
+      "size": 7077323,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-21000-21999/21424.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "Korus_",
+  "composer": "JurokuNeta.",
+  "created": null,
+  "description": "谱师本人上传，b站@Korus_\n可能有不合理的配置，求轻喷",
+  "difficulty": 15.400002,
+  "id": 21424,
+  "illustrator": "UK",
+  "level": "IN Lv.15",
+  "name": "浮遊城-Living City#E6BBAD-",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

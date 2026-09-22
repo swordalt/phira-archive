@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:04:05Z",
+    "lastChanged": "2026-09-22T01:04:05Z",
+    "localBackup": {
+      "asset": "4756.zip",
+      "files": [
+        {
+          "path": "67638867.jpg",
+          "sha256": "a6d6f92b91efd4ef9e2be919b8ea51736e081d2138ffb50a8812c68b001e93a1",
+          "size": 251853
+        },
+        {
+          "path": "67638867.json",
+          "sha256": "bc35766e3b12f4dec87de14051c8411c1fa715d8a0e5ccd49653e251a81bd044",
+          "size": 549191
+        },
+        {
+          "path": "67638867.mp3",
+          "sha256": "6e497b94387aa5f0146da5ec3f93c2b8e2b26563dda9a3f068b7c8a333233e76",
+          "size": 7757013
+        },
+        {
+          "path": "info.txt",
+          "sha256": "9972a7a6dcc8b8942ef4dc2ffb1cca541fa75464c29b787c1b22f2cfca8f8d2d",
+          "size": 171
+        },
+        {
+          "path": "info.yml",
+          "sha256": "b5cd8d35bc03c3b8259e6df1a1c7f3a864dfb87b8f48173e422f823a5d175ec8",
+          "size": 546
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "67638867.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "67638867.jpg",
+        "lineLength": 6.0,
+        "music": "67638867.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "另一个我"
+      },
+      "release": "backup-4000-4999",
+      "sha256": "1b86957c994899721787038f1e5fbc97794501845600b817aa1db8792182ff12",
+      "size": 8559282,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-4000-4999/4756.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-06T05:46:58.887479Z",
+  "charter": "ChI·X·河",
+  "composer": "D_AAN,初音ミク",
+  "created": "2023-07-06T05:46:58.887479Z",
+  "description": "another me（16.9应该有吧）",
+  "difficulty": 16.899988,
+  "id": 4756,
+  "illustrator": "ZG",
+  "level": "AT Lv.16",
+  "name": "Another Me",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-07-06T05:46:58.887479Z",
+  "uploader": 25356
+}

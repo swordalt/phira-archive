@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:29:21Z",
+    "lastChanged": "2026-09-22T01:29:21Z",
+    "localBackup": {
+      "asset": "21906.zip",
+      "files": [
+        {
+          "path": "1719150121.ogg",
+          "sha256": "2fbabf32a1af25371f24be02b6dea26881b17875a382897387cfb8169f31c85a",
+          "size": 10513571
+        },
+        {
+          "path": "essence (From Malody).json",
+          "sha256": "e6b0f34b253ab14642b1240dbaa13905e5212cd4b8f0bc47699a559a048a5bd1",
+          "size": 3923862
+        },
+        {
+          "path": "info.csv",
+          "sha256": "5a83d8f23d151174a3102b17198474b4e6cd64bf01c2ccba795aff4b908521b6",
+          "size": 177
+        },
+        {
+          "path": "info.yml",
+          "sha256": "0170afc02828f28762710fd058e9d5096f4bed19fd109e5cf36609bda9629f04",
+          "size": 700
+        },
+        {
+          "path": "tmp_1719286602.jpg",
+          "sha256": "0e2792f5125d02414798947c1dfcbf9f50c9c2438e1c0eb52827dafe8cd5d906",
+          "size": 622291
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "essence (From Malody).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "tmp_1719286602.jpg",
+        "lineLength": 6.0,
+        "music": "1719150121.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "This,is the true essence ",
+        "unlockVideo": null
+      },
+      "release": "backup-21000-21999",
+      "sha256": "ceec27f56f89ff504eb669ee75437521bbc5514de90889600c7edfa6144e872a",
+      "size": 15061151,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-21000-21999/21906.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-25T11:33:10.745778Z",
+  "charter": "苹果 vs 天崽",
+  "composer": "takehirotei/HowToPlayLN",
+  "created": "2024-06-25T11:33:10.745778Z",
+  "description": "发布谱面屏元/手元请务必注明谱师信息\n感谢苹果RAGE手动输入bpm变化值",
+  "difficulty": 20.0,
+  "id": 21906,
+  "illustrator": "DannyPX Polytetral TheFunk",
+  "level": "Essence Lv.34",
+  "name": "Essence",
+  "tags": [
+    "plain"
+  ],
+  "updated": "2024-06-25T11:33:10.745778Z",
+  "uploader": 1009538
+}

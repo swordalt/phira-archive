@@ -1,0 +1,272 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:28:13Z",
+    "lastChanged": "2026-09-22T01:28:13Z",
+    "localBackup": {
+      "asset": "21156.zip",
+      "files": [
+        {
+          "path": "36172061.jpg",
+          "sha256": "1692767beb91ba40f2b46b4823b3977c308a08c1722a0ea705df76cfe2dbe809",
+          "size": 106722
+        },
+        {
+          "path": "36172061.json",
+          "sha256": "d0afad93c587fb95c27556361ee40d3bd467a0f05809ef5e8f79afd82a54bd28",
+          "size": 1514803
+        },
+        {
+          "path": "36172061.mp3",
+          "sha256": "942f5a7eccc1254ccd8d12e7215a7c1b0df83b92dbefeea4d820d87425583cc3",
+          "size": 999331
+        },
+        {
+          "path": "BEGIN 1.png",
+          "sha256": "8de895b69a56fff259de3f9fd331d8fde003a527a57c02cee184cdfbf303dc35",
+          "size": 34400
+        },
+        {
+          "path": "BEGIN 2.png",
+          "sha256": "bd312cb8c24382d4dd26fc7582178f8ffb135ba2d6583419acd508755bbfa918",
+          "size": 34404
+        },
+        {
+          "path": "BG FS.png",
+          "sha256": "4f59d82e4e2077492090e6f8d9eec8125c54a16a5a91e13e7247329eab709e30",
+          "size": 5649
+        },
+        {
+          "path": "BG MS.png",
+          "sha256": "6e689891ae7d06d781af737044b01efe1c2336f74033526f9b6b396f25bc4bb5",
+          "size": 9155
+        },
+        {
+          "path": "BR1.png",
+          "sha256": "6d08171e6d125e6fbd396e0ba609245e661813a4b713355bf32cd03a5ff42cab",
+          "size": 2483
+        },
+        {
+          "path": "BR2.png",
+          "sha256": "4ade225a300b8cf43b4fcfeded4fab477750d6e2686328ccf9b4a2a7d92b56ee",
+          "size": 1954
+        },
+        {
+          "path": "BRD.png",
+          "sha256": "b9447ac9309c681401c286138ddb08355574993b85be70e7995d604d46addb9b",
+          "size": 2965
+        },
+        {
+          "path": "D S.png",
+          "sha256": "0a0c01a355656fd997625fbd6187238b01c6798468d113403b30f58c42cc058c",
+          "size": 2621
+        },
+        {
+          "path": "D W 2.png",
+          "sha256": "3084ab53d77641a73d44bf8b9bb6539f3db90e2f04f696cf513b01003dc92ec5",
+          "size": 2560
+        },
+        {
+          "path": "D W.png",
+          "sha256": "a39aeb934ebea790d837cf1dee736154e60aef4acb27b8e96add6bdb5e78d7d4",
+          "size": 5080
+        },
+        {
+          "path": "G D.png",
+          "sha256": "936600360e67377bf1126098f94d55163f2cec62d7ac0d6167e8d5f83f39ad46",
+          "size": 1325
+        },
+        {
+          "path": "G W 1.png",
+          "sha256": "3233f7f70cba3a32ccd2862a2fbe364b893fe0cde3868114d84b3845530d918b",
+          "size": 1493
+        },
+        {
+          "path": "G W 2.png",
+          "sha256": "c4a65786e46ac468293899d1187ee096c7a96bac75e5a6411c80e1b0723dc1c4",
+          "size": 1526
+        },
+        {
+          "path": "L S.png",
+          "sha256": "d941786d929f14c7f834dca8aab1a6d5fd11923bf054f8f2550d63631270f341",
+          "size": 3718
+        },
+        {
+          "path": "L W 2.png",
+          "sha256": "460823ba7a700eb5e5cb88620edbd496e6f6f08c56b24ba53bdff49b730be442",
+          "size": 5030
+        },
+        {
+          "path": "L W.png",
+          "sha256": "69f5bc7bdf6a2a493c4f07c571f4386c3bb67d5e84989c81e8a0a004f44fbe9a",
+          "size": 3980
+        },
+        {
+          "path": "OB 1.png",
+          "sha256": "67ac1c55941ccdacb590b7b0bb9928036c6111113e9ccf406ac6657660bfaab1",
+          "size": 1469
+        },
+        {
+          "path": "OB 2.png",
+          "sha256": "687f1aee3820e37510183577c2c691f69363bab2dac2472a38be18dc2a84b215",
+          "size": 1379
+        },
+        {
+          "path": "OFFICE.png",
+          "sha256": "6466e081bfc41adca12a3fbe86acb06cb1363ea647b7092c7c5b1af3c9d44e22",
+          "size": 55406
+        },
+        {
+          "path": "PC.png",
+          "sha256": "f0640e76705117bfb94f1e23a9bf02e644262c90a05be3581365792574dd9b3f",
+          "size": 10566
+        },
+        {
+          "path": "PCI.png",
+          "sha256": "d09cb49a8e759f22fec86fb06e8e1df1d03f4e077aab83417a51346438ebcfe2",
+          "size": 9234
+        },
+        {
+          "path": "PCL.png",
+          "sha256": "1548b73c13e9ab089b7bd7404d61d728c00fff48e034ecae4c60f744b7f12fe8",
+          "size": 10252
+        },
+        {
+          "path": "PCO.png",
+          "sha256": "9a88e628a6791e62e66699f256e1a4a2dfd11c9e8fcf607dd2ea4b823ef12e1c",
+          "size": 11315
+        },
+        {
+          "path": "PCR.png",
+          "sha256": "543cae348c1c8ce4fd2c6073b9807e047bdba133dff403b7f1e9a28704b48135",
+          "size": 10517
+        },
+        {
+          "path": "PRL.png",
+          "sha256": "6dd81ac0fe29eff026f7db9b88f911329b61781a4260c27916a929d08058e261",
+          "size": 7654
+        },
+        {
+          "path": "PSD.png",
+          "sha256": "406ce4c96d7bb2d69eca7a1f0ac3523dff1557afeea574a9763acf426cd636df",
+          "size": 7404
+        },
+        {
+          "path": "PSU.png",
+          "sha256": "994ac91c7248c6ee7e609a9f1083bc1d905739a255642f413e52d2d5cad4c29b",
+          "size": 5580
+        },
+        {
+          "path": "Puro Happy.png",
+          "sha256": "e323d4c3510abd3cf24fde906edaf462accf10ff63fd982fbadd3c7d390adf6a",
+          "size": 14196
+        },
+        {
+          "path": "Puro Surprise.png",
+          "sha256": "091e7cf1e80f9c67ad586ae16267ce58400e8da18d91b1d476df2d66d36192b4",
+          "size": 7107
+        },
+        {
+          "path": "S D S.png",
+          "sha256": "6b39862c0c88f006f01604df3347165772e61f54df803fc82e39051ab06c6672",
+          "size": 6362
+        },
+        {
+          "path": "S D W.png",
+          "sha256": "f0506cce04a000a3da6a309e96d6a45625d14965efb816507071141e9b63f14e",
+          "size": 6127
+        },
+        {
+          "path": "S R S.png",
+          "sha256": "7033141a46315c11193482d8b400612bec162c770a09b3ad689bd772713d6cf6",
+          "size": 4496
+        },
+        {
+          "path": "S R W.png",
+          "sha256": "24820d784a7b0200bebc0d168314a41f35ad6ab7cd72b9417e84b62079b72f77",
+          "size": 5921
+        },
+        {
+          "path": "S U S.png",
+          "sha256": "a6b9d2ddc2a200cbf0a8fe5ea33bd78a30e84afa2b6f57ede70c1a8843e5d75f",
+          "size": 5661
+        },
+        {
+          "path": "S U W.png",
+          "sha256": "fbbed03c357d4a42b1564b3c6f86f2a06110fc352f6d1594a1c6851119298cc3",
+          "size": 4874
+        },
+        {
+          "path": "TITLE.png",
+          "sha256": "e30346375dd8a8c95d16777a35a9bc974dd9baae36fd3f378a3b512b4707cf6c",
+          "size": 4354
+        },
+        {
+          "path": "U S.png",
+          "sha256": "93fa85cfd1a711ce70555d3e054007e20a57009143fe75a705dd36283b50a57c",
+          "size": 6510
+        },
+        {
+          "path": "U W 2.png",
+          "sha256": "e1c69f8f71c27759be0f17c2f4bce2eb2d958ac22ab128bfa7caf1e76db31baa",
+          "size": 3903
+        },
+        {
+          "path": "U W.png",
+          "sha256": "6b5018ada32282f49871e6444bdc97875b3dbd4da97e9f7bcd3ea8f021642daa",
+          "size": 4489
+        },
+        {
+          "path": "info.txt",
+          "sha256": "66a5c674b012234c3a6da123cc72f311d2f6f9f02745c138b8ef38041e6604ce",
+          "size": 183
+        },
+        {
+          "path": "info.yml",
+          "sha256": "d5159c232eaea94bc147ac274dbb0f408e6cf6ab2027d6a309a4e60a5345dab8",
+          "size": 1047
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.5,
+        "backgroundDim": 0.5,
+        "chart": "36172061.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "36172061.jpg",
+        "lineLength": 6.0,
+        "music": "36172061.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "*看到有朝一日你在Phira上玩到了Changed，这使你DNA打结了（",
+        "unlockVideo": null
+      },
+      "release": "backup-21000-21999",
+      "sha256": "e1f3aa6817e013a6f3099595987b8f01c480bb9e60b02844da0eca43c30b5de0",
+      "size": 2949337,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-21000-21999/21156.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-22T16:18:56.842138Z",
+  "charter": "spacewalker",
+  "composer": "噬子",
+  "created": "2024-06-10T17:13:53.323641Z",
+  "description": "之前那个谱面无论是配置还是表演都太抽象了，我对不起兽屋之龙大大TAT，所以就有了这个重制版！这次就没那么抽象了，但是由于没什么灵感，所以没怎么写表演，再加上一直混乱的精神状态导致这个谱可能有点乱，见谅……\n如果你有什么建议，欢迎到B站搜索“spacewalkerDTR”联系我！",
+  "difficulty": 12.500002,
+  "id": 21156,
+  "illustrator": "兽屋之龙",
+  "level": "Remake Lv.12",
+  "name": "Crystal Zone（谱面重制）",
+  "tags": [
+    "Changed",
+    "谱面重制",
+    "Furry",
+    "特殊玩法",
+    "troll"
+  ],
+  "updated": "2024-06-22T16:18:56.842138Z",
+  "uploader": 30412
+}

@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:19:01Z",
+    "lastChanged": "2026-09-22T01:19:01Z",
+    "localBackup": {
+      "asset": "15983.zip",
+      "files": [
+        {
+          "path": "29025412.jpg",
+          "sha256": "dcf7d891457cd05ba5d2c935e9ddcfc8198662cf69b7a8095fe3abfe7d38a498",
+          "size": 132136
+        },
+        {
+          "path": "29025412.json",
+          "sha256": "8e97228e1b3f859cf2566f44c57a5963325b17f300bf77ebfb9a96fb93477cce",
+          "size": 238658
+        },
+        {
+          "path": "29025412.mp3",
+          "sha256": "9baad4d70e7ae928d9706e450b3b8e5fb9b095e43b168b6f32495b04f0e6a4f3",
+          "size": 2640716
+        },
+        {
+          "path": "info.txt",
+          "sha256": "53aa3296037f1d478d887422a098d14586ecbf2a43df215b8dc48febc04307b5",
+          "size": 149
+        },
+        {
+          "path": "info.yml",
+          "sha256": "845bde2734b60f4e6a846dc66084654af10ccc45e64e02a60a4f99ad12afef86",
+          "size": 683
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "29025412.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "29025412.jpg",
+        "lineLength": 6.0,
+        "music": "29025412.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip:打歌那么久,做个眼保健操吧!"
+      },
+      "release": "backup-15000-15999",
+      "sha256": "3ebc89435c40be6d9d8c9a5476cd0eb1a0518a0f87672febcbac9139daad00a7",
+      "size": 3012850,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15983.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-17T14:22:48.683845Z",
+  "charter": "huqi_",
+  "composer": "达君",
+  "created": "2024-02-17T14:22:48.683845Z",
+  "description": "做完之后，你有没有把眼珠子抠出来呢（bushi                            发视频标谱师                    谱师本人上传",
+  "difficulty": 17.0,
+  "id": 15983,
+  "illustrator": "来自网络&huqi_",
+  "level": "SP Lv.？",
+  "name": "眼保健操",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-02-17T14:22:48.683845Z",
+  "uploader": 293705
+}

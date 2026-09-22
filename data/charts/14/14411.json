@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:30Z",
+    "lastChanged": "2026-09-22T01:16:30Z",
+    "localBackup": {
+      "asset": "14411.zip",
+      "files": [
+        {
+          "path": "30808346.json",
+          "sha256": "2d09ad90bcad16f4b1cc39191d1c84afb175e96efb645a2574cd58f1992ee6cb",
+          "size": 1443125
+        },
+        {
+          "path": "30808346.mp3",
+          "sha256": "9954195d74eb08ef6b990c6ce17a69207c761efd86ffc4ba7bbafbc9841b0c52",
+          "size": 4033159
+        },
+        {
+          "path": "30808346.webp",
+          "sha256": "333b4ad6d40f429343d150a28328b49af4dc50146f1bdf778fcde7ca6c4a8ce7",
+          "size": 36264
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b5870d7978a2f6b2b5ed94c6e7c526a92e6dd839413688546557be6f7bf4b957",
+          "size": 180
+        },
+        {
+          "path": "info.yml",
+          "sha256": "6d413f86c800f649602a274e1b4843481337b2184778415c32849d1b2012ba26",
+          "size": 613
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "30808346.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "30808346.webp",
+        "lineLength": 6.0,
+        "music": "30808346.mp3",
+        "offset": 0.019999996,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip:欢迎来到匹诺康尼！",
+        "unlockVideo": null
+      },
+      "release": "backup-14000-14999",
+      "sha256": "de249ad10d578368e432951f50b38a4bf86dc56b0608986abad69d362990d5c7",
+      "size": 5513851,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14411.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-29T14:52:47.339704Z",
+  "charter": "爱熬夜的陈总",
+  "composer": "HOYO-MiX、张杰",
+  "created": "2024-01-29T14:52:47.339704Z",
+  "description": "B站：早期陈总",
+  "difficulty": 13.500001,
+  "id": 14411,
+  "illustrator": "miHoYo",
+  "level": "IN Lv.13",
+  "name": "不眠之夜",
+  "tags": [
+    "崩坏星穹铁道",
+    "regular"
+  ],
+  "updated": "2024-01-29T14:52:47.339704Z",
+  "uploader": 38930
+}

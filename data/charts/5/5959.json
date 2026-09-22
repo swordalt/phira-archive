@@ -1,0 +1,80 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:53Z",
+    "lastChanged": "2026-09-22T01:05:53Z",
+    "localBackup": {
+      "asset": "5959.zip",
+      "files": [
+        {
+          "path": "21531859.jpg",
+          "sha256": "ad4d46440283dc57e605c57ac46a9332cfcc67d355395afea3ecca46a1b733b3",
+          "size": 991
+        },
+        {
+          "path": "21531859.json",
+          "sha256": "d1f6fe0f700cf9b84ebae25334e87864c5398e84c99eaa5827337d41f3a448be",
+          "size": 70491
+        },
+        {
+          "path": "21531859.mp3",
+          "sha256": "4a6846cfb2464c7fc09f1ebef813edd36501eb1a22ddd8d6ecea6ee2b288b0dd",
+          "size": 478317
+        },
+        {
+          "path": "info.txt",
+          "sha256": "5486d9e631c0e57b53cc6b0ebe133bde1f093181581531fabf524cb3de15d968",
+          "size": 163
+        },
+        {
+          "path": "info.yml",
+          "sha256": "765c27fbb646189175feee5e93667b317f07346616d1f652490bf419c69fc797",
+          "size": 519
+        },
+        {
+          "path": "q.png",
+          "sha256": "243bcde27d88de9e04013a4fce3bfd9c63aaa94284168efb95d798341a048dbd",
+          "size": 4988
+        },
+        {
+          "path": "w.png",
+          "sha256": "ac1e163e9e4309c0e7c01445040e59d5c40eeed3e8b452397bd2a608389216d4",
+          "size": 6117
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "21531859.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "21531859.jpg",
+        "lineLength": 6.0,
+        "music": "21531859.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-5000-5999",
+      "sha256": "1cfc5ae2a753315819b5f93557029af953783712d808428ebe5d6abf986b29b2",
+      "size": 562266,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5959.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-24T09:03:20.235928Z",
+  "charter": "jm333",
+  "composer": "善意的爷",
+  "created": "2023-07-24T09:03:20.235928Z",
+  "description": "年轻真好，倒地就睡",
+  "difficulty": 1.0,
+  "id": 5959,
+  "illustrator": "善意的爷",
+  "level": "SJ Lv.1",
+  "name": "给爷睡觉！",
+  "tags": [],
+  "updated": "2023-07-24T09:03:20.235928Z",
+  "uploader": 65
+}

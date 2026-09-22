@@ -1,0 +1,82 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:21Z",
+    "lastChanged": "2026-09-22T01:07:21Z",
+    "localBackup": {
+      "asset": "7297.zip",
+      "files": [
+        {
+          "path": "98359913.jpg",
+          "sha256": "79ac25e64340cb244dcd53c4db088fe490d5d1370cc2b133bea7e0e9a55b0488",
+          "size": 504163
+        },
+        {
+          "path": "98359913.json",
+          "sha256": "f4219ae3c60966e245db21e073bcef239e150caf1d27e1bc0d1ea3f32493750a",
+          "size": 322454
+        },
+        {
+          "path": "98359913.mp3",
+          "sha256": "f6852c0433447229e1f68fdcebbad5bf4197788b037160295a64dbd6455c2a66",
+          "size": 232353
+        },
+        {
+          "path": "gens.jpg",
+          "sha256": "d5a379efdc6c8b0359e9bc12c693bccd303a2c3939306225f170f4426e10a83e",
+          "size": 146771
+        },
+        {
+          "path": "info.txt",
+          "sha256": "725871afc807ed54c0d22fe3c6f4cc63b1f8a4c146161a6071e4a751d17ed754",
+          "size": 180
+        },
+        {
+          "path": "info.yml",
+          "sha256": "8c1e236f5174332ef39b87105c464f582911fdf8adba57aaac0a9c25144441fa",
+          "size": 681
+        },
+        {
+          "path": "phigens.jpg",
+          "sha256": "de5b1ee2ae1a94da90b9f47cbab3a945b59c13fbb34a3d8946187af5c93b6a0c",
+          "size": 11940
+        }
+      ],
+      "info": {
+        "aspectRatio": 2.222222,
+        "backgroundDim": 1.0,
+        "chart": "98359913.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "98359913.jpg",
+        "lineLength": 6.0,
+        "music": "98359913.mp3",
+        "offset": 0.0,
+        "previewEnd": 17.0,
+        "previewStart": 0.0,
+        "tip": "ThursdayVivo50orguy_kunBANyourAccount"
+      },
+      "release": "backup-7000-7999",
+      "sha256": "fbb7abd228bc31512ccb7334731d725996bf66f83dd74ed792a1fc4be320e9e0",
+      "size": 1219240,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-7000-7999/7297.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "源神，七栋！",
+  "composer": "门酱DDD",
+  "created": null,
+  "description": "本人上传 （再次上传是因为原谱服务器里貌似搜不到了）\n✌\n\n写点啊恼iskktavok鞍山soezlz\n\nB站：BV1ij411z7Sq",
+  "difficulty": 3.999999,
+  "id": 7297,
+  "illustrator": "门酱は可愛いですねぇぇぇぇー\nわーーー",
+  "level": "PHI Lv.Genshin",
+  "name": "Phigros, 卸载",
+  "tags": [
+    "troll"
+  ],
+  "updated": null,
+  "uploader": null
+}

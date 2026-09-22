@@ -1,0 +1,100 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:12:08Z",
+    "lastChanged": "2026-09-22T01:12:08Z",
+    "localBackup": {
+      "asset": "12196.zip",
+      "files": [
+        {
+          "path": "84865665.jpg",
+          "sha256": "af64016e79a01022c627d2cb2eab78ec580d08cd332dea52a84f115b8ac49500",
+          "size": 577264
+        },
+        {
+          "path": "84865665.json",
+          "sha256": "5d1bf5eecbf93cee9057d72ca6f5d341f2a4019aa0448a58e8d05cd8ad8787ac",
+          "size": 5763983
+        },
+        {
+          "path": "84865665.mp3",
+          "sha256": "6af47acb03234505ff5625939c8dbc8509dd70eedc0fb94c15221044ebbd69cf",
+          "size": 2678278
+        },
+        {
+          "path": "extra.json",
+          "sha256": "e2ff41a8eec47f15b09355982f2e166224e21e9ddad48b2d0ddb9dde37cb0f8c",
+          "size": 343
+        },
+        {
+          "path": "info.txt",
+          "sha256": "f3f8b048928aedf332fa3b7f3fbdf8a73b07322ae52f44d49950c9fb6e97697d",
+          "size": 199
+        },
+        {
+          "path": "info.yml",
+          "sha256": "366d72310da4e16abbfe86adc526c4ccd61942a0a29c171d882b34120c8e55e6",
+          "size": 1123
+        },
+        {
+          "path": "lizitou.png",
+          "sha256": "28672adec34252f27e2afd00ee9d8b58a776b727d83ef5939901bbe828d4ed0d",
+          "size": 623220
+        },
+        {
+          "path": "otto.mp4",
+          "sha256": "63fe51be54dfeaf575ccec973b6b1a655ef79785a110fd1168dd0ab9db8cd627",
+          "size": 30853369
+        },
+        {
+          "path": "shuodedaoli.png",
+          "sha256": "b8c5428f3f573566bbe27f1bd3365b5ee6cd2f7a9d03ebb4699731410ea4630b",
+          "size": 572558
+        },
+        {
+          "path": "waao.png",
+          "sha256": "4f69ce40ff1ada541bd59cb3fb219974942314b0f13603d1c44700d5902647cd",
+          "size": 497676
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.25,
+        "chart": "84865665.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "84865665.jpg",
+        "lineLength": 6.0,
+        "music": "84865665.mp3",
+        "offset": 0.0,
+        "previewEnd": 75.0,
+        "previewStart": 60.0,
+        "tip": "tips:就你家UI满天飞是吧",
+        "unlockVideo": null
+      },
+      "release": "backup-12000-12999",
+      "sha256": "f4b0ad9b9404fb0dbb275fa70c4630d910b982478784effbcf0c530eddaadc24",
+      "size": 41569005,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12196.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "♿️MeowHell♿️",
+  "composer": "默雪SilentSnow",
+  "created": null,
+  "description": "谱师本人上传，新人第九谱\n初次接触UI，加上制谱器中途卡了，所以UI和贴图动效稍差，但是还是希望大家轻点评分\n谱师新活，整活太少人发现了，所以投常规\n在本谱面中，你将见到:\nUI转转转\n暂停键满天飞\n电棍三人组巡回演出\n旋转大陀螺\n超级塞爆\n电棍爆炸\n您谱面卡了\n除去为整活而塞爆的黄红之外，配置还算正常，是一个能打的16，祝大家玩的开心，制谱不易，还望给个五星\n可以来B站关注@梦幻不限量",
+  "difficulty": 16.5,
+  "id": 12196,
+  "illustrator": "谱师花三秒p了个电棍上去（",
+  "level": "AT Lv.16",
+  "name": "♿️+ERABY+E CONNEC+10N♿️",
+  "tags": [
+    "otto",
+    "电棍",
+    "troll"
+  ],
+  "updated": null,
+  "uploader": null
+}

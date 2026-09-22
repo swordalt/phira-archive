@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:15:48Z",
+    "lastChanged": "2026-09-22T01:15:48Z",
+    "localBackup": {
+      "asset": "13770.zip",
+      "files": [
+        {
+          "path": "29304991.jpg",
+          "sha256": "e47c11490b3efc1248ef883ee5da5461a4ec2a8d1581ef8ee8d582fe76b50135",
+          "size": 1390329
+        },
+        {
+          "path": "29304991.json",
+          "sha256": "22bc9070a53a8888c920e5e00b80e5bdf7151506d1bec85d2bb1d332abd489dc",
+          "size": 6955887
+        },
+        {
+          "path": "29304991.mp3",
+          "sha256": "2d9ea02c007e360a0a41ea0de362221df52b88c748ef79d10b19c39ca1e99f0a",
+          "size": 7068730
+        },
+        {
+          "path": "info.txt",
+          "sha256": "9d716d21cbc71c5e88ad1d2e366182faf6af423bcb040520f0c5b0acaa3e7337",
+          "size": 179
+        },
+        {
+          "path": "info.yml",
+          "sha256": "a1a3beead3792e35a7e0585692a0619c122f4e879ea311309613083a7e9498fd",
+          "size": 564
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "29304991.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "29304991.jpg",
+        "lineLength": 6.0,
+        "music": "29304991.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "『拖延症谱师在线求医』"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "d0fcbd6bb5ce12a9a6f7ada2296c347a3eba1592c4761a96a47b968f2acf71a0",
+      "size": 15416197,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13770.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-19T08:58:11.836490Z",
+  "charter": "Cele/Esama",
+  "composer": "Human Servant",
+  "created": "2024-01-19T08:58:11.836490Z",
+  "description": "『拖延症谱师在线求医』",
+  "difficulty": 16.300001,
+  "id": 13770,
+  "illustrator": "FISHXXXL",
+  "level": "IN Lv.16",
+  "name": "Acht Streiks",
+  "tags": [],
+  "updated": "2024-01-19T08:58:11.836490Z",
+  "uploader": 51985
+}

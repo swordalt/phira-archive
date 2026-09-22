@@ -1,0 +1,67 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:14:07Z",
+    "lastChanged": "2026-09-22T01:14:07Z",
+    "localBackup": {
+      "asset": "13091.zip",
+      "files": [
+        {
+          "path": "info.yml",
+          "sha256": "d4bb461e3850a92eb6aa1f98f7b9557d1fd85f44e50d2d935f24a141c84e4c35",
+          "size": 568
+        },
+        {
+          "path": "weli welo wela.mp3",
+          "sha256": "cc066f5dd823ffe69eccb222462d8c18878519ce07e333a94381319422d4033a",
+          "size": 3477337
+        },
+        {
+          "path": "weli welo wela.pec",
+          "sha256": "b07766ab9391faf3ae2dfb39bb682551f75dc9824450a02a320837bc7fc182b4",
+          "size": 164374
+        },
+        {
+          "path": "weli welo wela.png",
+          "sha256": "33c9d038edc003acb9de5a5e5cac429b9588d5979265e002c456f633445e5c1b",
+          "size": 1508745
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "weli welo wela.pec",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "weli welo wela.png",
+        "lineLength": 6.0,
+        "music": "weli welo wela.mp3",
+        "offset": 0.19999999,
+        "previewEnd": 35.0,
+        "previewStart": 15.0,
+        "tip": "We Live We Love We Lie"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "d57ae7465e683c8bdd4eb70b5c7bb1c241e6745c5dfbe8d84b0c20a2b907feff",
+      "size": 5151474,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13091.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-31T13:50:20.302008Z",
+  "charter": "名字到底怎么取呀",
+  "composer": "华漾Emoji",
+  "created": "2023-12-31T13:50:20.302008Z",
+  "description": "新年快乐！",
+  "difficulty": 16.7,
+  "id": 13091,
+  "illustrator": "UK",
+  "level": "EX Lv.16",
+  "name": "weli welo wela",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-12-31T13:50:20.302008Z",
+  "uploader": 74572
+}

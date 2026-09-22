@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:36Z",
+    "lastChanged": "2026-09-22T01:05:36Z",
+    "localBackup": {
+      "asset": "5769.zip",
+      "files": [
+        {
+          "path": "76665988.json",
+          "sha256": "0add8fb80d2bebf96e11bd13a0858d0aa7afd98a0c1dc0e3bb8296d363be438c",
+          "size": 3497485
+        },
+        {
+          "path": "76665988.mp3",
+          "sha256": "eca1911881a09079e6a40427468c469a44304768f485f4c02553edf7f233e948",
+          "size": 7776921
+        },
+        {
+          "path": "76665988.png",
+          "sha256": "061126b61ab8b8c7b3ea5ea29ddec919e57e24d2dce00c511745ae28728309d7",
+          "size": 4909337
+        },
+        {
+          "path": "info.txt",
+          "sha256": "7419be9d86db3b82fabdae23cb02642c1070c33b5451db39ec2724d236558c1c",
+          "size": 175
+        },
+        {
+          "path": "info.yml",
+          "sha256": "0b41e45b3c03fad1eece454c6cd3d53a248f216d28ddac35c2e9f820173276d1",
+          "size": 511
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "76665988.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "76665988.png",
+        "lineLength": 6.0,
+        "music": "76665988.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "理论纯双指可解（迫真）"
+      },
+      "release": "backup-5000-5999",
+      "sha256": "30f775f4ca0cd96869961ce2c9c623dceb22eb1688a22141bc694b0aad365233",
+      "size": 16184937,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5769.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "Qwehhh",
+  "composer": "打打だいず",
+  "created": null,
+  "description": "鸽了五个多月咕咕",
+  "difficulty": 16.2,
+  "id": 5769,
+  "illustrator": "SEGA",
+  "level": "IN Lv.16",
+  "name": "World's end loneliness",
+  "tags": [
+    "maimai",
+    "纯双指",
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

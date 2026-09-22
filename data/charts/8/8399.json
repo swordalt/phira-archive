@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:13Z",
+    "lastChanged": "2026-09-22T01:08:13Z",
+    "localBackup": {
+      "asset": "8399.zip",
+      "files": [
+        {
+          "path": "28366546.json",
+          "sha256": "506c8bf5cecc90cb493a954835c6ada52a9b41942e4b4439d1ab11541bcd6f43",
+          "size": 1749790
+        },
+        {
+          "path": "28366546.mp3",
+          "sha256": "d270272861e1dd233c8e068144b0e880aee70ae96e9d1b257b0bdcc947123ecc",
+          "size": 4765768
+        },
+        {
+          "path": "28366546.png",
+          "sha256": "3cda639757e775fc5644ba140e2fd20820f8b3bd164d47b5e4d7151be1010fae",
+          "size": 325465
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ead7c2475a987b9aabf9a0a7b827b7fe798d414f80c7a3459d9680cccae69f67",
+          "size": 180
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5e889fc7ec39645bae03e78a92cbac1d74d55dde0703c1aee5dfb979ad8370e5",
+          "size": 666
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.39999998,
+        "chart": "28366546.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "28366546.png",
+        "lineLength": 6.0,
+        "music": "28366546.mp3",
+        "offset": 0.0,
+        "previewEnd": 35.0,
+        "previewStart": 21.5,
+        "tip": null
+      },
+      "release": "backup-8000-8999",
+      "sha256": "8ed1dd863873ac407cbb3eb27078057b53da3ef43ce113024fac014044e32a21",
+      "size": 6842377,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-8000-8999/8399.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-25T19:09:04.780977Z",
+  "charter": "WZL小林",
+  "composer": "Cheetah Mobile Games ",
+  "created": "2023-08-25T19:09:04.780977Z",
+  "description": "我制作的第一张完整谱面，如果有什么毛病的话，请大家多多指教，我也会不断地改进，b站同名",
+  "difficulty": 12.500002,
+  "id": 8399,
+  "illustrator": "Cheetah Mobile Games ",
+  "level": "IN Lv.12",
+  "name": "The End - Theo5970",
+  "tags": [],
+  "updated": "2023-08-25T19:09:04.780977Z",
+  "uploader": 97724
+}

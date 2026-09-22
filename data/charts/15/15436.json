@@ -1,0 +1,75 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:18:38Z",
+    "lastChanged": "2026-09-22T01:18:38Z",
+    "localBackup": {
+      "asset": "15436.zip",
+      "files": [
+        {
+          "path": "68399682.json",
+          "sha256": "9c3a89906eb617703749ea06774afd6933ee34c67c970bcfa12c5416065cb0b8",
+          "size": 35135507
+        },
+        {
+          "path": "68399682.mp3",
+          "sha256": "93dd9faa279d074ddc0f7a1ec45e87813316d1f80e0ca724a88e9d01b17be414",
+          "size": 7990628
+        },
+        {
+          "path": "68399682.png",
+          "sha256": "af4b14c40f6f57b534b763b669323775b551a8f65b90155e152252890a734c54",
+          "size": 3013308
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ca7ab8903ebe02a358dabe22f924804789fd1c52ca9cfa62d2d8ba80c7e78928",
+          "size": 192
+        },
+        {
+          "path": "info.yml",
+          "sha256": "cd96c06322654a109aa7e20f4f24a7111449863b8c2fd9130c1e0f3dcbd73286",
+          "size": 845
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "68399682.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "68399682.png",
+        "lineLength": 6.0,
+        "music": "68399682.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "I'm Raven Emperor",
+        "unlockVideo": null
+      },
+      "release": "backup-15000-15999",
+      "sha256": "fd52f625437467dd7bf4377c7901ae0c323807b4e2c46f2e6eba427400546639",
+      "size": 46140988,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15436.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-12T04:08:39.854751Z",
+  "charter": "Felicks_FoX vs 鹤舞樂懿",
+  "composer": "Kobaryo",
+  "created": "2024-02-12T04:08:39.854751Z",
+  "description": "很高兴能邀请不著名谱师 鹤舞樂懿 共同写这张谱面\n感谢 鹤舞樂懿 提出的诸多意见，原谱为FJC 1ST 残谱 \nbilibili:Felicks_FoX\nQQ:\n鹤舞樂懿:615267506\n\nFelicks_FoX:我是掠夺皇帝\n鹤舞樂懿:？（指谱面）",
+  "difficulty": 15.900001,
+  "id": 15436,
+  "illustrator": "Kobaryo",
+  "level": "AT Lv.15",
+  "name": "Raven Emperor (Absolute Version)",
+  "tags": [
+    "FJC",
+    "庆音杯",
+    "regular"
+  ],
+  "updated": "2024-02-12T04:08:39.854751Z",
+  "uploader": 5366
+}

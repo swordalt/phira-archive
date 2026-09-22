@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:42Z",
+    "lastChanged": "2026-09-22T01:05:42Z",
+    "localBackup": {
+      "asset": "5811.zip",
+      "files": [
+        {
+          "path": "60519056.jpg",
+          "sha256": "ef8f9aa94d5de374f9830e4677bd8cd75b7ce68ae5643531ab68d9fb1c2cc5dc",
+          "size": 437352
+        },
+        {
+          "path": "60519056.json",
+          "sha256": "4e712693ae88cb3f01ba09a34e7b0ebcd1cea3d1e83f13d7da0d7114c2afa2f1",
+          "size": 323121
+        },
+        {
+          "path": "60519056.ogg",
+          "sha256": "9fdac5e84ccfd0b47b4274d8633f88d4658d904c95a063aa3276e890ac6c247d",
+          "size": 6472411
+        },
+        {
+          "path": "info.txt",
+          "sha256": "a9b0d1704956d467f217b5521372acfafcd218c33abcd277ef5a5842944f95c0",
+          "size": 181
+        },
+        {
+          "path": "info.yml",
+          "sha256": "d25a476e8669b07b4ea2f3759ec9590430ab419a3498ab947b54ef4b7ffa55d3",
+          "size": 566
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "60519056.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "60519056.jpg",
+        "lineLength": 6.0,
+        "music": "60519056.ogg",
+        "offset": 0.0,
+        "previewEnd": 77.08,
+        "previewStart": 62.08,
+        "tip": "tip：封面是男孩子哟~",
+        "unlockVideo": null
+      },
+      "release": "backup-5000-5999",
+      "sha256": "aeacca2c66600881843413475acf46176b25d7fa6068fcbb24e02088eaa619a2",
+      "size": 7234139,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5811.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "AwlF Versus aWLf",
+  "composer": "ツユ",
+  "created": null,
+  "description": "能打的sp~\nBV1x94y1q7G5\n手元请@我哦",
+  "difficulty": 14.9,
+  "id": 5811,
+  "illustrator": "SEGA ART TEAM",
+  "level": "SP Lv.14",
+  "name": "テリトリーバトル",
+  "tags": [
+    "垂直判定练习",
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

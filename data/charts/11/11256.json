@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:10:58Z",
+    "lastChanged": "2026-09-22T01:10:58Z",
+    "localBackup": {
+      "asset": "11256.zip",
+      "files": [
+        {
+          "path": "81388028.jpg",
+          "sha256": "95c63d2b26ad6878a16b873f2ca3de2836ffe5edd67b54086dd0fb6520cb065a",
+          "size": 125989
+        },
+        {
+          "path": "81388028.json",
+          "sha256": "7cd990f0fc107686dc97c788a6c56adfc13ee3c6c539014f2a5e57d7128ce57c",
+          "size": 1650600
+        },
+        {
+          "path": "81388028.mp3",
+          "sha256": "d678842dfc6826b7686e2ae34a579f1c932e003fcdfcd9c018960344bd696775",
+          "size": 2023055
+        },
+        {
+          "path": "info.txt",
+          "sha256": "34bdf8771f0be0ac8472fea3198ea1d86b9460f748067f61cac81cb46d1e6a50",
+          "size": 151
+        },
+        {
+          "path": "info.yml",
+          "sha256": "8f661abdd77c669770c9b978d5401484d83bd5b6efadac497ebf16b0d13c39f3",
+          "size": 495
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "81388028.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "81388028.jpg",
+        "lineLength": 6.0,
+        "music": "81388028.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-11000-11999",
+      "sha256": "bf3cb41c46f96ea079cbea4e12e052a33666a06dcf954ff782a3ee9c3683e1f5",
+      "size": 3800798,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11256.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-07T14:48:11.787133Z",
+  "charter": "gchxhch",
+  "composer": "RoughSketch",
+  "created": "2023-11-07T14:48:11.787133Z",
+  "description": "",
+  "difficulty": 114514.0,
+  "id": 11256,
+  "illustrator": "UK",
+  "level": "114514",
+  "name": "666",
+  "tags": [
+    "糞",
+    "troll"
+  ],
+  "updated": "2023-11-07T14:48:11.787133Z",
+  "uploader": 5597
+}

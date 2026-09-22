@@ -1,0 +1,89 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:13:31Z",
+    "lastChanged": "2026-09-22T01:13:31Z",
+    "localBackup": {
+      "asset": "12727.zip",
+      "files": [
+        {
+          "path": "74322907.json",
+          "sha256": "1fefea04954cf207d68fc8f22880461d582b5f2839e5b9d99c8c2a10ae52ee86",
+          "size": 1788207
+        },
+        {
+          "path": "74322907.mp3",
+          "sha256": "b017045e262676b86a7519464bca899f59503ce6b14c5ba84abe85945b2d5852",
+          "size": 4193490
+        },
+        {
+          "path": "74322907.png",
+          "sha256": "5920fe79e2fcfcd8135dfd3b17d268e866ae1f40031cea8bcfefd2c3a5beac0e",
+          "size": 127858
+        },
+        {
+          "path": "backg2.png",
+          "sha256": "a57d1510e65352ea44bbc1d063ddfaec681f0186d2468e33572ac5aa85f53791",
+          "size": 7690
+        },
+        {
+          "path": "extra.json",
+          "sha256": "a604dfe60036a53e9ba7d625a2f219de19d6f97670a44abfc773b01926b3c9f1",
+          "size": 1257
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d606289c498d6cc2aaba3ca8cc60bb9b24db1410c3f9bdf2e7e39f2472959231",
+          "size": 159
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5b7adda1e246fa0858a8874299e9c3e82b0b44134e6debff59a45a42ccc41ee4",
+          "size": 828
+        },
+        {
+          "path": "yun.png",
+          "sha256": "9c0e01bf4db57560b3a6ed1db1b8cee04291e686d5934512731a9ce2bcda611a",
+          "size": 40131
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "74322907.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "74322907.png",
+        "lineLength": 6.0,
+        "music": "74322907.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tips:圣诞快乐，今年你看到雪了嘛"
+      },
+      "release": "backup-12000-12999",
+      "sha256": "dad822bd34c31de5323fc70196d682ba157b3590a8e67f9a41d4d6ad0d9621fd",
+      "size": 6160410,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12727.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-23T07:52:22.305098Z",
+  "charter": "YanY",
+  "composer": "さりあ",
+  "created": "2023-12-23T07:52:22.305098Z",
+  "description": "憋不住了！——圣诞特别版！（指加了特效）——感谢克鲁鲁·采佩西的故事板支持和指导，视频B站会于12.24晚上19:00发布，欢迎来支持，B站关注@超爱吃盐的盐盐 谢谢喵～\n本人上传，希望你喜欢(>▽<)",
+  "difficulty": 0.0,
+  "id": 12727,
+  "illustrator": "konachan",
+  "level": "SP Lv.?",
+  "name": "Christmas Festa",
+  "tags": [
+    "故事板",
+    "shader",
+    "regular"
+  ],
+  "updated": "2023-12-23T07:52:22.305098Z",
+  "uploader": 471275
+}

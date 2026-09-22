@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:19:18Z",
+    "lastChanged": "2026-09-22T01:19:18Z",
+    "localBackup": {
+      "asset": "16197.zip",
+      "files": [
+        {
+          "path": "41576213.jpg",
+          "sha256": "152fc72fba79746b47c6bbb469a84bfaf27afcf37266140f0084dc1dfc109037",
+          "size": 118466
+        },
+        {
+          "path": "41576213.json",
+          "sha256": "eb80e830b1986e7c5776cf210436aa11dbac42a5a47584da5e2b7cd5def31da8",
+          "size": 3909757
+        },
+        {
+          "path": "41576213.mp3",
+          "sha256": "c812e668527a269a1fa62b112312002e04c96e13477acc7fde55793ca3f2d6c6",
+          "size": 2763690
+        },
+        {
+          "path": "info.txt",
+          "sha256": "4a173e426c44f9055cfe25d854d3024782e97b62b8401b6c5e7018083200047d",
+          "size": 163
+        },
+        {
+          "path": "info.yml",
+          "sha256": "de8823f9eb4df104ec8db60590f90a1080a9686359665192100bca5b4815317e",
+          "size": 868
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.45000002,
+        "chart": "41576213.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "41576213.jpg",
+        "lineLength": 6.0,
+        "music": "41576213.mp3",
+        "offset": 0.0,
+        "previewEnd": 25.0,
+        "previewStart": 8.5,
+        "tip": "再也不玩屁股肉了！！！！！！！！！！！！！！！！！！！！！",
+        "unlockVideo": null
+      },
+      "release": "backup-16000-16999",
+      "sha256": "8e0fb72ce1806669836219bf11b6cd83ae13e05c9a3b2aae646ccb76ce3bc665",
+      "size": 6793452,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-16000-16999/16197.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "H1KAR1",
+  "composer": "H1KAR1 vs. kiko",
+  "created": null,
+  "description": "整活谱 很颠\n每次加线都会卡死 只能单线\n谱师本人上传\nkiko本人已授权使用他本人的音频\nxhs与bilibili不用标谱师 本来就粪 其他站只用标谱师\n有什么不足欢迎来QQ骂\n（QQ：1072750801 验证：16.27）\n（初次上传第二天：放错位置了QAQ）",
+  "difficulty": 16.900002,
+  "id": 16197,
+  "illustrator": "H1kar1",
+  "level": "AT Lv.I6",
+  "name": "+3K1K0+3 C0NN3C+10N",
+  "tags": [
+    "visual"
+  ],
+  "updated": null,
+  "uploader": null
+}

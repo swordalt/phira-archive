@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:53Z",
+    "lastChanged": "2026-09-22T01:08:53Z",
+    "localBackup": {
+      "asset": "9240.zip",
+      "files": [
+        {
+          "path": "64289620.jpg",
+          "sha256": "f459c4f30e68fb6e10419a9f4fa4180590fbe492390e32ea5980ad3deeddc603",
+          "size": 168494
+        },
+        {
+          "path": "64289620.json",
+          "sha256": "e50632be012b2e7f8f15cd994e795538b55b4392d53bb91ea18db6940983c00f",
+          "size": 11484369
+        },
+        {
+          "path": "64289620.mp3",
+          "sha256": "20103c6bd97c603f5cce9e1ebeebe476e308405c233587b1bcc42aca56d4d4f1",
+          "size": 3653290
+        },
+        {
+          "path": "info.txt",
+          "sha256": "4c81db65cb0c4c673ab5d320877cd0eba7cd74f67b6e4924d3b8520f58a2ce37",
+          "size": 179
+        },
+        {
+          "path": "info.yml",
+          "sha256": "9211b105a055b5e075b541344c8ba84b56ebdb1a8021c26879072cfc3ebc2594",
+          "size": 600
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "64289620.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "64289620.jpg",
+        "lineLength": 6.0,
+        "music": "64289620.mp3",
+        "offset": 0.0,
+        "previewEnd": 85.0,
+        "previewStart": 65.0,
+        "tip": "后现代古典音乐"
+      },
+      "release": "backup-9000-9999",
+      "sha256": "c3929917937e986203feea2e96e102fc75965c8b3301b6f5cef8cf36ae532c8c",
+      "size": 15307440,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-9000-9999/9240.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-09-10T04:24:15.526173Z",
+  "charter": "Moonlight_Rain 明雨",
+  "composer": "Beethoven & TSAR_",
+  "created": "2023-09-10T04:24:15.526173Z",
+  "description": "哇啊第一次写高难请多多包涵呜呜呜",
+  "difficulty": 16.0,
+  "id": 9240,
+  "illustrator": "Nobody",
+  "level": "IN Lv.16",
+  "name": "Moonlight Sonata（月光奏鸣曲）",
+  "tags": [],
+  "updated": "2023-11-11T02:18:14.829402Z",
+  "uploader": 24699
+}

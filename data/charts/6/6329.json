@@ -1,0 +1,94 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:29Z",
+    "lastChanged": "2026-09-22T01:06:29Z",
+    "localBackup": {
+      "asset": "6329.zip",
+      "files": [
+        {
+          "path": "198.jpg",
+          "sha256": "bc0a7b235a38167a3fc542a5b5596a62457e7642a6cf732e80e3aa060c0a64c2",
+          "size": 6362
+        },
+        {
+          "path": "33007960.jpg",
+          "sha256": "9386152a662e9dc4f41f7fcc93c50a5398c0f6fbb310e391faaa1bca032557d7",
+          "size": 49922
+        },
+        {
+          "path": "33007960.json",
+          "sha256": "3ce5ca3023518b721dabbcebf93f8ec170b830e69d6b7f1a3e3d4213e71a5734",
+          "size": 777283
+        },
+        {
+          "path": "33007960.mp3",
+          "sha256": "87acd3055e445314ca89d4bbe84d517570957a99a5b6caaa00388d0e2c8028e3",
+          "size": 526125
+        },
+        {
+          "path": "haipa.jpg",
+          "sha256": "dffac876faf4ede963a6e1a3702e7a25ad9ffc554d91988a073f6a82010f2a3d",
+          "size": 1148
+        },
+        {
+          "path": "info.csv",
+          "sha256": "1e03602cd6e013015b7faffaf4c5562437b5f42b177cf11a1c280f841fdd6ffe",
+          "size": 359
+        },
+        {
+          "path": "info.txt",
+          "sha256": "5427513c9b4e0ed16fe91789172c3ff080301dba9e43eeddbce33c64c7f5dc21",
+          "size": 190
+        },
+        {
+          "path": "info.yml",
+          "sha256": "258b1eba528fffb98d660ec1ef6b244c910f788931759bc93677db2f3ce1a085",
+          "size": 1276
+        },
+        {
+          "path": "pgrof.jpg",
+          "sha256": "d1806ab9610f1e8539707b610f2b06e7b558c2d47a0f62965d7a05a81665ed5a",
+          "size": 16543
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "33007960.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "33007960.jpg",
+        "lineLength": 6.0,
+        "music": "33007960.mp3",
+        "offset": 0.0,
+        "previewEnd": 50.0,
+        "previewStart": 37.0,
+        "tip": "Tip: 此录音内容仅个人看法，若出现错误请谅解。"
+      },
+      "release": "backup-6000-6999",
+      "sha256": "45746cee8fd4dadf3e9acb2a14f0d6b62c3ce2b813f76be9da1ee486f7cb5a83",
+      "size": 1380086,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6329.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-28T23:12:34.470140Z",
+  "charter": "FLAG in crazy哈哈哈哈哈哈哈哈哈",
+  "composer": "WhoRU",
+  "created": "2023-07-28T23:12:34.470140Z",
+  "description": "本人上传\nBilibili @FLAG_Xiaoqi\n\n录音和谱面内容仅为我个人看法，若有错误内容请谅解。 \n\n游玩时建议降低或关闭打击音效 八股取谱是我乱定的名字 \n曲师，谱师，画师都是我本人（废话） \n因为我看到一些无理智的评论，急了，即兴录了个音 \n然后又写了个谱（？） \n我真的觉得，有大部分人还需跟录音里面说的一样，还需理性看待每一个事情，而不是随便评头论足。 \n还有我真的不喜欢说脏话啊啊啊啊啊啊啊啊啊啊啊啊啊啊\n这谱，边写边笑，然后觉得我当时真的很傻",
+  "difficulty": 0.0,
+  "id": 6329,
+  "illustrator": "曲师谱师画师同一人？？？！！！",
+  "level": "?.vL PS",
+  "name": "八股取谱",
+  "tags": [
+    "故事板",
+    "storyboard",
+    "troll"
+  ],
+  "updated": "2023-07-28T23:12:34.470140Z",
+  "uploader": 457
+}

@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:40Z",
+    "lastChanged": "2026-09-22T01:09:40Z",
+    "localBackup": {
+      "asset": "10132.zip",
+      "files": [
+        {
+          "path": "67318482.json",
+          "sha256": "cd47f856404f1861578a40e466dd9a3d7990436ac6a3f6f7cafdf027566ec357",
+          "size": 2134949
+        },
+        {
+          "path": "67318482.mp3",
+          "sha256": "36c1afdf87ec8e06f247f7b952b099b94f7bc810316627b90a077f9dc0a27bbb",
+          "size": 2767774
+        },
+        {
+          "path": "67318482.png",
+          "sha256": "d609deec61e50d6d64b157ba365df119df0ff606d296307440d7eac77ddf15c9",
+          "size": 152010
+        },
+        {
+          "path": "info.txt",
+          "sha256": "00f62f4f711cf9bdd300c66c730a58dddcb8bc9cdd6adbefaca7350bf72c2f41",
+          "size": 188
+        },
+        {
+          "path": "info.yml",
+          "sha256": "05d4a156622ea4fa3d6a3f02b2c616957fa69ead116c31b41eb5c60c7213a0ab",
+          "size": 490
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.90000004,
+        "chart": "67318482.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "67318482.png",
+        "lineLength": 6.0,
+        "music": "67318482.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-10000-10999",
+      "sha256": "cb969a42c4bc496c3e2990a4d12d76a01620630067a28959b18a286405417e28",
+      "size": 5055919,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-10000-10999/10132.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "lage&南瓜",
+  "composer": "cosMo＠暴走P",
+  "created": null,
+  "description": "本人上传，另一位谱师同意上传",
+  "difficulty": 17.0,
+  "id": 10132,
+  "illustrator": "UK",
+  "level": "AT Lv.17",
+  "name": "デッドマンズバラッド",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

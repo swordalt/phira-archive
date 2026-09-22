@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:22:14Z",
+    "lastChanged": "2026-09-22T01:22:14Z",
+    "localBackup": {
+      "asset": "19049.zip",
+      "files": [
+        {
+          "path": "5794632.json",
+          "sha256": "026a3cdacde9021f0ea05000b8f35a1152aaee39c432c30fd4931c959cbd9f68",
+          "size": 1386047
+        },
+        {
+          "path": "5794632.ogg",
+          "sha256": "9f15d72ed8f5488c91422c2e09fda338227a9012ed439f3b8e0f2611f4eef346",
+          "size": 5826766
+        },
+        {
+          "path": "5794632.png",
+          "sha256": "0b4919e80f393848dafc9a9fd485cccd5371e8b2f84c00dd8c5e3d0ba8a33035",
+          "size": 410822
+        },
+        {
+          "path": "info.txt",
+          "sha256": "9e2b957613c943c75eeb36acea2e4df363d3dc5661ee15d28638bb8fdfdd0071",
+          "size": 147
+        },
+        {
+          "path": "info.yml",
+          "sha256": "7ea875c5f945bd8a861b078d9cc143a2a2286b6ee9a3b2bd2db64f5da547388b",
+          "size": 507
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "5794632.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "5794632.png",
+        "lineLength": 6.0,
+        "music": "5794632.ogg",
+        "offset": 0.04500001,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "ade4c3a8331674a5d72a3583175109a90543548fde7a19d74b49b952178b0291",
+      "size": 7624791,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19049.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "SearchAbyss",
+  "composer": "Tanger",
+  "created": null,
+  "description": "ADOFAI手法还原，上个版本最后一点写错了，新版已改",
+  "difficulty": 17.0,
+  "id": 19049,
+  "illustrator": "截图",
+  "level": "ADOFAI Lv.20.8",
+  "name": "BIKE",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

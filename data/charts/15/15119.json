@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:55Z",
+    "lastChanged": "2026-09-22T01:17:55Z",
+    "localBackup": {
+      "asset": "15119.zip",
+      "files": [
+        {
+          "path": "1642244733.ogg",
+          "sha256": "57092405546c62e9d166a3b28773cdf3161ef81136a44644c4713c86d048eb12",
+          "size": 2867640
+        },
+        {
+          "path": "Hello(bpm)2021(From Malody).json",
+          "sha256": "9fa8fec5163104d24c5061a2d63680f0dcf20d4d5fced2f97e05f2cb4fb1e88a",
+          "size": 2827850
+        },
+        {
+          "path": "info.txt",
+          "sha256": "e8c23637042c7be9b024a3c3a880be0d9f055ae143c6ec593d4bc003056d2c0d",
+          "size": 178
+        },
+        {
+          "path": "info.yml",
+          "sha256": "64c038e5f84521665de543817c6e92beb57e5349361530d1b02a97c19a3954ce",
+          "size": 563
+        },
+        {
+          "path": "mmexport1642248999635.jpg",
+          "sha256": "0302b84ed538bc818632941d563f82f03c524fd1c3cf0d174594829161844e54",
+          "size": 393216
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "Hello(bpm)2021(From Malody).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "mmexport1642248999635.jpg",
+        "lineLength": 6.0,
+        "music": "1642244733.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "这里是philody（doge"
+      },
+      "release": "backup-15000-15999",
+      "sha256": "b4ce7a6a4ef8ecb05eeb219b7ff540b2f15c03e1a9fdf5e5b46b49fa9f579a5c",
+      "size": 6090023,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15119.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-09T08:07:47.740331Z",
+  "charter": "QF-WinD",
+  "composer": "Unknown",
+  "created": "2024-02-09T08:07:47.740331Z",
+  "description": "HAPPY NEW YEAR！！！",
+  "difficulty": 5.9,
+  "id": 15119,
+  "illustrator": "UK",
+  "level": "ULTRA Lv.2021",
+  "name": "Hello(bpm)2021",
+  "tags": [],
+  "updated": "2024-02-09T08:07:47.740331Z",
+  "uploader": 1046
+}

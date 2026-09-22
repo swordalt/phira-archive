@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:38Z",
+    "lastChanged": "2026-09-22T01:21:38Z",
+    "localBackup": {
+      "asset": "18525.zip",
+      "files": [
+        {
+          "path": "58466538.json",
+          "sha256": "4497cd2f0fcc1d864678b93c5e8d829ab635ab011278ec95297a27df1dc7fd45",
+          "size": 3304020
+        },
+        {
+          "path": "58466538.mp3",
+          "sha256": "c0b6466562f9babe62f478c6e98736343d2c4af53008221e2685c2473a08c257",
+          "size": 7068284
+        },
+        {
+          "path": "58466538.png",
+          "sha256": "6557d4794b07b313d2d243df11c98701399b31cafc3c5e5968606d4a98b01b24",
+          "size": 660678
+        },
+        {
+          "path": "info.txt",
+          "sha256": "0c7fedef845c0b9cc88b937a644c9347d367820369b6a588e91699f64f2c59ca",
+          "size": 171
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5c4f77ded941412793e542e4b0c6b015100e8a2ae6d7415a079f840514cab3b2",
+          "size": 471
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "58466538.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "58466538.png",
+        "lineLength": 6.0,
+        "music": "58466538.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-18000-18999",
+      "sha256": "620576d82cd6570b4043778d782f720d86a80481d7164f3cb8ad518d71fc1d87",
+      "size": 11034132,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-18000-18999/18525.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "Nothing but Twfixz :)",
+  "composer": "AiSS vs. Abit",
+  "created": null,
+  "description": "",
+  "difficulty": 16.600002,
+  "id": 18525,
+  "illustrator": "UK",
+  "level": "AT Lv.16",
+  "name": "The Everlasting Rain",
+  "tags": [
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

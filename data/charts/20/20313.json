@@ -1,0 +1,90 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:24:47Z",
+    "lastChanged": "2026-09-22T01:24:47Z",
+    "localBackup": {
+      "asset": "20313.zip",
+      "files": [
+        {
+          "path": "38746779.jpg",
+          "sha256": "cf0a2239ba20e09bafdf86c94e6555a8cee04eb481db8d743ae54033dfb7b7b3",
+          "size": 138372
+        },
+        {
+          "path": "38746779.json",
+          "sha256": "c78930555631e0053098360cf572d3bff58d88e67f3d902ac4a91c585c536f22",
+          "size": 5306075
+        },
+        {
+          "path": "38746779.mp3",
+          "sha256": "26e35c5f3cd5fb65182a70f8a9c27257bec50b2134bfb392c39d0af70755bce2",
+          "size": 3277691
+        },
+        {
+          "path": "info.txt",
+          "sha256": "555a00bc00bda08db6568a60ead3c3d762907dfbb134a604a6ef90960dad6650",
+          "size": 164
+        },
+        {
+          "path": "info.yml",
+          "sha256": "619d6e3bcefb00850adc2753619638437000f6bc20c52294b47a9f03f5807f42",
+          "size": 1081
+        },
+        {
+          "path": "lizitou.png",
+          "sha256": "28672adec34252f27e2afd00ee9d8b58a776b727d83ef5939901bbe828d4ed0d",
+          "size": 623220
+        },
+        {
+          "path": "shuodedaoli.png",
+          "sha256": "b8c5428f3f573566bbe27f1bd3365b5ee6cd2f7a9d03ebb4699731410ea4630b",
+          "size": 572558
+        },
+        {
+          "path": "waao.png",
+          "sha256": "4f69ce40ff1ada541bd59cb3fb219974942314b0f13603d1c44700d5902647cd",
+          "size": 497676
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.95,
+        "chart": "38746779.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "38746779.jpg",
+        "lineLength": 6.0,
+        "music": "38746779.mp3",
+        "offset": 0.0,
+        "previewEnd": 113.0,
+        "previewStart": 93.0,
+        "tip": "Tips:表情最丰富的一集",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "6c5600ac634d635177d1005af46b1815fdbc23c41765a9653d9c10976f72fbee",
+      "size": 10417641,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20313.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-25T04:01:20.289841Z",
+  "charter": "喵幻幻幻",
+  "composer": "ZlayerY",
+  "created": "2024-05-25T04:01:20.289841Z",
+  "description": "大家期待的主线终于更新啦\n解锁方式:游玩crush beta并达到A评级\n主线剧情概述：电棍在说的道理服务器抢到了飞船，成功的飞上宇宙并开始朝着吉吉服务器的方向前进，不过说的道理服务器也派人开始追杀电棍，在追杀了几个小时后，电棍趁着说的道理们给飞船添加动力的时候一个加速逃走甩开了他们\n制谱不易，还望给个五星OwO\n祝大家玩的开心~\n记得B站关注@梦幻不限量，爱你哦",
+  "difficulty": 14.700003,
+  "id": 20313,
+  "illustrator": "ZlayerY",
+  "level": "IN Lv.14",
+  "name": "♿EMOMOMO♿",
+  "tags": [
+    "OTTO",
+    "otto",
+    "troll"
+  ],
+  "updated": "2024-05-25T04:01:20.289841Z",
+  "uploader": 15214
+}

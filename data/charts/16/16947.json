@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:20:01Z",
+    "lastChanged": "2026-09-22T01:20:01Z",
+    "localBackup": {
+      "asset": "16947.zip",
+      "files": [
+        {
+          "path": "91832540.json",
+          "sha256": "2eb06b49db944d6238cec6ce52c64a04263fa5539941288d5691ce14221192cf",
+          "size": 4505004
+        },
+        {
+          "path": "91832540.mp3",
+          "sha256": "bcaac7273985a28e927ec7fc2e3b151b9417f84a3338a9efa3560e1a1caa6165",
+          "size": 4587228
+        },
+        {
+          "path": "91832540.png",
+          "sha256": "418a1c4f44527cb5750d6ef24cf7dbdd73b009103eb5016ffd84516371fd85b1",
+          "size": 725871
+        },
+        {
+          "path": "info.txt",
+          "sha256": "cc37524c7e614778c24a0c7bc62667e8cbdcd9ac69359074351abc6445b76020",
+          "size": 152
+        },
+        {
+          "path": "info.yml",
+          "sha256": "0d864f3530475acce694b30ff7075ef4a4eaa60996fbfda95c8be5e5a8a90558",
+          "size": 651
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "91832540.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "91832540.png",
+        "lineLength": 6.0,
+        "music": "91832540.mp3",
+        "offset": 0.0,
+        "previewEnd": 23.0,
+        "previewStart": 8.0,
+        "tip": "很好的儿童金曲，使我的红键旋转",
+        "unlockVideo": null
+      },
+      "release": "backup-16000-16999",
+      "sha256": "66d5fa481465185d849a9507154262021a15e12a2b0372504e149d7d2bb53bf4",
+      "size": 9819414,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-16000-16999/16947.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-03-09T16:24:53.473716Z",
+  "charter": "LanF",
+  "composer": "LeaF",
+  "created": "2024-03-09T16:24:53.473716Z",
+  "description": "b站有视频，大家可以去评论区提建议awa\n版权原因，phira的曲绘和网盘中不同(",
+  "difficulty": 15.500002,
+  "id": 16947,
+  "illustrator": "Optie",
+  "level": "AT Lv.15",
+  "name": "もぺもぺ",
+  "tags": [],
+  "updated": "2024-03-19T16:29:28.169635Z",
+  "uploader": 33817
+}

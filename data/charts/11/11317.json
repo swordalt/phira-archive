@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:04Z",
+    "lastChanged": "2026-09-22T01:11:04Z",
+    "localBackup": {
+      "asset": "11317.zip",
+      "files": [
+        {
+          "path": "32697353.jpg",
+          "sha256": "d3bc8d352d337616792e5ac3714ef2bcdf68fb5d91d2aaf996c2ef7f59e23bf7",
+          "size": 529193
+        },
+        {
+          "path": "32697353.json",
+          "sha256": "8c09137d9a63908b8c71df2aabac47ed6abeb5607a1029607b67d2741c029324",
+          "size": 133893
+        },
+        {
+          "path": "32697353.ogg",
+          "sha256": "60c6dc72337c5c4c4edaaa53722b1211b81af0b5f8b3c23fdaf514b01e131f0f",
+          "size": 1983425
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b90ace9bf0354abc113dbef550a9baafc1d8c2b2f71124dbc6f7a15c262bdd88",
+          "size": 143
+        },
+        {
+          "path": "info.yml",
+          "sha256": "0430287446d2007f36e59c169e716225b660250d07b86ce166118b52577903c3",
+          "size": 537
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "32697353.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "32697353.jpg",
+        "lineLength": 6.0,
+        "music": "32697353.ogg",
+        "offset": 0.0,
+        "previewEnd": 58.0,
+        "previewStart": 48.0,
+        "tip": "谱师，你要不要看看尾杀是什么？"
+      },
+      "release": "backup-11000-11999",
+      "sha256": "8795f76a9106b71cf5746c7ddf8910e4f7b26a06bb0b3a94694773fa74f69067",
+      "size": 2647699,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11317.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-10T14:24:48.494298Z",
+  "charter": "奇妙的光",
+  "composer": "Xect",
+  "created": "2023-11-10T14:24:48.494298Z",
+  "description": "第1次写哦",
+  "difficulty": 15.8,
+  "id": 11317,
+  "illustrator": "UK",
+  "level": "IN Lv.15",
+  "name": "Emptiness",
+  "tags": [],
+  "updated": "2023-11-10T14:24:48.494298Z",
+  "uploader": 360444
+}

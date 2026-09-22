@@ -1,0 +1,128 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:10:38Z",
+    "lastChanged": "2026-09-22T01:10:38Z",
+    "localBackup": {
+      "asset": "11146.zip",
+      "files": [
+        {
+          "path": "33631874.jpg",
+          "sha256": "7d86dc2f8f80f212bbb0e511e04024acb7210be8508f437616b4d140ac995ae2",
+          "size": 31316
+        },
+        {
+          "path": "33631874.json",
+          "sha256": "9da16397eb0ac7412724426647bd2d54e74f73d608dd8dfc0aa688f93256cd20",
+          "size": 153431
+        },
+        {
+          "path": "33631874.mp3",
+          "sha256": "ebb9be407f19aa3bef5f5bf8b98efb8c8119ede047bf87112069082822d0e1bf",
+          "size": 752396
+        },
+        {
+          "path": "AutoSave_2023_11_4_17_11_57_33631874.json",
+          "sha256": "9e439558b135e2797ad733bd50fd77675382e300a9af280cd9e22c500286afb2",
+          "size": 68193
+        },
+        {
+          "path": "AutoSave_2023_11_4_17_15_57_33631874.json",
+          "sha256": "d166789d7c2d6f9cdac4ae6abb83d148304aeb043cd371b03857597c0824a038",
+          "size": 78197
+        },
+        {
+          "path": "AutoSave_2023_11_4_17_19_57_33631874.json",
+          "sha256": "327c1d103b096abe85b96abe856d7c66f70d3004e98b5387f433a1c6a76995c0",
+          "size": 85318
+        },
+        {
+          "path": "AutoSave_2023_11_4_17_23_57_33631874.json",
+          "sha256": "6966816851043e972941d26c1c44557c25639ead3661f90ccbf169955160aefa",
+          "size": 94324
+        },
+        {
+          "path": "AutoSave_2023_11_4_17_27_57_33631874.json",
+          "sha256": "9e8a6ddd5a872aa22f49ef43423a25baec5d37234053f170c4f13d6aefaabddb",
+          "size": 102951
+        },
+        {
+          "path": "AutoSave_2023_11_4_17_31_57_33631874.json",
+          "sha256": "bad5ed3f80705139675fd34924dab0c2557702a60dfb502497d960682be87ab1",
+          "size": 114654
+        },
+        {
+          "path": "AutoSave_2023_11_4_17_35_57_33631874.json",
+          "sha256": "199457013837c7aa729c432a217c5cfdf97c21fe0ada7317c6731e1b5bb5e066",
+          "size": 121166
+        },
+        {
+          "path": "AutoSave_2023_11_4_17_39_57_33631874.json",
+          "sha256": "be1167ac8abd0816f2b13445f6ab5d2bbba77a2d314ed725c880707fafe06425",
+          "size": 128358
+        },
+        {
+          "path": "AutoSave_2023_11_4_17_3_57_33631874.json",
+          "sha256": "12cb469f029a4158a9e5c2f3110f614ef4c4d77939db0d8185255138a7c58155",
+          "size": 55665
+        },
+        {
+          "path": "AutoSave_2023_11_4_17_43_57_33631874.json",
+          "sha256": "4925a35c580e71ea1637fbeb8966e0e4144670e683de42305b9cc101d2c4d23b",
+          "size": 149568
+        },
+        {
+          "path": "AutoSave_2023_11_4_17_7_57_33631874.json",
+          "sha256": "5ea54ad204982a9ed81c1ad7efa6b1e15f27f6864efb0c5d3fa0f132788bf4b6",
+          "size": 62465
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b41aff80802567fc5825c4723f703ee255801fa00af2c409cc64f60ce806d8ec",
+          "size": 168
+        },
+        {
+          "path": "info.yml",
+          "sha256": "2912a36b1ceef28f9343c3d8fd3f47ce7fd506ad1babde4e8deb1045fea4051a",
+          "size": 649
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.55,
+        "chart": "33631874.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "33631874.jpg",
+        "lineLength": 6.0,
+        "music": "33631874.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "每次都想装作很倔强",
+        "unlockVideo": null
+      },
+      "release": "backup-11000-11999",
+      "sha256": "1949d4f7ad50a8614b6ff8b25a37bcb04e6f2b250ad7c700fb51a290538837cb",
+      "size": 2001061,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11146.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-04T10:15:10.269482Z",
+  "charter": "ZHIFEI PRINCE",
+  "composer": "JIAFEI/莫斯满/老猫",
+  "created": "2023-11-04T10:15:10.269482Z",
+  "description": "本铺由谱师本人发布，是铺师第一次做谱，动效做的不好sorry↓",
+  "difficulty": 10.000001,
+  "id": 11146,
+  "illustrator": "jiafei",
+  "level": "IN",
+  "name": "野花香【含尖叫】",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-11-04T10:15:10.269482Z",
+  "uploader": 15128
+}

@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:55Z",
+    "lastChanged": "2026-09-22T01:06:55Z",
+    "localBackup": {
+      "asset": "6742.zip",
+      "files": [
+        {
+          "path": "8324516.jpg",
+          "sha256": "7d1824aa8ced0bd0a0921f7aa34b9c7b3d9bcce2ce8222fa152bbe9ceb191311",
+          "size": 102760
+        },
+        {
+          "path": "8324516.json",
+          "sha256": "3e0c24c4295e4e5418854856f70246a545236e49092bd862f3154695163a989d",
+          "size": 377608
+        },
+        {
+          "path": "8324516.mp3",
+          "sha256": "1211b5e685a2bd34d1633d2f3f90146b04416d06f2202e6da6090d658774c633",
+          "size": 7812084
+        },
+        {
+          "path": "info.txt",
+          "sha256": "e78aa37f4096a09b88eb00301384c1dabe24825cca3163270dfd48326938f8d6",
+          "size": 171
+        },
+        {
+          "path": "info.yml",
+          "sha256": "ddd0e48411661003517633054f37b9c88163c8ad4048ef687938d5eba196581e",
+          "size": 531
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "8324516.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "8324516.jpg",
+        "lineLength": 6.0,
+        "music": "8324516.mp3",
+        "offset": 0.0,
+        "previewEnd": 161.0,
+        "previewStart": 143.6,
+        "tip": null
+      },
+      "release": "backup-6000-6999",
+      "sha256": "0bb34f56004cadb12fc0aa57e4efd0fb012208ab375ef742daf0bfec99d6918a",
+      "size": 8293656,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6742.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-03T10:53:37.861943Z",
+  "charter": "RGlhbW9uZHN3b3JkCg==",
+  "composer": "Kobaryo",
+  "created": "2023-08-03T10:53:37.861943Z",
+  "description": "特效完善中",
+  "difficulty": 16.300001,
+  "id": 6742,
+  "illustrator": "HARDCORE TANO*C",
+  "level": "AT.16",
+  "name": "Unlimited Hyperlink",
+  "tags": [],
+  "updated": "2023-08-03T10:53:37.861943Z",
+  "uploader": 23787
+}

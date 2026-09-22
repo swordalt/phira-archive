@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:25:09Z",
+    "lastChanged": "2026-09-22T01:25:09Z",
+    "localBackup": {
+      "asset": "20542.zip",
+      "files": [
+        {
+          "path": "88656048.json",
+          "sha256": "3f46324065720bf38bfa05b2a2fa75320c6add4568c0ee9fce03a9c5b691471c",
+          "size": 3341717
+        },
+        {
+          "path": "88656048.mp3",
+          "sha256": "7dc9cecdb4739644e28a4dae70d66f74a89b597544a9868c6a00ebc60b435229",
+          "size": 4747586
+        },
+        {
+          "path": "88656048.png",
+          "sha256": "64480d3dc96a5e12073e274c30174d67d5a73ed7f8c1aa7c995ce3d925b0c815",
+          "size": 1119284
+        },
+        {
+          "path": "info.txt",
+          "sha256": "bb943672d8445fb0ce0b987e34525fbae70e75fb0f824d033b64ff15151e479f",
+          "size": 157
+        },
+        {
+          "path": "info.yml",
+          "sha256": "fa17b75f5c3b568ba03049015d2b0cfbbb8834c1f7c9899bc37b1daa82d6f863",
+          "size": 690
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "88656048.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "88656048.png",
+        "lineLength": 6.0,
+        "music": "88656048.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "from Project Sekai, enjoy",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "7bb4c525ed283e02cff0b30dc962ccd91dd72fb10d69f00ed26d58784c35ea53",
+      "size": 9209942,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20542.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-30T22:28:00.827515Z",
+  "charter": "Calepam",
+  "composer": "アンメルツP",
+  "created": "2024-05-30T22:28:00.827515Z",
+  "description": "(en-GB) Finished in 2 weeks. At first I thought it would be another draft thrown away, but I persevered and finished it, and it turned out pretty well.",
+  "difficulty": 17.300001,
+  "id": 20542,
+  "illustrator": "SEGA",
+  "level": "AT Lv.17",
+  "name": "人生",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-06-08T15:07:56.027391Z",
+  "uploader": 862130
+}

@@ -1,0 +1,75 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:15Z",
+    "lastChanged": "2026-09-22T01:11:15Z",
+    "localBackup": {
+      "asset": "11402.zip",
+      "files": [
+        {
+          "path": "17176321.jpg",
+          "sha256": "3db0e909760de6a28a0ee42e33055713c3bcf2d73fa5d533d06d60691ed75ff4",
+          "size": 136968
+        },
+        {
+          "path": "17176321.json",
+          "sha256": "4bd1927639e41acfc60704df1bf390cb565814e3ab2f26006e656e0cb1318d22",
+          "size": 2431560
+        },
+        {
+          "path": "17176321.mp3",
+          "sha256": "4f9e20345b6495339a7f352c4b890c5804a5984ea6c8bec1f74798f8daaaeaf5",
+          "size": 6806359
+        },
+        {
+          "path": "info.txt",
+          "sha256": "721dbd4029903dae557c0195ed2d0936ac657f971bf4df525c21ad643eb67aec",
+          "size": 170
+        },
+        {
+          "path": "info.yml",
+          "sha256": "dd7c770e7475e6c0c59efb32c3e4f5baac99a44ac57d7ef90d54c710ecf00fe2",
+          "size": 543
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.70000005,
+        "chart": "17176321.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "17176321.jpg",
+        "lineLength": 6.0,
+        "music": "17176321.mp3",
+        "offset": 0.0,
+        "previewEnd": 130.0,
+        "previewStart": 110.0,
+        "tip": "我来出勤了！.jpg"
+      },
+      "release": "backup-11000-11999",
+      "sha256": "f0ed83944c026b1c009acf2fd542a69caee142e5a6a220743dae5e3939217d7f",
+      "size": 9376108,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11402.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "Safata.CLW",
+  "composer": "Laur vs 大国奏音",
+  "created": null,
+  "description": "谱面已发送至Bilibili 标签已标明出处",
+  "difficulty": 16.900002,
+  "id": 11402,
+  "illustrator": "yoshimo",
+  "level": "AT",
+  "name": "Latent Kingdom",
+  "tags": [
+    "Maimai",
+    "maimai",
+    "舞萌DX",
+    "plain"
+  ],
+  "updated": null,
+  "uploader": null
+}

@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:20:36Z",
+    "lastChanged": "2026-09-22T01:20:36Z",
+    "localBackup": {
+      "asset": "17657.zip",
+      "files": [
+        {
+          "path": "24230140.jpg",
+          "sha256": "0f183f5c09a6b4558e7b5836f10d7c721e11417d57202b303ed657bc79c815a0",
+          "size": 658365
+        },
+        {
+          "path": "24230140.json",
+          "sha256": "26a656b0ee96c03aaed3db0733c73f8b2ae7c2c1fdb1d7276c9bafb070ace1e8",
+          "size": 2462547
+        },
+        {
+          "path": "24230140.mp3",
+          "sha256": "d053336b7eaf7982dd693cac4b2a363a8be144b60ce02c946df20bb7e1ca1389",
+          "size": 2610990
+        },
+        {
+          "path": "info.txt",
+          "sha256": "8c6b9daa5f2e375568e99b33edb4faa71deea9903acf81b1c14fbd791ada6fdc",
+          "size": 158
+        },
+        {
+          "path": "info.yml",
+          "sha256": "68792220411a64bfa5dda5a5f179a2e11a75c6ef7d01c82808d77bd0f078776a",
+          "size": 538
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "24230140.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "24230140.jpg",
+        "lineLength": 6.0,
+        "music": "24230140.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip：本谱面的映射段的长条其实是假的，真实判定还是 Tap",
+        "unlockVideo": null
+      },
+      "release": "backup-17000-17999",
+      "sha256": "621862706c6a49eb95a013233353d42243f24c3c7f22425633bc6d4796949288",
+      "size": 5733106,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-17000-17999/17657.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "TRixLoid",
+  "composer": "-45",
+  "created": null,
+  "description": "本谱面由谱师本人上传",
+  "difficulty": 16.0,
+  "id": 17657,
+  "illustrator": "455-38B",
+  "level": "AT Lv.16",
+  "name": "G e n g a o z o",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

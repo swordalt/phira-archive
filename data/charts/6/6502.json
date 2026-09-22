@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:39Z",
+    "lastChanged": "2026-09-22T01:06:39Z",
+    "localBackup": {
+      "asset": "6502.zip",
+      "files": [
+        {
+          "path": "40294404.jpg",
+          "sha256": "8abe378a24d75ef9e1c8b054e859d9dbe6a8e0a0c9ee7bbfad62296ed46bf61e",
+          "size": 119581
+        },
+        {
+          "path": "40294404.json",
+          "sha256": "02fc56e08f4fbc0395bda068946fbe1ed035130bd2d30d22f32d97ee5541e592",
+          "size": 1473006
+        },
+        {
+          "path": "40294404.mp3",
+          "sha256": "0f6f7cbbb8033f4f5a6701e1237dcdcbc7eb9d01ea5e4bab942e2fb58648b21b",
+          "size": 5907034
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ed18a27c0b8e3063f7e312b333f96d8315781216348bb7a3cbaa2ddc156c1aaa",
+          "size": 149
+        },
+        {
+          "path": "info.yml",
+          "sha256": "318f7efdeb07602e30a71e66186e410f1495b905fa12c30fcc981fbee6ac0011",
+          "size": 630
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "40294404.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "40294404.jpg",
+        "lineLength": 6.0,
+        "music": "40294404.mp3",
+        "offset": 0.0,
+        "previewEnd": 101.0,
+        "previewStart": 86.0,
+        "tip": "削过了，但是4k还在，底力不行的请量力而行"
+      },
+      "release": "backup-6000-6999",
+      "sha256": "0ec09480768bada94aea2dec62ff039cbb4912f78f84f3c1dea2d932512ff000",
+      "size": 7500908,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6502.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-31T08:38:53.086245Z",
+  "charter": "Heulis",
+  "composer": "Blacklolita",
+  "created": "2023-07-31T08:38:53.086245Z",
+  "description": "谱面调整\n（感谢墓阳残月cy和jhnqsok的友情指导和赞助） (*^▽^*) ",
+  "difficulty": 15.8,
+  "id": 6502,
+  "illustrator": "UK",
+  "level": "IN",
+  "name": "【X】",
+  "tags": [
+    "多k",
+    "regular"
+  ],
+  "updated": "2023-07-31T08:38:53.086245Z",
+  "uploader": 9271
+}

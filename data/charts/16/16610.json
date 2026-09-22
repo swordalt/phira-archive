@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:19:39Z",
+    "lastChanged": "2026-09-22T01:19:39Z",
+    "localBackup": {
+      "asset": "16610.zip",
+      "files": [
+        {
+          "path": "32429004.json",
+          "sha256": "1dee4f2187cedb1e18f3059ace4a73c5d8692545fdd1fefd30731bac306fb9aa",
+          "size": 2708691
+        },
+        {
+          "path": "32429004.png",
+          "sha256": "5a3d61191bd767bdc4969cec2693c0b2033061d53600a78b8129f535e9b62638",
+          "size": 1327152
+        },
+        {
+          "path": "32429004.wav",
+          "sha256": "58292affec8042ea8fefb31e1e98925e488f2ff01bf18f908a0558204a003f99",
+          "size": 32421178
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b04142eb88d6a8ed1aa7009a10b7ef8614147c09e674a015064acd54be85d3fb",
+          "size": 158
+        },
+        {
+          "path": "info.yml",
+          "sha256": "96b18e3efca3901d2f9e833dfe77f1b7695d43f42cb90e0d030c84723c8269aa",
+          "size": 549
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "32429004.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "32429004.png",
+        "lineLength": 6.0,
+        "music": "32429004.wav",
+        "offset": 0.06399999,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip:You are the Hardcore get the race!",
+        "unlockVideo": null
+      },
+      "release": "backup-16000-16999",
+      "sha256": "4c0688f76a832c381686c456ba741bc0b9c9f77f2e7907fe4e624dab76bf08b1",
+      "size": 36458236,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-16000-16999/16610.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-03-02T05:56:42.734873Z",
+  "charter": "2884omgpy",
+  "composer": "Laur",
+  "created": "2024-03-02T05:56:42.734873Z",
+  "description": "",
+  "difficulty": 15.300001,
+  "id": 16610,
+  "illustrator": "UK",
+  "level": "IN Lv.15",
+  "name": "Chaos Emperor",
+  "tags": [],
+  "updated": "2024-03-02T05:56:42.734873Z",
+  "uploader": 302755
+}

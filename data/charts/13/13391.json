@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:14:55Z",
+    "lastChanged": "2026-09-22T01:14:55Z",
+    "localBackup": {
+      "asset": "13391.zip",
+      "files": [
+        {
+          "path": "42546797.json",
+          "sha256": "185310587c65c34d62ea0050e8b465d64e4629cf10bc0fcf20b90c2cbe52021d",
+          "size": 1064535
+        },
+        {
+          "path": "42546797.png",
+          "sha256": "f3b8de68f8a7e6118c1a1a119a765dde67023641d27d3cd79356f3ad1443b074",
+          "size": 4131
+        },
+        {
+          "path": "42546797.wav",
+          "sha256": "4da6df512228b6595b4950ca3cce8e267017c6e210d89b22c62d7904de71c7b4",
+          "size": 25981460
+        },
+        {
+          "path": "info.txt",
+          "sha256": "7130196cb0033dffa90e1827f589e3666a1c49304a6ee3c00cca46f8eb60897a",
+          "size": 145
+        },
+        {
+          "path": "info.yml",
+          "sha256": "a1e52274657cded72b19a0220c87d4a60e496de5594f080f94791ac4431e19dd",
+          "size": 507
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "42546797.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "42546797.png",
+        "lineLength": 6.0,
+        "music": "42546797.wav",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-13000-13999",
+      "sha256": "9b94b6aca22500a415a0838aef4dda0843c0fae6d31846ed480925c38f10001c",
+      "size": 27051286,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13391.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-07T15:20:57.764909Z",
+  "charter": "memzzmem",
+  "composer": "Sound Souler",
+  "created": "2024-01-07T15:20:57.764909Z",
+  "description": "第一次写谱(",
+  "difficulty": 14.500001,
+  "id": 13391,
+  "illustrator": "???",
+  "level": "IN Lv.14",
+  "name": "Dead Soul",
+  "tags": [],
+  "updated": "2024-01-07T15:20:57.764909Z",
+  "uploader": 12112
+}

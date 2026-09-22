@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:20:56Z",
+    "lastChanged": "2026-09-22T01:20:56Z",
+    "localBackup": {
+      "asset": "17947.zip",
+      "files": [
+        {
+          "path": "87332260.jpg",
+          "sha256": "b10422009e2f3f670f58200aeb47ee3b520a79db8acb18879d879da255505051",
+          "size": 10290571
+        },
+        {
+          "path": "87332260.json",
+          "sha256": "f5700c94f3e99d3e38cd8bdb7cceea69595d10990d7df4b789cb9dca0cc365e9",
+          "size": 2268426
+        },
+        {
+          "path": "87332260.mp3",
+          "sha256": "6171c4db2a7bc64d45b7e5598a64b3bd5369fac29797bd319ff80676416a053f",
+          "size": 3088274
+        },
+        {
+          "path": "info.txt",
+          "sha256": "76ec180d98f67007dcc75aa131b091a1edcd850fb8ae946de621e08ab83fb0da",
+          "size": 219
+        },
+        {
+          "path": "info.yml",
+          "sha256": "ba5add223776a282dc2bd43865614a069bb152c891ef76517b785330166a0a34",
+          "size": 711
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "87332260.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "87332260.jpg",
+        "lineLength": 6.0,
+        "music": "87332260.mp3",
+        "offset": 0.0,
+        "previewEnd": 180.22,
+        "previewStart": 165.22,
+        "tip": "答辩警告",
+        "unlockVideo": null
+      },
+      "release": "backup-17000-17999",
+      "sha256": "8194c011232adf00168de5c046b01cbe95c6855f3a2a523aa99ef1d2cc1bd3ea",
+      "size": 15648709,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-17000-17999/17947.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-04-02T12:11:03.355739Z",
+  "charter": "778Y0E",
+  "composer": "Nor&Salty Salt&shizuon",
+  "created": "2024-04-02T12:11:03.355739Z",
+  "description": "注：我是778Y0E本人，为了整活我把名字改了。1.51版本更新:由于谱面实在太答辩所以改分区了",
+  "difficulty": 17.500002,
+  "id": 17947,
+  "illustrator": "不知道",
+  "level": "AT Lv.17",
+  "name": "Re Aoharu hypertrance bootleg prod. Salty Salt & shizuon",
+  "tags": [
+    "visual"
+  ],
+  "updated": "2024-04-02T12:11:03.355739Z",
+  "uploader": 14238
+}

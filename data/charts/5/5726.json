@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:33Z",
+    "lastChanged": "2026-09-22T01:05:33Z",
+    "localBackup": {
+      "asset": "5726.zip",
+      "files": [
+        {
+          "path": "59347925.jpg",
+          "sha256": "fca30927894136f0276cc69dc69e60873e6d0f8581abf5cde2133b6eed6e846f",
+          "size": 52979
+        },
+        {
+          "path": "59347925.json",
+          "sha256": "f3c77d704171f64acd0f12590f1dc129bd4b3bf68f24236d0185293d1a7a4075",
+          "size": 284422
+        },
+        {
+          "path": "59347925.ogg",
+          "sha256": "e1f6eb21517826a3260a6ba03a253731f8703b20c01128e0d1e23cc2c922d32f",
+          "size": 2481400
+        },
+        {
+          "path": "info.txt",
+          "sha256": "f9057bfaf3e8e0bed63f391f0f91d4dca4078d0ae68fdb8f8074c832912ab8a1",
+          "size": 153
+        },
+        {
+          "path": "info.yml",
+          "sha256": "091071b09896cd94bdc8f913673411135e55e679074d9d8f9b9fa62e2f1a2a90",
+          "size": 679
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "59347925.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "59347925.jpg",
+        "lineLength": 6.0,
+        "music": "59347925.ogg",
+        "offset": 0.0,
+        "previewEnd": 80.0,
+        "previewStart": 70.0,
+        "tip": "不知道是什么的启示录，没有阴间变速！"
+      },
+      "release": "backup-5000-5999",
+      "sha256": "47528c6c4d4cd0e97431e39be9b87afc3888354295907b33cdccbd9fbf8d2e0e",
+      "size": 2820141,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5726.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-21T05:50:04.250516Z",
+  "charter": "Li",
+  "composer": "Juggernaut.",
+  "created": "2023-07-21T05:50:04.250516Z",
+  "description": "第三次的谱，这次没写阴间停顿和变态爆发，往尽量往爽谱方向走啦，b站上视频BV16z4y147Zz，欢迎有大佬来锐评",
+  "difficulty": 15.500002,
+  "id": 5726,
+  "illustrator": "Cube",
+  "level": "IN 15",
+  "name": "Apocaliptix",
+  "tags": [],
+  "updated": "2023-07-22T04:31:36.460928Z",
+  "uploader": 93670
+}

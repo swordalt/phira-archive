@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:14:24Z",
+    "lastChanged": "2026-09-22T01:14:24Z",
+    "localBackup": {
+      "asset": "13260.zip",
+      "files": [
+        {
+          "path": "85061056.json",
+          "sha256": "661e7f8f8d2abf5c4b3b80b74cd6b30397f10f10ddc5c3215aa6e0603a4efb8a",
+          "size": 2452198
+        },
+        {
+          "path": "85061056.mp3",
+          "sha256": "6635e62f6d1c7cae166e1acf187a1f736eb0c9e5df5750de128c0d6ce998741c",
+          "size": 2837139
+        },
+        {
+          "path": "85061056.png",
+          "sha256": "d40d09b7107a4b4352aaf5a48b86aa49fd86c0e5669b75a632afb8879152c4bd",
+          "size": 91630
+        },
+        {
+          "path": "info.txt",
+          "sha256": "adf4e763d865b64813467c19ad863617c8d952ea0e9620ccb8178a43e60f6b66",
+          "size": 164
+        },
+        {
+          "path": "info.yml",
+          "sha256": "858e3e1129be3913507e7cf54fe682f81b39d0f1c6470a26ef4030bf1a4e9f86",
+          "size": 576
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "85061056.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "85061056.png",
+        "lineLength": 6.0,
+        "music": "85061056.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "永恒之雨……下不完啊，是吗？"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "4ca6e5d1e7111b183273179a2b15ad0d4430a476a41e01c5a5f87796c52db9bc",
+      "size": 5382215,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13260.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-06T00:28:42.102085Z",
+  "charter": "伯山",
+  "composer": "AiSS",
+  "created": "2024-01-06T00:28:42.102085Z",
+  "description": "谱师b站伯山伯山伯（本人上传）",
+  "difficulty": 16.300001,
+  "id": 13260,
+  "illustrator": "老邦",
+  "level": "AT Lv.16",
+  "name": "The Everlasting Rain",
+  "tags": [],
+  "updated": "2024-01-06T00:28:42.102085Z",
+  "uploader": 19454
+}

@@ -1,0 +1,176 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:29:06Z",
+    "lastChanged": "2026-09-22T01:29:06Z",
+    "localBackup": {
+      "asset": "21905.zip",
+      "files": [
+        {
+          "path": "50445549.jpg",
+          "sha256": "addda6adf0383052d37f031c738bcb05e9d3508738ca1c240c04c55e2b74bac1",
+          "size": 267271
+        },
+        {
+          "path": "50445549.json",
+          "sha256": "6b39babcaf4d24d2d6b7c28ed9f868bd0153b23791438318cc7aa63838469a0f",
+          "size": 640629
+        },
+        {
+          "path": "50445549.mp3",
+          "sha256": "cff33f8c67935c55700fbc0401e41de6ffd98b071e29e56b7515fc904877ecc3",
+          "size": 2177678
+        },
+        {
+          "path": "B1.png",
+          "sha256": "1868122087d5a95e22b57daf5f5e932b22ac669b14fcab0c7d9ce81c494a8a09",
+          "size": 240391
+        },
+        {
+          "path": "B2.png",
+          "sha256": "f437a9897335c21bc239daa096eec9cbbb200911022ba56715b51e40a4f81976",
+          "size": 63368
+        },
+        {
+          "path": "B3.png",
+          "sha256": "4f7bb83c90cd577c9d89ac99c3a67228017beda4c560b6e1e646ae9f276ecf67",
+          "size": 138724
+        },
+        {
+          "path": "B5.png",
+          "sha256": "d9cafb10cda7fa5f815a713c35fc2140d36ea1d0b84001d56c92e829741faec5",
+          "size": 143251
+        },
+        {
+          "path": "ae.png",
+          "sha256": "4fdadcf3784107f3b91fe48a3d69f17663278374b0680f3c1c29383d52e83d0f",
+          "size": 1275514
+        },
+        {
+          "path": "ae1.png",
+          "sha256": "009b1d4385bf80cb483a46d7ff17820a81fc69fb3d023afede0303e39e5e15f4",
+          "size": 1275890
+        },
+        {
+          "path": "ae2.png",
+          "sha256": "6f048b6ab85a295fcb07daf43d3b4ec300caeeb2c81b00f3e677bbc2d4b529aa",
+          "size": 1277420
+        },
+        {
+          "path": "ae3.png",
+          "sha256": "6d018366ae2a86f1a1737c0c3c483b756645823e5fd041810738b1529f4ab7fc",
+          "size": 1277066
+        },
+        {
+          "path": "backg2.png",
+          "sha256": "a57d1510e65352ea44bbc1d063ddfaec681f0186d2468e33572ac5aa85f53791",
+          "size": 7690
+        },
+        {
+          "path": "boom.png",
+          "sha256": "eee104d33b82f06c744da6892113db1bb7c4e312bcf80469022e65dfbab8d040",
+          "size": 330920
+        },
+        {
+          "path": "chu.png",
+          "sha256": "47120db7ee3cf42d7e9d01ef96c5135f8dc8bf8837c27ca870c10cb5b8d1b2fe",
+          "size": 224535
+        },
+        {
+          "path": "hd1.png",
+          "sha256": "8a87c371098873d75063ea9f7be9925703db1a8c60f2790984bbb7ea7ce6548c",
+          "size": 259140
+        },
+        {
+          "path": "hd2.png",
+          "sha256": "ca529007c836033b3b9963fa747d27e1765ca033b158d1f235c63ba50ca2db77",
+          "size": 245965
+        },
+        {
+          "path": "hd3.png",
+          "sha256": "5453ca4e08ecb0f71c7a2fc043def63f97eaf104ba0be62838beea65b465fc91",
+          "size": 243816
+        },
+        {
+          "path": "hd4.png",
+          "sha256": "72470fcbd65765fd8e62c3cdab5d868c80e247f01509aec5d5d2042bbf57366e",
+          "size": 58644
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ec47afa8fe9297b2dd620e0edd69077d55aca1c3a46ec013cec2e8f42952097c",
+          "size": 146
+        },
+        {
+          "path": "info.yml",
+          "sha256": "1948df3197444f4195cea3111025ff65a53b500d5c6c087acd3ec063044ecf45",
+          "size": 861
+        },
+        {
+          "path": "pln1.png",
+          "sha256": "0a9d2f9fe41e78468592283b47a8596ead14be792b341a49eab23a5ce5b58f55",
+          "size": 1931970
+        },
+        {
+          "path": "pln2.png",
+          "sha256": "e7803c80c0579a642730ee6da89a9a707e77e46e6e68dc0896bfe9240a0db222",
+          "size": 1926823
+        },
+        {
+          "path": "pln7.png",
+          "sha256": "585121ef2597727aa4d9b2bc6f14a93b350b35faf72ba27cc353f5f465173649",
+          "size": 1933218
+        },
+        {
+          "path": "zu.png",
+          "sha256": "d9fc63633cb4618f76af1a3e9b52573650873835f9c5ec54bc1325de7db98d91",
+          "size": 745815
+        },
+        {
+          "path": "zu1.png",
+          "sha256": "788c4773939f2c0d18733117d96b03054c11eb48e6326679ad22fcf9e0b814ae",
+          "size": 976020
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "50445549.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "50445549.jpg",
+        "lineLength": 6.0,
+        "music": "50445549.mp3",
+        "offset": 0.065,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "中华兄贵最新力作（）",
+        "unlockVideo": null
+      },
+      "release": "backup-21000-21999",
+      "sha256": "350f629b14b9ba668d5919d37beec4411155caf78816a28b286a0852fce46478",
+      "size": 17665075,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-21000-21999/21905.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-25T10:55:13.128372Z",
+  "charter": "奇偶搜搜",
+  "composer": "KARUT",
+  "created": "2024-06-25T10:55:13.128372Z",
+  "description": "铲除时间！！\n社团的故事第三章红冬篇炸裂来袭！\n喜欢的可以点点小星星（）\n粉丝q群878162879\n剧情的后续:经过了16次铲除以及24次起义之后逐渐平淡了下来，然后切里诺宣布:b站关注奇偶搜搜谢谢喵♥",
+  "difficulty": 6.6,
+  "id": 21905,
+  "illustrator": "UK",
+  "level": "通通铲除！！",
+  "name": "PRST Marchingb",
+  "tags": [
+    "碧蓝档案",
+    "故事版",
+    "剧情",
+    "troll"
+  ],
+  "updated": "2024-06-25T10:55:13.128372Z",
+  "uploader": 431233
+}

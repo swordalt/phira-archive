@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:18:55Z",
+    "lastChanged": "2026-09-22T01:18:55Z",
+    "localBackup": {
+      "asset": "15622.zip",
+      "files": [
+        {
+          "path": "70576596.jpg",
+          "sha256": "c884b16745e8fc5972bc25298ab2cd78bb1235a0b1404ad4f0f10d7588a05bf5",
+          "size": 1017366
+        },
+        {
+          "path": "70576596.json",
+          "sha256": "da76def3d0a7308b2600895f2693e2cc39ce52bc6d38840adaddf7ec9a75ed94",
+          "size": 1595438
+        },
+        {
+          "path": "70576596.mp3",
+          "sha256": "1af1ac156242205c7b298bab87e56ad24023331e0aebe03be3cf10e8797e9a40",
+          "size": 3723470
+        },
+        {
+          "path": "info.txt",
+          "sha256": "748a3893c64e865056e17750beae5bf33b2be43d32248ef8cb86dc29925d3776",
+          "size": 155
+        },
+        {
+          "path": "info.yml",
+          "sha256": "6fba37b87559edae045e1c7ab190ac46fc56d7423fc0b82d2f5e411fe69ef12f",
+          "size": 691
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "70576596.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "70576596.jpg",
+        "lineLength": 6.0,
+        "music": "70576596.mp3",
+        "offset": 0.045,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "躲藏在雨中，消失在雨中"
+      },
+      "release": "backup-15000-15999",
+      "sha256": "aa455f3d74908d1d48fb711abcfcd5ae29756f9ebc52cad23920dc859089929f",
+      "size": 6337628,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15622.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-14T05:03:35.734679Z",
+  "charter": "色の世界",
+  "composer": "TsukiP feat. 初音ミク",
+  "created": "2024-02-14T05:03:35.734679Z",
+  "description": "新人谱师，我的第一张谱，如有问题，可以私信我b站UID:510002206\n另外45s前为LPI in 367帮助写的，感谢这位谱师",
+  "difficulty": 14.300001,
+  "id": 15622,
+  "illustrator": "Momo丶233",
+  "level": "IN.lv14",
+  "name": "雨女",
+  "tags": [],
+  "updated": "2024-02-14T05:03:35.734679Z",
+  "uploader": 72020
+}

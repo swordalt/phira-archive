@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:39Z",
+    "lastChanged": "2026-09-22T01:11:39Z",
+    "localBackup": {
+      "asset": "11746.zip",
+      "files": [
+        {
+          "path": "76770086.jpg",
+          "sha256": "73d92cc90c6160e8b311c85e241bfb4ca5cbd8086db00185baee752742f03f24",
+          "size": 303818
+        },
+        {
+          "path": "76770086.json",
+          "sha256": "011d8a3548cd3ae7d82fdb731f4be8b2cc4b6713c8b95e0e4790524894e99918",
+          "size": 2957327
+        },
+        {
+          "path": "76770086.ogg",
+          "sha256": "22cd760cb248cf6e68fab4f13ec9963b9e98652776011017d8072cee5b4c970a",
+          "size": 3688416
+        },
+        {
+          "path": "info.txt",
+          "sha256": "46caff22a659b7e8f19214b1bfeac88195816440639e832589ab71677d3c8f03",
+          "size": 188
+        },
+        {
+          "path": "info.yml",
+          "sha256": "94344e101bc0db603a962c6af1b0806738cee6d3ee5cfece9130dccddf189247",
+          "size": 571
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "76770086.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "76770086.jpg",
+        "lineLength": 6.0,
+        "music": "76770086.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-11000-11999",
+      "sha256": "de7144cda7d1b9951e7b031ae62cc57a0b328353966b3a483ac2cb12399abecb",
+      "size": 6950828,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11746.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-24T15:59:34.010623Z",
+  "charter": "无叶,the Destr0yer",
+  "composer": "Sakuzyo feat. Nikki Simmons",
+  "created": "2023-11-24T15:59:34.010623Z",
+  "description": "谱师本人上传，玩的开心！",
+  "difficulty": 15.100003,
+  "id": 11746,
+  "illustrator": "yoshimo & Radiosity",
+  "level": "IN Lv.15",
+  "name": "Destr0yer",
+  "tags": [],
+  "updated": "2023-11-24T15:59:34.010623Z",
+  "uploader": 540194
+}

@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:23:46Z",
+    "lastChanged": "2026-09-22T01:23:46Z",
+    "localBackup": {
+      "asset": "20047.zip",
+      "files": [
+        {
+          "path": "97091121.jpg",
+          "sha256": "48723858000a47cecd4c9e881758590a01d6c4d532a0c2760cda97774adce83b",
+          "size": 223532
+        },
+        {
+          "path": "97091121.json",
+          "sha256": "546b9238b6d578c2dc0871370370728264a7ee973b713ee60f1ee0f7d655a730",
+          "size": 342968
+        },
+        {
+          "path": "97091121.mp3",
+          "sha256": "48660b365cfefe79c0c59dcf0dd7475d9d275caa81b20addc6ed50bd4b1fa496",
+          "size": 1862888
+        },
+        {
+          "path": "info.txt",
+          "sha256": "9b4cf2423cd25605ef24ca606873713680726ec9e921be52bdc6c1b7cba79a40",
+          "size": 150
+        },
+        {
+          "path": "info.yml",
+          "sha256": "c4baa110c01452950e8cf93bd534dc212b9deb6577475c83e35c94681222ee59",
+          "size": 637
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "97091121.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "97091121.jpg",
+        "lineLength": 6.0,
+        "music": "97091121.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "注意：此谱为多指练习",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "385a5fc80e3d6d8aa18850b0fb6b3e1c6432534e7fbd21690a58dbd2ec368a51",
+      "size": 2430683,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20047.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-18T03:15:50.870307Z",
+  "charter": "YY",
+  "composer": "闫东炜",
+  "created": "2024-05-18T03:15:50.870307Z",
+  "description": "萌新第五作\nB站名：YY13491\n其实这谱是给我兄弟练多指的，所以没有这么多花里胡哨",
+  "difficulty": 14.0,
+  "id": 20047,
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Aphasia",
+  "tags": [],
+  "updated": "2024-05-18T03:15:50.870307Z",
+  "uploader": 629032
+}

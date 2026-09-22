@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:33Z",
+    "lastChanged": "2026-09-22T01:11:33Z",
+    "localBackup": {
+      "asset": "11659.zip",
+      "files": [
+        {
+          "path": "35318849.jpg",
+          "sha256": "d0b558d67969891f03c5d011f6c712ee7a15e7381f524e5d9fbabe30999fd16d",
+          "size": 71591
+        },
+        {
+          "path": "35318849.json",
+          "sha256": "ae7e0f889c46527a27d5de25dfe81473cd71b6bad753d81b824cde3d9c470645",
+          "size": 2033914
+        },
+        {
+          "path": "35318849.ogg",
+          "sha256": "a0719443d8e6913cb75a438b0c3fda1e231b252dee4ecc223ff0bd343d40b4a0",
+          "size": 2654784
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d667ca917eafc7cd441b80c02d7c01c55fdaf036599b7275a72e29f2d9b8b6e1",
+          "size": 192
+        },
+        {
+          "path": "info.yml",
+          "sha256": "7bda00cf9fece9750c6fb0f4944fafdd87fc31213dd933b8a782e61decc86eec",
+          "size": 623
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.77778,
+        "backgroundDim": 0.6,
+        "chart": "35318849.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "35318849.jpg",
+        "lineLength": 6.0,
+        "music": "35318849.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "多指注意 特效注意"
+      },
+      "release": "backup-11000-11999",
+      "sha256": "de1f5f252109bf9bdec1b7ae8cc50eea8a687d535a92bc0a05ce718358a6ca08",
+      "size": 4761612,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11659.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-20T16:23:06.113030Z",
+  "charter": "无叶",
+  "composer": "Nick Furry vs 悪いケモノ-A",
+  "created": "2023-11-20T16:23:06.113030Z",
+  "description": "谱师出道作，欢迎批评指教！b站@无叶_114514",
+  "difficulty": 15.900001,
+  "id": 11659,
+  "illustrator": "ケモノ内閣総理大臣",
+  "level": "IN Lv.15",
+  "name": "蝎虎天体 -Lacertid-",
+  "tags": [],
+  "updated": "2023-11-20T17:50:24.538515Z",
+  "uploader": 540194
+}

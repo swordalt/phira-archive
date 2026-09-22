@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:19:35Z",
+    "lastChanged": "2026-09-22T01:19:35Z",
+    "localBackup": {
+      "asset": "16518.zip",
+      "files": [
+        {
+          "path": "37549903.jpg",
+          "sha256": "e15258867a1979053321a533cc327dc05c05c35a06838ff7128ae9006f3bf44c",
+          "size": 148463
+        },
+        {
+          "path": "37549903.json",
+          "sha256": "7077748cd6066f82ee1c9e66c27c871a1aeeaa1ecb5bba6bb87852a945d44dcc",
+          "size": 1663984
+        },
+        {
+          "path": "37549903.mp3",
+          "sha256": "99ec672be5fa9b38eaa964f99f4820fa3efb0045b69bc84177adbce16a78e37a",
+          "size": 3415733
+        },
+        {
+          "path": "info.txt",
+          "sha256": "fb131066a8a36a4a806d857b8d1e960384e15d672ec8f9cca29e100e8e01e372",
+          "size": 208
+        },
+        {
+          "path": "info.yml",
+          "sha256": "68c37857b4cc323482974da85ca883db8b49b498bd613daadc2bcaff537d7af2",
+          "size": 772
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "37549903.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "37549903.jpg",
+        "lineLength": 6.0,
+        "music": "37549903.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tips：柠檬人 你吗日 那么热 内蒙人",
+        "unlockVideo": null
+      },
+      "release": "backup-16000-16999",
+      "sha256": "6625c7decc8d8d0c9e17db6e2e53f6d005a98f9ffc57c29a48f6a3ddb73bf862",
+      "size": 5229668,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-16000-16999/16518.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-27T13:47:24.571362Z",
+  "charter": "Homo feat.YR_XHH - NewAlogen(MUG EDIT)",
+  "composer": "Normal1zer",
+  "created": "2024-02-27T13:47:24.571362Z",
+  "description": "我的第5张谱 写谱耗时4个月（云电脑导致的）目前是我最满意的一张谱 曲绘为B站up@拆迁大画家-异界SAMA的（BV1gp4y177XZ）",
+  "difficulty": 16.1,
+  "id": 16518,
+  "illustrator": "异界SAMA",
+  "level": "AT Lv.16",
+  "name": "Non-Melodic Ragez (MUG Edit)",
+  "tags": [
+    "多指",
+    "regular"
+  ],
+  "updated": "2024-02-29T13:53:43.769406Z",
+  "uploader": 2562
+}

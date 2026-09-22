@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:24:49Z",
+    "lastChanged": "2026-09-22T01:24:49Z",
+    "localBackup": {
+      "asset": "20344.zip",
+      "files": [
+        {
+          "path": "3692284.jpg",
+          "sha256": "7c39bfd2542ec55a198509b29fed3746df0b255d6428148cf87bf7102f9e6984",
+          "size": 248938
+        },
+        {
+          "path": "3692284.json",
+          "sha256": "7d59dcbb82fb9afce166d4489563659ffb05e452bb49a029842f2aaf6e40fd6c",
+          "size": 3019059
+        },
+        {
+          "path": "3692284.mp3",
+          "sha256": "2af515695a0b4aff4ba11d87a926abb6f6be8df9cb83ccc6efba59f8fcf92c9d",
+          "size": 4313443
+        },
+        {
+          "path": "info.txt",
+          "sha256": "5645aa7e1b736dac67c3bcfbe374384d2e1e7cad34bcc612a84da7940441216c",
+          "size": 186
+        },
+        {
+          "path": "info.yml",
+          "sha256": "cf67c5c0abf474a887f6f8a78e01eccf32ee38342252127d5c1f13de337c0d44",
+          "size": 639
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "3692284.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "3692284.jpg",
+        "lineLength": 6.0,
+        "music": "3692284.mp3",
+        "offset": 0.0,
+        "previewEnd": 85.0,
+        "previewStart": 70.0,
+        "tip": "原神吞星之鲸周本二阶段BGM",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "ce12977acf9a5fd78cb3189cce5500824695da800356058a78d34cf0d5c9e276",
+      "size": 7582767,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20344.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "BigPigeon",
+  "composer": "HOYO-MiX",
+  "created": null,
+  "description": "吞星之鲸二阶段BGM。\n效果还没到最好，没时间，先发一版，以后会改，可能是下周，也可能更久。",
+  "difficulty": 16.9,
+  "id": 20344,
+  "illustrator": "miHoYo",
+  "level": "AT Lv.16",
+  "name": "灾蚀的痕影 Silhouette of Catastrophe",
+  "tags": [
+    "regular"
+  ],
+  "updated": null,
+  "uploader": null
+}

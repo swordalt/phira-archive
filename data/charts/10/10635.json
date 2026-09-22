@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:10:05Z",
+    "lastChanged": "2026-09-22T01:10:05Z",
+    "localBackup": {
+      "asset": "10635.zip",
+      "files": [
+        {
+          "path": "3814615.json",
+          "sha256": "cc7cef8853587ab5def20a64374d03c2d7062a5bf12b873a36dd0b398f32c6c3",
+          "size": 9056188
+        },
+        {
+          "path": "3814615.mp3",
+          "sha256": "827f0910e75bf7ba9284f61ba41aebf9e04059a5410c45ccaff06e526b9f892d",
+          "size": 2097131
+        },
+        {
+          "path": "3814615.png",
+          "sha256": "6f265691fc84497399342fb7ae7bc9504092c965d12fdd79e257c19620de0a9d",
+          "size": 1220737
+        },
+        {
+          "path": "info.txt",
+          "sha256": "e7dd0bda1a5745e74e27adf885519bca4d91870272ec64a79fa95f2c578f8117",
+          "size": 167
+        },
+        {
+          "path": "info.yml",
+          "sha256": "b0a03b5b655e2b4767b4bba123c02fe03f20ff9cf7af41551b7a3a24a7034927",
+          "size": 600
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "3814615.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "3814615.png",
+        "lineLength": 6.0,
+        "music": "3814615.mp3",
+        "offset": 0.030000005,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "关注B站@不爱说话的紫叶 咕~"
+      },
+      "release": "backup-10000-10999",
+      "sha256": "93f675f518a6f964ca99f8e84959c6885944b41eddc831441828deaf0fcfa150",
+      "size": 12375325,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-10000-10999/10635.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-10-20T11:07:19.428221Z",
+  "charter": "Ziyieee (feat.Next Rain)",
+  "composer": "Xect.",
+  "created": "2023-10-20T11:07:19.428221Z",
+  "description": "此谱为“Puremoon”比赛供谱（由谱师本人上传",
+  "difficulty": 16.400002,
+  "id": 10635,
+  "illustrator": "SeibaR",
+  "level": "AT  Lv.16",
+  "name": "Emptiness",
+  "tags": [],
+  "updated": "2023-10-29T14:45:46.810238Z",
+  "uploader": 7137
+}

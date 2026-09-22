@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:15:39Z",
+    "lastChanged": "2026-09-22T01:15:39Z",
+    "localBackup": {
+      "asset": "13684.zip",
+      "files": [
+        {
+          "path": "3024368.json",
+          "sha256": "c2c4d51302baadd5e0dbdfa4e2f07389431033170d94c74bb87f8cfca6870d15",
+          "size": 2781470
+        },
+        {
+          "path": "3024368.mp3",
+          "sha256": "c0c1ffa3286376ff1214e65b7a0eabe5b5d6c89a3490bc499113d28398ed17d4",
+          "size": 5741909
+        },
+        {
+          "path": "3024368.png",
+          "sha256": "212fb249a7b9f2fd2004c91e57f0ee236e9a6704b9252c6fb96278227bb47426",
+          "size": 21166
+        },
+        {
+          "path": "info.txt",
+          "sha256": "0f2ea723b543b78102daf518bea2f7d0be78230e25cc50747cb4e5e19fa77072",
+          "size": 178
+        },
+        {
+          "path": "info.yml",
+          "sha256": "881b560b2e113e8b5aa3b4515fae820fa4486393422d9781282e9874327e3c7a",
+          "size": 630
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.35,
+        "chart": "3024368.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "3024368.png",
+        "lineLength": 6.0,
+        "music": "3024368.mp3",
+        "offset": 0.0,
+        "previewEnd": 16.0,
+        "previewStart": 0.4,
+        "tip": null
+      },
+      "release": "backup-13000-13999",
+      "sha256": "db0c564c610d79d234ea0fde164ce42d7bf5e49ba40ad0661179c30689d77a36",
+      "size": 8545855,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13684.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-16T09:33:51.839109Z",
+  "charter": "Meteor-the-Charter◆",
+  "composer": "sasakure.UK",
+  "created": "2024-01-16T09:33:51.839109Z",
+  "description": "申请stb就当开留言板了。\n感谢Xenokega提供了大部分修改！\n先传到观赏。",
+  "difficulty": 14.600002,
+  "id": 13684,
+  "illustrator": "Sta",
+  "level": "IN Lv.14",
+  "name": "Jack-the-Ripper◆",
+  "tags": [
+    "BOF2009",
+    "visual"
+  ],
+  "updated": "2024-01-16T15:19:44.181667Z",
+  "uploader": 211613
+}

@@ -1,0 +1,85 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:24:42Z",
+    "lastChanged": "2026-09-22T01:24:42Z",
+    "localBackup": {
+      "asset": "20291.zip",
+      "files": [
+        {
+          "path": "48791592.json",
+          "sha256": "a1dffad1470b017bd1b91ff2ce9192cb0a99aa706251b6cdb39781cb030aadfa",
+          "size": 201129
+        },
+        {
+          "path": "48791592.mp3",
+          "sha256": "7c602a711bfe082369179cc82a418586efd5fdfbd7ca038c60cc35bf1f6e6a33",
+          "size": 429989
+        },
+        {
+          "path": "48791592.png",
+          "sha256": "0ec02b769d2bcb1212e0e7626757e769e1ea8a4dc5c3a2fa9c6b8b8f5495eefb",
+          "size": 730024
+        },
+        {
+          "path": "computer.png",
+          "sha256": "8f5ddb0a718d61d22febf1e7df46adcf231548db64fdc20bb4fd95cc6df5ce2f",
+          "size": 529830
+        },
+        {
+          "path": "gsm.jpg",
+          "sha256": "ae62a846917283bdbcce447fdba23d3da2c6d28d21c89274702cf4a4a0e935dd",
+          "size": 13518
+        },
+        {
+          "path": "info.txt",
+          "sha256": "18c647e2fde19a28158717ba7989661d73011e78d69ae68a0fc32e3705d9290c",
+          "size": 169
+        },
+        {
+          "path": "info.yml",
+          "sha256": "0349e6f3c25607b76cf6d7ce0dcabeca9d8a48b6933353f7aaa7d00dc2d1d36c",
+          "size": 597
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "48791592.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "48791592.png",
+        "lineLength": 6.0,
+        "music": "48791592.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "29b912bd9d51a1b285669f80316d41c196a245bf8fc389f2319a72ab5c62b69b",
+      "size": 1905954,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20291.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-25T00:23:18.687265Z",
+  "charter": "伍零柒壹",
+  "composer": "Jack Stauber",
+  "created": "2024-05-25T00:23:18.687265Z",
+  "description": "本人上传\n憋憋杯预热赛No.5\n憋憋",
+  "difficulty": 11.0,
+  "id": 20291,
+  "illustrator": "Computer",
+  "level": "CP Lv.11",
+  "name": "Can you get joy",
+  "tags": [
+    "憋憋杯",
+    "憋憋",
+    "troll"
+  ],
+  "updated": "2024-05-25T00:23:18.687265Z",
+  "uploader": 464049
+}

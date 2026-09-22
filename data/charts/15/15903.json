@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:19:00Z",
+    "lastChanged": "2026-09-22T01:19:00Z",
+    "localBackup": {
+      "asset": "15903.zip",
+      "files": [
+        {
+          "path": "85988832.json",
+          "sha256": "d029163d613e0b3acd2334667ed6789d53081be25dd3b8903ab6208b594928b8",
+          "size": 5538477
+        },
+        {
+          "path": "85988832.mp3",
+          "sha256": "b6ba5ca6ae382835584a96ab1653fe026cd32241ebfb710d8bc951c9c4fdda80",
+          "size": 2370242
+        },
+        {
+          "path": "85988832.png",
+          "sha256": "4b4355871e9f7ec19e8a1b59caa5472f081972f9ef2105a4c6b5ee3b24c113b4",
+          "size": 3124322
+        },
+        {
+          "path": "info.txt",
+          "sha256": "039e2a9f3b50c01f510f64fc4bf2127ee78fb91438da82e8ff55f205e3e9b9fa",
+          "size": 155
+        },
+        {
+          "path": "info.yml",
+          "sha256": "3b1d69cb2859c5c70cb3fefcdba770445ea498377f1e665d08d07fb71509d724",
+          "size": 595
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "85988832.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "85988832.png",
+        "lineLength": 6.0,
+        "music": "85988832.mp3",
+        "offset": 0.0,
+        "previewEnd": 95.0,
+        "previewStart": 80.0,
+        "tip": null
+      },
+      "release": "backup-15000-15999",
+      "sha256": "427b5e963433fbf35b8605516560b1567297edbbdb8051e2dfaf3993b0b9f064",
+      "size": 11034299,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15903.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-16T17:17:24.759096Z",
+  "charter": "~MaxCraper~",
+  "composer": "BlackY",
+  "created": "2024-02-16T17:17:24.759096Z",
+  "description": "BV1Zz4y1V787 欢迎游玩评价\nBilibili@__Thunderlis查看以往谱面\n2024/2/17 重新上传",
+  "difficulty": 12.700003,
+  "id": 15903,
+  "illustrator": "O.N.G.E.K.I.",
+  "level": "HD  Lv.12",
+  "name": "LAMIA",
+  "tags": [],
+  "updated": "2024-02-16T17:17:24.759096Z",
+  "uploader": 53
+}

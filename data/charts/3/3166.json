@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:21Z",
+    "lastChanged": "2026-09-22T01:03:21Z",
+    "localBackup": {
+      "asset": "3166.zip",
+      "files": [
+        {
+          "path": "11.json",
+          "sha256": "87467eb25df7d5a1a70edfb733cf8a1fb26b4c75c4604806d83026a59a8439f2",
+          "size": 2926027
+        },
+        {
+          "path": "11.ogg",
+          "sha256": "e424a116994c2b6b5d0090ab7283e263e1dee37244b80ed6e8d65ad493c809dc",
+          "size": 3189271
+        },
+        {
+          "path": "Lidelle feat. AKA - Pillars of Ash.jpg",
+          "sha256": "c6b44eae1fd7243078bdd0955294ad0cd5a319971510150cb2296ce7554fabc3",
+          "size": 275832
+        },
+        {
+          "path": "info.txt",
+          "sha256": "e53c939bc15dcc8638321c8b490f4b14dec6cc9ff2573f5f72f83382381720b9",
+          "size": 175
+        },
+        {
+          "path": "info.yml",
+          "sha256": "bea4b26e82f0d8d13b66860bfdfa8b32f6885bf0dc24877fbc2c0b751553fb99",
+          "size": 694
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "11.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "Lidelle feat. AKA - Pillars of Ash.jpg",
+        "lineLength": 6.0,
+        "music": "11.ogg",
+        "offset": 0.0,
+        "previewEnd": 130.9,
+        "previewStart": 115.22,
+        "tip": "为什么我的谱面会迷之抖动Xb"
+      },
+      "release": "backup-3000-3999",
+      "sha256": "a4595d7a0341103e4f780fd66f90357a6c19a856b172940215d9d0d85c778a3c",
+      "size": 6392535,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-3000-3999/3166.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-07T14:27:02.954453Z",
+  "charter": "云鸟(喾狼)",
+  "composer": "Lidelle",
+  "created": "2023-06-08T10:24:02.158307Z",
+  "description": "大概是第一次写14(\n反正不是很懂WWW\n\n2023622把特效完全补完了\n究竟是为什么会有蜜汁抖动？在编辑器不会呢(",
+  "difficulty": 14.0,
+  "id": 3166,
+  "illustrator": "UK",
+  "level": "IN Lv.14",
+  "name": "Pillars of Ash",
+  "tags": [],
+  "updated": "2023-07-08T04:06:43.499676Z",
+  "uploader": 12895
+}

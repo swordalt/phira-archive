@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:13:56Z",
+    "lastChanged": "2026-09-22T01:13:56Z",
+    "localBackup": {
+      "asset": "12999.zip",
+      "files": [
+        {
+          "path": "Chart.json",
+          "sha256": "405ee4c6db30a6f5a3cdc0c6f4bad1612b99f1bf1b82eb702c79e504524720cf",
+          "size": 5458367
+        },
+        {
+          "path": "illustration.png",
+          "sha256": "ebdf3450f7258222087bb40c624c4aab0cea0abd54fc0cf37cf6e3148b8fb6f4",
+          "size": 2530500
+        },
+        {
+          "path": "info.yml",
+          "sha256": "cdab2f1a5e102e9514b58c186947ceeda92e735b528f8d47841de3b2baf00d9a",
+          "size": 935
+        },
+        {
+          "path": "music.MP3",
+          "sha256": "bcb814f5a611f144c48fdd18cd71ca7ec3c276fe89862065cec0015718aba05e",
+          "size": 2191410
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "Chart.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "illustration.png",
+        "lineLength": 6.0,
+        "music": "music.MP3",
+        "offset": 0.0,
+        "previewEnd": 119.0,
+        "previewStart": 103.6,
+        "tip": "Tip：我阐述你的梦"
+      },
+      "release": "backup-12000-12999",
+      "sha256": "37739edf60d1766f194f4a682fe3ed270d8bb5a74899831e60a808d51e30cf6b",
+      "size": 10181624,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12999.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "Pr♿clip!!!!",
+  "composer": "ItzSocn & 名叫TS1331的咸鱼",
+  "created": null,
+  "description": "♿谱面为本人制作且由本人上传，头像和昵称都和B站的一致（B站id：Proclip）！♿\r\n\r\n♿整活向谱面，视频元旦发♿\r\n♿音乐自己拿两个大佬的剪的（无   缝   剪   辑）♿\r\n♿如果侵权了我会下架并且向两个大佬道歉♿\r\n（♿是的你没看错曲绘里的实景图片是我7月左右在广州拍的，然后自己瞎整的♿）",
+  "difficulty": 0.0,
+  "id": 12999,
+  "illustrator": "Proclip",
+  "level": "SP Lv.12.31",
+  "name": "♿TECHNOOTTO 2085♿",
+  "tags": [
+    "电棍",
+    "OTTO",
+    "说的道理",
+    "中二节奏",
+    "troll"
+  ],
+  "updated": null,
+  "uploader": null
+}

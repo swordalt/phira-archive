@@ -1,0 +1,75 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:14:42Z",
+    "lastChanged": "2026-09-22T01:14:42Z",
+    "localBackup": {
+      "asset": "13344.zip",
+      "files": [
+        {
+          "path": "56466032.jpg",
+          "sha256": "ba6c89060dbd44ed4b0d5798d5bc0f1b4cace9c66eff84430c309d4deb918751",
+          "size": 1064183
+        },
+        {
+          "path": "56466032.json",
+          "sha256": "a5c8b3848481c0aabe361f2820e3a092c79e5c580b1cfafe223c200f514f9706",
+          "size": 17147445
+        },
+        {
+          "path": "56466032.mp3",
+          "sha256": "8d935dd3e0e8c80d315d0f9fc6402bea68e8b9caddaa3f579b5a2a01bbd48eab",
+          "size": 2565473
+        },
+        {
+          "path": "extra.json",
+          "sha256": "5e0a1e5b607f4d67528887f39d06985f9ca82587eadf8a8b7c1642e7f5612336",
+          "size": 6643
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b329dae271ae97a2c5a63c6d26ef607d493327fb1be13ff62ffe75cd983753e3",
+          "size": 163
+        },
+        {
+          "path": "info.yml",
+          "sha256": "da202cbeb2a41a7b99cfe5cb8e92514fb4817c63070430c8b5b9f3da468a4c85",
+          "size": 642
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "56466032.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "56466032.jpg",
+        "lineLength": 6.0,
+        "music": "56466032.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip: 使用中子攻击原子，是闪耀与燃烧，是科学与进步，是灾难与毁灭。"
+      },
+      "release": "backup-13000-13999",
+      "sha256": "9d3e271051d911500e93c07c4d28417d77d9f9caacc1e4a52c40ddd518279590",
+      "size": 20785153,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13344.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-07T06:33:44.673087Z",
+  "charter": "Nuclear ~ Zalves_",
+  "composer": "LeaF",
+  "created": "2024-01-07T06:33:44.673087Z",
+  "description": "谱师本人上传\nBV1E94y1u7aQ",
+  "difficulty": 15.200001,
+  "id": 13344,
+  "illustrator": "セシル◇タイト",
+  "level": "IN Lv.15",
+  "name": "Armageddon",
+  "tags": [],
+  "updated": "2024-01-07T06:33:44.673087Z",
+  "uploader": 71845
+}

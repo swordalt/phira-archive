@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:23Z",
+    "lastChanged": "2026-09-22T01:07:23Z",
+    "localBackup": {
+      "asset": "7303.zip",
+      "files": [
+        {
+          "path": "44666223.jpg",
+          "sha256": "6a3904f963fc2c9773dd4cc0bc68e7dff96ebce639072bb4cfdf473f5aec2e37",
+          "size": 1429963
+        },
+        {
+          "path": "44666223.json",
+          "sha256": "87be1befcc380e41ac607bfc704cbdc2a0b72c214ed6423644f126deb33d2514",
+          "size": 759505
+        },
+        {
+          "path": "44666223.mp3",
+          "sha256": "1464561eb3050f953a1a3fc8f367c4017674e6ed3c5b0374ba6e9d9c7137590e",
+          "size": 212525
+        },
+        {
+          "path": "info.txt",
+          "sha256": "eda8b6f5e31a00d8c904f2579587df791831427034c3f8030feae0cf964bf25a",
+          "size": 163
+        },
+        {
+          "path": "info.yml",
+          "sha256": "df81dc8ccc2046803d17f794c576c429bcff4eb75b284ef901a414f3647a0b84",
+          "size": 469
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "44666223.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "44666223.jpg",
+        "lineLength": 6.0,
+        "music": "44666223.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "瞎整活乱写"
+      },
+      "release": "backup-7000-7999",
+      "sha256": "e54f2d8aafaa68586fecdd4739cb94f6eeec1ce2766727f9ebeb1d1b3787b08b",
+      "size": 2403133,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-7000-7999/7303.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "我今天没写谱",
+  "composer": "来自网络",
+  "created": null,
+  "description": "",
+  "difficulty": 20.0,
+  "id": 7303,
+  "illustrator": "视频截取",
+  "level": "我有病 Lv.999",
+  "name": "我今天没写谱",
+  "tags": [
+    "troll"
+  ],
+  "updated": null,
+  "uploader": null
+}

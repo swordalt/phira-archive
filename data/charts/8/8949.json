@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:35Z",
+    "lastChanged": "2026-09-22T01:08:35Z",
+    "localBackup": {
+      "asset": "8949.zip",
+      "files": [
+        {
+          "path": "91336836.jpg",
+          "sha256": "a28c30dcb02831e9dd046607480ef3e1fbad39e6c960d81d5091a7773f2ac88c",
+          "size": 207046
+        },
+        {
+          "path": "91336836.json",
+          "sha256": "09f7749b90a682099e00cafb3eb2cad7af3124a62d7a0c73fef6a6561913227c",
+          "size": 4440033
+        },
+        {
+          "path": "91336836.mp3",
+          "sha256": "a8eff3f4a625167543a0d4acf6500442e4035e15f533a830c030cb836e03021e",
+          "size": 2786412
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ff5a29b77942195a24f9ec9f036b254184d8a0bddeaf1146191622450a86388a",
+          "size": 172
+        },
+        {
+          "path": "info.yml",
+          "sha256": "07601e74c4c23fd0dca5dc9a8464c6b14f6d960559b50527cc1508a13d86e961",
+          "size": 545
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "91336836.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "91336836.jpg",
+        "lineLength": 6.0,
+        "music": "91336836.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-8000-8999",
+      "sha256": "28933ebfb4f2541269400294ac4b993eb5b5416a40c2fb040569b2d7dd4bbd28",
+      "size": 7434716,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-8000-8999/8949.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-09-02T07:32:32.981099Z",
+  "charter": "子葉之冰",
+  "composer": "DySkyLan&VAlzpary",
+  "created": "2023-09-02T07:32:32.981099Z",
+  "description": "新人写谱，不喜勿喷）",
+  "difficulty": 15.900001,
+  "id": 8949,
+  "illustrator": "嵵隙嵐",
+  "level": "IN Lv.15.9",
+  "name": "ill  city",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-09-03T01:37:20.612003Z",
+  "uploader": 263516
+}

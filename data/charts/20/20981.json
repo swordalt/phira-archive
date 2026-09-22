@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:27:53Z",
+    "lastChanged": "2026-09-22T01:27:53Z",
+    "localBackup": {
+      "asset": "20981.zip",
+      "files": [
+        {
+          "path": "999.jpg",
+          "sha256": "018f413d9debb090f7849dc83ffe471b50b9f5c36ab8dec254f503ad37cdfdf5",
+          "size": 608055
+        },
+        {
+          "path": "999.mp3",
+          "sha256": "187ee19d4ed105a09d81cbdda6eb39f40e6964085d21949d850f841ee8a58f9f",
+          "size": 2833286
+        },
+        {
+          "path": "999.pec",
+          "sha256": "6504d67eda03d5ec15006b4629bac6d68cf616aadde33e1c7f314b340d62ab93",
+          "size": 130253
+        },
+        {
+          "path": "info.yml",
+          "sha256": "df2b412a0a56f591f2d03ec51329637c44ead969620c17c9c6a9ac9af7925dc1",
+          "size": 697
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "999.pec",
+        "format": "pec",
+        "holdPartialCover": false,
+        "illustration": "999.jpg",
+        "lineLength": 6.0,
+        "music": "999.mp3",
+        "offset": 0.0,
+        "previewEnd": 90.0,
+        "previewStart": 70.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "d6a707d9d8f188cb59f47740e7a993b68bc4aec38fee99205e1a377701d0b73e",
+      "size": 3572675,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20981.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-08T20:25:10.268969Z",
+  "charter": "Cirno",
+  "composer": "IOSYS/Camellia",
+  "created": "2024-06-08T20:25:10.268969Z",
+  "description": "谱师本人上传\nDFC XII Dan Slide\n虽然是纯配置 但是太粪了 而且谱面文字押比较多投了整活区。",
+  "difficulty": 17.0,
+  "id": 20981,
+  "illustrator": "RK",
+  "level": "Baka Lv.17",
+  "name": "Cirno's Perfect Math Class (Camellia's 999 Remix)",
+  "tags": [
+    "双指",
+    "eta",
+    "BABA",
+    "文字押",
+    "troll"
+  ],
+  "updated": "2024-06-08T20:25:10.268969Z",
+  "uploader": 888172
+}

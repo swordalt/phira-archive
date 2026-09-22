@@ -1,0 +1,169 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:46Z",
+    "lastChanged": "2026-09-22T01:11:46Z",
+    "localBackup": {
+      "asset": "11835.zip",
+      "files": [
+        {
+          "path": "53906520.jpg",
+          "sha256": "fef4032a3beecb558129f2eff1f57efd09cca1f556620691c750c01ff24fcd42",
+          "size": 44181
+        },
+        {
+          "path": "53906520.json",
+          "sha256": "011528b24687de70613a62ca30fd2686eab77d4337387e9f1be39742c8e55b99",
+          "size": 243493
+        },
+        {
+          "path": "53906520.mp3",
+          "sha256": "31fb7a33378fda48c42898f83854c816e91816bf9ddbd1b8018f503bb937d028",
+          "size": 518339
+        },
+        {
+          "path": "AutoSave_2023_11_26_11_20_3_53906520.json",
+          "sha256": "b6e21458af78087de16b3b370aba02bf0fdd6fec9b99f4b57514f3588196e471",
+          "size": 115637
+        },
+        {
+          "path": "AutoSave_2023_11_26_11_24_3_53906520.json",
+          "sha256": "cb24c377c71c3b1509db7e06affa3e41e8adad22d98bc02a6c500c828cfd9159",
+          "size": 122020
+        },
+        {
+          "path": "AutoSave_2023_11_26_11_28_3_53906520.json",
+          "sha256": "ba18933db541542c7ebff3effaa579baeec3b6860c8861167151aaca68065466",
+          "size": 125321
+        },
+        {
+          "path": "AutoSave_2023_11_26_11_32_3_53906520.json",
+          "sha256": "886421416fe42b147c5ebc8712e3f9ec0fbe741d5d54fd2da35927ffe1f11893",
+          "size": 131024
+        },
+        {
+          "path": "AutoSave_2023_11_26_11_36_3_53906520.json",
+          "sha256": "0eb3d854ce04c11f6725b6c0042309e7122817bca2a60ed5bacfd18d0806b33a",
+          "size": 130684
+        },
+        {
+          "path": "AutoSave_2023_11_26_11_40_3_53906520.json",
+          "sha256": "9dd6ec399bf2ca73bed6c485dec2d4a29a82f42f906e978636c1e2bf4e77601d",
+          "size": 139289
+        },
+        {
+          "path": "AutoSave_2023_11_26_11_44_3_53906520.json",
+          "sha256": "dfde76c45c82697483e08eee3e9ee8c2b9a1f8c69d012a28f5ec88830ce88bf3",
+          "size": 146956
+        },
+        {
+          "path": "AutoSave_2023_11_26_11_48_3_53906520.json",
+          "sha256": "0f4257578a16486d589683d8453bbba189af5000884da9f4d1eb18bb0902b430",
+          "size": 153122
+        },
+        {
+          "path": "AutoSave_2023_11_26_11_52_3_53906520.json",
+          "sha256": "e0c59e729661f50ecee013d8bad26480732107b2b0b7e1050183d87c854f4922",
+          "size": 157437
+        },
+        {
+          "path": "AutoSave_2023_11_26_11_56_3_53906520.json",
+          "sha256": "1788ce0e86520b99d5ef00585bc6efcde1dc4a0b85821dc30a7169417108bb19",
+          "size": 159810
+        },
+        {
+          "path": "AutoSave_2023_11_26_12_0_3_53906520.json",
+          "sha256": "eda475c123d0e84bfceef568163024d1245ca8e14c907d1d97baf6bbaf2f3659",
+          "size": 165956
+        },
+        {
+          "path": "AutoSave_2023_11_26_12_12_3_53906520.json",
+          "sha256": "4f9eddc3e568ce21912132e887c0f4d29b78d788ce3473f06291d6bb5c561492",
+          "size": 180765
+        },
+        {
+          "path": "AutoSave_2023_11_26_12_16_3_53906520.json",
+          "sha256": "4ac702602fff6584c5b49b0b183efe64c5fc3d21efa18a8676b6b10373bb0d92",
+          "size": 190889
+        },
+        {
+          "path": "AutoSave_2023_11_26_12_20_3_53906520.json",
+          "sha256": "2d66a85448395ab47fea3c8662c0e7eb60aa398338b45b51c7f7a404886e9a82",
+          "size": 215586
+        },
+        {
+          "path": "AutoSave_2023_11_26_12_24_3_53906520.json",
+          "sha256": "de0246ad264a04185bdbb6497a35932da7ba880554489e3bad6a1b62ac7345bc",
+          "size": 218436
+        },
+        {
+          "path": "AutoSave_2023_11_26_12_28_3_53906520.json",
+          "sha256": "e7929c0a24a4b2b1a6a77279f944138aa2cff22cb5fb20d7cc91dacf3a42cd59",
+          "size": 237760
+        },
+        {
+          "path": "AutoSave_2023_11_26_12_32_3_53906520.json",
+          "sha256": "f3c4e7c09b4eab0a36f249a8adc6715ddb407bfb5186a64d9d0ac2eedc9c6072",
+          "size": 244310
+        },
+        {
+          "path": "AutoSave_2023_11_26_12_4_3_53906520.json",
+          "sha256": "30f0101bae1f183c816d2f3bf65a97a2e1fc17bab606c9a3cc90c72915d2f60f",
+          "size": 175279
+        },
+        {
+          "path": "AutoSave_2023_11_26_12_8_3_53906520.json",
+          "sha256": "f065a55d41647df2b5ffd8a9ec7c9531f3829939584dd7bf26c9b269e9e14703",
+          "size": 176638
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d474a43bb24ecb688a566aa3ec9d7a8040185d5c0f85599056496662cf3eeab0",
+          "size": 160
+        },
+        {
+          "path": "info.yml",
+          "sha256": "da48231f3d97ff90f8162654873cf7f706a912536a429139bc1aad809584b173",
+          "size": 580
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "53906520.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "53906520.jpg",
+        "lineLength": 6.0,
+        "music": "53906520.mp3",
+        "offset": 0.0,
+        "previewEnd": 8.0,
+        "previewStart": 4.0,
+        "tip": "wanpatan"
+      },
+      "release": "backup-11000-11999",
+      "sha256": "8c5c33d75ac815d947fd95e215b32a2355eb03da19d060148058a20d54fa424f",
+      "size": 3997176,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11835.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "zhifei",
+  "composer": "Guanpatan",
+  "created": null,
+  "description": "本人上传，第二章谱，有点过粪(\n这是tiktok上莫名其妙的梗，也是floptok的一员，后面忘了",
+  "difficulty": 15.300002,
+  "id": 11835,
+  "illustrator": "UK",
+  "level": "Lv.15",
+  "name": "王八蛋中文教学",
+  "tags": [
+    "tloptok",
+    "中文教学",
+    "troll"
+  ],
+  "updated": null,
+  "uploader": null
+}

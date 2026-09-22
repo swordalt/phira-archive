@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:28:38Z",
+    "lastChanged": "2026-09-22T01:28:38Z",
+    "localBackup": {
+      "asset": "21662.zip",
+      "files": [
+        {
+          "path": "32123196.jpg",
+          "sha256": "695959d82706ed2063af40e4316d74396b7ceaf71e04cffb72c7f8829ad63e6e",
+          "size": 107520
+        },
+        {
+          "path": "32123196.json",
+          "sha256": "0a897cd44fb917dfa9dff05cc9ab4fabce67b9c70d77cbdd97ff18a6f6e8f91d",
+          "size": 2375610
+        },
+        {
+          "path": "32123196.ogg",
+          "sha256": "d54e3c1926bd7a99639e6efd47560400d0c165fd62bb66ec342b4a4c4afabfb5",
+          "size": 3055184
+        },
+        {
+          "path": "info.txt",
+          "sha256": "1d2a714020dbcb8ba6facf0183afb6aa60409faaba069d3506a0b028990f89c9",
+          "size": 153
+        },
+        {
+          "path": "info.yml",
+          "sha256": "28a1c1ed05b1d616cc4ad9acbaa189d4635ad060783346c2d4a7626964e9cadd",
+          "size": 532
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "32123196.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "32123196.jpg",
+        "lineLength": 6.0,
+        "music": "32123196.ogg",
+        "offset": -0.024999995,
+        "previewEnd": 50.0,
+        "previewStart": 41.5,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-21000-21999",
+      "sha256": "9aafb9e411c5c019ca91f4299ed39c2198fa25f2883880d687097cab0d868015",
+      "size": 5539507,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-21000-21999/21662.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-22T06:15:22.269468Z",
+  "charter": "NotTure1",
+  "composer": "RiraN",
+  "created": "2024-06-22T06:15:22.269468Z",
+  "description": "譜師本人上傳",
+  "difficulty": 15.500002,
+  "id": 21662,
+  "illustrator": "Aremos",
+  "level": "IN Lv.15",
+  "name": "Daydream",
+  "tags": [],
+  "updated": "2024-06-23T01:18:04.719046Z",
+  "uploader": 12901
+}

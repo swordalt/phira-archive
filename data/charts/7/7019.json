@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:15Z",
+    "lastChanged": "2026-09-22T01:07:15Z",
+    "localBackup": {
+      "asset": "7019.zip",
+      "files": [
+        {
+          "path": "16934045.jpg",
+          "sha256": "fecbf7920c184814524ad12d0e3d52fe0ef2ed92b88ecde04a3a923f8defeeac",
+          "size": 112298
+        },
+        {
+          "path": "16934045.json",
+          "sha256": "2351e802350286f0ba1a49f5ce38b397623a2add5f447b1acb0d68690a7711d2",
+          "size": 251712
+        },
+        {
+          "path": "16934045.mp3",
+          "sha256": "35b04d95beefdaf427deec6d081b698a7551bd0d41c786ef2585be89eb65bc80",
+          "size": 404389
+        },
+        {
+          "path": "info.txt",
+          "sha256": "f587ce55f1a7e6b700dc6908529d673c092fbadc78922be92b134d053dbd9e04",
+          "size": 148
+        },
+        {
+          "path": "info.yml",
+          "sha256": "04c85b459fdd6172ff78715b3a12ac342167576308fbc83f3b9f6ed4624ee643",
+          "size": 515
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "16934045.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "16934045.jpg",
+        "lineLength": 6.0,
+        "music": "16934045.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-7000-7999",
+      "sha256": "17b830aa990876f7b0e737132a884ffcb9c6b19d754ca60d2395ae428bcc0227",
+      "size": 769570,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-7000-7999/7019.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-07T09:18:40.960124Z",
+  "charter": "Polar1s",
+  "composer": "???",
+  "created": "2023-08-07T09:18:40.960124Z",
+  "description": "谱师本人上传，乱拍就行。",
+  "difficulty": 0.0,
+  "id": 7019,
+  "illustrator": " ",
+  "level": "Lv.?",
+  "name": "额滴圣剑",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-08-07T09:18:40.960124Z",
+  "uploader": 214162
+}

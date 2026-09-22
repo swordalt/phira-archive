@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:25:16Z",
+    "lastChanged": "2026-09-22T01:25:16Z",
+    "localBackup": {
+      "asset": "20661.zip",
+      "files": [
+        {
+          "path": "98599024.jpg",
+          "sha256": "e8ef88429276320d98b17b3cef93f8fb44ad360e069591c2d9366280e4b040ea",
+          "size": 246790
+        },
+        {
+          "path": "98599024.json",
+          "sha256": "34d94026ac002be6626eb0bf245f591eda8b0fb96c33a3bcb99dc60aebe02091",
+          "size": 629245
+        },
+        {
+          "path": "98599024.mp3",
+          "sha256": "84b3c9a2fc91efde5ff933b72758844a98431fb4cf0535266c96ab4d0bd25ba1",
+          "size": 1477223
+        },
+        {
+          "path": "info.txt",
+          "sha256": "1d8b1abb1cccbb8f65ba7596815519461711c6c943a68b0f2e508d0db1bb0e98",
+          "size": 161
+        },
+        {
+          "path": "info.yml",
+          "sha256": "b3ae6710169c7b65f51b1b10ad73327491a33cdb43f0a028dce5ffbed2798939",
+          "size": 443
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "98599024.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "98599024.jpg",
+        "lineLength": 6.0,
+        "music": "98599024.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "piT",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "b295cfb48ca120b94c7475ae769b0b00200a215ccac20a7ec1abe356810c224e",
+      "size": 2354370,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20661.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "PhirL",
+  "composer": "Max Line",
+  "created": null,
+  "description": "粪谱一个",
+  "difficulty": 10.0,
+  "id": 20661,
+  "illustrator": "UK",
+  "level": "我不知道!",
+  "name": "Coming Soon",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

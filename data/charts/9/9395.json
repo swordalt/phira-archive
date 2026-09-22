@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:13Z",
+    "lastChanged": "2026-09-22T01:09:13Z",
+    "localBackup": {
+      "asset": "9395.zip",
+      "files": [
+        {
+          "path": "67409516.jpg",
+          "sha256": "6c1860f975d5d9b908ee24f10266dad222a1ccfc24e858a4048b59eabef9ef4b",
+          "size": 157578
+        },
+        {
+          "path": "67409516.json",
+          "sha256": "16a1785f775266b161ca7abe36075391a74f9ed82336c9ae54807383f318e0f6",
+          "size": 1855918
+        },
+        {
+          "path": "67409516.mp3",
+          "sha256": "a3b3138f82055eb63d2836123834b7c19b65583aab12d6ffd74ad6273718813f",
+          "size": 1656590
+        },
+        {
+          "path": "info.txt",
+          "sha256": "410c2d13b7ac18fdbac38b7e46c82fc0e0b17034189f7d38642eaecc48de8792",
+          "size": 156
+        },
+        {
+          "path": "info.yml",
+          "sha256": "e246e8f157de778aa3e5d5bf3d16196142a7615e19ea2a19d99c9e5188305536",
+          "size": 537
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "67409516.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "67409516.jpg",
+        "lineLength": 6.0,
+        "music": "67409516.mp3",
+        "offset": 0.0,
+        "previewEnd": 92.1,
+        "previewStart": 77.1,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-9000-9999",
+      "sha256": "509c6bfbb953b9dd511c21405ab238152644b3dcf9826631249d4745b0c76c8f",
+      "size": 3671287,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-9000-9999/9395.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-09-16T08:43:44.914617Z",
+  "charter": "疏淡星晨",
+  "composer": "ALTA",
+  "created": "2023-09-16T08:43:44.914617Z",
+  "description": "本人上传。原视频BV1nV411N7dq",
+  "difficulty": 15.200001,
+  "id": 9395,
+  "illustrator": " ",
+  "level": "IN Lv.15",
+  "name": "2000VOLT",
+  "tags": [],
+  "updated": "2023-09-16T08:43:44.914617Z",
+  "uploader": 81
+}

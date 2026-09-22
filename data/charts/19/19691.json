@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:23:02Z",
+    "lastChanged": "2026-09-22T01:23:02Z",
+    "localBackup": {
+      "asset": "19691.zip",
+      "files": [
+        {
+          "path": "65713091.jpg",
+          "sha256": "1231d730ab1a011a3abecd41ddc2721836285e93f1b658b98aef7563f30d7aff",
+          "size": 124292
+        },
+        {
+          "path": "65713091.json",
+          "sha256": "77b3fdfd5698f90daab2bfff9b30c748c8cfc5877bb39d3bc9e2c225a3ae2f5b",
+          "size": 322775
+        },
+        {
+          "path": "65713091.mp3",
+          "sha256": "686bd5870d5156bd36a3792c2e338a1ec10f44980c0b9f02a774805003cb254b",
+          "size": 486082
+        },
+        {
+          "path": "info.txt",
+          "sha256": "62a3a39a76ade61cc3a9a94f2bed7969251504ccd01245c8ac45225cba31b1d6",
+          "size": 204
+        },
+        {
+          "path": "info.yml",
+          "sha256": "0b64f4c4c92142eadffb4618d7a46741a09045e7dcf3c311b4322cc3ee48854f",
+          "size": 815
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.3,
+        "chart": "65713091.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "65713091.jpg",
+        "lineLength": 6.0,
+        "music": "65713091.mp3",
+        "offset": 0.0,
+        "previewEnd": 16.6,
+        "previewStart": 2.0,
+        "tip": "论奈伊和萨卡斑甲鱼中只能选一个……",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "72a7a951d55fc1301123a65bedd9861745b9d54cd424ed0fd895e4658db3e47b",
+      "size": 934676,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19691.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "引羽小垚",
+  "composer": "1_demo",
+  "created": null,
+  "description": "这是我做的第十六个自制谱，也是我的第二个整活谱。歌曲和曲绘来源于1_demo的视频。正如这个视频的标题所示，萨卡班和小男娘都沉默了。如果出现侵权现象，作者会删掉这个自制谱。希望大家喜欢这个作品！",
+  "difficulty": 11.300001,
+  "id": 19691,
+  "illustrator": "1_demo",
+  "level": "HD Lv.11",
+  "name": "テリトリーバトル （萨卡班甲鱼Remix版）",
+  "tags": [
+    "troll"
+  ],
+  "updated": null,
+  "uploader": null
+}

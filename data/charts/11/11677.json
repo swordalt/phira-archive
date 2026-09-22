@@ -1,0 +1,85 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:37Z",
+    "lastChanged": "2026-09-22T01:11:37Z",
+    "localBackup": {
+      "asset": "11677.zip",
+      "files": [
+        {
+          "path": "73405476.jpg",
+          "sha256": "6185d8671fe5ec9096874f0e2477b93484fecb3cf689bf48f59408102e8d9933",
+          "size": 71299
+        },
+        {
+          "path": "73405476.json",
+          "sha256": "027e333f9709745b3285a1b436d4c483a5b0df57d21bedd8aee89f2ab9dd6803",
+          "size": 3460324
+        },
+        {
+          "path": "73405476.mp3",
+          "sha256": "65ed799b0c84feb0ccf696418b185fc92fb0ad9c03e5ed3e04994ddadd807c28",
+          "size": 2019894
+        },
+        {
+          "path": "extra.json",
+          "sha256": "d34ceb242cbf8016b18d2d12af067704b260c29cf17153340134ea49d8d07ca9",
+          "size": 582
+        },
+        {
+          "path": "info.txt",
+          "sha256": "f1c8b837954e3cea12ed44b24f0ebab3deb65ba45a1a436b8d9eb0c640d57e03",
+          "size": 178
+        },
+        {
+          "path": "info.yml",
+          "sha256": "2843b8f49c2ef308dc87fc6703dd8ff56855ec62ac523dc3a32ae316644d260c",
+          "size": 1091
+        },
+        {
+          "path": "鸡你太美250.mp4",
+          "sha256": "4625b2bb319f98d4b181ebd3d1063197df8e0fc16a685b308449a1a4888c419a",
+          "size": 12742406
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "73405476.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "73405476.jpg",
+        "lineLength": 6.0,
+        "music": "73405476.mp3",
+        "offset": 0.0,
+        "previewEnd": 114.0,
+        "previewStart": 101.5,
+        "tip": "Tips:鸠你太美"
+      },
+      "release": "backup-11000-11999",
+      "sha256": "2fc99b91d5bb3b5dff336f3f3d8d20364a6b2d563b8e84d726da23c2301f23b7",
+      "size": 18296492,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11677.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-21T13:05:19.777647Z",
+  "charter": "只因你太梦幻",
+  "composer": "我叫瞬哥qaq",
+  "created": "2023-11-21T13:05:19.777647Z",
+  "description": "新人第七谱，谱师本人上传\n谱师全新整活作，添加了视频背景\n注意:重开或练习可能导致视频背景无法正常显示\n常规中的整活谱，对4K人友好，排键多数按照4K定轨排列，是一张主考底力和多指力的谱面，含有硬多指，双指人谨慎挑战\n@屑影一只 提供故事板技术支持，谱师已与其达成长期合作关系，期待我们接下来的合作谱吧\n祝大家玩得开心，制谱不易，轻点评分OwO",
+  "difficulty": 15.9,
+  "id": 11677,
+  "illustrator": "我叫瞬哥qaq",
+  "level": "AT Lv.15",
+  "name": "C. C. T. T. C. T. T.",
+  "tags": [
+    "只因你太美",
+    "鸡你太美",
+    "蔡徐坤",
+    "regular"
+  ],
+  "updated": "2023-11-21T13:05:19.777647Z",
+  "uploader": 15214
+}

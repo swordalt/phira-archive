@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:07Z",
+    "lastChanged": "2026-09-22T01:07:07Z",
+    "localBackup": {
+      "asset": "6911.zip",
+      "files": [
+        {
+          "path": "65808836.json",
+          "sha256": "9a580e476e6d3a0b4a1fad937f0a800c5f32dfe9433a9120aa33e2beff7cb9b3",
+          "size": 625602
+        },
+        {
+          "path": "65808836.mp3",
+          "sha256": "fd02642d734403a5d26beac5c691d811511ccabeecb8812bd60def8fb4d84b76",
+          "size": 582858
+        },
+        {
+          "path": "65808836.png",
+          "sha256": "17fb8099462924ef4ec119d3e3883f5d833b6f405ff0079bf3ce27e158703577",
+          "size": 299601
+        },
+        {
+          "path": "info.txt",
+          "sha256": "c98f2729ea515dd20c17adc459a2cfdfba575c7b7bef9a5c4d6b4d28850f7968",
+          "size": 159
+        },
+        {
+          "path": "info.yml",
+          "sha256": "d4687f2b034db4a628dc22a4c939c0a5d904daf3f9f4dfc0d8237435691a0a17",
+          "size": 546
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "65808836.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "65808836.png",
+        "lineLength": 6.0,
+        "music": "65808836.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-6000-6999",
+      "sha256": "0bdd06449d11939224d31bcec7f2ebfcb725efc4176e91e3bc4caeea22be090e",
+      "size": 1509274,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6911.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-06T03:09:47.738253Z",
+  "charter": "Polar1s",
+  "composer": "Otto",
+  "created": "2023-08-06T03:09:47.738253Z",
+  "description": "谱师本人上传。谱面中有部分叠tap，需留意。",
+  "difficulty": 0.0,
+  "id": 6911,
+  "illustrator": " ",
+  "level": "Lv.?",
+  "name": "说的道理",
+  "tags": [
+    "史",
+    "troll"
+  ],
+  "updated": "2023-08-06T03:09:47.738253Z",
+  "uploader": 214162
+}

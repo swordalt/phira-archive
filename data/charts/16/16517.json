@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:19:32Z",
+    "lastChanged": "2026-09-22T01:19:32Z",
+    "localBackup": {
+      "asset": "16517.zip",
+      "files": [
+        {
+          "path": "74270717.jpg",
+          "sha256": "d98540a71e8bb9195d2df0becba3756d6266a614a9d3c762ca2db3cafffb4913",
+          "size": 97781
+        },
+        {
+          "path": "74270717.json",
+          "sha256": "3cdb5d914f6fb807096e0a3491b86b59ee6bc5fae5814eddbac87846d64a1f34",
+          "size": 1038322
+        },
+        {
+          "path": "74270717.mp3",
+          "sha256": "5f838822d0756b3f5f1bf93e7136512d577bce7585f1e8a0178ae2906c0d0604",
+          "size": 10523603
+        },
+        {
+          "path": "info.txt",
+          "sha256": "13558124e8f6deea22d10998402d469a1fe6edde929cd8794dacd505e43309e9",
+          "size": 176
+        },
+        {
+          "path": "info.yml",
+          "sha256": "6059d008b5c3163aea9eac537159c0af997c91ce9274e37ce0944fadec755e80",
+          "size": 668
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "74270717.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "74270717.jpg",
+        "lineLength": 6.0,
+        "music": "74270717.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "十年之约，陪伴千百童心",
+        "unlockVideo": null
+      },
+      "release": "backup-16000-16999",
+      "sha256": "bebf564902b63668862430c7cba42bde009d1318f0cbeea0b2831ac621c762d4",
+      "size": 11661058,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-16000-16999/16517.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-27T13:40:05.964512Z",
+  "charter": "御空_yk",
+  "composer": "熊出没BoonieBears",
+  "created": "2024-02-27T13:40:05.964512Z",
+  "description": "谱面由谱师亲自上传\n十年之约，陪伴千百童心！",
+  "difficulty": 12.60001,
+  "id": 16517,
+  "illustrator": "熊出没BoonieBears",
+  "level": "Year Lv.10",
+  "name": "再次与你同行",
+  "tags": [
+    "十年之约",
+    "regular"
+  ],
+  "updated": "2024-02-28T12:40:13.972380Z",
+  "uploader": 393436
+}

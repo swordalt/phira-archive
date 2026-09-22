@@ -1,0 +1,75 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:19Z",
+    "lastChanged": "2026-09-22T01:07:19Z",
+    "localBackup": {
+      "asset": "7135.zip",
+      "files": [
+        {
+          "path": "133.jpg",
+          "sha256": "8b80fe13b5abc46258b1e9ee0899110c3736ba33f117571ed4b65bd92a48b3a2",
+          "size": 43432
+        },
+        {
+          "path": "60852236.json",
+          "sha256": "b4749b802b29b870a4991b98411e5e64ced774ad7546c063f495f64a9ad48ce4",
+          "size": 12603656
+        },
+        {
+          "path": "60852236.mp3",
+          "sha256": "84a5ea2857cce8336285b5b4f626082bf68fae133e75940c52214bfd02e5cfde",
+          "size": 2395368
+        },
+        {
+          "path": "60852236.png",
+          "sha256": "cb88c98ac580ebfef84b8ca7ebe4af55c27d18fb213f9790293e3a78a53b3995",
+          "size": 301317
+        },
+        {
+          "path": "info.txt",
+          "sha256": "f98709eb2e8b6f5d05787acf418f1d5ec237b60c0542cfa167f3ed567966f125",
+          "size": 179
+        },
+        {
+          "path": "info.yml",
+          "sha256": "04e8b9726e55c50344d7db32ee41f2bfaa22d0db36b06ab366c2d0ca3328897c",
+          "size": 449
+        }
+      ],
+      "info": {
+        "aspectRatio": 2.24,
+        "backgroundDim": 0.6,
+        "chart": "60852236.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "60852236.png",
+        "lineLength": 6.0,
+        "music": "60852236.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-7000-7999",
+      "sha256": "1c8d2a1f3d217cf4b7461a37894116cf569a9a146e874c27477173cd57ff839b",
+      "size": 15344999,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-7000-7999/7135.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "英梨梨无了",
+  "composer": "黒皇帝 feat.AKA",
+  "created": null,
+  "description": "本人上传",
+  "difficulty": 17.1,
+  "id": 7135,
+  "illustrator": "NekoFTR",
+  "level": "AT  Lv.17",
+  "name": "Le Porteur d'Ombre",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

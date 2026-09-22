@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:13Z",
+    "lastChanged": "2026-09-22T01:05:13Z",
+    "localBackup": {
+      "asset": "5260.zip",
+      "files": [
+        {
+          "path": "68730492.jpg",
+          "sha256": "a29d7bafcad5477d691f1beaa539f4be5b954f72af75eb98d27ef341e21d2584",
+          "size": 210083
+        },
+        {
+          "path": "68730492.json",
+          "sha256": "50f79175743f696f8779443199b3c2762d6a2d94b254bf3622ad8568d8f437d2",
+          "size": 514715
+        },
+        {
+          "path": "68730492.mp3",
+          "sha256": "479b5cbd99447abe1d2325f8f747cc914cd0243a1eb45d8b29fee01d14984d7f",
+          "size": 9155557
+        },
+        {
+          "path": "info.txt",
+          "sha256": "4a1ea900837f3d6c53f978dbd615fe12f2effa432151fe41d46d8f41ae4aaee8",
+          "size": 155
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f619134f5a991140406a34b255d898a3485f2e483c3c0824477654143006c187",
+          "size": 560
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "68730492.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "68730492.jpg",
+        "lineLength": 6.0,
+        "music": "68730492.mp3",
+        "offset": 0.0,
+        "previewEnd": 18.0,
+        "previewStart": 0.0,
+        "tip": "<I'm Faded>"
+      },
+      "release": "backup-5000-5999",
+      "sha256": "8bb57582be75070fd34259662eac3be4591fa6499325d801146643031f4e9cfa",
+      "size": 9881578,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5260.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-13T14:43:24.274251Z",
+  "charter": "唉2333",
+  "composer": "Alan Walker",
+  "created": "2023-07-13T14:43:24.274251Z",
+  "description": "[自制谱] 中间和后面多练一下就过了(指自己)",
+  "difficulty": 14.300001,
+  "id": 5260,
+  "illustrator": "Alan Walker",
+  "level": "IN Lv.14",
+  "name": "Faded",
+  "tags": [],
+  "updated": "2023-07-13T14:43:24.274251Z",
+  "uploader": 23821
+}

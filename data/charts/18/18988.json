@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:22:08Z",
+    "lastChanged": "2026-09-22T01:22:08Z",
+    "localBackup": {
+      "asset": "18988.zip",
+      "files": [
+        {
+          "path": "90786574.jpg",
+          "sha256": "fd3abdfa6a8b78ce501a841979ce7e479b748f7409d8b608571d665b0d0781b9",
+          "size": 35801
+        },
+        {
+          "path": "90786574.json",
+          "sha256": "f1b54e6381e646f9e9335da537d9311eab938c91064a19ffd8eb3fdc7b751fdc",
+          "size": 948142
+        },
+        {
+          "path": "90786574.mp3",
+          "sha256": "f9830cbcfc611f748ad31c3a6382d56adc894755e7f2a51390b20fee0e88de68",
+          "size": 1892936
+        },
+        {
+          "path": "info.txt",
+          "sha256": "c6a62c0bc28fe9cb76e58691990b5cdeb5dcfb5f6f29a872a02f5f4e0375d753",
+          "size": 165
+        },
+        {
+          "path": "info.yml",
+          "sha256": "0e7035dddb2e0c6fbde0ad5c9502faf9936128eeee9d405797c43f4ebc2733a1",
+          "size": 571
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "90786574.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "90786574.jpg",
+        "lineLength": 6.0,
+        "music": "90786574.mp3",
+        "offset": 0.05,
+        "previewEnd": 67.0,
+        "previewStart": 52.0,
+        "tip": "Exit→→↑↓→→0",
+        "unlockVideo": null
+      },
+      "release": "backup-18000-18999",
+      "sha256": "fd5cd660b35b8abd9f99e1d1c071a01e7797f0e5a45c0b061bbfcf10f45d4379",
+      "size": 2878123,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-18000-18999/18988.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-04-28T04:15:24.120337Z",
+  "charter": "Haze Exit→0",
+  "composer": "EO(エオ)",
+  "created": "2024-04-28T04:15:24.120337Z",
+  "description": "本人上传　charter:霧霜",
+  "difficulty": 13.600002,
+  "id": 18988,
+  "illustrator": "EO(エオ)",
+  "level": "IN Lv.13",
+  "name": "8番出口",
+  "tags": [],
+  "updated": "2024-04-30T22:17:19.699361Z",
+  "uploader": 819780
+}

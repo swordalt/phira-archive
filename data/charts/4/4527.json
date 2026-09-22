@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:56Z",
+    "lastChanged": "2026-09-22T01:03:56Z",
+    "localBackup": {
+      "asset": "4527.zip",
+      "files": [
+        {
+          "path": "69927129.jpg",
+          "sha256": "93b9b3bd78a9e0abb46d9520dde605c4da7b02ec80f9c82e18a4bcaba3764eeb",
+          "size": 45981
+        },
+        {
+          "path": "69927129.json",
+          "sha256": "51ffbcfc411c49a25f9ea892da70fa3b7b2a21cd00e33bc7dc666d2a71ea90fc",
+          "size": 20648
+        },
+        {
+          "path": "69927129.mp3",
+          "sha256": "7404a44ba76d3f17bcece93dc1ed47dbc2d591634edecaa31eb24a6bcc00ded5",
+          "size": 510732
+        },
+        {
+          "path": "info.txt",
+          "sha256": "0d167ef46a8cd0a769fab94ffc3219d01f4ffbec24f8d2cefaead235e5b0ae7f",
+          "size": 176
+        },
+        {
+          "path": "info.yml",
+          "sha256": "e169b725dbfe5cb79f89a7f436b6e78e24cdb8e3bdcb67cda7a0c4132b010f81",
+          "size": 471
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "69927129.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "69927129.jpg",
+        "lineLength": 6.0,
+        "music": "69927129.mp3",
+        "offset": -0.05,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-4000-4999",
+      "sha256": "01478d4f80f6c3671325196d3bdfcfaa18e35e4140f2179f4ac8647e157dba7f",
+      "size": 578516,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-4000-4999/4527.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "SystemBM5071",
+  "composer": "qwerty4C59",
+  "created": null,
+  "description": "",
+  "difficulty": 16.2,
+  "id": 4527,
+  "illustrator": "视频中截取",
+  "level": "SBM Lv.?",
+  "name": "DESTRUCTION 3,2,1に駆ける",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

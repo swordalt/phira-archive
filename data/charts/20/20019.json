@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:23:40Z",
+    "lastChanged": "2026-09-22T01:23:40Z",
+    "localBackup": {
+      "asset": "20019.zip",
+      "files": [
+        {
+          "path": "98644691.MP3",
+          "sha256": "b77f8c1cb4519e8b5804e3697dba262257cd3f056bea637f4a5f434d7dcb3274",
+          "size": 2079814
+        },
+        {
+          "path": "98644691.jpg",
+          "sha256": "77b317a974f86bee9c24c84f1f78cffd822f6661d1796db27b787deeb607baeb",
+          "size": 3058498
+        },
+        {
+          "path": "98644691.json",
+          "sha256": "d83293eb39a570a224d73c59f5b91deeaee965865142d495153f8a0ce86c3832",
+          "size": 3266493
+        },
+        {
+          "path": "info.txt",
+          "sha256": "0d97cec65c324165957bf10ab4b4bc13341642738df52f17749d5ad3ed188d25",
+          "size": 262
+        },
+        {
+          "path": "info.yml",
+          "sha256": "32c81ad686696f314f659c43a8b9be239e9c31fc8ba71f8526733162569d24b7",
+          "size": 1355
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "98644691.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "98644691.jpg",
+        "lineLength": 6.0,
+        "music": "98644691.MP3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip：好位置",
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "20677284018748b6b3a1af0cd1b81a2056d12da10d20ce8b21b7a0df6cc69a97",
+      "size": 8406930,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20019.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-17T13:17:14.917121Z",
+  "charter": "Proclip is Very BAD",
+  "composer": "EndCat-终猫 vs StartDoge-始犬 vs 终焉机器=/=恶磁木亥",
+  "created": "2024-05-17T13:17:14.917121Z",
+  "description": "注意！如果玩家发现此谱面被删除或下架，严禁点击上传按钮！！！严禁点击上传按钮！！！后果自负！！！为本人制作且由本人上传，头像和昵称都和B站的一致（B站id：Proclip；暂无视频）好消息！好消息！奥兹米奇，全新愚人节活动曲目：⚡️核磁共振⚡️ ⚡️核磁共振⚡️ 🎉全新登场了！🎉 🎉全场特价🎉 🎉全场特价🎉 🎉全场特价🎉 🎉全场特价🎉 🎉全场特价🎉 玩了不会手指抽筋，不会拇指玩胀，快来体验，全新核磁共振吧！（广告段结合了Legacy谱面和答辩，让你玩起来，是真正的答辩！）放整活区吧",
+  "difficulty": 1.4901161e-08,
+  "id": 20019,
+  "illustrator": "我要把你麻麻抓走.jpg",
+  "level": "SP Lv.?",
+  "name": "终暮~核磁共振+(SuperBadcore-VeryBad REMIX)",
+  "tags": [
+    "Orzmic",
+    "troll"
+  ],
+  "updated": "2024-05-17T13:17:14.917121Z",
+  "uploader": 138219
+}

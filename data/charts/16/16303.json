@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:19:28Z",
+    "lastChanged": "2026-09-22T01:19:28Z",
+    "localBackup": {
+      "asset": "16303.zip",
+      "files": [
+        {
+          "path": "13652190.json",
+          "sha256": "9952d55b2f1e04c4cfcb7aea452632183d910e1e2d3dfbaae317cec759ae83d1",
+          "size": 7763325
+        },
+        {
+          "path": "13652190.mp3",
+          "sha256": "3d4b36375ea874b24f415b708a381f52a3f441c6a418221fb795c51db68a7b4c",
+          "size": 5117953
+        },
+        {
+          "path": "13652190.png",
+          "sha256": "0a67968565ce71292668eca8b6ee0a47f1506bcf0e61254b459e07f82879a217",
+          "size": 1956607
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b8194f9aaa04f0b5c04866311489cf510b5e95977d26573b1ed78ea81ce087f7",
+          "size": 165
+        },
+        {
+          "path": "info.yml",
+          "sha256": "0ad964e4f0c0612fefa1676313b0e4d8262ab07c810d23193fff7c308b2044e7",
+          "size": 742
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "13652190.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "13652190.png",
+        "lineLength": 6.0,
+        "music": "13652190.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "给他们来一点小小的速核震撼",
+        "unlockVideo": null
+      },
+      "release": "backup-16000-16999",
+      "sha256": "b6ac4c55e0abf5d888a4b08baa2f66979b33177a849ecd3bb0c13c469a430e2e",
+      "size": 14839300,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-16000-16999/16303.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-22T13:34:58.170711Z",
+  "charter": "小黑",
+  "composer": "endcat-终猫",
+  "created": "2024-02-22T13:34:58.170711Z",
+  "description": "b站我是小黑\n写了两天，自己的第一个发布的自制谱，写的很烂。b站里欢迎大家来指点指点\n修了长条塞黄健二周目那里的莫名奇妙漏键的问题",
+  "difficulty": 16.400002,
+  "id": 16303,
+  "illustrator": "UK",
+  "level": "AT",
+  "name": "逃不掉的噩梦",
+  "tags": [],
+  "updated": "2024-02-22T13:34:58.170711Z",
+  "uploader": 161559
+}

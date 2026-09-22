@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:10:30Z",
+    "lastChanged": "2026-09-22T01:10:30Z",
+    "localBackup": {
+      "asset": "10988.zip",
+      "files": [
+        {
+          "path": "59298493.jpg",
+          "sha256": "1ae5e572edebbf62324722689f5544c61d80c69729d2de37fbda832c2c346f8b",
+          "size": 787023
+        },
+        {
+          "path": "59298493.json",
+          "sha256": "caac6d27c69246e72f91e6e6e7d529d6d712904f8bcb69ec5912012dc80ef2da",
+          "size": 36967980
+        },
+        {
+          "path": "59298493.ogg",
+          "sha256": "f50c1a38506808144f4634f66231e2f1e644c9eaed6b3d636d5d8efcfdd0c2c7",
+          "size": 2541560
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d986fa136720c9e24d0776e2c76ac89e39008168a96b3438c40f1edfafff43d3",
+          "size": 171
+        },
+        {
+          "path": "info.yml",
+          "sha256": "aa8aa5dede651d867be0cb5a6b03e7d41d256f420bd32d09aef1bd84077f2348",
+          "size": 900
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "59298493.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "59298493.jpg",
+        "lineLength": 6.0,
+        "music": "59298493.ogg",
+        "offset": 0.06,
+        "previewEnd": 76.0,
+        "previewStart": 61.0,
+        "tip": "垂直线交点是键的落点，注意一定是垂直；开局那里是军火展示：单线蓝，双线黄，三线长，四线红；有采音但是不多。",
+        "unlockVideo": null
+      },
+      "release": "backup-10000-10999",
+      "sha256": "0511370c5647024e3dee82e1ad111c5226464adda0587eb142fd09d9f0c39cc8",
+      "size": 40298142,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-10000-10999/10988.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-10-29T07:34:57.256684Z",
+  "charter": "fjzr",
+  "composer": "Juggernaut.&川原かな&",
+  "created": "2023-10-29T07:34:57.256684Z",
+  "description": "要是有时间就把后面那段做完，但马上就上高三了，不知道还有机会莫得，别抱有什么希望\n新人谱师，不喜勿喷，允许保留作者信息进行转发录制等",
+  "difficulty": 15.900003,
+  "id": 10988,
+  "illustrator": "インターネット",
+  "level": "AT Lv.15",
+  "name": "In The Sky",
+  "tags": [
+    "visual"
+  ],
+  "updated": "2024-03-05T15:38:09.896109Z",
+  "uploader": 19
+}

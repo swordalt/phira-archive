@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:02:00Z",
+    "lastChanged": "2026-09-22T01:02:00Z",
+    "localBackup": {
+      "asset": "303.zip",
+      "files": [
+        {
+          "path": "1587797.jpg",
+          "sha256": "24737776800d7f6d615d08c21a1e1d1f9be5653261a38f48d6bb2ecb933bedc0",
+          "size": 36375
+        },
+        {
+          "path": "1587797.json",
+          "sha256": "39227d409f5f1f15d8ef999a93e292d0c5dcacf5a218dd7c4134126895c30e80",
+          "size": 2331089
+        },
+        {
+          "path": "1587797.ogg",
+          "sha256": "ccc942ffee92b1a8de39c1f81026488d70b60d828967f4d13334b225e2cabaf3",
+          "size": 2013593
+        },
+        {
+          "path": "info.txt",
+          "sha256": "c434601597c24917e060e03f44ef2a3da0ad817a83a48616b5db62b754028017",
+          "size": 156
+        },
+        {
+          "path": "info.yml",
+          "sha256": "b63a289ecef61df6a5c70dbc3a62db6bdbea546a64ac9faf29ed05dc246f11d6",
+          "size": 479
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "1587797.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "1587797.jpg",
+        "lineLength": 6.0,
+        "music": "1587797.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-0-999",
+      "sha256": "6724b54129ad92f7259598ed773b3fe609d7953dc34e771ace27616523624131",
+      "size": 4382194,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-0-999/303.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-04-02T08:24:52.826382Z",
+  "charter": "L11 Restart",
+  "composer": "Synthwulf",
+  "created": "2023-04-02T08:24:52.826382Z",
+  "description": "",
+  "difficulty": 14.0,
+  "id": 303,
+  "illustrator": "UK",
+  "level": "IN 14",
+  "name": "Passacaglia",
+  "tags": [],
+  "updated": "2023-04-02T08:24:52.826382Z",
+  "uploader": 591
+}

@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:22:19Z",
+    "lastChanged": "2026-09-22T01:22:19Z",
+    "localBackup": {
+      "asset": "19164.zip",
+      "files": [
+        {
+          "path": "31712443.jpg",
+          "sha256": "a565976561a5d7c1c171a4dcb3f8c203dab2c2db6c9b783f8ce0057e3fa6c8ba",
+          "size": 287348
+        },
+        {
+          "path": "31712443.json",
+          "sha256": "dcd4df9684fdb5215602b4193bb9a1daa3b99181465dc34cb709b613dd31d054",
+          "size": 1023794
+        },
+        {
+          "path": "31712443.mp3",
+          "sha256": "632978a24fa150e2993cb26c13f30a5f37223cdba39c50669eb32c80f9d25872",
+          "size": 7519253
+        },
+        {
+          "path": "info.txt",
+          "sha256": "80ffcbf7c825785c48ac2d911b51639ccebab1d10916ad1aa0410e675c23cee2",
+          "size": 152
+        },
+        {
+          "path": "info.yml",
+          "sha256": "98a9dccb3378a13645dfbc4964a5f309f708e6c1814ef7effed2cea936c4e2b4",
+          "size": 619
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "31712443.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "31712443.jpg",
+        "lineLength": 6.0,
+        "music": "31712443.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "我来构思，我来写谱，我来收歌。一切献给——芙宁娜！",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "ba4748b8ced94b3e15ca5a2393a80183fc176affab462372b2f30f8748e0b700",
+      "size": 8831674,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19164.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-01T11:46:25.607711Z",
+  "charter": "zhanwai",
+  "composer": "HOYO-MiX",
+  "created": "2024-05-01T11:46:25.607711Z",
+  "description": "纯厨力创作，B站欢迎关注喵",
+  "difficulty": 14.400002,
+  "id": 19164,
+  "illustrator": "miHoYo",
+  "level": "AT Lv14",
+  "name": "轻涟",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2024-05-01T11:46:25.607711Z",
+  "uploader": 325275
+}

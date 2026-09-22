@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:22:46Z",
+    "lastChanged": "2026-09-22T01:22:46Z",
+    "localBackup": {
+      "asset": "19395.zip",
+      "files": [
+        {
+          "path": "75686598.jpg",
+          "sha256": "bd1e641bbbdf2e6b47fa0b87e22a50d0dc936582c15ece3c12b6ee6b89be1aad",
+          "size": 489823
+        },
+        {
+          "path": "75686598.json",
+          "sha256": "b6008b116acd7bbe684ae0a0965d7c45343bb317148b9ea6a0efa0a210e448d8",
+          "size": 7123607
+        },
+        {
+          "path": "75686598.mp3",
+          "sha256": "ab8c8d854eccac96728778b8eed6458d64d8f5adc49c385119fc2ebf5710b163",
+          "size": 6288402
+        },
+        {
+          "path": "info.txt",
+          "sha256": "3cd82db9d4f01744bad38732678caf5b50cb8aa9fd9f76d450c3fbf8661cdb0e",
+          "size": 234
+        },
+        {
+          "path": "info.yml",
+          "sha256": "06d2eae8635b1ff5c8af7f885b846469f1308ae462384917192a52c1bc56bc45",
+          "size": 631
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "75686598.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "75686598.jpg",
+        "lineLength": 6.0,
+        "music": "75686598.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "a2baa6ae6bbefbf2ef139c82aef2951aaf8e326ee442353a46cd568623958d61",
+      "size": 13903205,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19395.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-03T13:34:27.425356Z",
+  "charter": "TRADER “MESMERIZER！！”",
+  "composer": "channel、サツキ feat. 初音ミク重音テト;;",
+  "created": "2024-05-03T13:34:27.425356Z",
+  "description": "杂乱了有点\n谱师本人上传（神币",
+  "difficulty": 15.0,
+  "id": 19395,
+  "illustrator": "channel",
+  "level": "IN Lv.15",
+  "name": "メズマライザー",
+  "tags": [],
+  "updated": "2024-05-03T13:34:27.425356Z",
+  "uploader": 23845
+}

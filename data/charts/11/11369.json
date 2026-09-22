@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:13Z",
+    "lastChanged": "2026-09-22T01:11:13Z",
+    "localBackup": {
+      "asset": "11369.zip",
+      "files": [
+        {
+          "path": "86090030.jpg",
+          "sha256": "11ea0a447f2f88638230a0c81e7309b4840238161dc65e9e9c931bd5e3decc92",
+          "size": 467210
+        },
+        {
+          "path": "86090030.json",
+          "sha256": "2e823b4cde7fdf06a5490474728224c9121d3b8f55c119d73573441275865a7a",
+          "size": 1659920
+        },
+        {
+          "path": "86090030.mp3",
+          "sha256": "b9df0bcbbc946ed82c467ff405b3ede25a9e4f3683127f3ccdf7d2155970bfc9",
+          "size": 2719138
+        },
+        {
+          "path": "info.txt",
+          "sha256": "30a297c20213e90d2a17d9506bea304e9d109f208e002e08cb9d062832478594",
+          "size": 184
+        },
+        {
+          "path": "info.yml",
+          "sha256": "48ce9bb4c86b811d340ac50abe3b2864808a84dd5a8ce9047d5d34ca77e72809",
+          "size": 839
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "86090030.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "86090030.jpg",
+        "lineLength": 6.0,
+        "music": "86090030.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "您好，垃圾扔吗？"
+      },
+      "release": "backup-11000-11999",
+      "sha256": "ebc9859ec42d4fcea40169986eca47e0b0ef01f2cc8ab39946827e3dfc5e82fa",
+      "size": 4847799,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11369.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-11T12:51:38.303638Z",
+  "charter": "IceRain Vs. DDGR",
+  "composer": "Ctymax Vs. NceS",
+  "created": "2023-11-11T12:51:38.303638Z",
+  "description": "已经过谱师Icerain和我自己的授权，由于《某种原因》导致线理的有点乱，就这样吧（\n注:该谱面包含部分RPE故事板\n演示视频: https://b23.tv/ltG10De\n(谱师IceRain指B站“星云冰雨”UID:197....290)\n(谱师DDGR指B站“DiAMONDGAMER”UID:494...355)",
+  "difficulty": 15.0,
+  "id": 11369,
+  "illustrator": "IceRain",
+  "level": "IN LV.15",
+  "name": "Rubbish Sorting",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-11-12T02:03:51.398014Z",
+  "uploader": 2067
+}

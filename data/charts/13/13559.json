@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:15:08Z",
+    "lastChanged": "2026-09-22T01:15:08Z",
+    "localBackup": {
+      "asset": "13559.zip",
+      "files": [
+        {
+          "path": "74808080.json",
+          "sha256": "78a710a644469c99d42407dd5b07963e5f0a4b96ab03b377998c1a4212be5698",
+          "size": 1313784
+        },
+        {
+          "path": "74808080.ogg",
+          "sha256": "541b18c40a6f8cffc4cf53cd35b6f8059eb7bd1a85ce07f9b1f3b3ada3673289",
+          "size": 2622154
+        },
+        {
+          "path": "74808080.png",
+          "sha256": "79d5f72a7406262ccc660b3d25e964e803e92a8d422518f08d50151831cd34ff",
+          "size": 78900
+        },
+        {
+          "path": "info.txt",
+          "sha256": "621b41388eee9dea539ab24e5015274af6bb3fce269b7ec392e919eb9eb6dc2c",
+          "size": 173
+        },
+        {
+          "path": "info.yml",
+          "sha256": "ce920a493904cb6a4c090d3a02f47a766c29aae873840688116574c2ec8b6f7c",
+          "size": 554
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "74808080.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "74808080.png",
+        "lineLength": 6.0,
+        "music": "74808080.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-13000-13999",
+      "sha256": "e1d74ceaeadffbe5d0bce16aa9717bb81e74bcebff7981e5c49cc8445f91ecc9",
+      "size": 4016073,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13559.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-13T13:31:28.524788Z",
+  "charter": "HQMVT",
+  "composer": "BlackYooh vs. siromaru",
+  "created": "2024-01-13T13:31:28.524788Z",
+  "description": "本人上传 BV1kW4y1A799 有修改",
+  "difficulty": 14.500001,
+  "id": 13559,
+  "illustrator": "UK",
+  "level": "IN Lv.14",
+  "name": "GIGANTØMAKHIA",
+  "tags": [],
+  "updated": "2024-01-13T13:31:28.524788Z",
+  "uploader": 5693
+}

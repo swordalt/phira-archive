@@ -1,0 +1,111 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:13:08Z",
+    "lastChanged": "2026-09-22T01:13:08Z",
+    "localBackup": {
+      "asset": "12519.zip",
+      "files": [
+        {
+          "path": "15043585.PNG",
+          "sha256": "07847ed5e0edbbb5ee15561c402c71f0c7f4b3286f83fd2caca85ab0a0bee995",
+          "size": 2695416
+        },
+        {
+          "path": "15043585.json",
+          "sha256": "cc9984a1ec59f70414729de62b7d60754ffc059e02c0c1d4fad044a0c2ee2964",
+          "size": 19650020
+        },
+        {
+          "path": "15043585.mp3",
+          "sha256": "0da9aa3efae3cf89c92b1d6ca4bdddb24214153ecbad6f61270adbf9ae88ab6c",
+          "size": 7199919
+        },
+        {
+          "path": "I.png",
+          "sha256": "d11770a88a2ea10ee598b965ca8574df78ed496fcc5ef41b3cfa73cdb6dea8fd",
+          "size": 516347
+        },
+        {
+          "path": "II.png",
+          "sha256": "ec3ce97344794858e804b12425d1d44099ca38b5a1011908b2e349732aac5934",
+          "size": 371300
+        },
+        {
+          "path": "III.png",
+          "sha256": "c21b8320cabe4f09b83b10317fdcc4ce73238f163951943967fa9a272055ef85",
+          "size": 567780
+        },
+        {
+          "path": "IV.png",
+          "sha256": "ea1bdc7fd32fccb540b968f782b21cd11964ae532b249dc13257ade684be3bd0",
+          "size": 40364
+        },
+        {
+          "path": "V.png",
+          "sha256": "8362484587eec731ecd799ba0f22db09ab381a39d88abbb3e44992b9d6308750",
+          "size": 81547
+        },
+        {
+          "path": "VI.png",
+          "sha256": "3932754dd503aa932f5237473fd6e3467433f68f9416ba6c2864d9be11bbed77",
+          "size": 357813
+        },
+        {
+          "path": "VV.png",
+          "sha256": "fd67e9bc7ee9ce17649b883c38631124ae7a5b76a1599d7c573ed4418f1a02e7",
+          "size": 245852
+        },
+        {
+          "path": "info.txt",
+          "sha256": "202363850b1989cae1ceca042ae546827e95767dfd3ddef83d2426220203d441",
+          "size": 200
+        },
+        {
+          "path": "info.yml",
+          "sha256": "cd9d6fb443d11ca64b2a5eac43f123a6458fdee8a2a3cb99acf2b7aa7ed1343b",
+          "size": 783
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "15043585.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "15043585.PNG",
+        "lineLength": 6.0,
+        "music": "15043585.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "This,is the true essence ",
+        "unlockVideo": null
+      },
+      "release": "backup-12000-12999",
+      "sha256": "03aeadfa1d50884855bc7a937560d6dd17e45777acddd0afa7d5386559e9fb3e",
+      "size": 31728463,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12519.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-16T08:08:07.831870Z",
+  "charter": "\"THE EVERGOD\" ChartTeam",
+  "composer": "takehirotei vs. HowToPlayLN",
+  "created": "2023-12-16T08:08:07.831870Z",
+  "description": "超长大型合作谱，如需发布手元请b站@-无铭alexsteven-       @澄橙子Orighting        @Doctor_LeenKen                    @元极-Hitert-",
+  "difficulty": 17.300001,
+  "id": 12519,
+  "illustrator": "DannyPX Polytetral TheFunk",
+  "level": "TieBreaker\"Enhance\"",
+  "name": "Essence",
+  "tags": [
+    "tiebreaker",
+    "多指",
+    "17",
+    "regular"
+  ],
+  "updated": "2023-12-16T13:13:39.675712Z",
+  "uploader": 8883
+}

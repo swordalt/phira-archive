@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:30Z",
+    "lastChanged": "2026-09-22T01:03:30Z",
+    "localBackup": {
+      "asset": "3669.zip",
+      "files": [
+        {
+          "path": "44566751.jpg",
+          "sha256": "af26682db68eb4d0c84b5d7d0ddc6409819fdece43cb8cafae7d58a4eac736b5",
+          "size": 98159
+        },
+        {
+          "path": "44566751.json",
+          "sha256": "df202171381a7b600206ae1b7f7048b70189cd44e8b5aab521557faee2cccf9a",
+          "size": 122055
+        },
+        {
+          "path": "44566751.mp3",
+          "sha256": "8c6b1b04f87ef1017dc73c51775ada8e2637979985315de978aca4211359b4f9",
+          "size": 2016969
+        },
+        {
+          "path": "info.txt",
+          "sha256": "191b61de10a467fa429646a0b050576f38d95356b4102f5fc00abd4f7842f0a4",
+          "size": 153
+        },
+        {
+          "path": "info.yml",
+          "sha256": "18574cad032e97238e6ad94b7745e08b2927c85db6aa47c1b4dfbfcbe936d68d",
+          "size": 561
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "44566751.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "44566751.jpg",
+        "lineLength": 6.0,
+        "music": "44566751.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "拒绝黄赌毒，从你我做起（认真脸）"
+      },
+      "release": "backup-3000-3999",
+      "sha256": "0f82d92c3bb06368cdb528d585878b7ce37f84c3b0e2e78201b804b6864143b8",
+      "size": 2238405,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-3000-3999/3669.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-06-18T05:14:37.808283Z",
+  "charter": "6",
+  "composer": "RoughSketch",
+  "created": "2023-06-18T05:14:37.808283Z",
+  "description": "第一个phi谱",
+  "difficulty": 16.400002,
+  "id": 3669,
+  "illustrator": "UK",
+  "level": "AT LV.16",
+  "name": "777",
+  "tags": [
+    "实验性配置",
+    "troll"
+  ],
+  "updated": "2023-06-18T05:14:37.808283Z",
+  "uploader": 37747
+}

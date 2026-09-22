@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:28Z",
+    "lastChanged": "2026-09-22T01:03:28Z",
+    "localBackup": {
+      "asset": "3473.zip",
+      "files": [
+        {
+          "path": "24279689.json",
+          "sha256": "fd5c81692ce87bb3ed1569ff9017ea66731d8aea3086befc85712ddaa5058e29",
+          "size": 289535
+        },
+        {
+          "path": "24279689.mp3",
+          "sha256": "71109c2e197e6f6799724611493d8282f0d026e93b448d245cc65907f6675c70",
+          "size": 3506002
+        },
+        {
+          "path": "24279689.png",
+          "sha256": "51226c1d5671a8cf598fce7e37a2018bf66fbfe8e037cae3c0aa094db034c666",
+          "size": 5658
+        },
+        {
+          "path": "info.txt",
+          "sha256": "d635e9032bf578d40f8eb58bc45ec5ef3d0b8f9c9d2457cc4be2754b9c846713",
+          "size": 158
+        },
+        {
+          "path": "info.yml",
+          "sha256": "ee9aa1ab5818b274e5945d3bed2199b804fedf82d8c7007b3b9e8ad10520bcb7",
+          "size": 488
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "24279689.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "24279689.png",
+        "lineLength": 6.0,
+        "music": "24279689.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-3000-3999",
+      "sha256": "e7728a7708a88fd83f25a15fa7616c554be37dd3c0288a8c80b154d87afb71d8",
+      "size": 3802349,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-3000-3999/3473.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-06-13T11:04:34.993280Z",
+  "charter": "Inklight",
+  "composer": "-TSAR-",
+  "created": "2023-06-13T11:04:34.993280Z",
+  "description": "",
+  "difficulty": 15.700003,
+  "id": 3473,
+  "illustrator": "UK",
+  "level": "IN Lv.15",
+  "name": "700BPM挑战",
+  "tags": [],
+  "updated": "2023-07-11T10:14:37.340312Z",
+  "uploader": 42470
+}

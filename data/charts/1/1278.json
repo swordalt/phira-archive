@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:02:35Z",
+    "lastChanged": "2026-09-22T01:02:35Z",
+    "localBackup": {
+      "asset": "1278.zip",
+      "files": [
+        {
+          "path": "74294194.jpg",
+          "sha256": "c92cde4112d2096574d63c4a1776cc33c774e90c9033eb98090cfe732a012ac1",
+          "size": 462782
+        },
+        {
+          "path": "74294194.json",
+          "sha256": "29bcd2a2cb61702dec2521fc15a7cebe9b4884fd8882c398328c54f5d937d8bf",
+          "size": 185306
+        },
+        {
+          "path": "74294194.mp3",
+          "sha256": "83b6d4ee46ac9a4be5e984f73c3510c8c61287232a4ae1be4ae70243def258ec",
+          "size": 2079583
+        },
+        {
+          "path": "info.txt",
+          "sha256": "252df3f4ff5460315e2aaa89f373340502b89f9e0d8d9a2cea4c9fed74a5ed1b",
+          "size": 171
+        },
+        {
+          "path": "info.yml",
+          "sha256": "7322f2233c47415a464fffe98528dd2df02456f73d8b101c8b96968b928b0b7c",
+          "size": 513
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "74294194.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "74294194.jpg",
+        "lineLength": 6.0,
+        "music": "74294194.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-1000-1999",
+      "sha256": "88cb81e3d7b4d68b2199b51f8afa24492d12daf061a0a7ca0de9d16fe5884ddb",
+      "size": 2728863,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-1000-1999/1278.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-05-06T15:23:49.569747Z",
+  "charter": "Suglarke",
+  "composer": "cosMo＠暴走P",
+  "created": "2023-05-06T15:23:49.569747Z",
+  "description": "",
+  "difficulty": 16.0,
+  "id": 1278,
+  "illustrator": "UK",
+  "level": "AT Lv.16",
+  "name": "ヤミナベ!!!!",
+  "tags": [],
+  "updated": "2023-05-06T15:23:49.569747Z",
+  "uploader": 6828
+}

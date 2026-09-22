@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:33Z",
+    "lastChanged": "2026-09-22T01:09:33Z",
+    "localBackup": {
+      "asset": "10035.zip",
+      "files": [
+        {
+          "path": "57524476.json",
+          "sha256": "ba0d9920690cbcc5ad0412007582ce222321b232b57d77cd06fccb98fd5b7b0a",
+          "size": 2739857
+        },
+        {
+          "path": "57524476.png",
+          "sha256": "ab887f5952878906be42d9c19b6c29e8b227e31cac978617f7d5c353fc2c2ddf",
+          "size": 679290
+        },
+        {
+          "path": "57524476.wav",
+          "sha256": "2eddf5653f5b7c2af4b5144c0d4c8d1af8ece9b7952e3d66bb653a250db4e7a5",
+          "size": 2795856
+        },
+        {
+          "path": "info.txt",
+          "sha256": "0fc704e04246d14aa3b8ee5795ad19d299a11f1e85895201b3d8b29bb4d4a570",
+          "size": 197
+        },
+        {
+          "path": "info.yml",
+          "sha256": "acacdeb45481d74a18912f58383f9bea47c507d0cbbb0813d242340ab420904a",
+          "size": 713
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "57524476.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "57524476.png",
+        "lineLength": 6.0,
+        "music": "57524476.wav",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-10000-10999",
+      "sha256": "96c9d456ae4f13158f7686b7578711583d69e3a0212705d6577fc358a43b21e6",
+      "size": 6216421,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-10000-10999/10035.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-10-02T09:59:48.996785Z",
+  "charter": "mdw233/ssrhira",
+  "composer": "かめりあ(Camellia)",
+  "created": "2023-10-02T09:59:48.996785Z",
+  "description": "本铺为合作谱子\n我负责写前半段知道第二次副歌部分\nssrhira负责第二副歌部分以后\nssrhira为制谱萌新请大家见谅\n双人商议后上传",
+  "difficulty": 15.200001,
+  "id": 10035,
+  "illustrator": "Lanota",
+  "level": "IN Lv.15",
+  "name": "Wolves Standing Towards Enemies",
+  "tags": [],
+  "updated": "2023-10-02T13:42:06.111414Z",
+  "uploader": 40853
+}

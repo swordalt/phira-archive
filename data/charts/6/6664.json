@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:49Z",
+    "lastChanged": "2026-09-22T01:06:49Z",
+    "localBackup": {
+      "asset": "6664.zip",
+      "files": [
+        {
+          "path": "33582264.jpg",
+          "sha256": "367be620d0b28b314b3885aafbe27bdcbfeb567587aa779898aaa56b3f83ee92",
+          "size": 54082
+        },
+        {
+          "path": "33582264.json",
+          "sha256": "8128075248383f8348d295684236feb2c4b1c3f70ea701563556ef6df7e4cc11",
+          "size": 3281
+        },
+        {
+          "path": "33582264.mp3",
+          "sha256": "f96dd6f5afda31d19afd52a0ad99463cc8b4f5e13d9864005b8ca3f0a107199f",
+          "size": 27244
+        },
+        {
+          "path": "info.txt",
+          "sha256": "97312cff3f473747cafaee426469c19733129810432f74fcbc781a493dd1619b",
+          "size": 176
+        },
+        {
+          "path": "info.yml",
+          "sha256": "0384f33e0376c74834f2edbc7ad1a3d5f880797ddfc1c2e4f940d412fc907c3b",
+          "size": 530
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "33582264.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "33582264.jpg",
+        "lineLength": 6.0,
+        "music": "33582264.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "有点东西"
+      },
+      "release": "backup-6000-6999",
+      "sha256": "94e319ea8497a3498c18b5e81f86ecaa5998ffcaabaa8c42a4bea6c2ad519920",
+      "size": 85821,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6664.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-02T08:40:16.642636Z",
+  "charter": "unkown花月",
+  "composer": "unkown花月",
+  "created": "2023-08-02T08:40:16.642636Z",
+  "description": "有点东西",
+  "difficulty": 114514.0,
+  "id": 6664,
+  "illustrator": "UK",
+  "level": "EZZZ LV.114514",
+  "name": "收歌极速版",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-08-02T08:40:16.642636Z",
+  "uploader": 240769
+}

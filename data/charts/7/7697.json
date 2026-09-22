@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:42Z",
+    "lastChanged": "2026-09-22T01:07:42Z",
+    "localBackup": {
+      "asset": "7697.zip",
+      "files": [
+        {
+          "path": "26932194.json",
+          "sha256": "41835bf182460708390ff2fbeb935a0e41d4252d14495b23a86b65762e8de776",
+          "size": 8065323
+        },
+        {
+          "path": "26932194.mp3",
+          "sha256": "cefc74253f5e5d2a1b22793b556551ba2173959cc21f85ae135c526e0d1fd0d7",
+          "size": 2611408
+        },
+        {
+          "path": "26932194.png",
+          "sha256": "4f185ba9832cab3d7b3cffed4e7e80068a1c162b95f0efd5e12448705dafaeb6",
+          "size": 924082
+        },
+        {
+          "path": "info.txt",
+          "sha256": "3794136f31f4335a0c4b81d04bdf508ba5956fc237ab5a999ce1fc68ea261607",
+          "size": 148
+        },
+        {
+          "path": "info.yml",
+          "sha256": "725cde49ae5b390d086cd218b086d31abc574927ab1fec471499486396f9cea2",
+          "size": 498
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "26932194.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "26932194.png",
+        "lineLength": 6.0,
+        "music": "26932194.mp3",
+        "offset": 0.0,
+        "previewEnd": 144.0,
+        "previewStart": 129.0,
+        "tip": null
+      },
+      "release": "backup-7000-7999",
+      "sha256": "c2028f037a1c96b17c23d546042a6981ba43087a3f85d4d39b1388ae2149d0c1",
+      "size": 11601967,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-7000-7999/7697.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-15T12:07:20.208965Z",
+  "charter": "Axeor",
+  "composer": "XinG",
+  "created": "2023-08-15T09:45:58.952257Z",
+  "description": "@Axeor",
+  "difficulty": 15.2,
+  "id": 7697,
+  "illustrator": "[from Muse Dash]",
+  "level": "IN Lv.15",
+  "name": "Lunatic",
+  "tags": [],
+  "updated": "2023-08-15T12:07:20.208965Z",
+  "uploader": 66008
+}

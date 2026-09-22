@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:05:45Z",
+    "lastChanged": "2026-09-22T01:05:45Z",
+    "localBackup": {
+      "asset": "5828.zip",
+      "files": [
+        {
+          "path": "69988507.jpg",
+          "sha256": "aa374b0cf3e478ce0ad50be2cdea4d0e87375cd77581663730f4bf7ccca7d7f4",
+          "size": 53036
+        },
+        {
+          "path": "69988507.json",
+          "sha256": "e25c20b679feac4a168003bd2281a3503f117c036c0d0416b2812a9eeff5a50b",
+          "size": 2641304
+        },
+        {
+          "path": "69988507.mp3",
+          "sha256": "74d68f342c78f53ff3a8edf4e618bc46d9d934f6acda953e087122b1bdbd30a1",
+          "size": 2441432
+        },
+        {
+          "path": "info.txt",
+          "sha256": "21e24561a46625d205092d5cd47a319d6521023ce75113bf342e7a3ea5321d94",
+          "size": 166
+        },
+        {
+          "path": "info.yml",
+          "sha256": "1656841ccebd16d2205a1351a3cfc663527b51af8de337fd323a63bb0d419954",
+          "size": 529
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.5,
+        "backgroundDim": 0.6,
+        "chart": "69988507.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "69988507.jpg",
+        "lineLength": 6.0,
+        "music": "69988507.mp3",
+        "offset": 0.08,
+        "previewEnd": 86.0,
+        "previewStart": 73.0,
+        "tip": "Tip: Hit me with the ARTCORE!!! "
+      },
+      "release": "backup-5000-5999",
+      "sha256": "b59a5d0a2d4ccdfcb4ebe56316a54fcaf778883d370b8362165c48def63b6373",
+      "size": 5136975,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5828.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-22T10:39:05.101235Z",
+  "charter": "Mr.Etherrr",
+  "composer": "Sakuzyo",
+  "created": "2023-07-22T10:39:05.101235Z",
+  "description": "",
+  "difficulty": 13.1,
+  "id": 5828,
+  "illustrator": "maimai",
+  "level": "HD Lv.13",
+  "name": "PANDORA PARADOXXX",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-07-22T10:39:05.101235Z",
+  "uploader": 242430
+}

@@ -1,0 +1,150 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:17:14Z",
+    "lastChanged": "2026-09-22T01:17:14Z",
+    "localBackup": {
+      "asset": "14812.zip",
+      "files": [
+        {
+          "path": "2021_light.png",
+          "sha256": "04e1914dfb413014edec53b599781a8765197b81271e988dbd7b9c5f014a3f10",
+          "size": 1273810
+        },
+        {
+          "path": "2021_rainbow.png",
+          "sha256": "3c4f70480e31ed82c6816af862f97375a5feb9a1d2bd1f2236d0ac0e8a8500e0",
+          "size": 422600
+        },
+        {
+          "path": "2021_spinner.png",
+          "sha256": "873d6f390c98e66e6dac0bee2d32564f450384b8427e36369db862cbd73d0467",
+          "size": 1094726
+        },
+        {
+          "path": "82015488.json",
+          "sha256": "748e279351f0438d633306ca08cc87858cbd33b93aaf8c0f8583522754edc75f",
+          "size": 5458618
+        },
+        {
+          "path": "82015488.ogg",
+          "sha256": "be431a15947d970274383c93d6d51a4daad9a38aac4ba3b6830b660643cff8d6",
+          "size": 3245731
+        },
+        {
+          "path": "82015488.png",
+          "sha256": "22f1f0676bcbf0c80572fd4f01d2a29eb38486fa50720c3b7003dfbeddb2ed5a",
+          "size": 4412558
+        },
+        {
+          "path": "A_Fragment.png",
+          "sha256": "3b1fa6d12dc792da7e8b2c566b01830081c9295e02574a48e6702da1d3b53856",
+          "size": 924070
+        },
+        {
+          "path": "Bloom.fs",
+          "sha256": "eeadecb84ab151177e7fe41a8b8ef611422851f4c7aaaebad84bfc53c084ff9c",
+          "size": 702
+        },
+        {
+          "path": "E_BG.png",
+          "sha256": "92f7333188ed450d775cd023a5ba3a7f3fc3791f4299921bdb87443dff3f0e3b",
+          "size": 692122
+        },
+        {
+          "path": "MoveCamera.fs",
+          "sha256": "5e052e90c915312af765eef448f524b617b77978e85fa200cfc90d55aeae0a91",
+          "size": 881
+        },
+        {
+          "path": "N_city.png",
+          "sha256": "8c5fd4c8b6474242a871abaf3480ddc35eda5b114b1a65bbf2ed6338e7b579d0",
+          "size": 37501
+        },
+        {
+          "path": "N_diamond.png",
+          "sha256": "3a010498277818234255ffe0cb98f39a795e6e9fa5b55b32ea273b2cbb8ce9c3",
+          "size": 92483
+        },
+        {
+          "path": "N_light.png",
+          "sha256": "b608cecfe8498000315ac3d4938cc07089eba42d6cc0f15f5342efee5f86bcba",
+          "size": 749918
+        },
+        {
+          "path": "N_particles.png",
+          "sha256": "6c59c167d0c67e47aa1b8635ec1b3a8bcf65e538b6b74b4bd7b1f45b93b133d1",
+          "size": 85484
+        },
+        {
+          "path": "N_speedlight.png",
+          "sha256": "b9a4e50a4971ee4c617fc5225732aa3891fc29bf18c026153b9354849076a5b0",
+          "size": 803180
+        },
+        {
+          "path": "N_stripes.png",
+          "sha256": "110014df86c909318eaff2e7838330c48950e2c847d03b331ae745a18a3796d8",
+          "size": 101271
+        },
+        {
+          "path": "event.png",
+          "sha256": "544866318328c2fa1f7057f32928d42cb9a759e731ce4911c7841a2ecdfc0d98",
+          "size": 3351355
+        },
+        {
+          "path": "extra.json",
+          "sha256": "8e4e30ef67cf206b05a266019380e30ac90d178f9248d27355f19b6eaab2687d",
+          "size": 17989
+        },
+        {
+          "path": "gradient.png",
+          "sha256": "f01f0c2794e1dc285a8838495119b2291d2e7d726482c0c5d345cb0e69d8d8ec",
+          "size": 154284
+        },
+        {
+          "path": "info.txt",
+          "sha256": "162c6e249b272a4bf53c873c6f98c56ba5a521d617a59c5a8fcfdf55e1caa9b6",
+          "size": 192
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5bc7e7582ecf68420559853862cc79691960bc017163f5af8cf4dadc3fe0b954",
+          "size": 663
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "82015488.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "82015488.png",
+        "lineLength": 6.0,
+        "music": "82015488.ogg",
+        "offset": 0.03,
+        "previewEnd": 121.0,
+        "previewStart": 106.0,
+        "tip": null
+      },
+      "release": "backup-14000-14999",
+      "sha256": "ad3477eb1bc02bccffb7f02afb9f8b6a1977e2aaee591f32e5335571d437bd85",
+      "size": 22922258,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14812.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-04T16:48:26.951962Z",
+  "charter": "Sumarexon X Cribby (ft.ven & mojira)",
+  "composer": "Harunao X Kanna",
+  "created": "2024-02-04T16:48:26.951962Z",
+  "description": "Song approved for use by Harunao\nfor \"Endless Adventure - Spring 2024\" event on Phira\nHarunao X NILLAWORKs\n©Harunao & Kanna",
+  "difficulty": 14.600001,
+  "id": 14812,
+  "illustrator": "LiZiO",
+  "level": "IN Lv.14",
+  "name": "Neo Side",
+  "tags": [],
+  "updated": "2024-02-04T16:48:26.951962Z",
+  "uploader": 614766
+}

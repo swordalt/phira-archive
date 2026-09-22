@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:04:33Z",
+    "lastChanged": "2026-09-22T01:04:33Z",
+    "localBackup": {
+      "asset": "4901.zip",
+      "files": [
+        {
+          "path": "39336334.json",
+          "sha256": "f6c5a7bf0e922a5f66627f642ce305e1a7d5325f55e79c5c22315d630865a730",
+          "size": 213934
+        },
+        {
+          "path": "39336334.mp3",
+          "sha256": "a3448b49969332a111fa46223cf1a74f979f6c02d9bd4979fb8f7eabcedf0188",
+          "size": 7130541
+        },
+        {
+          "path": "39336334.png",
+          "sha256": "69543b9577aa2aa745923725f85cc3f21a0995f3de80a35eccb1d06114109b2f",
+          "size": 258887
+        },
+        {
+          "path": "info.txt",
+          "sha256": "6b0a34b57b6ea0c507ec3657d71ff33e54823e166473e54a0d14b9476989812a",
+          "size": 188
+        },
+        {
+          "path": "info.yml",
+          "sha256": "651c11200c1ef802adc0a370f8befc2ca8f72483f33088dd83c7eb83abaed89d",
+          "size": 565
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "39336334.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "39336334.png",
+        "lineLength": 6.0,
+        "music": "39336334.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-4000-4999",
+      "sha256": "d21eab40b16a775e97deb9df35a242b9ffdbd056a0cc995ce2dedfe624c454b0",
+      "size": 7604623,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-4000-4999/4901.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-08T05:58:06.031617Z",
+  "charter": "innknliight(?",
+  "composer": "布智P feat. bgjo",
+  "created": "2023-07-08T05:58:06.031617Z",
+  "description": "铺师本人上传别再打回了我求求你",
+  "difficulty": 15.800003,
+  "id": 4901,
+  "illustrator": "bgjo",
+  "level": "AT Lv.15",
+  "name": "hardcore oiiaioiiiai(remix)",
+  "tags": [],
+  "updated": "2023-07-08T05:58:06.031617Z",
+  "uploader": 42470
+}

@@ -1,0 +1,186 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:08:18Z",
+    "lastChanged": "2026-09-22T01:08:18Z",
+    "localBackup": {
+      "asset": "8443.zip",
+      "files": [
+        {
+          "path": "93068247.json",
+          "sha256": "7ec75b4cc0315995757abb32a5101e47d30a3ab3c551911a176cf0fd4d813783",
+          "size": 5889739
+        },
+        {
+          "path": "Sheepnado Decimates Nomadic City.jpg",
+          "sha256": "c4b383bead52fa617c879b2fa417e3b4f87a1c38ca6a0994c5d36c602017fba6",
+          "size": 282433
+        },
+        {
+          "path": "Sheepnado Decimates Nomadic City.ogg",
+          "sha256": "c3f6c6c76a82e33926c1a135daa9b7464967763bb245b7f30800f609ac2c375c",
+          "size": 5914175
+        },
+        {
+          "path": "duo li 1 death.png",
+          "sha256": "7229b328aaa08eec5d7119c5457e51ae95b7e5e76496f073ea3b0e6eb0110c64",
+          "size": 130872
+        },
+        {
+          "path": "duo li 1 ready.png",
+          "sha256": "d0a5b2df6fd8b219b8fedbcfaa6b8f138b0607c7d5e0562d4b0a1b1ab05b8b56",
+          "size": 100576
+        },
+        {
+          "path": "duo li 1.png",
+          "sha256": "d965b965957689f747c08ae38a2b0025c3e5eb4a519be126edf56e0a79165254",
+          "size": 157695
+        },
+        {
+          "path": "duo li 2 death.png",
+          "sha256": "2a737d2fa1e4bbd09ee4c133a18f435885b838a9f08d9f1f9b4e69e36f3d94f7",
+          "size": 59196
+        },
+        {
+          "path": "duo li 2 ready.png",
+          "sha256": "c97060a60e24b2b9e5a5fbc3e0541ce896ec4116cfe519b9b2c42d7f0f4a6c19",
+          "size": 68440
+        },
+        {
+          "path": "duo li 2.png",
+          "sha256": "e89033b1102bc1142842352c8302c3a1350b0077443080c4fb29fb89d51d7946",
+          "size": 98618
+        },
+        {
+          "path": "extra.json",
+          "sha256": "6d53c5c117a01e4904cf7bbe0bf683088830458b94bb8903dd0189a9c0db1f45",
+          "size": 5454
+        },
+        {
+          "path": "fly 1.png",
+          "sha256": "9a7bb9c117c05a048733cfd4c2554c0fb6a6075a3bdafc2f769206de8fa9d209",
+          "size": 58258
+        },
+        {
+          "path": "fly 2.png",
+          "sha256": "e2a0889c90cf860f261d4a38f2c49493f5d7e84992ef4cf01b63a3c0c7aface3",
+          "size": 124164
+        },
+        {
+          "path": "gas.png",
+          "sha256": "500f8541c451f650a890cc3e960d66e02faf962ebee577440380ae423f0d4683",
+          "size": 22373
+        },
+        {
+          "path": "happy.png",
+          "sha256": "26c3d7b38905b6e220bbab8e15af803dee7273ba0a2a55718b2f472738c89009",
+          "size": 90738
+        },
+        {
+          "path": "huaban 1.png",
+          "sha256": "2fa161c5d20df6d76ebaeac67d3701169be3dd936d90ef887bd6e0ebb0330ced",
+          "size": 55586
+        },
+        {
+          "path": "huaban 2.png",
+          "sha256": "b012b199b4eef65a874e64ae216ac8ab64603b421d7b7ed36da84f66f1545051",
+          "size": 118565
+        },
+        {
+          "path": "info.txt",
+          "sha256": "9d021448fec107ba6725251d22d280317bf6338c0df503fe1062d2f6fb3dbdaf",
+          "size": 268
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5696cceead7c086b58816318c3cbf3fda462859c98f708cea67e0b92fe53d481",
+          "size": 647
+        },
+        {
+          "path": "luzhang.png",
+          "sha256": "208c5ec7352bdee0b171863948beefbf1bc1906d887ef506197c8e9c9583babc",
+          "size": 62221
+        },
+        {
+          "path": "magic.png",
+          "sha256": "36387ff2caf7c5c5acf0da54ed04a3a75b5f1ea9c7c4f4d1902903afa7a9cf6e",
+          "size": 73394
+        },
+        {
+          "path": "pan.png",
+          "sha256": "35024671d329176052f19ec08d07359d427ca8af8c5e4a4bbf4d480f4cbd734d",
+          "size": 70514
+        },
+        {
+          "path": "qishui.png",
+          "sha256": "d6c64b190d573b09fa0189e89235d1a71253d0aa03c068f0666b1b977529d237",
+          "size": 16654
+        },
+        {
+          "path": "red fly 2.png",
+          "sha256": "fd4d861f0eda443a469cda8b5820d46989f6deb1483c56e9a638b7de2dc21311",
+          "size": 125455
+        },
+        {
+          "path": "red magic.png",
+          "sha256": "122ac792cdeced0326ada608933a9ce3d80369c314730923ae558366f8b38893",
+          "size": 91923
+        },
+        {
+          "path": "red pan.png",
+          "sha256": "49f3fb35a394046d7946547e8227727596bfd8664ea5ab5993d06c25cffdc052",
+          "size": 70734
+        },
+        {
+          "path": "shit.png",
+          "sha256": "d65e62453bb209d93245616597d254fda4fbce9d40333e02a4b3eec3226ce6a8",
+          "size": 108019
+        },
+        {
+          "path": "star.png",
+          "sha256": "788d08584ed8629f404251cade56121231db727aef66b3c86bc92976befbcf5f",
+          "size": 11135
+        },
+        {
+          "path": "sun.png",
+          "sha256": "cdf43f32126b5b59e7cc14a9d719ea51023c03878721c5289f5591c9c56d22ed",
+          "size": 30879
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "93068247.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "Sheepnado Decimates Nomadic City.jpg",
+        "lineLength": 6.0,
+        "music": "Sheepnado Decimates Nomadic City.ogg",
+        "offset": 0.0,
+        "previewEnd": 37.0,
+        "previewStart": 17.8,
+        "tip": "羊卷风摧毁停车场！",
+        "unlockVideo": null
+      },
+      "release": "backup-8000-8999",
+      "sha256": "90cb072be4a423a457786cf0ff42fc899ed82264f6991b50f93bb5d257661506",
+      "size": 13841599,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-8000-8999/8443.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-08-26T10:02:23.005016Z",
+  "charter": "Foehn_Uragan",
+  "composer": "塞壬唱片-MSR/Obadiah Brown-Beach/Elvin Shen",
+  "created": "2023-08-26T10:02:23.005016Z",
+  "description": "",
+  "difficulty": 14.3,
+  "id": 8443,
+  "illustrator": "明日方舟CG",
+  "level": "Sheep",
+  "name": "Sheepnado Decimates Nomadic City",
+  "tags": [],
+  "updated": "2023-08-26T18:01:54.645859Z",
+  "uploader": 98977
+}

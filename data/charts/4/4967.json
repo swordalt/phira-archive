@@ -1,0 +1,65 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:04:38Z",
+    "lastChanged": "2026-09-22T01:04:38Z",
+    "localBackup": {
+      "asset": "4967.zip",
+      "files": [
+        {
+          "path": "28349392.json",
+          "sha256": "8499e157e272a440b13914a15aba1c2c54a41077c7c73c66615867ea70189bfa",
+          "size": 4672613
+        },
+        {
+          "path": "28349392.mp3",
+          "sha256": "214299247ef9983afcf5e6e45ecc46f2e92e4df9cfb00fbb14e34621ea945420",
+          "size": 2064384
+        },
+        {
+          "path": "28349392.png",
+          "sha256": "367389e51ee4d65c893808c5156684f7193280ef455cac589863e4b48a6a3380",
+          "size": 2570993
+        },
+        {
+          "path": "info.yml",
+          "sha256": "e4d8affa2e0e041274bfae6482fe3669dfdb7152ca176c687dbe0c4bc20c85c7",
+          "size": 480
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "28349392.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "28349392.png",
+        "lineLength": 6.0,
+        "music": "28349392.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-4000-4999",
+      "sha256": "5da6a338cecfa8b51d59b894d8224cf96c67d317df793be562cd9ae452aa2f89",
+      "size": 9308886,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-4000-4999/4967.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-09T03:43:25.979994Z",
+  "charter": "MWamiya",
+  "composer": "yomoha",
+  "created": "2023-07-09T03:43:25.979994Z",
+  "description": "",
+  "difficulty": 16.0,
+  "id": 4967,
+  "illustrator": "UK",
+  "level": "AT.Lv.16",
+  "name": "MAD ENGINE",
+  "tags": [],
+  "updated": "2023-07-09T06:31:56.000713Z",
+  "uploader": 66201
+}

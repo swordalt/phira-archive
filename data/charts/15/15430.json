@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:18:33Z",
+    "lastChanged": "2026-09-22T01:18:33Z",
+    "localBackup": {
+      "asset": "15430.zip",
+      "files": [
+        {
+          "path": "1707358295.ogg",
+          "sha256": "295a6f7101bb5f15ba97ebe071d5f2c53293cf3aff9ad2f3408189aa3259b51f",
+          "size": 3079256
+        },
+        {
+          "path": "Illustration #1827.jpg",
+          "sha256": "1e95519a46e99dd77af5362eb074013a2c5a685540e371acc2aa76d46d20d003",
+          "size": 601052
+        },
+        {
+          "path": "info.txt",
+          "sha256": "a60361b9ac0010fa57b5e5b79f1b3b6baab6600d5a94759c146468c0a15538e4",
+          "size": 204
+        },
+        {
+          "path": "info.yml",
+          "sha256": "b0232651838ceea0ab21ee61756e6f2ff0f746b8f2955850ad712d30587e650d",
+          "size": 662
+        },
+        {
+          "path": "test.json",
+          "sha256": "d379e7109c8896f51a1f67e1692174b07c680904c559a3371102718936d2c7ea",
+          "size": 481126
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "test.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "Illustration #1827.jpg",
+        "lineLength": 6.0,
+        "music": "1707358295.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "啊↑↓~啊↑↓~啊↑↓~啊↑↓~走咯↑↑↑↑↑→→→→→↓↓↓↓↓"
+      },
+      "release": "backup-15000-15999",
+      "sha256": "085ebd6aa13ef7bf947ddea1fda8ef011b71444d0db9a8cca086b8e3813c6856",
+      "size": 4162824,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-15000-15999/15430.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-12T01:16:37.280037Z",
+  "charter": "xiechara",
+  "composer": "PRATIK DANCEFLODR",
+  "created": "2024-02-12T01:16:37.280037Z",
+  "description": "懒得写简介\n用Malody写的 这是二改",
+  "difficulty": 15.600002,
+  "id": 15430,
+  "illustrator": "我怎么知道",
+  "level": "",
+  "name": "TECHNOPOLIS 2085",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-02-12T01:16:37.280037Z",
+  "uploader": 92123
+}

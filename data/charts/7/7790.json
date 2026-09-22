@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:56Z",
+    "lastChanged": "2026-09-22T01:07:56Z",
+    "localBackup": {
+      "asset": "7790.zip",
+      "files": [
+        {
+          "path": "85686621.json",
+          "sha256": "7a6e24ff83e308a64a70ff7cd6ba8c80593d1e5764a761e68185603cad7f3e33",
+          "size": 206496
+        },
+        {
+          "path": "Valsqotch.mp3",
+          "sha256": "e00713d457262ac779dd448671b7c05c4c02fc06be21baa01d22847d50c19c19",
+          "size": 6412740
+        },
+        {
+          "path": "Valsqotch.png",
+          "sha256": "d7862ed44fa3ab1433ffe06780224734191b1417445de9aeb4378d1453d030d9",
+          "size": 1529704
+        },
+        {
+          "path": "info.txt",
+          "sha256": "eacb9a49b1833c0c1b3923f1052fbb964e389e4c291ad2957262a97991641f4b",
+          "size": 169
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f3af19633726ff0f969f8f0bfc9bc6db676d2c4a65f23c3622d51fe26603ed41",
+          "size": 531
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "85686621.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "Valsqotch.png",
+        "lineLength": 6.0,
+        "music": "Valsqotch.mp3",
+        "offset": 0.12499998,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "5pj dq曲"
+      },
+      "release": "backup-7000-7999",
+      "sha256": "c021006d5a6153b9cc93de911484f7477f6e18625da311d6e4c16ac85dd20479",
+      "size": 8150152,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-7000-7999/7790.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-10-05T15:43:37.651339Z",
+  "charter": "twotthrees",
+  "composer": "owl＊tree feat.chi＊tree",
+  "created": "2023-08-16T16:33:05.766796Z",
+  "description": "5pj dq曲",
+  "difficulty": 15.800001,
+  "id": 7790,
+  "illustrator": "maimai",
+  "level": "IN Lv.15",
+  "name": "Valsqotch",
+  "tags": [],
+  "updated": "2023-10-13T11:29:34.831567Z",
+  "uploader": 7679
+}

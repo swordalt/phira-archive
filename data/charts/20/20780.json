@@ -1,0 +1,108 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:27:25Z",
+    "lastChanged": "2026-09-22T01:27:25Z",
+    "localBackup": {
+      "asset": "20780.zip",
+      "files": [
+        {
+          "path": "58337405.jpg",
+          "sha256": "25244bfef4d6fb142b469020de919823f76b6a2b64c0aedc4d2c841d0ca6f78f",
+          "size": 158283
+        },
+        {
+          "path": "58337405.json",
+          "sha256": "56864ea37ec61885cc85cb76f5177401ec6bba04ff8b9d16e841c18d167a2cd3",
+          "size": 11727548
+        },
+        {
+          "path": "58337405.mp3",
+          "sha256": "a7f0de96ecd30b81559c7efda6a01eaec1233506e34a64049d4c761804c831fe",
+          "size": 5704550
+        },
+        {
+          "path": "AutoSave_2024_6_2_17_10_20_58337405.json",
+          "sha256": "7b6a48e24f35127c2585b564b7ce80f70bf8b26758e09e470c6115a1666476c1",
+          "size": 430965
+        },
+        {
+          "path": "AutoSave_2024_6_2_17_14_20_58337405.json",
+          "sha256": "321402c487b7e64cfe0908f75525366b865f572c51d85e573d0f2bec6c5b59a3",
+          "size": 1144743
+        },
+        {
+          "path": "AutoSave_2024_6_2_17_18_20_58337405.json",
+          "sha256": "09a949f62ce3a656dac0d87ae667054a7e00714f55fb285681b35ebd63855707",
+          "size": 2144513
+        },
+        {
+          "path": "AutoSave_2024_6_2_17_2_2_58337405.json",
+          "sha256": "f7af99946fcbef0c4b0b09fde039e7ac74ba542b64c3d4b166b3195f054db177",
+          "size": 140906
+        },
+        {
+          "path": "AutoSave_2024_6_2_17_6_11_58337405.json",
+          "sha256": "5392df2fc950a5ad37cf16063c6183782065b4fd2775c7622fa21d1cccc775fe",
+          "size": 4552461
+        },
+        {
+          "path": "AutoSave_2024_6_3_18_16_7_58337405.json",
+          "sha256": "f494c028e8d56d2709c47b39f84a12c7ab96468d827d5b6726e8511f5de68195",
+          "size": 4456831
+        },
+        {
+          "path": "AutoSave_2024_6_3_18_20_9_58337405.json",
+          "sha256": "48625ea83c5fabbc2670af8f2a7683b96a578791d76ddd218bbbf6ea5e2b26ae",
+          "size": 9360294
+        },
+        {
+          "path": "info.txt",
+          "sha256": "48f119f17f78e5934a3b1a49af388a792dda3a9dc3cdfd31054cad38831a348f",
+          "size": 155
+        },
+        {
+          "path": "info.yml",
+          "sha256": "af32d5897985078014f0c11c21c7650358c1f6b57a3a7c7fb7e3a31aa869e9b2",
+          "size": 446
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "58337405.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "58337405.jpg",
+        "lineLength": 6.0,
+        "music": "58337405.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "ab574f66894729bf2015f1decb1a328d2f45eb014cde4b9dbe65e738add09566",
+      "size": 39823285,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20780.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "phigors100",
+  "composer": "Kobaryo",
+  "created": null,
+  "description": "",
+  "difficulty": 0.0,
+  "id": 20780,
+  "illustrator": "UK",
+  "level": "IN Iv.全黄键",
+  "name": "RTX 20000 ",
+  "tags": [
+    "visual"
+  ],
+  "updated": null,
+  "uploader": null
+}

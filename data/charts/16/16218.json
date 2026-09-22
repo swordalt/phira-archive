@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:19:20Z",
+    "lastChanged": "2026-09-22T01:19:20Z",
+    "localBackup": {
+      "asset": "16218.zip",
+      "files": [
+        {
+          "path": "39372956.jpg",
+          "sha256": "24c47ac265ca6a5f8424878eeae39009f4ed596f3dc48a3a4d8d63bb892b7c18",
+          "size": 3702906
+        },
+        {
+          "path": "39372956.json",
+          "sha256": "4cc58775c95b4a150963e33d56912c12abb9ac9c00fee6f6d842e90c6f4d9864",
+          "size": 260286
+        },
+        {
+          "path": "39372956.ogg",
+          "sha256": "b77524d3b20eaf85545bd8f8b9b3215fe7192f58a5225f157be461d2655128fe",
+          "size": 376810
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ed567774d11b0bbbc8baacbaaa5b7928878aef838313b6f415087d92be384413",
+          "size": 152
+        },
+        {
+          "path": "info.yml",
+          "sha256": "dd3291ecbc29961a46f3e1c15f4e1defd8653629b17712258ee017e0fd208611",
+          "size": 515
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "39372956.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "39372956.jpg",
+        "lineLength": 6.0,
+        "music": "39372956.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip：生日快乐"
+      },
+      "release": "backup-16000-16999",
+      "sha256": "03603723ba4f329db669f54696db38b12342bcb754c1267f0f93e22c8f456664",
+      "size": 4341177,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-16000-16999/16218.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-02-21T12:01:16.008013Z",
+  "charter": "屛庐",
+  "composer": "八音盒",
+  "created": "2024-02-21T12:01:16.008013Z",
+  "description": "生日祝福",
+  "difficulty": 4.4999995,
+  "id": 16218,
+  "illustrator": "我的fufu",
+  "level": "SP",
+  "name": "生日快乐",
+  "tags": [],
+  "updated": "2024-02-21T12:01:16.008013Z",
+  "uploader": 7017
+}

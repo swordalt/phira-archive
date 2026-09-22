@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:07:52Z",
+    "lastChanged": "2026-09-22T01:07:52Z",
+    "localBackup": {
+      "asset": "7749.zip",
+      "files": [
+        {
+          "path": "86198769.jpg",
+          "sha256": "11d4698992256a1a2c56b5888af9c7141638f516140aa2795f8c19d0e5b956c2",
+          "size": 207327
+        },
+        {
+          "path": "86198769.json",
+          "sha256": "f9ce22d3c6aed4a75e9ee5538f069c93e35e140448d9207cd0baef766a9bded7",
+          "size": 3468523
+        },
+        {
+          "path": "86198769.mp3",
+          "sha256": "e2648e0661d46934f514c8297d11f33ab73daeb376aada4a3faf5f2c7cb7d4b0",
+          "size": 6477246
+        },
+        {
+          "path": "info.txt",
+          "sha256": "9fafee82c04d31d58d158a83f697a8b19cd43eb0f55d3927ea1b48389ad45089",
+          "size": 166
+        },
+        {
+          "path": "info.yml",
+          "sha256": "708f2de82499d1303887e02771d19ff8a10ad799f6dc7151e18db94e31e11ed2",
+          "size": 540
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "86198769.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "86198769.jpg",
+        "lineLength": 6.0,
+        "music": "86198769.mp3",
+        "offset": 0.0,
+        "previewEnd": 34.0,
+        "previewStart": 19.0,
+        "tip": "I , II , III , IV"
+      },
+      "release": "backup-7000-7999",
+      "sha256": "3e96c53131f620f8ee7c53d9588a189dced2366b89e9675bee7bc1ff42b46329",
+      "size": 10154310,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-7000-7999/7749.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "sTaЯMondy & uis",
+  "composer": "Raimukun",
+  "created": null,
+  "description": "合作谱。谱师其一本人上传\n也是个人第一次上传谱面，请多包涵qwq",
+  "difficulty": 15.900003,
+  "id": 7749,
+  "illustrator": "あるし",
+  "level": "IN Lv.15",
+  "name": "Avantgarde",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

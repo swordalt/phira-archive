@@ -1,0 +1,67 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:59Z",
+    "lastChanged": "2026-09-22T01:09:59Z",
+    "localBackup": {
+      "asset": "10614.zip",
+      "files": [
+        {
+          "path": "433.mp3",
+          "sha256": "6f0637ff159f11f8d64c5a6013f9931989a188647de38bbe508dd60ec731d2e6",
+          "size": 10959965
+        },
+        {
+          "path": "433.pec",
+          "sha256": "f18a3366bc780b3e06ec37b3f2624f7b512d465b4ded6de3184314458f0418bd",
+          "size": 2764
+        },
+        {
+          "path": "433.png",
+          "sha256": "54c4e6d2a81477286741f6f72a6519da830a6bbc2dc3ba5214b3f90ad35e36d2",
+          "size": 38873
+        },
+        {
+          "path": "info.yml",
+          "sha256": "e62c3bf44143a9fcb8ddee469753207943bde855e86b0ea621de85f90e4bf1ef",
+          "size": 679
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "433.pec",
+        "format": "pec",
+        "holdPartialCover": false,
+        "illustration": "433.png",
+        "lineLength": 6.0,
+        "music": "433.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Just wait and enjoy"
+      },
+      "release": "backup-10000-10999",
+      "sha256": "e3be6b8799e9b4ccbf844e9fd925f9b7472cfbe3bca9962a1ef56f15935cd401",
+      "size": 11002665,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-10000-10999/10614.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-10-19T05:44:07.332292Z",
+  "charter": "Bounacary & ABSOLUTE SILENCE",
+  "composer": "John Cage",
+  "created": "2023-10-19T05:44:07.332292Z",
+  "description": "谱师为本人和Bounacary的合作谱面。\n这不是空白音频，也不是空白谱面。\n但是Bounacary一直不发视频所以没有谱面预览。",
+  "difficulty": 4.33,
+  "id": 10614,
+  "illustrator": "Iblcya",
+  "level": "special/=4*33**/.",
+  "name": "4'33\"",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2023-10-19T05:44:07.332292Z",
+  "uploader": 508580
+}

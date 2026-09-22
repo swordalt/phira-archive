@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:10:21Z",
+    "lastChanged": "2026-09-22T01:10:21Z",
+    "localBackup": {
+      "asset": "10721.zip",
+      "files": [
+        {
+          "path": "25395839.jpg",
+          "sha256": "caa22cd6b98cc7c93757fbe1d6f2fc937c820ee04862ff16cafd91c2bc12af1f",
+          "size": 543529
+        },
+        {
+          "path": "25395839.json",
+          "sha256": "a6e035c870313250a0a5c1eb642861bf9d0d40aa2f47536b005ae87230f19483",
+          "size": 1782320
+        },
+        {
+          "path": "25395839.ogg",
+          "sha256": "575d5c5cf5ce6b0d1af67fcf470872ca042d3cd42d70c7f297a61578e35459ea",
+          "size": 3151990
+        },
+        {
+          "path": "info.txt",
+          "sha256": "1a966635272b98d637c1e86f9061fd6bac94c39dca64d773c341e15a4133e258",
+          "size": 164
+        },
+        {
+          "path": "info.yml",
+          "sha256": "cd3a8a0028f9b070d47a9e204f080bbaad13686f7e207741312e4e38f85cc2ec",
+          "size": 529
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "25395839.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "25395839.jpg",
+        "lineLength": 6.0,
+        "music": "25395839.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-10000-10999",
+      "sha256": "65e606f1e5070f6c0dfc93ecdb8ddc9247a2eac5e77f7545fc4750e787d94615",
+      "size": 5479040,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-10000-10999/10721.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-10-22T02:32:09.699840Z",
+  "charter": "lage和窝",
+  "composer": "WyvernP feat.Madol",
+  "created": "2023-10-22T02:32:09.699840Z",
+  "description": "泪痣大蛇同意上传",
+  "difficulty": 15.700003,
+  "id": 10721,
+  "illustrator": "UK",
+  "level": "EX Lv.15",
+  "name": "Palescreen",
+  "tags": [
+    "regular"
+  ],
+  "updated": "2023-10-22T02:32:09.699840Z",
+  "uploader": 6078
+}

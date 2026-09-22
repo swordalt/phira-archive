@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:21:09Z",
+    "lastChanged": "2026-09-22T01:21:09Z",
+    "localBackup": {
+      "asset": "18008.zip",
+      "files": [
+        {
+          "path": "23528707.json",
+          "sha256": "a5efe399938c590be0e924c53fd9239db8f763a6a976eb5e30e7358090849149",
+          "size": 1914101
+        },
+        {
+          "path": "23528707.mp3",
+          "sha256": "984cdfac3107268b625e0cd4f828b660d7f369b7181ff3ebc8e4e6d7d91792ab",
+          "size": 6367903
+        },
+        {
+          "path": "23528707.png",
+          "sha256": "667f6a9b4b66eda9e812304edb8780fafbaa804a0ba9baeb0136f810dba3c9ed",
+          "size": 425674
+        },
+        {
+          "path": "info.txt",
+          "sha256": "343a2abb1427f684a10f389cf10afd5ba468036ab1dc74b16d8906c451ff8ee0",
+          "size": 182
+        },
+        {
+          "path": "info.yml",
+          "sha256": "9f2a899874422464101dcbe51f732941fbd3436840a4ab9cbcead47eea65e8da",
+          "size": 846
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "23528707.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "23528707.png",
+        "lineLength": 6.0,
+        "music": "23528707.mp3",
+        "offset": 0.0,
+        "previewEnd": 119.0,
+        "previewStart": 103.0,
+        "tip": "啊～啊～啊咦啊咦啊→啊↑啊↓啊～嗯哎哎哎哦哎嗯～哦哎爱爱爱爱爱啊～啊～啊咦啊咦啊→啊↑啊↓啊～嗯嗯嗯滴嘚滴嘚唔嘟嘟嘟嘟嘟嘟嘟",
+        "unlockVideo": null
+      },
+      "release": "backup-18000-18999",
+      "sha256": "e11a26355d46991d75b7fd59fbad8b0cbef7e21ace88764da6e7ace3e57bc534",
+      "size": 8709214,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-18000-18999/18008.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-04-04T01:34:10.893466Z",
+  "charter": "小蒋同学 0128",
+  "composer": "PRASTIK DANCEFLOOR",
+  "created": "2024-04-04T01:34:10.893466Z",
+  "description": "愚人节制谱，理论可杀（）\n新人谱师第2.85张自制谱（什\nB站视频BV12x421S73s",
+  "difficulty": 8.5,
+  "id": 18008,
+  "illustrator": "SEGA（V17Amazing modified）",
+  "level": "SP Lv.?",
+  "name": "TECHNOPOLIS 2085",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-04-04T01:34:10.893466Z",
+  "uploader": 91900
+}

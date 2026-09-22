@@ -1,0 +1,73 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:10:40Z",
+    "lastChanged": "2026-09-22T01:10:40Z",
+    "localBackup": {
+      "asset": "11150.zip",
+      "files": [
+        {
+          "path": "1693573026.ogg",
+          "sha256": "2f4d0688b1421daaf75b0acfafa9c923b660746de5e06d28db8ffffee7d9b8d9",
+          "size": 2588163
+        },
+        {
+          "path": "MEPHISTO(From Malody).json",
+          "sha256": "21423528038ca07db3a3ba59b9e4196a4de05511cd3ad03b684b426807dac71f",
+          "size": 788420
+        },
+        {
+          "path": "MEPHISTO.png",
+          "sha256": "45efd7759cdc2a1ab3fe0392d90ff77fd6acbbcca25e3c940aa1cc4e642a567c",
+          "size": 88289
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b80dd5114f5c5895076ffc46112235665a7072c797dc9f21f588680838a0873c",
+          "size": 160
+        },
+        {
+          "path": "info.yml",
+          "sha256": "3700464c7be31e72ae679804f0f6b596ee42e302c3c2a3a6430b7c5b9d79d724",
+          "size": 619
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "MEPHISTO(From Malody).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "MEPHISTO.png",
+        "lineLength": 6.0,
+        "music": "1693573026.ogg",
+        "offset": 0.0,
+        "previewEnd": 20.75,
+        "previewStart": 0.75,
+        "tip": "BOFU2012 位91"
+      },
+      "release": "backup-11000-11999",
+      "sha256": "68810ff841c8f9c4bd3043f2afee216820f2b44dad54ef350a15e40ea5851ab7",
+      "size": 3466189,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11150.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-04T14:06:26.505327Z",
+  "charter": "Hiesnoze",
+  "composer": "LeaF",
+  "created": "2023-11-04T14:06:26.505327Z",
+  "description": "bilibili @Hiesnoze，不会写6K啊QWQ求大佬锐评\n\n\n\n结尾的长条记得要按完",
+  "difficulty": 18.300001,
+  "id": 11150,
+  "illustrator": "UK",
+  "level": "6K Lv.18",
+  "name": "MEPHISTO",
+  "tags": [
+    "BOFU2012",
+    "plain"
+  ],
+  "updated": "2023-11-04T14:06:26.505327Z",
+  "uploader": 158921
+}

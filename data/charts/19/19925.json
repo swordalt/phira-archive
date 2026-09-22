@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:23:29Z",
+    "lastChanged": "2026-09-22T01:23:29Z",
+    "localBackup": {
+      "asset": "19925.zip",
+      "files": [
+        {
+          "path": "31350223.jpg",
+          "sha256": "85f35b459f9b6a48688eca3aab98f1ef579330cef758284f555e70290893e23e",
+          "size": 852285
+        },
+        {
+          "path": "31350223.json",
+          "sha256": "5293f4b3926704efebb339aba9ca3f6a31dc9ba193ac5bc8846c697334ad3ee3",
+          "size": 1930577
+        },
+        {
+          "path": "31350223.ogg",
+          "sha256": "d0e3d053628905b3c6669ea5fa6ab900a19440c378febc65f53d237fd3f1fc7d",
+          "size": 2604341
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ec84d0e98d8e738a34da5de101648d3ae1a7cfcc40f48378f638a5ff6902fb08",
+          "size": 194
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f657f8564012fe7fc38cb796447aec90b3c4a98613742ff847b6b43eba4e986a",
+          "size": 616
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "31350223.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "31350223.jpg",
+        "lineLength": 6.0,
+        "music": "31350223.ogg",
+        "offset": 0.030000016,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip：永遠の闇の中、光がある。",
+        "unlockVideo": null
+      },
+      "release": "backup-19000-19999",
+      "sha256": "085249e5935decf130eec13cbe033e1754a96d976a97c9fbd5c02c028a67e93d",
+      "size": 5388521,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-19000-19999/19925.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-05-13T10:34:47.881100Z",
+  "charter": "无叶,影を落とし者",
+  "composer": "黒皇帝 feat. AKA",
+  "created": "2024-05-13T10:34:47.881100Z",
+  "description": "缺的HD这块补上了",
+  "difficulty": 13.900003,
+  "id": 19925,
+  "illustrator": "NekoFTR",
+  "level": "HD Lv.13",
+  "name": "Le Porteur d'Ombre",
+  "tags": [],
+  "updated": "2024-05-13T14:47:01.162468Z",
+  "uploader": 540194
+}

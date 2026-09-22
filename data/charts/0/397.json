@@ -1,0 +1,65 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:02:07Z",
+    "lastChanged": "2026-09-22T01:02:07Z",
+    "localBackup": {
+      "asset": "397.zip",
+      "files": [
+        {
+          "path": "56491144.jpg",
+          "sha256": "bbd6ae647027a22b8fe2b7530d6884c21c95679303cd5e5754753d87be1e9474",
+          "size": 37211
+        },
+        {
+          "path": "56491144.json",
+          "sha256": "6616b4ebe0c546ddd72ebb39b4dbd59cb8301b7aa095587801dd59205a925dfb",
+          "size": 4234423
+        },
+        {
+          "path": "56491144.mp3",
+          "sha256": "b6ac9ad8704d9bad6c7dfbc293acfc0121269ff1274249556eaf7011f9bc92bd",
+          "size": 5244702
+        },
+        {
+          "path": "info.yml",
+          "sha256": "c553b70b149e3de2bc9de9fe9befe943d445af19eaa2e7fd66b039e8b313159a",
+          "size": 704
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.77778,
+        "backgroundDim": 0.6,
+        "chart": "56491144.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "56491144.jpg",
+        "lineLength": 6.0,
+        "music": "56491144.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip：我求你不要玩原神了，日本人在原神里面装了核弹"
+      },
+      "release": "backup-0-999",
+      "sha256": "aa1af9c7130183a3cfa114e063b1a9d216c979014a7dfc1d40c2db09b964bf95",
+      "size": 9517456,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-0-999/397.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-04-02T08:24:52.826382Z",
+  "charter": "幻离 vs. 亦诗",
+  "composer": "sasakure.UK",
+  "created": "2023-04-02T08:24:52.826382Z",
+  "description": "Chart by 幻离 亦诗（寒炎），上一个有bug重投了一次，感谢群友漾秋、的修复，上传已经过另一个谱师的同意。",
+  "difficulty": 15.0,
+  "id": 397,
+  "illustrator": "UK",
+  "level": "IN Lv.15",
+  "name": "the EmpErroR",
+  "tags": [],
+  "updated": "2023-04-02T08:24:52.826382Z",
+  "uploader": 1143
+}

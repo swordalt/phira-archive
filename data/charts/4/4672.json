@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:58Z",
+    "lastChanged": "2026-09-22T01:03:58Z",
+    "localBackup": {
+      "asset": "4672.zip",
+      "files": [
+        {
+          "path": "97676924.json",
+          "sha256": "4695ed2f9907704c77dd527c8013386103f16651e2128ebab615b3a9836ae166",
+          "size": 4148555
+        },
+        {
+          "path": "97676924.mp3",
+          "sha256": "ecbecd28c19dbb2f5cb7141360a06f686d611bef7fa7d33ee13b4ec8a434a690",
+          "size": 2152258
+        },
+        {
+          "path": "97676924.png",
+          "sha256": "75382f3b9d669f4b041dbafead45330223bec3d1f53d885b76030fdc2f55cf72",
+          "size": 2995388
+        },
+        {
+          "path": "info.txt",
+          "sha256": "9581e25ef948811bd82da6e1caf49a8acfae4b500f8e912729b1e1fb4c9fd8e5",
+          "size": 178
+        },
+        {
+          "path": "info.yml",
+          "sha256": "79f12705b060d0822d83d03574c17010344ba45c930814d723ad8c054dac4315",
+          "size": 549
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "97676924.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "97676924.png",
+        "lineLength": 6.0,
+        "music": "97676924.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null
+      },
+      "release": "backup-4000-4999",
+      "sha256": "b47e7db286a3d7b42b1faedbd9a248ae0bf0250cf4b6c3921c98a3288ab12d29",
+      "size": 9297436,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-4000-4999/4672.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-07-05T09:37:18.913706Z",
+  "charter": "mgr_",
+  "composer": "Kobaryo feat.blaxervant",
+  "created": "2023-07-05T09:37:18.913706Z",
+  "description": "谱师本人上传。b站@mgr_。改谱。",
+  "difficulty": 15.799999,
+  "id": 4672,
+  "illustrator": "mgr_",
+  "level": "IN Lv.15",
+  "name": "Unlock the Blacksky",
+  "tags": [],
+  "updated": "2023-07-05T10:30:03.292136Z",
+  "uploader": 4706
+}

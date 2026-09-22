@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:16:35Z",
+    "lastChanged": "2026-09-22T01:16:35Z",
+    "localBackup": {
+      "asset": "14464.zip",
+      "files": [
+        {
+          "path": "5241384.PNG",
+          "sha256": "dc2f41206edab9b66575b52972f0a38af92394b98828fb7fd4f70af5d6c7b7e8",
+          "size": 1821178
+        },
+        {
+          "path": "5241384.json",
+          "sha256": "21b7836fe984575c204c1dc08c6e0fc9dfb2a375c868978b997458066bda279c",
+          "size": 2204787
+        },
+        {
+          "path": "5241384.mp3",
+          "sha256": "fff4ed066be28b62486b0d82ba6b7bce9c6e4bf8d50d3f6580c6e7d1f731543e",
+          "size": 7181356
+        },
+        {
+          "path": "info.txt",
+          "sha256": "ccd22de92748368c995938fa0275c3a581847050555f5d821d74a06bd97244c4",
+          "size": 231
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5320fc0f01199d91a6476bec17aacdcd65b7e98f4d9b380261090838488242e9",
+          "size": 650
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.70000005,
+        "chart": "5241384.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "5241384.PNG",
+        "lineLength": 6.0,
+        "music": "5241384.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": " "
+      },
+      "release": "backup-14000-14999",
+      "sha256": "e33ab44c6f09282be492d7803e1047871453baf0f36514efdc29717a9c773856",
+      "size": 11208704,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-14000-14999/14464.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-01-30T10:29:04.753006Z",
+  "charter": "初音ミクの爆発",
+  "composer": "cosMo@暴走P feat. 初音ミク",
+  "created": "2024-01-30T10:29:04.753006Z",
+  "description": "谱师自己上传 b站@HTNMiku_Official                  因为被秒杀，所以我决定改定数",
+  "difficulty": 15.700003,
+  "id": 14464,
+  "illustrator": "cosMo@暴走P",
+  "level": "IN Lv.15",
+  "name": "初音ミクの激唱",
+  "tags": [],
+  "updated": "2024-01-31T05:31:50.851525Z",
+  "uploader": 328759
+}

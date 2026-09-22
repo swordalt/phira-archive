@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:20:49Z",
+    "lastChanged": "2026-09-22T01:20:49Z",
+    "localBackup": {
+      "asset": "17789.zip",
+      "files": [
+        {
+          "path": "94431553.jpg",
+          "sha256": "938b3f38ad09ea835b1fe483b1183431d3ee8acbdd848034b7ade022afb08977",
+          "size": 24066
+        },
+        {
+          "path": "94431553.json",
+          "sha256": "921fe87e6d320a76c8f072b1229da0b27a8c5bfc208ca048b6188aed6593e2ba",
+          "size": 2060733
+        },
+        {
+          "path": "94431553.mp3",
+          "sha256": "bdbb11f72bbfcaa71b7710cc6f0d7d717508b5420d9952f1526917a3c8493519",
+          "size": 6565609
+        },
+        {
+          "path": "info.txt",
+          "sha256": "b06b10cf3f99c9f8ae9392a1b70fe63f63cba9d33aa8d541105ee2f97db3856c",
+          "size": 181
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f63d555dd121a20d02b7cbe7eb7810ca315cf3f79ffde96ccbf56482d127d0df",
+          "size": 548
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "94431553.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "94431553.jpg",
+        "lineLength": 6.0,
+        "music": "94431553.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-17000-17999",
+      "sha256": "6d5bceb47869bd6ac76d9affda68539acc4a3383aaeea405de785999307357b4",
+      "size": 8651645,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-17000-17999/17789.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-03-30T16:12:23.460540Z",
+  "charter": "EoE battling with FanYan",
+  "composer": "t+pazolite",
+  "created": "2024-03-30T16:12:23.460540Z",
+  "description": "最简单主难茄子",
+  "difficulty": 14.900001,
+  "id": 17789,
+  "illustrator": "UK",
+  "level": "IN Lv.14+",
+  "name": "QZKago Requiem",
+  "tags": [],
+  "updated": "2024-03-30T16:12:23.460540Z",
+  "uploader": 2522
+}

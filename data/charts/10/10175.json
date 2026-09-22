@@ -1,0 +1,74 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:09:42Z",
+    "lastChanged": "2026-09-22T01:09:42Z",
+    "localBackup": {
+      "asset": "10175.zip",
+      "files": [
+        {
+          "path": "1696061438.ogg",
+          "sha256": "165f81ce54eef63e6bb46e948a6d6b8bd81b1e2e87b949d9b2f89536770df277",
+          "size": 3443017
+        },
+        {
+          "path": "Angel dust.png",
+          "sha256": "78291951119dcf90cfcd026973dc99c592cec6bf62aa7bf1b98b30b7a19f8a6d",
+          "size": 118013
+        },
+        {
+          "path": "Angel dust（2016 Radio Mix）(From Malody).json",
+          "sha256": "75f16f2aa66495a8e83e7bb61d14229e7dbdad0c7f26f7baaf6dd557a0cfa709",
+          "size": 1511980
+        },
+        {
+          "path": "info.txt",
+          "sha256": "7f6bd13a0760837d8d72c8664614ad400319985c33d9556cb2a649c1b0399d99",
+          "size": 196
+        },
+        {
+          "path": "info.yml",
+          "sha256": "928fc11410971061bbd0f31d17e8ed2811233afc9d5cea536e877186c738b35d",
+          "size": 689
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "Angel dust（2016 Radio Mix）(From Malody).json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "Angel dust.png",
+        "lineLength": 6.0,
+        "music": "1696061438.ogg",
+        "offset": 0.0,
+        "previewEnd": 89.5,
+        "previewStart": 69.5,
+        "tip": "只要您能99您就是乱王（什莫）"
+      },
+      "release": "backup-10000-10999",
+      "sha256": "3a66875c02e147dad9bb5be710e9fcba1ba1997aabede1d66011362cefd4287c",
+      "size": 5074481,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-10000-10999/10175.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "Hiesnoze",
+  "composer": "LV.4",
+  "created": null,
+  "description": "本人上传\nBPM=170\n采的是32分，每两拍一个双押（应该是吧（？））\n有休息段，也比较长，所以应该能打吧（？）",
+  "difficulty": 20.0,
+  "id": 10175,
+  "illustrator": "UK",
+  "level": "Speed Lv.42",
+  "name": "Angel dust（2016 Radio Mix）",
+  "tags": [
+    "Speed",
+    "BOFU2006",
+    "plain"
+  ],
+  "updated": null,
+  "uploader": null
+}

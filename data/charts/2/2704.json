@@ -1,0 +1,75 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:03:06Z",
+    "lastChanged": "2026-09-22T01:03:06Z",
+    "localBackup": {
+      "asset": "2704.zip",
+      "files": [
+        {
+          "path": "0car.mp3",
+          "sha256": "3ec2711e54ea2fb4e8399898f6ffab08fecae3a7a6f8bce232023e02a853fdf9",
+          "size": 6010898
+        },
+        {
+          "path": "0car.pec",
+          "sha256": "a769799e5eef11c2cb87b03c4c2f903ef5f70ea4907d3ad0007198ea93ebef4f",
+          "size": 213339
+        },
+        {
+          "path": "0car.png",
+          "sha256": "979d333e1be891b97b0aec3dd41146ad660e6eeaec46b4023146462931c18f7c",
+          "size": 80987
+        },
+        {
+          "path": "0car（模糊曲绘）.jpg",
+          "sha256": "3195b966b088b90e9cffed87f39d1b438bf8179c0ba9115870b9396dc1bd8bf9",
+          "size": 15573
+        },
+        {
+          "path": "info.csv",
+          "sha256": "34893769c8fd602c4cbd45be506666bc3d28b21e89d927c78376190ae17da2d4",
+          "size": 222
+        },
+        {
+          "path": "info.yml",
+          "sha256": "1b7f918c24bb0db7c36bc149ac4acbfb7b595401bdcde567cea98bc61c9666e1",
+          "size": 526
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.777778,
+        "backgroundDim": 0.6,
+        "chart": "0car.pec",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "0car.png",
+        "lineLength": 6.0,
+        "music": "0car.mp3",
+        "offset": 0.020000007,
+        "previewEnd": 45.0,
+        "previewStart": 25.0,
+        "tip": null
+      },
+      "release": "backup-2000-2999",
+      "sha256": "ab816f8ff8959947041733baa01781e30d644c610498e36b233f3d41f21e4cae",
+      "size": 6322155,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-2000-2999/2704.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-05-28T10:46:41.382369Z",
+  "charter": "飞飞XL",
+  "composer": "seatrus",
+  "created": "2023-05-28T10:46:41.382369Z",
+  "description": "请上B站关注谱师-飞飞XL-谢谢喵",
+  "difficulty": 16.300001,
+  "id": 2704,
+  "illustrator": "2AI4wU4",
+  "level": "AT Lv.16",
+  "name": "零號車輛",
+  "tags": [],
+  "updated": "2023-05-28T14:03:35.126023Z",
+  "uploader": 410
+}

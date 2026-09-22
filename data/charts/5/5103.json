@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:04:57Z",
+    "lastChanged": "2026-09-22T01:04:57Z",
+    "localBackup": {
+      "asset": "5103.zip",
+      "files": [
+        {
+          "path": "979077.jpg",
+          "sha256": "1efc9653730b01b9a8a73e1cd0239a29a2be002a2ac68ca1c4f4e9d7abb57e02",
+          "size": 244694
+        },
+        {
+          "path": "979077.json",
+          "sha256": "e9ab0092cc0def8a4558884e58ca3edd7ee5c39b9bfc98e32976106e3c97fc7e",
+          "size": 300275
+        },
+        {
+          "path": "979077.ogg",
+          "sha256": "e6bb30a7bcb64aa15e6524d92c0015ac8734d3a48f938466ac3930e184cc349f",
+          "size": 11877256
+        },
+        {
+          "path": "info.txt",
+          "sha256": "7a9f30b6e1b574d506a35085f537d2c80f2e00e50d74b08c3c383b14a5d20de2",
+          "size": 159
+        },
+        {
+          "path": "info.yml",
+          "sha256": "e4a0f643a2e0fbaa49ce31ad319b7c84ff3d7d3b3d9cec1ac565c427c0b5a257",
+          "size": 434
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "979077.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "979077.jpg",
+        "lineLength": 6.0,
+        "music": "979077.ogg",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-5000-5999",
+      "sha256": "b088ad96425ff564add6a25dee854fe9fc0acfd0bf3a60c6319f6686e0b1538d",
+      "size": 12423314,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-5000-5999/5103.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "王牌杠神",
+  "composer": "Ludicin",
+  "created": null,
+  "description": "",
+  "difficulty": 21.0,
+  "id": 5103,
+  "illustrator": "UK",
+  "level": "adofai.21",
+  "name": "Fallen Symphony",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

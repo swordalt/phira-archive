@@ -1,0 +1,81 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:13:54Z",
+    "lastChanged": "2026-09-22T01:13:54Z",
+    "localBackup": {
+      "asset": "12981.zip",
+      "files": [
+        {
+          "path": "85749165.jpg",
+          "sha256": "d3d1529a422f246073621b8b1533fb627569396d543863557b9abdeea7f79442",
+          "size": 807714
+        },
+        {
+          "path": "85749165.json",
+          "sha256": "e1757aeaa99273a3b795c37aa39fb78036412aed87267a8403f125c93b4b6802",
+          "size": 3166399
+        },
+        {
+          "path": "85749165.mp3",
+          "sha256": "4e5e198171cdb066eee5443e68a431cbe00917dbe658614fd38d05872859fbdf",
+          "size": 6057024
+        },
+        {
+          "path": "BlackBackGround.png",
+          "sha256": "df956a2c3939628043b8ee3068b58b9d7b911a647fc5e2c612680baa8bad2994",
+          "size": 9962
+        },
+        {
+          "path": "WhiteBackGround.png",
+          "sha256": "7a21d8b2c6eabbc7b5416e06cfe60a0cf45db9ed71b20c87f538501f7b26b7e1",
+          "size": 12583
+        },
+        {
+          "path": "info.txt",
+          "sha256": "27bb2a4b6bcbaf63cf6a15f0c396ab4abd5a375d05558d036c84c68dacfc2cda",
+          "size": 179
+        },
+        {
+          "path": "info.yml",
+          "sha256": "6da0ef21ef0253d763d10e6680c1998e23d40490955b5c67e3c8e56ae8edf57f",
+          "size": 784
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "85749165.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "85749165.jpg",
+        "lineLength": 6.0,
+        "music": "85749165.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "游玩前请了解《节奏医生》的玩法！",
+        "unlockVideo": null
+      },
+      "release": "backup-12000-12999",
+      "sha256": "818037ad98b0a084c336b63d2221e72030c7c34b45d729a1b71676dffbf4c404",
+      "size": 10055381,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-12000-12999/12981.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-30T10:16:17.851907Z",
+  "charter": "DiAMONDGAMER",
+  "composer": "Rhythm Doctor游戏内实录",
+  "created": "2023-12-30T10:16:17.851907Z",
+  "description": "谱面为还原向，使用《节奏医生》的制谱方式，请先去https://www.bilibili.com/read/cv29511664了解本谱面的玩法，用电脑游玩判定体验更好哦！（本谱面如侵权将及时删除）",
+  "difficulty": 10.0,
+  "id": 12981,
+  "illustrator": "UK",
+  "level": "5-X",
+  "name": "梦想永不歇",
+  "tags": [],
+  "updated": "2024-01-23T07:31:05.550346Z",
+  "uploader": 2067
+}

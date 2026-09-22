@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:04:16Z",
+    "lastChanged": "2026-09-22T01:04:16Z",
+    "localBackup": {
+      "asset": "4798.zip",
+      "files": [
+        {
+          "path": "72095495.jpg",
+          "sha256": "5b3f67005e4b4d27339d90c2c7dd3a39e03d2f92116a6c09a9c093cc61fe1bbb",
+          "size": 859297
+        },
+        {
+          "path": "72095495.json",
+          "sha256": "0cd0ed98e58e852c0bde32d64a920a670ea6940aad9ce6ccefc876a9c6ba648f",
+          "size": 2799543
+        },
+        {
+          "path": "72095495.mp3",
+          "sha256": "1c43492c5c3c99e5e8e6933972a892d0ecea57b046758be3de84af1fd337b2a1",
+          "size": 8675570
+        },
+        {
+          "path": "info.txt",
+          "sha256": "f8ad7b27b0057e89b80f141dc585fd597c1edb109da7b8bb77cae91f7f73303d",
+          "size": 163
+        },
+        {
+          "path": "info.yml",
+          "sha256": "41e0af3786cf786c1cfd78619be83287398f49335c52b23a15b757a754fb5847",
+          "size": 541
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "72095495.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "72095495.jpg",
+        "lineLength": 6.0,
+        "music": "72095495.mp3",
+        "offset": 0.025000006,
+        "previewEnd": 352.0,
+        "previewStart": 332.0,
+        "tip": "no tips here!",
+        "unlockVideo": null
+      },
+      "release": "backup-4000-4999",
+      "sha256": "bfb425562c58405be13b2829e61bcaf62593e796c3873befcc4878da1df5d243",
+      "size": 12335622,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-4000-4999/4798.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "SrY-ABYSS",
+  "composer": "DM DOKURO",
+  "created": null,
+  "description": "冰与火之舞DLC 新宇宙\nT3-(E)X 这里没有提示!\n修改版本",
+  "difficulty": 15.400002,
+  "id": 4798,
+  "illustrator": "ADOFAI",
+  "level": "SP Lv.?",
+  "name": "No Hints Here!",
+  "tags": [],
+  "updated": null,
+  "uploader": null
+}

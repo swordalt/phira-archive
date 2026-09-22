@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:20:03Z",
+    "lastChanged": "2026-09-22T01:20:03Z",
+    "localBackup": {
+      "asset": "16975.zip",
+      "files": [
+        {
+          "path": "10199563.jpg",
+          "sha256": "b9cc116b41a081c5240abb1af173d87aaaf4fd47330562ff8c0bf7cadecd3162",
+          "size": 247691
+        },
+        {
+          "path": "10199563.json",
+          "sha256": "354d114b86b153fe5b4d56130fe9bacaa9e4ff2bc9b1e3113f5fed62b5638c74",
+          "size": 3578651
+        },
+        {
+          "path": "10199563.mp3",
+          "sha256": "2da8b641606f156c2522646b002ff56c32155cc1a23dde82c0d311c4cea02e07",
+          "size": 1424160
+        },
+        {
+          "path": "info.txt",
+          "sha256": "71e026b2793fb34c51ad103b82197f3c56fcc4105a11a6df6c6d6f2760a3f8e9",
+          "size": 169
+        },
+        {
+          "path": "info.yml",
+          "sha256": "f2f0c4afe31103ca60c487c5f58a5f6513aad1e8d4dacf288a7dd5e73d35bc9b",
+          "size": 636
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "10199563.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "10199563.jpg",
+        "lineLength": 6.0,
+        "music": "10199563.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tips：死ぬまでピュアピュアやってんのん？",
+        "unlockVideo": null
+      },
+      "release": "backup-16000-16999",
+      "sha256": "cbf86cf0520f573c82526c1c1a25c8c2d7baecef6f63630d27ead6e00f443857",
+      "size": 5251815,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-16000-16999/16975.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-03-10T04:08:20.101240Z",
+  "charter": "vitamin b",
+  "composer": "DECO_27",
+  "created": "2024-03-10T04:08:20.101240Z",
+  "description": "B站:没有营养的维生素b\n一天速写成品",
+  "difficulty": 15.300001,
+  "id": 16975,
+  "illustrator": " おむたつ",
+  "level": "IN Lv.15",
+  "name": "ラビットホール",
+  "tags": [],
+  "updated": "2024-03-10T11:43:25.337053Z",
+  "uploader": 30
+}

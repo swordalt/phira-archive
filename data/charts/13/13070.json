@@ -1,0 +1,70 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:14:01Z",
+    "lastChanged": "2026-09-22T01:14:01Z",
+    "localBackup": {
+      "asset": "13070.zip",
+      "files": [
+        {
+          "path": "74589645.jpg",
+          "sha256": "24fcf654c17e60655026e88cd161618df326a0a763fc18d710786db1394d9951",
+          "size": 6250011
+        },
+        {
+          "path": "74589645.json",
+          "sha256": "80868e661a9d7d86daff80088bb1ce0ce7316aa6082f81af3fb6dc80b9dc227b",
+          "size": 109568
+        },
+        {
+          "path": "74589645.mp3",
+          "sha256": "cbed298ead18fe242e60acf8d78c969fe78fe23e0de6c2efe5c621c48ad117c7",
+          "size": 5712872
+        },
+        {
+          "path": "info.txt",
+          "sha256": "be6f57dea6f438101c537d6a3b0eb211da90b656c459ffe59b64d600de69e524",
+          "size": 158
+        },
+        {
+          "path": "info.yml",
+          "sha256": "31ef35f0f5364925fcc914c54d17a077dbd723015ee0cf9f9d30147546605134",
+          "size": 485
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "74589645.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "74589645.jpg",
+        "lineLength": 6.0,
+        "music": "74589645.mp3",
+        "offset": 0.0,
+        "previewEnd": 125.0,
+        "previewStart": 110.2,
+        "tip": null
+      },
+      "release": "backup-13000-13999",
+      "sha256": "86146834a36b03f7f3c51f1e2c7341108f450eab7742e9c23aab3d1ace73b600",
+      "size": 12073602,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-13000-13999/13070.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-12-31T13:20:28.525674Z",
+  "charter": "Frize",
+  "composer": "Abel & RiraN",
+  "created": "2023-12-31T11:39:34.014612Z",
+  "description": "",
+  "difficulty": 17.0,
+  "id": 13070,
+  "illustrator": "UK",
+  "level": "AT Lv.17",
+  "name": "Lacrimosa",
+  "tags": [],
+  "updated": "2023-12-31T13:20:28.525674Z",
+  "uploader": 293
+}

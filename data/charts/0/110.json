@@ -1,0 +1,71 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:01:48Z",
+    "lastChanged": "2026-09-22T01:01:48Z",
+    "localBackup": {
+      "asset": "110.zip",
+      "files": [
+        {
+          "path": "75723052.json",
+          "sha256": "e70aca74c936d7488311c74b03c6627f596c5d7ee9be2bce982170e5dcd2a10b",
+          "size": 3375686
+        },
+        {
+          "path": "75723052.mp3",
+          "sha256": "941bd0e5bc0faf341ed4b8527b34b8a1a10c76a6d27e27058cb00dc868e1e320",
+          "size": 6929392
+        },
+        {
+          "path": "as.jpg",
+          "sha256": "3ae366fccb55cdbdfaca5ec86bb9e9e317ee6e3c59aab009dfa30b4adf0e3681",
+          "size": 330424
+        },
+        {
+          "path": "info.txt",
+          "sha256": "4842e24f9f19920830605b562ca74d7778a6fa0d068c246851c8cd1151848b4c",
+          "size": 173
+        },
+        {
+          "path": "info.yml",
+          "sha256": "1950a8f2782279aa98ed108bd1b41225ff25bfe124e4add34262aeb865191332",
+          "size": 621
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.77778,
+        "backgroundDim": 0.6,
+        "chart": "75723052.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "as.jpg",
+        "lineLength": 6.0,
+        "music": "75723052.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "Tip:决战·机械魔王",
+        "unlockVideo": null
+      },
+      "release": "backup-0-999",
+      "sha256": "d8e37a66eecfd0cd72194453d37cb7511d6e74d52b87e8fde3ac52b76e25b32c",
+      "size": 10636792,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-0-999/110.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-04-02T08:24:52.826382Z",
+  "charter": "紫叶 vs. 机械人偶",
+  "composer": "Team Grimoire",
+  "created": "2023-04-02T08:24:52.826382Z",
+  "description": "上传已获得谱师不爱说话的紫叶授权 关注哔哩哔哩up主@不爱说话的紫叶~",
+  "difficulty": 16.0,
+  "id": 110,
+  "illustrator": "UK",
+  "level": "AT Lv.16",
+  "name": "Astaroth",
+  "tags": [],
+  "updated": "2023-04-02T08:24:52.826382Z",
+  "uploader": 319
+}

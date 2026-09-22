@@ -1,0 +1,148 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:25:14Z",
+    "lastChanged": "2026-09-22T01:25:14Z",
+    "localBackup": {
+      "asset": "20604.zip",
+      "files": [
+        {
+          "path": "24760622.jpg",
+          "sha256": "e42ebdf4d49497f8181e7a3a19504ef0ac97ddc5f8f16f705ea4c9d071968ce7",
+          "size": 88230
+        },
+        {
+          "path": "24760622.json",
+          "sha256": "1efde4e43844f9e102dc31e7321059226d146f547992eb029b2445d0542702bc",
+          "size": 384156
+        },
+        {
+          "path": "24760622.mp3",
+          "sha256": "9f34ccbe240ef7a3f3f346b27a84c27fd5b3ecc1accac9b24e0d9c45a3e3de48",
+          "size": 4808643
+        },
+        {
+          "path": "AutoSave_2024_5_30_21_26_18_24760622.json",
+          "sha256": "df17e6287dfb12315ed215f379363eca9f26d9d6a39ad30e1eb4516243f3e46a",
+          "size": 167355
+        },
+        {
+          "path": "AutoSave_2024_5_30_21_30_18_24760622.json",
+          "sha256": "5ea513d52e2ba1ced9c1e8d3825bd78df1be9d9f70804009e063ca28d953aa1c",
+          "size": 187466
+        },
+        {
+          "path": "AutoSave_2024_5_31_19_14_12_24760622.json",
+          "sha256": "44936a35f11ebb43df2a8db706cdf903ab7d49ef58122d4f1bd7f8f70c8eabb3",
+          "size": 215655
+        },
+        {
+          "path": "AutoSave_2024_5_31_19_18_12_24760622.json",
+          "sha256": "816bc2ac18ca634c32dd2847098ac7cfbb81ec2c32332cfd61bfcbd5663c1a95",
+          "size": 224088
+        },
+        {
+          "path": "AutoSave_2024_5_31_19_22_12_24760622.json",
+          "sha256": "326a1036bcca7e0d28b72c07f08038eb4968bdae96302b934feed2295f96f58e",
+          "size": 225892
+        },
+        {
+          "path": "AutoSave_2024_5_31_19_26_12_24760622.json",
+          "sha256": "f035a24a20aa4953566395e6b68453a35a683d8cce13f055416c9818b0e91d25",
+          "size": 225909
+        },
+        {
+          "path": "AutoSave_2024_5_31_21_50_57_24760622.json",
+          "sha256": "283d8ada1be87c683de5cf8a141fd7cb95d7add5498539c3a2cdb3ccc8411ce2",
+          "size": 261724
+        },
+        {
+          "path": "AutoSave_2024_5_31_21_57_56_24760622.json",
+          "sha256": "dc6bc75ca227506aea01b7e5a78614eb563974ecf96a1f1bbae6b7aa475fe63f",
+          "size": 275344
+        },
+        {
+          "path": "AutoSave_2024_5_31_22_14_9_24760622.json",
+          "sha256": "dc6bc75ca227506aea01b7e5a78614eb563974ecf96a1f1bbae6b7aa475fe63f",
+          "size": 275344
+        },
+        {
+          "path": "AutoSave_2024_5_31_22_18_9_24760622.json",
+          "sha256": "65bd80be67b393cfe475b30e62b2f0ace0277b349e288657078648e140dbc4bc",
+          "size": 303555
+        },
+        {
+          "path": "AutoSave_2024_6_1_6_57_26_24760622.json",
+          "sha256": "89943c392cf0715d496688c0c92642037f525c3901e8c2dc113945f71e4fe976",
+          "size": 310948
+        },
+        {
+          "path": "AutoSave_2024_6_1_7_14_13_24760622.json",
+          "sha256": "b6d0905183cb2c42ac97946394fb6661067e15a0d334de04f3bf2edc0a0cb5f7",
+          "size": 383683
+        },
+        {
+          "path": "AutoSave_2024_6_1_7_1_21_24760622.json",
+          "sha256": "48cabec7980b983ba4973653f942f5518628b0e1380ea9bd2718e6cb0cd5930e",
+          "size": 336409
+        },
+        {
+          "path": "AutoSave_2024_6_1_7_5_21_24760622.json",
+          "sha256": "8ef741d4a395805da3397c7c675f743b8d0175d10a3552bebf01098b463dc0c7",
+          "size": 399466
+        },
+        {
+          "path": "AutoSave_2024_6_1_7_9_21_24760622.json",
+          "sha256": "09edea096e5f1fdfb32d62d9c7de69847590f968e4ea289f47c991cca2eac721",
+          "size": 414159
+        },
+        {
+          "path": "info.txt",
+          "sha256": "88b9daea85f350266e10790601754a904911f3ceee621e5df4c6e82a97fb0211",
+          "size": 152
+        },
+        {
+          "path": "info.yml",
+          "sha256": "c87d00ec9b7ef727f9c35d9f5537e494ad28a81d5b2e834b072342a64432db05",
+          "size": 446
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "24760622.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "24760622.jpg",
+        "lineLength": 6.0,
+        "music": "24760622.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": null,
+        "unlockVideo": null
+      },
+      "release": "backup-20000-20999",
+      "sha256": "ffa769e42b24b11a977a168b837fdb639279c06820164db941418c83068748a9",
+      "size": 9491472,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-20000-20999/20604.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "phigros100",
+  "composer": "niqizhuo/Dapper Husky",
+  "created": null,
+  "description": "",
+  "difficulty": 13.0,
+  "id": 20604,
+  "illustrator": "UK",
+  "level": "RUN 13",
+  "name": "Level !",
+  "tags": [
+    "troll"
+  ],
+  "updated": null,
+  "uploader": null
+}

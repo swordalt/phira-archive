@@ -1,0 +1,72 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:06:22Z",
+    "lastChanged": "2026-09-22T01:06:22Z",
+    "localBackup": {
+      "asset": "6250.zip",
+      "files": [
+        {
+          "path": "18496385.jpg",
+          "sha256": "d362c9a87b67ce036d8727a16a87c58ba088c578e41de936ec861f486d600780",
+          "size": 114466
+        },
+        {
+          "path": "18496385.json",
+          "sha256": "9ec9e33182d10ac5e62feef1315094c08cd2010b7dc12b4ef157d6285581e1ab",
+          "size": 1388855
+        },
+        {
+          "path": "18496385.mp3",
+          "sha256": "051c45b67b7f98f56c906dece29486315e9c32d66b761ea2982008586fca89c4",
+          "size": 987975
+        },
+        {
+          "path": "info.txt",
+          "sha256": "c055a56f38d4bd0eb32b7f118eadf06250745a3cf3c18a796252cead382a894c",
+          "size": 185
+        },
+        {
+          "path": "info.yml",
+          "sha256": "c9de0e9b3a690ca3fc9ad53cbb646744fbdc6f0b7607690732b9712d9a765ab2",
+          "size": 492
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "18496385.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "18496385.jpg",
+        "lineLength": 6.0,
+        "music": "18496385.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "答辩警告"
+      },
+      "release": "backup-6000-6999",
+      "sha256": "bd3c4f283e8b3a27a72befbe06ed271f9b0dfd83acb1744756b95993c2abbd62",
+      "size": 2492481,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-6000-6999/6250.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": null,
+  "charter": "不是小烦のxf",
+  "composer": "plum",
+  "created": null,
+  "description": "谱师本人上传 B站:不是小烦のxf",
+  "difficulty": 10.0,
+  "id": 6250,
+  "illustrator": "UK",
+  "level": "SP Lv.?",
+  "name": "当你放弃思考胡乱作曲时",
+  "tags": [
+    "troll"
+  ],
+  "updated": null,
+  "uploader": null
+}

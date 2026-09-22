@@ -1,0 +1,75 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:11:57Z",
+    "lastChanged": "2026-09-22T01:11:57Z",
+    "localBackup": {
+      "asset": "11924.zip",
+      "files": [
+        {
+          "path": "97771496.json",
+          "sha256": "05e1068dfce8d67619f3ccb6aa217209abb41454941bbdef863f75759b418414",
+          "size": 564079
+        },
+        {
+          "path": "97771496.mp3",
+          "sha256": "f7a2ed5e62e62c3f5b2c04b5e4a80b3d33a9bc4651a9e0e83c157c40606c0722",
+          "size": 11496109
+        },
+        {
+          "path": "97771496.png",
+          "sha256": "2891e4906237fab248a7f0963fc71412f50a0e465c4cdda16bfc8b3e0573e2e3",
+          "size": 1993795
+        },
+        {
+          "path": "info.txt",
+          "sha256": "a73f3ced69009e0b850dbfb3856c5954b87f2be5f196b56d322f213564f8f5ca",
+          "size": 163
+        },
+        {
+          "path": "info.yml",
+          "sha256": "5e3e162183536f5dfe003fd6b8c99beb07b15376b31e6da23dd0e7d95dc7fb9f",
+          "size": 811
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.6,
+        "chart": "97771496.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "97771496.png",
+        "lineLength": 6.0,
+        "music": "97771496.mp3",
+        "offset": 0.0,
+        "previewEnd": 231.0,
+        "previewStart": 216.5,
+        "tip": "希望各位能玩的開心 :D",
+        "unlockVideo": null
+      },
+      "release": "backup-11000-11999",
+      "sha256": "11d5e4a2f61fda894b975b2c2fe75a8ea37a37b6313546d6085d667d55f37d8d",
+      "size": 14055465,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-11000-11999/11924.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2023-11-30T02:05:09.065177Z",
+  "charter": "Cookie",
+  "composer": "XH & KYURO3",
+  "created": "2023-11-30T02:05:09.065177Z",
+  "description": "AT16.9  4.3k物量\n製作時長 : 11/7 - 11/29\n\n或許，有些地方你可能難以理解\n或許，有些地方你可能會罵糞譜 (尤其是3500以後）\n但是這些都是我花幾個禮拜努力設計的 希望能諒解\n@CookieRacer",
+  "difficulty": 16.9,
+  "id": 11924,
+  "illustrator": "XH",
+  "level": "AT  Lv.16+",
+  "name": "FKIN W H A T",
+  "tags": [
+    "多指",
+    "what",
+    "regular"
+  ],
+  "updated": "2023-11-30T02:05:09.065177Z",
+  "uploader": 260639
+}

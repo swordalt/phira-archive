@@ -1,0 +1,78 @@
+{
+  "_archive": {
+    "divisions": [],
+    "firstSeen": "2026-09-22T01:28:10Z",
+    "lastChanged": "2026-09-22T01:28:10Z",
+    "localBackup": {
+      "asset": "21069.zip",
+      "files": [
+        {
+          "path": "83652921.json",
+          "sha256": "4791ca79798060807cd1b7d39c5dac76620b6e00a68d400005a6367331a5f81f",
+          "size": 5449495
+        },
+        {
+          "path": "83652921.mp3",
+          "sha256": "2d82387f21f2a1b257936a67a66c200bdd080ce5f0d736a036bbe092ff9968ef",
+          "size": 5832819
+        },
+        {
+          "path": "83652921.png",
+          "sha256": "6e1a2eb480a27d4a50b67f9376faebe5825a3c28a59d0c8992be48af0460672d",
+          "size": 607847
+        },
+        {
+          "path": "info.txt",
+          "sha256": "e5adde4e38eaf2bd59aa92cb40b4d2805abc8fd346b62b2351ebf249630619a1",
+          "size": 176
+        },
+        {
+          "path": "info.yml",
+          "sha256": "9058ec46c47f5f8ea557c05e81c56fa6c28193fedeebfa75b4f1c60196c2b95e",
+          "size": 650
+        },
+        {
+          "path": "shuodedaoli.png",
+          "sha256": "b8c5428f3f573566bbe27f1bd3365b5ee6cd2f7a9d03ebb4699731410ea4630b",
+          "size": 572558
+        }
+      ],
+      "info": {
+        "aspectRatio": 1.7777778,
+        "backgroundDim": 0.5,
+        "chart": "83652921.json",
+        "format": null,
+        "holdPartialCover": false,
+        "illustration": "83652921.png",
+        "lineLength": 6.0,
+        "music": "83652921.mp3",
+        "offset": 0.0,
+        "previewEnd": null,
+        "previewStart": 0.0,
+        "tip": "诶你怎么死了",
+        "unlockVideo": null
+      },
+      "release": "backup-21000-21999",
+      "sha256": "4d0e6ad944234711d866efec5a6c5ef858e52ff6bfc7e05b35a462c25932c00e",
+      "size": 12464159,
+      "url": "https://github.com/swordalt/phira-archive/releases/download/backup-21000-21999/21069.zip"
+    },
+    "revisions": 1,
+    "source": "local-backup"
+  },
+  "chartUpdated": "2024-06-09T17:32:49.536218Z",
+  "charter": "N(NEKOYO will never be seen)",
+  "composer": "_Karasu_",
+  "created": "2024-06-09T17:32:49.536218Z",
+  "description": "⚠️光敏性癫痫警告⚠️\n1天速写，根据约定，这是最后一张电棍谱",
+  "difficulty": 15.400002,
+  "id": 21069,
+  "illustrator": "我觉得我是",
+  "level": "otto Lv.15",
+  "name": "R.I.P.",
+  "tags": [
+    "troll"
+  ],
+  "updated": "2024-06-09T17:32:49.536218Z",
+  "uploader": 8351
+}
