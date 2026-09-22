@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-22T14:44:17Z",
-    "lastChanged": "2026-09-22T14:44:17Z",
-    "revisions": 1
+    "lastChanged": "2026-09-22T18:48:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-19T13:09:46.920384Z",
   "charter": "QZ_fun!",
@@ -21,7 +21,7 @@
   "name": "Syro",
   "preview": "https://phira.5wyxi.com/files/a53bdc39-29ed-4e81-b4b2-0750b7c49adf",
   "ranked": false,
-  "rating": null,
+  "rating": 0.8860619,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -29,6 +29,6 @@
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-22T14:39:56.181651Z",
+  "updated": "2026-09-22T14:39:56.181651787Z",
   "uploader": 1137943
 }

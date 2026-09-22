@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-22T14:44:17Z",
-    "lastChanged": "2026-09-22T14:44:17Z",
-    "revisions": 1
+    "lastChanged": "2026-09-22T18:48:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-21T17:49:02.868601Z",
   "charter": "V0idranges",
@@ -21,11 +21,11 @@
   "name": "Colourful Snow Magic(feat.初音ミク)",
   "preview": "https://phira.5wyxi.com/files/43567667-9dd0-4442-977d-b370b54eb1e8",
   "ranked": false,
-  "rating": 0.9580337,
-  "ratingCount": 1,
-  "reviewed": true,
+  "rating": 0.9499506,
+  "ratingCount": 2,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

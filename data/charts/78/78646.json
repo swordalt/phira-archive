@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-22T14:44:17Z",
-    "lastChanged": "2026-09-22T14:44:17Z",
-    "revisions": 1
+    "lastChanged": "2026-09-22T18:48:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-21T11:39:26.361189Z",
   "charter": "qsn273",
@@ -21,7 +21,7 @@
   "name": "瑠璃色",
   "preview": "https://phira.5wyxi.com/files/fa4e1552-79eb-4faf-882f-6dfe8678f1e4",
   "ranked": false,
-  "rating": null,
+  "rating": 0.7434371,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -29,6 +29,6 @@
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-22T14:31:28.259634Z",
+  "updated": "2026-09-22T14:31:28.259634194Z",
   "uploader": 1940576
 }
