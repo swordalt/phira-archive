@@ -11,6 +11,8 @@ The archival process is split into two jobs:
 
 Files themselves (illustration, audio preview, and chart file) are not archived. The API url for such resources remain active even after the chart is removed from Phira, meaning preserving metadata (which contains these direct URLs) is enough to recover files in the future.
 
+The exception is charts recovered from a [local backup](#local-backups) that no longer exist on Phira: their files are kept as GitHub release assets, since there is no API URL to point to.
+
 ## Repository Layout
 Archived information is found within `/data`. Everything else is for GitHub Actions to do its job.
 
@@ -39,6 +41,21 @@ Something is rewritten upon a change, except for `rating` and `ratingCount` as t
 
 ```bash
 git log -p --follow data/charts/78/78514.json
+```
+
+## Local Backups
+`scripts/backup.py` imports charts from a backup of the Phira client's data folder, where each chart is a folder named by its ID containing the chart files and an in-game `info.yml`. That `info.yml` has no API data (no `file` / `preview` / `illustration` URLs), so the most recent version always wins:
+
+1. Already archived from the API: skipped.
+2. Still on Phira (`/chart/{id}` answers): archived from the live API, nothing uploaded.
+3. Gone from Phira (404): metadata comes from `info.yml`, and the folder is zipped and uploaded to a release labeled with its ID range (`backup-22000-22999` = charts 22000–22999).
+
+Records from a backup carry `"source": "local-backup"` and a `localBackup` block (release asset URL, size, sha256, file list, and the in-game-only `info.yml` fields) inside `_archive`. If such a chart ever reappears on Phira, `poll`/`sweep` overwrite it with the API version and keep the `localBackup` pointer. Commits from this script start with `backup:` and say they come from a local backup.
+
+```bash
+python -m pip install pyyaml   # backup.py only; poll/sweep stay dependency-free
+python scripts/backup.py "path/to/Phira Backup" --dry-run   # report only
+python scripts/backup.py "path/to/Phira Backup" --commit    # upload via gh, write, commit (no push)
 ```
 
 ## Phira API Notes

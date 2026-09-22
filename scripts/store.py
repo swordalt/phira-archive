@@ -78,30 +78,37 @@ def changed_fields(old, new):
 def merge(old, new, division):
     """Fold a freshly fetched payload into a stored record. Returns (record, changed)."""
     stamp = now()
+    # division is None when a chart is fetched by id alone (e.g. a backup import).
+    added = {division} if division else set()
     if old is None:
         record = dict(new)
         record["_archive"] = {
             "firstSeen": stamp,
             "lastChanged": stamp,
-            "divisions": [division],
+            "divisions": sorted(added),
             "revisions": 1,
         }
         return record, ["*new*"]
 
     archive = dict(old.get("_archive") or {})
-    divisions = sorted(set(archive.get("divisions") or []) | {division})
+    divisions = sorted(set(archive.get("divisions") or []) | added)
     changed = changed_fields(old, new)
     moved = divisions != (archive.get("divisions") or [])
     if not changed and not moved:
         return old, []
 
     record = dict(new)
-    record["_archive"] = {
+    # Keep any extra bookkeeping (e.g. localBackup) - only the core keys move.
+    record["_archive"] = dict(archive)
+    record["_archive"].update({
         "firstSeen": archive.get("firstSeen", stamp),
         "lastChanged": stamp if changed else archive.get("lastChanged", stamp),
         "divisions": divisions,
         "revisions": archive.get("revisions", 1) + (1 if changed else 0),
-    }
+    })
+    # A backup-only chart that turns up on the API again: the live API wins.
+    if archive.get("source") == "local-backup":
+        record["_archive"]["source"] = "api"
     # A chart can gain a division without any other field moving; that is still
     # worth recording, so report it as a change of its own.
     return record, changed + (["_divisions"] if moved else [])
@@ -120,7 +127,8 @@ def rebuild_index():
     with open(INDEX, "w", encoding="utf-8", newline="\n") as handle:
         for record in iter_records():
             handle.write(index_line(record) + "\n")
-            for division in (record.get("_archive") or {}).get("divisions") or ["?"]:
+            # Backup-only charts have no known division and are counted by backup.py.
+            for division in (record.get("_archive") or {}).get("divisions") or []:
                 counts[division] = counts.get(division, 0) + 1
     return counts
 
