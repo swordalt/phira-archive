@@ -14350,3 +14350,7 @@
 {"changed": ["*new*"], "division": "regular", "event": "new", "id": 78729, "ts": "2026-09-23T11:25:42Z"}
 {"changed": ["*new*"], "division": "regular", "event": "new", "id": 78723, "ts": "2026-09-23T11:25:42Z"}
 {"changed": ["*new*"], "division": "regular", "event": "new", "id": 78675, "ts": "2026-09-23T11:25:42Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 78740, "ts": "2026-09-23T16:48:48Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 78723, "ts": "2026-09-23T16:48:48Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 78675, "ts": "2026-09-23T16:48:48Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 77714, "ts": "2026-09-23T16:48:49Z"}
