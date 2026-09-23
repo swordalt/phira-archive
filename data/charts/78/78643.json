@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-22T14:44:17Z",
-    "lastChanged": "2026-09-22T18:48:06Z",
-    "revisions": 2
+    "lastChanged": "2026-09-23T05:52:42Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-09-21T11:35:38.828137Z",
   "charter": "小宇",
@@ -21,14 +21,14 @@
   "name": "Collapsed Stage",
   "preview": "https://phira.5wyxi.com/files/a82d954a-a454-4860-97a8-36ce61210324",
   "ranked": false,
-  "rating": 0.7803841,
-  "ratingCount": 0,
+  "rating": 0.772721,
+  "ratingCount": 4,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-22T14:33:22.421676904Z",
+  "updated": "2026-09-22T14:33:22.421676Z",
   "uploader": 1061962
 }
