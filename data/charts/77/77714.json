@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-23T16:48:49Z",
-    "lastChanged": "2026-09-23T16:48:49Z",
-    "revisions": 1
+    "lastChanged": "2026-09-23T20:14:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-11T07:52:29.575735Z",
   "charter": "Chyumix",
@@ -21,14 +21,14 @@
   "name": "魔ジョ狩リ",
   "preview": "https://phira.5wyxi.com/files/9bcc67d8-2169-4d8c-a18e-7d05f809cbd4",
   "ranked": false,
-  "rating": 0.77700293,
-  "ratingCount": 10,
+  "rating": 0.803584,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-23T14:08:42.027069Z",
+  "updated": "2026-09-23T14:08:42.027069811Z",
   "uploader": 532761
 }
