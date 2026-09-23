@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-23T11:25:42Z",
+    "lastChanged": "2026-09-23T11:25:42Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-22T08:32:05.859862Z",
+  "charter": "至尊小晴",
+  "composer": "虹羽RFeather",
+  "created": "2026-09-22T08:32:05.859862Z",
+  "description": null,
+  "difficulty": 15.7,
+  "file": "https://phira.5wyxi.com/files/788eed66-47b9-4faa-8f27-50893ac15649",
+  "id": 78675,
+  "illustration": "https://phira.5wyxi.com/files/3215fd3c-3971-4e79-a2b3-b52febdd38bb",
+  "illustrator": "",
+  "level": "IN 15.7",
+  "name": "怪诞剧院",
+  "preview": "https://phira.5wyxi.com/files/908dd857-ec8e-461e-8ec2-0d815d0ede2c",
+  "ranked": false,
+  "rating": 0.87589103,
+  "ratingCount": 14,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-09-23T09:42:08.076249Z",
+  "uploader": 2907280
+}
