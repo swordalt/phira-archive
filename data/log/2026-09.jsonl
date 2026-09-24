@@ -14370,3 +14370,5 @@
 {"changed": ["chartUpdated", "description", "file", "illustration", "preview", "updated"], "division": "regular", "event": "updated", "id": 78804, "ts": "2026-09-24T14:57:41Z"}
 {"changed": ["reviewed", "stableRequest"], "division": "regular", "event": "updated", "id": 78783, "ts": "2026-09-24T14:57:41Z"}
 {"changed": ["reviewed", "stableRequest"], "division": "regular", "event": "updated", "id": 78632, "ts": "2026-09-24T14:57:41Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 78876, "ts": "2026-09-24T19:03:22Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 78834, "ts": "2026-09-24T19:03:22Z"}
