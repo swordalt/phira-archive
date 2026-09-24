@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T08:50:25Z",
-    "lastChanged": "2026-09-21T08:50:25Z",
-    "revisions": 1
+    "lastChanged": "2026-09-24T09:54:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-20T07:49:40.539669Z",
   "charter": "无水之溪旭",
@@ -21,11 +21,11 @@
   "name": "Immaculate",
   "preview": "https://phira.5wyxi.com/files/bee2943c-7efd-422e-8e27-1e3c897abe4c",
   "ranked": false,
-  "rating": 0.7803841,
-  "ratingCount": 2,
-  "reviewed": true,
+  "rating": 0.9369525,
+  "ratingCount": 127,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "键盘",
     "regular"

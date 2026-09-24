@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-24T04:37:40Z",
-    "lastChanged": "2026-09-24T04:37:40Z",
-    "revisions": 1
+    "lastChanged": "2026-09-24T09:54:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-15T15:38:49.048950Z",
   "charter": "我的准度有点爆炸",
@@ -21,14 +21,14 @@
   "name": "アクマバライ",
   "preview": "https://phira.5wyxi.com/files/03f8225f-2a9f-4395-baf8-3bab34a9f966",
   "ranked": false,
-  "rating": 0.91110927,
-  "ratingCount": 42,
+  "rating": 0.9286306,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-24T00:50:04.399398Z",
+  "updated": "2026-09-24T00:50:04.399398759Z",
   "uploader": 97504
 }

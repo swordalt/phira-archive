@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-24T04:37:40Z",
-    "lastChanged": "2026-09-24T04:37:40Z",
-    "revisions": 1
+    "lastChanged": "2026-09-24T09:54:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-17T10:19:52.299810Z",
   "charter": "YZZ",
@@ -21,14 +21,14 @@
   "name": "アクマバライ",
   "preview": "https://phira.5wyxi.com/files/1a867947-8bb0-4f21-bb17-1075a796e869",
   "ranked": false,
-  "rating": 0.9190908,
-  "ratingCount": 19,
+  "rating": 0.94208425,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-24T00:52:23.620585Z",
+  "updated": "2026-09-24T00:52:23.620585749Z",
   "uploader": 141353
 }

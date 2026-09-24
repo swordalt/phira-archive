@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-24T09:54:45Z",
+    "lastChanged": "2026-09-24T09:54:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-24T05:19:55.537593Z",
+  "charter": "Opentaiko Chart Team (YSTAR-T)",
+  "composer": "xtkakeru & RachelTypeX",
+  "created": "2026-09-24T05:19:55.537593Z",
+  "description": "谱师本人上传\r\n全难度方向：底力\r\n目前难度 6.0/?/?\r\n物量 181\r\n定数 6.0",
+  "difficulty": 6.0,
+  "file": "https://phira.5wyxi.com/files/4f31f8a0-5f7c-49b4-b67f-ee1372d1d845",
+  "id": 78804,
+  "illustration": "https://phira.5wyxi.com/files/e0eddeef-14a8-4337-8516-26846d7b6c4b",
+  "illustrator": "roer",
+  "level": "EZ Lv.6",
+  "name": "Visionary",
+  "preview": "https://phira.5wyxi.com/files/842f2240-8f48-4d29-9f82-7abcac6a3549",
+  "ranked": false,
+  "rating": 0.8084857,
+  "ratingCount": 10,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Opentaiko",
+    "regular"
+  ],
+  "updated": "2026-09-24T06:57:26.859002Z",
+  "uploader": 1213694
+}
