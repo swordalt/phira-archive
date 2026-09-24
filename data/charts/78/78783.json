@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-24T09:54:45Z",
-    "lastChanged": "2026-09-24T09:54:45Z",
-    "revisions": 1
+    "lastChanged": "2026-09-24T14:57:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-24T00:59:59.047153Z",
   "charter": "LinYve feat.O.K.",
@@ -21,11 +21,11 @@
   "name": "419kB",
   "preview": "https://phira.5wyxi.com/files/b647d251-4617-4bc1-be77-5c2be57578ce",
   "ranked": false,
-  "rating": 0.74821544,
-  "ratingCount": 3,
-  "reviewed": true,
+  "rating": 0.87951106,
+  "ratingCount": 4,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

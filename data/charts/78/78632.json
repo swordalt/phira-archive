@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T08:50:25Z",
-    "lastChanged": "2026-09-21T08:50:25Z",
-    "revisions": 1
+    "lastChanged": "2026-09-24T14:57:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-21T07:31:35.173554Z",
   "charter": "あなたに花束を",
@@ -21,11 +21,11 @@
   "name": "花たちに希望を",
   "preview": "https://phira.5wyxi.com/files/73dc17a8-d60b-465a-a660-9fc5c4c398c0",
   "ranked": false,
-  "rating": 0.88649786,
-  "ratingCount": 9,
-  "reviewed": true,
+  "rating": 0.9429311,
+  "ratingCount": 276,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

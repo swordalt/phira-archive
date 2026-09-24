@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-24T09:54:45Z",
-    "lastChanged": "2026-09-24T09:54:45Z",
-    "revisions": 1
+    "lastChanged": "2026-09-24T14:57:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-24T07:52:02.425221Z",
   "charter": "X=STAR",
@@ -21,11 +21,11 @@
   "name": "SOC=0",
   "preview": "https://phira.5wyxi.com/files/4cce07c1-673b-4042-ac48-debe86ed37d4",
   "ranked": false,
-  "rating": 0.8423025,
-  "ratingCount": 5,
-  "reviewed": true,
+  "rating": 0.9354224,
+  "ratingCount": 15,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
