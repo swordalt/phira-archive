@@ -4,10 +4,10 @@
       "regular"
     ],
     "firstSeen": "2026-09-24T09:54:45Z",
-    "lastChanged": "2026-09-24T14:57:41Z",
-    "revisions": 2
+    "lastChanged": "2026-09-25T07:40:51Z",
+    "revisions": 3
   },
-  "chartUpdated": "2026-09-24T10:33:30.242717259Z",
+  "chartUpdated": "2026-09-24T10:33:30.242717Z",
   "charter": "Opentaiko Chart Team (YSTAR-T)",
   "composer": "xtkakeru & RachelTypeX",
   "created": "2026-09-24T05:19:55.537593Z",
@@ -21,8 +21,8 @@
   "name": "Visionary",
   "preview": "https://phira.5wyxi.com/files/48af8761-f62b-4c25-8352-f535d2ba54d2",
   "ranked": false,
-  "rating": 0.89893013,
-  "ratingCount": 13,
+  "rating": 0.9046772,
+  "ratingCount": 181,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "Opentaiko",
     "regular"
   ],
-  "updated": "2026-09-24T10:33:30.242717259Z",
+  "updated": "2026-09-24T10:33:30.242717Z",
   "uploader": 1213694
 }
