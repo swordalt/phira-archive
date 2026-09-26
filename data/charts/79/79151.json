@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-26T12:59:56Z",
+    "lastChanged": "2026-09-26T12:59:56Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-26T11:46:14.835254Z",
+  "charter": "星光下的我闪闪发光",
+  "composer": "Tectogen_海渊",
+  "created": "2026-09-26T11:46:14.835254Z",
+  "description": null,
+  "difficulty": 15.099999,
+  "file": "https://phira.5wyxi.com/files/50e5a329-baa3-4da3-8664-d10d530c2b51",
+  "id": 79151,
+  "illustration": "https://phira.5wyxi.com/files/75cf0d6a-b0da-48a8-9b28-8f234abbeb18",
+  "illustrator": "Tectogen_海渊",
+  "level": "IN Lv.15.1",
+  "name": "輝く星の夜",
+  "preview": "https://phira.5wyxi.com/files/5d623a6f-e9c7-4714-a684-29b2f1dd487c",
+  "ranked": false,
+  "rating": 0.89684695,
+  "ratingCount": 14,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-09-26T11:54:04.655363Z",
+  "uploader": 1719598
+}

@@ -1,0 +1,40 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-26T13:00:03Z",
+    "lastChanged": "2026-09-26T13:00:03Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-20T14:55:48.871938Z",
+  "charter": "HRS-Team",
+  "composer": "Zekk",
+  "created": "2026-09-20T14:55:48.871938Z",
+  "description": "HRS-16-Flow-练习曲",
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/dd5459e2-2478-4429-b8e6-ad1967eab038",
+  "id": 78605,
+  "illustration": "https://phira.5wyxi.com/files/4eab615a-7da9-4705-885c-d0dbad006802",
+  "illustrator": "",
+  "level": "Flow Lv.16",
+  "name": "フリーフォール",
+  "preview": "https://phira.5wyxi.com/files/79a599c6-f854-40fd-955e-38acf0f27895",
+  "ranked": false,
+  "rating": 0.76758695,
+  "ratingCount": 2,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "HRS",
+    "谐律段位",
+    "双指",
+    "Flow",
+    "幻",
+    "16",
+    "plain"
+  ],
+  "updated": "2026-09-26T09:38:17.292309Z",
+  "uploader": 4128610
+}
