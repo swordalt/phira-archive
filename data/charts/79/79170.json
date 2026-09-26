@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-26T17:05:29Z",
-    "lastChanged": "2026-09-26T17:05:29Z",
-    "revisions": 1
+    "lastChanged": "2026-09-26T19:48:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-26T13:32:26.394421Z",
   "charter": "YSTAR-TTTTTTTTTT",
@@ -21,8 +21,8 @@
   "name": "I WANT TO BL00000000M",
   "preview": "https://phira.5wyxi.com/files/87638618-a49c-410c-a4d2-ddc8c8978335",
   "ranked": false,
-  "rating": 0.85275257,
-  "ratingCount": 10,
+  "rating": 0.8456503,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "Opentaiko",
     "regular"
   ],
-  "updated": "2026-09-26T13:36:16.173684Z",
+  "updated": "2026-09-26T13:36:16.173684983Z",
   "uploader": 1213694
 }
