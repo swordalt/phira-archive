@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-26T13:00:03Z",
-    "lastChanged": "2026-09-26T13:00:03Z",
-    "revisions": 1
+    "lastChanged": "2026-09-26T17:05:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-26T09:27:13.582680Z",
   "charter": "HRS-Team",
@@ -21,8 +21,8 @@
   "name": "タンポポ劇場",
   "preview": "https://phira.5wyxi.com/files/488466f7-8e95-4e1b-8857-9177308e6dbb",
   "ranked": false,
-  "rating": 0.8423025,
-  "ratingCount": 5,
+  "rating": 0.8555092,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -35,6 +35,6 @@
     "11",
     "plain"
   ],
-  "updated": "2026-09-26T09:42:54.016474Z",
+  "updated": "2026-09-26T09:42:54.016474084Z",
   "uploader": 4128610
 }

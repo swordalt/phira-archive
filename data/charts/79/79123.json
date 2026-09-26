@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-26T13:00:03Z",
-    "lastChanged": "2026-09-26T13:00:03Z",
-    "revisions": 1
+    "lastChanged": "2026-09-26T17:05:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-26T09:22:59.268515Z",
   "charter": "HRS-Team",
@@ -21,8 +21,8 @@
   "name": "Archidoxen",
   "preview": "https://phira.5wyxi.com/files/dfef464e-21ff-4c12-86db-113a4d5e688d",
   "ranked": false,
-  "rating": 0.7803841,
-  "ratingCount": 2,
+  "rating": 0.80656886,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -35,6 +35,6 @@
     "16",
     "plain"
   ],
-  "updated": "2026-09-26T09:42:33.936474Z",
+  "updated": "2026-09-26T09:42:33.936474480Z",
   "uploader": 4128610
 }
