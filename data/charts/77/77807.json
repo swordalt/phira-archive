@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:16Z",
-    "lastChanged": "2026-09-21T02:05:16Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-12T04:01:51.759855Z",
   "charter": "烨烁P/冰轩P",
@@ -21,11 +21,11 @@
   "name": "反乌托邦+拼接遗憾",
   "preview": "https://phira.5wyxi.com/files/68d93704-c97c-4239-a649-02253d456ea0",
   "ranked": false,
-  "rating": 0.92916024,
-  "ratingCount": 4509,
-  "reviewed": true,
+  "rating": 0.92883605,
+  "ratingCount": 5908,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "洛天依",
     "反乌托邦",

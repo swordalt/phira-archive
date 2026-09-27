@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:07Z",
-    "lastChanged": "2026-09-21T02:05:07Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-10T03:46:57.601042Z",
   "charter": "旅航",
@@ -21,11 +21,11 @@
   "name": "抜錨（ウォルピスカーター cover.)",
   "preview": "https://phira.5wyxi.com/files/08ce82fc-c4c7-43d0-a448-dfb358135536",
   "ranked": false,
-  "rating": 0.90733474,
-  "ratingCount": 221,
-  "reviewed": false,
+  "rating": 0.90852684,
+  "ratingCount": 222,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

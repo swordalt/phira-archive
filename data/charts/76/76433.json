@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-27T08:02:17Z",
-    "lastChanged": "2026-09-27T08:02:17Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-29T13:55:42.781046Z",
   "charter": "16のBluCrys vs. StarryNight",
@@ -21,8 +21,8 @@
   "name": "Imprisoned XII",
   "preview": "https://phira.5wyxi.com/files/c4b53302-3873-4b2e-8574-3ad8208822bd",
   "ranked": false,
-  "rating": 0.7482895,
-  "ratingCount": 1,
+  "rating": 0.74821544,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "bangdream",
     "regular"
   ],
-  "updated": "2026-09-27T07:31:42.336396Z",
+  "updated": "2026-09-27T07:31:42.336396526Z",
   "uploader": 1601939
 }

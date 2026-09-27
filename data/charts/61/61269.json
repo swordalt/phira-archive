@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:49Z",
-    "lastChanged": "2026-09-21T02:04:49Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:15:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-04T10:31:09.964878Z",
   "charter": "MelonCat",
@@ -21,11 +21,11 @@
   "name": "J. K.",
   "preview": "https://phira.5wyxi.com/files/eca755d9-8cf1-4798-8302-2df0e669b36d",
   "ranked": false,
-  "rating": 0.8458065,
-  "ratingCount": 2596,
-  "reviewed": true,
+  "rating": 0.8465683,
+  "ratingCount": 2602,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

@@ -1,25 +1,26 @@
 {
   "_archive": {
     "divisions": [
-      "plain"
+      "plain",
+      "regular"
     ],
     "firstSeen": "2026-09-21T02:06:40Z",
-    "lastChanged": "2026-09-21T02:06:40Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:14:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-03T03:40:13.012768Z",
   "charter": "hongguangguang",
   "composer": "tRee/nekokandzume",
   "created": "2025-11-03T03:40:13.012768Z",
-  "description": "难的\n\n\n话说有没有人可以拿这玩意写个常规谱🤔\n\n改了点bug，搞丢各位成绩真的很抱歉",
+  "description": "难的\n\n\n话说有没有人可以拿这玩意写个常规谱🤔\n\n改了点bug，搞丢各位成绩真的很抱歉\n这谱好冷啊，炒一下",
   "difficulty": 10.0,
-  "file": "https://phira.5wyxi.com/files/73aa8eca-7987-4cef-b051-b601381030f7",
+  "file": "https://phira.5wyxi.com/files/e05afd08-6293-4ac9-b58e-9d235009a5bf",
   "id": 48743,
-  "illustration": "https://phira.5wyxi.com/files/81cbab49-4655-4894-8784-165a0f2543b6",
+  "illustration": "https://phira.5wyxi.com/files/96640b64-9a2b-4313-a57e-7942a84ff6f7",
   "illustrator": "",
   "level": "4K lv.mujika",
   "name": "Ave Mujica (tRee & nekokandzume Bootleg)",
-  "preview": "https://phira.5wyxi.com/files/6da853bc-5393-4655-8a92-f3b479272004",
+  "preview": "https://phira.5wyxi.com/files/2ee27885-7d9b-4576-9236-1a7a6169f2e3",
   "ranked": false,
   "rating": 0.898401,
   "ratingCount": 19,
@@ -27,8 +28,8 @@
   "stable": false,
   "stableRequest": false,
   "tags": [
-    "plain"
+    "regular"
   ],
-  "updated": "2025-11-03T03:40:13.012768Z",
+  "updated": "2026-09-27T07:05:56.812602524Z",
   "uploader": 6275
 }

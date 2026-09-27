@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:15Z",
-    "lastChanged": "2026-09-21T02:05:15Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-06T14:57:44.176136Z",
   "charter": "Lux",
@@ -23,9 +23,9 @@
   "ranked": false,
   "rating": 0.8541252,
   "ratingCount": 18,
-  "reviewed": false,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:07Z",
-    "lastChanged": "2026-09-21T02:06:07Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:17:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-05T12:01:11.047775Z",
   "charter": "ShaShen4404",
@@ -21,11 +21,11 @@
   "name": "Straight into the lights",
   "preview": "https://phira.5wyxi.com/files/a12871e2-0792-402e-84ca-e8a9e1080fad",
   "ranked": false,
-  "rating": 0.94402856,
-  "ratingCount": 203,
-  "reviewed": true,
+  "rating": 0.9434208,
+  "ratingCount": 206,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "plain"
   ],

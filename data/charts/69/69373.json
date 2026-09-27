@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:02Z",
-    "lastChanged": "2026-09-21T02:05:02Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-26T14:07:41.187020Z",
   "charter": "wzjcsndm",
@@ -21,11 +21,11 @@
   "name": "The King（End）",
   "preview": "https://phira.5wyxi.com/files/265c7312-b756-4f19-a748-69811f22b850",
   "ranked": false,
-  "rating": 0.90359366,
-  "ratingCount": 279,
-  "reviewed": false,
+  "rating": 0.9050437,
+  "ratingCount": 282,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

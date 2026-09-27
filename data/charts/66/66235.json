@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:58Z",
-    "lastChanged": "2026-09-21T02:04:58Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:15:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-13T11:08:34.288847Z",
   "charter": "Linze",
@@ -21,11 +21,11 @@
   "name": "LINK x LIN#S",
   "preview": "https://phira.5wyxi.com/files/2b808a17-8d9d-4cbe-b55a-a2e9dfb40f5e",
   "ranked": false,
-  "rating": 0.8983841,
+  "rating": 0.90225524,
   "ratingCount": 47,
-  "reviewed": true,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

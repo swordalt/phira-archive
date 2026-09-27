@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:49Z",
-    "lastChanged": "2026-09-21T02:04:49Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:15:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-14T06:16:04.129083Z",
   "charter": "Open The Ray",
@@ -21,11 +21,11 @@
   "name": "Open The Gate",
   "preview": "https://phira.5wyxi.com/files/ba5ee5eb-0e6e-4bce-996a-ef99604a7956",
   "ranked": false,
-  "rating": 0.8483583,
-  "ratingCount": 126,
-  "reviewed": false,
+  "rating": 0.85070777,
+  "ratingCount": 128,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "双指",
     "regular"

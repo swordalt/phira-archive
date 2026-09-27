@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:08Z",
-    "lastChanged": "2026-09-21T02:05:08Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-13T14:16:56.825153Z",
   "charter": "twotthrees·K",
@@ -21,11 +21,11 @@
   "name": "Milky Way Galaxy",
   "preview": "https://phira.5wyxi.com/files/967506fa-9dc4-4557-9020-e2b038a9bf6d",
   "ranked": false,
-  "rating": 0.91082895,
-  "ratingCount": 212,
+  "rating": 0.9117968,
+  "ratingCount": 214,
   "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

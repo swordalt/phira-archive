@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-27T08:02:17Z",
-    "lastChanged": "2026-09-27T08:02:17Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-25T13:02:40.145295Z",
   "charter": "吧唧吧唧吧33",
@@ -21,7 +21,7 @@
   "name": "倒影回廊",
   "preview": "https://phira.5wyxi.com/files/44a029dd-af1a-40c6-9c88-5f13b0f32084",
   "ranked": false,
-  "rating": null,
+  "rating": 0.68795294,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -29,6 +29,6 @@
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-27T07:20:06.461041Z",
+  "updated": "2026-09-27T07:20:06.461041514Z",
   "uploader": 1106777
 }

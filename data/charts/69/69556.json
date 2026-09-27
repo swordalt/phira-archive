@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:03Z",
-    "lastChanged": "2026-09-21T02:05:03Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-27T16:20:23.061633Z",
   "charter": "First Step",
@@ -21,11 +21,11 @@
   "name": "ここから、ここから",
   "preview": "https://phira.5wyxi.com/files/5fad23d5-6ea8-45ed-af7d-1dc4a83df39c",
   "ranked": false,
-  "rating": 0.9112675,
-  "ratingCount": 126,
+  "rating": 0.9091238,
+  "ratingCount": 129,
   "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "反手",
     "协调",

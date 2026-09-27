@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-27T10:16:14Z",
+    "lastChanged": "2026-09-27T10:16:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-19T02:12:50.931466Z",
+  "charter": "vzll",
+  "composer": "404Hz",
+  "created": "2026-08-19T02:12:50.931466Z",
+  "description": null,
+  "difficulty": 15.3,
+  "file": "https://phira.5wyxi.com/files/02f568b4-ad2e-475c-b155-8d9eeb1cb977",
+  "id": 74278,
+  "illustration": "https://phira.5wyxi.com/files/f6e875df-42a3-40a0-844d-62e634c77de7",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Contempt",
+  "preview": "https://phira.5wyxi.com/files/d8a93aef-bad7-46c6-84d8-385801bc59b8",
+  "ranked": false,
+  "rating": 0.81567323,
+  "ratingCount": 0,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-09-27T08:29:03.602252096Z",
+  "uploader": 3623747
+}

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:05Z",
-    "lastChanged": "2026-09-21T02:05:05Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-06T06:03:02.061180Z",
   "charter": "How To Make 真菌",
@@ -21,11 +21,11 @@
   "name": "How To Make 音ゲ～曲！",
   "preview": "https://phira.5wyxi.com/files/e95de463-698e-40a0-9fa7-fde283abda49",
   "ranked": false,
-  "rating": 0.90312076,
-  "ratingCount": 355,
-  "reviewed": true,
+  "rating": 0.90177196,
+  "ratingCount": 359,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

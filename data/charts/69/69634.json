@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:03Z",
-    "lastChanged": "2026-09-21T02:05:03Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-28T05:30:17.510311Z",
   "charter": "Neko",
@@ -21,11 +21,11 @@
   "name": "2021年の魔法使いたち",
   "preview": "https://phira.5wyxi.com/files/e64049ab-f26a-47a9-97c3-9c30005d5203",
   "ranked": false,
-  "rating": 0.9201555,
-  "ratingCount": 275,
-  "reviewed": false,
+  "rating": 0.920865,
+  "ratingCount": 276,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

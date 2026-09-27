@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:45Z",
-    "lastChanged": "2026-09-21T02:04:45Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:15:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-20T12:58:37.864295Z",
   "charter": "SHS Downloader",
@@ -21,11 +21,11 @@
   "name": "Future Downloader",
   "preview": "https://phira.5wyxi.com/files/01c083f1-6447-47cd-942a-4b32e77d9bc3",
   "ranked": false,
-  "rating": 0.951227,
-  "ratingCount": 872,
-  "reviewed": true,
+  "rating": 0.9518288,
+  "ratingCount": 876,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

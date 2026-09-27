@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:09Z",
-    "lastChanged": "2026-09-21T02:05:09Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-14T11:06:32.229705Z",
   "charter": "Shun",
@@ -21,11 +21,11 @@
   "name": "One Forgotten Night",
   "preview": "https://phira.5wyxi.com/files/5cd91fb9-b3a0-4756-af59-2ca93fd76312",
   "ranked": false,
-  "rating": 0.8644954,
-  "ratingCount": 72,
-  "reviewed": false,
+  "rating": 0.8667279,
+  "ratingCount": 74,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "冰与火之舞",
     "一个被遗忘的夜晚",

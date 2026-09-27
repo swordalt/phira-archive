@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:31Z",
-    "lastChanged": "2026-09-21T02:04:31Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:15:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-28T13:10:20.020751Z",
   "charter": "谱師",
@@ -20,12 +20,12 @@
   "level": "IN Lv.15",
   "name": "♥×♥",
   "preview": "https://phira.5wyxi.com/files/d176512a-31e2-4313-aca1-9fcde291051b",
-  "ranked": false,
-  "rating": 0.89237607,
-  "ratingCount": 491,
-  "reviewed": false,
-  "stable": false,
-  "stableRequest": true,
+  "ranked": true,
+  "rating": 0.89067245,
+  "ratingCount": 492,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

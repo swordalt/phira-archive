@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:58Z",
-    "lastChanged": "2026-09-21T02:06:58Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:18:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-21T06:50:22.835067Z",
   "charter": "YMEA",
@@ -21,11 +21,11 @@
   "name": "月か綺麗ねと言われたい！",
   "preview": "https://phira.5wyxi.com/files/6d9f3ab3-f17d-445a-a3cc-25bbd0115f31",
   "ranked": false,
-  "rating": 0.9640746,
-  "ratingCount": 736,
-  "reviewed": false,
+  "rating": 0.96407706,
+  "ratingCount": 753,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "plain"
   ],

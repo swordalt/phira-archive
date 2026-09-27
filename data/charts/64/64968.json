@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:55Z",
-    "lastChanged": "2026-09-21T02:04:55Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:15:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-08T10:34:53.909965Z",
   "charter": "DesRemuci（配置）&溪旭（表演动效）",
@@ -21,11 +21,11 @@
   "name": "100%",
   "preview": "https://phira.5wyxi.com/files/49529bb1-d0ec-4a0d-9ca8-9731909d94f3",
   "ranked": false,
-  "rating": 0.9088668,
-  "ratingCount": 415,
+  "rating": 0.9092441,
+  "ratingCount": 416,
   "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "多指",
     "regular"

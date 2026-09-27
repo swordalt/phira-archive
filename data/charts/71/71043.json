@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-27T08:02:17Z",
-    "lastChanged": "2026-09-27T08:02:17Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-03T18:14:21.994166Z",
   "charter": "Kyursure & Dinagmicy",
@@ -21,14 +21,14 @@
   "name": "Bounce",
   "preview": "https://phira.5wyxi.com/files/cf538328-3dd0-41c6-9c06-6f94bc89ac0b",
   "ranked": false,
-  "rating": 0.7482895,
-  "ratingCount": 1,
+  "rating": 0.84333926,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-27T07:26:16.859304Z",
+  "updated": "2026-09-27T07:26:16.859304336Z",
   "uploader": 2860837
 }

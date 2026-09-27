@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:57Z",
-    "lastChanged": "2026-09-21T02:03:57Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:14:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-18T08:44:56.925688Z",
   "charter": "点.n1ght",
@@ -21,11 +21,11 @@
   "name": "点.mp4",
   "preview": "https://phira.5wyxi.com/files/f0fb5762-225b-40c7-878e-19b10eda2b3c",
   "ranked": false,
-  "rating": 0.91934526,
+  "rating": 0.9192232,
   "ratingCount": 485,
-  "reviewed": false,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

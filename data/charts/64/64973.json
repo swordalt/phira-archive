@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:55Z",
-    "lastChanged": "2026-09-21T02:04:55Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:15:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-08T10:53:48.087308Z",
   "charter": "Nyiounaid",
@@ -21,11 +21,11 @@
   "name": "Hypernaid",
   "preview": "https://phira.5wyxi.com/files/dbace1f4-f8bb-402b-aacb-5090407e77dd",
   "ranked": false,
-  "rating": 0.9096992,
-  "ratingCount": 499,
+  "rating": 0.9098424,
+  "ratingCount": 500,
   "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "DJMAX",
     "KATOMORI",

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:59Z",
-    "lastChanged": "2026-09-21T02:06:59Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:18:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-30T16:26:45.170094Z",
   "charter": "Uvie Ver.3",
@@ -21,11 +21,11 @@
   "name": "Starborn of the 3rd Throne",
   "preview": "https://phira.5wyxi.com/files/83bbb155-016c-495e-902f-d939a8aba4c3",
   "ranked": false,
-  "rating": 0.9483338,
+  "rating": 0.94654375,
   "ratingCount": 214,
-  "reviewed": false,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "plain"
   ],

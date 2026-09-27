@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:17Z",
-    "lastChanged": "2026-09-21T02:05:17Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-13T03:20:02.291166Z",
   "charter": "sxdll",
@@ -21,11 +21,11 @@
   "name": "Archidoxen",
   "preview": "https://phira.5wyxi.com/files/21417932-7cb1-42ae-ad6e-463cd4db7733",
   "ranked": false,
-  "rating": 0.80020773,
-  "ratingCount": 144,
-  "reviewed": true,
+  "rating": 0.81862974,
+  "ratingCount": 167,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:53Z",
-    "lastChanged": "2026-09-21T02:04:53Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:15:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-30T11:33:55.210556Z",
   "charter": "小球",
@@ -21,11 +21,11 @@
   "name": "shop",
   "preview": "https://phira.5wyxi.com/files/076afe03-bd62-46cf-98f2-8cc021a26e57",
   "ranked": false,
-  "rating": 0.93103075,
-  "ratingCount": 655,
-  "reviewed": true,
+  "rating": 0.9308834,
+  "ratingCount": 658,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

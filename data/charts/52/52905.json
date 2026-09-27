@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-27T08:02:44Z",
-    "lastChanged": "2026-09-27T08:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:18:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-18T10:10:54.692480Z",
   "charter": "肆肆",
@@ -21,7 +21,7 @@
   "name": "だんだん早くなる  LV.12",
   "preview": "https://phira.5wyxi.com/files/1304137c-b314-4610-b18e-0fdc0889f344",
   "ranked": false,
-  "rating": null,
+  "rating": 0.68442184,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -29,6 +29,6 @@
   "tags": [
     "plain"
   ],
-  "updated": "2026-09-27T07:08:26.687423Z",
+  "updated": "2026-09-27T07:08:26.687423952Z",
   "uploader": 508753
 }

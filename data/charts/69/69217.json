@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-27T08:02:17Z",
-    "lastChanged": "2026-09-27T08:02:17Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-26T02:18:15.856434Z",
   "charter": "Luminast-037",
@@ -21,14 +21,14 @@
   "name": "lifeline",
   "preview": "https://phira.5wyxi.com/files/013cbc6f-44bb-4003-8a54-036174f38271",
   "ranked": false,
-  "rating": 0.7803841,
-  "ratingCount": 2,
+  "rating": 0.8761231,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-27T07:20:29.474062Z",
+  "updated": "2026-09-27T07:20:29.474062281Z",
   "uploader": 1236056
 }

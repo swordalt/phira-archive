@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:15Z",
-    "lastChanged": "2026-09-21T02:05:15Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-07T11:58:15.323977Z",
   "charter": "Izuminohara",
@@ -21,11 +21,11 @@
   "name": "クロマの幻聴",
   "preview": "https://phira.5wyxi.com/files/8a1ca695-84b6-4a21-a8f1-27a426309b46",
   "ranked": false,
-  "rating": 0.89889014,
-  "ratingCount": 141,
-  "reviewed": false,
+  "rating": 0.90477926,
+  "ratingCount": 151,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

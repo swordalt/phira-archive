@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:15Z",
-    "lastChanged": "2026-09-21T02:05:15Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-07T05:09:52.160067Z",
   "charter": "NintyKeven",
@@ -21,11 +21,11 @@
   "name": "六兆年と一夜物語",
   "preview": "https://phira.5wyxi.com/files/919f5572-1c1e-45de-a40f-f81b65fe84d3",
   "ranked": false,
-  "rating": 0.8931591,
-  "ratingCount": 335,
-  "reviewed": true,
+  "rating": 0.89077336,
+  "ratingCount": 366,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

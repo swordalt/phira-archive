@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:08Z",
-    "lastChanged": "2026-09-21T02:05:08Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-12T10:08:55.610769Z",
   "charter": "Firsna",
@@ -21,11 +21,11 @@
   "name": "Raindrop",
   "preview": "https://phira.5wyxi.com/files/97720608-7e31-40fa-ac8a-301efb81f79f",
   "ranked": false,
-  "rating": 0.8955308,
-  "ratingCount": 164,
-  "reviewed": false,
+  "rating": 0.8962505,
+  "ratingCount": 166,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

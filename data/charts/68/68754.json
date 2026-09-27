@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-27T10:16:04Z",
+    "lastChanged": "2026-09-27T10:16:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-23T17:26:13.005448Z",
+  "charter": "小黑",
+  "composer": "USAO",
+  "created": "2026-07-23T17:26:13.005448Z",
+  "description": "重制版\n可能有点初见杀",
+  "difficulty": 16.800003,
+  "file": "https://phira.5wyxi.com/files/d8cc8ca7-9432-4379-8a7e-57086dd9e06d",
+  "id": 68754,
+  "illustration": "https://phira.5wyxi.com/files/281471ec-2c6f-4851-aa0c-c2bcb4778fb5",
+  "illustrator": "",
+  "level": "AT16",
+  "name": "climax",
+  "preview": "https://phira.5wyxi.com/files/0d45f546-befa-444b-9b78-fce88af28d07",
+  "ranked": false,
+  "rating": 0.7919574,
+  "ratingCount": 0,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-09-27T07:19:49.519268210Z",
+  "uploader": 161559
+}

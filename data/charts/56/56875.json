@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:38Z",
-    "lastChanged": "2026-09-21T02:04:38Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:15:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-21T10:07:56.642246Z",
   "charter": "秀才杨是真的show",
@@ -23,9 +23,9 @@
   "ranked": false,
   "rating": 0.8019451,
   "ratingCount": 7,
-  "reviewed": true,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:59Z",
-    "lastChanged": "2026-09-21T02:04:59Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-16T05:27:35.592659Z",
   "charter": "进化",
@@ -21,11 +21,11 @@
   "name": "如果呢",
   "preview": "https://phira.5wyxi.com/files/e88af8a6-ea36-4365-ac5e-d46fef6cfb52",
   "ranked": false,
-  "rating": 0.85696775,
-  "ratingCount": 2254,
-  "reviewed": false,
+  "rating": 0.85818946,
+  "ratingCount": 2360,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

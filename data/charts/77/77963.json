@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:17Z",
-    "lastChanged": "2026-09-21T02:05:17Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-13T01:40:41.987247Z",
   "charter": "_ _ _",
@@ -21,11 +21,11 @@
   "name": "Limen",
   "preview": "https://phira.5wyxi.com/files/0e01f796-f2ff-486a-b2cc-5d1aea59c079",
   "ranked": false,
-  "rating": 0.95693064,
-  "ratingCount": 94,
-  "reviewed": false,
+  "rating": 0.952812,
+  "ratingCount": 120,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

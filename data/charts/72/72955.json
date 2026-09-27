@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:08Z",
-    "lastChanged": "2026-09-21T02:05:08Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-12T14:03:14.880507Z",
   "charter": "小黑miau",
@@ -21,11 +21,11 @@
   "name": "スプリットダンス",
   "preview": "https://phira.5wyxi.com/files/6e306092-3392-4480-870f-3b42b8f8af6a",
   "ranked": false,
-  "rating": 0.91762537,
-  "ratingCount": 1655,
-  "reviewed": false,
+  "rating": 0.9162681,
+  "ratingCount": 1691,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

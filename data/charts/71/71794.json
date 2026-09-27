@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-27T08:02:17Z",
-    "lastChanged": "2026-09-27T08:02:17Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-07T04:31:35.678873Z",
   "charter": "牢杜鹃31",
@@ -21,7 +21,7 @@
   "name": "The Samsara",
   "preview": "https://phira.5wyxi.com/files/0c177d83-6c4e-4dc5-ab6d-0684df0ba719",
   "ranked": false,
-  "rating": null,
+  "rating": 0.68795294,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -29,6 +29,6 @@
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-27T07:27:30.344193Z",
+  "updated": "2026-09-27T07:27:30.344193449Z",
   "uploader": 2741365
 }

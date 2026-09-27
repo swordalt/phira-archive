@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-27T08:02:44Z",
-    "lastChanged": "2026-09-27T08:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:18:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-07T09:57:53.956381Z",
   "charter": "wym",
@@ -21,7 +21,7 @@
   "name": "十拳剣",
   "preview": "https://phira.5wyxi.com/files/cfa0c69a-2b53-4500-a530-da3eba917124",
   "ranked": false,
-  "rating": null,
+  "rating": 0.79426795,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -31,6 +31,6 @@
     "双指",
     "plain"
   ],
-  "updated": "2026-09-27T07:27:51.359137Z",
+  "updated": "2026-09-27T07:27:51.359137980Z",
   "uploader": 1367982
 }

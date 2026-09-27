@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:00Z",
-    "lastChanged": "2026-09-21T02:07:00Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:18:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-09T08:38:00.948937Z",
   "charter": "YMEA",
@@ -21,11 +21,11 @@
   "name": "GOODWORLD",
   "preview": "https://phira.5wyxi.com/files/b55de44b-59bc-4f84-85e5-f51630a705ed",
   "ranked": false,
-  "rating": 0.91825837,
-  "ratingCount": 621,
-  "reviewed": false,
+  "rating": 0.9197051,
+  "ratingCount": 627,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "plain"
   ],

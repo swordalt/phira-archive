@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:04Z",
-    "lastChanged": "2026-09-21T02:05:04Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-31T07:10:06.057466Z",
   "charter": "是月亮呀/.",
@@ -21,11 +21,11 @@
   "name": "爱情讯息",
   "preview": "https://phira.5wyxi.com/files/31d3d614-26a5-4b5f-841f-bcc60e451d7c",
   "ranked": false,
-  "rating": 0.9323648,
-  "ratingCount": 13895,
-  "reviewed": false,
+  "rating": 0.9328815,
+  "ratingCount": 14117,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

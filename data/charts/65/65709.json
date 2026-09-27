@@ -4,31 +4,31 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:57Z",
-    "lastChanged": "2026-09-21T02:04:57Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:15:57Z",
+    "revisions": 2
   },
-  "chartUpdated": "2026-07-11T13:10:56.262617Z",
+  "chartUpdated": "2026-09-27T07:17:03.171415596Z",
   "charter": "Miny7",
   "composer": "Aiss vs. Abit",
   "created": "2026-07-11T13:10:56.262617Z",
   "description": null,
   "difficulty": 16.0,
-  "file": "https://phira.5wyxi.com/files/8fd33e00-a2f7-4936-a02b-9d3145f45d46",
+  "file": "https://phira.5wyxi.com/files/c67976d5-6848-4ea4-8ade-b135a77e444a",
   "id": 65709,
-  "illustration": "https://phira.5wyxi.com/files/95f98a06-c664-4947-b0c6-79e1164153af",
+  "illustration": "https://phira.5wyxi.com/files/356f13a5-5636-4ca5-a4ad-62534425fc19",
   "illustrator": "",
   "level": "AT Lv.16",
   "name": "Regnaissance",
-  "preview": "https://phira.5wyxi.com/files/12768d50-b12b-44bd-8656-33c34e44c5d8",
+  "preview": "https://phira.5wyxi.com/files/775bfb85-3e84-42e6-ba81-6ac549ad5c0b",
   "ranked": false,
-  "rating": 0.8021643,
-  "ratingCount": 16,
+  "rating": 0.77542293,
+  "ratingCount": 17,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-11T13:10:56.262617Z",
+  "updated": "2026-09-27T07:17:03.171415596Z",
   "uploader": 1568967
 }

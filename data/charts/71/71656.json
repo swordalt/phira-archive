@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:05Z",
-    "lastChanged": "2026-09-21T02:05:05Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-06T10:10:28.120573Z",
   "charter": "Ren.Chen vs RC_0035 vs RC00_2^4 vs 希然与安",
@@ -21,11 +21,11 @@
   "name": "KING",
   "preview": "https://phira.5wyxi.com/files/4d45dde2-0adb-476a-939c-238fefbb2f53",
   "ranked": false,
-  "rating": 0.94223344,
-  "ratingCount": 3205,
-  "reviewed": false,
+  "rating": 0.94261086,
+  "ratingCount": 3225,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

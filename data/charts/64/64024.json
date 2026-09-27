@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:55Z",
-    "lastChanged": "2026-09-21T02:04:55Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:15:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-04T12:17:50.552817Z",
   "charter": "Marvelous Future",
@@ -25,7 +25,7 @@
   "ratingCount": 206,
   "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

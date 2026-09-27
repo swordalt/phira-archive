@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:07Z",
-    "lastChanged": "2026-09-21T02:05:07Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-12T10:04:18.017510Z",
   "charter": "绿龙&Portlain",
@@ -21,11 +21,11 @@
   "name": "Pre-STAR",
   "preview": "https://phira.5wyxi.com/files/bdef2792-a93e-4272-ab68-ffc7776f3fe1",
   "ranked": false,
-  "rating": 0.93226385,
-  "ratingCount": 73,
-  "reviewed": false,
+  "rating": 0.933991,
+  "ratingCount": 74,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

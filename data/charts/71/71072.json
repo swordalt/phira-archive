@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-27T08:02:17Z",
-    "lastChanged": "2026-09-27T08:02:17Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-04T03:39:50.896089Z",
   "charter": "沃剥叒",
@@ -21,7 +21,7 @@
   "name": "A Brighter Day",
   "preview": "https://phira.5wyxi.com/files/2fc0fc8e-ed96-4eb6-8719-a397fc439b33",
   "ranked": false,
-  "rating": null,
+  "rating": 0.70769215,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -29,6 +29,6 @@
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-27T07:26:47.724102Z",
+  "updated": "2026-09-27T07:26:47.724102030Z",
   "uploader": 3150402
 }

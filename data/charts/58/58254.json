@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-27T08:02:44Z",
-    "lastChanged": "2026-09-27T08:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:18:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-12T07:08:46.864050Z",
   "charter": "Nishuodeduidui",
@@ -21,7 +21,7 @@
   "name": "せいかいら_____がきえるとき",
   "preview": "https://phira.5wyxi.com/files/49497b22-ba6b-4608-8e4f-b07aca0c654b",
   "ranked": false,
-  "rating": null,
+  "rating": 0.6531077,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -29,6 +29,6 @@
   "tags": [
     "plain"
   ],
-  "updated": "2026-09-27T07:14:11.887193Z",
+  "updated": "2026-09-27T07:14:11.887193231Z",
   "uploader": 569560
 }

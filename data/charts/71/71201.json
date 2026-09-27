@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:05Z",
-    "lastChanged": "2026-09-21T02:05:05Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-04T12:28:38.093522Z",
   "charter": "SnugleKutz",
@@ -21,11 +21,11 @@
   "name": "Immaculate",
   "preview": "https://phira.5wyxi.com/files/3fe904c8-c78e-478e-a339-508e86c89858",
   "ranked": false,
-  "rating": 0.6648055,
-  "ratingCount": 9,
-  "reviewed": true,
+  "rating": 0.7071992,
+  "ratingCount": 11,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

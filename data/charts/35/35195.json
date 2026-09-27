@@ -4,31 +4,31 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:07Z",
-    "lastChanged": "2026-09-21T02:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:13:49Z",
+    "revisions": 2
   },
-  "chartUpdated": "2026-06-11T06:24:16.806119Z",
+  "chartUpdated": "2026-09-27T07:15:54.685529060Z",
   "charter": "FSK ~melodies of memories~",
   "composer": "ああああ",
   "created": "2025-03-14T12:21:23.139370Z",
-  "description": "谱面信息\n曲名：rainbow\n曲师：ああああ\n等级：IN Lv.13.3\nBPM：199\n物量：653\n事件：3300+\nTotal Lines：24\n视频链接：BV1zHRhYhEUY\n本人上传，欢迎大佬指教！",
-  "difficulty": 13.300001,
-  "file": "https://phira.5wyxi.com/files/41517a40-8574-4104-89a2-1d7279ec5b0c",
+  "description": "谱面信息\n曲名：rainbow\n曲师：ああああ\n等级：IN Lv.13.7\nBPM：199\n物量：747\n事件：3300+\nTotal Lines：24\n视频链接：BV1zHRhYhEUY\n本人上传，欢迎大佬指教！",
+  "difficulty": 13.700003,
+  "file": "https://phira.5wyxi.com/files/9ecb91ea-2cac-43ff-831b-ccfefb772d35",
   "id": 35195,
-  "illustration": "https://phira.5wyxi.com/files/6a7a033c-fdad-4859-9f08-fa0b896b2d39",
+  "illustration": "https://phira.5wyxi.com/files/00f65611-c197-4c50-a9be-1f3363fe7ed6",
   "illustrator": "",
   "level": "IN Lv.13",
   "name": "rainbow",
-  "preview": "https://phira.5wyxi.com/files/fc8aa49c-366f-4b12-b49a-8cbb970a8606",
+  "preview": "https://phira.5wyxi.com/files/f824fcd6-9cc0-4bd1-98c9-16b3efc0c074",
   "ranked": false,
-  "rating": 0.91328543,
-  "ratingCount": 649,
+  "rating": 0.9140482,
+  "ratingCount": 653,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-06-11T06:24:16.806119Z",
+  "updated": "2026-09-27T07:15:54.685529060Z",
   "uploader": 257533
 }

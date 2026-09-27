@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-27T08:02:44Z",
-    "lastChanged": "2026-09-27T08:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:18:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-30T18:15:58.773548Z",
   "charter": "LivesausE",
@@ -21,7 +21,7 @@
   "name": "飃流飃零",
   "preview": "https://phira.5wyxi.com/files/e6d10906-35ac-4fd0-810a-16500fd2e20f",
   "ranked": false,
-  "rating": null,
+  "rating": 0.755949,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -29,6 +29,6 @@
   "tags": [
     "plain"
   ],
-  "updated": "2026-09-27T07:12:10.905224Z",
+  "updated": "2026-09-27T07:12:10.905224882Z",
   "uploader": 1256584
 }

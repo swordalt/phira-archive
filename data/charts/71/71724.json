@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:00Z",
-    "lastChanged": "2026-09-21T02:07:00Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:18:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-06T15:21:59.485632Z",
   "charter": "WiZerr",
@@ -21,11 +21,11 @@
   "name": "Guardian of The Former Seas",
   "preview": "https://phira.5wyxi.com/files/6e86cd59-c4b7-45f3-98dd-c2b5e2ce2fca",
   "ranked": false,
-  "rating": 0.9143494,
-  "ratingCount": 45,
-  "reviewed": false,
+  "rating": 0.9188452,
+  "ratingCount": 48,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "Calamity",
     "plain"

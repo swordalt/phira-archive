@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-27T10:16:12Z",
+    "lastChanged": "2026-09-27T10:16:12Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-15T09:10:04.645349Z",
+  "charter": "Rrvit",
+  "composer": "livetune/初音ミク",
+  "created": "2026-08-15T09:10:04.645349Z",
+  "description": "推荐使用大设备，2到4人游玩。本谱面所有配置均参考maimai同名宴谱。所有note均缩放0.9倍，部分hold的不透明度有修改。",
+  "difficulty": 16.5,
+  "file": "https://phira.5wyxi.com/files/1273cb72-cd08-4c62-ab0b-1c73a4e06a9d",
+  "id": 73519,
+  "illustration": "https://phira.5wyxi.com/files/dea49edf-3551-4bb2-92df-d4baf7b01560",
+  "illustrator": "",
+  "level": "SP Lv.16",
+  "name": "[協]Hand in Hand",
+  "preview": "https://phira.5wyxi.com/files/59408e31-aed1-4511-8f07-bc42b060c6c0",
+  "ranked": false,
+  "rating": 0.7482895,
+  "ratingCount": 0,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-09-27T08:24:18.961939983Z",
+  "uploader": 16770
+}

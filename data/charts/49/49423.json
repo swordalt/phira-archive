@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-27T10:17:58Z",
+    "lastChanged": "2026-09-27T10:17:58Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2025-11-23T01:22:49.772851Z",
+  "charter": "张三焱",
+  "composer": "森田交一",
+  "created": "2025-11-23T01:22:49.772851Z",
+  "description": null,
+  "difficulty": 14.400001,
+  "file": "https://phira.5wyxi.com/files/cdd47e1e-dfcc-4286-8157-8d079e6850c2",
+  "id": 49423,
+  "illustration": "https://phira.5wyxi.com/files/de85e838-0f86-40eb-b59c-070219ef5936",
+  "illustrator": "",
+  "level": "AT 14",
+  "name": "still",
+  "preview": "https://phira.5wyxi.com/files/da8c4861-136b-4938-a831-64f7b13a8621",
+  "ranked": false,
+  "rating": 0.7334212,
+  "ratingCount": 0,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2026-09-27T09:31:28.744289510Z",
+  "uploader": 80262
+}

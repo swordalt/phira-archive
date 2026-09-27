@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:11Z",
-    "lastChanged": "2026-09-21T02:05:11Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:16:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-23T09:54:03.082629Z",
   "charter": "Cloudli_efe(憋憋特供版)",
@@ -21,11 +21,11 @@
   "name": "Symphony Op.1 -CHAOS-",
   "preview": "https://phira.5wyxi.com/files/d3292118-54eb-4fc2-89c3-69d67b6e8e59",
   "ranked": false,
-  "rating": 0.8901155,
-  "ratingCount": 188,
+  "rating": 0.8894469,
+  "ratingCount": 190,
   "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-27T08:02:44Z",
-    "lastChanged": "2026-09-27T08:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T10:18:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-14T13:17:27.747193Z",
   "charter": "Shidora",
@@ -21,11 +21,11 @@
   "name": "彼方へ、名もなき海辺より",
   "preview": "https://phira.5wyxi.com/files/960c72b9-6c93-47b2-a3ff-c01fa87eafac",
   "ranked": false,
-  "rating": 0.79426795,
-  "ratingCount": 3,
-  "reviewed": true,
+  "rating": 0.8251449,
+  "ratingCount": 4,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "4k",
     "切",

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-27T10:16:04Z",
+    "lastChanged": "2026-09-27T10:16:04Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-23T15:46:21.318177Z",
+  "charter": "炫彩章鱼",
+  "composer": "seatrus / Kiyohiko Hirata",
+  "created": "2026-07-23T15:46:21.318177Z",
+  "description": null,
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/d4a44467-b688-4310-953c-a01fd515e514",
+  "id": 68735,
+  "illustration": "https://phira.5wyxi.com/files/6127704f-1ad1-4a07-a74a-499dd7a24357",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "星降る夜と一輪の花",
+  "preview": "https://phira.5wyxi.com/files/2fd1db2d-efb7-40ea-9062-732c88a24d07",
+  "ranked": false,
+  "rating": 0.85973483,
+  "ratingCount": 0,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-09-27T07:19:28.711503612Z",
+  "uploader": 227677
+}
