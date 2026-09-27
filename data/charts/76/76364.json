@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-27T10:16:17Z",
-    "lastChanged": "2026-09-27T10:16:17Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T18:17:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-29T09:10:19.393624Z",
   "charter": "iOST-SCaRed-",
@@ -21,14 +21,14 @@
   "name": "ループザルーム",
   "preview": "https://phira.5wyxi.com/files/410f6086-0a79-4c2c-b4c4-c17f764e5764",
   "ranked": false,
-  "rating": 0.8817734,
-  "ratingCount": 0,
+  "rating": 0.9355279,
+  "ratingCount": 73,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-27T09:28:20.461614428Z",
+  "updated": "2026-09-27T09:28:20.461614Z",
   "uploader": 1152541
 }

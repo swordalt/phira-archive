@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-27T08:02:44Z",
-    "lastChanged": "2026-09-27T10:18:19Z",
-    "revisions": 2
+    "lastChanged": "2026-09-27T18:17:53Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-07-28T09:45:51.758049Z",
   "charter": "辰旭",
@@ -21,14 +21,14 @@
   "name": "MONTAGEM PERIGOSA",
   "preview": "https://phira.5wyxi.com/files/d914fe63-4d41-45bb-9706-8a8c552bab2a",
   "ranked": false,
-  "rating": 0.8054803,
-  "ratingCount": 0,
+  "rating": 0.86364126,
+  "ratingCount": 8,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "plain"
   ],
-  "updated": "2026-09-27T07:23:16.522715817Z",
+  "updated": "2026-09-27T07:23:16.522715Z",
   "uploader": 461388
 }

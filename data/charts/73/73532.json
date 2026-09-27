@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-27T10:16:13Z",
-    "lastChanged": "2026-09-27T10:16:13Z",
-    "revisions": 1
+    "lastChanged": "2026-09-27T18:17:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-15T10:35:05.627863Z",
   "charter": "神弼",
@@ -21,14 +21,14 @@
   "name": "寻诀 (Guided by Echoes)",
   "preview": "https://phira.5wyxi.com/files/f7ea46ec-f04d-47b0-bee4-6f4e03c8b39e",
   "ranked": false,
-  "rating": 0.8251449,
-  "ratingCount": 0,
+  "rating": 0.90843916,
+  "ratingCount": 19,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-27T08:24:34.939177782Z",
+  "updated": "2026-09-27T08:24:34.939177Z",
   "uploader": 23845
 }

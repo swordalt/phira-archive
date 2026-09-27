@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-27T08:02:44Z",
-    "lastChanged": "2026-09-27T10:18:14Z",
-    "revisions": 2
+    "lastChanged": "2026-09-27T18:17:53Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-05-20T00:10:29.135452Z",
   "charter": "张三焱",
@@ -21,14 +21,14 @@
   "name": "BPM=RT",
   "preview": "https://phira.5wyxi.com/files/f04074d3-e465-4e98-85bc-56f2f22f9226",
   "ranked": false,
-  "rating": 0.7482895,
-  "ratingCount": 0,
+  "rating": 0.74613625,
+  "ratingCount": 3,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "plain"
   ],
-  "updated": "2026-09-27T07:14:24.902432169Z",
+  "updated": "2026-09-27T07:14:24.902432Z",
   "uploader": 80262
 }
