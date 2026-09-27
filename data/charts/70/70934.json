@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-27T08:02:17Z",
+    "lastChanged": "2026-09-27T08:02:17Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-03T08:02:19.015940Z",
+  "charter": "阿诺",
+  "composer": "猎豹游戏-Cheetah Mobile Games",
+  "created": "2026-08-03T08:02:19.015940Z",
+  "description": "我在固定的配置中加了一点随机，整体难度非常平稳，但缺少了一点需要随着音乐的起伏感；动效较少，这对一些玩家来说比较友好，但排键比较粘手，看似是一直在位移，实则两只手糊上去（）\r\n\r\n如果各位有什么建议可以在B站搜索:UID:601846558\r\n\r\n我会发布一个谱面演示视频。\r\n\r\n谱面为本人上传。",
+  "difficulty": 14.500002,
+  "file": "https://phira.5wyxi.com/files/c22c19a9-9f7f-479f-81c8-c79208cb2c01",
+  "id": 70934,
+  "illustration": "https://phira.5wyxi.com/files/045e2d68-4aae-4d65-8d2e-9b9f5f85b73a",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "街头篮球",
+  "preview": "https://phira.5wyxi.com/files/b5a55da4-32e0-459a-aab8-bd09d4a6f5a5",
+  "ranked": false,
+  "rating": 0.736441,
+  "ratingCount": 2,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "滚动的天空",
+    "regular"
+  ],
+  "updated": "2026-09-27T07:26:00.382080Z",
+  "uploader": 1383204
+}

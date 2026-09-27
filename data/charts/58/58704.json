@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-09-27T08:02:44Z",
+    "lastChanged": "2026-09-27T08:02:44Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-05-20T00:10:29.135452Z",
+  "charter": "张三焱",
+  "composer": "t+pazolite",
+  "created": "2026-05-20T00:10:29.135452Z",
+  "description": null,
+  "difficulty": 16.4,
+  "file": "https://phira.5wyxi.com/files/de6cd42e-c09c-4d56-a1e6-f2f71f99e63e",
+  "id": 58704,
+  "illustration": "https://phira.5wyxi.com/files/5b7e6884-a0e6-4124-8fa0-881f9847723c",
+  "illustrator": "",
+  "level": "4K 25",
+  "name": "BPM=RT",
+  "preview": "https://phira.5wyxi.com/files/f04074d3-e465-4e98-85bc-56f2f22f9226",
+  "ranked": false,
+  "rating": null,
+  "ratingCount": 0,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "plain"
+  ],
+  "updated": "2026-09-27T07:14:24.902432Z",
+  "uploader": 80262
+}
