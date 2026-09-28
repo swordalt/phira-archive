@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-28T15:20:32Z",
-    "lastChanged": "2026-09-28T15:20:32Z",
-    "revisions": 1
+    "lastChanged": "2026-09-28T21:52:32Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-28T08:35:25.374300Z",
   "charter": "时辰shars",
@@ -21,14 +21,14 @@
   "name": "虫儿飞",
   "preview": "https://phira.5wyxi.com/files/05f8ca54-335d-4b81-aaea-ad9bfdf2a67f",
   "ranked": false,
-  "rating": 0.9583656,
-  "ratingCount": 400,
+  "rating": 0.9599833,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-28T09:26:40.075211Z",
+  "updated": "2026-09-28T09:26:40.075211388Z",
   "uploader": 1619714
 }
