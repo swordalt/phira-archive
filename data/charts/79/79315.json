@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-09-28T15:20:32Z",
+    "lastChanged": "2026-09-28T15:20:32Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-27T14:23:05.041475Z",
+  "charter": "LsenY",
+  "composer": "AIKA/XYKI",
+  "created": "2026-09-27T14:23:05.041475Z",
+  "description": "本人二传 高难键盘谱 实测有理",
+  "difficulty": 18.800003,
+  "file": "https://phira.5wyxi.com/files/9ed9d4dc-7e31-43a5-95f6-719f1deb300f",
+  "id": 79315,
+  "illustration": "https://phira.5wyxi.com/files/79991375-865b-4eff-b3c4-bab512e4d99d",
+  "illustrator": "UK",
+  "level": "AT Lv.18",
+  "name": "MALEFIC",
+  "preview": "https://phira.5wyxi.com/files/a0f11d1c-b4d1-476e-930e-4fcc6f7054b8",
+  "ranked": false,
+  "rating": 0.7749479,
+  "ratingCount": 3,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "键盘",
+    "regular"
+  ],
+  "updated": "2026-09-28T12:45:48.034008Z",
+  "uploader": 714570
+}
