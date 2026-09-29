@@ -2,6 +2,9 @@
 
 An unofficial automated archive that scrapes chart metadata from [Phira](https://phira.moe)'s API, using GitHub Actions.
 
+## Usage
+For a better user experience, consider cloning the repository (or downloading it directly for temporary analysis). GitHub is not that great when there are this many files/folders in a repository. For viewing larger files (especially `index.jsonl`), perhaps use software such as Notepad++ for better performance.
+
 ## How It Works
 The archival process is split into two jobs:
 - The `poll` job runs hourly, comparing the first page of results across all four divisions.
@@ -9,9 +12,12 @@ The archival process is split into two jobs:
 - The `sweep` job runs weekly, going through all charts across all four divisions.
   - *This catches any stray charts as well as previously-delisted charts.*
 
-Files themselves (illustration, audio preview, and chart file) are not archived. The API url for such resources remain active even after the chart is removed from Phira, meaning preserving metadata (which contains these direct URLs) is enough to recover files in the future.
+Files themselves (illustration, audio preview, and chart file) are not archived. The API URLs for such resources remain active even after the chart is removed from Phira, meaning preserving metadata (which contains these direct URLs) is enough to recover files in the future (unless Phira changes something).
 
-The exception is charts recovered from a [local backup](#local-backups) that no longer exist on Phira: their files are kept as GitHub release assets, since there is no API URL to point to.
+**NOTE: Older resources that have a direct link of `files-cf.phira.cn/` do not work anymore, even after taking the UUID and appending it to the new API endpoint. `api.phira.cn` links still work fine.**
+
+
+The exception is charts recovered from a [local backup](#local-backups) that no longer exist on Phira: their files are kept as GitHub release assets, since their resource API URLs are permanantly lost (they do exist *somewhere*).
 
 ## Repository Layout
 Archived information is found within `/data`. Everything else is for GitHub Actions to do its job.
@@ -57,6 +63,9 @@ python -m pip install pyyaml   # backup.py only; poll/sweep stay dependency-free
 python scripts/backup.py "path/to/Phira Backup" --dry-run   # report only
 python scripts/backup.py "path/to/Phira Backup" --commit    # upload via gh, write, commit (no push)
 ```
+
+> [!NOTE]
+> Stil have data from Phira sitting on your device (from as early as 2023)? A backup could contain useful data for this archive (especially after the Arcaea/Rayark purge). See [here](https://github.com/swordalt/phira-archive/blob/main/docs/backup-guide.md) for more details. Create an issue if interested.
 
 ## Phira API Notes
 - `order` accepts both `id` and `-id` only via direct API calls; not within the user-facing webpage.
