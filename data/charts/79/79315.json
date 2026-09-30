@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-28T15:20:32Z",
-    "lastChanged": "2026-09-28T21:52:32Z",
-    "revisions": 2
+    "lastChanged": "2026-09-30T06:37:38Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-09-27T14:23:05.041475Z",
   "charter": "LsenY",
@@ -21,8 +21,8 @@
   "name": "MALEFIC",
   "preview": "https://phira.5wyxi.com/files/a0f11d1c-b4d1-476e-930e-4fcc6f7054b8",
   "ranked": false,
-  "rating": 0.7984545,
-  "ratingCount": 0,
+  "rating": 0.8734612,
+  "ratingCount": 15,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "键盘",
     "regular"
   ],
-  "updated": "2026-09-28T12:45:48.034008355Z",
+  "updated": "2026-09-28T12:45:48.034008Z",
   "uploader": 714570
 }

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:42Z",
-    "lastChanged": "2026-09-28T15:20:33Z",
-    "revisions": 2
+    "lastChanged": "2026-09-30T06:37:39Z",
+    "revisions": 3
   },
   "chartUpdated": "2023-11-23T12:53:18.922279Z",
   "charter": "GuanfzyA fixed by FN花计",
@@ -21,14 +21,14 @@
   "name": "琵琶行（Full ver.）",
   "preview": "https://phira.5wyxi.com/files/e3b6e903-fd43-4b43-8536-d6bbccfa1933",
   "ranked": false,
-  "rating": 0.911775,
-  "ratingCount": 3906,
+  "rating": 0.909182,
+  "ratingCount": 4480,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-28T13:19:50.234959053Z",
+  "updated": "2026-09-28T13:19:50.234959Z",
   "uploader": 1082
 }
