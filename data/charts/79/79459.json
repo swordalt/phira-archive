@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-30T13:37:18Z",
-    "lastChanged": "2026-09-30T13:37:18Z",
-    "revisions": 1
+    "lastChanged": "2026-09-30T19:09:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-30T06:59:32.691778Z",
   "charter": "Ex1stenS",
@@ -21,11 +21,11 @@
   "name": "Signal",
   "preview": "https://phira.5wyxi.com/files/e575387e-b35f-492c-afc7-60af06afee28",
   "ranked": false,
-  "rating": 0.83820915,
-  "ratingCount": 12,
-  "reviewed": true,
+  "rating": 0.8554739,
+  "ratingCount": 18,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
