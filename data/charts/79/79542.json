@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-01T13:03:07Z",
-    "lastChanged": "2026-10-01T13:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-10-01T18:49:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-30T16:27:00.765247Z",
   "charter": "Array & BeVeath",
@@ -21,14 +21,14 @@
   "name": "FIGHT BACK",
   "preview": "https://phira.5wyxi.com/files/f8e184ec-df25-494e-a026-bcc9277b1e64",
   "ranked": false,
-  "rating": 0.9035861,
-  "ratingCount": 15,
+  "rating": 0.86240786,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-01T07:47:22.250732Z",
+  "updated": "2026-10-01T07:47:22.250732982Z",
   "uploader": 565722
 }
