@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-01T05:41:38Z",
-    "lastChanged": "2026-10-01T05:41:38Z",
-    "revisions": 1
+    "lastChanged": "2026-10-01T13:03:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-29T13:07:20.257601Z",
   "charter": "榆流yl",
@@ -21,8 +21,8 @@
   "name": "岸",
   "preview": "https://phira.5wyxi.com/files/c34da583-a285-496a-a8c6-65eedaf3623f",
   "ranked": false,
-  "rating": 0.9014097,
-  "ratingCount": 45,
+  "rating": 0.9083403,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "miku",
     "regular"
   ],
-  "updated": "2026-10-01T02:44:30.847810Z",
+  "updated": "2026-10-01T02:44:30.847810126Z",
   "uploader": 564113
 }

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-01T05:41:38Z",
-    "lastChanged": "2026-10-01T05:41:38Z",
-    "revisions": 1
+    "lastChanged": "2026-10-01T13:03:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-30T11:31:32.656529Z",
   "charter": "-{S}-Witch",
@@ -21,14 +21,14 @@
   "name": "KILL SWITCH(self edit size.)",
   "preview": "https://phira.5wyxi.com/files/e200e091-582e-4f6c-a290-1466188b0320",
   "ranked": false,
-  "rating": 0.8831603,
-  "ratingCount": 24,
+  "rating": 0.89309186,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-01T02:36:45.749201Z",
+  "updated": "2026-10-01T02:36:45.749201717Z",
   "uploader": 1056368
 }

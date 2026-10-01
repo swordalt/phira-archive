@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:16Z",
-    "lastChanged": "2026-09-21T02:05:16Z",
-    "revisions": 1
+    "lastChanged": "2026-10-01T13:03:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-11T10:25:03.572349Z",
   "charter": "HavaYouSeenRoger",
@@ -13,22 +13,27 @@
   "created": "2026-09-11T10:25:03.572349Z",
   "description": "6thWJC G4 No.19\nB站同名，感谢游玩",
   "difficulty": 14.400001,
-  "file": "https://phira.5wyxi.com/files/aaf65315-d2e9-43c3-8601-8a6be3339b00",
+  "file": "https://phira.5wyxi.com/files/eea10074-dbce-447f-a625-eb4fcf55e6d8",
   "id": 77728,
-  "illustration": "https://phira.5wyxi.com/files/d64c29e0-f1b5-4019-a051-7cf1251aefaf",
+  "illustration": "https://phira.5wyxi.com/files/50224e9d-9a81-40c9-ab7a-e1a5278d6913",
   "illustrator": "",
   "level": "IN Lv.14",
   "name": "Scars of FAUNA",
-  "preview": "https://phira.5wyxi.com/files/fa52f78a-a838-4fab-9e8f-f16cae429ce6",
-  "ranked": false,
-  "rating": 0.9203668,
-  "ratingCount": 122,
-  "reviewed": false,
-  "stable": false,
-  "stableRequest": true,
+  "preview": "https://phira.5wyxi.com/files/5e6d7638-ab13-47df-91b5-e8218b89d5b5",
+  "ranked": true,
+  "rating": 0.9089829,
+  "ratingCount": 150,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
   "tags": [
+    "Jubeat",
+    "maimai",
+    "猫叉Master",
+    "土神",
+    "6thWJC",
     "regular"
   ],
-  "updated": "2026-09-11T10:25:03.572349Z",
+  "updated": "2026-10-01T08:04:42.727692797Z",
   "uploader": 1748
 }

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-01T13:03:07Z",
+    "lastChanged": "2026-10-01T13:03:07Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-30T16:27:00.765247Z",
+  "charter": "Array & BeVeath",
+  "composer": "Minty",
+  "created": "2026-09-30T16:27:00.765247Z",
+  "description": "此谱为合作谱，另一位谱师：@BeVeath#1962292",
+  "difficulty": 15.700003,
+  "file": "https://phira.5wyxi.com/files/ef389661-a773-4844-97e5-b0705eaedbb8",
+  "id": 79542,
+  "illustration": "https://phira.5wyxi.com/files/fccb2327-f1ff-4e94-8cb0-c9e4fd7ec3f5",
+  "illustrator": "From Beast Beat",
+  "level": "IN  Lv.15",
+  "name": "FIGHT BACK",
+  "preview": "https://phira.5wyxi.com/files/f8e184ec-df25-494e-a026-bcc9277b1e64",
+  "ranked": false,
+  "rating": 0.9035861,
+  "ratingCount": 15,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-10-01T07:47:22.250732Z",
+  "uploader": 565722
+}
