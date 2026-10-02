@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-02T09:39:21Z",
-    "lastChanged": "2026-10-02T09:39:21Z",
-    "revisions": 1
+    "lastChanged": "2026-10-02T16:14:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-19T04:14:35.496154Z",
   "charter": "zhanwai",
@@ -21,8 +21,8 @@
   "name": "Transcend Lights",
   "preview": "https://phira.5wyxi.com/files/f8b10a94-08d5-4700-ad08-31f0c68343b3",
   "ranked": false,
-  "rating": 0.81999063,
-  "ratingCount": 9,
+  "rating": 0.82975906,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -32,6 +32,6 @@
     "星星批",
     "regular"
   ],
-  "updated": "2026-10-02T03:32:50.209135Z",
+  "updated": "2026-10-02T03:32:50.209135117Z",
   "uploader": 325275
 }

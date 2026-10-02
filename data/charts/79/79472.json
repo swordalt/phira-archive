@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-10-02T09:39:30Z",
-    "lastChanged": "2026-10-02T09:39:30Z",
-    "revisions": 1
+    "lastChanged": "2026-10-02T16:14:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-30T09:55:25.988502Z",
   "charter": "吹风扇的猫败",
@@ -21,8 +21,8 @@
   "name": "Fallen symphony",
   "preview": "https://phira.5wyxi.com/files/c20d3910-f67d-4063-a8a5-b13c7cdd5ce4",
   "ranked": false,
-  "rating": 0.7482895,
-  "ratingCount": 1,
+  "rating": 0.53322107,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -37,6 +37,6 @@
     "原神启动",
     "visual"
   ],
-  "updated": "2026-10-02T08:16:38.531728Z",
+  "updated": "2026-10-02T08:16:38.531728500Z",
   "uploader": 2360752
 }

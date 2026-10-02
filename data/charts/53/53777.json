@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:08Z",
-    "lastChanged": "2026-09-21T02:07:08Z",
-    "revisions": 1
+    "lastChanged": "2026-10-02T16:14:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-03T06:49:21.192811Z",
   "charter": "IXIRB001泠宏",
@@ -23,9 +23,9 @@
   "ranked": false,
   "rating": 0.86445737,
   "ratingCount": 29,
-  "reviewed": false,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "双人",
     "双指",
