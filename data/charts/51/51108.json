@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-10-02T02:12:31Z",
+    "lastChanged": "2026-10-02T02:12:31Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-01-09T11:37:18.459095Z",
+  "charter": "sixibugugu",
+  "composer": "ARForest",
+  "created": "2026-01-09T11:37:18.459095Z",
+  "description": "谱师本人转谱后上传\nMalody谱面ID为c150182\nBPM为180\n流速为12.4\n\n---\n\n应该是22年末23年年初左右在Malody写的，23年末传了谱面视频到B站，但因为未取得红名（虽然因为某些原因最后取得了但当时不知情）直到25年11月才上传到Malody，期间对谱面进行了许多微调。\n希望大家多多支持。",
+  "difficulty": 27.0,
+  "file": "https://phira.5wyxi.com/files/6d832ec5-e6ac-4990-a38d-4cd4af267424",
+  "id": 51108,
+  "illustration": "https://phira.5wyxi.com/files/297540e1-bfc9-47ef-ba03-9ce1ac4f8656",
+  "illustrator": "",
+  "level": "4K Re:Travel Lv.27",
+  "name": "Inverted World",
+  "preview": "https://phira.5wyxi.com/files/2de174c6-1d56-46b3-a7b5-ca08c4060e5f",
+  "ranked": false,
+  "rating": null,
+  "ratingCount": 0,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4K",
+    "plain"
+  ],
+  "updated": "2026-10-02T02:06:43.603562Z",
+  "uploader": 2031520
+}
