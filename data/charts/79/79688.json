@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-02T02:12:23Z",
-    "lastChanged": "2026-10-02T02:12:23Z",
-    "revisions": 1
+    "lastChanged": "2026-10-02T09:39:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-01T13:43:15.658480Z",
   "charter": "nana",
@@ -21,14 +21,14 @@
   "name": "Marshmallow Nyam",
   "preview": "https://phira.5wyxi.com/files/b5099796-0113-40a9-ab78-2f209b2d201b",
   "ranked": false,
-  "rating": 0.7334212,
-  "ratingCount": 1,
+  "rating": 0.81134284,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-02T02:00:28.456844Z",
+  "updated": "2026-10-02T02:00:28.456844431Z",
   "uploader": 3368611
 }

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-02T02:12:30Z",
-    "lastChanged": "2026-10-02T02:12:30Z",
-    "revisions": 1
+    "lastChanged": "2026-10-02T09:39:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-01T08:35:38.245795Z",
   "charter": "DEL-starh",
@@ -21,7 +21,7 @@
   "name": "BIG SHOT (Camellia Remix)",
   "preview": "https://phira.5wyxi.com/files/b3a94658-2824-45a2-9360-8d20df162623",
   "ranked": false,
-  "rating": null,
+  "rating": 0.79426795,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -31,6 +31,6 @@
     "双指",
     "plain"
   ],
-  "updated": "2026-10-02T02:03:23.879974Z",
+  "updated": "2026-10-02T02:03:23.879974535Z",
   "uploader": 669384
 }

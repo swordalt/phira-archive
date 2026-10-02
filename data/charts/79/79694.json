@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-02T02:12:23Z",
-    "lastChanged": "2026-10-02T02:12:23Z",
-    "revisions": 1
+    "lastChanged": "2026-10-02T09:39:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-01T14:41:13.764853Z",
   "charter": "该困不吸烟",
@@ -21,8 +21,8 @@
   "name": "メルヘル小惑星",
   "preview": "https://phira.5wyxi.com/files/4fc90b44-4504-4849-bc18-7a480df83206",
   "ranked": false,
-  "rating": 0.80552316,
-  "ratingCount": 3,
+  "rating": 0.88605547,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -32,6 +32,6 @@
     "面条",
     "regular"
   ],
-  "updated": "2026-10-02T01:22:07.485951Z",
+  "updated": "2026-10-02T01:22:07.485951045Z",
   "uploader": 185561
 }

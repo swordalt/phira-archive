@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-02T02:12:31Z",
-    "lastChanged": "2026-10-02T02:12:31Z",
-    "revisions": 1
+    "lastChanged": "2026-10-02T09:39:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-09T11:37:18.459095Z",
   "charter": "sixibugugu",
@@ -21,7 +21,7 @@
   "name": "Inverted World",
   "preview": "https://phira.5wyxi.com/files/2de174c6-1d56-46b3-a7b5-ca08c4060e5f",
   "ranked": false,
-  "rating": null,
+  "rating": 0.9282772,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -30,6 +30,6 @@
     "4K",
     "plain"
   ],
-  "updated": "2026-10-02T02:06:43.603562Z",
+  "updated": "2026-10-02T02:06:43.603562530Z",
   "uploader": 2031520
 }

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-02T02:12:31Z",
-    "lastChanged": "2026-10-02T02:12:31Z",
-    "revisions": 1
+    "lastChanged": "2026-10-02T09:39:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-18T15:40:21.164460Z",
   "charter": "Tempest",
@@ -21,7 +21,7 @@
   "name": "恋ひ恋ふ縁",
   "preview": "https://phira.5wyxi.com/files/3214159e-5753-48aa-87d6-a2cc7f2a67b7",
   "ranked": false,
-  "rating": null,
+  "rating": 0.856128,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -29,6 +29,6 @@
   "tags": [
     "plain"
   ],
-  "updated": "2026-10-02T02:06:20.391862Z",
+  "updated": "2026-10-02T02:06:20.391862547Z",
   "uploader": 404456
 }

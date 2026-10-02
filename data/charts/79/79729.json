@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-02T02:12:23Z",
-    "lastChanged": "2026-10-02T02:12:23Z",
-    "revisions": 1
+    "lastChanged": "2026-10-02T09:39:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-02T01:18:02.537167Z",
   "charter": "Calepam",
@@ -21,8 +21,8 @@
   "name": "月茶会",
   "preview": "https://phira.5wyxi.com/files/b7633ca2-73e4-4f86-a7dd-96bc47828616",
   "ranked": false,
-  "rating": 0.7482895,
-  "ratingCount": 1,
+  "rating": 0.8374982,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -35,6 +35,6 @@
     "幽默",
     "regular"
   ],
-  "updated": "2026-10-02T01:58:39.396490Z",
+  "updated": "2026-10-02T01:58:39.396490889Z",
   "uploader": 185561
 }
