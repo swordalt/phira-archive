@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-02T09:39:21Z",
-    "lastChanged": "2026-10-02T16:14:09Z",
-    "revisions": 2
+    "lastChanged": "2026-10-03T12:27:26Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-09-27T08:09:53.439488Z",
   "charter": "Fixations Toward the Notes",
@@ -21,14 +21,14 @@
   "name": "Fixations Toward the Stars",
   "preview": "https://phira.5wyxi.com/files/a1d14945-8725-4d3e-8cba-ec3353e3ea72",
   "ranked": false,
-  "rating": 0.8663969,
-  "ratingCount": 0,
+  "rating": 0.79428464,
+  "ratingCount": 37,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-02T02:19:35.046264607Z",
+  "updated": "2026-10-02T02:19:35.046264Z",
   "uploader": 926155
 }
