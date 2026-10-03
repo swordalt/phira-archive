@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-03T12:27:29Z",
-    "lastChanged": "2026-10-03T12:27:29Z",
-    "revisions": 1
+    "lastChanged": "2026-10-03T17:12:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-28T10:10:02.405006Z",
   "charter": "RJHXHX",
@@ -21,8 +21,8 @@
   "name": "AiAe",
   "preview": "https://phira.5wyxi.com/files/dc710ccd-088a-4e7a-bca0-39833683dc57",
   "ranked": false,
-  "rating": 0.81567323,
-  "ratingCount": 4,
+  "rating": 0.8641803,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -31,6 +31,6 @@
     "",
     "plain"
   ],
-  "updated": "2026-10-03T08:18:49.379464Z",
+  "updated": "2026-10-03T08:18:49.379464652Z",
   "uploader": 124261
 }
