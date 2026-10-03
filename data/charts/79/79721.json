@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-03T06:27:59Z",
+    "lastChanged": "2026-10-03T06:27:59Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-10-01T23:21:35.843218Z",
+  "charter": " Yu/Lin",
+  "composer": "siqlo",
+  "created": "2026-10-01T23:21:35.843218Z",
+  "description": "你们好\n这是我的第一张谱面\n选择了一个低难的定级",
+  "difficulty": 6.5999994,
+  "file": "https://phira.5wyxi.com/files/9f452856-c4f8-45a4-8f0c-b60ec81b957a",
+  "id": 79721,
+  "illustration": "https://phira.5wyxi.com/files/ee90f451-3210-4b47-b7ee-e95fccc5f73f",
+  "illustrator": "siqlo",
+  "level": "EZ Lv.6",
+  "name": "ρars/ey",
+  "preview": "https://phira.5wyxi.com/files/a8094263-f1cc-4574-b0de-1704f6b63416",
+  "ranked": false,
+  "rating": 0.870877,
+  "ratingCount": 9,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-10-03T05:01:30.383311Z",
+  "uploader": 643388
+}

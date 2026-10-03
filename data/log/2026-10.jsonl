@@ -52,3 +52,4 @@
 {"changed": ["reviewed", "stableRequest"], "division": "plain", "event": "updated", "id": 78332, "ts": "2026-10-02T16:14:13Z"}
 {"changed": ["updated"], "division": "visual", "event": "updated", "id": 79472, "ts": "2026-10-02T16:14:16Z"}
 {"changed": ["reviewed", "stableRequest"], "division": "visual", "event": "updated", "id": 53777, "ts": "2026-10-02T16:14:16Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 79721, "ts": "2026-10-03T06:27:59Z"}

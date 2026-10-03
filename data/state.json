@@ -6,8 +6,8 @@
       "maxId": 79618
     },
     "regular": {
-      "apiCount": 9689,
-      "archived": 9740,
+      "apiCount": 9688,
+      "archived": 9741,
       "maxId": 79814
     },
     "troll": {
@@ -21,12 +21,12 @@
       "maxId": 79472
     }
   },
-  "generated": "2026-10-03T01:06:27Z",
-  "lastPoll": "2026-10-03T01:06:27Z",
+  "generated": "2026-10-03T06:28:15Z",
+  "lastPoll": "2026-10-03T06:28:15Z",
   "lastSweep": "2026-09-27T10:18:33Z",
   "localBackup": {
     "archived": 526,
     "lastImport": "2026-09-22T01:31:25Z"
   },
-  "totalCharts": 14466
+  "totalCharts": 14467
 }
