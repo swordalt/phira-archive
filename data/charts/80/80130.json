@@ -1,0 +1,40 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-10-04T18:06:10Z",
+    "lastChanged": "2026-10-04T18:06:10Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-10-04T12:32:46.185840Z",
+  "charter": "HRS-Team",
+  "composer": "Creo",
+  "created": "2026-10-04T12:32:46.185840Z",
+  "description": "HRS-Lv.11-Sync单曲",
+  "difficulty": 11.300001,
+  "file": "https://phira.5wyxi.com/files/ac151cfd-de50-4ed1-97ab-17ed475f714f",
+  "id": 80130,
+  "illustration": "https://phira.5wyxi.com/files/3f7c3672-bb8c-44ee-bdd3-0416ef737330",
+  "illustrator": "",
+  "level": "Sync Lv.11",
+  "name": "Dimension",
+  "preview": "https://phira.5wyxi.com/files/1e36f721-ffbd-4cfb-8926-21b6b7f242c8",
+  "ranked": false,
+  "rating": 0.7482895,
+  "ratingCount": 1,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "HRS",
+    "双指",
+    "谐律段位",
+    "11",
+    "Sync",
+    "协",
+    "plain"
+  ],
+  "updated": "2026-10-04T16:20:50.509243Z",
+  "uploader": 4226928
+}

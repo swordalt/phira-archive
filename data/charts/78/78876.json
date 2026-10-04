@@ -4,31 +4,31 @@
       "regular"
     ],
     "firstSeen": "2026-09-24T19:03:22Z",
-    "lastChanged": "2026-09-24T19:03:22Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T18:06:07Z",
+    "revisions": 2
   },
-  "chartUpdated": "2026-09-24T16:19:55.109529Z",
+  "chartUpdated": "2026-10-04T14:18:30.255741377Z",
   "charter": "XerdouS",
   "composer": "夢限大みゅーたいぷ",
   "created": "2026-09-24T16:19:55.109529Z",
-  "description": "又将去往哪里呢，又将遇见什么呢，又将成为什么呢，又将如何生存呢。\n———怀着这样的心情。",
+  "description": "又将去往哪里呢，又将遇见什么呢，又将成为什么呢，又将如何生存呢。\r\n\n———怀着这样的心情。\r\n2026.10.4更新 调整了了576cb，现在hold不会和双押形成三押了。",
   "difficulty": 15.200001,
-  "file": "https://phira.5wyxi.com/files/c9c842ae-f61f-4ba8-ac2f-57b283447a67",
+  "file": "https://phira.5wyxi.com/files/8d2b8bb7-70cf-4172-aab6-a65416c97c23",
   "id": 78876,
-  "illustration": "https://phira.5wyxi.com/files/11f80c1b-1c11-4e07-905b-72e71c8791a1",
+  "illustration": "https://phira.5wyxi.com/files/4f9b27ac-b91e-4538-ba95-ca96a07fa424",
   "illustrator": "BanG Dream",
   "level": "IN Lv.15",
   "name": "これはぼくたちの生存のあらすじ（TV Size）",
-  "preview": "https://phira.5wyxi.com/files/6711fe03-2c93-49f9-8a15-01fc0857661b",
+  "preview": "https://phira.5wyxi.com/files/933a2681-725b-42c0-9041-0a8a87595e1e",
   "ranked": false,
-  "rating": 0.88074225,
-  "ratingCount": 2,
-  "reviewed": false,
+  "rating": 0.92883223,
+  "ratingCount": 202,
+  "reviewed": true,
   "stable": false,
   "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-24T16:26:38.271814Z",
+  "updated": "2026-10-04T14:18:30.255741377Z",
   "uploader": 22799
 }
