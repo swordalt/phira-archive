@@ -120,3 +120,7 @@
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 53007, "ts": "2026-10-04T10:53:41Z"}
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 53142, "ts": "2026-10-04T10:53:42Z"}
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 53249, "ts": "2026-10-04T10:53:42Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 80126, "ts": "2026-10-04T13:09:05Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 80112, "ts": "2026-10-04T13:09:05Z"}
+{"changed": ["chartUpdated", "charter", "composer", "description", "difficulty", "file", "illustration", "level", "preview", "updated"], "division": "regular", "event": "updated", "id": 78641, "ts": "2026-10-04T13:09:06Z"}
+{"changed": ["*new*"], "division": "plain", "event": "new", "id": 79976, "ts": "2026-10-04T13:09:09Z"}
