@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:12Z",
-    "lastChanged": "2026-09-21T02:05:12Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:51:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-24T06:22:17.411848Z",
   "charter": "xQ",
@@ -21,11 +21,11 @@
   "name": "Hardcor Kwaya",
   "preview": "https://phira.5wyxi.com/files/417ae5fa-4f29-4bd1-ab23-38ed172fc5dc",
   "ranked": false,
-  "rating": 0.9196108,
-  "ratingCount": 194,
-  "reviewed": false,
+  "rating": 0.9168376,
+  "ratingCount": 207,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

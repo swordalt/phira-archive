@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:14Z",
-    "lastChanged": "2026-09-21T02:05:14Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:51:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-06T12:08:54.404736Z",
   "charter": "Waifocs是话痨吖",
@@ -21,11 +21,11 @@
   "name": "Oracle",
   "preview": "https://phira.5wyxi.com/files/25e43d20-1ca1-44cc-ba63-8c29a74fd00a",
   "ranked": false,
-  "rating": 0.9216847,
-  "ratingCount": 265,
-  "reviewed": false,
+  "rating": 0.92713165,
+  "ratingCount": 321,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

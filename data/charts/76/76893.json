@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:14Z",
-    "lastChanged": "2026-09-21T02:05:14Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:51:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-02T10:29:46.266954Z",
   "charter": "L1HXj31_iM35W",
@@ -21,11 +21,11 @@
   "name": "乱序",
   "preview": "https://phira.5wyxi.com/files/ae001a4c-4148-4fe9-8d64-157f38f7ab66",
   "ranked": false,
-  "rating": 0.8564216,
-  "ratingCount": 185,
-  "reviewed": false,
+  "rating": 0.85754615,
+  "ratingCount": 209,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

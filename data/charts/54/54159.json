@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:29Z",
-    "lastChanged": "2026-09-21T02:04:29Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:50:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-14T14:42:19.857541Z",
   "charter": "HHmeowmeows",
@@ -21,11 +21,11 @@
   "name": "Scorched Singularity",
   "preview": "https://phira.5wyxi.com/files/a9316ac1-86a2-4379-8622-d2b4011df542",
   "ranked": false,
-  "rating": 0.744783,
-  "ratingCount": 76,
-  "reviewed": true,
+  "rating": 0.7480421,
+  "ratingCount": 77,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

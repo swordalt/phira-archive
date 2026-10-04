@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-23T16:48:48Z",
-    "lastChanged": "2026-09-23T16:48:48Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:51:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-23T09:55:56.387659Z",
   "charter": "Kamoi",
@@ -21,11 +21,11 @@
   "name": "Give (Me) Your Love",
   "preview": "https://phira.5wyxi.com/files/ce86f7f1-4b02-4670-94fe-2f176b7d69bc",
   "ranked": false,
-  "rating": 0.8733716,
-  "ratingCount": 1,
-  "reviewed": false,
+  "rating": 0.8907095,
+  "ratingCount": 81,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

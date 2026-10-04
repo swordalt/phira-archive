@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:12Z",
-    "lastChanged": "2026-09-21T02:05:12Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:51:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-24T09:31:05.583053Z",
   "charter": "ysjzy",
@@ -21,11 +21,11 @@
   "name": "迷っちゃうわ",
   "preview": "https://phira.5wyxi.com/files/1162db4f-b671-4435-951a-c5a5194d6982",
   "ranked": false,
-  "rating": 0.9346337,
-  "ratingCount": 130,
-  "reviewed": false,
+  "rating": 0.9317415,
+  "ratingCount": 143,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

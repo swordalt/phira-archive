@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:13Z",
-    "lastChanged": "2026-09-21T02:05:13Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:51:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-27T14:23:41.482042Z",
   "charter": "Kanmegrui_Ohana",
@@ -21,11 +21,11 @@
   "name": "Lost Civilization",
   "preview": "https://phira.5wyxi.com/files/e264fb9b-0475-45a1-8088-8476f2a1cf5e",
   "ranked": false,
-  "rating": 0.89218587,
-  "ratingCount": 475,
-  "reviewed": false,
+  "rating": 0.89549816,
+  "ratingCount": 500,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

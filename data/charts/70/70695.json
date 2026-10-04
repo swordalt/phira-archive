@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:05Z",
-    "lastChanged": "2026-09-21T02:05:05Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:51:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-02T05:39:34.104177Z",
   "charter": "Linze",
@@ -21,11 +21,11 @@
   "name": "Algebra",
   "preview": "https://phira.5wyxi.com/files/bde2e8a9-5789-47ef-b41e-89fa06784758",
   "ranked": false,
-  "rating": 0.9292995,
-  "ratingCount": 229,
-  "reviewed": true,
+  "rating": 0.921564,
+  "ratingCount": 348,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-27T08:02:44Z",
-    "lastChanged": "2026-09-27T10:18:05Z",
-    "revisions": 2
+    "lastChanged": "2026-10-04T10:53:41Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-02-14T11:28:34.326102Z",
   "charter": "ShidoraX",
@@ -21,14 +21,14 @@
   "name": "Straight into the lights",
   "preview": "https://phira.5wyxi.com/files/322d32b9-0ecd-4a18-afbc-b3543d98323f",
   "ranked": false,
-  "rating": 0.8423025,
-  "ratingCount": 0,
+  "rating": 0.93786055,
+  "ratingCount": 25,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "plain"
   ],
-  "updated": "2026-09-27T07:07:59.580583604Z",
+  "updated": "2026-09-27T07:07:59.580583Z",
   "uploader": 2082892
 }

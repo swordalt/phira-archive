@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:14Z",
-    "lastChanged": "2026-09-21T02:05:14Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:51:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-06T11:03:26.432869Z",
   "charter": "Easy_pipi",
@@ -21,11 +21,11 @@
   "name": "Love me,Love me,Love me",
   "preview": "https://phira.5wyxi.com/files/08a29cb7-9dad-4c12-91bf-a0de73a413b2",
   "ranked": false,
-  "rating": 0.904787,
-  "ratingCount": 146,
-  "reviewed": false,
+  "rating": 0.89506924,
+  "ratingCount": 187,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

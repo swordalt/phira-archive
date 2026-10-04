@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-27T10:16:04Z",
-    "lastChanged": "2026-09-27T10:16:04Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:51:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-24T06:01:10.966722Z",
   "charter": "Endermilk",
@@ -21,14 +21,14 @@
   "name": "Destination",
   "preview": "https://phira.5wyxi.com/files/c3e30e2c-1b8b-493f-b3e1-fad2e307c040",
   "ranked": false,
-  "rating": null,
-  "ratingCount": 0,
+  "rating": 0.8781031,
+  "ratingCount": 10,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-27T07:19:37.826938622Z",
+  "updated": "2026-09-27T07:19:37.826938Z",
   "uploader": 1125942
 }

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:17Z",
-    "lastChanged": "2026-09-21T02:05:17Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:51:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-13T04:29:45.908691Z",
   "charter": "Dieyum",
@@ -21,11 +21,11 @@
   "name": "回溯",
   "preview": "https://phira.5wyxi.com/files/fb6e9379-1d63-429f-a72e-1338af47d48f",
   "ranked": false,
-  "rating": 0.92717725,
-  "ratingCount": 922,
-  "reviewed": false,
+  "rating": 0.9277385,
+  "ratingCount": 1746,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

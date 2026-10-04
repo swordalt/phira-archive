@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:10Z",
-    "lastChanged": "2026-09-21T02:05:10Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:51:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-20T05:03:16.414996Z",
   "charter": "Seachannel",
@@ -21,11 +21,11 @@
   "name": "连烦恼也融入天空",
   "preview": "https://phira.5wyxi.com/files/2e2874f4-2771-4e2e-a01a-25a3bdf5fdd4",
   "ranked": false,
-  "rating": 0.91982305,
-  "ratingCount": 348,
-  "reviewed": false,
+  "rating": 0.9201887,
+  "ratingCount": 379,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

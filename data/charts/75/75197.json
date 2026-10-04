@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:11Z",
-    "lastChanged": "2026-09-21T02:05:11Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:51:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-26T16:00:45.158934Z",
   "charter": "Forest1417",
@@ -21,11 +21,11 @@
   "name": "Maybe",
   "preview": "https://phira.5wyxi.com/files/9ce4a187-9079-43fa-8e7c-fe7c19e1a5a6",
   "ranked": false,
-  "rating": 0.9226086,
-  "ratingCount": 3799,
+  "rating": 0.923893,
+  "ratingCount": 4234,
   "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

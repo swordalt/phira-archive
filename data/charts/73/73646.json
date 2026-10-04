@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:09Z",
-    "lastChanged": "2026-09-21T02:05:09Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:51:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-16T03:16:05.551408Z",
   "charter": "Snowy Graphic",
@@ -21,11 +21,11 @@
   "name": "Snowy Night",
   "preview": "https://phira.5wyxi.com/files/f776d1da-7146-4eae-8eb8-15bdd54b1d5f",
   "ranked": false,
-  "rating": 0.9214971,
-  "ratingCount": 134,
-  "reviewed": false,
+  "rating": 0.9223875,
+  "ratingCount": 143,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "融化的风花与白兔",
     "regular"

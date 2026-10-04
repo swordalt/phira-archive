@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:13Z",
-    "lastChanged": "2026-09-21T02:03:13Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:48:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-17T05:10:23.919105Z",
   "charter": "Alise Rinne -Sween Lef Frey Olis-",
@@ -20,12 +20,12 @@
   "level": "『Magic』",
   "name": "ワンダーシャッフェンの法則",
   "preview": "https://phira.5wyxi.com/files/34c81984-e12f-49be-8414-df8ac0b4df73",
-  "ranked": false,
-  "rating": 0.9078646,
-  "ratingCount": 1557,
+  "ranked": true,
+  "rating": 0.90541667,
+  "ratingCount": 1573,
   "reviewed": true,
-  "stable": false,
-  "stableRequest": true,
+  "stable": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

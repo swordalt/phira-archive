@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:12Z",
-    "lastChanged": "2026-09-21T02:05:12Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:51:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-26T05:33:53.788257Z",
   "charter": "Mai_Tang",
@@ -21,11 +21,11 @@
   "name": "花与剑的轮舞 Rondeau des fleurs et des rapieres",
   "preview": "https://phira.5wyxi.com/files/d2ddc725-d661-4bd1-b2d7-760bee6ca64a",
   "ranked": false,
-  "rating": 0.89768726,
-  "ratingCount": 177,
+  "rating": 0.8963883,
+  "ratingCount": 203,
   "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "原神",
     "regular"

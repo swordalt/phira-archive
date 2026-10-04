@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:12Z",
-    "lastChanged": "2026-09-21T02:05:12Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:51:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-24T14:30:43.208856Z",
   "charter": "BaDu0_NwN feat. LPI_(可爱小猫娘 fix)",
@@ -21,11 +21,11 @@
   "name": "CakeGirl",
   "preview": "https://phira.5wyxi.com/files/de460804-79da-4962-8688-4b25867df19e",
   "ranked": false,
-  "rating": 0.658936,
-  "ratingCount": 787,
-  "reviewed": true,
+  "rating": 0.6577511,
+  "ratingCount": 862,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "高难",
     "术力口",

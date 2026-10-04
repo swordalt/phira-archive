@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:10Z",
-    "lastChanged": "2026-09-21T02:05:10Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:51:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-19T16:15:06.941711Z",
   "charter": "兵者鬥者皆陣列於途",
@@ -21,11 +21,11 @@
   "name": "天演论",
   "preview": "https://phira.5wyxi.com/files/2d609f64-d864-4e53-a343-99291ff1680f",
   "ranked": false,
-  "rating": 0.9063783,
-  "ratingCount": 335,
-  "reviewed": false,
+  "rating": 0.906531,
+  "ratingCount": 360,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

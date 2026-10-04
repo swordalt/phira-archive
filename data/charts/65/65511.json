@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:56Z",
-    "lastChanged": "2026-09-27T10:15:57Z",
-    "revisions": 2
+    "lastChanged": "2026-10-04T10:50:52Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-07-10T19:06:46.368584Z",
   "charter": "Freezing KYUR",
@@ -21,14 +21,14 @@
   "name": "cold planet",
   "preview": "https://phira.5wyxi.com/files/6387ec5f-78ff-49ad-b46d-8175f9f499e3",
   "ranked": false,
-  "rating": 0.7856738,
-  "ratingCount": 3,
+  "rating": 0.80328155,
+  "ratingCount": 8,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-27T07:16:53.959939225Z",
+  "updated": "2026-09-27T07:16:53.959939Z",
   "uploader": 2860837
 }

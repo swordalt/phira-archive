@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:17Z",
-    "lastChanged": "2026-09-21T02:05:17Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:51:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-17T11:20:53.847867Z",
   "charter": "Seachannel",
@@ -21,11 +21,11 @@
   "name": "Evolve Rerise",
   "preview": "https://phira.5wyxi.com/files/2c473a69-2d78-44a7-ace7-adf4eaa1709c",
   "ranked": false,
-  "rating": 0.94322985,
-  "ratingCount": 185,
-  "reviewed": false,
+  "rating": 0.94388473,
+  "ratingCount": 282,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

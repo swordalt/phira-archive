@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:15Z",
-    "lastChanged": "2026-09-21T02:05:15Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:51:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-06T12:32:51.087048Z",
   "charter": "N & D",
@@ -21,11 +21,11 @@
   "name": "魔理沙は大変なものを盗んでいきました",
   "preview": "https://phira.5wyxi.com/files/e87b2e44-151c-4d2c-9f5e-ea2bd9ddfc9a",
   "ranked": false,
-  "rating": 0.9058216,
-  "ratingCount": 222,
-  "reviewed": false,
+  "rating": 0.90916175,
+  "ratingCount": 267,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "东方project",
     "6thWJC",

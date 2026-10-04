@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:48Z",
-    "lastChanged": "2026-09-27T10:15:46Z",
-    "revisions": 2
+    "lastChanged": "2026-10-04T10:50:37Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-06-11T15:21:59.763005Z",
   "charter": "小初か",
@@ -21,14 +21,14 @@
   "name": "Day light",
   "preview": "https://phira.5wyxi.com/files/bfed90b6-d3f3-4d3a-a765-5a683c27173c",
   "ranked": false,
-  "rating": 0.89210016,
-  "ratingCount": 302,
+  "rating": 0.875347,
+  "ratingCount": 318,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-27T07:16:05.582349271Z",
+  "updated": "2026-09-27T07:16:05.582349Z",
   "uploader": 390390
 }

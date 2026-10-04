@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:09Z",
-    "lastChanged": "2026-09-21T02:05:09Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:51:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-17T11:52:12.457655Z",
   "charter": "funkier wheat",
@@ -21,11 +21,11 @@
   "name": "enchanted love",
   "preview": "https://phira.5wyxi.com/files/423f7755-a09e-496f-9215-5f925fb3e691",
   "ranked": false,
-  "rating": 0.92730457,
-  "ratingCount": 543,
-  "reviewed": false,
+  "rating": 0.92692333,
+  "ratingCount": 582,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

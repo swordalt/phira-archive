@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:16Z",
-    "lastChanged": "2026-09-21T15:51:51Z",
-    "revisions": 2
+    "lastChanged": "2026-10-04T10:51:22Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-09-10T13:42:43.919179Z",
   "charter": "冰川中的烈火",
@@ -21,11 +21,11 @@
   "name": "Aberrant Destructor",
   "preview": "https://phira.5wyxi.com/files/3ac1fff1-0af8-4db3-aa71-c2d854c73ce7",
   "ranked": false,
-  "rating": 0.91108483,
-  "ratingCount": 37,
-  "reviewed": false,
+  "rating": 0.92870164,
+  "ratingCount": 122,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

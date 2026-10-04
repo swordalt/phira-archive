@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-27T10:16:04Z",
-    "lastChanged": "2026-09-27T10:16:04Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:51:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-23T17:26:13.005448Z",
   "charter": "小黑",
@@ -21,14 +21,14 @@
   "name": "climax",
   "preview": "https://phira.5wyxi.com/files/0d45f546-befa-444b-9b78-fce88af28d07",
   "ranked": false,
-  "rating": 0.7919574,
-  "ratingCount": 0,
+  "rating": 0.8613223,
+  "ratingCount": 21,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-27T07:19:49.519268210Z",
+  "updated": "2026-09-27T07:19:49.519268Z",
   "uploader": 161559
 }

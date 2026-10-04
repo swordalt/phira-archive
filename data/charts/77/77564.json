@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:16Z",
-    "lastChanged": "2026-09-21T02:05:16Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T10:51:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-09T09:24:30.035945Z",
   "charter": "duckshout & Swan-Shadow",
@@ -21,11 +21,11 @@
   "name": "STARDUST",
   "preview": "https://phira.5wyxi.com/files/aa957a47-02be-4fb4-9c59-1b8a8091748e",
   "ranked": false,
-  "rating": 0.9160863,
-  "ratingCount": 84,
-  "reviewed": false,
+  "rating": 0.9206855,
+  "ratingCount": 105,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "orzmic",
     "regular"

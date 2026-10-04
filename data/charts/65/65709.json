@@ -4,10 +4,10 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:57Z",
-    "lastChanged": "2026-09-27T10:15:57Z",
-    "revisions": 2
+    "lastChanged": "2026-10-04T10:50:53Z",
+    "revisions": 3
   },
-  "chartUpdated": "2026-09-27T07:17:03.171415596Z",
+  "chartUpdated": "2026-09-27T07:17:03.171415Z",
   "charter": "Miny7",
   "composer": "Aiss vs. Abit",
   "created": "2026-07-11T13:10:56.262617Z",
@@ -21,14 +21,14 @@
   "name": "Regnaissance",
   "preview": "https://phira.5wyxi.com/files/775bfb85-3e84-42e6-ba81-6ac549ad5c0b",
   "ranked": false,
-  "rating": 0.77542293,
-  "ratingCount": 17,
+  "rating": 0.7813784,
+  "ratingCount": 34,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-27T07:17:03.171415596Z",
+  "updated": "2026-09-27T07:17:03.171415Z",
   "uploader": 1568967
 }
