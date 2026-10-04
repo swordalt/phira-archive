@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-04T18:06:10Z",
-    "lastChanged": "2026-10-04T18:06:10Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T21:19:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-04T12:48:16.178270Z",
   "charter": "HRS-Team",
@@ -22,7 +22,7 @@
   "preview": "https://phira.5wyxi.com/files/206ae1b4-3fea-41bd-ac75-426d641fa841",
   "ranked": false,
   "rating": 0.7803841,
-  "ratingCount": 2,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -35,6 +35,6 @@
     "段位",
     "plain"
   ],
-  "updated": "2026-10-04T16:20:58.147116Z",
+  "updated": "2026-10-04T16:20:58.147116855Z",
   "uploader": 4226928
 }

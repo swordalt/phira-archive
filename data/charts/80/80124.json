@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-04T18:06:10Z",
-    "lastChanged": "2026-10-04T18:06:10Z",
-    "revisions": 1
+    "lastChanged": "2026-10-04T21:19:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-04T11:50:15.005290Z",
   "charter": "HRS-Team",
@@ -21,8 +21,8 @@
   "name": "汐",
   "preview": "https://phira.5wyxi.com/files/368dbede-11bc-4c23-86e4-2a3887209a38",
   "ranked": false,
-  "rating": 0.9499699,
-  "ratingCount": 46,
+  "rating": 0.9508807,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -35,6 +35,6 @@
     "协",
     "plain"
   ],
-  "updated": "2026-10-04T13:39:13.514645Z",
+  "updated": "2026-10-04T13:39:13.514645390Z",
   "uploader": 4226928
 }
