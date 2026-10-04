@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-04T06:46:30Z",
+    "lastChanged": "2026-10-04T06:46:30Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-10-04T03:11:51.818261Z",
+  "charter": "母鸡Sama",
+  "composer": "onoken a.k.a awl*tree",
+  "created": "2026-10-04T03:11:51.818261Z",
+  "description": "谱师本人上传 谱面为 骐骥杯 比赛谱面，特别感谢Ezcape_82对多指段的修缮",
+  "difficulty": 16.9,
+  "file": "https://phira.5wyxi.com/files/d2c2fab5-1a31-47d3-a099-b967a74d6acc",
+  "id": 80054,
+  "illustration": "https://phira.5wyxi.com/files/eca00a8d-3aaf-4236-988b-450921f977f3",
+  "illustrator": "煎茶",
+  "level": "IN Lv.16",
+  "name": "Melodiniq",
+  "preview": "https://phira.5wyxi.com/files/e66e8f96-7a7e-4889-adbb-7b538553d87c",
+  "ranked": false,
+  "rating": 0.8097887,
+  "ratingCount": 16,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "骐骥杯",
+    "CHUNITHM",
+    "regular"
+  ],
+  "updated": "2026-10-04T03:15:17.893926Z",
+  "uploader": 3742
+}
