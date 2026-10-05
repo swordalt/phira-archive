@@ -140,3 +140,8 @@
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 80125, "ts": "2026-10-04T21:19:23Z"}
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 80124, "ts": "2026-10-04T21:19:23Z"}
 {"changed": ["*new*"], "division": "plain", "event": "new", "id": 75901, "ts": "2026-10-05T06:55:10Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 80170, "ts": "2026-10-05T15:55:05Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 79619, "ts": "2026-10-05T15:55:05Z"}
+{"changed": ["*new*"], "division": "plain", "event": "new", "id": 79358, "ts": "2026-10-05T15:55:11Z"}
+{"changed": ["*new*"], "division": "plain", "event": "new", "id": 79336, "ts": "2026-10-05T15:55:11Z"}
+{"changed": ["updated"], "division": "plain", "event": "updated", "id": 75901, "ts": "2026-10-05T15:55:12Z"}

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-05T06:55:10Z",
-    "lastChanged": "2026-10-05T06:55:10Z",
-    "revisions": 1
+    "lastChanged": "2026-10-05T15:55:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-26T17:04:35.727371Z",
   "charter": "zzzb",
@@ -21,7 +21,7 @@
   "name": "Bass **** but ** has more ******** and ******",
   "preview": "https://phira.5wyxi.com/files/55da8e85-3b5d-4dcc-846d-cf5133da9478",
   "ranked": false,
-  "rating": null,
+  "rating": 0.755949,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -30,6 +30,6 @@
     "dfc",
     "plain"
   ],
-  "updated": "2026-10-05T04:05:02.970359Z",
+  "updated": "2026-10-05T04:05:02.970359834Z",
   "uploader": 3997613
 }
