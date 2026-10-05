@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-05T15:55:11Z",
-    "lastChanged": "2026-10-05T15:55:11Z",
-    "revisions": 1
+    "lastChanged": "2026-10-05T22:33:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-28T11:46:15.596696Z",
   "charter": "细菌w",
@@ -21,8 +21,8 @@
   "name": "Aquaris",
   "preview": "https://phira.5wyxi.com/files/b488b3b0-a9d1-4946-a2a4-d08f589e3a6a",
   "ranked": false,
-  "rating": 0.7198484,
-  "ratingCount": 1,
+  "rating": 0.82499236,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "6k",
     "plain"
   ],
-  "updated": "2026-10-05T14:55:40.552545Z",
+  "updated": "2026-10-05T14:55:40.552545716Z",
   "uploader": 148811
 }
