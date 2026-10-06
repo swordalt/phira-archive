@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-06T10:07:23Z",
-    "lastChanged": "2026-10-06T10:07:23Z",
-    "revisions": 1
+    "lastChanged": "2026-10-06T17:08:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-19T16:00:54.649531Z",
   "charter": "weicaoNya",
@@ -21,8 +21,8 @@
   "name": "輪廻玲々",
   "preview": "https://phira.5wyxi.com/files/070c0617-373b-4d0b-be08-1c9ed5d6b54e",
   "ranked": false,
-  "rating": 0.8257282,
-  "ratingCount": 4,
+  "rating": 0.870769,
+  "ratingCount": 1,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -31,6 +31,6 @@
     "CHUNITHM",
     "plain"
   ],
-  "updated": "2026-10-06T07:02:56.512938Z",
+  "updated": "2026-10-06T07:02:56.512938719Z",
   "uploader": 2107728
 }

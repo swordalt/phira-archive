@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-06T10:07:15Z",
-    "lastChanged": "2026-10-06T10:07:15Z",
-    "revisions": 1
+    "lastChanged": "2026-10-06T17:08:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-05T15:09:51.992919Z",
   "charter": "4×4 Demiourgia:\"BIRTH\"",
@@ -21,11 +21,11 @@
   "name": "Quattro Elements Dimiourgia",
   "preview": "https://phira.5wyxi.com/files/1e205e94-d6e0-4a59-8fd7-1da3710393f8",
   "ranked": false,
-  "rating": 0.8433327,
+  "rating": 0.8617669,
   "ratingCount": 12,
-  "reviewed": true,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
