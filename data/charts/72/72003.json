@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-06T17:08:55Z",
-    "lastChanged": "2026-10-06T22:36:37Z",
-    "revisions": 2
+    "lastChanged": "2026-10-07T17:46:27Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-08T04:08:21.847745Z",
   "charter": "食欲でちゅん",
@@ -21,8 +21,8 @@
   "name": "世界函数~World Function~",
   "preview": "https://phira.5wyxi.com/files/1fadc2aa-5cb1-41b9-834a-b488ccd240a6",
   "ranked": false,
-  "rating": 0.79426795,
-  "ratingCount": 0,
+  "rating": 0.85721785,
+  "ratingCount": 7,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "6k",
     "plain"
   ],
-  "updated": "2026-10-06T15:07:29.711593108Z",
+  "updated": "2026-10-06T15:07:29.711593Z",
   "uploader": 42791
 }

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-01T05:41:58Z",
-    "lastChanged": "2026-10-01T13:03:17Z",
-    "revisions": 2
+    "lastChanged": "2026-10-07T17:46:26Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-09-28T15:44:42.914901Z",
   "charter": "YMEA",
@@ -21,8 +21,8 @@
   "name": "Come on, vanish, our future.",
   "preview": "https://phira.5wyxi.com/files/5452ff4f-0eb6-4435-9a4c-2f8cfee25e07",
   "ranked": false,
-  "rating": 0.92561513,
-  "ratingCount": 0,
+  "rating": 0.89216894,
+  "ratingCount": 243,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "Kanoguti",
     "plain"
   ],
-  "updated": "2026-10-01T00:40:13.473452369Z",
+  "updated": "2026-10-01T00:40:13.473452Z",
   "uploader": 4081817
 }

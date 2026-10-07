@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-05T15:55:05Z",
-    "lastChanged": "2026-10-05T22:33:40Z",
-    "revisions": 2
+    "lastChanged": "2026-10-07T17:46:22Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-04T15:40:01.052692Z",
   "charter": "「Mare Diracicum」",
@@ -21,14 +21,14 @@
   "name": "天元枢机([Central Prayer Unit])",
   "preview": "https://phira.5wyxi.com/files/45a47a06-7c33-4139-8d98-5e6efb41d052",
   "ranked": false,
-  "rating": 0.89782876,
-  "ratingCount": 0,
+  "rating": 0.9052604,
+  "ratingCount": 76,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-05T13:41:04.407106276Z",
+  "updated": "2026-10-05T13:41:04.407106Z",
   "uploader": 89136
 }

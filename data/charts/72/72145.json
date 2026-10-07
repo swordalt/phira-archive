@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-07T02:17:09Z",
-    "lastChanged": "2026-10-07T10:09:03Z",
-    "revisions": 2
+    "lastChanged": "2026-10-07T17:46:27Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-08T15:41:54.567745Z",
   "charter": "BaDu0NwN",
@@ -22,7 +22,7 @@
   "preview": "https://phira.5wyxi.com/files/4e47e69a-82a1-42b6-89ee-06b26ba2c251",
   "ranked": false,
   "rating": 0.8156982,
-  "ratingCount": 0,
+  "ratingCount": 5,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -31,6 +31,6 @@
     "无轨",
     "plain"
   ],
-  "updated": "2026-10-07T01:09:02.879723879Z",
+  "updated": "2026-10-07T01:09:02.879723Z",
   "uploader": 1737
 }

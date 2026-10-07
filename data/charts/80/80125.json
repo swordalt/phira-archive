@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-04T18:06:10Z",
-    "lastChanged": "2026-10-04T21:19:23Z",
-    "revisions": 2
+    "lastChanged": "2026-10-07T17:46:26Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-04T11:50:39.394839Z",
   "charter": "HRS-Team",
@@ -21,8 +21,8 @@
   "name": "銀色",
   "preview": "https://phira.5wyxi.com/files/c6a5eacb-dd2b-463b-b994-08f3a3d9376b",
   "ranked": false,
-  "rating": 0.7482895,
-  "ratingCount": 0,
+  "rating": 0.8778362,
+  "ratingCount": 8,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -35,6 +35,6 @@
     "幻",
     "plain"
   ],
-  "updated": "2026-10-04T16:20:25.384774070Z",
+  "updated": "2026-10-04T16:20:25.384774Z",
   "uploader": 4226928
 }

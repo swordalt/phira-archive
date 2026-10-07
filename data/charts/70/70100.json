@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-07T02:17:03Z",
-    "lastChanged": "2026-10-07T10:08:56Z",
-    "revisions": 2
+    "lastChanged": "2026-10-07T17:46:23Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-07-30T07:34:03.585277Z",
   "charter": "封茗云冰",
@@ -21,8 +21,8 @@
   "name": "REDRED",
   "preview": "https://phira.5wyxi.com/files/04d4afeb-81b6-4d3c-bab3-1a07dabc2038",
   "ranked": false,
-  "rating": 0.9281765,
-  "ratingCount": 0,
+  "rating": 0.9291358,
+  "ratingCount": 206,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "CORTIS",
     "regular"
   ],
-  "updated": "2026-10-06T23:57:04.129417867Z",
+  "updated": "2026-10-06T23:57:04.129417Z",
   "uploader": 1858289
 }

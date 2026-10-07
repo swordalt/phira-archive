@@ -4,10 +4,10 @@
       "regular"
     ],
     "firstSeen": "2026-10-04T13:09:05Z",
-    "lastChanged": "2026-10-04T18:06:06Z",
-    "revisions": 2
+    "lastChanged": "2026-10-07T17:46:22Z",
+    "revisions": 3
   },
-  "chartUpdated": "2026-10-04T15:40:02.122505857Z",
+  "chartUpdated": "2026-10-04T15:40:02.122505Z",
   "charter": "YSTAR-TTTTTTTTTT",
   "composer": "DashyDesu",
   "created": "2026-10-04T10:52:50.642109Z",
@@ -21,8 +21,8 @@
   "name": "I WANT TO BL00000000M",
   "preview": "https://phira.5wyxi.com/files/a038ea50-73a2-4e71-b280-4d6bcc534152",
   "ranked": false,
-  "rating": 0.8595772,
-  "ratingCount": 17,
+  "rating": 0.8815846,
+  "ratingCount": 93,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "Opentaiko",
     "regular"
   ],
-  "updated": "2026-10-04T15:40:02.122505857Z",
+  "updated": "2026-10-04T15:40:02.122505Z",
   "uploader": 1213694
 }

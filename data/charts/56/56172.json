@@ -4,10 +4,10 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:49Z",
-    "lastChanged": "2026-10-02T09:39:28Z",
-    "revisions": 2
+    "lastChanged": "2026-10-07T17:46:27Z",
+    "revisions": 3
   },
-  "chartUpdated": "2026-10-02T05:41:45.953342554Z",
+  "chartUpdated": "2026-10-02T05:41:45.953342Z",
   "charter": "メアサクリファイス",
   "composer": "Ton Magie&Sun1ight&nakotanmaru",
   "created": "2026-04-12T09:33:08.219681Z",
@@ -21,8 +21,8 @@
   "name": "雲鶴サクリファイス",
   "preview": "https://phira.5wyxi.com/files/55464d33-6f71-4f3a-b994-00c80ff2272d",
   "ranked": false,
-  "rating": 0.9200557,
-  "ratingCount": 172,
+  "rating": 0.9192781,
+  "ratingCount": 180,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -32,6 +32,6 @@
     "雲鶴サクリファイス",
     "plain"
   ],
-  "updated": "2026-10-02T05:41:45.953342554Z",
+  "updated": "2026-10-02T05:41:45.953342Z",
   "uploader": 457677
 }

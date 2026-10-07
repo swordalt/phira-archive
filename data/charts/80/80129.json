@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-04T18:06:10Z",
-    "lastChanged": "2026-10-04T21:19:23Z",
-    "revisions": 2
+    "lastChanged": "2026-10-07T17:46:26Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-04T12:30:36.536055Z",
   "charter": "HRS-Team",
@@ -21,8 +21,8 @@
   "name": "朝影",
   "preview": "https://phira.5wyxi.com/files/8610f6b1-1635-490d-9a75-f44c88e2062f",
   "ranked": false,
-  "rating": 0.8257282,
-  "ratingCount": 0,
+  "rating": 0.9142612,
+  "ratingCount": 244,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -34,6 +34,6 @@
     "Pattern",
     "plain"
   ],
-  "updated": "2026-10-04T16:20:38.891363051Z",
+  "updated": "2026-10-04T16:20:38.891363Z",
   "uploader": 4226928
 }
