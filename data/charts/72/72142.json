@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-07T02:17:09Z",
-    "lastChanged": "2026-10-07T02:17:09Z",
-    "revisions": 1
+    "lastChanged": "2026-10-07T10:09:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-08T15:33:04.959993Z",
   "charter": "BaDu0NwN",
@@ -21,7 +21,7 @@
   "name": "河南dan",
   "preview": "https://phira.5wyxi.com/files/4ffe0384-1dda-45d9-82f3-f013a4556984",
   "ranked": false,
-  "rating": null,
+  "rating": 0.810589,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -33,6 +33,6 @@
     "无理",
     "plain"
   ],
-  "updated": "2026-10-07T01:09:08.706635Z",
+  "updated": "2026-10-07T01:09:08.706635801Z",
   "uploader": 1737
 }
