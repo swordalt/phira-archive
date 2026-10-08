@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-08T17:50:28Z",
-    "lastChanged": "2026-10-08T17:50:28Z",
-    "revisions": 1
+    "lastChanged": "2026-10-08T23:16:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-06T11:09:18.048820Z",
   "charter": "ARiV",
@@ -22,7 +22,7 @@
   "preview": "https://phira.5wyxi.com/files/cb94da67-a2b5-46fa-8559-7d90222846e8",
   "ranked": false,
   "rating": 0.8678234,
-  "ratingCount": 7,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "4k",
     "plain"
   ],
-  "updated": "2026-10-08T12:49:29.679250Z",
+  "updated": "2026-10-08T12:49:29.679250989Z",
   "uploader": 562298
 }

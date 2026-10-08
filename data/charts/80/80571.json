@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-08T17:50:20Z",
-    "lastChanged": "2026-10-08T17:50:20Z",
-    "revisions": 1
+    "lastChanged": "2026-10-08T23:16:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-08T01:56:00.193829Z",
   "charter": "kama",
@@ -21,14 +21,14 @@
   "name": "Rendezvous",
   "preview": "https://phira.5wyxi.com/files/d5a0c5c6-c417-41af-8a03-a4c7114a06b4",
   "ranked": false,
-  "rating": 0.92157197,
-  "ratingCount": 61,
+  "rating": 0.9227672,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-08T11:10:18.223766Z",
+  "updated": "2026-10-08T11:10:18.223766134Z",
   "uploader": 3958857
 }
