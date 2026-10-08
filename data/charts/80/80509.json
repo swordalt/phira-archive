@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-08T10:25:49Z",
+    "lastChanged": "2026-10-08T10:25:49Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-10-07T05:30:07.137762Z",
+  "charter": "小指を結んで",
+  "composer": "Mili",
+  "created": "2026-10-07T05:30:07.137762Z",
+  "description": "6thWJC参赛谱；\n合作谱，合作者mgr_",
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/3be2b04a-a200-497e-9ed3-65c309e50a36",
+  "id": 80509,
+  "illustration": "https://phira.5wyxi.com/files/1a3ee689-5ad6-46bf-843c-2a38c44d6e30",
+  "illustrator": "nishiko24",
+  "level": "IN Lv.13",
+  "name": "YUBIKIRI-GENMAN",
+  "preview": "https://phira.5wyxi.com/files/a794a830-612e-472e-9f96-5aca37156b1c",
+  "ranked": false,
+  "rating": 0.87017524,
+  "ratingCount": 15,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Mili",
+    "regular"
+  ],
+  "updated": "2026-10-08T04:59:54.369947Z",
+  "uploader": 96675
+}

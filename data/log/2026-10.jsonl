@@ -224,3 +224,5 @@
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 75901, "ts": "2026-10-07T17:46:27Z"}
 {"changed": ["chartUpdated", "updated"], "division": "plain", "event": "updated", "id": 56172, "ts": "2026-10-07T17:46:27Z"}
 {"changed": ["updated"], "division": "visual", "event": "updated", "id": 79472, "ts": "2026-10-07T17:46:28Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 80580, "ts": "2026-10-08T10:25:49Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 80509, "ts": "2026-10-08T10:25:49Z"}
