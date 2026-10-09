@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-09T13:07:00Z",
+    "lastChanged": "2026-10-09T13:07:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-13T03:27:35.045095Z",
+  "charter": "tzai",
+  "composer": "MAYA AKAI",
+  "created": "2026-09-13T03:27:35.045095Z",
+  "description": "（谱师本人上传）技巧底力谱，最初是在wm接触的歌曲，实在是给我打爽了，于是进行一个写\n综合来看放在16.2，之前定的16.1被很多人觉得难（",
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/1abcfade-68b2-41e9-9419-d11792e5b3ed",
+  "id": 77978,
+  "illustration": "https://phira.5wyxi.com/files/b536b025-2a69-469d-934d-b82beb2293c8",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "LiftOff",
+  "preview": "https://phira.5wyxi.com/files/5d681a24-0c80-480c-ad17-bf99b2bb417f",
+  "ranked": false,
+  "rating": 0.8260252,
+  "ratingCount": 7,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-10-09T09:55:41.553985Z",
+  "uploader": 1447649
+}

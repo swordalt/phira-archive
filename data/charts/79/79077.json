@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-09T13:07:00Z",
+    "lastChanged": "2026-10-09T13:07:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-26T03:03:43.368093Z",
+  "charter": "Don't Fight The bnN4",
+  "composer": "黒魔",
+  "created": "2026-09-26T03:03:43.368093Z",
+  "description": "曲目：Don't Fight The Music\n曲师：黒魔\nBPM：190-200\n难度：IN Lv.15(.6)\n算是我第一次认真写的谱吧，不过受限于当时的谱力呈现出来的效果不太行（虽然现在又不怎么样），觉得有些想法还算有点意思就微调了点\n谱面预览视频\nBV1syhU6xEgb",
+  "difficulty": 15.600002,
+  "file": "https://phira.5wyxi.com/files/5b454e7f-bf25-4448-b1a2-e4720f49ebcd",
+  "id": 79077,
+  "illustration": "https://phira.5wyxi.com/files/dc65964a-3c03-48ec-8f55-53c8727a4c64",
+  "illustrator": "SEGA",
+  "level": "IN Lv.15",
+  "name": "Don't Fight The Music",
+  "preview": "https://phira.5wyxi.com/files/3958a555-847e-41ab-9700-91a938afebb5",
+  "ranked": false,
+  "rating": 0.7564232,
+  "ratingCount": 6,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-10-09T09:52:02.611484Z",
+  "uploader": 3132
+}

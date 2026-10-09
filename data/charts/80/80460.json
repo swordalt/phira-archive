@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-10-09T13:07:33Z",
+    "lastChanged": "2026-10-09T13:07:33Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-10-06T15:27:45.532207Z",
+  "charter": "E_Rizon",
+  "composer": "mii-ru",
+  "created": "2026-10-06T15:27:45.532207Z",
+  "description": "极限向5k，使用歌曲原速，键型tech，预估难度14dan+\n95之约已到，和你们5k极限比爆了\n@Zenith_夏禹咕咕羲#21375 （我喜欢你）\n\n0.8速版本请搜索#77419\n感谢legitIX提供的测试与修改（加强）建议",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/50e47124-3b20-4005-b93d-fbabd82907cb",
+  "id": 80460,
+  "illustration": "https://phira.5wyxi.com/files/7105932f-9f11-4e9f-98d5-ce2353cd8580",
+  "illustrator": "Convert by MVP",
+  "level": "[5K]Nightmare~10.1",
+  "name": "Mare Tranquillitatis",
+  "preview": "https://phira.5wyxi.com/files/14f0043b-1626-426f-a4b1-cf58ffc614d7",
+  "ranked": false,
+  "rating": 0.70983166,
+  "ratingCount": 2,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "5k",
+    "plain"
+  ],
+  "updated": "2026-10-09T07:28:01.425834Z",
+  "uploader": 1567739
+}

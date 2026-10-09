@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-09T13:06:59Z",
+    "lastChanged": "2026-10-09T13:06:59Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-10-08T07:26:42.593930Z",
+  "charter": "绮晓络",
+  "composer": "Mili",
+  "created": "2026-10-08T07:26:42.593930Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/dabe4585-3a1e-4bc1-81d1-ebf46517b38b",
+  "id": 80582,
+  "illustration": "https://phira.5wyxi.com/files/77ab3757-42bd-41aa-8d1b-e36e204c202b",
+  "illustrator": "藤森蒼 ",
+  "level": "IN 15",
+  "name": "world.execute(me);",
+  "preview": "https://phira.5wyxi.com/files/e4ec8672-1a56-4213-85e7-8ccc6dd2d009",
+  "ranked": false,
+  "rating": 0.83110845,
+  "ratingCount": 14,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-10-09T07:29:25.593013Z",
+  "uploader": 27141
+}

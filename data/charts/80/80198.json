@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-09T13:07:00Z",
+    "lastChanged": "2026-10-09T13:07:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-10-05T02:08:48.869646Z",
+  "charter": "X5ter",
+  "composer": "黒魔",
+  "created": "2026-10-05T02:08:48.869646Z",
+  "description": null,
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/296fc299-770e-4b08-acef-ebd690d00fd1",
+  "id": 80198,
+  "illustration": "https://phira.5wyxi.com/files/c286c2eb-d91f-4d41-a035-3fba008a454d",
+  "illustrator": "山山奇",
+  "level": "IN Lv.15",
+  "name": "Never Say Goodbye",
+  "preview": "https://phira.5wyxi.com/files/d8e1a2d4-6a8b-4ea6-a614-df7a8d2f59f0",
+  "ranked": false,
+  "rating": 0.7615415,
+  "ratingCount": 5,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-10-09T09:41:59.333003Z",
+  "uploader": 1908475
+}

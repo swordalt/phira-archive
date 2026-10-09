@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-06T17:08:54Z",
-    "lastChanged": "2026-10-06T17:08:54Z",
-    "revisions": 1
+    "lastChanged": "2026-10-09T13:07:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-06T00:19:37.385324Z",
   "charter": "TEC109",
@@ -13,16 +13,16 @@
   "created": "2026-10-06T00:19:37.385324Z",
   "description": "本人上传\n1009/2500，98.09\n来点经典练习谱\n双指低难谱面，多指谨慎游玩",
   "difficulty": 11.400002,
-  "file": "https://phira.5wyxi.com/files/a48790c4-f931-47a2-9450-88d36a89f96c",
+  "file": "https://phira.5wyxi.com/files/19116e23-b996-4a47-a798-76f45d5326ca",
   "id": 80355,
-  "illustration": "https://phira.5wyxi.com/files/1ed3d734-027d-4ead-b4d3-575ce74d099b",
+  "illustration": "https://phira.5wyxi.com/files/ffafccba-0736-4c68-bb3e-455e112059de",
   "illustrator": "Malody",
   "level": "Classic Lv.11",
   "name": "Scorpion Dance",
-  "preview": "https://phira.5wyxi.com/files/47544e7a-a503-4dc8-bbc3-426963d36393",
+  "preview": "https://phira.5wyxi.com/files/da2bd658-93a5-4fb9-b27e-7735aeaa2d7d",
   "ranked": false,
-  "rating": 0.86019063,
-  "ratingCount": 0,
+  "rating": 0.90115595,
+  "ratingCount": 12,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -33,6 +33,6 @@
     "耐力",
     "plain"
   ],
-  "updated": "2026-10-06T11:41:54.463145Z",
+  "updated": "2026-10-09T09:37:24.123196329Z",
   "uploader": 3992187
 }

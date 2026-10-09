@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-09T13:07:00Z",
+    "lastChanged": "2026-10-09T13:07:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-24T14:12:35.317128Z",
+  "charter": "Astellar vs. Tyarnl",
+  "composer": "ああああ vs. ぺのれり",
+  "created": "2026-09-24T14:12:35.317128Z",
+  "description": "也算是重新开始写谱了，这张谱并没有花多少时间。\n配置和部分表演借鉴了原游戏的master难度，至于为什么显示的是level15而不是15+，部分因为拼接错误，还因为要写一个AT，这版IN塞的比较克制。\n遇到表演问题可以打开强制宽高比\n还有一些表演编辑器里正常，模拟器里就出现问题，就放着不管了",
+  "difficulty": 18.0,
+  "file": "https://phira.5wyxi.com/files/e309550f-7b9a-46ba-941d-e4d5253f7d2d",
+  "id": 78858,
+  "illustration": "https://phira.5wyxi.com/files/7cd80b1f-f7ff-4031-9ba0-ad0c0f054cab",
+  "illustrator": "O.N.G.E.K.I original",
+  "level": "IN Lv.18",
+  "name": "Recollect Lines",
+  "preview": "https://phira.5wyxi.com/files/24774229-631f-481b-b5ad-539935f2f904",
+  "ranked": false,
+  "rating": null,
+  "ratingCount": 0,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-10-09T09:53:19.576339Z",
+  "uploader": 4035649
+}
