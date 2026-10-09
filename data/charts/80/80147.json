@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-09T18:47:48Z",
-    "lastChanged": "2026-10-09T18:47:48Z",
-    "revisions": 1
+    "lastChanged": "2026-10-09T23:10:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-04T14:00:34.840663Z",
   "charter": "XD_X",
@@ -22,7 +22,7 @@
   "preview": "https://phira.5wyxi.com/files/d7237bbc-0003-457b-bf2f-3170ca1ed943",
   "ranked": false,
   "rating": 0.7198484,
-  "ratingCount": 1,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -33,6 +33,6 @@
     "生贺谱",
     "plain"
   ],
-  "updated": "2026-10-09T13:45:39.545556Z",
+  "updated": "2026-10-09T13:45:39.545556481Z",
   "uploader": 295128
 }
