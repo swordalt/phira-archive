@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-09T13:07:00Z",
-    "lastChanged": "2026-10-09T13:07:00Z",
-    "revisions": 1
+    "lastChanged": "2026-10-09T18:47:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-02T05:03:37.288740Z",
   "charter": "Golden Slime",
@@ -21,14 +21,14 @@
   "name": "Melodiniq",
   "preview": "https://phira.5wyxi.com/files/ab65c6d7-975e-46a4-bbec-c87c6ac3891b",
   "ranked": false,
-  "rating": 0.81795555,
-  "ratingCount": 7,
+  "rating": 0.8411921,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-09T09:47:22.924953Z",
+  "updated": "2026-10-09T09:47:22.924953359Z",
   "uploader": 698580
 }

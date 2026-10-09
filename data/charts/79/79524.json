@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-09T13:07:00Z",
-    "lastChanged": "2026-10-09T13:07:00Z",
-    "revisions": 1
+    "lastChanged": "2026-10-09T18:47:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-30T15:37:15.908771Z",
   "charter": "YMEA x Lage",
@@ -21,7 +21,7 @@
   "name": "Technical-IO",
   "preview": "https://phira.5wyxi.com/files/2caa69bb-a30c-4b2e-8422-a691bf471376",
   "ranked": false,
-  "rating": null,
+  "rating": 0.8095886,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -29,6 +29,6 @@
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-09T13:06:07.130662Z",
+  "updated": "2026-10-09T13:06:07.130662511Z",
   "uploader": 4081817
 }

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-09T13:07:33Z",
-    "lastChanged": "2026-10-09T13:07:33Z",
-    "revisions": 1
+    "lastChanged": "2026-10-09T18:47:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-27T03:20:40.756625Z",
   "charter": "Fallen Axis/",
@@ -21,8 +21,8 @@
   "name": "Fallen Symphony",
   "preview": "https://phira.5wyxi.com/files/25c543a4-596b-4309-8d56-086d6bef41f0",
   "ranked": false,
-  "rating": 0.8499726,
-  "ratingCount": 8,
+  "rating": 0.84768474,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "4K",
     "plain"
   ],
-  "updated": "2026-10-09T09:51:23.601910Z",
+  "updated": "2026-10-09T09:51:23.601910371Z",
   "uploader": 1442685
 }

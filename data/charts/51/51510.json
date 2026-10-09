@@ -4,25 +4,25 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:08Z",
-    "lastChanged": "2026-09-21T02:07:08Z",
-    "revisions": 1
+    "lastChanged": "2026-10-09T18:47:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-22T13:44:38.378019Z",
   "charter": "Sanfgr",
   "composer": "Sanfgr",
   "created": "2026-01-22T13:44:38.378019Z",
   "description": "滚母φ牌仿4k段位谱面，人类理论不可打，纯粪谱",
-  "difficulty": 10.0,
-  "file": "https://phira.5wyxi.com/files/99e5ef5e-b036-428f-b67a-695b74a3f077",
+  "difficulty": 0.0,
+  "file": "https://phira.5wyxi.com/files/5a29144f-84a0-4347-8e7c-e774d0483ac1",
   "id": 51510,
-  "illustration": "https://phira.5wyxi.com/files/6deff86e-1099-4343-9d91-f14dfe0ea5a8",
+  "illustration": "https://phira.5wyxi.com/files/a3793018-8cf4-412e-b898-7f15a40bbb64",
   "illustrator": "",
   "level": "Sadfgr Lv.φ",
   "name": "Sadfgr～gunmu#Lv.UK～φ",
-  "preview": "https://phira.5wyxi.com/files/08163204-ec36-4d6d-aef6-b30cd5929942",
+  "preview": "https://phira.5wyxi.com/files/3429039f-1afd-4f0e-aa99-1fc14938431f",
   "ranked": false,
-  "rating": 0.80603427,
-  "ratingCount": 9,
+  "rating": 0.8189387,
+  "ratingCount": 10,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -31,6 +31,6 @@
     "粪谱",
     "visual"
   ],
-  "updated": "2026-01-22T13:44:38.378019Z",
+  "updated": "2026-10-09T15:06:26.188948846Z",
   "uploader": 842527
 }

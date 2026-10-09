@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-09T13:07:33Z",
-    "lastChanged": "2026-10-09T13:07:33Z",
-    "revisions": 1
+    "lastChanged": "2026-10-09T18:47:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-06T15:27:45.532207Z",
   "charter": "E_Rizon",
@@ -21,8 +21,8 @@
   "name": "Mare Tranquillitatis",
   "preview": "https://phira.5wyxi.com/files/14f0043b-1626-426f-a4b1-cf58ffc614d7",
   "ranked": false,
-  "rating": 0.70983166,
-  "ratingCount": 2,
+  "rating": 0.7702763,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "5k",
     "plain"
   ],
-  "updated": "2026-10-09T07:28:01.425834Z",
+  "updated": "2026-10-09T07:28:01.425834236Z",
   "uploader": 1567739
 }

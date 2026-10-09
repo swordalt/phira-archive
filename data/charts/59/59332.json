@@ -4,25 +4,25 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:45Z",
-    "lastChanged": "2026-09-21T02:04:45Z",
-    "revisions": 1
+    "lastChanged": "2026-10-09T18:47:43Z",
+    "revisions": 2
   },
-  "chartUpdated": "2026-07-26T06:04:22.802460Z",
+  "chartUpdated": "2026-10-09T14:12:10.988455327Z",
   "charter": "Change the world with a single corn",
   "composer": "周杰伦",
   "created": "2026-05-29T02:18:35.248207Z",
-  "description": "谱师本人上传\nB站：XingChen-星晨伴月\n通宵爆肝完成，希望各位喜欢www\n2026.06.02微调：\n增加部分动效\n定数调整：14.2→14.0\r\n2026.07.26调整部分谱面动效\r\n排行榜清榜致歉",
+  "description": "谱师本人上传\nB站/抖音：XingChen-星晨伴月\n通宵爆肝完成，希望各位喜欢www\n2026.06.02微调：\n增加部分动效\n定数调整：14.2→14.0\r\n2026.07.26调整部分谱面动效\n2026.10.09完善谱面动效\r\n排行榜清榜致歉",
   "difficulty": 14.0,
-  "file": "https://phira.5wyxi.com/files/4af25128-3020-4cea-843b-676695b5d8f8",
+  "file": "https://phira.5wyxi.com/files/fff89dcd-c5c2-49b0-b5f5-7e05eee717d5",
   "id": 59332,
-  "illustration": "https://phira.5wyxi.com/files/ec6f6626-ac0a-42cf-8177-c243ea0b6e92",
-  "illustrator": "",
+  "illustration": "https://phira.5wyxi.com/files/8b6e103a-039b-4244-8bff-d9492ada922d",
+  "illustrator": "From Internet",
   "level": "IN  Lv.14",
   "name": "稻香",
-  "preview": "https://phira.5wyxi.com/files/2dc21558-2d29-4b8d-97e0-0d4f71a5af07",
+  "preview": "https://phira.5wyxi.com/files/547badae-9ebf-444f-8e76-1a4b28765860",
   "ranked": false,
-  "rating": 0.93438536,
-  "ratingCount": 63786,
+  "rating": 0.9343081,
+  "ratingCount": 65070,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -32,6 +32,6 @@
     "歌词故事板",
     "regular"
   ],
-  "updated": "2026-07-26T06:04:22.802460Z",
+  "updated": "2026-10-09T14:12:10.988455327Z",
   "uploader": 4301
 }

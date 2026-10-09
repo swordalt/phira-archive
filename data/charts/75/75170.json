@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-09T13:07:00Z",
-    "lastChanged": "2026-10-09T13:07:00Z",
-    "revisions": 1
+    "lastChanged": "2026-10-09T18:47:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-23T05:35:32.528927Z",
   "charter": "steal seelence",
@@ -22,13 +22,13 @@
   "preview": "https://phira.5wyxi.com/files/2a0814ab-41ec-4da4-8cd5-3bcb14454feb",
   "ranked": false,
   "rating": 0.7413558,
-  "ratingCount": 4,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-09T10:05:52.527011Z",
+  "updated": "2026-10-09T10:05:52.527011311Z",
   "uploader": 3947090
 }

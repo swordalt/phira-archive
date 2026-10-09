@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-09T13:06:59Z",
-    "lastChanged": "2026-10-09T13:06:59Z",
-    "revisions": 1
+    "lastChanged": "2026-10-09T18:47:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-08T07:26:42.593930Z",
   "charter": "绮晓络",
@@ -21,14 +21,14 @@
   "name": "world.execute(me);",
   "preview": "https://phira.5wyxi.com/files/e4ec8672-1a56-4213-85e7-8ccc6dd2d009",
   "ranked": false,
-  "rating": 0.83110845,
-  "ratingCount": 14,
+  "rating": 0.8156004,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-09T07:29:25.593013Z",
+  "updated": "2026-10-09T07:29:25.593013876Z",
   "uploader": 27141
 }

@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "troll"
+    ],
+    "firstSeen": "2026-10-09T18:47:45Z",
+    "lastChanged": "2026-10-09T18:47:45Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-20T04:58:01.649579Z",
+  "charter": "不砶-Phira",
+  "composer": "PDD-徐梦圆",
+  "created": "2026-09-20T04:58:01.649579Z",
+  "description": "电脑基本知识检测\n第一单元\n",
+  "difficulty": 18.0,
+  "file": "https://phira.5wyxi.com/files/ad54812d-02cd-4ea6-9ac8-1207c871de4a",
+  "id": 78561,
+  "illustration": "https://phira.5wyxi.com/files/fe3cd706-690c-4fbc-885a-a0fcd804e79d",
+  "illustrator": "不砶-Phira",
+  "level": "SP LV.18",
+  "name": "电脑知识基本检测",
+  "preview": "https://phira.5wyxi.com/files/53f80559-fc7a-4c85-a3cc-9c62b8d6004a",
+  "ranked": false,
+  "rating": 0.6664713,
+  "ratingCount": 1,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "troll"
+  ],
+  "updated": "2026-10-09T14:59:07.492521Z",
+  "uploader": 4034145
+}

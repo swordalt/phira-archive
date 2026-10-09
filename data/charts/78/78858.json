@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-09T13:07:00Z",
-    "lastChanged": "2026-10-09T13:07:00Z",
-    "revisions": 1
+    "lastChanged": "2026-10-09T18:47:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-24T14:12:35.317128Z",
   "charter": "Astellar vs. Tyarnl",
@@ -21,7 +21,7 @@
   "name": "Recollect Lines",
   "preview": "https://phira.5wyxi.com/files/24774229-631f-481b-b5ad-539935f2f904",
   "ranked": false,
-  "rating": null,
+  "rating": 0.7803841,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -29,6 +29,6 @@
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-09T09:53:19.576339Z",
+  "updated": "2026-10-09T09:53:19.576339500Z",
   "uploader": 4035649
 }

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-09T13:07:00Z",
-    "lastChanged": "2026-10-09T13:07:00Z",
-    "revisions": 1
+    "lastChanged": "2026-10-09T18:47:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-27T11:39:46.467141Z",
   "charter": "//formatting",
@@ -21,14 +21,14 @@
   "name": "融化",
   "preview": "https://phira.5wyxi.com/files/e4284bf3-040f-4320-8def-210207b3b7d5",
   "ranked": false,
-  "rating": 0.810589,
-  "ratingCount": 6,
+  "rating": 0.84834963,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-09T10:03:22.010509Z",
+  "updated": "2026-10-09T10:03:22.010509981Z",
   "uploader": 18448
 }

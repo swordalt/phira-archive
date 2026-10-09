@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-09T13:07:00Z",
-    "lastChanged": "2026-10-09T13:07:00Z",
-    "revisions": 1
+    "lastChanged": "2026-10-09T18:47:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-13T03:27:35.045095Z",
   "charter": "tzai",
@@ -21,14 +21,14 @@
   "name": "LiftOff",
   "preview": "https://phira.5wyxi.com/files/5d681a24-0c80-480c-ad17-bf99b2bb417f",
   "ranked": false,
-  "rating": 0.8260252,
-  "ratingCount": 7,
+  "rating": 0.8547923,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-09T09:55:41.553985Z",
+  "updated": "2026-10-09T09:55:41.553985340Z",
   "uploader": 1447649
 }
