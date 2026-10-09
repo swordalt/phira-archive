@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-09T05:59:00Z",
+    "lastChanged": "2026-10-09T05:59:00Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-10-06T03:48:09.524977Z",
+  "charter": "three or four",
+  "composer": "Connexio",
+  "created": "2026-10-06T03:48:09.524977Z",
+  "description": "谱师本人代表上传，此为星脉杯比赛原创曲谱，本曲仅供音游比赛及自制谱演示，未进行公开配信，请勿转载。\n\n参与谱师:\n\n@EG_KS#230\n@伍零柒壹_1#464049\n@awa123#101\n",
+  "difficulty": 17.800003,
+  "file": "https://phira.5wyxi.com/files/74d67424-b57d-4f23-bcc2-7b1f6101f784",
+  "id": 80369,
+  "illustration": "https://phira.5wyxi.com/files/89be52c1-3fb7-4486-b0af-3d2b3c6e9b43",
+  "illustrator": "keckyx",
+  "level": "AT Lv.17",
+  "name": "Cyberneko Pulse",
+  "preview": "https://phira.5wyxi.com/files/8b376c17-95a0-4cc1-b71b-5c8bf496b80f",
+  "ranked": false,
+  "rating": 0.7803841,
+  "ratingCount": 1,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "星脉杯",
+    "regular"
+  ],
+  "updated": "2026-10-09T04:14:06.947330Z",
+  "uploader": 3742
+}
