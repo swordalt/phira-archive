@@ -322,3 +322,5 @@
 {"changed": ["updated"], "division": "visual", "event": "updated", "id": 52545, "ts": "2026-10-09T23:10:35Z"}
 {"changed": ["updated"], "division": "regular", "event": "updated", "id": 79946, "ts": "2026-10-10T05:41:51Z"}
 {"changed": ["reviewed", "stableRequest", "updated"], "division": "regular", "event": "updated", "id": 79755, "ts": "2026-10-10T05:41:51Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 69509, "ts": "2026-10-10T12:22:52Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 72864, "ts": "2026-10-10T12:22:52Z"}
