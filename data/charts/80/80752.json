@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-10T17:47:41Z",
-    "lastChanged": "2026-10-10T17:47:41Z",
-    "revisions": 1
+    "lastChanged": "2026-10-10T21:34:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-10T15:40:38.033766Z",
   "charter": "YMEA",
@@ -22,13 +22,13 @@
   "preview": "https://phira.5wyxi.com/files/235a1250-b3e2-40b3-9af9-b2b3a4ff183c",
   "ranked": false,
   "rating": 0.7482895,
-  "ratingCount": 1,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "plain"
   ],
-  "updated": "2026-10-10T16:13:20.554585Z",
+  "updated": "2026-10-10T16:13:20.554585320Z",
   "uploader": 4268032
 }
