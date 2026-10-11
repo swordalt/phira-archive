@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-11T13:57:58Z",
-    "lastChanged": "2026-10-11T13:57:58Z",
-    "revisions": 1
+    "lastChanged": "2026-10-11T18:48:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-11T13:46:24.548675Z",
   "charter": "冷影",
@@ -21,7 +21,7 @@
   "name": "虚无与救赎",
   "preview": "https://phira.5wyxi.com/files/51e164d3-30ca-45ad-83b2-955564244c99",
   "ranked": false,
-  "rating": null,
+  "rating": 0.88292056,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -29,6 +29,6 @@
   "tags": [
     "plain"
   ],
-  "updated": "2026-10-11T13:52:47.089972Z",
+  "updated": "2026-10-11T13:52:47.089972727Z",
   "uploader": 4174080
 }
