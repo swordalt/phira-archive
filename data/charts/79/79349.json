@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-10T17:47:35Z",
-    "lastChanged": "2026-10-10T21:34:55Z",
-    "revisions": 2
+    "lastChanged": "2026-10-11T11:05:33Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-09-28T09:30:52.780451Z",
   "charter": "vila Papilio & 囃狼",
@@ -21,14 +21,14 @@
   "name": "dashstar*(VIP)",
   "preview": "https://phira.5wyxi.com/files/af8efd41-a03c-4fd1-9e86-93b71edc396f",
   "ranked": false,
-  "rating": 0.9113551,
-  "ratingCount": 0,
-  "reviewed": true,
+  "rating": 0.91181237,
+  "ratingCount": 34,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-10T13:20:26.091834978Z",
+  "updated": "2026-10-10T13:20:26.091834Z",
   "uploader": 3747
 }

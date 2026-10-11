@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:17Z",
-    "lastChanged": "2026-09-21T02:05:17Z",
-    "revisions": 1
+    "lastChanged": "2026-10-11T11:05:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-15T11:40:10.140637Z",
   "charter": "诶2333",
@@ -21,11 +21,11 @@
   "name": "メイドノココロハ アヤツリドール",
   "preview": "https://phira.5wyxi.com/files/43da62c5-f8c1-4775-9c83-e6420102ace7",
   "ranked": false,
-  "rating": 0.9535874,
-  "ratingCount": 923,
-  "reviewed": true,
+  "rating": 0.9502382,
+  "ratingCount": 2026,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

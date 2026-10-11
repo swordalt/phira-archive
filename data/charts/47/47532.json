@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:55Z",
-    "lastChanged": "2026-09-21T02:03:55Z",
-    "revisions": 1
+    "lastChanged": "2026-10-11T11:03:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-03T06:19:28.157246Z",
   "charter": "好大德疯",
@@ -21,11 +21,11 @@
   "name": "命に嫌われている",
   "preview": "https://phira.5wyxi.com/files/1a5f6bbf-21d9-48d3-8229-7bd6eeef6b69",
   "ranked": false,
-  "rating": 0.94469523,
-  "ratingCount": 986,
-  "reviewed": true,
+  "rating": 0.9448098,
+  "ratingCount": 1033,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:07Z",
-    "lastChanged": "2026-09-21T02:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-10-11T11:02:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-05T08:53:15.955787Z",
   "charter": "Reaser",
@@ -21,11 +21,11 @@
   "name": "Heaven",
   "preview": "https://phira.5wyxi.com/files/fa548113-5221-401d-abdf-c95a011d2871",
   "ranked": false,
-  "rating": 0.9312073,
-  "ratingCount": 2672,
-  "reviewed": true,
+  "rating": 0.9317726,
+  "ratingCount": 2740,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

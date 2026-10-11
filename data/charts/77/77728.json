@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:16Z",
-    "lastChanged": "2026-10-01T13:03:09Z",
-    "revisions": 2
+    "lastChanged": "2026-10-11T11:05:30Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-09-11T10:25:03.572349Z",
   "charter": "HavaYouSeenRoger",
@@ -21,8 +21,8 @@
   "name": "Scars of FAUNA",
   "preview": "https://phira.5wyxi.com/files/5e6d7638-ab13-47df-91b5-e8218b89d5b5",
   "ranked": true,
-  "rating": 0.9089829,
-  "ratingCount": 150,
+  "rating": 0.8962312,
+  "ratingCount": 439,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,
@@ -34,6 +34,6 @@
     "6thWJC",
     "regular"
   ],
-  "updated": "2026-10-01T08:04:42.727692797Z",
+  "updated": "2026-10-01T08:04:42.727692Z",
   "uploader": 1748
 }

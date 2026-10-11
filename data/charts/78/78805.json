@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-24T09:54:45Z",
-    "lastChanged": "2026-09-24T14:57:41Z",
-    "revisions": 2
+    "lastChanged": "2026-10-11T11:05:33Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-09-24T05:26:41.489996Z",
   "charter": "百香果",
@@ -21,11 +21,11 @@
   "name": "enchanted love",
   "preview": "https://phira.5wyxi.com/files/6595578f-981c-4f16-97cf-d8a8fcea950f",
   "ranked": false,
-  "rating": 0.9821523,
-  "ratingCount": 310,
-  "reviewed": false,
+  "rating": 0.9836159,
+  "ratingCount": 2305,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

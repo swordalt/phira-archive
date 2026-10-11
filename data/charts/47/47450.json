@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:54Z",
-    "lastChanged": "2026-09-21T02:03:54Z",
-    "revisions": 1
+    "lastChanged": "2026-10-11T11:03:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-02T00:44:10.961610Z",
   "charter": "晴音Resona ＆ RRgame",
@@ -21,11 +21,11 @@
   "name": "Bright red hertz",
   "preview": "https://phira.5wyxi.com/files/6396bc9f-0fe1-4eac-8666-584cb7a3a351",
   "ranked": false,
-  "rating": 0.91356236,
-  "ratingCount": 109,
-  "reviewed": true,
+  "rating": 0.9143332,
+  "ratingCount": 110,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

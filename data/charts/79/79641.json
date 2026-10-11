@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-01T13:03:07Z",
-    "lastChanged": "2026-10-01T13:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-10-11T11:05:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-01T10:12:11.152582Z",
   "charter": "⭐",
@@ -21,11 +21,11 @@
   "name": "stardust",
   "preview": "https://phira.5wyxi.com/files/7f3e1316-4bfe-4178-8aca-bccda305bc71",
   "ranked": false,
-  "rating": 0.8755485,
-  "ratingCount": 0,
-  "reviewed": false,
+  "rating": 0.9180993,
+  "ratingCount": 133,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
