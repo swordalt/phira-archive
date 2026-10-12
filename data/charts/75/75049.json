@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-12T20:14:24Z",
+    "lastChanged": "2026-10-12T20:14:24Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-08-22T13:57:14.060554Z",
+  "charter": "江天凌",
+  "composer": "しぜんすい",
+  "created": "2026-08-22T13:57:14.060554Z",
+  "description": "本谱面为谱师本人上传 BV1YtcHzqE5H",
+  "difficulty": 13.0,
+  "file": "https://phira.5wyxi.com/files/8c426eb8-4071-4491-9422-fb11c559947d",
+  "id": 75049,
+  "illustration": "https://phira.5wyxi.com/files/c27b8594-54e1-4bef-be61-fca11a279927",
+  "illustrator": "",
+  "level": "IN  Lv.13",
+  "name": "くねくね",
+  "preview": "https://phira.5wyxi.com/files/710c5619-1c3a-43e4-a986-57e0ec85a898",
+  "ranked": false,
+  "rating": 0.9452938,
+  "ratingCount": 135,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-10-12T12:40:37.698780Z",
+  "uploader": 10281
+}
