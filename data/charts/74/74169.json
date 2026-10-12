@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-10-09T18:47:50Z",
-    "lastChanged": "2026-10-09T23:10:35Z",
-    "revisions": 2
+    "lastChanged": "2026-10-12T10:38:15Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-18T11:56:45.304155Z",
   "charter": "老猫子LMZ",
@@ -21,14 +21,14 @@
   "name": "Vafþrúðnir",
   "preview": "https://phira.5wyxi.com/files/372a52f6-0fbc-4667-be3a-059a6a1b9334",
   "ranked": false,
-  "rating": null,
-  "ratingCount": 0,
+  "rating": 0.755949,
+  "ratingCount": 2,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "visual"
   ],
-  "updated": "2026-10-09T15:05:02.927646905Z",
+  "updated": "2026-10-09T15:05:02.927646Z",
   "uploader": 1799057
 }

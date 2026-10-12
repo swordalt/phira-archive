@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-09T18:47:48Z",
-    "lastChanged": "2026-10-09T23:10:33Z",
-    "revisions": 2
+    "lastChanged": "2026-10-12T10:38:13Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-04T14:00:34.840663Z",
   "charter": "XD_X",
@@ -21,8 +21,8 @@
   "name": "Duplicity Shade",
   "preview": "https://phira.5wyxi.com/files/d7237bbc-0003-457b-bf2f-3170ca1ed943",
   "ranked": false,
-  "rating": 0.7198484,
-  "ratingCount": 0,
+  "rating": 0.81150675,
+  "ratingCount": 6,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -33,6 +33,6 @@
     "生贺谱",
     "plain"
   ],
-  "updated": "2026-10-09T13:45:39.545556481Z",
+  "updated": "2026-10-09T13:45:39.545556Z",
   "uploader": 295128
 }

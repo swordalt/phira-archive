@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-06T17:08:54Z",
-    "lastChanged": "2026-10-09T13:07:33Z",
-    "revisions": 2
+    "lastChanged": "2026-10-12T10:38:13Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-06T00:19:37.385324Z",
   "charter": "TEC109",
@@ -21,8 +21,8 @@
   "name": "Scorpion Dance",
   "preview": "https://phira.5wyxi.com/files/da2bd658-93a5-4fb9-b27e-7735aeaa2d7d",
   "ranked": false,
-  "rating": 0.90115595,
-  "ratingCount": 12,
+  "rating": 0.8918522,
+  "ratingCount": 15,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -33,6 +33,6 @@
     "耐力",
     "plain"
   ],
-  "updated": "2026-10-09T09:37:24.123196329Z",
+  "updated": "2026-10-09T09:37:24.123196Z",
   "uploader": 3992187
 }

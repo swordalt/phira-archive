@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-10-09T13:07:35Z",
-    "revisions": 2
+    "lastChanged": "2026-10-12T10:38:14Z",
+    "revisions": 3
   },
   "chartUpdated": "2025-03-28T02:24:39.860054Z",
   "charter": "Black City",
@@ -21,8 +21,8 @@
   "name": "Black Out",
   "preview": "https://phira.5wyxi.com/files/ac317158-0ba2-4a43-a34c-3cc930acd83d",
   "ranked": false,
-  "rating": 0.9634309,
-  "ratingCount": 260,
+  "rating": 0.9639969,
+  "ratingCount": 269,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -32,6 +32,6 @@
     "叠",
     "plain"
   ],
-  "updated": "2026-10-09T07:32:28.624518413Z",
+  "updated": "2026-10-09T07:32:28.624518Z",
   "uploader": 1572315
 }

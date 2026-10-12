@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-12T10:38:08Z",
+    "lastChanged": "2026-10-12T10:38:08Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-10-09T10:48:33.579799Z",
+  "charter": "SPtam",
+  "composer": "Ponchi♪ feat.はぁち",
+  "created": "2026-10-09T10:48:33.579799Z",
+  "description": "谱师上传，定数为新版17.0（记得开启新速度缓动，这个流速会有点慢建议开1.05玩），B站关注SPtam谢谢喵qwq",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/1d93bfa8-2053-4809-b8b1-8d7ec427d96f",
+  "id": 80641,
+  "illustration": "https://phira.5wyxi.com/files/4c46ff4f-787b-4e00-9424-39383365e78b",
+  "illustrator": "LESYEF & 藍瀬 まなみ",
+  "level": "AT Lv.17",
+  "name": "インフェルノシティ",
+  "preview": "https://phira.5wyxi.com/files/54c85133-e197-4de4-a30a-2e1ae4359af6",
+  "ranked": false,
+  "rating": 0.8179995,
+  "ratingCount": 2,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-10-12T08:54:47.497887Z",
+  "uploader": 1995191
+}

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-09T13:07:00Z",
-    "lastChanged": "2026-10-09T18:47:43Z",
-    "revisions": 2
+    "lastChanged": "2026-10-12T10:38:09Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-23T05:35:32.528927Z",
   "charter": "steal seelence",
@@ -21,14 +21,14 @@
   "name": "QuomodocunquizE",
   "preview": "https://phira.5wyxi.com/files/2a0814ab-41ec-4da4-8cd5-3bcb14454feb",
   "ranked": false,
-  "rating": 0.7413558,
-  "ratingCount": 0,
+  "rating": 0.8001146,
+  "ratingCount": 21,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-09T10:05:52.527011311Z",
+  "updated": "2026-10-09T10:05:52.527011Z",
   "uploader": 3947090
 }
