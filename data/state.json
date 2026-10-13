@@ -6,7 +6,7 @@
       "maxId": 80928
     },
     "regular": {
-      "apiCount": 9725,
+      "apiCount": 9724,
       "archived": 9809,
       "maxId": 80937
     },
@@ -21,8 +21,8 @@
       "maxId": 79472
     }
   },
-  "generated": "2026-10-12T20:14:38Z",
-  "lastPoll": "2026-10-12T20:14:38Z",
+  "generated": "2026-10-13T02:32:25Z",
+  "lastPoll": "2026-10-13T02:32:25Z",
   "lastSweep": "2026-10-11T11:07:56Z",
   "localBackup": {
     "archived": 526,

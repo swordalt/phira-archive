@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-12T20:14:32Z",
-    "lastChanged": "2026-10-12T20:14:32Z",
-    "revisions": 1
+    "lastChanged": "2026-10-13T02:32:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-11T01:00:46.425631Z",
   "charter": "XD_X",
@@ -21,7 +21,7 @@
   "name": "Observation",
   "preview": "https://phira.5wyxi.com/files/5165e8a4-1323-4d5e-b655-0b7478880aca",
   "ranked": false,
-  "rating": null,
+  "rating": 0.7482895,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -31,6 +31,6 @@
     "键盘",
     "plain"
   ],
-  "updated": "2026-10-12T18:56:39.679237Z",
+  "updated": "2026-10-12T18:56:39.679237571Z",
   "uploader": 295128
 }
