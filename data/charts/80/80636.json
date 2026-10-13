@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-09T13:06:59Z",
-    "lastChanged": "2026-10-12T10:38:08Z",
-    "revisions": 3
+    "lastChanged": "2026-10-13T18:10:18Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-09T09:45:50.185793Z",
   "charter": "Yann",
@@ -21,11 +21,11 @@
   "name": "WE'RE BACK!!",
   "preview": "https://phira.5wyxi.com/files/8e79d706-381b-4cfc-a511-b27c9b97bea9",
   "ranked": false,
-  "rating": 0.93754154,
-  "ratingCount": 158,
-  "reviewed": true,
+  "rating": 0.9413631,
+  "ratingCount": 186,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

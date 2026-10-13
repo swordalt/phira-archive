@@ -423,3 +423,19 @@
 {"changed": ["description", "difficulty", "file", "illustration", "preview", "reviewed", "updated"], "division": "regular", "event": "updated", "id": 80937, "ts": "2026-10-13T10:25:54Z"}
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 80771, "ts": "2026-10-13T10:26:00Z"}
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 52341, "ts": "2026-10-13T10:26:00Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 80893, "ts": "2026-10-13T18:10:18Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 80644, "ts": "2026-10-13T18:10:18Z"}
+{"changed": ["reviewed", "stableRequest"], "division": "regular", "event": "updated", "id": 80636, "ts": "2026-10-13T18:10:18Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 80635, "ts": "2026-10-13T18:10:18Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 80627, "ts": "2026-10-13T18:10:18Z"}
+{"changed": ["description", "file", "illustration", "preview", "tags", "updated"], "division": "regular", "event": "updated", "id": 80572, "ts": "2026-10-13T18:10:18Z"}
+{"changed": ["reviewed", "stableRequest"], "division": "regular", "event": "updated", "id": 80564, "ts": "2026-10-13T18:10:18Z"}
+{"changed": ["description", "file", "illustration", "illustrator", "preview", "stableRequest", "updated"], "division": "regular", "event": "updated", "id": 72595, "ts": "2026-10-13T18:10:19Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 80335, "ts": "2026-10-13T18:10:19Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 80349, "ts": "2026-10-13T18:10:19Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 80439, "ts": "2026-10-13T18:10:19Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 80502, "ts": "2026-10-13T18:10:19Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 80533, "ts": "2026-10-13T18:10:19Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 78075, "ts": "2026-10-13T18:10:19Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 78073, "ts": "2026-10-13T18:10:19Z"}
+{"changed": ["*new*"], "division": "plain", "event": "new", "id": 80770, "ts": "2026-10-13T18:10:29Z"}

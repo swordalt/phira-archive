@@ -1,0 +1,39 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-13T18:10:19Z",
+    "lastChanged": "2026-10-13T18:10:19Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-10-07T09:52:43.474930Z",
+  "charter": "Sylphy",
+  "composer": "Voiski",
+  "created": "2026-10-07T09:52:43.474930Z",
+  "description": "B站：露菲Sylphy\n\n------\n\n新人初谱。\n\n鉴于目前进阶双指交互（包括点划，三角交互，全换交互，纵连，天地交互，轴交互）练习谱的匮乏，本人缝合已有的交互配置写了这张练习谱面。\n\n需要开启双押提示，高亮音符为右手。\n\n本谱是练习谱。0:10~0:30为大位移4k交互；0:30~1:50为需要精确规划位移的全换交互；1:50~3:06为天地交互；3:06~4:00为特大轴交互；4:00~4:10尾杀为bof式交互，需要认真研究手序。\n\n本谱仅考虑了练习性质。作为新一代交互博物馆，它把各种谱面中最棘手的交互部分了整合。鉴于其远超ieo的协调要求与学习成本，以及许多堪称大胆的交互配置写法，收歌难度定为17.0，手感不佳请见谅。",
+  "difficulty": 17.000002,
+  "file": "https://phira.5wyxi.com/files/c92ab267-f561-4c51-88fc-df29c25ee892",
+  "id": 80533,
+  "illustration": "https://phira.5wyxi.com/files/57fa5f68-51d4-4fc7-a4d1-95ae772d64fc",
+  "illustrator": "ゆぅ",
+  "level": "IN Lv.17",
+  "name": "MRS FCO (Original Mix)",
+  "preview": "https://phira.5wyxi.com/files/48ff4324-3106-44d8-8d44-9b7a26d6811a",
+  "ranked": false,
+  "rating": 0.7058846,
+  "ratingCount": 6,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "交互",
+    "双指",
+    "全换",
+    "拆谱",
+    "特大",
+    "regular"
+  ],
+  "updated": "2026-10-13T13:40:05.027642Z",
+  "uploader": 1855550
+}
