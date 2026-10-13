@@ -419,3 +419,7 @@
 {"changed": ["*new*"], "division": "plain", "event": "new", "id": 52341, "ts": "2026-10-12T20:14:33Z"}
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 80771, "ts": "2026-10-13T02:32:22Z"}
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 52341, "ts": "2026-10-13T02:32:22Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 80984, "ts": "2026-10-13T10:25:54Z"}
+{"changed": ["description", "difficulty", "file", "illustration", "preview", "reviewed", "updated"], "division": "regular", "event": "updated", "id": 80937, "ts": "2026-10-13T10:25:54Z"}
+{"changed": ["updated"], "division": "plain", "event": "updated", "id": 80771, "ts": "2026-10-13T10:26:00Z"}
+{"changed": ["updated"], "division": "plain", "event": "updated", "id": 52341, "ts": "2026-10-13T10:26:00Z"}

@@ -6,9 +6,9 @@
       "maxId": 80928
     },
     "regular": {
-      "apiCount": 9724,
-      "archived": 9809,
-      "maxId": 80937
+      "apiCount": 9725,
+      "archived": 9810,
+      "maxId": 80984
     },
     "troll": {
       "apiCount": 658,
@@ -21,12 +21,12 @@
       "maxId": 79472
     }
   },
-  "generated": "2026-10-13T02:32:25Z",
-  "lastPoll": "2026-10-13T02:32:25Z",
+  "generated": "2026-10-13T10:26:04Z",
+  "lastPoll": "2026-10-13T10:26:04Z",
   "lastSweep": "2026-10-11T11:07:56Z",
   "localBackup": {
     "archived": 526,
     "lastImport": "2026-09-22T01:31:25Z"
   },
-  "totalCharts": 14578
+  "totalCharts": 14579
 }

@@ -4,31 +4,31 @@
       "regular"
     ],
     "firstSeen": "2026-10-12T20:14:23Z",
-    "lastChanged": "2026-10-12T20:14:23Z",
-    "revisions": 1
+    "lastChanged": "2026-10-13T10:25:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-12T14:03:24.680763Z",
   "charter": "「Mille Corsage.」",
   "composer": "millsage",
   "created": "2026-10-12T14:03:24.680763Z",
-  "description": "@Ex1stenS#1503（忍者特效制作）\n——————\n曲目：起死開戦\n曲师：millsage\n谱师：「Mille Corsage.」\n难度：AT Lv.17.2\n——————\n这次踩音真的好好，爽谱呀",
-  "difficulty": 17.2,
-  "file": "https://phira.5wyxi.com/files/c04621a1-84b8-4cd2-971b-4b3d2ef9ad05",
+  "description": "@Ex1stenS#1503（忍者特效制作）\n——————\n曲目：起死開戦\n曲师：millsage\n谱师：「Mille Corsage.」\n难度：AT Lv.17\n——————\n这次踩音真的好好，爽谱呀",
+  "difficulty": 17.400002,
+  "file": "https://phira.5wyxi.com/files/0f41473b-2c15-4b5d-aa6b-cff95a6594a5",
   "id": 80937,
-  "illustration": "https://phira.5wyxi.com/files/82deba5f-baf3-4414-a7ce-a063b4be0f79",
+  "illustration": "https://phira.5wyxi.com/files/69ab3c3d-13d8-4529-bd31-c20ed8021363",
   "illustrator": "ブシロード (Chloe Modified)",
   "level": "AT  Lv.17",
   "name": "起死開戰",
-  "preview": "https://phira.5wyxi.com/files/765e6a52-dedc-4605-ba5a-e0b56a22c2ea",
+  "preview": "https://phira.5wyxi.com/files/413740fb-c2ee-4030-a8aa-2a1efa8ae0a1",
   "ranked": false,
-  "rating": 0.8590845,
-  "ratingCount": 17,
-  "reviewed": false,
+  "rating": 0.897622,
+  "ratingCount": 36,
+  "reviewed": true,
   "stable": false,
   "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-12T14:11:51.224701Z",
+  "updated": "2026-10-13T07:05:54.413803886Z",
   "uploader": 22147
 }
