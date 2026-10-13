@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-13T18:10:19Z",
-    "lastChanged": "2026-10-13T18:10:19Z",
-    "revisions": 1
+    "lastChanged": "2026-10-13T23:15:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-07T09:52:43.474930Z",
   "charter": "Sylphy",
@@ -22,7 +22,7 @@
   "preview": "https://phira.5wyxi.com/files/48ff4324-3106-44d8-8d44-9b7a26d6811a",
   "ranked": false,
   "rating": 0.7058846,
-  "ratingCount": 6,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -34,6 +34,6 @@
     "特大",
     "regular"
   ],
-  "updated": "2026-10-13T13:40:05.027642Z",
+  "updated": "2026-10-13T13:40:05.027642367Z",
   "uploader": 1855550
 }

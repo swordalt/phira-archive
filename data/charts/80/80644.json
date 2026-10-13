@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-13T18:10:18Z",
-    "lastChanged": "2026-10-13T18:10:18Z",
-    "revisions": 1
+    "lastChanged": "2026-10-13T23:15:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-09T12:02:17.155427Z",
   "charter": "no.St",
@@ -22,13 +22,13 @@
   "preview": "https://phira.5wyxi.com/files/5e967a00-1473-481e-a612-50dce5db6ec3",
   "ranked": false,
   "rating": 0.68718815,
-  "ratingCount": 6,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-13T13:39:06.464316Z",
+  "updated": "2026-10-13T13:39:06.464316883Z",
   "uploader": 502551
 }

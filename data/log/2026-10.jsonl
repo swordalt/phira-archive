@@ -439,3 +439,16 @@
 {"changed": ["*new*"], "division": "regular", "event": "new", "id": 78075, "ts": "2026-10-13T18:10:19Z"}
 {"changed": ["*new*"], "division": "regular", "event": "new", "id": 78073, "ts": "2026-10-13T18:10:19Z"}
 {"changed": ["*new*"], "division": "plain", "event": "new", "id": 80770, "ts": "2026-10-13T18:10:29Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 80893, "ts": "2026-10-13T23:15:12Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 80706, "ts": "2026-10-13T23:15:12Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 80644, "ts": "2026-10-13T23:15:12Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 80635, "ts": "2026-10-13T23:15:12Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 80627, "ts": "2026-10-13T23:15:12Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 80335, "ts": "2026-10-13T23:15:13Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 80349, "ts": "2026-10-13T23:15:13Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 80439, "ts": "2026-10-13T23:15:13Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 80502, "ts": "2026-10-13T23:15:13Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 80533, "ts": "2026-10-13T23:15:13Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 78075, "ts": "2026-10-13T23:15:13Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 78073, "ts": "2026-10-13T23:15:13Z"}
+{"changed": ["updated"], "division": "plain", "event": "updated", "id": 80770, "ts": "2026-10-13T23:15:17Z"}
