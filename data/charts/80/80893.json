@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-13T18:10:18Z",
-    "lastChanged": "2026-10-13T23:15:12Z",
-    "revisions": 2
+    "lastChanged": "2026-10-14T04:44:19Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-12T03:26:57.123438Z",
   "charter": "Nyiou",
@@ -21,14 +21,14 @@
   "name": "Phantigma",
   "preview": "https://phira.5wyxi.com/files/38934d5b-9202-4795-b33e-0fbf731929d0",
   "ranked": false,
-  "rating": 0.7920686,
-  "ratingCount": 0,
-  "reviewed": true,
+  "rating": 0.829446,
+  "ratingCount": 10,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-13T13:38:11.365109311Z",
+  "updated": "2026-10-13T13:38:11.365109Z",
   "uploader": 439874
 }

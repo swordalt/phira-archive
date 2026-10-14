@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-13T18:10:19Z",
-    "lastChanged": "2026-10-13T23:15:13Z",
-    "revisions": 2
+    "lastChanged": "2026-10-14T04:44:20Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-06T14:15:10.270148Z",
   "charter": "IKEDT",
@@ -21,14 +21,14 @@
   "name": "Fly, My Wings",
   "preview": "https://phira.5wyxi.com/files/761e9a0f-dfcb-4bbb-9748-ce4a33b303fb",
   "ranked": false,
-  "rating": 0.9023538,
-  "ratingCount": 0,
+  "rating": 0.91384584,
+  "ratingCount": 21,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-13T13:41:46.608802288Z",
+  "updated": "2026-10-13T13:41:46.608802Z",
   "uploader": 736634
 }
