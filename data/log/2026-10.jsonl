@@ -466,3 +466,7 @@
 {"changed": ["updated"], "division": "regular", "event": "updated", "id": 80349, "ts": "2026-10-14T10:04:57Z"}
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 80756, "ts": "2026-10-14T10:05:01Z"}
 {"changed": ["*new*"], "division": "plain", "event": "new", "id": 78794, "ts": "2026-10-14T10:05:02Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 81043, "ts": "2026-10-14T15:03:39Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 81033, "ts": "2026-10-14T15:03:39Z"}
+{"changed": ["chartUpdated", "description", "difficulty", "file", "illustration", "preview", "reviewed", "stableRequest", "updated"], "division": "regular", "event": "updated", "id": 80564, "ts": "2026-10-14T15:03:41Z"}
+{"changed": ["updated"], "division": "plain", "event": "updated", "id": 78794, "ts": "2026-10-14T15:03:48Z"}

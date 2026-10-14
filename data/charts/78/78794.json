@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-14T10:05:02Z",
-    "lastChanged": "2026-10-14T10:05:02Z",
-    "revisions": 1
+    "lastChanged": "2026-10-14T15:03:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-24T03:47:42.157039Z",
   "charter": "☢︎\"URANIUM\"virus\"EMERGENCY\"☢︎",
@@ -21,7 +21,7 @@
   "name": "LO0K",
   "preview": "https://phira.5wyxi.com/files/d229f13c-3842-4383-bad7-bca3290c7362",
   "ranked": false,
-  "rating": null,
+  "rating": 0.87396926,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -30,6 +30,6 @@
     "JumpStyle",
     "plain"
   ],
-  "updated": "2026-10-14T10:01:47.731796Z",
+  "updated": "2026-10-14T10:01:47.731796786Z",
   "uploader": 848665
 }
