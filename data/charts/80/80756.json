@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-14T04:44:25Z",
-    "lastChanged": "2026-10-14T04:44:25Z",
-    "revisions": 1
+    "lastChanged": "2026-10-14T10:05:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-10T16:02:15.406371Z",
   "charter": "DIZzY",
@@ -21,8 +21,8 @@
   "name": "アンクローズ·ヒューマン",
   "preview": "https://phira.5wyxi.com/files/aff0a6fb-ed31-49be-be42-6881fc58b8d7",
   "ranked": false,
-  "rating": 0.80552316,
-  "ratingCount": 3,
+  "rating": 0.83321184,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -31,6 +31,6 @@
     "",
     "plain"
   ],
-  "updated": "2026-10-14T00:41:15.585165Z",
+  "updated": "2026-10-14T00:41:15.585165404Z",
   "uploader": 2326063
 }
