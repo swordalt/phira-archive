@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-15T04:27:21Z",
-    "lastChanged": "2026-10-15T04:27:21Z",
-    "revisions": 1
+    "lastChanged": "2026-10-15T09:48:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-20T22:18:29.986358Z",
   "charter": "ShidoraX",
@@ -21,8 +21,8 @@
   "name": "Memories",
   "preview": "https://phira.5wyxi.com/files/f1148eb5-894b-4be6-959d-65d12ee1b410",
   "ranked": false,
-  "rating": 0.7482895,
-  "ratingCount": 1,
+  "rating": 0.83321184,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -32,6 +32,6 @@
     "Plain",
     "plain"
   ],
-  "updated": "2026-10-15T00:12:17.826159Z",
+  "updated": "2026-10-15T00:12:17.826159019Z",
   "uploader": 205118
 }

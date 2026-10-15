@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-15T04:27:12Z",
-    "lastChanged": "2026-10-15T04:27:12Z",
-    "revisions": 1
+    "lastChanged": "2026-10-15T09:48:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-09T14:15:38.426484Z",
   "charter": "RESPIRATION:NULL",
@@ -21,14 +21,14 @@
   "name": "ノンブレス・オブリージュ",
   "preview": "https://phira.5wyxi.com/files/f9078dd9-edde-474c-906a-0b2d8147c59e",
   "ranked": false,
-  "rating": 0.8803412,
-  "ratingCount": 20,
+  "rating": 0.8996307,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-15T00:19:44.368141Z",
+  "updated": "2026-10-15T00:19:44.368141963Z",
   "uploader": 2448
 }
