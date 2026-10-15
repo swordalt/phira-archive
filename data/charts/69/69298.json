@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-15T14:54:36Z",
-    "lastChanged": "2026-10-15T14:54:36Z",
-    "revisions": 1
+    "lastChanged": "2026-10-15T19:04:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-26T08:50:11.153552Z",
   "charter": "Nyiounaid",
@@ -21,7 +21,7 @@
   "name": "Melonaid",
   "preview": "https://phira.5wyxi.com/files/26de1fb4-e1e9-4d32-8d95-a284f9447e53",
   "ranked": false,
-  "rating": null,
+  "rating": 0.76391906,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -32,6 +32,6 @@
     "KATOMORI",
     "regular"
   ],
-  "updated": "2026-10-15T14:43:21.555664Z",
+  "updated": "2026-10-15T14:43:21.555664042Z",
   "uploader": 439874
 }
