@@ -4,31 +4,31 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:45Z",
-    "lastChanged": "2026-09-21T02:03:45Z",
-    "revisions": 1
+    "lastChanged": "2026-10-15T04:27:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-26T10:41:40.012959Z",
   "charter": "1Dynamic1",
   "composer": "A-39",
   "created": "2025-08-26T10:41:40.012959Z",
   "description": "冰心加强版",
-  "difficulty": 15.300001,
-  "file": "https://phira.5wyxi.com/files/8121c878-5621-4b8a-a6b2-eadce6d2f182",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/33cecdf4-0e2d-42ed-b9cf-d791c842a1d6",
   "id": 45754,
-  "illustration": "https://phira.5wyxi.com/files/db7015ad-6426-4d7b-b4dc-a081b0984661",
+  "illustration": "https://phira.5wyxi.com/files/2859bf18-a16c-4c87-a61d-69628b14b5de",
   "illustrator": "",
-  "level": "IN Lv.15.3",
+  "level": "IN Lv.15.0",
   "name": "Frozen Heart ",
-  "preview": "https://phira.5wyxi.com/files/53ec8da9-a98b-4d4e-88b0-959c486f601e",
+  "preview": "https://phira.5wyxi.com/files/728af68d-0778-4ec4-b53d-8fd31161c7e3",
   "ranked": false,
-  "rating": 0.88477117,
-  "ratingCount": 604,
+  "rating": 0.883966,
+  "ratingCount": 613,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2025-08-26T10:41:40.012959Z",
+  "updated": "2026-10-15T00:11:05.744701243Z",
   "uploader": 1693619
 }

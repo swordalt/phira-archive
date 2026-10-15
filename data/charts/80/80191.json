@@ -1,0 +1,36 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-10-15T04:27:20Z",
+    "lastChanged": "2026-10-15T04:27:20Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-10-04T21:00:55.014742Z",
+  "charter": "E_Rizon",
+  "composer": "litmus*",
+  "created": "2026-10-04T21:00:55.014742Z",
+  "description": "bpm以240为主\nma侧过段难度约6-7dan，不是很建议推ap\n感谢Adagietta的转谱帮助",
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/c1419671-c14b-4508-a621-018cd30bfc12",
+  "id": 80191,
+  "illustration": "https://phira.5wyxi.com/files/f8d27412-63f4-4167-b492-a227d1e9ae72",
+  "illustrator": "Convert by ΜVP",
+  "level": "5k tech Lv.20",
+  "name": "Abandoned Planet",
+  "preview": "https://phira.5wyxi.com/files/1ea94baf-7b18-4f9a-8eb9-85ff39ead547",
+  "ranked": false,
+  "rating": null,
+  "ratingCount": 0,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "5k",
+    "tech",
+    "plain"
+  ],
+  "updated": "2026-10-15T00:25:30.172901Z",
+  "uploader": 21375
+}
