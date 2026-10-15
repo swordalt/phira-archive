@@ -1,0 +1,37 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-15T14:54:36Z",
+    "lastChanged": "2026-10-15T14:54:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-26T08:50:11.153552Z",
+  "charter": "Nyiounaid",
+  "composer": "KATOMORI",
+  "created": "2026-07-26T08:50:11.153552Z",
+  "description": "五譜OwO\n為Hypernaid的前作，寫譜思路也幾乎相似OAO\n定數：16.2\n物量：1071\nbpm：145",
+  "difficulty": 16.2,
+  "file": "https://phira.5wyxi.com/files/52b0a920-9dc3-40d9-9fee-3a2f15d47d7f",
+  "id": 69298,
+  "illustration": "https://phira.5wyxi.com/files/27c2be58-8dc7-4719-a7b0-c87a7580a6fe",
+  "illustrator": "",
+  "level": "AT Lv.16",
+  "name": "Melonaid",
+  "preview": "https://phira.5wyxi.com/files/26de1fb4-e1e9-4d32-8d95-a284f9447e53",
+  "ranked": false,
+  "rating": null,
+  "ratingCount": 0,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "DJMAX",
+    "多指",
+    "KATOMORI",
+    "regular"
+  ],
+  "updated": "2026-10-15T14:43:21.555664Z",
+  "uploader": 439874
+}

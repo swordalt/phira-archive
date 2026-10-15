@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-15T09:48:12Z",
-    "lastChanged": "2026-10-15T09:48:12Z",
-    "revisions": 1
+    "lastChanged": "2026-10-15T14:54:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-03T04:38:14.194042Z",
   "charter": "XXXX RUSH",
@@ -21,14 +21,14 @@
   "name": "ATLAS RUSH",
   "preview": "https://phira.5wyxi.com/files/33eab54a-2068-47a4-bb96-f5375cd0e177",
   "ranked": false,
-  "rating": 0.80552316,
-  "ratingCount": 3,
+  "rating": 0.89835024,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-15T08:54:48.308395Z",
+  "updated": "2026-10-15T08:54:48.308395894Z",
   "uploader": 18678
 }
