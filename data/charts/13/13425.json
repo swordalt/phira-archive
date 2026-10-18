@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:47Z",
-    "lastChanged": "2026-09-21T02:01:47Z",
-    "revisions": 1
+    "lastChanged": "2026-10-18T09:04:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-09T12:15:51.962802Z",
   "charter": "tempo as \"Subculture Boy\"",
@@ -21,11 +21,11 @@
   "name": "Roki (ロキ)",
   "preview": "https://phira.5wyxi.com/files/f33c1953-d366-4da0-9b01-4c4c69edf7a2",
   "ranked": false,
-  "rating": 0.9457517,
-  "ratingCount": 2688,
-  "reviewed": true,
+  "rating": 0.94593966,
+  "ratingCount": 2711,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

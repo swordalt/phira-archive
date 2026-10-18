@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:07Z",
-    "lastChanged": "2026-10-13T18:10:19Z",
-    "revisions": 2
+    "lastChanged": "2026-10-18T09:09:01Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-10T15:23:38.564039Z",
   "charter": "UnDIEcided.",
@@ -21,14 +21,14 @@
   "name": "τ (tau)",
   "preview": "https://phira.5wyxi.com/files/b165abf3-9e5e-4415-8d91-2ea786ae3ec3",
   "ranked": false,
-  "rating": 0.77551675,
-  "ratingCount": 250,
+  "rating": 0.7737768,
+  "ratingCount": 275,
   "reviewed": true,
   "stable": false,
   "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-13T15:43:39.453659140Z",
+  "updated": "2026-10-13T15:43:39.453659Z",
   "uploader": 679160
 }

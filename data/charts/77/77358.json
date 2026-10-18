@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:14Z",
-    "lastChanged": "2026-09-21T02:05:14Z",
-    "revisions": 1
+    "lastChanged": "2026-10-18T09:09:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-06T10:57:59.242155Z",
   "charter": "是苏沐不是s马",
@@ -21,11 +21,11 @@
   "name": "黒塗り世界宛て書簡(ほいっぷRemix)",
   "preview": "https://phira.5wyxi.com/files/371cfd13-41be-4c6d-9db2-c2634881210e",
   "ranked": false,
-  "rating": 0.90327865,
-  "ratingCount": 259,
-  "reviewed": true,
+  "rating": 0.90211713,
+  "ratingCount": 364,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

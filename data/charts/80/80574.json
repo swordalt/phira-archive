@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-09T13:06:59Z",
-    "lastChanged": "2026-10-12T10:38:08Z",
-    "revisions": 3
+    "lastChanged": "2026-10-18T09:09:20Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-08T05:18:47.026470Z",
   "charter": "W·¥·G",
@@ -21,11 +21,11 @@
   "name": "FX戦士くるみちゃん",
   "preview": "https://phira.5wyxi.com/files/6d4377dc-490a-4d42-b748-1a4f165a491a",
   "ranked": false,
-  "rating": 0.90496916,
-  "ratingCount": 58,
-  "reviewed": true,
+  "rating": 0.9153816,
+  "ratingCount": 118,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

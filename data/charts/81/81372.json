@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-17T17:03:16Z",
-    "lastChanged": "2026-10-17T19:17:53Z",
-    "revisions": 2
+    "lastChanged": "2026-10-18T09:09:21Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-17T14:17:34.538761Z",
   "charter": "Team.RZ",
@@ -21,14 +21,14 @@
   "name": "蝴蝶",
   "preview": "https://phira.5wyxi.com/files/80be718c-2177-4807-8e94-ff549eaf7bc7",
   "ranked": false,
-  "rating": 0.9635556,
-  "ratingCount": 0,
+  "rating": 0.94126546,
+  "ratingCount": 527,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-17T14:19:30.183402831Z",
+  "updated": "2026-10-17T14:19:30.183402Z",
   "uploader": 2538
 }

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-09T13:07:00Z",
-    "lastChanged": "2026-10-09T18:47:43Z",
-    "revisions": 2
+    "lastChanged": "2026-10-18T09:09:19Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-05T02:08:48.869646Z",
   "charter": "X5ter",
@@ -21,14 +21,14 @@
   "name": "Never Say Goodbye",
   "preview": "https://phira.5wyxi.com/files/d8e1a2d4-6a8b-4ea6-a614-df7a8d2f59f0",
   "ranked": false,
-  "rating": 0.74605846,
-  "ratingCount": 0,
+  "rating": 0.79999644,
+  "ratingCount": 53,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-09T09:41:59.333003585Z",
+  "updated": "2026-10-09T09:41:59.333003Z",
   "uploader": 1908475
 }

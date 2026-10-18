@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-13T18:10:29Z",
-    "lastChanged": "2026-10-13T23:15:17Z",
-    "revisions": 2
+    "lastChanged": "2026-10-18T09:11:44Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-11T00:48:12.777610Z",
   "charter": "YMEA",
@@ -21,14 +21,14 @@
   "name": "Nijuu",
   "preview": "https://phira.5wyxi.com/files/3522ba63-1852-4e6f-a0aa-8f70b77c7400",
   "ranked": false,
-  "rating": 0.7482895,
-  "ratingCount": 0,
+  "rating": 0.840337,
+  "ratingCount": 5,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "plain"
   ],
-  "updated": "2026-10-13T13:38:34.186701044Z",
+  "updated": "2026-10-13T13:38:34.186701Z",
   "uploader": 4268032
 }

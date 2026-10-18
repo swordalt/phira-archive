@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:12Z",
-    "lastChanged": "2026-09-21T02:05:12Z",
-    "revisions": 1
+    "lastChanged": "2026-10-18T09:09:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-25T04:13:56.630514Z",
   "charter": "C.S.Rland",
@@ -21,11 +21,11 @@
   "name": "Borderland",
   "preview": "https://phira.5wyxi.com/files/07fce6bb-46df-4bac-9565-1d252288e76c",
   "ranked": false,
-  "rating": 0.8657936,
-  "ratingCount": 108,
-  "reviewed": true,
+  "rating": 0.8681545,
+  "ratingCount": 114,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

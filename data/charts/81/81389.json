@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-17T17:03:23Z",
-    "lastChanged": "2026-10-17T19:17:58Z",
-    "revisions": 2
+    "lastChanged": "2026-10-18T09:11:44Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-17T15:22:47.377627Z",
   "charter": "YMEA",
@@ -21,14 +21,14 @@
   "name": "おべんきょうたいむ",
   "preview": "https://phira.5wyxi.com/files/7acc3ad6-471d-4698-89e4-6c51a2123fff",
   "ranked": false,
-  "rating": 0.889727,
-  "ratingCount": 0,
+  "rating": 0.91795003,
+  "ratingCount": 67,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "plain"
   ],
-  "updated": "2026-10-17T15:41:42.259065695Z",
+  "updated": "2026-10-17T15:41:42.259065Z",
   "uploader": 4268032
 }

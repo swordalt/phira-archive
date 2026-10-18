@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-16T12:19:57Z",
-    "lastChanged": "2026-10-16T17:21:15Z",
-    "revisions": 2
+    "lastChanged": "2026-10-18T09:11:44Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-04T16:47:33.094394Z",
   "charter": "咖小啡",
@@ -21,8 +21,8 @@
   "name": "Seven Days of Genesis",
   "preview": "https://phira.5wyxi.com/files/5ce446f6-194e-47b6-9ccb-1f2826d1d88b",
   "ranked": false,
-  "rating": 0.7803841,
-  "ratingCount": 0,
+  "rating": 0.82499236,
+  "ratingCount": 4,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "6K",
     "plain"
   ],
-  "updated": "2026-10-16T09:43:29.301107972Z",
+  "updated": "2026-10-16T09:43:29.301107Z",
   "uploader": 204
 }

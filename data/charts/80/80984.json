@@ -4,10 +4,10 @@
       "regular"
     ],
     "firstSeen": "2026-10-13T10:25:54Z",
-    "lastChanged": "2026-10-14T10:04:56Z",
-    "revisions": 2
+    "lastChanged": "2026-10-18T09:09:21Z",
+    "revisions": 3
   },
-  "chartUpdated": "2026-10-14T06:07:38.224455642Z",
+  "chartUpdated": "2026-10-14T06:07:38.224455Z",
   "charter": "AURORÆCLIPSE.",
   "composer": "かめりあ",
   "created": "2026-10-13T09:26:01.248432Z",
@@ -21,8 +21,8 @@
   "name": "Fastest Crash",
   "preview": "https://phira.5wyxi.com/files/f81aa16f-78d4-4316-99a3-565ae7b25232",
   "ranked": false,
-  "rating": 0.935944,
-  "ratingCount": 17,
+  "rating": 0.9168904,
+  "ratingCount": 53,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -32,6 +32,6 @@
     "かめりあ",
     "regular"
   ],
-  "updated": "2026-10-14T06:07:38.224455642Z",
+  "updated": "2026-10-14T06:07:38.224455Z",
   "uploader": 675828
 }

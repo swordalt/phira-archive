@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:01Z",
-    "lastChanged": "2026-09-21T02:05:01Z",
-    "revisions": 1
+    "lastChanged": "2026-10-18T09:08:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-21T15:41:19.299533Z",
   "charter": "诶2333",
@@ -21,11 +21,11 @@
   "name": "如果在冬夜，一个旅人 A Traveler on a Winter's Night",
   "preview": "https://phira.5wyxi.com/files/1552950a-f981-41a3-b023-5d8ce7c35d59",
   "ranked": false,
-  "rating": 0.9434563,
-  "ratingCount": 307,
-  "reviewed": true,
+  "rating": 0.94910204,
+  "ratingCount": 718,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

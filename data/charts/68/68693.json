@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:02Z",
-    "lastChanged": "2026-09-21T02:05:02Z",
-    "revisions": 1
+    "lastChanged": "2026-10-18T09:08:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-23T13:15:03.997667Z",
   "charter": "littlegk-w-kgelttil",
@@ -21,11 +21,11 @@
   "name": "MARENOIA",
   "preview": "https://phira.5wyxi.com/files/eb6d5104-599b-4190-9e94-92f4c54860a4",
   "ranked": false,
-  "rating": 0.9050193,
-  "ratingCount": 1657,
-  "reviewed": true,
+  "rating": 0.9059317,
+  "ratingCount": 1691,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-13T18:10:19Z",
-    "lastChanged": "2026-10-13T23:15:13Z",
-    "revisions": 2
+    "lastChanged": "2026-10-18T09:09:16Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-09-13T13:16:47.855257Z",
   "charter": "小狐狸默凛",
@@ -21,14 +21,14 @@
   "name": "Blessing",
   "preview": "https://phira.5wyxi.com/files/36eed622-7d18-4be4-9d01-98b8e126f4b1",
   "ranked": false,
-  "rating": 0.8365407,
-  "ratingCount": 0,
+  "rating": 0.91883636,
+  "ratingCount": 165,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-13T13:05:00.163701558Z",
+  "updated": "2026-10-13T13:05:00.163701Z",
   "uploader": 1242416
 }

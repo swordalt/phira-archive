@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-15T04:27:20Z",
-    "lastChanged": "2026-10-15T09:48:15Z",
-    "revisions": 2
+    "lastChanged": "2026-10-18T09:11:44Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-04T21:00:55.014742Z",
   "charter": "E_Rizon",
@@ -21,8 +21,8 @@
   "name": "Abandoned Planet",
   "preview": "https://phira.5wyxi.com/files/1ea94baf-7b18-4f9a-8eb9-85ff39ead547",
   "ranked": false,
-  "rating": 0.80552316,
-  "ratingCount": 0,
+  "rating": 0.81862795,
+  "ratingCount": 5,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -31,6 +31,6 @@
     "tech",
     "plain"
   ],
-  "updated": "2026-10-15T00:25:30.172901604Z",
+  "updated": "2026-10-15T00:25:30.172901Z",
   "uploader": 21375
 }

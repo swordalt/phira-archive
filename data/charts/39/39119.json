@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:21Z",
-    "lastChanged": "2026-09-21T02:03:21Z",
-    "revisions": 1
+    "lastChanged": "2026-10-18T09:06:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-02T01:44:41.968666Z",
   "charter": "KY.2",
@@ -21,11 +21,11 @@
   "name": "Angel dust",
   "preview": "https://phira.5wyxi.com/files/ac65f1d8-3052-4009-ba5d-66c567a9f81a",
   "ranked": false,
-  "rating": 0.8772692,
-  "ratingCount": 538,
-  "reviewed": false,
+  "rating": 0.8768565,
+  "ratingCount": 540,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
