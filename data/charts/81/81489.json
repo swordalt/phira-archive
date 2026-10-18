@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-18T10:55:53Z",
-    "lastChanged": "2026-10-18T10:55:53Z",
-    "revisions": 1
+    "lastChanged": "2026-10-18T14:30:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-18T06:14:23.753631Z",
   "charter": "Anxiety",
@@ -21,8 +21,8 @@
   "name": "Christmas Slop",
   "preview": "https://phira.5wyxi.com/files/17e6e64d-313c-40f5-8299-ff06287beb70",
   "ranked": false,
-  "rating": 0.79426795,
-  "ratingCount": 3,
+  "rating": 0.8478305,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -34,6 +34,6 @@
     "7",
     "plain"
   ],
-  "updated": "2026-10-18T09:44:40.064497Z",
+  "updated": "2026-10-18T09:44:40.064497058Z",
   "uploader": 4323499
 }

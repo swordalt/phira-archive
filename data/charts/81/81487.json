@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-18T10:55:53Z",
-    "lastChanged": "2026-10-18T10:55:53Z",
-    "revisions": 1
+    "lastChanged": "2026-10-18T14:30:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-18T06:12:43.591909Z",
   "charter": "Anxiety",
@@ -21,7 +21,7 @@
   "name": "Emptiness",
   "preview": "https://phira.5wyxi.com/files/8f940a4a-0749-4d07-84f9-b65dfe918cb3",
   "ranked": false,
-  "rating": null,
+  "rating": 0.7803841,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -34,6 +34,6 @@
     "7",
     "plain"
   ],
-  "updated": "2026-10-18T09:44:13.386861Z",
+  "updated": "2026-10-18T09:44:13.386861731Z",
   "uploader": 4323499
 }

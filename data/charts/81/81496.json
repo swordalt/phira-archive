@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-18T10:55:53Z",
-    "lastChanged": "2026-10-18T10:55:53Z",
-    "revisions": 1
+    "lastChanged": "2026-10-18T14:30:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-18T06:27:35.521465Z",
   "charter": "Jiuwenzi",
@@ -21,7 +21,7 @@
   "name": "DFC JE Extra Dan",
   "preview": "https://phira.5wyxi.com/files/68d67742-3e77-4e08-b4a1-af78f0d345b3",
   "ranked": false,
-  "rating": null,
+  "rating": 0.7482895,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -33,6 +33,6 @@
     "高难",
     "plain"
   ],
-  "updated": "2026-10-18T09:45:20.667075Z",
+  "updated": "2026-10-18T09:45:20.667075659Z",
   "uploader": 1833558
 }
