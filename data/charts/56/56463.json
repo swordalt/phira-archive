@@ -4,31 +4,31 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:36Z",
-    "lastChanged": "2026-09-21T02:04:36Z",
-    "revisions": 1
+    "lastChanged": "2026-10-19T07:40:44Z",
+    "revisions": 2
   },
-  "chartUpdated": "2026-04-17T04:19:08.718164Z",
+  "chartUpdated": "2026-10-19T05:52:28.680371017Z",
   "charter": "Axi vs.雨巷猫归",
   "composer": "佐藤直之",
   "created": "2026-04-17T04:19:08.718164Z",
   "description": "谱面原视频：BV1bHDiBrEWv\n感谢@雨巷猫归#1352658 的谱面协助",
   "difficulty": 15.0,
-  "file": "https://phira.5wyxi.com/files/eccb0643-f9f6-4808-abed-167ddf49ff4a",
+  "file": "https://phira.5wyxi.com/files/05eacc8a-6768-4008-a4f7-ebbfaa29accc",
   "id": 56463,
-  "illustration": "https://phira.5wyxi.com/files/18b55f00-f02a-40aa-a81e-8833a1de480d",
-  "illustrator": "",
+  "illustration": "https://phira.5wyxi.com/files/b65ae6ff-5ea2-4efa-a0f8-1982b136e614",
+  "illustrator": "Super All Star Bros.",
   "level": "IN  Lv.15",
   "name": "encounter",
-  "preview": "https://phira.5wyxi.com/files/c04ee719-85fa-4347-9bba-e31de5977552",
+  "preview": "https://phira.5wyxi.com/files/d78f1882-4cdb-4f47-8857-fc89dbf30d1b",
   "ranked": false,
-  "rating": 0.7593785,
-  "ratingCount": 7,
+  "rating": 0.76350266,
+  "ratingCount": 9,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-06-29T15:24:56.134573Z",
+  "updated": "2026-10-19T05:52:28.680371017Z",
   "uploader": 62
 }

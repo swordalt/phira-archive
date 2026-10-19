@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-18T09:09:21Z",
-    "lastChanged": "2026-10-18T09:09:21Z",
-    "revisions": 1
+    "lastChanged": "2026-10-19T07:40:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-17T08:28:37.581865Z",
   "charter": "Der",
@@ -21,14 +21,14 @@
   "name": "Crucifix X ",
   "preview": "https://phira.5wyxi.com/files/8f197af6-3f08-4b15-833e-c10dd9eed7a8",
   "ranked": false,
-  "rating": 0.7221459,
-  "ratingCount": 1,
+  "rating": 0.86412126,
+  "ratingCount": 66,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-18T09:01:00.647798646Z",
+  "updated": "2026-10-18T09:01:00.647798Z",
   "uploader": 2313908
 }
