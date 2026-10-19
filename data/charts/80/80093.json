@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-19T07:40:44Z",
-    "lastChanged": "2026-10-19T07:40:44Z",
-    "revisions": 1
+    "lastChanged": "2026-10-19T15:31:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-04T08:37:52.799880Z",
   "charter": "1s0ra",
@@ -21,14 +21,14 @@
   "name": "isomorph",
   "preview": "https://phira.5wyxi.com/files/cb6ad84b-7337-49f4-a444-c9f1cd40e348",
   "ranked": false,
-  "rating": 0.8123539,
-  "ratingCount": 11,
+  "rating": 0.90839154,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-19T05:51:55.490125Z",
+  "updated": "2026-10-19T05:51:55.490125120Z",
   "uploader": 61473
 }

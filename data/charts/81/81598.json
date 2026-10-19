@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-19T15:31:36Z",
+    "lastChanged": "2026-10-19T15:31:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-10-18T20:34:56.634634Z",
+  "charter": "komone_neko222",
+  "composer": "takehirotei & SiLiS",
+  "created": "2026-10-18T20:34:56.634634Z",
+  "description": null,
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/8f7faf1b-f171-46c7-ae36-4b3e689cd1e6",
+  "id": 81598,
+  "illustration": "https://phira.5wyxi.com/files/e3dfaa3f-cd95-4f8b-9b24-daa8d0cd0d5f",
+  "illustrator": "polychromatic",
+  "level": "IN Lv.16",
+  "name": "綿菓子RUSH",
+  "preview": "https://phira.5wyxi.com/files/1fc21e1e-07b2-49b1-b0cd-abe25ae00f29",
+  "ranked": false,
+  "rating": 0.8833733,
+  "ratingCount": 14,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-10-19T13:12:10.441750Z",
+  "uploader": 463282
+}
