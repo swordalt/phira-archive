@@ -2,11 +2,11 @@
   "divisions": {
     "plain": {
       "apiCount": 3396,
-      "archived": 3437,
+      "archived": 3438,
       "maxId": 81496
     },
     "regular": {
-      "apiCount": 9737,
+      "apiCount": 9736,
       "archived": 9847,
       "maxId": 81603
     },
@@ -21,12 +21,12 @@
       "maxId": 79472
     }
   },
-  "generated": "2026-10-20T11:25:53Z",
-  "lastPoll": "2026-10-20T11:25:53Z",
+  "generated": "2026-10-20T16:52:55Z",
+  "lastPoll": "2026-10-20T16:52:55Z",
   "lastSweep": "2026-10-18T09:11:50Z",
   "localBackup": {
     "archived": 526,
     "lastImport": "2026-09-22T01:31:25Z"
   },
-  "totalCharts": 14645
+  "totalCharts": 14646
 }
