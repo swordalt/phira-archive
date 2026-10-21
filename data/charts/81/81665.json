@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-21T04:33:46Z",
-    "lastChanged": "2026-10-21T10:02:34Z",
-    "revisions": 2
+    "lastChanged": "2026-10-21T15:08:18Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-20T09:48:05.185836Z",
   "charter": "□□□□ywy",
@@ -21,14 +21,14 @@
   "name": "Dahlia",
   "preview": "https://phira.5wyxi.com/files/46bc981a-f710-414f-9cf8-8b8b67c80f23",
   "ranked": false,
-  "rating": 0.80552316,
-  "ratingCount": 0,
-  "reviewed": true,
+  "rating": 0.80643475,
+  "ratingCount": 8,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-21T02:44:36.967394963Z",
+  "updated": "2026-10-21T02:44:36.967394Z",
   "uploader": 99
 }
