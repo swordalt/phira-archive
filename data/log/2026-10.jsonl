@@ -642,3 +642,4 @@
 {"changed": ["updated"], "division": "regular", "event": "updated", "id": 81689, "ts": "2026-10-21T10:02:34Z"}
 {"changed": ["updated"], "division": "regular", "event": "updated", "id": 81665, "ts": "2026-10-21T10:02:34Z"}
 {"changed": ["reviewed", "stableRequest", "updated"], "division": "regular", "event": "updated", "id": 81665, "ts": "2026-10-21T15:08:18Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 81647, "ts": "2026-10-21T20:04:39Z"}
