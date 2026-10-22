@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-22T10:03:20Z",
-    "lastChanged": "2026-10-22T10:03:20Z",
-    "revisions": 1
+    "lastChanged": "2026-10-22T15:09:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-22T08:06:33.357128Z",
   "charter": "一颗橘子",
@@ -21,7 +21,7 @@
   "name": "O“Citrus Chirping in Summer",
   "preview": "https://phira.5wyxi.com/files/19ce3164-50c2-48b6-84b3-43a7adc8af81",
   "ranked": false,
-  "rating": null,
+  "rating": 0.7318771,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -29,6 +29,6 @@
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-22T09:49:36.361529Z",
+  "updated": "2026-10-22T09:49:36.361529811Z",
   "uploader": 2426726
 }

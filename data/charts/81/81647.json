@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-21T20:04:39Z",
-    "lastChanged": "2026-10-21T23:14:22Z",
-    "revisions": 2
+    "lastChanged": "2026-10-22T15:09:59Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-20T04:48:48.869985Z",
   "charter": "Gracie Nova ~ XNSaien ~",
@@ -21,14 +21,14 @@
   "name": "About The Universe",
   "preview": "https://phira.5wyxi.com/files/4e6f2811-4782-4e93-927d-9138f51402f0",
   "ranked": false,
-  "rating": 0.7434371,
-  "ratingCount": 0,
-  "reviewed": true,
+  "rating": 0.7578256,
+  "ratingCount": 30,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-21T15:27:50.973503573Z",
+  "updated": "2026-10-21T15:27:50.973503Z",
   "uploader": 790466
 }
