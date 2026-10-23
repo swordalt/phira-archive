@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-23T04:37:32Z",
+    "lastChanged": "2026-10-23T04:37:32Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-10-20T05:06:48.060808Z",
+  "charter": "Iga伊加尔塔",
+  "composer": "7OAST",
+  "created": "2026-10-20T05:06:48.060808Z",
+  "description": "新人首个常规谱\n本来打算写纯配置的，后面觉得太空了就加了点表演再后面就干脆直接做常规谱练手了\n有很多排键都是纯配置的样子，越到后面尝试的表演越多，前面太白开水了原谅我吧（汗",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/c8284605-907c-46b0-b9b6-d3cdef62b00c",
+  "id": 81648,
+  "illustration": "https://phira.5wyxi.com/files/09de776d-0c89-4678-9271-1e5317e3e5b7",
+  "illustrator": "",
+  "level": "X",
+  "name": "異端",
+  "preview": "https://phira.5wyxi.com/files/01bfa2a1-7b81-402a-9cff-9607e8e0ce94",
+  "ranked": false,
+  "rating": 0.8968599,
+  "ratingCount": 13,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-10-23T02:05:49.778399Z",
+  "uploader": 50516
+}
