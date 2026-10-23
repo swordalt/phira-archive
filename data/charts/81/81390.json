@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-23T19:06:35Z",
+    "lastChanged": "2026-10-23T19:06:35Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-10-17T15:25:25.536329Z",
+  "charter": "ShadowDrake",
+  "composer": "Hylen",
+  "created": "2026-10-17T15:25:25.536329Z",
+  "description": null,
+  "difficulty": 10.0,
+  "file": "https://phira.5wyxi.com/files/29519ed3-3df2-4f32-bda9-857bea96b8d4",
+  "id": 81390,
+  "illustration": "https://phira.5wyxi.com/files/92f1b2e0-f4c6-473c-aea6-eeb0682aad61",
+  "illustrator": "",
+  "level": "SP  Lv.?",
+  "name": "Cobalt 1",
+  "preview": "https://phira.5wyxi.com/files/2d9c61e6-607f-489b-b7f2-1187fb4b979c",
+  "ranked": false,
+  "rating": 0.7803841,
+  "ratingCount": 2,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-10-23T15:54:55.949435Z",
+  "uploader": 2171724
+}

@@ -4,25 +4,25 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:48Z",
-    "lastChanged": "2026-09-21T02:03:48Z",
-    "revisions": 1
+    "lastChanged": "2026-10-23T19:06:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-31T16:07:43.407164Z",
   "charter": "twotthrees",
   "composer": "塞壬唱片-MSR/Steven Grove",
   "created": "2025-08-31T16:07:43.407164Z",
   "description": "因为选曲选明日方舟被猜出来了",
-  "difficulty": 16.5,
-  "file": "https://phira.5wyxi.com/files/57d2980e-64f7-4c75-8087-576f1774e634",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/e9b1169a-ffc9-4b5b-801c-567112a63929",
   "id": 46233,
-  "illustration": "https://phira.5wyxi.com/files/6a59d896-df2f-4b91-8be7-952feb53d84f",
+  "illustration": "https://phira.5wyxi.com/files/6e3e9beb-2ace-4d5d-a2dc-ba34f40ebd7d",
   "illustrator": "",
-  "level": "「渊」 Lv.？",
+  "level": "「渊」 Lv.17",
   "name": "深渊梦呓",
-  "preview": "https://phira.5wyxi.com/files/cfffdf34-4c80-495d-83d6-f8413a5389dc",
+  "preview": "https://phira.5wyxi.com/files/1479f42e-ea66-4f43-9702-9836ad97fd5a",
   "ranked": false,
-  "rating": 0.8666484,
-  "ratingCount": 290,
+  "rating": 0.8692021,
+  "ratingCount": 297,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "明日方舟",
     "regular"
   ],
-  "updated": "2025-08-31T16:07:43.407164Z",
+  "updated": "2026-10-23T18:57:45.928428747Z",
   "uploader": 7679
 }

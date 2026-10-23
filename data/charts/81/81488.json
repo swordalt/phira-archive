@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-18T10:55:53Z",
-    "lastChanged": "2026-10-18T14:30:54Z",
-    "revisions": 2
+    "lastChanged": "2026-10-23T19:06:40Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-18T06:14:07.629900Z",
   "charter": "Anxiety",
@@ -21,8 +21,8 @@
   "name": "ISCHEZAYU",
   "preview": "https://phira.5wyxi.com/files/198d9522-264e-4407-9dc2-9ea6d10d0da9",
   "ranked": false,
-  "rating": 0.83944565,
-  "ratingCount": 0,
+  "rating": 0.9125521,
+  "ratingCount": 94,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -33,6 +33,6 @@
     "7",
     "plain"
   ],
-  "updated": "2026-10-18T09:44:25.485083035Z",
+  "updated": "2026-10-18T09:44:25.485083Z",
   "uploader": 4323499
 }

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-23T09:57:46Z",
-    "lastChanged": "2026-10-23T14:57:45Z",
-    "revisions": 2
+    "lastChanged": "2026-10-23T19:06:35Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-23T07:56:20.757615Z",
   "charter": "YSTAR-T",
@@ -21,8 +21,8 @@
   "name": "Beethoven Virus",
   "preview": "https://phira.5wyxi.com/files/07bc32b3-8414-4b74-8b80-dee087343978",
   "ranked": false,
-  "rating": 0.93785733,
-  "ratingCount": 0,
+  "rating": 0.9391331,
+  "ratingCount": 236,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "节奏大师",
     "regular"
   ],
-  "updated": "2026-10-23T08:36:17.733582938Z",
+  "updated": "2026-10-23T08:36:17.733582Z",
   "uploader": 1213694
 }
