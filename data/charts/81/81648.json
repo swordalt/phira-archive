@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-23T04:37:32Z",
-    "lastChanged": "2026-10-23T04:37:32Z",
-    "revisions": 1
+    "lastChanged": "2026-10-23T09:57:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-20T05:06:48.060808Z",
   "charter": "Iga伊加尔塔",
@@ -21,14 +21,14 @@
   "name": "異端",
   "preview": "https://phira.5wyxi.com/files/01bfa2a1-7b81-402a-9cff-9607e8e0ce94",
   "ranked": false,
-  "rating": 0.8968599,
-  "ratingCount": 13,
+  "rating": 0.91161096,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-23T02:05:49.778399Z",
+  "updated": "2026-10-23T02:05:49.778399467Z",
   "uploader": 50516
 }

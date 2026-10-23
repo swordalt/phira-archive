@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-23T09:57:47Z",
+    "lastChanged": "2026-10-23T09:57:47Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-10-14T20:45:45.923050Z",
+  "charter": "AURORÆCLIPSE.",
+  "composer": "かめりあ",
+  "created": "2026-10-14T20:45:45.923050Z",
+  "description": "谱师之一上传，另一位谱师为欧内的灰\n本谱为#80984的查分谱面，删除了结尾的sv",
+  "difficulty": 18.0,
+  "file": "https://phira.5wyxi.com/files/e942e602-c482-4cd4-85a1-3004f0234d84",
+  "id": 81069,
+  "illustration": "https://phira.5wyxi.com/files/94b68a43-7a36-487b-9678-4da6cc0796bd",
+  "illustrator": "9q",
+  "level": "AT Lv.18",
+  "name": "Fastest Crash",
+  "preview": "https://phira.5wyxi.com/files/5c02c39a-26cd-438f-aef1-d061034ebf67",
+  "ranked": false,
+  "rating": 0.7267729,
+  "ratingCount": 4,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "高难",
+    "regular"
+  ],
+  "updated": "2026-10-23T08:50:53.256129Z",
+  "uploader": 675828
+}
