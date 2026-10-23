@@ -660,3 +660,6 @@
 {"changed": ["updated"], "division": "regular", "event": "updated", "id": 81662, "ts": "2026-10-23T09:57:46Z"}
 {"changed": ["updated"], "division": "regular", "event": "updated", "id": 81648, "ts": "2026-10-23T09:57:46Z"}
 {"changed": ["*new*"], "division": "regular", "event": "new", "id": 81069, "ts": "2026-10-23T09:57:47Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 81829, "ts": "2026-10-23T14:57:45Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 81807, "ts": "2026-10-23T14:57:45Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 81069, "ts": "2026-10-23T14:57:47Z"}

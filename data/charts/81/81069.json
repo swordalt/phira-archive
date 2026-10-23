@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-23T09:57:47Z",
-    "lastChanged": "2026-10-23T09:57:47Z",
-    "revisions": 1
+    "lastChanged": "2026-10-23T14:57:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-14T20:45:45.923050Z",
   "charter": "AURORÆCLIPSE.",
@@ -21,8 +21,8 @@
   "name": "Fastest Crash",
   "preview": "https://phira.5wyxi.com/files/5c02c39a-26cd-438f-aef1-d061034ebf67",
   "ranked": false,
-  "rating": 0.7267729,
-  "ratingCount": 4,
+  "rating": 0.84846056,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "高难",
     "regular"
   ],
-  "updated": "2026-10-23T08:50:53.256129Z",
+  "updated": "2026-10-23T08:50:53.256129933Z",
   "uploader": 675828
 }
