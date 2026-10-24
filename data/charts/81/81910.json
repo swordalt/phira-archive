@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-24T10:49:30Z",
+    "lastChanged": "2026-10-24T10:49:30Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-10-24T05:55:33.143163Z",
+  "charter": "FruitForest",
+  "composer": "Powrless",
+  "created": "2026-10-24T05:55:33.143163Z",
+  "description": null,
+  "difficulty": 17.1,
+  "file": "https://phira.5wyxi.com/files/d0f0f675-8e4c-4eb8-81bc-ed12f9055fee",
+  "id": 81910,
+  "illustration": "https://phira.5wyxi.com/files/92e09663-b3f6-4cf0-8f1c-eece5aed65bf",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "Jdunn's Jnnocence",
+  "preview": "https://phira.5wyxi.com/files/98132f4b-9250-4bca-abb9-417af361ac41",
+  "ranked": false,
+  "rating": 0.8229995,
+  "ratingCount": 8,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-10-24T08:27:46.602212Z",
+  "uploader": 2119640
+}
