@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:48Z",
-    "lastChanged": "2026-10-23T19:06:36Z",
-    "revisions": 2
+    "lastChanged": "2026-10-24T05:43:02Z",
+    "revisions": 3
   },
   "chartUpdated": "2025-08-31T16:07:43.407164Z",
   "charter": "twotthrees",
@@ -21,8 +21,8 @@
   "name": "深渊梦呓",
   "preview": "https://phira.5wyxi.com/files/1479f42e-ea66-4f43-9702-9836ad97fd5a",
   "ranked": false,
-  "rating": 0.8692021,
-  "ratingCount": 297,
+  "rating": 0.86229885,
+  "ratingCount": 303,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "明日方舟",
     "regular"
   ],
-  "updated": "2026-10-23T18:57:45.928428747Z",
+  "updated": "2026-10-23T18:57:45.928428Z",
   "uploader": 7679
 }
