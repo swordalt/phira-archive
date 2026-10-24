@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-24T18:04:12Z",
+    "lastChanged": "2026-10-24T18:04:12Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-10-24T14:27:30.563766Z",
+  "charter": "YSTAR-T",
+  "composer": "Diana Boncheva",
+  "created": "2026-10-24T14:27:30.563766Z",
+  "description": "谱师本人上传\r\n10.23回归作\r\n定数11.0\r\n物量452\r\n目前难度5.5/11.0/14.5",
+  "difficulty": 11.000001,
+  "file": "https://phira.5wyxi.com/files/2875670a-95d3-4d81-9718-6242d6bfbead",
+  "id": 82028,
+  "illustration": "https://phira.5wyxi.com/files/c6a4f983-e812-4d68-96e3-3bf0af9019c1",
+  "illustrator": "RhythmMaster",
+  "level": "HD Lv.11",
+  "name": "Beethoven Virus",
+  "preview": "https://phira.5wyxi.com/files/1c423a1b-2c4f-4c48-b44b-7da0d95f3433",
+  "ranked": false,
+  "rating": 0.92645675,
+  "ratingCount": 53,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "节奏大师",
+    "regular"
+  ],
+  "updated": "2026-10-24T15:02:28.873052Z",
+  "uploader": 1213694
+}
