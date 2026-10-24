@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-24T18:04:12Z",
-    "lastChanged": "2026-10-24T18:04:12Z",
-    "revisions": 1
+    "lastChanged": "2026-10-24T20:42:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-24T14:23:14.801344Z",
   "charter": "ESSAMA JUDGEMENT",
@@ -21,11 +21,11 @@
   "name": "EXXTRA JUDGEMENT",
   "preview": "https://phira.5wyxi.com/files/e45d521e-6b6a-4dea-b522-fea78d82f2e4",
   "ranked": false,
-  "rating": 0.9714073,
+  "rating": 0.9722877,
   "ratingCount": 29,
-  "reviewed": true,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
