@@ -4,31 +4,31 @@
       "regular"
     ],
     "firstSeen": "2026-10-23T04:37:32Z",
-    "lastChanged": "2026-10-23T04:37:32Z",
-    "revisions": 1
+    "lastChanged": "2026-10-25T11:16:07Z",
+    "revisions": 2
   },
-  "chartUpdated": "2026-09-16T08:37:13.249712Z",
+  "chartUpdated": "2026-10-25T09:51:04.220952969Z",
   "charter": "Nyiou",
   "composer": "Halv",
   "created": "2026-09-16T08:37:13.249712Z",
   "description": "七譜，上一張(70781)IN的表演寫的比較急促，這次寫了AT的同時用心寫了一次表演OwO\n\n定數：16.3\n物量：1300\nbpm：210",
   "difficulty": 16.300001,
-  "file": "https://phira.5wyxi.com/files/c7c26ea4-a7cf-43ac-a8e4-a4a6fd730178",
+  "file": "https://phira.5wyxi.com/files/cd6d5724-4ef5-4203-ac4d-a92309989459",
   "id": 78223,
-  "illustration": "https://phira.5wyxi.com/files/7458bb12-42c7-4ee2-8932-7bb0787dbf9b",
+  "illustration": "https://phira.5wyxi.com/files/ca2f41c4-9767-4ca7-acbe-18793d226173",
   "illustrator": "nyanizero feat. yx",
   "level": "AT Lv.16",
   "name": "Meltovt Necrosys",
-  "preview": "https://phira.5wyxi.com/files/e17cbda2-b705-415c-8bab-ab5e015bf797",
+  "preview": "https://phira.5wyxi.com/files/a7353a25-0918-4861-b868-cd14398efb9a",
   "ranked": false,
-  "rating": 0.7263399,
-  "ratingCount": 6,
+  "rating": 0.89226615,
+  "ratingCount": 88,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-23T01:35:55.556201Z",
+  "updated": "2026-10-25T09:51:04.220952969Z",
   "uploader": 439874
 }

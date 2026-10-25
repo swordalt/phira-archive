@@ -718,3 +718,6 @@
 {"changed": ["*new*"], "division": "regular", "event": "new", "id": 82006, "ts": "2026-10-25T09:29:53Z"}
 {"changed": ["*new*"], "division": "regular", "event": "new", "id": 82147, "ts": "2026-10-25T09:29:53Z"}
 {"changed": ["chartUpdated", "charter", "description", "difficulty", "file", "illustration", "preview", "updated"], "division": "plain", "event": "updated", "id": 39884, "ts": "2026-10-25T09:31:21Z"}
+{"changed": ["description", "file", "illustration", "preview", "reviewed", "updated"], "division": "regular", "event": "updated", "id": 80893, "ts": "2026-10-25T11:16:07Z"}
+{"changed": ["chartUpdated", "file", "illustration", "preview", "updated"], "division": "regular", "event": "updated", "id": 78223, "ts": "2026-10-25T11:16:07Z"}
+{"changed": ["file", "illustration", "preview", "updated"], "division": "regular", "event": "updated", "id": 69298, "ts": "2026-10-25T11:16:07Z"}

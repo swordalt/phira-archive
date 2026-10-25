@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-15T14:54:36Z",
-    "lastChanged": "2026-10-16T01:13:30Z",
-    "revisions": 3
+    "lastChanged": "2026-10-25T11:16:07Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-07-26T08:50:11.153552Z",
   "charter": "Nyiounaid",
@@ -13,16 +13,16 @@
   "created": "2026-07-26T08:50:11.153552Z",
   "description": "五譜OwO\n為Hypernaid的前作，寫譜思路也幾乎相似OAO\n定數：16.2\n物量：1071\nbpm：145",
   "difficulty": 16.2,
-  "file": "https://phira.5wyxi.com/files/52b0a920-9dc3-40d9-9fee-3a2f15d47d7f",
+  "file": "https://phira.5wyxi.com/files/c71ddd84-2f68-435d-a732-4579e37454d1",
   "id": 69298,
-  "illustration": "https://phira.5wyxi.com/files/27c2be58-8dc7-4719-a7b0-c87a7580a6fe",
+  "illustration": "https://phira.5wyxi.com/files/03ecd07a-d97b-4711-bc91-0d5ae392c27c",
   "illustrator": "",
   "level": "AT Lv.16",
   "name": "Melonaid",
-  "preview": "https://phira.5wyxi.com/files/26de1fb4-e1e9-4d32-8d95-a284f9447e53",
+  "preview": "https://phira.5wyxi.com/files/eb93e00d-3a93-45d9-84d1-4b5e48c1ea67",
   "ranked": false,
-  "rating": 0.7668921,
-  "ratingCount": 9,
+  "rating": 0.9096662,
+  "ratingCount": 105,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -32,6 +32,6 @@
     "KATOMORI",
     "regular"
   ],
-  "updated": "2026-10-15T14:43:21.555664Z",
+  "updated": "2026-10-25T09:50:48.972707419Z",
   "uploader": 439874
 }
