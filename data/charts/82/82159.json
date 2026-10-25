@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-25T18:58:23Z",
-    "lastChanged": "2026-10-25T18:58:23Z",
-    "revisions": 1
+    "lastChanged": "2026-10-25T21:41:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-25T09:46:36.818423Z",
   "charter": "Anxiety",
@@ -22,7 +22,7 @@
   "preview": "https://phira.5wyxi.com/files/71ae5293-5ba5-439a-a278-c12484db3b6b",
   "ranked": false,
   "rating": 0.7803841,
-  "ratingCount": 2,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -33,6 +33,6 @@
     "段位",
     "plain"
   ],
-  "updated": "2026-10-25T16:37:09.769918Z",
+  "updated": "2026-10-25T16:37:09.769918259Z",
   "uploader": 4366580
 }

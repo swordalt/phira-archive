@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-25T18:58:23Z",
-    "lastChanged": "2026-10-25T18:58:23Z",
-    "revisions": 1
+    "lastChanged": "2026-10-25T21:41:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-25T09:45:57.957650Z",
   "charter": "Anxiety",
@@ -21,7 +21,7 @@
   "name": "Final Step! ",
   "preview": "https://phira.5wyxi.com/files/b929f31f-9940-4549-ba42-f5766f405f40",
   "ranked": false,
-  "rating": null,
+  "rating": 0.7803841,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -34,6 +34,6 @@
     "6",
     "plain"
   ],
-  "updated": "2026-10-25T16:34:38.875881Z",
+  "updated": "2026-10-25T16:34:38.875881759Z",
   "uploader": 4366580
 }
