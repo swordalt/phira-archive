@@ -721,3 +721,4 @@
 {"changed": ["description", "file", "illustration", "preview", "reviewed", "updated"], "division": "regular", "event": "updated", "id": 80893, "ts": "2026-10-25T11:16:07Z"}
 {"changed": ["chartUpdated", "file", "illustration", "preview", "updated"], "division": "regular", "event": "updated", "id": 78223, "ts": "2026-10-25T11:16:07Z"}
 {"changed": ["file", "illustration", "preview", "updated"], "division": "regular", "event": "updated", "id": 69298, "ts": "2026-10-25T11:16:07Z"}
+{"changed": ["*new*"], "division": "plain", "event": "new", "id": 82172, "ts": "2026-10-25T16:04:04Z"}
