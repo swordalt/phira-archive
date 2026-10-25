@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:12Z",
-    "lastChanged": "2026-09-21T02:05:12Z",
-    "revisions": 1
+    "lastChanged": "2026-10-25T09:29:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-24T14:06:54.440654Z",
   "charter": "\"c?l?p?m\"~† 神女 †~ 「寒廻 淤花」",
@@ -21,11 +21,11 @@
   "name": "靈",
   "preview": "https://phira.5wyxi.com/files/60ccec3b-81a5-4e8f-8fef-23da7642e9b6",
   "ranked": false,
-  "rating": 0.9199953,
-  "ratingCount": 307,
-  "reviewed": false,
+  "rating": 0.92563057,
+  "ratingCount": 363,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

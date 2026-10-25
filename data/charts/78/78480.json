@@ -4,31 +4,31 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:18Z",
-    "lastChanged": "2026-09-22T14:44:17Z",
-    "revisions": 2
+    "lastChanged": "2026-10-25T09:29:47Z",
+    "revisions": 3
   },
-  "chartUpdated": "2026-09-19T08:57:18.442024Z",
+  "chartUpdated": "2026-10-25T08:32:14.200716Z",
   "charter": "~ 雪麦 ~",
   "composer": "悠叶いのり",
   "created": "2026-09-19T08:57:18.442024Z",
   "description": "越写到后面越没什么想法了（\n板子写的，无电脑，使用Win虚拟机\n\nB站谱面视频：BV1P3Y963EPR\nB站：@是小麦呐_#8422\n本人上传",
   "difficulty": 14.1,
-  "file": "https://phira.5wyxi.com/files/6c46b362-74e0-45ea-9d33-5b725e80f663",
+  "file": "https://phira.5wyxi.com/files/ce881d8c-985f-4621-9a70-57a8bb872bc9",
   "id": 78480,
-  "illustration": "https://phira.5wyxi.com/files/0f6da8c3-811e-4c9d-b946-67c66ab14c2f",
+  "illustration": "https://phira.5wyxi.com/files/a5094950-605f-4538-8d7b-77ab861b7342",
   "illustrator": "Mad Project (@Orzmic)",
   "level": "IN Lv.14",
   "name": "Snow Dance",
-  "preview": "https://phira.5wyxi.com/files/82bdf924-2008-44d0-b647-2131fa21a0fa",
+  "preview": "https://phira.5wyxi.com/files/af72678c-a1a5-4a47-9e51-88e64e2b7ec3",
   "ranked": false,
-  "rating": 0.91098297,
-  "ratingCount": 105,
-  "reviewed": true,
+  "rating": 0.9125434,
+  "ratingCount": 407,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-19T14:19:39.656849Z",
+  "updated": "2026-10-25T08:32:14.200716Z",
   "uploader": 8422
 }

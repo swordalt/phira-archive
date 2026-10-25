@@ -4,10 +4,10 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:36Z",
-    "lastChanged": "2026-10-19T07:40:44Z",
-    "revisions": 2
+    "lastChanged": "2026-10-25T09:28:45Z",
+    "revisions": 3
   },
-  "chartUpdated": "2026-10-19T05:52:28.680371017Z",
+  "chartUpdated": "2026-10-19T05:52:28.680371Z",
   "charter": "Axi vs.雨巷猫归",
   "composer": "佐藤直之",
   "created": "2026-04-17T04:19:08.718164Z",
@@ -21,14 +21,14 @@
   "name": "encounter",
   "preview": "https://phira.5wyxi.com/files/d78f1882-4cdb-4f47-8857-fc89dbf30d1b",
   "ranked": false,
-  "rating": 0.76350266,
-  "ratingCount": 9,
+  "rating": 0.9193793,
+  "ratingCount": 61,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-19T05:52:28.680371017Z",
+  "updated": "2026-10-19T05:52:28.680371Z",
   "uploader": 62
 }

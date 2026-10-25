@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:07Z",
-    "lastChanged": "2026-09-21T02:05:07Z",
-    "revisions": 1
+    "lastChanged": "2026-10-25T09:29:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-13T12:53:05.619615Z",
   "charter": "ingly vs. A.B.W.",
@@ -21,11 +21,11 @@
   "name": "Ouvertüre",
   "preview": "https://phira.5wyxi.com/files/7ff92966-c353-4054-affd-4c8b6273744b",
   "ranked": false,
-  "rating": 0.87209374,
-  "ratingCount": 194,
-  "reviewed": false,
+  "rating": 0.8765024,
+  "ratingCount": 204,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

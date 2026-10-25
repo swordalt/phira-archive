@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:05Z",
-    "lastChanged": "2026-09-21T02:05:05Z",
-    "revisions": 1
+    "lastChanged": "2026-10-25T09:29:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-05T04:41:53.935560Z",
   "charter": "Lux",
@@ -21,11 +21,11 @@
   "name": "シリーテラー (feat. IA)",
   "preview": "https://phira.5wyxi.com/files/9453a521-2cb9-4305-b55f-e2368ec0fc93",
   "ranked": false,
-  "rating": 0.90574026,
-  "ratingCount": 424,
+  "rating": 0.90865976,
+  "ratingCount": 465,
   "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

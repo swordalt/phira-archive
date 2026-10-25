@@ -700,3 +700,21 @@
 {"changed": ["updated"], "division": "regular", "event": "updated", "id": 82030, "ts": "2026-10-24T20:42:12Z"}
 {"changed": ["updated"], "division": "regular", "event": "updated", "id": 82028, "ts": "2026-10-24T20:42:12Z"}
 {"changed": ["reviewed", "stableRequest"], "division": "regular", "event": "updated", "id": 82027, "ts": "2026-10-24T20:42:12Z"}
+{"changed": ["chartUpdated", "updated"], "division": "regular", "event": "updated", "id": 7254, "ts": "2026-10-25T09:23:46Z"}
+{"changed": ["reviewed", "stableRequest"], "division": "regular", "event": "updated", "id": 26218, "ts": "2026-10-25T09:25:29Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 28167, "ts": "2026-10-25T09:25:42Z"}
+{"changed": ["reviewed", "stableRequest"], "division": "regular", "event": "updated", "id": 47917, "ts": "2026-10-25T09:27:35Z"}
+{"changed": ["chartUpdated", "description", "difficulty", "file", "illustration", "illustrator", "preview", "stableRequest", "updated"], "division": "regular", "event": "updated", "id": 53302, "ts": "2026-10-25T09:28:24Z"}
+{"changed": ["chartUpdated", "updated"], "division": "regular", "event": "updated", "id": 56463, "ts": "2026-10-25T09:28:45Z"}
+{"changed": ["stableRequest"], "division": "regular", "event": "updated", "id": 71032, "ts": "2026-10-25T09:29:29Z"}
+{"changed": ["reviewed", "stableRequest"], "division": "regular", "event": "updated", "id": 72786, "ts": "2026-10-25T09:29:33Z"}
+{"changed": ["reviewed", "stableRequest"], "division": "regular", "event": "updated", "id": 75482, "ts": "2026-10-25T09:29:40Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 77806, "ts": "2026-10-25T09:29:45Z"}
+{"changed": ["chartUpdated", "file", "illustration", "preview", "reviewed", "stableRequest", "updated"], "division": "regular", "event": "updated", "id": 78480, "ts": "2026-10-25T09:29:47Z"}
+{"changed": ["reviewed", "stableRequest"], "division": "regular", "event": "updated", "id": 79174, "ts": "2026-10-25T09:29:48Z"}
+{"changed": ["reviewed", "stableRequest"], "division": "regular", "event": "updated", "id": 79459, "ts": "2026-10-25T09:29:49Z"}
+{"changed": ["reviewed", "stableRequest"], "division": "regular", "event": "updated", "id": 79619, "ts": "2026-10-25T09:29:49Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 80093, "ts": "2026-10-25T09:29:49Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 82006, "ts": "2026-10-25T09:29:53Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 82147, "ts": "2026-10-25T09:29:53Z"}
+{"changed": ["chartUpdated", "charter", "description", "difficulty", "file", "illustration", "preview", "updated"], "division": "plain", "event": "updated", "id": 39884, "ts": "2026-10-25T09:31:21Z"}

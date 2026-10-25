@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:33Z",
-    "lastChanged": "2026-09-21T02:02:33Z",
-    "revisions": 1
+    "lastChanged": "2026-10-25T09:25:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-14T07:36:22.987514Z",
   "charter": "Last  -L.L.White-",
@@ -21,11 +21,11 @@
   "name": "Last Promise",
   "preview": "https://phira.5wyxi.com/files/22f45b19-508c-4c7d-8845-e5124b69b393",
   "ranked": false,
-  "rating": 0.92603874,
-  "ratingCount": 145,
-  "reviewed": false,
+  "rating": 0.93143576,
+  "ratingCount": 157,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
