@@ -1,12 +1,12 @@
 {
   "divisions": {
     "plain": {
-      "apiCount": 3399,
+      "apiCount": 3398,
       "archived": 3446,
       "maxId": 82172
     },
     "regular": {
-      "apiCount": 9743,
+      "apiCount": 9742,
       "archived": 9868,
       "maxId": 82147
     },
@@ -21,8 +21,8 @@
       "maxId": 79472
     }
   },
-  "generated": "2026-10-26T00:11:26Z",
-  "lastPoll": "2026-10-26T00:11:26Z",
+  "generated": "2026-10-26T06:02:52Z",
+  "lastPoll": "2026-10-26T06:02:52Z",
   "lastSweep": "2026-10-25T09:32:31Z",
   "localBackup": {
     "archived": 526,
