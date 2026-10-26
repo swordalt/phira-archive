@@ -750,3 +750,6 @@
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 82156, "ts": "2026-10-26T12:49:31Z"}
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 82155, "ts": "2026-10-26T12:49:31Z"}
 {"changed": ["chartUpdated", "updated"], "division": "plain", "event": "updated", "id": 39884, "ts": "2026-10-26T12:49:32Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 82235, "ts": "2026-10-26T19:11:56Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 82222, "ts": "2026-10-26T19:11:56Z"}
+{"changed": ["*new*"], "division": "plain", "event": "new", "id": 82247, "ts": "2026-10-26T19:12:00Z"}
