@@ -753,3 +753,5 @@
 {"changed": ["*new*"], "division": "regular", "event": "new", "id": 82235, "ts": "2026-10-26T19:11:56Z"}
 {"changed": ["*new*"], "division": "regular", "event": "new", "id": 82222, "ts": "2026-10-26T19:11:56Z"}
 {"changed": ["*new*"], "division": "plain", "event": "new", "id": 82247, "ts": "2026-10-26T19:12:00Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 82235, "ts": "2026-10-26T23:47:29Z"}
+{"changed": ["updated"], "division": "plain", "event": "updated", "id": 82247, "ts": "2026-10-26T23:47:33Z"}
