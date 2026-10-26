@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-24T10:49:30Z",
-    "lastChanged": "2026-10-24T14:27:19Z",
-    "revisions": 2
+    "lastChanged": "2026-10-26T12:49:24Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-23T07:13:34.969466Z",
   "charter": "C.efe (nobody cares)",
@@ -21,8 +21,8 @@
   "name": "火花",
   "preview": "https://phira.5wyxi.com/files/aed20394-f19c-470d-ad5e-2a51afbf736e",
   "ranked": false,
-  "rating": 0.90158343,
-  "ratingCount": 0,
+  "rating": 0.92803675,
+  "ratingCount": 670,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -31,6 +31,6 @@
     "洛天依",
     "regular"
   ],
-  "updated": "2026-10-24T08:48:41.659002523Z",
+  "updated": "2026-10-24T08:48:41.659002Z",
   "uploader": 81
 }

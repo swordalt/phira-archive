@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-25T18:58:23Z",
-    "lastChanged": "2026-10-25T21:41:23Z",
-    "revisions": 2
+    "lastChanged": "2026-10-26T12:49:31Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-25T09:46:15.921253Z",
   "charter": "Anxiety",
@@ -21,8 +21,8 @@
   "name": "SAY BAY",
   "preview": "https://phira.5wyxi.com/files/4212d638-b7ba-4c53-9c69-230c23b47b95",
   "ranked": false,
-  "rating": 0.7482895,
-  "ratingCount": 0,
+  "rating": 0.8176735,
+  "ratingCount": 2,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -34,6 +34,6 @@
     "6",
     "plain"
   ],
-  "updated": "2026-10-25T17:16:09.096036622Z",
+  "updated": "2026-10-25T17:16:09.096036Z",
   "uploader": 4366580
 }

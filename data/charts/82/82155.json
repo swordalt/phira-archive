@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-25T18:58:23Z",
-    "lastChanged": "2026-10-25T21:41:23Z",
-    "revisions": 2
+    "lastChanged": "2026-10-26T12:49:31Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-25T09:45:19.291865Z",
   "charter": "Anxiety",
@@ -21,8 +21,8 @@
   "name": "RTRT",
   "preview": "https://phira.5wyxi.com/files/b0c6addf-c684-437f-8409-e2b8fb2b2d5c",
   "ranked": false,
-  "rating": null,
-  "ratingCount": 0,
+  "rating": 0.69704384,
+  "ratingCount": 1,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -34,6 +34,6 @@
     "6",
     "plain"
   ],
-  "updated": "2026-10-25T16:08:14.922494117Z",
+  "updated": "2026-10-25T16:08:14.922494Z",
   "uploader": 4366580
 }

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-25T18:58:23Z",
-    "lastChanged": "2026-10-25T21:41:23Z",
-    "revisions": 2
+    "lastChanged": "2026-10-26T12:49:31Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-25T09:46:36.818423Z",
   "charter": "Anxiety",
@@ -21,8 +21,8 @@
   "name": "DFC 6th Dan(Sample)",
   "preview": "https://phira.5wyxi.com/files/71ae5293-5ba5-439a-a278-c12484db3b6b",
   "ranked": false,
-  "rating": 0.7803841,
-  "ratingCount": 0,
+  "rating": 0.87991786,
+  "ratingCount": 6,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -33,6 +33,6 @@
     "段位",
     "plain"
   ],
-  "updated": "2026-10-25T16:37:09.769918259Z",
+  "updated": "2026-10-25T16:37:09.769918Z",
   "uploader": 4366580
 }

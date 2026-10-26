@@ -4,10 +4,10 @@
       "regular"
     ],
     "firstSeen": "2026-10-23T04:37:32Z",
-    "lastChanged": "2026-10-25T11:16:07Z",
-    "revisions": 2
+    "lastChanged": "2026-10-26T12:49:27Z",
+    "revisions": 3
   },
-  "chartUpdated": "2026-10-25T09:51:04.220952969Z",
+  "chartUpdated": "2026-10-25T09:51:04.220952Z",
   "charter": "Nyiou",
   "composer": "Halv",
   "created": "2026-09-16T08:37:13.249712Z",
@@ -21,14 +21,14 @@
   "name": "Meltovt Necrosys",
   "preview": "https://phira.5wyxi.com/files/a7353a25-0918-4861-b868-cd14398efb9a",
   "ranked": false,
-  "rating": 0.89226615,
-  "ratingCount": 88,
+  "rating": 0.8917887,
+  "ratingCount": 119,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-25T09:51:04.220952969Z",
+  "updated": "2026-10-25T09:51:04.220952Z",
   "uploader": 439874
 }

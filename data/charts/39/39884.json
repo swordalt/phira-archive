@@ -4,10 +4,10 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:18Z",
-    "lastChanged": "2026-10-25T09:31:21Z",
-    "revisions": 2
+    "lastChanged": "2026-10-26T12:49:32Z",
+    "revisions": 3
   },
-  "chartUpdated": "2026-10-25T09:05:02.013648140Z",
+  "chartUpdated": "2026-10-25T09:05:02.013648Z",
   "charter": "MianTiao",
   "composer": "2TORI",
   "created": "2025-06-18T16:29:03.429178Z",
@@ -21,8 +21,8 @@
   "name": "Hiensou",
   "preview": "https://phira.5wyxi.com/files/edaae463-605f-41db-96fe-5a1ad66b493d",
   "ranked": false,
-  "rating": 0.909993,
-  "ratingCount": 77,
+  "rating": 0.9119298,
+  "ratingCount": 83,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -32,6 +32,6 @@
     "儿歌",
     "plain"
   ],
-  "updated": "2026-10-25T09:05:02.013648140Z",
+  "updated": "2026-10-25T09:05:02.013648Z",
   "uploader": 30929
 }

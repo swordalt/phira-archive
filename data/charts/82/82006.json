@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-25T09:29:53Z",
-    "lastChanged": "2026-10-25T09:29:53Z",
-    "revisions": 1
+    "lastChanged": "2026-10-26T12:49:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-24T13:24:16.077637Z",
   "charter": "Nyiou",
@@ -21,14 +21,14 @@
   "name": "JACKPOT's Dreamer",
   "preview": "https://phira.5wyxi.com/files/37315bb8-b6ba-4eef-83b0-b22d2ae3c2d1",
   "ranked": false,
-  "rating": 0.84553653,
-  "ratingCount": 0,
-  "reviewed": true,
+  "rating": 0.90834886,
+  "ratingCount": 32,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-25T08:26:34.784434547Z",
+  "updated": "2026-10-25T08:26:34.784434Z",
   "uploader": 439874
 }
