@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-27T16:28:27Z",
-    "lastChanged": "2026-10-27T16:28:27Z",
-    "revisions": 1
+    "lastChanged": "2026-10-27T21:14:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-27T14:02:52.139712Z",
   "charter": "hu_zrua",
@@ -21,14 +21,14 @@
   "name": "神鳴",
   "preview": "https://phira.5wyxi.com/files/bab31998-739b-41af-aaba-1b96446abe8d",
   "ranked": false,
-  "rating": 0.755949,
-  "ratingCount": 2,
+  "rating": 0.7525544,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-27T15:12:14.320230Z",
+  "updated": "2026-10-27T15:12:14.320230817Z",
   "uploader": 202494
 }
