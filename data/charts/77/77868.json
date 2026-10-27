@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-27T10:26:06Z",
-    "lastChanged": "2026-10-27T10:26:06Z",
-    "revisions": 1
+    "lastChanged": "2026-10-27T16:28:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-12T09:19:22.673635Z",
   "charter": "VVC21",
@@ -21,7 +21,7 @@
   "name": "Velocity",
   "preview": "https://phira.5wyxi.com/files/c7448570-b6e4-4262-9c8e-a8c1d28a8cb5",
   "ranked": false,
-  "rating": null,
+  "rating": 0.87774557,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -29,6 +29,6 @@
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-27T10:21:56.481969Z",
+  "updated": "2026-10-27T10:21:56.481969522Z",
   "uploader": 1066906
 }
