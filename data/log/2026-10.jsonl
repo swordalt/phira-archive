@@ -772,3 +772,5 @@
 {"changed": ["*new*"], "division": "regular", "event": "new", "id": 80988, "ts": "2026-10-27T21:14:55Z"}
 {"changed": ["updated"], "division": "regular", "event": "updated", "id": 80988, "ts": "2026-10-28T01:13:33Z"}
 {"changed": ["reviewed", "stableRequest"], "division": "regular", "event": "updated", "id": 82241, "ts": "2026-10-28T08:19:51Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 81993, "ts": "2026-10-28T15:56:23Z"}
+{"changed": ["*new*"], "division": "plain", "event": "new", "id": 82335, "ts": "2026-10-28T15:56:31Z"}
