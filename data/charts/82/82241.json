@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-27T04:53:15Z",
-    "lastChanged": "2026-10-27T04:53:15Z",
-    "revisions": 1
+    "lastChanged": "2026-10-28T08:19:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-26T09:53:13.616324Z",
   "charter": "SubDaimeng",
@@ -21,11 +21,11 @@
   "name": "director kasukasu puppy",
   "preview": "https://phira.5wyxi.com/files/a215f617-3c79-4031-b8ae-9d9e01651feb",
   "ranked": false,
-  "rating": 0.6664713,
-  "ratingCount": 0,
-  "reviewed": true,
+  "rating": 0.8703766,
+  "ratingCount": 17,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
