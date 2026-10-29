@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-28T15:56:31Z",
-    "lastChanged": "2026-10-28T20:58:53Z",
-    "revisions": 2
+    "lastChanged": "2026-10-29T14:09:52Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-27T13:22:53.598130Z",
   "charter": "DFC_TEAM",
@@ -21,7 +21,7 @@
   "name": "Der Wald（Kors k remix）",
   "preview": "https://phira.5wyxi.com/files/22063f82-d6ad-467e-9154-be1b31b69816",
   "ranked": false,
-  "rating": null,
+  "rating": 0.7128238,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -35,6 +35,6 @@
     "Tea",
     "plain"
   ],
-  "updated": "2026-10-28T11:18:59.092312971Z",
+  "updated": "2026-10-28T11:18:59.092312Z",
   "uploader": 737822
 }

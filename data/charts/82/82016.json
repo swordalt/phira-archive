@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-27T04:53:15Z",
-    "lastChanged": "2026-10-27T04:53:15Z",
-    "revisions": 1
+    "lastChanged": "2026-10-29T14:09:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-24T13:52:19.087948Z",
   "charter": "无水之溪旭 / tikkit",
@@ -21,8 +21,8 @@
   "name": "Grin",
   "preview": "https://phira.5wyxi.com/files/efef7a96-1564-4780-8a6d-bced1cf36b14",
   "ranked": false,
-  "rating": 0.8956693,
-  "ratingCount": 11,
+  "rating": 0.9526424,
+  "ratingCount": 160,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "双指",
     "regular"
   ],
-  "updated": "2026-10-27T00:39:06.808437Z",
+  "updated": "2026-10-28T21:54:02.196103Z",
   "uploader": 3139712
 }
