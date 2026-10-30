@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-30T19:14:14Z",
-    "lastChanged": "2026-10-30T19:14:14Z",
-    "revisions": 1
+    "lastChanged": "2026-10-30T23:39:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-30T16:09:45.971733Z",
   "charter": "[荧光素酶]",
@@ -21,8 +21,8 @@
   "name": "トゥルーエンド",
   "preview": "https://phira.5wyxi.com/files/91e68938-06e1-493b-9f1a-27bd97e6315b",
   "ranked": false,
-  "rating": 0.83321184,
-  "ratingCount": 5,
+  "rating": 0.86019063,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "恶魔连结",
     "regular"
   ],
-  "updated": "2026-10-30T16:16:57.736938Z",
+  "updated": "2026-10-30T16:16:57.736938446Z",
   "uploader": 4158612
 }
