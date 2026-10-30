@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-30T14:01:44Z",
-    "lastChanged": "2026-10-30T14:01:44Z",
-    "revisions": 1
+    "lastChanged": "2026-10-30T19:14:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-28T12:00:39.101143Z",
   "charter": "飞跃的线",
@@ -21,14 +21,14 @@
   "name": "Still",
   "preview": "https://phira.5wyxi.com/files/9d15086c-b360-455f-9e76-2aef378842e8",
   "ranked": false,
-  "rating": 0.89410263,
-  "ratingCount": 46,
+  "rating": 0.89248186,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-30T08:15:11.850497Z",
+  "updated": "2026-10-30T08:15:11.850497148Z",
   "uploader": 91744
 }

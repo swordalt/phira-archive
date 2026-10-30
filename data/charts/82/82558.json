@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-30T19:14:14Z",
+    "lastChanged": "2026-10-30T19:14:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-10-30T16:09:45.971733Z",
+  "charter": "[荧光素酶]",
+  "composer": "ああああ",
+  "created": "2026-10-30T16:09:45.971733Z",
+  "description": "恶魔连结一周年作，谱师本人上传。\r\n\r\n看到某张四人合作的开屏曲之后光速撤回并添加致敬（不是。由于长宽比小于1.77778的设备不能正常显示16:9的谱面，因此上传版本为4:3（iPad）比例，直接调整可能导致故事版效果不佳。在谱面文件内有16:9版本的谱面文件，针对故事版以及左右侧落的部分做了一些调整，适应这类设备。\r\n\r\n谱面里有很多小巧思，各位可以猜测一下是什么含义。",
+  "difficulty": 14.300001,
+  "file": "https://phira.5wyxi.com/files/a896d9e5-18b9-4f1c-a90e-7c1a724da2a4",
+  "id": 82558,
+  "illustration": "https://phira.5wyxi.com/files/75c1e312-b7b1-41a6-81db-5dcd43452f84",
+  "illustrator": "ばやちゃお",
+  "level": "IN  Lv.14",
+  "name": "トゥルーエンド",
+  "preview": "https://phira.5wyxi.com/files/91e68938-06e1-493b-9f1a-27bd97e6315b",
+  "ranked": false,
+  "rating": 0.83321184,
+  "ratingCount": 5,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "恶魔连结",
+    "regular"
+  ],
+  "updated": "2026-10-30T16:16:57.736938Z",
+  "uploader": 4158612
+}
