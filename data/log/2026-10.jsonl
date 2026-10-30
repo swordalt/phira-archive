@@ -783,3 +783,6 @@
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 82335, "ts": "2026-10-29T14:09:52Z"}
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 82179, "ts": "2026-10-29T14:09:52Z"}
 {"changed": ["*new*"], "division": "plain", "event": "new", "id": 65386, "ts": "2026-10-30T07:01:15Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 82392, "ts": "2026-10-30T14:01:44Z"}
+{"changed": ["*new*"], "division": "plain", "event": "new", "id": 82482, "ts": "2026-10-30T14:01:52Z"}
+{"changed": ["updated"], "division": "plain", "event": "updated", "id": 65386, "ts": "2026-10-30T14:01:53Z"}
