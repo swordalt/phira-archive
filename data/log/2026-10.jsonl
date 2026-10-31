@@ -802,3 +802,11 @@
 {"changed": ["updated"], "division": "regular", "event": "updated", "id": 82448, "ts": "2026-10-31T12:14:14Z"}
 {"changed": ["reviewed", "stableRequest", "updated"], "division": "regular", "event": "updated", "id": 82392, "ts": "2026-10-31T12:14:14Z"}
 {"changed": ["reviewed", "stableRequest"], "division": "regular", "event": "updated", "id": 82030, "ts": "2026-10-31T12:14:14Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 82675, "ts": "2026-10-31T17:39:48Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 82669, "ts": "2026-10-31T17:39:48Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 82626, "ts": "2026-10-31T17:39:48Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 82542, "ts": "2026-10-31T17:39:48Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 82326, "ts": "2026-10-31T17:39:48Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 82194, "ts": "2026-10-31T17:39:48Z"}
+{"changed": ["*new*"], "division": "plain", "event": "new", "id": 82607, "ts": "2026-10-31T17:39:53Z"}
+{"changed": ["*new*"], "division": "plain", "event": "new", "id": 81068, "ts": "2026-10-31T17:39:54Z"}
