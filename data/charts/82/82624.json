@@ -1,0 +1,38 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-10-31T12:14:14Z",
+    "lastChanged": "2026-10-31T12:14:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-10-31T07:18:10.367725Z",
+  "charter": "无水之溪旭 &scarf",
+  "composer": "Laur",
+  "created": "2026-10-31T07:18:10.367725Z",
+  "description": "源计划：生贺之一，源汐杯比赛谱面\n————————\n感谢scarf的谱面开头配置协助！（因为scarf还被困在学校里出不来这里协助申请暂时先放置）\n注意：高潮段和副歌段的仁王盾背景音其实是12分，但是再三考虑过后这里选择了8分固定踩音作为平衡，游玩时注意实际节奏喵",
+  "difficulty": 18.600002,
+  "file": "https://phira.5wyxi.com/files/86368e7a-9aff-4d06-8d4f-11d5b328e953",
+  "id": 82624,
+  "illustration": "https://phira.5wyxi.com/files/f41ff0e8-1bfb-4d76-aae1-31b017e16a8d",
+  "illustrator": "DesRemuci",
+  "level": "AT Lv.18",
+  "name": "Viyella's Destiny",
+  "preview": "https://phira.5wyxi.com/files/c8a4948e-3137-4b97-9cbe-d8739112d941",
+  "ranked": false,
+  "rating": 0.8292723,
+  "ratingCount": 1,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "源汐杯",
+    "高难",
+    "多指",
+    "键盘",
+    "regular"
+  ],
+  "updated": "2026-10-31T08:27:11.210289Z",
+  "uploader": 3139712
+}
