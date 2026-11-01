@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-01T14:59:19Z",
-    "lastChanged": "2026-11-01T14:59:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-01T19:33:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-30T10:42:33.405037Z",
   "charter": "TOGC",
@@ -21,14 +21,14 @@
   "name": "Usagi Flap (takehirotei remix)",
   "preview": "https://phira.5wyxi.com/files/72b9ea37-7a99-4c2e-90cf-7484cb68ffdd",
   "ranked": false,
-  "rating": 0.7419859,
-  "ratingCount": 12,
+  "rating": 0.73991174,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-01T11:54:38.050062Z",
+  "updated": "2026-11-01T11:54:38.050062972Z",
   "uploader": 159420
 }
