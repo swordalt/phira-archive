@@ -17,3 +17,7 @@
 {"changed": ["reviewed", "stableRequest"], "division": "regular", "event": "updated", "id": 82787, "ts": "2026-11-01T11:36:08Z"}
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 80203, "ts": "2026-11-01T11:39:15Z"}
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 82530, "ts": "2026-11-01T11:39:19Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 82729, "ts": "2026-11-01T14:59:19Z"}
+{"changed": ["reviewed", "stableRequest", "updated"], "division": "regular", "event": "updated", "id": 82543, "ts": "2026-11-01T14:59:19Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 82513, "ts": "2026-11-01T14:59:19Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 79716, "ts": "2026-11-01T14:59:21Z"}
