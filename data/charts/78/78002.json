@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-27T18:17:49Z",
-    "lastChanged": "2026-09-27T18:17:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-01T11:36:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-13T05:08:59.583376Z",
   "charter": "0.571024%",
@@ -21,11 +21,11 @@
   "name": "ももいろけいほう",
   "preview": "https://phira.5wyxi.com/files/09b65d6b-2e9a-45fe-8e8e-c53c3237e5c7",
   "ranked": false,
-  "rating": 0.8577332,
-  "ratingCount": 9,
-  "reviewed": false,
+  "rating": 0.9135103,
+  "ratingCount": 421,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "足立零",
     "regular"

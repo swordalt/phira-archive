@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-01T07:25:52Z",
-    "lastChanged": "2026-11-01T07:25:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-01T11:36:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-18T00:57:19.760508Z",
   "charter": "storm",
@@ -21,14 +21,14 @@
   "name": "《Ж》",
   "preview": "https://phira.5wyxi.com/files/1569a7d3-173d-432a-b5e4-aa13d1083ebd",
   "ranked": false,
-  "rating": 0.87198377,
-  "ratingCount": 34,
+  "rating": 0.8761164,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-01T04:14:59.355497Z",
+  "updated": "2026-11-01T04:14:59.355497794Z",
   "uploader": 845004
 }

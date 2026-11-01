@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-11T07:04:30Z",
-    "lastChanged": "2026-10-11T07:04:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-01T11:36:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-11T00:37:11.431205Z",
   "charter": "\"mtvd\" as A.B.W.",
@@ -21,11 +21,11 @@
   "name": "無機質世界に彩を",
   "preview": "https://phira.5wyxi.com/files/f3d528a9-f306-4865-a6c5-68f4b1b5634d",
   "ranked": false,
-  "rating": 0.90373224,
-  "ratingCount": 6,
-  "reviewed": false,
+  "rating": 0.882552,
+  "ratingCount": 95,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

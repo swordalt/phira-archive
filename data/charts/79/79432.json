@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-01T05:41:38Z",
-    "lastChanged": "2026-10-03T17:12:29Z",
-    "revisions": 3
+    "lastChanged": "2026-11-01T11:36:02Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-09-29T14:52:00.088592Z",
   "charter": "Kyursure_ver : 0.19.0",
@@ -21,11 +21,11 @@
   "name": "Restoration Lake",
   "preview": "https://phira.5wyxi.com/files/8d5064e2-3e87-41d4-b523-307c021a6ac3",
   "ranked": false,
-  "rating": 0.8294033,
-  "ratingCount": 30,
-  "reviewed": false,
+  "rating": 0.87748396,
+  "ratingCount": 53,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

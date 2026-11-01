@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-11-01T07:26:04Z",
-    "lastChanged": "2026-11-01T07:26:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-01T11:39:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-05T04:06:31.389367Z",
   "charter": "color",
@@ -21,14 +21,14 @@
   "name": "snooze",
   "preview": "https://phira.5wyxi.com/files/52ef4445-239a-499e-8ede-5eaa4411af53",
   "ranked": false,
-  "rating": 0.81748116,
-  "ratingCount": 7,
+  "rating": 0.84143823,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "plain"
   ],
-  "updated": "2026-11-01T04:31:18.017521Z",
+  "updated": "2026-11-01T04:31:18.017521524Z",
   "uploader": 995266
 }

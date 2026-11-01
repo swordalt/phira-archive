@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:18Z",
-    "lastChanged": "2026-09-21T02:02:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-01T11:30:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-23T03:42:18.582839Z",
   "charter": "小杨qwq_",
@@ -21,11 +21,11 @@
   "name": "Fragrance",
   "preview": "https://phira.5wyxi.com/files/91fc77fd-c0d7-4388-86f8-4101332c4656",
   "ranked": false,
-  "rating": 0.9418555,
-  "ratingCount": 1174,
-  "reviewed": true,
+  "rating": 0.9421516,
+  "ratingCount": 1181,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
