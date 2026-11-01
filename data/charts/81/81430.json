@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-11-01T07:25:52Z",
+    "lastChanged": "2026-11-01T07:25:52Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-10-18T00:57:19.760508Z",
+  "charter": "storm",
+  "composer": "LYRi \"Cyanblue\" WHiTE/NIKANON",
+  "created": "2026-10-18T00:57:19.760508Z",
+  "description": "本来想写异象变换难度的，不会写，还是算了，谱面在b站已发（b站同名）",
+  "difficulty": 10.800002,
+  "file": "https://phira.5wyxi.com/files/aafa128d-96c0-4b50-98b9-4e4d699c1fa5",
+  "id": 81430,
+  "illustration": "https://phira.5wyxi.com/files/27a52ce0-22d4-4018-91de-8ab621097c84",
+  "illustrator": "Siesphere",
+  "level": "EZ Lv.10",
+  "name": "《Ж》",
+  "preview": "https://phira.5wyxi.com/files/1569a7d3-173d-432a-b5e4-aa13d1083ebd",
+  "ranked": false,
+  "rating": 0.87198377,
+  "ratingCount": 34,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-11-01T04:14:59.355497Z",
+  "uploader": 845004
+}

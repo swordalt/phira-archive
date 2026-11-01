@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-11-01T01:01:27Z",
-    "lastChanged": "2026-11-01T01:01:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-01T07:26:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-07T08:21:08.846015Z",
   "charter": "NOV.3RD",
@@ -21,8 +21,8 @@
   "name": "GHOST-NOVA ",
   "preview": "https://phira.5wyxi.com/files/bb21ba05-5b33-4a4c-8774-e5805b4c7c6f",
   "ranked": false,
-  "rating": 0.7334212,
-  "ratingCount": 1,
+  "rating": 0.80513674,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -32,6 +32,6 @@
     "Stamina",
     "plain"
   ],
-  "updated": "2026-11-01T00:46:22.640520Z",
+  "updated": "2026-11-01T00:46:22.640520067Z",
   "uploader": 2023606
 }
