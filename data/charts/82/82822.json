@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-02T15:37:47Z",
-    "lastChanged": "2026-11-02T15:37:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-02T23:26:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-01T08:45:29.329340Z",
   "charter": "小天是个小男娘",
@@ -21,7 +21,7 @@
   "name": "[協] Hand in Hand",
   "preview": "https://phira.5wyxi.com/files/930caff8-e0f3-4529-ac7a-e25abd269b26",
   "ranked": false,
-  "rating": null,
+  "rating": 0.70196027,
   "ratingCount": 0,
   "reviewed": true,
   "stable": false,
@@ -29,6 +29,6 @@
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-02T15:11:26.958052Z",
+  "updated": "2026-11-02T15:11:26.958052733Z",
   "uploader": 1210804
 }
