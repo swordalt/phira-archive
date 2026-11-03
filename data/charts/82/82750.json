@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-03T06:36:14Z",
-    "lastChanged": "2026-11-03T06:36:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-03T15:00:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-01T02:49:28.027244Z",
   "charter": "5071 vs. FreMo",
@@ -21,14 +21,14 @@
   "name": "怪诞(GroTesquE)",
   "preview": "https://phira.5wyxi.com/files/46b8762f-1bd3-4b7e-a3d8-ef3b5b549da4",
   "ranked": false,
-  "rating": 0.86624515,
-  "ratingCount": 12,
+  "rating": 0.9170433,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-03T02:52:26.568766Z",
+  "updated": "2026-11-03T02:52:26.568766127Z",
   "uploader": 31055
 }
