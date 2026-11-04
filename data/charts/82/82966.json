@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-04T17:07:23Z",
-    "lastChanged": "2026-11-04T17:07:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-04T23:34:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-03T12:28:39.451295Z",
   "charter": "Blackmoon.",
@@ -21,14 +21,14 @@
   "name": "わたしたちのクエスト",
   "preview": "https://phira.5wyxi.com/files/dfe9228d-d388-4255-8ee9-ff5449b62acc",
   "ranked": false,
-  "rating": 0.89709246,
-  "ratingCount": 31,
+  "rating": 0.89572024,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-04T10:11:46.852124Z",
+  "updated": "2026-11-04T10:11:46.852124690Z",
   "uploader": 2172232
 }

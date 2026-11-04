@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-04T17:07:23Z",
-    "lastChanged": "2026-11-04T17:07:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-04T23:34:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-03T14:18:07.925036Z",
   "charter": "R3a1",
@@ -21,14 +21,14 @@
   "name": "ミステリー",
   "preview": "https://phira.5wyxi.com/files/0d61b28f-ced4-407d-9bf3-c9ea57a84e16",
   "ranked": false,
-  "rating": 0.9363732,
-  "ratingCount": 35,
+  "rating": 0.9322641,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-04T14:25:15.840299Z",
+  "updated": "2026-11-04T14:25:15.840299577Z",
   "uploader": 1616221
 }

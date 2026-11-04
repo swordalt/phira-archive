@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-04T17:07:23Z",
-    "lastChanged": "2026-11-04T17:07:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-04T23:34:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-04T14:14:30.804266Z",
   "charter": "YanY",
@@ -21,14 +21,14 @@
   "name": "モンストロ",
   "preview": "https://phira.5wyxi.com/files/86445a9b-3d06-4e8a-925d-8456739eece0",
   "ranked": false,
-  "rating": 0.856128,
-  "ratingCount": 6,
+  "rating": 0.85873795,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-04T14:24:42.274210Z",
+  "updated": "2026-11-04T14:24:42.274210239Z",
   "uploader": 471275
 }

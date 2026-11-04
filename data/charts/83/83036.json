@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-04T17:07:23Z",
-    "lastChanged": "2026-11-04T17:07:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-04T23:34:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-04T14:16:51.170197Z",
   "charter": "OPTK CHART TEAM Feat.YSTAR-T",
@@ -21,8 +21,8 @@
   "name": "NEP0：8OOSTザ_ブギー",
   "preview": "https://phira.5wyxi.com/files/1afc84ca-a0f9-460a-8aa8-c4f8e133cff6",
   "ranked": false,
-  "rating": 0.84486425,
-  "ratingCount": 15,
+  "rating": 0.84141195,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "Opentaiko",
     "regular"
   ],
-  "updated": "2026-11-04T14:30:00.314457Z",
+  "updated": "2026-11-04T14:30:00.314457574Z",
   "uploader": 1213694
 }
