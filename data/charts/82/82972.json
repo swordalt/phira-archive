@@ -1,0 +1,34 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-11-04T17:07:23Z",
+    "lastChanged": "2026-11-04T17:07:23Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-11-03T14:18:07.925036Z",
+  "charter": "R3a1",
+  "composer": "MIMI feat.重音テト",
+  "created": "2026-11-03T14:18:07.925036Z",
+  "description": "曲名：ミステリー\n曲师：MIMI feat.重音テト\n谱师：R3a1\n定数：IN Lv.14（14.2）\n\n本谱已上传至B站，谱师B站账号：@R3a1_ty",
+  "difficulty": 14.200001,
+  "file": "https://phira.5wyxi.com/files/c13e460b-e8c1-4f03-bc76-6102b1f207b8",
+  "id": 82972,
+  "illustration": "https://phira.5wyxi.com/files/32a200b1-344e-4579-84a2-3f527e28e9b9",
+  "illustrator": "3774",
+  "level": "IN Lv.14",
+  "name": "ミステリー",
+  "preview": "https://phira.5wyxi.com/files/0d61b28f-ced4-407d-9bf3-c9ea57a84e16",
+  "ranked": false,
+  "rating": 0.9363732,
+  "ratingCount": 35,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-11-04T14:25:15.840299Z",
+  "uploader": 1616221
+}
