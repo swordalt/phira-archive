@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-11-05T15:23:31Z",
-    "lastChanged": "2026-11-05T15:23:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-05T21:55:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-05T11:38:51.502368Z",
   "charter": "Ay_bv",
@@ -21,8 +21,8 @@
   "name": "World Wide Web",
   "preview": "https://phira.5wyxi.com/files/21d05cb2-9ca5-4d2d-b0ac-fa9d2a45a5db",
   "ranked": false,
-  "rating": 0.856128,
-  "ratingCount": 6,
+  "rating": 0.8778362,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -32,6 +32,6 @@
     "Jack",
     "plain"
   ],
-  "updated": "2026-11-05T13:16:17.426015Z",
+  "updated": "2026-11-05T13:16:17.426015802Z",
   "uploader": 292969
 }
