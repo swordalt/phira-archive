@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-06T17:54:14Z",
-    "lastChanged": "2026-11-06T17:54:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-06T23:01:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-05T18:39:19.500417Z",
   "charter": "残光",
@@ -21,14 +21,14 @@
   "name": "Twilight",
   "preview": "https://phira.5wyxi.com/files/8002c9df-4162-452a-b38c-c21587b82f34",
   "ranked": false,
-  "rating": 0.93212235,
-  "ratingCount": 56,
+  "rating": 0.92970026,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-06T12:15:15.439649Z",
+  "updated": "2026-11-06T12:15:15.439649550Z",
   "uploader": 288160
 }

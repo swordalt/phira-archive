@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-11-06T17:54:18Z",
-    "lastChanged": "2026-11-06T17:54:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-06T23:01:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-26T09:51:08.806765Z",
   "charter": "moutao",
@@ -22,7 +22,7 @@
   "preview": "https://phira.5wyxi.com/files/c9ef7c13-0c26-4ecc-9bb1-c478b6626b57",
   "ranked": false,
   "rating": 0.8515135,
-  "ratingCount": 8,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -32,6 +32,6 @@
     "双指",
     "plain"
   ],
-  "updated": "2026-11-06T13:47:25.699327Z",
+  "updated": "2026-11-06T13:47:25.699327171Z",
   "uploader": 19429
 }
