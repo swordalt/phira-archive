@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-04T17:07:23Z",
-    "lastChanged": "2026-11-04T23:34:55Z",
-    "revisions": 2
+    "lastChanged": "2026-11-06T10:43:03Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-11-04T09:32:21.879422Z",
   "charter": "KhonMemoria",
@@ -21,14 +21,14 @@
   "name": "Recall Memories",
   "preview": "https://phira.5wyxi.com/files/d2308981-1ebc-4811-a0ce-02f1828d4115",
   "ranked": false,
-  "rating": 0.8410212,
-  "ratingCount": 0,
-  "reviewed": true,
+  "rating": 0.8990169,
+  "ratingCount": 65,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-04T14:40:02.128035182Z",
+  "updated": "2026-11-04T14:40:02.128035Z",
   "uploader": 1750008
 }
