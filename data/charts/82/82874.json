@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-07T09:56:27Z",
-    "lastChanged": "2026-11-07T09:56:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-07T16:20:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-01T13:44:32.826404Z",
   "charter": "Yours, Player 1",
@@ -21,8 +21,8 @@
   "name": "Dear Player 2",
   "preview": "https://phira.5wyxi.com/files/d292e3a0-9361-4af6-a774-4be9bbdf72c6",
   "ranked": false,
-  "rating": 0.80638003,
-  "ratingCount": 10,
+  "rating": 0.86001104,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "maimai",
     "regular"
   ],
-  "updated": "2026-11-07T07:59:44.483692Z",
+  "updated": "2026-11-07T07:59:44.483692930Z",
   "uploader": 313073
 }

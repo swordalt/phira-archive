@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-11-06T10:43:09Z",
-    "lastChanged": "2026-11-06T17:54:18Z",
-    "revisions": 2
+    "lastChanged": "2026-11-07T16:21:05Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-11-03T13:25:32.391512Z",
   "charter": "moutao",
@@ -21,8 +21,8 @@
   "name": "Galaxy Collapse",
   "preview": "https://phira.5wyxi.com/files/ba31f2ac-bbec-4e6b-9d64-b431d4139049",
   "ranked": false,
-  "rating": 0.870769,
-  "ratingCount": 0,
+  "rating": 0.92877614,
+  "ratingCount": 27,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -34,6 +34,6 @@
     "",
     "plain"
   ],
-  "updated": "2026-11-06T09:47:42.468987490Z",
+  "updated": "2026-11-06T09:47:42.468987Z",
   "uploader": 19448
 }
