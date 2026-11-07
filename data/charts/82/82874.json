@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-11-07T09:56:27Z",
+    "lastChanged": "2026-11-07T09:56:27Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-11-01T13:44:32.826404Z",
+  "charter": "Yours, Player 1",
+  "composer": "tn-shi",
+  "created": "2026-11-01T13:44:32.826404Z",
+  "description": "新人五谱，第一次传phira（）\n谱师本人上传，b站：神秘の星辰大海\n\n第二版，修改部分排键与采音，减少蹭键、卡手的部分，使部分比较无理的叠有了拆谱空间，取消强制宽高比（若要得到最好效果请调为1.5），定数稍作修改\n\n麻烦审谱人撤去之前的版本，避免重复上传谢谢",
+  "difficulty": 18.000006,
+  "file": "https://phira.5wyxi.com/files/8b749641-20d6-463d-a873-b6317b668add",
+  "id": 82874,
+  "illustration": "https://phira.5wyxi.com/files/d76cd2ab-465f-4d47-af15-45556efdc03a",
+  "illustrator": "らいす",
+  "level": "AT Lv.18",
+  "name": "Dear Player 2",
+  "preview": "https://phira.5wyxi.com/files/d292e3a0-9361-4af6-a774-4be9bbdf72c6",
+  "ranked": false,
+  "rating": 0.80638003,
+  "ratingCount": 10,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "maimai",
+    "regular"
+  ],
+  "updated": "2026-11-07T07:59:44.483692Z",
+  "uploader": 313073
+}
