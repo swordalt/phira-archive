@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:57Z",
-    "lastChanged": "2026-09-21T02:06:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-08T11:38:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-05T14:35:06.229848Z",
   "charter": "さよならだね、Ex",
@@ -21,11 +21,11 @@
   "name": "セーブデータとほうき星",
   "preview": "https://phira.5wyxi.com/files/2803f44b-176d-431c-a4b7-15c21c2e08b4",
   "ranked": false,
-  "rating": 0.94135195,
-  "ratingCount": 96,
-  "reviewed": true,
+  "rating": 0.9387771,
+  "ratingCount": 101,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "plain"
   ],

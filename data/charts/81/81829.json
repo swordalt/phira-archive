@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-23T14:57:45Z",
-    "lastChanged": "2026-10-23T14:57:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-08T11:36:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-23T11:44:06.371103Z",
   "charter": "大只黄毛狗狗",
@@ -20,12 +20,12 @@
   "level": "Rain Lv.△",
   "name": "When the Rain",
   "preview": "https://phira.5wyxi.com/files/250fd982-ba9d-4f4d-9b84-ba0ea117ccb6",
-  "ranked": false,
-  "rating": 0.9142581,
-  "ratingCount": 5,
-  "reviewed": false,
-  "stable": false,
-  "stableRequest": true,
+  "ranked": true,
+  "rating": 0.9619636,
+  "ratingCount": 215,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
