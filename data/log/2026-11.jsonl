@@ -99,3 +99,5 @@
 {"changed": ["reviewed", "stableRequest"], "division": "plain", "event": "updated", "id": 64330, "ts": "2026-11-08T11:38:46Z"}
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 83370, "ts": "2026-11-08T11:39:06Z"}
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 83373, "ts": "2026-11-08T11:39:06Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 83452, "ts": "2026-11-08T15:03:05Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 83448, "ts": "2026-11-08T15:03:05Z"}
