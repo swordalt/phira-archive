@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-08T15:03:05Z",
-    "lastChanged": "2026-11-08T15:03:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-08T19:34:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-08T12:12:29.793644Z",
   "charter": "YSTAR-T",
@@ -21,8 +21,8 @@
   "name": "When will the end arrive, I wonder?",
   "preview": "https://phira.5wyxi.com/files/a03383a2-3411-4ed1-8fdb-ff9bca8b298c",
   "ranked": false,
-  "rating": 0.87548596,
-  "ratingCount": 15,
+  "rating": 0.90467995,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +30,6 @@
     "Opentaiko",
     "regular"
   ],
-  "updated": "2026-11-08T12:17:48.284447Z",
+  "updated": "2026-11-08T12:17:48.284447895Z",
   "uploader": 1213694
 }
