@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-09T06:07:56Z",
-    "lastChanged": "2026-11-09T06:07:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-09T17:23:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-21T13:06:04.801838Z",
   "charter": "泡泡鸡",
@@ -21,14 +21,14 @@
   "name": "天生鬼才(Side Quest King)",
   "preview": "https://phira.5wyxi.com/files/9f84cc5c-dc35-4a5a-99cd-2042fd3d0b49",
   "ranked": false,
-  "rating": 0.9145392,
-  "ratingCount": 23,
+  "rating": 0.8983408,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-09T03:15:02.471086Z",
+  "updated": "2026-11-09T03:15:02.471086355Z",
   "uploader": 1528678
 }
