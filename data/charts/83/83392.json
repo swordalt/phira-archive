@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-11T14:05:20Z",
-    "lastChanged": "2026-11-11T14:05:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-11T21:20:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-08T04:21:04.407746Z",
   "charter": "NoWords",
@@ -21,14 +21,14 @@
   "name": "Titania",
   "preview": "https://phira.5wyxi.com/files/0d938afc-8aca-40b7-bc3e-ef9bb943416e",
   "ranked": false,
-  "rating": 0.7328661,
-  "ratingCount": 13,
+  "rating": 0.78689843,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-11T08:20:11.359136Z",
+  "updated": "2026-11-11T08:20:11.359136165Z",
   "uploader": 4384945
 }
