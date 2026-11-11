@@ -4,31 +4,31 @@
       "regular"
     ],
     "firstSeen": "2026-10-06T10:07:15Z",
-    "lastChanged": "2026-10-06T10:07:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-11T14:05:21Z",
+    "revisions": 2
   },
-  "chartUpdated": "2026-10-06T06:12:53.151359Z",
+  "chartUpdated": "2026-11-11T11:46:19.761577264Z",
   "charter": "Fz5RiX",
   "composer": "Reku Mochizuki",
   "created": "2026-10-06T06:12:53.151359Z",
   "description": null,
   "difficulty": 15.0,
-  "file": "https://phira.5wyxi.com/files/561549e1-17b5-43be-84ea-c4dd0ec0ac8e",
+  "file": "https://phira.5wyxi.com/files/d52331bf-a90d-476d-af3e-19ffff0c6551",
   "id": 80383,
-  "illustration": "https://phira.5wyxi.com/files/965ea5f5-8278-46f8-8b97-2ebb8adac3fc",
+  "illustration": "https://phira.5wyxi.com/files/e9aa96c2-3f66-4cd1-804a-1eb8dc34d251",
   "illustrator": "Reku Mochizuki",
   "level": "IN Lv.15",
   "name": "VEZZELiX",
-  "preview": "https://phira.5wyxi.com/files/0794bd06-9100-42b7-8177-01adff9cde07",
+  "preview": "https://phira.5wyxi.com/files/cfcd558e-5356-4488-8f0a-2cdff8be4006",
   "ranked": false,
-  "rating": 0.9567094,
-  "ratingCount": 1,
-  "reviewed": false,
+  "rating": 0.95453864,
+  "ratingCount": 185,
+  "reviewed": true,
   "stable": false,
   "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-06T06:31:38.048317Z",
+  "updated": "2026-11-11T11:46:19.761577264Z",
   "uploader": 10002
 }
