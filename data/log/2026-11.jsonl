@@ -122,3 +122,12 @@
 {"changed": ["chartUpdated", "file", "illustration", "preview", "reviewed", "updated"], "division": "regular", "event": "updated", "id": 80383, "ts": "2026-11-11T14:05:21Z"}
 {"changed": ["updated"], "division": "regular", "event": "updated", "id": 83392, "ts": "2026-11-11T21:20:58Z"}
 {"changed": ["reviewed", "stableRequest", "updated"], "division": "regular", "event": "updated", "id": 83409, "ts": "2026-11-12T10:55:00Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 83693, "ts": "2026-11-12T18:50:11Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 83449, "ts": "2026-11-12T18:50:11Z"}
+{"changed": ["difficulty", "file", "illustration", "level", "preview", "reviewed", "stableRequest", "updated"], "division": "regular", "event": "updated", "id": 78451, "ts": "2026-11-12T18:50:11Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 82546, "ts": "2026-11-12T18:50:11Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 81505, "ts": "2026-11-12T18:50:11Z"}
+{"changed": ["chartUpdated", "description", "file", "illustration", "preview", "updated"], "division": "regular", "event": "updated", "id": 80564, "ts": "2026-11-12T18:50:11Z"}
+{"changed": ["chartUpdated", "file", "illustration", "illustrator", "preview", "reviewed", "stableRequest", "updated"], "division": "regular", "event": "updated", "id": 77564, "ts": "2026-11-12T18:50:11Z"}
+{"changed": ["chartUpdated", "description", "file", "illustration", "illustrator", "preview", "reviewed", "stableRequest", "updated"], "division": "regular", "event": "updated", "id": 77806, "ts": "2026-11-12T18:50:11Z"}
+{"changed": ["chartUpdated", "description", "difficulty", "file", "illustration", "preview", "reviewed", "stableRequest", "updated"], "division": "regular", "event": "updated", "id": 79459, "ts": "2026-11-12T18:50:11Z"}

@@ -4,31 +4,31 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:18Z",
-    "lastChanged": "2026-09-21T02:05:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-12T18:50:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-19T05:53:01.566198Z",
   "charter": "CLWN23333",
   "composer": "sabio",
   "created": "2026-09-19T05:53:01.566198Z",
   "description": "本人上传\n视频：https://www.bilibili.com/video/BV1Kse466EqV/",
-  "difficulty": 15.800003,
-  "file": "https://phira.5wyxi.com/files/f5d2d41a-aadd-4f48-889c-b0ca7250cd24",
+  "difficulty": 16.000004,
+  "file": "https://phira.5wyxi.com/files/6369939c-df88-4fd0-ab7e-ad5c0e8c1c20",
   "id": 78451,
-  "illustration": "https://phira.5wyxi.com/files/6d9d9c7b-eaf2-41c6-a4ed-1fe5cd465eb0",
+  "illustration": "https://phira.5wyxi.com/files/3a8624b0-a703-4ece-a2a6-3cb825f513ad",
   "illustrator": "MewType",
-  "level": "IN Lv.15",
+  "level": "IN Lv.16",
   "name": "TearJerker",
-  "preview": "https://phira.5wyxi.com/files/ff8954ad-08d2-4e78-9eb8-06c5cc1654db",
+  "preview": "https://phira.5wyxi.com/files/39a69d8f-4d9d-433f-ba2d-24fd3221fbeb",
   "ranked": false,
-  "rating": 0.85916394,
-  "ratingCount": 63,
-  "reviewed": true,
+  "rating": 0.909556,
+  "ratingCount": 325,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-19T15:34:01.123220Z",
+  "updated": "2026-11-12T13:57:34.570677Z",
   "uploader": 4117645
 }

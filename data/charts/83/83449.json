@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-10T09:39:27Z",
-    "lastChanged": "2026-11-10T17:41:45Z",
-    "revisions": 2
+    "lastChanged": "2026-11-12T18:50:11Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-11-08T11:31:02.649586Z",
   "charter": "Iga伊加尔塔",
@@ -21,8 +21,8 @@
   "name": "Far in the blue sky...",
   "preview": "https://phira.5wyxi.com/files/c75452e3-1a1d-4b91-87e2-e8c5dac330ed",
   "ranked": false,
-  "rating": 0.90046436,
-  "ratingCount": 0,
+  "rating": 0.9053952,
+  "ratingCount": 110,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -31,6 +31,6 @@
     "高难",
     "regular"
   ],
-  "updated": "2026-11-10T09:15:57.391342442Z",
+  "updated": "2026-11-10T09:15:57.391342Z",
   "uploader": 50516
 }
