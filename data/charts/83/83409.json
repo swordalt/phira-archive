@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-08T11:36:11Z",
-    "lastChanged": "2026-11-08T11:36:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-12T10:55:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-08T05:55:36.514654Z",
   "charter": "全自動水力噴射装置",
@@ -21,14 +21,14 @@
   "name": "Hydroblast",
   "preview": "https://phira.5wyxi.com/files/db0da2b6-9371-4441-96e9-10f732390ebe",
   "ranked": false,
-  "rating": 0.9268231,
-  "ratingCount": 0,
-  "reviewed": true,
+  "rating": 0.94293576,
+  "ratingCount": 238,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-08T07:18:02.646269189Z",
+  "updated": "2026-11-08T07:18:02.646269Z",
   "uploader": 5738
 }
