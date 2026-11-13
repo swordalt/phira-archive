@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-07T16:20:59Z",
-    "lastChanged": "2026-11-07T20:49:45Z",
-    "revisions": 2
+    "lastChanged": "2026-11-13T16:10:51Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-11-07T15:07:29.514064Z",
   "charter": "7poLoyo/LiveYud/CelyndrA",
@@ -21,17 +21,17 @@
   "name": "℉",
   "preview": "https://phira.5wyxi.com/files/893822ef-438c-46a3-87ea-fcbff623bec6",
   "ranked": false,
-  "rating": 0.8148942,
-  "ratingCount": 0,
-  "reviewed": true,
+  "rating": 0.91101855,
+  "ratingCount": 109,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "hyperflip",
     "高难",
     "键盘",
     "regular"
   ],
-  "updated": "2026-11-07T15:18:26.801624651Z",
+  "updated": "2026-11-07T15:18:26.801624Z",
   "uploader": 3847574
 }
