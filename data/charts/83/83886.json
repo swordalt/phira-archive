@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-14T16:59:13Z",
-    "lastChanged": "2026-11-14T16:59:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-14T21:23:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-14T10:57:07.718913Z",
   "charter": "CLWN23333",
@@ -21,14 +21,14 @@
   "name": "FX戦士くるみちゃん (Nerfed)",
   "preview": "https://phira.5wyxi.com/files/3961760f-933f-4078-99ac-44f8fb8799b7",
   "ranked": false,
-  "rating": 0.8491053,
-  "ratingCount": 24,
+  "rating": 0.84174925,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-14T11:05:00.659154Z",
+  "updated": "2026-11-14T11:05:00.659154515Z",
   "uploader": 4117645
 }
