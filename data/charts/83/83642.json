@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-14T10:14:36Z",
-    "lastChanged": "2026-11-14T10:14:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-14T16:59:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-12T02:10:12.369930Z",
   "charter": "Daimeng",
@@ -21,14 +21,14 @@
   "name": "8bit Voyager",
   "preview": "https://phira.5wyxi.com/files/6a3e9538-166f-4524-bd0d-49abc809972b",
   "ranked": false,
-  "rating": 0.89167213,
-  "ratingCount": 36,
+  "rating": 0.89323974,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-14T04:39:59.674041Z",
+  "updated": "2026-11-14T04:39:59.674041012Z",
   "uploader": 2777
 }
