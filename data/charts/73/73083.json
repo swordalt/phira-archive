@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:08Z",
-    "lastChanged": "2026-09-21T02:05:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-15T12:20:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-13T04:57:23.615754Z",
   "charter": "LrkyY",
@@ -21,11 +21,11 @@
   "name": "メシア",
   "preview": "https://phira.5wyxi.com/files/d3ff0a16-0dc1-4987-9ee8-c8bac9c5cb3b",
   "ranked": false,
-  "rating": 0.91721624,
-  "ratingCount": 71,
-  "reviewed": false,
+  "rating": 0.92259127,
+  "ratingCount": 81,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

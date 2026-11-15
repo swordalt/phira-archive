@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-23T19:06:35Z",
-    "lastChanged": "2026-10-24T10:49:30Z",
-    "revisions": 4
+    "lastChanged": "2026-11-15T12:21:07Z",
+    "revisions": 5
   },
   "chartUpdated": "2026-10-23T04:56:41.470986Z",
   "charter": "XXXX1nH",
@@ -21,11 +21,11 @@
   "name": "folern",
   "preview": "https://phira.5wyxi.com/files/fd7eb798-5eb2-4474-a819-5c11e3d4b0f3",
   "ranked": false,
-  "rating": 0.936966,
-  "ratingCount": 57,
-  "reviewed": false,
+  "rating": 0.94137925,
+  "ratingCount": 458,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

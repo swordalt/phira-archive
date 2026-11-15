@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-15T09:13:14Z",
-    "lastChanged": "2026-11-15T09:13:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-15T12:21:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-14T13:20:22.658120Z",
   "charter": "NYIOU",
@@ -21,14 +21,14 @@
   "name": "SOS",
   "preview": "https://phira.5wyxi.com/files/94fbdf97-bea0-439c-b35e-32bddb1a7aea",
   "ranked": false,
-  "rating": 0.9362952,
-  "ratingCount": 148,
+  "rating": 0.9298564,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-15T02:22:13.910468Z",
+  "updated": "2026-11-15T02:22:13.910468498Z",
   "uploader": 4445840
 }

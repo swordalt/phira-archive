@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-11-15T01:47:36Z",
-    "lastChanged": "2026-11-15T09:13:23Z",
-    "revisions": 2
+    "lastChanged": "2026-11-15T12:23:55Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-11-14T16:42:42.080013Z",
   "charter": "1mhan9 vs. Mhang_L",
@@ -22,13 +22,16 @@
   "preview": "https://phira.5wyxi.com/files/10ee590c-fbfb-4012-9ae0-d634ca58c1b2",
   "ranked": false,
   "rating": 0.64545506,
-  "ratingCount": 0,
+  "ratingCount": 4,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
+    "满叠",
+    "叠",
+    "Jack",
     "plain"
   ],
-  "updated": "2026-11-14T22:01:00.329493794Z",
+  "updated": "2026-11-14T22:01:00.329493Z",
   "uploader": 1989524
 }

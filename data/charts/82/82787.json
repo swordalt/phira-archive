@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-01T07:25:49Z",
-    "lastChanged": "2026-11-02T15:37:47Z",
-    "revisions": 3
+    "lastChanged": "2026-11-15T12:21:08Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-11-01T06:02:40.845889Z",
   "charter": "Yui",
@@ -21,16 +21,16 @@
   "name": "Life is PIANO",
   "preview": "https://phira.5wyxi.com/files/4bba41cd-2c13-47c0-b0dd-0afbf570f56d",
   "ranked": false,
-  "rating": 0.934522,
-  "ratingCount": 57,
+  "rating": 0.95002985,
+  "ratingCount": 271,
   "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "键盘",
     "多指",
     "regular"
   ],
-  "updated": "2026-11-02T09:10:02.419603085Z",
+  "updated": "2026-11-02T09:10:02.419603Z",
   "uploader": 192860
 }

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-08T10:25:49Z",
-    "lastChanged": "2026-10-18T09:09:20Z",
-    "revisions": 4
+    "lastChanged": "2026-11-15T12:21:05Z",
+    "revisions": 5
   },
   "chartUpdated": "2026-10-07T05:30:07.137762Z",
   "charter": "小指を結んで",
@@ -21,11 +21,11 @@
   "name": "YUBIKIRI-GENMAN",
   "preview": "https://phira.5wyxi.com/files/a794a830-612e-472e-9f96-5aca37156b1c",
   "ranked": false,
-  "rating": 0.9169733,
-  "ratingCount": 155,
-  "reviewed": false,
+  "rating": 0.9199817,
+  "ratingCount": 227,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "Mili",
     "regular"

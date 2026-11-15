@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:12Z",
-    "lastChanged": "2026-09-21T02:05:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-15T12:20:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-26T05:01:45.496065Z",
   "charter": "Comma",
@@ -21,11 +21,11 @@
   "name": "うちゅうのふしぎ",
   "preview": "https://phira.5wyxi.com/files/8317faf2-588c-401d-981b-fdb9c54a48e8",
   "ranked": false,
-  "rating": 0.8937057,
-  "ratingCount": 135,
-  "reviewed": true,
+  "rating": 0.8947082,
+  "ratingCount": 177,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

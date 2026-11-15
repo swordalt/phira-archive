@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:16Z",
-    "lastChanged": "2026-09-21T02:05:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-15T12:20:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-11T10:36:09.416405Z",
   "charter": "讴帅旌笔大",
@@ -21,11 +21,11 @@
   "name": "From Nought",
   "preview": "https://phira.5wyxi.com/files/581bef03-d31d-4805-9ace-7a4b17537043",
   "ranked": false,
-  "rating": 0.9120567,
-  "ratingCount": 91,
-  "reviewed": false,
+  "rating": 0.915271,
+  "ratingCount": 140,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

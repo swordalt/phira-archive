@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-15T09:13:14Z",
-    "lastChanged": "2026-11-15T09:13:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-15T12:21:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-09T15:25:24.616889Z",
   "charter": "Nyiou",
@@ -21,14 +21,14 @@
   "name": "Seagull (Stereo version)",
   "preview": "https://phira.5wyxi.com/files/15960025-2d31-44a8-8c2d-dfbd8f03683d",
   "ranked": false,
-  "rating": 0.9083935,
-  "ratingCount": 27,
+  "rating": 0.9241629,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-15T02:21:50.650893Z",
+  "updated": "2026-11-15T02:21:50.650893194Z",
   "uploader": 439874
 }

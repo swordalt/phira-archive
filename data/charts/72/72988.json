@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:08Z",
-    "lastChanged": "2026-10-04T10:51:10Z",
-    "revisions": 2
+    "lastChanged": "2026-11-15T12:20:45Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-12T14:03:36.126019Z",
   "charter": "∅Memoir of \"Administrat∅R\"∅",
@@ -21,11 +21,11 @@
   "name": "Melodiniq",
   "preview": "https://phira.5wyxi.com/files/05b4c255-38b9-451e-b0a3-b7e918a4bb4f",
   "ranked": false,
-  "rating": 0.9208467,
-  "ratingCount": 498,
-  "reviewed": false,
+  "rating": 0.9218259,
+  "ratingCount": 546,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

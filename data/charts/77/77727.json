@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:16Z",
-    "lastChanged": "2026-09-21T02:05:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-15T12:20:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-11T10:19:46.029679Z",
   "charter": "Pigeeeeeon vs. Sodium",
@@ -21,11 +21,11 @@
   "name": "MARENOIA",
   "preview": "https://phira.5wyxi.com/files/2a6ec858-ce60-42d1-a18d-f334303c93cf",
   "ranked": false,
-  "rating": 0.8864041,
-  "ratingCount": 138,
-  "reviewed": false,
+  "rating": 0.86841124,
+  "ratingCount": 210,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

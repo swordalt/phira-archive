@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:39Z",
-    "lastChanged": "2026-09-21T02:03:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-15T12:18:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-11T08:34:42.385365Z",
   "charter": "昶勣之光 vs Kamik",
@@ -21,11 +21,11 @@
   "name": "IOR",
   "preview": "https://phira.5wyxi.com/files/24b56dc9-2a59-4a7b-87af-00e2ebefa14e",
   "ranked": false,
-  "rating": 0.91253954,
-  "ratingCount": 275,
-  "reviewed": true,
+  "rating": 0.91721684,
+  "ratingCount": 297,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
