@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:08Z",
-    "lastChanged": "2026-10-02T16:14:16Z",
-    "revisions": 2
+    "lastChanged": "2026-11-15T16:59:46Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-03-03T06:49:21.192811Z",
   "charter": "IXIRB001泠宏",
@@ -14,6 +14,7 @@
   "description": "观赏谱，双人双指可解，谱师本人上传",
   "difficulty": 17.700003,
   "file": "https://phira.5wyxi.com/files/c9cb0952-0c8c-4e68-93cf-7954ba5a7c5c",
+  "hidden": false,
   "id": 53777,
   "illustration": "https://phira.5wyxi.com/files/9a10dddf-a64f-42d8-abcb-0c9673445a0f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ghost",
   "preview": "https://phira.5wyxi.com/files/3904d9f8-60e6-432c-9dcb-37908ebb744c",
   "ranked": false,
-  "rating": 0.86445737,
-  "ratingCount": 29,
+  "rating": 0.8655433,
+  "ratingCount": 30,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:33Z",
-    "lastChanged": "2026-09-21T02:05:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-15T16:59:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-29T11:40:00.080895Z",
   "charter": "微笑的橙子（红温版）",
@@ -14,6 +14,7 @@
   "description": "你线蓝了",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/9dcb78f5-11ff-435a-b387-2f122cad168b",
+  "hidden": false,
   "id": 63125,
   "illustration": "https://phira.5wyxi.com/files/a33b75d4-9f63-42a8-8911-4163f03b9a59",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "你 线 蓝 了",
   "preview": "https://phira.5wyxi.com/files/9d1718d7-d94e-46f9-8f89-9809f50e4a68",
   "ranked": false,
-  "rating": 0.7703767,
-  "ratingCount": 16141,
+  "rating": 0.7706293,
+  "ratingCount": 16680,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

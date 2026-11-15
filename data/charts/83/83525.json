@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-15T09:13:14Z",
-    "lastChanged": "2026-11-15T12:21:09Z",
-    "revisions": 2
+    "lastChanged": "2026-11-15T16:59:36Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-11-09T15:25:24.616889Z",
   "charter": "Nyiou",
@@ -14,6 +14,7 @@
   "description": "B站 Nyiou0314\n十一譜owob\n是時候寫點有挑戰度的，來朵花花吧owov \n\n定數：16.0\n物量：1335\nbpm：156.522 (<- 這啥呀OAO)",
   "difficulty": 16.000002,
   "file": "https://phira.5wyxi.com/files/037dc519-9492-4120-9e06-f4f462dd89f2",
+  "hidden": false,
   "id": 83525,
   "illustration": "https://phira.5wyxi.com/files/f8a081dd-aa52-4cf3-bbb7-8c3f08c8ebd0",
   "illustrator": "murAta Yuzi",
@@ -21,14 +22,14 @@
   "name": "Seagull (Stereo version)",
   "preview": "https://phira.5wyxi.com/files/15960025-2d31-44a8-8c2d-dfbd8f03683d",
   "ranked": false,
-  "rating": 0.9241629,
-  "ratingCount": 0,
+  "rating": 0.919995,
+  "ratingCount": 37,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-15T02:21:50.650893194Z",
+  "updated": "2026-11-15T02:21:50.650893Z",
   "uploader": 439874
 }

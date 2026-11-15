@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-11-15T12:23:55Z",
-    "lastChanged": "2026-11-15T12:23:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-15T16:59:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-13T20:14:35.656026Z",
   "charter": "食欲でちゅん",
@@ -14,6 +14,7 @@
   "description": "小群赛事SM:J的供谱削弱版\n传完这个之后一段时间不传谱到phira了",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/bcc155c0-86b4-49ad-b609-a7a796cdb71c",
+  "hidden": false,
   "id": 83802,
   "illustration": "https://phira.5wyxi.com/files/cbd79106-1fd0-4f16-a6f3-2ecc8a02a486",
   "illustrator": "From Internet",
@@ -21,14 +22,14 @@
   "name": "Collapse of Ego",
   "preview": "https://phira.5wyxi.com/files/5e4cc542-66bb-4efd-81b6-aff25563928b",
   "ranked": false,
-  "rating": 0.7482895,
-  "ratingCount": 0,
+  "rating": 0.79625374,
+  "ratingCount": 2,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "plain"
   ],
-  "updated": "2026-11-15T10:24:16.912658610Z",
+  "updated": "2026-11-15T10:24:16.912658Z",
   "uploader": 4248638
 }

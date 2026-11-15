@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:30Z",
-    "lastChanged": "2026-09-21T02:05:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-15T16:59:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-25T15:04:48.494577Z",
   "charter": "tangent\\o/delta",
@@ -14,6 +14,7 @@
   "description": "谱师：tangent_delta\n该谱面已上传b站（bv号：BV1zdbSzFErh）\n\n第一次写整活谱，玩起来非常简单，希望大家能给个五星好评！",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/22b3b3f2-40a0-4d00-b054-d7ddcbf6b6f2",
+  "hidden": false,
   "id": 42710,
   "illustration": "https://phira.5wyxi.com/files/12da947a-59e0-4de0-a771-5372191dad42",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "你若三冬来",
   "preview": "https://phira.5wyxi.com/files/706ea256-9174-422b-a763-8cbffdf4d53e",
   "ranked": false,
-  "rating": 0.9505191,
-  "ratingCount": 12494,
+  "rating": 0.94930184,
+  "ratingCount": 13728,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

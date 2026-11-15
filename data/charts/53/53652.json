@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:08Z",
-    "lastChanged": "2026-09-21T02:07:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-15T16:59:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-01T05:13:19.479990Z",
   "charter": "起名钉子户",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n核能塞炸谱，纯观赏，没什么好说的",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/5d6c53db-a949-485c-811d-21d10aa88a47",
+  "hidden": false,
   "id": 53652,
   "illustration": "https://phira.5wyxi.com/files/d1046541-01ea-424c-ac51-2afab2b172a5",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "Hello (BPM) 2026",
   "preview": "https://phira.5wyxi.com/files/6821dcdd-217c-406d-a5c8-0f7884003800",
   "ranked": false,
-  "rating": 0.86352766,
+  "rating": 0.8620522,
   "ratingCount": 65,
   "reviewed": true,
   "stable": false,

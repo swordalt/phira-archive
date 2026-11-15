@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-11-09T06:08:01Z",
-    "lastChanged": "2026-11-09T17:24:03Z",
-    "revisions": 2
+    "lastChanged": "2026-11-15T16:59:44Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-06T08:45:29.035770Z",
   "charter": "Coffee_",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.900003,
   "file": "https://phira.5wyxi.com/files/4ce6d237-bac4-416f-a6d5-a5ba30f9182c",
+  "hidden": false,
   "id": 71631,
   "illustration": "https://phira.5wyxi.com/files/b8f7ba8a-34b9-4f68-adf0-e412bdadd50b",
   "illustrator": "",
@@ -21,14 +22,14 @@
   "name": "Misery Fantasy (feat. Eleanor Forte)",
   "preview": "https://phira.5wyxi.com/files/03bc9829-c3c6-4383-8d27-08a990449af1",
   "ranked": false,
-  "rating": 0.772721,
-  "ratingCount": 0,
+  "rating": 0.8398185,
+  "ratingCount": 24,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "plain"
   ],
-  "updated": "2026-11-09T03:56:31.481402930Z",
+  "updated": "2026-11-09T03:56:31.481402Z",
   "uploader": 2253153
 }

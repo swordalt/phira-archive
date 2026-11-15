@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-14T16:59:13Z",
-    "lastChanged": "2026-11-14T21:23:05Z",
-    "revisions": 2
+    "lastChanged": "2026-11-15T16:59:36Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-11-14T10:57:07.718913Z",
   "charter": "CLWN23333",
@@ -14,6 +14,7 @@
   "description": "本人上传\n\nhttps://www.bilibili.com/video/BV1pjWC69EB2",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/70351e18-90ae-43d6-bcc5-d727385bc9e3",
+  "hidden": false,
   "id": 83886,
   "illustration": "https://phira.5wyxi.com/files/f5df7c9f-b655-4e66-88e0-65d72376bc67",
   "illustrator": "FX战士久留美",
@@ -21,14 +22,14 @@
   "name": "FX戦士くるみちゃん (Nerfed)",
   "preview": "https://phira.5wyxi.com/files/3961760f-933f-4078-99ac-44f8fb8799b7",
   "ranked": false,
-  "rating": 0.84174925,
-  "ratingCount": 0,
+  "rating": 0.8802468,
+  "ratingCount": 88,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-14T11:05:00.659154515Z",
+  "updated": "2026-11-14T11:05:00.659154Z",
   "uploader": 4117645
 }

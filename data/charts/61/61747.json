@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:33Z",
-    "lastChanged": "2026-09-21T02:05:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-15T16:59:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-20T14:20:00.970999Z",
   "charter": "Parssce",
@@ -14,6 +14,7 @@
   "description": "名称和b站相同，本人创作上传\n这是新sp系列的第三张谱，集成了很多好玩的配置\n\n",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/4cddfbc5-de78-4485-903c-c8b457a401fb",
+  "hidden": false,
   "id": 61747,
   "illustration": "https://phira.5wyxi.com/files/eeaac2f6-f161-4baa-bf42-7869ff416922",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "If You Care",
   "preview": "https://phira.5wyxi.com/files/65a00a14-074d-4ba0-9ae2-942359331ee6",
   "ranked": false,
-  "rating": 0.8517633,
-  "ratingCount": 99,
+  "rating": 0.84453154,
+  "ratingCount": 111,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

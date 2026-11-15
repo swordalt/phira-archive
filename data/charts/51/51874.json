@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:08Z",
-    "lastChanged": "2026-09-21T02:07:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-15T16:59:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-31T12:08:54.911616Z",
   "charter": "musesun",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/89ae9dd4-3c69-406b-8fe8-7af30d1720d0",
+  "hidden": false,
   "id": 51874,
   "illustration": "https://phira.5wyxi.com/files/694b249e-2c67-44cb-9e19-78613d41895d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "熱異常",
   "preview": "https://phira.5wyxi.com/files/60cdb8e5-5858-494a-bb4d-e97b3d645db5",
   "ranked": false,
-  "rating": 0.85677063,
-  "ratingCount": 28,
+  "rating": 0.8582943,
+  "ratingCount": 109,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

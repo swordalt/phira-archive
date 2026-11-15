@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-11-02T15:37:59Z",
-    "lastChanged": "2026-11-02T23:26:31Z",
-    "revisions": 2
+    "lastChanged": "2026-11-15T16:59:43Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-11-01T15:06:18.904706Z",
   "charter": "柚_子/D-D-Dize",
@@ -14,6 +14,7 @@
   "description": "谱师其中之一上传，已经过所有谱师同意。原音乐（视频）【『Memoria Plūviæ』-YistZx-哔哩哔哩】 https://b23.tv/L1MRJwN\n灌注YistZx喵，灌注YistZx谢谢喵\n@YistZx#4371204（曲师）",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/38fbde31-1981-4594-acff-5077765afd65",
+  "hidden": false,
   "id": 82880,
   "illustration": "https://phira.5wyxi.com/files/96a97c11-f8f9-4e29-aa20-8949c0ada9b1",
   "illustrator": "铃暮Moor",
@@ -21,14 +22,14 @@
   "name": "Memoria Plūviæ",
   "preview": "https://phira.5wyxi.com/files/a0a51bd8-d843-4886-8f29-62d9f07a1377",
   "ranked": false,
-  "rating": 0.85193914,
-  "ratingCount": 0,
+  "rating": 0.90403974,
+  "ratingCount": 37,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "plain"
   ],
-  "updated": "2026-11-02T11:06:42.929497540Z",
+  "updated": "2026-11-02T11:06:42.929497Z",
   "uploader": 4331640
 }

@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:33Z",
-    "lastChanged": "2026-09-21T02:05:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-15T16:59:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-21T19:16:55.670015Z",
   "charter": "橙子&YSTAR-T",
@@ -14,6 +14,7 @@
   "description": "谱子由谱师本人上传\n协作者@YSTAR-TYAMI#1213694",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/128bd3f2-f43a-47bd-8052-a1080140f8f7",
+  "hidden": false,
   "id": 68299,
   "illustration": "https://phira.5wyxi.com/files/df1338d7-f8d9-447d-b743-de9698fdba9a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "嘭嘭嘭圆舞曲",
   "preview": "https://phira.5wyxi.com/files/8242c235-5083-4bbe-a7c1-0ab6a69827b6",
   "ranked": false,
-  "rating": 0.88931096,
-  "ratingCount": 8980,
+  "rating": 0.8909423,
+  "ratingCount": 9350,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-15T12:21:09Z",
-    "lastChanged": "2026-11-15T12:21:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-15T16:59:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-15T08:13:37.595606Z",
   "charter": "Deb1ruN_ vs. Amo_milk",
@@ -14,6 +14,7 @@
   "description": "本人上传。\n其他谱师已同意上传。\n协作者名单：\n@德比伦_Deb1ruN_#559753 （配置）",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/8bb9c3c6-fa2e-4ce0-85d4-9afca54c9d7d",
+  "hidden": false,
   "id": 84059,
   "illustration": "https://phira.5wyxi.com/files/975f66db-60f9-4b42-9d77-6b05c94d825d",
   "illustrator": "",
@@ -21,14 +22,14 @@
   "name": "ZENITHALIZE",
   "preview": "https://phira.5wyxi.com/files/f71cdb86-db9d-4f7e-93ad-463fb9dc0545",
   "ranked": false,
-  "rating": 0.8931702,
-  "ratingCount": 0,
+  "rating": 0.91348624,
+  "ratingCount": 22,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-15T09:40:48.280991296Z",
+  "updated": "2026-11-15T09:40:48.280991Z",
   "uploader": 2225437
 }

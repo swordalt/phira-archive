@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-10-09T18:47:50Z",
-    "lastChanged": "2026-10-12T10:38:15Z",
-    "revisions": 3
+    "lastChanged": "2026-11-15T16:59:46Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-08-18T11:56:45.304155Z",
   "charter": "老猫子LMZ",
@@ -14,6 +14,7 @@
   "description": "新人初谱 偏整活",
   "difficulty": 19.600002,
   "file": "https://phira.5wyxi.com/files/df15c6c2-d0f9-4677-bfaf-b616abe305a4",
+  "hidden": false,
   "id": 74169,
   "illustration": "https://phira.5wyxi.com/files/b0835f6c-72a6-439c-a462-c1a8502265b0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Vafþrúðnir",
   "preview": "https://phira.5wyxi.com/files/372a52f6-0fbc-4667-be3a-059a6a1b9334",
   "ranked": false,
-  "rating": 0.755949,
-  "ratingCount": 2,
+  "rating": 0.8321164,
+  "ratingCount": 23,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

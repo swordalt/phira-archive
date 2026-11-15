@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:33Z",
-    "lastChanged": "2026-09-21T02:05:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-15T16:59:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-04T06:00:03.413888Z",
   "charter": "錠前 サオリ（巧奈尔）",
@@ -14,6 +14,7 @@
   "description": "凝梦生日快乐",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/feddfa26-ffb9-4fb4-8e19-5568c3eb608e",
+  "hidden": false,
   "id": 57773,
   "illustration": "https://phira.5wyxi.com/files/71dae8fd-d213-4a07-9ca2-91f20701205e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "凝梦吉日快乐",
   "preview": "https://phira.5wyxi.com/files/64735159-6ba4-416c-abff-260eb5acf99c",
   "ranked": false,
-  "rating": 0.90544,
-  "ratingCount": 320,
+  "rating": 0.90709877,
+  "ratingCount": 336,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

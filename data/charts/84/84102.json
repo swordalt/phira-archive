@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-15T12:21:09Z",
-    "lastChanged": "2026-11-15T12:21:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-15T16:59:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-15T11:58:50.592033Z",
   "charter": "P.Burns",
@@ -14,6 +14,7 @@
   "description": "本人上传，B站@超爱吃盐的盐盐",
   "difficulty": 13.700003,
   "file": "https://phira.5wyxi.com/files/946739de-6fad-43f4-8baa-54931ca14dca",
+  "hidden": false,
   "id": 84102,
   "illustration": "https://phira.5wyxi.com/files/2eb520de-36c4-4f4b-b68e-dcbe702fbdd9",
   "illustrator": "エンディングアニメーション",
@@ -21,14 +22,14 @@
   "name": "ぴ (TV size)",
   "preview": "https://phira.5wyxi.com/files/d4769aa2-9ba9-4a97-8ff4-a988be36c4a8",
   "ranked": false,
-  "rating": 0.80552316,
-  "ratingCount": 0,
+  "rating": 0.93904865,
+  "ratingCount": 5,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-15T12:04:54.501584224Z",
+  "updated": "2026-11-15T12:04:54.501584Z",
   "uploader": 471275
 }

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-15T09:13:14Z",
-    "lastChanged": "2026-11-15T12:21:09Z",
-    "revisions": 2
+    "lastChanged": "2026-11-15T16:59:36Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-11-14T13:20:22.658120Z",
   "charter": "NYIOU",
@@ -14,6 +14,7 @@
   "description": "Save Our Sound \n—————————\nB站 Nyiou0314\n十二譜，第一次寫低於15和長度三分鐘以上的譜OAO;\n寫個Pikasonic或Nanatsukaze的歌一直是我的夢想，也算是實現了吧（\n\n歌曲 ：SOS\n曲師：ナナツカゼ\nbpm : 185\n物量：1467\n定數：14.8",
   "difficulty": 14.800003,
   "file": "https://phira.5wyxi.com/files/6a75f473-90f3-4741-9076-34785a85f13f",
+  "hidden": false,
   "id": 83917,
   "illustration": "https://phira.5wyxi.com/files/1b7d00c0-a29c-4c4b-89cd-1b1a8e5c28c4",
   "illustrator": "宙風みけ",
@@ -21,14 +22,14 @@
   "name": "SOS",
   "preview": "https://phira.5wyxi.com/files/94fbdf97-bea0-439c-b35e-32bddb1a7aea",
   "ranked": false,
-  "rating": 0.9298564,
-  "ratingCount": 0,
+  "rating": 0.92815274,
+  "ratingCount": 203,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-15T02:22:13.910468498Z",
+  "updated": "2026-11-15T02:22:13.910468Z",
   "uploader": 4445840
 }

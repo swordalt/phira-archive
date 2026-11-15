@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-11-15T16:59:36Z",
+    "lastChanged": "2026-11-15T16:59:36Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-11-15T13:58:26.497677Z",
+  "charter": "Evrecö",
+  "composer": "USAO/かめりあ",
+  "created": "2026-11-15T13:58:26.497677Z",
+  "description": "本人上传\n基于dsin是17.0定的17.1（什）",
+  "difficulty": 17.1,
+  "file": "https://phira.5wyxi.com/files/6e2736a0-0cd7-4bc8-965e-6909b8ac26bf",
+  "hidden": false,
+  "id": 84122,
+  "illustration": "https://phira.5wyxi.com/files/6f45c0bb-4bd3-4cf8-a19a-abc73421052e",
+  "illustrator": "LAM(Chloe Modified)",
+  "level": "IN Lv.17",
+  "name": "Möbius",
+  "preview": "https://phira.5wyxi.com/files/e3558327-58c3-4352-84b8-3d3dbc98ce5a",
+  "ranked": false,
+  "rating": 0.7713501,
+  "ratingCount": 0,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-11-15T14:00:11.053687Z",
+  "uploader": 29688
+}

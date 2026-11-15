@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-11-06T17:54:18Z",
-    "lastChanged": "2026-11-06T23:01:30Z",
-    "revisions": 2
+    "lastChanged": "2026-11-15T16:59:44Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-26T09:51:08.806765Z",
   "charter": "moutao",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\r\n396/1370\r\n边缘=96.30\r\n过段=97.78\r\n后光=98.89\r\n击破=99.63\r\n制作用时：5小时\r\nSiFeng Dan 切单曲",
   "difficulty": 9.699999,
   "file": "https://phira.5wyxi.com/files/9a7fedb6-df60-498c-a1be-c768cfafd0b3",
+  "hidden": false,
   "id": 82240,
   "illustration": "https://phira.5wyxi.com/files/39f80a2c-5ca5-4a77-b98e-2bee65e57bce",
   "illustrator": "doubao",
@@ -21,8 +22,8 @@
   "name": "ひつぎとふたご(AI remix)",
   "preview": "https://phira.5wyxi.com/files/c9ef7c13-0c26-4ecc-9bb1-c478b6626b57",
   "ranked": false,
-  "rating": 0.8515135,
-  "ratingCount": 0,
+  "rating": 0.94115144,
+  "ratingCount": 61,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -32,6 +33,6 @@
     "双指",
     "plain"
   ],
-  "updated": "2026-11-06T13:47:25.699327171Z",
+  "updated": "2026-11-06T13:47:25.699327Z",
   "uploader": 19429
 }

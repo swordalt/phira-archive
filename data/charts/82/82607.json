@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-31T17:39:53Z",
-    "lastChanged": "2026-10-31T21:26:11Z",
-    "revisions": 2
+    "lastChanged": "2026-11-15T16:59:43Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-31T05:32:48.718486Z",
   "charter": "YMEA vs.食欲でちゅん",
@@ -14,6 +14,7 @@
   "description": "综合约1-2dan\n本来想写常规谱，写到最后一看竟然写了个切，然后就写个切吧\n感谢@ZENITH_食欲でちゅん#42791（合作）的合作，要不然写不了这么快\n不感谢@Lage#852606(设计)的设计\n\n食欲でちゅん：用复制粘贴就是快（哥哥我摔倒了.jpg)\n\n快手xB站 洋漫YMEA \nDY YMEA\nQQ个人群169198220\n",
   "difficulty": 29.0,
   "file": "https://phira.5wyxi.com/files/5fe004fe-255d-497f-8d7d-e7834b40a105",
+  "hidden": false,
   "id": 82607,
   "illustration": "https://phira.5wyxi.com/files/4d252f98-780c-4583-97ee-a8e8ba9fab82",
   "illustrator": "Lage",
@@ -21,14 +22,14 @@
   "name": "idontwant2go",
   "preview": "https://phira.5wyxi.com/files/d35a4905-b097-4dfc-ae68-741d2a4df889",
   "ranked": false,
-  "rating": 0.871912,
-  "ratingCount": 0,
+  "rating": 0.9182189,
+  "ratingCount": 344,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "plain"
   ],
-  "updated": "2026-10-31T15:06:30.268224855Z",
+  "updated": "2026-10-31T15:06:30.268224Z",
   "uploader": 4389596
 }

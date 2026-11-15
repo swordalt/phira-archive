@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-14T16:59:14Z",
-    "lastChanged": "2026-11-14T21:23:06Z",
-    "revisions": 2
+    "lastChanged": "2026-11-15T16:59:38Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-01T03:03:07.526801Z",
   "charter": "Suikmilk",
@@ -14,6 +14,7 @@
   "description": "本人上传，第六届wjc单人参赛作品",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/d0d3a481-ac42-4350-b75b-6dc01ce5629b",
+  "hidden": false,
   "id": 79572,
   "illustration": "https://phira.5wyxi.com/files/03d1cd26-1c6f-4bb9-84b6-39a5277db3f2",
   "illustrator": "Tendin",
@@ -21,14 +22,14 @@
   "name": "Illegal Access-Forbidden Love",
   "preview": "https://phira.5wyxi.com/files/c0e52f7b-34c6-4a92-a592-33ed89165838",
   "ranked": false,
-  "rating": 0.90662813,
-  "ratingCount": 0,
+  "rating": 0.9401825,
+  "ratingCount": 61,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-14T11:03:28.532172859Z",
+  "updated": "2026-11-14T11:03:28.532172Z",
   "uploader": 352146
 }

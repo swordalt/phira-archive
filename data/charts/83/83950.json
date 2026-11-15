@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-11-15T01:47:36Z",
-    "lastChanged": "2026-11-15T12:23:55Z",
-    "revisions": 3
+    "lastChanged": "2026-11-15T16:59:43Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-11-14T16:42:42.080013Z",
   "charter": "1mhan9 vs. Mhang_L",
@@ -14,6 +14,7 @@
   "description": "本人上传。\n@Mhang_L#512506 负责修改排键。",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/981182a3-57ee-4c59-bb87-654dbac7b0c7",
+  "hidden": false,
   "id": 83950,
   "illustration": "https://phira.5wyxi.com/files/0fe8f359-1b48-4d69-92ca-4519c478db4e",
   "illustrator": "Genshin Impact",
@@ -21,7 +22,7 @@
   "name": "疾行锐进 Swift Advance",
   "preview": "https://phira.5wyxi.com/files/10ee590c-fbfb-4012-9ae0-d634ca58c1b2",
   "ranked": false,
-  "rating": 0.64545506,
+  "rating": 0.6601802,
   "ratingCount": 4,
   "reviewed": true,
   "stable": false,

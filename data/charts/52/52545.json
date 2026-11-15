@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-10-09T18:47:50Z",
-    "lastChanged": "2026-10-12T10:38:15Z",
-    "revisions": 3
+    "lastChanged": "2026-11-15T16:59:46Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-02-13T04:52:09.828968Z",
   "charter": "RC35",
@@ -14,6 +14,7 @@
   "description": "本人上传\n这是观赏性、愚人节谱面，4000物量\n--\nBPM:1824(/30)",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/73c82fdb-e5ff-438b-966b-67fabd704254",
+  "hidden": false,
   "id": 52545,
   "illustration": "https://phira.5wyxi.com/files/1442aa74-5f1a-4300-ad3c-076d8a2d24bd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Atlantis Lives",
   "preview": "https://phira.5wyxi.com/files/0ab3f1c5-a448-44d5-bbd4-c5d48e1dac9e",
   "ranked": false,
-  "rating": 0.747507,
-  "ratingCount": 5,
+  "rating": 0.8451049,
+  "ratingCount": 24,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

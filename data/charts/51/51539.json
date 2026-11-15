@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:08Z",
-    "lastChanged": "2026-09-21T02:07:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-15T16:59:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-23T10:04:04.163379Z",
   "charter": "仙家不能对话",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/3eb34f9b-c4ae-4089-bdb7-47971ca9f762",
+  "hidden": false,
   "id": 51539,
   "illustration": "https://phira.5wyxi.com/files/b41655a3-a770-453b-99cf-63ba196e01d3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "doomer",
   "preview": "https://phira.5wyxi.com/files/08d82050-836a-4a3f-99be-ea7edf56e17e",
   "ranked": false,
-  "rating": 0.8777497,
-  "ratingCount": 966,
+  "rating": 0.87637526,
+  "ratingCount": 1041,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-10T09:39:27Z",
-    "lastChanged": "2026-11-12T18:50:11Z",
-    "revisions": 3
+    "lastChanged": "2026-11-15T16:59:36Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-11-08T11:31:02.649586Z",
   "charter": "Iga伊加尔塔",
@@ -14,6 +14,7 @@
   "description": "新人二谱，耗时5天完成有点小快\n配置思路借鉴了一些谱，谱师都是亲测能p才敢发出来，整张谱还是有点累的\n动效由于是刚上手没多久所以比较简单保守，挺喜欢大天空这首歌的，算是补上了大天空没有常规双指高难的空缺了",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/d584c76d-f921-495e-aef0-25eeb93238aa",
+  "hidden": false,
   "id": 83449,
   "illustration": "https://phira.5wyxi.com/files/ee2b061c-6f40-4bc6-b1f5-74f55b54f63f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Far in the blue sky...",
   "preview": "https://phira.5wyxi.com/files/c75452e3-1a1d-4b91-87e2-e8c5dac330ed",
   "ranked": false,
-  "rating": 0.9053952,
-  "ratingCount": 110,
+  "rating": 0.91344756,
+  "ratingCount": 216,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

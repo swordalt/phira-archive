@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:08Z",
-    "lastChanged": "2026-09-21T02:07:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-15T16:59:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-02T01:53:56.151166Z",
   "charter": "xxc1234554321",
@@ -14,6 +14,7 @@
   "description": "没有什么 就是纯想发癫\n由于是速成谱 有很多都没有改善 抱歉\n祝大家玩得开心（",
   "difficulty": 20260.0,
   "file": "https://phira.5wyxi.com/files/2eae3057-c72a-42e0-84e4-18616836ceda",
+  "hidden": false,
   "id": 54884,
   "illustration": "https://phira.5wyxi.com/files/f8d65ec2-b1b9-438b-bf2d-2ab56da8a1a1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Hello (BPM) 2026",
   "preview": "https://phira.5wyxi.com/files/996f77cb-85c5-41d7-87f2-50b204f9ca6c",
   "ranked": false,
-  "rating": 0.80926067,
-  "ratingCount": 431,
+  "rating": 0.8101505,
+  "ratingCount": 486,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

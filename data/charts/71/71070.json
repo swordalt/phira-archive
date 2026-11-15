@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:08Z",
-    "lastChanged": "2026-09-21T02:07:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-15T16:59:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-04T02:57:51.609933Z",
   "charter": "穴楂",
@@ -14,6 +14,7 @@
   "description": "你好喵",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/3229622a-3ac3-4a7e-808c-02aa1e3280d6",
+  "hidden": false,
   "id": 71070,
   "illustration": "https://phira.5wyxi.com/files/0c0d7d45-fc08-47b7-b40c-98e84736c827",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "KIZUNA Resolution",
   "preview": "https://phira.5wyxi.com/files/1ad1e740-6bad-4a57-acf9-2cd94befeeb0",
   "ranked": false,
-  "rating": 0.8110808,
-  "ratingCount": 64,
+  "rating": 0.79994255,
+  "ratingCount": 95,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

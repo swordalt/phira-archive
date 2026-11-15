@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-13T22:31:06Z",
-    "lastChanged": "2026-11-14T03:05:38Z",
-    "revisions": 2
+    "lastChanged": "2026-11-15T16:59:36Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-11-13T15:54:02.654227Z",
   "charter": "YSTAR-T",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nOpentaiko Pagoda模式主题曲\n物量 726\n定数 14.3",
   "difficulty": 14.300001,
   "file": "https://phira.5wyxi.com/files/644ec312-5d26-46df-a2a4-0a9531db735e",
+  "hidden": false,
   "id": 83792,
   "illustration": "https://phira.5wyxi.com/files/710e4a83-4e33-412d-867b-c2a18f1f7d52",
   "illustrator": "Dashy,",
@@ -21,8 +22,8 @@
   "name": "preserve",
   "preview": "https://phira.5wyxi.com/files/a768f114-37c0-4a4e-845f-3b1e81307790",
   "ranked": false,
-  "rating": 0.8839931,
-  "ratingCount": 0,
+  "rating": 0.905932,
+  "ratingCount": 131,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +31,6 @@
     "Opentaiko",
     "regular"
   ],
-  "updated": "2026-11-13T16:38:28.281717866Z",
+  "updated": "2026-11-13T16:38:28.281717Z",
   "uploader": 1213694
 }

@@ -4,31 +4,32 @@
       "regular"
     ],
     "firstSeen": "2026-10-08T17:50:20Z",
-    "lastChanged": "2026-10-09T05:59:00Z",
-    "revisions": 3
+    "lastChanged": "2026-11-15T16:59:38Z",
+    "revisions": 4
   },
-  "chartUpdated": "2026-10-05T03:23:22.104688Z",
+  "chartUpdated": "2026-11-15T13:06:42.343811327Z",
   "charter": "兮梦",
   "composer": "活跃黑江乐",
   "created": "2026-10-05T03:23:22.104688Z",
-  "description": "演示视频:BV12JHW6AEac\n由谱师本人发疯时上传\n好通透，好酥服啊🥰🥰\n好通透，好酥服啊🥰🥰\n好通透，好酥服啊🥰🥰",
-  "difficulty": 13.2,
-  "file": "https://phira.5wyxi.com/files/51d8c598-bd49-43e4-8b31-f04442a603c2",
+  "description": "演示视频:BV12JHW6AEac\n原版本有两个键打不到，故优化，现在可以打满了，耶耶。\n由谱师本人发疯时上传\n好通透，好酥服啊🥰🥰\n好通透，好酥服啊🥰🥰\n好通透，好酥服啊🥰🥰",
+  "difficulty": 13.400001,
+  "file": "https://phira.5wyxi.com/files/b3cb45d1-188a-400b-8a3e-2a5b5ae2f985",
+  "hidden": false,
   "id": 80201,
-  "illustration": "https://phira.5wyxi.com/files/9810216d-1544-450f-82fc-f41b22f9d6d6",
+  "illustration": "https://phira.5wyxi.com/files/2656959c-f1b7-4f33-ad42-4b22bd066414",
   "illustrator": "？",
   "level": "通透",
   "name": "邦友的酒",
-  "preview": "https://phira.5wyxi.com/files/f71ec409-c449-420d-b426-aaef420a450e",
+  "preview": "https://phira.5wyxi.com/files/c41e0da8-0ca2-49ad-b2cc-f35bbe907d2c",
   "ranked": false,
-  "rating": 0.9353925,
-  "ratingCount": 504,
+  "rating": 0.91863006,
+  "ratingCount": 25210,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-08T13:49:57.949938Z",
+  "updated": "2026-11-15T13:06:42.343811327Z",
   "uploader": 256193
 }

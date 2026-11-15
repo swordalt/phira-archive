@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-09T17:23:58Z",
-    "lastChanged": "2026-11-10T09:39:27Z",
-    "revisions": 3
+    "lastChanged": "2026-11-15T16:59:36Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-11-09T17:21:25.754147Z",
   "charter": "Cure Charter (Alice17900)",
@@ -14,6 +14,7 @@
   "description": "本人上传哦！\r\nb：爱丽丝17900號機",
   "difficulty": 14.500003,
   "file": "https://phira.5wyxi.com/files/5a9386b1-4ea8-4652-93d9-a9b42dbdeef8",
+  "hidden": false,
   "id": 83528,
   "illustration": "https://phira.5wyxi.com/files/ccc134ae-6cb8-45b3-8a69-6345ce5d186d",
   "illustrator": "W栗子W",
@@ -21,14 +22,14 @@
   "name": "なぜ？謎？！ANSWER (TV Size)",
   "preview": "https://phira.5wyxi.com/files/d4a90cde-4678-4470-ae86-9ddb59ee4185",
   "ranked": false,
-  "rating": 0.93292755,
-  "ratingCount": 50,
+  "rating": 0.9330983,
+  "ratingCount": 918,
   "reviewed": true,
   "stable": false,
   "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-10T04:41:38.218343455Z",
+  "updated": "2026-11-10T04:41:38.218343Z",
   "uploader": 2107752
 }

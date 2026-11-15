@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-08T15:03:05Z",
-    "lastChanged": "2026-11-08T19:34:09Z",
-    "revisions": 2
+    "lastChanged": "2026-11-15T16:59:36Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-11-08T12:12:29.793644Z",
   "charter": "YSTAR-T",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\r\n物量:1010\r\n定数:14.6\r\n你过去消极的故事....",
   "difficulty": 14.600002,
   "file": "https://phira.5wyxi.com/files/b5a5e431-628a-44d4-a117-8cf7c2ff880b",
+  "hidden": false,
   "id": 83452,
   "illustration": "https://phira.5wyxi.com/files/63265b49-cc64-4c34-97ca-0a2f5ae009ae",
   "illustrator": "DashyDesu",
@@ -21,8 +22,8 @@
   "name": "When will the end arrive, I wonder?",
   "preview": "https://phira.5wyxi.com/files/a03383a2-3411-4ed1-8fdb-ff9bca8b298c",
   "ranked": false,
-  "rating": 0.90467995,
-  "ratingCount": 0,
+  "rating": 0.9203349,
+  "ratingCount": 203,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -30,6 +31,6 @@
     "Opentaiko",
     "regular"
   ],
-  "updated": "2026-11-08T12:17:48.284447895Z",
+  "updated": "2026-11-08T12:17:48.284447Z",
   "uploader": 1213694
 }

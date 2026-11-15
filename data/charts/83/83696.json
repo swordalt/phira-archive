@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-14T16:59:13Z",
-    "lastChanged": "2026-11-14T21:23:05Z",
-    "revisions": 2
+    "lastChanged": "2026-11-15T16:59:36Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-11-12T15:53:10.739442Z",
   "charter": "诶2333",
@@ -14,6 +14,7 @@
   "description": "わらわを俗世へ連れてって！（带本姑娘去凡尘吧！）\nChart-诶2333\nLines:53\nNotes:1549\nEvents:18643\nTime:31.3h\n在B站上传（用户同名）\n推荐使用16:9的宽高比和0.95的音符大小",
   "difficulty": 14.300001,
   "file": "https://phira.5wyxi.com/files/3fcf8cc3-9dc7-4d61-a651-575811b84a4a",
+  "hidden": false,
   "id": 83696,
   "illustration": "https://phira.5wyxi.com/files/9f130d84-8913-4c98-aed3-93404a777ee9",
   "illustrator": "ファル公",
@@ -21,14 +22,14 @@
   "name": "わらわを俗世へ連れてって！",
   "preview": "https://phira.5wyxi.com/files/847e032c-1683-4a6b-a562-4185d3f8b4fc",
   "ranked": false,
-  "rating": 0.93794215,
-  "ratingCount": 0,
+  "rating": 0.94326156,
+  "ratingCount": 262,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-14T16:12:05.078360266Z",
+  "updated": "2026-11-14T16:12:05.078360Z",
   "uploader": 23821
 }

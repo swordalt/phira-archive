@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:08Z",
-    "lastChanged": "2026-09-21T02:07:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-15T16:59:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-20T14:05:15.124654Z",
   "charter": "闲者无名",
@@ -14,6 +14,7 @@
   "description": "新人初谱，耗时9个月制作的观赏（大份）\n由于未知原因部分表演在不同比例下效果不同，乱调比例会导致表演崩坏（算了就当彩蛋了）",
   "difficulty": 86.0,
   "file": "https://phira.5wyxi.com/files/4564c0f5-04ba-4f56-a2b7-66bc9a92d28b",
+  "hidden": false,
   "id": 61743,
   "illustration": "https://phira.5wyxi.com/files/05aee3fe-3df4-445f-9ac4-34a3bce9bd6a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Villain Virus",
   "preview": "https://phira.5wyxi.com/files/da729d26-36eb-49f1-bb9e-f4310a9b0cfd",
   "ranked": false,
-  "rating": 0.8568585,
-  "ratingCount": 169,
+  "rating": 0.86583376,
+  "ratingCount": 192,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
