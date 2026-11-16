@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-16T09:29:45Z",
-    "lastChanged": "2026-11-16T09:29:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-16T20:20:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-16T07:22:03.033787Z",
   "charter": "Array",
@@ -22,14 +22,14 @@
   "name": "Valsqotch",
   "preview": "https://phira.5wyxi.com/files/dd3cafdc-dedc-42f8-b2ce-8f6eed906065",
   "ranked": false,
-  "rating": 0.8418272,
-  "ratingCount": 7,
+  "rating": 0.8953162,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-16T07:25:03.719654Z",
+  "updated": "2026-11-16T07:25:03.719654854Z",
   "uploader": 565722
 }

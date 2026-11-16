@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-14T10:14:36Z",
-    "lastChanged": "2026-11-15T16:59:36Z",
-    "revisions": 3
+    "lastChanged": "2026-11-16T20:20:26Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-11-13T15:40:27.255890Z",
   "charter": "7poLoyo ",
@@ -22,11 +22,11 @@
   "name": "Life is PIANO",
   "preview": "https://phira.5wyxi.com/files/39faa265-ccc3-4497-bc53-82983d8ab904",
   "ranked": false,
-  "rating": 0.9283825,
-  "ratingCount": 147,
-  "reviewed": true,
+  "rating": 0.9338186,
+  "ratingCount": 164,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
