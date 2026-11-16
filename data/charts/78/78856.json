@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-11-16T01:54:48Z",
+    "lastChanged": "2026-11-16T01:54:48Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-09-24T13:57:25.345368Z",
+  "charter": "",
+  "composer": "Rinth_live",
+  "created": "2026-09-24T13:57:25.345368Z",
+  "description": null,
+  "difficulty": 16.5,
+  "file": "https://phira.5wyxi.com/files/87c4f97e-2c5b-4198-9349-570805d1aa0b",
+  "hidden": false,
+  "id": 78856,
+  "illustration": "https://phira.5wyxi.com/files/2c064f23-2a38-47fa-8273-d2270cc0fc1b",
+  "illustrator": "Unknown",
+  "level": "AT Lv.16",
+  "name": "Re_Nascence -Another Version-",
+  "preview": "https://phira.5wyxi.com/files/a306ffc1-6b16-4d20-bcb0-61b0689252bc",
+  "ranked": false,
+  "rating": 0.79426795,
+  "ratingCount": 3,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-11-15T22:40:41.861994Z",
+  "uploader": 2053617
+}
