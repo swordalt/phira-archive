@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-16T20:20:26Z",
-    "lastChanged": "2026-11-17T03:43:34Z",
-    "revisions": 2
+    "lastChanged": "2026-11-17T22:12:58Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-11-16T09:32:03.944563Z",
   "charter": "OPTK-YSTAR-T",
@@ -22,8 +22,8 @@
   "name": "NEP0：THELASTC4LLフェラル",
   "preview": "https://phira.5wyxi.com/files/2497f634-5eb0-4816-91df-2f5ee8e1072b",
   "ranked": false,
-  "rating": 0.8720146,
-  "ratingCount": 0,
+  "rating": 0.88613445,
+  "ratingCount": 316,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -31,6 +31,6 @@
     "Opentaiko",
     "regular"
   ],
-  "updated": "2026-11-16T09:36:05.934414580Z",
+  "updated": "2026-11-16T09:36:05.934414Z",
   "uploader": 1213694
 }
