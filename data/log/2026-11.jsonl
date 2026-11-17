@@ -300,3 +300,6 @@
 {"changed": ["updated"], "division": "regular", "event": "updated", "id": 75353, "ts": "2026-11-16T20:20:27Z"}
 {"changed": ["updated"], "division": "regular", "event": "updated", "id": 84202, "ts": "2026-11-17T03:43:34Z"}
 {"changed": ["updated"], "division": "regular", "event": "updated", "id": 84191, "ts": "2026-11-17T03:43:34Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 84208, "ts": "2026-11-17T13:10:17Z"}
+{"changed": ["reviewed", "stableRequest"], "division": "regular", "event": "updated", "id": 83696, "ts": "2026-11-17T13:10:17Z"}
+{"changed": ["*new*"], "division": "plain", "event": "new", "id": 84112, "ts": "2026-11-17T13:10:26Z"}

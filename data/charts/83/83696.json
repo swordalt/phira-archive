@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-14T16:59:13Z",
-    "lastChanged": "2026-11-15T16:59:36Z",
-    "revisions": 3
+    "lastChanged": "2026-11-17T13:10:17Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-11-12T15:53:10.739442Z",
   "charter": "诶2333",
@@ -22,11 +22,11 @@
   "name": "わらわを俗世へ連れてって！",
   "preview": "https://phira.5wyxi.com/files/847e032c-1683-4a6b-a562-4185d3f8b4fc",
   "ranked": false,
-  "rating": 0.94326156,
-  "ratingCount": 262,
-  "reviewed": true,
+  "rating": 0.947028,
+  "ratingCount": 466,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
