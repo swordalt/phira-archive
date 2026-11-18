@@ -321,3 +321,8 @@
 {"changed": ["charter", "file", "hidden", "illustration", "illustrator", "preview", "updated"], "division": "regular", "event": "updated", "id": 77882, "ts": "2026-11-18T13:50:25Z"}
 {"changed": ["updated"], "division": "regular", "event": "updated", "id": 80391, "ts": "2026-11-18T13:50:25Z"}
 {"changed": ["*new*"], "division": "plain", "event": "new", "id": 82119, "ts": "2026-11-18T13:50:35Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 84382, "ts": "2026-11-18T21:51:03Z"}
+{"changed": ["chartUpdated", "updated"], "division": "regular", "event": "updated", "id": 84122, "ts": "2026-11-18T21:51:03Z"}
+{"changed": ["description", "file", "illustration", "preview", "updated"], "division": "regular", "event": "updated", "id": 82096, "ts": "2026-11-18T21:51:05Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 77882, "ts": "2026-11-18T21:51:05Z"}
+{"changed": ["*new*"], "division": "plain", "event": "new", "id": 83524, "ts": "2026-11-18T21:51:09Z"}
