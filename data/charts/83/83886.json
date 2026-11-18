@@ -4,32 +4,32 @@
       "regular"
     ],
     "firstSeen": "2026-11-14T16:59:13Z",
-    "lastChanged": "2026-11-15T16:59:36Z",
-    "revisions": 3
+    "lastChanged": "2026-11-18T13:50:23Z",
+    "revisions": 4
   },
-  "chartUpdated": "2026-11-14T10:57:07.718913Z",
+  "chartUpdated": "2026-11-18T10:30:21.212015Z",
   "charter": "CLWN23333",
   "composer": "酒井拓也＆傳田有矢&，早田仁知＆山本恭平",
   "created": "2026-11-14T10:57:07.718913Z",
-  "description": "本人上传\n\nhttps://www.bilibili.com/video/BV1pjWC69EB2",
+  "description": "本人上传\n更新修复了一些判定上可能存在的问题：\n1.侧落红键吞判定\n2.长条垂直判定发生偏移，没有完全经过中心\n1的问题在制谱器里面看是没有问题的，推测是phira的判定带来的问题\n视频：https://www.bilibili.com/video/BV1pjWC69EB2",
   "difficulty": 18.0,
-  "file": "https://phira.5wyxi.com/files/70351e18-90ae-43d6-bcc5-d727385bc9e3",
+  "file": "https://phira.5wyxi.com/files/3fd35e76-7ef8-4d14-adc3-ef09b733da2a",
   "hidden": false,
   "id": 83886,
-  "illustration": "https://phira.5wyxi.com/files/f5df7c9f-b655-4e66-88e0-65d72376bc67",
+  "illustration": "https://phira.5wyxi.com/files/18d7c888-adc4-4fb8-8f5b-ee22d772e278",
   "illustrator": "FX战士久留美",
   "level": "AT Lv.18",
   "name": "FX戦士くるみちゃん (Nerfed)",
-  "preview": "https://phira.5wyxi.com/files/3961760f-933f-4078-99ac-44f8fb8799b7",
+  "preview": "https://phira.5wyxi.com/files/69d9e5ea-307c-4ed2-b8ef-67154b2b6f52",
   "ranked": false,
-  "rating": 0.8802468,
-  "ratingCount": 88,
+  "rating": 0.9038993,
+  "ratingCount": 135,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-14T11:05:00.659154Z",
+  "updated": "2026-11-18T10:30:21.212015Z",
   "uploader": 4117645
 }

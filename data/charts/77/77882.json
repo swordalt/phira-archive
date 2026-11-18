@@ -4,31 +4,32 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:16Z",
-    "lastChanged": "2026-09-21T02:05:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-18T13:50:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-12T10:44:33.859338Z",
-  "charter": "6th WJC",
+  "charter": "Vex & YumouQ",
   "composer": "VTQ",
   "created": "2026-09-12T10:44:33.859338Z",
   "description": "和Vex一起写的一个小歌呀",
   "difficulty": 17.0,
-  "file": "https://phira.5wyxi.com/files/a5a8fbb2-54ed-4025-8cef-dc30f200f7bb",
+  "file": "https://phira.5wyxi.com/files/29b6eff0-609f-4e39-aba2-d75fc1cc38a5",
+  "hidden": false,
   "id": 77882,
-  "illustration": "https://phira.5wyxi.com/files/c6014fff-e7ca-4119-a256-d3546594626f",
-  "illustrator": "",
+  "illustration": "https://phira.5wyxi.com/files/485a8adb-5434-4648-b3f8-58cdf8ae2d74",
+  "illustrator": "From vivid/stasis",
   "level": "IN Lv.17",
   "name": "1112",
-  "preview": "https://phira.5wyxi.com/files/03c5cc00-ebd0-44ad-a85e-291d4d71b767",
+  "preview": "https://phira.5wyxi.com/files/9500c70c-bca4-4845-814b-458ae8c973d8",
   "ranked": false,
-  "rating": 0.89370817,
-  "ratingCount": 49,
+  "rating": 0.9017284,
+  "ratingCount": 71,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-12T10:44:33.859338Z",
+  "updated": "2026-11-18T12:18:26.475959530Z",
   "uploader": 6373
 }

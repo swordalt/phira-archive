@@ -314,3 +314,10 @@
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 84117, "ts": "2026-11-17T22:13:03Z"}
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 83563, "ts": "2026-11-17T22:13:03Z"}
 {"changed": ["updated"], "division": "regular", "event": "updated", "id": 80391, "ts": "2026-11-18T04:11:10Z"}
+{"changed": ["chartUpdated", "description", "file", "illustration", "preview", "updated"], "division": "regular", "event": "updated", "id": 84122, "ts": "2026-11-18T13:50:23Z"}
+{"changed": ["chartUpdated", "description", "file", "illustration", "preview", "updated"], "division": "regular", "event": "updated", "id": 83886, "ts": "2026-11-18T13:50:23Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 82096, "ts": "2026-11-18T13:50:25Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 77467, "ts": "2026-11-18T13:50:25Z"}
+{"changed": ["charter", "file", "hidden", "illustration", "illustrator", "preview", "updated"], "division": "regular", "event": "updated", "id": 77882, "ts": "2026-11-18T13:50:25Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 80391, "ts": "2026-11-18T13:50:25Z"}
+{"changed": ["*new*"], "division": "plain", "event": "new", "id": 82119, "ts": "2026-11-18T13:50:35Z"}
