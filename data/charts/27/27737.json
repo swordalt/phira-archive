@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:01Z",
-    "lastChanged": "2026-09-21T02:06:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-19T03:15:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-15T23:41:48.882693Z",
   "charter": "一花依世界",
@@ -13,22 +13,23 @@
   "created": "2024-09-15T23:41:48.882693Z",
   "description": "哔站关注—花一世界，新人初谱",
   "difficulty": 22.0,
-  "file": "https://phira.5wyxi.com/files/642f2593-0494-4ed6-8493-67b2ffb70aa6",
+  "file": "https://phira.5wyxi.com/files/1c2f44ab-b5f2-4ee6-8ceb-0f60597de7a7",
+  "hidden": false,
   "id": 27737,
-  "illustration": "https://phira.5wyxi.com/files/80b17b68-9ae4-4603-acc5-e5afc54e152e",
+  "illustration": "https://phira.5wyxi.com/files/1ca03ea9-4cae-44b2-b871-8ab6bfe31aa7",
   "illustrator": "",
   "level": "4K Lv.22",
   "name": "動いてないのに暑いよ(quilt heron remix)",
-  "preview": "https://phira.5wyxi.com/files/1833e269-fb61-40e7-b22d-2547c632e85e",
+  "preview": "https://phira.5wyxi.com/files/40601eab-e1b2-4b19-a5cb-93cf3072a63b",
   "ranked": false,
-  "rating": 0.94808,
-  "ratingCount": 354,
+  "rating": 0.94774264,
+  "ratingCount": 358,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "plain"
   ],
-  "updated": "2024-09-15T23:41:48.882693Z",
+  "updated": "2026-11-19T01:33:55.909039270Z",
   "uploader": 246551
 }

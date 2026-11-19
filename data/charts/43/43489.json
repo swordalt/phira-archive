@@ -4,31 +4,32 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:36Z",
-    "lastChanged": "2026-09-21T02:03:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-19T03:15:24Z",
+    "revisions": 2
   },
-  "chartUpdated": "2025-08-02T14:15:07.458890Z",
+  "chartUpdated": "2026-11-19T00:49:30.378449424Z",
   "charter": "RinFall x Necrologist",
   "composer": "Tsukimi Shizuka x LUNARiUM",
   "created": "2025-08-02T14:15:07.458890Z",
   "description": "初寻杯供谱，与紫星合作，本人上传",
   "difficulty": 1.0,
-  "file": "https://phira.5wyxi.com/files/88c12b65-d27b-47fd-9c6a-7de9d4a12b3d",
+  "file": "https://phira.5wyxi.com/files/8fea7ee9-0c1f-4b85-b0c6-07f7cc467d8c",
+  "hidden": false,
   "id": 43489,
-  "illustration": "https://phira.5wyxi.com/files/02aeceaf-24ef-4001-9809-07b0da6e098e",
+  "illustration": "https://phira.5wyxi.com/files/89169f22-d527-4a88-8adb-9675e3efb17d",
   "illustrator": "",
   "level": "TB.1",
   "name": "Fight Against the Past",
-  "preview": "https://phira.5wyxi.com/files/b7324554-3a13-46d9-9d09-a9fb0c9f4b0e",
+  "preview": "https://phira.5wyxi.com/files/5e3eaf43-423e-40f3-91db-99ebc6879361",
   "ranked": false,
-  "rating": 0.9117445,
-  "ratingCount": 317,
+  "rating": 0.9139624,
+  "ratingCount": 341,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2025-08-02T14:15:07.458890Z",
+  "updated": "2026-11-19T00:49:30.378449424Z",
   "uploader": 558
 }

@@ -4,22 +4,23 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:06Z",
-    "lastChanged": "2026-09-21T02:07:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-19T03:15:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-15T10:15:00.410364Z",
   "charter": "kgls_DTT",
   "composer": "ETIA.",
   "created": "2024-12-15T10:15:00.410364Z",
-  "description": "B站:kgls_DTT\n15根线，885物量\n写的有点过，只好投观赏了(",
+  "description": "B站:kgls_DTT(现在叫IKEDT)\n15根线，885物量\n写的有点过，只好投观赏了(",
   "difficulty": 17.0,
-  "file": "https://phira.5wyxi.com/files/f09cf25b-746a-46b4-be0e-505657341d52",
+  "file": "https://phira.5wyxi.com/files/cb9d36ec-7fc1-4a21-abe4-e7dfa610a363",
+  "hidden": false,
   "id": 30808,
-  "illustration": "https://phira.5wyxi.com/files/df572685-bc24-4bf3-bf12-76b7d301459e",
-  "illustrator": "",
+  "illustration": "https://phira.5wyxi.com/files/0ee8d263-a983-4913-86d6-f4f2ebdcc958",
+  "illustrator": "UK",
   "level": "SP ?",
   "name": "Everybody Knows",
-  "preview": "https://phira.5wyxi.com/files/7a4308ee-03cc-40b9-84db-919b59ee66ad",
+  "preview": "https://phira.5wyxi.com/files/5a299d7d-559c-40ff-947c-869d975f2406",
   "ranked": false,
   "rating": 0.8128963,
   "ratingCount": 30,
@@ -29,6 +30,6 @@
   "tags": [
     "visual"
   ],
-  "updated": "2024-12-15T10:15:00.410364Z",
+  "updated": "2026-11-19T01:34:14.999223272Z",
   "uploader": 736634
 }

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:24Z",
-    "lastChanged": "2026-09-21T02:03:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-19T03:15:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-05T08:38:14.298697Z",
   "charter": "zxysr(b站在下缘始壬，PhiraH12345)",
@@ -13,22 +13,23 @@
   "created": "2025-06-26T13:50:01.365663Z",
   "description": "是本人写的！动效晚点再更新！",
   "difficulty": 17.800003,
-  "file": "https://phira.5wyxi.com/files/ddf9db51-33d6-47ed-ad12-fa1887bac491",
+  "file": "https://phira.5wyxi.com/files/6e7d6d89-e27d-4461-8167-b50b35bd9f0c",
+  "hidden": false,
   "id": 40300,
-  "illustration": "https://phira.5wyxi.com/files/316b39a8-2013-4c10-a9de-0afdfb8e6cd3",
+  "illustration": "https://phira.5wyxi.com/files/7a4330d8-d953-427d-85b4-77d9b7001786",
   "illustrator": "",
   "level": "AT Lv.17",
   "name": "Xiorc",
-  "preview": "https://phira.5wyxi.com/files/f972e94e-ef14-4a48-9441-196ce322fbdd",
+  "preview": "https://phira.5wyxi.com/files/06c00838-e919-4db6-aa1e-93d7ac010a55",
   "ranked": false,
-  "rating": 0.7427054,
-  "ratingCount": 22,
+  "rating": 0.7268738,
+  "ratingCount": 23,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2025-08-05T08:38:14.298697Z",
+  "updated": "2026-11-19T01:39:17.586131082Z",
   "uploader": 1518335
 }

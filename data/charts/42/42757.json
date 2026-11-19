@@ -4,25 +4,26 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:25Z",
-    "lastChanged": "2026-09-21T02:06:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-19T03:15:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-26T06:47:31.574183Z",
   "charter": "YanLuo",
   "composer": "风筝TheKite",
   "created": "2025-07-26T06:47:31.574183Z",
-  "description": "原曲:IndiHome Paket Phoenix\n改编填词 by 风筝TheKite\n-----------------------------------------\n谱师本人上传\n[丁真精选集第三弹]\nBili:YaaanLuo",
+  "description": "原曲:IndiHome Paket Phoenix\n改编填词 by 风筝TheKite\n-----------------------------------------\n本人上传\nBili:Yn1u0\n后期@An1u0#830702（协助测码）",
   "difficulty": 20.0,
-  "file": "https://phira.5wyxi.com/files/1133cab7-87da-4670-b00f-37ee5d0360ca",
+  "file": "https://phira.5wyxi.com/files/0095e40a-81ea-495f-826e-c3ed5c64b4fa",
+  "hidden": false,
   "id": 42757,
-  "illustration": "https://phira.5wyxi.com/files/034f46c2-1b06-46a6-a4c0-b342813feda7",
+  "illustration": "https://phira.5wyxi.com/files/c327cca0-6fd6-4a64-a288-4552d54f26fc",
   "illustrator": "",
-  "level": "LiTang Lv.23",
+  "level": "LiTang Lv.25",
   "name": "丁真新曲《理塘宽带》锐克通信15G时代来临",
-  "preview": "https://phira.5wyxi.com/files/0e8d1938-a227-47ff-98b7-22d943921142",
+  "preview": "https://phira.5wyxi.com/files/b134aa4c-e47d-4640-bfc2-18e7d1eacd38",
   "ranked": false,
-  "rating": 0.9205645,
-  "ratingCount": 101,
+  "rating": 0.91598004,
+  "ratingCount": 104,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -32,6 +33,6 @@
     "电信宽带",
     "plain"
   ],
-  "updated": "2025-07-26T06:47:31.574183Z",
+  "updated": "2026-11-19T01:38:36.940955533Z",
   "uploader": 14440
 }

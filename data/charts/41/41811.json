@@ -4,25 +4,26 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:23Z",
-    "lastChanged": "2026-09-21T02:06:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-19T03:15:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-16T04:40:55.550182Z",
   "charter": "furryDuo",
   "composer": "IN-K",
   "created": "2025-07-16T04:40:55.550182Z",
-  "description": "b等我摇个多多",
+  "description": "b多多Xwx",
   "difficulty": 13.0,
-  "file": "https://phira.5wyxi.com/files/d1c0b313-5ad1-4291-ad4b-ccf1d279a9c3",
+  "file": "https://phira.5wyxi.com/files/6fae21e6-65b7-48ec-a179-425df57b12dd",
+  "hidden": false,
   "id": 41811,
-  "illustration": "https://phira.5wyxi.com/files/0dafe134-e475-4cd7-ad17-d913e3c73ec2",
+  "illustration": "https://phira.5wyxi.com/files/ad97149a-f419-4717-a680-af7ef3d1486c",
   "illustrator": "",
   "level": "AT  Lv.13",
   "name": "第57次取消发送",
-  "preview": "https://phira.5wyxi.com/files/6bd807db-ffe4-41a8-917f-79a77b2ed1be",
+  "preview": "https://phira.5wyxi.com/files/468df09e-732a-4fa7-afe7-e7ddc8307cc2",
   "ranked": false,
-  "rating": 0.93908775,
-  "ratingCount": 713,
+  "rating": 0.9393306,
+  "ratingCount": 729,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -31,6 +32,6 @@
     "emo",
     "plain"
   ],
-  "updated": "2025-07-16T04:40:55.550182Z",
+  "updated": "2026-11-19T01:37:33.392591433Z",
   "uploader": 18263
 }
