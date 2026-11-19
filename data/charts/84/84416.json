@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-19T12:52:48Z",
-    "lastChanged": "2026-11-19T12:52:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-19T21:24:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-19T05:20:56.055478Z",
   "charter": "时辰shars",
@@ -22,14 +22,14 @@
   "name": "鹿 Be Free",
   "preview": "https://phira.5wyxi.com/files/2f2ed1d5-6013-44b1-9b88-ba5d6e0eef8a",
   "ranked": false,
-  "rating": 0.9243999,
-  "ratingCount": 245,
+  "rating": 0.92982614,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-19T09:02:44.009055Z",
+  "updated": "2026-11-19T09:02:44.009055828Z",
   "uploader": 1619714
 }

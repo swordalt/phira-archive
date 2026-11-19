@@ -1,0 +1,41 @@
+{
+  "_archive": {
+    "divisions": [
+      "plain"
+    ],
+    "firstSeen": "2026-11-19T21:24:50Z",
+    "lastChanged": "2026-11-19T21:24:50Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-10-30T17:05:14.718122Z",
+  "charter": "DFC_TEAM",
+  "composer": "Kros K",
+  "created": "2026-10-30T17:05:14.718122Z",
+  "description": "谱师本人上传\n本次更新：修改谱面流速、修改难度合理性",
+  "difficulty": 17.700006,
+  "file": "https://phira.5wyxi.com/files/b43c7bb9-00be-432a-97fb-36aabb722615",
+  "hidden": false,
+  "id": 82568,
+  "illustration": "https://phira.5wyxi.com/files/5443319b-8bbe-45a1-8f6e-379240b780d5",
+  "illustrator": "UK",
+  "level": "Speed Lv.17",
+  "name": "Der Wald（Kors k remix）",
+  "preview": "https://phira.5wyxi.com/files/b0026864-ff9c-489c-8c22-39df22bbbcdd",
+  "ranked": false,
+  "rating": null,
+  "ratingCount": 0,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "DFC",
+    "双指",
+    "高难",
+    "乱",
+    "Zeta",
+    "Tea",
+    "plain"
+  ],
+  "updated": "2026-11-19T18:58:25.176536Z",
+  "uploader": 737822
+}

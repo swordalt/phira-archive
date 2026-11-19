@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-19T12:52:48Z",
-    "lastChanged": "2026-11-19T12:52:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-19T21:24:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-18T05:27:49.758759Z",
   "charter": "CEL · RYN-",
@@ -22,8 +22,8 @@
   "name": "うたかたのせかいで ",
   "preview": "https://phira.5wyxi.com/files/696c082a-0460-483e-b50a-1a85c7049a6f",
   "ranked": false,
-  "rating": 0.8216406,
-  "ratingCount": 16,
+  "rating": 0.8406682,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -32,6 +32,6 @@
     "高难",
     "regular"
   ],
-  "updated": "2026-11-19T04:26:19.684780Z",
+  "updated": "2026-11-19T04:26:19.684780106Z",
   "uploader": 253256
 }
