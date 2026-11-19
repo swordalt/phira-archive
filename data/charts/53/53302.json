@@ -4,31 +4,32 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:24Z",
-    "lastChanged": "2026-10-26T12:49:27Z",
-    "revisions": 3
+    "lastChanged": "2026-11-19T12:52:49Z",
+    "revisions": 4
   },
-  "chartUpdated": "2026-10-25T09:02:52.851269Z",
+  "chartUpdated": "2026-11-19T04:49:44.412412135Z",
   "charter": "pigeoX",
   "composer": "TeamGrimoire+あま猫",
   "created": "2026-02-24T05:38:25.558797Z",
   "description": "本人上传\r\n好久没更新了，难度略微提高了那么亿点点啦~",
   "difficulty": 16.400005,
-  "file": "https://phira.5wyxi.com/files/aa771746-8990-4356-a061-a57a86381091",
+  "file": "https://phira.5wyxi.com/files/c6c94b99-dd60-487f-a3e3-cc8efa142917",
+  "hidden": false,
   "id": 53302,
-  "illustration": "https://phira.5wyxi.com/files/a9e8bdcf-d218-4cd8-b182-0e10346b7890",
+  "illustration": "https://phira.5wyxi.com/files/034f141c-8f46-4150-b7b4-d574174150ae",
   "illustrator": "Tankne6",
   "level": "IN Lv.16",
   "name": "croiX",
-  "preview": "https://phira.5wyxi.com/files/5fc4d71c-46a9-468e-99e8-18ee4365b60d",
+  "preview": "https://phira.5wyxi.com/files/454e8362-f815-4677-9fbf-ff0b4eb68fa2",
   "ranked": false,
-  "rating": 0.92232484,
-  "ratingCount": 488,
+  "rating": 0.92192674,
+  "ratingCount": 557,
   "reviewed": true,
   "stable": false,
   "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-25T09:02:52.851269Z",
+  "updated": "2026-11-19T04:49:44.412412135Z",
   "uploader": 658108
 }

@@ -4,31 +4,32 @@
       "regular"
     ],
     "firstSeen": "2026-10-27T04:53:15Z",
-    "lastChanged": "2026-10-28T08:19:51Z",
-    "revisions": 2
+    "lastChanged": "2026-11-19T12:52:49Z",
+    "revisions": 3
   },
-  "chartUpdated": "2026-10-26T09:53:13.616324Z",
+  "chartUpdated": "2026-11-19T11:31:07.977278267Z",
   "charter": "SubDaimeng",
   "composer": "kasumi",
   "created": "2026-10-26T09:53:13.616324Z",
   "description": null,
   "difficulty": 17.0,
-  "file": "https://phira.5wyxi.com/files/fd751ff7-0597-45d6-af2c-3b32464c21c2",
+  "file": "https://phira.5wyxi.com/files/17d53ca1-ba58-484b-a85d-67d2809f68f7",
+  "hidden": false,
   "id": 82241,
-  "illustration": "https://phira.5wyxi.com/files/7c127868-12f4-4bd6-9a4f-49070c0ecef7",
+  "illustration": "https://phira.5wyxi.com/files/2322da85-8bb0-4117-9dcf-15ef87af67d4",
   "illustrator": "うてなゆき (ネムレス)",
   "level": "AT Lv.17",
   "name": "director kasukasu puppy",
-  "preview": "https://phira.5wyxi.com/files/a215f617-3c79-4031-b8ae-9d9e01651feb",
+  "preview": "https://phira.5wyxi.com/files/c88fee8c-1781-4bcd-8e1b-b92595f174b5",
   "ranked": false,
-  "rating": 0.8703766,
-  "ratingCount": 17,
-  "reviewed": false,
+  "rating": 0.9161702,
+  "ratingCount": 127,
+  "reviewed": true,
   "stable": false,
   "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-27T00:37:43.692813Z",
+  "updated": "2026-11-19T11:31:07.977278267Z",
   "uploader": 2777
 }
