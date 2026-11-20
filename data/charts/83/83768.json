@@ -4,32 +4,32 @@
       "regular"
     ],
     "firstSeen": "2026-11-13T16:10:51Z",
-    "lastChanged": "2026-11-15T16:59:36Z",
-    "revisions": 4
+    "lastChanged": "2026-11-20T11:23:42Z",
+    "revisions": 5
   },
-  "chartUpdated": "2026-11-13T12:25:10.771703Z",
+  "chartUpdated": "2026-11-20T04:59:36.456911Z",
   "charter": "Daimeng & funkier wheat",
   "composer": "DJ Noriken / DJ Genki / Yukacco",
   "created": "2026-11-13T12:25:10.771703Z",
   "description": "本人上传\n@Daimeng\n@放克麦子#23915",
   "difficulty": 16.0,
-  "file": "https://phira.5wyxi.com/files/e173ce56-85a9-4c22-90d1-769fcde00518",
+  "file": "https://phira.5wyxi.com/files/b1094ade-8a33-4bbe-ada7-6f11a3f7bbbc",
   "hidden": false,
   "id": 83768,
-  "illustration": "https://phira.5wyxi.com/files/40bd717f-4c47-42aa-ad4e-d3ac91acd06f",
+  "illustration": "https://phira.5wyxi.com/files/c40dacb6-ea08-411b-a6c8-32fdcbe38254",
   "illustrator": "みずは",
   "level": "IN Lv.16",
   "name": "Dream Away (feat. Yukacco)",
-  "preview": "https://phira.5wyxi.com/files/2c9768ce-14b2-4752-9ca5-217a276e2e4d",
+  "preview": "https://phira.5wyxi.com/files/d17a0225-b636-415a-b5f0-b5ec33e128b1",
   "ranked": false,
-  "rating": 0.9124272,
-  "ratingCount": 195,
-  "reviewed": true,
+  "rating": 0.9118753,
+  "ratingCount": 266,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-13T14:25:59.921141Z",
+  "updated": "2026-11-20T04:59:36.456911Z",
   "uploader": 2777
 }
