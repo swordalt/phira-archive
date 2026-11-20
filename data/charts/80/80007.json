@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-19T21:24:43Z",
-    "lastChanged": "2026-11-19T21:24:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-20T03:01:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-03T14:38:44.116526Z",
   "charter": "Bluesky",
@@ -22,14 +22,14 @@
   "name": "pokopoko (Synthion Remix)",
   "preview": "https://phira.5wyxi.com/files/a1200269-99b3-4af1-9a23-24180f89dc8f",
   "ranked": false,
-  "rating": 0.72988,
-  "ratingCount": 5,
+  "rating": 0.69964665,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-19T15:13:01.033830Z",
+  "updated": "2026-11-19T15:13:01.033830427Z",
   "uploader": 24717
 }

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-11-19T21:24:49Z",
-    "lastChanged": "2026-11-19T21:24:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-20T03:01:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-19T07:15:26.267165Z",
   "charter": "GUEST",
@@ -23,7 +23,7 @@
   "preview": "https://phira.5wyxi.com/files/870ff8e5-fc07-420d-b280-6d23fdda07bc",
   "ranked": false,
   "rating": 0.7803841,
-  "ratingCount": 2,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -33,6 +33,6 @@
     "Stamina",
     "plain"
   ],
-  "updated": "2026-11-19T15:35:39.686920Z",
+  "updated": "2026-11-19T15:35:39.686920046Z",
   "uploader": 4495060
 }
