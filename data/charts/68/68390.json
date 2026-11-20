@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-11-20T20:00:23Z",
+    "lastChanged": "2026-11-20T20:00:23Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-22T07:36:16.056842Z",
+  "charter": "ax",
+  "composer": "A-Saph/Foodbot/Kyotsugyon/Fyter/Lap^z/Spehs/Wyvren/Ardolf",
+  "created": "2026-07-22T07:36:16.056842Z",
+  "description": "由谱师本人上传",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/9e12dbf5-13ad-46d1-9a98-08e01c666498",
+  "hidden": false,
+  "id": 68390,
+  "illustration": "https://phira.5wyxi.com/files/a948a774-b494-48eb-839a-cacca3ba8fa4",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "STARCRASHERS",
+  "preview": "https://phira.5wyxi.com/files/97ae7722-9fd9-48f2-b64f-7641edee4b9d",
+  "ranked": false,
+  "rating": 0.83764946,
+  "ratingCount": 8,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-11-20T14:10:15.769455Z",
+  "uploader": 124232
+}
