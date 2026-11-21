@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-11-21T09:39:06Z",
+    "lastChanged": "2026-11-21T09:39:06Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-11-21T06:03:15.653650Z",
+  "charter": "Ex1stenS",
+  "composer": "Srav3R",
+  "created": "2026-11-21T06:03:15.653650Z",
+  "description": null,
+  "difficulty": 15.500002,
+  "file": "https://phira.5wyxi.com/files/e1157806-ea24-40b3-b1d5-1d6ba5eb13dd",
+  "hidden": false,
+  "id": 84647,
+  "illustration": "https://phira.5wyxi.com/files/f4d58883-a1b3-46d1-b0ad-4fd919750475",
+  "illustrator": "魔界の住民 (Chloe Modified)",
+  "level": "AT  Lv.15",
+  "name": "Wind Again",
+  "preview": "https://phira.5wyxi.com/files/dcda2e79-d9e7-4b59-828e-c5d8a5a7be45",
+  "ranked": false,
+  "rating": 0.93770057,
+  "ratingCount": 34,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-11-21T06:55:06.566667Z",
+  "uploader": 1503
+}

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-15T16:59:36Z",
-    "lastChanged": "2026-11-15T16:59:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-21T09:39:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-15T16:19:58.472134Z",
   "charter": "DouBlE inspIRE",
@@ -22,11 +22,11 @@
   "name": "Summerblue",
   "preview": "https://phira.5wyxi.com/files/613c34b5-6b24-4c47-a4e7-554b50663c91",
   "ranked": false,
-  "rating": null,
-  "ratingCount": 0,
-  "reviewed": false,
+  "rating": 0.86997426,
+  "ratingCount": 34,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
