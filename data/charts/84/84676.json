@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-11-21T17:22:53Z",
+    "lastChanged": "2026-11-21T17:22:53Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-11-21T08:19:30.543888Z",
+  "charter": "Aoizuki",
+  "composer": "eicateve x hrchem x TOHRU MiTSUHASHi",
+  "created": "2026-11-21T08:19:30.543888Z",
+  "description": "本人上传\n需使用phira pro游玩",
+  "difficulty": 17.0,
+  "file": "https://phira.5wyxi.com/files/a0e71a03-a579-471b-b0f9-5c725635b65f",
+  "hidden": false,
+  "id": 84676,
+  "illustration": "https://phira.5wyxi.com/files/c2db64fa-e3b4-49a1-8311-da07cd80fa52",
+  "illustrator": "TOHRU MiTSUHASHi",
+  "level": "RIP Lv.16-18",
+  "name": "R.I.P.",
+  "preview": "https://phira.5wyxi.com/files/2bdcda2d-eb3c-42f1-9349-be596e76c405",
+  "ranked": false,
+  "rating": 0.88649786,
+  "ratingCount": 9,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-11-21T15:10:52.948583Z",
+  "uploader": 1316901
+}

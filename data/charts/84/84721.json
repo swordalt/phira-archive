@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-11-21T17:22:53Z",
+    "lastChanged": "2026-11-21T17:22:53Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-11-21T11:44:11.945723Z",
+  "charter": "PCC Charting Team",
+  "composer": "打打だいず Vs. Tanchiky Vs. からめる",
+  "created": "2026-11-21T11:44:11.945723Z",
+  "description": "Song : QUATTUORUX\r\n\r\nBPM : 180\r\n\r\nComposer : 打打だいず Vs. Tanchiky Vs. からめる\r\n\r\nDifficulty : IN Lv.16.1\r\n\r\nCharter : maple._.zz , neko , Chaos\r\n\r\n@ねこ3777#641183\r\n@カオス#519293",
+  "difficulty": 16.1,
+  "file": "https://phira.5wyxi.com/files/40c2efc1-561a-4ef0-b0b1-08ffae088784",
+  "hidden": false,
+  "id": 84721,
+  "illustration": "https://phira.5wyxi.com/files/f477c6c4-34a0-4681-b028-cf5b61125dce",
+  "illustrator": "yoshimo",
+  "level": "IN Lv.16",
+  "name": "QUATTUORUX",
+  "preview": "https://phira.5wyxi.com/files/94cc04fc-fff5-478f-9eb5-3e097cd39e46",
+  "ranked": false,
+  "rating": 0.93828464,
+  "ratingCount": 33,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-11-21T13:01:24.241082Z",
+  "uploader": 544752
+}

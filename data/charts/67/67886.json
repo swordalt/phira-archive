@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-11-21T17:22:55Z",
+    "lastChanged": "2026-11-21T17:22:55Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-07-20T05:36:00.526222Z",
+  "charter": "雨泽Zzz...",
+  "composer": "john",
+  "created": "2026-07-20T05:36:00.526222Z",
+  "description": null,
+  "difficulty": 16.100004,
+  "file": "https://phira.5wyxi.com/files/eab2db7b-f5f1-43b0-9506-4acad4c40bcb",
+  "hidden": false,
+  "id": 67886,
+  "illustration": "https://phira.5wyxi.com/files/f31d5964-ccf0-4154-90e1-180a317e980a",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "rabbit",
+  "preview": "https://phira.5wyxi.com/files/d8af5a93-6274-459b-bece-bec20853ea98",
+  "ranked": false,
+  "rating": 0.8986673,
+  "ratingCount": 41,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-11-21T12:36:09.107420Z",
+  "uploader": 2048294
+}

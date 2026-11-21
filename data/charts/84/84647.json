@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-21T09:39:06Z",
-    "lastChanged": "2026-11-21T09:39:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-21T17:22:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-21T06:03:15.653650Z",
   "charter": "Ex1stenS",
@@ -22,14 +22,14 @@
   "name": "Wind Again",
   "preview": "https://phira.5wyxi.com/files/dcda2e79-d9e7-4b59-828e-c5d8a5a7be45",
   "ranked": false,
-  "rating": 0.93770057,
-  "ratingCount": 34,
+  "rating": 0.9474204,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-21T06:55:06.566667Z",
+  "updated": "2026-11-21T06:55:06.566667865Z",
   "uploader": 1503
 }
