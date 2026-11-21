@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-11-21T17:23:06Z",
-    "lastChanged": "2026-11-21T17:23:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-21T23:05:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-20T10:51:42.861057Z",
   "charter": "LingLi",
@@ -23,7 +23,7 @@
   "preview": "https://phira.5wyxi.com/files/afd70388-420d-482b-be9d-9737d9f90b77",
   "ranked": false,
   "rating": 0.86019063,
-  "ratingCount": 7,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -32,6 +32,6 @@
     "叠",
     "plain"
   ],
-  "updated": "2026-11-21T12:20:17.538679Z",
+  "updated": "2026-11-21T12:20:17.538679555Z",
   "uploader": 1009131
 }
