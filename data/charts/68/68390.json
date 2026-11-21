@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-20T20:00:23Z",
-    "lastChanged": "2026-11-20T20:00:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-21T01:24:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-22T07:36:16.056842Z",
   "charter": "ax",
@@ -22,14 +22,14 @@
   "name": "STARCRASHERS",
   "preview": "https://phira.5wyxi.com/files/97ae7722-9fd9-48f2-b64f-7641edee4b9d",
   "ranked": false,
-  "rating": 0.83764946,
-  "ratingCount": 8,
+  "rating": 0.8592096,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-20T14:10:15.769455Z",
+  "updated": "2026-11-20T14:10:15.769455332Z",
   "uploader": 124232
 }
