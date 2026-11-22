@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-21T17:22:53Z",
-    "lastChanged": "2026-11-21T23:05:25Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T03:03:31Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-11-21T11:44:11.945723Z",
   "charter": "PCC Charting Team",
@@ -22,14 +22,14 @@
   "name": "QUATTUORUX",
   "preview": "https://phira.5wyxi.com/files/94cc04fc-fff5-478f-9eb5-3e097cd39e46",
   "ranked": false,
-  "rating": 0.9318975,
-  "ratingCount": 0,
-  "reviewed": true,
+  "rating": 0.94528013,
+  "ratingCount": 43,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-21T13:01:24.241082190Z",
+  "updated": "2026-11-21T13:01:24.241082Z",
   "uploader": 544752
 }
