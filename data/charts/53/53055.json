@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:46Z",
-    "lastChanged": "2026-09-21T02:06:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-20T12:15:58.703216Z",
   "charter": "No.0",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/3d7ec083-308b-49f2-93cb-06456620b723",
+  "hidden": false,
   "id": 53055,
   "illustration": "https://phira.5wyxi.com/files/21832f09-53d3-4d46-95d6-754bdd7a67b7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "せかいから____がきえるとき",
   "preview": "https://phira.5wyxi.com/files/4d4ca254-5202-4012-8380-ff5d3988bd77",
   "ranked": false,
-  "rating": 0.8905283,
-  "ratingCount": 20,
+  "rating": 0.90593225,
+  "ratingCount": 24,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

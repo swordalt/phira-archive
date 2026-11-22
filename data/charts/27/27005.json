@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:37Z",
-    "lastChanged": "2026-09-21T02:02:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-28T03:54:30.569310Z",
   "charter": "交互当双押",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/a3774480-c629-4ad3-8df4-1d00f9b52ce1",
+  "hidden": false,
   "id": 27005,
   "illustration": "https://phira.5wyxi.com/files/434bffee-828a-4490-8425-d9c69a765c2b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "暗闇の風穴",
   "preview": "https://phira.5wyxi.com/files/40b602ad-c593-446c-917c-aa0728e10d08",
   "ranked": false,
-  "rating": 0.7081301,
-  "ratingCount": 37,
+  "rating": 0.7153076,
+  "ratingCount": 38,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

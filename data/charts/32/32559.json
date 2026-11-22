@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:59Z",
-    "lastChanged": "2026-09-21T02:02:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-27T01:03:42.395178Z",
   "charter": "IF.Zeta Is Watching You",
@@ -14,6 +14,7 @@
   "description": "谱师:IF_Zeta(B站同名)\n可能有初见杀\n使用Malody转谱及MT管理器。",
   "difficulty": 15.5,
   "file": "https://phira.5wyxi.com/files/fc010631-d138-4317-9a16-266d1ece2d4f",
+  "hidden": false,
   "id": 32559,
   "illustration": "https://phira.5wyxi.com/files/422e179e-22d9-4248-b074-4ac5e9f0922b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "モニタリング",
   "preview": "https://phira.5wyxi.com/files/62875caf-eb12-4016-b58d-194f572cdaea",
   "ranked": false,
-  "rating": 0.92748475,
-  "ratingCount": 5053,
+  "rating": 0.9279782,
+  "ratingCount": 5276,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

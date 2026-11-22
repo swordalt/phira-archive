@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:03Z",
-    "lastChanged": "2026-09-21T02:03:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-12T10:23:18.744858Z",
   "charter": "ykwy",
@@ -14,6 +14,7 @@
   "description": "b站\n@一块玩意",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/bc623741-6cca-4f3d-8b78-2b1b10bc6eb7",
+  "hidden": false,
   "id": 33892,
   "illustration": "https://phira.5wyxi.com/files/a15ee5d8-689d-4952-9816-cc4575ad6a02",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Heracles",
   "preview": "https://phira.5wyxi.com/files/57b082d2-4a93-43cf-a0b4-3aaa8bf91740",
   "ranked": false,
-  "rating": 0.9278822,
-  "ratingCount": 185,
+  "rating": 0.9272497,
+  "ratingCount": 186,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

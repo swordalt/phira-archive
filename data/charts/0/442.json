@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:05Z",
-    "lastChanged": "2026-09-21T02:01:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T11:17:54.847017Z",
   "charter": "Phigros Chatting Team",
@@ -14,6 +14,7 @@
   "description": "谱师ddc，unknown239，鱼某，冬花，fyato\n优化chojing，可秋等人",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/5590d7a9-fe41-400f-a1b2-367b45b4cb87",
+  "hidden": false,
   "id": 442,
   "illustration": "https://phira.5wyxi.com/files/7343a601-702c-4049-9fda-e095408ee234",
   "illustrator": "UK",
@@ -21,8 +22,8 @@
   "name": "Bad Apple!! (Camellia's \"Bad Psy!!\" Remix) ",
   "preview": "https://phira.5wyxi.com/files/90097aa4-4540-4002-a8e6-8d9415444a61",
   "ranked": false,
-  "rating": 0.9264079,
-  "ratingCount": 5637,
+  "rating": 0.92608684,
+  "ratingCount": 5705,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:04Z",
-    "lastChanged": "2026-09-21T02:01:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "FreMo ft.Max3957",
@@ -14,6 +14,7 @@
   "description": "代人上传，感谢@FM壹某 的授权！谱师：@FM壹某 @Max3957",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/a2cd4698-e613-46f1-ad32-0721e7e7d948",
+  "hidden": false,
   "id": 227,
   "illustration": "https://phira.5wyxi.com/files/4c030c08-cea5-4734-b311-719c8c6a55ff",
   "illustrator": "MRJ's アクアマリン Monarch",
@@ -21,8 +22,8 @@
   "name": "PUPA",
   "preview": "https://phira.5wyxi.com/files/26f9885f-eecb-4ce7-b37d-965d190f4bdf",
   "ranked": false,
-  "rating": 0.90669554,
-  "ratingCount": 3905,
+  "rating": 0.9066169,
+  "ratingCount": 3921,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

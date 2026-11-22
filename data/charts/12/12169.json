@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:39Z",
-    "lastChanged": "2026-09-21T02:05:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-05T05:31:12.422986Z",
   "charter": "Hujin_",
@@ -14,6 +14,7 @@
   "description": "本人制作\nMalody侧原版https://b23.tv/hm0TvWf(Bocchi The Rock! Dan Technical) 难度约d-",
   "difficulty": 15.999985,
   "file": "https://phira.5wyxi.com/files/d36d33ef-d0c7-4661-81e1-ff580f72e494",
+  "hidden": false,
   "id": 12169,
   "illustration": "https://phira.5wyxi.com/files/f771dcbf-a237-45de-b6fc-7d523f795487",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ギターと孤独と蒼い惑星",
   "preview": "https://phira.5wyxi.com/files/73d8c368-1cfb-4bf0-bbbd-34d403d87285",
   "ranked": false,
-  "rating": 0.8597285,
-  "ratingCount": 162,
+  "rating": 0.86058444,
+  "ratingCount": 163,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

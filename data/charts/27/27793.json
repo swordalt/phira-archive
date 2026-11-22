@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:01Z",
-    "lastChanged": "2026-09-21T02:06:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-17T15:55:31.129037Z",
   "charter": "Object.Z",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/6b2074f7-9862-4c72-abfa-204e8415ffb9",
+  "hidden": false,
   "id": 27793,
   "illustration": "https://phira.5wyxi.com/files/1a86eb9e-7508-41ee-9bb0-d8d9978c9963",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fragmentation",
   "preview": "https://phira.5wyxi.com/files/9467f3b7-2993-400f-aa82-d7370bdfdb1e",
   "ranked": false,
-  "rating": 0.86293393,
-  "ratingCount": 39,
+  "rating": 0.8629044,
+  "ratingCount": 41,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:47Z",
-    "lastChanged": "2026-09-21T02:05:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-04T12:46:41.375462Z",
   "charter": "Rin vs. Fluorspar",
@@ -14,6 +14,7 @@
   "description": "转谱玩的",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/d60cce31-967f-4f12-b38c-443ec092c17f",
+  "hidden": false,
   "id": 19516,
   "illustration": "https://phira.5wyxi.com/files/cbb81b6a-16c1-4a68-bdfc-d634975fdc3b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Re：End of a Dream",
   "preview": "https://phira.5wyxi.com/files/c5c9165a-ee9b-49b6-98f1-48e84ad0c883",
   "ranked": false,
-  "rating": 0.9118091,
-  "ratingCount": 240,
+  "rating": 0.91217494,
+  "ratingCount": 241,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:08Z",
-    "lastChanged": "2026-09-21T02:06:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-05T08:55:34.486758Z",
   "charter": "KGL Team",
@@ -14,6 +14,7 @@
   "description": "谱师有三人\nKinrdhalp&Lomtfjsza&Geuatrouk\nKinrdhalp 0~1:45\nLomtfjsza 1:46~3:00\nGeuatrouk 3:01~4:45\n谱很好玩哈\n致敬神秘谱面之10.46*\n\n曲绘被打回一次\n所以改了色调",
   "difficulty": 10.400002,
   "file": "https://phira.5wyxi.com/files/00c23618-1072-4566-b5f0-d703fbf5a0e9",
+  "hidden": false,
   "id": 33341,
   "illustration": "https://phira.5wyxi.com/files/962437c8-b37e-452d-bbf9-a6855e417daa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Glitched Character",
   "preview": "https://phira.5wyxi.com/files/672dafb1-6170-439f-8f1b-d2b419ebbee8",
   "ranked": false,
-  "rating": 0.915918,
-  "ratingCount": 45,
+  "rating": 0.91524404,
+  "ratingCount": 49,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

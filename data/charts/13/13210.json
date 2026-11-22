@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:47Z",
-    "lastChanged": "2026-09-21T02:01:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-02T16:50:34.687058Z",
   "charter": "Qweiou21223",
@@ -14,6 +14,7 @@
   "description": "请调整延迟为1600ms",
   "difficulty": 8.999999,
   "file": "https://phira.5wyxi.com/files/a1f6708d-7e8b-4655-9802-c9c049616f8b",
+  "hidden": false,
   "id": 13210,
   "illustration": "https://phira.5wyxi.com/files/8190e8d1-a046-4ee3-b707-6f7abb07e9aa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sacramentum Unaccompanied Hymn for Torino",
   "preview": "https://phira.5wyxi.com/files/dc585188-a301-4e9f-b331-6305615dc8b0",
   "ranked": false,
-  "rating": 0.9247234,
-  "ratingCount": 355,
+  "rating": 0.92648304,
+  "ratingCount": 374,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

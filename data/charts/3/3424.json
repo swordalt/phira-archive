@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:15Z",
-    "lastChanged": "2026-09-21T02:01:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-12T03:59:43.676312Z",
   "charter": "Unpretty Friskig",
@@ -14,6 +14,7 @@
   "description": "得了新冠写的，高考完就把他写完了。我发誓我再也不写八股白开水了别骂我QAQ",
   "difficulty": 13.300001,
   "file": "https://phira.5wyxi.com/files/bd973473-1014-48a1-ba2a-6afb1fabac17",
+  "hidden": false,
   "id": 3424,
   "illustration": "https://phira.5wyxi.com/files/a0ce4099-2c7d-4752-9cdf-18c3df898dfa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Beauty",
   "preview": "https://phira.5wyxi.com/files/436fc8aa-c74a-45ca-8146-c0f361fcae6b",
   "ranked": false,
-  "rating": 0.9318594,
-  "ratingCount": 295,
+  "rating": 0.93155444,
+  "ratingCount": 302,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

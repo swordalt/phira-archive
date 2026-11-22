@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:22Z",
-    "lastChanged": "2026-09-21T02:01:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-24T15:08:09.379946Z",
   "charter": "ZFCARROT",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传啊喵~",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/0514cbce-1644-4a5e-b9cf-4e4db3efdbcc",
+  "hidden": false,
   "id": 5990,
   "illustration": "https://phira.5wyxi.com/files/e451e4f3-7152-4c9f-91d9-b76b7fbe3086",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "極楽浄土",
   "preview": "https://phira.5wyxi.com/files/c67dd3a8-ffe5-4cf7-b9d1-89fc151c32c5",
   "ranked": false,
-  "rating": 0.94200385,
-  "ratingCount": 26217,
+  "rating": 0.9419954,
+  "ratingCount": 26604,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

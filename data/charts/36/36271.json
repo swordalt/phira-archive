@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:11Z",
-    "lastChanged": "2026-09-21T02:03:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-06T05:22:30.773852Z",
   "charter": "fish clouds",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/a6e92be4-c3eb-45ef-9989-c9ce3147c18b",
+  "hidden": false,
   "id": 36271,
   "illustration": "https://phira.5wyxi.com/files/20dd5e61-41cb-461a-b9bb-d2a9965ff3f2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "雨露霜雪",
   "preview": "https://phira.5wyxi.com/files/bb6c88b2-cbd2-4db1-b405-7135bc98fd5d",
   "ranked": false,
-  "rating": 0.8749353,
-  "ratingCount": 269,
+  "rating": 0.87731355,
+  "ratingCount": 276,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

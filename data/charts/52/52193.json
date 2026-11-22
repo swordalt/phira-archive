@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:18Z",
-    "lastChanged": "2026-09-21T02:04:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-06T17:03:15.496244Z",
   "charter": "Fahrenheit.E",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/d6b8fc72-25c5-44bc-acbc-e772d4963d5e",
+  "hidden": false,
   "id": 52193,
   "illustration": "https://phira.5wyxi.com/files/0a96aa9b-12bc-4d7c-908a-af70f7fef883",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "°F",
   "preview": "https://phira.5wyxi.com/files/5cde31a8-c0f9-42a8-b43d-511ef562c599",
   "ranked": false,
-  "rating": 0.9382402,
-  "ratingCount": 297,
+  "rating": 0.9425838,
+  "ratingCount": 328,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

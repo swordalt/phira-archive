@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:02Z",
-    "lastChanged": "2026-09-21T02:05:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-24T12:47:32.787168Z",
   "charter": "隐德莱希_Aixpa",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/05a76206-be71-4aff-9e3a-e0754cbb61dd",
+  "hidden": false,
   "id": 68917,
   "illustration": "https://phira.5wyxi.com/files/882cdf80-91f9-447b-946a-ec6fc2d58505",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "神威",
   "preview": "https://phira.5wyxi.com/files/cad06369-6b5a-4455-8b6a-b5fc84bfdeb9",
   "ranked": false,
-  "rating": 0.90706956,
-  "ratingCount": 202,
+  "rating": 0.9160222,
+  "ratingCount": 251,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

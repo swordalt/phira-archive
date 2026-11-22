@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:37Z",
-    "lastChanged": "2026-09-21T02:01:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-14T14:38:35.790046Z",
   "charter": "我",
@@ -14,6 +14,7 @@
   "description": "2NDFJC参赛谱\n谱面预览：BV1nw411k7ut\n位1 （技的最好奖）",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/3d88a7b2-d17a-4c91-b3b9-e1316a36722c",
+  "hidden": false,
   "id": 10467,
   "illustration": "https://phira.5wyxi.com/files/9fa358a3-54ce-410c-b6be-fbdb48e32a2a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sound Chimera",
   "preview": "https://phira.5wyxi.com/files/c3b4fd7d-1524-46c9-9ef7-de382caadac5",
   "ranked": false,
-  "rating": 0.90379536,
-  "ratingCount": 1367,
+  "rating": 0.90418917,
+  "ratingCount": 1376,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

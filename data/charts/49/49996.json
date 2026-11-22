@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:42Z",
-    "lastChanged": "2026-09-21T02:06:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-07T12:55:59.938336Z",
   "charter": "LC Team",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nLC2023#1 比赛谱",
   "difficulty": 11.500004,
   "file": "https://phira.5wyxi.com/files/40931a0c-7a22-482f-b37c-5f85a6337d7a",
+  "hidden": false,
   "id": 49996,
   "illustration": "https://phira.5wyxi.com/files/9e74aabc-6366-45a7-9b06-ae3123da6b01",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Class Memories 1.2x",
   "preview": "https://phira.5wyxi.com/files/2b570afb-bb2c-4dca-be00-fbd3cbe7eaae",
   "ranked": false,
-  "rating": 0.93554616,
-  "ratingCount": 81,
+  "rating": 0.93776083,
+  "ratingCount": 84,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

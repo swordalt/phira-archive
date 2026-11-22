@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:08Z",
-    "lastChanged": "2026-09-21T02:06:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-30T14:03:58.179341Z",
   "charter": "路暖",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 8.0,
   "file": "https://phira.5wyxi.com/files/b2b635aa-47d4-4fc9-80e1-b972ef3ab265",
+  "hidden": false,
   "id": 32917,
   "illustration": "https://phira.5wyxi.com/files/e969a698-4f02-4ed7-bf72-83cc53e1ade6",
   "illustrator": "",

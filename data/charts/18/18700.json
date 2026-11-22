@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:46Z",
-    "lastChanged": "2026-09-21T02:05:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-20T12:03:07.424042Z",
   "charter": "三明治/Meowlf",
@@ -14,6 +14,7 @@
   "description": "|･ω･｀)",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/7752ee80-ef9d-4595-b48f-c37e37ab602d",
+  "hidden": false,
   "id": 18700,
   "illustration": "https://phira.5wyxi.com/files/26246b24-b2ae-4a14-a501-44064c562971",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MExistenceⅡ",
   "preview": "https://phira.5wyxi.com/files/b21df75c-7d43-4715-9643-fc7e3fda3765",
   "ranked": false,
-  "rating": 0.90537965,
-  "ratingCount": 61,
+  "rating": 0.9039026,
+  "ratingCount": 63,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

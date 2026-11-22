@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:11Z",
-    "lastChanged": "2026-09-21T02:05:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-24T05:02:28.404852Z",
   "charter": "火柴人会不会梦见摇摆羊",
@@ -14,6 +14,7 @@
   "description": "有点创的创意谱，3rdWMC参赛谱。谱面编号：哼",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/1e7ed00a-c0be-4def-98c8-97b5196a3748",
+  "hidden": false,
   "id": 75358,
   "illustration": "https://phira.5wyxi.com/files/7584a384-88d9-4e2f-9f6e-5bdcb49ffaaf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Beep Beep Im A Sheep",
   "preview": "https://phira.5wyxi.com/files/f5a02165-8883-4349-bc40-91a96598eb5c",
   "ranked": false,
-  "rating": 0.9207987,
-  "ratingCount": 452,
+  "rating": 0.9211508,
+  "ratingCount": 690,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

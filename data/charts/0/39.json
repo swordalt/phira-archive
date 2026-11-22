@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:03Z",
-    "lastChanged": "2026-09-21T02:01:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "楠瞳#66CCgyFF",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 12.1,
   "file": "https://phira.5wyxi.com/files/51c5563f-dc7b-49ce-8087-e0aa3847890c",
+  "hidden": false,
   "id": 39,
   "illustration": "https://phira.5wyxi.com/files/09efa6e7-798d-4dc6-8b6f-56ff85751e6c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Seattle物语 II",
   "preview": "https://phira.5wyxi.com/files/b73f20df-fdc3-46f6-81a0-c684f8fa9b46",
   "ranked": false,
-  "rating": 0.9334455,
-  "ratingCount": 493,
+  "rating": 0.9333693,
+  "ratingCount": 514,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

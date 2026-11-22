@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:02Z",
-    "lastChanged": "2026-09-21T02:07:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-24T15:12:39.570627Z",
   "charter": "HRS-Team",
@@ -14,6 +14,7 @@
   "description": "HRS-Lv.15-Sync单曲",
   "difficulty": 15.499996,
   "file": "https://phira.5wyxi.com/files/ec201ef4-4d55-40e5-a49d-7eff480678d4",
+  "hidden": false,
   "id": 75494,
   "illustration": "https://phira.5wyxi.com/files/42e4047d-7c92-4c33-bba5-268d67a8e102",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "SAtAN",
   "preview": "https://phira.5wyxi.com/files/6c3ec62e-32f3-49ba-a430-6e9570e23c36",
   "ranked": false,
-  "rating": 0.892196,
-  "ratingCount": 22,
+  "rating": 0.901819,
+  "ratingCount": 30,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

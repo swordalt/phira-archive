@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:08Z",
-    "lastChanged": "2026-09-21T02:07:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-21T00:12:41.205766Z",
   "charter": "鹰钊",
@@ -14,6 +14,7 @@
   "description": "夏夜，星空，角宿一，和你",
   "difficulty": 12.999996,
   "file": "https://phira.5wyxi.com/files/201b434e-8242-45a3-bb62-44db1dd0090b",
+  "hidden": false,
   "id": 45286,
   "illustration": "https://phira.5wyxi.com/files/d36cbc70-cae6-4833-be02-327f64f19014",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "スピカ（角宿一）",
   "preview": "https://phira.5wyxi.com/files/e609c4d0-d8e9-49c6-9409-e4e21ca2a4c4",
   "ranked": false,
-  "rating": 0.87564945,
-  "ratingCount": 66,
+  "rating": 0.87775135,
+  "ratingCount": 67,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

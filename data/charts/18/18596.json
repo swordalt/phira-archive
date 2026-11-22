@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:09Z",
-    "lastChanged": "2026-09-21T02:02:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-17T17:27:15.014055Z",
   "charter": "AzureKura",
@@ -14,6 +14,7 @@
   "description": "是笠仓和花原两位新人谱师的初谱。",
   "difficulty": 13.2,
   "file": "https://phira.5wyxi.com/files/348a863c-4b07-4ba4-96dc-a7e48494b33f",
+  "hidden": false,
   "id": 18596,
   "illustration": "https://phira.5wyxi.com/files/19837473-7158-4615-9fb7-6ea34c8140be",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "再生",
   "preview": "https://phira.5wyxi.com/files/e8138bfb-2dd9-4b95-b7cf-a8b4b2fe7977",
   "ranked": false,
-  "rating": 0.942204,
-  "ratingCount": 1538,
+  "rating": 0.9428233,
+  "ratingCount": 1563,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

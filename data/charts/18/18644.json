@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-19T13:16:09.536578Z",
   "charter": "谭空",
@@ -14,6 +14,7 @@
   "description": "本人上传，求过审",
   "difficulty": 17.800001,
   "file": "https://phira.5wyxi.com/files/fd1ce3b2-dca3-45c4-aad9-d7d41b0ba3c2",
+  "hidden": false,
   "id": 18644,
   "illustration": "https://phira.5wyxi.com/files/0fa8e2f4-da91-490d-913b-97fddbf7d310",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "阴雨清风",
   "preview": "https://phira.5wyxi.com/files/8d23c7f3-e279-48d5-a29d-49b2524bec17",
   "ranked": false,
-  "rating": 0.8225652,
-  "ratingCount": 286,
+  "rating": 0.82148796,
+  "ratingCount": 299,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

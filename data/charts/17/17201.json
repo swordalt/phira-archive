@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:04Z",
-    "lastChanged": "2026-09-21T02:02:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-16T13:33:13.587581Z",
   "charter": "ErSamu",
@@ -14,6 +14,7 @@
   "description": "The lyrics are in Spanish",
   "difficulty": 14.099997,
   "file": "https://phira.5wyxi.com/files/ddfc18f5-ff3a-4312-8b52-b1c495d6841a",
+  "hidden": false,
   "id": 17201,
   "illustration": "https://phira.5wyxi.com/files/89f525a0-12a5-4883-ba86-f02444445483",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Decoren Abrendegen",
   "preview": "https://phira.5wyxi.com/files/7e8de548-dfe2-4b87-93fd-1b02229fa20b",
   "ranked": false,
-  "rating": 0.7820808,
-  "ratingCount": 58,
+  "rating": 0.77950627,
+  "ratingCount": 59,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:24Z",
-    "lastChanged": "2026-09-21T02:01:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-04T03:42:04.004638Z",
   "charter": "BOSS ENSTUZ",
@@ -14,6 +14,7 @@
   "description": "由谱师本人上传\n修改了一些bug～\n游玩快乐——",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/dd414558-fd07-4cbd-bf44-008ca7e70f80",
+  "hidden": false,
   "id": 6778,
   "illustration": "https://phira.5wyxi.com/files/c6a91df1-0f30-4a00-99f7-22fb9eef98df",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Polumnia Omnia",
   "preview": "https://phira.5wyxi.com/files/eebd88e2-682a-44cd-8089-fdd6116354c4",
   "ranked": false,
-  "rating": 0.9326514,
-  "ratingCount": 4190,
+  "rating": 0.93279904,
+  "ratingCount": 4225,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

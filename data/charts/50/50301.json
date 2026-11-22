@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:07Z",
-    "lastChanged": "2026-09-21T02:04:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-18T05:13:39.047256Z",
   "charter": "Korus.jpg",
@@ -14,6 +14,7 @@
   "description": "实验性谱面\nps.感谢@韩涵TAT的debug",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/de220100-11cb-4fea-b266-a7da6d18a41f",
+  "hidden": false,
   "id": 50301,
   "illustration": "https://phira.5wyxi.com/files/4cf50202-ed59-4f39-aeb8-d320845a1817",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "macro.wav",
   "preview": "https://phira.5wyxi.com/files/bcca2008-89a6-4198-ad53-69c2720c2bf3",
   "ranked": false,
-  "rating": 0.90095884,
-  "ratingCount": 73,
+  "rating": 0.8990421,
+  "ratingCount": 75,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

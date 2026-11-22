@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:45Z",
-    "lastChanged": "2026-09-21T02:04:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-02T14:29:41.389774Z",
   "charter": "Fenglv2778",
@@ -14,6 +14,7 @@
   "description": "新人初谱，不足之处还请多多指点",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/f0205e30-3341-4722-87f0-cb4bd902a12f",
+  "hidden": false,
   "id": 59779,
   "illustration": "https://phira.5wyxi.com/files/3c346677-9bb5-40c1-99b8-e91f4f808eca",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "VOID",
   "preview": "https://phira.5wyxi.com/files/05351df2-67b5-4d17-b17e-6c436280779a",
   "ranked": false,
-  "rating": 0.9075638,
-  "ratingCount": 65,
+  "rating": 0.9007214,
+  "ratingCount": 81,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

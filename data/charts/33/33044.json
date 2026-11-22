@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:01Z",
-    "lastChanged": "2026-09-21T02:03:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-01T11:24:02.668167Z",
   "charter": "Set sail",
@@ -14,6 +14,7 @@
   "description": "（帆帆爱大米）谱师本人上传，已受曲师授权（Ary-You）",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/47c7a2c3-81f3-4856-ab8f-bee1a261ca9c",
+  "hidden": false,
   "id": 33044,
   "illustration": "https://phira.5wyxi.com/files/8125ad63-fdcb-47a7-b307-f45e4af2753c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Vanitas ac Redemptionis",
   "preview": "https://phira.5wyxi.com/files/1b7c20fd-91de-42a8-85fb-3ac38eaca925",
   "ranked": false,
-  "rating": 0.95972776,
-  "ratingCount": 3628,
+  "rating": 0.9598314,
+  "ratingCount": 3676,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:33Z",
-    "lastChanged": "2026-09-21T02:02:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-10T17:10:16.836114Z",
   "charter": "Charisk",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.9000025,
   "file": "https://phira.5wyxi.com/files/43404806-2b91-4182-977b-b360d86fea83",
+  "hidden": false,
   "id": 25925,
   "illustration": "https://phira.5wyxi.com/files/b1280d23-8d39-485c-9aff-f5bcd3316e4c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "追光使者",
   "preview": "https://phira.5wyxi.com/files/955a2b8e-e5b1-4eed-88f5-2d5e27afa048",
   "ranked": false,
-  "rating": 0.9409367,
-  "ratingCount": 656,
+  "rating": 0.9410317,
+  "ratingCount": 686,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:31Z",
-    "lastChanged": "2026-09-21T02:03:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-20T15:08:41.817475Z",
   "charter": "本-纪",
@@ -14,6 +14,7 @@
   "description": "几个小时的“佳作”，不要骂了不要骂了",
   "difficulty": 18.700006,
   "file": "https://phira.5wyxi.com/files/f34a8c90-9e5c-476a-8c51-6016ec79e3f3",
+  "hidden": false,
   "id": 42236,
   "illustration": "https://phira.5wyxi.com/files/818983d5-9613-4a50-8887-084d32b3ea40",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "珍珠",
   "preview": "https://phira.5wyxi.com/files/6d575529-96e9-4414-9688-2e38f3ae9b3d",
   "ranked": false,
-  "rating": 0.94517726,
-  "ratingCount": 564,
+  "rating": 0.9449275,
+  "ratingCount": 608,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

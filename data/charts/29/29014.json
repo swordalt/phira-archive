@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:44Z",
-    "lastChanged": "2026-09-21T02:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-24T06:06:16.781883Z",
   "charter": "神秘的小鸽子",
@@ -14,6 +14,7 @@
   "description": "萌新上传的第一张谱面，写的有问题欢迎来B站搜我的谱面，在评论区留言",
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/98bad67e-d94b-48cf-b617-cf517552cbe7",
+  "hidden": false,
   "id": 29014,
   "illustration": "https://phira.5wyxi.com/files/e1dbee2f-e9e2-4967-8d34-ac8929889e86",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ヒ口イン(nakotanmaru ver.)",
   "preview": "https://phira.5wyxi.com/files/2de4352d-4435-42d6-9fe5-be89a9caf98b",
   "ranked": false,
-  "rating": 0.90730894,
-  "ratingCount": 284,
+  "rating": 0.9072845,
+  "ratingCount": 285,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

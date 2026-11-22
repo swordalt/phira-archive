@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:49Z",
-    "lastChanged": "2026-09-21T02:04:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-14T09:17:31.315715Z",
   "charter": "tomny",
@@ -14,6 +14,7 @@
   "description": "冬眠2023",
   "difficulty": 15.700002,
   "file": "https://phira.5wyxi.com/files/a451f610-73d4-4018-ba38-d989161eb041",
+  "hidden": false,
   "id": 60960,
   "illustration": "https://phira.5wyxi.com/files/868d998f-6f97-4ddb-914e-a3aa28c7bd01",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "冬眠2023",
   "preview": "https://phira.5wyxi.com/files/03110533-53b5-4390-9608-5f5f8175b581",
   "ranked": false,
-  "rating": 0.86502534,
-  "ratingCount": 1632,
+  "rating": 0.8687216,
+  "ratingCount": 1871,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:29Z",
-    "lastChanged": "2026-09-21T02:03:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-14T10:39:07.247894Z",
   "charter": "Deborah_LB",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.5,
   "file": "https://phira.5wyxi.com/files/2a28c8e3-2ad3-47d2-9422-64ae39b9c150",
+  "hidden": false,
   "id": 41673,
   "illustration": "https://phira.5wyxi.com/files/aa0ac1c4-5d68-4939-a96d-9987d1c44a79",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "VOID",
   "preview": "https://phira.5wyxi.com/files/b0b9cb60-71e4-49bb-9a40-509672bd6956",
   "ranked": false,
-  "rating": 0.90490085,
-  "ratingCount": 266,
+  "rating": 0.90484715,
+  "ratingCount": 272,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:07Z",
-    "lastChanged": "2026-09-21T02:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-15T08:58:54.733707Z",
   "charter": "我命由我不由天",
@@ -14,6 +14,7 @@
   "description": "谱师为本人\n谱面预览：BV1PaPHeKEBP",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/6895c90d-16cf-49f0-98b0-9a163863687f",
+  "hidden": false,
   "id": 35253,
   "illustration": "https://phira.5wyxi.com/files/357d13d0-a087-42b7-9d99-488c2a92fd9e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "就是哪吒",
   "preview": "https://phira.5wyxi.com/files/e0dcf42a-eb2f-48b0-bf2a-ea11b4c23ce9",
   "ranked": false,
-  "rating": 0.92675054,
-  "ratingCount": 2149,
+  "rating": 0.92731065,
+  "ratingCount": 2269,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

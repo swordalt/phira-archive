@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:18Z",
-    "lastChanged": "2026-09-21T02:06:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-23T08:22:35.294667Z",
   "charter": "HINATAMIX6",
@@ -14,6 +14,7 @@
   "description": "谱面由谱师（日向666）本人上传！！！（上一版有note重叠，所以重传）",
   "difficulty": 29.0,
   "file": "https://phira.5wyxi.com/files/b9a982ae-58bf-48ef-beb8-a7b5ba85f20e",
+  "hidden": false,
   "id": 40143,
   "illustration": "https://phira.5wyxi.com/files/9961c72a-f660-4c0b-9e22-da05fa1e6278",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MEGAMIX2",
   "preview": "https://phira.5wyxi.com/files/04c2223b-92dd-4f1a-b6cd-24ac4f2d5402",
   "ranked": false,
-  "rating": 0.9197503,
-  "ratingCount": 99,
+  "rating": 0.92360824,
+  "ratingCount": 108,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

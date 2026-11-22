@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:29Z",
-    "lastChanged": "2026-09-21T02:03:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-15T10:02:57.652710Z",
   "charter": "HighBRidge",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 14.2,
   "file": "https://phira.5wyxi.com/files/6829196d-16fc-410b-8d25-82aacb3e5bf8",
+  "hidden": false,
   "id": 41751,
   "illustration": "https://phira.5wyxi.com/files/974cd5f3-d632-41b8-8aff-6ceca201b83d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "アイデンティティ",
   "preview": "https://phira.5wyxi.com/files/0e68bd70-0a2b-4f15-b10a-02a8c38db9f2",
   "ranked": false,
-  "rating": 0.83524126,
-  "ratingCount": 156,
+  "rating": 0.8370048,
+  "ratingCount": 160,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

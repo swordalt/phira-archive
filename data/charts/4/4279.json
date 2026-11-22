@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:17Z",
-    "lastChanged": "2026-09-21T02:01:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-29T12:30:47.219082Z",
   "charter": "Chatterbox",
@@ -14,6 +14,7 @@
   "description": "以多次的正倒打转换来体现“旋转木马”",
   "difficulty": 15.377777,
   "file": "https://phira.5wyxi.com/files/7f3ea8a7-950a-433d-a812-4e6e073df828",
+  "hidden": false,
   "id": 4279,
   "illustration": "https://phira.5wyxi.com/files/78de64c4-17ab-4eb5-a528-8e0181e5dac5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Goodbye Merry-Go-Round",
   "preview": "https://phira.5wyxi.com/files/be23d0b6-1bfe-4732-ac1d-d705c8ec00d1",
   "ranked": false,
-  "rating": 0.87208873,
-  "ratingCount": 4380,
+  "rating": 0.8721623,
+  "ratingCount": 4388,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

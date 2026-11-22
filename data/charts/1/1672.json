@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:09Z",
-    "lastChanged": "2026-09-21T02:01:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-11T17:06:40.706383Z",
   "charter": "InterJoke",
@@ -14,6 +14,7 @@
   "description": "2023微调版。BV1MY411P7oq",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/1a878e3e-350c-47ae-b163-2db49fd3f839",
+  "hidden": false,
   "id": 1672,
   "illustration": "https://phira.5wyxi.com/files/a14b6df3-a959-42e5-9d6d-4dce499a28e2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "PhonDrome!",
   "preview": "https://phira.5wyxi.com/files/b95b1ad0-ae7c-498a-ac58-cb4e92f604e2",
   "ranked": true,
-  "rating": 0.91608864,
-  "ratingCount": 1015,
+  "rating": 0.91617703,
+  "ratingCount": 1020,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

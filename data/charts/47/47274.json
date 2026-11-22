@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:53Z",
-    "lastChanged": "2026-09-21T02:03:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-27T08:42:03.407843Z",
   "charter": "88900a/Ashlyn",
@@ -14,6 +14,7 @@
   "description": "有延迟调90ms 谱面更新",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/8f4ef335-84f1-4ab8-bf8d-171bff90247b",
+  "hidden": false,
   "id": 47274,
   "illustration": "https://phira.5wyxi.com/files/63843d57-c3b5-44f8-b482-ae24b2e9557d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "crystallized",
   "preview": "https://phira.5wyxi.com/files/4518129c-1dbc-484f-8b5f-8f592a81fe20",
   "ranked": false,
-  "rating": 0.88793033,
-  "ratingCount": 125,
+  "rating": 0.8871148,
+  "ratingCount": 128,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

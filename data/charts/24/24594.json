@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:56Z",
-    "lastChanged": "2026-09-21T02:05:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-28T14:19:16.843680Z",
   "charter": "GT_Sakuya咲夜",
@@ -14,6 +14,7 @@
   "description": "新人第二张谱",
   "difficulty": 23.0,
   "file": "https://phira.5wyxi.com/files/bcddb62a-0ada-4469-a71c-c228f2fd1b89",
+  "hidden": false,
   "id": 24594,
   "illustration": "https://phira.5wyxi.com/files/cf026698-2791-4db9-bdf3-063a978417f9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "sonic blaster",
   "preview": "https://phira.5wyxi.com/files/65fd3db6-c592-4598-9fec-f4b4fbc7d37b",
   "ranked": false,
-  "rating": 0.8867665,
-  "ratingCount": 113,
+  "rating": 0.8877409,
+  "ratingCount": 114,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:01Z",
-    "lastChanged": "2026-09-21T02:03:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-02T11:49:39.375504Z",
   "charter": "kbcrt",
@@ -14,6 +14,7 @@
   "description": "kbcrt本人上传",
   "difficulty": 13.5,
   "file": "https://phira.5wyxi.com/files/c7333d9e-55cc-49e4-bd05-96ea4c2a379c",
+  "hidden": false,
   "id": 33121,
   "illustration": "https://phira.5wyxi.com/files/b2d0f4dc-f27e-4dcf-b7b0-c8fe61fe08c8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "China-Rain",
   "preview": "https://phira.5wyxi.com/files/99cf17e8-6b1b-445f-b85f-818aba81ef12",
   "ranked": false,
-  "rating": 0.93686265,
-  "ratingCount": 1627,
+  "rating": 0.93791646,
+  "ratingCount": 1727,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

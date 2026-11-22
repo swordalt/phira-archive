@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:15Z",
-    "lastChanged": "2026-09-21T02:05:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-06T15:05:49.120982Z",
   "charter": "ChartGPT",
@@ -14,6 +14,7 @@
   "description": "@FZSO5071#2605870\n[6thWJC]W2 No.4",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/747a0d8d-6978-4db9-8d9a-8c64da9e3c57",
+  "hidden": false,
   "id": 77405,
   "illustration": "https://phira.5wyxi.com/files/e3bbe0c8-a810-4435-a1f0-25920142f1b7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "SuddeИDeath",
   "preview": "https://phira.5wyxi.com/files/9c60d945-47fb-4d80-9233-4c64b9fa7ace",
   "ranked": false,
-  "rating": 0.89253926,
-  "ratingCount": 222,
+  "rating": 0.9006094,
+  "ratingCount": 352,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

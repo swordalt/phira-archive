@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:43Z",
-    "lastChanged": "2026-09-21T02:05:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-17T06:30:54.159425Z",
   "charter": "syaro_",
@@ -14,6 +14,7 @@
   "description": "210耐力hs 长锚预订 本人上传 B站@ReimiliaScarlet 感谢幸运星帮忙转谱",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/1f5c28b1-7ef8-4036-b99b-4da3eefa33d4",
+  "hidden": false,
   "id": 15929,
   "illustration": "https://phira.5wyxi.com/files/387d04d4-ca8f-48b8-9cbf-4d96aac14111",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Friendly Gigant Fire",
   "preview": "https://phira.5wyxi.com/files/2f963584-1866-4a81-9d0c-9154be66efbd",
   "ranked": false,
-  "rating": 0.9257329,
-  "ratingCount": 83,
+  "rating": 0.92742336,
+  "ratingCount": 84,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

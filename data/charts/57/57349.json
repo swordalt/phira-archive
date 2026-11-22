@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:50Z",
-    "lastChanged": "2026-09-21T02:06:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-30T05:19:23.097356Z",
   "charter": "YMEA",
@@ -14,6 +14,7 @@
   "description": "慢写（全花在排键上了）\n用时6h+\nKs & dy 洋漫YMEA",
   "difficulty": 23.0,
   "file": "https://phira.5wyxi.com/files/29b3e3f4-1fe3-4aa6-b6a7-d6c2cc5ed62f",
+  "hidden": false,
   "id": 57349,
   "illustration": "https://phira.5wyxi.com/files/1e967b36-8ec5-488a-a238-730979f9a152",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MOTTAI",
   "preview": "https://phira.5wyxi.com/files/64b9d801-38e2-4624-b8c2-60a4f7b21579",
   "ranked": false,
-  "rating": 0.9535094,
-  "ratingCount": 621,
+  "rating": 0.9531673,
+  "ratingCount": 668,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:37Z",
-    "lastChanged": "2026-09-21T02:02:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-28T11:48:06.576331Z",
   "charter": "CRISIS[R800]",
@@ -14,6 +14,7 @@
   "description": "b站关注@R800_ 谢谢喵 这个谱子是我本人正经做的第一个自制谱，主要以弱多指配置为主，写了差不多一周，希望大家喜欢ava",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/d1436b34-1025-4f44-adad-db4ab7b57a12",
+  "hidden": false,
   "id": 27029,
   "illustration": "https://phira.5wyxi.com/files/4393d8d3-b26e-4751-96f2-788879ab20fc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Gravisphere Crisis",
   "preview": "https://phira.5wyxi.com/files/b6b4637f-9bd0-420d-8199-c38e27e6a5c5",
   "ranked": false,
-  "rating": 0.94508445,
-  "ratingCount": 513,
+  "rating": 0.9460534,
+  "ratingCount": 531,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

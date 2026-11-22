@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:41Z",
-    "lastChanged": "2026-09-21T02:02:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-21T03:46:03.054251Z",
   "charter": "the Time Traveller",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.400001,
   "file": "https://phira.5wyxi.com/files/16267f2e-ba9a-4226-9efa-e7345d371b07",
+  "hidden": false,
   "id": 27905,
   "illustration": "https://phira.5wyxi.com/files/6c658ce3-4894-4f84-93ee-0ec406558941",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Beyond The Timeline",
   "preview": "https://phira.5wyxi.com/files/5bee8226-c79e-4d63-be9d-745d2dbbec40",
   "ranked": false,
-  "rating": 0.93449295,
-  "ratingCount": 550,
+  "rating": 0.93501765,
+  "ratingCount": 566,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

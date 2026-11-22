@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:09Z",
-    "lastChanged": "2026-09-21T02:01:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-11T07:35:53.915058Z",
   "charter": "InterJoke From Sewer",
@@ -14,6 +14,7 @@
   "description": "2023改谱。BV1vf4y1w7ia",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/301f294c-384f-439b-be8c-c7db6eb85cdf",
+  "hidden": false,
   "id": 1638,
   "illustration": "https://phira.5wyxi.com/files/66c1ca5c-0c66-4ab3-af4d-aa660673b745",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "下水鳴動して鼠一匹",
   "preview": "https://phira.5wyxi.com/files/040bff95-263b-47dc-a7ab-004eb14d1a23",
   "ranked": true,
-  "rating": 0.90297294,
-  "ratingCount": 589,
+  "rating": 0.9031614,
+  "ratingCount": 598,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

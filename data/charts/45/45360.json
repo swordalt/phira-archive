@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:44Z",
-    "lastChanged": "2026-09-21T02:03:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-21T15:38:32.465856Z",
   "charter": "Febriz",
@@ -14,6 +14,7 @@
   "description": "blibili：BV1L9YmztEJi",
   "difficulty": 17.300001,
   "file": "https://phira.5wyxi.com/files/2138c27b-f127-452c-966a-e59f4e72aa35",
+  "hidden": false,
   "id": 45360,
   "illustration": "https://phira.5wyxi.com/files/92e70613-7c16-47be-8056-c789305f457c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "雨露霜雪",
   "preview": "https://phira.5wyxi.com/files/0dbec941-15a5-40ac-9aa4-a595f02933a1",
   "ranked": false,
-  "rating": 0.9471373,
-  "ratingCount": 628,
+  "rating": 0.9464012,
+  "ratingCount": 653,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

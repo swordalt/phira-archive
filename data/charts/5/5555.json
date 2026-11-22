@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:19Z",
-    "lastChanged": "2026-09-21T02:05:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-18T11:01:33.286586Z",
   "charter": "1676",
@@ -14,6 +14,7 @@
   "description": "以九二狙击为灵感的Speical类型谱面（发布平台：抖音）",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/bfe2a957-b099-42ac-8dbb-2df8823dd5a6",
+  "hidden": false,
   "id": 5555,
   "illustration": "https://phira.5wyxi.com/files/6dd7c886-9cb7-4c33-9a37-ab4f45bef097",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "九儿狙击怕过谁",
   "preview": "https://phira.5wyxi.com/files/21049496-d3f8-4b13-bda7-d22a3582f2fd",
   "ranked": false,
-  "rating": 0.9019645,
-  "ratingCount": 10254,
+  "rating": 0.9011279,
+  "ratingCount": 10487,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

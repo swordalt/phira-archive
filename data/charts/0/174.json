@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:04Z",
-    "lastChanged": "2026-09-21T02:01:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "H1-DropOutttttt",
@@ -14,6 +14,7 @@
   "description": "试着写写低难度的谱子\n但是好像写烂力...\n开摆(\nb站账号同名 H1-u8617",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/d9d4744c-53cc-479d-aea5-06e0892e70fe",
+  "hidden": false,
   "id": 174,
   "illustration": "https://phira.5wyxi.com/files/96be5645-350c-4d4a-9b06-c72e55d4bb10",
   "illustrator": "ガヴリールドロップアウト製作委員会",
@@ -21,8 +22,8 @@
   "name": "ガヴリールドロップキック",
   "preview": "https://phira.5wyxi.com/files/7fd50591-6f04-4cd7-a4bb-93d1df3716c7",
   "ranked": false,
-  "rating": 0.9302045,
-  "ratingCount": 1169,
+  "rating": 0.9299967,
+  "ratingCount": 1183,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

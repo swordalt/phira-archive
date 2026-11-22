@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:23Z",
-    "lastChanged": "2026-09-21T02:03:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-14T02:48:06.779654Z",
   "charter": "Jk.blue",
@@ -14,6 +14,7 @@
   "description": "泰拉瑞亚灾厄的Boss Rush第一阶段，Boss Rush 是一个使用终末石触发的特别事件。在事件期间，原版和灾厄的Boss（始源妖龙除外）会按照一个提前决定好的顺序出现，生成Boss的数值会比它们原先的战斗时强大许多并使用修改过的ai。Boss Rush可以随时通过再次使用终末石取消。\n曲绘修改自游戏内\nB站已上传BV1MoMCzkEfR",
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/45d5011e-42d4-413c-a237-7840fb3fa8eb",
+  "hidden": false,
   "id": 39592,
   "illustration": "https://phira.5wyxi.com/files/1f41be03-805d-4b80-8305-ec4b5b512f1b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "BossRushTier1",
   "preview": "https://phira.5wyxi.com/files/d63dce53-a80e-4724-ac37-2f3e8259986d",
   "ranked": false,
-  "rating": 0.9075111,
-  "ratingCount": 173,
+  "rating": 0.9043126,
+  "ratingCount": 193,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:51Z",
-    "lastChanged": "2026-09-21T02:02:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-15T03:49:15.265458Z",
   "charter": "R‖Я",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/3d99f5fe-ae7d-4ad4-8499-6f401e0f21fc",
+  "hidden": false,
   "id": 30769,
   "illustration": "https://phira.5wyxi.com/files/947e8c35-73a6-47c0-a789-e9e37a7647b3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "VorpΛlize",
   "preview": "https://phira.5wyxi.com/files/03384bc0-99e0-4e94-8338-6b8fc7c6484a",
   "ranked": false,
-  "rating": 0.8822332,
-  "ratingCount": 111,
+  "rating": 0.8808071,
+  "ratingCount": 112,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

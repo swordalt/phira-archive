@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:24Z",
-    "lastChanged": "2026-09-21T02:04:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-24T09:32:35.988035Z",
   "charter": "Νεροσιρπακ (fixed by EnderBone)",
@@ -14,6 +14,7 @@
   "description": "CityTravel2026W比赛供谱\n新人初谱多多包涵（欧师b站BlackDiamond091）",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/fbe5e57c-a29d-45f4-96a2-2ded7d6a9710",
+  "hidden": false,
   "id": 53316,
   "illustration": "https://phira.5wyxi.com/files/eac57952-db7e-449a-9fab-a424d11094b9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "伊天珀凌",
   "preview": "https://phira.5wyxi.com/files/d62a65c5-0d2a-4c5e-a1a3-b63efd5240c9",
   "ranked": false,
-  "rating": 0.89522403,
-  "ratingCount": 87,
+  "rating": 0.8997042,
+  "ratingCount": 91,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

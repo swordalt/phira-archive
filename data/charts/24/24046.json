@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:25Z",
-    "lastChanged": "2026-09-21T02:02:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-22T07:19:28.183043Z",
   "charter": "DS",
@@ -14,6 +14,7 @@
   "description": "来力qwq！",
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/c334bcc7-c21d-44ae-94ae-cf9d1119b406",
+  "hidden": false,
   "id": 24046,
   "illustration": "https://phira.5wyxi.com/files/d2670649-b4fb-428a-a179-95cfe5b7bd9f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "You're Mine",
   "preview": "https://phira.5wyxi.com/files/fdb4a954-ec7d-46f4-8230-8f0f8a001159",
   "ranked": false,
-  "rating": 0.9514392,
-  "ratingCount": 4241,
+  "rating": 0.95164245,
+  "ratingCount": 4363,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

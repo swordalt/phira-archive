@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:11Z",
-    "lastChanged": "2026-09-21T02:01:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-13T14:02:32.369837Z",
   "charter": "balabaj",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/821d598c-0da9-4d73-b6fb-ea8883ab106d",
+  "hidden": false,
   "id": 1887,
   "illustration": "https://phira.5wyxi.com/files/54676e7b-a2e7-467e-b6db-3d727a4ed731",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Southern Cross",
   "preview": "https://phira.5wyxi.com/files/a9230027-4385-43eb-b4ad-0e802b905c34",
   "ranked": false,
-  "rating": 0.8772556,
-  "ratingCount": 928,
+  "rating": 0.87699926,
+  "ratingCount": 933,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

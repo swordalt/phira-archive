@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-27T08:02:17Z",
-    "lastChanged": "2026-09-27T08:02:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-26T08:16:12.327993Z",
   "charter": "X-Cross fixed by 清醒梦魇",
@@ -14,6 +14,7 @@
   "description": "最初发布于24年1月\n原谱师@X-Cross已于24年末删除该谱面，由我微调并补档。\n所有谱师已同意上传",
   "difficulty": 19.5,
   "file": "https://phira.5wyxi.com/files/9bfc2bfb-88ce-43a0-8225-2a39c0ef8815",
+  "hidden": false,
   "id": 69291,
   "illustration": "https://phira.5wyxi.com/files/854107c7-0b3e-4dd9-a859-5c83c28af5aa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Retaliation",
   "preview": "https://phira.5wyxi.com/files/b93b9dab-bf88-4203-bb57-5b348706cd57",
   "ranked": false,
-  "rating": null,
-  "ratingCount": 0,
+  "rating": 0.9003874,
+  "ratingCount": 77,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

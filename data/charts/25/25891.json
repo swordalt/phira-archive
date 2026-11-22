@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:32Z",
-    "lastChanged": "2026-09-21T02:02:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-10T13:32:12.385256Z",
   "charter": "大鸽子咕咕咕",
@@ -14,6 +14,7 @@
   "description": "拖了好久的谱面，现在终于写完啦啊哈哈哈！",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/e4f0ae95-8595-4f04-a253-9d138dc7ee8e",
+  "hidden": false,
   "id": 25891,
   "illustration": "https://phira.5wyxi.com/files/87e24222-b84b-453f-a795-69978c48abec",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ロキ",
   "preview": "https://phira.5wyxi.com/files/e9d08390-eab4-425c-aa07-f0207a744a88",
   "ranked": false,
-  "rating": 0.5186614,
-  "ratingCount": 247,
+  "rating": 0.5710331,
+  "ratingCount": 250,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

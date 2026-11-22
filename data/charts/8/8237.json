@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:28Z",
-    "lastChanged": "2026-09-21T02:01:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-23T05:55:39.094880Z",
   "charter": "启迪鸭",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 11.0,
   "file": "https://phira.5wyxi.com/files/75e0356a-0365-4b80-9ed1-e3b22fe3fee1",
+  "hidden": false,
   "id": 8237,
   "illustration": "https://phira.5wyxi.com/files/b7da8451-ef8b-45b2-8a9a-3019236f945f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "すずめ",
   "preview": "https://phira.5wyxi.com/files/10106622-0fe8-4e05-9a84-da16b9568ecf",
   "ranked": false,
-  "rating": 0.93110293,
-  "ratingCount": 6773,
+  "rating": 0.9310827,
+  "ratingCount": 6838,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

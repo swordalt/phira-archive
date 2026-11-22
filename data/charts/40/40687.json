@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:20Z",
-    "lastChanged": "2026-09-21T02:06:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-01T15:35:18.685407Z",
   "charter": "miantiao",
@@ -14,6 +14,7 @@
   "description": "本人上传\r非常非常难！",
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/ede0cf28-e662-4098-b139-b7486cb67386",
+  "hidden": false,
   "id": 40687,
   "illustration": "https://phira.5wyxi.com/files/a3870af3-3bfa-4bf1-8e90-2d3bbb4212e6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Rose Quartz",
   "preview": "https://phira.5wyxi.com/files/c8d950c2-d6e2-49e2-9b54-243bbd3530fd",
   "ranked": false,
-  "rating": 0.92644286,
-  "ratingCount": 27,
+  "rating": 0.930155,
+  "ratingCount": 30,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

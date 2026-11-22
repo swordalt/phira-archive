@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:36Z",
-    "lastChanged": "2026-09-21T02:02:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-21T01:53:00.764719Z",
   "charter": "非常de不辍",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/12fe2e8e-8d62-4ffd-b383-aeb23ce4f78b",
+  "hidden": false,
   "id": 26649,
   "illustration": "https://phira.5wyxi.com/files/e0f62e71-9042-448c-a45d-c5e64f4ae8cc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Kumo No Kireme",
   "preview": "https://phira.5wyxi.com/files/cba71c2b-7bcb-4904-b844-98811b8bb718",
   "ranked": false,
-  "rating": 0.9058582,
-  "ratingCount": 94,
+  "rating": 0.90486884,
+  "ratingCount": 95,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

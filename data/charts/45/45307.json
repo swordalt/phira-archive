@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:43Z",
-    "lastChanged": "2026-09-21T02:03:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-21T06:07:53.701006Z",
   "charter": "彩猫yc",
@@ -14,6 +14,7 @@
   "description": "速写一下午，蜡石时间3小时。以及，请支持罗小黑战绩二！",
   "difficulty": 13.5,
   "file": "https://phira.5wyxi.com/files/3fc1757b-b2ec-4a33-a2d5-f8a38d83408e",
+  "hidden": false,
   "id": 45307,
   "illustration": "https://phira.5wyxi.com/files/22824681-149b-49a0-99d1-9d5dab8435b7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "罗小黑战记ED",
   "preview": "https://phira.5wyxi.com/files/6b17e159-30c9-4291-9260-132766c6e60e",
   "ranked": false,
-  "rating": 0.8990423,
-  "ratingCount": 1192,
+  "rating": 0.8995131,
+  "ratingCount": 1296,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

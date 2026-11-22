@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:06Z",
-    "lastChanged": "2026-09-21T02:06:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-28T06:48:30.218872Z",
   "charter": "1333468417",
@@ -14,6 +14,7 @@
   "description": "作者名字是b站uid号,，本人制作，第1张常规简谱，密度等级11，体感15左右，1dan-左右的谱。",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/972cbae9-63e6-44a9-a302-f3fa51377cf9",
+  "hidden": false,
   "id": 31123,
   "illustration": "https://phira.5wyxi.com/files/0c394e4a-1481-4aa0-89c1-a2358d37b3c3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mystic Light Quest",
   "preview": "https://phira.5wyxi.com/files/e870f3bc-c12e-4226-9194-66cc35f8f82b",
   "ranked": false,
-  "rating": 0.9572873,
-  "ratingCount": 805,
+  "rating": 0.9584092,
+  "ratingCount": 828,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-07T06:56:17.334341Z",
   "charter": "Cometarca",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 51522.0,
   "file": "https://phira.5wyxi.com/files/4ba6e32e-a1d2-47c8-a54b-ac2173f5ec41",
+  "hidden": false,
   "id": 33486,
   "illustration": "https://phira.5wyxi.com/files/74c220cc-6e14-4cff-85e5-0167e93c534c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Universal Collapse",
   "preview": "https://phira.5wyxi.com/files/4f1f17e3-0e48-445c-9479-d8b525f75a14",
   "ranked": false,
-  "rating": 0.8801474,
-  "ratingCount": 33,
+  "rating": 0.8678356,
+  "ratingCount": 44,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

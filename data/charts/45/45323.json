@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:44Z",
-    "lastChanged": "2026-09-21T02:03:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-21T09:21:31.435985Z",
   "charter": "brh",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/79b30fa2-7e96-4c17-9ae9-a2f967aee4a4",
+  "hidden": false,
   "id": 45323,
   "illustration": "https://phira.5wyxi.com/files/70547dd3-e3c8-45cb-9d51-e73bb83bcfdd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Devotion",
   "preview": "https://phira.5wyxi.com/files/cee50009-92b8-47df-8d66-9fc17b39fbdc",
   "ranked": false,
-  "rating": 0.9093609,
-  "ratingCount": 258,
+  "rating": 0.91102993,
+  "ratingCount": 265,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

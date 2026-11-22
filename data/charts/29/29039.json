@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:44Z",
-    "lastChanged": "2026-09-21T02:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-25T08:26:50.114468Z",
   "charter": "Atscamy_",
@@ -14,6 +14,7 @@
   "description": "本人上传，纯配置谱，新手初纯配置无轨谱，欢迎大家来玩（",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/a7b068bf-f6b5-4c47-be6f-ef5c0cc492a2",
+  "hidden": false,
   "id": 29039,
   "illustration": "https://phira.5wyxi.com/files/543f1114-d122-4504-ab27-448cb85ba73e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Cryptarithm",
   "preview": "https://phira.5wyxi.com/files/30b12b88-fcb3-4966-9518-8a73b717e83c",
   "ranked": false,
-  "rating": 0.904895,
-  "ratingCount": 165,
+  "rating": 0.90658295,
+  "ratingCount": 168,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

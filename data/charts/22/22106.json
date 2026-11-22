@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:51Z",
-    "lastChanged": "2026-09-21T02:05:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-28T17:04:01.098976Z",
   "charter": "Ghrany",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n草先生的歌中最喜欢的一首，心血来潮写了一下（）",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/9a008551-6b8e-4838-b9a3-df8dc10f7c01",
+  "hidden": false,
   "id": 22106,
   "illustration": "https://phira.5wyxi.com/files/549e34ea-fe84-44db-990d-8dbdd1dd6008",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Chronostasis",
   "preview": "https://phira.5wyxi.com/files/ece1ba82-2d8a-4f9f-8468-a37137d2954d",
   "ranked": false,
-  "rating": 0.85447514,
-  "ratingCount": 87,
+  "rating": 0.8470032,
+  "ratingCount": 91,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

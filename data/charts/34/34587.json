@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:06Z",
-    "lastChanged": "2026-09-21T02:03:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-28T16:35:52.535183Z",
   "charter": "FYe",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 15.5,
   "file": "https://phira.5wyxi.com/files/66ac6367-e1ee-4b9e-886a-ca4632093389",
+  "hidden": false,
   "id": 34587,
   "illustration": "https://phira.5wyxi.com/files/f67c83d2-8ddb-411a-834e-52596d21fc3c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "KiLLKiSS(TV Size)",
   "preview": "https://phira.5wyxi.com/files/1e754ed9-63f5-489b-ae20-496fef9748f9",
   "ranked": false,
-  "rating": 0.83817273,
-  "ratingCount": 432,
+  "rating": 0.8367229,
+  "ratingCount": 440,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

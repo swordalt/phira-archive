@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:18Z",
-    "lastChanged": "2026-09-21T02:05:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-01T03:32:38.057741Z",
   "charter": "2024040426",
@@ -14,6 +14,7 @@
   "description": "突然发现没事整点活还是挺有趣的，不乱整就行",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/832eece3-86f8-45ab-b2d7-b1086e580d29",
+  "hidden": false,
   "id": 2789,
   "illustration": "https://phira.5wyxi.com/files/fe33ee2a-7c06-458f-a5fb-31a8964d16a2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "耳光侠",
   "preview": "https://phira.5wyxi.com/files/aa17fb9c-1720-44ff-8a4a-504f66c3779c",
   "ranked": false,
-  "rating": 0.9670136,
-  "ratingCount": 18344,
+  "rating": 0.96681666,
+  "ratingCount": 18484,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:55Z",
-    "lastChanged": "2026-09-21T02:05:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-23T14:04:57.823583Z",
   "charter": "Iblcya as traveler",
@@ -14,6 +14,7 @@
   "description": "LC2024#2 GF RC2",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/12f25eaf-6ac3-4e49-962d-25807c8b1931",
+  "hidden": false,
   "id": 24178,
   "illustration": "https://phira.5wyxi.com/files/7d796026-2d91-46ef-99a3-9dc050ac259f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Speedcore Sonata",
   "preview": "https://phira.5wyxi.com/files/e90796d3-87a8-4cbc-9652-30ab6b5bb6d4",
   "ranked": false,
-  "rating": 0.90615916,
-  "ratingCount": 60,
+  "rating": 0.9090243,
+  "ratingCount": 62,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

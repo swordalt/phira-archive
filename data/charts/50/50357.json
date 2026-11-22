@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:07Z",
-    "lastChanged": "2026-09-21T02:04:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-20T04:07:16.289490Z",
   "charter": "DIMAXV",
@@ -14,6 +14,7 @@
   "description": "已更新。",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/e0ee3b17-b772-41b4-9da2-2ebfac2645c6",
+  "hidden": false,
   "id": 50357,
   "illustration": "https://phira.5wyxi.com/files/047faf5d-4156-4b1e-9a34-fb665a2a34f4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Green World",
   "preview": "https://phira.5wyxi.com/files/9237e84d-d67f-4cc7-88ff-9e4766d4e939",
   "ranked": false,
-  "rating": 0.9244634,
-  "ratingCount": 68,
+  "rating": 0.9265199,
+  "ratingCount": 70,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-06T17:08:47Z",
-    "lastChanged": "2026-10-07T17:46:22Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:25Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-06T13:08:44.052850Z",
   "charter": "叁佰伍拾肆",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/2caf3344-f298-496e-8421-ecb31910569a",
+  "hidden": false,
   "id": 80427,
   "illustration": "https://phira.5wyxi.com/files/ed3d0a54-3cbd-44d6-8aa7-849f23167eb4",
   "illustrator": "RSP_污猫",
@@ -21,8 +22,8 @@
   "name": "时 · 忆 (TiMe-mory)",
   "preview": "https://phira.5wyxi.com/files/f2b801cb-8462-4c94-91b8-3ece8e32099f",
   "ranked": false,
-  "rating": 0.8486334,
-  "ratingCount": 24,
+  "rating": 0.8980872,
+  "ratingCount": 84,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

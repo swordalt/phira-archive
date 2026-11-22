@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:29Z",
-    "lastChanged": "2026-09-21T02:03:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-17T12:58:42.196738Z",
   "charter": "LinYve feat.Pashipper's sv",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/ba0cbf3d-327d-404e-b5d7-6c763a5c250a",
+  "hidden": false,
   "id": 41952,
   "illustration": "https://phira.5wyxi.com/files/941f91d0-1d43-4320-a006-ac33af7875f7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "τ(tau)",
   "preview": "https://phira.5wyxi.com/files/22d4490c-a11c-45a4-ad67-c90cf29e5a69",
   "ranked": false,
-  "rating": 0.85942465,
-  "ratingCount": 94,
+  "rating": 0.86088496,
+  "ratingCount": 95,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

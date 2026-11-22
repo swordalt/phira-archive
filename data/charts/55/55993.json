@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:36Z",
-    "lastChanged": "2026-09-21T02:04:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-11T11:12:31.435884Z",
   "charter": "Skaleshadow11",
@@ -14,6 +14,7 @@
   "description": "谱师本人发布\nB站视频:BV1p9a6znEdy（谱面有经过修改）\n出处:Limbus Compay\n5thWJC参赛谱（L4 No.5）重置版\n削弱了一些难度，现在看上去更像一张能玩的谱面了。\n感谢小狐胶bot提供的绝美神秘排版像素曲绘。",
   "difficulty": 14.300001,
   "file": "https://phira.5wyxi.com/files/7b89bfbd-c54b-4cb7-9f7d-dbd2cc18af9f",
+  "hidden": false,
   "id": 55993,
   "illustration": "https://phira.5wyxi.com/files/cb1ba098-a16d-4a20-96c3-dbb355e71336",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Compass",
   "preview": "https://phira.5wyxi.com/files/cc721a12-eca5-4d45-a568-193606e9d87c",
   "ranked": false,
-  "rating": 0.94477016,
-  "ratingCount": 841,
+  "rating": 0.94835645,
+  "ratingCount": 1043,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:47Z",
-    "lastChanged": "2026-09-21T02:04:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-09T09:31:13.635028Z",
   "charter": "Fruit-forest",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/eb435fa6-22c5-4545-ac10-bf4daa0a13fe",
+  "hidden": false,
   "id": 60477,
   "illustration": "https://phira.5wyxi.com/files/7477bb36-1f9e-4c05-8f27-d926ca085707",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "溶けてゆく",
   "preview": "https://phira.5wyxi.com/files/db8a4049-0f30-4622-9dd6-9b72d7adf90d",
   "ranked": false,
-  "rating": 0.9103371,
-  "ratingCount": 353,
+  "rating": 0.91035473,
+  "ratingCount": 366,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

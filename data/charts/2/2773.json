@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-31T11:19:51.764933Z",
   "charter": "Minecraft_wsx",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/f604bbee-e1f8-4cc4-9a71-a7b0411c6f9a",
+  "hidden": false,
   "id": 2773,
   "illustration": "https://phira.5wyxi.com/files/960fe302-6804-405b-86ad-9d7b867a51db",
   "illustrator": "",

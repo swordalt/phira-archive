@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:15Z",
-    "lastChanged": "2026-09-21T02:02:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-01T05:59:52.666153Z",
   "charter": "NightStar",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/5201b578-2ea7-4989-bc4c-a275819b3f63",
+  "hidden": false,
   "id": 20598,
   "illustration": "https://phira.5wyxi.com/files/9e214b1b-26c1-4882-9f84-60a1f8ae2963",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fading Wind",
   "preview": "https://phira.5wyxi.com/files/e2d374dc-d3b3-4bfa-8d5e-bd8e60985703",
   "ranked": false,
-  "rating": 0.6840821,
-  "ratingCount": 488,
+  "rating": 0.6852151,
+  "ratingCount": 491,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

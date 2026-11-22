@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T15:51:50Z",
-    "lastChanged": "2026-10-11T11:05:33Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:21Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-04T13:08:06.821065Z",
   "charter": "WiZerr & BoeRN（feat.Clarity.）",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，谱师均同意上传\n更新了解锁动画及曲绘\n修改了谱面配置和部分表演",
   "difficulty": 15.200005,
   "file": "https://phira.5wyxi.com/files/8d81ea9b-61ff-45d5-8b6b-9602f08dce9c",
+  "hidden": false,
   "id": 78641,
   "illustration": "https://phira.5wyxi.com/files/ac00aeb3-6d29-4b50-8c4d-f91665ac3e76",
   "illustrator": "UK",
@@ -21,8 +22,8 @@
   "name": "Surprising Click",
   "preview": "https://phira.5wyxi.com/files/1e6c94b8-133d-45d6-9efc-4bcae702dcbb",
   "ranked": false,
-  "rating": 0.9294259,
-  "ratingCount": 2377,
+  "rating": 0.9313114,
+  "ratingCount": 3086,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

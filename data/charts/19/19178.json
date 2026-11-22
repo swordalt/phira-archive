@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:11Z",
-    "lastChanged": "2026-09-21T02:02:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-01T13:53:09.753490Z",
   "charter": "qwws",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/6ce1bc83-155e-4b43-b601-ceb9752a9fea",
+  "hidden": false,
   "id": 19178,
   "illustration": "https://phira.5wyxi.com/files/6fb28efe-f4e8-4e05-aeb5-99bacce55960",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "すべてが幻になった後で",
   "preview": "https://phira.5wyxi.com/files/3a43879e-34b4-46c4-8ea3-3fb33b04722c",
   "ranked": false,
-  "rating": 0.82729155,
-  "ratingCount": 68,
+  "rating": 0.8297279,
+  "ratingCount": 69,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:42Z",
-    "lastChanged": "2026-09-21T02:03:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-16T06:58:11.718592Z",
   "charter": "HUIMIAO",
@@ -14,6 +14,7 @@
   "description": "新人第一个谱面，里面有一些比较难的地方。",
   "difficulty": 15.499996,
   "file": "https://phira.5wyxi.com/files/6319b7ba-88fc-421d-8152-dd6e52a15f40",
+  "hidden": false,
   "id": 44844,
   "illustration": "https://phira.5wyxi.com/files/c98c541e-9593-4199-97cb-0bbd5ab6773e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "エイリアンエイリアン",
   "preview": "https://phira.5wyxi.com/files/48f62a31-bae7-4ab8-94e7-dfc8fe5c0de3",
   "ranked": false,
-  "rating": 0.92104286,
-  "ratingCount": 239,
+  "rating": 0.922059,
+  "ratingCount": 247,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:09Z",
-    "lastChanged": "2026-09-21T02:01:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-11T16:41:21.415445Z",
   "charter": "InterJoke in Memories",
@@ -14,6 +14,7 @@
   "description": "2023微调版。BV1qU4y1Q7WX",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/b6227f74-76cd-41db-972a-368cc77d613e",
+  "hidden": false,
   "id": 1669,
   "illustration": "https://phira.5wyxi.com/files/c413ebde-5cf9-4a5d-9b38-d376965cb5cf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dream of Memories",
   "preview": "https://phira.5wyxi.com/files/3f3d3b23-806e-4f7d-9d99-c1693909dc0d",
   "ranked": true,
-  "rating": 0.9028481,
-  "ratingCount": 842,
+  "rating": 0.90334606,
+  "ratingCount": 852,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

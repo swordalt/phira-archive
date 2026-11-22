@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:18Z",
-    "lastChanged": "2026-09-21T02:03:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-19T07:51:54.510307Z",
   "charter": "RsDline",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/dcaf9b76-90ac-4607-8f9e-42ca89a559d6",
+  "hidden": false,
   "id": 38371,
   "illustration": "https://phira.5wyxi.com/files/ce54260b-5f37-4c65-9074-0f81f50f3592",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Cold Air,Warm Heart",
   "preview": "https://phira.5wyxi.com/files/604c46f3-5f51-40f1-a486-f400dd14f38e",
   "ranked": false,
-  "rating": 0.9129227,
-  "ratingCount": 167,
+  "rating": 0.9132973,
+  "ratingCount": 168,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

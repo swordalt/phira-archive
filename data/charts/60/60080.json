@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:53Z",
-    "lastChanged": "2026-09-21T02:06:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-06T06:13:47.318509Z",
   "charter": "BaDu0NwN",
@@ -14,6 +14,7 @@
   "description": "本人上传\n老谱新传",
   "difficulty": 17.300001,
   "file": "https://phira.5wyxi.com/files/98bcd343-8e60-4360-84bc-5a4511eac542",
+  "hidden": false,
   "id": 60080,
   "illustration": "https://phira.5wyxi.com/files/37ea5461-57b5-4890-a3fb-0b856f86881f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Lost Dedicated",
   "preview": "https://phira.5wyxi.com/files/a010a311-74f7-40b1-b987-9dbd1d608cef",
   "ranked": false,
-  "rating": 0.8169546,
-  "ratingCount": 21,
+  "rating": 0.8267297,
+  "ratingCount": 22,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

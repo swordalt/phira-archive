@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-08T07:12:47Z",
-    "lastChanged": "2026-11-08T11:36:11Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:31Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-11-07T05:44:33.943372Z",
   "charter": "黄英似蛭",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/9f34a98d-9fe0-419a-96b9-c84af1e071b4",
+  "hidden": false,
   "id": 83226,
   "illustration": "https://phira.5wyxi.com/files/5ee9afd3-1c07-4aa2-881c-ea0721e1b6b8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ドキドキデート大作戦",
   "preview": "https://phira.5wyxi.com/files/d618ef5d-128a-4212-abc2-a5cec216e6a1",
   "ranked": false,
-  "rating": 0.89345783,
-  "ratingCount": 0,
+  "rating": 0.90625453,
+  "ratingCount": 187,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -31,6 +32,6 @@
     "全力回避フラグちゃん",
     "regular"
   ],
-  "updated": "2026-11-08T03:18:24.924096446Z",
+  "updated": "2026-11-08T03:18:24.924096Z",
   "uploader": 182251
 }

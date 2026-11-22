@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:02Z",
-    "lastChanged": "2026-09-27T10:16:05Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:58:53Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-07-26T14:07:41.187020Z",
   "charter": "wzjcsndm",
@@ -14,6 +14,7 @@
   "description": "谱面由本人亲自制作上传",
   "difficulty": 14.300001,
   "file": "https://phira.5wyxi.com/files/6d4625f7-8d0b-4492-9592-9fa7536cdeec",
+  "hidden": false,
   "id": 69373,
   "illustration": "https://phira.5wyxi.com/files/b7739478-084d-49cd-9ef5-902a8607149b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The King（End）",
   "preview": "https://phira.5wyxi.com/files/265c7312-b756-4f19-a748-69811f22b850",
   "ranked": false,
-  "rating": 0.9050437,
-  "ratingCount": 282,
+  "rating": 0.9084536,
+  "ratingCount": 328,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

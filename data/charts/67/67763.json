@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:00Z",
-    "lastChanged": "2026-09-21T02:05:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-19T13:31:29.683339Z",
   "charter": "L vs. M",
@@ -14,6 +14,7 @@
   "description": "源汐杯供谱\n曲名：I\n曲师：黒魔\n谱师：L vs. M（Lvdou vs. Mcxian）\n物量：1601\n上传已经过其它谱师同意\n@Mcxian#273 (动效)\n-----------------\nMcxian：老妈组合来了",
   "difficulty": 17.600002,
   "file": "https://phira.5wyxi.com/files/1e9251e7-2876-4dd6-af5f-0ee1afdba337",
+  "hidden": false,
   "id": 67763,
   "illustration": "https://phira.5wyxi.com/files/9897514e-56c1-4896-92ff-ed6a3ef7a7ee",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "I",
   "preview": "https://phira.5wyxi.com/files/e68662cb-45ba-47eb-8148-317bd745ba55",
   "ranked": false,
-  "rating": 0.7970089,
-  "ratingCount": 170,
+  "rating": 0.8017944,
+  "ratingCount": 185,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

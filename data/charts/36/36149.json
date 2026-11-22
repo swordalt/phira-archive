@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-09-21T02:06:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-04T14:55:21.892979Z",
   "charter": "parsley",
@@ -14,6 +14,7 @@
   "description": "本人上传，第一次写铺",
   "difficulty": 15.2,
   "file": "https://phira.5wyxi.com/files/ff5dc2f6-9a09-4760-8136-6aff1d01bb04",
+  "hidden": false,
   "id": 36149,
   "illustration": "https://phira.5wyxi.com/files/06f61a7b-e9bc-4e9d-acc7-dc767395181d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "英雄主义",
   "preview": "https://phira.5wyxi.com/files/8ef18c71-2c38-43d3-a450-c0d3d6ac47ab",
   "ranked": false,
-  "rating": 0.9429276,
-  "ratingCount": 813,
+  "rating": 0.94300896,
+  "ratingCount": 838,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

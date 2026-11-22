@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:50Z",
-    "lastChanged": "2026-09-21T02:03:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-07T02:53:27.634656Z",
   "charter": "星弓哥",
@@ -14,6 +14,7 @@
   "description": "5thWJC L1 No.14",
   "difficulty": 16.9,
   "file": "https://phira.5wyxi.com/files/e435862e-f4f6-49b0-a550-46576cd68b9a",
+  "hidden": false,
   "id": 46502,
   "illustration": "https://phira.5wyxi.com/files/e1d0dd1a-6c3f-4aaa-9614-32633a83fd77",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "彁",
   "preview": "https://phira.5wyxi.com/files/9ff1d34d-e9ce-4cf2-ba59-acaf48455cc7",
   "ranked": false,
-  "rating": 0.7810511,
-  "ratingCount": 180,
+  "rating": 0.7800895,
+  "ratingCount": 183,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

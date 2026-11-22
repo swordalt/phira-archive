@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:03Z",
-    "lastChanged": "2026-09-21T02:01:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-31T02:24:42.258439Z",
   "charter": "Axi vs. 我是橙小橘 Fixed by Axi",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/81896111-c52c-48b4-bb53-33145b706c8e",
+  "hidden": false,
   "id": 74,
   "illustration": "https://phira.5wyxi.com/files/b75d60f3-ce7e-42e4-a2a3-0a5bc0dbf44c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Star Fall in Evernight City",
   "preview": "https://phira.5wyxi.com/files/d2aa6b19-fba5-4e12-aa73-a395c794bbfe",
   "ranked": false,
-  "rating": 0.88161284,
-  "ratingCount": 169,
+  "rating": 0.8813398,
+  "ratingCount": 171,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

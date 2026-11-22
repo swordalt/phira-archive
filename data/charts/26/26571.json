@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:35Z",
-    "lastChanged": "2026-09-21T02:02:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-19T15:05:42.576282Z",
   "charter": "CWind with Kaze_si",
@@ -14,6 +14,7 @@
   "description": "这是本人为某音游社团所制作的曲目与谱面，在某次团建中初次展示，\n曲目与谱面质量一般，望各位宽厚以待。\n谱面预览：BV11UegeSEJF",
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/d8ed995b-5b64-4acc-93f2-5dd30dfd0661",
+  "hidden": false,
   "id": 26571,
   "illustration": "https://phira.5wyxi.com/files/c4de537e-f6d4-423b-a70c-e18e8f05ebb2",
   "illustrator": "",

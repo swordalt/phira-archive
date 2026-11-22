@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:59Z",
-    "lastChanged": "2026-09-21T02:02:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-26T19:30:06.669190Z",
   "charter": "ziyang_51571",
@@ -14,6 +14,7 @@
   "description": "本人上传，B站原视频BV1xWfCYpEgH",
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/50ae1f69-efc4-4527-addc-13ad16bfee08",
+  "hidden": false,
   "id": 32553,
   "illustration": "https://phira.5wyxi.com/files/8f58a539-5ae9-4d71-a0c6-af939372e2a8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Pictured as Perfect",
   "preview": "https://phira.5wyxi.com/files/5d136958-febc-4b8c-8590-bdfd6a6925aa",
   "ranked": true,
-  "rating": 0.8574382,
-  "ratingCount": 328,
+  "rating": 0.8585274,
+  "ratingCount": 338,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:00Z",
-    "lastChanged": "2026-09-21T02:07:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-03T03:07:36.277264Z",
   "charter": "十千秋子（哈基秋）",
@@ -14,6 +14,7 @@
   "description": "malody自制转谱，熬了个通宵写完，中间采音不对又重写了一张，这谱可能有小些地方采音还是不准，但无伤大雅，麻烦给个好评ovo\r\n流速：12.5",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/bef3f626-7e60-4c53-a944-81cbe4332f13",
+  "hidden": false,
   "id": 70872,
   "illustration": "https://phira.5wyxi.com/files/17dd9885-a940-4648-841f-5bf9ba4d5f11",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "オセロ (黑白棋)",
   "preview": "https://phira.5wyxi.com/files/a46bcc2c-8689-4ded-bc2f-c3c2250edfa2",
   "ranked": false,
-  "rating": 0.9219281,
-  "ratingCount": 742,
+  "rating": 0.927498,
+  "ratingCount": 812,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

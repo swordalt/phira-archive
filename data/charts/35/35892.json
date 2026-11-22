@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:10Z",
-    "lastChanged": "2026-09-21T02:03:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-29T17:40:18.827340Z",
   "charter": "singlestar",
@@ -14,6 +14,7 @@
   "description": "第一次做谱\n愚人节快乐\n背景图pid:128448041",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/b83f69a2-b051-4bd9-969f-cb933221bba5",
+  "hidden": false,
   "id": 35892,
   "illustration": "https://phira.5wyxi.com/files/e70bcd9d-0972-4998-af93-d558d44e2876",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Omega Rhythm 1.5x",
   "preview": "https://phira.5wyxi.com/files/29cf06f2-96d1-48f9-bc41-bb4d9cb63be5",
   "ranked": false,
-  "rating": 0.8740129,
-  "ratingCount": 40,
+  "rating": 0.8735698,
+  "ratingCount": 42,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

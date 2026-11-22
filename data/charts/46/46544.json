@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:50Z",
-    "lastChanged": "2026-09-21T02:03:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-07T11:13:41.180890Z",
   "charter": "LogicM",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.200001,
   "file": "https://phira.5wyxi.com/files/2c8c9451-93af-4074-8ded-2a310eb92e7b",
+  "hidden": false,
   "id": 46544,
   "illustration": "https://phira.5wyxi.com/files/9f0a6a24-a66c-4142-9b28-dad01eab2efc",
   "illustrator": "",

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-09-21T02:06:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-03T07:52:05.902348Z",
   "charter": "is_RushCat/天崽awa",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 28.0,
   "file": "https://phira.5wyxi.com/files/e395c789-3513-47e7-a6f1-f2918f4720af",
+  "hidden": false,
   "id": 37334,
   "illustration": "https://phira.5wyxi.com/files/d50ca766-527d-4ea0-869c-f9365dc8ecdb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "vs.TREAMEЯ",
   "preview": "https://phira.5wyxi.com/files/7118cd70-2ce4-4aa7-9445-ac44a08ac590",
   "ranked": false,
-  "rating": 0.9586675,
-  "ratingCount": 262,
+  "rating": 0.9572233,
+  "ratingCount": 266,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

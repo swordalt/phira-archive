@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-31T05:26:02Z",
-    "lastChanged": "2026-10-31T12:14:14Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:28Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-29T10:45:04.425960Z",
   "charter": "羽梦明",
@@ -14,6 +14,7 @@
   "description": "2026沃玛音游生贺单品谱面\n谱师本人上传",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/937f4277-161d-4fe0-b66b-cc0ae5d77ea2",
+  "hidden": false,
   "id": 82448,
   "illustration": "https://phira.5wyxi.com/files/54374a40-4cd4-42e3-b8da-6dda0f645efc",
   "illustrator": "Warma",
@@ -21,8 +22,8 @@
   "name": "Sugar Song and Bitter Step",
   "preview": "https://phira.5wyxi.com/files/a38a8c76-ca3b-42ec-9d15-435e35d03d1b",
   "ranked": false,
-  "rating": 0.90557975,
-  "ratingCount": 0,
+  "rating": 0.92023957,
+  "ratingCount": 254,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -31,6 +32,6 @@
     "warma",
     "regular"
   ],
-  "updated": "2026-10-31T01:27:57.092667560Z",
+  "updated": "2026-10-31T01:27:57.092667Z",
   "uploader": 120
 }

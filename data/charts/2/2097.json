@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:11Z",
-    "lastChanged": "2026-09-21T02:01:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-14T16:02:41.491468Z",
   "charter": "Salt",
@@ -14,6 +14,7 @@
   "description": "Thanks for playing my chart.",
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/f8c25193-574e-4168-999f-cb8323478600",
+  "hidden": false,
   "id": 2097,
   "illustration": "https://phira.5wyxi.com/files/25224556-99c7-4db1-8765-ed13f4227958",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mitochondria",
   "preview": "https://phira.5wyxi.com/files/7b8f44e6-c1d5-473e-ba73-2ffa22045ee9",
   "ranked": false,
-  "rating": 0.8587643,
-  "ratingCount": 57,
+  "rating": 0.8599443,
+  "ratingCount": 58,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

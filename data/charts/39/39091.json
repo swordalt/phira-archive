@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:21Z",
-    "lastChanged": "2026-09-21T02:03:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-01T11:55:25.244313Z",
   "charter": "NQCG",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/2ceec5ad-9ae2-424a-a920-b7439d9f605e",
+  "hidden": false,
   "id": 39091,
   "illustration": "https://phira.5wyxi.com/files/60eabda5-fed8-4ae1-be10-cb9c00b9b922",
   "illustrator": "",

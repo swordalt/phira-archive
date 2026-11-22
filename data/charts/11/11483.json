@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:40Z",
-    "lastChanged": "2026-09-21T02:01:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-14T15:20:50.356077Z",
   "charter": "巴啦啦小骨灰 vs ShisaN",
@@ -14,6 +14,7 @@
   "description": "【[Phigros自制/整活向]～小魔仙来到人间～巴啦啦小魔仙 IN Lv.13-哔哩哔哩】 https://b23.tv/BK36TrF   ShisaN本人上传",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/fc3e7cd7-741a-4d47-abfe-4d9fd47b543d",
+  "hidden": false,
   "id": 11483,
   "illustration": "https://phira.5wyxi.com/files/440adc95-9906-4f9a-a77b-ff646a3d5ac7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "巴啦啦小魔仙",
   "preview": "https://phira.5wyxi.com/files/284b78cd-9051-4eb0-8c3c-89cefcfffc08",
   "ranked": false,
-  "rating": 0.92183095,
-  "ratingCount": 11074,
+  "rating": 0.92135715,
+  "ratingCount": 11436,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

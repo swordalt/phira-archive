@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-01T13:03:07Z",
-    "lastChanged": "2026-10-25T09:29:49Z",
-    "revisions": 6
+    "lastChanged": "2026-11-22T12:59:23Z",
+    "revisions": 7
   },
   "chartUpdated": "2026-10-01T08:40:30.732777Z",
   "charter": "アリスが星の海へ、春",
@@ -14,6 +14,7 @@
   "description": "6thWJC 参赛\r\nwith @Haru_12#50884(喵。)\r\nbilibili@有栖日和\r\n\nBV1RBbW6vELY\r\n二次创作请@谱师并注明链接\r\n\r\n建议将宽高比设置为3:2游玩",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/90a98405-b8c1-4f0c-bbeb-c0ad9512d66b",
+  "hidden": false,
   "id": 79619,
   "illustration": "https://phira.5wyxi.com/files/0bb8f432-23cc-4360-8e13-f6848322a3e7",
   "illustrator": "榊原またぎ(Chloe modified)",
@@ -21,8 +22,8 @@
   "name": "星屑物語",
   "preview": "https://phira.5wyxi.com/files/7a750999-ef39-4ec1-ab67-5f3e4792bddf",
   "ranked": false,
-  "rating": 0.91499597,
-  "ratingCount": 298,
+  "rating": 0.914313,
+  "ratingCount": 355,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

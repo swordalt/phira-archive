@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:47Z",
-    "lastChanged": "2026-09-21T02:03:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-28T19:45:58.732918Z",
   "charter": "枳禹时光",
@@ -14,6 +14,7 @@
   "description": "新人初谱",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/54673468-196a-4160-9437-9787286e079d",
+  "hidden": false,
   "id": 45965,
   "illustration": "https://phira.5wyxi.com/files/e398794f-20c7-483c-8454-70102acdb569",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Paradoxes",
   "preview": "https://phira.5wyxi.com/files/7279fdbd-2cee-406d-ba42-986e017ee9db",
   "ranked": false,
-  "rating": 0.91616815,
-  "ratingCount": 120,
+  "rating": 0.9176275,
+  "ratingCount": 130,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

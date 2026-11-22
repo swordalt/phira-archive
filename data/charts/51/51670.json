@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:15Z",
-    "lastChanged": "2026-09-21T02:04:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-22T11:19:56.709690Z",
   "charter": "Decaplex",
@@ -14,6 +14,7 @@
   "description": "Fan-made IN chart.",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/7c71dda3-dd98-439a-be74-545d6371ced9",
+  "hidden": false,
   "id": 51670,
   "illustration": "https://phira.5wyxi.com/files/58cc580f-86a5-4a7a-8332-fd8ba9416f3d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "幻影鬼魅 (PLEASE)",
   "preview": "https://phira.5wyxi.com/files/08121273-d2ea-4218-86b6-3a50e95b5df7",
   "ranked": false,
-  "rating": 0.83104676,
-  "ratingCount": 1089,
+  "rating": 0.8350893,
+  "ratingCount": 1151,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

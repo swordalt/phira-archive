@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:42Z",
-    "lastChanged": "2026-09-21T02:04:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-17T07:14:48.878746Z",
   "charter": "zhudyfox",
@@ -14,6 +14,7 @@
   "description": "神明告诉我要写这张谱",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/7140c96f-5ffc-4c5b-b15e-4fc3bf15d3e6",
+  "hidden": false,
   "id": 58576,
   "illustration": "https://phira.5wyxi.com/files/18ab8d0f-3fcd-445f-a622-9a3f31431b93",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "神鳴",
   "preview": "https://phira.5wyxi.com/files/7ef0ba4f-0eba-4fc7-9f80-ecd8a51286ba",
   "ranked": false,
-  "rating": 0.89082944,
-  "ratingCount": 320,
+  "rating": 0.89227045,
+  "ratingCount": 338,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

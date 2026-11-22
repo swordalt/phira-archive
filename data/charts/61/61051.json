@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:49Z",
-    "lastChanged": "2026-09-21T02:04:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-15T12:24:55.974042Z",
   "charter": "GalwereRedskip",
@@ -14,6 +14,7 @@
   "description": "双指谱，第一次写这种考读谱+协调的谱面，尾杀是要利用垂判打的，灵感来源于dynamix侧的放置滑板，虽然看起来并没有啥联系就是了（",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/a723e620-f3e0-4483-8630-67da803350cb",
+  "hidden": false,
   "id": 61051,
   "illustration": "https://phira.5wyxi.com/files/b3552606-ad86-43e8-b96e-1d8426a27d7d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Marion.net",
   "preview": "https://phira.5wyxi.com/files/917610c2-b470-4ff7-9f38-6cf4af461a23",
   "ranked": false,
-  "rating": 0.8422089,
-  "ratingCount": 67,
+  "rating": 0.8433948,
+  "ratingCount": 69,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

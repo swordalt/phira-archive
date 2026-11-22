@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:57Z",
-    "lastChanged": "2026-09-21T02:05:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-03T02:59:39.693922Z",
   "charter": "我是可爱赤夜",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/4c81af8f-1b7f-4462-9e2a-eb3e186820f9",
+  "hidden": false,
   "id": 25106,
   "illustration": "https://phira.5wyxi.com/files/a503a717-677f-4b86-91eb-07a8bd415361",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Far in the blue sky...",
   "preview": "https://phira.5wyxi.com/files/6e1f5b7f-23ac-4533-abd7-74f126d0adcd",
   "ranked": false,
-  "rating": 0.93836707,
-  "ratingCount": 372,
+  "rating": 0.939891,
+  "ratingCount": 391,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

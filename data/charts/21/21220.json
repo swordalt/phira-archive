@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:16Z",
-    "lastChanged": "2026-09-21T02:02:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-12T14:32:41.426879Z",
   "charter": "PaFFLov THE CHIRALITY",
@@ -14,6 +14,7 @@
   "description": "新人三谱\n简单十四\n玩得开心",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/ace68dc5-598b-4b0e-ad48-3ed137ccfdb3",
+  "hidden": false,
   "id": 21220,
   "illustration": "https://phira.5wyxi.com/files/e5bc57da-0b1d-4242-a523-7646d1436762",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Chirality",
   "preview": "https://phira.5wyxi.com/files/6aa31a40-4a30-4bcd-9fcc-8f7245dcd8cc",
   "ranked": false,
-  "rating": 0.7753606,
-  "ratingCount": 63,
+  "rating": 0.77775264,
+  "ratingCount": 64,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

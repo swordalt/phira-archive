@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:27Z",
-    "lastChanged": "2026-09-21T02:04:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-08T03:24:49.715889Z",
   "charter": "Nanatan",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 1.0,
   "file": "https://phira.5wyxi.com/files/bf7eb15e-3589-40e9-9012-88bad6cf0380",
+  "hidden": false,
   "id": 53958,
   "illustration": "https://phira.5wyxi.com/files/1ca78cb6-4e58-435d-8136-784407dc7b83",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Pastel Lines",
   "preview": "https://phira.5wyxi.com/files/30907605-511b-4d8b-869f-ea4dafdd6940",
   "ranked": false,
-  "rating": 0.9333804,
-  "ratingCount": 771,
+  "rating": 0.9319553,
+  "ratingCount": 892,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

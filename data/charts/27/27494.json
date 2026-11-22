@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:00Z",
-    "lastChanged": "2026-09-21T02:06:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-07T10:24:39.963439Z",
   "charter": "strpuio",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.4,
   "file": "https://phira.5wyxi.com/files/2e341a7f-ca78-4749-aaf8-1d10a84a2bd4",
+  "hidden": false,
   "id": 27494,
   "illustration": "https://phira.5wyxi.com/files/d4c4d1a5-586e-4c84-afca-d9fd20a77eb5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "午前1時39分に死にたい",
   "preview": "https://phira.5wyxi.com/files/dd28c432-c468-4332-ba70-d07777f59496",
   "ranked": false,
-  "rating": 0.93021566,
-  "ratingCount": 45,
+  "rating": 0.9316145,
+  "ratingCount": 46,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

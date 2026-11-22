@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:33Z",
-    "lastChanged": "2026-09-21T02:02:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-13T14:53:21.677656Z",
   "charter": "2^10",
@@ -14,6 +14,7 @@
   "description": "已取得所有譜師同意上傳             譜師：2^10 (645654654654765, TriΔngle379)         製作日期：2024/07/01 ～ 2024/08/13 645654654654765：看到那令人疑惑的尾殺了嗎?好玩! TriΔngle379：前段單指可P（自信",
   "difficulty": 16.600002,
   "file": "https://phira.5wyxi.com/files/9ee7f407-1830-4346-801f-6fc736423577",
+  "hidden": false,
   "id": 26162,
   "illustration": "https://phira.5wyxi.com/files/49260bbc-2772-4967-933e-cd1d2a65bf7e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Distorted People",
   "preview": "https://phira.5wyxi.com/files/a41fc721-41b7-499a-b742-b79fc0ee45e0",
   "ranked": false,
-  "rating": 0.84777963,
-  "ratingCount": 52,
+  "rating": 0.8449619,
+  "ratingCount": 51,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:34Z",
-    "lastChanged": "2026-09-21T02:03:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-31T05:04:49.147146Z",
   "charter": "Hikarin feat.Suikmilk",
@@ -14,6 +14,7 @@
   "description": "本人上传，感谢 @Suikmilk#352146 对全谱配置的大面积调整",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/e012b5ff-3138-429f-9074-4cf9ffed5c89",
+  "hidden": false,
   "id": 43221,
   "illustration": "https://phira.5wyxi.com/files/c58f7736-fee9-4f22-9ecc-7dec657e1d34",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "JUMP! BEAT! PLAY!",
   "preview": "https://phira.5wyxi.com/files/c9f02998-f2b0-4e9a-b7b9-0c5e90ba1afc",
   "ranked": false,
-  "rating": 0.94697005,
-  "ratingCount": 1378,
+  "rating": 0.9464439,
+  "ratingCount": 1429,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

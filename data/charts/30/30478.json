@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:26Z",
-    "lastChanged": "2026-09-21T02:05:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-07T04:58:42.231737Z",
   "charter": "正常的游客",
@@ -14,6 +14,7 @@
   "description": "不会写简介，总之玩的开心！",
   "difficulty": 15.900001,
   "file": "https://phira.5wyxi.com/files/df5eeec4-40ab-42a7-b4e9-661f404f2a7e",
+  "hidden": false,
   "id": 30478,
   "illustration": "https://phira.5wyxi.com/files/a5d87aac-7063-4757-9462-750c24633fa3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "圣诞",
   "preview": "https://phira.5wyxi.com/files/c1e21ad1-8bf7-43e4-8341-83271c0e3db6",
   "ranked": false,
-  "rating": 0.82681346,
-  "ratingCount": 41,
+  "rating": 0.8321289,
+  "ratingCount": 43,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

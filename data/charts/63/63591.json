@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:54Z",
-    "lastChanged": "2026-09-21T02:04:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:32Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-02T07:26:14.082123Z",
   "charter": "芣苢子 feat.fuyi",
@@ -14,6 +14,7 @@
   "description": "新人初谱",
   "difficulty": 12.800003,
   "file": "https://phira.5wyxi.com/files/fd47a8ce-d12e-4792-b30b-449a26701e55",
+  "hidden": false,
   "id": 63591,
   "illustration": "https://phira.5wyxi.com/files/df794dd8-9de3-433c-9000-1e0f5ffcecd1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "人是猫",
   "preview": "https://phira.5wyxi.com/files/18ccb390-9403-4777-9040-eeb1c849f9d7",
   "ranked": false,
-  "rating": 0.9523358,
-  "ratingCount": 12965,
+  "rating": 0.95250875,
+  "ratingCount": 15916,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

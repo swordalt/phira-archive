@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:36Z",
-    "lastChanged": "2026-09-21T02:06:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-20T02:24:11.676838Z",
   "charter": "长安",
@@ -14,6 +14,7 @@
   "description": "无",
   "difficulty": 30.0,
   "file": "https://phira.5wyxi.com/files/cc4d0391-e830-472b-a70b-affa2276346b",
+  "hidden": false,
   "id": 46959,
   "illustration": "https://phira.5wyxi.com/files/53b3a15e-1ff4-42ec-bc5a-5f4fb4ec5410",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "モニタリング (Best Friend Remix)",
   "preview": "https://phira.5wyxi.com/files/187686ab-1ed3-4f1d-87b6-cef1e6ca588f",
   "ranked": false,
-  "rating": 0.9587301,
-  "ratingCount": 1188,
+  "rating": 0.9584794,
+  "ratingCount": 1240,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

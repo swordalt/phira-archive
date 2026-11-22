@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:05Z",
-    "lastChanged": "2026-09-21T02:03:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-23T05:35:04.030494Z",
   "charter": "S & V as \"Hoop Dream\"",
@@ -14,6 +14,7 @@
   "description": "与电玩的合作谱，谱面预览：BV16BAmePE2e",
   "difficulty": 13.500002,
   "file": "https://phira.5wyxi.com/files/74a111a3-9d3d-412a-ad08-492a06cdcf8b",
+  "hidden": false,
   "id": 34384,
   "illustration": "https://phira.5wyxi.com/files/26e61f5b-1d9c-4874-bde1-fddd8969a14c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "梦之队",
   "preview": "https://phira.5wyxi.com/files/8c039e85-7181-4bee-b1ca-9196ff24e7ba",
   "ranked": false,
-  "rating": 0.91679215,
-  "ratingCount": 509,
+  "rating": 0.91776973,
+  "ratingCount": 531,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

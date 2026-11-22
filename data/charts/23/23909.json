@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:54Z",
-    "lastChanged": "2026-09-21T02:05:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-20T13:12:15.366213Z",
   "charter": "XT vs. Q(XTreme vs. Quillius)",
@@ -14,6 +14,7 @@
   "description": "bilibili:@XTreme_exe @Quillius\nBPM:290",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/a9d508c0-5ea0-41ce-ba25-28030a65561e",
+  "hidden": false,
   "id": 23909,
   "illustration": "https://phira.5wyxi.com/files/2ff26161-877e-47c5-92f9-bfa668ceddd3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "G.G.S.B.N.D.S",
   "preview": "https://phira.5wyxi.com/files/6c51f467-ba4a-49d2-b52b-47e17863cb52",
   "ranked": false,
-  "rating": 0.927202,
-  "ratingCount": 75,
+  "rating": 0.9278,
+  "ratingCount": 77,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

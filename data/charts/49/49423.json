@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-27T10:17:58Z",
-    "lastChanged": "2026-09-27T18:17:53Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T13:02:23Z",
+    "revisions": 3
   },
   "chartUpdated": "2025-11-23T01:22:49.772851Z",
   "charter": "张三焱",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.400001,
   "file": "https://phira.5wyxi.com/files/cdd47e1e-dfcc-4286-8157-8d079e6850c2",
+  "hidden": false,
   "id": 49423,
   "illustration": "https://phira.5wyxi.com/files/de85e838-0f86-40eb-b59c-070219ef5936",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "still",
   "preview": "https://phira.5wyxi.com/files/da8c4861-136b-4938-a831-64f7b13a8621",
   "ranked": false,
-  "rating": 0.7334212,
-  "ratingCount": 1,
+  "rating": 0.78735286,
+  "ratingCount": 12,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

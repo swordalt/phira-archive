@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:45Z",
-    "lastChanged": "2026-09-21T02:04:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-02T05:05:00.733668Z",
   "charter": "Sanye Respect For Molong.",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 16.9,
   "file": "https://phira.5wyxi.com/files/29ace9db-1a4c-4124-9333-c740a5d60634",
+  "hidden": false,
   "id": 59762,
   "illustration": "https://phira.5wyxi.com/files/31907dad-02f7-45cc-92c9-9e6ec2ec4030",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "封焔の135秒",
   "preview": "https://phira.5wyxi.com/files/6c93279e-89c1-4a40-a2c4-14e022858bd8",
   "ranked": false,
-  "rating": 0.81719965,
-  "ratingCount": 213,
+  "rating": 0.820772,
+  "ratingCount": 220,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

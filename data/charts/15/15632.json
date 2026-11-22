@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:42Z",
-    "lastChanged": "2026-09-21T02:05:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-14T07:16:44.651954Z",
   "charter": "yuluo and rulai",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/ffe4c586-5311-41c0-8374-f88dabd4a5a7",
+  "hidden": false,
   "id": 15632,
   "illustration": "https://phira.5wyxi.com/files/bb077db1-ec0c-461e-891a-ee7789508ed5",
   "illustrator": "",

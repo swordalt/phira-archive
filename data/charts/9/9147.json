@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:37Z",
-    "lastChanged": "2026-09-21T02:05:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-09T05:25:56.654875Z",
   "charter": "awaiji",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 30.0,
   "file": "https://phira.5wyxi.com/files/4d181cf9-9861-43a3-89c3-ad5d96e221c1",
+  "hidden": false,
   "id": 9147,
   "illustration": "https://phira.5wyxi.com/files/ca609a67-369c-453a-9f54-33febdc44596",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GALACTIC WARZONE",
   "preview": "https://phira.5wyxi.com/files/647cf4b3-5691-4538-99af-23d93afc88c7",
   "ranked": false,
-  "rating": 0.9339575,
-  "ratingCount": 236,
+  "rating": 0.9340973,
+  "ratingCount": 238,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:16Z",
-    "lastChanged": "2026-09-21T02:06:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-28T09:21:41.437125Z",
   "charter": "zenith_18 awa&GT RGHXHX&zenith_s神",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/c9d1d87f-36e0-4c47-a416-277f3ee62a57",
+  "hidden": false,
   "id": 38821,
   "illustration": "https://phira.5wyxi.com/files/c479ae8c-15ba-4823-933e-51e4c68c5f35",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Heavens Fall（1.4x）",
   "preview": "https://phira.5wyxi.com/files/f3e638c3-a98f-447c-8152-3b983283595f",
   "ranked": false,
-  "rating": 0.8134215,
-  "ratingCount": 35,
+  "rating": 0.8362205,
+  "ratingCount": 40,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

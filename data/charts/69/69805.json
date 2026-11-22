@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:59Z",
-    "lastChanged": "2026-09-21T02:06:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-28T23:07:58.787783Z",
   "charter": "一般路过派尔姆猫",
@@ -14,6 +14,7 @@
   "description": "谱师B站:派尔姆猫\n曲绘:使用了了可漏大佬的抠图模板。原作（Chloe modified）\n借鉴了一般路过多指玩家的谱面思路",
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/8c1b8282-764e-4cb6-bd5e-d8e012cdc3c4",
+  "hidden": false,
   "id": 69805,
   "illustration": "https://phira.5wyxi.com/files/c6fcde79-2bb3-4b46-8513-e90e52b0bd08",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "VALKYRIE ASSAULT",
   "preview": "https://phira.5wyxi.com/files/40eda4f1-9995-4bd2-8d7a-054a5d2f7d63",
   "ranked": false,
-  "rating": 0.89863676,
-  "ratingCount": 57,
+  "rating": 0.9024741,
+  "ratingCount": 67,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

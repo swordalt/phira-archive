@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:50Z",
-    "lastChanged": "2026-09-21T02:05:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-22T16:01:01.750468Z",
   "charter": "Zoom001",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.500006,
   "file": "https://phira.5wyxi.com/files/1bb6aeea-0363-4fa0-ad29-667590fea157",
+  "hidden": false,
   "id": 21718,
   "illustration": "https://phira.5wyxi.com/files/c3e11f11-4300-4bb9-96cd-a50f01385977",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Alice in Misanthrope -厭世アリス-",
   "preview": "https://phira.5wyxi.com/files/fddfbea0-86b6-4a9c-b3f2-5cdd48d2b69f",
   "ranked": false,
-  "rating": 0.88903654,
-  "ratingCount": 358,
+  "rating": 0.8894898,
+  "ratingCount": 363,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:01Z",
-    "lastChanged": "2026-09-21T02:04:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-07T20:15:33.863310Z",
   "charter": "许青",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/562589a8-4bfe-4d43-8189-3304982ff8e4",
+  "hidden": false,
   "id": 48831,
   "illustration": "https://phira.5wyxi.com/files/a1cce072-59c8-40e2-9bb3-46a0cedd8426",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "夏夜最后的烟火",
   "preview": "https://phira.5wyxi.com/files/4fcd47c3-8a03-453e-8795-de6aca019234",
   "ranked": false,
-  "rating": 0.94950277,
-  "ratingCount": 10776,
+  "rating": 0.9490225,
+  "ratingCount": 11645,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

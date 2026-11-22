@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:59Z",
-    "lastChanged": "2026-09-21T02:01:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-20T12:18:04.530678Z",
   "charter": "1st银河战舰",
@@ -14,6 +14,7 @@
   "description": "学员杯teamA参赛作品\n@羽梦明#120（作谱协助）",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/451dc4f5-dcbc-4daa-8f80-7969471ef5f3",
+  "hidden": false,
   "id": 16163,
   "illustration": "https://phira.5wyxi.com/files/1f472b72-77ea-4a28-8544-f97a34fae1bb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Late Night Coastline",
   "preview": "https://phira.5wyxi.com/files/51601c64-4692-40e5-be2b-bb141a8d7a8e",
   "ranked": true,
-  "rating": 0.8984653,
-  "ratingCount": 1476,
+  "rating": 0.89734745,
+  "ratingCount": 1532,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

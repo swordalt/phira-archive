@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:27Z",
-    "lastChanged": "2026-09-21T02:01:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-14T12:11:26.001410Z",
   "charter": "L_in",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.2,
   "file": "https://phira.5wyxi.com/files/78515eed-459a-408b-84c7-996d6a79a76c",
+  "hidden": false,
   "id": 7616,
   "illustration": "https://phira.5wyxi.com/files/cbef6229-ca67-436b-a6ed-aa861a09668a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "カサネテク",
   "preview": "https://phira.5wyxi.com/files/edf17493-38cc-4f14-bd4d-c8fe22aa62cd",
   "ranked": false,
-  "rating": 0.89708614,
-  "ratingCount": 545,
+  "rating": 0.89788324,
+  "ratingCount": 553,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

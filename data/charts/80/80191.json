@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-15T04:27:20Z",
-    "lastChanged": "2026-10-18T09:11:44Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:03:09Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-04T21:00:55.014742Z",
   "charter": "E_Rizon",
@@ -14,6 +14,7 @@
   "description": "bpm以240为主\nma侧过段难度约6-7dan，不是很建议推ap\n感谢Adagietta的转谱帮助",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/c1419671-c14b-4508-a621-018cd30bfc12",
+  "hidden": false,
   "id": 80191,
   "illustration": "https://phira.5wyxi.com/files/f8d27412-63f4-4167-b492-a227d1e9ae72",
   "illustrator": "Convert by ΜVP",
@@ -21,8 +22,8 @@
   "name": "Abandoned Planet",
   "preview": "https://phira.5wyxi.com/files/1ea94baf-7b18-4f9a-8eb9-85ff39ead547",
   "ranked": false,
-  "rating": 0.81862795,
-  "ratingCount": 5,
+  "rating": 0.9012302,
+  "ratingCount": 17,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

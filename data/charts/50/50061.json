@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:06Z",
-    "lastChanged": "2026-09-21T02:04:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-10T05:33:37.014840Z",
   "charter": "Stic3r(rewind",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.900008,
   "file": "https://phira.5wyxi.com/files/237b9284-0c2d-4f70-a866-37d5d3600b68",
+  "hidden": false,
   "id": 50061,
   "illustration": "https://phira.5wyxi.com/files/26241bef-6aff-4cd6-8267-959c0ccf3692",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Endless for Traveler",
   "preview": "https://phira.5wyxi.com/files/84b54eec-18dc-4c26-b3fd-73ff88978b28",
   "ranked": false,
-  "rating": 0.83806455,
-  "ratingCount": 81,
+  "rating": 0.83878833,
+  "ratingCount": 82,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

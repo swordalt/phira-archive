@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:10Z",
-    "lastChanged": "2026-09-21T02:03:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-29T15:49:29.120651Z",
   "charter": "yinshanqwq",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.900003,
   "file": "https://phira.5wyxi.com/files/cf228f54-1a67-4db0-87de-67dccf7cfeaa",
+  "hidden": false,
   "id": 35885,
   "illustration": "https://phira.5wyxi.com/files/584d227a-fd61-45a0-b3f6-56a1187602af",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Paparazzo",
   "preview": "https://phira.5wyxi.com/files/56afdf2a-4550-4697-8a38-de6360bde31c",
   "ranked": false,
-  "rating": 0.94854534,
-  "ratingCount": 311,
+  "rating": 0.94903594,
+  "ratingCount": 314,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

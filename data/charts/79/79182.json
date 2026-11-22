@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-27T18:17:53Z",
-    "lastChanged": "2026-09-27T18:17:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-26T14:33:59.285168Z",
   "charter": "Betrixx",
@@ -14,6 +14,7 @@
   "description": "x x xxx",
   "difficulty": 19.0,
   "file": "https://phira.5wyxi.com/files/103cea04-ba1a-40f9-9856-34c27bd7c65a",
+  "hidden": false,
   "id": 79182,
   "illustration": "https://phira.5wyxi.com/files/7b2f8076-cc52-41b1-9a9e-38372d2478e8",
   "illustrator": "Unknow",
@@ -21,8 +22,8 @@
   "name": "KILL SWITCH",
   "preview": "https://phira.5wyxi.com/files/35230eac-fe37-4f51-a635-e77742ca043e",
   "ranked": false,
-  "rating": 0.7482895,
-  "ratingCount": 1,
+  "rating": 0.9194091,
+  "ratingCount": 20,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

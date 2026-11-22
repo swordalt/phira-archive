@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:31Z",
-    "lastChanged": "2026-09-21T02:04:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-27T16:28:10.883694Z",
   "charter": "Fanyiling-fyl inspired by \"7xbi\"",
@@ -14,6 +14,7 @@
   "description": "本人上传。\n所有高亮note都是tap，长条除外。非高亮note正常判定。\n我说染色是好看的也方便读谱的！",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/e564eccd-38a3-478e-adad-7c8319757056",
+  "hidden": false,
   "id": 54608,
   "illustration": "https://phira.5wyxi.com/files/c9fa1818-ec5e-46d8-95d5-9e97227c35df",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Toumei Chukudo",
   "preview": "https://phira.5wyxi.com/files/347c9ea4-ea76-4e6c-bf26-ad4981848f2b",
   "ranked": false,
-  "rating": 0.8928916,
-  "ratingCount": 30,
+  "rating": 0.87951595,
+  "ratingCount": 31,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

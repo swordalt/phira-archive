@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:43Z",
-    "lastChanged": "2026-09-21T02:01:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-02T04:16:38.674050Z",
   "charter": "restey elevates to the sky",
@@ -14,6 +14,7 @@
   "description": "本人上传\n修了一个小bug，重传了一下，这次算是打磨得比较细致的一次了，也用了些比较主流的动效，希望大家满意\n谱师b站@海中の草\n\n",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/d42882b8-1b6a-4633-8435-924c2900aa34",
+  "hidden": false,
   "id": 11968,
   "illustration": "https://phira.5wyxi.com/files/05f1938e-b49a-44ac-b9b3-9487cbeb37c5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Elevate",
   "preview": "https://phira.5wyxi.com/files/ce3a7c0c-421a-4644-8e8d-dfaacacbf05a",
   "ranked": true,
-  "rating": 0.89798784,
-  "ratingCount": 857,
+  "rating": 0.89752823,
+  "ratingCount": 860,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

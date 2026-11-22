@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:02Z",
-    "lastChanged": "2026-09-21T02:03:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-05T00:16:01.155316Z",
   "charter": "小鷹",
@@ -14,6 +14,7 @@
   "description": "id33262的谱子重了就不要了，上传这个，珂言的摆烂日常是谱师本人",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/171fa35c-2c05-47ab-b2da-7f6a6fed3a2a",
+  "hidden": false,
   "id": 33295,
   "illustration": "https://phira.5wyxi.com/files/e9552c35-0474-48d7-bfff-48cfbea15c0c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "见到你真开心",
   "preview": "https://phira.5wyxi.com/files/4de27a7b-f1e5-4e7a-b056-69a530857fc1",
   "ranked": false,
-  "rating": 0.8876116,
-  "ratingCount": 350,
+  "rating": 0.8888576,
+  "ratingCount": 360,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:36Z",
-    "lastChanged": "2026-09-21T02:01:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-05T13:14:16.019260Z",
   "charter": "FreMo“flush of dawn”",
@@ -14,6 +14,7 @@
   "description": "b站@FM壹某",
   "difficulty": 16.300007,
   "file": "https://phira.5wyxi.com/files/731d131e-c5fd-4740-807d-d34753f2b03c",
+  "hidden": false,
   "id": 10203,
   "illustration": "https://phira.5wyxi.com/files/1c77c603-f3a0-4095-8c5a-aeece358cffe",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Aurora",
   "preview": "https://phira.5wyxi.com/files/155f1460-94e9-49e3-b49d-03d04be75269",
   "ranked": true,
-  "rating": 0.9418454,
-  "ratingCount": 10047,
+  "rating": 0.94206303,
+  "ratingCount": 10194,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

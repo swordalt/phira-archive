@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:35Z",
-    "lastChanged": "2026-09-21T02:03:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-31T09:10:42.622487Z",
   "charter": "時Layer vs. LYQ月晴",
@@ -14,6 +14,7 @@
   "description": "小破站：ChnoroLayer\n修改版\n",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/b970a585-5c5f-4172-889b-fc3557209cc4",
+  "hidden": false,
   "id": 43241,
   "illustration": "https://phira.5wyxi.com/files/d845ff3b-1315-4ddd-93fe-bfb6915c1cd8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "月下缭乱",
   "preview": "https://phira.5wyxi.com/files/5b0e9de7-004f-4495-984b-f9c35a3b800b",
   "ranked": false,
-  "rating": 0.78730494,
-  "ratingCount": 268,
+  "rating": 0.7905436,
+  "ratingCount": 274,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

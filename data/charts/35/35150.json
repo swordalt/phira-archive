@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:07Z",
-    "lastChanged": "2026-09-21T02:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-18T14:34:42.328272Z",
   "charter": "H-S-H",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/ee5b2936-f988-44b5-a05f-c61443b4ff78",
+  "hidden": false,
   "id": 35150,
   "illustration": "https://phira.5wyxi.com/files/a3d2852f-7051-41f6-9d61-d7ba9b7cf660",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ρars/ey",
   "preview": "https://phira.5wyxi.com/files/98b70c30-82ff-4033-90e6-44eed1dd54c8",
   "ranked": false,
-  "rating": 0.86868864,
-  "ratingCount": 177,
+  "rating": 0.869986,
+  "ratingCount": 183,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:03Z",
-    "lastChanged": "2026-09-21T02:06:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-17T05:37:29.534113Z",
   "charter": "ReX",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 23.0,
   "file": "https://phira.5wyxi.com/files/d99bc866-5701-4633-b246-ef7d4179ed04",
+  "hidden": false,
   "id": 29795,
   "illustration": "https://phira.5wyxi.com/files/f00108db-bea3-464b-9166-80e1528060fd",
   "illustrator": "",

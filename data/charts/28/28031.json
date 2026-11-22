@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:41Z",
-    "lastChanged": "2026-09-21T02:02:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-25T06:00:38.967823Z",
   "charter": "5071 VS RPE",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n本为第四届乐色杯供谱",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/3016972b-f9fc-48b4-ad7b-16b83d04f607",
+  "hidden": false,
   "id": 28031,
   "illustration": "https://phira.5wyxi.com/files/097c27c0-5104-42c2-bc9c-fd833f10a510",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "T+ VS SHARK",
   "preview": "https://phira.5wyxi.com/files/1778b281-e401-4bfb-8b9b-808208d9e467",
   "ranked": false,
-  "rating": 0.8829415,
-  "ratingCount": 113,
+  "rating": 0.88441503,
+  "ratingCount": 117,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

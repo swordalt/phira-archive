@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:31Z",
-    "lastChanged": "2026-09-21T02:01:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-09T09:57:38.033664Z",
   "charter": "GETM",
@@ -14,6 +14,7 @@
   "description": "本人上传，B站：关耳天马（GETM）\n我们Phira社区也要有自己的trance自制（逃）",
   "difficulty": 13.400002,
   "file": "https://phira.5wyxi.com/files/02f1c1c2-c1da-41fd-8617-30ab01c47ed2",
+  "hidden": false,
   "id": 9168,
   "illustration": "https://phira.5wyxi.com/files/1ba4d383-6d31-4f5f-845e-9d10d1730e5f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Code Paradiso",
   "preview": "https://phira.5wyxi.com/files/5ec5c446-38b9-495f-8e7a-9d50f1cc34f0",
   "ranked": false,
-  "rating": 0.8929039,
-  "ratingCount": 119,
+  "rating": 0.89434934,
+  "ratingCount": 122,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

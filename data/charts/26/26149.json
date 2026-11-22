@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:59Z",
-    "lastChanged": "2026-09-21T02:05:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-13T12:16:16.854002Z",
   "charter": "ZeroMaple114",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/14e19799-4ef0-41aa-8860-ac0426ba8383",
+  "hidden": false,
   "id": 26149,
   "illustration": "https://phira.5wyxi.com/files/80e04032-ebb8-4fa7-8a91-96cb7d627d42",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "勇往直前",
   "preview": "https://phira.5wyxi.com/files/ca60ab1d-5aa8-4fa5-b254-06be3022a0da",
   "ranked": false,
-  "rating": 0.86529666,
-  "ratingCount": 230,
+  "rating": 0.8609766,
+  "ratingCount": 238,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

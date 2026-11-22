@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:23Z",
-    "lastChanged": "2026-09-21T02:02:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-17T09:11:40.002709Z",
   "charter": "Pigeeeeeon",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/ede01bd2-af72-411f-9339-fbd4fd6aabdd",
+  "hidden": false,
   "id": 23664,
   "illustration": "https://phira.5wyxi.com/files/73061023-8e02-4940-bca4-847b7da3f20a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "wrong rain",
   "preview": "https://phira.5wyxi.com/files/44e44bb1-d965-48e2-8569-dfccbf6141ba",
   "ranked": false,
-  "rating": 0.94338095,
-  "ratingCount": 87,
+  "rating": 0.94384474,
+  "ratingCount": 88,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

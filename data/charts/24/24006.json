@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:55Z",
-    "lastChanged": "2026-09-21T02:05:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-21T15:38:27.175449Z",
   "charter": "sbsjsibsis",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 10.000001,
   "file": "https://phira.5wyxi.com/files/5cf33a45-1671-459f-9669-5d20496f9414",
+  "hidden": false,
   "id": 24006,
   "illustration": "https://phira.5wyxi.com/files/83af8922-56e2-4c0f-8f57-c32714fa6b15",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sharfurain ",
   "preview": "https://phira.5wyxi.com/files/e3cb85c1-ae74-497e-87c2-c72405488b3c",
   "ranked": false,
-  "rating": 0.9035861,
-  "ratingCount": 15,
+  "rating": 0.9082507,
+  "ratingCount": 16,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

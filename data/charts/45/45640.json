@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:31Z",
-    "lastChanged": "2026-09-21T02:05:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-25T07:56:15.833248Z",
   "charter": "珞ing",
@@ -14,6 +14,7 @@
   "description": "赵小六创造了摇滚，赵小六创造了音乐。神曲神谱，极致体验",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/8cfa81a7-d9be-4ba2-b813-a98f1b712a8a",
+  "hidden": false,
   "id": 45640,
   "illustration": "https://phira.5wyxi.com/files/db790357-1368-4467-885e-b71d62c62ba1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "疯狂弹舌",
   "preview": "https://phira.5wyxi.com/files/4bb33e8a-2912-4a4e-8ed7-0d772fdf61c9",
   "ranked": false,
-  "rating": 0.9283824,
-  "ratingCount": 28,
+  "rating": 0.9325695,
+  "ratingCount": 30,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

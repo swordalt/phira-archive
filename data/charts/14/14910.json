@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:54Z",
-    "lastChanged": "2026-09-21T02:01:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-06T11:23:14.385819Z",
   "charter": "AhoHenry",
@@ -14,6 +14,7 @@
   "description": "我的第一个作品，不是很会写谱，请大家多指教，B站ID：Aho_Henry",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/2eff75af-1d40-40b3-b1c0-cee7a3691398",
+  "hidden": false,
   "id": 14910,
   "illustration": "https://phira.5wyxi.com/files/c805c3d7-2b7b-443c-aad6-e0933e77cf61",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Showdown",
   "preview": "https://phira.5wyxi.com/files/40fa4937-c2c4-4a39-9a0e-028e5418fa08",
   "ranked": false,
-  "rating": 0.84807765,
-  "ratingCount": 37,
+  "rating": 0.85172856,
+  "ratingCount": 38,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

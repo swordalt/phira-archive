@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:20Z",
-    "lastChanged": "2026-09-21T02:05:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-23T12:32:10.504683Z",
   "charter": "emojiF",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/d5f9d697-4636-4803-bcc7-a305204a1653",
+  "hidden": false,
   "id": 11712,
   "illustration": "https://phira.5wyxi.com/files/94362789-58d0-4af5-bd3c-120ea27f4431",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "宽体普京",
   "preview": "https://phira.5wyxi.com/files/aa2af36e-1152-4fe5-8a90-9913a3ee6461",
   "ranked": false,
-  "rating": 0.9252834,
-  "ratingCount": 4921,
+  "rating": 0.9252838,
+  "ratingCount": 4975,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

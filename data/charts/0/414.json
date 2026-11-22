@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:05Z",
-    "lastChanged": "2026-09-21T02:01:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T11:17:37.319477Z",
   "charter": "WatchfulBand",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 13.200001,
   "file": "https://phira.5wyxi.com/files/bb7c98a4-1d2e-4fd0-85d2-f020247300ff",
+  "hidden": false,
   "id": 414,
   "illustration": "https://phira.5wyxi.com/files/a7a77951-8dec-4630-a417-4676490fd8b7",
   "illustrator": "雷雨心",
@@ -21,8 +22,8 @@
   "name": "记念",
   "preview": "https://phira.5wyxi.com/files/67b20e44-10b6-4b4a-96de-c75ae202bc86",
   "ranked": false,
-  "rating": 0.94885164,
-  "ratingCount": 7214,
+  "rating": 0.9487966,
+  "ratingCount": 7494,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

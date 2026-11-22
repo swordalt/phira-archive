@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:29Z",
-    "lastChanged": "2026-09-21T02:01:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-31T01:34:39.956224Z",
   "charter": "Y1Harr",
@@ -14,6 +14,7 @@
   "description": "本人上传，新人初谱，修改版本，重新上传，好看了一点(",
   "difficulty": 14.599999,
   "file": "https://phira.5wyxi.com/files/d888a7e0-7e2a-4a02-bdba-54167c089e20",
+  "hidden": false,
   "id": 8494,
   "illustration": "https://phira.5wyxi.com/files/5ce47850-03ff-48c9-a680-079df6349571",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MILK",
   "preview": "https://phira.5wyxi.com/files/6975f0e8-b4d6-4d1e-a592-441056f28c50",
   "ranked": false,
-  "rating": 0.88917094,
-  "ratingCount": 1015,
+  "rating": 0.88850844,
+  "ratingCount": 1018,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

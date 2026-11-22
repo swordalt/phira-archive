@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:30Z",
-    "lastChanged": "2026-09-21T02:06:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-04T02:46:12.904940Z",
   "charter": "Zoom001",
@@ -14,6 +14,7 @@
   "description": "老谱新上，尾杀修改，注意变速。",
   "difficulty": 15.4000025,
   "file": "https://phira.5wyxi.com/files/66e78765-f746-4b20-a4d3-6cd99fed2eb7",
+  "hidden": false,
   "id": 44903,
   "illustration": "https://phira.5wyxi.com/files/6700df82-0e8d-414a-b926-0ed914f57fce",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "十六进制的月光",
   "preview": "https://phira.5wyxi.com/files/9e8ee484-e759-4d39-8528-6aca88fdca4e",
   "ranked": false,
-  "rating": 0.92811674,
-  "ratingCount": 534,
+  "rating": 0.9285882,
+  "ratingCount": 546,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

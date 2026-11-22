@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:42Z",
-    "lastChanged": "2026-09-21T02:01:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-25T01:13:33.450289Z",
   "charter": "hyt756",
@@ -14,6 +14,7 @@
   "description": "Please set Offset(s) : 0.11 + -",
   "difficulty": 15.199998,
   "file": "https://phira.5wyxi.com/files/a77989ca-783c-4e96-a91f-c7141c0c73db",
+  "hidden": false,
   "id": 11757,
   "illustration": "https://phira.5wyxi.com/files/c783f403-c513-4990-9729-c061b14d7fe9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ミライ再生成ボタン",
   "preview": "https://phira.5wyxi.com/files/d1df9060-b348-4ab6-8c81-d7ca634e600b",
   "ranked": false,
-  "rating": 0.8120653,
-  "ratingCount": 345,
+  "rating": 0.81256837,
+  "ratingCount": 346,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

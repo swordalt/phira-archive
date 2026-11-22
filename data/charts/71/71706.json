@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:05Z",
-    "lastChanged": "2026-09-21T02:05:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-10T11:35:25.585857Z",
   "charter": "日暮 紅■日暮 翠",
@@ -14,6 +14,7 @@
   "description": "@野离离野#2403\n该谱面为 WSRT x 云梦杯 比赛供谱",
   "difficulty": 16.500002,
   "file": "https://phira.5wyxi.com/files/b60682cc-a89e-4487-aa66-f6f95566b7cc",
+  "hidden": false,
   "id": 71706,
   "illustration": "https://phira.5wyxi.com/files/5d52d815-2c1a-48b2-b4e2-dbda16baf718",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ドッペルゲンガー",
   "preview": "https://phira.5wyxi.com/files/6fbdd4c2-1780-4f1c-83ba-e4dcbb8db945",
   "ranked": false,
-  "rating": 0.8906081,
-  "ratingCount": 223,
+  "rating": 0.89420456,
+  "ratingCount": 240,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

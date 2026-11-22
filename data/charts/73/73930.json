@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-24T04:37:40Z",
-    "lastChanged": "2026-09-25T07:40:52Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:08Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-08-17T10:19:52.299810Z",
   "charter": "YZZ",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/af63c502-b027-4664-8c48-8e3dc52e64ff",
+  "hidden": false,
   "id": 73930,
   "illustration": "https://phira.5wyxi.com/files/3127c27b-6659-4602-a8b1-57cc8cd51897",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "アクマバライ",
   "preview": "https://phira.5wyxi.com/files/1a867947-8bb0-4f21-bb17-1075a796e869",
   "ranked": false,
-  "rating": 0.91556436,
-  "ratingCount": 476,
+  "rating": 0.9072506,
+  "ratingCount": 1768,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

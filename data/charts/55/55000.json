@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:33Z",
-    "lastChanged": "2026-09-21T02:04:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-06T08:48:10.712005Z",
   "charter": "冰符「Icicle Fall」",
@@ -14,6 +14,7 @@
   "description": "【请注意】本谱面在4:3, 3:2与16:9比例下有不同的演出差分，请务必调整为三个比例之一，并使用合适的note大小进行游玩！ \n考虑到有些平板不支持3:2和16:9所以上传的时候暂时调整为4:3；安装了新版本phira的玩家可以开启”强制宽高比“选项以自由调整屏幕比例awa \n本人上传 录制手元时请附带原谱面视频链接(BV1Ln9MBJEvj)并在视频下方艾特本人 感谢\n【2026/4/6更新】调整了部分配置与少部分动效，感谢@WinterProtecter和@中微子_0xcull的建议！",
   "difficulty": 15.400001,
   "file": "https://phira.5wyxi.com/files/f3cc120d-b1c7-477e-be8d-74402c27db2b",
+  "hidden": false,
   "id": 55000,
   "illustration": "https://phira.5wyxi.com/files/233b42fc-6c86-4a43-83a1-dcdc2bab436f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "チルノのパーフェクトさんすう学園",
   "preview": "https://phira.5wyxi.com/files/eaffe1aa-ef22-4629-a1be-7a6ec49b7c25",
   "ranked": true,
-  "rating": 0.93286955,
-  "ratingCount": 920,
+  "rating": 0.9326674,
+  "ratingCount": 1060,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

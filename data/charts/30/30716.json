@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:05Z",
-    "lastChanged": "2026-09-21T02:06:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-14T07:23:42.769043Z",
   "charter": "CalmL0324",
@@ -14,6 +14,7 @@
   "description": "本人上传\nb站账号:Calmの0324欢迎反馈",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/39e062ad-98a3-4f89-94be-cda9d22e61a5",
+  "hidden": false,
   "id": 30716,
   "illustration": "https://phira.5wyxi.com/files/55809c7f-db0d-4528-8c4a-5b7bdbb2f11a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Eltaw",
   "preview": "https://phira.5wyxi.com/files/db8aaada-49b6-43b8-9766-04841928a844",
   "ranked": false,
-  "rating": 0.9620934,
-  "ratingCount": 996,
+  "rating": 0.961858,
+  "ratingCount": 1029,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

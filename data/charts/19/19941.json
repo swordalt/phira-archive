@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:13Z",
-    "lastChanged": "2026-09-21T02:02:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-14T03:47:24.653853Z",
   "charter": "Anxve13",
@@ -14,6 +14,7 @@
   "description": "第三版 本人投\n由于谱面是判定线贴图拼接 所以平板玩起来会出现长条距离有问题/断裂/等奇怪的问题\n推荐宽比高1.77778 音符大小1 体验感会更好一点\n",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/f17d7475-25df-4b02-be0a-04ae103fdd2b",
+  "hidden": false,
   "id": 19941,
   "illustration": "https://phira.5wyxi.com/files/fd490064-f744-43da-84d9-52727816c016",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ネオネオン",
   "preview": "https://phira.5wyxi.com/files/7b37d2a1-7410-4644-a655-6e2381401474",
   "ranked": false,
-  "rating": 0.95765114,
-  "ratingCount": 1267,
+  "rating": 0.95709157,
+  "ratingCount": 1285,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

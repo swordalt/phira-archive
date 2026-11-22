@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:06Z",
-    "lastChanged": "2026-09-21T02:05:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-09T17:26:48.885831Z",
   "charter": "PLeaFM",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，本家BV1NCuU66EBh",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/914ede85-191e-46ed-b68e-28331b5c0052",
+  "hidden": false,
   "id": 72364,
   "illustration": "https://phira.5wyxi.com/files/fd24f6de-d5ec-4e89-8ab3-04c6f629f6df",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "雨之城",
   "preview": "https://phira.5wyxi.com/files/0cd916cb-83de-4d55-848b-26dc15067b41",
   "ranked": false,
-  "rating": 0.9191545,
-  "ratingCount": 854,
+  "rating": 0.92222303,
+  "ratingCount": 1175,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

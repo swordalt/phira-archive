@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:29Z",
-    "lastChanged": "2026-09-21T02:05:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-08T05:27:07.346341Z",
   "charter": "甡竸",
@@ -14,6 +14,7 @@
   "description": "新人整活谱，本人上传(回收利用)",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/e9de24be-7932-42d5-bb92-3f0096ddeb27",
+  "hidden": false,
   "id": 41150,
   "illustration": "https://phira.5wyxi.com/files/3e327ba7-02d9-4be5-837a-b71ec9934158",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "蛋生蛋",
   "preview": "https://phira.5wyxi.com/files/c84e68ed-bbfa-4ec2-9488-0648bf72c313",
   "ranked": false,
-  "rating": 0.8575895,
-  "ratingCount": 3789,
+  "rating": 0.85733414,
+  "ratingCount": 3904,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

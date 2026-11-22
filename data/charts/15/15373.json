@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:56Z",
-    "lastChanged": "2026-09-21T02:01:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-11T08:57:06.932212Z",
   "charter": "6thPecJam",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/08115ae4-3bb8-4947-9cf6-f06cbe7c6c3a",
+  "hidden": false,
   "id": 15373,
   "illustration": "https://phira.5wyxi.com/files/3eda6405-5e5c-4196-97cc-aec6cccab84f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sky",
   "preview": "https://phira.5wyxi.com/files/554c9fee-1ae3-427a-b9ce-5dc55ab6c5b3",
   "ranked": false,
-  "rating": 0.67389596,
-  "ratingCount": 169,
+  "rating": 0.67509323,
+  "ratingCount": 171,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

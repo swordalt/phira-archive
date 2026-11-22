@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:00Z",
-    "lastChanged": "2026-09-21T02:02:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-25T06:05:58.265993Z",
   "charter": "lzwd",
@@ -14,6 +14,7 @@
   "description": "终末之诗bgm",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/4dd1fa96-6b0f-49be-9faa-6de9f16e2ec3",
+  "hidden": false,
   "id": 16472,
   "illustration": "https://phira.5wyxi.com/files/88ddc231-b657-40c6-ad35-86e3d5a6114a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Alpha",
   "preview": "https://phira.5wyxi.com/files/9c40debf-3fb2-49ae-9b55-6a494ec80d52",
   "ranked": false,
-  "rating": 0.8415396,
-  "ratingCount": 422,
+  "rating": 0.84352535,
+  "ratingCount": 432,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

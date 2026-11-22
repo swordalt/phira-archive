@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:50Z",
-    "lastChanged": "2026-09-21T02:02:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-10T05:19:38.378536Z",
   "charter": "-nicolabula-",
@@ -14,6 +14,7 @@
   "description": "b站：-尼可拉拉不拉-，前面发的那个手感不好，这是修改过的（",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/188f143c-6331-43c4-a0ad-e8efff5ae228",
+  "hidden": false,
   "id": 30601,
   "illustration": "https://phira.5wyxi.com/files/52f8def8-7678-474b-a900-6901a04480bf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "チューリングの跡(图灵之迹)",
   "preview": "https://phira.5wyxi.com/files/93416fe1-a6d1-4819-9778-be9ccebb5ff2",
   "ranked": false,
-  "rating": 0.83427167,
-  "ratingCount": 35,
+  "rating": 0.83849066,
+  "ratingCount": 36,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

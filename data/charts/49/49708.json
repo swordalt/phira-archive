@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:05Z",
-    "lastChanged": "2026-09-21T02:04:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-30T12:30:24.218175Z",
   "charter": "1yuia8",
@@ -14,6 +14,7 @@
   "description": "谱面预览av115638655783390\n第二张自制",
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/7f352649-9b87-4ee3-9418-57ca0eed8000",
+  "hidden": false,
   "id": 49708,
   "illustration": "https://phira.5wyxi.com/files/63d458d3-be82-4dc8-bb93-330aa944beef",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GOODBOUNCE",
   "preview": "https://phira.5wyxi.com/files/1bf7a841-0c53-4f7a-b6c1-435b5df689bf",
   "ranked": false,
-  "rating": 0.9365629,
-  "ratingCount": 447,
+  "rating": 0.9369817,
+  "ratingCount": 464,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:11Z",
-    "lastChanged": "2026-09-21T02:01:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-17T15:34:51.524660Z",
   "charter": "ドクナキ",
@@ -14,6 +14,7 @@
   "description": "charted by [PZUser:2:ドクナキ:PZRT]",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/d0b7b725-2e69-4b1c-b872-48eed18c1ba0",
+  "hidden": false,
   "id": 2219,
   "illustration": "https://phira.5wyxi.com/files/3b477d26-5a4d-466d-8db2-6f422aebbfc4",
   "illustrator": "",

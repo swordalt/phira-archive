@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:31Z",
-    "lastChanged": "2026-09-21T02:06:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-23T07:12:03.342772Z",
   "charter": "知权",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/4aa761da-01a5-404d-8709-1ffce5996e80",
+  "hidden": false,
   "id": 45493,
   "illustration": "https://phira.5wyxi.com/files/07380f84-1e69-4864-93bf-3fc116b49f3a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Good晴",
   "preview": "https://phira.5wyxi.com/files/d0741739-2191-445f-8632-f7bebf37cf1b",
   "ranked": false,
-  "rating": 0.8873128,
-  "ratingCount": 24,
+  "rating": 0.887857,
+  "ratingCount": 25,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

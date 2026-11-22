@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:12Z",
-    "lastChanged": "2026-09-21T02:02:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-06T15:58:02.051768Z",
   "charter": "白漠",
@@ -14,6 +14,7 @@
   "description": "本人就是谱师，B站搜“自信の白漠”可查",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/0174b6dc-a627-4415-b3f7-67faa7c38ba8",
+  "hidden": false,
   "id": 19654,
   "illustration": "https://phira.5wyxi.com/files/6bd0ed06-d656-46d4-a847-5b3a148a5b81",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "命に嫌われている",
   "preview": "https://phira.5wyxi.com/files/3259e7e7-73c0-4535-89db-8f37f90922de",
   "ranked": false,
-  "rating": 0.9029877,
-  "ratingCount": 1929,
+  "rating": 0.9026034,
+  "ratingCount": 1946,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

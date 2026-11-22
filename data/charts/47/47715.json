@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:38Z",
-    "lastChanged": "2026-09-21T02:06:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-06T02:07:43.297921Z",
   "charter": "夕橼QvT",
@@ -14,6 +14,7 @@
   "description": "本人上传，ks同名",
   "difficulty": 27.0,
   "file": "https://phira.5wyxi.com/files/4084c7e3-ca93-47dc-83e5-48df328274f2",
+  "hidden": false,
   "id": 47715,
   "illustration": "https://phira.5wyxi.com/files/60153810-bc79-41eb-837f-bc9de85a0d2f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Oshama Scramble!",
   "preview": "https://phira.5wyxi.com/files/a6c94a0e-ef29-4ee7-bd40-863e79988347",
   "ranked": false,
-  "rating": 0.9294307,
-  "ratingCount": 276,
+  "rating": 0.9304364,
+  "ratingCount": 280,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:38Z",
-    "lastChanged": "2026-09-21T02:06:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-07T18:02:03.400608Z",
   "charter": "YMEA",
@@ -14,6 +14,7 @@
   "description": "40分钟慢写，难度约9-10dan（键型最顺手的一集）\n快手 @洋漫YMEA（快手号：YMEA0723）关灌一下谢谢喵\n",
   "difficulty": 33.0,
   "file": "https://phira.5wyxi.com/files/7d948109-e5af-4e02-a359-85bd3585cc82",
+  "hidden": false,
   "id": 47859,
   "illustration": "https://phira.5wyxi.com/files/512d5583-0537-446b-8849-ba958fd69903",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "紅に染まる恋の花(with Marcia)",
   "preview": "https://phira.5wyxi.com/files/45cec719-b45d-4faf-beae-68291a73dfc9",
   "ranked": false,
-  "rating": 0.9694846,
-  "ratingCount": 244,
+  "rating": 0.9711816,
+  "ratingCount": 273,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

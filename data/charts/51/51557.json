@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-02T02:12:31Z",
-    "lastChanged": "2026-10-02T09:39:28Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T13:02:36Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-01-23T18:25:46.057557Z",
   "charter": "jhyy",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/d6478c79-7c91-42ef-82a7-82e02fbb22d9",
+  "hidden": false,
   "id": 51557,
   "illustration": "https://phira.5wyxi.com/files/640ee77c-9287-4b10-bcf3-36492800cab1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Jack",
   "preview": "https://phira.5wyxi.com/files/67359621-81f2-47a3-a0dd-41a089ecfbf9",
   "ranked": false,
-  "rating": 0.70769215,
-  "ratingCount": 0,
+  "rating": 0.7107579,
+  "ratingCount": 3,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

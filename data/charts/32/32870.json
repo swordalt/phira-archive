@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:08Z",
-    "lastChanged": "2026-09-21T02:06:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-30T05:51:33.743347Z",
   "charter": "Iris-Fornenver",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.800001,
   "file": "https://phira.5wyxi.com/files/56082e46-e8a0-4a43-8fea-db685eff51b1",
+  "hidden": false,
   "id": 32870,
   "illustration": "https://phira.5wyxi.com/files/53d6ade4-d779-4a4c-b03f-e94df463f746",
   "illustrator": "",

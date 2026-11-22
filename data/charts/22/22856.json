@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:25Z",
-    "lastChanged": "2026-09-21T02:05:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-07T06:30:43.347873Z",
   "charter": "desivr",
@@ -14,6 +14,7 @@
   "description": "重投，曲绘已修改。\n对于1378~1512cb处的tap和hold，hold判定在右边，tap判定在左边。",
   "difficulty": 16.800001,
   "file": "https://phira.5wyxi.com/files/2befd408-cc57-4d62-8ac0-d1dfc3e8dc28",
+  "hidden": false,
   "id": 22856,
   "illustration": "https://phira.5wyxi.com/files/029228d8-954f-43c4-b135-6094a83191ec",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Rubber Band",
   "preview": "https://phira.5wyxi.com/files/3ab519de-e322-4b44-b8f8-c28e157906e3",
   "ranked": false,
-  "rating": 0.7678035,
-  "ratingCount": 67,
+  "rating": 0.7696557,
+  "ratingCount": 68,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

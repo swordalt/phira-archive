@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:06Z",
-    "lastChanged": "2026-09-21T02:06:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-31T03:45:16.272568Z",
   "charter": "Aether",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 18.100004,
   "file": "https://phira.5wyxi.com/files/df6af6d8-a60c-4fce-89d3-56042935cccc",
+  "hidden": false,
   "id": 31241,
   "illustration": "https://phira.5wyxi.com/files/b486810a-c3aa-4286-bf26-3dbe0322d585",
   "illustrator": "",

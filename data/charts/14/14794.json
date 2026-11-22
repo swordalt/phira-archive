@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:53Z",
-    "lastChanged": "2026-09-21T02:01:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-04T11:39:37.050327Z",
   "charter": "橙小橘Oranger",
@@ -14,6 +14,7 @@
   "description": "谱师：Bilibili@我是橙小橘（本人上传）    谱面浏览：BV11N4y1F7s6   enjoy~( Ω .̫ Ω )✧",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/dd65516c-7e96-40f5-a794-08fb17d5047e",
+  "hidden": false,
   "id": 14794,
   "illustration": "https://phira.5wyxi.com/files/ada0165b-802b-4a95-8da7-e58056d19fbe",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lost Civilization",
   "preview": "https://phira.5wyxi.com/files/f5ae41f2-a6ae-4457-a0f6-6092bddefcf8",
   "ranked": false,
-  "rating": 0.90273166,
-  "ratingCount": 655,
+  "rating": 0.9027281,
+  "ratingCount": 660,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

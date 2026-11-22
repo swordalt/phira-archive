@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:29Z",
-    "lastChanged": "2026-09-21T02:02:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-03T16:24:16.862771Z",
   "charter": "Pukrum",
@@ -14,6 +14,7 @@
   "description": "新人处女谱，不知道居然这么卡手",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/00572d2c-dd96-41ad-8fdd-965d8fd5fcd7",
+  "hidden": false,
   "id": 25198,
   "illustration": "https://phira.5wyxi.com/files/4bd80d1c-36af-46e2-b7de-168004434427",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Re：End of a Dream",
   "preview": "https://phira.5wyxi.com/files/188dfb19-f309-431a-a8a8-dddf5b41ae2e",
   "ranked": false,
-  "rating": 0.79818004,
-  "ratingCount": 408,
+  "rating": 0.79818475,
+  "ratingCount": 409,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

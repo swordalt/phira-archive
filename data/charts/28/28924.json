@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:44Z",
-    "lastChanged": "2026-09-21T02:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-19T20:55:47.862825Z",
   "charter": "Galaxy Twotthrees Antagonist vs Galaxy Sakuya Friend",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.800001,
   "file": "https://phira.5wyxi.com/files/5fb94720-1b28-465a-a786-7cf72ecae8c8",
+  "hidden": false,
   "id": 28924,
   "illustration": "https://phira.5wyxi.com/files/ca083a17-f192-4aba-81e9-db11767eee61",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Galaxy Friends",
   "preview": "https://phira.5wyxi.com/files/d8d13aff-a3d7-4fd0-b209-49fb07e34d4e",
   "ranked": false,
-  "rating": 0.93890584,
-  "ratingCount": 1353,
+  "rating": 0.93902105,
+  "ratingCount": 1366,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

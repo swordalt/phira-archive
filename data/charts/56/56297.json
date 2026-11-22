@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:49Z",
-    "lastChanged": "2026-09-21T02:06:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-14T04:41:55.989626Z",
   "charter": "Shidora喵",
@@ -14,6 +14,7 @@
   "description": "第一次写切以外的\n祝玩的开心！\n（求过审  咱的谱已经半年没过审了，，，）",
   "difficulty": 17.300001,
   "file": "https://phira.5wyxi.com/files/1f7d035b-732c-44d3-b8a7-b5ea379e5199",
+  "hidden": false,
   "id": 56297,
   "illustration": "https://phira.5wyxi.com/files/dcb3aeac-20a3-4a48-9633-83e2f8dd898d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "あのね（Connect the World）",
   "preview": "https://phira.5wyxi.com/files/fdadb657-8346-4259-9cd3-8c631cd1bf9a",
   "ranked": false,
-  "rating": 0.9527255,
-  "ratingCount": 257,
+  "rating": 0.95080304,
+  "ratingCount": 283,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

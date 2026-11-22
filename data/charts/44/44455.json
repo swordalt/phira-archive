@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:40Z",
-    "lastChanged": "2026-09-21T02:03:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-12T14:56:44.945260Z",
   "charter": "float",
@@ -14,6 +14,7 @@
   "description": "新人新铺，要录手元在b站@float默教主，其他平台不用@",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/74b8facc-b893-40c3-867c-a5e35a2ed011",
+  "hidden": false,
   "id": 44455,
   "illustration": "https://phira.5wyxi.com/files/329b3803-6473-469d-a22e-d04babca9879",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "T氏の話を信じるな",
   "preview": "https://phira.5wyxi.com/files/0e971839-67f9-4a90-8da6-f28ca15148b9",
   "ranked": false,
-  "rating": 0.92020524,
-  "ratingCount": 1551,
+  "rating": 0.9183132,
+  "ratingCount": 1615,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,16 +4,17 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:16Z",
-    "lastChanged": "2026-11-11T14:05:21Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:18Z",
+    "revisions": 3
   },
-  "chartUpdated": "2026-11-11T12:07:46.734149253Z",
+  "chartUpdated": "2026-11-11T12:07:46.734149Z",
   "charter": "是一只屑呀",
   "composer": "Halv",
   "created": "2026-09-12T04:10:53.879990Z",
   "description": "6thWJC参赛谱面\r\n\nG3 No.13\n\r\n谱面预览:BV1TPb76vEhs\n\r\n写谱好爽呀\r\n//2026.10.4削了下倒打，1267cb主线角度修改",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/e688e606-001f-4714-84ea-1dc22ffa6f5c",
+  "hidden": false,
   "id": 77809,
   "illustration": "https://phira.5wyxi.com/files/406ee40c-24ea-487d-8714-f592c04aea08",
   "illustrator": "",
@@ -21,14 +22,14 @@
   "name": "OMG",
   "preview": "https://phira.5wyxi.com/files/1d42a03f-0cc1-481d-bc81-509fd5112fc0",
   "ranked": false,
-  "rating": 0.89426446,
-  "ratingCount": 235,
+  "rating": 0.90022284,
+  "ratingCount": 354,
   "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-11T12:07:46.734149253Z",
+  "updated": "2026-11-11T12:07:46.734149Z",
   "uploader": 532067
 }

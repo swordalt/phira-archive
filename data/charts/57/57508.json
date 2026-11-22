@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:40Z",
-    "lastChanged": "2026-09-21T02:04:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-01T15:33:10.544739Z",
   "charter": "MujiSama vs Ziyieee",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，相较于会场版有进行修改\r\n@Muji#3742",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/ebc68aef-480e-40d5-843d-a268dd8ae0c7",
+  "hidden": false,
   "id": 57508,
   "illustration": "https://phira.5wyxi.com/files/199a45cd-5d37-437b-b084-bd53cb0afd4b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "雷切-RAIKIRI-",
   "preview": "https://phira.5wyxi.com/files/be62fa78-c4fc-4247-b563-5bd5af6864d9",
   "ranked": false,
-  "rating": 0.93587667,
-  "ratingCount": 396,
+  "rating": 0.93575156,
+  "ratingCount": 426,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

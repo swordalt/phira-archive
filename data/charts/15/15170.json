@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:55Z",
-    "lastChanged": "2026-09-21T02:01:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-09T16:56:51.606287Z",
   "charter": "6thPecJam",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/d815e299-e7a5-43b5-98b7-83873b39fe46",
+  "hidden": false,
   "id": 15170,
   "illustration": "https://phira.5wyxi.com/files/137c46cc-6c52-4526-96e2-92c148564cf3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Firmament Star",
   "preview": "https://phira.5wyxi.com/files/41a0715a-f3c4-432e-8680-9b345f69cc3c",
   "ranked": false,
-  "rating": 0.9374683,
-  "ratingCount": 271,
+  "rating": 0.93753713,
+  "ratingCount": 275,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

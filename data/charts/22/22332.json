@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:51Z",
-    "lastChanged": "2026-09-21T02:05:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-30T14:55:37.761693Z",
   "charter": "Liliankaid",
@@ -14,6 +14,7 @@
   "description": "第一次写铺面，感觉好。大粪警告⚠",
   "difficulty": 17.000015,
   "file": "https://phira.5wyxi.com/files/f76b0553-ad04-4e56-ae72-426fbc44d588",
+  "hidden": false,
   "id": 22332,
   "illustration": "https://phira.5wyxi.com/files/2c69c2f6-c78f-4bc3-9fdb-246a6956161b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bismuth",
   "preview": "https://phira.5wyxi.com/files/22e5ba41-81f5-4ae7-b8d3-6c94ad3e8cae",
   "ranked": false,
-  "rating": 0.7885132,
-  "ratingCount": 95,
+  "rating": 0.78768426,
+  "ratingCount": 96,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

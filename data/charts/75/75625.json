@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:02Z",
-    "lastChanged": "2026-09-21T02:07:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-25T09:27:09.561731Z",
   "charter": "Mum,Wang",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 36.0,
   "file": "https://phira.5wyxi.com/files/f50bcd94-1c29-42e0-997a-8a8b4ad66878",
+  "hidden": false,
   "id": 75625,
   "illustration": "https://phira.5wyxi.com/files/026ec194-45a6-4de2-9e4a-efb214769e68",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Melodiniq",
   "preview": "https://phira.5wyxi.com/files/009e66f7-f08e-431b-a64e-83156ab3efa7",
   "ranked": false,
-  "rating": 0.82595867,
-  "ratingCount": 121,
+  "rating": 0.8404607,
+  "ratingCount": 144,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

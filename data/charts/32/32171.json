@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:06Z",
-    "lastChanged": "2026-09-21T02:06:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-21T15:49:59.844844Z",
   "charter": "TASIKA",
@@ -14,6 +14,7 @@
   "description": "难度飘到哪了我也不知道\n\n\n\nBPM:160",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/c8fe5c0a-22c0-436e-bc9d-5ae4fddb3a96",
+  "hidden": false,
   "id": 32171,
   "illustration": "https://phira.5wyxi.com/files/3fce36c6-9dd9-42b5-9dc2-8762530758c3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "劣等上等",
   "preview": "https://phira.5wyxi.com/files/bc793955-1cb0-433f-87c9-f72646d5a529",
   "ranked": false,
-  "rating": 0.81365705,
-  "ratingCount": 48,
+  "rating": 0.80769634,
+  "ratingCount": 50,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

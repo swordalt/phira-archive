@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:48Z",
-    "lastChanged": "2026-09-21T02:02:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-24T07:43:55.197158Z",
   "charter": "阿瑞_Resonance",
@@ -14,6 +14,7 @@
   "description": "碎核有点难写。。。\n不过还是写出来了\n感谢@TXYANIX的委托！",
   "difficulty": 15.199999,
   "file": "https://phira.5wyxi.com/files/b4e2b4f7-70a5-4f8e-98fd-efd914531e05",
+  "hidden": false,
   "id": 30064,
   "illustration": "https://phira.5wyxi.com/files/42a0ddef-cfa7-4caf-a175-f985d5b3480b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Scrutinised",
   "preview": "https://phira.5wyxi.com/files/e79d7077-6d72-4e3a-be64-74b3f06de666",
   "ranked": false,
-  "rating": 0.8804741,
-  "ratingCount": 128,
+  "rating": 0.881297,
+  "ratingCount": 131,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

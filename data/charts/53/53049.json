@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:23Z",
-    "lastChanged": "2026-09-21T02:04:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-20T11:10:51.548895Z",
   "charter": "TLewe",
@@ -14,6 +14,7 @@
   "description": "你好",
   "difficulty": 18.300001,
   "file": "https://phira.5wyxi.com/files/679e0b85-22b3-4588-8521-b9b44a457cff",
+  "hidden": false,
   "id": 53049,
   "illustration": "https://phira.5wyxi.com/files/e096be7b-1ae7-4cbe-963e-55709f19d03f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MarbleBlue.",
   "preview": "https://phira.5wyxi.com/files/b4501cdb-4cec-4158-a74d-738fce9d2021",
   "ranked": false,
-  "rating": 0.8803226,
-  "ratingCount": 106,
+  "rating": 0.8832081,
+  "ratingCount": 112,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

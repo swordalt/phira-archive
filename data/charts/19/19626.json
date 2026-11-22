@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:12Z",
-    "lastChanged": "2026-09-21T02:02:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-05T16:43:29.077493Z",
   "charter": "day_night",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/073dc638-69bb-49b4-80ad-a5d764e675f6",
+  "hidden": false,
   "id": 19626,
   "illustration": "https://phira.5wyxi.com/files/b8dddda5-01f9-455e-a85e-91a16c51ff0a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "赤沙的玉馈 Nephrite of Deshret",
   "preview": "https://phira.5wyxi.com/files/d7449a50-1367-4030-a01f-3397a58bfb62",
   "ranked": false,
-  "rating": 0.8991038,
-  "ratingCount": 533,
+  "rating": 0.8993052,
+  "ratingCount": 537,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

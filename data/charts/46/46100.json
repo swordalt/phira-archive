@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:48Z",
-    "lastChanged": "2026-09-21T02:03:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-30T02:32:51.405257Z",
   "charter": "HOLD & Fakeway",
@@ -14,6 +14,7 @@
   "description": "本人上传，建议偏移设置为-0.05",
   "difficulty": 16.900003,
   "file": "https://phira.5wyxi.com/files/a3384fa6-6e3e-4751-a905-a472f7290493",
+  "hidden": false,
   "id": 46100,
   "illustration": "https://phira.5wyxi.com/files/509559ab-7f33-4cec-ab79-b47e1694d3d1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lost Frequency",
   "preview": "https://phira.5wyxi.com/files/bd7de5ba-d43b-49bd-b8cd-873e43ee86fb",
   "ranked": false,
-  "rating": 0.89246833,
-  "ratingCount": 32,
+  "rating": 0.89555943,
+  "ratingCount": 34,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

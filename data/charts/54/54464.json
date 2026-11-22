@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:29Z",
-    "lastChanged": "2026-09-21T02:04:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-22T07:00:26.349254Z",
   "charter": "Name0Ning",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/5509e749-01c8-4932-a942-32ca308c82ee",
+  "hidden": false,
   "id": 54464,
   "illustration": "https://phira.5wyxi.com/files/a6e3cea2-39bc-4bb3-91f2-4743845ffb32",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Last Page",
   "preview": "https://phira.5wyxi.com/files/f2ae289e-422f-4dd0-bcfd-33d8e385ff98",
   "ranked": false,
-  "rating": 0.81408626,
-  "ratingCount": 14,
+  "rating": 0.83111274,
+  "ratingCount": 16,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

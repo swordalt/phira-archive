@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:44Z",
-    "lastChanged": "2026-09-21T02:03:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-21T14:30:35.620827Z",
   "charter": "Sakurori vs. Cy001 vs. ADM",
@@ -14,6 +14,7 @@
   "description": "Sakurori，cy001,与ADM的合作谱面。其余两人已同意上传。",
   "difficulty": 17.1,
   "file": "https://phira.5wyxi.com/files/35d97ce5-34a5-4ab2-b959-88b1963cf61b",
+  "hidden": false,
   "id": 45346,
   "illustration": "https://phira.5wyxi.com/files/eb3e54b5-f029-4171-8b74-a561e421fa59",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Invisible Frenzy",
   "preview": "https://phira.5wyxi.com/files/a20778f6-db7c-4d3a-a823-a61cfeb4f6f3",
   "ranked": false,
-  "rating": 0.9317004,
-  "ratingCount": 477,
+  "rating": 0.9324959,
+  "ratingCount": 486,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:00Z",
-    "lastChanged": "2026-09-21T02:04:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-01T03:13:14.058260Z",
   "charter": "No Signal",
@@ -14,6 +14,7 @@
   "description": "本人上传\nB站: @花屏君",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/6103d1ab-666d-4c8f-9453-00e271cc8375",
+  "hidden": false,
   "id": 48612,
   "illustration": "https://phira.5wyxi.com/files/93110c36-36e4-4960-a80f-8863f145ab2a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dream Away feat. Yukacco",
   "preview": "https://phira.5wyxi.com/files/2af13451-cb23-494c-8892-9040943c54e3",
   "ranked": false,
-  "rating": 0.9375335,
-  "ratingCount": 274,
+  "rating": 0.9383237,
+  "ratingCount": 286,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

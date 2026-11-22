@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:00Z",
-    "lastChanged": "2026-09-27T10:18:21Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T13:03:03Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-06T15:21:59.485632Z",
   "charter": "WiZerr",
@@ -14,6 +14,7 @@
   "description": "本人上传\n速写切 目测4-5dan",
   "difficulty": 33.0,
   "file": "https://phira.5wyxi.com/files/a03dd54f-12a7-4cd2-9903-11c09626a68b",
+  "hidden": false,
   "id": 71724,
   "illustration": "https://phira.5wyxi.com/files/87cc3716-876b-4b85-95d7-2d385cbb3ac7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Guardian of The Former Seas",
   "preview": "https://phira.5wyxi.com/files/6e86cd59-c4b7-45f3-98dd-c2b5e2ce2fca",
   "ranked": false,
-  "rating": 0.9188452,
-  "ratingCount": 48,
+  "rating": 0.9311301,
+  "ratingCount": 61,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

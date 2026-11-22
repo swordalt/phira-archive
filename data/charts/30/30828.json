@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:51Z",
-    "lastChanged": "2026-09-21T02:02:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-15T17:20:20.190602Z",
   "charter": "BlazinG CRAVE",
@@ -14,6 +14,7 @@
   "description": "水一张 本人上传 BV1C3q9YREvK",
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/15556d55-11cf-4579-8ec3-836863d68faf",
+  "hidden": false,
   "id": 30828,
   "illustration": "https://phira.5wyxi.com/files/c99e1a27-5c43-4a78-9ba3-9546fac5396f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "BlazinG AIR",
   "preview": "https://phira.5wyxi.com/files/c33174ef-2c43-48a1-8a1c-ce136f3ec43d",
   "ranked": false,
-  "rating": 0.8371108,
-  "ratingCount": 72,
+  "rating": 0.8376982,
+  "ratingCount": 73,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

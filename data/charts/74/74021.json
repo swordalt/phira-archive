@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:00Z",
-    "lastChanged": "2026-09-21T02:07:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-17T19:44:05.591911Z",
   "charter": "betrix",
@@ -14,6 +14,7 @@
   "description": "榜一送andreu大头照",
   "difficulty": 19.000002,
   "file": "https://phira.5wyxi.com/files/3230f231-e5a1-4134-bd5c-eec23429bf42",
+  "hidden": false,
   "id": 74021,
   "illustration": "https://phira.5wyxi.com/files/fd116261-baa3-45d8-8ccc-d18921b406d6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Viyella's Scream",
   "preview": "https://phira.5wyxi.com/files/6e8fb3e9-2984-4227-9a1c-f6c5527011a4",
   "ranked": false,
-  "rating": 0.85480666,
-  "ratingCount": 12,
+  "rating": 0.8702217,
+  "ratingCount": 14,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

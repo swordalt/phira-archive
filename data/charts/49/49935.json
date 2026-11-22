@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:42Z",
-    "lastChanged": "2026-09-21T02:06:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-07T04:50:17.166465Z",
   "charter": "Hvquer",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 1.0,
   "file": "https://phira.5wyxi.com/files/67dcc5a7-42f5-444c-a348-74b8b4248219",
+  "hidden": false,
   "id": 49935,
   "illustration": "https://phira.5wyxi.com/files/3ee905b6-0703-4653-a565-1835cf886864",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ΩΩPARTS",
   "preview": "https://phira.5wyxi.com/files/56c550c2-8588-40fb-84ac-4473d791ff91",
   "ranked": false,
-  "rating": 0.93978816,
-  "ratingCount": 71,
+  "rating": 0.94406796,
+  "ratingCount": 79,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

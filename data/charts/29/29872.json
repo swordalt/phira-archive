@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:47Z",
-    "lastChanged": "2026-09-21T02:02:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-18T13:09:37.637541Z",
   "charter": "lage x YMEA",
@@ -14,6 +14,7 @@
   "description": "主要特效我写的\n洋漫大蛇同意上传",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/84fb2ef6-e3b7-4c0d-bacb-29f27574afc2",
+  "hidden": false,
   "id": 29872,
   "illustration": "https://phira.5wyxi.com/files/ac953b2a-8c0f-412f-855b-e6fc22a9caa4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "I'm so Happy",
   "preview": "https://phira.5wyxi.com/files/286fce62-99cd-4b8b-b844-76e6ad39ae61",
   "ranked": false,
-  "rating": 0.8482329,
-  "ratingCount": 178,
+  "rating": 0.8513322,
+  "ratingCount": 183,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

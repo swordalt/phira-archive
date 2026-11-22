@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:25Z",
-    "lastChanged": "2026-09-21T02:01:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-08T11:48:56.522443Z",
   "charter": "FT & PX",
@@ -14,6 +14,7 @@
   "description": "真的是本人上传的呐，谱师名义中的FT就是名字的缩写",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/6db5ebf3-cff7-4e6d-a4fe-61b529a6beeb",
+  "hidden": false,
   "id": 7103,
   "illustration": "https://phira.5wyxi.com/files/d77780b2-ebb0-41a9-9c74-4ec69d619526",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Faithtival",
   "preview": "https://phira.5wyxi.com/files/d26bf87b-46f0-4cc7-90d0-ffb41c4fe0c4",
   "ranked": false,
-  "rating": 0.91955256,
-  "ratingCount": 1132,
+  "rating": 0.91965854,
+  "ratingCount": 1136,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

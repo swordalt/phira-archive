@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:48Z",
-    "lastChanged": "2026-09-21T02:06:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-09T14:19:06.714983Z",
   "charter": "夏鹬",
@@ -14,6 +14,7 @@
   "description": "Malody转的 可以在小解解的群里指点",
   "difficulty": 16.6,
   "file": "https://phira.5wyxi.com/files/75073c03-1976-46b6-ba7c-1f7cd158ab15",
+  "hidden": false,
   "id": 54009,
   "illustration": "https://phira.5wyxi.com/files/675df9eb-f704-4d83-b4fe-5dacbfac94df",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "风屿",
   "preview": "https://phira.5wyxi.com/files/adc60d7a-3c4f-43fb-ac4c-7e851f47f9bc",
   "ranked": false,
-  "rating": 0.9475725,
-  "ratingCount": 365,
+  "rating": 0.94947255,
+  "ratingCount": 403,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:41Z",
-    "lastChanged": "2026-09-21T02:02:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-19T03:04:23.173393Z",
   "charter": "LiNK#D POiS0N",
@@ -14,6 +14,7 @@
   "description": "(en-us)\nmy very old chart (I think it's my 2nd or 3rd chart I forgot)\nI decided to reupload this and add some detail and fixing some problems",
   "difficulty": 12.799999,
   "file": "https://phira.5wyxi.com/files/4c4eecb3-cd1f-4464-8479-4eb527ff4a55",
+  "hidden": false,
   "id": 27835,
   "illustration": "https://phira.5wyxi.com/files/5184d0ab-28a9-4257-81a6-9996e050823d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "LINK x LIN#S",
   "preview": "https://phira.5wyxi.com/files/cb60d5a3-7fe1-4156-b474-fba620198980",
   "ranked": false,
-  "rating": 0.93230003,
-  "ratingCount": 386,
+  "rating": 0.93110937,
+  "ratingCount": 389,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

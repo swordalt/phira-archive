@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:26Z",
-    "lastChanged": "2026-09-21T02:03:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-30T11:58:07.921010Z",
   "charter": "瓜卯",
@@ -14,6 +14,7 @@
   "description": "BV1TP3czfEpj\n本人上传（",
   "difficulty": 17.100008,
   "file": "https://phira.5wyxi.com/files/574ef4bd-1a9a-49d9-8784-c13d8b91d1c7",
+  "hidden": false,
   "id": 40597,
   "illustration": "https://phira.5wyxi.com/files/c5d960f5-a457-4313-8771-787ff2ff2ee4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "熱異常",
   "preview": "https://phira.5wyxi.com/files/cca8cb94-0ea9-46f5-9aec-555158272c24",
   "ranked": false,
-  "rating": 0.8301821,
-  "ratingCount": 534,
+  "rating": 0.836958,
+  "ratingCount": 592,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

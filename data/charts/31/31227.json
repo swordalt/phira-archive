@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:53Z",
-    "lastChanged": "2026-09-21T02:02:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-30T15:09:36.680775Z",
   "charter": "vile Papilio Killed 偲烏 and 囃狼.",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.2,
   "file": "https://phira.5wyxi.com/files/51f60584-4bd2-4129-9225-a4263d88cda2",
+  "hidden": false,
   "id": 31227,
   "illustration": "https://phira.5wyxi.com/files/a287fa92-b8f5-4b9c-b2f0-d89c6d27bbf9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "彁",
   "preview": "https://phira.5wyxi.com/files/e9a0069c-387c-4889-b21a-c594615a7113",
   "ranked": false,
-  "rating": 0.8732912,
-  "ratingCount": 571,
+  "rating": 0.8727554,
+  "ratingCount": 579,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

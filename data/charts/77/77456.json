@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:15Z",
-    "lastChanged": "2026-09-27T10:16:20Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:17Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-09-07T11:58:15.323977Z",
   "charter": "Izuminohara",
@@ -14,6 +14,7 @@
   "description": "懒得写了，BV1vobp6eEWM",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/f23ed6d5-64df-4a94-8e83-f4b01dfc1bdb",
+  "hidden": false,
   "id": 77456,
   "illustration": "https://phira.5wyxi.com/files/a743bd86-c315-4f7a-b64e-fb6772d93d14",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "クロマの幻聴",
   "preview": "https://phira.5wyxi.com/files/8a1ca695-84b6-4a21-a8f1-27a426309b46",
   "ranked": false,
-  "rating": 0.90477926,
-  "ratingCount": 151,
+  "rating": 0.91788834,
+  "ratingCount": 214,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

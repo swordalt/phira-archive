@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:08Z",
-    "lastChanged": "2026-09-21T02:03:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-17T11:59:31.091852Z",
   "charter": "Kurremooll Frn（yraihy）\nbilibili@三脚猫不是沙雕",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.100008,
   "file": "https://phira.5wyxi.com/files/799dafd5-6140-41ed-a9d6-165358d5e88c",
+  "hidden": false,
   "id": 35386,
   "illustration": "https://phira.5wyxi.com/files/e4c6e0d7-cb8c-4e0b-8345-604100bb78c6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Paradise",
   "preview": "https://phira.5wyxi.com/files/6a421666-83fa-4c37-8c26-6ec6c5ec3124",
   "ranked": false,
-  "rating": 0.9000974,
-  "ratingCount": 109,
+  "rating": 0.9027213,
+  "ratingCount": 112,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

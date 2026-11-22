@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:22Z",
-    "lastChanged": "2026-09-21T02:04:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-18T12:03:39.041354Z",
   "charter": "WoMYPu",
@@ -14,6 +14,7 @@
   "description": "本人上传，沉彩杯A组决赛曲",
   "difficulty": 16.000004,
   "file": "https://phira.5wyxi.com/files/e9027778-36bd-4436-97ca-004514cb7aa1",
+  "hidden": false,
   "id": 52911,
   "illustration": "https://phira.5wyxi.com/files/747dc531-3dab-4a3e-b581-9f5141ab9251",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Straight into the lights",
   "preview": "https://phira.5wyxi.com/files/89fe80f6-b2c5-4a7c-ac8d-189f52b5dfd1",
   "ranked": false,
-  "rating": 0.8241159,
-  "ratingCount": 173,
+  "rating": 0.82780665,
+  "ratingCount": 180,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

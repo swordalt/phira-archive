@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:00Z",
-    "lastChanged": "2026-09-21T02:07:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-20T14:19:24.457877Z",
   "charter": "Eidolon「梦之始」",
@@ -14,6 +14,7 @@
   "description": "本人上传 \n5067/11290，98.21%\n\n梦离杯 TEC2026 总决赛胜者组决胜\n双指极限谱面，多指谨慎游玩",
   "difficulty": 17.5,
   "file": "https://phira.5wyxi.com/files/effa9521-eb3c-421f-92a8-12172c055403",
+  "hidden": false,
   "id": 74670,
   "illustration": "https://phira.5wyxi.com/files/f7adb375-80cc-48c9-a834-e9d0b81d306a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lost Requiem",
   "preview": "https://phira.5wyxi.com/files/603d9165-31c4-4193-877d-9d0df7d5e32b",
   "ranked": false,
-  "rating": 0.86008435,
-  "ratingCount": 13,
+  "rating": 0.86752343,
+  "ratingCount": 14,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

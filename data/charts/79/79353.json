@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-03T12:27:29Z",
-    "lastChanged": "2026-10-07T17:46:26Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:03:09Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-09-28T10:10:02.405006Z",
   "charter": "RJHXHX",
@@ -14,6 +14,7 @@
   "description": "一张以切为主带点面的谱，做了一些对于自己习惯的的改变\nB站关注 喵尾草_Official",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/f73838d6-a617-4b03-9506-e2bfab29309f",
+  "hidden": false,
   "id": 79353,
   "illustration": "https://phira.5wyxi.com/files/ec3bc5f7-3706-4562-8301-d3b2f8a4271f",
   "illustrator": "Convert by MVP",
@@ -21,8 +22,8 @@
   "name": "AiAe",
   "preview": "https://phira.5wyxi.com/files/dc710ccd-088a-4e7a-bca0-39833683dc57",
   "ranked": false,
-  "rating": 0.9113041,
-  "ratingCount": 22,
+  "rating": 0.9307523,
+  "ratingCount": 40,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

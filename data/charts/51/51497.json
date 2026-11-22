@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:13Z",
-    "lastChanged": "2026-09-21T02:04:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-22T11:01:24.718095Z",
   "charter": "景夜夜.最后一击！",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/92d87a1c-088c-447b-b893-57f4a61204fa",
+  "hidden": false,
   "id": 51497,
   "illustration": "https://phira.5wyxi.com/files/735a050e-ceb9-4e2a-8d52-72a3a6b2f629",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "最后一击",
   "preview": "https://phira.5wyxi.com/files/30725376-96f9-4d5b-8a25-90c2eb314bfb",
   "ranked": false,
-  "rating": 0.8365554,
-  "ratingCount": 45,
+  "rating": 0.85126287,
+  "ratingCount": 53,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:50Z",
-    "lastChanged": "2026-09-21T02:05:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-23T04:09:17.896485Z",
   "charter": "WinterPT",
@@ -14,6 +14,7 @@
   "description": "第一次在phira上传4k谱",
   "difficulty": 23.0,
   "file": "https://phira.5wyxi.com/files/78c7994c-383f-41ba-9cca-015a6b994039",
+  "hidden": false,
   "id": 21751,
   "illustration": "https://phira.5wyxi.com/files/de4dca8d-e248-4a4a-aba0-add15f4f9356",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Resolution",
   "preview": "https://phira.5wyxi.com/files/e7fd27d3-ab3d-4b61-9f08-6e4f20f30721",
   "ranked": false,
-  "rating": 0.9528677,
-  "ratingCount": 519,
+  "rating": 0.9532708,
+  "ratingCount": 523,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

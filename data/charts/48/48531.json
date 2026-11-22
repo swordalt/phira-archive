@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:00Z",
-    "lastChanged": "2026-09-21T02:04:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-28T07:01:07.216564Z",
   "charter": "高等数学一生推",
@@ -14,6 +14,7 @@
   "description": "第一次写谱，特效，排键等方面必然有所欠缺，望不吝赐教！",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/b12d2af5-8454-4a4b-8ac4-689eb6d63a56",
+  "hidden": false,
   "id": 48531,
   "illustration": "https://phira.5wyxi.com/files/733acf90-a1ca-4331-a372-3c1e8216b663",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "YUMEND",
   "preview": "https://phira.5wyxi.com/files/02cbcdde-174a-4256-8302-0607847a55f2",
   "ranked": false,
-  "rating": 0.9215411,
-  "ratingCount": 116,
+  "rating": 0.92363554,
+  "ratingCount": 122,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

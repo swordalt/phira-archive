@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:06Z",
-    "lastChanged": "2026-09-21T02:03:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-02T08:15:57.266656Z",
   "charter": "{Lep&Mi4Da} in the lights",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.6,
   "file": "https://phira.5wyxi.com/files/a477e40c-d97a-451b-b71e-5ec5e77df504",
+  "hidden": false,
   "id": 34733,
   "illustration": "https://phira.5wyxi.com/files/aa1ce1d0-b5cc-44c5-a7cd-eb6493a1a4a9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Straight into the lights",
   "preview": "https://phira.5wyxi.com/files/f4ffdbf4-156d-4b6d-8889-c954c97d04cd",
   "ranked": false,
-  "rating": 0.7571307,
-  "ratingCount": 437,
+  "rating": 0.7579601,
+  "ratingCount": 439,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

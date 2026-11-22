@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:47Z",
-    "lastChanged": "2026-09-21T02:02:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-17T09:28:10.846377Z",
   "charter": "apha",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 11.999998,
   "file": "https://phira.5wyxi.com/files/f6486252-f888-4c2c-ac03-0e94ece9f8ca",
+  "hidden": false,
   "id": 29809,
   "illustration": "https://phira.5wyxi.com/files/d2d673fa-83c2-46d8-9024-79433460c7ff",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "とおりゃんせ~甘美風来(inst.)",
   "preview": "https://phira.5wyxi.com/files/9921ccac-ec2b-4f3d-86e1-df67a1f6a3be",
   "ranked": false,
-  "rating": 0.862223,
-  "ratingCount": 179,
+  "rating": 0.8652371,
+  "ratingCount": 183,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

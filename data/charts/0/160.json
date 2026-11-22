@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:04Z",
-    "lastChanged": "2026-09-21T02:01:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "Light",
@@ -14,6 +14,7 @@
   "description": "本自制谱为代替上传，作者为Light--丶 B站UID14722506，经原作者同意",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/b9165356-1e0d-481d-860e-ce4aa42d3e2f",
+  "hidden": false,
   "id": 160,
   "illustration": "https://phira.5wyxi.com/files/410d036a-115f-4895-b15d-a70407cd7200",
   "illustrator": "UK",
@@ -21,8 +22,8 @@
   "name": "春娇与志明",
   "preview": "https://phira.5wyxi.com/files/bd04744b-4af6-4ff3-a536-75ff60173104",
   "ranked": false,
-  "rating": 0.912013,
-  "ratingCount": 20386,
+  "rating": 0.91145605,
+  "ratingCount": 21689,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

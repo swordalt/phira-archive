@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:38Z",
-    "lastChanged": "2026-09-21T02:04:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-27T16:15:46.360966Z",
   "charter": "Cy瓜",
@@ -14,6 +14,7 @@
   "description": "本人上传\nB站搜索Cy瓜观看谱面演示",
   "difficulty": 14.799999,
   "file": "https://phira.5wyxi.com/files/5019b58d-4231-4b00-8591-81f67840feb8",
+  "hidden": false,
   "id": 57252,
   "illustration": "https://phira.5wyxi.com/files/ab5f228c-3905-4046-abd4-d0184ec1914b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Box",
   "preview": "https://phira.5wyxi.com/files/61b55a0e-0cc8-4cc2-9515-f263c1153d41",
   "ranked": false,
-  "rating": 0.9072091,
-  "ratingCount": 43,
+  "rating": 0.88979274,
+  "ratingCount": 48,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

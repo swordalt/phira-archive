@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:59Z",
-    "lastChanged": "2026-09-21T02:06:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-28T23:04:49.491786Z",
   "charter": "派尔姆猫",
@@ -14,6 +14,7 @@
   "description": "谱师B站:派尔姆猫\n曲绘:使用了了可漏大佬的抠图模板。原作（Chloe modified）",
   "difficulty": 16.500004,
   "file": "https://phira.5wyxi.com/files/8a6dfdaa-ed5f-4815-8647-c14f9b08b2d1",
+  "hidden": false,
   "id": 69804,
   "illustration": "https://phira.5wyxi.com/files/de42ed02-9940-446c-8d95-55e953b66813",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "まみむめ まるっと まっしゅるーむ",
   "preview": "https://phira.5wyxi.com/files/3fec2cbd-5cbb-4b18-b05d-4852f655efed",
   "ranked": false,
-  "rating": 0.91868067,
-  "ratingCount": 44,
+  "rating": 0.91986454,
+  "ratingCount": 47,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

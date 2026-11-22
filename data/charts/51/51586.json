@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:15Z",
-    "lastChanged": "2026-09-21T02:04:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-24T07:48:57.544618Z",
   "charter": "FZSO5071 with some CengBuLuShen",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传 请打回整活区50829",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/fed80479-5e70-432a-98af-ae7d540d9024",
+  "hidden": false,
   "id": 51586,
   "illustration": "https://phira.5wyxi.com/files/e2d160bd-320f-4405-a5b8-410d6b895d19",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bosssa Gabba",
   "preview": "https://phira.5wyxi.com/files/0379e109-8069-446d-9c3e-4f98ab0a00b0",
   "ranked": false,
-  "rating": 0.8912902,
-  "ratingCount": 38,
+  "rating": 0.8857267,
+  "ratingCount": 40,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:49Z",
-    "lastChanged": "2026-09-21T02:06:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-05T11:05:59.895147Z",
   "charter": "nwn凝望",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，2小时速写谱，望通过",
   "difficulty": 18.000002,
   "file": "https://phira.5wyxi.com/files/10ce8f94-13cb-446b-84a7-b316d210362b",
+  "hidden": false,
   "id": 55091,
   "illustration": "https://phira.5wyxi.com/files/ba9f9ee8-5755-4988-b2d4-9930bae119c4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "宙天",
   "preview": "https://phira.5wyxi.com/files/bc38c419-5b97-4c16-8410-a857bc66d866",
   "ranked": false,
-  "rating": 0.90199274,
-  "ratingCount": 374,
+  "rating": 0.9054869,
+  "ratingCount": 393,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

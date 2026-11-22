@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:52Z",
-    "lastChanged": "2026-09-21T02:03:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-21T05:37:15.178365Z",
   "charter": "程荧星光",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.9,
   "file": "https://phira.5wyxi.com/files/423ec50f-36ec-4ec5-8423-5f8e13197a2c",
+  "hidden": false,
   "id": 47032,
   "illustration": "https://phira.5wyxi.com/files/fc09537a-81e4-4166-aa04-a8bb3c6c3e37",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "献花の番人",
   "preview": "https://phira.5wyxi.com/files/da48c9d2-5823-4f68-abcd-9b2771bac394",
   "ranked": false,
-  "rating": 0.82837534,
-  "ratingCount": 43,
+  "rating": 0.81718993,
+  "ratingCount": 50,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

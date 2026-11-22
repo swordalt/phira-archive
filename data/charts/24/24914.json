@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:28Z",
-    "lastChanged": "2026-09-21T02:02:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-01T06:52:25.209491Z",
   "charter": "空白died",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 2.0,
   "file": "https://phira.5wyxi.com/files/acc1125f-feda-406e-b912-c5c638adc4a3",
+  "hidden": false,
   "id": 24914,
   "illustration": "https://phira.5wyxi.com/files/ef1ba715-ed2a-4b55-998f-e24e1afef154",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "冒险结束",
   "preview": "https://phira.5wyxi.com/files/30850779-b769-4cb8-a197-d44ac476a82f",
   "ranked": false,
-  "rating": 0.87989074,
-  "ratingCount": 130,
+  "rating": 0.8785925,
+  "ratingCount": 136,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

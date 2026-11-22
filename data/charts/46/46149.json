@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:48Z",
-    "lastChanged": "2026-09-21T02:03:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-30T12:14:46.788396Z",
   "charter": "HuAnMo66",
@@ -14,6 +14,7 @@
   "description": "新人做铺，改一下之前发的那个，之前那个尾杀有点抽象",
   "difficulty": 17.2,
   "file": "https://phira.5wyxi.com/files/307e4980-05fc-46cd-a0b6-0283a41f70fc",
+  "hidden": false,
   "id": 46149,
   "illustration": "https://phira.5wyxi.com/files/6d5a74d4-9ff8-41ea-9bc1-789f4f3a3160",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "系ぎて",
   "preview": "https://phira.5wyxi.com/files/8b049d21-4a83-4336-a7be-1a44d15273f3",
   "ranked": false,
-  "rating": 0.7692176,
-  "ratingCount": 140,
+  "rating": 0.7741987,
+  "ratingCount": 153,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

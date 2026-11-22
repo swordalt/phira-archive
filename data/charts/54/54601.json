@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:30Z",
-    "lastChanged": "2026-09-21T02:04:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-27T15:19:52.028998Z",
   "charter": "we witnessed 7 wonders, and the 0th day falls...",
@@ -14,6 +14,7 @@
   "description": "0thPecJam内场参赛谱 RG No.7，由我与半秋Autino合作完成。大概是本人近期最用心写的一张，不过写了些比较混沌的东西。希望各位喜欢！\r\n\r\n@半秋Autino#825",
   "difficulty": 16.000004,
   "file": "https://phira.5wyxi.com/files/c5eb4240-5983-4531-bb91-3cd35854cd75",
+  "hidden": false,
   "id": 54601,
   "illustration": "https://phira.5wyxi.com/files/237d0f8d-ac16-4d67-8387-6f63829fde9f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "7 Wonders",
   "preview": "https://phira.5wyxi.com/files/2db88c0a-ab9d-4c04-a77b-841d7d97155f",
   "ranked": true,
-  "rating": 0.8415269,
-  "ratingCount": 1394,
+  "rating": 0.84113586,
+  "ratingCount": 1484,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:01Z",
-    "lastChanged": "2026-09-21T02:06:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-17T15:17:03.946755Z",
   "charter": "奥霓秘法",
@@ -14,6 +14,7 @@
   "description": "malody转谱～",
   "difficulty": 14.799995,
   "file": "https://phira.5wyxi.com/files/f44379c0-1910-48c8-ace6-dd34c34c6233",
+  "hidden": false,
   "id": 27787,
   "illustration": "https://phira.5wyxi.com/files/69a96f4a-20b2-4736-8f31-878538882929",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "iL-Artifact",
   "preview": "https://phira.5wyxi.com/files/c835a950-c0d6-41f7-ad55-5e2a7ee9774d",
   "ranked": false,
-  "rating": 0.8603608,
-  "ratingCount": 42,
+  "rating": 0.8506768,
+  "ratingCount": 43,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

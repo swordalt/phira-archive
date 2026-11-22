@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:39Z",
-    "lastChanged": "2026-09-21T02:05:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-02T18:07:38.815313Z",
   "charter": "Team Frog",
@@ -14,6 +14,7 @@
   "description": "看好了 这首歌写双指高难是这么写的\n有空写动效",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/f974e7fc-6f40-4bbf-bcb3-7dc5b5d9930e",
+  "hidden": false,
   "id": 13212,
   "illustration": "https://phira.5wyxi.com/files/7c058212-c78f-4b52-a41a-4fd4cfc459dd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "+ERABY+E CONNEC+10N",
   "preview": "https://phira.5wyxi.com/files/a91758c2-8dc9-4ea4-bb78-85b15f66f951",
   "ranked": false,
-  "rating": 0.8128398,
-  "ratingCount": 197,
+  "rating": 0.8140848,
+  "ratingCount": 201,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

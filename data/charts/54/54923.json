@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:33Z",
-    "lastChanged": "2026-09-21T02:04:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-14T07:39:34.936965Z",
   "charter": "寒?���烫烫烫烫烫烫烫烫烫",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n26.6.14 重写了后半段\n2ndWMC参赛谱，位2\n视听特化谱，原理省流: \n    觉得容易爆的地方除了长条都是假的，都是黄键代替的\n    缓降的长条也是假的\n    闪现出来的黄键都是蓝键\n实在不明白可以下载本谱面研究\nB站与Phira同名",
   "difficulty": 13.600002,
   "file": "https://phira.5wyxi.com/files/b06a7a6a-90aa-428e-8963-3fe140a6d252",
+  "hidden": false,
   "id": 54923,
   "illustration": "https://phira.5wyxi.com/files/0deda0b8-a7be-43e0-aea0-2b47c86ddf7c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Aconsma",
   "preview": "https://phira.5wyxi.com/files/4a2eb998-eff8-4c18-9373-0e0dec51421d",
   "ranked": false,
-  "rating": 0.9213725,
-  "ratingCount": 781,
+  "rating": 0.9202078,
+  "ratingCount": 816,
   "reviewed": true,
   "stable": false,
   "stableRequest": true,

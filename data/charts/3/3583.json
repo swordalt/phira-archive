@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:15Z",
-    "lastChanged": "2026-09-21T02:01:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-16T22:54:22.030970Z",
   "charter": "ssjdtz",
@@ -14,6 +14,7 @@
   "description": "B站@神世界の团长（qq阿娘娘木腻）原视频BV1HG4y127yt 有微调\n",
   "difficulty": 14.200001,
   "file": "https://phira.5wyxi.com/files/3dd5c667-d210-4d70-a4a7-7b7ca4ba8fd3",
+  "hidden": false,
   "id": 3583,
   "illustration": "https://phira.5wyxi.com/files/b266387b-3bf8-494f-8d5c-66463e18f2ec",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Imaginary World",
   "preview": "https://phira.5wyxi.com/files/369255c2-6ea3-4b3b-a392-ac25f7d09fc8",
   "ranked": false,
-  "rating": 0.903294,
-  "ratingCount": 218,
+  "rating": 0.9041742,
+  "ratingCount": 220,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:30Z",
-    "lastChanged": "2026-09-21T02:06:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-20T04:15:48.012642Z",
   "charter": "小小唐灵吖.",
@@ -14,6 +14,7 @@
   "description": "『十字哦~嘿嘿』",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/e6a55ed1-3901-4a42-8de9-6e3c35998f48",
+  "hidden": false,
   "id": 45219,
   "illustration": "https://phira.5wyxi.com/files/c3bd16fc-f1e0-4f8b-8ff6-9a6f2a365c77",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "刽子手",
   "preview": "https://phira.5wyxi.com/files/c1d425ed-fc64-4d8e-8514-a135a7c1c9bf",
   "ranked": false,
-  "rating": 0.8453503,
-  "ratingCount": 30,
+  "rating": 0.836481,
+  "ratingCount": 32,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

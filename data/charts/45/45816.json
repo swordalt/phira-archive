@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:32Z",
-    "lastChanged": "2026-09-21T02:06:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-27T07:12:45.859061Z",
   "charter": "Tears",
@@ -14,6 +14,7 @@
   "description": "Malody转谱\n谱师为我本人，朋友委托而作",
   "difficulty": 27.0,
   "file": "https://phira.5wyxi.com/files/9347ce99-1528-493f-b92f-f615c26e84d1",
+  "hidden": false,
   "id": 45816,
   "illustration": "https://phira.5wyxi.com/files/e1bbe393-4e22-4e27-8005-28e1c6711896",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Avantgarde",
   "preview": "https://phira.5wyxi.com/files/dc1eeb15-79f8-4c87-9294-24fe91aaefb6",
   "ranked": false,
-  "rating": 0.94496197,
-  "ratingCount": 349,
+  "rating": 0.9452474,
+  "ratingCount": 370,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

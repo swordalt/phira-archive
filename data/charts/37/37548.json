@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:16Z",
-    "lastChanged": "2026-09-21T02:03:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-04T14:51:16.671891Z",
   "charter": "@p[name=Thaugh]",
@@ -14,6 +14,7 @@
   "description": "四天速写 哔站同名",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/61162a86-c863-483e-aba6-831b9fe429ab",
+  "hidden": false,
   "id": 37548,
   "illustration": "https://phira.5wyxi.com/files/fbdd0984-d3e0-4da2-ae45-4607e791fd65",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Steve's Lava Chicken (Camellia Remix)",
   "preview": "https://phira.5wyxi.com/files/ca1ebb37-6382-4ef4-9891-bc8cddecf2f3",
   "ranked": false,
-  "rating": 0.9132286,
-  "ratingCount": 1353,
+  "rating": 0.9104813,
+  "ratingCount": 1384,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

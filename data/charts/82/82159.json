@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-25T18:58:23Z",
-    "lastChanged": "2026-10-26T12:49:31Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:03:13Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-25T09:46:36.818423Z",
   "charter": "Anxiety",
@@ -14,6 +14,7 @@
   "description": "DFC 6th Dan(Sample) 考核\n乱：SAY BAY\n叠：Final Step!\n技：可愛くてごめん\n切：RTRT\nBPM:165/180/160/约132\n定数：6.2/5.9/6.4/6.3\n过段标准：97.96%\n后光标准：98.98%\n击破标准：99.66%",
   "difficulty": 6.0,
   "file": "https://phira.5wyxi.com/files/850d6884-64af-4cf0-8e91-09b2a95f8c1b",
+  "hidden": false,
   "id": 82159,
   "illustration": "https://phira.5wyxi.com/files/ce3b09fc-8070-4eb0-b0c5-5e9f003f991b",
   "illustrator": "Anxiety",
@@ -21,8 +22,8 @@
   "name": "DFC 6th Dan(Sample)",
   "preview": "https://phira.5wyxi.com/files/71ae5293-5ba5-439a-a278-c12484db3b6b",
   "ranked": false,
-  "rating": 0.87991786,
-  "ratingCount": 6,
+  "rating": 0.9526673,
+  "ratingCount": 240,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

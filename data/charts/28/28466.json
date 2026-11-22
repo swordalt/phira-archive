@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:43Z",
-    "lastChanged": "2026-09-21T02:02:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-07T01:52:59.721167Z",
   "charter": "Massive Charters",
@@ -14,6 +14,7 @@
   "description": "（本人上传）",
   "difficulty": 3.4999995,
   "file": "https://phira.5wyxi.com/files/df44c6ad-b4d7-4160-a480-db01138f4bff",
+  "hidden": false,
   "id": 28466,
   "illustration": "https://phira.5wyxi.com/files/387e3f43-7932-4b17-bcce-ac7007c5691f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Identifier",
   "preview": "https://phira.5wyxi.com/files/7042dcc1-b963-4ae2-be02-bbc23f744ea0",
   "ranked": false,
-  "rating": 0.90693986,
-  "ratingCount": 131,
+  "rating": 0.9075719,
+  "ratingCount": 136,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:12Z",
-    "lastChanged": "2026-09-21T02:04:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-26T12:27:11.995994Z",
   "charter": "EntityDragon.class",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 14.300001,
   "file": "https://phira.5wyxi.com/files/40699f40-bc63-4be8-9735-5a741c204e08",
+  "hidden": false,
   "id": 51307,
   "illustration": "https://phira.5wyxi.com/files/4263cf6c-4e1a-4f5a-a017-428984802522",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "断腿进行曲",
   "preview": "https://phira.5wyxi.com/files/f6bb3a2a-4987-4445-b76c-0b65284962c7",
   "ranked": false,
-  "rating": 0.90325105,
-  "ratingCount": 201,
+  "rating": 0.90200764,
+  "ratingCount": 205,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

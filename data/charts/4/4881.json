@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-08T02:20:02.797938Z",
   "charter": "Euphonium",
@@ -14,6 +14,7 @@
   "description": "能采的音都采了.jpg",
   "difficulty": 12.1,
   "file": "https://phira.5wyxi.com/files/8727e9ad-4e3e-4415-b8fa-0ab2db215d3f",
+  "hidden": false,
   "id": 4881,
   "illustration": "https://phira.5wyxi.com/files/c3f6a788-e2d1-421e-8b02-1daaa2030848",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "響け! ユーフォニアム (久美子と二人きり Ver.)",
   "preview": "https://phira.5wyxi.com/files/16b45321-3f65-4a46-bea1-baa004046f11",
   "ranked": false,
-  "rating": 0.8839684,
-  "ratingCount": 235,
+  "rating": 0.88445985,
+  "ratingCount": 236,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

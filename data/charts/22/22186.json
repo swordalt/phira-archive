@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:51Z",
-    "lastChanged": "2026-09-21T02:05:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-29T11:06:11.412613Z",
   "charter": "ye -srx-",
@@ -14,6 +14,7 @@
   "description": "大开！           本人上传，喜欢玩这个可以试试以前传的加速器",
   "difficulty": 17.2,
   "file": "https://phira.5wyxi.com/files/c2777eda-ec1d-4677-8661-bac53aca92a1",
+  "hidden": false,
   "id": 22186,
   "illustration": "https://phira.5wyxi.com/files/aa610120-b714-4b16-94e5-8a5478080fff",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GAME: CHANGER",
   "preview": "https://phira.5wyxi.com/files/7efec707-f742-496c-a7c2-0caddc8e262c",
   "ranked": false,
-  "rating": 0.8946062,
-  "ratingCount": 81,
+  "rating": 0.8970589,
+  "ratingCount": 83,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

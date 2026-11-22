@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:23Z",
-    "lastChanged": "2026-09-21T02:03:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-15T08:55:34.267484Z",
   "charter": "Passenger",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n第一次写谱\n有不足欢迎指出\nb站：冒号Passenger",
   "difficulty": 11.400005,
   "file": "https://phira.5wyxi.com/files/b865e5b4-7ade-4e0c-aff3-671b8e6b1bb8",
+  "hidden": false,
   "id": 39746,
   "illustration": "https://phira.5wyxi.com/files/25aa219a-0395-4359-899a-fd2cc968bad9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "再飞行",
   "preview": "https://phira.5wyxi.com/files/56428c5e-3a3c-44a1-86ff-4fa3c279e816",
   "ranked": false,
-  "rating": 0.95333356,
-  "ratingCount": 1330,
+  "rating": 0.9536105,
+  "ratingCount": 1395,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

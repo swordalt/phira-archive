@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:15Z",
-    "lastChanged": "2026-09-21T02:02:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-01T07:57:50.196205Z",
   "charter": "silentSea",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，B站@silentSea-霍格",
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/99cc1f63-1998-494b-87a6-ae013f6f3c0a",
+  "hidden": false,
   "id": 20612,
   "illustration": "https://phira.5wyxi.com/files/1139560e-f107-4685-9ef2-14e12f52e49a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Manifold Hypothesis",
   "preview": "https://phira.5wyxi.com/files/466ae929-2e6b-423b-a176-700df7336b0b",
   "ranked": false,
-  "rating": 0.87546957,
-  "ratingCount": 150,
+  "rating": 0.8750822,
+  "ratingCount": 151,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-08T17:50:28Z",
-    "lastChanged": "2026-10-09T05:59:06Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:02:27Z",
+    "revisions": 4
   },
   "chartUpdated": "2025-12-06T11:09:18.048820Z",
   "charter": "ARiV",
@@ -14,6 +14,7 @@
   "description": "谱面预览：BV1Jj29BNEQ6 非常好听遂写了一张4k，配置可能会有点卡手，前后难度有点不均，但是感觉总体质量还可以",
   "difficulty": 14.400001,
   "file": "https://phira.5wyxi.com/files/77bac0ae-037f-4091-af01-cde678d84e60",
+  "hidden": false,
   "id": 49876,
   "illustration": "https://phira.5wyxi.com/files/ae654414-c516-4041-a944-87020196c3dd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "《偏愛》 ～ Shattered Memories",
   "preview": "https://phira.5wyxi.com/files/cb94da67-a2b5-46fa-8559-7d90222846e8",
   "ranked": false,
-  "rating": 0.8879031,
-  "ratingCount": 8,
+  "rating": 0.9372118,
+  "ratingCount": 72,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

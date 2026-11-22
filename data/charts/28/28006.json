@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:41Z",
-    "lastChanged": "2026-09-21T02:02:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-24T13:20:12.820020Z",
   "charter": "XMM",
@@ -14,6 +14,7 @@
   "description": "底力爆发双指谱",
   "difficulty": 15.899996,
   "file": "https://phira.5wyxi.com/files/40a4c9db-a08a-43ad-aea2-479fdc43693a",
+  "hidden": false,
   "id": 28006,
   "illustration": "https://phira.5wyxi.com/files/cddc7319-5053-4aff-ace2-adf87ab5c84f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Vulnerability",
   "preview": "https://phira.5wyxi.com/files/91a11640-52cf-4665-a61d-26e90e6635d3",
   "ranked": false,
-  "rating": 0.90467876,
-  "ratingCount": 136,
+  "rating": 0.90595186,
+  "ratingCount": 145,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

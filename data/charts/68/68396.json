@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:02Z",
-    "lastChanged": "2026-09-21T02:05:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-22T08:30:49.868779Z",
   "charter": "不吃香菜！！",
@@ -14,6 +14,7 @@
   "description": "本人上传，绿色音符为全屏判定",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/abb59ba4-58a8-4322-8979-3902853fb72c",
+  "hidden": false,
   "id": 68396,
   "illustration": "https://phira.5wyxi.com/files/8edc16a4-2c0a-4108-a80c-a9e9df6c6a5c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "FUN!!",
   "preview": "https://phira.5wyxi.com/files/cc1b75a8-fe38-4890-b000-156137866d10",
   "ranked": false,
-  "rating": 0.84434664,
-  "ratingCount": 20,
+  "rating": 0.867155,
+  "ratingCount": 31,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

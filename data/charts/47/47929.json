@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:56Z",
-    "lastChanged": "2026-09-21T02:03:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-10T18:51:10.741338Z",
   "charter": "Q.N.R.J.",
@@ -14,6 +14,7 @@
   "description": "萌新第一张多指谱，写的比较整活，建议先研究手序再打（）",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/8a8e1214-41b5-427f-a7ae-24e9d0c4b6e7",
+  "hidden": false,
   "id": 47929,
   "illustration": "https://phira.5wyxi.com/files/126d095e-89c9-4f1d-88ce-98691d29d895",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sphalerite",
   "preview": "https://phira.5wyxi.com/files/4aafb21f-d3a9-4fb1-88dc-3377e79fd8f6",
   "ranked": false,
-  "rating": 0.68611425,
-  "ratingCount": 30,
+  "rating": 0.6835986,
+  "ratingCount": 32,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

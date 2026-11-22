@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:51Z",
-    "lastChanged": "2026-09-21T02:05:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-02T12:50:19.603887Z",
   "charter": "Rw_Kinrain",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/d31ed1b3-7cba-42bc-abe5-db6a3f616222",
+  "hidden": false,
   "id": 22480,
   "illustration": "https://phira.5wyxi.com/files/f851ef4c-bafb-41ab-8fd0-34f6bcbb2eaf",
   "illustrator": "",

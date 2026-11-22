@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:25Z",
-    "lastChanged": "2026-09-21T02:02:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-24T04:16:49.308982Z",
   "charter": "千行鸽",
@@ -14,6 +14,7 @@
   "description": "新人第一次制谱，请多多关照(*'▽'*)♪",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/5e6c381b-9eaf-422d-9b2f-ff2d6120510a",
+  "hidden": false,
   "id": 24209,
   "illustration": "https://phira.5wyxi.com/files/7d11bc1e-eed6-4921-a1d8-01a6cd8a9cbd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "老人と海",
   "preview": "https://phira.5wyxi.com/files/6c2e7291-4f2e-40de-904c-5dca6bb15214",
   "ranked": false,
-  "rating": 0.89892894,
-  "ratingCount": 2594,
+  "rating": 0.8981843,
+  "ratingCount": 2737,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

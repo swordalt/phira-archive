@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:07Z",
-    "lastChanged": "2026-09-21T02:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-08T13:16:23.994605Z",
   "charter": "屛庐",
@@ -14,6 +14,7 @@
   "description": "b站视频：BV1xdPsejELh\n此谱面为二改，修改了一些特效和配置\n",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/68647492-aebc-499f-aeee-11c80ddb6d0e",
+  "hidden": false,
   "id": 34974,
   "illustration": "https://phira.5wyxi.com/files/5f668020-0686-47ac-8496-8a1b467778a8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ラビットホール",
   "preview": "https://phira.5wyxi.com/files/f8376df0-c2a8-4c23-b0ee-561014f8c861",
   "ranked": false,
-  "rating": 0.9114331,
-  "ratingCount": 4603,
+  "rating": 0.9115654,
+  "ratingCount": 4716,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

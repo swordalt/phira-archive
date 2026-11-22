@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:26Z",
-    "lastChanged": "2026-09-21T02:03:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-30T03:14:13.260152Z",
   "charter": "Phigros柠檬   超菜菜鸡",
@@ -14,6 +14,7 @@
   "description": "16.7",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/9309e084-b857-4472-844f-555b4a43fa4f",
+  "hidden": false,
   "id": 40556,
   "illustration": "https://phira.5wyxi.com/files/d37ccbb8-f23c-4f00-83d4-42910b9276a0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Wildest Dreams",
   "preview": "https://phira.5wyxi.com/files/0aa992d8-e61d-493c-abf4-d5bac742e60f",
   "ranked": false,
-  "rating": 0.8416549,
-  "ratingCount": 113,
+  "rating": 0.83789694,
+  "ratingCount": 114,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

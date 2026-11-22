@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:22Z",
-    "lastChanged": "2026-09-21T02:05:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-04T01:57:48.467297Z",
   "charter": "MLSFX",
@@ -14,6 +14,7 @@
   "description": "第1次勉强可以的吧，就是懒了点",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/0c09d4a1-f9c2-4ad4-8aea-def79ba67bbc",
+  "hidden": false,
   "id": 14756,
   "illustration": "https://phira.5wyxi.com/files/0555882d-2b47-48fe-aa4a-dafaad3a1189",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "什么b动静",
   "preview": "https://phira.5wyxi.com/files/5a11ca01-51e8-4623-bb27-30e7ff77a948",
   "ranked": false,
-  "rating": 0.92257047,
-  "ratingCount": 972,
+  "rating": 0.92180824,
+  "ratingCount": 983,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

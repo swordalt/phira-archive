@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-26T11:08:05.774867Z",
   "charter": "友好的HIM",
@@ -14,6 +14,7 @@
   "description": "第一版，不好再改\n搭配原phigros资源包效果最佳",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/fa91d088-f09e-4600-947e-3ad9f93e2d96",
+  "hidden": false,
   "id": 18921,
   "illustration": "https://phira.5wyxi.com/files/e51596c5-e0fd-4df1-b2fd-b06a255ba9cd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "R",
   "preview": "https://phira.5wyxi.com/files/9dcb8511-7e59-4931-a7d6-8bb42a50c806",
   "ranked": false,
-  "rating": 0.8696476,
-  "ratingCount": 367,
+  "rating": 0.86877966,
+  "ratingCount": 374,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:20Z",
-    "lastChanged": "2026-09-21T02:03:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-28T14:26:31.600704Z",
   "charter": "苏Tzu",
@@ -14,6 +14,7 @@
   "description": "生日作",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/9a14cc50-e668-4ddc-8837-81c136a77933",
+  "hidden": false,
   "id": 38841,
   "illustration": "https://phira.5wyxi.com/files/d00e181c-1fe9-469d-89da-09c9e13db3f7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "寂灭终日",
   "preview": "https://phira.5wyxi.com/files/04457dab-aa26-4be6-a2ef-1ef20e951a8c",
   "ranked": false,
-  "rating": 0.9146609,
-  "ratingCount": 223,
+  "rating": 0.9159296,
+  "ratingCount": 233,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

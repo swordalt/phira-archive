@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:29Z",
-    "lastChanged": "2026-09-21T02:04:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-20T14:24:45.059007Z",
   "charter": "Ferrous_ion",
@@ -14,6 +14,7 @@
   "description": "B站：Zhi3_N",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/f9e0421f-7e6c-45c2-a795-2474e6a0ba4c",
+  "hidden": false,
   "id": 54326,
   "illustration": "https://phira.5wyxi.com/files/3dd5a2c0-b2f6-4027-9259-47e7f99121cd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Journey",
   "preview": "https://phira.5wyxi.com/files/420d4c61-3440-4809-bbda-1c4e92d5520c",
   "ranked": false,
-  "rating": 0.86982584,
-  "ratingCount": 33,
+  "rating": 0.88114285,
+  "ratingCount": 39,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:31Z",
-    "lastChanged": "2026-09-21T02:06:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-23T15:26:03.385949Z",
   "charter": "夜空",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 7.0,
   "file": "https://phira.5wyxi.com/files/a846173b-5003-4b8e-9d61-36bd79f751ba",
+  "hidden": false,
   "id": 45541,
   "illustration": "https://phira.5wyxi.com/files/1efa96bf-747e-4a84-a2d5-cc4071b6a5c8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "日不落",
   "preview": "https://phira.5wyxi.com/files/42fc74e9-ee99-4a67-9a11-57ace20cb5de",
   "ranked": false,
-  "rating": 0.9067187,
-  "ratingCount": 253,
+  "rating": 0.91042614,
+  "ratingCount": 268,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

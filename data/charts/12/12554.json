@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:45Z",
-    "lastChanged": "2026-09-21T02:01:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-16T13:53:23.821643Z",
   "charter": "R3FRACTED_DR3AMLAND",
@@ -14,6 +14,7 @@
   "description": "(en-US)\nChart made by:\ntempo (DR3AMLAND)\nmojira (r3frAct0R)",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/4c91663c-c069-4deb-b820-39c2803b35f0",
+  "hidden": false,
   "id": 12554,
   "illustration": "https://phira.5wyxi.com/files/70bc4325-004d-4688-941b-14defec691bd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dream Flower",
   "preview": "https://phira.5wyxi.com/files/ff3c9389-13c7-4b48-9cd8-35d528478646",
   "ranked": false,
-  "rating": 0.9516091,
-  "ratingCount": 648,
+  "rating": 0.95168084,
+  "ratingCount": 651,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

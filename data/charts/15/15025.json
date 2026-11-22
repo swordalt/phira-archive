@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:54Z",
-    "lastChanged": "2026-09-21T02:01:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-08T09:59:31.068255Z",
   "charter": "Noapjustfc",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/c6d2e015-9575-4b19-82e3-1788e7ea467e",
+  "hidden": false,
   "id": 15025,
   "illustration": "https://phira.5wyxi.com/files/c7839984-c429-429e-ba2f-4ccaf58b8f20",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mutation",
   "preview": "https://phira.5wyxi.com/files/3dd99eb3-8f4c-450d-97bd-0c200c837018",
   "ranked": false,
-  "rating": 0.8379806,
-  "ratingCount": 126,
+  "rating": 0.8366551,
+  "ratingCount": 127,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

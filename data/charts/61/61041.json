@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:49Z",
-    "lastChanged": "2026-09-21T02:04:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-15T06:28:52.193577Z",
   "charter": "linzaizal³",
@@ -14,6 +14,7 @@
   "description": "多指键盘\n配置向，参考了本家紫谱和白谱配置",
   "difficulty": 17.300001,
   "file": "https://phira.5wyxi.com/files/65c031c4-7e11-4692-9458-eb5606032153",
+  "hidden": false,
   "id": 61041,
   "illustration": "https://phira.5wyxi.com/files/3037d5fe-e773-4f29-9971-f53e666452c0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Cuvism³",
   "preview": "https://phira.5wyxi.com/files/cc965192-10e6-4183-8383-e09dd4976da6",
   "ranked": false,
-  "rating": 0.8743515,
-  "ratingCount": 183,
+  "rating": 0.88297516,
+  "ratingCount": 236,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

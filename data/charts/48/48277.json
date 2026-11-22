@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:58Z",
-    "lastChanged": "2026-09-21T02:03:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-22T00:31:12.577282Z",
   "charter": "Cybifer - \"怪獣じゃなくて、人間になりたい\"",
@@ -14,6 +14,7 @@
   "description": "Cybifer癫疯之作！不希望各位玩得开心！",
   "difficulty": 3.7999985,
   "file": "https://phira.5wyxi.com/files/b5d289a1-0cb0-448a-b92d-b2108443477f",
+  "hidden": false,
   "id": 48277,
   "illustration": "https://phira.5wyxi.com/files/37137b4e-cae7-45be-a8a2-97e13d9263d3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "怪獣になりたい",
   "preview": "https://phira.5wyxi.com/files/045aee37-d6ad-42b6-9ea9-ea178a172ea0",
   "ranked": false,
-  "rating": 0.90949196,
-  "ratingCount": 1525,
+  "rating": 0.9074837,
+  "ratingCount": 1591,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

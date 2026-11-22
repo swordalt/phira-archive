@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:15Z",
-    "lastChanged": "2026-09-21T02:06:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-23T14:05:06.797520Z",
   "charter": "lumimi",
@@ -14,6 +14,7 @@
   "description": "本人上传 本人二谱 难度4~5dan 爽切 因为有很多问题，所以上传了很多次 已修改",
   "difficulty": 33.0,
   "file": "https://phira.5wyxi.com/files/e918035b-4904-4ff2-8e05-6b93394cf414",
+  "hidden": false,
   "id": 38515,
   "illustration": "https://phira.5wyxi.com/files/fb2e999e-ae31-4441-be34-cb39d972fabf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Temptation",
   "preview": "https://phira.5wyxi.com/files/cf50c02f-62fd-4e09-a40d-15cebca293cc",
   "ranked": false,
-  "rating": 0.95963746,
-  "ratingCount": 428,
+  "rating": 0.9601467,
+  "ratingCount": 453,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

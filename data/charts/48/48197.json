@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:38Z",
-    "lastChanged": "2026-09-21T02:06:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-19T01:57:28.613933Z",
   "charter": "Canqiu20110505dfg",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/a9c18d7c-0405-4dd7-8d3c-7f9c9d5bd0bf",
+  "hidden": false,
   "id": 48197,
   "illustration": "https://phira.5wyxi.com/files/3ec44f2c-4e69-40fc-807f-898ce239d597",
   "illustrator": "",

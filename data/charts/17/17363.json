@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:04Z",
-    "lastChanged": "2026-09-21T02:02:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-22T08:52:21.997493Z",
   "charter": "Easy_sun",
@@ -14,6 +14,7 @@
   "description": "BV1Pm411d7Qv，谱面为谱师本人代为上传",
   "difficulty": 16.700003,
   "file": "https://phira.5wyxi.com/files/e03c6b75-326e-4170-b970-1dc1ec198e63",
+  "hidden": false,
   "id": 17363,
   "illustration": "https://phira.5wyxi.com/files/a2e0f02d-dbb5-4213-a017-696bf0b8e0fa",
   "illustrator": "",

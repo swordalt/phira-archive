@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:23Z",
-    "lastChanged": "2026-09-21T02:05:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-17T06:06:58.278049Z",
   "charter": "구린 TVCT",
@@ -14,6 +14,7 @@
   "description": "經所有譜師同意上傳；恭喜你找到了這東西，理論可收，記得也去看看正常版的",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/faf087e6-0b1f-4ac0-bbd0-e80ea40c1024",
+  "hidden": false,
   "id": 17229,
   "illustration": "https://phira.5wyxi.com/files/14d281fe-69f7-4b34-8bb2-a7ef2fe38431",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "구린 PUPA",
   "preview": "https://phira.5wyxi.com/files/ff4b7c88-d6ef-4129-b311-3ce24117bc75",
   "ranked": false,
-  "rating": 0.83561784,
-  "ratingCount": 475,
+  "rating": 0.83610624,
+  "ratingCount": 480,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

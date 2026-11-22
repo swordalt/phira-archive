@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:12Z",
-    "lastChanged": "2026-09-21T02:01:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-20T11:54:19.849013Z",
   "charter": "Fan_CY",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传。早期粪谱微调后版本",
   "difficulty": 14.900001,
   "file": "https://phira.5wyxi.com/files/b52d7fba-f72f-43e3-9504-e43c7552cbe7",
+  "hidden": false,
   "id": 2326,
   "illustration": "https://phira.5wyxi.com/files/3da0d88b-eed5-4794-843e-a0399de0b369",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GREAT GREAT",
   "preview": "https://phira.5wyxi.com/files/5a6da88e-f40d-4b86-baab-8e2a92d08f4e",
   "ranked": false,
-  "rating": 0.9069621,
-  "ratingCount": 103,
+  "rating": 0.90764356,
+  "ratingCount": 104,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

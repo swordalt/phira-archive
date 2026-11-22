@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-27T08:02:44Z",
-    "lastChanged": "2026-10-04T10:53:41Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:02:40Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-02-19T14:26:14.455465Z",
   "charter": "xr aurora",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/53812c7d-979f-4f56-a73d-e672e9394ec2",
+  "hidden": false,
   "id": 53007,
   "illustration": "https://phira.5wyxi.com/files/bb9c50fa-8415-4c0e-9513-34ceac2a886b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MONTAGEM SEM PARA",
   "preview": "https://phira.5wyxi.com/files/a3aea940-cf26-4d84-b072-34fe26b5da27",
   "ranked": false,
-  "rating": 0.808117,
-  "ratingCount": 8,
+  "rating": 0.8735634,
+  "ratingCount": 54,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

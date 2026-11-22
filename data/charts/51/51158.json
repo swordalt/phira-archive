@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:43Z",
-    "lastChanged": "2026-09-21T02:06:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-10T11:14:42.753187Z",
   "charter": "XTreme×TASIKA",
@@ -14,6 +14,7 @@
   "description": "谱师本人\nB站:@XTreme_exe @Tasika拓咖\nBPM:205",
   "difficulty": 32.0,
   "file": "https://phira.5wyxi.com/files/dde6db11-4dc2-46b9-a2c3-7e8867c327b0",
+  "hidden": false,
   "id": 51158,
   "illustration": "https://phira.5wyxi.com/files/27387d34-3d74-4824-8942-3e40d98648ca",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "閃耀",
   "preview": "https://phira.5wyxi.com/files/7e6e2214-71a4-45e0-be46-ea2c5ae54131",
   "ranked": false,
-  "rating": 0.8862595,
-  "ratingCount": 27,
+  "rating": 0.88778704,
+  "ratingCount": 31,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

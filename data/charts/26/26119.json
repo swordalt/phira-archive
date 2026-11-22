@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:33Z",
-    "lastChanged": "2026-09-21T02:02:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-13T06:57:06.999440Z",
   "charter": "母鸡 Vs Muji",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传  此为18岁生日谱  特别感谢@Ezcape @FM壹某 @zerouth对谱面提出的建议      此为改谱     5.20 更新曲绘画师信息",
   "difficulty": 14.9000025,
   "file": "https://phira.5wyxi.com/files/3038d180-6851-4c3f-96cf-4e6f92775db8",
+  "hidden": false,
   "id": 26119,
   "illustration": "https://phira.5wyxi.com/files/3b0d6424-0e3f-41c5-88cb-dd289a1e52db",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "再生",
   "preview": "https://phira.5wyxi.com/files/0d7bd778-a6ae-4e46-a870-309682ed4b6e",
   "ranked": true,
-  "rating": 0.94176614,
-  "ratingCount": 9666,
+  "rating": 0.9417323,
+  "ratingCount": 9871,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

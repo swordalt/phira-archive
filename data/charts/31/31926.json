@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:56Z",
-    "lastChanged": "2026-09-21T02:02:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-17T04:22:33.520291Z",
   "charter": "YanY",
@@ -14,6 +14,7 @@
   "description": "约稿，本人上传",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/c7c05679-e7bd-48b0-bb64-d00e3e1a0182",
+  "hidden": false,
   "id": 31926,
   "illustration": "https://phira.5wyxi.com/files/bb5f808a-1693-4186-922e-9c554e925a81",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "命短し恋せよ乙女",
   "preview": "https://phira.5wyxi.com/files/54f9d3f4-30c3-42c4-af00-5bb685552eb7",
   "ranked": false,
-  "rating": 0.9244187,
-  "ratingCount": 280,
+  "rating": 0.9243552,
+  "ratingCount": 281,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

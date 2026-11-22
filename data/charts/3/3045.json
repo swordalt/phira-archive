@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:14Z",
-    "lastChanged": "2026-09-21T02:01:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-06T11:51:19.438322Z",
   "charter": "salted",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 7.0,
   "file": "https://phira.5wyxi.com/files/0068e346-5d38-49d1-a584-214f830ccedd",
+  "hidden": false,
   "id": 3045,
   "illustration": "https://phira.5wyxi.com/files/22778d54-c32c-4881-b4c7-1f5c0b52b607",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dead inside",
   "preview": "https://phira.5wyxi.com/files/70db21cf-8615-4a9b-9bc7-e321f7812e9b",
   "ranked": false,
-  "rating": 0.9371911,
-  "ratingCount": 5364,
+  "rating": 0.937054,
+  "ratingCount": 5455,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

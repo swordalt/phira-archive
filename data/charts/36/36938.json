@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:14Z",
-    "lastChanged": "2026-09-21T02:03:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-25T05:13:37.811679Z",
   "charter": "v終",
@@ -14,6 +14,7 @@
   "description": "for Phigros Fanmade x maimai Chapter 1. ",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/b177e38d-0b4d-4af2-b46d-4fef35a05811",
+  "hidden": false,
   "id": 36938,
   "illustration": "https://phira.5wyxi.com/files/337e8b7b-42fb-427e-98ab-d1cb48efef58",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "raputa",
   "preview": "https://phira.5wyxi.com/files/d6134c91-18b7-4ed5-acc4-2b1beefa34bc",
   "ranked": false,
-  "rating": 0.8956786,
-  "ratingCount": 530,
+  "rating": 0.89549536,
+  "ratingCount": 541,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

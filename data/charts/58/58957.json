@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:43Z",
-    "lastChanged": "2026-09-21T02:04:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-23T23:56:53.776522Z",
   "charter": "永恒之「沉」默",
@@ -14,6 +14,7 @@
   "description": "B站 沉寂_Cael\n谱面视频预览 (2026.05.26开放)\nBV16bjsztEu4\nBV1uCGq6QENn",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/9b198a1f-474b-4192-8403-0bb60e2b7cb1",
+  "hidden": false,
   "id": 58957,
   "illustration": "https://phira.5wyxi.com/files/d162a828-4406-45b3-9f3e-d9bb75b42b1a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "永恒 (Eternity)",
   "preview": "https://phira.5wyxi.com/files/c6e9e5f9-5fea-406b-9603-55529abcef14",
   "ranked": false,
-  "rating": 0.90561193,
-  "ratingCount": 655,
+  "rating": 0.9078665,
+  "ratingCount": 688,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

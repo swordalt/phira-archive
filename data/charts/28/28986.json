@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:44Z",
-    "lastChanged": "2026-09-21T02:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-20T16:05:45.002413Z",
   "charter": "橘子Grettz",
@@ -14,6 +14,7 @@
   "description": "更新了一点点求过审求过审求过审",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/63b40c4e-bc2e-4469-a217-4c57801faffc",
+  "hidden": false,
   "id": 28986,
   "illustration": "https://phira.5wyxi.com/files/aa081445-0458-462f-8ebb-82ad0901480a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Flowers",
   "preview": "https://phira.5wyxi.com/files/bc725a1a-df23-4ccb-ab9a-c115059c3033",
   "ranked": false,
-  "rating": 0.89619577,
-  "ratingCount": 371,
+  "rating": 0.89599466,
+  "ratingCount": 385,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

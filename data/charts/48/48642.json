@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:00Z",
-    "lastChanged": "2026-09-21T02:04:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-01T11:00:18.521170Z",
   "charter": "Mcxian",
@@ -14,6 +14,7 @@
   "description": "曲名：アクセラレイト\n曲师：吉田夜世\nBPM：170\n谱师：Mcxian\n定数：AT Lv.16.3~16.6\n物量：1204\n线数：9\n事件数：1026\n\n低成本速写预制谱",
   "difficulty": 16.600002,
   "file": "https://phira.5wyxi.com/files/fc5906e0-85b1-4ca2-8fbe-b02f78ff74de",
+  "hidden": false,
   "id": 48642,
   "illustration": "https://phira.5wyxi.com/files/f359895b-eef6-4df2-b389-d48149df5c48",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "アクセラレイト",
   "preview": "https://phira.5wyxi.com/files/4f238d65-ac91-4205-9e4d-2c91638dfb6c",
   "ranked": false,
-  "rating": 0.93843955,
-  "ratingCount": 247,
+  "rating": 0.93842584,
+  "ratingCount": 253,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:07Z",
-    "lastChanged": "2026-09-21T02:01:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-30T10:29:23.345605Z",
   "charter": "母鸡Sama vs Muji",
@@ -14,6 +14,7 @@
   "description": "BV1pK411q7Tt 未经允许禁止转载",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/4b5aafb9-0bfb-4cef-b6c9-be9d5f082bb4",
+  "hidden": false,
   "id": 877,
   "illustration": "https://phira.5wyxi.com/files/659b822c-8f8e-4b31-b91b-722d081c6dca",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lanterns",
   "preview": "https://phira.5wyxi.com/files/f4f4f81d-56b7-48ed-8dfd-f6edbfe94cb2",
   "ranked": true,
-  "rating": 0.93706006,
-  "ratingCount": 4430,
+  "rating": 0.9369079,
+  "ratingCount": 4485,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

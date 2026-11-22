@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:34Z",
-    "lastChanged": "2026-09-21T02:05:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-10T05:09:28.516046Z",
   "charter": "mj1748",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/3b71aed4-6c60-4c22-9092-51c36c759982",
+  "hidden": false,
   "id": 1560,
   "illustration": "https://phira.5wyxi.com/files/f2f791e6-f48e-43f0-9740-e1fc64efa340",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "アイドル",
   "preview": "https://phira.5wyxi.com/files/1dc110b2-c8a8-4299-bb50-b36d7278313f",
   "ranked": false,
-  "rating": 0.88666314,
-  "ratingCount": 2776,
+  "rating": 0.8867174,
+  "ratingCount": 2780,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

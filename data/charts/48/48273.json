@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:58Z",
-    "lastChanged": "2026-09-21T02:03:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-21T12:30:36.736475Z",
   "charter": "Ori The Underground",
@@ -14,6 +14,7 @@
   "description": "庆祝ut十周年喵，喜欢请去b站搜索Ori_01支持喵，谱面预览在BV12AxvztEDA",
   "difficulty": 1.0,
   "file": "https://phira.5wyxi.com/files/1e29fcb1-7740-4840-8e80-18f180f42492",
+  "hidden": false,
   "id": 48273,
   "illustration": "https://phira.5wyxi.com/files/420ffde7-0b61-4fd0-b1a9-e7b349f23ede",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Undertale",
   "preview": "https://phira.5wyxi.com/files/009d0dfc-779d-4f00-9d65-8af578df7e8a",
   "ranked": false,
-  "rating": 0.97341,
-  "ratingCount": 8717,
+  "rating": 0.9739037,
+  "ratingCount": 9311,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

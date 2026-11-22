@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:16Z",
-    "lastChanged": "2026-09-21T02:02:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-08T17:28:19.380165Z",
   "charter": "速核酱",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/872f117d-adfb-439e-9ae5-2a18d8e665ac",
+  "hidden": false,
   "id": 20975,
   "illustration": "https://phira.5wyxi.com/files/bbbe5e0a-da1e-412f-bc72-3319893f4e2f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "NIGHT DANCER ",
   "preview": "https://phira.5wyxi.com/files/27019520-a657-46d0-a12f-6828af681c59",
   "ranked": false,
-  "rating": 0.9203243,
-  "ratingCount": 8175,
+  "rating": 0.919871,
+  "ratingCount": 8601,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:30Z",
-    "lastChanged": "2026-09-21T02:06:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-14T13:13:48.179406Z",
   "charter": "Rad_0",
@@ -14,6 +14,7 @@
   "description": "我们在谱面中发现了大量面条",
   "difficulty": 36.0,
   "file": "https://phira.5wyxi.com/files/c95efff4-8388-43a9-a378-af0bb57d20a4",
+  "hidden": false,
   "id": 44685,
   "illustration": "https://phira.5wyxi.com/files/639e2e83-8f37-4280-9d93-31a15bf7884c",
   "illustrator": "",

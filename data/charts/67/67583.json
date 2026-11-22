@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:00Z",
-    "lastChanged": "2026-09-21T02:05:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-18T16:58:59.866866Z",
   "charter": "Candlefire",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.300009,
   "file": "https://phira.5wyxi.com/files/a7c0ec45-5d4a-4cf2-9b08-a5e01dcd4ba1",
+  "hidden": false,
   "id": 67583,
   "illustration": "https://phira.5wyxi.com/files/cdf1a7a9-75c9-4397-9e5e-118f31a2e812",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "视星等4.44",
   "preview": "https://phira.5wyxi.com/files/9a4fa4bb-d60e-431c-ba26-b99b1a051f2f",
   "ranked": false,
-  "rating": 0.8083,
-  "ratingCount": 5,
+  "rating": 0.8631566,
+  "ratingCount": 13,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

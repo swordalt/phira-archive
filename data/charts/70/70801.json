@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:05Z",
-    "lastChanged": "2026-09-21T02:05:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-02T14:28:54.520985Z",
   "charter": "Spark-1e connected to the world",
@@ -14,6 +14,7 @@
   "description": "BV1Yz3d6VEuc，谱师本人上传",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/25e27d05-1f7b-4068-8615-8b1ca062a5f8",
+  "hidden": false,
   "id": 70801,
   "illustration": "https://phira.5wyxi.com/files/a80cfd4d-28de-4e91-9330-0701374ef8e3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Connected (Camellia Remix)",
   "preview": "https://phira.5wyxi.com/files/c66e9a38-4daa-405f-8f0b-c25d4d85431f",
   "ranked": false,
-  "rating": 0.8431095,
-  "ratingCount": 17,
+  "rating": 0.85135734,
+  "ratingCount": 20,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

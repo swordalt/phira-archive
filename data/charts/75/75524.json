@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:12Z",
-    "lastChanged": "2026-09-21T02:05:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-24T19:14:16.657110Z",
   "charter": "Cookie_wa",
@@ -14,6 +14,7 @@
   "description": "3rd WMC 位28\r\n谱师B站：Cookie_wa\r\n本人上传",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/f82df548-c0c0-43af-b6cc-97dedf97d559",
+  "hidden": false,
   "id": 75524,
   "illustration": "https://phira.5wyxi.com/files/624dcea6-4038-4274-8648-f29c32ed3182",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "请批准吧灯神先生!",
   "preview": "https://phira.5wyxi.com/files/52571478-0f28-4f49-8cb6-0b84f86e4bae",
   "ranked": false,
-  "rating": 0.92103356,
-  "ratingCount": 7989,
+  "rating": 0.9215458,
+  "ratingCount": 12846,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

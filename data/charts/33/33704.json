@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:02Z",
-    "lastChanged": "2026-09-21T02:03:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-09T17:39:41.458141Z",
   "charter": "慕星_Murty",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/df0ad08d-d67f-4b07-891d-bec4e89df9eb",
+  "hidden": false,
   "id": 33704,
   "illustration": "https://phira.5wyxi.com/files/ae073475-a711-4a92-9d7b-690b1ce1f1c2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "FOG CITY [UΩlgazed Wørld]",
   "preview": "https://phira.5wyxi.com/files/5a4373f2-79ef-4551-9be0-eac214863eaf",
   "ranked": false,
-  "rating": 0.91488457,
-  "ratingCount": 31,
+  "rating": 0.9121998,
+  "ratingCount": 32,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

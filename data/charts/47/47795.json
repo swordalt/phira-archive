@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:55Z",
-    "lastChanged": "2026-09-21T02:03:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-07T02:12:43.744417Z",
   "charter": "BLAZING YuAN",
@@ -14,6 +14,7 @@
   "description": "本人上传 B站咕咕澜然",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/1e105989-1722-45e8-af9e-0fe518ea8d22",
+  "hidden": false,
   "id": 47795,
   "illustration": "https://phira.5wyxi.com/files/7604eca1-44e1-47ae-b9a8-81fbd2643416",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "灼火之心 Blazing Heart",
   "preview": "https://phira.5wyxi.com/files/ae1b0fb9-c925-4325-a23a-3ec0412e98d1",
   "ranked": false,
-  "rating": 0.92705595,
-  "ratingCount": 290,
+  "rating": 0.9278537,
+  "ratingCount": 315,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

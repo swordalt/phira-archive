@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:48Z",
-    "lastChanged": "2026-09-21T02:04:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-13T09:13:05.337964Z",
   "charter": "Twogd",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n改了自己初谱，我已力竭\n感谢游玩(´；ω；｀)",
   "difficulty": 15.300003,
   "file": "https://phira.5wyxi.com/files/3781f1f5-0aad-478d-b0f6-c61b4a49d9f0",
+  "hidden": false,
   "id": 60808,
   "illustration": "https://phira.5wyxi.com/files/1ff907e5-854e-4d1d-883e-91168326e9a9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "bi",
   "preview": "https://phira.5wyxi.com/files/2bb29747-cd68-4a3d-8662-faf589e9cd5b",
   "ranked": false,
-  "rating": 0.9055083,
-  "ratingCount": 129,
+  "rating": 0.91083723,
+  "ratingCount": 158,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

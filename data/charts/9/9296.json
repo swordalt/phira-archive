@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:32Z",
-    "lastChanged": "2026-09-21T02:01:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-13T16:20:36.632593Z",
   "charter": "♡Sumarexon♡",
@@ -14,6 +14,7 @@
   "description": "(EN/CN)",
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/43e3a6c5-8f05-49b7-a291-a6f5f76b1f90",
+  "hidden": false,
   "id": 9296,
   "illustration": "https://phira.5wyxi.com/files/03e75d7d-ba45-46b5-ab25-b1ff6ef62e98",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ダーリンダンス",
   "preview": "https://phira.5wyxi.com/files/59a6de9e-35e3-4432-8094-befd7c4e4dcd",
   "ranked": false,
-  "rating": 0.9364777,
-  "ratingCount": 2569,
+  "rating": 0.9366268,
+  "ratingCount": 2584,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

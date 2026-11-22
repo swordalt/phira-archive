@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:38Z",
-    "lastChanged": "2026-09-21T02:06:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-05T17:13:50.817704Z",
   "charter": "AutoMattic",
@@ -14,6 +14,7 @@
   "description": "谱师自练习用超级耐力+底力谱，b站AutoMattic",
   "difficulty": 17.900005,
   "file": "https://phira.5wyxi.com/files/6192de0e-a231-4453-ba58-07941cd6c657",
+  "hidden": false,
   "id": 47696,
   "illustration": "https://phira.5wyxi.com/files/4ad94272-fa0e-46b0-be74-1c257314a470",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Class Memories",
   "preview": "https://phira.5wyxi.com/files/195a56da-9e1b-42b6-8ad1-7ce01cec8b8b",
   "ranked": false,
-  "rating": 0.7711379,
-  "ratingCount": 13,
+  "rating": 0.79510456,
+  "ratingCount": 15,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:42Z",
-    "lastChanged": "2026-09-21T02:05:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-14T09:53:55.940174Z",
   "charter": "Drista",
@@ -14,6 +14,7 @@
   "description": "给某隆鼻写的比赛用谱（尾杀配置改了一下）",
   "difficulty": 16.900003,
   "file": "https://phira.5wyxi.com/files/40fa8409-2848-464b-98a5-103fd0d9c54f",
+  "hidden": false,
   "id": 15385,
   "illustration": "https://phira.5wyxi.com/files/03343393-73f2-4485-aab2-6b77ca928765",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Eternal Ending",
   "preview": "https://phira.5wyxi.com/files/665c6cf4-fb82-4392-bb98-0ce2c35b0a47",
   "ranked": false,
-  "rating": 0.8742082,
-  "ratingCount": 126,
+  "rating": 0.87519103,
+  "ratingCount": 127,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

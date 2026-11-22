@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:38Z",
-    "lastChanged": "2026-09-21T02:04:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-25T09:56:30.235793Z",
   "charter": "Kaigara",
@@ -14,6 +14,7 @@
   "description": "动效很简陋（基本上没有），中间可能稍微有点创，大家不喜勿喷（流汗",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/c6056049-565a-4699-8dff-901202068728",
+  "hidden": false,
   "id": 57072,
   "illustration": "https://phira.5wyxi.com/files/66daa4ee-a73e-406c-b145-29f493026f25",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "snow storm -euphoria-",
   "preview": "https://phira.5wyxi.com/files/087d0bcd-985c-46c8-9ec8-3e7aa097f1d7",
   "ranked": false,
-  "rating": 0.8080407,
-  "ratingCount": 8,
+  "rating": 0.83352673,
+  "ratingCount": 10,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

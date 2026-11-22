@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-09T05:59:06Z",
-    "lastChanged": "2026-10-09T05:59:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-13T08:16:09.554849Z",
   "charter": "LTYKH",
@@ -14,6 +14,7 @@
   "description": "B站：Red_五重Reveal\n本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/0e9aa7f0-d6d8-40d3-8949-451dd4da16cb",
+  "hidden": false,
   "id": 60800,
   "illustration": "https://phira.5wyxi.com/files/59dc6a94-ada8-4e4e-b87f-72ebb4e50017",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Find_Me",
   "preview": "https://phira.5wyxi.com/files/76f9a8c7-626f-4ddd-ba7c-527c4bb1dde1",
   "ranked": false,
-  "rating": 0.7482895,
-  "ratingCount": 1,
+  "rating": 0.8552513,
+  "ratingCount": 26,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:26Z",
-    "lastChanged": "2026-09-21T02:06:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-30T14:16:44.256222Z",
   "charter": "WoXiXiaoCha",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/d18b6e33-cec8-470a-97e3-b9caf06a5376",
+  "hidden": false,
   "id": 43176,
   "illustration": "https://phira.5wyxi.com/files/b3373824-01f5-49c2-b1c5-65a6756e492c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "八方来财",
   "preview": "https://phira.5wyxi.com/files/3d8f22f7-49c9-48bf-bf46-7b3a81f5f0a5",
   "ranked": false,
-  "rating": 0.88722426,
-  "ratingCount": 170,
+  "rating": 0.8881891,
+  "ratingCount": 175,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

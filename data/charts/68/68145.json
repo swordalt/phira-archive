@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:58Z",
-    "lastChanged": "2026-09-21T02:06:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-21T07:01:55.792540Z",
   "charter": "YMEA",
@@ -14,6 +14,7 @@
   "description": "写的算是比较用心的一首\n用时一天，后面忘了\n快手xDY 洋漫YMEA",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/7a01a03b-cd33-46ac-9717-1f776c1edc03",
+  "hidden": false,
   "id": 68145,
   "illustration": "https://phira.5wyxi.com/files/1f5c38a0-ba66-490c-bae6-fe9555f8353e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "バカみたいに",
   "preview": "https://phira.5wyxi.com/files/2f059c58-31dc-4e34-8c5c-01feb13104cd",
   "ranked": false,
-  "rating": 0.96084994,
-  "ratingCount": 933,
+  "rating": 0.95869774,
+  "ratingCount": 1091,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

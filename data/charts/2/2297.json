@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:35Z",
-    "lastChanged": "2026-09-21T02:05:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-20T05:34:16.118041Z",
   "charter": "MgCsKy_ULTRA",
@@ -14,6 +14,7 @@
   "description": "bilibili：MgCsKy_URTAL 本人nyanya_sky和mgcsky是同一人，不需要额外授权",
   "difficulty": 3.0,
   "file": "https://phira.5wyxi.com/files/a5806904-cb70-4654-8374-ae35fab89290",
+  "hidden": false,
   "id": 2297,
   "illustration": "https://phira.5wyxi.com/files/d39710a1-3b81-4bd4-8d0d-c47ee85f401b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "8bit Adventurer",
   "preview": "https://phira.5wyxi.com/files/3ccc06ad-42c4-4374-bf3e-a28b099fd459",
   "ranked": false,
-  "rating": 0.92907,
-  "ratingCount": 1003,
+  "rating": 0.92901057,
+  "ratingCount": 1006,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

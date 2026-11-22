@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:23Z",
-    "lastChanged": "2026-09-21T02:01:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-31T13:51:30.126235Z",
   "charter": "hikarpis阿光",
@@ -14,6 +14,7 @@
   "description": "嘻嘻",
   "difficulty": 13.400003,
   "file": "https://phira.5wyxi.com/files/09b7658f-0de4-43a5-b421-80ea631ae97e",
+  "hidden": false,
   "id": 6532,
   "illustration": "https://phira.5wyxi.com/files/55f93283-ebdf-4d59-a56e-5e1bdeb75a11",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "舉頭三尺天氣晴",
   "preview": "https://phira.5wyxi.com/files/5ec77cf3-c96b-44df-857f-903eeb822726",
   "ranked": false,
-  "rating": 0.9591066,
-  "ratingCount": 1461,
+  "rating": 0.959049,
+  "ratingCount": 1473,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

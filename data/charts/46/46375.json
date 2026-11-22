@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:49Z",
-    "lastChanged": "2026-09-21T02:03:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-05T09:37:27.624878Z",
   "charter": "良谱师——叁玖伍柒",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，WJC参赛谱面，编号L2 No.1",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/a5bd4f13-16a9-43e6-8dc6-c0d61842d5d9",
+  "hidden": false,
   "id": 46375,
   "illustration": "https://phira.5wyxi.com/files/1f7d09d0-a99c-471b-8409-b4b823753e60",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "恶修女——永火熔铸",
   "preview": "https://phira.5wyxi.com/files/fc72bfef-4002-4026-ab8d-7ff991896a21",
   "ranked": false,
-  "rating": 0.9393276,
-  "ratingCount": 344,
+  "rating": 0.9401704,
+  "ratingCount": 353,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

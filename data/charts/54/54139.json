@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:28Z",
-    "lastChanged": "2026-09-21T02:04:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-14T12:02:55.795837Z",
   "charter": "TonYo",
@@ -14,6 +14,7 @@
   "description": "本人上传\n神曲。\n用时时长：6h1m\n事件数：2100\n定数：14.0\nBPM：130\n还是简洁批\n废稿改的。发现之前旋转弧度好大啊。\nb站：BV1WAwxzPE5q",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/ffd5bbcb-902f-4152-8bb0-430a7c637857",
+  "hidden": false,
   "id": 54139,
   "illustration": "https://phira.5wyxi.com/files/ba582118-1f94-4104-939e-b80b817b3f04",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "神話",
   "preview": "https://phira.5wyxi.com/files/8b0008ab-af8e-46b1-8297-d5f642ee70d5",
   "ranked": false,
-  "rating": 0.9174907,
-  "ratingCount": 1385,
+  "rating": 0.9183106,
+  "ratingCount": 1486,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:05Z",
-    "lastChanged": "2026-09-21T02:06:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-24T04:51:25.275854Z",
   "charter": "布偶猫猫黛安娜",
@@ -14,6 +14,7 @@
   "description": "新手不懂事儿做着玩的",
   "difficulty": 8.0,
   "file": "https://phira.5wyxi.com/files/a10c9645-bcdb-4fe4-9e46-3264a81e76aa",
+  "hidden": false,
   "id": 31030,
   "illustration": "https://phira.5wyxi.com/files/30362af3-4f0b-460d-b6df-e3e7f349b83a",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "pinKing",
   "preview": "https://phira.5wyxi.com/files/bc954c82-f436-47fc-adae-fc1639ed43b9",
   "ranked": false,
-  "rating": 0.94924337,
+  "rating": 0.95074224,
   "ratingCount": 62,
   "reviewed": true,
   "stable": false,

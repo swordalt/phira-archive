@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:39Z",
-    "lastChanged": "2026-09-21T02:03:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-10T05:57:08.454845Z",
   "charter": "〇〇〇〇〇〇〇 〇 〇〇〇〇〇〇〇〇〇 〇 〇〇〇〇〇〇〇〇",
@@ -14,6 +14,7 @@
   "description": "该谱面为【云梦•始源】比赛供谱\n首次登场于EX区8进4淘汰赛第一场",
   "difficulty": 17.1,
   "file": "https://phira.5wyxi.com/files/eccc1f1d-d9c3-4118-8a3b-8ec9534fd878",
+  "hidden": false,
   "id": 44231,
   "illustration": "https://phira.5wyxi.com/files/8cef7c6a-5af9-44c7-8bab-93e5d6e496dc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ω4",
   "preview": "https://phira.5wyxi.com/files/bafaca5b-2b85-464a-b2f9-d585b5a65629",
   "ranked": false,
-  "rating": 0.90420717,
-  "ratingCount": 382,
+  "rating": 0.90491456,
+  "ratingCount": 398,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

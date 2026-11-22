@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:27Z",
-    "lastChanged": "2026-09-21T02:06:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-04T08:09:04.574875Z",
   "charter": "Second Cheesefeather",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，b站：壹芝雜羽kld_ill-none",
   "difficulty": 14.1,
   "file": "https://phira.5wyxi.com/files/ef6ab9c1-cfac-4713-a3b9-aab9ac8cd668",
+  "hidden": false,
   "id": 43656,
   "illustration": "https://phira.5wyxi.com/files/bdeb4baa-b045-441d-acf4-0d25cde0906a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Second Choice",
   "preview": "https://phira.5wyxi.com/files/42569316-494c-4bbd-a460-f86eef169d78",
   "ranked": false,
-  "rating": 0.88462985,
-  "ratingCount": 27,
+  "rating": 0.8882079,
+  "ratingCount": 28,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

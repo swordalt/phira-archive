@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:02Z",
-    "lastChanged": "2026-09-21T02:05:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-25T07:17:41.280254Z",
   "charter": "AetherGlow",
@@ -14,6 +14,7 @@
   "description": "本人上传。神曲。",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/c1dde1be-298f-40fd-a112-f0772210bf01",
+  "hidden": false,
   "id": 69071,
   "illustration": "https://phira.5wyxi.com/files/d396a8bc-599f-41df-a18e-07e52d92522b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "dream of utopia",
   "preview": "https://phira.5wyxi.com/files/04bef35d-42b4-4f05-9920-dd960cdba8d5",
   "ranked": false,
-  "rating": 0.87665826,
-  "ratingCount": 97,
+  "rating": 0.87910813,
+  "ratingCount": 102,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

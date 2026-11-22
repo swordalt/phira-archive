@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:48Z",
-    "lastChanged": "2026-09-21T02:02:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-22T20:42:33.057177Z",
   "charter": "柒十肆",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.400003,
   "file": "https://phira.5wyxi.com/files/244ad9f8-71d5-4c3e-87d6-904933e28e7c",
+  "hidden": false,
   "id": 29965,
   "illustration": "https://phira.5wyxi.com/files/5fe19529-df84-49de-ac7d-decd420f64f4",
   "illustrator": "",

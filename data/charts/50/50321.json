@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:07Z",
-    "lastChanged": "2026-09-21T02:04:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-18T17:14:05.038968Z",
   "charter": "LX",
@@ -14,6 +14,7 @@
   "description": "铺面为本人创作",
   "difficulty": 17.400002,
   "file": "https://phira.5wyxi.com/files/ee90220a-417e-4353-bf54-cd724f86e318",
+  "hidden": false,
   "id": 50321,
   "illustration": "https://phira.5wyxi.com/files/62bb2646-4397-4925-b188-9714134f1b47",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Amnéhilesie",
   "preview": "https://phira.5wyxi.com/files/cb77d3bc-5d4b-4a86-b65d-2ff1f46d3b21",
   "ranked": false,
-  "rating": 0.8195498,
-  "ratingCount": 22,
+  "rating": 0.80974597,
+  "ratingCount": 23,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

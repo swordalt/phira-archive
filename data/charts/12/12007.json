@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:43Z",
-    "lastChanged": "2026-09-21T02:01:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-02T10:11:41.853164Z",
   "charter": "jm333/Vlouy-滺绿",
@@ -14,6 +14,7 @@
   "description": "本人上传，在此特别感谢Vlouy-滺绿的帮助",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/1aa94239-7182-44ca-abe0-ca3df1df93cc",
+  "hidden": false,
   "id": 12007,
   "illustration": "https://phira.5wyxi.com/files/dc8ef2df-2765-4bf4-a707-9f0218f16227",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "神っぽいな",
   "preview": "https://phira.5wyxi.com/files/7e6f8a37-8140-41b6-af7c-c673d71a53f3",
   "ranked": true,
-  "rating": 0.9426626,
-  "ratingCount": 53498,
+  "rating": 0.94224226,
+  "ratingCount": 54726,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

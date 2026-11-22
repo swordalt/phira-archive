@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:18Z",
-    "lastChanged": "2026-09-21T02:02:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-23T11:07:18.997954Z",
   "charter": "CzsL145",
@@ -14,6 +14,7 @@
   "description": "机械动力┃Mechanical  Power \n定数  14.9\n物量  765\n判定线  12\n事件  3200+\n\n初谱一改\n谱面演示：https://b23.tv/RCoEZ2x",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/fa6174b9-4e3f-4d6f-9a6e-52218bc47126",
+  "hidden": false,
   "id": 21813,
   "illustration": "https://phira.5wyxi.com/files/7cb9ef1b-8c22-4c22-917d-f84fea006a3f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mechanical Power",
   "preview": "https://phira.5wyxi.com/files/9ccfbdfa-29eb-4368-8937-694f3754a245",
   "ranked": false,
-  "rating": 0.9179927,
-  "ratingCount": 157,
+  "rating": 0.9185059,
+  "ratingCount": 158,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

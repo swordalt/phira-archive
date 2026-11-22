@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:12Z",
-    "lastChanged": "2026-09-21T02:02:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-05T08:39:16.465595Z",
   "charter": "マクニャミ",
@@ -14,6 +14,7 @@
   "description": "多押注意\n有什么问题可以私信我\nB站：Prillow2137",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/a73a7dce-69e1-4ec8-a111-09e6b2bbf30b",
+  "hidden": false,
   "id": 19591,
   "illustration": "https://phira.5wyxi.com/files/16633a51-7f2b-43fd-acb8-9b734b5f1383",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "NOVA",
   "preview": "https://phira.5wyxi.com/files/8389ee88-5b4c-4b7a-ab9b-5c2ffeca76ce",
   "ranked": false,
-  "rating": 0.9075293,
-  "ratingCount": 119,
+  "rating": 0.9082879,
+  "ratingCount": 120,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

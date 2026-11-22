@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:47Z",
-    "lastChanged": "2026-09-21T02:02:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-16T11:37:36.031353Z",
   "charter": "易星秋",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/e7ba3cc1-36c4-4620-9d1b-05697e1177fc",
+  "hidden": false,
   "id": 29759,
   "illustration": "https://phira.5wyxi.com/files/c197a2f0-d0eb-4e09-a328-37387d5616c9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "音乐剧场",
   "preview": "https://phira.5wyxi.com/files/2d4012ba-82ae-4b7b-8fc2-b3ff189badd5",
   "ranked": false,
-  "rating": 0.62637186,
-  "ratingCount": 38,
+  "rating": 0.62351876,
+  "ratingCount": 40,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

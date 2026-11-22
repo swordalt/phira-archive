@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:48Z",
-    "lastChanged": "2026-09-21T02:04:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-13T12:31:47.152996Z",
   "charter": "Jungle",
@@ -14,6 +14,7 @@
   "description": "No.1",
   "difficulty": 5.0,
   "file": "https://phira.5wyxi.com/files/38d8d827-52da-4dbf-9628-099e826fbc01",
+  "hidden": false,
   "id": 60840,
   "illustration": "https://phira.5wyxi.com/files/ac255480-8b04-446c-96d6-c006f219ee76",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "求＆影",
   "preview": "https://phira.5wyxi.com/files/dd53dd39-6980-4018-a54f-b856b9e6a2c4",
   "ranked": false,
-  "rating": 0.9167565,
-  "ratingCount": 4056,
+  "rating": 0.91676325,
+  "ratingCount": 5861,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:04Z",
-    "lastChanged": "2026-09-21T02:07:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-06T06:03:29.515190Z",
   "charter": "十千秋子",
@@ -14,6 +14,7 @@
   "description": "BPM:174|时长3m24s\n叠谱",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/2ab8b230-1c9a-41d0-ab1c-4d40bd12fe8a",
+  "hidden": false,
   "id": 77298,
   "illustration": "https://phira.5wyxi.com/files/303196f4-8bba-4a73-ad1b-e9757f1c6268",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Rhyne Dust",
   "preview": "https://phira.5wyxi.com/files/aeeda38f-652e-4479-ad8c-07394a9352e1",
   "ranked": false,
-  "rating": 0.8818067,
-  "ratingCount": 25,
+  "rating": 0.9110365,
+  "ratingCount": 44,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

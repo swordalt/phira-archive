@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:29Z",
-    "lastChanged": "2026-09-21T02:05:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-29T12:58:50.367335Z",
   "charter": "CRgrosvs.RC想睡觉vs.CR开放力",
@@ -14,6 +14,7 @@
   "description": "作者：CRkfl（B站同名）\n曲名：多呀2.0（QQ音乐和酷狗音乐有）\n曲师：CRkfl\n画师：CRkfl\n谱师：CRkfl",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/575fcb76-3adf-4aad-a4ad-b2fb59d6e386",
+  "hidden": false,
   "id": 40527,
   "illustration": "https://phira.5wyxi.com/files/dc4fe7af-081d-4774-a995-ff6f97d401eb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "多呀 2.0",
   "preview": "https://phira.5wyxi.com/files/76429ec2-9d1a-4bc1-bff8-5d29ba52b7c5",
   "ranked": false,
-  "rating": 0.8415585,
-  "ratingCount": 152,
+  "rating": 0.8388056,
+  "ratingCount": 154,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

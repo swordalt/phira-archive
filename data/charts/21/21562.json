@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:18Z",
-    "lastChanged": "2026-09-21T02:02:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-20T10:59:02.138446Z",
   "charter": "Pois0nous ZellZ",
@@ -14,6 +14,7 @@
   "description": "(en-us) \nA collab between two layout creator in geometry dash, ZellZ and Me\n\nThis collab is happened because last year he wanted to do a collab with me so I accept his offer\n\n(somehow I managed to revive this collab ww) ",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/3865a873-c153-45de-92a8-e1775b15cff3",
+  "hidden": false,
   "id": 21562,
   "illustration": "https://phira.5wyxi.com/files/fb2aab1b-ef65-4446-b3b1-a18c4187e545",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Reanimate",
   "preview": "https://phira.5wyxi.com/files/891c0784-e658-4842-8a1d-7d74d3991016",
   "ranked": false,
-  "rating": 0.9240907,
-  "ratingCount": 573,
+  "rating": 0.92504036,
+  "ratingCount": 583,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

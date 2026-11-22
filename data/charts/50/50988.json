@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:11Z",
-    "lastChanged": "2026-09-21T02:04:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-04T15:41:04.200844Z",
   "charter": "Lusir_NK",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/08bcb869-7a4e-4a27-83df-f0cc72aa0906",
+  "hidden": false,
   "id": 50988,
   "illustration": "https://phira.5wyxi.com/files/32ee421d-a3ea-4263-946a-d3f34ec514d2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Poppy",
   "preview": "https://phira.5wyxi.com/files/9b7837cd-5449-4409-9e3f-5f542919d740",
   "ranked": false,
-  "rating": 0.9062397,
-  "ratingCount": 307,
+  "rating": 0.90809005,
+  "ratingCount": 317,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:26Z",
-    "lastChanged": "2026-09-21T02:01:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-25T08:03:52.429417Z",
   "charter": "Fwxl",
@@ -14,6 +14,7 @@
   "description": "17跟路边的野狗一样多耶，更新了定数",
   "difficulty": 17.000004,
   "file": "https://phira.5wyxi.com/files/b03d9ffa-611f-4863-b354-1882232f69f0",
+  "hidden": false,
   "id": 7563,
   "illustration": "https://phira.5wyxi.com/files/8dd7aa14-456c-4102-9f99-dc8952879c10",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Jack Out Killer",
   "preview": "https://phira.5wyxi.com/files/500dbae0-f63d-49a5-993d-f2341cc6e125",
   "ranked": false,
-  "rating": 0.90016687,
-  "ratingCount": 1201,
+  "rating": 0.9004708,
+  "ratingCount": 1210,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

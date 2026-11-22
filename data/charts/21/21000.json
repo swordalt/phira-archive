@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:49Z",
-    "lastChanged": "2026-09-21T02:05:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-09T03:32:01.746260Z",
   "charter": "Chart Team",
@@ -14,6 +14,7 @@
   "description": "参与谱师：@Skyuntarxice @苹果Rage @天崽awa\n发布游玩视频请注明谱师信息喵",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/9f572218-9dec-457d-8add-ea8a46302b18",
+  "hidden": false,
   "id": 21000,
   "illustration": "https://phira.5wyxi.com/files/e0ac9d4e-99dd-4157-a76b-b8b1b749475c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "翠杜",
   "preview": "https://phira.5wyxi.com/files/05c2ace5-238c-4d6a-9acc-924f64027597",
   "ranked": false,
-  "rating": 0.96726966,
-  "ratingCount": 1123,
+  "rating": 0.96788174,
+  "ratingCount": 1161,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

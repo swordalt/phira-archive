@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:04Z",
-    "lastChanged": "2026-09-21T02:01:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "Kedmue&muun",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/4df8c52b-8f91-4443-bd16-e5e2d8c0289c",
+  "hidden": false,
   "id": 213,
   "illustration": "https://phira.5wyxi.com/files/265a14f1-d6ef-447b-9b2a-29214f7effd1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Options",
   "preview": "https://phira.5wyxi.com/files/fb45216c-5a70-4d85-8583-898b53c822a1",
   "ranked": true,
-  "rating": 0.89645743,
-  "ratingCount": 2304,
+  "rating": 0.89698344,
+  "ratingCount": 2350,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

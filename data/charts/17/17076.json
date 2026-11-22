@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:03Z",
-    "lastChanged": "2026-09-21T02:02:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-12T05:15:54.764515Z",
   "charter": "WHITE",
@@ -14,6 +14,7 @@
   "description": "崩坏风的谱面是我最喜欢写的，这个算启蒙之作了，初见杀很多哦，得背的部分不少，算半个观赏用谱面了",
   "difficulty": 14.8,
   "file": "https://phira.5wyxi.com/files/7287aeeb-a072-4ed4-b3f1-6ffe831f9136",
+  "hidden": false,
   "id": 17076,
   "illustration": "https://phira.5wyxi.com/files/29a2364e-38f7-4609-9285-3c82aaa89e28",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Scorpion Girl",
   "preview": "https://phira.5wyxi.com/files/fc878733-8188-440f-8f9d-efe1a21c9413",
   "ranked": false,
-  "rating": 0.88172585,
-  "ratingCount": 395,
+  "rating": 0.88241357,
+  "ratingCount": 399,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

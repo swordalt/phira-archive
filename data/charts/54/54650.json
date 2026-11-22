@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:31Z",
-    "lastChanged": "2026-09-21T02:04:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-28T07:23:35.621387Z",
   "charter": "garlic_umai",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.9,
   "file": "https://phira.5wyxi.com/files/ed2955c3-150a-4cfb-a88c-be4ad3de4c3c",
+  "hidden": false,
   "id": 54650,
   "illustration": "https://phira.5wyxi.com/files/69fcc252-82e3-464a-8216-52d9f6da63ca",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "7th Avenue",
   "preview": "https://phira.5wyxi.com/files/a8e30b67-3707-413a-9e53-41b89098455a",
   "ranked": false,
-  "rating": 0.91752887,
-  "ratingCount": 84,
+  "rating": 0.9181704,
+  "ratingCount": 87,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

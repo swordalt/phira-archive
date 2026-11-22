@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:41Z",
-    "lastChanged": "2026-09-21T02:01:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-19T10:59:17.600909Z",
   "charter": "jm333",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/05f1e9d2-26b1-4142-b26c-5e78196d6a22",
+  "hidden": false,
   "id": 11613,
   "illustration": "https://phira.5wyxi.com/files/8f0c3d2b-a877-4844-b649-3ef7f953972b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "5ANK41！",
   "preview": "https://phira.5wyxi.com/files/decb4d17-545d-4bf7-9942-69d8db790867",
   "ranked": true,
-  "rating": 0.9133475,
-  "ratingCount": 1680,
+  "rating": 0.9133656,
+  "ratingCount": 1694,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

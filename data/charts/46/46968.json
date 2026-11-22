@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:31Z",
-    "lastChanged": "2026-09-21T02:05:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-20T05:52:03.237636Z",
   "charter": "Evershit",
@@ -14,6 +14,7 @@
   "description": "gurin pupa帶故事板版本，譜師本人上傳，僅添加故事板，note無改動",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/9a98aa8a-a0e1-4311-a986-106e23fdf99e",
+  "hidden": false,
   "id": 46968,
   "illustration": "https://phira.5wyxi.com/files/57670bcc-e8a1-413f-9167-acbf14c8d312",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Gurin PUPA",
   "preview": "https://phira.5wyxi.com/files/5f3f890b-025f-4491-9b3d-03b52516c1c7",
   "ranked": false,
-  "rating": 0.8389462,
-  "ratingCount": 61,
+  "rating": 0.8414366,
+  "ratingCount": 62,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

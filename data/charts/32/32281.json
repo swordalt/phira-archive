@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:27Z",
-    "lastChanged": "2026-09-21T02:05:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-23T10:24:56.353130Z",
   "charter": "XO is escaping",
@@ -14,6 +14,7 @@
   "description": "作者不到一天就把配置写完了。写了好大一坨SP Lv.15。本人上传",
   "difficulty": 17.300001,
   "file": "https://phira.5wyxi.com/files/a050bf09-68dd-433b-8e17-4780a3289436",
+  "hidden": false,
   "id": 32281,
   "illustration": "https://phira.5wyxi.com/files/5396b640-1204-409b-aa70-820d3e1b1a74",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "My Piano Is Escaping",
   "preview": "https://phira.5wyxi.com/files/7960468c-c68c-423a-a290-ef3046207485",
   "ranked": false,
-  "rating": 0.8054789,
-  "ratingCount": 164,
+  "rating": 0.80666083,
+  "ratingCount": 165,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

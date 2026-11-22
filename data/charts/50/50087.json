@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:06Z",
-    "lastChanged": "2026-09-21T02:04:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-11T03:18:11.148974Z",
   "charter": "PWL",
@@ -14,6 +14,7 @@
   "description": "有反手吧大概\nBV1FdmNBTEZ4",
   "difficulty": 14.600002,
   "file": "https://phira.5wyxi.com/files/65d29702-11c1-4c9d-aac5-f51a0b659a3c",
+  "hidden": false,
   "id": 50087,
   "illustration": "https://phira.5wyxi.com/files/f4f533b4-dabd-4339-aa16-3cb4be60bc97",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dash",
   "preview": "https://phira.5wyxi.com/files/7ff9498b-20a6-41d5-a7ac-5f7a0e8e85f8",
   "ranked": false,
-  "rating": 0.9456413,
-  "ratingCount": 215,
+  "rating": 0.93856984,
+  "ratingCount": 238,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

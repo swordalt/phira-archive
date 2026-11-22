@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-27T08:02:17Z",
-    "lastChanged": "2026-09-27T18:17:49Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:06Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-08-14T08:31:54.298001Z",
   "charter": "I LOVE YOU!",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n第二版：削弱了尾杀和部分大位移",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/d794d2ca-e707-43ae-981e-dce87d7b4762",
+  "hidden": false,
   "id": 73304,
   "illustration": "https://phira.5wyxi.com/files/629b703e-b148-420c-bb09-df668700e813",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "月が綺麗ねと言われたい！",
   "preview": "https://phira.5wyxi.com/files/ccb9c234-7c69-4500-8084-044f55aac722",
   "ranked": false,
-  "rating": 0.9130599,
-  "ratingCount": 83,
+  "rating": 0.8993006,
+  "ratingCount": 1946,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

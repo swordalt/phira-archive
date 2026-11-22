@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:52Z",
-    "lastChanged": "2026-09-21T02:04:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-29T01:46:30.877758Z",
   "charter": "WYM_scrpymc",
@@ -14,6 +14,7 @@
   "description": "由于是新人，所以说花费的近两个月的课余时间完成,完成后还修改了好几次,不会写表演awa,希望喜欢",
   "difficulty": 15.6,
   "file": "https://phira.5wyxi.com/files/712529bd-fd0a-44f3-969c-46d971646ffc",
+  "hidden": false,
   "id": 63063,
   "illustration": "https://phira.5wyxi.com/files/5e924805-66dc-45d6-9cd8-7775db8b6839",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "floating",
   "preview": "https://phira.5wyxi.com/files/d0a79e46-399e-41ea-8f0f-6c646da8a341",
   "ranked": false,
-  "rating": 0.7882243,
-  "ratingCount": 34,
+  "rating": 0.8065667,
+  "ratingCount": 39,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

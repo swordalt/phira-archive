@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:51Z",
-    "lastChanged": "2026-09-21T02:05:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-03T07:52:24.361070Z",
   "charter": "KasiltM-QR",
@@ -14,6 +14,7 @@
   "description": "纯配置双指谱",
   "difficulty": 11.0,
   "file": "https://phira.5wyxi.com/files/3ae8a13e-4ec6-441b-ace0-3e8a177700c1",
+  "hidden": false,
   "id": 22539,
   "illustration": "https://phira.5wyxi.com/files/baef8831-4912-47ab-90ad-bd51a4734ed8",
   "illustrator": "",

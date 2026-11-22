@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:05Z",
-    "lastChanged": "2026-09-21T02:06:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-15T15:45:21.909789Z",
   "charter": "Hshshshshq",
@@ -14,6 +14,7 @@
   "description": "三谱\n尝试了一些比较好玩的配置\n高难\n一改:调整了谱面延迟",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/6f1d6064-a897-41e2-90fe-f59fab34363d",
+  "hidden": false,
   "id": 30902,
   "illustration": "https://phira.5wyxi.com/files/7cafad29-4935-4de7-80bd-87381f131192",
   "illustrator": "",

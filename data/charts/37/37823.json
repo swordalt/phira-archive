@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:14Z",
-    "lastChanged": "2026-09-21T02:06:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-09T11:27:18.921245Z",
   "charter": "Sankai",
@@ -14,6 +14,7 @@
   "description": "FZC官谱 ，使用了MVP转谱，本人上传",
   "difficulty": 29.0,
   "file": "https://phira.5wyxi.com/files/5c588136-0180-4f94-bbc7-11740545dc20",
+  "hidden": false,
   "id": 37823,
   "illustration": "https://phira.5wyxi.com/files/58f2787e-5e4a-42ce-81a3-0c3f3f915a33",
   "illustrator": "",

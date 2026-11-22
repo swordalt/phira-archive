@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:43Z",
-    "lastChanged": "2026-09-21T02:04:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-21T05:06:49.118037Z",
   "charter": "Pigeeeeeon",
@@ -14,6 +14,7 @@
   "description": "0thPecJam RG No.154\n修改了一点细节",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/ab028109-d049-4ae1-8426-d6128411c7bb",
+  "hidden": false,
   "id": 58645,
   "illustration": "https://phira.5wyxi.com/files/e3e37081-f14c-4769-8cb0-62fb8176968f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "[line:θ]",
   "preview": "https://phira.5wyxi.com/files/b0769f61-5ecc-4491-b92a-683e87720cc2",
   "ranked": false,
-  "rating": 0.86354136,
-  "ratingCount": 124,
+  "rating": 0.8658965,
+  "ratingCount": 128,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:05Z",
-    "lastChanged": "2026-09-21T02:02:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-30T06:01:00.022820Z",
   "charter": "zsc985246 vs 卖不出花的美穗",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.800002,
   "file": "https://phira.5wyxi.com/files/0da26518-c05a-465c-9af0-0bc2b32ed149",
+  "hidden": false,
   "id": 17719,
   "illustration": "https://phira.5wyxi.com/files/5375cb46-6fca-4780-80cd-2a3eff3577b7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Unit:Squash!",
   "preview": "https://phira.5wyxi.com/files/0fb13ff6-cf23-49de-ad67-2b5ec998aaca",
   "ranked": false,
-  "rating": 0.88622797,
-  "ratingCount": 42,
+  "rating": 0.8886655,
+  "ratingCount": 43,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

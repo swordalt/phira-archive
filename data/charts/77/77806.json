@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:16Z",
-    "lastChanged": "2026-11-12T18:50:11Z",
-    "revisions": 4
+    "lastChanged": "2026-11-22T12:59:18Z",
+    "revisions": 5
   },
   "chartUpdated": "2026-11-12T13:55:17.477713Z",
   "charter": "是苏沐不是s马",
@@ -14,6 +14,7 @@
   "description": "谱师：是苏沐不是s马\n游玩事项：\n1 phira版本务必为0.7以上，否则无法正常游玩\n2 该谱面只有在3:2这个比例才能正常游玩，使用其他比例可能会导致部分演出露馅\n3 该谱面的最佳note大小为1.0，过大或者过小也有可能导致部分演出露馅，但是不影响正常游玩\n4 考虑到游玩性，1017cb这一段为全屏判定",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/d7f317e0-9080-42b4-b7e2-8c44a12b2c50",
+  "hidden": false,
   "id": 77806,
   "illustration": "https://phira.5wyxi.com/files/ccf2b058-6089-447e-90b1-62261adf7076",
   "illustrator": "Synth Monsters/千璃Senri/SADRECORDS",
@@ -21,11 +22,11 @@
   "name": "GAMER",
   "preview": "https://phira.5wyxi.com/files/9eaf5741-4998-4fba-bfa9-4c04139f3dac",
   "ranked": false,
-  "rating": 0.9402115,
-  "ratingCount": 254,
-  "reviewed": false,
+  "rating": 0.93201715,
+  "ratingCount": 308,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

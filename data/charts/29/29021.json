@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:44Z",
-    "lastChanged": "2026-09-21T02:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-24T13:05:27.529125Z",
   "charter": "kraU",
@@ -14,6 +14,7 @@
   "description": "bilibili@kr_yoshino",
   "difficulty": 14.300001,
   "file": "https://phira.5wyxi.com/files/7ad0c91f-791b-4a87-8a7d-932d494f4cc5",
+  "hidden": false,
   "id": 29021,
   "illustration": "https://phira.5wyxi.com/files/f1e01a5b-e696-4756-810c-1173c570d48f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ARROW",
   "preview": "https://phira.5wyxi.com/files/8a84e350-dd2b-446c-bdaa-d1f150149e16",
   "ranked": false,
-  "rating": 0.8600513,
-  "ratingCount": 162,
+  "rating": 0.8614972,
+  "ratingCount": 164,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:15Z",
-    "lastChanged": "2026-09-21T02:06:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-23T07:55:23.323786Z",
   "charter": "laoye_",
@@ -14,6 +14,7 @@
   "description": "新人第二张谱",
   "difficulty": 15.5,
   "file": "https://phira.5wyxi.com/files/a4d1a363-479d-41fe-a508-08469ae2c3b0",
+  "hidden": false,
   "id": 38487,
   "illustration": "https://phira.5wyxi.com/files/6bb37985-2d98-4943-87dd-6ccda3af5eae",
   "illustrator": "",

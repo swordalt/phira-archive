@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:29Z",
-    "lastChanged": "2026-09-21T02:03:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-14T14:23:02.532674Z",
   "charter": "む_Akira",
@@ -14,6 +14,7 @@
   "description": "？",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/e4eeec38-ff66-4d1c-9a18-bc9c00fba2d9",
+  "hidden": false,
   "id": 41697,
   "illustration": "https://phira.5wyxi.com/files/5d1c46d9-0bb4-4390-9646-8cb2e79777da",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Butterfly Twist",
   "preview": "https://phira.5wyxi.com/files/a2e594e2-b10a-446b-a7c5-519989cf5708",
   "ranked": false,
-  "rating": 0.89778316,
-  "ratingCount": 147,
+  "rating": 0.89835525,
+  "ratingCount": 148,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

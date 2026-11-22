@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:13Z",
-    "lastChanged": "2026-09-21T02:01:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-03T06:15:16.890341Z",
   "charter": "the 90's sword",
@@ -14,6 +14,7 @@
   "description": "会不断改进的，有写的不好的地方还请理解(´°Δ°`)（BILIBILI UID:33991100）",
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/70796680-f1f2-4431-ba7b-2d74744dd574",
+  "hidden": false,
   "id": 2655,
   "illustration": "https://phira.5wyxi.com/files/ff07da9a-851c-43ff-9177-3a006404c92b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "the 90's decision",
   "preview": "https://phira.5wyxi.com/files/84ee7314-6759-4a6f-829b-66e13429e1ac",
   "ranked": false,
-  "rating": 0.8227637,
-  "ratingCount": 389,
+  "rating": 0.8238245,
+  "ratingCount": 393,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

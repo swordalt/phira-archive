@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:05Z",
-    "lastChanged": "2026-09-21T02:04:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-04T17:51:21.819961Z",
   "charter": "papa",
@@ -14,6 +14,7 @@
   "description": "本人上传，b站BV1XH2BByERc",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/207a3bec-217d-4f43-ae64-dad78c29e4d4",
+  "hidden": false,
   "id": 49800,
   "illustration": "https://phira.5wyxi.com/files/86cd6387-ed27-4e85-8c01-073d26822b42",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MarbleBlue.",
   "preview": "https://phira.5wyxi.com/files/72b7b142-e54e-415a-86d9-8bf34790ad67",
   "ranked": false,
-  "rating": 0.9341483,
-  "ratingCount": 656,
+  "rating": 0.9326793,
+  "ratingCount": 675,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

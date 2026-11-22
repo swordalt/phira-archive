@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:47Z",
-    "lastChanged": "2026-09-21T02:01:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-07T07:27:03.352136Z",
   "charter": "Cheryfan eat minako",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/140791a0-6f7c-4d1f-9f7a-7459dcbb43b9",
+  "hidden": false,
   "id": 13349,
   "illustration": "https://phira.5wyxi.com/files/16a8f0c1-e7d8-4ffc-abee-6dba9274b7a3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Love's Oracle",
   "preview": "https://phira.5wyxi.com/files/4c3d22ad-56d3-4cef-8565-525aa2fc5a0a",
   "ranked": false,
-  "rating": 0.9066771,
-  "ratingCount": 495,
+  "rating": 0.90683,
+  "ratingCount": 498,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:44Z",
-    "lastChanged": "2026-09-21T02:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-14T12:14:00.304006Z",
   "charter": "778Y0E",
@@ -14,6 +14,7 @@
   "description": "此谱面是原半年前的谱面（AT16）更改而成，升级到了AT17，虽然表演还是摆烂了（注：我是778Y0E本人，此账号也是本人账号）",
   "difficulty": 17.2,
   "file": "https://phira.5wyxi.com/files/e7e312fd-92b6-48f0-95a3-e345a6fc98d6",
+  "hidden": false,
   "id": 28724,
   "illustration": "https://phira.5wyxi.com/files/dcf8240c-d28c-4519-b3b3-a5cde1744b08",
   "illustrator": "",

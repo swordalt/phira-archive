@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:31Z",
-    "lastChanged": "2026-09-21T02:03:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-21T14:37:07.820768Z",
   "charter": "Firsna",
@@ -14,6 +14,7 @@
   "description": "本人第二张谱\n视频BV1sTgLzFEdN",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/3825bb83-cf0b-46d7-b9dc-ec031ffa88c6",
+  "hidden": false,
   "id": 42341,
   "illustration": "https://phira.5wyxi.com/files/a72348a0-ae96-4dce-9039-64b8e2a37054",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ヤンデレラガール",
   "preview": "https://phira.5wyxi.com/files/5cd20388-a04c-4627-944b-82b017028219",
   "ranked": false,
-  "rating": 0.9060108,
-  "ratingCount": 375,
+  "rating": 0.90676063,
+  "ratingCount": 378,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

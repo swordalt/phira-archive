@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:19Z",
-    "lastChanged": "2026-09-21T02:03:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-23T10:19:46.047998Z",
   "charter": "Secret",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/fd857660-c2d6-462e-8f5f-20ef7ee97f8a",
+  "hidden": false,
   "id": 38493,
   "illustration": "https://phira.5wyxi.com/files/a686f225-32ae-43e5-8929-11ac3833553a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ヒミツ (feat. 可不)",
   "preview": "https://phira.5wyxi.com/files/1983fd00-185f-4db3-9056-d7715c137e70",
   "ranked": false,
-  "rating": 0.9578541,
-  "ratingCount": 2192,
+  "rating": 0.9586187,
+  "ratingCount": 2291,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

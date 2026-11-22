@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:53Z",
-    "lastChanged": "2026-09-21T02:06:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-12T09:48:26.329355Z",
   "charter": "TEC109",
@@ -14,6 +14,7 @@
   "description": "本人上传\n503/2100，97.65%\n平平无奇的一张\n双指高难谱面，多指谨慎游玩",
   "difficulty": 17.7,
   "file": "https://phira.5wyxi.com/files/c2d9157b-d3dd-4aef-b83c-2b86fce44348",
+  "hidden": false,
   "id": 60678,
   "illustration": "https://phira.5wyxi.com/files/5bcf8a55-ccac-48a2-96b0-f785c433cc4b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "c.s.q.n.",
   "preview": "https://phira.5wyxi.com/files/97240984-a6b3-489d-8028-7579e60291f7",
   "ranked": false,
-  "rating": 0.9150421,
-  "ratingCount": 36,
+  "rating": 0.91711146,
+  "ratingCount": 37,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

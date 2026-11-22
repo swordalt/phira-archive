@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:00Z",
-    "lastChanged": "2026-09-21T02:03:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-30T13:57:59.728190Z",
   "charter": "Lingyu_233",
@@ -14,6 +14,7 @@
   "description": "旧谱重新上传，添加了解锁动画\n是谱师本人上传",
   "difficulty": 13.899999,
   "file": "https://phira.5wyxi.com/files/ed333546-8954-49db-9332-28dcb2446016",
+  "hidden": false,
   "id": 32914,
   "illustration": "https://phira.5wyxi.com/files/b1544553-72eb-4ef8-a98c-60cf7872b7c1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "系ぎて",
   "preview": "https://phira.5wyxi.com/files/21d2996b-6267-46e7-af6f-06a2f4a3dd6c",
   "ranked": false,
-  "rating": 0.94228894,
-  "ratingCount": 624,
+  "rating": 0.9427597,
+  "ratingCount": 652,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

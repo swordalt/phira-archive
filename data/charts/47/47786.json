@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:55Z",
-    "lastChanged": "2026-09-21T02:03:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-06T16:12:57.840762Z",
   "charter": "FD",
@@ -14,6 +14,7 @@
   "description": "纯自谱削弱\n欢迎大佬们去B站（昙花如梦Flower官方频道）关注喵～",
   "difficulty": 13.200008,
   "file": "https://phira.5wyxi.com/files/fac3b213-507e-49b4-a1aa-71f1e3f751f6",
+  "hidden": false,
   "id": 47786,
   "illustration": "https://phira.5wyxi.com/files/ee0ae652-9a78-4677-b5ac-8db43bc3d820",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "借过一下",
   "preview": "https://phira.5wyxi.com/files/28384b9c-d968-445e-818b-af8d91aa98b1",
   "ranked": false,
-  "rating": 0.9284326,
-  "ratingCount": 895,
+  "rating": 0.9278476,
+  "ratingCount": 1031,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

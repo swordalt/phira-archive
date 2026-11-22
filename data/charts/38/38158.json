@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:15Z",
-    "lastChanged": "2026-09-21T02:06:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-17T03:41:36.894109Z",
   "charter": "雾涯",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，本来是要写合作的",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/c1d7169e-a2cb-4350-a06c-7e32c25c8387",
+  "hidden": false,
   "id": 38158,
   "illustration": "https://phira.5wyxi.com/files/eca4a983-fe76-4fc3-a380-f37edae8d6e5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MarbleBlue.",
   "preview": "https://phira.5wyxi.com/files/69b14ff1-e666-406c-824c-96825baeefc0",
   "ranked": false,
-  "rating": 0.9477677,
-  "ratingCount": 191,
+  "rating": 0.9493408,
+  "ratingCount": 197,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

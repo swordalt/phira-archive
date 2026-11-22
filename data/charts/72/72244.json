@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:00Z",
-    "lastChanged": "2026-09-27T10:18:23Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T13:03:04Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-09T08:38:00.948937Z",
   "charter": "YMEA",
@@ -14,6 +14,7 @@
   "description": "写了一天，后面忘了\n不感谢@Lage#852606 的动效\n快手 X B站 洋漫YMEA\nDY YMEA",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/75e10da8-bd07-46ca-9d64-e108491c97bd",
+  "hidden": false,
   "id": 72244,
   "illustration": "https://phira.5wyxi.com/files/ff4670d4-410c-4142-83a0-fc1f15e5459d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GOODWORLD",
   "preview": "https://phira.5wyxi.com/files/b55de44b-59bc-4f84-85e5-f51630a705ed",
   "ranked": false,
-  "rating": 0.9197051,
-  "ratingCount": 627,
+  "rating": 0.9218888,
+  "ratingCount": 755,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

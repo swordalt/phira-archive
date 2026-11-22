@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:47Z",
-    "lastChanged": "2026-09-21T02:01:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-06T14:40:15.875166Z",
   "charter": "YasoteMay",
@@ -14,6 +14,7 @@
   "description": "可能有不完善的地方，但请谅解，之后我会做的更好，尽情享受这首by your side",
   "difficulty": 14.3,
   "file": "https://phira.5wyxi.com/files/6b344e05-9cdb-4131-aac2-6cc1f6543f61",
+  "hidden": false,
   "id": 13303,
   "illustration": "https://phira.5wyxi.com/files/aa49b50d-e724-4771-8e30-4244b1e4aec2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "By Your Side",
   "preview": "https://phira.5wyxi.com/files/edaccf48-fc1b-423c-af85-9f52cc7b25ff",
   "ranked": false,
-  "rating": 0.92328393,
-  "ratingCount": 1577,
+  "rating": 0.9229348,
+  "ratingCount": 1619,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

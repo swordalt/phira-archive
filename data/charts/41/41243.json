@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:27Z",
-    "lastChanged": "2026-09-21T02:03:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-09T08:12:38.832117Z",
   "charter": "星辰鸠和银河䴗 vs. 鸠猫讨厌英语",
@@ -14,6 +14,7 @@
   "description": "其他谱师同意上传 bilibili@星辰鸠和银河䴗 @鸠猫酱yy",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/65bbded0-d209-4562-9e4e-db1fd471c04c",
+  "hidden": false,
   "id": 41243,
   "illustration": "https://phira.5wyxi.com/files/f34461fc-b56b-46ee-94fe-94319a714291",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "初嵐",
   "preview": "https://phira.5wyxi.com/files/cd8ec5c4-b77c-4800-8fb0-e601b57a573d",
   "ranked": false,
-  "rating": 0.93763417,
-  "ratingCount": 1520,
+  "rating": 0.938657,
+  "ratingCount": 1562,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

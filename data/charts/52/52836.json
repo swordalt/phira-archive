@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:22Z",
-    "lastChanged": "2026-09-21T02:04:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-17T03:38:50.757975Z",
   "charter": "Array & Kmoon",
@@ -14,6 +14,7 @@
   "description": "本谱创作于1月30日，是在曲师被指控之前；发布谱面的目的仅作为对合作项目的纪念，请理性讨论\n\n完整谱面含shader，可以进我的个人群获取\n\n@Kmoon#125339",
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/c9d793a1-c9e4-4b93-9d5e-45f7ec0aba76",
+  "hidden": false,
   "id": 52836,
   "illustration": "https://phira.5wyxi.com/files/bdffa88c-4b37-4246-b9ef-0c43182e8682",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Pyrocrypt",
   "preview": "https://phira.5wyxi.com/files/39a82c7e-a74e-4401-9183-4061d630b870",
   "ranked": false,
-  "rating": 0.95855033,
-  "ratingCount": 442,
+  "rating": 0.95674,
+  "ratingCount": 482,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:18Z",
-    "lastChanged": "2026-09-21T02:05:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-08T06:53:46.345737Z",
   "charter": "Nyeverestain gonna Meow SSHC Up",
@@ -14,6 +14,7 @@
   "description": "B站 @米酪喵_Restain 本人上传",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/9cf92333-9269-4c75-952f-f8e3dd65b895",
+  "hidden": false,
   "id": 3159,
   "illustration": "https://phira.5wyxi.com/files/db3ca306-aaed-4c98-9d6f-86863ec7e399",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Nyever gonna Meow you Nyup",
   "preview": "https://phira.5wyxi.com/files/bca583d9-c32d-4b58-af8f-e5ab29177b6b",
   "ranked": false,
-  "rating": 0.9180637,
-  "ratingCount": 1162,
+  "rating": 0.91804874,
+  "ratingCount": 1163,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

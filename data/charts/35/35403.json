@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:08Z",
-    "lastChanged": "2026-09-21T02:03:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-18T07:44:08.961786Z",
   "charter": "Nan_kro",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/3b84d1aa-9b97-4914-aad9-f33ae6e456b1",
+  "hidden": false,
   "id": 35403,
   "illustration": "https://phira.5wyxi.com/files/57aef58a-a28c-49cf-a682-2d80a56c1d1d",
   "illustrator": "",

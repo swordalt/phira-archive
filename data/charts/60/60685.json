@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:48Z",
-    "lastChanged": "2026-09-21T02:04:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-12T10:52:48.931228Z",
   "charter": "No Signal",
@@ -14,6 +14,7 @@
   "description": "本人上传\nB站: @花屏君",
   "difficulty": 18.600002,
   "file": "https://phira.5wyxi.com/files/05d1d86b-c03a-4596-b698-3f694ae8ded0",
+  "hidden": false,
   "id": 60685,
   "illustration": "https://phira.5wyxi.com/files/fea5e2f3-f79a-44e6-8ae5-1da1a4f1950d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Frost Walker",
   "preview": "https://phira.5wyxi.com/files/62d84a65-1372-475b-a078-4e4bbf0eae78",
   "ranked": false,
-  "rating": 0.8901137,
-  "ratingCount": 69,
+  "rating": 0.89885545,
+  "ratingCount": 77,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:51Z",
-    "lastChanged": "2026-09-21T02:06:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-02T10:31:12.301641Z",
   "charter": "Dimension Gazer",
@@ -14,6 +14,7 @@
   "description": "谱师：Dimension Gazer\n制谱时长：4d\n制谱净时长：10h\n谱师本人上传，非转谱。",
   "difficulty": 21.0,
   "file": "https://phira.5wyxi.com/files/5ef8e870-4c45-4fbd-9d94-c43767d7ea36",
+  "hidden": false,
   "id": 57579,
   "illustration": "https://phira.5wyxi.com/files/97796e55-10f5-4500-a502-39e946558db0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Long Last the Child",
   "preview": "https://phira.5wyxi.com/files/7ddfb412-3f08-4d9c-8ec8-dc8d47b805f9",
   "ranked": false,
-  "rating": 0.9130446,
-  "ratingCount": 80,
+  "rating": 0.90973717,
+  "ratingCount": 84,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

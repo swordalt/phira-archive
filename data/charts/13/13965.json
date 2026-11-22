@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:49Z",
-    "lastChanged": "2026-09-21T02:01:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-31T03:27:47.155822Z",
   "charter": "念花",
@@ -14,6 +14,7 @@
   "description": "新人初谱（）",
   "difficulty": 15.200004,
   "file": "https://phira.5wyxi.com/files/046240b3-6014-4c26-b10e-6c8d8aa9f2d3",
+  "hidden": false,
   "id": 13965,
   "illustration": "https://phira.5wyxi.com/files/ff253861-d99a-43bb-8c96-08e8bb66d3fe",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MAXRAGE",
   "preview": "https://phira.5wyxi.com/files/6f0c2041-9476-4ec6-a427-fc55e3572edf",
   "ranked": false,
-  "rating": 0.69265103,
-  "ratingCount": 248,
+  "rating": 0.6915323,
+  "ratingCount": 250,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

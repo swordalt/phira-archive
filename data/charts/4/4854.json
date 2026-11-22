@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-07T12:13:18.555311Z",
   "charter": "-静-",
@@ -14,6 +14,7 @@
   "description": "第一次写fakeNote，Bilibili链接：https://www.bilibili.com/video/BV12N411m7Fi/",
   "difficulty": 13.9000025,
   "file": "https://phira.5wyxi.com/files/87b44ff8-d700-45bd-967e-c7e1262f6620",
+  "hidden": false,
   "id": 4854,
   "illustration": "https://phira.5wyxi.com/files/1614c828-ebfb-4e1f-a3af-52928c1fbb1c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Singularity at 2.64e+6 BPM",
   "preview": "https://phira.5wyxi.com/files/b5f08c2b-c5a8-4726-bd37-35fb29d2b25f",
   "ranked": false,
-  "rating": 0.8569314,
-  "ratingCount": 229,
+  "rating": 0.8555601,
+  "ratingCount": 230,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

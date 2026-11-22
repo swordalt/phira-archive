@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-12T03:01:19.870781Z",
   "charter": "woxianbaile",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 9.0,
   "file": "https://phira.5wyxi.com/files/4dec55b6-1ebd-47a8-a4c7-2710104ccbe1",
+  "hidden": false,
   "id": 33847,
   "illustration": "https://phira.5wyxi.com/files/2172a518-2d7a-4613-b00e-b05b8ed93ed2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "i love you more each time you die",
   "preview": "https://phira.5wyxi.com/files/830e3f8e-7d62-4c7d-a2b4-319109df258d",
   "ranked": false,
-  "rating": 0.91788405,
-  "ratingCount": 57,
+  "rating": 0.9136293,
+  "ratingCount": 58,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

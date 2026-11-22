@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:45Z",
-    "lastChanged": "2026-09-21T02:01:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-17T04:33:54.500612Z",
   "charter": "抑郁跳脸音游人",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 11.6,
   "file": "https://phira.5wyxi.com/files/bf301439-3f6a-4d9d-acad-af3b9093d0b7",
+  "hidden": false,
   "id": 12572,
   "illustration": "https://phira.5wyxi.com/files/458fa2a3-e176-41ef-aaae-d2a208eb241d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "我和你",
   "preview": "https://phira.5wyxi.com/files/abeb92ba-aa86-4d22-ab3c-4fd54133e31f",
   "ranked": false,
-  "rating": 0.93986213,
-  "ratingCount": 32373,
+  "rating": 0.93965536,
+  "ratingCount": 33363,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:15Z",
-    "lastChanged": "2026-09-21T02:03:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-30T13:08:49.715837Z",
   "charter": "KANYPOWER",
@@ -14,6 +14,7 @@
   "description": "B站链接：BV1AMLdzJE1T｜本人上传｜故事版真好玩｜可能有点难",
   "difficulty": 17.400002,
   "file": "https://phira.5wyxi.com/files/5008a327-a313-4c4b-aa6c-4caebaeb72b7",
+  "hidden": false,
   "id": 37121,
   "illustration": "https://phira.5wyxi.com/files/5f84bd6c-eeaa-4109-a8e6-487fd7efd43a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Vengeance of the \"V\"",
   "preview": "https://phira.5wyxi.com/files/0910902c-e06d-4d4b-bfc1-80d2ba289892",
   "ranked": false,
-  "rating": 0.9510795,
-  "ratingCount": 1547,
+  "rating": 0.95064443,
+  "ratingCount": 1592,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:42Z",
-    "lastChanged": "2026-09-21T02:02:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-05T01:29:25.637383Z",
   "charter": "El-Ж³",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.7,
   "file": "https://phira.5wyxi.com/files/2c55eb3a-0030-4c19-8668-faafbbba987d",
+  "hidden": false,
   "id": 28348,
   "illustration": "https://phira.5wyxi.com/files/af2eae9f-e1fe-48c3-8790-45908699cd99",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "《Ж》",
   "preview": "https://phira.5wyxi.com/files/0e559640-3da9-4f0f-9696-573b3982a456",
   "ranked": false,
-  "rating": 0.86542577,
-  "ratingCount": 637,
+  "rating": 0.8656804,
+  "ratingCount": 639,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

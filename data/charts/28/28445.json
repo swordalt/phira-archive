@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:43Z",
-    "lastChanged": "2026-09-21T02:02:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-06T16:48:33.793543Z",
   "charter": "弭儿酱",
@@ -14,6 +14,7 @@
   "description": "@皮卡的柠檬，是本人上传",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/05c79ef8-b7f8-4f9e-851c-ce9e4ce73183",
+  "hidden": false,
   "id": 28445,
   "illustration": "https://phira.5wyxi.com/files/d206d78b-fe6c-44c3-afe8-6e59f5ea7439",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ボーカルに無茶させんな",
   "preview": "https://phira.5wyxi.com/files/ccda206f-92aa-4bdd-8dc3-2dbda4fd53a5",
   "ranked": false,
-  "rating": 0.87105966,
-  "ratingCount": 133,
+  "rating": 0.87121385,
+  "ratingCount": 136,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

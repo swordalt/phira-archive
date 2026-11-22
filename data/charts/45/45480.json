@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:31Z",
-    "lastChanged": "2026-09-21T02:06:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-01T11:00:46.323922Z",
   "charter": "Frontier Miantiao",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 13.1,
   "file": "https://phira.5wyxi.com/files/1d01fa8a-60d0-4097-aa30-10ac1654e6fe",
+  "hidden": false,
   "id": 45480,
   "illustration": "https://phira.5wyxi.com/files/e3a8054a-4487-4d6a-8b52-3021b4fcd660",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Frontier Explorer",
   "preview": "https://phira.5wyxi.com/files/7295d250-1fb8-44d9-aede-0f5f8d82b875",
   "ranked": false,
-  "rating": 0.8592039,
-  "ratingCount": 14,
+  "rating": 0.8786616,
+  "ratingCount": 17,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

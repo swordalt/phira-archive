@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-27T08:02:44Z",
-    "lastChanged": "2026-09-27T18:17:53Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:03:02Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-07-29T08:40:37.720181Z",
   "charter": "Yokien",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.7,
   "file": "https://phira.5wyxi.com/files/234a2e03-9b8a-4987-aeda-5d937a96f951",
+  "hidden": false,
   "id": 69898,
   "illustration": "https://phira.5wyxi.com/files/4b1bf11b-bd2b-473e-82a9-082531b706a9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "君往何处",
   "preview": "https://phira.5wyxi.com/files/08c609ca-a67e-4a4d-b1f7-b2e045d0ec0c",
   "ranked": false,
-  "rating": 0.8156982,
-  "ratingCount": 5,
+  "rating": 0.9502014,
+  "ratingCount": 368,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

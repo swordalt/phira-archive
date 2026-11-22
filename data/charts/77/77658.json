@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:16Z",
-    "lastChanged": "2026-09-21T02:05:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-10T14:46:00.744102Z",
   "charter": "Icier in Utopia",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n3rd WMC参赛谱面之一",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/fbda70c7-e155-4bbd-b827-f0c39b8c3a71",
+  "hidden": false,
   "id": 77658,
   "illustration": "https://phira.5wyxi.com/files/95f3596c-8859-4885-a66d-20174d7204dd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "放空",
   "preview": "https://phira.5wyxi.com/files/33b86d41-57ce-4313-8aa9-47af046fdcdd",
   "ranked": false,
-  "rating": 0.9148823,
-  "ratingCount": 5054,
+  "rating": 0.911818,
+  "ratingCount": 11316,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:36Z",
-    "lastChanged": "2026-09-21T02:03:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-03T04:13:23.850061Z",
   "charter": "帆帆爱大米",
@@ -14,6 +14,7 @@
   "description": "庆生谱（虽然晚了3个多月才上传）同时也是观赏谱，图个好玩",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/c20bef2d-9b7d-4cb9-b162-1d895e639ae1",
+  "hidden": false,
   "id": 43532,
   "illustration": "https://phira.5wyxi.com/files/36f0b4b5-25cb-420a-a2d1-d13e1a5cd428",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "OperationD (xi Remix)",
   "preview": "https://phira.5wyxi.com/files/bf9426c0-6e82-44db-a635-361ca40adb7e",
   "ranked": false,
-  "rating": 0.91633743,
-  "ratingCount": 340,
+  "rating": 0.91461253,
+  "ratingCount": 348,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

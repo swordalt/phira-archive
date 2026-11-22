@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:31Z",
-    "lastChanged": "2026-09-21T02:06:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-22T09:07:10.081357Z",
   "charter": "Sccrea",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.900001,
   "file": "https://phira.5wyxi.com/files/8625a4cf-5f32-44f1-913b-d07cf8b84226",
+  "hidden": false,
   "id": 45410,
   "illustration": "https://phira.5wyxi.com/files/6da1d41a-4a45-4593-8c79-517b611007c3",
   "illustrator": "",

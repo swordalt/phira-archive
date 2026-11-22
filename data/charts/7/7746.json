@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:27Z",
-    "lastChanged": "2026-09-21T02:01:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-16T04:17:43.071918Z",
   "charter": "批髹 fixed by amme_mark",
@@ -14,6 +14,7 @@
   "description": "本号为bilibili@amme_mark小号，本谱面是对bilibili@批髹谱面的修改，在两人的账户上均有证明！",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/631deb10-f425-4c1c-a633-7b9dd75350c2",
+  "hidden": false,
   "id": 7746,
   "illustration": "https://phira.5wyxi.com/files/cf22b2a2-d045-40d2-a15a-3423a53fbaac",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "视界巡航",
   "preview": "https://phira.5wyxi.com/files/389c6960-450e-40e6-b53f-70fd04421b06",
   "ranked": false,
-  "rating": 0.94333327,
-  "ratingCount": 399,
+  "rating": 0.94489473,
+  "ratingCount": 418,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

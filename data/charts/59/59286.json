@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:44Z",
-    "lastChanged": "2026-09-21T02:04:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-28T05:10:04.579076Z",
   "charter": "xhj.",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/a93b940d-f048-4a71-920d-e8f414a629c0",
+  "hidden": false,
   "id": 59286,
   "illustration": "https://phira.5wyxi.com/files/221b7adf-f37e-4fb8-9ae3-d70a93c5170f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MI RESPIRAR",
   "preview": "https://phira.5wyxi.com/files/ccf1dc37-7328-4670-9c3b-c5be07a8d541",
   "ranked": false,
-  "rating": 0.9002768,
-  "ratingCount": 169,
+  "rating": 0.9016957,
+  "ratingCount": 196,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

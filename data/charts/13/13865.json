@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:41Z",
-    "lastChanged": "2026-09-21T02:05:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-21T00:38:05.946297Z",
   "charter": "Iblcya",
@@ -14,6 +14,7 @@
   "description": "谱师上传\n没记错是COEGTS2023单曲",
   "difficulty": 13.4,
   "file": "https://phira.5wyxi.com/files/23292740-1f82-40b6-8cfc-8a57f02c7ed0",
+  "hidden": false,
   "id": 13865,
   "illustration": "https://phira.5wyxi.com/files/c1149672-4378-42d3-8960-59872167a79b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Gratia",
   "preview": "https://phira.5wyxi.com/files/50ed06b6-642f-4c34-aa3d-d8cf8a0a5b1e",
   "ranked": false,
-  "rating": 0.86154187,
-  "ratingCount": 26,
+  "rating": 0.8659947,
+  "ratingCount": 27,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:29Z",
-    "lastChanged": "2026-09-21T02:03:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-14T05:43:07.835479Z",
   "charter": "Rocket-cat",
@@ -14,6 +14,7 @@
   "description": "本人第一次(理论上)\n\n24分短交比较多\n\n修改了部分配置及演出",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/12b78049-0932-4a97-afce-3d6a6f08bd8b",
+  "hidden": false,
   "id": 41646,
   "illustration": "https://phira.5wyxi.com/files/44ae874f-1533-4a7a-87a2-305f9fc42cf5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Far Eastern Flavor ",
   "preview": "https://phira.5wyxi.com/files/5f09d223-0a10-4eec-a191-57d662cab156",
   "ranked": false,
-  "rating": 0.88249093,
-  "ratingCount": 276,
+  "rating": 0.8827291,
+  "ratingCount": 280,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:19Z",
-    "lastChanged": "2026-09-21T02:03:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-25T12:42:28.422135Z",
   "charter": "Cookie -2025 ver.-",
@@ -14,6 +14,7 @@
   "description": "2025.5.25改谱\n优化部分段落手感\n\n谱师b站@CookieRacer",
   "difficulty": 18.1,
   "file": "https://phira.5wyxi.com/files/624ce57f-696a-4d32-b2b0-b13d4df846df",
+  "hidden": false,
   "id": 38724,
   "illustration": "https://phira.5wyxi.com/files/56f69cea-28a6-4716-8993-6e2082c536bd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "FKIN W H A T",
   "preview": "https://phira.5wyxi.com/files/5b1359ec-cb52-4ace-93ef-057d2c6ecb24",
   "ranked": false,
-  "rating": 0.93483245,
-  "ratingCount": 251,
+  "rating": 0.93607944,
+  "ratingCount": 259,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

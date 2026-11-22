@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:06Z",
-    "lastChanged": "2026-09-21T02:04:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-12T14:33:51.898652Z",
   "charter": "Max3957",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，1stpecjam参赛作品",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/8d1930bd-4520-4d9a-9d1c-93273470c159",
+  "hidden": false,
   "id": 50127,
   "illustration": "https://phira.5wyxi.com/files/27cb0676-66eb-4e66-a8ff-7769eb6d6a40",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Winter（冬）",
   "preview": "https://phira.5wyxi.com/files/2abdf1d2-b3b0-465a-9796-36682bf42a12",
   "ranked": false,
-  "rating": 0.88634014,
-  "ratingCount": 274,
+  "rating": 0.8867554,
+  "ratingCount": 284,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

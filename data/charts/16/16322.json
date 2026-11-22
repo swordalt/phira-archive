@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:00Z",
-    "lastChanged": "2026-09-21T02:02:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-04T05:17:58.421955Z",
   "charter": "YanY&Seako",
@@ -14,6 +14,7 @@
   "description": "更新了预览（不设个劲爆预览没人玩了www\n换了张曲绘（\n与Seako的第一张合作，感谢Seako的炫酷演出以及对配置的微调(>▽<)，谱面由YanY代表上传，（B站@超爱吃盐的盐盐/@seac_blue），希望你喜欢",
   "difficulty": 14.800003,
   "file": "https://phira.5wyxi.com/files/be58e7c9-85a2-486f-835d-6c25c352ac8c",
+  "hidden": false,
   "id": 16322,
   "illustration": "https://phira.5wyxi.com/files/1154fb62-dfb6-4f2a-ae6c-f46bd27f18fd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Accelerate",
   "preview": "https://phira.5wyxi.com/files/07620d99-9ead-4dc5-9c6f-c277bd5f4f9e",
   "ranked": true,
-  "rating": 0.9239737,
-  "ratingCount": 6787,
+  "rating": 0.9240269,
+  "ratingCount": 6855,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

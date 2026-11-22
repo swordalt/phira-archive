@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:38Z",
-    "lastChanged": "2026-09-21T02:01:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-25T10:40:21.926487Z",
   "charter": "Phigrim Charteam",
@@ -14,6 +14,7 @@
   "description": "Phigrim x Phira\n\nto 2023 沃玛音游生贺活动\n\nChart by Phigrim Charteam\nIllustration by TeamPhigrim Art\n\nEnjoy.",
   "difficulty": 14.1,
   "file": "https://phira.5wyxi.com/files/c95d225a-9304-41c7-98c4-caef9277911b",
+  "hidden": false,
   "id": 10827,
   "illustration": "https://phira.5wyxi.com/files/eeffd20b-9aa2-46bc-bf59-ee43fbd4021b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "焦糖星",
   "preview": "https://phira.5wyxi.com/files/d3f99415-aab1-4889-a2ec-7836b4a259dd",
   "ranked": false,
-  "rating": 0.9280839,
-  "ratingCount": 1522,
+  "rating": 0.9286053,
+  "ratingCount": 1551,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

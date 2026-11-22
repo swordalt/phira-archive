@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:53Z",
-    "lastChanged": "2026-09-21T02:05:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-11T09:16:00.650481Z",
   "charter": "渔渔子(汾_HL)",
@@ -14,6 +14,7 @@
   "description": "一坨(谱师自传)",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/d0854412-b0db-4306-ad1f-b8cf4a610e18",
+  "hidden": false,
   "id": 23191,
   "illustration": "https://phira.5wyxi.com/files/7f4a07a1-b821-43f5-bc48-d9258108ebd3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "sølips",
   "preview": "https://phira.5wyxi.com/files/5b0164d6-4282-43dd-94fb-1457f46f1822",
   "ranked": false,
-  "rating": 0.7079018,
-  "ratingCount": 61,
+  "rating": 0.7123181,
+  "ratingCount": 67,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

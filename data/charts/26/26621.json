@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:35Z",
-    "lastChanged": "2026-09-21T02:02:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-20T17:56:06.329792Z",
   "charter": "GabrielC",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.800011,
   "file": "https://phira.5wyxi.com/files/b3691860-383e-4b87-99d3-c8808d04dad6",
+  "hidden": false,
   "id": 26621,
   "illustration": "https://phira.5wyxi.com/files/396609dc-a08b-4b31-a8f5-d0866648f820",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Love Dramatic",
   "preview": "https://phira.5wyxi.com/files/e95f22f4-7f65-488e-b477-0b72ff3434eb",
   "ranked": false,
-  "rating": 0.9133471,
-  "ratingCount": 192,
+  "rating": 0.9154659,
+  "ratingCount": 198,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

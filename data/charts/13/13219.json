@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:40Z",
-    "lastChanged": "2026-09-21T02:05:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-03T08:33:16.410033Z",
   "charter": "Hiesnoze",
@@ -14,6 +14,7 @@
   "description": "本人上传\nBPM＝198（198警撅）\n没有什么特别难的配置，自己打的时候感觉挺爽的（？）",
   "difficulty": 16.5,
   "file": "https://phira.5wyxi.com/files/8616f050-3c46-4679-81de-0304f53cf2af",
+  "hidden": false,
   "id": 13219,
   "illustration": "https://phira.5wyxi.com/files/88303c66-6984-4c05-8aa0-6850dd0380bc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ロべリア",
   "preview": "https://phira.5wyxi.com/files/cc6993a3-d7cc-42a7-a3a8-015f665431c3",
   "ranked": false,
-  "rating": 0.9523337,
-  "ratingCount": 671,
+  "rating": 0.95228124,
+  "ratingCount": 681,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

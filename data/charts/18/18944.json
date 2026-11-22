@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:10Z",
-    "lastChanged": "2026-09-21T02:02:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-27T04:48:17.188475Z",
   "charter": "NKY",
@@ -14,6 +14,7 @@
   "description": "B站NEKOYO_NKY\n拍砖？！我大抵是疯了",
   "difficulty": 15.500003,
   "file": "https://phira.5wyxi.com/files/143e6da7-367a-411b-869a-b67b8a352c6f",
+  "hidden": false,
   "id": 18944,
   "illustration": "https://phira.5wyxi.com/files/0f10a9eb-86b7-456a-b3f8-2a3494ae43e1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "混沌ブギ",
   "preview": "https://phira.5wyxi.com/files/4606f109-2aa1-4009-9a13-f11c3a8e51d0",
   "ranked": false,
-  "rating": 0.9297685,
-  "ratingCount": 1721,
+  "rating": 0.9294926,
+  "ratingCount": 1774,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

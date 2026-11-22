@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:57Z",
-    "lastChanged": "2026-09-21T02:06:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-08T08:39:02.661504Z",
   "charter": "HRS-Team",
@@ -14,6 +14,7 @@
   "description": "HRS-Lv.16-Pattern单曲",
   "difficulty": 16.000004,
   "file": "https://phira.5wyxi.com/files/918cd89a-2ddb-4f44-9109-d49bc9c12c12",
+  "hidden": false,
   "id": 64920,
   "illustration": "https://phira.5wyxi.com/files/97fe1442-a010-41a0-a57c-a55dccfc3cd0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Chronomia 1.05x",
   "preview": "https://phira.5wyxi.com/files/7d62f260-d0ae-4ce2-a120-5b66bbebbdf2",
   "ranked": false,
-  "rating": 0.86387897,
-  "ratingCount": 39,
+  "rating": 0.85175925,
+  "ratingCount": 49,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

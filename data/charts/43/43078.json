@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:26Z",
-    "lastChanged": "2026-09-21T02:06:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-29T11:32:06.951626Z",
   "charter": "天崽awa vs. 喜食天禄",
@@ -14,6 +14,7 @@
   "description": "发布谱面内容请注明谱师",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/9754f197-db95-45e0-afde-f7bb66473a6b",
+  "hidden": false,
   "id": 43078,
   "illustration": "https://phira.5wyxi.com/files/05dbd73c-c954-4354-ba79-f9d8c67d8611",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Qualia",
   "preview": "https://phira.5wyxi.com/files/b8aece0d-0ea3-4dd2-a16f-567202b3861d",
   "ranked": false,
-  "rating": 0.9656038,
-  "ratingCount": 246,
+  "rating": 0.964872,
+  "ratingCount": 263,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

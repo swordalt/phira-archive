@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:35Z",
-    "lastChanged": "2026-09-21T02:01:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-30T12:18:49.631896Z",
   "charter": "WhiteLight & Unknown239",
@@ -14,6 +14,7 @@
   "description": "谱师：@WhiteLight @Unknown239，视频BV1g8411S7fg\n改谱",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/673883cf-0571-4d82-bbc6-30773527585f",
+  "hidden": false,
   "id": 9882,
   "illustration": "https://phira.5wyxi.com/files/07df01d3-a899-44bf-8572-098f767dd5c2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "snooze",
   "preview": "https://phira.5wyxi.com/files/f1627b7a-1111-499e-b611-6d6272c6d2cd",
   "ranked": true,
-  "rating": 0.89612013,
-  "ratingCount": 10523,
+  "rating": 0.8961872,
+  "ratingCount": 10692,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

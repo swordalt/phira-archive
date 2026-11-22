@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:26Z",
-    "lastChanged": "2026-09-21T02:02:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-24T14:37:24.111250Z",
   "charter": "XJDMW vs. Amase",
@@ -14,6 +14,7 @@
   "description": "该谱面为无shader特效版本，shader特效版本谱面视频请移步BV1zf421v7XD\n此为合作谱，另一位谱师是Esama，已同意发布谱面",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/05f58fae-7611-4322-9141-49a6196c38ed",
+  "hidden": false,
   "id": 24267,
   "illustration": "https://phira.5wyxi.com/files/189d5a3f-a21b-4d87-bc53-e6e781cd4b5e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Σndless Suff∅ca7i∅n",
   "preview": "https://phira.5wyxi.com/files/692b6fd9-6a65-4581-80f9-ebef9e521f4c",
   "ranked": false,
-  "rating": 0.927536,
-  "ratingCount": 609,
+  "rating": 0.92818224,
+  "ratingCount": 615,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

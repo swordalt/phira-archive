@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:52Z",
-    "lastChanged": "2026-09-21T02:02:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-27T02:03:30.309147Z",
   "charter": "WJMAS",
@@ -14,6 +14,7 @@
   "description": "第一次制谱，初见杀较严重，很菜_(:зゝ∠)_",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/accacd7a-40db-42f2-90e2-2f1919d789fd",
+  "hidden": false,
   "id": 31082,
   "illustration": "https://phira.5wyxi.com/files/9a0d6f1a-b3bb-4fe3-968b-e37df63fb1ca",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MARENOL",
   "preview": "https://phira.5wyxi.com/files/b18c26fb-ab4b-4143-9cf1-78b337db220d",
   "ranked": false,
-  "rating": 0.93036896,
-  "ratingCount": 229,
+  "rating": 0.92917645,
+  "ratingCount": 236,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

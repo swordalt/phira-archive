@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:31Z",
-    "lastChanged": "2026-09-21T02:02:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-05T13:05:41.647409Z",
   "charter": "Benz-x",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/def59cc1-1f38-4a9a-a22b-a1f39dd7bf4f",
+  "hidden": false,
   "id": 25370,
   "illustration": "https://phira.5wyxi.com/files/0b652529-1c69-4d38-aec9-9a565a22f677",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mystic Light Quest",
   "preview": "https://phira.5wyxi.com/files/bbef10a5-b840-45b3-b957-cd711d4e2a78",
   "ranked": false,
-  "rating": 0.9098423,
-  "ratingCount": 902,
+  "rating": 0.9104999,
+  "ratingCount": 912,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

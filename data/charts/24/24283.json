@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:56Z",
-    "lastChanged": "2026-09-21T02:05:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-25T02:40:56.860210Z",
   "charter": "Genshin Team【snakewhale feat.op】",
@@ -14,6 +14,7 @@
   "description": "本谱除第二首前半段为另一位谱师制作外，其余四首半全部由我制作；已征得所有谱师同意上传",
   "difficulty": 16.7,
   "file": "https://phira.5wyxi.com/files/e8f24445-0d7c-4c87-bb3d-315bdf18d4f2",
+  "hidden": false,
   "id": 24283,
   "illustration": "https://phira.5wyxi.com/files/472ad2ea-df07-4105-8ec6-51cba415b61a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "原神神秘段位 Super 4th Dan",
   "preview": "https://phira.5wyxi.com/files/04c31f15-535a-4114-9666-c7f40214b1b8",
   "ranked": false,
-  "rating": 0.8569845,
-  "ratingCount": 32,
+  "rating": 0.8608445,
+  "ratingCount": 33,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

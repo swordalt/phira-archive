@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:38Z",
-    "lastChanged": "2026-09-21T02:02:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-01T01:59:27.045071Z",
   "charter": "Zalves_ & Cele",
@@ -14,6 +14,7 @@
   "description": "7thPecJam参赛谱/位14\n谱师本人上传 BV1YGnfeaEkt\n已上传新曲绘",
   "difficulty": 14.600002,
   "file": "https://phira.5wyxi.com/files/2b34c9ad-a207-4889-9980-5a8972469ab8",
+  "hidden": false,
   "id": 27253,
   "illustration": "https://phira.5wyxi.com/files/07a2ac1a-40d1-4bdb-8b4d-187926351e8a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Ghost",
   "preview": "https://phira.5wyxi.com/files/c557267e-4ba7-4ac4-9f3a-5d7b7e5edb0b",
   "ranked": true,
-  "rating": 0.90106565,
-  "ratingCount": 975,
+  "rating": 0.9009554,
+  "ratingCount": 989,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

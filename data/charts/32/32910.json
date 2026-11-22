@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:08Z",
-    "lastChanged": "2026-09-21T02:06:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-30T13:16:40.452658Z",
   "charter": "六刀",
@@ -14,6 +14,7 @@
   "description": "谱师B站账号：SixKnifes",
   "difficulty": 16.900005,
   "file": "https://phira.5wyxi.com/files/2f40e604-4bc0-4329-a77a-c05e5982b537",
+  "hidden": false,
   "id": 32910,
   "illustration": "https://phira.5wyxi.com/files/922b3853-54d2-4f91-a8c2-03a2ebd2df0b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "TIER SSSS++++ BPM",
   "preview": "https://phira.5wyxi.com/files/750423d1-232f-4e41-86ad-c9143cf99a53",
   "ranked": false,
-  "rating": 0.9059207,
-  "ratingCount": 86,
+  "rating": 0.9080027,
+  "ratingCount": 88,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

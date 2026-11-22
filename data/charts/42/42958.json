@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:30Z",
-    "lastChanged": "2026-09-21T02:05:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-28T09:53:08.241073Z",
   "charter": "SkyIly",
@@ -14,6 +14,7 @@
   "description": "本人创作",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/cc042702-09c1-496b-aacc-779918d5ddd3",
+  "hidden": false,
   "id": 42958,
   "illustration": "https://phira.5wyxi.com/files/71552f71-1d8c-4002-9716-5304db1ef1f3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "神的说唱",
   "preview": "https://phira.5wyxi.com/files/6f85a25d-65e8-419a-a422-92527457a354",
   "ranked": false,
-  "rating": 0.80087924,
-  "ratingCount": 128,
+  "rating": 0.7949513,
+  "ratingCount": 143,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:24Z",
-    "lastChanged": "2026-09-21T02:01:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-03T16:22:58.140596Z",
   "charter": "Vøranger",
@@ -14,6 +14,7 @@
   "description": "谱师：本人\n我有抑郁症.mp4\n有建议可以去b站提\nb站账号：@幻橙_Voranger\n\n修复了几处采音问题，更改了尾杀配置",
   "difficulty": 15.833333,
   "file": "https://phira.5wyxi.com/files/7e0d914c-cc16-4445-8892-d32807ab92b1",
+  "hidden": false,
   "id": 6766,
   "illustration": "https://phira.5wyxi.com/files/219dabb6-dec9-42e9-a192-ae5f7eb67c1f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "sølips",
   "preview": "https://phira.5wyxi.com/files/2eed2053-f3b5-4a44-9869-d8345e0dce65",
   "ranked": true,
-  "rating": 0.8735474,
-  "ratingCount": 4059,
+  "rating": 0.873851,
+  "ratingCount": 4105,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

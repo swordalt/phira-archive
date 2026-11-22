@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:15Z",
-    "lastChanged": "2026-09-21T02:01:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-17T09:40:06.571558Z",
   "charter": "Sparkle New Eason_AC",
@@ -14,6 +14,7 @@
   "description": "新人初谱，轻喷，thx\n谱面演示视频：BV1g84y1g7E6 \n游玩视频请注明出处",
   "difficulty": 13.600002,
   "file": "https://phira.5wyxi.com/files/6396e68f-92bb-49d9-94a3-4855f2f3e993",
+  "hidden": false,
   "id": 3608,
   "illustration": "https://phira.5wyxi.com/files/48f1ea0c-f20b-495f-aa1c-8b8ca862e321",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sparkle New Life",
   "preview": "https://phira.5wyxi.com/files/e08f9342-4f83-45a0-8e92-929b09e59f56",
   "ranked": false,
-  "rating": 0.91518784,
-  "ratingCount": 1295,
+  "rating": 0.91510683,
+  "ratingCount": 1296,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

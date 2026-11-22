@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:58Z",
-    "lastChanged": "2026-09-21T02:02:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-24T10:31:54.280441Z",
   "charter": "Winde",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.499997,
   "file": "https://phira.5wyxi.com/files/0558f25b-4497-4e18-abb1-890d0920bb44",
+  "hidden": false,
   "id": 32358,
   "illustration": "https://phira.5wyxi.com/files/4092f5e4-5280-4354-a5c8-5ce656c646bc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "恭喜发财",
   "preview": "https://phira.5wyxi.com/files/5ce902db-446d-43c1-a4ea-49baee2830f9",
   "ranked": false,
-  "rating": 0.90574634,
-  "ratingCount": 5399,
+  "rating": 0.9071362,
+  "ratingCount": 5563,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

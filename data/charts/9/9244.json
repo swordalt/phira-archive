@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-10T04:58:03.796691Z",
   "charter": "柠猫QWQ",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/9b8054b9-bdae-4ede-b62a-faf3def5602b",
+  "hidden": false,
   "id": 9244,
   "illustration": "https://phira.5wyxi.com/files/d3ea9bf6-b3f5-4de3-b44a-8350ff00c218",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "sky^-1",
   "preview": "https://phira.5wyxi.com/files/dd6fe9a8-a6a5-4639-a35d-1b2f80a6286b",
   "ranked": false,
-  "rating": 0.7944981,
-  "ratingCount": 540,
+  "rating": 0.7934897,
+  "ratingCount": 541,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:45Z",
-    "lastChanged": "2026-09-21T02:01:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-25T09:22:25.179913Z",
   "charter": "20086lr",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/394fa7c6-c78c-4e15-a70d-525227ac0ee0",
+  "hidden": false,
   "id": 12843,
   "illustration": "https://phira.5wyxi.com/files/762317e9-d861-4beb-9c7c-e9826154d179",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "天灵灵地灵灵",
   "preview": "https://phira.5wyxi.com/files/9a1736f1-6001-4523-b696-c63c77d5fd65",
   "ranked": false,
-  "rating": 0.9209117,
-  "ratingCount": 6848,
+  "rating": 0.92099386,
+  "ratingCount": 6917,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

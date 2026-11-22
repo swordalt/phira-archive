@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:55Z",
-    "lastChanged": "2026-09-21T02:01:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-10T03:37:40.933209Z",
   "charter": "6thPecJam",
@@ -14,6 +14,7 @@
   "description": "好像没发出去，再发一遍，看看是否通过。",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/9e5ce200-c44a-4656-a6e7-0db3d0dbf60c",
+  "hidden": false,
   "id": 15233,
   "illustration": "https://phira.5wyxi.com/files/5c34b59b-0522-4633-8f2b-7cf023e06546",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "BirdSprite",
   "preview": "https://phira.5wyxi.com/files/d4f6a4fc-c5c3-4c0d-ada7-3b1385696b72",
   "ranked": false,
-  "rating": 0.5901705,
-  "ratingCount": 57,
+  "rating": 0.5914666,
+  "ratingCount": 58,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

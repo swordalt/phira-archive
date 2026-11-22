@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:17Z",
-    "lastChanged": "2026-09-21T02:01:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-27T13:43:01.582517Z",
   "charter": "CheryFan",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/8c197fd6-c871-4d1e-906e-0f661ef02a0b",
+  "hidden": false,
   "id": 4187,
   "illustration": "https://phira.5wyxi.com/files/d990f757-cd2e-44d5-ade9-874cebfd0393",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Find You",
   "preview": "https://phira.5wyxi.com/files/c9e39325-6dc7-4254-b5ca-206c2f1f33f2",
   "ranked": false,
-  "rating": 0.8723743,
-  "ratingCount": 892,
+  "rating": 0.87253326,
+  "ratingCount": 894,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

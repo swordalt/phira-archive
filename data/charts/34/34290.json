@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-22T04:30:30.754207Z",
   "charter": "Anti theft Gan",
@@ -14,6 +14,7 @@
   "description": "第一谱",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/077ca9a2-7be9-4613-8e81-628b034d19d3",
+  "hidden": false,
   "id": 34290,
   "illustration": "https://phira.5wyxi.com/files/5a05bbf5-196e-4227-b88e-fa70f654c2d8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "singularity",
   "preview": "https://phira.5wyxi.com/files/6703ef19-7a38-45ff-9be6-037692fccbd2",
   "ranked": false,
-  "rating": 0.7878627,
-  "ratingCount": 18,
+  "rating": 0.7970018,
+  "ratingCount": 19,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

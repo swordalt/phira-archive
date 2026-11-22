@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:58Z",
-    "lastChanged": "2026-09-21T02:03:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-19T20:05:35.594568Z",
   "charter": "Edison",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.399998,
   "file": "https://phira.5wyxi.com/files/00ccaded-d3d6-44b0-a3d1-5a2b32949483",
+  "hidden": false,
   "id": 48243,
   "illustration": "https://phira.5wyxi.com/files/bc6ec45c-6407-4359-842f-e37d32885987",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Gekka",
   "preview": "https://phira.5wyxi.com/files/d45d7e3b-6989-4561-8683-0f9b5068c443",
   "ranked": false,
-  "rating": 0.87797457,
-  "ratingCount": 91,
+  "rating": 0.8805449,
+  "ratingCount": 93,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

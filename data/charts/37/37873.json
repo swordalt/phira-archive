@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:17Z",
-    "lastChanged": "2026-09-21T02:03:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-10T04:48:40.011627Z",
   "charter": "Person and a little Beijing Rost Duck",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 16.000004,
   "file": "https://phira.5wyxi.com/files/f51f778d-6c9d-465c-9b63-ceb8f82cf90a",
+  "hidden": false,
   "id": 37873,
   "illustration": "https://phira.5wyxi.com/files/11e2879f-9ba0-4784-98b0-ad5975f37fff",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Armageddon",
   "preview": "https://phira.5wyxi.com/files/519bde81-30fd-429c-bfcf-7163052388e4",
   "ranked": false,
-  "rating": 0.8480009,
-  "ratingCount": 201,
+  "rating": 0.8475936,
+  "ratingCount": 203,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:06Z",
-    "lastChanged": "2026-09-21T02:06:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-15T14:23:49.919828Z",
   "charter": "倚泉IizuMichan",
@@ -14,6 +14,7 @@
   "description": "新人初谱，因为喜欢这首歌所以写了这个谱，请多关照",
   "difficulty": 28.0,
   "file": "https://phira.5wyxi.com/files/6aff867e-0811-4b7a-bc8f-31a9eca00810",
+  "hidden": false,
   "id": 31862,
   "illustration": "https://phira.5wyxi.com/files/0a99c77d-c403-47eb-badf-7c1679d845f8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ドリームイーター",
   "preview": "https://phira.5wyxi.com/files/31012cc9-ace4-412b-bf68-c2e218f027f0",
   "ranked": false,
-  "rating": 0.9553574,
-  "ratingCount": 179,
+  "rating": 0.95631987,
+  "ratingCount": 183,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

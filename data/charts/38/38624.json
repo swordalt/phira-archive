@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:15Z",
-    "lastChanged": "2026-09-21T02:06:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-24T16:13:19.712295Z",
   "charter": "singlestar",
@@ -14,6 +14,7 @@
   "description": "bilibili账号：5ing1estar，欢迎提供建议！ver.1.1\n修复了一些采音",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/56105315-8d0e-4186-bffc-6a8bc24458b9",
+  "hidden": false,
   "id": 38624,
   "illustration": "https://phira.5wyxi.com/files/948de6e4-1998-4ab5-9a54-ee9011f1131b",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "Icyxis ~True Ending~",
   "preview": "https://phira.5wyxi.com/files/da45589f-581a-44d6-b065-40f7d5cd5a89",
   "ranked": false,
-  "rating": 0.87634933,
+  "rating": 0.8795203,
   "ratingCount": 34,
   "reviewed": true,
   "stable": false,

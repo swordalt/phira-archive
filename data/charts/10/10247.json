@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:36Z",
-    "lastChanged": "2026-09-21T02:01:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-06T12:48:14.117257Z",
   "charter": "CASH",
@@ -14,6 +14,7 @@
   "description": "作者本人上传，水谱。",
   "difficulty": 15.5,
   "file": "https://phira.5wyxi.com/files/ce34c671-fa88-4afd-9c5e-4bc270fa3693",
+  "hidden": false,
   "id": 10247,
   "illustration": "https://phira.5wyxi.com/files/3b08413f-cf81-4c6c-b9a3-e1a6e9bf7101",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "PUPA",
   "preview": "https://phira.5wyxi.com/files/48ee696c-05b0-47a6-9644-6c211d775b79",
   "ranked": false,
-  "rating": 0.8861343,
-  "ratingCount": 966,
+  "rating": 0.88623995,
+  "ratingCount": 967,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

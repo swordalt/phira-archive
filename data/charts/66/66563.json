@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:59Z",
-    "lastChanged": "2026-09-21T02:04:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-14T14:06:00.975514Z",
   "charter": "ryq",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/25672a9d-e294-4394-9c23-2f99909c0418",
+  "hidden": false,
   "id": 66563,
   "illustration": "https://phira.5wyxi.com/files/8a521a79-7e1a-4505-80f1-ff01fd8273fd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "弥渡山歌（PHONK）",
   "preview": "https://phira.5wyxi.com/files/b44aa07a-f2b1-45ab-8ffc-26f357f13cb0",
   "ranked": false,
-  "rating": 0.8937064,
-  "ratingCount": 256,
+  "rating": 0.8787523,
+  "ratingCount": 901,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

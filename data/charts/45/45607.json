@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:45Z",
-    "lastChanged": "2026-09-21T02:03:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-24T16:17:21.220530Z",
   "charter": "iroha651",
@@ -14,6 +14,7 @@
   "description": "难度17.1（新定数，新人初谱并且是半成品求放过",
   "difficulty": 17.1,
   "file": "https://phira.5wyxi.com/files/473e1336-0366-4889-9f19-5b4dee52f7f2",
+  "hidden": false,
   "id": 45607,
   "illustration": "https://phira.5wyxi.com/files/65d46e7e-f2bd-446e-ab38-29fe04214281",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "NightTheater",
   "preview": "https://phira.5wyxi.com/files/cff261eb-88db-47c5-ba9b-3b203e8309b8",
   "ranked": false,
-  "rating": 0.5651804,
-  "ratingCount": 46,
+  "rating": 0.574367,
+  "ratingCount": 47,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

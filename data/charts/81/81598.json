@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-19T15:31:36Z",
-    "lastChanged": "2026-10-23T19:06:35Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:26Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-18T20:34:56.634634Z",
   "charter": "komone_neko222",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/8f7faf1b-f171-46c7-ae36-4b3e689cd1e6",
+  "hidden": false,
   "id": 81598,
   "illustration": "https://phira.5wyxi.com/files/e3dfaa3f-cd95-4f8b-9b24-daa8d0cd0d5f",
   "illustrator": "polychromatic",
@@ -21,8 +22,8 @@
   "name": "綿菓子RUSH",
   "preview": "https://phira.5wyxi.com/files/1fc21e1e-07b2-49b1-b0cd-abe25ae00f29",
   "ranked": false,
-  "rating": 0.89407206,
-  "ratingCount": 146,
+  "rating": 0.91033065,
+  "ratingCount": 267,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

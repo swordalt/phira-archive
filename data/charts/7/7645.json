@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:27Z",
-    "lastChanged": "2026-09-21T02:01:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-14T15:59:44.524682Z",
   "charter": "Ehwaz on bike",
@@ -14,6 +14,7 @@
   "description": "wjc13号。炸耳朵警告。",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/975af660-511d-4d4f-9f09-da63c9e4d20b",
+  "hidden": false,
   "id": 7645,
   "illustration": "https://phira.5wyxi.com/files/fbc7e178-08ba-42ba-9c66-ea1acc37a6e2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "BIKE",
   "preview": "https://phira.5wyxi.com/files/9241124e-d58a-4ff5-b6dd-6d7b59ece429",
   "ranked": true,
-  "rating": 0.9189901,
-  "ratingCount": 1866,
+  "rating": 0.91855484,
+  "ratingCount": 1894,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-06T17:54:14Z",
-    "lastChanged": "2026-11-07T09:56:27Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:31Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-11-05T18:39:19.500417Z",
   "charter": "残光",
@@ -14,6 +14,7 @@
   "description": "打磨了一张破晓般的小低难～",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/d8003893-46d4-484d-9d65-63c63c2afa2f",
+  "hidden": false,
   "id": 83125,
   "illustration": "https://phira.5wyxi.com/files/836173e6-dce6-4c77-923f-df0948e4ea9b",
   "illustrator": "行間",
@@ -21,8 +22,8 @@
   "name": "Twilight",
   "preview": "https://phira.5wyxi.com/files/8002c9df-4162-452a-b38c-c21587b82f34",
   "ranked": false,
-  "rating": 0.9313744,
-  "ratingCount": 124,
+  "rating": 0.9230282,
+  "ratingCount": 421,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

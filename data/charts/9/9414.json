@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:32Z",
-    "lastChanged": "2026-09-21T02:01:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-22T13:08:40.879789Z",
   "charter": "右果ary",
@@ -14,6 +14,7 @@
   "description": "鬼媒",
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/c3102568-35cf-4565-960b-2eadd6a4dbed",
+  "hidden": false,
   "id": 9414,
   "illustration": "https://phira.5wyxi.com/files/06ead95f-97d2-4946-9048-7dbeaa46eb20",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "鬼媒",
   "preview": "https://phira.5wyxi.com/files/40fb41c6-e178-475a-8b33-c33b771ce037",
   "ranked": true,
-  "rating": 0.9119855,
-  "ratingCount": 2109,
+  "rating": 0.9130027,
+  "ratingCount": 2196,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

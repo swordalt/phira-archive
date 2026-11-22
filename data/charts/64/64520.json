@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:55Z",
-    "lastChanged": "2026-09-21T02:04:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-16T05:33:26.454206Z",
   "charter": "2333咯咯咯",
@@ -14,6 +14,7 @@
   "description": "二传之加特效加动效。B站关注 2333咯咯咯 谢谢喵",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/de188a8e-e69e-487b-9ec0-7ea7b30b8756",
+  "hidden": false,
   "id": 64520,
   "illustration": "https://phira.5wyxi.com/files/0feaaa6c-8f2a-4ceb-bb38-209102884167",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "終わらない道",
   "preview": "https://phira.5wyxi.com/files/c72a361e-ecc8-44ef-ab0f-c0da4a5d320a",
   "ranked": false,
-  "rating": 0.91913414,
-  "ratingCount": 299,
+  "rating": 0.91948485,
+  "ratingCount": 313,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:05Z",
-    "lastChanged": "2026-09-21T02:01:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "Clutter Flying to the Moon",
@@ -14,6 +14,7 @@
   "description": "代人上传，谱师：Clutter_杂波",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/a6cb088e-34ad-4965-8114-cd39c09b22e0",
+  "hidden": false,
   "id": 373,
   "illustration": "https://phira.5wyxi.com/files/3adcb974-3b3d-4648-9d7a-e379a5884b3a",
   "illustrator": "_ihcanan",
@@ -21,8 +22,8 @@
   "name": "Apollo",
   "preview": "https://phira.5wyxi.com/files/d33b957f-5cf2-48e2-b81e-eab86fc6ec53",
   "ranked": false,
-  "rating": 0.9205476,
-  "ratingCount": 8126,
+  "rating": 0.9206985,
+  "ratingCount": 8185,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

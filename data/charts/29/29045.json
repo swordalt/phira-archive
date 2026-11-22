@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:44Z",
-    "lastChanged": "2026-09-21T02:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-25T10:20:00.510571Z",
   "charter": "Eason_AC",
@@ -14,6 +14,7 @@
   "description": "游玩视频上传请标明原作者@Eason_AC谢谢\n谱面演示视频：https://www.bilibili.com/video/BV1qiyUYUETC（2024.10.26 10:05定时发布）多多支持谢谢",
   "difficulty": 14.200001,
   "file": "https://phira.5wyxi.com/files/9481678b-7085-4e0e-8af8-8d67c8c5b6a9",
+  "hidden": false,
   "id": 29045,
   "illustration": "https://phira.5wyxi.com/files/141e13e0-ae60-4f00-8fa4-4f14a21ec21e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ハルウタ",
   "preview": "https://phira.5wyxi.com/files/6b9923ef-ca5b-4523-ab76-d921d99daa83",
   "ranked": false,
-  "rating": 0.9265765,
-  "ratingCount": 157,
+  "rating": 0.9270351,
+  "ratingCount": 158,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-01T05:41:38Z",
-    "lastChanged": "2026-11-01T11:36:02Z",
-    "revisions": 4
+    "lastChanged": "2026-11-22T12:59:23Z",
+    "revisions": 5
   },
   "chartUpdated": "2026-09-29T14:52:00.088592Z",
   "charter": "Kyursure_ver : 0.19.0",
@@ -14,6 +14,7 @@
   "description": "本人上传\n更多信息前往哔站@可萱_Kyursure",
   "difficulty": 16.800003,
   "file": "https://phira.5wyxi.com/files/2602261c-d606-4792-8177-c306ff2dc5db",
+  "hidden": false,
   "id": 79432,
   "illustration": "https://phira.5wyxi.com/files/7f66cbc2-1cc2-4252-b22d-0283b3b72048",
   "illustrator": "Metacontinues",
@@ -21,8 +22,8 @@
   "name": "Restoration Lake",
   "preview": "https://phira.5wyxi.com/files/8d5064e2-3e87-41d4-b523-307c021a6ac3",
   "ranked": false,
-  "rating": 0.87748396,
-  "ratingCount": 53,
+  "rating": 0.8829464,
+  "ratingCount": 57,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:45Z",
-    "lastChanged": "2026-09-21T02:03:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-28T00:38:55.148976Z",
   "charter": "迄季",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传 曲子是传说之下au：Afterglory 永夜繁都 p2战斗曲  au作者为b站：前进914 ",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/37b7fef4-502f-4206-a3b2-d7daba5cac56",
+  "hidden": false,
   "id": 45878,
   "illustration": "https://phira.5wyxi.com/files/2c6712fa-3a60-4783-b13e-695e14de0ee4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": ".residue",
   "preview": "https://phira.5wyxi.com/files/a956516c-c6f3-47c0-b8db-aaf31a30115b",
   "ranked": false,
-  "rating": 0.9432905,
-  "ratingCount": 720,
+  "rating": 0.9416987,
+  "ratingCount": 814,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

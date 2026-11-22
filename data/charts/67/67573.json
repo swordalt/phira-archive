@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:00Z",
-    "lastChanged": "2026-09-21T02:05:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-18T16:08:21.498501Z",
   "charter": "赤色天灾",
@@ -14,6 +14,7 @@
   "description": "主人的任务罢了\n头一次写术力口，乱写，写的很痛苦因为我不知道该怎么塞17\n@ZeKuRal_0821#2562 不知道干啥了",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/f2232b36-014b-4bfd-a68b-0b9834715e0a",
+  "hidden": false,
   "id": 67573,
   "illustration": "https://phira.5wyxi.com/files/dd5334f0-9731-4eed-80e1-683f7da5675f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "レグルスリベリオン",
   "preview": "https://phira.5wyxi.com/files/7139477c-5c0e-43b1-9b11-6f0791749857",
   "ranked": false,
-  "rating": 0.89728117,
-  "ratingCount": 251,
+  "rating": 0.9006414,
+  "ratingCount": 271,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

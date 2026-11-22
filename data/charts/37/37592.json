@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:16Z",
-    "lastChanged": "2026-09-21T02:03:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-05T03:19:04.055893Z",
   "charter": "1737283010",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/d43f9c4d-d40b-4f6e-88ee-7bd090034a89",
+  "hidden": false,
   "id": 37592,
   "illustration": "https://phira.5wyxi.com/files/b0ddf92a-6609-4bef-bf25-ffb4bb40ffd6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "last reunion",
   "preview": "https://phira.5wyxi.com/files/d7d64ada-b3e7-4dc3-9e4e-5df29ca37bc4",
   "ranked": false,
-  "rating": 0.76963323,
-  "ratingCount": 132,
+  "rating": 0.7674021,
+  "ratingCount": 138,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

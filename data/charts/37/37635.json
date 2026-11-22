@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:13Z",
-    "lastChanged": "2026-09-21T02:06:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-05T07:15:35.575743Z",
   "charter": "N-y_A",
@@ -14,6 +14,7 @@
   "description": "无脑拍拍（本人上传）",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/54bea3ef-11ac-4612-aa2d-d2da17bad2a6",
+  "hidden": false,
   "id": 37635,
   "illustration": "https://phira.5wyxi.com/files/691ea198-823c-478c-9f5f-92bc1afdaad2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "anybody can find love (except you.)",
   "preview": "https://phira.5wyxi.com/files/06ddbfa4-2bf7-4861-a1f4-1fe5731fa3fd",
   "ranked": false,
-  "rating": 0.92155653,
-  "ratingCount": 36,
+  "rating": 0.9234667,
+  "ratingCount": 37,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

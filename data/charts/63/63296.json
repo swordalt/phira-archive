@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:53Z",
-    "lastChanged": "2026-09-21T02:04:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-30T12:27:51.417084Z",
   "charter": "Aminos",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n祝大家玩的高兴！\nB站 阿米诺斯_阿米诺斯\n\n第一次修改\n1.降低了流速\n2.对铺面进行微调",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/80a1f9c7-ae38-4389-b52e-057dced7918c",
+  "hidden": false,
   "id": 63296,
   "illustration": "https://phira.5wyxi.com/files/5bda1db6-5e79-4f18-8d52-25429a5aadc2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "constant moderato (the animation version)",
   "preview": "https://phira.5wyxi.com/files/566e0adc-b1fd-47a5-89e1-9b26c3cebae6",
   "ranked": false,
-  "rating": 0.95595723,
-  "ratingCount": 1705,
+  "rating": 0.9571107,
+  "ratingCount": 1993,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

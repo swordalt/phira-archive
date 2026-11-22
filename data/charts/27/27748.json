@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:40Z",
-    "lastChanged": "2026-09-21T02:02:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-16T16:16:10.277890Z",
   "charter": "Sieynx",
@@ -14,6 +14,7 @@
   "description": "第一次写谱，耗时约6个小时，全曲时长约5分钟，物量1810，可能有点奋，画师p站id:54162971，另外若有侵权麻烦在b站私信Sieynx",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/7b6a5cd7-99ff-4e8b-a048-53e41e8164bf",
+  "hidden": false,
   "id": 27748,
   "illustration": "https://phira.5wyxi.com/files/2ac54ae2-505e-4d8f-9b1e-b91f92bafbca",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Eat up my HEART???",
   "preview": "https://phira.5wyxi.com/files/2bf876be-b5e8-4975-b03f-035627af1322",
   "ranked": false,
-  "rating": 0.95661175,
-  "ratingCount": 771,
+  "rating": 0.95668525,
+  "ratingCount": 810,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

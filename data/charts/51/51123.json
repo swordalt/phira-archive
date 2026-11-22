@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:11Z",
-    "lastChanged": "2026-09-21T02:04:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-09T15:44:59.204933Z",
   "charter": "Sigmacube",
@@ -14,6 +14,7 @@
   "description": "谱面已上传b站，祝玩得开心！",
   "difficulty": 15.400001,
   "file": "https://phira.5wyxi.com/files/1dec1aef-5932-4327-a770-3711bd3fccfc",
+  "hidden": false,
   "id": 51123,
   "illustration": "https://phira.5wyxi.com/files/d41f7c20-ae8c-4663-a9d9-777c345389ed",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Yorugao",
   "preview": "https://phira.5wyxi.com/files/324f364f-67a3-4450-adce-b191e7eb5975",
   "ranked": false,
-  "rating": 0.9416159,
-  "ratingCount": 141,
+  "rating": 0.9412653,
+  "ratingCount": 145,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

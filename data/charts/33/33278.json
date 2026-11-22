@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:02Z",
-    "lastChanged": "2026-09-21T02:03:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-04T16:45:40.160873Z",
   "charter": "洛小乙",
@@ -14,6 +14,7 @@
   "description": "b站谱面视频链接https://b23.tv/IGDrF22，今天突然就很想传传谱子玩一下！",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/b78f93e1-6db0-41e1-adaf-eb594f804c93",
+  "hidden": false,
   "id": 33278,
   "illustration": "https://phira.5wyxi.com/files/3c317cd8-08fa-4d37-be95-a89bc0b6ff12",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "医生D",
   "preview": "https://phira.5wyxi.com/files/a94e7dbb-a033-46f7-96df-11876510d0f2",
   "ranked": false,
-  "rating": 0.9132886,
-  "ratingCount": 400,
+  "rating": 0.9135081,
+  "ratingCount": 410,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

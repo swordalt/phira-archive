@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:29Z",
-    "lastChanged": "2026-09-21T02:05:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-09T04:44:00.323481Z",
   "charter": "HINATA",
@@ -14,6 +14,7 @@
   "description": "谱面由@日向666 本人制作并上传。BV1eF55zSERp",
   "difficulty": 7.0,
   "file": "https://phira.5wyxi.com/files/db45214c-40a1-4a0a-afcb-65e2e5618d85",
+  "hidden": false,
   "id": 37811,
   "illustration": "https://phira.5wyxi.com/files/ed10303a-029d-497b-8c51-08911dcc3b71",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "阿瑠的歌",
   "preview": "https://phira.5wyxi.com/files/d8b500ac-ae13-4559-b1d2-5408a4ee15ea",
   "ranked": false,
-  "rating": 0.9439123,
-  "ratingCount": 476,
+  "rating": 0.94411147,
+  "ratingCount": 486,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

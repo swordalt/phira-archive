@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:13Z",
-    "lastChanged": "2026-09-21T02:06:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-04T13:06:29.347361Z",
   "charter": "yhcexe",
@@ -14,6 +14,7 @@
   "description": "本人重新上传，修复了结尾四个长条太长判不上的问题",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/00f067b6-d06a-4214-802c-3f9f0f8dcddc",
+  "hidden": false,
   "id": 37519,
   "illustration": "https://phira.5wyxi.com/files/8fe7b011-04ce-4737-9276-af4e0482f513",
   "illustrator": "",

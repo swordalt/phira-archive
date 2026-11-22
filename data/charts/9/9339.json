@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:32Z",
-    "lastChanged": "2026-09-21T02:01:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-28T14:32:10.751096Z",
   "charter": "言辞偏稽",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/24f115da-d5d1-48de-a8eb-0a9e2f82163d",
+  "hidden": false,
   "id": 9339,
   "illustration": "https://phira.5wyxi.com/files/f9d182c7-5ee9-4cfb-b2f7-20057513dc4f",
   "illustrator": "",

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:58Z",
-    "lastChanged": "2026-09-21T02:03:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-25T13:26:25.030620Z",
   "charter": "铜板沙",
@@ -14,6 +14,7 @@
   "description": "本人第一张成谱\nB站关注@铜板沙 谢谢喵～",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/00941373-d469-4642-9615-ddee62f87500",
+  "hidden": false,
   "id": 48409,
   "illustration": "https://phira.5wyxi.com/files/f49c0df8-75c8-4135-a2a3-a584096133bf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mannenzakura",
   "preview": "https://phira.5wyxi.com/files/38adb4b8-1866-4904-a975-c5649be64178",
   "ranked": false,
-  "rating": 0.9236492,
-  "ratingCount": 147,
+  "rating": 0.9271106,
+  "ratingCount": 161,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

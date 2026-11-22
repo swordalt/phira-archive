@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:53Z",
-    "lastChanged": "2026-09-21T02:06:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-10T12:34:29.782785Z",
   "charter": "Windowscmd2",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 34.0,
   "file": "https://phira.5wyxi.com/files/41eac8e9-1b56-463b-93be-a4316245b5dd",
+  "hidden": false,
   "id": 60569,
   "illustration": "https://phira.5wyxi.com/files/260feba0-4a7b-49ac-874f-f62442c5b2fe",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dead Soul",
   "preview": "https://phira.5wyxi.com/files/c271d9f8-f51c-4801-99bf-e45269bc6b26",
   "ranked": false,
-  "rating": 0.8191424,
-  "ratingCount": 13,
+  "rating": 0.8454162,
+  "ratingCount": 16,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

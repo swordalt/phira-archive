@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:27Z",
-    "lastChanged": "2026-09-21T02:04:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-03T14:49:19.310317Z",
   "charter": "InkySAIKYO",
@@ -14,6 +14,7 @@
   "description": "@InkySAIKYO\n本人上传",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/4258d0de-78cc-4809-97a7-a15eae87327c",
+  "hidden": false,
   "id": 53757,
   "illustration": "https://phira.5wyxi.com/files/6c61d07c-a242-4c09-aa90-d6cd72cc226b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Break the Speakers",
   "preview": "https://phira.5wyxi.com/files/4b912320-d4f1-4b2b-9c23-c586e0f1121a",
   "ranked": false,
-  "rating": 0.93098205,
-  "ratingCount": 943,
+  "rating": 0.9310309,
+  "ratingCount": 964,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:06Z",
-    "lastChanged": "2026-09-21T02:04:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-17T09:25:34.359269Z",
   "charter": "Hiluo",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/b218d171-76c6-4f67-8e7e-063dae724c1c",
+  "hidden": false,
   "id": 50276,
   "illustration": "https://phira.5wyxi.com/files/bae413ea-cea0-404f-a5fd-846a0c357cd9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "A Head Full Of Dreams",
   "preview": "https://phira.5wyxi.com/files/83cabf9d-4bb3-4aad-b484-1fce3b452385",
   "ranked": false,
-  "rating": 0.80832344,
-  "ratingCount": 12,
+  "rating": 0.8191424,
+  "ratingCount": 13,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

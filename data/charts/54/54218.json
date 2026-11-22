@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:29Z",
-    "lastChanged": "2026-09-21T02:04:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-15T14:25:57.617996Z",
   "charter": "Na+",
@@ -14,6 +14,7 @@
   "description": "本人上传，高难双指谱",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/99deef10-4f81-4fa6-a468-c5db4ea03621",
+  "hidden": false,
   "id": 54218,
   "illustration": "https://phira.5wyxi.com/files/f8d07599-ddea-4a12-b80f-b52a75af53b5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Unlimited Hyperlink",
   "preview": "https://phira.5wyxi.com/files/46d76553-207c-4f7a-bcd3-5356e0d93b3b",
   "ranked": false,
-  "rating": 0.9081462,
-  "ratingCount": 421,
+  "rating": 0.91037637,
+  "ratingCount": 440,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:29Z",
-    "lastChanged": "2026-09-21T02:04:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-22T05:48:21.904594Z",
   "charter": "_Angii_",
@@ -14,6 +14,7 @@
   "description": "B站关注@_Angii_ 谢谢喵～！",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/e7b7f101-b261-4ea2-8086-7457a186c685",
+  "hidden": false,
   "id": 54460,
   "illustration": "https://phira.5wyxi.com/files/7bff543a-d605-4209-ad3d-8683f9238114",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "粗线条的雨",
   "preview": "https://phira.5wyxi.com/files/bd43ac0c-2002-4b53-ad26-4423c252fb58",
   "ranked": false,
-  "rating": 0.9415827,
-  "ratingCount": 1518,
+  "rating": 0.9408401,
+  "ratingCount": 1589,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:50Z",
-    "lastChanged": "2026-09-21T02:01:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:32Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-25T12:57:32.479639Z",
   "charter": "WTCP",
@@ -14,6 +14,7 @@
   "description": "谱师本人，第一个键盘谱~",
   "difficulty": 15.3,
   "file": "https://phira.5wyxi.com/files/c750f7b8-7cda-4202-8171-6a8968fdc485",
+  "hidden": false,
   "id": 14133,
   "illustration": "https://phira.5wyxi.com/files/1b9a658c-74ed-4d3c-9fe4-ae6c60cd4c57",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ナイト・オブ・ナイツ",
   "preview": "https://phira.5wyxi.com/files/027e7996-668c-4ae7-a8c0-f634c071503b",
   "ranked": false,
-  "rating": 0.9010173,
-  "ratingCount": 349,
+  "rating": 0.8985792,
+  "ratingCount": 363,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

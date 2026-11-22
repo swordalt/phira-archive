@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:27Z",
-    "lastChanged": "2026-09-21T02:04:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-06T11:45:50.568012Z",
   "charter": "lage",
@@ -14,6 +14,7 @@
   "description": "上传时间：3.5\n生日作(3.7生日)\nb站：@Lageee\n\n定数修改为17.2\n\n4.13\n定数修改为18.0",
   "difficulty": 18.000004,
   "file": "https://phira.5wyxi.com/files/058fed8d-b704-4c75-bd04-544031c79d9d",
+  "hidden": false,
   "id": 53879,
   "illustration": "https://phira.5wyxi.com/files/815488d9-8f01-4545-8804-4169f126951f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mario Paint",
   "preview": "https://phira.5wyxi.com/files/86b30808-d26e-40e0-82e2-9c120b96d18f",
   "ranked": false,
-  "rating": 0.89863884,
-  "ratingCount": 225,
+  "rating": 0.89868057,
+  "ratingCount": 235,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

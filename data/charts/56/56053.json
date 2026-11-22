@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:36Z",
-    "lastChanged": "2026-09-21T02:04:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-11T16:16:46.660688Z",
   "charter": "天月あまvs.不知道喵 fixed by y_",
@@ -14,6 +14,7 @@
   "description": "本人上传\r天月负责谱面初稿，六个龙负责一部分谱面动效，我负责修改配置\r改的有点糙，有时间再细化。\r@cxkjntmsjjs#229033 @Dragon.#702870",
   "difficulty": 16.499998,
   "file": "https://phira.5wyxi.com/files/a272bf8e-d728-44e0-9d85-18ab6c3045e8",
+  "hidden": false,
   "id": 56053,
   "illustration": "https://phira.5wyxi.com/files/a1b93c7d-9c76-44e5-b368-e4513140e7d9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ré：Ré",
   "preview": "https://phira.5wyxi.com/files/45aa34d9-dec1-4fa1-beb1-e5e51401d8c9",
   "ranked": false,
-  "rating": 0.9446691,
-  "ratingCount": 977,
+  "rating": 0.9443152,
+  "ratingCount": 1016,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

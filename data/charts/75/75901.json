@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-05T06:55:10Z",
-    "lastChanged": "2026-10-07T17:46:27Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:03:06Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-08-26T17:04:35.727371Z",
   "charter": "zzzb",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.500001,
   "file": "https://phira.5wyxi.com/files/ed392660-06e2-4aee-aded-b59f9197dfcb",
+  "hidden": false,
   "id": 75901,
   "illustration": "https://phira.5wyxi.com/files/860585ca-f544-4c00-a7fd-4ce30f161b58",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bass **** but ** has more ******** and ******",
   "preview": "https://phira.5wyxi.com/files/55da8e85-3b5d-4dcc-846d-cf5133da9478",
   "ranked": false,
-  "rating": 0.86439836,
-  "ratingCount": 7,
+  "rating": 0.92909163,
+  "ratingCount": 20,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:01Z",
-    "lastChanged": "2026-09-21T02:02:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-03T08:55:24.097827Z",
   "charter": "SrY-ABYSS",
@@ -14,6 +14,7 @@
   "description": "6pj单人谱 No.95 位35\n特别感谢母鸡sama、WinterPT等谱师对该谱的建议\nb站关注@SrY-ABYSS谢谢喵",
   "difficulty": 13.500002,
   "file": "https://phira.5wyxi.com/files/12b24fb8-d29e-4324-849d-80605615f110",
+  "hidden": false,
   "id": 16673,
   "illustration": "https://phira.5wyxi.com/files/013ca4c5-18be-4b10-ac73-db8114b783bd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Skyscape",
   "preview": "https://phira.5wyxi.com/files/6ef3654e-86d9-46af-9d81-4c34aaca795a",
   "ranked": true,
-  "rating": 0.9416071,
-  "ratingCount": 5813,
+  "rating": 0.94165695,
+  "ratingCount": 5931,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

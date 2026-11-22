@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:38Z",
-    "lastChanged": "2026-09-21T02:03:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-08T16:12:03.252011Z",
   "charter": "蛋小蓝",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.599998,
   "file": "https://phira.5wyxi.com/files/4ea2238e-2daf-486c-b8c6-bf79161c6a3c",
+  "hidden": false,
   "id": 44086,
   "illustration": "https://phira.5wyxi.com/files/811da95c-2a5a-46af-be99-7ed0ff6d58e1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Barracuda",
   "preview": "https://phira.5wyxi.com/files/95a1bc5f-d0a3-401d-9a1c-736a1d473976",
   "ranked": false,
-  "rating": 0.8693903,
-  "ratingCount": 65,
+  "rating": 0.8670048,
+  "ratingCount": 67,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

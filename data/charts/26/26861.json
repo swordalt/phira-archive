@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:59Z",
-    "lastChanged": "2026-09-21T02:05:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-25T01:55:17.513358Z",
   "charter": "aowangID",
@@ -14,6 +14,7 @@
   "description": "新人三谱 这次稍微塞多了一点 不知道手感咋样",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/4aed4454-d688-4d3b-aa42-02987cc1dba5",
+  "hidden": false,
   "id": 26861,
   "illustration": "https://phira.5wyxi.com/files/0c2be20c-b9eb-49bf-874d-be4fff2a1f1e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "B.B.K.K.B.K.K. (USAO Remix Game Edition)",
   "preview": "https://phira.5wyxi.com/files/388ada9b-f58f-40a1-ad75-f28e43811e11",
   "ranked": false,
-  "rating": 0.93951255,
-  "ratingCount": 254,
+  "rating": 0.93976444,
+  "ratingCount": 261,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:00Z",
-    "lastChanged": "2026-09-21T02:04:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-31T15:09:51.640219Z",
   "charter": "元气_001",
@@ -14,6 +14,7 @@
   "description": "第一次写谱",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/aabea22c-bbd8-438a-8cb1-b2b3273d6115",
+  "hidden": false,
   "id": 48597,
   "illustration": "https://phira.5wyxi.com/files/14fa2d4f-2ee1-47cc-acc4-fc3d44d2d588",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "逃！",
   "preview": "https://phira.5wyxi.com/files/eb531adb-fea1-4333-81a0-19a45ad940c3",
   "ranked": false,
-  "rating": 0.9320285,
-  "ratingCount": 2272,
+  "rating": 0.9335285,
+  "ratingCount": 2511,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

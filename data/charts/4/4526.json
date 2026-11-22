@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:18Z",
-    "lastChanged": "2026-09-21T02:01:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-03T03:31:19.088585Z",
   "charter": "blazedgrating",
@@ -14,6 +14,7 @@
   "description": "尝试了比较大胆的配置，可能会有一点初见杀，但是相信我，熟悉谱面以后会很爽的",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/b6369950-1631-420b-b133-c29e582469b8",
+  "hidden": false,
   "id": 4526,
   "illustration": "https://phira.5wyxi.com/files/06531b52-93ad-4787-9af7-76168dd82801",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Hypocrisy",
   "preview": "https://phira.5wyxi.com/files/788202ec-1d59-4dcb-85aa-f1cb470aefe5",
   "ranked": false,
-  "rating": 0.8426958,
-  "ratingCount": 231,
+  "rating": 0.84432065,
+  "ratingCount": 235,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

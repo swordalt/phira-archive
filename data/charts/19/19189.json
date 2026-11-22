@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:11Z",
-    "lastChanged": "2026-09-21T02:02:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-01T14:59:32.557744Z",
   "charter": "lzwd",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.000004,
   "file": "https://phira.5wyxi.com/files/f5414ca8-05e0-4322-b809-cac9f375b601",
+  "hidden": false,
   "id": 19189,
   "illustration": "https://phira.5wyxi.com/files/322a29c2-a749-4329-b1af-c9a5bdb533eb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Anger of Storm",
   "preview": "https://phira.5wyxi.com/files/6089cfbd-feff-4202-8d1c-53458cdb8979",
   "ranked": false,
-  "rating": 0.8898804,
-  "ratingCount": 823,
+  "rating": 0.8914999,
+  "ratingCount": 836,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

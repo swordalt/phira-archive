@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:58Z",
-    "lastChanged": "2026-09-21T02:04:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-12T17:09:49.793935Z",
   "charter": "Lanr",
@@ -14,6 +14,7 @@
   "description": "该谱面为约稿喵\n视频bv号：BV1fRVD6yEJd\n喜欢的话可以来支持一下谢谢啦\n本人上传",
   "difficulty": 16.700003,
   "file": "https://phira.5wyxi.com/files/576ec21c-4144-49da-b40e-b5b8ce84c98c",
+  "hidden": false,
   "id": 66047,
   "illustration": "https://phira.5wyxi.com/files/570b2f99-b7d4-40eb-94f6-dcb545a0cab5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Colorful Universe",
   "preview": "https://phira.5wyxi.com/files/1870e2cb-f799-4a05-94bc-204aaaeec538",
   "ranked": false,
-  "rating": 0.938151,
-  "ratingCount": 188,
+  "rating": 0.9395032,
+  "ratingCount": 200,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

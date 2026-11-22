@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:36Z",
-    "lastChanged": "2026-09-21T02:05:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-07T03:44:18.655307Z",
   "charter": "DFC_Team",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 11.0,
   "file": "https://phira.5wyxi.com/files/921b3df3-a54d-4b5a-be2e-bc330cf51d88",
+  "hidden": false,
   "id": 4819,
   "illustration": "https://phira.5wyxi.com/files/1c0f85ba-2a2e-4407-8b33-552651f9252a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Various Artists - Double Finger Course ~ REFORM ~ (DFC_Team) [~ EXTRA-ALPHA ~ (Marathon)] (SAMPLE)",
   "preview": "https://phira.5wyxi.com/files/63a7a041-1f72-46fd-b342-04002b706eda",
   "ranked": false,
-  "rating": 0.89923906,
-  "ratingCount": 824,
+  "rating": 0.900657,
+  "ratingCount": 849,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

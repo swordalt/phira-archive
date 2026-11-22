@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-09-21T02:06:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-20T10:33:22.874344Z",
   "charter": "Hshshshshq",
@@ -14,6 +14,7 @@
   "description": "投错区了，重投",
   "difficulty": 17.900002,
   "file": "https://phira.5wyxi.com/files/ae2f37f1-ea35-4026-9f54-be12c3bff13f",
+  "hidden": false,
   "id": 36831,
   "illustration": "https://phira.5wyxi.com/files/b732f527-362b-413a-b15e-67f310af2fbe",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Miserable Bastard",
   "preview": "https://phira.5wyxi.com/files/c7babb62-1030-4e93-a3a8-b36ecf00cffa",
   "ranked": false,
-  "rating": 0.82950646,
-  "ratingCount": 10,
+  "rating": 0.84018326,
+  "ratingCount": 11,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

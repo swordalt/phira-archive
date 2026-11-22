@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:02Z",
-    "lastChanged": "2026-09-21T02:03:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-28T11:33:57.350131Z",
   "charter": "大松_Dason",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/6a6d9368-fc54-4b19-a786-cad214864035",
+  "hidden": false,
   "id": 33565,
   "illustration": "https://phira.5wyxi.com/files/7d62e47a-1e90-4cd5-8a67-c73363380832",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Regnaissance",
   "preview": "https://phira.5wyxi.com/files/da3821b5-9022-4d0d-89dd-4d4224688b69",
   "ranked": false,
-  "rating": 0.8981626,
-  "ratingCount": 193,
+  "rating": 0.8986878,
+  "ratingCount": 194,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

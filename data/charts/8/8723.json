@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:30Z",
-    "lastChanged": "2026-09-21T02:01:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-29T13:58:41.052089Z",
   "charter": "Ziyieee",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/51d123a7-7a49-435a-8524-549fcaa4ee05",
+  "hidden": false,
   "id": 8723,
   "illustration": "https://phira.5wyxi.com/files/4f49ff25-c335-4cd6-ae04-f7a06ab650d8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Midnight Challenge",
   "preview": "https://phira.5wyxi.com/files/2d37b366-40cc-477e-8aaa-5ff76926f630",
   "ranked": true,
-  "rating": 0.92070574,
-  "ratingCount": 1107,
+  "rating": 0.92046237,
+  "ratingCount": 1117,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

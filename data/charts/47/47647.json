@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:55Z",
-    "lastChanged": "2026-09-21T02:03:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-05T05:09:32.623393Z",
   "charter": "NiR",
@@ -14,6 +14,7 @@
   "description": "毕站:1973875290(UID)〔名字没法过审所以填了UID〕\n谱面预览\nBV1jcxazAEmR\n本人上传",
   "difficulty": 14.7000065,
   "file": "https://phira.5wyxi.com/files/b616d5e8-8d76-455b-92f3-1a6a34861c2d",
+  "hidden": false,
   "id": 47647,
   "illustration": "https://phira.5wyxi.com/files/adee7c79-03ab-4ca7-9492-a956863df060",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "身体は正直だって言ってんの",
   "preview": "https://phira.5wyxi.com/files/3e7e67a9-5436-427d-8b23-c55bbd277030",
   "ranked": false,
-  "rating": 0.950861,
-  "ratingCount": 265,
+  "rating": 0.9499558,
+  "ratingCount": 280,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:25Z",
-    "lastChanged": "2026-09-21T02:05:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-06T00:25:43.052897Z",
   "charter": "How To Make PhiSP Chart",
@@ -14,6 +14,7 @@
   "description": "BV1Tf421q73C",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/460508f9-2113-4a9e-82ce-1fedf321526a",
+  "hidden": false,
   "id": 22726,
   "illustration": "https://phira.5wyxi.com/files/1905dc67-8dce-45cb-b1ae-89e6248f2baa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "How To Make 音ゲ～曲！",
   "preview": "https://phira.5wyxi.com/files/db056ad9-cf30-4393-a8f3-6ea11530e04f",
   "ranked": false,
-  "rating": 0.8987719,
-  "ratingCount": 322,
+  "rating": 0.8984792,
+  "ratingCount": 323,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:36Z",
-    "lastChanged": "2026-09-21T02:02:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-23T00:55:02.553449Z",
   "charter": "Chatterbox",
@@ -14,6 +14,7 @@
   "description": "3rd WJC参赛谱\n谱面预览BV1DWW4eyEYZ",
   "difficulty": 14.900001,
   "file": "https://phira.5wyxi.com/files/d9fd6acf-f64e-4545-a65a-dbe8d0dae7be",
+  "hidden": false,
   "id": 26748,
   "illustration": "https://phira.5wyxi.com/files/907b0383-02dd-47e9-ab84-5528cea81c5f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Overjoy ★ OVERDOSE!!",
   "preview": "https://phira.5wyxi.com/files/790d9355-387a-4a82-adef-947e885e22aa",
   "ranked": true,
-  "rating": 0.9347521,
-  "ratingCount": 2150,
+  "rating": 0.93402797,
+  "ratingCount": 2223,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

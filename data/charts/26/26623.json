@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:35Z",
-    "lastChanged": "2026-09-21T02:02:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-20T18:13:17.543595Z",
   "charter": "B1ueberr9",
@@ -14,6 +14,7 @@
   "description": "第一次写铺，写的比较烂<(。_。)>",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/5c2fd5fd-849e-409d-a97d-a397e34fb07c",
+  "hidden": false,
   "id": 26623,
   "illustration": "https://phira.5wyxi.com/files/e00364ed-84a0-4967-b79c-3c0451610d61",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "千里饿殍行",
   "preview": "https://phira.5wyxi.com/files/b9c5be3d-d293-48ec-be70-42c039c962d8",
   "ranked": false,
-  "rating": 0.9483731,
-  "ratingCount": 1433,
+  "rating": 0.94769675,
+  "ratingCount": 1473,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:22Z",
-    "lastChanged": "2026-09-21T02:01:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-23T14:54:46.915852Z",
   "charter": "YF",
@@ -14,6 +14,7 @@
   "description": "由B站 @尤赋_YF 上傳，錄製相關視頻請@本人",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/27a2ea05-2faf-499d-bc2f-76b3f93cb19d",
+  "hidden": false,
   "id": 5919,
   "illustration": "https://phira.5wyxi.com/files/ca323b4e-1da4-4e77-a250-09e1cb34ddf3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ad astra per aspera",
   "preview": "https://phira.5wyxi.com/files/54fe6e5d-6c65-4fc7-8356-c690ae31b9ca",
   "ranked": false,
-  "rating": 0.86345476,
-  "ratingCount": 1984,
+  "rating": 0.86308175,
+  "ratingCount": 1998,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

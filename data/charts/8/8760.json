@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:30Z",
-    "lastChanged": "2026-09-21T02:01:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-03T03:46:10.084038Z",
   "charter": "开水",
@@ -14,6 +14,7 @@
   "description": "写的不好，听歌为重\r\n\r\n对原谱进行小幅度修改\r\n\r\n原作：星空鉄道とシロの旅\r\n译名：星空列车与白的旅行",
   "difficulty": 12.200001,
   "file": "https://phira.5wyxi.com/files/e7440e44-9ce5-497d-a7dd-63409a045963",
+  "hidden": false,
   "id": 8760,
   "illustration": "https://phira.5wyxi.com/files/7b254f8b-4e83-420c-ac83-4e41b550a29b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "スタートリップ",
   "preview": "https://phira.5wyxi.com/files/f2087411-9b52-4cc8-8549-8593be2ca274",
   "ranked": false,
-  "rating": 0.95582825,
-  "ratingCount": 2269,
+  "rating": 0.9559534,
+  "ratingCount": 2294,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

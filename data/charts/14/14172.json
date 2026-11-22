@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:50Z",
-    "lastChanged": "2026-09-21T02:01:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:32Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-26T05:30:19.768012Z",
   "charter": "英梨梨无了 vs. WhiteLight",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.500001,
   "file": "https://phira.5wyxi.com/files/b96a0e3a-be6f-44c6-a9a0-af7dc50ec2a4",
+  "hidden": false,
   "id": 14172,
   "illustration": "https://phira.5wyxi.com/files/49762635-491d-4ef8-a8e1-962df608498d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "SolarOrbit-Connected with the Espabrother-",
   "preview": "https://phira.5wyxi.com/files/170373f8-e5c1-488a-8ead-0dd1b16bfa8f",
   "ranked": false,
-  "rating": 0.91408265,
-  "ratingCount": 704,
+  "rating": 0.9141661,
+  "ratingCount": 706,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

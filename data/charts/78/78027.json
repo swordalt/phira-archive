@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:17Z",
-    "lastChanged": "2026-09-21T02:05:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-13T07:47:47.843997Z",
   "charter": "Pigeon Heaven",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/1f9509cf-eb45-47ce-8d18-18a252577bd5",
+  "hidden": false,
   "id": 78027,
   "illustration": "https://phira.5wyxi.com/files/9142a0e1-27ac-4019-a10b-b8dba4032ff3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Gray Heaven",
   "preview": "https://phira.5wyxi.com/files/80cff66b-1dc9-428a-ab14-1414e258a996",
   "ranked": false,
-  "rating": 0.9375678,
-  "ratingCount": 542,
+  "rating": 0.9394053,
+  "ratingCount": 996,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

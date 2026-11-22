@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:40Z",
-    "lastChanged": "2026-09-21T02:06:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-02T12:43:17.897932Z",
   "charter": "Ling-578",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，b站Ling_578",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/71583fe7-623e-46e0-94a9-88d7de1c2a0f",
+  "hidden": false,
   "id": 48731,
   "illustration": "https://phira.5wyxi.com/files/3d79884e-7f6b-4da9-b313-d5531f7a028a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "SCHWARZSCHILD FIELD",
   "preview": "https://phira.5wyxi.com/files/9246d5d2-ad3b-4c20-b726-f5cc9287f38e",
   "ranked": false,
-  "rating": null,
-  "ratingCount": 0,
+  "rating": 0.7803841,
+  "ratingCount": 2,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

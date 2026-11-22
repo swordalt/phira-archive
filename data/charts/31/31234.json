@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:06Z",
-    "lastChanged": "2026-09-21T02:06:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-30T18:24:13.382506Z",
   "charter": "rks0",
@@ -14,6 +14,7 @@
   "description": "好玩的切（？）\n（呃呃呃，第一次写谱，新手保护期，勿喷谢谢！B站@-rks0）",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/24567796-36b8-44ab-8eda-5cb661c82146",
+  "hidden": false,
   "id": 31234,
   "illustration": "https://phira.5wyxi.com/files/6c5d8294-4dd4-48ad-a9a3-9c0007d3470e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "シカ色デイズ",
   "preview": "https://phira.5wyxi.com/files/0e8b6a0b-a659-4374-9325-06eba47cdf0d",
   "ranked": false,
-  "rating": 0.9242175,
-  "ratingCount": 152,
+  "rating": 0.9236254,
+  "ratingCount": 159,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

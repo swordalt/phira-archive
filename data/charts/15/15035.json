@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:54Z",
-    "lastChanged": "2026-09-21T02:01:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-08T10:42:00.904229Z",
   "charter": "オレンジ最強",
@@ -14,6 +14,7 @@
   "description": "谱师：オレンジ最強\r\n视频：https://www.bilibili.com/video/BV1CF4m1u7Li",
   "difficulty": 14.200001,
   "file": "https://phira.5wyxi.com/files/c166a734-94b5-45bd-af10-f9f9c8da37bf",
+  "hidden": false,
   "id": 15035,
   "illustration": "https://phira.5wyxi.com/files/b376594c-867f-4f04-83ee-9c78ada9683e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Toy War",
   "preview": "https://phira.5wyxi.com/files/9e80f476-a7d4-493f-925e-e615e7a18827",
   "ranked": false,
-  "rating": 0.9065828,
-  "ratingCount": 202,
+  "rating": 0.9065557,
+  "ratingCount": 204,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

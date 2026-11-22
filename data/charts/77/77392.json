@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:15Z",
-    "lastChanged": "2026-09-21T02:05:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-06T13:39:54.408290Z",
   "charter": "LogicM",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/d05aaa62-ea3c-4783-b2ac-820367889ae1",
+  "hidden": false,
   "id": 77392,
   "illustration": "https://phira.5wyxi.com/files/f27e73b4-3b88-4d4f-93ca-79b387f58361",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "唐·毒蛇",
   "preview": "https://phira.5wyxi.com/files/b766001a-b543-452b-acb5-b3eacd2e4f4a",
   "ranked": false,
-  "rating": 0.8600325,
-  "ratingCount": 396,
+  "rating": 0.86512226,
+  "ratingCount": 630,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

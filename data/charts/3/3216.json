@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-09T09:51:35.310119Z",
   "charter": "Lxegger",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/6e97ceb2-5be8-4d47-95f8-5f22a596007b",
+  "hidden": false,
   "id": 3216,
   "illustration": "https://phira.5wyxi.com/files/615f5c6b-a570-43c9-ab0d-cc4b3e2670d0",
   "illustrator": "",

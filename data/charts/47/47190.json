@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:53Z",
-    "lastChanged": "2026-09-21T02:03:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-08T12:26:33.464895Z",
   "charter": "mtr405",
@@ -14,6 +14,7 @@
   "description": "谱师B站名mtr405_\n被学校大课间刨了一气之下写的\n谱面后半段有对音的小问题，以后会修改，可以目押解决",
   "difficulty": 14.800003,
   "file": "https://phira.5wyxi.com/files/baeac92b-7360-4f4f-8f9b-e8a02f33a09a",
+  "hidden": false,
   "id": 47190,
   "illustration": "https://phira.5wyxi.com/files/7a5d1726-a108-4e08-ae51-e83bafafd715",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "大课间跑步音乐",
   "preview": "https://phira.5wyxi.com/files/a38f0416-9cc6-4cc2-8ea8-7da3bc8de6ed",
   "ranked": false,
-  "rating": 0.86126256,
-  "ratingCount": 9173,
+  "rating": 0.86100674,
+  "ratingCount": 10389,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:03Z",
-    "lastChanged": "2026-09-21T02:02:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-16T04:38:34.410786Z",
   "charter": "CheryFly",
@@ -14,6 +14,7 @@
   "description": "6thPecJam 个人赛道35号 位74\n初谱没有考虑到Phira的判定机制，导致fj8有很多判定上的问题\n大位移叠了一手难度\n排键不好看见谅 表演没思路见谅\n期待一下打回风暴",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/1009ddf5-a811-47d4-a664-8d13d9242d36",
+  "hidden": false,
   "id": 17167,
   "illustration": "https://phira.5wyxi.com/files/574e9d92-37fe-4dd4-87de-a9574921d3b3",
   "illustrator": "",

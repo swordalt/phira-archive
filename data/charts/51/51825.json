@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:44Z",
-    "lastChanged": "2026-09-21T02:06:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-30T12:19:43.202349Z",
   "charter": "SfcarisFW25880",
@@ -14,6 +14,7 @@
   "description": "该谱面由＂熊大sfcarisFW25880 ＂谱师本人亲自上传(该谱为重新上传，微调了判定线高度与谱面流速）",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/c387f051-d147-4f30-8de4-d875c82d19fb",
+  "hidden": false,
   "id": 51825,
   "illustration": "https://phira.5wyxi.com/files/c8b49128-9fd1-4f75-8b1a-e204ad8d9d7a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Future  Funk",
   "preview": "https://phira.5wyxi.com/files/9b0498e9-b24a-4ff9-9b01-3b13ab3f78e4",
   "ranked": false,
-  "rating": 0.8478305,
-  "ratingCount": 6,
+  "rating": 0.8732863,
+  "ratingCount": 9,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

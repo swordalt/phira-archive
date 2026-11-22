@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:24Z",
-    "lastChanged": "2026-09-21T02:05:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-02T10:17:48.868187Z",
   "charter": "在下百面人",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/d032c9b0-1d0b-4cce-8880-1afd3033bcae",
+  "hidden": false,
   "id": 20711,
   "illustration": "https://phira.5wyxi.com/files/b6058f7c-0a01-43bf-9e96-2d1f12879755",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "只因你太美",
   "preview": "https://phira.5wyxi.com/files/03f0f4a8-42d4-4001-8772-3aca0da2d074",
   "ranked": false,
-  "rating": 0.87983423,
-  "ratingCount": 2167,
+  "rating": 0.8799157,
+  "ratingCount": 2166,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

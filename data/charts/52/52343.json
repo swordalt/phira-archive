@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:19Z",
-    "lastChanged": "2026-09-21T02:04:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-10T00:26:17.106276Z",
   "charter": "✧mat✧",
@@ -14,6 +14,7 @@
   "description": "(文件损坏可能导致中途有一些瑕疵。)",
   "difficulty": 11.0,
   "file": "https://phira.5wyxi.com/files/bbe8dedc-0f3a-4ab3-8cce-71e168ca1563",
+  "hidden": false,
   "id": 52343,
   "illustration": "https://phira.5wyxi.com/files/3b9c3ec6-e66f-4e32-a7bd-c05ff11ccf57",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "新的起点",
   "preview": "https://phira.5wyxi.com/files/571a5607-a882-4d45-9154-5cee6ede28e0",
   "ranked": false,
-  "rating": 0.7959376,
-  "ratingCount": 146,
+  "rating": 0.79054344,
+  "ratingCount": 158,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

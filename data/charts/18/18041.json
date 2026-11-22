@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:07Z",
-    "lastChanged": "2026-09-21T02:02:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-04T13:33:27.696723Z",
   "charter": "无声息的叶子",
@@ -14,6 +14,7 @@
   "description": "加点故事板，感觉还不错，配置以后再学吧表演倒是学的差不多",
   "difficulty": 14.300001,
   "file": "https://phira.5wyxi.com/files/d01d606b-2c75-4c54-976e-dba2cda88808",
+  "hidden": false,
   "id": 18041,
   "illustration": "https://phira.5wyxi.com/files/153e4724-2d47-48b3-a442-06231c05187d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "雨女",
   "preview": "https://phira.5wyxi.com/files/19391c25-fb06-4e31-b833-a488e14222df",
   "ranked": false,
-  "rating": 0.9293268,
-  "ratingCount": 2694,
+  "rating": 0.92938346,
+  "ratingCount": 2698,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

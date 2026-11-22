@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:05Z",
-    "lastChanged": "2026-09-21T02:06:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-13T04:56:33.177279Z",
   "charter": "柒",
@@ -14,6 +14,7 @@
   "description": "本人上传，随手写的",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/1dfa9035-de9d-484a-a52e-1e39e01e736a",
+  "hidden": false,
   "id": 30663,
   "illustration": "https://phira.5wyxi.com/files/567fa756-153d-476a-872f-0077c1e31b1f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Library of Omen",
   "preview": "https://phira.5wyxi.com/files/c72a5240-d378-4923-a3a7-a8d407ed110f",
   "ranked": false,
-  "rating": 0.7072602,
-  "ratingCount": 42,
+  "rating": 0.709235,
+  "ratingCount": 43,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

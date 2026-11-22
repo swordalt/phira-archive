@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:11Z",
-    "lastChanged": "2026-09-21T02:04:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-08T19:03:26.814464Z",
   "charter": "涂山山大王",
@@ -14,6 +14,7 @@
   "description": "我就是谱师，只是我不想署名",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/ce91114e-e76d-4abd-a5f6-b0304b7a9675",
+  "hidden": false,
   "id": 51088,
   "illustration": "https://phira.5wyxi.com/files/c5696625-b708-49ce-bc97-c31bfb80f381",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "INTERNET YAMERO",
   "preview": "https://phira.5wyxi.com/files/b7f1a788-205d-4763-bb7b-a0579089c700",
   "ranked": false,
-  "rating": 0.884574,
-  "ratingCount": 851,
+  "rating": 0.8861829,
+  "ratingCount": 869,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

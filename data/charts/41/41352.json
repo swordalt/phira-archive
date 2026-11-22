@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:28Z",
-    "lastChanged": "2026-09-21T02:03:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-10T11:54:02.120767Z",
   "charter": "髙音泉",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/2f6f7bd4-9d0a-4ca1-a95f-755dbc05680b",
+  "hidden": false,
   "id": 41352,
   "illustration": "https://phira.5wyxi.com/files/7164e6f3-d262-4636-a117-9e39a5d89bd1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ゆけむり魂温泉 II",
   "preview": "https://phira.5wyxi.com/files/5019c919-a8b0-4525-9b4c-2f228895a7e2",
   "ranked": false,
-  "rating": 0.93353134,
-  "ratingCount": 137,
+  "rating": 0.9353301,
+  "ratingCount": 146,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

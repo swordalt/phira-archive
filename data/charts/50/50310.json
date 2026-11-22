@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:07Z",
-    "lastChanged": "2026-09-21T02:04:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-18T11:11:30.615653Z",
   "charter": "Darling!!!",
@@ -14,6 +14,7 @@
   "description": "「初见口警告！」感谢云缘北岸和Salt的帮助！\n————————————\n谱师本人上传，B站@超爱吃盐的盐盐",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/b9f4059e-7b6b-4ed8-9071-e01334bb54c4",
+  "hidden": false,
   "id": 50310,
   "illustration": "https://phira.5wyxi.com/files/3d4f8490-4e58-43d7-9628-f4e4412648e3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "「IRIS OUT」",
   "preview": "https://phira.5wyxi.com/files/45e20b87-02c4-4f7b-b753-fd6ea2542a7e",
   "ranked": true,
-  "rating": 0.9357968,
-  "ratingCount": 7275,
+  "rating": 0.935977,
+  "ratingCount": 7793,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

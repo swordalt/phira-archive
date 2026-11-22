@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:55Z",
-    "lastChanged": "2026-09-21T02:03:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-07T07:08:13.531749Z",
   "charter": "xiaohuojian0",
@@ -14,6 +14,7 @@
   "description": "第一次做谱面，不喜勿喷",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/06f071e7-0915-4a65-95b7-f71b0f47b389",
+  "hidden": false,
   "id": 47819,
   "illustration": "https://phira.5wyxi.com/files/c67f2aff-f00a-4ec2-b450-d3d507acf2bc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "FUNK BAD DO BAD",
   "preview": "https://phira.5wyxi.com/files/5a274f5e-3e39-4b75-a094-cea53754524c",
   "ranked": false,
-  "rating": 0.8432368,
-  "ratingCount": 688,
+  "rating": 0.8445252,
+  "ratingCount": 759,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

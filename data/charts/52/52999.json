@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:46Z",
-    "lastChanged": "2026-09-21T02:06:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-19T13:12:35.482234Z",
   "charter": "An1uo",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 37.0,
   "file": "https://phira.5wyxi.com/files/e7315f25-9863-488b-b561-fda3b5580db3",
+  "hidden": false,
   "id": 52999,
   "illustration": "https://phira.5wyxi.com/files/dee3b06f-8699-4a81-a1e8-f88a3b98f925",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "哈基米是数据线之奴",
   "preview": "https://phira.5wyxi.com/files/b3fcae75-cc6c-49da-a2c8-9f4a2835a0ca",
   "ranked": false,
-  "rating": 0.83143467,
-  "ratingCount": 53,
+  "rating": 0.83437943,
+  "ratingCount": 54,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

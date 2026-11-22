@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:49Z",
-    "lastChanged": "2026-09-21T02:04:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-19T03:16:17.328348Z",
   "charter": "High Miku&High XieChara",
@@ -14,6 +14,7 @@
   "description": "速写\n谱师：我与@XieChara#92123 协作者\n感谢游玩",
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/f7581b59-9063-4cbb-8695-47f0b0158f8f",
+  "hidden": false,
   "id": 61397,
   "illustration": "https://phira.5wyxi.com/files/94d89051-c8c8-46b9-b90e-096a8edfb5bf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Highscore(short ver.)",
   "preview": "https://phira.5wyxi.com/files/1c04e8d9-9f54-43b8-b6e2-a1f5c8fbe954",
   "ranked": false,
-  "rating": 0.88409007,
-  "ratingCount": 804,
+  "rating": 0.8905268,
+  "ratingCount": 956,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

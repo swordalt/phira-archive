@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:46Z",
-    "lastChanged": "2026-09-21T02:05:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-23T10:01:02.649869Z",
   "charter": "XTreme",
@@ -14,6 +14,7 @@
   "description": "谱师本人 b站:XTreme\nBPM178.8\n物量1557\n",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/19841090-3aae-46bf-a596-d75b21605afc",
+  "hidden": false,
   "id": 18832,
   "illustration": "https://phira.5wyxi.com/files/0cfb9774-e58e-4e8a-8b00-32f629805c94",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "LiFE Garden (1.2×)",
   "preview": "https://phira.5wyxi.com/files/f5c91baf-a64d-4969-ac59-72bc2a448068",
   "ranked": false,
-  "rating": 0.9433728,
-  "ratingCount": 227,
+  "rating": 0.9455216,
+  "ratingCount": 233,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

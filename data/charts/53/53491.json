@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:25Z",
-    "lastChanged": "2026-09-21T02:04:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-26T15:27:12.795463Z",
   "charter": "DeborahLB",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.7,
   "file": "https://phira.5wyxi.com/files/d1ea6cbd-7b40-4f20-9efb-3588d93e050a",
+  "hidden": false,
   "id": 53491,
   "illustration": "https://phira.5wyxi.com/files/d92b06ad-6b78-4ca7-b168-a172480aea80",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fallen",
   "preview": "https://phira.5wyxi.com/files/7cc78e61-ca6f-4795-a5dc-5e41f1826988",
   "ranked": false,
-  "rating": 0.92443967,
-  "ratingCount": 163,
+  "rating": 0.9266691,
+  "ratingCount": 168,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

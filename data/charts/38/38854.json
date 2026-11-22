@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:20Z",
-    "lastChanged": "2026-09-21T02:03:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-29T09:12:48.232700Z",
   "charter": "Autino Ratisu",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.800003,
   "file": "https://phira.5wyxi.com/files/594a8a25-e891-4d26-81f6-93c72ffb90b2",
+  "hidden": false,
   "id": 38854,
   "illustration": "https://phira.5wyxi.com/files/71458a79-0501-46a3-8874-1f977e062967",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lemon",
   "preview": "https://phira.5wyxi.com/files/42569aee-9bb8-4c96-a994-691b0660fd79",
   "ranked": true,
-  "rating": 0.9156601,
-  "ratingCount": 23887,
+  "rating": 0.91589594,
+  "ratingCount": 24723,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

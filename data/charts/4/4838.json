@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:19Z",
-    "lastChanged": "2026-09-21T02:01:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-07T08:27:37.425373Z",
   "charter": "jm333",
@@ -14,6 +14,7 @@
   "description": "本人上传,更正了画师信息",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/acb87bbf-6a36-49bc-96e8-bb11d27b05b8",
+  "hidden": false,
   "id": 4838,
   "illustration": "https://phira.5wyxi.com/files/cde23f26-75a8-496e-88a0-2d01f92ce1e5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MARENOL 1mg",
   "preview": "https://phira.5wyxi.com/files/ac83448e-c9a2-462c-9c4d-4fd2521ee517",
   "ranked": true,
-  "rating": 0.92643374,
-  "ratingCount": 7778,
+  "rating": 0.9263833,
+  "ratingCount": 7862,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

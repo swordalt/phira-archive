@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:07Z",
-    "lastChanged": "2026-09-21T02:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-03T08:27:56.454398Z",
   "charter": "THANK YOU FOR PLAYING",
@@ -14,6 +14,7 @@
   "description": "Song : DIVE with Ü    BPM : 180\n\nComposer : HARDCORE TANO*C & エリザベス（CV:大西沙織） & リリィ（CV:青木志貴） & ルーン（CV:河瀬茉希）\n\nCharter : maple._.zz & ねこ & Fevm1r\n\nDifficulty : IN 14.7",
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/087af50e-46c7-4238-9227-1b3db2746a46",
+  "hidden": false,
   "id": 34781,
   "illustration": "https://phira.5wyxi.com/files/b26dd83b-a5d8-49a5-b7d7-6c827335f54d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "DIVE with Ü",
   "preview": "https://phira.5wyxi.com/files/ac281351-28b1-4da9-a766-f352609a9210",
   "ranked": false,
-  "rating": 0.9524667,
-  "ratingCount": 667,
+  "rating": 0.95222217,
+  "ratingCount": 673,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

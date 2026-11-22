@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:48Z",
-    "lastChanged": "2026-09-21T02:03:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-30T15:08:15.208684Z",
   "charter": "778Y0E Scramble！",
@@ -14,6 +14,7 @@
   "description": "778Y0E本人上传，「玩音游的高松灯」「沙正国」「我是可爱阿达法伟」均为「GT_778Y0E」的账号",
   "difficulty": 15.900001,
   "file": "https://phira.5wyxi.com/files/e701bdbe-b7fe-44e3-bc4b-9f88c6a6ceda",
+  "hidden": false,
   "id": 46168,
   "illustration": "https://phira.5wyxi.com/files/dd892c83-eb10-4b5b-a310-36fd1ee3b88d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "QZKago Requiem",
   "preview": "https://phira.5wyxi.com/files/a8b34d51-008e-4007-b6cd-c123cb6a320b",
   "ranked": false,
-  "rating": 0.8948493,
-  "ratingCount": 774,
+  "rating": 0.89469737,
+  "ratingCount": 793,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:07Z",
-    "lastChanged": "2026-09-21T02:01:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-29T17:20:32.575200Z",
   "charter": "就是不会告诉你",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 14.5,
   "file": "https://phira.5wyxi.com/files/e996cfc6-245c-4401-a115-57a111fbf935",
+  "hidden": false,
   "id": 846,
   "illustration": "https://phira.5wyxi.com/files/0de591c5-10ce-4514-9783-a4611170fc0b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "不老不死",
   "preview": "https://phira.5wyxi.com/files/0051d6c4-fb5b-4afb-87ec-5b641b3c86d9",
   "ranked": false,
-  "rating": 0.92185885,
-  "ratingCount": 4090,
+  "rating": 0.92199504,
+  "ratingCount": 4120,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

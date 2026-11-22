@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:36Z",
-    "lastChanged": "2026-09-21T02:05:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-10T00:13:20.639405Z",
   "charter": "C.E.F",
@@ -14,6 +14,7 @@
   "description": "本人上传，Malody转谱，没有更改只是想试试4K上特殊",
   "difficulty": 3.9,
   "file": "https://phira.5wyxi.com/files/619b8f07-32fa-431c-83c7-061f272d0a29",
+  "hidden": false,
   "id": 7198,
   "illustration": "https://phira.5wyxi.com/files/f1a4deae-cbc9-4ca6-b04e-11d1e460dd5d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "心の記憶",
   "preview": "https://phira.5wyxi.com/files/bc421648-f21a-42f0-96c5-1d4ee4a9b599",
   "ranked": false,
-  "rating": 0.9316518,
-  "ratingCount": 433,
+  "rating": 0.9313625,
+  "ratingCount": 439,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

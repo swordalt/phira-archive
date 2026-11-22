@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-13T18:10:19Z",
-    "lastChanged": "2026-10-14T10:04:57Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:24Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-05T18:45:59.363574Z",
   "charter": "Comfortable华",
@@ -14,6 +14,7 @@
   "description": "b站关注Comfortable华!",
   "difficulty": 19.6,
   "file": "https://phira.5wyxi.com/files/3dc70509-e643-4a32-8962-6ccd9dcd5ca7",
+  "hidden": false,
   "id": 80349,
   "illustration": "https://phira.5wyxi.com/files/314c7ad8-a504-4ff2-9fa4-58caaa8a7641",
   "illustrator": "活跃黑江乐",
@@ -21,8 +22,8 @@
   "name": "朋友的酒(DJ版)",
   "preview": "https://phira.5wyxi.com/files/118ca6dc-c2be-4f3b-827e-5d5b151bfd77",
   "ranked": false,
-  "rating": 0.89704907,
-  "ratingCount": 322,
+  "rating": 0.8828144,
+  "ratingCount": 9464,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

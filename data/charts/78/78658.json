@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-22T14:44:17Z",
-    "lastChanged": "2026-09-22T18:48:06Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:21Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-09-21T17:49:02.868601Z",
   "charter": "V0idranges",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.600008,
   "file": "https://phira.5wyxi.com/files/ba223806-691b-4921-b398-38ff78545467",
+  "hidden": false,
   "id": 78658,
   "illustration": "https://phira.5wyxi.com/files/a57106b7-e508-4904-a97c-a660e6d2d059",
   "illustrator": "Anamiyo",
@@ -21,8 +22,8 @@
   "name": "Colourful Snow Magic(feat.初音ミク)",
   "preview": "https://phira.5wyxi.com/files/43567667-9dd0-4442-977d-b370b54eb1e8",
   "ranked": false,
-  "rating": 0.9499506,
-  "ratingCount": 2,
+  "rating": 0.9359527,
+  "ratingCount": 138,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

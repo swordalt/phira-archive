@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:44Z",
-    "lastChanged": "2026-09-21T02:05:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-22T07:55:22.740903Z",
   "charter": "Hiesnoze",
@@ -14,6 +14,7 @@
   "description": "130叠\n把水段去了差不多10dan（？）",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/06f43113-e1de-4f76-9912-7ceb5339f148",
+  "hidden": false,
   "id": 17360,
   "illustration": "https://phira.5wyxi.com/files/7b214976-79fe-4da2-b4ac-8c65e21c3afb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "社会距离",
   "preview": "https://phira.5wyxi.com/files/c972ae2b-0805-4cf0-a81d-42ce9a165ebb",
   "ranked": false,
-  "rating": 0.9491651,
-  "ratingCount": 154,
+  "rating": 0.9492685,
+  "ratingCount": 158,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

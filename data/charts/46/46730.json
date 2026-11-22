@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:50Z",
-    "lastChanged": "2026-09-21T02:03:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-13T07:39:01.016416Z",
   "charter": "Mcxian",
@@ -14,6 +14,7 @@
   "description": "曲名：-SURREALISM-\n曲师：Itsuki\nBPM：180\n谱师：Mcxian\n定数：AT Lv.16.7～17.0\n物量：1410\n线数：70\n事件数：7500\n\n断断续续写了特别久的一张谱，记得是在2022年末就已经完成了配置\n目前总耗时最长，事件数最多的谱，只为触及自己谱力的最高点",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/c101c3c5-d733-400b-8f20-af5deb9935ec",
+  "hidden": false,
   "id": 46730,
   "illustration": "https://phira.5wyxi.com/files/8ea8e79c-e01a-4da1-8dd7-b3b4b10c2a78",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "-SURREALISM-",
   "preview": "https://phira.5wyxi.com/files/ca6b7d77-5ab8-4dff-93bf-ebafcddc6c5d",
   "ranked": false,
-  "rating": 0.934435,
-  "ratingCount": 675,
+  "rating": 0.93352437,
+  "ratingCount": 686,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

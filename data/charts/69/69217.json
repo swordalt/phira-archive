@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-27T08:02:17Z",
-    "lastChanged": "2026-10-04T10:51:02Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:58:49Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-07-26T02:18:15.856434Z",
   "charter": "Luminast-037",
@@ -14,6 +14,7 @@
   "description": "这是Luminast-037(小持老师）的第三个谱，技术力尚缺，还望给个好评喵～\n真的是本人上传——另一个AT16也是我写的！！！",
   "difficulty": 16.600002,
   "file": "https://phira.5wyxi.com/files/80cc8cc4-7dc7-42c2-b105-b50bb6b8b99c",
+  "hidden": false,
   "id": 69217,
   "illustration": "https://phira.5wyxi.com/files/e705c2ee-522a-4ec2-ac4f-1de2511be160",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "lifeline",
   "preview": "https://phira.5wyxi.com/files/013cbc6f-44bb-4003-8a54-036174f38271",
   "ranked": false,
-  "rating": 0.95679826,
-  "ratingCount": 68,
+  "rating": 0.9516933,
+  "ratingCount": 362,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

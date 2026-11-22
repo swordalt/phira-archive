@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:18Z",
-    "lastChanged": "2026-09-21T02:04:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-05T04:05:10.431786Z",
   "charter": "Rea_NicoNeko",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/6f81ff0a-af19-4e1e-83d0-321e2c614756",
+  "hidden": false,
   "id": 52097,
   "illustration": "https://phira.5wyxi.com/files/56bb1bea-a3c2-4263-a10d-4a2664439073",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "逆_",
   "preview": "https://phira.5wyxi.com/files/13a6f065-34e8-4f78-9b6e-5b1996005c4e",
   "ranked": false,
-  "rating": 0.93424463,
-  "ratingCount": 435,
+  "rating": 0.9356984,
+  "ratingCount": 449,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

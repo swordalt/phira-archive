@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:03Z",
-    "lastChanged": "2026-09-21T02:04:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-13T07:27:05.279172Z",
   "charter": "Blue_Coat",
@@ -14,6 +14,7 @@
   "description": "This is my first chart. I hope you enjoy it.",
   "difficulty": 17.300001,
   "file": "https://phira.5wyxi.com/files/5ade15e6-1c0f-49a2-a0df-66d0166fb54d",
+  "hidden": false,
   "id": 49046,
   "illustration": "https://phira.5wyxi.com/files/d4085ead-03ca-4f9a-ac4d-4fe106670a44",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "カイコ",
   "preview": "https://phira.5wyxi.com/files/cfc43b2c-cca8-404d-a7db-3fb8aad3bab6",
   "ranked": false,
-  "rating": 0.8647625,
-  "ratingCount": 116,
+  "rating": 0.8719071,
+  "ratingCount": 127,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

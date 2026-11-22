@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:49Z",
-    "lastChanged": "2026-09-21T02:04:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-20T01:41:47.240019Z",
   "charter": "xiaoyoung′s ROCKEY",
@@ -14,6 +14,7 @@
   "description": "无轨双指\n后面看看能不能导到tpe写表演awa",
   "difficulty": 16.5,
   "file": "https://phira.5wyxi.com/files/9e12ca53-4e3e-48cf-919f-4e4b69ebcdc6",
+  "hidden": false,
   "id": 61605,
   "illustration": "https://phira.5wyxi.com/files/fbd4a4a7-171a-4b21-a281-0dbb66997656",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Flower Rocket",
   "preview": "https://phira.5wyxi.com/files/a7928628-dea8-418d-ac0e-97b63e29dd55",
   "ranked": false,
-  "rating": 0.8066174,
-  "ratingCount": 56,
+  "rating": 0.8220504,
+  "ratingCount": 70,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:54Z",
-    "lastChanged": "2026-09-21T02:03:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-02T03:22:00.355369Z",
   "charter": "五水合硫酸锌",
@@ -14,6 +14,7 @@
   "description": "    一张写了很长时间的谱子，写到最后已经放飞自我了（其实是不知道写什么了）\n  （其实写成大份了）\n    其实难点主要在读谱上，有些地方我觉得研究一下还挺好玩的（挨打）\n    有什么问题欢迎讨论\n    谁来教我写排键......",
   "difficulty": 16.800001,
   "file": "https://phira.5wyxi.com/files/878d2257-a2fe-4ad2-8a11-15acc69eba91",
+  "hidden": false,
   "id": 47462,
   "illustration": "https://phira.5wyxi.com/files/951d2f8f-b711-4e0a-b218-07cf9d503dc1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Radioactive",
   "preview": "https://phira.5wyxi.com/files/6cc53a41-ed0e-4bce-a6a5-65508a8dc75d",
   "ranked": false,
-  "rating": 0.8750999,
-  "ratingCount": 43,
+  "rating": 0.8772726,
+  "ratingCount": 46,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

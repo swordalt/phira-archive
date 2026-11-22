@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:40Z",
-    "lastChanged": "2026-09-21T02:06:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-06T12:48:58.126204Z",
   "charter": "Jiuwenzi",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/17512a51-699b-4e96-8a6a-d714ea245259",
+  "hidden": false,
   "id": 48796,
   "illustration": "https://phira.5wyxi.com/files/043153c5-077f-4c9e-9a58-ee09182b3422",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "DFC Zeta Dan(sample)",
   "preview": "https://phira.5wyxi.com/files/e1a31b1f-3efa-492a-8fcb-7a3a007d0214",
   "ranked": false,
-  "rating": 0.9195513,
-  "ratingCount": 33,
+  "rating": 0.92854905,
+  "ratingCount": 39,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

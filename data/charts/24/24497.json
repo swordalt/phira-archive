@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:27Z",
-    "lastChanged": "2026-09-21T02:02:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-27T14:17:58.807296Z",
   "charter": "zmh",
@@ -14,6 +14,7 @@
   "description": "It is 13 o'clock now!",
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/39e4e69b-35c0-4f46-bc7d-c649f92eefda",
+  "hidden": false,
   "id": 24497,
   "illustration": "https://phira.5wyxi.com/files/e34ffa64-9d38-4524-a154-8729f7bc65e0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ouroVoros",
   "preview": "https://phira.5wyxi.com/files/99142676-e79f-4b94-843f-9cee4bf9372d",
   "ranked": false,
-  "rating": 0.90511525,
-  "ratingCount": 368,
+  "rating": 0.9048591,
+  "ratingCount": 370,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

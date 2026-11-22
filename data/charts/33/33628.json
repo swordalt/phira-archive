@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:02Z",
-    "lastChanged": "2026-09-21T02:03:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-09T03:29:08.824084Z",
   "charter": "Seachannel",
@@ -14,6 +14,7 @@
   "description": "为了在谱面里塞爱心而做的谱，尝试了不少多面玩法，应该比较有趣！\nb站同名谱师Seachannel，喜欢还望多多支持！",
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/9bbf914a-29c4-48d0-91a7-cef8de417953",
+  "hidden": false,
   "id": 33628,
   "illustration": "https://phira.5wyxi.com/files/6104054d-abbf-4972-b17d-d56da4cc8723",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "AINEED",
   "preview": "https://phira.5wyxi.com/files/047dd43a-4563-4974-b5da-b67d2ddd9562",
   "ranked": true,
-  "rating": 0.88621414,
-  "ratingCount": 805,
+  "rating": 0.88519967,
+  "ratingCount": 817,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:57Z",
-    "lastChanged": "2026-09-21T02:05:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-06T18:48:11.741066Z",
   "charter": "晱星 vs ingly",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/652ad7ff-7e53-443b-aae4-dcb8ca98de80",
+  "hidden": false,
   "id": 25499,
   "illustration": "https://phira.5wyxi.com/files/e68e29dc-3a60-4fce-af54-4496cddb4998",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Re：End of a Dream (long ver.)",
   "preview": "https://phira.5wyxi.com/files/de802c38-a916-481d-b3f0-79d5b95c332c",
   "ranked": false,
-  "rating": 0.93100154,
-  "ratingCount": 233,
+  "rating": 0.92757046,
+  "ratingCount": 244,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

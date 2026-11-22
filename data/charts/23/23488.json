@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:22Z",
-    "lastChanged": "2026-09-21T02:02:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:32Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-15T07:39:25.966252Z",
   "charter": "Jwssw",
@@ -14,6 +14,7 @@
   "description": "优化谱面 减小音符密度 减少双押多押脑裂等恶心人的地方",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/aa856594-0af3-45b7-8aa5-f0d60a88f987",
+  "hidden": false,
   "id": 23488,
   "illustration": "https://phira.5wyxi.com/files/b6ddc22f-4f54-424c-b255-99b1574a7a30",
   "illustrator": "",

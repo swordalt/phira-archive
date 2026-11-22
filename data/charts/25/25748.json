@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:58Z",
-    "lastChanged": "2026-09-21T02:05:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-09T10:26:59.557961Z",
   "charter": "nllllll",
@@ -14,6 +14,7 @@
   "description": "第一张谱",
   "difficulty": 21.0,
   "file": "https://phira.5wyxi.com/files/420f2627-7641-4318-a368-b659b68866c5",
+  "hidden": false,
   "id": 25748,
   "illustration": "https://phira.5wyxi.com/files/bffdda80-70de-49e0-887b-2ac1ccc0b3fc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "少女A",
   "preview": "https://phira.5wyxi.com/files/699f3f24-cac1-4590-92e8-f45647b7f061",
   "ranked": false,
-  "rating": 0.94097465,
-  "ratingCount": 1906,
+  "rating": 0.94045687,
+  "ratingCount": 1980,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

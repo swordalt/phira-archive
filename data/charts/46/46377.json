@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:49Z",
-    "lastChanged": "2026-09-21T02:03:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-05T10:16:50.720716Z",
   "charter": "tempo baking cookies",
@@ -14,6 +14,7 @@
   "description": "Made for PFM DAN\n1 DAN 1st Song",
   "difficulty": 13.700003,
   "file": "https://phira.5wyxi.com/files/d2933c31-f61a-4c94-ba82-559d74092b85",
+  "hidden": false,
   "id": 46377,
   "illustration": "https://phira.5wyxi.com/files/d4ca078d-63b0-47ee-9138-3c40918fb25d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Stir and Mix",
   "preview": "https://phira.5wyxi.com/files/c27d059c-086b-4d0e-a506-6bff0ca2efe1",
   "ranked": false,
-  "rating": 0.91836536,
-  "ratingCount": 286,
+  "rating": 0.9192133,
+  "ratingCount": 289,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

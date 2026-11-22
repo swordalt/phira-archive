@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:14Z",
-    "lastChanged": "2026-09-21T02:02:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-02T14:49:38.077475Z",
   "charter": "Star Forever,Young Forever",
@@ -14,6 +14,7 @@
   "description": "2ndWJC 位3修改版，本人上传 注：本谱面使用的Forever young音源版本为旧版，与目前ryceam的版本有所不同",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/f01d51f5-cd94-4b8d-b022-cdcd0aff1717",
+  "hidden": false,
   "id": 20326,
   "illustration": "https://phira.5wyxi.com/files/49c71b2e-e52a-471c-a095-d671e96bd84f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Forever Young",
   "preview": "https://phira.5wyxi.com/files/64500c70-4e62-4394-b59b-901c923999b9",
   "ranked": true,
-  "rating": 0.92758864,
-  "ratingCount": 2772,
+  "rating": 0.9275405,
+  "ratingCount": 2788,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

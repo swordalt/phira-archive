@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:58Z",
-    "lastChanged": "2026-09-21T02:04:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-12T17:41:14.845704Z",
   "charter": "尾月",
@@ -14,6 +14,7 @@
   "description": "本人制作\nb站号为 尾月.pez\n哎不会做十分炫酷的判定线表演（）",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/91c42135-33b5-443a-921f-38dddc9cef56",
+  "hidden": false,
   "id": 66055,
   "illustration": "https://phira.5wyxi.com/files/e7fd54f4-fa98-4881-90a6-748181e8743f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "次元通信",
   "preview": "https://phira.5wyxi.com/files/34685160-768b-410d-8d78-9ae09e923187",
   "ranked": false,
-  "rating": 0.86879486,
-  "ratingCount": 3279,
+  "rating": 0.86668915,
+  "ratingCount": 3662,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

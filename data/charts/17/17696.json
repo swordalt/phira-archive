@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:05Z",
-    "lastChanged": "2026-09-21T02:02:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-30T00:43:54.159867Z",
   "charter": "ZDself and SLTORG fixed by ZDself",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 1.0,
   "file": "https://phira.5wyxi.com/files/f4c03813-24e6-497e-a03c-faa2d58a5856",
+  "hidden": false,
   "id": 17696,
   "illustration": "https://phira.5wyxi.com/files/ba4a874d-b7ba-4089-8b0b-77abeeb2a95a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Realms",
   "preview": "https://phira.5wyxi.com/files/2e63e51f-9f20-4386-a40e-82f9d5c29e83",
   "ranked": false,
-  "rating": 0.90744376,
-  "ratingCount": 907,
+  "rating": 0.9084064,
+  "ratingCount": 920,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

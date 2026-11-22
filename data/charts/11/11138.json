@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:40Z",
-    "lastChanged": "2026-09-21T02:01:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-04T05:31:40.617523Z",
   "charter": "Cecilic.晚星",
@@ -14,6 +14,7 @@
   "description": "清竹的第二张谱面！难度很低哦o>_<o\n\nB站: Cecilic_晚星\n谱面封面制作中 稍后上传B站\n本人上传",
   "difficulty": 12.300001,
   "file": "https://phira.5wyxi.com/files/bef491fe-d002-4d32-b57a-1cfe0ddcd0ac",
+  "hidden": false,
   "id": 11138,
   "illustration": "https://phira.5wyxi.com/files/bc537d1d-5930-4f12-a8f6-6a1566aea1ec",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "所念皆星河",
   "preview": "https://phira.5wyxi.com/files/c60edd47-8eb8-4ad4-b1de-4b26a8cf1d7e",
   "ranked": false,
-  "rating": 0.94301426,
-  "ratingCount": 6292,
+  "rating": 0.94276965,
+  "ratingCount": 6474,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

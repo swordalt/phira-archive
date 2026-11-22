@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:36Z",
-    "lastChanged": "2026-09-21T02:06:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-24T07:16:42.229615Z",
   "charter": "小猫雨洛",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 6.000002,
   "file": "https://phira.5wyxi.com/files/61298b87-a566-4d86-9700-7f4519b164ea",
+  "hidden": false,
   "id": 47148,
   "illustration": "https://phira.5wyxi.com/files/377a5e47-63a5-4abf-b8e8-5c55d48a3c1b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "裂缝中的阳光",
   "preview": "https://phira.5wyxi.com/files/95912d79-02f1-4002-960d-2e1e7aea6882",
   "ranked": false,
-  "rating": 0.9548998,
-  "ratingCount": 151,
+  "rating": 0.95335656,
+  "ratingCount": 158,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

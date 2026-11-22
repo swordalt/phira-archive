@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:54Z",
-    "lastChanged": "2026-09-21T02:05:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-21T03:28:39.317523Z",
   "charter": "Flass",
@@ -14,6 +14,7 @@
   "description": "升",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/efe835bd-32f2-4686-b4f3-1f960736a63e",
+  "hidden": false,
   "id": 23942,
   "illustration": "https://phira.5wyxi.com/files/8f173859-dd90-4ae2-962f-63a70eeb1d5a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Levitate（4k）",
   "preview": "https://phira.5wyxi.com/files/64487575-bbac-478c-8151-3316afabb97e",
   "ranked": false,
-  "rating": 0.9211484,
-  "ratingCount": 86,
+  "rating": 0.92372143,
+  "ratingCount": 89,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

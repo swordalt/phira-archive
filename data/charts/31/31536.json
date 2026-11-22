@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:55Z",
-    "lastChanged": "2026-09-21T02:02:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-07T12:36:27.173738Z",
   "charter": "それぞれの願う明日",
@@ -14,6 +14,7 @@
   "description": "Charter:Fevm1r / 本人上传",
   "difficulty": 12.1,
   "file": "https://phira.5wyxi.com/files/b9fd7d65-2e2a-4307-9228-529dad11c95a",
+  "hidden": false,
   "id": 31536,
   "illustration": "https://phira.5wyxi.com/files/d19d825d-5b0e-4152-b84b-4da50800646d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Storyteller",
   "preview": "https://phira.5wyxi.com/files/678c156f-8b41-471e-a121-57804fbd89eb",
   "ranked": false,
-  "rating": 0.96066046,
-  "ratingCount": 1674,
+  "rating": 0.96091366,
+  "ratingCount": 1729,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

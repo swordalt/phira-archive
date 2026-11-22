@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:38Z",
-    "lastChanged": "2026-09-21T02:02:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-29T08:06:58.643142Z",
   "charter": "OvO",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.700003,
   "file": "https://phira.5wyxi.com/files/bc85c87c-525f-4a02-82d9-eb546864f5d7",
+  "hidden": false,
   "id": 27101,
   "illustration": "https://phira.5wyxi.com/files/60c903fa-38df-4767-ab11-fe2a7334e9c7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "太陽花",
   "preview": "https://phira.5wyxi.com/files/3916583f-d5d1-4a66-9a45-f5c830562e9a",
   "ranked": false,
-  "rating": 0.92699,
-  "ratingCount": 100,
+  "rating": 0.9258197,
+  "ratingCount": 102,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

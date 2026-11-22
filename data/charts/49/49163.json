@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:41Z",
-    "lastChanged": "2026-09-21T02:06:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-15T15:01:19.181163Z",
   "charter": "小可睡懒觉",
@@ -14,6 +14,7 @@
   "description": "萌新第一次写谱qwq\nb站关注@小可睡懒觉\n谢谢喵",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/c3bf387e-d6b0-436c-ac5a-1a65dccb1ba2",
+  "hidden": false,
   "id": 49163,
   "illustration": "https://phira.5wyxi.com/files/bb7f31be-996d-478a-b835-0ff8a4c59869",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "チェリーポップ",
   "preview": "https://phira.5wyxi.com/files/81b8d06c-6c38-4a21-b437-520621e15c64",
   "ranked": false,
-  "rating": 0.93151873,
-  "ratingCount": 93,
+  "rating": 0.9414935,
+  "ratingCount": 224,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

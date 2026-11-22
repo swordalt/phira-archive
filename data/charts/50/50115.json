@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:43Z",
-    "lastChanged": "2026-09-21T02:06:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-12T11:13:55.361299Z",
   "charter": "kirto.moshang.owo",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传 是第四个4k谱面",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/ce5fafd8-5918-4fc4-af31-7c9fc454e55d",
+  "hidden": false,
   "id": 50115,
   "illustration": "https://phira.5wyxi.com/files/a91a4ed8-25b2-45ab-a60e-f965f51ab99a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ここからはじまるプロローグ。",
   "preview": "https://phira.5wyxi.com/files/add2de6d-ea99-4242-b861-d1191a1cdb7a",
   "ranked": false,
-  "rating": 0.95803183,
-  "ratingCount": 289,
+  "rating": 0.9584118,
+  "ratingCount": 293,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

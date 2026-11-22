@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:38Z",
-    "lastChanged": "2026-09-21T02:04:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-19T03:23:03.163692Z",
   "charter": "孙志有  外号",
@@ -14,6 +14,7 @@
   "description": "本谱耗时一天制作\n——————————————————\n谱中柠檬由drag组成，\n使用画世界pro绘制。\n————————————————————\n音乐：Lemonade\np主：worzy\n歌姬：奕夕（SynthV）\n本谱制作：孙志有  外号\n本谱协作者：@孙子有内号#2009444\n——————————————————————————\n感谢游玩！\n",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/9a79c09e-4fb2-444a-94d2-a6ac0824f071",
+  "hidden": false,
   "id": 56702,
   "illustration": "https://phira.5wyxi.com/files/f14f4b7e-b12b-41d0-ad3a-423f4cb167f3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lemonade",
   "preview": "https://phira.5wyxi.com/files/835a393e-7684-4ea4-8f13-893555fc0851",
   "ranked": false,
-  "rating": 0.93648887,
-  "ratingCount": 3767,
+  "rating": 0.93666136,
+  "ratingCount": 4175,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

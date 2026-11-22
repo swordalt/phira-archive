@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:04Z",
-    "lastChanged": "2026-09-21T02:05:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-31T12:41:52.595394Z",
   "charter": "OmegaCat",
@@ -14,6 +14,7 @@
   "description": "本人上传，头像与bilibili不同",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/167d3d0b-a712-45a7-8678-aafc07898cce",
+  "hidden": false,
   "id": 70355,
   "illustration": "https://phira.5wyxi.com/files/aaf30495-a853-43a6-a45c-91067323eaf7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "snow storm -euphoria-",
   "preview": "https://phira.5wyxi.com/files/8b987371-8f8f-4096-abcb-088c55256757",
   "ranked": false,
-  "rating": 0.9111177,
-  "ratingCount": 17,
+  "rating": 0.92852354,
+  "ratingCount": 26,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:23Z",
-    "lastChanged": "2026-09-21T02:06:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-16T13:47:46.749716Z",
   "charter": "铭丘_",
@@ -14,6 +14,7 @@
   "description": "快手北冰洋の铭丘_哇！第三个谱",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/24802a05-5c4c-4f75-a0a0-03c6b1e4560c",
+  "hidden": false,
   "id": 41870,
   "illustration": "https://phira.5wyxi.com/files/06ef8891-0190-4d62-b823-9e32a6039e8e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Avantgarde",
   "preview": "https://phira.5wyxi.com/files/269fd189-7f03-4045-8f8e-798f94d430d9",
   "ranked": false,
-  "rating": 0.88747805,
-  "ratingCount": 107,
+  "rating": 0.8884975,
+  "ratingCount": 108,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

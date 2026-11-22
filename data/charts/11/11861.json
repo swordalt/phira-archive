@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:42Z",
-    "lastChanged": "2026-09-21T02:01:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-26T13:01:22.894437Z",
   "charter": "LyNx",
@@ -14,6 +14,7 @@
   "description": "谱师在b站@LethyNre",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/28d5a6ba-8f99-46b7-b60f-10f149e40101",
+  "hidden": false,
   "id": 11861,
   "illustration": "https://phira.5wyxi.com/files/d3ef7143-3125-4330-870e-eb5becff1bd4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ロータスイーター",
   "preview": "https://phira.5wyxi.com/files/e26603a8-4b0c-4429-ae4f-fa9b142a6b00",
   "ranked": false,
-  "rating": 0.9076941,
-  "ratingCount": 596,
+  "rating": 0.90854305,
+  "ratingCount": 607,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

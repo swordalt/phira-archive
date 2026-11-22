@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:58Z",
-    "lastChanged": "2026-09-21T02:06:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-13T08:26:00.214101Z",
   "charter": "春眠",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 7.0,
   "file": "https://phira.5wyxi.com/files/fd7380dc-18a1-4fe3-98d7-a405dc602e27",
+  "hidden": false,
   "id": 66184,
   "illustration": "https://phira.5wyxi.com/files/281d11c5-4667-47a0-912a-36c9c0a4c6f2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "社会摇",
   "preview": "https://phira.5wyxi.com/files/04f588e7-b089-49cd-9739-cc739f463aea",
   "ranked": false,
-  "rating": 0.90665704,
-  "ratingCount": 75,
+  "rating": 0.9124261,
+  "ratingCount": 95,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

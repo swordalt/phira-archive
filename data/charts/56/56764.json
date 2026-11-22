@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:50Z",
-    "lastChanged": "2026-09-21T02:06:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-19T12:04:29.993791Z",
   "charter": "Jiuwenzi",
@@ -14,6 +14,7 @@
   "description": "pass=98.04",
   "difficulty": 13.400002,
   "file": "https://phira.5wyxi.com/files/13b7c946-1f14-458a-a4eb-b81460f27ce9",
+  "hidden": false,
   "id": 56764,
   "illustration": "https://phira.5wyxi.com/files/7bc773af-1a47-42fb-87ab-0c516e6cae2d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "King Atlantis",
   "preview": "https://phira.5wyxi.com/files/6b07b545-b8b0-4ddd-b462-39903a4291dc",
   "ranked": false,
-  "rating": 0.8390191,
-  "ratingCount": 8,
+  "rating": 0.8690693,
+  "ratingCount": 11,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:27Z",
-    "lastChanged": "2026-09-21T02:02:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-29T07:39:34.520412Z",
   "charter": "Fantasylight vs. awa",
@@ -14,6 +14,7 @@
   "description": "星时杯供谱，谱师上传，可参考曲绘",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/6a63c1d2-cf0b-466d-adbf-f5fd3353772d",
+  "hidden": false,
   "id": 24656,
   "illustration": "https://phira.5wyxi.com/files/6d895897-c7c7-4e14-b809-0fa868f3afcd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Luminaria",
   "preview": "https://phira.5wyxi.com/files/9bab5585-4581-47ac-bb16-db63ce105a59",
   "ranked": false,
-  "rating": 0.88668615,
-  "ratingCount": 131,
+  "rating": 0.88696754,
+  "ratingCount": 133,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

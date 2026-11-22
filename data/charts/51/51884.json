@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:44Z",
-    "lastChanged": "2026-09-21T02:06:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-31T13:30:31.784619Z",
   "charter": "ああああああああああ",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/0a8732c6-8b7c-4f41-b0a2-7acf7a829e3e",
+  "hidden": false,
   "id": 51884,
   "illustration": "https://phira.5wyxi.com/files/bac2b307-1e97-4e2a-b946-3d7e1781c6f2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ナイト・オブ・ナイツ",
   "preview": "https://phira.5wyxi.com/files/d352be08-3501-41d4-8777-34fee7c05a92",
   "ranked": false,
-  "rating": 0.9387948,
-  "ratingCount": 111,
+  "rating": 0.9397468,
+  "ratingCount": 123,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

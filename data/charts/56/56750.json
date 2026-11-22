@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:50Z",
-    "lastChanged": "2026-09-21T02:06:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-19T09:43:28.683882Z",
   "charter": "WiZerr / WHT_914 / WH666",
@@ -14,6 +14,7 @@
   "description": "第一次合作写4k\n谱师均同意上传",
   "difficulty": 36.0,
   "file": "https://phira.5wyxi.com/files/268ef715-afcb-42f0-a099-f8762acbfb3c",
+  "hidden": false,
   "id": 56750,
   "illustration": "https://phira.5wyxi.com/files/173f4dc8-8a88-47ee-aa5e-88c6c6f36f21",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Vindex Tenebrarum",
   "preview": "https://phira.5wyxi.com/files/d8ee3f72-548d-4f96-91a4-6009c733d4bf",
   "ranked": false,
-  "rating": 0.9439282,
-  "ratingCount": 201,
+  "rating": 0.94527084,
+  "ratingCount": 211,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

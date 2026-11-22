@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-26T13:00:03Z",
-    "lastChanged": "2026-09-27T18:17:53Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:03:08Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-09-20T14:55:13.425321Z",
   "charter": "HRS-Team",
@@ -14,6 +14,7 @@
   "description": "  HRS 15th Dan 考核\n  Sync:SAtAN BPM:150\n  Flow:きゅびびびびずむ BPM:约185\n  Pattern:氷面鏡 BPM:230\n  触边:97.50/过段:98.00/后光:98.67\n  HRS交流群：1106507620",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/fe41b80e-a3cc-4777-bb96-e884e25285bd",
+  "hidden": false,
   "id": 78604,
   "illustration": "https://phira.5wyxi.com/files/33e6503b-f9dc-466c-95e0-b37d4b1c1cfb",
   "illustrator": "Irina",
@@ -21,8 +22,8 @@
   "name": "HRS ~ 15th Dan ~",
   "preview": "https://phira.5wyxi.com/files/064af4ca-79a9-46e3-8bf3-67871e20706c",
   "ranked": false,
-  "rating": 0.7803841,
-  "ratingCount": 2,
+  "rating": 0.9158781,
+  "ratingCount": 17,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

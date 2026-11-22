@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-23T19:06:35Z",
-    "lastChanged": "2026-10-24T05:43:00Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:26Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-17T15:25:25.536329Z",
   "charter": "ShadowDrake",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/29519ed3-3df2-4f32-bda9-857bea96b8d4",
+  "hidden": false,
   "id": 81390,
   "illustration": "https://phira.5wyxi.com/files/92f1b2e0-f4c6-473c-aea6-eeb0682aad61",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Cobalt 1",
   "preview": "https://phira.5wyxi.com/files/2d9c61e6-607f-489b-b7f2-1187fb4b979c",
   "ranked": false,
-  "rating": 0.80656886,
-  "ratingCount": 4,
+  "rating": 0.83803254,
+  "ratingCount": 41,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

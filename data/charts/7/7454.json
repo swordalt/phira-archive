@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:26Z",
-    "lastChanged": "2026-09-21T02:01:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-12T11:32:01.837917Z",
   "charter": "木白",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 8.499997,
   "file": "https://phira.5wyxi.com/files/e1167013-5c1f-448b-bd01-0f6a9237e30d",
+  "hidden": false,
   "id": 7454,
   "illustration": "https://phira.5wyxi.com/files/c5bcb677-b29b-4adf-9b36-22e3810c1133",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Nightglow",
   "preview": "https://phira.5wyxi.com/files/f240f3c5-6aab-4e75-beca-8b172f186f5d",
   "ranked": false,
-  "rating": 0.9376802,
-  "ratingCount": 3510,
+  "rating": 0.9374681,
+  "ratingCount": 3583,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

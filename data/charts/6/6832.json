@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:24Z",
-    "lastChanged": "2026-09-21T02:01:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-04T15:42:45.308057Z",
   "charter": "LightingBlue",
@@ -14,6 +14,7 @@
   "description": "感谢提供参考：Phigros谱面Re_Nascence，bilibili @月轩痕，RYCEM谱面Universe，Luminescence，Phigros谱面Retribution，Phigros谱面ぱぴぷぴぷぴぱ。\n该谱面耗时一周，部分地方缺乏精雕细刻，会进行修补。\nb站ID：LightingBlue闪电",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/2dce9477-bb6a-4add-8bf0-8c4455290edf",
+  "hidden": false,
   "id": 6832,
   "illustration": "https://phira.5wyxi.com/files/6e8a4053-e39d-4b40-9e97-9eb6a5756b02",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Rush E",
   "preview": "https://phira.5wyxi.com/files/0af1e6a7-8985-4896-a6fc-5a5fc66e5b76",
   "ranked": false,
-  "rating": 0.91100377,
-  "ratingCount": 13006,
+  "rating": 0.9110571,
+  "ratingCount": 13516,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

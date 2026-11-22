@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:31Z",
-    "lastChanged": "2026-09-21T02:02:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-06T12:20:27.315549Z",
   "charter": "SID",
@@ -14,6 +14,7 @@
   "description": "是本人上传\nB站昵称：--SID--",
   "difficulty": 13.8,
   "file": "https://phira.5wyxi.com/files/b3f38110-a117-4cae-ba2c-463a74acb2ff",
+  "hidden": false,
   "id": 25478,
   "illustration": "https://phira.5wyxi.com/files/5610c132-5071-4f16-8207-b902ad245822",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Altale",
   "preview": "https://phira.5wyxi.com/files/660a9aac-24b9-4c1f-9808-e461c629d21e",
   "ranked": false,
-  "rating": 0.8789941,
-  "ratingCount": 161,
+  "rating": 0.8797387,
+  "ratingCount": 162,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

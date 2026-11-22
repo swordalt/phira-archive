@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:23Z",
-    "lastChanged": "2026-09-21T02:02:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-16T18:43:16.185880Z",
   "charter": "小杨qwq_",
@@ -14,6 +14,7 @@
   "description": "当时写谱一年的纪念谱～ 谱面链接BV1hv4y1z7HN",
   "difficulty": 0.90000004,
   "file": "https://phira.5wyxi.com/files/f6632ba9-7186-43af-a9ca-b0010d10069e",
+  "hidden": false,
   "id": 23623,
   "illustration": "https://phira.5wyxi.com/files/821ea224-87b6-49dd-ad51-c5159c49ae4b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lemon",
   "preview": "https://phira.5wyxi.com/files/5e973ac6-5aa6-4b1a-a801-ec9d3c9d4ab2",
   "ranked": false,
-  "rating": 0.9412303,
-  "ratingCount": 14064,
+  "rating": 0.94098055,
+  "ratingCount": 14733,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

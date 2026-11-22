@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:17Z",
-    "lastChanged": "2026-09-21T02:02:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-16T14:42:12.631235Z",
   "charter": "米津八爷",
@@ -14,6 +14,7 @@
   "description": "这谱是我花一整天时间辛苦制作的，是我的处女谱，之前那个波祈酱是我的快手名",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/ccaecff0-be03-4d3b-83f3-794b8891137f",
+  "hidden": false,
   "id": 21436,
   "illustration": "https://phira.5wyxi.com/files/1f53d5c8-7f78-45b6-a7e0-1a5230c6b0cf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "酔いどれ知らず(Game.ver)",
   "preview": "https://phira.5wyxi.com/files/29e4a11c-19db-4e5b-8487-1a5e17003bbc",
   "ranked": false,
-  "rating": 0.91847146,
-  "ratingCount": 1893,
+  "rating": 0.91841865,
+  "ratingCount": 1941,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

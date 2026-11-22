@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:14Z",
-    "lastChanged": "2026-09-21T02:03:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-19T09:07:46.836743Z",
   "charter": "cmdysj",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/5d2740e0-3bd0-4cdc-8cc1-c1223804aace",
+  "hidden": false,
   "id": 36733,
   "illustration": "https://phira.5wyxi.com/files/3ea3a94b-2192-4fbc-97f7-d3c759f79a2b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "D/N/A",
   "preview": "https://phira.5wyxi.com/files/35c310c8-8aef-4dbc-bdae-65c1e36c0d21",
   "ranked": true,
-  "rating": 0.89144343,
-  "ratingCount": 8822,
+  "rating": 0.890342,
+  "ratingCount": 9125,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

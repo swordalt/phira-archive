@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:59Z",
-    "lastChanged": "2026-09-21T02:04:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-16T15:09:56.952480Z",
   "charter": "Circle&XY-07",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.900001,
   "file": "https://phira.5wyxi.com/files/a62848f2-77a4-42d8-bf5b-09bee2f4d250",
+  "hidden": false,
   "id": 67045,
   "illustration": "https://phira.5wyxi.com/files/49af95c4-0520-4885-87cb-5347d6a43cc6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "宿星審判",
   "preview": "https://phira.5wyxi.com/files/62408dfd-b3f4-415b-983c-7823280a303a",
   "ranked": false,
-  "rating": 0.8628666,
-  "ratingCount": 250,
+  "rating": 0.8651989,
+  "ratingCount": 264,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:44Z",
-    "lastChanged": "2026-09-21T02:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-24T12:13:49.684878Z",
   "charter": "M1-TEch睡大觉",
@@ -14,6 +14,7 @@
   "description": "新人初谱，B站:M1-TEch",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/58771579-bf47-47cb-b146-ccbbf85add8a",
+  "hidden": false,
   "id": 29019,
   "illustration": "https://phira.5wyxi.com/files/33f86a8b-c93b-43c4-b582-6e02deccaeb7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MORNINGLOOM",
   "preview": "https://phira.5wyxi.com/files/d16c2314-b66c-4c49-926e-245a628c1af7",
   "ranked": false,
-  "rating": 0.9023611,
-  "ratingCount": 99,
+  "rating": 0.8997293,
+  "ratingCount": 101,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

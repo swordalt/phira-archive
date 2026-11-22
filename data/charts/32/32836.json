@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:00Z",
-    "lastChanged": "2026-09-21T02:03:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-29T16:39:34.041453Z",
   "charter": "お前が好きだ",
@@ -14,6 +14,7 @@
   "description": "谱面由合作发起人上传，感谢另外两位谱师的参与",
   "difficulty": 13.700003,
   "file": "https://phira.5wyxi.com/files/1f06fae0-4c5f-4222-a4ff-b0c85b333859",
+  "hidden": false,
   "id": 32836,
   "illustration": "https://phira.5wyxi.com/files/e032a32b-353b-4a94-94e8-4c3509b606fc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "クリームソーダとシャンデリア",
   "preview": "https://phira.5wyxi.com/files/8e77a543-54b0-4ba3-80d7-6d427d245b6b",
   "ranked": false,
-  "rating": 0.94185317,
-  "ratingCount": 1189,
+  "rating": 0.94166774,
+  "ratingCount": 1231,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

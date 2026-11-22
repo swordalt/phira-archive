@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:47Z",
-    "lastChanged": "2026-09-21T02:04:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-07T04:32:07.921926Z",
   "charter": "啥都手癖的小菜",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.7,
   "file": "https://phira.5wyxi.com/files/81cff420-9aff-4c48-a337-572fd54c0035",
+  "hidden": false,
   "id": 60234,
   "illustration": "https://phira.5wyxi.com/files/511348a9-0e26-4e2f-82dd-2117a40e4b9a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "七年之梦(A Dream of 7 Years)",
   "preview": "https://phira.5wyxi.com/files/9366269a-3ee6-463f-bd5b-2ae6cb18a1ec",
   "ranked": false,
-  "rating": 0.8061073,
-  "ratingCount": 51,
+  "rating": 0.81789887,
+  "ratingCount": 59,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

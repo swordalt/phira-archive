@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:29Z",
-    "lastChanged": "2026-09-21T02:03:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-14T01:45:17.303407Z",
   "charter": "程荧星光",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.699999,
   "file": "https://phira.5wyxi.com/files/f2d78534-bb3c-4527-bc5d-69f1e9752db3",
+  "hidden": false,
   "id": 41628,
   "illustration": "https://phira.5wyxi.com/files/37dbcd50-7a3e-46b3-8879-b9259261dc5a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "春嵐",
   "preview": "https://phira.5wyxi.com/files/8e07bc9c-8da0-4645-9112-b085b6de80fc",
   "ranked": false,
-  "rating": 0.87197006,
-  "ratingCount": 790,
+  "rating": 0.8718643,
+  "ratingCount": 823,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

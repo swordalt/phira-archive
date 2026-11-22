@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:19Z",
-    "lastChanged": "2026-09-21T02:06:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-27T14:05:18.244605Z",
   "charter": "Oceanripple",
@@ -14,6 +14,7 @@
   "description": "蓝色电音极地大冲击，来势汹汹的hypertrance，天地人间完全放电",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/7b1ef53f-c48c-4ec2-b0e4-51e73c2d7e09",
+  "hidden": false,
   "id": 40362,
   "illustration": "https://phira.5wyxi.com/files/72135586-059b-48db-9a28-37f9329babab",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "hyperReality",
   "preview": "https://phira.5wyxi.com/files/a95116d0-d4f2-4e7b-911b-a5cd37635296",
   "ranked": false,
-  "rating": 0.94637954,
-  "ratingCount": 72,
+  "rating": 0.9470792,
+  "ratingCount": 73,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

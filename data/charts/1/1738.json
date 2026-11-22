@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:10Z",
-    "lastChanged": "2026-09-21T02:01:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-29T01:57:27.953308Z",
   "charter": "寒毅",
@@ -14,6 +14,7 @@
   "description": "本人上传，底力谱\n谱师b站:寒毅_",
   "difficulty": 15.8,
   "file": "https://phira.5wyxi.com/files/7e960736-e0bb-4e3f-8fcb-9bd595046005",
+  "hidden": false,
   "id": 1738,
   "illustration": "https://phira.5wyxi.com/files/6e9db7b8-80b8-4091-8ec4-a10eeff6fee0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "イルミナティ",
   "preview": "https://phira.5wyxi.com/files/9ad27439-aa2a-4d1b-863b-e82783125778",
   "ranked": false,
-  "rating": 0.91654134,
-  "ratingCount": 1426,
+  "rating": 0.91655374,
+  "ratingCount": 1430,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

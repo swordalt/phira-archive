@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:43Z",
-    "lastChanged": "2026-09-21T02:06:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-31T10:20:17.009538Z",
   "charter": "Zixi520 ",
@@ -14,6 +14,7 @@
   "description": "新人初谱，谱面预览BV1uNe1zjEDL。Malody定数21，但难度密度不均个人给到11>>32。",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/36939df1-4122-42d0-9f54-35dc131a8790",
+  "hidden": false,
   "id": 50746,
   "illustration": "https://phira.5wyxi.com/files/ffd3e5b6-30f6-4c5b-aa0d-94da8020eb2e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "幕を下ろそう、パレドーへ",
   "preview": "https://phira.5wyxi.com/files/137ad0c9-9c63-45a3-83c1-2b501339ff57",
   "ranked": false,
-  "rating": 0.9010856,
-  "ratingCount": 18,
+  "rating": 0.90528965,
+  "ratingCount": 20,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

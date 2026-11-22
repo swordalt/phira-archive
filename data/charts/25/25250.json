@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:31Z",
-    "lastChanged": "2026-09-21T02:02:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-15T18:15:29.718617Z",
   "charter": "theyaremanytwotthrees",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/31e6da34-7aeb-4648-ae6e-045870f74451",
+  "hidden": false,
   "id": 25250,
   "illustration": "https://phira.5wyxi.com/files/6dfea001-0deb-489a-970f-0da23a8d7165",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "theyaremanycolors",
   "preview": "https://phira.5wyxi.com/files/986a342e-3d8d-4b59-8beb-f066d219ad96",
   "ranked": false,
-  "rating": 0.7926197,
-  "ratingCount": 1654,
+  "rating": 0.7929144,
+  "ratingCount": 1718,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:32Z",
-    "lastChanged": "2026-09-21T02:04:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-30T16:11:47.645782Z",
   "charter": "HappyFlicker",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.9,
   "file": "https://phira.5wyxi.com/files/9b495634-5eae-49f2-bc0a-4e4b32dcd312",
+  "hidden": false,
   "id": 54786,
   "illustration": "https://phira.5wyxi.com/files/428ff3e7-8c9b-4362-9073-3c691a191d3a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Festival Lights",
   "preview": "https://phira.5wyxi.com/files/e8fc0cf7-9c16-4e35-9cda-a1028698172e",
   "ranked": false,
-  "rating": 0.87726563,
-  "ratingCount": 17,
+  "rating": 0.8976265,
+  "ratingCount": 22,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

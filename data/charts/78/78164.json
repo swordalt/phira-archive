@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:17Z",
-    "lastChanged": "2026-09-21T02:05:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-15T06:13:46.393120Z",
   "charter": "Cloudli respects Yeewo",
@@ -14,6 +14,7 @@
   "description": "本人上传\n[7thPecJam] RG No.12",
   "difficulty": 14.9,
   "file": "https://phira.5wyxi.com/files/12f7c11f-ee4e-4562-85e6-fbf5ca512629",
+  "hidden": false,
   "id": 78164,
   "illustration": "https://phira.5wyxi.com/files/508a5bae-2ef4-4210-b6f2-86ffc15aa2d7",
   "illustrator": "奈奈",
@@ -21,8 +22,8 @@
   "name": "霜雪千年",
   "preview": "https://phira.5wyxi.com/files/1fa6592c-04ac-463b-8953-db2eab9a9a33",
   "ranked": false,
-  "rating": 0.9237456,
-  "ratingCount": 635,
+  "rating": 0.9154456,
+  "ratingCount": 1728,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

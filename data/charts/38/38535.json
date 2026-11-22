@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:15Z",
-    "lastChanged": "2026-09-21T02:06:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-24T02:32:24.809109Z",
   "charter": "KISwataX",
@@ -14,6 +14,7 @@
   "description": "耗时4小时\n120叠，难度大概为7dan(?",
   "difficulty": 10.000001,
   "file": "https://phira.5wyxi.com/files/e941111b-b2da-431d-87dc-a1bf397c2405",
+  "hidden": false,
   "id": 38535,
   "illustration": "https://phira.5wyxi.com/files/5c0bc362-0622-4acc-a66b-7e3ad57cd3d5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ららら",
   "preview": "https://phira.5wyxi.com/files/d2d2a3cb-89dc-40b7-ac87-4590c930e502",
   "ranked": false,
-  "rating": 0.96731377,
-  "ratingCount": 282,
+  "rating": 0.96708494,
+  "ratingCount": 300,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

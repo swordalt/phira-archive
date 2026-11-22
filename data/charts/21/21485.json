@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:17Z",
-    "lastChanged": "2026-09-21T02:02:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-18T01:08:04.279332Z",
   "charter": "Anniversary.Music",
@@ -14,6 +14,7 @@
   "description": "B站关注@音乐小子1 喵，B站关注@音乐小子1 谢谢喵（因为phira红键判定原因，bbb段有部分改动，不影响实际游玩）（推荐设置偏移值：+40ms）",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/354afef2-3e51-42ab-80fe-74b8026fedb7",
+  "hidden": false,
   "id": 21485,
   "illustration": "https://phira.5wyxi.com/files/f3102882-6079-45b9-b2f7-eb15ecbaca60",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "WiPE OUT MEMORIES",
   "preview": "https://phira.5wyxi.com/files/c4720b46-0df6-4762-a667-1a18b37cc19e",
   "ranked": false,
-  "rating": 0.8852658,
-  "ratingCount": 204,
+  "rating": 0.8843852,
+  "ratingCount": 208,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

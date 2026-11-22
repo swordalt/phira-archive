@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:20Z",
-    "lastChanged": "2026-09-21T02:06:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-01T10:57:00.634519Z",
   "charter": "凌夏",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/42139a7c-e2a4-40bb-845d-5d6613467764",
+  "hidden": false,
   "id": 40664,
   "illustration": "https://phira.5wyxi.com/files/b723885b-ff21-4e93-85a9-f421358e871c",
   "illustrator": "",

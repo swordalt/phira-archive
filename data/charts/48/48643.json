@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:00Z",
-    "lastChanged": "2026-09-21T02:04:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-01T11:42:20.701536Z",
   "charter": "WARDEN",
@@ -14,6 +14,7 @@
   "description": "三改，改了一部分排键，现在尾杀那一大坨可直接对拍处理",
   "difficulty": 16.700003,
   "file": "https://phira.5wyxi.com/files/002c3592-f85f-4071-aa56-5f05441c427c",
+  "hidden": false,
   "id": 48643,
   "illustration": "https://phira.5wyxi.com/files/ae05acbc-767e-4b5e-9333-27d60a7c2b6a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mind Enhancement",
   "preview": "https://phira.5wyxi.com/files/688ce71e-d127-494c-8df1-b442f484b108",
   "ranked": false,
-  "rating": 0.92045116,
-  "ratingCount": 228,
+  "rating": 0.9175482,
+  "ratingCount": 230,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:19Z",
-    "lastChanged": "2026-09-21T02:05:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-31T14:53:39.542993Z",
   "charter": "[En//Xi] su1fide",
@@ -14,6 +14,7 @@
   "description": "深入贯彻落实“创新大于手感”总方针！",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/e76b43de-03e0-40f8-9b2e-74b3da9b8b0b",
+  "hidden": false,
   "id": 6539,
   "illustration": "https://phira.5wyxi.com/files/557af396-7cc9-4784-bb49-7ddb1a6ba3c6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "不要笑挑战 [Trigger(Zekk Remix)]",
   "preview": "https://phira.5wyxi.com/files/fee1896c-0ae4-4b6c-8163-9933a3b3ab30",
   "ranked": false,
-  "rating": 0.74074185,
-  "ratingCount": 430,
+  "rating": 0.73974353,
+  "ratingCount": 433,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:40Z",
-    "lastChanged": "2026-09-21T02:06:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-02T22:57:37.196292Z",
   "charter": "KTL_kolc",
@@ -14,6 +14,7 @@
   "description": "喵呜～",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/7691ea8e-31e6-44cc-b43f-f3d813f40e9b",
+  "hidden": false,
   "id": 48741,
   "illustration": "https://phira.5wyxi.com/files/93e07aff-f6f3-43ff-a630-6bbe92008aef",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "respect",
   "preview": "https://phira.5wyxi.com/files/08280b0d-32c1-4e93-8111-7fba9fb5f6a7",
   "ranked": false,
-  "rating": null,
-  "ratingCount": 0,
+  "rating": 0.7198484,
+  "ratingCount": 1,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

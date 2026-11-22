@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:54Z",
-    "lastChanged": "2026-09-21T02:04:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:32Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-03T05:26:35.158243Z",
   "charter": "風遺之龍JULY",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/2d340b7d-31fb-4ed6-93b3-4ad152d74e58",
+  "hidden": false,
   "id": 63747,
   "illustration": "https://phira.5wyxi.com/files/755c6046-7fce-4caa-87fa-c5a17d46186c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dreamy Phonk Drift",
   "preview": "https://phira.5wyxi.com/files/ef380a36-2c48-46ad-a25d-4252eab792f0",
   "ranked": false,
-  "rating": 0.8691736,
-  "ratingCount": 280,
+  "rating": 0.87177944,
+  "ratingCount": 306,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

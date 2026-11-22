@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-09T09:05:33.635555Z",
   "charter": "糊糊",
@@ -14,6 +14,7 @@
   "description": "可能是奋奋谱师写的最好的一张谱了（？）",
   "difficulty": 28.0,
   "file": "https://phira.5wyxi.com/files/3cec375d-7e4b-42de-bf36-73eedd3a7987",
+  "hidden": false,
   "id": 33666,
   "illustration": "https://phira.5wyxi.com/files/99023d8e-1fd5-4bfa-abcf-59e4b0649d7a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ad astra per aspera",
   "preview": "https://phira.5wyxi.com/files/27fb367e-4414-494d-82e5-ab6dfadc6ac1",
   "ranked": false,
-  "rating": 0.9371077,
-  "ratingCount": 1166,
+  "rating": 0.93726104,
+  "ratingCount": 1195,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

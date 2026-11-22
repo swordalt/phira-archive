@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:47Z",
-    "lastChanged": "2026-09-21T02:01:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-31T23:53:14.049198Z",
   "charter": "雪の中に埋もれているのは、粉髪の無言の努力",
@@ -14,6 +14,7 @@
   "description": "本人上传，B站@Aksiar",
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/60008b25-3c90-48ab-a534-c5f45d12b890",
+  "hidden": false,
   "id": 13122,
   "illustration": "https://phira.5wyxi.com/files/35fbdb40-33f5-4d0f-92d1-1318526f6609",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Niebelungen",
   "preview": "https://phira.5wyxi.com/files/c7e47e6f-4768-417e-9f03-b7c6b9c9bd97",
   "ranked": false,
-  "rating": 0.9230238,
-  "ratingCount": 685,
+  "rating": 0.92344385,
+  "ratingCount": 692,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

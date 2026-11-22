@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:18Z",
-    "lastChanged": "2026-09-21T02:01:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-05T12:11:54.910842Z",
   "charter": "Faded_Coda",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.799999,
   "file": "https://phira.5wyxi.com/files/a8be6140-0c85-4442-b0c2-731fb79887b0",
+  "hidden": false,
   "id": 4635,
   "illustration": "https://phira.5wyxi.com/files/adb6a373-e76f-4cc4-84b7-447a1343bead",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "解けないように",
   "preview": "https://phira.5wyxi.com/files/d7ee2d66-fc13-47f5-a4d8-8d1fb76f9f49",
   "ranked": false,
-  "rating": 0.807164,
-  "ratingCount": 184,
+  "rating": 0.8079111,
+  "ratingCount": 186,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

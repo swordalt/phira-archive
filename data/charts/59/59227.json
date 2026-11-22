@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:44Z",
-    "lastChanged": "2026-09-21T02:04:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-27T03:03:02.601124Z",
   "charter": "GFoMCaP",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/c801223b-59df-4809-9f95-a0a4481a70ee",
+  "hidden": false,
   "id": 59227,
   "illustration": "https://phira.5wyxi.com/files/6a4cc328-6574-4b49-a769-a0b37de7b75f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ナイトピア",
   "preview": "https://phira.5wyxi.com/files/4f4ef8f2-4499-46ae-a043-51aa00c7584f",
   "ranked": false,
-  "rating": 0.89979506,
-  "ratingCount": 26,
+  "rating": 0.9237649,
+  "ratingCount": 34,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:23Z",
-    "lastChanged": "2026-09-21T02:03:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-15T19:53:20.931039Z",
   "charter": "Q.N.R.J.",
@@ -14,6 +14,7 @@
   "description": "第一张谱，感觉还能加强特效，但是就这样吧（",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/fef2aee3-5ad5-42c4-a51e-5289c2e529b7",
+  "hidden": false,
   "id": 39786,
   "illustration": "https://phira.5wyxi.com/files/f2a7ab6c-b76e-4b2b-9450-2588874619ac",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Greeting Into Abysschaos",
   "preview": "https://phira.5wyxi.com/files/01246498-806c-4310-b4e2-9ff6a9065c19",
   "ranked": false,
-  "rating": 0.82979816,
-  "ratingCount": 224,
+  "rating": 0.83105254,
+  "ratingCount": 228,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

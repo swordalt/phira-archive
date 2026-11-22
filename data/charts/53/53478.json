@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:46Z",
-    "lastChanged": "2026-09-21T02:06:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-26T15:02:36.957218Z",
   "charter": "Nosmoking",
@@ -14,6 +14,7 @@
   "description": "定位：叠",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/38411974-b088-4956-8f16-ea93f44b5543",
+  "hidden": false,
   "id": 53478,
   "illustration": "https://phira.5wyxi.com/files/975a9f67-f70b-4702-a3ae-209164c58a5e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sakazuki",
   "preview": "https://phira.5wyxi.com/files/238ac737-74fb-4a7e-ac87-f982e35fe4ab",
   "ranked": false,
-  "rating": 0.907091,
-  "ratingCount": 20,
+  "rating": 0.91073626,
+  "ratingCount": 21,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:33Z",
-    "lastChanged": "2026-09-21T02:01:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-21T17:38:09.359953Z",
   "charter": "GETM",
@@ -14,6 +14,7 @@
   "description": "重传，修复了bug，但是手机游玩可能仍有露馅的地方\n特别感谢qr对特效升级的协助",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/c565039e-69d1-45fa-8d94-f5ad583d4ee9",
+  "hidden": false,
   "id": 9545,
   "illustration": "https://phira.5wyxi.com/files/0207f135-bd43-42c7-8aec-ad91ffba81fd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Slyness Foxx",
   "preview": "https://phira.5wyxi.com/files/eecdac48-4dac-48af-b14a-7366a92f1030",
   "ranked": true,
-  "rating": 0.9280211,
-  "ratingCount": 254,
+  "rating": 0.9276211,
+  "ratingCount": 260,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

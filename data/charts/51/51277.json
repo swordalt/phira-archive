@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:12Z",
-    "lastChanged": "2026-09-21T02:04:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-16T11:05:42.673117Z",
   "charter": "-yuan-",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nBV1kHkcBLEXM",
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/c4326d22-d1d4-420b-ab38-a420470d6dc1",
+  "hidden": false,
   "id": 51277,
   "illustration": "https://phira.5wyxi.com/files/67ffb99e-ec76-4cff-9ff0-d355bb471454",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "qualia -ideaesthesia-",
   "preview": "https://phira.5wyxi.com/files/84b11929-c56c-4a46-a03e-74855e8e2e35",
   "ranked": false,
-  "rating": 0.92298883,
+  "rating": 0.918108,
   "ratingCount": 33,
   "reviewed": true,
   "stable": false,

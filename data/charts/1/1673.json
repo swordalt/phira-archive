@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:09Z",
-    "lastChanged": "2026-09-21T02:01:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-14T11:24:49.960726Z",
   "charter": "InterJoke",
@@ -14,6 +14,7 @@
   "description": "2023微调版。BV1Qq4y1f7v3",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/dbdd1d40-4add-4f78-9c25-f912b459b95c",
+  "hidden": false,
   "id": 1673,
   "illustration": "https://phira.5wyxi.com/files/bebf41c4-3f34-4bac-86cf-fcf740f1bede",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Last Page",
   "preview": "https://phira.5wyxi.com/files/c8612cbd-7bfe-44af-8057-45786c9962d3",
   "ranked": true,
-  "rating": 0.91358787,
-  "ratingCount": 1415,
+  "rating": 0.9131335,
+  "ratingCount": 1424,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:22Z",
-    "lastChanged": "2026-09-21T02:04:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-16T07:29:56.876274Z",
   "charter": "Fivve_",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.200002,
   "file": "https://phira.5wyxi.com/files/054d337d-e56f-4065-9276-e33f1941376d",
+  "hidden": false,
   "id": 52782,
   "illustration": "https://phira.5wyxi.com/files/2a41b3fc-161f-41cf-a4c0-12ad94b8c344",
   "illustrator": "",

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:45Z",
-    "lastChanged": "2026-09-21T02:05:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-24T13:59:40.505494Z",
   "charter": "Iblcya",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n为LC2024#1/#1.5特供版本",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/0fbed86c-de8e-4541-8849-91d6a6f1a085",
+  "hidden": false,
   "id": 17533,
   "illustration": "https://phira.5wyxi.com/files/e2b5aa60-2d62-4a63-93f6-f0622599c52a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Grin(1.1x)",
   "preview": "https://phira.5wyxi.com/files/f77d3f26-4f86-40fb-8012-51ce51fb12ba",
   "ranked": false,
-  "rating": 0.9035255,
-  "ratingCount": 82,
+  "rating": 0.90460634,
+  "ratingCount": 84,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

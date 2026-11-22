@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:53Z",
-    "lastChanged": "2026-09-21T02:05:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-11T03:31:13.131769Z",
   "charter": "特殊音乐人",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传！",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/393bf1b7-45d6-43e8-b294-8a56dd442be9",
+  "hidden": false,
   "id": 23163,
   "illustration": "https://phira.5wyxi.com/files/69ba4de3-f9e7-41a2-902e-8bb761588412",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "My dream girls",
   "preview": "https://phira.5wyxi.com/files/08187fc0-fb51-483e-9f71-030e28c27736",
   "ranked": false,
-  "rating": 0.9139314,
-  "ratingCount": 135,
+  "rating": 0.9125453,
+  "ratingCount": 136,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:27Z",
-    "lastChanged": "2026-09-21T02:02:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-22T05:52:41.093464Z",
   "charter": "南辉",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.199999,
   "file": "https://phira.5wyxi.com/files/413dc6f3-1112-4754-ac97-362d31c9f1ab",
+  "hidden": false,
   "id": 24619,
   "illustration": "https://phira.5wyxi.com/files/234d4ebf-4feb-4389-9552-f4da196acf13",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Rainbow Flavor!",
   "preview": "https://phira.5wyxi.com/files/a093c2ba-8aaf-4c1b-a57d-5d14ea165131",
   "ranked": false,
-  "rating": 0.9195175,
-  "ratingCount": 634,
+  "rating": 0.91937953,
+  "ratingCount": 638,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

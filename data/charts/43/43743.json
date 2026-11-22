@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:30Z",
-    "lastChanged": "2026-09-21T02:05:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-05T05:48:53.472851Z",
   "charter": "Niko Shark",
@@ -14,6 +14,7 @@
   "description": "老歌",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/c551b863-4553-449f-9402-31b4fe9862f9",
+  "hidden": false,
   "id": 43743,
   "illustration": "https://phira.5wyxi.com/files/785e07ae-3b46-4e76-8bd3-fb5f823505ec",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Q Rd E",
   "preview": "https://phira.5wyxi.com/files/2952a1eb-d8d1-40ff-bd7d-586e149234bd",
   "ranked": false,
-  "rating": 0.902037,
-  "ratingCount": 112,
+  "rating": 0.90608233,
+  "ratingCount": 117,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:48Z",
-    "lastChanged": "2026-09-21T02:06:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-14T16:14:53.297673Z",
   "charter": "ECYCG",
@@ -14,6 +14,7 @@
   "description": "BPM220 尾杀做梦写的",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/862a23ae-d123-4731-9442-efcaaaabad0a",
+  "hidden": false,
   "id": 54161,
   "illustration": "https://phira.5wyxi.com/files/bc2cd0b9-34ce-4b86-9db4-1c07d0a7d190",
   "illustrator": "",

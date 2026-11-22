@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:21Z",
-    "lastChanged": "2026-09-21T02:03:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-02T10:33:55.884536Z",
   "charter": "W.T.C.P and OldNoob fly to the night",
@@ -14,6 +14,7 @@
   "description": "『天狐』EZ难度\nWTCP vs. OdNb（@麦块炉）\n已经过授权同意发布\n谱面确认：BV1Q47wzWE98",
   "difficulty": 8.600002,
   "file": "https://phira.5wyxi.com/files/10526f2c-ebd1-4194-969e-2a50bdca9dca",
+  "hidden": false,
   "id": 39160,
   "illustration": "https://phira.5wyxi.com/files/62118c99-f676-4fdf-b9c9-49dfb6630163",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "アマツキツネ",
   "preview": "https://phira.5wyxi.com/files/f7180c23-d2aa-424f-ab90-afa1024dd4bc",
   "ranked": false,
-  "rating": 0.9281928,
-  "ratingCount": 153,
+  "rating": 0.92853004,
+  "ratingCount": 160,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

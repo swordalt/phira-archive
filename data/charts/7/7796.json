@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:27Z",
-    "lastChanged": "2026-09-21T02:01:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-17T00:56:15.102462Z",
   "charter": "feng",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 13.900001,
   "file": "https://phira.5wyxi.com/files/ecfc49d6-ec74-4a35-ba1a-d77ec7d094a7",
+  "hidden": false,
   "id": 7796,
   "illustration": "https://phira.5wyxi.com/files/2c3f2f30-86a1-4f51-b0ad-169eda1fec41",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "水龙吟 Samudrartha",
   "preview": "https://phira.5wyxi.com/files/5ad34119-90fc-4b3f-9bc5-2afff8b7a7ac",
   "ranked": false,
-  "rating": 0.8959249,
-  "ratingCount": 10423,
+  "rating": 0.89587146,
+  "ratingCount": 10518,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

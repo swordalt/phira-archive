@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:34Z",
-    "lastChanged": "2026-09-21T02:06:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-01T15:16:22.676020Z",
   "charter": "私入1919",
@@ -14,6 +14,7 @@
   "description": "新人初谱 本人上传",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/99de7a29-1e83-4a90-a0a6-af4995c1786a",
+  "hidden": false,
   "id": 46277,
   "illustration": "https://phira.5wyxi.com/files/93aca880-e2d6-40b6-a1eb-b34ee85aa276",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "56 Seconds Later",
   "preview": "https://phira.5wyxi.com/files/529ee303-87e8-4795-a16e-e017db6130e5",
   "ranked": false,
-  "rating": 0.95351523,
-  "ratingCount": 136,
+  "rating": 0.9476344,
+  "ratingCount": 140,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

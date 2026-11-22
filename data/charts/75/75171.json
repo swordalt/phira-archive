@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:11Z",
-    "lastChanged": "2026-09-21T02:05:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-23T05:40:32.823407Z",
   "charter": "[SinR]-seelence in revolution",
@@ -14,6 +14,7 @@
   "description": "由本人上传",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/293e9463-9625-4d3c-8f03-07367cc4292c",
+  "hidden": false,
   "id": 75171,
   "illustration": "https://phira.5wyxi.com/files/70c5aa97-cc8d-4fa9-a843-ebb17e699130",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lowermost revolt",
   "preview": "https://phira.5wyxi.com/files/0f1515fd-b2e5-45f9-8694-59d9225b01d1",
   "ranked": false,
-  "rating": 0.90712416,
-  "ratingCount": 199,
+  "rating": 0.9128231,
+  "ratingCount": 225,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

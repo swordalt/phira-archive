@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:55Z",
-    "lastChanged": "2026-09-21T02:03:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-06T14:34:40.166376Z",
   "charter": "Trace Back",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/e7d5623e-818f-4040-814a-ed0b021c18bf",
+  "hidden": false,
   "id": 47780,
   "illustration": "https://phira.5wyxi.com/files/d6e14812-0c30-443b-bbca-84ee49a4630d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Aurora",
   "preview": "https://phira.5wyxi.com/files/e5c76b55-4a34-4362-988b-3746ef18bdb2",
   "ranked": false,
-  "rating": 0.7925967,
-  "ratingCount": 30,
+  "rating": 0.7956485,
+  "ratingCount": 31,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

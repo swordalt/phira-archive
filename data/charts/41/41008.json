@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:27Z",
-    "lastChanged": "2026-09-21T02:03:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-04T13:00:58.468279Z",
   "charter": "董卓討つべし",
@@ -14,6 +14,7 @@
   "description": "本人上传，稍作修改",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/4fad053c-2225-4eb8-b588-a8b68e4a86c4",
+  "hidden": false,
   "id": 41008,
   "illustration": "https://phira.5wyxi.com/files/2335b69c-1a88-4941-b006-1100e7ba083f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "董卓討つべし",
   "preview": "https://phira.5wyxi.com/files/be25bf9e-1e67-4dd4-bb54-1693da70faad",
   "ranked": false,
-  "rating": 0.9004838,
-  "ratingCount": 507,
+  "rating": 0.90130764,
+  "ratingCount": 514,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:22Z",
-    "lastChanged": "2026-09-21T02:06:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-09T06:16:37.075597Z",
   "charter": "三月啼鸢",
@@ -14,6 +14,7 @@
   "description": "洛天依原创曲",
   "difficulty": 24.0,
   "file": "https://phira.5wyxi.com/files/72655200-6590-4890-a3c7-09bbf88104c0",
+  "hidden": false,
   "id": 41233,
   "illustration": "https://phira.5wyxi.com/files/1cdfee9d-223e-4a78-8a9c-a6ccc5479b55",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "夜蛹Radio",
   "preview": "https://phira.5wyxi.com/files/3d193811-6548-45d7-957c-7fa6ebfbd202",
   "ranked": false,
-  "rating": 0.94842553,
-  "ratingCount": 49,
+  "rating": 0.94976676,
+  "ratingCount": 54,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:15Z",
-    "lastChanged": "2026-09-21T02:03:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-27T14:37:11.708499Z",
   "charter": "GooDFC's Memories",
@@ -14,6 +14,7 @@
   "description": "恐怖！特大课堂来袭！（谱师本人上传）",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/7b72122b-fa56-419a-a66b-3aa41c79d2bc",
+  "hidden": false,
   "id": 37043,
   "illustration": "https://phira.5wyxi.com/files/7b98f2c3-6a68-4111-b401-903e1b8db316",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Class Memories",
   "preview": "https://phira.5wyxi.com/files/6bd5b50f-327f-4dd5-847e-43c1c3c6df31",
   "ranked": false,
-  "rating": 0.894795,
-  "ratingCount": 1657,
+  "rating": 0.89472866,
+  "ratingCount": 1682,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

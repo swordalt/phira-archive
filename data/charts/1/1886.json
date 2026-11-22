@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:11Z",
-    "lastChanged": "2026-09-21T02:01:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-14T16:36:01.582781Z",
   "charter": "Stratus",
@@ -14,6 +14,7 @@
   "description": "谱师：Stratus8419 B站视频：BV1ia4y137ev",
   "difficulty": 14.900001,
   "file": "https://phira.5wyxi.com/files/dbc436a0-bdce-467d-afaa-e3c1a6812bc3",
+  "hidden": false,
   "id": 1886,
   "illustration": "https://phira.5wyxi.com/files/ae1104ca-0923-44e5-8407-d2198990031d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "天火明命",
   "preview": "https://phira.5wyxi.com/files/286faece-00bd-45f4-87e1-e93bfdc14cc4",
   "ranked": false,
-  "rating": 0.8892314,
-  "ratingCount": 1088,
+  "rating": 0.88971174,
+  "ratingCount": 1098,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

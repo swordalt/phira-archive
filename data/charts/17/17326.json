@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:44Z",
-    "lastChanged": "2026-09-21T02:05:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-20T13:53:32.279117Z",
   "charter": "百九十三",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/efeb8c07-7bae-4390-902a-fe95a5a018bd",
+  "hidden": false,
   "id": 17326,
   "illustration": "https://phira.5wyxi.com/files/52ea9012-553e-462e-ad95-65b4a4b4eadb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "囍（Chinese Wedding）",
   "preview": "https://phira.5wyxi.com/files/8bb938b0-d880-4122-9102-73c1c558511e",
   "ranked": false,
-  "rating": 0.93139035,
-  "ratingCount": 654,
+  "rating": 0.9320251,
+  "ratingCount": 662,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

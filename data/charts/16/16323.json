@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:00Z",
-    "lastChanged": "2026-09-21T02:02:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-23T03:34:12.696619Z",
   "charter": "zhuguyu",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.900003,
   "file": "https://phira.5wyxi.com/files/01ba2ebd-0df0-4e38-99df-c38fad0523ed",
+  "hidden": false,
   "id": 16323,
   "illustration": "https://phira.5wyxi.com/files/ce066c6b-ef32-4b89-9cb8-42c50f26f026",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Music_Utopia",
   "preview": "https://phira.5wyxi.com/files/5b30b46e-c768-4d75-bf82-ca0029f7f4cb",
   "ranked": false,
-  "rating": 0.81164193,
-  "ratingCount": 283,
+  "rating": 0.8133041,
+  "ratingCount": 292,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:26Z",
-    "lastChanged": "2026-09-21T02:06:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-26T10:09:45.901523Z",
   "charter": "zby",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/3f4e716e-d20f-466a-88e0-15a8cd850412",
+  "hidden": false,
   "id": 42777,
   "illustration": "https://phira.5wyxi.com/files/f0bca67d-c6b7-4a89-a427-fd9c684e331a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "热血燃烧",
   "preview": "https://phira.5wyxi.com/files/b7c81f64-07e0-4559-859b-0c4576f907da",
   "ranked": false,
-  "rating": 0.7334212,
-  "ratingCount": 1,
+  "rating": 0.75453526,
+  "ratingCount": 2,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

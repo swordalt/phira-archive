@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:46Z",
-    "lastChanged": "2026-09-21T02:06:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-26T12:13:33.974175Z",
   "charter": "Reticent_Dust",
@@ -14,6 +14,7 @@
   "description": "谱面代传\n谱师@Reticent_Dust\nb站同名\n已获得代传许可（谱师本人要求）",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/58524de7-b739-4d91-a42d-82c2f604d31a",
+  "hidden": false,
   "id": 53457,
   "illustration": "https://phira.5wyxi.com/files/e9431f78-164a-4008-a20a-3fe49fb9291f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "WE ARE HARD СORE",
   "preview": "https://phira.5wyxi.com/files/6a9b23a1-0849-41e7-ac46-bf1dd6168cc7",
   "ranked": false,
-  "rating": 0.9656669,
-  "ratingCount": 141,
+  "rating": 0.96408945,
+  "ratingCount": 148,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

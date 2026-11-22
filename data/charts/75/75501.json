@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:02Z",
-    "lastChanged": "2026-09-21T02:07:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-24T15:40:37.312229Z",
   "charter": "HRS-Team",
@@ -14,6 +14,7 @@
   "description": "HRS-Lv.18-Flow单曲\n对高难的首次尝试，请多多谅解",
   "difficulty": 18.1,
   "file": "https://phira.5wyxi.com/files/4e2b559a-5873-41c9-b17b-f51591cf5034",
+  "hidden": false,
   "id": 75501,
   "illustration": "https://phira.5wyxi.com/files/d73e8a6b-1260-4118-979d-8ee9f6bf8736",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Breakcore□□前夜",
   "preview": "https://phira.5wyxi.com/files/2d329a8e-24a4-4a7e-b3a6-ec91c8c2f4b8",
   "ranked": false,
-  "rating": 0.9048885,
-  "ratingCount": 21,
+  "rating": 0.91782653,
+  "ratingCount": 24,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

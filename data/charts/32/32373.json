@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:58Z",
-    "lastChanged": "2026-09-21T02:02:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-24T13:09:00.898487Z",
   "charter": "READY FOR VIDEOGAME SHOW",
@@ -14,6 +14,7 @@
   "description": "Waht",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/eba05b81-d803-4bc3-abda-d7d8de24e7a9",
+  "hidden": false,
   "id": 32373,
   "illustration": "https://phira.5wyxi.com/files/c3cd9bd6-1c13-453d-8a62-ea4a214a99cc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "唱",
   "preview": "https://phira.5wyxi.com/files/a7d97772-dcbc-4622-95bf-ea15b195b43c",
   "ranked": false,
-  "rating": 0.9461389,
-  "ratingCount": 2864,
+  "rating": 0.9473909,
+  "ratingCount": 3027,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

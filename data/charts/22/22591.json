@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:25Z",
-    "lastChanged": "2026-09-21T02:05:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-04T01:56:26.719558Z",
   "charter": "Flass",
@@ -14,6 +14,7 @@
   "description": "就tm1分钟而已，有多难？",
   "difficulty": 1.0,
   "file": "https://phira.5wyxi.com/files/924d3f1b-4ae8-427c-84ac-cd5a14c3064a",
+  "hidden": false,
   "id": 22591,
   "illustration": "https://phira.5wyxi.com/files/0f7d0390-6328-43cd-bb5f-a453ebb3aca8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "《梗》【愚人节】",
   "preview": "https://phira.5wyxi.com/files/290ee6a5-c1d1-4fdd-bf69-29e00cd38b9d",
   "ranked": false,
-  "rating": 0.8214604,
-  "ratingCount": 1699,
+  "rating": 0.81394434,
+  "ratingCount": 1789,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

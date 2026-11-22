@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:02Z",
-    "lastChanged": "2026-09-21T02:06:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-19T14:26:02.468615Z",
   "charter": "ZongZha",
@@ -14,6 +14,7 @@
   "description": "1550物量\n4k爽切",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/497ca873-ce7a-42e9-ba10-ac0b8acbe056",
+  "hidden": false,
   "id": 28911,
   "illustration": "https://phira.5wyxi.com/files/0ada4e3c-e0be-478a-8db6-8324d42c7575",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "How To Make 音ゲ～曲！",
   "preview": "https://phira.5wyxi.com/files/97a7301c-2309-42cb-8c18-a4a4d3531c07",
   "ranked": false,
-  "rating": 0.9547172,
-  "ratingCount": 393,
+  "rating": 0.954081,
+  "ratingCount": 407,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

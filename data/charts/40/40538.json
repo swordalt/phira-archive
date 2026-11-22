@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:26Z",
-    "lastChanged": "2026-09-21T02:03:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-08T15:05:26.001703Z",
   "charter": "creeper-_awwman",
@@ -14,6 +14,7 @@
   "description": "bili:creeper-_awwman\n2025/6/29一改，修改部分不合理配置及错误采音",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/4f567580-32cc-4445-abd2-4fc3169c74b9",
+  "hidden": false,
   "id": 40538,
   "illustration": "https://phira.5wyxi.com/files/c30c49fa-60c3-401c-a842-d7773ce0fa72",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "きゅうくらりん",
   "preview": "https://phira.5wyxi.com/files/019c0c60-ccaf-4d7d-ac75-1b6850eb1642",
   "ranked": false,
-  "rating": 0.9008823,
-  "ratingCount": 1189,
+  "rating": 0.9019221,
+  "ratingCount": 1229,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

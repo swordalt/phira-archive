@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:49Z",
-    "lastChanged": "2026-09-21T02:04:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-18T08:59:35.311965Z",
   "charter": "小__鹿",
@@ -14,6 +14,7 @@
   "description": "本人上传，曲绘也是我本人画的\n自己做了第一个谱，如果感觉有点史请谅解\n可能以后会改谱\n",
   "difficulty": 15.3,
   "file": "https://phira.5wyxi.com/files/f10f0ba6-ab86-4feb-bc6d-04eae7d6cbf4",
+  "hidden": false,
   "id": 61259,
   "illustration": "https://phira.5wyxi.com/files/002ea0f8-3ed0-4d37-9a7a-f07d5f41910d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Threat - Outskirts",
   "preview": "https://phira.5wyxi.com/files/7603668a-0806-4c02-9fca-d458ad2dfc9f",
   "ranked": false,
-  "rating": 0.8876713,
-  "ratingCount": 74,
+  "rating": 0.8958833,
+  "ratingCount": 80,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

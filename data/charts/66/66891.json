@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:59Z",
-    "lastChanged": "2026-09-21T02:04:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-16T05:06:58.847980Z",
   "charter": "阿诺",
@@ -14,6 +14,7 @@
   "description": "谱面为本人上传",
   "difficulty": 14.1,
   "file": "https://phira.5wyxi.com/files/1f175374-b2e5-40a1-90f4-761573d7bb74",
+  "hidden": false,
   "id": 66891,
   "illustration": "https://phira.5wyxi.com/files/16fad5b2-a185-4dad-af4e-21efc13a025e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "街头篮球",
   "preview": "https://phira.5wyxi.com/files/2b845fd9-b73a-4294-8dfd-7d7c8aa544b3",
   "ranked": false,
-  "rating": 0.8558325,
-  "ratingCount": 22,
+  "rating": 0.8772902,
+  "ratingCount": 51,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:14Z",
-    "lastChanged": "2026-09-21T02:05:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-06T10:21:34.380609Z",
   "charter": "一定要看pv吖！！",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/f3eb3a61-779c-4941-859b-2ed220ec5698",
+  "hidden": false,
   "id": 77342,
   "illustration": "https://phira.5wyxi.com/files/a8622467-10c3-4910-9787-caafbb1d01d5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "カンケーガール",
   "preview": "https://phira.5wyxi.com/files/c34644f2-d31a-4884-9e5e-761f096b0bbb",
   "ranked": false,
-  "rating": 0.9489497,
-  "ratingCount": 184,
+  "rating": 0.95228446,
+  "ratingCount": 342,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

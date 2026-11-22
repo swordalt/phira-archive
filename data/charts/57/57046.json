@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:38Z",
-    "lastChanged": "2026-09-21T02:04:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-13T05:55:17.912306Z",
   "charter": "あの夏に連れて行ってください",
@@ -14,6 +14,7 @@
   "description": "本曲为Key社最新发售的视觉小说《anemoi》的op曲 谱面系本人上传 b站视频BV1NFoLBZE1E 请大家都去玩这部作品！",
   "difficulty": 14.1,
   "file": "https://phira.5wyxi.com/files/88b26f86-993a-494c-a714-08fb8f727b96",
+  "hidden": false,
   "id": 57046,
   "illustration": "https://phira.5wyxi.com/files/0ee4c15a-e90c-47ed-82a1-765c0452a225",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "エタニクル",
   "preview": "https://phira.5wyxi.com/files/225732de-33f8-48bc-bb07-4eedcd25f748",
   "ranked": true,
-  "rating": 0.8748107,
-  "ratingCount": 2533,
+  "rating": 0.8773009,
+  "ratingCount": 2745,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

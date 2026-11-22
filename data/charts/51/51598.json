@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:15Z",
-    "lastChanged": "2026-09-21T02:04:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-24T11:42:57.027630Z",
   "charter": "HL-小蔡丫",
@@ -14,6 +14,7 @@
   "description": "张丽丽可爱捏",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/2b191c30-92c9-45c4-9a6f-fe1cb3446ca4",
+  "hidden": false,
   "id": 51598,
   "illustration": "https://phira.5wyxi.com/files/a813714a-ae69-4b00-b49d-44e34a75776b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "歌唱bot",
   "preview": "https://phira.5wyxi.com/files/a044cc7e-94b2-4bac-b9ae-f74515f656ab",
   "ranked": false,
-  "rating": 0.8633791,
-  "ratingCount": 25,
+  "rating": 0.85728544,
+  "ratingCount": 29,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

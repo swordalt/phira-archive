@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:31Z",
-    "lastChanged": "2026-09-21T02:02:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-04T11:10:25.848668Z",
   "charter": "Laimi",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，B站名字：6-66-8",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/c8941614-d928-477f-a1ba-241ccb437feb",
+  "hidden": false,
   "id": 25262,
   "illustration": "https://phira.5wyxi.com/files/4bc8ec71-6f4f-426d-8d3a-c054c29998c9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Raven Emperor (Absolute Version)",
   "preview": "https://phira.5wyxi.com/files/ee5dfec3-985d-4500-9301-03368056ceb9",
   "ranked": false,
-  "rating": 0.80937177,
-  "ratingCount": 378,
+  "rating": 0.80996287,
+  "ratingCount": 384,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

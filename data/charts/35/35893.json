@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:10Z",
-    "lastChanged": "2026-09-21T02:03:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-29T17:46:33.938858Z",
   "charter": "'t'",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/bd45af31-3a33-4788-8156-99076a98d2e7",
+  "hidden": false,
   "id": 35893,
   "illustration": "https://phira.5wyxi.com/files/7149e9e1-4511-42c0-869b-676c47175f12",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Brain Power",
   "preview": "https://phira.5wyxi.com/files/8568194b-ae7f-4e92-aff0-c633c2c74f85",
   "ranked": false,
-  "rating": 0.9247241,
-  "ratingCount": 727,
+  "rating": 0.9214398,
+  "ratingCount": 796,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

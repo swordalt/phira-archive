@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:21Z",
-    "lastChanged": "2026-09-21T02:05:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-23T17:54:15.871877Z",
   "charter": "MERRY XMAS！",
@@ -14,6 +14,7 @@
   "description": "Phira圣诞活动特别提供，与1NKYSAIKYO创作的盛宴\n\n享受温暖的圣诞节吧！",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/48de52fc-1ea7-4de1-bb97-74ab4865dfa2",
+  "hidden": false,
   "id": 12766,
   "illustration": "https://phira.5wyxi.com/files/f335debd-e881-4b53-8c5a-51aae22b8b79",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ジングルベル",
   "preview": "https://phira.5wyxi.com/files/18d176f7-c578-4679-873d-51fe37a242a6",
   "ranked": false,
-  "rating": 0.7784261,
-  "ratingCount": 1460,
+  "rating": 0.778941,
+  "ratingCount": 1476,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

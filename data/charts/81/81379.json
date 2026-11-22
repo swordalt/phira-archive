@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-18T14:30:44Z",
-    "lastChanged": "2026-10-23T19:06:35Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:26Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-17T14:52:36.124485Z",
   "charter": "zyrf",
@@ -14,6 +14,7 @@
   "description": "B站：@布耶尔-zyrf\n谱面预览：BV1peJB6AEUF\n旧谱预览：BV18z42197WC\n重置了一下两年前的谱子，大致思路还是当年那套\n不知道说什么，我的谱力应该止步于此了，感觉越来越无力了",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/1028ee20-95d1-4fff-9200-cd4bfbd36514",
+  "hidden": false,
   "id": 81379,
   "illustration": "https://phira.5wyxi.com/files/d1724a92-987e-4353-b5e4-5bf3c3065a07",
   "illustrator": "Tiv",
@@ -21,8 +22,8 @@
   "name": "Last Dance",
   "preview": "https://phira.5wyxi.com/files/9d1cf039-071c-42e7-b04f-160e96bbbdeb",
   "ranked": false,
-  "rating": 0.9202201,
-  "ratingCount": 192,
+  "rating": 0.9188602,
+  "ratingCount": 417,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

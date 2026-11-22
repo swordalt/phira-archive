@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:39Z",
-    "lastChanged": "2026-09-21T02:02:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-01T02:47:47.528839Z",
   "charter": "小鱼仔娱乐",
@@ -14,6 +14,7 @@
   "description": "谱师：小鱼仔娱乐-本人上传",
   "difficulty": 13.000002,
   "file": "https://phira.5wyxi.com/files/7a23fbe4-fab4-4297-ab05-6c735d42d2fb",
+  "hidden": false,
   "id": 27256,
   "illustration": "https://phira.5wyxi.com/files/25062a3c-d967-4584-a1e9-781ad14b3d28",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "石星熠舞",
   "preview": "https://phira.5wyxi.com/files/63e64020-ba8f-46d3-aaef-521fb181dbd7",
   "ranked": false,
-  "rating": 0.9382782,
-  "ratingCount": 853,
+  "rating": 0.93730325,
+  "ratingCount": 878,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

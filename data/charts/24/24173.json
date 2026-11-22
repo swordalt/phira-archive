@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:55Z",
-    "lastChanged": "2026-09-21T02:05:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-23T13:54:31.802587Z",
   "charter": "Iblcya in the movie",
@@ -14,6 +14,7 @@
   "description": "LC2024#2 SF HB2",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/80081a8a-569a-48ee-82d0-66b65987ae8f",
+  "hidden": false,
   "id": 24173,
   "illustration": "https://phira.5wyxi.com/files/51cbe14d-eaa0-4c73-a7d1-6cf798965e9d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MV 5927",
   "preview": "https://phira.5wyxi.com/files/d8f50632-e74c-40c0-908a-4b74e8a25d56",
   "ranked": false,
-  "rating": 0.9208092,
-  "ratingCount": 52,
+  "rating": 0.92187107,
+  "ratingCount": 54,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

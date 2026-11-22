@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:17Z",
-    "lastChanged": "2026-09-21T02:01:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-05T02:11:40.658046Z",
   "charter": "KaJ",
@@ -14,6 +14,7 @@
   "description": "*谱师本人上传\nbilibili：@KaJ彡",
   "difficulty": 14.400001,
   "file": "https://phira.5wyxi.com/files/a6a431e2-0a56-48fe-afe2-6897daa646ee",
+  "hidden": false,
   "id": 4197,
   "illustration": "https://phira.5wyxi.com/files/93be5558-ae8a-43b9-a4e0-64fe8738b7f7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "QUEEN",
   "preview": "https://phira.5wyxi.com/files/0163c519-ac1d-432b-92ae-51941f87899d",
   "ranked": false,
-  "rating": 0.946886,
-  "ratingCount": 6584,
+  "rating": 0.9470343,
+  "ratingCount": 6672,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

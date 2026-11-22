@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:44Z",
-    "lastChanged": "2026-09-21T02:03:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-22T10:07:13.753809Z",
   "charter": "Last Charter",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 14.899997,
   "file": "https://phira.5wyxi.com/files/0ddfc29e-41e1-4caf-997d-b919a7c48421",
+  "hidden": false,
   "id": 45415,
   "illustration": "https://phira.5wyxi.com/files/711dbb48-a408-4312-9708-30b8dde847d6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lost Civilization",
   "preview": "https://phira.5wyxi.com/files/2d55fa0a-e2f0-4e4e-9750-0bbfd7f1dd88",
   "ranked": false,
-  "rating": 0.9180448,
-  "ratingCount": 172,
+  "rating": 0.9184146,
+  "ratingCount": 174,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

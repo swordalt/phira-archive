@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:10Z",
-    "lastChanged": "2026-09-21T02:04:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-29T10:54:38.522148Z",
   "charter": "SiENSY  绿色心情 （主要两位谱师）  奶浆（帮了一点点很小的忙）",
@@ -14,6 +14,7 @@
   "description": "曲名：靈（líng）\n曲绘：nanakaria\n定数：AT Lv.17 .5\n物量：2185\n---------------------\n谱师们想说的\n---------------------\nSiENSY：这个谱怎么这么蹭。动效怎么这么丑。\n绿豆：这个谱怎么这么多子弹。配置怎么这么猎奇。\n---------------------\n感谢@MiviQ的phira\n制谱器：malody",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/5f27b0a8-92b8-4d8e-8f54-b2b7e02b1a3e",
+  "hidden": false,
   "id": 50702,
   "illustration": "https://phira.5wyxi.com/files/c9876002-39eb-4386-a72c-0514abbc4e3b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "靈",
   "preview": "https://phira.5wyxi.com/files/154bbf07-5e05-431d-a97c-09e101be0c14",
   "ranked": false,
-  "rating": 0.92738914,
-  "ratingCount": 246,
+  "rating": 0.9273733,
+  "ratingCount": 261,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

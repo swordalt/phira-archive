@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:18Z",
-    "lastChanged": "2026-09-21T02:03:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-20T20:07:23.630824Z",
   "charter": "苏Tzu",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/9a9d4e4c-ce92-4798-a44b-cfe6d27f118f",
+  "hidden": false,
   "id": 38418,
   "illustration": "https://phira.5wyxi.com/files/de666a69-23b1-43e2-add3-438a25009435",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "El último baile",
   "preview": "https://phira.5wyxi.com/files/75e80c54-097d-448e-96b4-ef612cf3b727",
   "ranked": false,
-  "rating": 0.8499354,
-  "ratingCount": 329,
+  "rating": 0.85072184,
+  "ratingCount": 334,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

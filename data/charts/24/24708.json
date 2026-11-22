@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:27Z",
-    "lastChanged": "2026-09-21T02:02:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-30T03:31:56.664046Z",
   "charter": "SSC11",
@@ -14,6 +14,7 @@
   "description": "谱师b站ssc11",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/39c69983-1657-4bdb-a327-399e6108fac0",
+  "hidden": false,
   "id": 24708,
   "illustration": "https://phira.5wyxi.com/files/0e5c3d8d-17c5-490e-8fc7-24176a67e89e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Revenant",
   "preview": "https://phira.5wyxi.com/files/7ee263e6-5a4d-4165-ae13-c2faa6277f5c",
   "ranked": false,
-  "rating": 0.86036634,
-  "ratingCount": 129,
+  "rating": 0.8612371,
+  "ratingCount": 130,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

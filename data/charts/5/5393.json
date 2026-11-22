@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:20Z",
-    "lastChanged": "2026-09-21T02:01:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-15T12:05:44.215351Z",
   "charter": "JumP",
@@ -14,6 +14,7 @@
   "description": "嫌官谱怪，重写一个\n（这是第二版，做了部分改动）",
   "difficulty": 15.900001,
   "file": "https://phira.5wyxi.com/files/dcf9128c-1408-41f1-a44c-2a36926dfbb5",
+  "hidden": false,
   "id": 5393,
   "illustration": "https://phira.5wyxi.com/files/5990a490-e5e3-4fa7-99f7-8b0441fe5b9f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lyrith -迷宮リリス-",
   "preview": "https://phira.5wyxi.com/files/e0f93d87-d737-429c-96c4-858fd44eff75",
   "ranked": false,
-  "rating": 0.73326904,
-  "ratingCount": 769,
+  "rating": 0.7344625,
+  "ratingCount": 775,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

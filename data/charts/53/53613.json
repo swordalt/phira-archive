@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:26Z",
-    "lastChanged": "2026-09-21T02:04:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-28T13:07:01.469433Z",
   "charter": "Kyursure",
@@ -14,6 +14,7 @@
   "description": "本曲来源于PMR心态杯比赛\n\n曲名：First Step\n曲师：int_4096\n谱面设计：Kyursure\n难度：IN Lv.15\n定数：15.3\n物量：852\n\n谱师本人Kyursure上传",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/e7e9a43b-3c55-4516-8b84-0689a33758e1",
+  "hidden": false,
   "id": 53613,
   "illustration": "https://phira.5wyxi.com/files/ea7e7ef8-c81d-4a7c-bf12-c7b2db99a632",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "First Step",
   "preview": "https://phira.5wyxi.com/files/1e7d9707-9abd-4da2-9d5d-529ec5573e90",
   "ranked": false,
-  "rating": 0.9148784,
-  "ratingCount": 53,
+  "rating": 0.91635567,
+  "ratingCount": 54,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

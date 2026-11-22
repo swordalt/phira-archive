@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:38Z",
-    "lastChanged": "2026-09-21T02:06:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-11T14:35:27.042391Z",
   "charter": "AluminumBox and DASAPAN in the magical world",
@@ -14,6 +14,7 @@
   "description": "本张谱面是我的第一张谱面，与DASAPAN合作，感谢支持",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/07a348fe-b185-4f5c-be14-a149fedbf461",
+  "hidden": false,
   "id": 47954,
   "illustration": "https://phira.5wyxi.com/files/e8899d5f-688f-4292-8bf1-e7ae56a7a732",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "magical,very magical world",
   "preview": "https://phira.5wyxi.com/files/73d800c6-7cf9-4a1a-8700-5f69d551a49e",
   "ranked": false,
-  "rating": 0.8257282,
-  "ratingCount": 4,
+  "rating": 0.80577093,
+  "ratingCount": 5,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

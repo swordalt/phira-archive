@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-24T09:54:45Z",
-    "lastChanged": "2026-09-24T14:57:41Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:21Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-09-24T07:52:02.425221Z",
   "charter": "X=STAR",
@@ -14,6 +14,7 @@
   "description": "本人上传\nB站预览视频：\nBV138ev6uEGu",
   "difficulty": 13.3,
   "file": "https://phira.5wyxi.com/files/9344617b-2df7-4941-a4ca-2caf995aaead",
+  "hidden": false,
   "id": 78815,
   "illustration": "https://phira.5wyxi.com/files/1ad6ad6a-8902-4e3f-8718-c00e22b3c991",
   "illustrator": "kazo_",
@@ -21,8 +22,8 @@
   "name": "SOC=0",
   "preview": "https://phira.5wyxi.com/files/4cce07c1-673b-4042-ac48-debe86ed37d4",
   "ranked": false,
-  "rating": 0.9354224,
-  "ratingCount": 15,
+  "rating": 0.9334003,
+  "ratingCount": 276,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

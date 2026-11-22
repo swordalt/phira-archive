@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:38Z",
-    "lastChanged": "2026-09-21T02:01:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-25T11:16:54.591662Z",
   "charter": "YofU in This Daydream",
@@ -14,6 +14,7 @@
   "description": "原作者，劲爆拍砖",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/55dea497-5a6b-4fb9-aeb3-2e447668a627",
+  "hidden": false,
   "id": 10829,
   "illustration": "https://phira.5wyxi.com/files/947bac98-d5e1-40dc-a5e7-d835c8ec58cd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Daydream",
   "preview": "https://phira.5wyxi.com/files/48c35c34-f791-43cc-8782-317f7f7a2fe8",
   "ranked": false,
-  "rating": 0.86517996,
-  "ratingCount": 432,
+  "rating": 0.8663644,
+  "ratingCount": 439,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

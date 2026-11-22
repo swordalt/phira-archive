@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:26Z",
-    "lastChanged": "2026-09-21T02:04:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-28T22:41:23.825568Z",
   "charter": "Xelpenil & miao~",
@@ -14,6 +14,7 @@
   "description": "原谱师同意上传，自愿不留名，填写的是改谱的谱师，本人也修改了部分谱面\nXelpenil的B站：Xelpenil；UID：359434295\n本人的B站：Msy832；UID：1672490147",
   "difficulty": 14.000004,
   "file": "https://phira.5wyxi.com/files/1df1e9d8-cf9b-4662-a2a5-30cc989b2f41",
+  "hidden": false,
   "id": 53634,
   "illustration": "https://phira.5wyxi.com/files/d3ecf7bc-0a23-4804-922f-f426de2e7dc6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "诀别无尽夏",
   "preview": "https://phira.5wyxi.com/files/dc0cb93e-00bf-432a-bddb-6fa3339c9f17",
   "ranked": false,
-  "rating": 0.90446204,
-  "ratingCount": 1478,
+  "rating": 0.90326905,
+  "ratingCount": 1666,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

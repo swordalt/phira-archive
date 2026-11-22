@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:42Z",
-    "lastChanged": "2026-09-21T02:04:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-10T01:01:40.235222Z",
   "charter": "-3:67-",
@@ -14,6 +14,7 @@
   "description": "本人上传\n第二次写Phigros自制谱，已经会一些基础的制谱器功能了！\n希望以后能为大家产出更优秀的谱面！\n(o゜▽゜)o",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/e9fbe4f8-5045-41f1-a84c-a9172484b399",
+  "hidden": false,
   "id": 58080,
   "illustration": "https://phira.5wyxi.com/files/372fd456-bc92-4d07-aafb-0cedbeb56f77",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "夜咄ディセイブ",
   "preview": "https://phira.5wyxi.com/files/02dcb17d-b0ca-45a2-a5dc-8411e5bc25eb",
   "ranked": false,
-  "rating": 0.9299299,
-  "ratingCount": 259,
+  "rating": 0.9304647,
+  "ratingCount": 267,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

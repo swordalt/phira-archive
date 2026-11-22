@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:37Z",
-    "lastChanged": "2026-09-21T02:03:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-06T11:23:50.580339Z",
   "charter": "我的发型好看吗",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/3c828cf3-d611-4e9c-90f9-df2b0c1a34b4",
+  "hidden": false,
   "id": 43864,
   "illustration": "https://phira.5wyxi.com/files/c77fb962-37b1-4f99-ac89-78bc3993477c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "il ventod'oro",
   "preview": "https://phira.5wyxi.com/files/b9b09fdf-5c36-4a9c-8a88-b262bfe04972",
   "ranked": false,
-  "rating": 0.88170314,
-  "ratingCount": 1322,
+  "rating": 0.88112736,
+  "ratingCount": 1371,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

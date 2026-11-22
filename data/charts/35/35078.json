@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:07Z",
-    "lastChanged": "2026-09-21T02:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-09T16:03:19.457787Z",
   "charter": "dryTree",
@@ -14,6 +14,7 @@
   "description": "这里很空",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/27d66bbb-de88-4a15-8834-c289b645c5ee",
+  "hidden": false,
   "id": 35078,
   "illustration": "https://phira.5wyxi.com/files/eb19b55c-1a60-4957-8af9-58c036fb3153",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GOODRUSH",
   "preview": "https://phira.5wyxi.com/files/9353813b-7f88-4945-9d6e-69e0650f321f",
   "ranked": false,
-  "rating": 0.8708978,
-  "ratingCount": 215,
+  "rating": 0.87280345,
+  "ratingCount": 219,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

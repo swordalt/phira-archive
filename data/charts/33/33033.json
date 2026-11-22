@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:08Z",
-    "lastChanged": "2026-09-21T02:06:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-01T10:27:39.396403Z",
   "charter": "aowangID",
@@ -14,6 +14,7 @@
   "description": "最乱写的一集",
   "difficulty": 26.0,
   "file": "https://phira.5wyxi.com/files/43a7bf6e-5da9-4dc9-a6c8-786e3e14afa3",
+  "hidden": false,
   "id": 33033,
   "illustration": "https://phira.5wyxi.com/files/e08e390d-a3f5-49bd-b3e7-6851b8961d54",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Megamix 2",
   "preview": "https://phira.5wyxi.com/files/21c4236b-1e3b-48ee-8c80-8ffc8bf26e4f",
   "ranked": false,
-  "rating": 0.95124614,
-  "ratingCount": 139,
+  "rating": 0.9531848,
+  "ratingCount": 148,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

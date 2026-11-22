@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:36Z",
-    "lastChanged": "2026-09-21T02:01:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-04T09:15:03.158505Z",
   "charter": "Verm1T!",
@@ -14,6 +14,7 @@
   "description": "本人上传～(/≧▽≦/)",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/e5e19b51-4b20-4c10-a01a-44f87414a487",
+  "hidden": false,
   "id": 10125,
   "illustration": "https://phira.5wyxi.com/files/c21a29cb-efd1-45fd-bd8e-49d2be3d1a13",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "WaH!",
   "preview": "https://phira.5wyxi.com/files/4e854364-c5ca-4918-8a58-c157474cbf2d",
   "ranked": true,
-  "rating": 0.91679853,
-  "ratingCount": 2050,
+  "rating": 0.91670835,
+  "ratingCount": 2062,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:11Z",
-    "lastChanged": "2026-09-21T02:06:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-15T14:36:03.224328Z",
   "charter": "道士三零",
@@ -14,6 +14,7 @@
   "description": "谱师为本人\n谱面预览：BV1t5kPYME4G",
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/1055f38b-7d08-450a-a538-bf8bbff67947",
+  "hidden": false,
   "id": 35291,
   "illustration": "https://phira.5wyxi.com/files/743bc0ed-9a93-4d38-938c-8726c1914a49",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "天灵灵地灵灵",
   "preview": "https://phira.5wyxi.com/files/21f4be42-4844-4055-a342-ddd784482d99",
   "ranked": false,
-  "rating": 0.9356984,
-  "ratingCount": 111,
+  "rating": 0.9355458,
+  "ratingCount": 117,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

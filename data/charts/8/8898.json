@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:37Z",
-    "lastChanged": "2026-09-21T02:05:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-01T05:14:50.232795Z",
   "charter": ".梦逸",
@@ -14,6 +14,7 @@
   "description": "ADOFAI转谱\n谱师本人上传\nB站视频号BV1ip4y1j7LT",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/31137a94-5379-4754-ba99-4bcaeb47c7d9",
+  "hidden": false,
   "id": 8898,
   "illustration": "https://phira.5wyxi.com/files/66651e1d-5cf6-46e3-9a9f-d7f0eb4bd25b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sink Hole",
   "preview": "https://phira.5wyxi.com/files/b44f16b6-45ce-4f99-a074-930b236bb4c6",
   "ranked": false,
-  "rating": 0.9404111,
-  "ratingCount": 1405,
+  "rating": 0.94064957,
+  "ratingCount": 1419,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

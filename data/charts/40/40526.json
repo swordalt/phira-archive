@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:25Z",
-    "lastChanged": "2026-09-21T02:03:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-29T11:45:17.938527Z",
   "charter": "neowise2024",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/0b02475f-60cf-4145-8b1d-4b710d73b0b3",
+  "hidden": false,
   "id": 40526,
   "illustration": "https://phira.5wyxi.com/files/56662acb-b0e0-4754-881b-04922cc61cab",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Hello(BPM)2024",
   "preview": "https://phira.5wyxi.com/files/03aa8b50-a91c-4003-86bd-19b2b905f6e6",
   "ranked": false,
-  "rating": 0.8436553,
-  "ratingCount": 962,
+  "rating": 0.8443471,
+  "ratingCount": 987,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

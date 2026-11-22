@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:13Z",
-    "lastChanged": "2026-09-21T02:06:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-05T09:32:37.330634Z",
   "charter": "Andreu",
@@ -14,6 +14,7 @@
   "description": "由谱师本人上传",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/415c2adc-86d2-4774-a5de-16019484f012",
+  "hidden": false,
   "id": 37652,
   "illustration": "https://phira.5wyxi.com/files/3429414e-b6ff-41f1-9efb-b412b93c63e3",
   "illustrator": "",

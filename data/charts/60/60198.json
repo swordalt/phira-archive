@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:45Z",
-    "lastChanged": "2026-09-21T02:04:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-06T22:48:14.455283Z",
   "charter": "Bleeding Restart",
@@ -14,6 +14,7 @@
   "description": "Made with lazy love\nenjoy~\n\nhttps://youtu.be/g83EJ1tFeiA",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/05edbcc7-72a8-4e09-b53b-9a4110e5755e",
+  "hidden": false,
   "id": 60198,
   "illustration": "https://phira.5wyxi.com/files/3b04af78-33d3-4e84-9c7d-60b8ab3fdad8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Stop The Bleeding",
   "preview": "https://phira.5wyxi.com/files/426da1b1-b639-4839-aff7-afcdee92b6fb",
   "ranked": false,
-  "rating": 0.8799855,
-  "ratingCount": 68,
+  "rating": 0.87662417,
+  "ratingCount": 69,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:10Z",
-    "lastChanged": "2026-09-21T02:04:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-31T05:35:06.567364Z",
   "charter": "羽梦明 |「言而无信者的救赎」",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n和伪版有区别，并非重复上传",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/ed3afb01-2bfa-4e99-ac68-caf6c957b268",
+  "hidden": false,
   "id": 50735,
   "illustration": "https://phira.5wyxi.com/files/4a7fd554-f76d-43dd-a56b-bc4faf6eba95",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "八重回归 · 真",
   "preview": "https://phira.5wyxi.com/files/5e8a842e-6444-4423-9232-da9716e56405",
   "ranked": false,
-  "rating": 0.96358377,
-  "ratingCount": 517,
+  "rating": 0.96174043,
+  "ratingCount": 569,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

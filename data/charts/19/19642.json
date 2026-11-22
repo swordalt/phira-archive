@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:12Z",
-    "lastChanged": "2026-09-21T02:02:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-06T06:42:07.178078Z",
   "charter": "简AwA",
@@ -14,6 +14,7 @@
   "description": "N/A",
   "difficulty": 13.000001,
   "file": "https://phira.5wyxi.com/files/c23e392c-715e-4606-9376-38312cb2895f",
+  "hidden": false,
   "id": 19642,
   "illustration": "https://phira.5wyxi.com/files/9bc6aba6-6d01-4a94-b87a-93ff7f82c139",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Collapsing World",
   "preview": "https://phira.5wyxi.com/files/14b5c25e-86f0-4654-9701-c49f279975a9",
   "ranked": false,
-  "rating": 0.83223647,
-  "ratingCount": 694,
+  "rating": 0.83138525,
+  "ratingCount": 702,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:11Z",
-    "lastChanged": "2026-09-21T02:01:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-13T14:23:31.288732Z",
   "charter": "FinalStar",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/eddfc673-1179-4fef-bed8-df8ea09b95fa",
+  "hidden": false,
   "id": 1890,
   "illustration": "https://phira.5wyxi.com/files/a835821f-c737-42fd-9def-ca8cefe05ecb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "R.I.P.",
   "preview": "https://phira.5wyxi.com/files/c138b9e8-0db3-4fd3-bcc0-d2893912fb01",
   "ranked": false,
-  "rating": 0.92617655,
-  "ratingCount": 2727,
+  "rating": 0.926063,
+  "ratingCount": 2737,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

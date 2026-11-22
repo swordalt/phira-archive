@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:02Z",
-    "lastChanged": "2026-09-21T02:05:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-24T07:16:54.516232Z",
   "charter": "脱碳甲醛CH2O",
@@ -14,6 +14,7 @@
   "description": "这个谱面花了很长时间，希望大家喜欢，可以的话给个五星好评，谢谢！",
   "difficulty": 11.300002,
   "file": "https://phira.5wyxi.com/files/58007c54-d0b2-45a6-8e16-8ef490adbb43",
+  "hidden": false,
   "id": 68840,
   "illustration": "https://phira.5wyxi.com/files/4c5b7ffd-a4d5-452c-8f83-3cd54825f9fa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "晴天",
   "preview": "https://phira.5wyxi.com/files/2c829a58-d7e3-450e-90c4-f0ee8e07aa23",
   "ranked": false,
-  "rating": 0.9294915,
-  "ratingCount": 92171,
+  "rating": 0.9302054,
+  "ratingCount": 103982,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

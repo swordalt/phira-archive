@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:04Z",
-    "lastChanged": "2026-09-21T02:02:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-17T08:21:05.121855Z",
   "charter": "AFish_YU",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 11.0,
   "file": "https://phira.5wyxi.com/files/682ef826-4a24-47c1-b7eb-3ed6610fa849",
+  "hidden": false,
   "id": 17240,
   "illustration": "https://phira.5wyxi.com/files/94d3af8d-87ab-4f61-8153-cd407036a120",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "やっぱり天使なんていなかったね (feat. Aiobahn)",
   "preview": "https://phira.5wyxi.com/files/6a20308c-cbb7-453b-b64d-134e7ad40ac4",
   "ranked": false,
-  "rating": 0.9419781,
-  "ratingCount": 937,
+  "rating": 0.9417307,
+  "ratingCount": 945,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

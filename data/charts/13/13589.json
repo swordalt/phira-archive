@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:48Z",
-    "lastChanged": "2026-09-21T02:01:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-14T03:06:10.814273Z",
   "charter": "phigros柠檬",
@@ -14,6 +14,7 @@
   "description": "快手phigros柠檬制作",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/a0a6e5d2-bd6c-420c-b48f-8bb65591149a",
+  "hidden": false,
   "id": 13589,
   "illustration": "https://phira.5wyxi.com/files/864b0436-96f7-4be3-91c7-d1576201ad24",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "踏山河",
   "preview": "https://phira.5wyxi.com/files/bd0050d7-0a14-4da3-88a3-4fa06fe48f23",
   "ranked": false,
-  "rating": 0.9048345,
-  "ratingCount": 5738,
+  "rating": 0.90541536,
+  "ratingCount": 5955,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

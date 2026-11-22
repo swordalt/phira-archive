@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:42Z",
-    "lastChanged": "2026-09-21T02:04:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-17T07:16:30.437127Z",
   "charter": "36.2",
@@ -14,6 +14,7 @@
   "description": "表演简陋，配置应该没啥问题",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/5d400975-c441-4b8d-951a-48906e09eb36",
+  "hidden": false,
   "id": 58577,
   "illustration": "https://phira.5wyxi.com/files/f3a5c757-bd80-4428-8bd8-bd4d7b4036e8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "完美偶像 (Perfect Idol)",
   "preview": "https://phira.5wyxi.com/files/c07c95a7-5548-42c8-983e-48980b58bee5",
   "ranked": false,
-  "rating": 0.91217923,
-  "ratingCount": 142,
+  "rating": 0.9192637,
+  "ratingCount": 161,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:25Z",
-    "lastChanged": "2026-09-21T02:05:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-06T06:06:48.938253Z",
   "charter": "语人休",
@@ -14,6 +14,7 @@
   "description": "自己写着好玩的，b站同名",
   "difficulty": 11.600003,
   "file": "https://phira.5wyxi.com/files/b767d517-1d6b-4d60-9416-57fc993d7e39",
+  "hidden": false,
   "id": 22755,
   "illustration": "https://phira.5wyxi.com/files/688c0d81-9216-41bc-8fee-d4a91d6d97c6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ballin’",
   "preview": "https://phira.5wyxi.com/files/7173f125-dc1e-44f4-89f0-f527b469b5f4",
   "ranked": false,
-  "rating": 0.9415727,
-  "ratingCount": 4186,
+  "rating": 0.9418923,
+  "ratingCount": 4223,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

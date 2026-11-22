@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:16Z",
-    "lastChanged": "2026-09-21T02:02:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-09T04:24:24.439619Z",
   "charter": "WTLY' WISHING",
@@ -14,6 +14,7 @@
   "description": "谱师：wtcp （自己）& 凌雨（同意上传）",
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/66067b05-67db-4da9-b012-8ab46ba53ee0",
+  "hidden": false,
   "id": 21007,
   "illustration": "https://phira.5wyxi.com/files/e8cc3d99-0756-46dc-bc6b-5943a5390f81",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "アマツキツネ",
   "preview": "https://phira.5wyxi.com/files/0170accd-0551-4ebf-81a9-8db130ab0df8",
   "ranked": false,
-  "rating": 0.9429664,
-  "ratingCount": 330,
+  "rating": 0.94264203,
+  "ratingCount": 335,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

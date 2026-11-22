@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:27Z",
-    "lastChanged": "2026-09-21T02:02:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-12T01:37:07.985698Z",
   "charter": "White Phoenix",
@@ -14,6 +14,7 @@
   "description": "本人上传，\n写谱的起因是朋友觉得这首挺适合写，就写了\n二改，降低难度\nb站：凰_Infinity",
   "difficulty": 11.600001,
   "file": "https://phira.5wyxi.com/files/fa1a0008-942b-411e-a3dc-f4d09cae2598",
+  "hidden": false,
   "id": 24681,
   "illustration": "https://phira.5wyxi.com/files/1babb0d0-135c-4b3b-8d45-b9196eebf6ab",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Main Titles",
   "preview": "https://phira.5wyxi.com/files/3567f7fa-8071-400d-b699-1b3da8835462",
   "ranked": false,
-  "rating": 0.84840995,
-  "ratingCount": 1341,
+  "rating": 0.8493887,
+  "ratingCount": 1401,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

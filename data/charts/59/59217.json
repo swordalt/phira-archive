@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:44Z",
-    "lastChanged": "2026-09-21T02:04:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-26T16:46:37.086791Z",
   "charter": "THE FUTURE IS NOW!",
@@ -14,6 +14,7 @@
   "description": "初谱(其实是噗)，有些地方可能写的不太好抱歉\n朋友说我的特效像2022年那时候跑出来的",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/0489daf4-4ca6-4f48-a176-c4e3765db4a7",
+  "hidden": false,
   "id": 59217,
   "illustration": "https://phira.5wyxi.com/files/b21a21f8-f50a-4499-a4a0-d2895c7b47bd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ATYCHIPHOBIA",
   "preview": "https://phira.5wyxi.com/files/db9e08e2-aaeb-4d56-8f5f-cabb3e635f67",
   "ranked": false,
-  "rating": 0.88644785,
-  "ratingCount": 23,
+  "rating": 0.8852302,
+  "ratingCount": 25,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:55Z",
-    "lastChanged": "2026-09-21T02:03:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-07T07:55:17.100106Z",
   "charter": "QAQLMRG",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.900002,
   "file": "https://phira.5wyxi.com/files/9049cf2c-5eb2-422d-8d7a-13e4bc492f3b",
+  "hidden": false,
   "id": 47824,
   "illustration": "https://phira.5wyxi.com/files/ec8e7544-714a-4c37-84be-93bea2ab63d3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Domain.Fragmentation",
   "preview": "https://phira.5wyxi.com/files/9075884e-e0c7-479a-a6fd-b84286126589",
   "ranked": false,
-  "rating": 0.84412766,
-  "ratingCount": 19,
+  "rating": 0.84277695,
+  "ratingCount": 20,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

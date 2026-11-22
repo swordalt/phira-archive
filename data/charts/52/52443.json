@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:20Z",
-    "lastChanged": "2026-09-21T02:04:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-11T08:28:59.966075Z",
   "charter": "ajinyi~踩平唯空 feat. CenX",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/21d46b11-15ae-4b9e-96b5-073e287a35cc",
+  "hidden": false,
   "id": 52443,
   "illustration": "https://phira.5wyxi.com/files/2a0376f4-149e-42ef-af31-bd2b74cbc28e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Immaculate",
   "preview": "https://phira.5wyxi.com/files/2bcc5350-9644-48cc-a9db-5fb9d331753c",
   "ranked": false,
-  "rating": 0.93566614,
-  "ratingCount": 745,
+  "rating": 0.9360754,
+  "ratingCount": 771,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:55Z",
-    "lastChanged": "2026-09-21T02:01:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-08T16:20:36.894646Z",
   "charter": "YanY eaten by Next Rain,Zaxpris and Bianscuit",
@@ -14,6 +14,7 @@
   "description": "Puremoon 羽源杯 比赛用谱",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/07919a70-a3b0-4a4e-b272-adfe59e7f71c",
+  "hidden": false,
   "id": 15075,
   "illustration": "https://phira.5wyxi.com/files/ff47433e-1a7e-4105-a90a-54039a1f93b4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bl∞dmoon",
   "preview": "https://phira.5wyxi.com/files/c83bf14c-8d17-436d-a387-785c65545217",
   "ranked": false,
-  "rating": 0.95617425,
-  "ratingCount": 1600,
+  "rating": 0.95617366,
+  "ratingCount": 1635,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

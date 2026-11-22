@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:26Z",
-    "lastChanged": "2026-09-21T02:04:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-01T02:25:35.148544Z",
   "charter": "lelejie",
@@ -14,6 +14,7 @@
   "description": "曲名：（Abyss Traps） 作曲：Litchee 曲绘：Cheetah Mobile Games（RSP_污猫 modified） 谱面：lelejie 定数：15.0 物量：1225 制作时长：14小时",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/7292c87e-7f16-48b3-96b8-98b27a14f52b",
+  "hidden": false,
   "id": 53642,
   "illustration": "https://phira.5wyxi.com/files/250a822c-6bb8-4005-9b1c-aa69af757b94",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Abyss Traps",
   "preview": "https://phira.5wyxi.com/files/18a931e3-93d3-4252-be79-332c79bd2938",
   "ranked": false,
-  "rating": 0.8905498,
-  "ratingCount": 25,
+  "rating": 0.86836106,
+  "ratingCount": 29,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

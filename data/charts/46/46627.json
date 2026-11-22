@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:50Z",
-    "lastChanged": "2026-09-21T02:03:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-09T15:10:00.918845Z",
   "charter": "Rising 橘风",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/8edb7f04-bf10-4fc1-95e2-e9c099d576df",
+  "hidden": false,
   "id": 46627,
   "illustration": "https://phira.5wyxi.com/files/c2f4e6f4-35aa-4a00-9915-8e14609cb36b",
   "illustrator": "",

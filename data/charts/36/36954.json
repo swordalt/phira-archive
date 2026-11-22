@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:14Z",
-    "lastChanged": "2026-09-21T02:03:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-25T13:57:15.824534Z",
   "charter": "Karmic of the “K”",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nBV1QxLJzcECG",
   "difficulty": 17.2,
   "file": "https://phira.5wyxi.com/files/78e3b40d-0284-403a-9e23-5feb43d22c59",
+  "hidden": false,
   "id": 36954,
   "illustration": "https://phira.5wyxi.com/files/43ce6226-a332-44ca-9fd7-55a3b2ff92ef",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Vengeance of the “V”",
   "preview": "https://phira.5wyxi.com/files/fcdc9e52-6006-406e-8217-72b211fe9b5c",
   "ranked": false,
-  "rating": 0.8642502,
-  "ratingCount": 363,
+  "rating": 0.866083,
+  "ratingCount": 364,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:42Z",
-    "lastChanged": "2026-09-21T02:04:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-17T06:37:28.923660Z",
   "charter": "August *_*",
@@ -14,6 +14,7 @@
   "description": "谱师本人制作",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/6d5fc796-d66f-4d74-8370-1a41ed998538",
+  "hidden": false,
   "id": 58570,
   "illustration": "https://phira.5wyxi.com/files/10609d52-7dd1-4335-b23d-7ce8c99d3c92",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "startail",
   "preview": "https://phira.5wyxi.com/files/f89cfd78-a9f5-485b-b5a3-5d14aec73675",
   "ranked": false,
-  "rating": 0.8847332,
-  "ratingCount": 36,
+  "rating": 0.8962429,
+  "ratingCount": 42,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

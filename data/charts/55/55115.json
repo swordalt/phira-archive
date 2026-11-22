@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:34Z",
-    "lastChanged": "2026-09-21T02:04:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-05T14:42:01.565574Z",
   "charter": "moyu-huajiao",
@@ -14,6 +14,7 @@
   "description": "如此轻视生命的我们，理所应当地被生命所厌恶。",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/4438d8cd-158f-4799-923c-0dd9d73226a4",
+  "hidden": false,
   "id": 55115,
   "illustration": "https://phira.5wyxi.com/files/ed2ad54a-cc79-40b8-94c8-014c37c4e17d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "命に嫌われている。",
   "preview": "https://phira.5wyxi.com/files/86ebe545-2d24-427f-8f23-a653e4491fde",
   "ranked": false,
-  "rating": 0.93803126,
-  "ratingCount": 943,
+  "rating": 0.9399013,
+  "ratingCount": 1046,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

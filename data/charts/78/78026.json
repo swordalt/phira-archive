@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:17Z",
-    "lastChanged": "2026-09-21T02:05:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-13T07:44:01.835260Z",
   "charter": "迷失の人 -㶜佀-",
@@ -14,6 +14,7 @@
   "description": "B站视频链接BV1wiYa6yEAg\n谱面由主投本人上传\n@小渊-yuan-#940916 (合作谱师，本谱动效主笔)",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/4cd0919f-1409-4146-ab65-4d30bf5bf1f8",
+  "hidden": false,
   "id": 78026,
   "illustration": "https://phira.5wyxi.com/files/0e2b85a4-25d2-413c-8084-6fe3616990a9",
   "illustrator": "",
@@ -21,11 +22,11 @@
   "name": "彁 (Ka)",
   "preview": "https://phira.5wyxi.com/files/83ab396c-5d5b-4498-897d-403765530e37",
   "ranked": false,
-  "rating": 0.913119,
-  "ratingCount": 211,
-  "reviewed": false,
+  "rating": 0.9242276,
+  "ratingCount": 375,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

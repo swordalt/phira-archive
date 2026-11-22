@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:40Z",
-    "lastChanged": "2026-09-21T02:01:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-03T18:19:44.693104Z",
   "charter": "飞飞-Azure-",
@@ -14,6 +14,7 @@
   "description": "谱师：-飞飞XL-\n本家：CHUNITHM",
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/a0fb92d2-d882-45da-a320-29365997f8f6",
+  "hidden": false,
   "id": 11115,
   "illustration": "https://phira.5wyxi.com/files/d487a47e-c395-455a-b765-a6272bddb3a3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Λzure Vixen",
   "preview": "https://phira.5wyxi.com/files/5b4feffb-c661-4b9f-99af-c5d1e9335818",
   "ranked": true,
-  "rating": 0.9415752,
-  "ratingCount": 6330,
+  "rating": 0.9419208,
+  "ratingCount": 6431,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

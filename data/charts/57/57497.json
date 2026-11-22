@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:50Z",
-    "lastChanged": "2026-09-21T02:06:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-01T14:21:49.139714Z",
   "charter": "L.C. Xtra",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 18.2,
   "file": "https://phira.5wyxi.com/files/73350eff-0c18-4b0f-ad07-1247a2f30c3a",
+  "hidden": false,
   "id": 57497,
   "illustration": "https://phira.5wyxi.com/files/5e3cc718-9b96-4f05-aa3e-23400b15ebee",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "NeruNeru-Chan travels to the Luminous Stars!",
   "preview": "https://phira.5wyxi.com/files/9a625def-3bf6-4db9-8044-cda2258051cf",
   "ranked": false,
-  "rating": 0.9431361,
-  "ratingCount": 50,
+  "rating": 0.94706875,
+  "ratingCount": 54,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

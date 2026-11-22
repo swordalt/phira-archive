@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:38Z",
-    "lastChanged": "2026-09-21T02:05:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-09T06:06:02.438723Z",
   "charter": "lQHl",
@@ -14,6 +14,7 @@
   "description": "本人上传，写的一坨答辩",
   "difficulty": 14.400001,
   "file": "https://phira.5wyxi.com/files/6c34fb7b-dfb8-4675-9c4f-b2e29005ba11",
+  "hidden": false,
   "id": 11278,
   "illustration": "https://phira.5wyxi.com/files/aa1e9541-227d-4e4a-b785-ad52f61bd78c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "爱情买卖",
   "preview": "https://phira.5wyxi.com/files/81c5a4e6-14a1-4d62-b876-6fd4ee9ef4e7",
   "ranked": false,
-  "rating": 0.83953154,
-  "ratingCount": 289,
+  "rating": 0.84008855,
+  "ratingCount": 290,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

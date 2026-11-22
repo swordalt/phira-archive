@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:59Z",
-    "lastChanged": "2026-09-21T02:05:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-25T06:34:23.755102Z",
   "charter": "Pure-Mare",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/788fdc03-8e4b-406e-8566-808fa7b70e6f",
+  "hidden": false,
   "id": 26875,
   "illustration": "https://phira.5wyxi.com/files/96630291-25de-4583-aab6-17968eaa73fe",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bye",
   "preview": "https://phira.5wyxi.com/files/e079e353-4883-453f-aee7-87059c2884a3",
   "ranked": false,
-  "rating": 0.91439897,
-  "ratingCount": 120,
+  "rating": 0.91644883,
+  "ratingCount": 123,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

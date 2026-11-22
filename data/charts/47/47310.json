@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:54Z",
-    "lastChanged": "2026-09-21T02:03:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-28T15:41:48.223524Z",
   "charter": "syriyour",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/f1ef534a-a70d-41a7-a8b6-f08bf199cf93",
+  "hidden": false,
   "id": 47310,
   "illustration": "https://phira.5wyxi.com/files/5430f57b-e8ca-403d-af98-f811ee98f0e8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fission",
   "preview": "https://phira.5wyxi.com/files/c65a9496-3964-47ab-8f9e-602b24478480",
   "ranked": false,
-  "rating": 0.8976226,
-  "ratingCount": 40,
+  "rating": 0.8977198,
+  "ratingCount": 41,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

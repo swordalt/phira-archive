@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:45Z",
-    "lastChanged": "2026-09-21T02:01:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-09T03:13:30.520723Z",
   "charter": "羽梦明",
@@ -14,6 +14,7 @@
   "description": "2024.8.9更新：修改部分特效与排键",
   "difficulty": 14.200001,
   "file": "https://phira.5wyxi.com/files/f775680f-81ba-40db-a22f-ae3dcf954e12",
+  "hidden": false,
   "id": 12681,
   "illustration": "https://phira.5wyxi.com/files/8f9d014c-63e3-4a4f-81cd-ad2eec5fcd97",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "微观戏剧",
   "preview": "https://phira.5wyxi.com/files/53ed13cc-6b28-4b5d-a93a-cb0c56b7d592",
   "ranked": false,
-  "rating": 0.9511338,
-  "ratingCount": 818,
+  "rating": 0.9515767,
+  "ratingCount": 839,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

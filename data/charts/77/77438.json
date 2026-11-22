@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:15Z",
-    "lastChanged": "2026-09-21T02:05:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-07T07:54:20.563560Z",
   "charter": "你的舞池伴侣",
@@ -14,6 +14,7 @@
   "description": "6thWJC参赛谱面\n非会场版，有较大改动\n谱面预览：BV18QbA6KEEN",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/6e54cf35-c5ee-41da-9daf-a683f6137f00",
+  "hidden": false,
   "id": 77438,
   "illustration": "https://phira.5wyxi.com/files/1c59a8a7-40d3-48e8-a9ef-bcddb38438e8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "嗨你不是问题",
   "preview": "https://phira.5wyxi.com/files/fa65e5fd-3c96-4e0b-8457-9606219aeb19",
   "ranked": false,
-  "rating": 0.8556071,
-  "ratingCount": 48,
+  "rating": 0.8712425,
+  "ratingCount": 73,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

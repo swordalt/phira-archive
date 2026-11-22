@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:37Z",
-    "lastChanged": "2026-09-21T02:05:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-01T09:35:25.008978Z",
   "charter": "rain",
@@ -14,6 +14,7 @@
   "description": "acc≥98.5过段位\n选曲:sendan Life The last page 无限天堂 天堂陨落\n谱面均为本人所创 感谢ctrl和adam的合谱",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/abca1554-ad1a-4a75-bfe6-b019f7f40e9a",
+  "hidden": false,
   "id": 9960,
   "illustration": "https://phira.5wyxi.com/files/ce978866-2254-4442-99f4-9d389ebd8541",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "落 7Dan!",
   "preview": "https://phira.5wyxi.com/files/65f7a5fa-bf2e-4a17-a6ee-1afb72a5cdf7",
   "ranked": false,
-  "rating": 0.89198166,
-  "ratingCount": 251,
+  "rating": 0.89206266,
+  "ratingCount": 253,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

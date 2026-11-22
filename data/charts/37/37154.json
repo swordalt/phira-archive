@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:07Z",
-    "lastChanged": "2026-09-21T02:07:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-01T03:00:51.414164Z",
   "charter": "辰灵月XP",
@@ -14,6 +14,7 @@
   "description": "更改了多次的谱，终版了，祝各位玩的开心(∩_∩)",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/fc66c08f-7ed1-446e-bf2a-0b3945ec809e",
+  "hidden": false,
   "id": 37154,
   "illustration": "https://phira.5wyxi.com/files/02c44f0c-16aa-4b60-9d71-cb525843b527",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Plague Witch's final(魔女终欢）",
   "preview": "https://phira.5wyxi.com/files/321cbc72-db9c-4183-aeff-afc30760da31",
   "ranked": false,
-  "rating": 0.84112275,
-  "ratingCount": 73,
+  "rating": 0.84251404,
+  "ratingCount": 76,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

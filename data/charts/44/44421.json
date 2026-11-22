@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:39Z",
-    "lastChanged": "2026-09-21T02:03:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-12T09:13:29.105376Z",
   "charter": "我的发型好看吗",
@@ -14,6 +14,7 @@
   "description": "b 站同名有演示视频",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/b9c041c7-d938-40fc-b931-3920aa716bf6",
+  "hidden": false,
   "id": 44421,
   "illustration": "https://phira.5wyxi.com/files/0091315c-40e4-4855-8a2f-99895e677f2a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Crucified",
   "preview": "https://phira.5wyxi.com/files/a025dd1e-69b7-441b-b485-cbe34b0c81dc",
   "ranked": false,
-  "rating": 0.9113365,
-  "ratingCount": 2227,
+  "rating": 0.9109797,
+  "ratingCount": 2303,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

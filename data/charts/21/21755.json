@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:50Z",
-    "lastChanged": "2026-09-21T02:05:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-23T04:18:39.955550Z",
   "charter": "WinterPT",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/d1757328-b1f3-4efa-b7b5-c180b85a94af",
+  "hidden": false,
   "id": 21755,
   "illustration": "https://phira.5wyxi.com/files/6f822dd7-078f-4e81-9996-ce75bc88f590",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "回レ! 雪月花",
   "preview": "https://phira.5wyxi.com/files/ea236553-6ff7-4826-93c5-83bdbd7ee64f",
   "ranked": false,
-  "rating": 0.9652563,
-  "ratingCount": 2286,
+  "rating": 0.96481675,
+  "ratingCount": 2380,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

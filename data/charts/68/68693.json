@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:02Z",
-    "lastChanged": "2026-10-18T09:08:53Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:58:48Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-07-23T13:15:03.997667Z",
   "charter": "littlegk-w-kgelttil",
@@ -14,6 +14,7 @@
   "description": "曲目信息\n\n曲名: MARENOIA\n曲师: LeaF\n原BGA: Optie & Fiz\n曲绘: 自己画的( \n谱师: littlegk\n\n谱面參考: 暂未登场",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/d760b862-ec75-48a7-a57d-db5c57e834c5",
+  "hidden": false,
   "id": 68693,
   "illustration": "https://phira.5wyxi.com/files/6edd6dbe-f981-4fc2-a223-341686d9e688",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MARENOIA",
   "preview": "https://phira.5wyxi.com/files/eb6d5104-599b-4190-9e94-92f4c54860a4",
   "ranked": false,
-  "rating": 0.9059317,
-  "ratingCount": 1691,
+  "rating": 0.905979,
+  "ratingCount": 1717,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

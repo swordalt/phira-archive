@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:02Z",
-    "lastChanged": "2026-09-21T02:04:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-09T03:08:14.845555Z",
   "charter": "YSummer=H12345=缘始壬",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/fe82a2d6-d31c-4bc4-aab7-53d36b040d4e",
+  "hidden": false,
   "id": 48906,
   "illustration": "https://phira.5wyxi.com/files/d1e3eda9-4437-4068-b39c-53d17208a359",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Remember Our Summer",
   "preview": "https://phira.5wyxi.com/files/8693e6ad-50e7-4479-8cd7-8be75317ea80",
   "ranked": false,
-  "rating": 0.85947555,
-  "ratingCount": 69,
+  "rating": 0.85180074,
+  "ratingCount": 75,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

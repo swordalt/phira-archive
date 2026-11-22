@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:47Z",
-    "lastChanged": "2026-09-21T02:02:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-16T19:00:05.785213Z",
   "charter": "BAxoF_",
@@ -14,6 +14,7 @@
   "description": "B站@狐AB不是弧AB\n\n尝试了一些新思路\n比较创 建议去B站看看谱面预览或者开auto研究研究\n\n（另外drop的shader在移动端有bug，表现为画面位移）\n上条问题已解决 我不知道水机的着色器适配了屁拉（\n\n谢谢大家喜欢！",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/d408f0b0-2c93-4813-804f-8be59be2908a",
+  "hidden": false,
   "id": 29782,
   "illustration": "https://phira.5wyxi.com/files/f29d3755-378c-47dc-aeac-8e6bbe1ea6ee",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "甜甜饕餮糖糖",
   "preview": "https://phira.5wyxi.com/files/3533ca89-1209-4de5-9d91-22a1603ce8ab",
   "ranked": false,
-  "rating": 0.87703806,
-  "ratingCount": 4047,
+  "rating": 0.874817,
+  "ratingCount": 4321,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

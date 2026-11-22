@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:30Z",
-    "lastChanged": "2026-09-21T02:06:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-19T14:09:20.523508Z",
   "charter": "Lyyrith-寄",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/874906dc-8093-47b4-81aa-280b54744592",
+  "hidden": false,
   "id": 45175,
   "illustration": "https://phira.5wyxi.com/files/c5d2e410-dee0-4255-983f-6e899fb12428",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "Period",
   "preview": "https://phira.5wyxi.com/files/94542c94-296d-4f35-80a0-ce668bf11e21",
   "ranked": false,
-  "rating": 0.9170841,
+  "rating": 0.91915256,
   "ratingCount": 35,
   "reviewed": true,
   "stable": false,

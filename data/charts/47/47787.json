@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:55Z",
-    "lastChanged": "2026-09-21T02:03:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-06T16:42:14.749687Z",
   "charter": "我是小赵",
@@ -14,6 +14,7 @@
   "description": "爆爆爆",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/c4ad0e2d-1725-46ef-98bb-e50693edc15b",
+  "hidden": false,
   "id": 47787,
   "illustration": "https://phira.5wyxi.com/files/787981c0-83fa-4ccf-9759-f604ffd7f5b4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "我是初音未来（ZClear Remix）",
   "preview": "https://phira.5wyxi.com/files/2a70a6f1-5d5a-4864-838d-252747adb748",
   "ranked": false,
-  "rating": 0.89697844,
-  "ratingCount": 3586,
+  "rating": 0.89514416,
+  "ratingCount": 3881,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

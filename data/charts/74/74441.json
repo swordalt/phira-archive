@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:10Z",
-    "lastChanged": "2026-09-21T02:05:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-19T13:25:46.723148Z",
   "charter": "?!GG!?",
@@ -14,6 +14,7 @@
   "description": "2020.8.19～2026.8.19。写谱六周年纪念谱，诶不知不觉又过一年，六年来写的可玩谱只有十张左右",
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/e31472b8-c9aa-42fe-ab7e-3185ffcc9be7",
+  "hidden": false,
   "id": 74441,
   "illustration": "https://phira.5wyxi.com/files/e35b7cb2-04e6-4c20-a3b9-20d54d1f6791",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "!nterroban(?,(2025 Remaster)",
   "preview": "https://phira.5wyxi.com/files/2db36e7e-15fa-477c-ae13-5e4c49e18bbd",
   "ranked": false,
-  "rating": 0.82752025,
-  "ratingCount": 72,
+  "rating": 0.83474106,
+  "ratingCount": 81,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

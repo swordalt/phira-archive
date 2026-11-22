@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:07Z",
-    "lastChanged": "2026-09-21T02:07:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-03T19:20:14.774646Z",
   "charter": "camellia",
@@ -14,6 +14,7 @@
   "description": "一张粪谱",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/49e097b5-13fe-42ba-ae7d-c7bcdc96783a",
+  "hidden": false,
   "id": 37421,
   "illustration": "https://phira.5wyxi.com/files/6541f00b-53d1-4f4d-9fe4-c0f9f84093eb",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "HEllO BPM 2025",
   "preview": "https://phira.5wyxi.com/files/4e205a97-068d-46a4-be10-77edcf29bede",
   "ranked": false,
-  "rating": 0.8131811,
+  "rating": 0.8151309,
   "ratingCount": 93,
   "reviewed": true,
   "stable": false,

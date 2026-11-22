@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:16Z",
-    "lastChanged": "2026-10-11T11:05:30Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:17Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-09-11T10:25:03.572349Z",
   "charter": "HavaYouSeenRoger",
@@ -14,6 +14,7 @@
   "description": "6thWJC G4 No.19\nB站同名，感谢游玩",
   "difficulty": 14.400001,
   "file": "https://phira.5wyxi.com/files/eea10074-dbce-447f-a625-eb4fcf55e6d8",
+  "hidden": false,
   "id": 77728,
   "illustration": "https://phira.5wyxi.com/files/50224e9d-9a81-40c9-ab7a-e1a5278d6913",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Scars of FAUNA",
   "preview": "https://phira.5wyxi.com/files/5e6d7638-ab13-47df-91b5-e8218b89d5b5",
   "ranked": true,
-  "rating": 0.8962312,
-  "ratingCount": 439,
+  "rating": 0.8940436,
+  "ratingCount": 1092,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

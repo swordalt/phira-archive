@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:24Z",
-    "lastChanged": "2026-09-21T02:04:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-26T03:25:08.506867Z",
   "charter": "Kvvvv_",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.299993,
   "file": "https://phira.5wyxi.com/files/bea43783-1953-44f0-878e-d3d5d6983963",
+  "hidden": false,
   "id": 53428,
   "illustration": "https://phira.5wyxi.com/files/7a4b85b8-4024-4a2d-ad99-b7c701c8291f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Zoltraak",
   "preview": "https://phira.5wyxi.com/files/ba23b26e-ba39-48f5-9fb1-b9f8261c1796",
   "ranked": false,
-  "rating": 0.86319494,
-  "ratingCount": 306,
+  "rating": 0.8676122,
+  "ratingCount": 323,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:40Z",
-    "lastChanged": "2026-09-21T02:03:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-13T06:28:10.316982Z",
   "charter": "Megetsu Wakaizumi",
@@ -14,6 +14,7 @@
   "description": "欢迎游玩冰膜系列谱面，作者首次公开上传，日后我们会更完善AWA。",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/a236a183-188b-4eb9-930f-90e8a16a4fbd",
+  "hidden": false,
   "id": 44548,
   "illustration": "https://phira.5wyxi.com/files/33688301-ab23-4865-b540-d51380c890d8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Magical Girl Pretty Miyuki!!",
   "preview": "https://phira.5wyxi.com/files/811e04ed-0f45-4dbb-bb04-4d340e2bdb9e",
   "ranked": false,
-  "rating": 0.73295355,
-  "ratingCount": 30,
+  "rating": 0.73946995,
+  "ratingCount": 31,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:23Z",
-    "lastChanged": "2026-09-21T02:02:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-18T09:26:18.968813Z",
   "charter": "速核酱",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/09091ca7-f400-451d-8884-5530cdcb7a48",
+  "hidden": false,
   "id": 23732,
   "illustration": "https://phira.5wyxi.com/files/8281a313-929b-4cd4-9a80-be17a4b28658",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ラビットホール",
   "preview": "https://phira.5wyxi.com/files/09222047-4be3-4a8d-b0ca-e954b8c0396b",
   "ranked": false,
-  "rating": 0.8803159,
-  "ratingCount": 1044,
+  "rating": 0.8806701,
+  "ratingCount": 1055,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

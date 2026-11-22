@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:29Z",
-    "lastChanged": "2026-09-21T02:02:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-03T12:38:27.599850Z",
   "charter": "Star_ovo",
@@ -14,6 +14,7 @@
   "description": "b站：草莓蛋糕ovo_",
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/912b4f6f-c44d-4d55-ac64-bff8ffc8a296",
+  "hidden": false,
   "id": 25166,
   "illustration": "https://phira.5wyxi.com/files/a7431c2a-f07a-4f01-9d0a-e368ae699abe",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "绝命舞曲",
   "preview": "https://phira.5wyxi.com/files/d70844d7-85b0-4d6c-ba2f-94f0b9d5289d",
   "ranked": false,
-  "rating": 0.9099034,
-  "ratingCount": 406,
+  "rating": 0.9102235,
+  "ratingCount": 416,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:27Z",
-    "lastChanged": "2026-09-21T02:06:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-01T10:48:05.842996Z",
   "charter": "DrXs",
@@ -14,6 +14,7 @@
   "description": "转谱本人上传，原谱师：AWC Chart Team \"PLORALD & _OrangeFJ\"",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/f160c788-28a5-4ad6-b513-0e078d01253c",
+  "hidden": false,
   "id": 43369,
   "illustration": "https://phira.5wyxi.com/files/7b5f283e-e633-416a-9150-7caed6d45c51",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "锦织",
   "preview": "https://phira.5wyxi.com/files/188af416-d918-4d25-ad8d-7163634534f5",
   "ranked": false,
-  "rating": 0.9334642,
-  "ratingCount": 74,
+  "rating": 0.93431175,
+  "ratingCount": 75,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

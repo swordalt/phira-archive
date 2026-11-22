@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:10Z",
-    "lastChanged": "2026-09-21T02:02:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-28T09:10:43.631779Z",
   "charter": "羽梦明 |「苏醒者与始作俑者的絮语」",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nB站谱面预览见BV1dx4y1z7yg",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/a6971177-89a7-4c1c-a6b7-8c0b94e5b241",
+  "hidden": false,
   "id": 19002,
   "illustration": "https://phira.5wyxi.com/files/abcea5e1-71d8-4721-b907-94c4347dd3b6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "五重空洞",
   "preview": "https://phira.5wyxi.com/files/fb98c295-60f5-4bd1-bc6d-6c8177750bd1",
   "ranked": false,
-  "rating": 0.9537413,
-  "ratingCount": 1622,
+  "rating": 0.953662,
+  "ratingCount": 1671,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

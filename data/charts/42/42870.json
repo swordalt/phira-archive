@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:32Z",
-    "lastChanged": "2026-09-21T02:03:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-27T12:46:35.542123Z",
   "charter": "Super Sugary Snowpea 2.0",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nB站同名支持一下谢谢嗷呜",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/c4c06f3a-487f-4adf-83be-1f99f74f4b86",
+  "hidden": false,
   "id": 42870,
   "illustration": "https://phira.5wyxi.com/files/ce7e27c6-f9ab-441b-b2ae-3d5dcc66eb02",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Super Fructose 2.0",
   "preview": "https://phira.5wyxi.com/files/4d031314-9e46-401d-b905-f413e8e7f2ca",
   "ranked": false,
-  "rating": 0.95236903,
-  "ratingCount": 376,
+  "rating": 0.9534512,
+  "ratingCount": 388,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

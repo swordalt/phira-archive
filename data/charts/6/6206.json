@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:36Z",
-    "lastChanged": "2026-09-21T02:05:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-27T11:27:50.634042Z",
   "charter": "TempestCMR",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/ccc47b59-2b12-472a-827d-b39e75879292",
+  "hidden": false,
   "id": 6206,
   "illustration": "https://phira.5wyxi.com/files/5f9cc9b2-b258-4468-962c-6c43a7b24c05",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sentimental Surge",
   "preview": "https://phira.5wyxi.com/files/87221b59-77cd-4274-9540-62c319559378",
   "ranked": false,
-  "rating": 0.92999136,
-  "ratingCount": 225,
+  "rating": 0.92705435,
+  "ratingCount": 227,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

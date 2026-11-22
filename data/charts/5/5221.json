@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:20Z",
-    "lastChanged": "2026-09-21T02:01:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-13T07:41:55.555989Z",
   "charter": "KaJ",
@@ -14,6 +14,7 @@
   "description": "*谱师本人上传\nbilibili：@KaJ彡\n无偿约稿通道开放，详见视频简介",
   "difficulty": 13.5,
   "file": "https://phira.5wyxi.com/files/4a661b04-a165-41b5-a5dc-8d5f050aaef1",
+  "hidden": false,
   "id": 5221,
   "illustration": "https://phira.5wyxi.com/files/45493c8d-dcd0-4ea3-890b-3dd5c4b660f2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "廻廻奇谭",
   "preview": "https://phira.5wyxi.com/files/4f659bc0-75d4-4a31-8388-4727220c54e3",
   "ranked": false,
-  "rating": 0.9444914,
-  "ratingCount": 10467,
+  "rating": 0.94446206,
+  "ratingCount": 10636,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

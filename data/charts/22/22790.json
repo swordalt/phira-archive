@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:21Z",
-    "lastChanged": "2026-09-21T02:02:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-06T14:22:58.176886Z",
   "charter": "微笑的橙子一",
@@ -14,6 +14,7 @@
   "description": "新人第一次写，本人上传，B站视频BV1GZageoEaw",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/942630b6-15ca-4d02-8de5-c155e4ca5f56",
+  "hidden": false,
   "id": 22790,
   "illustration": "https://phira.5wyxi.com/files/53d825e7-8eb6-4e6c-8cde-93edad48ee30",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Euphoria (feat. Tsugumi Nagahara)",
   "preview": "https://phira.5wyxi.com/files/a803505c-a6cf-4166-9927-89ad0f69354a",
   "ranked": false,
-  "rating": 0.93859893,
-  "ratingCount": 769,
+  "rating": 0.93813354,
+  "ratingCount": 779,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

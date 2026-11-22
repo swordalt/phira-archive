@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:58Z",
-    "lastChanged": "2026-09-21T02:05:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-12T05:24:32.872Z",
   "charter": "adofai2pec_macro_by_Lipcu",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 4.0,
   "file": "https://phira.5wyxi.com/files/7640f4d1-25c9-4f03-ad2d-487cee64c1ac",
+  "hidden": false,
   "id": 26049,
   "illustration": "https://phira.5wyxi.com/files/23698add-f41d-4a95-a3cc-fa87ac7de869",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sink to the Deep Sea World",
   "preview": "https://phira.5wyxi.com/files/992a1924-d105-4613-af6d-c812604d4bf0",
   "ranked": false,
-  "rating": 0.88162065,
-  "ratingCount": 22,
+  "rating": 0.8859387,
+  "ratingCount": 23,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

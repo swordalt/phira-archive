@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:04Z",
-    "lastChanged": "2026-09-21T02:02:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-20T04:10:40.042732Z",
   "charter": "Sylveon 雄からの挑戦状",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.6,
   "file": "https://phira.5wyxi.com/files/163a5856-ad99-4e4e-a15c-719b17691978",
+  "hidden": false,
   "id": 17308,
   "illustration": "https://phira.5wyxi.com/files/89a1ba68-6ec1-479d-b092-347a519f033a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "混沌を越えし我らが神聖なる調律主を讃えよ",
   "preview": "https://phira.5wyxi.com/files/a21057dd-deda-413d-a1c0-86dd1b314f6c",
   "ranked": false,
-  "rating": 0.8851026,
-  "ratingCount": 906,
+  "rating": 0.88499796,
+  "ratingCount": 918,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

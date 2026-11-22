@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:59Z",
-    "lastChanged": "2026-09-21T02:04:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-16T14:00:19.905204Z",
   "charter": "Nostalgic dream",
@@ -14,6 +14,7 @@
   "description": "Charter:Fevm1r /  本人上传",
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/ff3ec9d7-b207-4b16-9703-c3540b8a99a4",
+  "hidden": false,
   "id": 67020,
   "illustration": "https://phira.5wyxi.com/files/6a494118-eaa7-42e1-9dbb-bf1ef5c5c56f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Looping the Rooms (Remix)",
   "preview": "https://phira.5wyxi.com/files/4497d664-7555-43bb-9b12-4d2d9fef3e42",
   "ranked": false,
-  "rating": 0.9393775,
-  "ratingCount": 796,
+  "rating": 0.9401385,
+  "ratingCount": 1001,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

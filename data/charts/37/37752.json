@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:16Z",
-    "lastChanged": "2026-09-21T02:03:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-07T04:12:22.648007Z",
   "charter": "-Kanegawa- are own hero！",
@@ -14,6 +14,7 @@
   "description": "本自制谱内的字幕弹幕均是名言名句(包含其他游戏的英雄语录)以及诗句，内容有何不适宜的句段请审核说明",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/9715c61a-4353-4e51-9c10-ba543e6eab95",
+  "hidden": false,
   "id": 37752,
   "illustration": "https://phira.5wyxi.com/files/4bc3a118-63d9-4158-a37e-a5f700ffa697",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "英雄主义",
   "preview": "https://phira.5wyxi.com/files/8a97c5b5-f0ca-4b2b-a002-912fb3fec966",
   "ranked": false,
-  "rating": 0.960914,
-  "ratingCount": 35835,
+  "rating": 0.96068877,
+  "ratingCount": 37869,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:54Z",
-    "lastChanged": "2026-09-21T02:02:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-07T07:41:25.350997Z",
   "charter": "凌空白落",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/00295928-1b5a-4972-921b-1d8ad7350122",
+  "hidden": false,
   "id": 31395,
   "illustration": "https://phira.5wyxi.com/files/92990f11-cfa5-45f3-b250-3ae398822b8d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "タイムパラドックス (时间悖论)",
   "preview": "https://phira.5wyxi.com/files/f1f7ae4a-81ba-40c4-9309-9458542f9885",
   "ranked": false,
-  "rating": 0.9069634,
-  "ratingCount": 651,
+  "rating": 0.9077228,
+  "ratingCount": 665,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

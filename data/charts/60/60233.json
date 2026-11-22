@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:47Z",
-    "lastChanged": "2026-09-21T02:04:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-07T04:16:55.559846Z",
   "charter": "zhanwai&#3_",
@@ -14,6 +14,7 @@
   "description": "作者@zhanwai#325275\nb站：zhanwai\n         小闪说说",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/b00890dc-6911-43fd-b161-3fbb97b1c0ed",
+  "hidden": false,
   "id": 60233,
   "illustration": "https://phira.5wyxi.com/files/47a2a0fb-2104-4f67-b32a-c6e5b89e9744",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Southern Cross",
   "preview": "https://phira.5wyxi.com/files/9581eef9-006e-4094-be83-701c82ca484f",
   "ranked": false,
-  "rating": 0.9060845,
-  "ratingCount": 476,
+  "rating": 0.90410775,
+  "ratingCount": 516,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

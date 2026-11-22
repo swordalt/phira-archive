@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:36Z",
-    "lastChanged": "2026-09-21T02:02:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-23T23:35:33.668604Z",
   "charter": "lander93",
@@ -14,6 +14,7 @@
   "description": "有动效所以是常规",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/7c0335db-e540-49dd-9f9b-05222621ef82",
+  "hidden": false,
   "id": 26821,
   "illustration": "https://phira.5wyxi.com/files/0ffb4fca-7380-44d9-aa6f-4c57423dacc3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Deep In Abyss (Finite Limit vs takehirotei remix)",
   "preview": "https://phira.5wyxi.com/files/104ad9fe-7630-43ba-b316-ef060c20ac63",
   "ranked": false,
-  "rating": 0.8608547,
-  "ratingCount": 95,
+  "rating": 0.86736727,
+  "ratingCount": 102,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

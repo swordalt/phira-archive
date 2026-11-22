@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:48Z",
-    "lastChanged": "2026-09-21T02:06:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-14T07:36:24.317087Z",
   "charter": "IZ蓝",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.100004,
   "file": "https://phira.5wyxi.com/files/e15b4cdb-9c29-469d-8ba9-c435e574b89e",
+  "hidden": false,
   "id": 54120,
   "illustration": "https://phira.5wyxi.com/files/b1338fe5-6460-4d35-b345-6bbdb6ea7466",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ブレインロット",
   "preview": "https://phira.5wyxi.com/files/5040f824-52fa-45ef-a06e-f13b937fc1b3",
   "ranked": false,
-  "rating": 0.9482405,
-  "ratingCount": 548,
+  "rating": 0.9458698,
+  "ratingCount": 575,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

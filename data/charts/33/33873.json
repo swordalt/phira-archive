@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-12T08:57:53.807563Z",
   "charter": "QuanX",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/2a6fec34-30c3-4b53-8cbd-32381e689a61",
+  "hidden": false,
   "id": 33873,
   "illustration": "https://phira.5wyxi.com/files/92a3fcf2-4f58-4b49-ac22-ed052e2e4e1e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Find you",
   "preview": "https://phira.5wyxi.com/files/ce313331-2df8-4904-8db8-0c469d3d49ed",
   "ranked": false,
-  "rating": 0.93981874,
-  "ratingCount": 200,
+  "rating": 0.94011617,
+  "ratingCount": 201,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

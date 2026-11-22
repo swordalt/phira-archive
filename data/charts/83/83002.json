@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-04T17:07:23Z",
-    "lastChanged": "2026-11-06T10:43:03Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:31Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-11-04T09:32:21.879422Z",
   "charter": "KhonMemoria",
@@ -14,6 +14,7 @@
   "description": "为本人青花瓷-Khonus所作。\nPhira昵称Khonus，b站昵称青花瓷-Khonus，于2026年11月8日发视频证明。",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/af2ee81d-e46a-44c7-bb70-abb87a375727",
+  "hidden": false,
   "id": 83002,
   "illustration": "https://phira.5wyxi.com/files/e41de60b-4a86-4688-b76a-287cac332b85",
   "illustrator": "水沐汐",
@@ -21,11 +22,11 @@
   "name": "Recall Memories",
   "preview": "https://phira.5wyxi.com/files/d2308981-1ebc-4811-a0ce-02f1828d4115",
   "ranked": false,
-  "rating": 0.8990169,
-  "ratingCount": 65,
-  "reviewed": false,
+  "rating": 0.890422,
+  "ratingCount": 166,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

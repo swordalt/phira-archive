@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:14Z",
-    "lastChanged": "2026-09-21T02:02:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-27T12:22:35.751670Z",
   "charter": "bENg",
@@ -14,6 +14,7 @@
   "description": "有修改意见请联系QQ3205680845，谢谢啦\n2024.6.20：修正难度",
   "difficulty": 13.8,
   "file": "https://phira.5wyxi.com/files/b99b7340-7928-44b7-8a48-5492bdc86962",
+  "hidden": false,
   "id": 20459,
   "illustration": "https://phira.5wyxi.com/files/96ff55bf-7419-4250-8046-59016cbfd5ed",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "银河鉄道のペンギン",
   "preview": "https://phira.5wyxi.com/files/f1b7b23e-7bc1-479f-9d75-f0017401a944",
   "ranked": false,
-  "rating": 0.9293884,
-  "ratingCount": 378,
+  "rating": 0.9294392,
+  "ratingCount": 381,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

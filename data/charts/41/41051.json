@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:27Z",
-    "lastChanged": "2026-09-21T02:03:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-07T04:27:00.822697Z",
   "charter": "xxtx",
@@ -14,6 +14,7 @@
   "description": "作者第一张谱，可能比较粉，特效也生硬，希望轻点喷",
   "difficulty": 16.199999,
   "file": "https://phira.5wyxi.com/files/32b69344-c00d-4923-a25b-eabe09148c07",
+  "hidden": false,
   "id": 41051,
   "illustration": "https://phira.5wyxi.com/files/4bb3bc7f-7cd2-4d59-9908-1665dda39e65",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "雑踏、僕らの街",
   "preview": "https://phira.5wyxi.com/files/d7aab895-3a9b-4c58-a4a4-1942ba3d0aa2",
   "ranked": false,
-  "rating": 0.9153648,
-  "ratingCount": 1139,
+  "rating": 0.9141991,
+  "ratingCount": 1158,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

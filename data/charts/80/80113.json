@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-07T17:46:22Z",
-    "lastChanged": "2026-10-07T17:46:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-04T11:00:02.353286Z",
   "charter": "Squarish",
@@ -14,6 +14,7 @@
   "description": "本人上传，表演很区的三谱",
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/f603a19f-6807-44db-b70f-a2961e8a5678",
+  "hidden": false,
   "id": 80113,
   "illustration": "https://phira.5wyxi.com/files/9ce32e4c-0968-4b7c-8752-bee7cc61fdc3",
   "illustrator": "しきみ",
@@ -21,8 +22,8 @@
   "name": "シアトリカル·ケース",
   "preview": "https://phira.5wyxi.com/files/6bd8db62-f0e3-42f4-b259-b5d25667ebab",
   "ranked": false,
-  "rating": 0.8579677,
-  "ratingCount": 6,
+  "rating": 0.88711447,
+  "ratingCount": 142,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

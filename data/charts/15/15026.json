@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:41Z",
-    "lastChanged": "2026-09-21T02:05:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-08T10:11:57.214253Z",
   "charter": "P₂O₅",
@@ -14,6 +14,7 @@
   "description": "Malody转谱 bilibili:@蝶儿ovo",
   "difficulty": 31.0,
   "file": "https://phira.5wyxi.com/files/92f12259-8811-434e-9cfa-b3e0eeb9d3bb",
+  "hidden": false,
   "id": 15026,
   "illustration": "https://phira.5wyxi.com/files/5c5d8944-0135-4fc1-8c9f-ae9fd218b331",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ギターと孤独と蒼い惑星",
   "preview": "https://phira.5wyxi.com/files/af929c1e-5106-4dee-9cf1-090c8f335ac2",
   "ranked": false,
-  "rating": 0.95088464,
-  "ratingCount": 654,
+  "rating": 0.9508541,
+  "ratingCount": 664,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

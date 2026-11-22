@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:53Z",
-    "lastChanged": "2026-09-21T02:04:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-01T04:12:06.789529Z",
   "charter": "小e",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/679a0d4c-743f-4ed7-98e1-ff407158a760",
+  "hidden": false,
   "id": 63416,
   "illustration": "https://phira.5wyxi.com/files/7c1feaa1-89f1-458a-b3d9-920562784561",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "在深秋",
   "preview": "https://phira.5wyxi.com/files/a870f509-3002-49ec-bf6f-1d2548ed374b",
   "ranked": false,
-  "rating": 0.82991385,
-  "ratingCount": 4153,
+  "rating": 0.8279968,
+  "ratingCount": 4289,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

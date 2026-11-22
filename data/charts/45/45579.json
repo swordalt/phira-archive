@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:31Z",
-    "lastChanged": "2026-09-21T02:06:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-24T09:39:29.507261Z",
   "charter": "小小唐灵吖.",
@@ -14,6 +14,7 @@
   "description": "『无特效，后半段有整活』",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/3002e0dc-9253-49a6-96e0-fee51b3a0d38",
+  "hidden": false,
   "id": 45579,
   "illustration": "https://phira.5wyxi.com/files/2f76fca6-1677-44e3-9ab4-34c8c8f56ea9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "绝体绝命",
   "preview": "https://phira.5wyxi.com/files/5442f5b6-b5c6-493d-bfd9-195aeff43114",
   "ranked": false,
-  "rating": 0.9349006,
-  "ratingCount": 46,
+  "rating": 0.9385931,
+  "ratingCount": 49,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:14Z",
-    "lastChanged": "2026-09-21T02:03:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-20T06:13:29.372353Z",
   "charter": "WPT in a xxxxxxxx",
@@ -14,6 +14,7 @@
   "description": "一年前左右的废稿续写，本来打算写完放去去懂王杯的。\n感谢清水QR，muun鼎力相助，感谢Simon_axis指出的问题；\nBV12F5fztEM4支持一下谢谢喵",
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/910c353e-f822-42cc-8240-eeb7023c737b",
+  "hidden": false,
   "id": 36810,
   "illustration": "https://phira.5wyxi.com/files/de59ca49-6f14-462a-b54b-9a48a500e672",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Alice in a xxxxxxxx",
   "preview": "https://phira.5wyxi.com/files/705b4c74-9260-4564-92eb-9f50697c07cd",
   "ranked": true,
-  "rating": 0.92096484,
-  "ratingCount": 3734,
+  "rating": 0.9211708,
+  "ratingCount": 3804,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

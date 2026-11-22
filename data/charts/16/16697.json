@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:02Z",
-    "lastChanged": "2026-09-21T02:02:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-03T06:40:46.303794Z",
   "charter": "Ziyieee",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，6thPecJam SP No.5",
   "difficulty": 13.900003,
   "file": "https://phira.5wyxi.com/files/74d132ae-45a9-48f7-a834-71a8b925576d",
+  "hidden": false,
   "id": 16697,
   "illustration": "https://phira.5wyxi.com/files/22987ef6-6007-4ed9-8c0d-47557721ec84",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Skyfall",
   "preview": "https://phira.5wyxi.com/files/095330ea-d944-4222-8c53-cc2f5d05da11",
   "ranked": false,
-  "rating": 0.95303476,
-  "ratingCount": 1157,
+  "rating": 0.95319045,
+  "ratingCount": 1169,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

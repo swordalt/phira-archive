@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:46Z",
-    "lastChanged": "2026-09-21T02:05:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-14T03:35:50.885595Z",
   "charter": "VanllaOcap",
@@ -14,6 +14,7 @@
   "description": "铺师b站VanllaOcap，想写表演可以找我拿铺子（不会写表演www）作为一名纵连打狂热爱好者今天写的是双押海，写的好像不够狠",
   "difficulty": 16.6,
   "file": "https://phira.5wyxi.com/files/9ff85002-85b0-48dd-aeee-93b52d217da5",
+  "hidden": false,
   "id": 18447,
   "illustration": "https://phira.5wyxi.com/files/b693e44f-e4af-47a1-b3fb-6184bc289919",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bossa Gabba",
   "preview": "https://phira.5wyxi.com/files/66ecdc09-3114-449b-b92b-1e11ca8e0670",
   "ranked": false,
-  "rating": 0.80050296,
-  "ratingCount": 33,
+  "rating": 0.8058085,
+  "ratingCount": 34,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:41Z",
-    "lastChanged": "2026-09-21T02:02:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-22T13:43:21.072350Z",
   "charter": "bilibili∶0o不会取名o0",
@@ -14,6 +14,7 @@
   "description": "第一次编谱就用的这个曲子，现在经过优化和重制之后自己看起来确实比最开始好不少，至少像个中规中矩的谱子(？)吧",
   "difficulty": 16.500004,
   "file": "https://phira.5wyxi.com/files/607e3ec5-6289-4314-a954-3dbf3f7b6dff",
+  "hidden": false,
   "id": 27951,
   "illustration": "https://phira.5wyxi.com/files/5e1ca718-76bf-4171-96c2-0a1ae5adf280",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "(重制版)ワンルームシュガーライフ",
   "preview": "https://phira.5wyxi.com/files/69e69de7-2bff-440a-9818-b045747949e9",
   "ranked": false,
-  "rating": 0.9347572,
-  "ratingCount": 486,
+  "rating": 0.9361914,
+  "ratingCount": 499,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

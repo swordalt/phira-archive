@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:48Z",
-    "lastChanged": "2026-09-21T02:05:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-26T03:08:57.627374Z",
   "charter": "Hiesnoze",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nosu谱面下载https://osu.ppy.sh/beatmapsets/2186959#mania/4623793\n歌好听所以写了",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/7adb22d2-47b2-4c32-a059-18eb152c75e6",
+  "hidden": false,
   "id": 20389,
   "illustration": "https://phira.5wyxi.com/files/d4254afc-927d-46ae-9054-01fabc72022e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Heaven's Fall 1.1*",
   "preview": "https://phira.5wyxi.com/files/187622ad-4c36-489c-bb63-2503108e28e7",
   "ranked": false,
-  "rating": 0.95101005,
-  "ratingCount": 193,
+  "rating": 0.95268863,
+  "ratingCount": 202,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

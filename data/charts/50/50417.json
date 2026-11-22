@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:08Z",
-    "lastChanged": "2026-09-21T02:04:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-21T04:40:26.298713Z",
   "charter": "Rcen",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/d3bd7c08-cb2c-46d8-8a27-6913e424c62b",
+  "hidden": false,
   "id": 50417,
   "illustration": "https://phira.5wyxi.com/files/29f97e02-9b08-4b12-8961-31a837e3e243",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Enchanted Love",
   "preview": "https://phira.5wyxi.com/files/e5dda9f7-f2f8-43a3-acf7-c031275fc4b1",
   "ranked": false,
-  "rating": 0.94408983,
-  "ratingCount": 271,
+  "rating": 0.940947,
+  "ratingCount": 302,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

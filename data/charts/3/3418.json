@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:15Z",
-    "lastChanged": "2026-09-21T02:01:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-11T22:22:53.373033Z",
   "charter": "seakochan_2005",
@@ -14,6 +14,7 @@
   "description": "谱师：Seako (seac_blue)\n谱面预览：BV1qP411B7XW\n我们的情人，不过是随便借个名字，用幻想吹出来的肥皂泡。\r\n把信拿去吧，你可以使假戏成真。\r\n我本来是无病呻吟，漫无目的地吐露爱情……\r\n现在这些漂泊不定的鸟儿\r\n有地方栖息了\r\n你可以从信里看出来——\r\n拿去吧！——\r\n由于不是出自真心，话就说得格外动听。\r\n——拿去吧，就这么办！",
   "difficulty": 15.400001,
   "file": "https://phira.5wyxi.com/files/4688f479-85f0-4b8c-a159-80b3924b512a",
+  "hidden": false,
   "id": 3418,
   "illustration": "https://phira.5wyxi.com/files/11b0f870-5691-42c4-be6a-7a7d257c939c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "INTERNET YAMERO",
   "preview": "https://phira.5wyxi.com/files/fae81a49-9f82-4a10-8a8a-c4a0148d0034",
   "ranked": false,
-  "rating": 0.9364015,
-  "ratingCount": 10420,
+  "rating": 0.93647635,
+  "ratingCount": 10498,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

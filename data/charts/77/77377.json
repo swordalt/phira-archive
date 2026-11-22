@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:15Z",
-    "lastChanged": "2026-09-21T02:05:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-06T12:16:45.992728Z",
   "charter": "[PRODUCT C:/ NAME=\"CHATBOX defeat MACHIOS\" Call unINstall]",
@@ -14,6 +14,7 @@
   "description": "6th WJC参赛谱\n谱面预览BV11obH6yEhZ\n合作@gaosheng#213",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/5a38405d-185f-44c5-b938-840b59a496d7",
+  "hidden": false,
   "id": 77377,
   "illustration": "https://phira.5wyxi.com/files/5a2d89e2-1200-48bc-9a27-847d04c7f915",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "I HATE MY PUTER - ALL MY ENEMIES ARE INSIDE IT",
   "preview": "https://phira.5wyxi.com/files/5062516e-b112-4a71-bddf-f4d39f0c4d3f",
   "ranked": false,
-  "rating": 0.9465441,
-  "ratingCount": 99,
+  "rating": 0.9397717,
+  "ratingCount": 165,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

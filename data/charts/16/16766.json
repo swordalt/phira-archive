@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:02Z",
-    "lastChanged": "2026-09-21T02:02:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-05T11:38:16.374838Z",
   "charter": "FLAG",
@@ -14,6 +14,7 @@
   "description": "Bilibili @FLAG_Xiaoqi\n随缘更新\n大水谱",
   "difficulty": 11.800003,
   "file": "https://phira.5wyxi.com/files/c2ec4b57-0d38-440f-9976-b27dfcd5358f",
+  "hidden": false,
   "id": 16766,
   "illustration": "https://phira.5wyxi.com/files/729a27dc-91de-4456-9836-69878d4ccc0f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Access Denied",
   "preview": "https://phira.5wyxi.com/files/d7bf4901-f08b-466b-911e-af1a58a36c69",
   "ranked": false,
-  "rating": 0.93000805,
-  "ratingCount": 329,
+  "rating": 0.93042976,
+  "ratingCount": 332,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

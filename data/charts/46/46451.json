@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:50Z",
-    "lastChanged": "2026-09-21T02:03:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-06T09:37:04.558658Z",
   "charter": "绛潋",
@@ -14,6 +14,7 @@
   "description": "╭(╯^╰)╮",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/4fbdb51b-ef92-4890-a2f7-29b875ab9616",
+  "hidden": false,
   "id": 46451,
   "illustration": "https://phira.5wyxi.com/files/7b3babca-9d23-4684-842d-a1356b73babe",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "花に亡霊 (花上亡灵) [Cover Ver.]",
   "preview": "https://phira.5wyxi.com/files/9a55aecc-dffe-40cc-97d3-7c1530d60131",
   "ranked": false,
-  "rating": 0.9029331,
-  "ratingCount": 121,
+  "rating": 0.9000316,
+  "ratingCount": 130,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

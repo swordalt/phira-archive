@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:49Z",
-    "lastChanged": "2026-09-21T02:04:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-18T16:41:35.985688Z",
   "charter": "A_hui-eco",
@@ -14,6 +14,7 @@
   "description": "B站名字：A_hui-eco \n二谱，视频会吞画质，进度条拉到最后点重播，求支持～",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/780e17d4-c46f-4398-b73d-ffa7c760edac",
+  "hidden": false,
   "id": 61339,
   "illustration": "https://phira.5wyxi.com/files/8a1ec859-35f5-42c0-9184-6aae576770fc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ReDreaming Angel",
   "preview": "https://phira.5wyxi.com/files/a6f33d08-fd82-4d55-9bc9-62d8da810fba",
   "ranked": false,
-  "rating": 0.9391161,
-  "ratingCount": 2376,
+  "rating": 0.9392374,
+  "ratingCount": 2487,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

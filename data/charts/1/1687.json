@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:35Z",
-    "lastChanged": "2026-09-21T02:05:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-12T04:19:51.969084Z",
   "charter": "mj1748",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/c39b790d-77a7-4e9c-839a-1e2666dfe598",
+  "hidden": false,
   "id": 1687,
   "illustration": "https://phira.5wyxi.com/files/a3f51eee-1532-4ce3-ba9f-1e91e8858ca1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "INFiNiTE ENERZY-Overdoze-",
   "preview": "https://phira.5wyxi.com/files/db4bb007-5408-4dac-b8c2-ef450cceb5cb",
   "ranked": false,
-  "rating": 0.7491178,
-  "ratingCount": 251,
+  "rating": 0.7501254,
+  "ratingCount": 252,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

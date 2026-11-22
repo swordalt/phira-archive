@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:54Z",
-    "lastChanged": "2026-09-21T02:03:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-29T04:38:20.745298Z",
   "charter": "LEIYU",
@@ -14,6 +14,7 @@
   "description": "B站泪丶鱼已发谱面录制\n\n新人谱，求锐评（）\n",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/76693e06-24c9-47b8-9d07-cfef909f5b30",
+  "hidden": false,
   "id": 47315,
   "illustration": "https://phira.5wyxi.com/files/4214bc72-4316-4d4f-891b-7b5a70f963e1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "NEONAPSE",
   "preview": "https://phira.5wyxi.com/files/5e4dd007-94a5-4469-8547-bdc236719af5",
   "ranked": false,
-  "rating": 0.91811955,
-  "ratingCount": 127,
+  "rating": 0.918749,
+  "ratingCount": 128,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

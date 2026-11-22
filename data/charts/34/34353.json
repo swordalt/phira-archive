@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-22T16:09:22.812484Z",
   "charter": "Imagaxis as <Laser Rain>",
@@ -14,6 +14,7 @@
   "description": "本人多指谱的第一次尝试，感觉写的很垃圾所以没写特效投纯配置了",
   "difficulty": 16.800003,
   "file": "https://phira.5wyxi.com/files/5b7d55c9-925a-4c64-9365-120816a0fadb",
+  "hidden": false,
   "id": 34353,
   "illustration": "https://phira.5wyxi.com/files/01b9e1bb-f561-4865-b737-672be5e8b38c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Speculation",
   "preview": "https://phira.5wyxi.com/files/522cb0ce-7746-44e8-90f3-0d621b43bdcb",
   "ranked": false,
-  "rating": 0.69038045,
-  "ratingCount": 7,
+  "rating": 0.7308247,
+  "ratingCount": 11,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

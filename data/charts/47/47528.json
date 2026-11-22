@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:37Z",
-    "lastChanged": "2026-09-21T02:06:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-03T04:37:59.475256Z",
   "charter": "HanYan",
@@ -14,6 +14,7 @@
   "description": "BPM：170 ",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/856fdaea-1177-4c14-9ed9-d8ab99bc4784",
+  "hidden": false,
   "id": 47528,
   "illustration": "https://phira.5wyxi.com/files/19b0fdd5-ce66-4185-9d43-6f487e8bdf5f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "アイドル (RiraN Remix)",
   "preview": "https://phira.5wyxi.com/files/e0a1dc98-9f62-4fd5-8880-337f4528aef1",
   "ranked": false,
-  "rating": 0.8405393,
-  "ratingCount": 28,
+  "rating": 0.8453758,
+  "ratingCount": 29,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

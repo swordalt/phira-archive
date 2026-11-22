@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:06Z",
-    "lastChanged": "2026-09-21T02:05:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-08T15:58:42.373014Z",
   "charter": "[Forever]",
@@ -14,6 +14,7 @@
   "description": "B站: @花屏君\n\n—8月8日改动—\n1.修改部分配置\n2.尾杀减少可能误触的情况",
   "difficulty": 17.900003,
   "file": "https://phira.5wyxi.com/files/8e60ffaf-3774-4d60-b926-a52ff178f12a",
+  "hidden": false,
   "id": 71955,
   "illustration": "https://phira.5wyxi.com/files/26650d1a-7f4e-4354-96d3-db4ef83ab6e6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Everlasting Eternity",
   "preview": "https://phira.5wyxi.com/files/c1414410-fea6-490b-abb9-57e96dda4b9a",
   "ranked": false,
-  "rating": 0.8718907,
-  "ratingCount": 153,
+  "rating": 0.881628,
+  "ratingCount": 169,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

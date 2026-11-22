@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:14Z",
-    "lastChanged": "2026-09-21T02:02:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-28T14:59:58.737400Z",
   "charter": "[N0NE] (fixed by NeoStar)",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，谱师のbilibili: Ruinabit不是猫猫",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/3616065d-ed45-4af6-9a92-3e5b886b57ee",
+  "hidden": false,
   "id": 20395,
   "illustration": "https://phira.5wyxi.com/files/66c3402f-c4bc-40f1-a794-b74ee42adccb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "amethyst",
   "preview": "https://phira.5wyxi.com/files/527a650f-5fa4-4afa-8e90-70c7c524e2fe",
   "ranked": false,
-  "rating": 0.87268966,
-  "ratingCount": 478,
+  "rating": 0.87230027,
+  "ratingCount": 479,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

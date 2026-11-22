@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:20Z",
-    "lastChanged": "2026-09-21T02:01:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-13T00:57:16.555271Z",
   "charter": "hua",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 14.7,
   "file": "https://phira.5wyxi.com/files/f2bd203e-c859-48ce-a9ef-f4d6571938bb",
+  "hidden": false,
   "id": 5204,
   "illustration": "https://phira.5wyxi.com/files/b584820d-c6bd-45c4-a6ce-f80b456d6d1a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "さよならプリンセス",
   "preview": "https://phira.5wyxi.com/files/9c9d832f-9efe-4811-9060-6ced07786b61",
   "ranked": false,
-  "rating": 0.93540853,
-  "ratingCount": 1840,
+  "rating": 0.9351538,
+  "ratingCount": 1851,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

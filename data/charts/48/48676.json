@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:00Z",
-    "lastChanged": "2026-09-21T02:04:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-01T22:46:08.031801Z",
   "charter": "55752525",
@@ -14,6 +14,7 @@
   "description": "本人上传，BV1T2yRB1ERt",
   "difficulty": 15.8,
   "file": "https://phira.5wyxi.com/files/465fa5c3-57c8-42c2-9302-54ece942d08e",
+  "hidden": false,
   "id": 48676,
   "illustration": "https://phira.5wyxi.com/files/8a23498b-e074-4ab1-a5f9-e39f5555f7a9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "『±0』",
   "preview": "https://phira.5wyxi.com/files/a549b80e-8fef-4e2b-9ccd-915264e609e1",
   "ranked": false,
-  "rating": 0.8525328,
-  "ratingCount": 93,
+  "rating": 0.8554115,
+  "ratingCount": 107,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:06Z",
-    "lastChanged": "2026-09-21T02:04:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-16T10:58:21.457814Z",
   "charter": "WeiXian",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/b1cb609f-133d-40bc-888a-044e34daa140",
+  "hidden": false,
   "id": 50262,
   "illustration": "https://phira.5wyxi.com/files/154716e7-f45e-4d41-a707-4009fbb5d61c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Trip",
   "preview": "https://phira.5wyxi.com/files/c0e450b3-d7b3-4a7f-9c9c-6020806e42bf",
   "ranked": false,
-  "rating": 0.91340506,
-  "ratingCount": 632,
+  "rating": 0.9111313,
+  "ratingCount": 678,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

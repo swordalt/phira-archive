@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:30Z",
-    "lastChanged": "2026-09-21T02:03:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-18T23:57:03.431110Z",
   "charter": "Rainbow-FM",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/035df3d9-184d-44d7-9542-ae730753a5ef",
+  "hidden": false,
   "id": 42074,
   "illustration": "https://phira.5wyxi.com/files/62e85346-759a-4bfd-b203-64a7a34acf24",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ice Ginte-冰巨星",
   "preview": "https://phira.5wyxi.com/files/1b4e4752-6ede-4726-bacb-46b3dca042bd",
   "ranked": false,
-  "rating": 0.9186784,
-  "ratingCount": 86,
+  "rating": 0.9139577,
+  "ratingCount": 91,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

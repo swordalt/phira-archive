@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-14T14:26:45.485790Z",
   "charter": "XuaNYan_A",
@@ -14,6 +14,7 @@
   "description": "很闲，转个谱玩，顺带一提这个虽然是4k但更建议用双指打",
   "difficulty": 15.700002,
   "file": "https://phira.5wyxi.com/files/1b7febe8-bd1d-4fad-a6dd-ec4738f559cd",
+  "hidden": false,
   "id": 34019,
   "illustration": "https://phira.5wyxi.com/files/b6ec67b9-222b-4ec7-8754-576e0605f1ae",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "無意識レクイエム (cosmobsp rmx)",
   "preview": "https://phira.5wyxi.com/files/a347487e-ff89-4f97-a804-8fb7fb85c885",
   "ranked": false,
-  "rating": 0.95971066,
-  "ratingCount": 156,
+  "rating": 0.9623181,
+  "ratingCount": 165,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

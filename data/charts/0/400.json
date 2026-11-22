@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:05Z",
-    "lastChanged": "2026-09-21T02:01:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "羽毛球awa",
@@ -14,6 +14,7 @@
   "description": "我是sb！！！",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/0b0b7c62-7284-4d5f-9d62-a957fcab120e",
+  "hidden": false,
   "id": 400,
   "illustration": "https://phira.5wyxi.com/files/2a49bea9-de20-4bf3-be13-abf3ca6cd624",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "でんでん心電図",
   "preview": "https://phira.5wyxi.com/files/77e40f90-8e08-4e20-a7bd-1c87456310b6",
   "ranked": false,
-  "rating": 0.9214194,
-  "ratingCount": 8753,
+  "rating": 0.92133915,
+  "ratingCount": 8853,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

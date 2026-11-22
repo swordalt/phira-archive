@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:17Z",
-    "lastChanged": "2026-09-21T02:06:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-19T17:47:15.435762Z",
   "charter": "Mollyftea",
@@ -14,6 +14,7 @@
   "description": "本次谱面更新了封面以及修正了17秒处的长条采音问题",
   "difficulty": 14.3,
   "file": "https://phira.5wyxi.com/files/c5f45e0b-2d03-4146-8c1b-78ccd8c7c525",
+  "hidden": false,
   "id": 39246,
   "illustration": "https://phira.5wyxi.com/files/06e87bb8-cd14-479b-9d50-d54979c080c8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Paradigm Shift",
   "preview": "https://phira.5wyxi.com/files/8c9170e4-d7e7-434b-9f9c-755fa0e96c00",
   "ranked": false,
-  "rating": 0.92614365,
-  "ratingCount": 317,
+  "rating": 0.926201,
+  "ratingCount": 325,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:00Z",
-    "lastChanged": "2026-09-21T02:03:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-30T11:50:35.362259Z",
   "charter": "'Forgotten'",
@@ -14,6 +14,7 @@
   "description": "bilibili: BV1e46iYaELY",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/7798a5b6-af79-4ba5-988c-89e4aa3c2e49",
+  "hidden": false,
   "id": 32904,
   "illustration": "https://phira.5wyxi.com/files/08e401c2-31b5-486c-9458-345b7ea17698",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "白鸟过河滩",
   "preview": "https://phira.5wyxi.com/files/ff77bd5a-f31c-4354-82a0-e7da492acb1a",
   "ranked": false,
-  "rating": 0.9370256,
-  "ratingCount": 418,
+  "rating": 0.93752635,
+  "ratingCount": 455,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

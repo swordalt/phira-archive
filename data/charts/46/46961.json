@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:51Z",
-    "lastChanged": "2026-09-21T02:03:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-20T03:11:37.708406Z",
   "charter": "星小林StarForest",
@@ -14,6 +14,7 @@
   "description": "谱面预览BV1cjW3zyEWR\n代传已经过谱师同意",
   "difficulty": 12.999998,
   "file": "https://phira.5wyxi.com/files/e2235a84-e39f-48ae-bc1a-95524f48410e",
+  "hidden": false,
   "id": 46961,
   "illustration": "https://phira.5wyxi.com/files/a9cab29c-7687-4c67-9e14-843843740f53",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "『風与线』",
   "preview": "https://phira.5wyxi.com/files/3f046b1f-7023-409c-a01b-e0bccb6b46df",
   "ranked": false,
-  "rating": 0.9521163,
-  "ratingCount": 718,
+  "rating": 0.9517551,
+  "ratingCount": 748,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

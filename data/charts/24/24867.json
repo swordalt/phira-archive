@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:57Z",
-    "lastChanged": "2026-09-21T02:05:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-31T16:51:43.647529Z",
   "charter": "小怪AQAQ",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.500001,
   "file": "https://phira.5wyxi.com/files/0f8c7634-426c-46e2-be34-0df98356f0e7",
+  "hidden": false,
   "id": 24867,
   "illustration": "https://phira.5wyxi.com/files/b2216435-493c-4830-b787-e602da34b452",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Grayed Out-Antifront- (2020ver.)",
   "preview": "https://phira.5wyxi.com/files/5e7b74fd-ad73-48d1-8bd9-2e4eeaba0dfa",
   "ranked": false,
-  "rating": 0.95319486,
-  "ratingCount": 132,
+  "rating": 0.9526456,
+  "ratingCount": 136,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

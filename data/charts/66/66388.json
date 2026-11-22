@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:58Z",
-    "lastChanged": "2026-10-04T10:50:54Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:58:41Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-07-14T03:41:39.178208Z",
   "charter": "Fc(^w^c) for Me",
@@ -14,6 +14,7 @@
   "description": "003.\n物量：900\n最后更新：20260713",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/07cdc4da-3c3b-405b-bee5-5e4db3ab3626",
+  "hidden": false,
   "id": 66388,
   "illustration": "https://phira.5wyxi.com/files/c25387aa-caa1-4657-b6e1-d5dfe1da5a4f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fortuna for Tuna",
   "preview": "https://phira.5wyxi.com/files/420cd074-4aeb-4c2b-b626-e10a03d0ffbe",
   "ranked": false,
-  "rating": 0.85207283,
-  "ratingCount": 10,
+  "rating": 0.88738793,
+  "ratingCount": 41,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

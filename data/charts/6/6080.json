@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:22Z",
-    "lastChanged": "2026-09-21T02:01:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-25T16:39:30.777115Z",
   "charter": "FLAG",
@@ -14,6 +14,7 @@
   "description": "本人上传\nBilibili @FLAG_Xiaoqi\n实际上我感觉更像是14",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/fd5378dc-25ac-4ac5-930a-e10da4a69196",
+  "hidden": false,
   "id": 6080,
   "illustration": "https://phira.5wyxi.com/files/1a68f479-f654-4c22-a17b-9d92ed283014",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Kyubi",
   "preview": "https://phira.5wyxi.com/files/f925c47a-431b-469a-9c8c-cc4971617b57",
   "ranked": true,
-  "rating": 0.92456883,
-  "ratingCount": 3037,
+  "rating": 0.9249564,
+  "ratingCount": 3068,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

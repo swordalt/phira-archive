@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:13Z",
-    "lastChanged": "2026-09-21T02:01:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-27T07:13:51.120371Z",
   "charter": "宇咲柚子 fused with 宇咲柚子",
@@ -14,6 +14,7 @@
   "description": "本人上传，",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/177f5fa5-e575-4931-9340-4922456faff0",
+  "hidden": false,
   "id": 2624,
   "illustration": "https://phira.5wyxi.com/files/65a1060c-893c-42c1-82b4-55834d655f5e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Alea jacta est!",
   "preview": "https://phira.5wyxi.com/files/4e1c9667-cd71-4c8b-bb53-8a660e2a5571",
   "ranked": false,
-  "rating": 0.9155491,
-  "ratingCount": 560,
+  "rating": 0.9156188,
+  "ratingCount": 563,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

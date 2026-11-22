@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:53Z",
-    "lastChanged": "2026-09-21T02:05:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-10T09:02:50.615964Z",
   "charter": "Hikariii",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 17.999992,
   "file": "https://phira.5wyxi.com/files/8762c47f-978b-4406-9d16-69607c44009d",
+  "hidden": false,
   "id": 23113,
   "illustration": "https://phira.5wyxi.com/files/09cf3872-2f21-467a-b17f-020571a25ac9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "the daybreak will never come again",
   "preview": "https://phira.5wyxi.com/files/9a12fc4f-377c-4dfe-9a72-07f78cd9143f",
   "ranked": false,
-  "rating": 0.80547315,
-  "ratingCount": 16,
+  "rating": 0.82598203,
+  "ratingCount": 15,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

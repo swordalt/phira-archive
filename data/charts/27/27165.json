@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:00Z",
-    "lastChanged": "2026-09-21T02:06:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-30T16:27:18.381015Z",
   "charter": "cconn",
@@ -14,6 +14,7 @@
   "description": "本人上传\nmalody转谱",
   "difficulty": 16.800005,
   "file": "https://phira.5wyxi.com/files/1fa271e8-a69d-4309-840d-e17abc2e8b93",
+  "hidden": false,
   "id": 27165,
   "illustration": "https://phira.5wyxi.com/files/5dfbbccf-3706-4d64-9d1f-0cea49b2d71f",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "Chronostasis 2021",
   "preview": "https://phira.5wyxi.com/files/235f8725-f391-4bb9-a547-2fd378cd96e5",
   "ranked": false,
-  "rating": 0.91983086,
+  "rating": 0.9201145,
   "ratingCount": 282,
   "reviewed": true,
   "stable": false,

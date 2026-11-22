@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-09T06:07:56Z",
-    "lastChanged": "2026-11-09T17:23:59Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:10Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-21T13:06:04.801838Z",
   "charter": "泡泡鸡",
@@ -14,6 +14,7 @@
   "description": "如有好的建议欢迎提出\n详见BV1yAgC6xE66",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/dfae4dc6-79ef-4b1b-a769-7d719d9013db",
+  "hidden": false,
   "id": 74852,
   "illustration": "https://phira.5wyxi.com/files/8f9c64e9-3f33-4cea-a3e2-010115810b33",
   "illustrator": "",
@@ -21,14 +22,14 @@
   "name": "天生鬼才(Side Quest King)",
   "preview": "https://phira.5wyxi.com/files/9f84cc5c-dc35-4a5a-99cd-2042fd3d0b49",
   "ranked": false,
-  "rating": 0.8983408,
-  "ratingCount": 0,
+  "rating": 0.9121566,
+  "ratingCount": 551,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-09T03:15:02.471086355Z",
+  "updated": "2026-11-09T03:15:02.471086Z",
   "uploader": 1528678
 }

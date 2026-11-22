@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-01T07:25:49Z",
-    "lastChanged": "2026-11-01T11:36:06Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:31Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-11-01T02:49:00.823594Z",
   "charter": "FreMo",
@@ -14,6 +14,7 @@
   "description": "该谱为清华大学次世代动漫社音游部筹划的“THU 图 XI 乐”音游赛事（Phigros 侧）决赛谱\n\n谱师FreMo, 本人上传",
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/20cfce96-6a14-49c7-b405-135a1d81fd9b",
+  "hidden": false,
   "id": 82749,
   "illustration": "https://phira.5wyxi.com/files/9309c8cf-01e0-4436-ac83-1dc18f3d392b",
   "illustrator": "Taiyo Yamamoto",
@@ -21,14 +22,14 @@
   "name": "M4XiMUM",
   "preview": "https://phira.5wyxi.com/files/ad64095a-45cf-4e91-a047-e1ac090b8c57",
   "ranked": false,
-  "rating": 0.90612435,
-  "ratingCount": 0,
+  "rating": 0.91102964,
+  "ratingCount": 152,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-01T05:29:56.607370502Z",
+  "updated": "2026-11-01T05:29:56.607370Z",
   "uploader": 31055
 }

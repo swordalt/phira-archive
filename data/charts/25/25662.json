@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:57Z",
-    "lastChanged": "2026-09-21T02:05:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-08T13:33:42.778589Z",
   "charter": "XJY",
@@ -14,6 +14,7 @@
   "description": "该铺面为谱师XJY制作",
   "difficulty": 18.7,
   "file": "https://phira.5wyxi.com/files/5b9ca079-e591-4337-8999-d5af061f07e6",
+  "hidden": false,
   "id": 25662,
   "illustration": "https://phira.5wyxi.com/files/67113829-8fc9-4791-9aad-54974b2427f1",
   "illustrator": "",

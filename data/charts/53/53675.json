@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:26Z",
-    "lastChanged": "2026-09-21T02:04:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-01T12:52:46.415636Z",
   "charter": "K0nGbawa",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.800001,
   "file": "https://phira.5wyxi.com/files/c7fe6e01-2030-4785-a058-1f9745b3a01d",
+  "hidden": false,
   "id": 53675,
   "illustration": "https://phira.5wyxi.com/files/115a859c-81db-4526-a8b2-1682f6cc9da3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "虛無さん",
   "preview": "https://phira.5wyxi.com/files/6391041c-cc60-47f3-b999-367c9149a155",
   "ranked": false,
-  "rating": 0.9118071,
-  "ratingCount": 263,
+  "rating": 0.9142492,
+  "ratingCount": 294,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

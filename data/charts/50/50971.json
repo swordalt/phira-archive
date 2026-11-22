@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:11Z",
-    "lastChanged": "2026-09-21T02:04:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-04T10:03:16.397012Z",
   "charter": "点缀・星空",
@@ -14,6 +14,7 @@
   "description": "本人没有谱面外内容的版权。如有侵权，请联系我删除。\n视频发布在我的B站同名账号 ，请多多支持！",
   "difficulty": 15.6,
   "file": "https://phira.5wyxi.com/files/400c98f5-44be-47f6-9365-4a54d0318523",
+  "hidden": false,
   "id": 50971,
   "illustration": "https://phira.5wyxi.com/files/9aff997f-c9c6-41f3-8f5a-c2116abd994f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "バゥムクゥヘン・エンドロゥル",
   "preview": "https://phira.5wyxi.com/files/f9fd6282-9369-4c00-9185-1a5a503f1c32",
   "ranked": false,
-  "rating": 0.9128806,
-  "ratingCount": 2719,
+  "rating": 0.9128853,
+  "ratingCount": 2810,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

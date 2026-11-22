@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:27Z",
-    "lastChanged": "2026-09-21T02:05:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-16T13:48:36.258837Z",
   "charter": "4536474",
@@ -14,6 +14,7 @@
   "description": "整活谱，呵呵呵呵呵呵呵呵呵呵～～",
   "difficulty": 1.0,
   "file": "https://phira.5wyxi.com/files/f8180386-5224-4030-9419-7484b0ca5c3c",
+  "hidden": false,
   "id": 31910,
   "illustration": "https://phira.5wyxi.com/files/c18d270a-3d9a-4d79-917e-d9eb2bb5a4fa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "放鞭炮",
   "preview": "https://phira.5wyxi.com/files/9756b5c3-4e4b-4ea3-a36a-62e0e2713eef",
   "ranked": false,
-  "rating": 0.7901918,
-  "ratingCount": 813,
+  "rating": 0.789155,
+  "ratingCount": 828,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:51Z",
-    "lastChanged": "2026-09-21T02:03:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-16T10:07:19.605092Z",
   "charter": "夜空.txt",
@@ -14,6 +14,7 @@
   "description": "新人写的第四张谱，希望多多支持，写的真的挺久的",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/9340ecb6-914b-4115-a407-43f4c1a405e6",
+  "hidden": false,
   "id": 46885,
   "illustration": "https://phira.5wyxi.com/files/12ac321b-f279-4e77-8471-1f02f2fced44",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "食通万物 修心修身",
   "preview": "https://phira.5wyxi.com/files/498849a7-6f7c-4715-8225-d6830a819f00",
   "ranked": false,
-  "rating": 0.94322246,
-  "ratingCount": 1124,
+  "rating": 0.9428932,
+  "ratingCount": 1179,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

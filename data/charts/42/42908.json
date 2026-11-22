@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:33Z",
-    "lastChanged": "2026-09-21T02:03:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-28T03:05:58.189778Z",
   "charter": "baby2016",
@@ -14,6 +14,7 @@
   "description": "B站：Baby_2016",
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/8392dae0-a2b6-4389-b0ac-e7e4cb5eb435",
+  "hidden": false,
   "id": 42908,
   "illustration": "https://phira.5wyxi.com/files/cf049414-a162-474b-bc54-5eef0df02405",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "N",
   "preview": "https://phira.5wyxi.com/files/0a646002-0f01-499b-b963-395573c73ca6",
   "ranked": false,
-  "rating": 0.95073044,
-  "ratingCount": 127,
+  "rating": 0.9479455,
+  "ratingCount": 142,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

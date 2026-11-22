@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:53Z",
-    "lastChanged": "2026-09-21T02:06:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-07T14:03:10.966091Z",
   "charter": "TEC109",
@@ -14,6 +14,7 @@
   "description": "本人上传\n616/2000，97.83%\n13+的巅峰爆发\n官谱旧谱真的太优雅了 粗糙模仿一下\n双指中难谱面，多指谨慎游玩",
   "difficulty": 13.900002,
   "file": "https://phira.5wyxi.com/files/1f923abe-8bcb-465f-bd21-b6ed383c3d81",
+  "hidden": false,
   "id": 60310,
   "illustration": "https://phira.5wyxi.com/files/e4e7e916-eeef-4c4e-9203-da14a08099d2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Chronostasis",
   "preview": "https://phira.5wyxi.com/files/45b3b721-14e8-4873-a0a7-71765600bd3a",
   "ranked": false,
-  "rating": 0.90023863,
-  "ratingCount": 35,
+  "rating": 0.900303,
+  "ratingCount": 36,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

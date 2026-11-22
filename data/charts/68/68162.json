@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:01Z",
-    "lastChanged": "2026-09-21T02:05:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-21T07:53:48.500059Z",
   "charter": "Zoom001",
@@ -14,6 +14,7 @@
   "description": "bye-bye owo。",
   "difficulty": 16.500002,
   "file": "https://phira.5wyxi.com/files/7232ba2f-efcc-4247-87ac-063091a48759",
+  "hidden": false,
   "id": 68162,
   "illustration": "https://phira.5wyxi.com/files/c4a6b534-6dc0-473b-93ac-7ad34411d26e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sink To The Deep Sea World",
   "preview": "https://phira.5wyxi.com/files/b928a8b3-65a8-42fd-81f2-ddc9eedcb1bd",
   "ranked": false,
-  "rating": 0.8820525,
-  "ratingCount": 56,
+  "rating": 0.8847522,
+  "ratingCount": 70,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-25T18:58:23Z",
-    "lastChanged": "2026-10-26T12:49:31Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:03:13Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-25T09:45:57.957650Z",
   "charter": "Anxiety",
@@ -14,6 +14,7 @@
   "description": "DFC 6th Dan Sіmple 单曲",
   "difficulty": 5.9,
   "file": "https://phira.5wyxi.com/files/61a48b04-0e58-4eb9-ad21-d89c323d0017",
+  "hidden": false,
   "id": 82157,
   "illustration": "https://phira.5wyxi.com/files/2a9fd5bd-28dd-40d3-9145-14d920de374e",
   "illustrator": "谷地（青鸟 modified）",
@@ -21,8 +22,8 @@
   "name": "Final Step! ",
   "preview": "https://phira.5wyxi.com/files/b929f31f-9940-4549-ba42-f5766f405f40",
   "ranked": false,
-  "rating": 0.83321184,
-  "ratingCount": 4,
+  "rating": 0.93157256,
+  "ratingCount": 577,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

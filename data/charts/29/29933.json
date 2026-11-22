@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:48Z",
-    "lastChanged": "2026-09-21T02:02:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-08T08:05:50.292526Z",
   "charter": "金康垃",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传 b站@一只小鏮垃awa",
   "difficulty": 14.100004,
   "file": "https://phira.5wyxi.com/files/52bea05e-a37e-4682-b24b-78e205357ff0",
+  "hidden": false,
   "id": 29933,
   "illustration": "https://phira.5wyxi.com/files/3288f0d2-27fd-4d95-ae37-6574f28112fa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Destiny Awaits",
   "preview": "https://phira.5wyxi.com/files/bddacedc-1d1c-4c7b-9068-abd5c9fbb4da",
   "ranked": false,
-  "rating": 0.83808076,
-  "ratingCount": 152,
+  "rating": 0.83896625,
+  "ratingCount": 153,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

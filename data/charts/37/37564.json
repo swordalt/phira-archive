@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:13Z",
-    "lastChanged": "2026-09-21T02:06:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-04T20:43:37.594391Z",
   "charter": "xlyeeの採音の力",
@@ -14,6 +14,7 @@
   "description": "个人的第三个自制谱，用时4天，作者：dy:xlyee",
   "difficulty": 14.6,
   "file": "https://phira.5wyxi.com/files/9ad577c9-bdd4-47a1-84a1-43ed81620721",
+  "hidden": false,
   "id": 37564,
   "illustration": "https://phira.5wyxi.com/files/1b3fe048-e5f5-493d-b497-88118ffdd965",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "巴别塔",
   "preview": "https://phira.5wyxi.com/files/c9245b32-716f-4a95-ab05-ab2d6d35f8e5",
   "ranked": false,
-  "rating": 0.92011386,
-  "ratingCount": 100,
+  "rating": 0.91990596,
+  "ratingCount": 103,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

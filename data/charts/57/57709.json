@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:40Z",
-    "lastChanged": "2026-09-21T02:04:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-03T13:33:50.073025Z",
   "charter": "元气哈基麦",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/e41ede87-9d21-4872-bb2d-1f56cd4c199d",
+  "hidden": false,
   "id": 57709,
   "illustration": "https://phira.5wyxi.com/files/fb7adbed-6585-447a-9132-85cc8e77a180",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "爱言叶V feat. 初音未来",
   "preview": "https://phira.5wyxi.com/files/f3c51afd-2269-4393-a7c5-ca96f3a4a21b",
   "ranked": false,
-  "rating": 0.9519159,
-  "ratingCount": 4195,
+  "rating": 0.9532071,
+  "ratingCount": 4653,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

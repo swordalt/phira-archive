@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:26Z",
-    "lastChanged": "2026-09-21T02:03:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-30T04:24:37.212067Z",
   "charter": "wephira",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n隐形黄键按中长条就行了\n打之前建议参考AUTOPLAY的手法[doge]",
   "difficulty": 12.000004,
   "file": "https://phira.5wyxi.com/files/45f0a91a-9301-44c6-9e2f-260f70de6862",
+  "hidden": false,
   "id": 40561,
   "illustration": "https://phira.5wyxi.com/files/3b48ccd5-fca6-4e02-8fe0-fb37b0d77263",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "大风吹",
   "preview": "https://phira.5wyxi.com/files/56c8d58f-299b-4142-8608-4c3f26eb7586",
   "ranked": false,
-  "rating": 0.9439072,
-  "ratingCount": 5685,
+  "rating": 0.9438779,
+  "ratingCount": 5935,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

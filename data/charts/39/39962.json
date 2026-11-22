@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:24Z",
-    "lastChanged": "2026-09-21T02:03:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-20T14:26:44.881871Z",
   "charter": "常态化离别",
@@ -14,6 +14,7 @@
   "description": "谱面文件制作过程为此账号所持者个人完成\n演示视频已上传BiliBili视频平台 视频号：BV1DrKPzaEUu\n首次上传约5天堪堪过审，导致过审后直接排在第二页，对此结果无法接受并更新谱面",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/f668ce3a-7b27-4b28-84f3-36dd8618eb05",
+  "hidden": false,
   "id": 39962,
   "illustration": "https://phira.5wyxi.com/files/6f705134-7e28-47b5-b175-3b952752bc6c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "white.roses",
   "preview": "https://phira.5wyxi.com/files/16692c8e-4e8a-469f-9c79-76b4454a7b1e",
   "ranked": false,
-  "rating": 0.9122124,
-  "ratingCount": 51,
+  "rating": 0.9153183,
+  "ratingCount": 53,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

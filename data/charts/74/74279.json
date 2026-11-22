@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:10Z",
-    "lastChanged": "2026-09-21T02:05:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-19T02:13:17.380486Z",
   "charter": "今夜は月が綺麗ですね",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/babe31bb-3eda-455a-9025-26c93bb35496",
+  "hidden": false,
   "id": 74279,
   "illustration": "https://phira.5wyxi.com/files/27ad0a6e-c755-4488-8292-f5a9fba888fa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "月が綺麗ねと言われたい！",
   "preview": "https://phira.5wyxi.com/files/1aab77bc-2b04-4607-9a5b-335ccd6a88bc",
   "ranked": false,
-  "rating": 0.9387068,
-  "ratingCount": 13819,
+  "rating": 0.9385928,
+  "ratingCount": 16510,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

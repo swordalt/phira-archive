@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:20Z",
-    "lastChanged": "2026-09-21T02:05:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-14T02:14:55.810715Z",
   "charter": "twotthrees emperror",
@@ -14,6 +14,7 @@
   "description": "应大家要求作出的削弱",
   "difficulty": 16.6,
   "file": "https://phira.5wyxi.com/files/307499f5-97ae-4a21-99ce-6e2a393b2fca",
+  "hidden": false,
   "id": 10414,
   "illustration": "https://phira.5wyxi.com/files/9d5934eb-ce6e-4955-8f05-0a521b1f1df0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Raven Emperor (Absolute Version)",
   "preview": "https://phira.5wyxi.com/files/97348fcd-c6fc-4dff-bf67-3ef553dd2fdf",
   "ranked": false,
-  "rating": 0.87971866,
-  "ratingCount": 1002,
+  "rating": 0.879695,
+  "ratingCount": 1005,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

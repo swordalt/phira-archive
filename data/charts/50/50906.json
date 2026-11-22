@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:43Z",
-    "lastChanged": "2026-09-21T02:06:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-02T14:57:20.695778Z",
   "charter": "RYE_殇儿",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n\n新年新气象\n殇儿的RYEextra重制版来了\n祝大家年年得吃！",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/c8103f61-b86e-4402-8e4e-7cdc79bbab54",
+  "hidden": false,
   "id": 50906,
   "illustration": "https://phira.5wyxi.com/files/e59cdf2f-af0b-4e17-a3ae-0e9f9179de3e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "DFC RYE-Team Extra Dan",
   "preview": "https://phira.5wyxi.com/files/9fcb622f-9fc7-4878-a5a6-670ee0f1e76a",
   "ranked": false,
-  "rating": 0.88369846,
-  "ratingCount": 29,
+  "rating": 0.87923306,
+  "ratingCount": 30,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

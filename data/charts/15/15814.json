@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:58Z",
-    "lastChanged": "2026-09-21T02:01:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-16T07:44:57.923264Z",
   "charter": "FhCello",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.7000065,
   "file": "https://phira.5wyxi.com/files/bacba0bf-500f-4af2-b08c-7b36d820f353",
+  "hidden": false,
   "id": 15814,
   "illustration": "https://phira.5wyxi.com/files/255de5b0-dadf-41b2-b826-341e21e28c29",
   "illustrator": "",

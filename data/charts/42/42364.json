@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:31Z",
-    "lastChanged": "2026-09-21T02:03:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-23T15:25:37.619825Z",
   "charter": "Alex Dreemurr",
@@ -14,6 +14,7 @@
   "description": "三角符文第四章泰坦战音乐，作者alexdreemurr b站同名。这次把整首曲子都放进去了。",
   "difficulty": 13.1,
   "file": "https://phira.5wyxi.com/files/23b37637-b703-4915-87b2-595c47791c75",
+  "hidden": false,
   "id": 42364,
   "illustration": "https://phira.5wyxi.com/files/1e1b33ec-9153-4932-bae8-a94e75710cfc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Guardian",
   "preview": "https://phira.5wyxi.com/files/fcd59021-9924-41eb-beb6-5114841e05fc",
   "ranked": false,
-  "rating": 0.9270431,
-  "ratingCount": 559,
+  "rating": 0.9297047,
+  "ratingCount": 618,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:24Z",
-    "lastChanged": "2026-09-21T02:04:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-26T02:14:32.900846Z",
   "charter": "BhwP_123",
@@ -14,6 +14,7 @@
   "description": "b站 BhwP_123\n写的还算纯良的一张谱（\n谢谢大家\n键盘",
   "difficulty": 16.800003,
   "file": "https://phira.5wyxi.com/files/cda5d7a1-673a-4286-adfe-1b67a2ab521e",
+  "hidden": false,
   "id": 53422,
   "illustration": "https://phira.5wyxi.com/files/80b75171-0e10-4dbd-a951-d9a9fd9614f2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "End Time",
   "preview": "https://phira.5wyxi.com/files/b5892ff8-4c80-4694-bc12-10fc91ef7de4",
   "ranked": false,
-  "rating": 0.7936,
-  "ratingCount": 127,
+  "rating": 0.7986017,
+  "ratingCount": 137,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

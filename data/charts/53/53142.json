@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-27T08:02:44Z",
-    "lastChanged": "2026-10-04T10:53:42Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:02:41Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-02-21T18:09:34.027132Z",
   "charter": "WHQ-IIN",
@@ -14,6 +14,7 @@
   "description": "听说你喜欢打纵？",
   "difficulty": 18.4,
   "file": "https://phira.5wyxi.com/files/69716324-d53d-4870-8449-c014013208de",
+  "hidden": false,
   "id": 53142,
   "illustration": "https://phira.5wyxi.com/files/2b59fdc6-cdc5-40c2-9232-33176d52b612",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "幸せになれる隠しコマンドがあるらしい",
   "preview": "https://phira.5wyxi.com/files/b95dc062-b97c-4132-9a6b-4b75298ac237",
   "ranked": false,
-  "rating": 0.7913506,
-  "ratingCount": 2,
+  "rating": 0.7804202,
+  "ratingCount": 16,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:04Z",
-    "lastChanged": "2026-09-21T02:06:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-20T14:27:36.388878Z",
   "charter": "koncecy2365",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.000006,
   "file": "https://phira.5wyxi.com/files/6ed440fd-4f6e-4884-aa5f-10c17fdf9ca1",
+  "hidden": false,
   "id": 29916,
   "illustration": "https://phira.5wyxi.com/files/664c436c-491c-4e90-b8fc-0fcb404b0331",
   "illustrator": "",

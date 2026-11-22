@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:25Z",
-    "lastChanged": "2026-09-21T02:02:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-22T15:36:17.341180Z",
   "charter": "NC Vigour",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/4ee6fc2f-4bfe-4d88-bb89-0854eae9e244",
+  "hidden": false,
   "id": 24101,
   "illustration": "https://phira.5wyxi.com/files/bbc92f10-e8aa-4215-b222-736d0725e1d7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "RE Aoharu",
   "preview": "https://phira.5wyxi.com/files/6fbf2067-4dc5-4c07-97d0-8fe2bd9aac19",
   "ranked": true,
-  "rating": 0.96315193,
-  "ratingCount": 36781,
+  "rating": 0.9628792,
+  "ratingCount": 37617,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

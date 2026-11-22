@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:45Z",
-    "lastChanged": "2026-09-21T02:02:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-28T13:46:36.021841Z",
   "charter": "7sRef•CeNx",
@@ -14,6 +14,7 @@
   "description": "PHASE #1",
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/08920e55-956a-438f-aec7-fe9d654835d4",
+  "hidden": false,
   "id": 29192,
   "illustration": "https://phira.5wyxi.com/files/40e40f7c-0bbd-4bfe-8dad-9731fb9d8dc7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Cryptarithm",
   "preview": "https://phira.5wyxi.com/files/ca8d507d-364c-4ba1-abf4-f0638c26527f",
   "ranked": false,
-  "rating": 0.7332828,
-  "ratingCount": 123,
+  "rating": 0.73454267,
+  "ratingCount": 124,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

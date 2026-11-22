@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:48Z",
-    "lastChanged": "2026-09-21T02:03:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-01T09:53:46.505290Z",
   "charter": "5th WJC",
@@ -14,6 +14,7 @@
   "description": "大家好啊，今天继续写点不一样的\n——————————————\n本人上传，B站@超爱吃盐的盐盐",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/678f4d2a-9135-4e06-b969-3e9e36a95524",
+  "hidden": false,
   "id": 46258,
   "illustration": "https://phira.5wyxi.com/files/03fffda9-4c20-4530-b4f8-b016b51c67ff",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Chicken Soup",
   "preview": "https://phira.5wyxi.com/files/7ec1d361-6c5b-4140-9fe7-4bb348a0b7ed",
   "ranked": false,
-  "rating": 0.922193,
-  "ratingCount": 161,
+  "rating": 0.92259276,
+  "ratingCount": 162,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

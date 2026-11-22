@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:25Z",
-    "lastChanged": "2026-09-21T02:01:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-08T13:44:08.382446Z",
   "charter": "Snowball VS Basketball",
@@ -14,6 +14,7 @@
   "description": "WJC参赛谱面NO.9\n音乐：BV178411Y7QB\n曲师：bilibili@哦呼w\n曲绘：bilibili@阿卡AkaHuhu\n是常规谱面\n--------\n23.8.18：偏移修正",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/ecf55d3c-fcdf-4db1-b412-8d98c08a2d41",
+  "hidden": false,
   "id": 7112,
   "illustration": "https://phira.5wyxi.com/files/8214d53a-3164-42e6-8d2b-8079e9c368e2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "国风鸡你太美（哦呼w remix）",
   "preview": "https://phira.5wyxi.com/files/1f7a00c3-892b-4fda-9a98-85b5fee37071",
   "ranked": false,
-  "rating": 0.9401026,
-  "ratingCount": 27563,
+  "rating": 0.94010377,
+  "ratingCount": 27721,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

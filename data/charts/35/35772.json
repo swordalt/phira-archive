@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:09Z",
-    "lastChanged": "2026-09-21T02:03:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-28T07:15:54.209550Z",
   "charter": "Muji",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/5697066d-362c-4d70-a2c3-99edc26f14cb",
+  "hidden": false,
   "id": 35772,
   "illustration": "https://phira.5wyxi.com/files/3fbadb82-d721-4fd2-b16e-8554fbbc7637",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ne Me Relinque",
   "preview": "https://phira.5wyxi.com/files/d84384a5-e2ce-4526-a6c8-d0d75a0732f5",
   "ranked": false,
-  "rating": 0.95923084,
-  "ratingCount": 1088,
+  "rating": 0.9581637,
+  "ratingCount": 1142,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:36Z",
-    "lastChanged": "2026-09-21T02:03:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-03T11:22:11.654530Z",
   "charter": "SunDay23:59",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nB站同名",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/5c5ce4a7-5e4b-45f3-ac2c-8f6b9b0a2f2c",
+  "hidden": false,
   "id": 43587,
   "illustration": "https://phira.5wyxi.com/files/3c0c9654-f845-4ea6-aefd-b3e8b2af0f68",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ALL☆NIGHTER!",
   "preview": "https://phira.5wyxi.com/files/f3880f5e-3e32-43d0-922f-5b7455e49820",
   "ranked": false,
-  "rating": 0.9009861,
-  "ratingCount": 353,
+  "rating": 0.9022665,
+  "ratingCount": 355,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

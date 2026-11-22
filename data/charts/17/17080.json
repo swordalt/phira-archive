@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:03Z",
-    "lastChanged": "2026-09-21T02:02:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-12T05:17:37.879698Z",
   "charter": "o1b(PT Charting Team)",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 6.0,
   "file": "https://phira.5wyxi.com/files/aa44f5ef-e800-4fc5-bdf3-580cf7b24d82",
+  "hidden": false,
   "id": 17080,
   "illustration": "https://phira.5wyxi.com/files/00a86626-07e7-4e15-bfb9-66158b6b270d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dragonflame",
   "preview": "https://phira.5wyxi.com/files/9078be00-26bc-4e22-93bd-8dae3391dea2",
   "ranked": false,
-  "rating": 0.93926156,
-  "ratingCount": 418,
+  "rating": 0.94026434,
+  "ratingCount": 425,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

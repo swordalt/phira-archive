@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:13Z",
-    "lastChanged": "2026-09-21T02:05:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-30T03:21:32.080656Z",
   "charter": "Illutionary//Verisimilar",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 17.7,
   "file": "https://phira.5wyxi.com/files/3283ea81-fbec-4837-b815-8c2402c06f40",
+  "hidden": false,
   "id": 76067,
   "illustration": "https://phira.5wyxi.com/files/e772a51e-980d-462f-8bd3-d4efab12ce6f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Alter//Strife",
   "preview": "https://phira.5wyxi.com/files/2732b3f4-94ed-45a1-a8c5-b30b80f03ad2",
   "ranked": false,
-  "rating": 0.9386029,
-  "ratingCount": 265,
+  "rating": 0.941087,
+  "ratingCount": 302,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

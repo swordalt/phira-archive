@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-23T19:06:35Z",
-    "lastChanged": "2026-11-15T12:21:07Z",
-    "revisions": 5
+    "lastChanged": "2026-11-22T12:59:28Z",
+    "revisions": 6
   },
   "chartUpdated": "2026-10-23T04:56:41.470986Z",
   "charter": "XXXX1nH",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/99ecf680-d925-4d95-96ec-9e4b1aae1700",
+  "hidden": false,
   "id": 81796,
   "illustration": "https://phira.5wyxi.com/files/f7267df6-1991-4624-a0b2-0603caba8849",
   "illustrator": "ENTACL GRAPHICXXX(Chloe modified)",
@@ -21,8 +22,8 @@
   "name": "folern",
   "preview": "https://phira.5wyxi.com/files/fd7eb798-5eb2-4474-a819-5c11e3d4b0f3",
   "ranked": false,
-  "rating": 0.94137925,
-  "ratingCount": 458,
+  "rating": 0.9405629,
+  "ratingCount": 512,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:36Z",
-    "lastChanged": "2026-09-21T02:04:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-15T15:41:58.281413Z",
   "charter": "不想玩米哈游",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/482fbc52-cccd-4199-b3a7-a1b7d183708e",
+  "hidden": false,
   "id": 56417,
   "illustration": "https://phira.5wyxi.com/files/e55bf7f6-4e10-43dc-a8fb-1f54433ddc38",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Inverted World",
   "preview": "https://phira.5wyxi.com/files/6680927e-81b2-48ac-a34a-ac0074b31cb2",
   "ranked": false,
-  "rating": 0.8827935,
-  "ratingCount": 120,
+  "rating": 0.880536,
+  "ratingCount": 134,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

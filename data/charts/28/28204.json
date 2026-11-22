@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:01Z",
-    "lastChanged": "2026-09-21T02:06:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-01T23:37:31.361087Z",
   "charter": "adofai2pec_macro_by_Lipcu",
@@ -14,6 +14,7 @@
   "description": "APC季军赛谱面",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/1d0c6757-18f4-4f1f-8cd4-60b5315699fc",
+  "hidden": false,
   "id": 28204,
   "illustration": "https://phira.5wyxi.com/files/252caa52-0971-45e8-a028-06e59c8e0c21",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Cursed Metamorph",
   "preview": "https://phira.5wyxi.com/files/7547925d-7dba-48e3-b6ef-28c22f37714e",
   "ranked": false,
-  "rating": 0.9387838,
-  "ratingCount": 35,
+  "rating": 0.9403119,
+  "ratingCount": 36,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

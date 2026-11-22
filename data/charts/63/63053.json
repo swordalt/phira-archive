@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:52Z",
-    "lastChanged": "2026-09-21T02:04:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-28T20:32:30.134117Z",
   "charter": "SMCharter",
@@ -14,6 +14,7 @@
   "description": "(en-US) BV1ntTg6JEYq",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/48f37d65-c4c0-47c0-b58c-9c6aa864b858",
+  "hidden": false,
   "id": 63053,
   "illustration": "https://phira.5wyxi.com/files/a86a4d63-fad0-468c-b355-efbe3f7054dc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Kaleidoscope",
   "preview": "https://phira.5wyxi.com/files/a74b6000-75e3-4859-b1e8-1f4df7a8f462",
   "ranked": false,
-  "rating": 0.9178928,
-  "ratingCount": 274,
+  "rating": 0.914345,
+  "ratingCount": 288,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:22Z",
-    "lastChanged": "2026-09-21T02:04:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-19T01:21:47.013859Z",
   "charter": "sta_bloyz",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 18.300005,
   "file": "https://phira.5wyxi.com/files/f6511898-749b-4e6d-a196-ba195b18abe1",
+  "hidden": false,
   "id": 52943,
   "illustration": "https://phira.5wyxi.com/files/c68dc3c5-80d8-46d0-b209-d4128f00acca",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bismuth",
   "preview": "https://phira.5wyxi.com/files/e7317680-9702-4e25-86ed-5cb079848423",
   "ranked": false,
-  "rating": 0.967425,
-  "ratingCount": 512,
+  "rating": 0.967808,
+  "ratingCount": 564,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

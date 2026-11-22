@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:22Z",
-    "lastChanged": "2026-09-21T02:04:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-16T22:27:44.559931Z",
   "charter": "Alysphine",
@@ -14,6 +14,7 @@
   "description": "本人上传，B站BV1zYcnz5Eky，未上架-常规搜索Alysphine成为赤石英雄",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/c12abbc2-9b45-46c2-8fdd-ea05207eff84",
+  "hidden": false,
   "id": 52828,
   "illustration": "https://phira.5wyxi.com/files/32d736a3-25cd-470a-91a7-60b887cfaa9b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Disorder",
   "preview": "https://phira.5wyxi.com/files/f84bf777-5606-4db1-8e2e-f37e28d9a4dc",
   "ranked": false,
-  "rating": 0.900725,
-  "ratingCount": 268,
+  "rating": 0.9020577,
+  "ratingCount": 288,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:18Z",
-    "lastChanged": "2026-09-21T02:06:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-02T06:31:13.798457Z",
   "charter": "-墨江本江-",
@@ -14,6 +14,7 @@
   "description": "此为1.0版本（已更新2.0版本）",
   "difficulty": 13.000005,
   "file": "https://phira.5wyxi.com/files/6c49830d-ed1b-405b-b8f2-85ec230ae87e",
+  "hidden": false,
   "id": 40152,
   "illustration": "https://phira.5wyxi.com/files/18299f7c-04b0-43a6-82cf-bdc7841c81ca",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "向修女忏悔吧（中文填词版）",
   "preview": "https://phira.5wyxi.com/files/c640d74e-964b-4419-8a93-046bc843db97",
   "ranked": false,
-  "rating": 0.888864,
-  "ratingCount": 93,
+  "rating": 0.88892585,
+  "ratingCount": 103,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:03Z",
-    "lastChanged": "2026-09-21T02:04:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-17T11:21:18.990899Z",
   "charter": "BeVeath",
@@ -14,6 +14,7 @@
   "description": "感谢游玩，喜欢的话请前往哔哩哔哩@BeVeath关注我嗷~新人初谱，制谱不易，请多关照QwQ",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/1069e508-9661-4551-baeb-e4d5cd7a5de9",
+  "hidden": false,
   "id": 49249,
   "illustration": "https://phira.5wyxi.com/files/576cede3-8f04-4742-b820-f4fc2527ca59",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Beast Hunter",
   "preview": "https://phira.5wyxi.com/files/40a1d21d-f263-4f04-b413-191cde7f6b51",
   "ranked": false,
-  "rating": 0.90102994,
-  "ratingCount": 139,
+  "rating": 0.9027686,
+  "ratingCount": 145,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

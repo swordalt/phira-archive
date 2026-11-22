@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-18T10:55:53Z",
-    "lastChanged": "2026-10-23T19:06:40Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:03:13Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-18T06:12:43.591909Z",
   "charter": "Anxiety",
@@ -14,6 +14,7 @@
   "description": "DFC 7th Dan Speed 单曲",
   "difficulty": 7.1,
   "file": "https://phira.5wyxi.com/files/ee8bc297-808e-4098-8f89-9cb2f914ddf4",
+  "hidden": false,
   "id": 81487,
   "illustration": "https://phira.5wyxi.com/files/926675ef-c381-4f2f-a0dd-445ff4af5fd6",
   "illustrator": "Re:Rin",
@@ -21,8 +22,8 @@
   "name": "Emptiness",
   "preview": "https://phira.5wyxi.com/files/8f940a4a-0749-4d07-84f9-b65dfe918cb3",
   "ranked": false,
-  "rating": 0.83940613,
-  "ratingCount": 12,
+  "rating": 0.91725487,
+  "ratingCount": 38,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

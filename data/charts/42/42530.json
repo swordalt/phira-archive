@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:32Z",
-    "lastChanged": "2026-09-21T02:03:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-23T11:53:13.606633Z",
   "charter": "Cattleya Decoration",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.400001,
   "file": "https://phira.5wyxi.com/files/9d5a506c-7d50-443d-a65e-c2603f216860",
+  "hidden": false,
   "id": 42530,
   "illustration": "https://phira.5wyxi.com/files/1962c963-2e0f-45c4-8fa4-0b407763204b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ビターチョコデコレーション",
   "preview": "https://phira.5wyxi.com/files/ee141397-56be-4008-be1f-c980fbadb8c5",
   "ranked": false,
-  "rating": 0.92027473,
-  "ratingCount": 423,
+  "rating": 0.91932815,
+  "ratingCount": 438,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

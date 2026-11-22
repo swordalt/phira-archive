@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:32Z",
-    "lastChanged": "2026-09-21T02:05:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-03T02:18:20.881578Z",
   "charter": "user_0113386",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/375b21cc-6426-4ca8-9eed-c518a93bd780",
+  "hidden": false,
   "id": 47516,
   "illustration": "https://phira.5wyxi.com/files/b6c653ef-ae77-4608-a0b8-4ed9689eac65",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "蛋仔闹新春",
   "preview": "https://phira.5wyxi.com/files/03caf7c7-2847-49d4-a2dd-722a4e5168cd",
   "ranked": false,
-  "rating": 0.8822968,
-  "ratingCount": 147,
+  "rating": 0.88318723,
+  "ratingCount": 161,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

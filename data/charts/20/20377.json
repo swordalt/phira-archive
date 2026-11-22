@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:14Z",
-    "lastChanged": "2026-09-21T02:02:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-25T18:00:54.476484Z",
   "charter": "Yamikari ",
@@ -14,6 +14,7 @@
   "description": "Charted by Yamikari ( Old phira username TheIceFox )\nDiscord username : theicefox",
   "difficulty": 15.8,
   "file": "https://phira.5wyxi.com/files/b1447fd6-a615-497c-b2b0-c1d6fda77e27",
+  "hidden": false,
   "id": 20377,
   "illustration": "https://phira.5wyxi.com/files/6efe1f60-46ee-4405-a9d0-61099f15568f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Eviternity",
   "preview": "https://phira.5wyxi.com/files/85b0d039-d1d7-4f2e-a462-a83ae656c8cf",
   "ranked": false,
-  "rating": 0.82892203,
-  "ratingCount": 199,
+  "rating": 0.8280993,
+  "ratingCount": 206,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

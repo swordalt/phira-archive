@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:20Z",
-    "lastChanged": "2026-09-21T02:01:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-22T08:12:23.720803Z",
   "charter": "Calatis & Purplstar",
@@ -14,6 +14,7 @@
   "description": "谱师有俩个人（Calatis跟我）",
   "difficulty": 18.000008,
   "file": "https://phira.5wyxi.com/files/4ac7c328-806c-4273-984f-a4dc855d8759",
+  "hidden": false,
   "id": 5579,
   "illustration": "https://phira.5wyxi.com/files/86a2e053-44c7-4356-ac43-8b8b92db5060",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Crazy Tek",
   "preview": "https://phira.5wyxi.com/files/a65dbd1f-1ee4-4c30-b8e1-dc8a91acd115",
   "ranked": false,
-  "rating": 0.89762557,
-  "ratingCount": 2453,
+  "rating": 0.8987224,
+  "ratingCount": 2499,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

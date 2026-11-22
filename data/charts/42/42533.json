@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:25Z",
-    "lastChanged": "2026-09-21T02:06:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-23T12:24:23.244274Z",
   "charter": "易HYEYR",
@@ -14,6 +14,7 @@
   "description": "新人初谱,本人上传，动效不会写所以没有",
   "difficulty": 17.199999,
   "file": "https://phira.5wyxi.com/files/943c9f9a-b4e2-425e-a403-47ac5d3379bd",
+  "hidden": false,
   "id": 42533,
   "illustration": "https://phira.5wyxi.com/files/c47e8789-7b2c-4317-bf4e-109ebce39828",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Möbius",
   "preview": "https://phira.5wyxi.com/files/9810962a-a379-416e-b0e8-b15396828330",
   "ranked": false,
-  "rating": 0.84428275,
-  "ratingCount": 48,
+  "rating": 0.8472586,
+  "ratingCount": 49,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:15Z",
-    "lastChanged": "2026-09-21T02:06:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-24T06:04:37.429370Z",
   "charter": "I see (Icy) cnuse ",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n写得还可以",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/eff06c2a-edd1-4878-a2fa-4480b125dde5",
+  "hidden": false,
   "id": 38558,
   "illustration": "https://phira.5wyxi.com/files/7e671bd7-7f9d-4ec2-bb8b-13d9d857eaf9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Icicle Stinger",
   "preview": "https://phira.5wyxi.com/files/399549e1-fdd5-4288-b9b3-cf9137f3dcf5",
   "ranked": false,
-  "rating": 0.92015517,
-  "ratingCount": 74,
+  "rating": 0.928194,
+  "ratingCount": 84,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

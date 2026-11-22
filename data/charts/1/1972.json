@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:11Z",
-    "lastChanged": "2026-09-21T02:01:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-14T02:59:42.627679Z",
   "charter": "Emarqly.",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 14.600002,
   "file": "https://phira.5wyxi.com/files/aff60850-c59c-4581-a008-b2ac9f047c5d",
+  "hidden": false,
   "id": 1972,
   "illustration": "https://phira.5wyxi.com/files/b866595b-3cd7-4cb8-ad76-e55e65b8e6cb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "田中",
   "preview": "https://phira.5wyxi.com/files/1ed22dec-ed3b-49ef-a761-4d342212c3e1",
   "ranked": false,
-  "rating": 0.8204164,
-  "ratingCount": 443,
+  "rating": 0.8208765,
+  "ratingCount": 446,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

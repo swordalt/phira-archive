@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:46Z",
-    "lastChanged": "2026-09-21T02:05:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-17T15:05:05.914848Z",
   "charter": "股神",
@@ -14,6 +14,7 @@
   "description": "本人上传，难度较低所以流速调慢了",
   "difficulty": 9.999998,
   "file": "https://phira.5wyxi.com/files/525f4d2e-d5db-436d-a699-54a2a20e4a24",
+  "hidden": false,
   "id": 18594,
   "illustration": "https://phira.5wyxi.com/files/8d0480d9-aed3-47f1-ab10-ff2301d4c7df",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Cthugha",
   "preview": "https://phira.5wyxi.com/files/42bbac99-7818-48fe-a153-b8f86d535415",
   "ranked": false,
-  "rating": 0.8864657,
-  "ratingCount": 485,
+  "rating": 0.8873182,
+  "ratingCount": 488,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

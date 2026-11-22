@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:01Z",
-    "lastChanged": "2026-09-21T02:06:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-15T16:43:10.263558Z",
   "charter": "CM4230",
@@ -14,6 +14,7 @@
   "description": "b站账号:Calmの0324欢迎反馈",
   "difficulty": 19.0,
   "file": "https://phira.5wyxi.com/files/0ed2d7b2-044d-47a8-8982-605646c7612a",
+  "hidden": false,
   "id": 27726,
   "illustration": "https://phira.5wyxi.com/files/ce100c07-afa1-4cef-8925-b25842b1696d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Jingle",
   "preview": "https://phira.5wyxi.com/files/c919a9f0-c231-4f08-a750-a63c118e0249",
   "ranked": false,
-  "rating": 0.92413855,
-  "ratingCount": 45,
+  "rating": 0.9256602,
+  "ratingCount": 46,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

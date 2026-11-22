@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:52Z",
-    "lastChanged": "2026-09-21T02:05:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-08T09:19:03.735440Z",
   "charter": "BlackSHAO",
@@ -14,6 +14,7 @@
   "description": "写的不好QAQ，切比看了后死掉了，本人上传喵，玩的开心喵！",
   "difficulty": 35.0,
   "file": "https://phira.5wyxi.com/files/4ff54fef-e6bc-41bb-92db-75e3015d74d1",
+  "hidden": false,
   "id": 22956,
   "illustration": "https://phira.5wyxi.com/files/81f54be8-436a-418d-9b94-701870462ca5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Blue Zenith",
   "preview": "https://phira.5wyxi.com/files/cf4e12e7-285b-40fa-bc72-935f701a2888",
   "ranked": false,
-  "rating": 0.92890453,
-  "ratingCount": 133,
+  "rating": 0.9295845,
+  "ratingCount": 137,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

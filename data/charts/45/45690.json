@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:32Z",
-    "lastChanged": "2026-09-21T02:06:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-25T17:00:07.333059Z",
   "charter": "蜜任",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/c48a38e4-4afb-4fc4-aa8a-ac092af44bde",
+  "hidden": false,
   "id": 45690,
   "illustration": "https://phira.5wyxi.com/files/1e71fce7-227e-43ac-a01d-06287045ead6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "明日への扉 (通往明天的门)",
   "preview": "https://phira.5wyxi.com/files/65b622af-13cc-4afb-a2e1-4efad5a0984d",
   "ranked": false,
-  "rating": 0.83545965,
-  "ratingCount": 11,
+  "rating": 0.8538788,
+  "ratingCount": 13,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

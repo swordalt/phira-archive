@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:20Z",
-    "lastChanged": "2026-09-21T02:05:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-15T11:49:19.437226Z",
   "charter": "吃不到三彩团子",
@@ -14,6 +14,7 @@
   "description": "整活谱",
   "difficulty": 1.6000001,
   "file": "https://phira.5wyxi.com/files/e48a9433-4691-4bf3-a03e-4e76027e5e10",
+  "hidden": false,
   "id": 7705,
   "illustration": "https://phira.5wyxi.com/files/9decdc29-2d5b-4737-abb9-9ce7a99342ba",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Stasis",
   "preview": "https://phira.5wyxi.com/files/ba54c2f2-aced-40cf-b874-5f1cde668dec",
   "ranked": false,
-  "rating": 0.780845,
-  "ratingCount": 1240,
+  "rating": 0.7805188,
+  "ratingCount": 1247,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

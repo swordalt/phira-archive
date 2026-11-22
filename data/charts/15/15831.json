@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:58Z",
-    "lastChanged": "2026-09-21T02:01:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-16T10:43:05.057022Z",
   "charter": "shabu5553",
@@ -14,6 +14,7 @@
   "description": "有些多指",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/de2043f1-f567-4e6d-a713-03dacbe02958",
+  "hidden": false,
   "id": 15831,
   "illustration": "https://phira.5wyxi.com/files/c2938860-6bad-488b-8d1a-72b551e86d8b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "赴大荒",
   "preview": "https://phira.5wyxi.com/files/1bde6a15-525b-4b17-8553-fff61e1f9935",
   "ranked": false,
-  "rating": 0.85903436,
-  "ratingCount": 810,
+  "rating": 0.8603118,
+  "ratingCount": 828,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

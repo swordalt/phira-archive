@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:27Z",
-    "lastChanged": "2026-09-21T02:04:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-07T13:13:19.167697Z",
   "charter": "SeaSinvo",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.1,
   "file": "https://phira.5wyxi.com/files/e774eed7-d643-4248-97fe-00796951925b",
+  "hidden": false,
   "id": 53933,
   "illustration": "https://phira.5wyxi.com/files/e555f6cc-a122-4d0e-8d74-ae26b3a1c203",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "乱蝶",
   "preview": "https://phira.5wyxi.com/files/40acdea5-9ff7-4f70-8c2b-19c90ebc72e3",
   "ranked": false,
-  "rating": 0.873895,
-  "ratingCount": 44,
+  "rating": 0.88369435,
+  "ratingCount": 48,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

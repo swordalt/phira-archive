@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:10Z",
-    "lastChanged": "2026-09-21T02:03:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-04T07:01:17.100817Z",
   "charter": "1.二十七",
@@ -14,6 +14,7 @@
   "description": "谱面本人创作，pjsk曲目",
   "difficulty": 15.9000025,
   "file": "https://phira.5wyxi.com/files/088a9f28-ba2a-4bcd-b64f-b6e3ac173015",
+  "hidden": false,
   "id": 36107,
   "illustration": "https://phira.5wyxi.com/files/efbc8e69-f3d3-4aa7-9434-de6bd0b0f7c6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "余花にみとれて",
   "preview": "https://phira.5wyxi.com/files/c8df9e31-0f88-4a0c-b277-5822e3d8fd54",
   "ranked": false,
-  "rating": 0.8305136,
-  "ratingCount": 52,
+  "rating": 0.8346898,
+  "ratingCount": 54,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

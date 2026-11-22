@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:14Z",
-    "lastChanged": "2026-09-21T02:01:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-11T15:03:32.319510Z",
   "charter": "CRAEmix",
@@ -14,6 +14,7 @@
   "description": "重传，对配置与表演进行了大规模优化",
   "difficulty": 16.6,
   "file": "https://phira.5wyxi.com/files/4b735a3a-d6cb-452c-9af7-e8ab65049ff3",
+  "hidden": false,
   "id": 3207,
   "illustration": "https://phira.5wyxi.com/files/a90ce9e6-1230-4951-8d66-8134d1616b71",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Picasso",
   "preview": "https://phira.5wyxi.com/files/a285d38d-8ea4-4f5d-92e4-9bd8666c856b",
   "ranked": false,
-  "rating": 0.8567799,
-  "ratingCount": 532,
+  "rating": 0.8572906,
+  "ratingCount": 537,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:35Z",
-    "lastChanged": "2026-09-21T02:02:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-18T07:56:59.391172Z",
   "charter": "提米SaMa",
@@ -14,6 +14,7 @@
   "description": "嘤",
   "difficulty": 15.400001,
   "file": "https://phira.5wyxi.com/files/21f81df3-c1a1-4a30-89ae-694c4f52a9d0",
+  "hidden": false,
   "id": 26514,
   "illustration": "https://phira.5wyxi.com/files/8e551d28-3963-4610-9ebc-1b0e08223d6d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "じゃあな/再见呐",
   "preview": "https://phira.5wyxi.com/files/61bac39c-318d-4a63-9ce7-a371ea284166",
   "ranked": false,
-  "rating": 0.88006806,
-  "ratingCount": 165,
+  "rating": 0.88090307,
+  "ratingCount": 166,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:16Z",
-    "lastChanged": "2026-09-21T02:02:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-10T08:39:09.829480Z",
   "charter": "UNreal1ty",
@@ -14,6 +14,7 @@
   "description": "个人上传，修改了超界note\n若重复上传请保留最新版本",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/95f9c41e-add4-49a0-aaf1-8be1dea17370",
+  "hidden": false,
   "id": 21127,
   "illustration": "https://phira.5wyxi.com/files/9e2b6a0c-4c8c-493f-a2be-fc791b9a36b8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Latitude",
   "preview": "https://phira.5wyxi.com/files/810d7940-7a62-440d-b6ab-80b95d34855f",
   "ranked": false,
-  "rating": 0.84418625,
-  "ratingCount": 335,
+  "rating": 0.8445264,
+  "ratingCount": 337,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

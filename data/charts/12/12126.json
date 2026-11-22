@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:43Z",
-    "lastChanged": "2026-09-21T02:01:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-03T14:24:45.798985Z",
   "charter": "吉他王者【喵猫鱼】",
@@ -14,6 +14,7 @@
   "description": "本人上传，常看常新。",
   "difficulty": 14.300001,
   "file": "https://phira.5wyxi.com/files/9f27819a-4f96-4d7e-b1c7-087c73cd34d4",
+  "hidden": false,
   "id": 12126,
   "illustration": "https://phira.5wyxi.com/files/054f30ac-b25a-42cd-9840-afba08806e0b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ghost Fight",
   "preview": "https://phira.5wyxi.com/files/7acbd166-c0a2-4fb6-a757-8188be354636",
   "ranked": false,
-  "rating": 0.94568956,
-  "ratingCount": 1148,
+  "rating": 0.9457056,
+  "ratingCount": 1157,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

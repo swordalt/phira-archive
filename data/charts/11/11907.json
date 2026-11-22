@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:43Z",
-    "lastChanged": "2026-09-21T02:01:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-28T14:20:14.603441Z",
   "charter": "Murown",
@@ -14,6 +14,7 @@
   "description": "拍砖警告",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/4cb68603-d70a-439a-959d-8da709b89de0",
+  "hidden": false,
   "id": 11907,
   "illustration": "https://phira.5wyxi.com/files/15323798-04e9-4f9f-bd6c-e7f94b5ecada",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "Dogbite",
   "preview": "https://phira.5wyxi.com/files/2b0908ec-c07b-441f-a77d-3d8871adc80a",
   "ranked": false,
-  "rating": 0.7824297,
+  "rating": 0.7832873,
   "ratingCount": 256,
   "reviewed": true,
   "stable": false,

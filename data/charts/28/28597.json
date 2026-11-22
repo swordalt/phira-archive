@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:02Z",
-    "lastChanged": "2026-09-21T02:06:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-09T12:30:54.782626Z",
   "charter": "307o",
@@ -14,6 +14,7 @@
   "description": "本人",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/677b60fc-11f6-4cb9-8cd2-2774d8bfdc50",
+  "hidden": false,
   "id": 28597,
   "illustration": "https://phira.5wyxi.com/files/7ee916e6-9cae-4b69-8ca5-c22534cd1ba4",
   "illustrator": "",

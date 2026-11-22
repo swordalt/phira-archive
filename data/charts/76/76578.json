@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:02Z",
-    "lastChanged": "2026-09-21T02:07:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-30T10:41:58.222233Z",
   "charter": "HRS-Team",
@@ -14,6 +14,7 @@
   "description": "HRS-Lv.15-Pattern单曲",
   "difficulty": 15.499999,
   "file": "https://phira.5wyxi.com/files/f1ae3435-0164-4d68-a430-da9c64c6837a",
+  "hidden": false,
   "id": 76578,
   "illustration": "https://phira.5wyxi.com/files/f1677aeb-0b14-482c-b2d6-1fd46b4ebe07",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "氷面鏡",
   "preview": "https://phira.5wyxi.com/files/6b91931d-9a54-45d7-8615-c6ba0f04826c",
   "ranked": false,
-  "rating": 0.91579604,
-  "ratingCount": 16,
+  "rating": 0.93140805,
+  "ratingCount": 22,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

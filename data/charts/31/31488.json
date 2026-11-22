@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:55Z",
-    "lastChanged": "2026-09-21T02:02:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-06T01:55:57.836891Z",
   "charter": "インドア系ならかすてら食べろ",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/59db9f98-9ec5-428b-ae5f-842e6a2047d5",
+  "hidden": false,
   "id": 31488,
   "illustration": "https://phira.5wyxi.com/files/03b7229a-109d-4400-a789-8980a905d9ca",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "インドア系ならトラックメイカー",
   "preview": "https://phira.5wyxi.com/files/c1d4e65a-930b-4d92-9f00-e2d627f9cee7",
   "ranked": false,
-  "rating": 0.88925683,
-  "ratingCount": 870,
+  "rating": 0.88950366,
+  "ratingCount": 880,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

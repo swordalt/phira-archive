@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:46Z",
-    "lastChanged": "2026-09-21T02:06:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-27T13:22:08.781095Z",
   "charter": "璃月之花",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.299998,
   "file": "https://phira.5wyxi.com/files/c45b722d-9099-418a-8d35-129d2ffbbd3a",
+  "hidden": false,
   "id": 53556,
   "illustration": "https://phira.5wyxi.com/files/909b5d5a-f600-4c68-b03f-a43ed31838fa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "那颗星梦见的春日",
   "preview": "https://phira.5wyxi.com/files/1314b5de-b22c-4b6d-9e0b-9507872bb0f6",
   "ranked": false,
-  "rating": 0.9466367,
-  "ratingCount": 101,
+  "rating": 0.9498575,
+  "ratingCount": 116,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

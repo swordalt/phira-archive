@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:10Z",
-    "lastChanged": "2026-09-21T02:02:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-29T13:27:57.498902Z",
   "charter": "黑_胶_",
@@ -14,6 +14,7 @@
   "description": "更改部分推鍵",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/6e1885ed-5de3-4916-a660-56bc0a01c0bc",
+  "hidden": false,
   "id": 19034,
   "illustration": "https://phira.5wyxi.com/files/6f1673ee-181f-425d-b14d-36c96365027b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Chronostasis",
   "preview": "https://phira.5wyxi.com/files/934213a0-f3b0-49b0-9424-f9f3500fe9ea",
   "ranked": false,
-  "rating": 0.85305005,
-  "ratingCount": 299,
+  "rating": 0.8552724,
+  "ratingCount": 310,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:05Z",
-    "lastChanged": "2026-09-21T02:04:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-06T13:39:09.868254Z",
   "charter": "一个数学天才",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/ab4eea62-0757-4614-b130-fb691d9b1079",
+  "hidden": false,
   "id": 49892,
   "illustration": "https://phira.5wyxi.com/files/97e1a109-f81d-451f-a31c-d7c74cf60c42",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GOODMEN",
   "preview": "https://phira.5wyxi.com/files/e56338b0-81a1-43e3-872f-7c720d18b5b3",
   "ranked": false,
-  "rating": 0.9381591,
-  "ratingCount": 341,
+  "rating": 0.9391085,
+  "ratingCount": 353,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

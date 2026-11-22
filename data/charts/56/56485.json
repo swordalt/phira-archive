@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:36Z",
-    "lastChanged": "2026-09-21T02:04:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-17T10:33:06.406892Z",
   "charter": "YANYOU",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.700001,
   "file": "https://phira.5wyxi.com/files/c787564e-88e1-489a-9120-6c889eb23bed",
+  "hidden": false,
   "id": 56485,
   "illustration": "https://phira.5wyxi.com/files/714113ec-b18f-4f57-b239-b8357c6c370e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "悔_",
   "preview": "https://phira.5wyxi.com/files/84ec0af8-aca5-4058-8643-32a16e9e801f",
   "ranked": false,
-  "rating": 0.84515435,
-  "ratingCount": 86,
+  "rating": 0.8473926,
+  "ratingCount": 96,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:19Z",
-    "lastChanged": "2026-09-21T02:01:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-09T02:35:13.229491Z",
   "charter": "OoxiaolioO",
@@ -14,6 +14,7 @@
   "description": "纯整活写的 BV1214y1R74c有关于这个谱的小比赛",
   "difficulty": 16.4,
   "file": "https://phira.5wyxi.com/files/9946f0a0-40fe-4ae7-8f44-2f5e360869ff",
+  "hidden": false,
   "id": 4966,
   "illustration": "https://phira.5wyxi.com/files/03ecfe22-cb5f-401f-b541-6bffaafae2c2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Do the Idol!! ～断崖絶壁チュパカブラ～",
   "preview": "https://phira.5wyxi.com/files/bda33ef2-900d-47bd-a2ff-c50f04113691",
   "ranked": false,
-  "rating": 0.8807804,
-  "ratingCount": 983,
+  "rating": 0.8807625,
+  "ratingCount": 982,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

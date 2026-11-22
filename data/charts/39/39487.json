@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:18Z",
-    "lastChanged": "2026-09-21T02:06:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-10T15:44:34.694507Z",
   "charter": "承雲MEKO",
@@ -14,6 +14,7 @@
   "description": "承雲的第一个谱面(Shi)",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/11b0467d-c70b-4dc3-b3b4-0ef87808db1a",
+  "hidden": false,
   "id": 39487,
   "illustration": "https://phira.5wyxi.com/files/d51fb3b6-0576-48d5-a401-bf25630bfd6a",
   "illustrator": "",

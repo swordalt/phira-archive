@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:38Z",
-    "lastChanged": "2026-09-21T02:06:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-06T03:03:33.531075Z",
   "charter": "Fluitaster",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 28.0,
   "file": "https://phira.5wyxi.com/files/64747129-0223-4e3e-b6e0-2748878f6d24",
+  "hidden": false,
   "id": 47721,
   "illustration": "https://phira.5wyxi.com/files/cdb9f241-6057-4315-962b-2ad1e9de94a3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "D/N/A【25時、ナイトコードで。 × 鏡音リン】",
   "preview": "https://phira.5wyxi.com/files/38e76a3f-ff59-4e1d-bd4c-ba9d5689f681",
   "ranked": false,
-  "rating": 0.9345578,
-  "ratingCount": 159,
+  "rating": 0.9373269,
+  "ratingCount": 177,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

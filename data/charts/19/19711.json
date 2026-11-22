@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:12Z",
-    "lastChanged": "2026-09-21T02:02:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-08T14:04:59.924960Z",
   "charter": "XINGLING & RollbowSkash as -Chronos Demolisher-",
@@ -14,6 +14,7 @@
   "description": "感谢不知名谱师的shader追加！",
   "difficulty": 17.300005,
   "file": "https://phira.5wyxi.com/files/8949cf14-9eb9-4904-a916-27618714d98c",
+  "hidden": false,
   "id": 19711,
   "illustration": "https://phira.5wyxi.com/files/28b8843a-99df-4445-b566-c4883167d4b5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "★Hello (BPM) 2023",
   "preview": "https://phira.5wyxi.com/files/98d76292-4399-4ff4-8c8d-01808abcb4be",
   "ranked": false,
-  "rating": 0.929349,
-  "ratingCount": 1523,
+  "rating": 0.92962253,
+  "ratingCount": 1529,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:45Z",
-    "lastChanged": "2026-09-21T02:04:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-05T01:55:59.968079Z",
   "charter": "Lep",
@@ -14,6 +14,7 @@
   "description": "16.9 脑裂较多 考研拆谱\nb站乐普14_0413",
   "difficulty": 16.800003,
   "file": "https://phira.5wyxi.com/files/911c70f1-6651-4d4f-8927-0abc4e0bd3df",
+  "hidden": false,
   "id": 59940,
   "illustration": "https://phira.5wyxi.com/files/53791a65-6cae-47d9-b6e4-1953ed7cfd68",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ether Second",
   "preview": "https://phira.5wyxi.com/files/77094581-7d6c-4121-86aa-53c74d5ae61e",
   "ranked": false,
-  "rating": 0.8051546,
-  "ratingCount": 96,
+  "rating": 0.8098928,
+  "ratingCount": 99,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:51Z",
-    "lastChanged": "2026-09-21T02:01:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:32Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-27T11:57:07.717127Z",
   "charter": "KKKZer0",
@@ -14,6 +14,7 @@
   "description": "我写了个牛魔",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/e4931599-d164-4ab5-88c2-06b7719b2a92",
+  "hidden": false,
   "id": 14269,
   "illustration": "https://phira.5wyxi.com/files/568bdf8d-4faa-4146-b549-1341a1ec1a5f",
   "illustrator": "",

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:07Z",
-    "lastChanged": "2026-09-21T02:01:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-01T12:49:19.781404Z",
   "charter": "Axeor.",
@@ -14,6 +14,7 @@
   "description": "审核大大辛苦了，相信我，最后一次改了(",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/2534aba8-02c0-4e0c-9f2f-9319c70d8dfd",
+  "hidden": false,
   "id": 971,
   "illustration": "https://phira.5wyxi.com/files/48820f63-fe59-4d4a-8698-a4c3cc53b85a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "777",
   "preview": "https://phira.5wyxi.com/files/53f950e8-15f4-4242-a3d8-08b35a890d4f",
   "ranked": false,
-  "rating": 0.8998501,
-  "ratingCount": 7473,
+  "rating": 0.9001192,
+  "ratingCount": 7500,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

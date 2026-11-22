@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:43Z",
-    "lastChanged": "2026-09-21T02:02:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-09T02:50:17.766157Z",
   "charter": "Easy_sun",
@@ -14,6 +14,7 @@
   "description": "BV1RtszeWEzP 谱师本人上传",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/e346e586-361a-462c-ae04-07476f9ab87a",
+  "hidden": false,
   "id": 28577,
   "illustration": "https://phira.5wyxi.com/files/2302a536-d420-4d58-a076-7cdac04b0dd4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MVURBD",
   "preview": "https://phira.5wyxi.com/files/906a9ad6-21b8-4bf6-a7e8-541194219b81",
   "ranked": false,
-  "rating": 0.8918868,
-  "ratingCount": 673,
+  "rating": 0.8920351,
+  "ratingCount": 674,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

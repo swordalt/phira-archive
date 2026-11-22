@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:51Z",
-    "lastChanged": "2026-09-21T02:05:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-29T01:22:27.517740Z",
   "charter": "Easterchanted",
@@ -14,6 +14,7 @@
   "description": "没啥好说的，我的B站主页：https://b23.tv/6QSugHE",
   "difficulty": 12.5,
   "file": "https://phira.5wyxi.com/files/c838e189-28b3-46de-888c-70eef1c001c0",
+  "hidden": false,
   "id": 22119,
   "illustration": "https://phira.5wyxi.com/files/00d75657-d77a-45ba-bb00-c7da29e9a683",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ラビットホール",
   "preview": "https://phira.5wyxi.com/files/e0109030-4146-49c2-ae62-b7113d7b70c3",
   "ranked": false,
-  "rating": 0.83041906,
-  "ratingCount": 127,
+  "rating": 0.8335407,
+  "ratingCount": 130,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

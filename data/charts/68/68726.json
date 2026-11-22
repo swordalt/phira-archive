@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:58Z",
-    "lastChanged": "2026-09-21T02:06:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-23T15:22:57.547769Z",
   "charter": "E_Rizon",
@@ -14,6 +14,7 @@
   "description": "5k 7tech\n中高难5k\n感谢Pal，Tuye，LegitIX的测试与修改意见",
   "difficulty": 7.0,
   "file": "https://phira.5wyxi.com/files/f51d1560-9a65-4995-ac35-c0c6a99670f6",
+  "hidden": false,
   "id": 68726,
   "illustration": "https://phira.5wyxi.com/files/472ab7ab-8cce-4f03-bf49-f1ea734aa5e1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "STARDUST",
   "preview": "https://phira.5wyxi.com/files/24fb8e9d-a2a3-4404-9cb7-ca4d5caebb34",
   "ranked": false,
-  "rating": 0.9550545,
-  "ratingCount": 50,
+  "rating": 0.94940597,
+  "ratingCount": 62,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

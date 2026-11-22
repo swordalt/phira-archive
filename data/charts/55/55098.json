@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:33Z",
-    "lastChanged": "2026-09-21T02:04:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-05T12:57:56.521147Z",
   "charter": "一个一个普通人",
@@ -14,6 +14,7 @@
   "description": "露线bug不修了",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/edab3564-80eb-42b2-8be8-74e45cceb05d",
+  "hidden": false,
   "id": 55098,
   "illustration": "https://phira.5wyxi.com/files/5bdeba2b-6574-4803-b98e-9abc173c743a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Eternal Aria",
   "preview": "https://phira.5wyxi.com/files/56c9a908-0516-49e3-ae82-ba9583068be7",
   "ranked": false,
-  "rating": 0.95757926,
-  "ratingCount": 279,
+  "rating": 0.9582962,
+  "ratingCount": 293,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:35Z",
-    "lastChanged": "2026-09-21T02:05:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-03T02:32:07.063488Z",
   "charter": "mj1748",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/6a6cffd2-9912-4401-969b-b9a2e3828076",
+  "hidden": false,
   "id": 2855,
   "illustration": "https://phira.5wyxi.com/files/96a84224-cbfc-4812-95ca-becd9dbbdbb1",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "Sayonara Planet Wars",
   "preview": "https://phira.5wyxi.com/files/14fb21a0-d624-4b07-bd08-020ffef8149e",
   "ranked": false,
-  "rating": 0.7777405,
+  "rating": 0.76578474,
   "ratingCount": 58,
   "reviewed": true,
   "stable": false,

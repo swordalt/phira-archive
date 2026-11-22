@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:19Z",
-    "lastChanged": "2026-09-21T02:06:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-25T03:03:56.933458Z",
   "charter": "Exaltair",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/16e88ded-30ed-4db4-8a0d-ba69911517c8",
+  "hidden": false,
   "id": 40218,
   "illustration": "https://phira.5wyxi.com/files/c3bebf58-e2d0-4019-a7e7-91341a0ada36",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Spark for Dream",
   "preview": "https://phira.5wyxi.com/files/4297cb56-c107-4c2c-affb-1a3e2ef42d2e",
   "ranked": false,
-  "rating": 0.9186909,
-  "ratingCount": 29,
+  "rating": 0.92060417,
+  "ratingCount": 31,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:16Z",
-    "lastChanged": "2026-09-21T02:06:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-01T04:27:54.054373Z",
   "charter": "Chimeloli",
@@ -14,6 +14,7 @@
   "description": "卡手的小叠",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/07400d17-c9e8-4832-94e4-bbd353096df6",
+  "hidden": false,
   "id": 39032,
   "illustration": "https://phira.5wyxi.com/files/e459c24f-fb0c-4bcb-beab-0c294567e4aa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Life garden",
   "preview": "https://phira.5wyxi.com/files/b8e1a017-96ab-4f54-95e7-49dfaf8923d1",
   "ranked": false,
-  "rating": 0.92246634,
-  "ratingCount": 89,
+  "rating": 0.9262924,
+  "ratingCount": 99,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

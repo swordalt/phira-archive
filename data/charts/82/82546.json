@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-12T18:50:11Z",
-    "lastChanged": "2026-11-12T18:50:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-30T14:57:09.019870Z",
   "charter": "-3:67-",
@@ -14,6 +14,7 @@
   "description": "本人上传\n3:2比例游玩更佳\n世末舞厅好听",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/a09a1ae4-dedb-4ba0-99ed-8839fb3a56e9",
+  "hidden": false,
   "id": 82546,
   "illustration": "https://phira.5wyxi.com/files/092a7626-00ad-41c2-9d84-a14a09e8489d",
   "illustrator": "wowaka",
@@ -21,8 +22,8 @@
   "name": "ワールドズエンド・ダンスホール",
   "preview": "https://phira.5wyxi.com/files/30f1e1af-5e75-4054-957e-e14e91860aba",
   "ranked": false,
-  "rating": 0.9079799,
-  "ratingCount": 7,
+  "rating": 0.9464814,
+  "ratingCount": 385,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

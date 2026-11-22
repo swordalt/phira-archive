@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:50Z",
-    "lastChanged": "2026-09-21T02:03:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-07T07:02:52.236033Z",
   "charter": "Kuewwc",
@@ -14,6 +14,7 @@
   "description": "本人上传，b站同名，可以去b站评谱",
   "difficulty": 14.1,
   "file": "https://phira.5wyxi.com/files/22ec74d6-856d-4388-9607-38cd7559b20f",
+  "hidden": false,
   "id": 46526,
   "illustration": "https://phira.5wyxi.com/files/2371c074-7df3-4125-9739-4e2ab374bd46",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Monitoring (Best Friend Remix)",
   "preview": "https://phira.5wyxi.com/files/3e6e14de-3744-4c39-911e-cac6a3db47b3",
   "ranked": false,
-  "rating": 0.9499604,
-  "ratingCount": 8618,
+  "rating": 0.95008135,
+  "ratingCount": 9079,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

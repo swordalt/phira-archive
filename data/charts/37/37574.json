@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:16Z",
-    "lastChanged": "2026-09-21T02:03:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-05T01:44:51.789763Z",
   "charter": "Phigros菜鸡",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/b4dd903c-4fb3-47e8-8275-ff71e7e06c03",
+  "hidden": false,
   "id": 37574,
   "illustration": "https://phira.5wyxi.com/files/ed577202-4eec-4525-9924-08cb25d390c4",
   "illustrator": "",

@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:31Z",
-    "lastChanged": "2026-09-21T02:05:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-24T22:35:33.016648Z",
   "charter": "27-2",
@@ -14,6 +14,7 @@
   "description": "审核大大求求你了",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/0631cf13-364b-402f-99bc-83a07473e243",
+  "hidden": false,
   "id": 44470,
   "illustration": "https://phira.5wyxi.com/files/edc1f00c-a19f-4a6d-bad5-b62cdd9d7b6c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "悪魔の子 ",
   "preview": "https://phira.5wyxi.com/files/01eeece5-a5a5-4920-8799-5044aea4930a",
   "ranked": false,
-  "rating": 0.94615537,
-  "ratingCount": 1255,
+  "rating": 0.9459419,
+  "ratingCount": 1338,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

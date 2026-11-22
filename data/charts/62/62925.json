@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:52Z",
-    "lastChanged": "2026-09-21T02:04:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-28T03:27:24.765242Z",
   "charter": "Venvs.",
@@ -14,6 +14,7 @@
   "description": "本人上传\n预览视频：BV1S4TT6pEK6",
   "difficulty": 15.3,
   "file": "https://phira.5wyxi.com/files/0d62e0f4-3525-4ce6-8870-afc267787d91",
+  "hidden": false,
   "id": 62925,
   "illustration": "https://phira.5wyxi.com/files/3f2d6149-afed-48f0-b205-54db97dc48a7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Styx 257",
   "preview": "https://phira.5wyxi.com/files/a78964b4-97fa-423a-a966-54527b618537",
   "ranked": false,
-  "rating": 0.8908376,
-  "ratingCount": 189,
+  "rating": 0.893775,
+  "ratingCount": 196,
   "reviewed": true,
   "stable": false,
   "stableRequest": true,

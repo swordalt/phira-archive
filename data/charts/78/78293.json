@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:17Z",
-    "lastChanged": "2026-10-04T10:51:24Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:20Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-09-17T11:20:53.847867Z",
   "charter": "Seachannel",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/13ed1b09-7dcf-45e3-b67f-1b1b573bd780",
+  "hidden": false,
   "id": 78293,
   "illustration": "https://phira.5wyxi.com/files/0eb8d4f9-d2e2-4baa-a267-810d823bd477",
   "illustrator": "UK",
@@ -21,8 +22,8 @@
   "name": "Evolve Rerise",
   "preview": "https://phira.5wyxi.com/files/2c473a69-2d78-44a7-ace7-adf4eaa1709c",
   "ranked": false,
-  "rating": 0.94388473,
-  "ratingCount": 282,
+  "rating": 0.9429121,
+  "ratingCount": 334,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

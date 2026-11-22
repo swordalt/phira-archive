@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:05Z",
-    "lastChanged": "2026-09-21T02:01:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "col_2333 vs. objGem",
@@ -14,6 +14,7 @@
   "description": "谱师：col_2333 vs. objGem (colGem vs. obj_2333) (@RH-七彩宝石ga vs. @objGem )\r\n",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/8bca1ac8-40a5-4c27-862e-d89b4a09577f",
+  "hidden": false,
   "id": 297,
   "illustration": "https://phira.5wyxi.com/files/af115be3-fe33-445e-b7bf-3b23ac701508",
   "illustrator": "t+pazolite vs. うどん生地こね太郎",
@@ -21,8 +22,8 @@
   "name": "T+ VS SHARK",
   "preview": "https://phira.5wyxi.com/files/64655559-51f7-4b0a-9382-66ef6a3cdf5c",
   "ranked": false,
-  "rating": 0.77426517,
-  "ratingCount": 175,
+  "rating": 0.77497303,
+  "ratingCount": 176,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

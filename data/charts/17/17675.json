@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:05Z",
-    "lastChanged": "2026-09-21T02:02:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-31T00:53:35.801711Z",
   "charter": "Xxjun",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/241cdca8-c53b-4119-95b6-5276f0b33ee1",
+  "hidden": false,
   "id": 17675,
   "illustration": "https://phira.5wyxi.com/files/c8518a55-808a-4885-82d8-a15394784f8d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Credits",
   "preview": "https://phira.5wyxi.com/files/b2357306-b53b-48a2-bbfa-b83147db5a21",
   "ranked": false,
-  "rating": 0.9150778,
-  "ratingCount": 301,
+  "rating": 0.91535896,
+  "ratingCount": 310,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

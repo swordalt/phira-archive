@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:16Z",
-    "lastChanged": "2026-09-21T02:01:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-20T12:14:47.985593Z",
   "charter": "Jumpkun",
@@ -14,6 +14,7 @@
   "description": "改谱，看看",
   "difficulty": 15.900001,
   "file": "https://phira.5wyxi.com/files/8ee2ed17-b37b-45ae-8ca9-da4e8d102edb",
+  "hidden": false,
   "id": 3774,
   "illustration": "https://phira.5wyxi.com/files/f4bd5ae0-20fc-461b-a466-c64daa9ad12b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Avantgarde",
   "preview": "https://phira.5wyxi.com/files/76521062-1e7c-4247-8ccc-b27e77836e45",
   "ranked": false,
-  "rating": 0.8532847,
-  "ratingCount": 383,
+  "rating": 0.85364425,
+  "ratingCount": 384,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

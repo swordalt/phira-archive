@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:46Z",
-    "lastChanged": "2026-09-21T02:02:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-02T10:02:56.281870Z",
   "charter": "88900a",
@@ -14,6 +14,7 @@
   "description": "萌新的第二张谱子 本人上传 有延迟调90ms ",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/2fb2ab4a-2a22-4e0e-b517-1f287e8b21d1",
+  "hidden": false,
   "id": 29317,
   "illustration": "https://phira.5wyxi.com/files/52881cc7-646a-4da9-854f-a11a3c6a5316",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "crystallized",
   "preview": "https://phira.5wyxi.com/files/d967cece-acb9-4364-931a-909706742e1f",
   "ranked": false,
-  "rating": 0.7912155,
-  "ratingCount": 70,
+  "rating": 0.7900973,
+  "ratingCount": 71,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

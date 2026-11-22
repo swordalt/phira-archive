@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:25Z",
-    "lastChanged": "2026-09-21T02:01:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-29T11:37:29.423820Z",
   "charter": "mdw233",
@@ -14,6 +14,7 @@
   "description": "本人上传 相信我这是最后一次更新了",
   "difficulty": 13.300001,
   "file": "https://phira.5wyxi.com/files/ea7dd2aa-15ba-4913-b511-d42674ea3a44",
+  "hidden": false,
   "id": 6990,
   "illustration": "https://phira.5wyxi.com/files/a8523e12-2106-4764-9839-2eea373020e7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Constant Moderato",
   "preview": "https://phira.5wyxi.com/files/0b85e38f-09dd-466c-9dbc-5a3335e5bcb2",
   "ranked": false,
-  "rating": 0.95794094,
-  "ratingCount": 10066,
+  "rating": 0.95797837,
+  "ratingCount": 10168,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

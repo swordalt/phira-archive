@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:08Z",
-    "lastChanged": "2026-11-15T12:20:45Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:05Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-08-12T14:03:36.126019Z",
   "charter": "∅Memoir of \"Administrat∅R\"∅",
@@ -14,6 +14,7 @@
   "description": "该谱面为 WSRT x 云梦杯 比赛供谱\n首次登场于【沉坠•破晓】决赛败者组第一回合\n————————————————\n曲名：Melodiniq\n曲师：onoken a.k.a. owl*tree\n谱师：∅Memoir of \"Administrat∅R\"∅\n难度：ULT Lv.18\n物量：2026\r\n@scniscn#4071（特效）@Baize1133#448065（修缮）",
   "difficulty": 18.500002,
   "file": "https://phira.5wyxi.com/files/9a8fbced-8b30-4fd0-8d69-6bc26909d27e",
+  "hidden": false,
   "id": 72988,
   "illustration": "https://phira.5wyxi.com/files/801347cc-877b-42ed-afc0-cb227b91c63e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Melodiniq",
   "preview": "https://phira.5wyxi.com/files/05b4c255-38b9-451e-b0a3-b7e918a4bb4f",
   "ranked": false,
-  "rating": 0.9218259,
-  "ratingCount": 546,
+  "rating": 0.9228402,
+  "ratingCount": 552,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

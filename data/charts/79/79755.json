@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-09T13:07:00Z",
-    "lastChanged": "2026-11-15T12:21:04Z",
-    "revisions": 4
+    "lastChanged": "2026-11-22T12:59:24Z",
+    "revisions": 5
   },
   "chartUpdated": "2026-10-02T05:03:37.288740Z",
   "charter": "Golden Slime",
@@ -14,6 +14,7 @@
   "description": "庆祝Phigros第九章更新谱面！\n谱面由谱师本人上传，希望能快点过审！\n谱面预览：BV1Ca16SER5",
   "difficulty": 17.500002,
   "file": "https://phira.5wyxi.com/files/385e5c98-7c6d-49ea-ad74-1d601e76f80d",
+  "hidden": false,
   "id": 79755,
   "illustration": "https://phira.5wyxi.com/files/779c48aa-178e-4d22-bd28-8a630be72232",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Melodiniq",
   "preview": "https://phira.5wyxi.com/files/ab65c6d7-975e-46a4-bbec-c87c6ac3891b",
   "ranked": false,
-  "rating": 0.91155344,
-  "ratingCount": 206,
+  "rating": 0.9143939,
+  "ratingCount": 222,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

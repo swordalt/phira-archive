@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:48Z",
-    "lastChanged": "2026-09-21T02:03:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-31T09:37:54.892308Z",
   "charter": "Benz-x feat.溯沧",
@@ -14,6 +14,7 @@
   "description": "本谱为合作谱，主作者为Bnez-x，副作者为溯沧。Benz-x已授权溯沧发布本谱面",
   "difficulty": 14.300001,
   "file": "https://phira.5wyxi.com/files/bc8cd39a-5ccf-43cf-a7c2-330c9e19ce15",
+  "hidden": false,
   "id": 46210,
   "illustration": "https://phira.5wyxi.com/files/49a21ba0-d632-439a-b93d-1043d956a374",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ちっちゃな私 ",
   "preview": "https://phira.5wyxi.com/files/d1754ac1-83f1-48dd-85cd-90e4ba580edb",
   "ranked": false,
-  "rating": 0.9534809,
-  "ratingCount": 2749,
+  "rating": 0.9526872,
+  "ratingCount": 2944,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

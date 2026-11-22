@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:33Z",
-    "lastChanged": "2026-09-21T02:03:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-08T16:03:04.360125Z",
   "charter": "I'm with U",
@@ -14,6 +14,7 @@
   "description": "本人上传\r\n25.8.9：修改部分段落",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/5be5f21d-17de-4eb9-ae8b-3a44fb7eb64e",
+  "hidden": false,
   "id": 42988,
   "illustration": "https://phira.5wyxi.com/files/2541a6fd-b950-4c7a-810c-c4c56cd607b8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "with U",
   "preview": "https://phira.5wyxi.com/files/811b8a93-b072-44ae-8a38-ff9ffaa67e66",
   "ranked": true,
-  "rating": 0.9217871,
-  "ratingCount": 1479,
+  "rating": 0.9211527,
+  "ratingCount": 1552,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

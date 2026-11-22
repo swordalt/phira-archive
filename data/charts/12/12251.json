@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:44Z",
-    "lastChanged": "2026-09-21T02:01:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-08T16:46:57.459938Z",
   "charter": "MujiSama",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n此为初版，之后有空可能会改，故暂不申请stb",
   "difficulty": 11.900003,
   "file": "https://phira.5wyxi.com/files/356049cc-2a2d-4729-b971-4ce67beae63c",
+  "hidden": false,
   "id": 12251,
   "illustration": "https://phira.5wyxi.com/files/9713aa43-ffd8-4b7a-ab2c-73d83d27b0d2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sanctuary",
   "preview": "https://phira.5wyxi.com/files/744f52b5-a06f-463b-8ff7-c374dab86c5e",
   "ranked": false,
-  "rating": 0.96021193,
-  "ratingCount": 558,
+  "rating": 0.95968676,
+  "ratingCount": 569,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

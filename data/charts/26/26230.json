@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:33Z",
-    "lastChanged": "2026-09-21T02:02:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-14T09:53:57.776711Z",
   "charter": "xiaoxiawa",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.599999,
   "file": "https://phira.5wyxi.com/files/f41c9574-038b-46aa-8e99-6a75d2bdd5e8",
+  "hidden": false,
   "id": 26230,
   "illustration": "https://phira.5wyxi.com/files/3767c7dd-dd10-42e2-bbed-35c6e536f675",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sakura Memory Pt2-夜桜",
   "preview": "https://phira.5wyxi.com/files/e04d0fe3-51cc-4166-8f69-773912ea88af",
   "ranked": false,
-  "rating": 0.87736917,
-  "ratingCount": 48,
+  "rating": 0.8797057,
+  "ratingCount": 49,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:55Z",
-    "lastChanged": "2026-09-21T02:04:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-04T16:52:38.552961Z",
   "charter": "囜囧园",
@@ -14,6 +14,7 @@
   "description": "第一次写谱挺史的。。",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/52c33b03-3fec-4043-80b2-490e4f990043",
+  "hidden": false,
   "id": 64117,
   "illustration": "https://phira.5wyxi.com/files/e73a4f56-4c33-4e35-930c-77fb8fcf9c4d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "赤と青",
   "preview": "https://phira.5wyxi.com/files/92b05aca-e5dc-4955-b72f-2e1d59297fb2",
   "ranked": false,
-  "rating": 0.92937565,
-  "ratingCount": 145,
+  "rating": 0.9269358,
+  "ratingCount": 186,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:42Z",
-    "lastChanged": "2026-09-21T02:06:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-07T11:14:13.483548Z",
   "charter": "Jiuwenzi",
@@ -14,6 +14,7 @@
   "description": "神秘 sample zeta单曲2",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/aba1e086-f6af-446b-91e6-a788f2db4b7c",
+  "hidden": false,
   "id": 49980,
   "illustration": "https://phira.5wyxi.com/files/60821f2c-7ff8-4143-a78c-5cec930b6277",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "TiamaT:F minor",
   "preview": "https://phira.5wyxi.com/files/ccc91973-65d2-44d8-95ed-0d0855e56994",
   "ranked": false,
-  "rating": 0.880334,
-  "ratingCount": 39,
+  "rating": 0.8830587,
+  "ratingCount": 40,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

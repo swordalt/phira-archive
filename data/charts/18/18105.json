@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:07Z",
-    "lastChanged": "2026-09-21T02:02:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-05T10:57:57.488248Z",
   "charter": "Explld",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.600024,
   "file": "https://phira.5wyxi.com/files/dbfaff51-9f6f-4759-8990-01bae2c13a86",
+  "hidden": false,
   "id": 18105,
   "illustration": "https://phira.5wyxi.com/files/eea30e5e-e920-44e5-8c9e-77ea6c7fbb01",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Move Your Body",
   "preview": "https://phira.5wyxi.com/files/5534b1c6-d914-4c6d-b003-f13ef63b903f",
   "ranked": false,
-  "rating": 0.8197911,
-  "ratingCount": 134,
+  "rating": 0.8229891,
+  "ratingCount": 137,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

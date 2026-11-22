@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:16Z",
-    "lastChanged": "2026-09-21T02:02:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-29T09:06:27.734694Z",
   "charter": "towns circle",
@@ -14,6 +14,7 @@
   "description": "啦啦啦",
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/a1af679c-4210-4001-8240-d3e8840dd3ba",
+  "hidden": false,
   "id": 20976,
   "illustration": "https://phira.5wyxi.com/files/5b5c9b3d-7daf-4517-9f5d-92cab74b3db3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sokka",
   "preview": "https://phira.5wyxi.com/files/6cdbc933-9735-4908-af8c-c770eedd2430",
   "ranked": false,
-  "rating": 0.9402113,
-  "ratingCount": 1521,
+  "rating": 0.94021267,
+  "ratingCount": 1534,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

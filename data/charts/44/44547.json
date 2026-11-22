@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:29Z",
-    "lastChanged": "2026-09-21T02:06:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-13T06:23:33.141930Z",
   "charter": "Tyarnl679",
@@ -14,6 +14,7 @@
   "description": "刚才传的谱有问题，请拒绝一下\n新手练习谱，叠指不评价\n本人上传，扣扣号1072369559，有问题加我",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/3eda3c93-56d4-4e53-b030-95dd8229f0ba",
+  "hidden": false,
   "id": 44547,
   "illustration": "https://phira.5wyxi.com/files/6604f19a-0203-4d25-b048-e9ad19bfd26c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Perfect Cherry Storm",
   "preview": "https://phira.5wyxi.com/files/fecfa01b-ba15-49a3-aecf-17142fa7f7d6",
   "ranked": false,
-  "rating": 0.9401118,
-  "ratingCount": 48,
+  "rating": 0.94056535,
+  "ratingCount": 50,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

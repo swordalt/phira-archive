@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:53Z",
-    "lastChanged": "2026-09-21T02:05:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-10T03:53:31.046992Z",
   "charter": "lomtfjsza",
@@ -14,6 +14,7 @@
   "description": "最困难的一集",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/c2a472f7-b7a2-4d23-bf63-26a6ce7f3ab0",
+  "hidden": false,
   "id": 23091,
   "illustration": "https://phira.5wyxi.com/files/c9c56060-dc79-43fa-bcae-3a27d7f044c7",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "No Future Terror",
   "preview": "https://phira.5wyxi.com/files/5f711d24-480c-48b6-8164-f584b49b9260",
   "ranked": false,
-  "rating": 0.8855802,
+  "rating": 0.883777,
   "ratingCount": 36,
   "reviewed": true,
   "stable": false,

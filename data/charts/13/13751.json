@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:48Z",
-    "lastChanged": "2026-09-21T02:01:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-18T23:35:40.094699Z",
   "charter": "WANNABE",
@@ -14,6 +14,7 @@
   "description": "(en-US) im gonna start my journey to chart geometry dash song and this is my first chart, thanks for playing!",
   "difficulty": 18.4,
   "file": "https://phira.5wyxi.com/files/ccc12c7d-4568-4feb-b22f-8a84a4ca1674",
+  "hidden": false,
   "id": 13751,
   "illustration": "https://phira.5wyxi.com/files/6448b44c-ae8a-4ca1-810f-c452eabf3dcf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Microburst",
   "preview": "https://phira.5wyxi.com/files/44ba7f8c-1553-4ddf-aa90-6f1327825648",
   "ranked": false,
-  "rating": 0.91724294,
-  "ratingCount": 589,
+  "rating": 0.91735536,
+  "ratingCount": 591,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

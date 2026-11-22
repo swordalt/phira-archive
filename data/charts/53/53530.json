@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:25Z",
-    "lastChanged": "2026-09-21T02:04:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-27T08:49:11.755921Z",
   "charter": "ABVSS 340.000",
@@ -14,6 +14,7 @@
   "description": "本人上传，视频：BV1YoAUzJEqY\n曲名：ABYSS MOTION 192.333\n曲师：TSAR & ariiol & 奏Sou\n画师：kkmfd\n谱师：-VV340-\n难度：AT Lv.16.3\n物量：1135\n总事件量：5959\nBPM：192.333\n创作净用时：1D2h（发呆6小时）",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/6e74c11f-c609-497a-a8d6-a5cd4144ae75",
+  "hidden": false,
   "id": 53530,
   "illustration": "https://phira.5wyxi.com/files/39fe3ee1-45b8-45be-8486-054a8128d789",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ABYSS MOTION 192.333",
   "preview": "https://phira.5wyxi.com/files/cdab339c-0be7-4729-b7af-a4f62fd546bb",
   "ranked": false,
-  "rating": 0.93709713,
-  "ratingCount": 297,
+  "rating": 0.93494856,
+  "ratingCount": 304,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

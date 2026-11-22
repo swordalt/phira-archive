@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:23Z",
-    "lastChanged": "2026-09-21T02:03:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-15T09:09:08.937462Z",
   "charter": "Flawless",
@@ -14,6 +14,7 @@
   "description": "My heart   My words   My soul   My voices   My love",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/813ca3cb-ee30-4e6e-973e-2c013bab1dc5",
+  "hidden": false,
   "id": 39748,
   "illustration": "https://phira.5wyxi.com/files/7bf3c707-c734-4ea6-aae9-fcc57173d510",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "crystallized",
   "preview": "https://phira.5wyxi.com/files/fc2f3d11-3fcd-4429-b5b5-844aea138263",
   "ranked": false,
-  "rating": 0.9196884,
-  "ratingCount": 124,
+  "rating": 0.92001426,
+  "ratingCount": 126,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

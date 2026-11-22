@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:23Z",
-    "lastChanged": "2026-09-21T02:03:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-17T13:34:23.503252Z",
   "charter": "him eating cornflakes",
@@ -14,6 +14,7 @@
   "description": "演示视频 BV1EmNbzrEcu\n-------------------------\n25.6.17 谱面更新内容：\n更正了一处表演失误；\n略微调整了速核段部分表演动效；\n优化了部分判定；\n校准了谱面延迟偏移",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/598a1ceb-1fde-4ae8-b238-4a6d186586d9",
+  "hidden": false,
   "id": 39809,
   "illustration": "https://phira.5wyxi.com/files/488debb1-6337-405f-b0df-0459221fb244",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Computer Cornflakes",
   "preview": "https://phira.5wyxi.com/files/802be767-4d35-4e2a-b780-bf265051f2bf",
   "ranked": false,
-  "rating": 0.9444766,
-  "ratingCount": 687,
+  "rating": 0.9448205,
+  "ratingCount": 699,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

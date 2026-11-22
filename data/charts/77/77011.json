@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:04Z",
-    "lastChanged": "2026-09-21T02:07:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-04T12:13:17.799112Z",
   "charter": "冷影",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，小鸟游星野的审判曲awa，难度约4-5dan左右，有大量锁手叠和切。叠2切5，欢迎各位挑战。",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/cb92019f-aad7-4901-897e-5a3ce1eb39fa",
+  "hidden": false,
   "id": 77011,
   "illustration": "https://phira.5wyxi.com/files/2811a082-bde7-4766-9bfb-1fc93632637a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Past life",
   "preview": "https://phira.5wyxi.com/files/b5a9e660-fa82-4580-987c-f683e6c09888",
   "ranked": false,
-  "rating": 0.9290824,
-  "ratingCount": 34,
+  "rating": 0.93845516,
+  "ratingCount": 78,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

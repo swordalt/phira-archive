@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:15Z",
-    "lastChanged": "2026-09-21T02:01:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-15T04:40:38.556066Z",
   "charter": "vecan",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/8e085455-31c2-47ea-9da9-0d83d8a9e508",
+  "hidden": false,
   "id": 3507,
   "illustration": "https://phira.5wyxi.com/files/3b892f80-993e-484a-bbe2-cc3ccef5c9f8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "空奏列车",
   "preview": "https://phira.5wyxi.com/files/a999d249-9a6a-4b1c-a8cb-3b4be38bb8a5",
   "ranked": false,
-  "rating": 0.8131397,
-  "ratingCount": 159,
+  "rating": 0.81015,
+  "ratingCount": 161,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

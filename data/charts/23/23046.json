@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:53Z",
-    "lastChanged": "2026-09-21T02:05:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-09T11:33:24.231790Z",
   "charter": "Kusb123",
@@ -14,6 +14,7 @@
   "description": "190hs练习图\n参考难度6dan\n\n谱师本人上传\nBilibli@EggHeart4Real",
   "difficulty": 33.0,
   "file": "https://phira.5wyxi.com/files/779be0ee-7239-465f-b90e-5fd035e57bee",
+  "hidden": false,
   "id": 23046,
   "illustration": "https://phira.5wyxi.com/files/a01307f2-c0bd-4ea5-8ef3-e86e8b7ca0b3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "电棍：Climax",
   "preview": "https://phira.5wyxi.com/files/04574616-54d8-422e-9e7f-4f60e878ac31",
   "ranked": false,
-  "rating": 0.9530446,
-  "ratingCount": 309,
+  "rating": 0.9528585,
+  "ratingCount": 320,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

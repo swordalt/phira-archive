@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:15Z",
-    "lastChanged": "2026-09-21T02:06:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-21T06:15:43.743383Z",
   "charter": "Ranmoc",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/4ad7c576-0e44-45ef-917b-7d60c6f0c93a",
+  "hidden": false,
   "id": 38426,
   "illustration": "https://phira.5wyxi.com/files/0f116e82-3ffe-4e5f-86ea-83d18af1fca9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Xéroa (préconnaiXance Long Ver.)",
   "preview": "https://phira.5wyxi.com/files/45e10ac5-e65f-41af-9c6a-212c33daacf5",
   "ranked": false,
-  "rating": 0.9035594,
-  "ratingCount": 22,
+  "rating": 0.90707684,
+  "ratingCount": 23,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

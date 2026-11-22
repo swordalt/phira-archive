@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:22Z",
-    "lastChanged": "2026-09-21T02:03:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-13T15:02:02.407025Z",
   "charter": "Aino",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.000004,
   "file": "https://phira.5wyxi.com/files/54a8c5db-9ab2-405d-9bc6-096a19f2e683",
+  "hidden": false,
   "id": 39575,
   "illustration": "https://phira.5wyxi.com/files/a04732f5-2178-4867-ae60-3050db4ee20e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "とうほう☆ワンダーランド",
   "preview": "https://phira.5wyxi.com/files/a7d4450c-5cb9-42ff-9a80-a08abc366134",
   "ranked": false,
-  "rating": 0.8798359,
-  "ratingCount": 114,
+  "rating": 0.8828652,
+  "ratingCount": 117,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

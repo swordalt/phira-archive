@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:42Z",
-    "lastChanged": "2026-09-21T02:02:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-12T11:15:29.256756Z",
   "charter": "Unkn239",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 12.000004,
   "file": "https://phira.5wyxi.com/files/866ab4ec-130b-48b9-a7f0-c20f3b4c68a6",
+  "hidden": false,
   "id": 28312,
   "illustration": "https://phira.5wyxi.com/files/2af486c5-1132-41ab-8325-11e386e3c8c6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GOODRAGE",
   "preview": "https://phira.5wyxi.com/files/835caf34-3c2a-42d4-8651-e99d7adbbf55",
   "ranked": false,
-  "rating": 0.9149079,
-  "ratingCount": 491,
+  "rating": 0.9164781,
+  "ratingCount": 522,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

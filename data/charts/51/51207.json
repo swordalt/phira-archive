@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:12Z",
-    "lastChanged": "2026-09-21T02:04:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-12T11:55:13.122821Z",
   "charter": "SummmerSky",
@@ -14,6 +14,7 @@
   "description": "新人第一张正常谱，经过多次优化，相信没有任何问题，望通过！",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/89a0d2d8-3588-44f7-980d-13498ab669a9",
+  "hidden": false,
   "id": 51207,
   "illustration": "https://phira.5wyxi.com/files/f8172af1-aba0-471d-bd12-2f382cbdff4a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "PUPA",
   "preview": "https://phira.5wyxi.com/files/ae997fde-9cc3-488f-bb0d-193225c346d2",
   "ranked": false,
-  "rating": 0.7679606,
-  "ratingCount": 171,
+  "rating": 0.76125,
+  "ratingCount": 180,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

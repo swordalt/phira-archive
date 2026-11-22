@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-01T13:25:25.014495Z",
   "charter": "B站王令拍拍",
@@ -14,6 +14,7 @@
   "description": "B站王令拍拍制作，采音不准偏移问题，现在调好了",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/8cb705a8-7043-4601-8855-a63790009d37",
+  "hidden": false,
   "id": 9980,
   "illustration": "https://phira.5wyxi.com/files/a6fdd31c-9e39-4d54-84db-2ddea62d2c4e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Brain Power",
   "preview": "https://phira.5wyxi.com/files/40a27680-e43a-45eb-a318-22e5e168d466",
   "ranked": false,
-  "rating": 0.8425663,
-  "ratingCount": 1243,
+  "rating": 0.84331965,
+  "ratingCount": 1252,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

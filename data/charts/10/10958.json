@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:20Z",
-    "lastChanged": "2026-09-21T02:05:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-28T17:01:30.248543Z",
   "charter": "Zaoly",
@@ -14,6 +14,7 @@
   "description": "经典倒计时音乐",
   "difficulty": 2.0,
   "file": "https://phira.5wyxi.com/files/5585ac5b-25bf-441a-8a71-e427d57aaadd",
+  "hidden": false,
   "id": 10958,
   "illustration": "https://phira.5wyxi.com/files/9e661eb7-78d1-4e2c-86e6-a69f6b8b7039",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "BBC World News 2013 Countdown",
   "preview": "https://phira.5wyxi.com/files/deeb94f0-57a7-45f6-8734-e3c65523a37f",
   "ranked": false,
-  "rating": 0.94615096,
-  "ratingCount": 285,
+  "rating": 0.9461832,
+  "ratingCount": 287,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:46Z",
-    "lastChanged": "2026-09-21T02:02:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-13T12:13:15.215281Z",
   "charter": "smile",
@@ -14,6 +14,7 @@
   "description": "b站关注 distorted_MLE 喵",
   "difficulty": 14.799998,
   "file": "https://phira.5wyxi.com/files/806d9d0a-ad08-41c4-92d8-b22baf7e9874",
+  "hidden": false,
   "id": 29643,
   "illustration": "https://phira.5wyxi.com/files/aaf12327-91b4-4b71-97c6-e38bbd8eaba4",
   "illustrator": "",

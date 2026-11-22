@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:36Z",
-    "lastChanged": "2026-09-21T02:04:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-11T09:18:08.112980Z",
   "charter": "时停 & 奶龙",
@@ -14,6 +14,7 @@
   "description": "@GT_试听#1885590 (谱面配置)\nB站时停とととと\nB站早已绷不住了\n上传已经过其他谱师允许\n（曲绘经过扩图处理",
   "difficulty": 17.700003,
   "file": "https://phira.5wyxi.com/files/9d9e0394-6e8b-4c20-9602-6e7b2209a9cb",
+  "hidden": false,
   "id": 55966,
   "illustration": "https://phira.5wyxi.com/files/7883d3f3-6bbd-4dde-81f0-017fb6519c9f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Singularity",
   "preview": "https://phira.5wyxi.com/files/765bb8c7-3e84-4922-864f-6488ff5d3f9f",
   "ranked": false,
-  "rating": 0.8421558,
-  "ratingCount": 112,
+  "rating": 0.83855724,
+  "ratingCount": 118,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

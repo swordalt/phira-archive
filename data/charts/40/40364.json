@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:25Z",
-    "lastChanged": "2026-09-21T02:03:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-27T15:06:02.814752Z",
   "charter": "酷炫神海纪青龙",
@@ -14,6 +14,7 @@
   "description": "6月27日晚22：40分完成了对谱面最后的修改，200：0/1处的表演特效不变，唯一变的是91：0/1处的红键下落僵硬，让玩家滑起来误触，经过今晚的修改，已经算完成了，祝各位玩得开心哈！\n\n（等一下，这个才是最新的，另外一个忘记改线的透明度了）😓\n\n抱歉哈~~~",
   "difficulty": 13.300001,
   "file": "https://phira.5wyxi.com/files/d818e641-bba9-4c3e-bd75-7267eb75e70a",
+  "hidden": false,
   "id": 40364,
   "illustration": "https://phira.5wyxi.com/files/46bc9f9e-dd30-4776-929e-b29a666edf2a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "HeIicaI Eye",
   "preview": "https://phira.5wyxi.com/files/89329ba8-c640-4dc6-9c77-6cdd8c361453",
   "ranked": false,
-  "rating": 0.85320747,
-  "ratingCount": 52,
+  "rating": 0.8365952,
+  "ratingCount": 56,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

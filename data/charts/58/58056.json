@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:42Z",
-    "lastChanged": "2026-09-21T02:04:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-09T14:17:23.254007Z",
   "charter": "Lo薛ve",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传！！！",
   "difficulty": 15.200004,
   "file": "https://phira.5wyxi.com/files/9f301997-c748-4453-9c73-30c4238c8b42",
+  "hidden": false,
   "id": 58056,
   "illustration": "https://phira.5wyxi.com/files/cb38da85-a124-4cf1-b28e-81b0f176d024",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "burn",
   "preview": "https://phira.5wyxi.com/files/32fc79f9-0951-4739-bdb2-f50862054a79",
   "ranked": false,
-  "rating": 0.8283415,
-  "ratingCount": 112,
+  "rating": 0.8273709,
+  "ratingCount": 113,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

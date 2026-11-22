@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:27Z",
-    "lastChanged": "2026-09-21T02:03:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-09T12:40:09.510800Z",
   "charter": "潭底鱼PondFish",
@@ -14,6 +14,7 @@
   "description": "该谱面为 初寻杯 比赛用谱\n谱师：B站@潭底鱼PondFish\n谱面预览视频（BV12cG5zwEh3）",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/67253278-6d2f-474c-b126-9c6c7443bf2c",
+  "hidden": false,
   "id": 41268,
   "illustration": "https://phira.5wyxi.com/files/222317e5-4f3c-47e2-84ca-3006e02f1222",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "空飛ぶ猫",
   "preview": "https://phira.5wyxi.com/files/b6e8fd7a-83a4-44f7-89da-06ca0f3c4466",
   "ranked": false,
-  "rating": 0.903775,
-  "ratingCount": 234,
+  "rating": 0.9035297,
+  "ratingCount": 241,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

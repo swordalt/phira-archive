@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:37Z",
-    "lastChanged": "2026-09-21T02:06:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-27T13:53:44.645589Z",
   "charter": "",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.2,
   "file": "https://phira.5wyxi.com/files/d3f95b5e-f9df-42f5-915f-3005f91aa60d",
+  "hidden": false,
   "id": 47295,
   "illustration": "https://phira.5wyxi.com/files/d6e9cd43-35b6-4f30-a653-1c6070a75852",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "向着黎明奔去",
   "preview": "https://phira.5wyxi.com/files/4256e0e2-f162-4646-8a42-dff09ec54ae1",
   "ranked": false,
-  "rating": 0.94400513,
-  "ratingCount": 74,
+  "rating": 0.9460922,
+  "ratingCount": 76,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

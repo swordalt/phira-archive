@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:05Z",
-    "lastChanged": "2026-09-21T02:01:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T11:17:32.844224Z",
   "charter": "Limefruit1",
@@ -14,6 +14,7 @@
   "description": "譜師：Limefruit1234 ",
   "difficulty": 16.5,
   "file": "https://phira.5wyxi.com/files/ce815f96-ccdf-415d-9732-e79ab4d1e54c",
+  "hidden": false,
   "id": 407,
   "illustration": "https://phira.5wyxi.com/files/2d6ca1ae-c778-4564-a53c-17be61af306f",
   "illustrator": "UK",
@@ -21,8 +22,8 @@
   "name": "Avantgarde",
   "preview": "https://phira.5wyxi.com/files/c5ea39fd-27a0-439d-afc3-dacc75996d30",
   "ranked": false,
-  "rating": 0.85060936,
-  "ratingCount": 478,
+  "rating": 0.8511282,
+  "ratingCount": 481,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

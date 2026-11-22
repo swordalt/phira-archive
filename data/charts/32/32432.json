@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:07Z",
-    "lastChanged": "2026-09-21T02:06:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-25T12:30:23.048490Z",
   "charter": "玖琰_Sept",
@@ -14,6 +14,7 @@
   "description": "本人上传\n新人初谱 耗时约4h（？",
   "difficulty": 15.400001,
   "file": "https://phira.5wyxi.com/files/d7f40c4d-5bc2-4504-8a48-8d7ef6038db9",
+  "hidden": false,
   "id": 32432,
   "illustration": "https://phira.5wyxi.com/files/cba7b28e-1ee6-4cdb-a648-d48f957741ce",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Starry Sky",
   "preview": "https://phira.5wyxi.com/files/dd2cffea-632b-4beb-b662-fbc369fc3844",
   "ranked": false,
-  "rating": 0.9362473,
-  "ratingCount": 96,
+  "rating": 0.93688416,
+  "ratingCount": 97,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:13Z",
-    "lastChanged": "2026-09-21T02:05:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-26T14:07:09.749637Z",
   "charter": "Kuewwc",
@@ -14,6 +14,7 @@
   "description": "Bilibili@Kuewwc",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/7cf0e77f-83ec-447a-a497-97126b9978ad",
+  "hidden": false,
   "id": 75868,
   "illustration": "https://phira.5wyxi.com/files/f624190f-4be0-4d02-9a0d-eba894d73de1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "メズマライザー ",
   "preview": "https://phira.5wyxi.com/files/2f9e0f25-357e-4571-814c-3a62ba2f79f7",
   "ranked": false,
-  "rating": 0.9023007,
-  "ratingCount": 1472,
+  "rating": 0.90533906,
+  "ratingCount": 2283,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

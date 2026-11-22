@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:23Z",
-    "lastChanged": "2026-09-21T02:04:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-19T14:21:08.404959Z",
   "charter": "WoMYPu",
@@ -14,6 +14,7 @@
   "description": "本人上传，沉彩杯B组决赛特供",
   "difficulty": 16.099998,
   "file": "https://phira.5wyxi.com/files/a7054a93-b2de-4165-abc7-e5f4f3e07de7",
+  "hidden": false,
   "id": 53005,
   "illustration": "https://phira.5wyxi.com/files/1a839c01-7b4f-4d88-910e-51644875dd7d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Excalibur ～Revived resolution～",
   "preview": "https://phira.5wyxi.com/files/14d861c5-f5ab-425c-ae1b-e533f2fb8b25",
   "ranked": false,
-  "rating": 0.7995511,
-  "ratingCount": 40,
+  "rating": 0.80839854,
+  "ratingCount": 42,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

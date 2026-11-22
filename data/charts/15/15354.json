@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:56Z",
-    "lastChanged": "2026-09-21T02:01:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-11T06:55:02.113344Z",
   "charter": "sniper654hf",
@@ -14,6 +14,7 @@
   "description": "没有简介",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/26094538-9575-430e-a610-75c1eb3487c5",
+  "hidden": false,
   "id": 15354,
   "illustration": "https://phira.5wyxi.com/files/61b152a2-c9f4-4efc-a6cf-391df27b6b53",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "fantasy world",
   "preview": "https://phira.5wyxi.com/files/77367684-4560-47f5-be23-30b044e2a55c",
   "ranked": false,
-  "rating": 0.9358418,
-  "ratingCount": 475,
+  "rating": 0.93492234,
+  "ratingCount": 484,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:05Z",
-    "lastChanged": "2026-09-21T02:01:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "霜降. against Seako.",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/29dc8ca2-a5e4-426c-892c-cfbe23462aa7",
+  "hidden": false,
   "id": 351,
   "illustration": "https://phira.5wyxi.com/files/cd2d84c0-ca85-4186-8c2a-d91e04316137",
   "illustrator": "Sin:cK",
@@ -21,8 +22,8 @@
   "name": "Antler",
   "preview": "https://phira.5wyxi.com/files/302ca695-3ab2-4766-9c12-f2803db7fd65",
   "ranked": false,
-  "rating": 0.9336788,
-  "ratingCount": 1136,
+  "rating": 0.9337939,
+  "ratingCount": 1146,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

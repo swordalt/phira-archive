@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:03Z",
-    "lastChanged": "2026-09-21T02:06:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-17T12:05:39.022136Z",
   "charter": "Nizhont_AX",
@@ -14,6 +14,7 @@
   "description": "新人初谱，请多指教\nUID:3546735511079705",
   "difficulty": 15.7,
   "file": "https://phira.5wyxi.com/files/7ee8cefa-af53-4652-9257-f2e855b261d1",
+  "hidden": false,
   "id": 29819,
   "illustration": "https://phira.5wyxi.com/files/51b2d097-e958-4f85-af1b-8564a4317eb3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Gaudium Resonance",
   "preview": "https://phira.5wyxi.com/files/10b5fd52-3df3-4441-9e64-ac0c5c6bc71b",
   "ranked": false,
-  "rating": 0.8928644,
-  "ratingCount": 24,
+  "rating": 0.89024615,
+  "ratingCount": 25,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

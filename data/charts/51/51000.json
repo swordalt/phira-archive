@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:11Z",
-    "lastChanged": "2026-09-21T02:04:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-05T05:15:01.976909Z",
   "charter": "满冰水分子",
@@ -14,6 +14,7 @@
   "description": "新人二谱，本人上传",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/17b91d7a-27c0-4cfe-9cc7-2271acf6a137",
+  "hidden": false,
   "id": 51000,
   "illustration": "https://phira.5wyxi.com/files/1114e47e-467e-4c05-a78f-a91e9dd1ffb5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "冰风暴",
   "preview": "https://phira.5wyxi.com/files/2bf60c7c-0bb4-431c-8bb6-c70149e7f38d",
   "ranked": false,
-  "rating": 0.8963223,
-  "ratingCount": 242,
+  "rating": 0.8973107,
+  "ratingCount": 249,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

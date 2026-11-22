@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:55Z",
-    "lastChanged": "2026-09-21T02:05:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-23T16:29:16.472690Z",
   "charter": "****",
@@ -14,6 +14,7 @@
   "description": "LC2024#2 SF SV1",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/3110106f-385a-4cf2-8577-7d69a9a494ef",
+  "hidden": false,
   "id": 24189,
   "illustration": "https://phira.5wyxi.com/files/a96e0324-bdf7-481d-a044-98877ed7c17b",
   "illustrator": "",

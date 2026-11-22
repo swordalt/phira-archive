@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-07T16:20:59Z",
-    "lastChanged": "2026-11-13T16:10:51Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:31Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-11-07T15:07:29.514064Z",
   "charter": "7poLoyo/LiveYud/CelyndrA",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n上传已经过其他谱师同意\nThanks for your playing.",
   "difficulty": 18.4,
   "file": "https://phira.5wyxi.com/files/b4e81341-9ec3-41f0-b5a3-97ab4b039579",
+  "hidden": false,
   "id": 83329,
   "illustration": "https://phira.5wyxi.com/files/5947bbd8-f492-4b51-8195-7a3f22b6be3f",
   "illustrator": "mary",
@@ -21,8 +22,8 @@
   "name": "℉",
   "preview": "https://phira.5wyxi.com/files/893822ef-438c-46a3-87ea-fcbff623bec6",
   "ranked": false,
-  "rating": 0.91101855,
-  "ratingCount": 109,
+  "rating": 0.9174744,
+  "ratingCount": 129,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

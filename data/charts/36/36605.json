@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-09-21T02:06:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-15T14:23:42.203411Z",
   "charter": "RG-RhythmGames",
@@ -14,6 +14,7 @@
   "description": "2025.4.15\n该谱面来自Malody转谱，但其实原谱面作者也是我（\n曲绘是音乐平台找的，由于图片比例是1:1，我稍微做了点处理变成了16:9的形式\n2025.5.4\n修改偏移（0.000→-0.020）\n2025.6.4\n再次修改偏移（-0.020→-0.040）",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/5cd44588-590b-49e9-91cd-da9728b82eaf",
+  "hidden": false,
   "id": 36605,
   "illustration": "https://phira.5wyxi.com/files/e246d21e-4a17-4142-98a9-66cea3052a9d",
   "illustrator": "",

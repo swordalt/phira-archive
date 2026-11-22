@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:01Z",
-    "lastChanged": "2026-09-21T02:06:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-30T11:19:16.753181Z",
   "charter": "Hexflasher",
@@ -14,6 +14,7 @@
   "description": "6k map made by Hexflasher\nTechBurger V1 Part.2\n----------\nName:臨终\nArtist:Cosmograph\nType:Technical\nBpm:200\nDifficulty:Finale",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/1578e323-e5d4-476d-ba08-c817f324369d",
+  "hidden": false,
   "id": 28149,
   "illustration": "https://phira.5wyxi.com/files/173c9949-49ad-418f-9759-05a20a1edea1",
   "illustrator": "",

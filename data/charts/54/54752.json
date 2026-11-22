@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:32Z",
-    "lastChanged": "2026-09-21T02:04:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-29T14:04:12.195876Z",
   "charter": "MC 阿唯 AKA DJ 春姐",
@@ -14,6 +14,7 @@
   "description": "@Haru_12#50884",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/eace5fa7-8635-4f40-990b-c9c0f299fa0c",
+  "hidden": false,
   "id": 54752,
   "illustration": "https://phira.5wyxi.com/files/d94dd207-c116-43df-881a-757040d6bb97",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Gangnam Style",
   "preview": "https://phira.5wyxi.com/files/b611ce29-313d-4457-b7c7-0cb89ca90f05",
   "ranked": true,
-  "rating": 0.8649535,
-  "ratingCount": 28629,
+  "rating": 0.86527306,
+  "ratingCount": 31225,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

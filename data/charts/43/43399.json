@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:35Z",
-    "lastChanged": "2026-09-21T02:03:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-01T16:29:34.582869Z",
   "charter": "Warning: ItzWind is infected by Trojan!!",
@@ -14,6 +14,7 @@
   "description": "本人上传\n该谱面为【云梦•始源】比赛供谱\n首次登场于EX区测试赛",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/d881dff0-6d90-4b6b-aed0-6deddadde6b6",
+  "hidden": false,
   "id": 43399,
   "illustration": "https://phira.5wyxi.com/files/9138ba11-9eee-4364-92eb-77bd9471cb3e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "3rd Avenue",
   "preview": "https://phira.5wyxi.com/files/58da8504-9728-49f1-8e82-0d9d906f91ee",
   "ranked": true,
-  "rating": 0.86626023,
-  "ratingCount": 239,
+  "rating": 0.8684598,
+  "ratingCount": 255,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

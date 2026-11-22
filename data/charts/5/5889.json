@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:22Z",
-    "lastChanged": "2026-09-21T02:01:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-23T07:07:26.888928Z",
   "charter": "REVERT: Beneath Abyss of Darkness",
@@ -14,6 +14,7 @@
   "description": "谱师Bilibili@ty天远\r\n定位是260bpm下，纯粹的暴力双指谱",
   "difficulty": 16.600002,
   "file": "https://phira.5wyxi.com/files/fc5ed684-ebfa-43f1-9f57-1b1afd67972b",
+  "hidden": false,
   "id": 5889,
   "illustration": "https://phira.5wyxi.com/files/4f7e414f-d8b0-4d32-a08d-121b118c07d5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Exitium",
   "preview": "https://phira.5wyxi.com/files/7706ad8e-bdf9-4510-bd94-3b38f8c2ba72",
   "ranked": false,
-  "rating": 0.8994056,
-  "ratingCount": 1877,
+  "rating": 0.9001501,
+  "ratingCount": 1895,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

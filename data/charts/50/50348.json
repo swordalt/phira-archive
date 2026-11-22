@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:07Z",
-    "lastChanged": "2026-09-21T02:04:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-19T17:26:36.445110Z",
   "charter": "锦浩宸潇",
@@ -14,6 +14,7 @@
   "description": "第一次做多指谱……有点烂",
   "difficulty": 16.400003,
   "file": "https://phira.5wyxi.com/files/575fcc33-fb60-493a-909a-c5277fb9b31d",
+  "hidden": false,
   "id": 50348,
   "illustration": "https://phira.5wyxi.com/files/26dc9d3f-684b-43a9-8c04-e5d3c5b660e1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "怪獣になりたい",
   "preview": "https://phira.5wyxi.com/files/ff35d04a-23f8-44a4-9a51-54091d49de1a",
   "ranked": false,
-  "rating": 0.8513175,
-  "ratingCount": 1450,
+  "rating": 0.8505681,
+  "ratingCount": 1540,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

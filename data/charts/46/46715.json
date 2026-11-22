@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:50Z",
-    "lastChanged": "2026-09-21T02:03:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-13T05:31:01.316707Z",
   "charter": "Encly",
@@ -14,6 +14,7 @@
   "description": "谱师B站@ty天远\r\n8小时速写谱，思路一气呵成，我觉得写的还是不错的\r\n孩子想火一把，所以三连一下谢谢喵",
   "difficulty": 15.799999,
   "file": "https://phira.5wyxi.com/files/fd9071a8-db0c-4979-82ca-b6576af1ee6a",
+  "hidden": false,
   "id": 46715,
   "illustration": "https://phira.5wyxi.com/files/27f4a877-9019-4027-a2bf-66dca62ca736",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Monitoring (Best Friend Remix)",
   "preview": "https://phira.5wyxi.com/files/28de5b43-a03d-4a51-977c-a6ad78d1bc20",
   "ranked": false,
-  "rating": 0.95219135,
-  "ratingCount": 7197,
+  "rating": 0.95215493,
+  "ratingCount": 7579,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

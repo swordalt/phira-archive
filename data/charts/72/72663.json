@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:07Z",
-    "lastChanged": "2026-09-21T02:05:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-11T05:06:07.964012Z",
   "charter": "TGL Chart Team 「Luminesce」",
@@ -14,6 +14,7 @@
   "description": "凌梦杯供稿，由谱师本人上传\r\n合作者：延川yc & 不会特效の点缀星空",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/0e0db4e1-7a64-49ac-b606-e003c28552d5",
+  "hidden": false,
   "id": 72663,
   "illustration": "https://phira.5wyxi.com/files/ddeaa802-f043-4a43-bc67-98b5570c9223",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Anamnesis",
   "preview": "https://phira.5wyxi.com/files/fb126cf4-eab1-4efa-a229-ea72dd3e7994",
   "ranked": false,
-  "rating": 0.89796776,
-  "ratingCount": 278,
+  "rating": 0.90023595,
+  "ratingCount": 302,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

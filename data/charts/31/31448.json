@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:55Z",
-    "lastChanged": "2026-09-21T02:02:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-05T03:59:13.387957Z",
   "charter": "Duck",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 7.0,
   "file": "https://phira.5wyxi.com/files/a96494f0-45c9-48b5-9253-cbb532101993",
+  "hidden": false,
   "id": 31448,
   "illustration": "https://phira.5wyxi.com/files/23b0fbb3-35d3-4952-8075-5097e2e6d10a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Jump out?",
   "preview": "https://phira.5wyxi.com/files/65ab3781-f52b-4cf4-8fea-c0d144aae88e",
   "ranked": false,
-  "rating": 0.88054883,
-  "ratingCount": 292,
+  "rating": 0.8816584,
+  "ratingCount": 295,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

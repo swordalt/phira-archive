@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:40Z",
-    "lastChanged": "2026-09-21T02:01:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-06T10:54:41.866008Z",
   "charter": "C-Flazeer",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.600002,
   "file": "https://phira.5wyxi.com/files/25b13a69-2f39-429b-9fff-1fcf7b87551e",
+  "hidden": false,
   "id": 11155,
   "illustration": "https://phira.5wyxi.com/files/fc27702d-c809-43b9-95f7-352e21ce32a7",
   "illustrator": "",

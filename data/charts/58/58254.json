@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-27T08:02:44Z",
-    "lastChanged": "2026-09-27T18:17:53Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:02:49Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-05-12T07:08:46.864050Z",
   "charter": "Nishuodeduidui",
@@ -14,6 +14,7 @@
   "description": "求过审",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/710d72d4-2578-4474-a646-0db2fe9ea5b0",
+  "hidden": false,
   "id": 58254,
   "illustration": "https://phira.5wyxi.com/files/831a15b8-55ff-4211-9698-990a7679a481",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "せいかいら_____がきえるとき",
   "preview": "https://phira.5wyxi.com/files/49497b22-ba6b-4608-8e4f-b07aca0c654b",
   "ranked": false,
-  "rating": 0.7267729,
-  "ratingCount": 4,
+  "rating": 0.7812965,
+  "ratingCount": 14,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

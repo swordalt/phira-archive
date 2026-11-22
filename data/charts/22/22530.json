@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:51Z",
-    "lastChanged": "2026-09-21T02:05:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-03T06:35:15.325595Z",
   "charter": "Encly",
@@ -14,6 +14,7 @@
   "description": "谱师就是本人（ Lv43是ma定级，实际难度个人感觉ex2+~ex3",
   "difficulty": 43.0,
   "file": "https://phira.5wyxi.com/files/4ea578bc-6858-4aab-8693-cd3b6fde9ab6",
+  "hidden": false,
   "id": 22530,
   "illustration": "https://phira.5wyxi.com/files/89a84d3c-2959-4fa3-bea6-87c3659a8d5b",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "+ERABY+E CONNEC+10N",
   "preview": "https://phira.5wyxi.com/files/41eeb28d-fcc2-43d1-bd7b-5774b261e379",
   "ranked": false,
-  "rating": 0.9340637,
+  "rating": 0.9402748,
   "ratingCount": 62,
   "reviewed": true,
   "stable": false,

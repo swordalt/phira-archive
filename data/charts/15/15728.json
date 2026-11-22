@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:57Z",
-    "lastChanged": "2026-09-21T02:01:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-15T09:10:10.968540Z",
   "charter": "Ziyieee.Next Rain",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/89be43b9-1927-450a-83f9-fafa785f118d",
+  "hidden": false,
   "id": 15728,
   "illustration": "https://phira.5wyxi.com/files/ff387499-7e22-4a6f-8b44-17cff373c587",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Destr0yer",
   "preview": "https://phira.5wyxi.com/files/a58b7f39-dd51-4497-838d-5a5d41b92b6f",
   "ranked": false,
-  "rating": 0.95635945,
-  "ratingCount": 4566,
+  "rating": 0.9563479,
+  "ratingCount": 4602,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

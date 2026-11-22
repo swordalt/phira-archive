@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:21Z",
-    "lastChanged": "2026-09-21T02:04:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-14T05:10:16.149927Z",
   "charter": "FURA & MUKI",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，希望各位玩得开心喵\n同时！欢迎各位录制手元！记得在发布的时候@禄焰Furamuki哦！",
   "difficulty": 14.200001,
   "file": "https://phira.5wyxi.com/files/31e7bc83-f998-4d0f-8e83-b9d29e43d17c",
+  "hidden": false,
   "id": 52630,
   "illustration": "https://phira.5wyxi.com/files/d19c9ab0-9816-4281-a883-eae660db7da1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "HIDE & SEEK",
   "preview": "https://phira.5wyxi.com/files/88de1d6c-c992-4687-9a01-d01a50e636c0",
   "ranked": false,
-  "rating": 0.94025004,
-  "ratingCount": 231,
+  "rating": 0.9403243,
+  "ratingCount": 241,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

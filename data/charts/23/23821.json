@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:25Z",
-    "lastChanged": "2026-09-21T02:02:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-19T08:57:35.720988Z",
   "charter": "SDFSNCOV",
@@ -14,6 +14,7 @@
   "description": "Kobaryo的hs16神曲\r\n一直很想做谱，然后憋了3个月把这高难谱憋出来了",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/f1e80755-a5fa-4107-a77c-2f7ca6d29dd3",
+  "hidden": false,
   "id": 23821,
   "illustration": "https://phira.5wyxi.com/files/6627790c-0c7b-48ad-90b4-f7e134551eea",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Future Downloader",
   "preview": "https://phira.5wyxi.com/files/16bce50f-1712-4329-bde0-f08500b74743",
   "ranked": false,
-  "rating": 0.70490223,
-  "ratingCount": 92,
+  "rating": 0.7080811,
+  "ratingCount": 93,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:33Z",
-    "lastChanged": "2026-09-21T02:02:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-13T10:15:03.471274Z",
   "charter": "Charisk",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.300001,
   "file": "https://phira.5wyxi.com/files/54c9220f-93d4-4e8a-a3c1-3fc486b5f73a",
+  "hidden": false,
   "id": 26139,
   "illustration": "https://phira.5wyxi.com/files/ca68cd6e-3b49-4d5e-a8d7-6e034c973593",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "异样的风暴中心",
   "preview": "https://phira.5wyxi.com/files/d61633a8-4052-48de-84a9-4c396f7aa67d",
   "ranked": false,
-  "rating": 0.9440986,
-  "ratingCount": 336,
+  "rating": 0.94554126,
+  "ratingCount": 380,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

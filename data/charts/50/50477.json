@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:08Z",
-    "lastChanged": "2026-09-21T02:04:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-22T01:42:54.869405Z",
   "charter": "南瓜 & Lage",
@@ -14,6 +14,7 @@
   "description": "与@南瓜58 一起做的圣诞节谱\nb站：@南如瓜 @Lageee",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/f17cc8f0-5385-4cfc-aca4-dbd51b0f8bfe",
+  "hidden": false,
   "id": 50477,
   "illustration": "https://phira.5wyxi.com/files/f7d0fd88-8108-439e-bbd6-ceed538a3be8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "冬日",
   "preview": "https://phira.5wyxi.com/files/dcbb2f3a-888a-4168-b5ff-8aa2058a2bcd",
   "ranked": false,
-  "rating": 0.9086643,
-  "ratingCount": 141,
+  "rating": 0.90406394,
+  "ratingCount": 168,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

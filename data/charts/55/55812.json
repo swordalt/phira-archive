@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:35Z",
-    "lastChanged": "2026-09-21T02:04:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-10T12:34:26.265174Z",
   "charter": "Rin vs 子魂 vs Ghost_0",
@@ -14,6 +14,7 @@
   "description": "B站-空恋_上传",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/e2bd342d-a497-4d74-ae95-6b40ea6e66fe",
+  "hidden": false,
   "id": 55812,
   "illustration": "https://phira.5wyxi.com/files/cdac1a59-2653-4158-b18d-8214394d02b2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ヒバナ -Reloaded-",
   "preview": "https://phira.5wyxi.com/files/1e62c43b-ab15-4091-bb02-3417ab9dcc26",
   "ranked": false,
-  "rating": 0.9171459,
-  "ratingCount": 154,
+  "rating": 0.91875625,
+  "ratingCount": 185,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

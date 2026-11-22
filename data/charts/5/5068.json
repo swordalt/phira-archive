@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:20Z",
-    "lastChanged": "2026-09-21T02:01:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-10T08:05:47.645062Z",
   "charter": "Feline",
@@ -14,6 +14,7 @@
   "description": "玩过都说创，部分配置可能初见杀",
   "difficulty": 14.1,
   "file": "https://phira.5wyxi.com/files/70e36ce5-09ed-4fb9-86c9-66a421077d18",
+  "hidden": false,
   "id": 5068,
   "illustration": "https://phira.5wyxi.com/files/5a988f0d-61e7-4848-925a-0b7958fe2a87",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "天火明命",
   "preview": "https://phira.5wyxi.com/files/6a9f0808-f54a-4bd9-96dd-a36494a33328",
   "ranked": false,
-  "rating": 0.7874224,
-  "ratingCount": 317,
+  "rating": 0.78904164,
+  "ratingCount": 323,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:05Z",
-    "lastChanged": "2026-09-21T02:06:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-16T15:24:15.928046Z",
   "charter": "TASIKA",
@@ -14,6 +14,7 @@
   "description": "比较简单的叠，觉得歌好听就写了\n\n流速:13\nBPM:128\n",
   "difficulty": 25.0,
   "file": "https://phira.5wyxi.com/files/eefbd578-c82a-4570-8dfe-8162dcf64a48",
+  "hidden": false,
   "id": 30850,
   "illustration": "https://phira.5wyxi.com/files/9195c64e-be9e-4bfd-bde9-d7feb9e60e12",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Teak my hand",
   "preview": "https://phira.5wyxi.com/files/3f7d5be1-7b3b-4edb-9c76-b8f9c802e425",
   "ranked": false,
-  "rating": 0.90392584,
-  "ratingCount": 89,
+  "rating": 0.89556617,
+  "ratingCount": 94,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:07Z",
-    "lastChanged": "2026-09-21T02:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-12T07:14:31.931546Z",
   "charter": "Ante_Loxid",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.200001,
   "file": "https://phira.5wyxi.com/files/dbf2ade3-2d3e-42d6-9291-e5c8f6bb6ff5",
+  "hidden": false,
   "id": 35140,
   "illustration": "https://phira.5wyxi.com/files/1b319001-210e-4290-bcde-ff5504e44389",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Echoism",
   "preview": "https://phira.5wyxi.com/files/b3197f8f-f09d-4f78-84e3-853dac6bd853",
   "ranked": false,
-  "rating": 0.944338,
-  "ratingCount": 529,
+  "rating": 0.9444645,
+  "ratingCount": 569,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

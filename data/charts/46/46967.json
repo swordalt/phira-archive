@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:51Z",
-    "lastChanged": "2026-09-21T02:03:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-20T05:33:35.890803Z",
   "charter": "feat.rek.weizer",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.9,
   "file": "https://phira.5wyxi.com/files/4f195328-334a-49b0-95d9-81105804a87e",
+  "hidden": false,
   "id": 46967,
   "illustration": "https://phira.5wyxi.com/files/6d4188c5-6313-435c-b54c-673891dadb12",
   "illustrator": "",

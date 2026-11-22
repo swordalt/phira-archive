@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-11T09:36:30.006488Z",
   "charter": "HE_Team",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，有关谱面详情请加群557659489",
   "difficulty": 3.5,
   "file": "https://phira.5wyxi.com/files/4a6489ca-1be7-4e6a-bc71-454cf8a83ebd",
+  "hidden": false,
   "id": 33801,
   "illustration": "https://phira.5wyxi.com/files/b18fa67a-a393-4142-b65b-3c1c0ac50c48",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Handheld Examination 丙",
   "preview": "https://phira.5wyxi.com/files/e31b42f0-f16e-44f7-a66a-8f6bc30065d7",
   "ranked": false,
-  "rating": 0.7811279,
-  "ratingCount": 8,
+  "rating": 0.7770901,
+  "ratingCount": 9,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

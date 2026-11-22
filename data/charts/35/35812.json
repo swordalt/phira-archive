@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:09Z",
-    "lastChanged": "2026-09-21T02:03:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-29T01:53:30.474433Z",
   "charter": "月忆-星夜",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/b5b4e9e9-95d5-4898-887a-74bde08f2d0e",
+  "hidden": false,
   "id": 35812,
   "illustration": "https://phira.5wyxi.com/files/8308505f-2f28-4093-9196-fb73f353fc3d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "幽ノ楽園",
   "preview": "https://phira.5wyxi.com/files/fe83d962-ed61-4f98-8c34-f1fd9f7fb8b6",
   "ranked": false,
-  "rating": 0.88812673,
-  "ratingCount": 46,
+  "rating": 0.89464325,
+  "ratingCount": 49,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

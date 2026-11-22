@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:35Z",
-    "lastChanged": "2026-09-21T02:02:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-19T02:48:25.866614Z",
   "charter": "RRR_0496",
@@ -14,6 +14,7 @@
   "description": "新人初铺（也许是\nyasai老师我要向你求婚！！！！！！！！",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/aee9afed-7c39-475a-92d3-b7c1e8d9d85e",
+  "hidden": false,
   "id": 26549,
   "illustration": "https://phira.5wyxi.com/files/2eb689a2-993f-4279-b6ad-56d173b370f7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "イガク",
   "preview": "https://phira.5wyxi.com/files/bded9012-00d0-4e34-9e66-5f678b1c6089",
   "ranked": false,
-  "rating": 0.9436642,
-  "ratingCount": 2754,
+  "rating": 0.9435945,
+  "ratingCount": 2845,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:45Z",
-    "lastChanged": "2026-09-21T02:04:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-01T07:49:36.247809Z",
   "charter": "MIKU",
@@ -14,6 +14,7 @@
   "description": "萌新初谱面，希望大家喜欢！",
   "difficulty": 14.800003,
   "file": "https://phira.5wyxi.com/files/07a6271a-6782-415e-9cee-83a9df6c769d",
+  "hidden": false,
   "id": 59709,
   "illustration": "https://phira.5wyxi.com/files/630e9875-e301-4847-997f-94024147e41c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "夏霞",
   "preview": "https://phira.5wyxi.com/files/e64a9195-016d-4130-83ad-4e67eba4b757",
   "ranked": false,
-  "rating": 0.9294171,
-  "ratingCount": 247,
+  "rating": 0.9379521,
+  "ratingCount": 346,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

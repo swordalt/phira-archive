@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:18Z",
-    "lastChanged": "2026-09-21T02:03:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-21T08:08:26.019260Z",
   "charter": "sp_v3",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 11.0,
   "file": "https://phira.5wyxi.com/files/66e6f2f4-1a32-4104-b565-f772042d5759",
+  "hidden": false,
   "id": 38428,
   "illustration": "https://phira.5wyxi.com/files/0fd79613-962b-4d5c-bab9-7c23a0b3fcd5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "我的世界唱片《otherside》",
   "preview": "https://phira.5wyxi.com/files/873356a1-6ef9-4fb8-ac81-fd532f3475e0",
   "ranked": false,
-  "rating": 0.892937,
-  "ratingCount": 1910,
+  "rating": 0.8947243,
+  "ratingCount": 2067,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:02Z",
-    "lastChanged": "2026-09-21T02:06:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-07T15:16:02.735119Z",
   "charter": "Hexflasher",
@@ -14,6 +14,7 @@
   "description": "6k new map made by Hexflasher\nJackBurger V1 Part.1\n----------\nName:Resonator\nArtist:livetune/halca\nType:Jack\nBPM:110\nDifficulty:Light\n6k Difficulty:[14]\n----------\n本人为新手谱师，谱面都为本人精心制作，当然目前是开始，质量会很差，请多多包涵，对谱面有建议，评价，甚至批判，都可以联系我。",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/ac41319e-9be7-4633-8729-01290b167dad",
+  "hidden": false,
   "id": 28540,
   "illustration": "https://phira.5wyxi.com/files/e7041abc-07c3-45e4-bdd2-ebad40364bfe",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Resonator",
   "preview": "https://phira.5wyxi.com/files/0e1c35fe-a578-420b-afd7-1b7c2650c655",
   "ranked": false,
-  "rating": 0.9354351,
-  "ratingCount": 129,
+  "rating": 0.93687254,
+  "ratingCount": 135,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

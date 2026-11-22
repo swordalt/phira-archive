@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:14Z",
-    "lastChanged": "2026-09-21T02:06:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-11T08:25:51.967245Z",
   "charter": "XieChara",
@@ -14,6 +14,7 @@
   "description": "谱师:XieChara B站@屑猹Chara 上传者:双指玩都不会玩 B站@补是搞笑男 上传已经过谱师同意",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/f95f793a-2958-4746-98b3-35a6d12c22f9",
+  "hidden": false,
   "id": 37968,
   "illustration": "https://phira.5wyxi.com/files/9e88d722-b9ed-4e17-9275-96a9faa6e6ff",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "TECHNOPOLIS 2085",
   "preview": "https://phira.5wyxi.com/files/589bf9e7-e365-49da-b7b4-f4ef16bfc8b5",
   "ranked": false,
-  "rating": 0.8749466,
-  "ratingCount": 74,
+  "rating": 0.8811481,
+  "ratingCount": 78,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

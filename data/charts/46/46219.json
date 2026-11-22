@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:48Z",
-    "lastChanged": "2026-09-21T02:03:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-31T13:06:10.674011Z",
   "charter": "RPE 抿",
@@ -14,6 +14,7 @@
   "description": "本人上传qwq-",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/b297d193-b4fd-4bf4-879f-88efd55f17f6",
+  "hidden": false,
   "id": 46219,
   "illustration": "https://phira.5wyxi.com/files/66102e73-9855-4753-b730-4ab98d80cc5f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "第57次取消发送",
   "preview": "https://phira.5wyxi.com/files/b9e7c222-8035-4474-a1af-1895f460c3f3",
   "ranked": false,
-  "rating": 0.8795912,
-  "ratingCount": 1981,
+  "rating": 0.87769574,
+  "ratingCount": 2172,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:19Z",
-    "lastChanged": "2026-09-21T02:03:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-25T14:12:00.544513Z",
   "charter": "鱼猫",
@@ -14,6 +14,7 @@
   "description": "本人四谱，表演上最满意的了，不会塞，健有点少，希望大家喜欢",
   "difficulty": 14.3,
   "file": "https://phira.5wyxi.com/files/4a4292b7-b35d-40da-845f-eb4b92d774cd",
+  "hidden": false,
   "id": 38735,
   "illustration": "https://phira.5wyxi.com/files/0ed54589-285a-4436-b550-2bf2a0885de5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Skip!!",
   "preview": "https://phira.5wyxi.com/files/5b1a74e6-080e-478b-aa9c-4638bac28e84",
   "ranked": false,
-  "rating": 0.913731,
-  "ratingCount": 168,
+  "rating": 0.9141616,
+  "ratingCount": 169,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

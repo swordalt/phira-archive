@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:58Z",
-    "lastChanged": "2026-09-21T02:06:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-17T03:44:58.517803Z",
   "charter": "Ice747 vs Rulaifozu",
@@ -14,6 +14,7 @@
   "description": "半年前就开写的纯配置，总算没有烂尾\n难度不知道，应该4-\n物量5000+\nRulaifozu vs Ice747",
   "difficulty": 19.0,
   "file": "https://phira.5wyxi.com/files/f92c20ad-7d36-498b-9153-a98bd5768efe",
+  "hidden": false,
   "id": 67109,
   "illustration": "https://phira.5wyxi.com/files/68bd5e81-cbb9-4e19-a295-5108735b02fc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sea of Stars",
   "preview": "https://phira.5wyxi.com/files/7ce08536-595e-40dc-aed0-9adc9ac57684",
   "ranked": false,
-  "rating": 0.91268504,
-  "ratingCount": 25,
+  "rating": 0.9067288,
+  "ratingCount": 29,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

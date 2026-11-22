@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:45Z",
-    "lastChanged": "2026-09-21T02:02:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-30T11:48:18.960147Z",
   "charter": "CooCooCooCoo",
@@ -14,6 +14,7 @@
   "description": "新人二谱，来锐评！",
   "difficulty": 13.7,
   "file": "https://phira.5wyxi.com/files/98cdc1c2-04cf-4543-a010-6ec1bdfe4a96",
+  "hidden": false,
   "id": 29227,
   "illustration": "https://phira.5wyxi.com/files/c41b9c65-4c76-41cc-aae1-9435fb987094",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Breezeblocks",
   "preview": "https://phira.5wyxi.com/files/e7870e8a-d2dd-48c9-a01d-6871b88b4c53",
   "ranked": false,
-  "rating": 0.940652,
-  "ratingCount": 32,
+  "rating": 0.9413138,
+  "ratingCount": 34,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

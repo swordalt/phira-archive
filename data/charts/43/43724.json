@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:37Z",
-    "lastChanged": "2026-09-21T02:03:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-04T22:34:14.442112Z",
   "charter": "瑞炽",
@@ -14,6 +14,7 @@
   "description": "呜呜呜，第一次做phi谱，还请大佬见谅",
   "difficulty": 15.5,
   "file": "https://phira.5wyxi.com/files/fc07b4dc-bcfe-4b59-803a-6968aae37554",
+  "hidden": false,
   "id": 43724,
   "illustration": "https://phira.5wyxi.com/files/2d29c312-7f94-4788-8cba-b75eb0a721ed",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "月舞 ~Lunar Dance",
   "preview": "https://phira.5wyxi.com/files/8687fe6f-1074-4c0f-9db5-b537add1fdba",
   "ranked": false,
-  "rating": 0.812278,
-  "ratingCount": 49,
+  "rating": 0.8173508,
+  "ratingCount": 50,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

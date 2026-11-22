@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:28Z",
-    "lastChanged": "2026-09-21T02:06:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-10T08:49:45.469604Z",
   "charter": "屑洋洋wow",
@@ -14,6 +14,7 @@
   "description": "本人上传，感谢起名钉子户的MVP转谱器",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/12ada500-42a1-4959-b6f5-a9ea36747a3a",
+  "hidden": false,
   "id": 44247,
   "illustration": "https://phira.5wyxi.com/files/858000ea-9089-46bf-88a0-17b023b2aaca",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Knots ",
   "preview": "https://phira.5wyxi.com/files/1412f391-ce23-4509-8c86-d66c7fd27134",
   "ranked": false,
-  "rating": 0.9645431,
-  "ratingCount": 229,
+  "rating": 0.9658215,
+  "ratingCount": 251,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:33Z",
-    "lastChanged": "2026-09-21T02:06:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-30T23:53:28.421665Z",
   "charter": "WanFeng_ABYDOS",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，写得不好请见谅",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/f442c89c-b889-4a21-918c-89cec8c8cd77",
+  "hidden": false,
   "id": 46180,
   "illustration": "https://phira.5wyxi.com/files/fd6ad4f3-8b4f-43ac-a8d9-2e6ccdc6bbcd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Successful Person",
   "preview": "https://phira.5wyxi.com/files/ab30240e-e3d0-4bfe-8afc-a8b1ba678b71",
   "ranked": false,
-  "rating": 0.89907694,
-  "ratingCount": 32,
+  "rating": 0.90482754,
+  "ratingCount": 39,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-26T13:00:03Z",
-    "lastChanged": "2026-09-27T18:17:53Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:03:08Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-09-20T14:55:48.871938Z",
   "charter": "HRS-Team",
@@ -14,6 +14,7 @@
   "description": "HRS-16-Flow-练习曲",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/dd5459e2-2478-4429-b8e6-ad1967eab038",
+  "hidden": false,
   "id": 78605,
   "illustration": "https://phira.5wyxi.com/files/4eab615a-7da9-4705-885c-d0dbad006802",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "フリーフォール",
   "preview": "https://phira.5wyxi.com/files/79a599c6-f854-40fd-955e-38acf0f27895",
   "ranked": false,
-  "rating": 0.82401294,
-  "ratingCount": 5,
+  "rating": 0.88333726,
+  "ratingCount": 17,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

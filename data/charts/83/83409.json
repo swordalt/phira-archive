@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-08T11:36:11Z",
-    "lastChanged": "2026-11-12T10:55:00Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:32Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-11-08T05:55:36.514654Z",
   "charter": "全自動水力噴射装置",
@@ -14,6 +14,7 @@
   "description": "本人上传\n预览：https://b23.tv/Ydky1Rk",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/aa9c1b90-bf13-4b4f-b4b5-fdf9fec916c1",
+  "hidden": false,
   "id": 83409,
   "illustration": "https://phira.5wyxi.com/files/a884edcf-fc3f-418a-89d1-9cc8863e46a3",
   "illustrator": "UK",
@@ -21,11 +22,11 @@
   "name": "Hydroblast",
   "preview": "https://phira.5wyxi.com/files/db0da2b6-9371-4441-96e9-10f732390ebe",
   "ranked": false,
-  "rating": 0.94293576,
-  "ratingCount": 238,
-  "reviewed": false,
+  "rating": 0.9386768,
+  "ratingCount": 321,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

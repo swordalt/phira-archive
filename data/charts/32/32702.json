@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:59Z",
-    "lastChanged": "2026-09-21T02:02:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-28T12:02:24.131262Z",
   "charter": "FreMo (->w<-)",
@@ -14,6 +14,7 @@
   "description": "祝大家新年快乐！\n录制手元需要注明谱师和出处 b站@FM壹某 \n喵喵喵",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/4fdd2b4c-b4c3-4147-abc8-71fb01da411f",
+  "hidden": false,
   "id": 32702,
   "illustration": "https://phira.5wyxi.com/files/7227fb43-1e72-4476-976a-fb0772fe9c8f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mystic Light Quest",
   "preview": "https://phira.5wyxi.com/files/32e69b8a-a235-4707-833f-f6a47c8379e4",
   "ranked": false,
-  "rating": 0.9586318,
-  "ratingCount": 4951,
+  "rating": 0.95896375,
+  "ratingCount": 5157,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

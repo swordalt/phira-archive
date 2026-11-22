@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:24Z",
-    "lastChanged": "2026-09-21T02:01:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-06T06:54:52.600892Z",
   "charter": "W.H.C.",
@@ -14,6 +14,7 @@
   "description": "「送给已逝之人的安魂曲」",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/21edbe28-bc69-4f41-b6fa-95f2b048f857",
+  "hidden": false,
   "id": 6882,
   "illustration": "https://phira.5wyxi.com/files/6127292f-7f62-49f2-9b1a-9a66edd0bc01",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "R.I.P.",
   "preview": "https://phira.5wyxi.com/files/ea4617a1-6f4f-46ce-a2b4-f761965ac8e2",
   "ranked": false,
-  "rating": 0.9645882,
-  "ratingCount": 31610,
+  "rating": 0.964181,
+  "ratingCount": 32441,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:35Z",
-    "lastChanged": "2026-09-21T02:01:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-29T08:37:11.271764Z",
   "charter": "WhiteLight",
@@ -14,6 +14,7 @@
   "description": "（已修改）谱面预览视频BV1EC4y1o7wZ",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/c7b8f2de-c68b-476f-a63f-fd9e83104676",
+  "hidden": false,
   "id": 9918,
   "illustration": "https://phira.5wyxi.com/files/7718c228-1447-454a-aa11-1c399469ece1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "SapphirE",
   "preview": "https://phira.5wyxi.com/files/c961e8fb-987e-45aa-9169-a754285ea886",
   "ranked": true,
-  "rating": 0.92195046,
-  "ratingCount": 1099,
+  "rating": 0.92205846,
+  "ratingCount": 1102,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

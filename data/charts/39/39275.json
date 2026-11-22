@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:17Z",
-    "lastChanged": "2026-09-21T02:06:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-06T13:30:54.503880Z",
   "charter": "nambi",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/867090f3-8a7a-4508-9ea5-04d93d1cd201",
+  "hidden": false,
   "id": 39275,
   "illustration": "https://phira.5wyxi.com/files/bfd942e3-5119-4b06-9a91-7a616337b1d5",
   "illustrator": "",

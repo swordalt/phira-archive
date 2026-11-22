@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:05Z",
-    "lastChanged": "2026-09-21T02:01:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "羽梦明 is here",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 14.1,
   "file": "https://phira.5wyxi.com/files/6410d01b-1d9c-4395-8285-46f67d315cdd",
+  "hidden": false,
   "id": 307,
   "illustration": "https://phira.5wyxi.com/files/3c904a99-01ae-42f9-ba95-5b546f1a8679",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "我在",
   "preview": "https://phira.5wyxi.com/files/bb6c9059-1b81-414c-822d-c4a6211800be",
   "ranked": false,
-  "rating": 0.92621535,
-  "ratingCount": 364,
+  "rating": 0.92672247,
+  "ratingCount": 371,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

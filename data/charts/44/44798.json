@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:42Z",
-    "lastChanged": "2026-09-21T02:03:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-15T14:30:44.914429Z",
   "charter": "布丁（A5m3）",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/34577352-6c64-4f59-b600-03887d6e314e",
+  "hidden": false,
   "id": 44798,
   "illustration": "https://phira.5wyxi.com/files/c7461f64-2034-47ae-a979-f6d1a8c2a85d",
   "illustrator": "",

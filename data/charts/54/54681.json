@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:31Z",
-    "lastChanged": "2026-09-21T02:04:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-28T14:20:42.214816Z",
   "charter": "WITHOUT ME",
@@ -14,6 +14,7 @@
   "description": "0thPecJam内场RG 23",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/3e95f720-d703-4d69-961f-b7cbe5f51db7",
+  "hidden": false,
   "id": 54681,
   "illustration": "https://phira.5wyxi.com/files/d9fd34c3-ae29-4c9b-bb6a-b2e458959c2f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "WITHOUT U",
   "preview": "https://phira.5wyxi.com/files/e3b170ff-0382-44d5-a8fa-bf6bd82de10f",
   "ranked": false,
-  "rating": 0.91802645,
-  "ratingCount": 83,
+  "rating": 0.91983604,
+  "ratingCount": 86,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

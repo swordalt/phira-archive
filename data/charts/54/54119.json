@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:28Z",
-    "lastChanged": "2026-09-21T02:04:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-14T06:39:42.640407Z",
   "charter": "A200_Prime",
@@ -14,6 +14,7 @@
   "description": "请输入文字",
   "difficulty": 13.700003,
   "file": "https://phira.5wyxi.com/files/183ee8c0-1080-4058-ae24-ca499afa4971",
+  "hidden": false,
   "id": 54119,
   "illustration": "https://phira.5wyxi.com/files/f71fdb34-0be0-4cc1-9245-408c7b8126ec",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Celestial Vault",
   "preview": "https://phira.5wyxi.com/files/609da892-783a-45d9-935b-c6f433f99a5a",
   "ranked": false,
-  "rating": 0.87852144,
-  "ratingCount": 13,
+  "rating": 0.8873816,
+  "ratingCount": 15,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

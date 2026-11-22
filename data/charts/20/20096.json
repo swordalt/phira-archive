@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:47Z",
-    "lastChanged": "2026-09-21T02:05:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-18T18:28:02.089955Z",
   "charter": "烨少",
@@ -14,6 +14,7 @@
   "description": "新人写谱\nmalody转谱\n玩个乐",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/5606bcec-a9ae-4b78-84c9-1fb0d520ce0d",
+  "hidden": false,
   "id": 20096,
   "illustration": "https://phira.5wyxi.com/files/3c64731a-9548-40bd-945c-ee113bb8ec16",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "abiogenesis",
   "preview": "https://phira.5wyxi.com/files/e44b55da-7162-413e-b3e0-fe840723fc0e",
   "ranked": false,
-  "rating": 0.9491805,
-  "ratingCount": 472,
+  "rating": 0.9490179,
+  "ratingCount": 477,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

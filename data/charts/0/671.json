@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:06Z",
-    "lastChanged": "2026-09-21T02:01:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-22T03:16:14.205882Z",
   "charter": "ShinyShine",
@@ -14,6 +14,7 @@
   "description": "空灵。\n在这战争之后的世界里，\n只剩那一人在寂寞地歌唱。\n只有那位歌手记得不久前毁灭世界的一瞬间。",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/b6dc3181-a1f4-47e0-ab6a-d0f04b73e27b",
+  "hidden": false,
   "id": 671,
   "illustration": "https://phira.5wyxi.com/files/999aec35-476c-44e6-8456-ad51bbaab9c2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Destr0yer -Afterwar-",
   "preview": "https://phira.5wyxi.com/files/2af472e7-1df3-428b-bafd-3e8cfe8346cc",
   "ranked": false,
-  "rating": 0.5163676,
-  "ratingCount": 198,
+  "rating": 0.5180883,
+  "ratingCount": 199,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:05Z",
-    "lastChanged": "2026-09-21T02:02:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-24T04:34:53.183120Z",
   "charter": "BOX ~ The 2000 ~",
@@ -14,6 +14,7 @@
   "description": "本谱面由谱师本人上传，B 站@盒子2000の秘密桃源",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/e3ed8080-a4f4-4492-987a-539a817e3d34",
+  "hidden": false,
   "id": 17492,
   "illustration": "https://phira.5wyxi.com/files/99bed782-67c0-43ac-bb4e-2fd445c918fb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "尊師 ～The Guru～",
   "preview": "https://phira.5wyxi.com/files/b544fcf7-9865-4ef2-a4d6-57efc3dce506",
   "ranked": false,
-  "rating": 0.8987593,
-  "ratingCount": 742,
+  "rating": 0.8981928,
+  "ratingCount": 759,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:51Z",
-    "lastChanged": "2026-09-21T02:04:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-25T13:44:09.378360Z",
   "charter": "Enchanted Fiztin",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/b1943346-ade0-456a-9d9f-801bbeac4568",
+  "hidden": false,
   "id": 62423,
   "illustration": "https://phira.5wyxi.com/files/2d3a9d9c-3d4b-45f2-aae4-18c51a998a4a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "神灯 (Enchanted Lamp)",
   "preview": "https://phira.5wyxi.com/files/262cc95c-31d8-43f6-93c7-9641bbe6d2ab",
   "ranked": false,
-  "rating": 0.88698125,
-  "ratingCount": 46,
+  "rating": 0.8868572,
+  "ratingCount": 49,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

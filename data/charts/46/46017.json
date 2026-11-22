@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:47Z",
-    "lastChanged": "2026-09-21T02:03:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-29T06:29:05.834651Z",
   "charter": "[ / / / ]",
@@ -14,6 +14,7 @@
   "description": "本谱面获第一届音符设计大赛 WMC 位一 Kick音符（短hold）需要玩家按照当前曲速以4分音的节奏连续击打一个小节，谱面内有提示",
   "difficulty": 13.799998,
   "file": "https://phira.5wyxi.com/files/4f87dc45-a52a-485c-a99c-9568f120b17e",
+  "hidden": false,
   "id": 46017,
   "illustration": "https://phira.5wyxi.com/files/a5b4aab8-a96c-4d52-95fe-da8fefc5d551",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "3rd Avenue",
   "preview": "https://phira.5wyxi.com/files/d98464f5-64fe-4f1b-bb2b-7f8777aed32f",
   "ranked": false,
-  "rating": 0.8945212,
-  "ratingCount": 1362,
+  "rating": 0.89247185,
+  "ratingCount": 1454,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

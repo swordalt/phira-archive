@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:45Z",
-    "lastChanged": "2026-09-21T02:06:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-03T14:16:32.293410Z",
   "charter": "Sfcaris",
@@ -14,6 +14,7 @@
   "description": "该谱面由＂熊大sfcarisFW25880 ＂谱师本人亲自上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/b45161a5-45d5-4661-a037-d33fb9680bb9",
+  "hidden": false,
   "id": 52045,
   "illustration": "https://phira.5wyxi.com/files/43a09591-3e82-4323-8cbb-651410671204",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "PEACE BREAKER",
   "preview": "https://phira.5wyxi.com/files/9beeb0df-e905-4365-b14d-7dae338b21c1",
   "ranked": false,
-  "rating": 0.83230233,
-  "ratingCount": 7,
+  "rating": 0.83754426,
+  "ratingCount": 9,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

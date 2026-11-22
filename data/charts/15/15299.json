@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:22Z",
-    "lastChanged": "2026-09-21T02:05:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-14T06:51:38.712169Z",
   "charter": "XCpotato",
@@ -14,6 +14,7 @@
   "description": "整活谱 全谱共23线 未使用fakenote",
   "difficulty": 2.0000002,
   "file": "https://phira.5wyxi.com/files/2b47b8e7-f6eb-4e49-8922-cb080914cd30",
+  "hidden": false,
   "id": 15299,
   "illustration": "https://phira.5wyxi.com/files/00ea30bc-4b8e-430e-a611-b23cd68fc8f0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "春节序曲",
   "preview": "https://phira.5wyxi.com/files/c73bebd4-9ac5-44b7-bb88-81434f59d7b3",
   "ranked": false,
-  "rating": 0.8974702,
-  "ratingCount": 4804,
+  "rating": 0.8973418,
+  "ratingCount": 4834,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

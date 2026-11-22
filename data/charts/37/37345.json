@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:16Z",
-    "lastChanged": "2026-09-21T02:03:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-03T09:26:48.124338Z",
   "charter": "远动四海升",
@@ -14,6 +14,7 @@
   "description": "谱师抑郁中……",
   "difficulty": 15.3,
   "file": "https://phira.5wyxi.com/files/fea8eedc-56a3-44a0-b827-f60ecf32199f",
+  "hidden": false,
   "id": 37345,
   "illustration": "https://phira.5wyxi.com/files/b8c943d9-8ce1-45a5-92a9-544dca6e2334",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "安魂摇",
   "preview": "https://phira.5wyxi.com/files/17ce6fb2-8f41-48b1-a044-8deb5d70cfc3",
   "ranked": false,
-  "rating": 0.9027426,
-  "ratingCount": 149,
+  "rating": 0.90276927,
+  "ratingCount": 168,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

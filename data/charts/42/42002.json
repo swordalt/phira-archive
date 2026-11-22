@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:29Z",
-    "lastChanged": "2026-09-21T02:03:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-30T13:44:16.630372Z",
   "charter": "yeeeeeee123",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 9.900003,
   "file": "https://phira.5wyxi.com/files/e1adba7c-d009-4993-a0e3-1e09d82ee0ec",
+  "hidden": false,
   "id": 42002,
   "illustration": "https://phira.5wyxi.com/files/65f82dc8-5737-41ab-8983-7bf204f7ed13",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "《Ж》",
   "preview": "https://phira.5wyxi.com/files/33321fcb-a9d1-42b7-a6aa-3c44b9ac6cae",
   "ranked": false,
-  "rating": 0.8751997,
-  "ratingCount": 476,
+  "rating": 0.8755595,
+  "ratingCount": 494,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

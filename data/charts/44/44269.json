@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:28Z",
-    "lastChanged": "2026-09-21T02:06:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-10T12:19:29.404766Z",
   "charter": "喜食天禄",
@@ -14,6 +14,7 @@
   "description": "b站@喜食天禄",
   "difficulty": 18.000004,
   "file": "https://phira.5wyxi.com/files/276465fd-e1b6-410c-bad0-0f52d725f9fc",
+  "hidden": false,
   "id": 44269,
   "illustration": "https://phira.5wyxi.com/files/fb654ac6-ea27-4910-8502-517c26446c39",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ロベリア",
   "preview": "https://phira.5wyxi.com/files/7b88a07b-263a-441e-a262-442590e8a20a",
   "ranked": false,
-  "rating": 0.91802126,
-  "ratingCount": 37,
+  "rating": 0.9199726,
+  "ratingCount": 38,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-26T13:00:03Z",
-    "lastChanged": "2026-09-27T18:17:53Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:03:08Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-09-26T09:26:01.303180Z",
   "charter": "HRS-Team",
@@ -14,6 +14,7 @@
   "description": "HRS-Lv.10-Flow v2单曲",
   "difficulty": 10.300001,
   "file": "https://phira.5wyxi.com/files/0d2c723f-cf9d-4f0e-8bbc-9fdd2756633c",
+  "hidden": false,
   "id": 79125,
   "illustration": "https://phira.5wyxi.com/files/b301e8aa-eabf-400a-9c85-c0f728332bdb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "エンドレス・てゐマパーク(cut)",
   "preview": "https://phira.5wyxi.com/files/ce3d6086-dcae-405e-821d-7bf879d40cc3",
   "ranked": false,
-  "rating": 0.8373974,
-  "ratingCount": 18,
+  "rating": 0.9113164,
+  "ratingCount": 84,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

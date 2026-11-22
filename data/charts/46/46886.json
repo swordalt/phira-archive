@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:51Z",
-    "lastChanged": "2026-09-21T02:03:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-16T10:45:08.140210Z",
   "charter": "xunxun vs yueqi",
@@ -14,6 +14,7 @@
   "description": "本人上传，经过另一谱师同意",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/ed941191-6129-4380-9b64-00f744b76765",
+  "hidden": false,
   "id": 46886,
   "illustration": "https://phira.5wyxi.com/files/e07e29b8-2a75-4d75-b002-4a07bb6ac9af",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fragrance",
   "preview": "https://phira.5wyxi.com/files/41cce6c9-3482-4a5a-89ae-c8844499eb44",
   "ranked": false,
-  "rating": 0.9204249,
-  "ratingCount": 84,
+  "rating": 0.9182945,
+  "ratingCount": 88,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

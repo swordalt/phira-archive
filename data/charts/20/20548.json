@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:15Z",
-    "lastChanged": "2026-09-21T02:02:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-31T05:57:46.324409Z",
   "charter": "青枫",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/3b557c8c-f478-4752-a27f-96e6f9640a6b",
+  "hidden": false,
   "id": 20548,
   "illustration": "https://phira.5wyxi.com/files/8e470ca1-f229-4dd6-b95d-f10c44c3fc60",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fortuna",
   "preview": "https://phira.5wyxi.com/files/5be04ab2-3bf1-4fa5-9dfa-cf71dfcfcbe1",
   "ranked": false,
-  "rating": 0.7876244,
-  "ratingCount": 63,
+  "rating": 0.78985137,
+  "ratingCount": 64,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:27Z",
-    "lastChanged": "2026-09-21T02:03:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-06T11:45:50.617058Z",
   "charter": "C²",
@@ -14,6 +14,7 @@
   "description": "Charter:CatRiot(霧霜) & Chaos  /  本人上传",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/f28c6329-cd05-4126-92fa-7aa197be1425",
+  "hidden": false,
   "id": 41016,
   "illustration": "https://phira.5wyxi.com/files/75103295-d1b1-4212-9dc0-0529daa2846b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Enemy Controller",
   "preview": "https://phira.5wyxi.com/files/66bd27e8-b843-4379-b5b5-379d8f678967",
   "ranked": false,
-  "rating": 0.8702482,
-  "ratingCount": 22,
+  "rating": 0.8725334,
+  "ratingCount": 23,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

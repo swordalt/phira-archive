@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:31Z",
-    "lastChanged": "2026-09-21T02:01:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-04T12:47:20.283688Z",
   "charter": "AgClMAKER-AgNO3+KCl",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/b244a3de-1a01-4f45-b08c-9a02c90a8929",
+  "hidden": false,
   "id": 9059,
   "illustration": "https://phira.5wyxi.com/files/7147bba8-969d-4be6-a8ab-13e9f34b032f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bookmaker (2D Version)",
   "preview": "https://phira.5wyxi.com/files/62ce158c-f13a-40b5-b2bf-8fe8bac1aef8",
   "ranked": false,
-  "rating": 0.88341045,
-  "ratingCount": 699,
+  "rating": 0.8840286,
+  "ratingCount": 702,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

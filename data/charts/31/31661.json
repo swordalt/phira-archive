@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:55Z",
-    "lastChanged": "2026-09-21T02:02:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-10T16:38:45.645962Z",
   "charter": "restey&lih",
@@ -14,6 +14,7 @@
   "description": "本人上传\n谱师b站@restey_lih",
   "difficulty": 13.8,
   "file": "https://phira.5wyxi.com/files/a5dd7c1a-823a-486d-addf-ff6fd8989f2b",
+  "hidden": false,
   "id": 31661,
   "illustration": "https://phira.5wyxi.com/files/a6ddbe18-edc2-416c-aaaf-5682332843e1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Rise From The Dead",
   "preview": "https://phira.5wyxi.com/files/8ce80ae6-7e9a-4f1c-9710-f0c1e063c405",
   "ranked": false,
-  "rating": 0.85960174,
-  "ratingCount": 37,
+  "rating": 0.86099124,
+  "ratingCount": 38,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

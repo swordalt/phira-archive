@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:10Z",
-    "lastChanged": "2026-09-21T02:04:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-31T15:28:16.670209Z",
   "charter": "白依笙梦 vs. DLXZ",
@@ -14,6 +14,7 @@
   "description": "第二选择修改版",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/1b4cfd78-52cf-4960-ab11-1ee8f2399b10",
+  "hidden": false,
   "id": 50785,
   "illustration": "https://phira.5wyxi.com/files/8f887186-fc30-4d00-ab49-1cd0e1fe8b19",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "第二选择",
   "preview": "https://phira.5wyxi.com/files/db56a8d5-9e89-4b5e-8138-d66cdb5f5813",
   "ranked": false,
-  "rating": 0.87617725,
-  "ratingCount": 376,
+  "rating": 0.8784272,
+  "ratingCount": 390,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:31Z",
-    "lastChanged": "2026-09-21T02:02:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-04T00:54:39.200089Z",
   "charter": "Goodnight & Lynx",
@@ -14,6 +14,7 @@
   "description": "https://www.bilibili.com/video/BV1yqijeuEdy",
   "difficulty": 12.2,
   "file": "https://phira.5wyxi.com/files/508eb56d-caa8-4f88-a7cb-0b5c3e886e6f",
+  "hidden": false,
   "id": 25204,
   "illustration": "https://phira.5wyxi.com/files/f843e6fc-1aaa-47bb-aef7-ff62195beed6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "恋×シンアイ彼女 メインテーマ",
   "preview": "https://phira.5wyxi.com/files/e87867b1-c762-4290-8d93-befb1983cf3a",
   "ranked": false,
-  "rating": 0.87122244,
-  "ratingCount": 114,
+  "rating": 0.8725578,
+  "ratingCount": 116,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:56Z",
-    "lastChanged": "2026-09-21T02:05:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-24T17:00:17.394216Z",
   "charter": "+PLUS+SiGURE+FUYi",
@@ -14,6 +14,7 @@
   "description": "不玩我的谱手机就自动下载原神（谱师本人上传）",
   "difficulty": 33.0,
   "file": "https://phira.5wyxi.com/files/96f4bc35-9ad4-4690-ada6-9de1738a015c",
+  "hidden": false,
   "id": 24274,
   "illustration": "https://phira.5wyxi.com/files/5b8a8778-082e-4503-a554-a88b4c6fa9e9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "+ERABY+E CONNEC+10N",
   "preview": "https://phira.5wyxi.com/files/d62ebe00-155b-41c8-847c-97af29a3f1dc",
   "ranked": false,
-  "rating": 0.93163174,
-  "ratingCount": 211,
+  "rating": 0.9310477,
+  "ratingCount": 215,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

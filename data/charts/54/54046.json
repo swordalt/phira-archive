@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:28Z",
-    "lastChanged": "2026-09-21T02:04:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-11T20:15:56.378163Z",
   "charter": "羽梦明 |「囹圄」",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/efcc3012-acc1-4984-82dc-186e73c30b45",
+  "hidden": false,
   "id": 54046,
   "illustration": "https://phira.5wyxi.com/files/07c1d64b-cd8d-4507-bcd1-a70cd49bafc0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "零重祈愿（无shader）",
   "preview": "https://phira.5wyxi.com/files/da8381a5-545f-4b53-bcbe-856ac218376e",
   "ranked": false,
-  "rating": null,
-  "ratingCount": 0,
+  "rating": 0.7482895,
+  "ratingCount": 1,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

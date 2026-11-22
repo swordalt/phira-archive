@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:07Z",
-    "lastChanged": "2026-09-21T02:06:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-28T13:17:51.271639Z",
   "charter": "diguolost",
@@ -14,6 +14,7 @@
   "description": "修改定数,审核可以从QQ频道pd74525190里的To审核查看谱面，5.6日更新：增加标签",
   "difficulty": 15.400003,
   "file": "https://phira.5wyxi.com/files/75d9fbde-f034-428b-b584-9c4c53b6a89c",
+  "hidden": false,
   "id": 32717,
   "illustration": "https://phira.5wyxi.com/files/09474abd-1624-448f-bb78-37f969c5bb27",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Disorder",
   "preview": "https://phira.5wyxi.com/files/3a20575a-151b-4c24-8d71-ae75d016710b",
   "ranked": false,
-  "rating": 0.92735344,
-  "ratingCount": 124,
+  "rating": 0.9301171,
+  "ratingCount": 129,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

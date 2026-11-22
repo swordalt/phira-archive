@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:55Z",
-    "lastChanged": "2026-09-21T02:03:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-05T14:21:47.210247Z",
   "charter": "-NICOLABULA-",
@@ -14,6 +14,7 @@
   "description": "b站：-尼可拉拉不拉-",
   "difficulty": 15.3,
   "file": "https://phira.5wyxi.com/files/7c3a7523-59a6-4fa0-81d9-9b4c9f8dd268",
+  "hidden": false,
   "id": 47685,
   "illustration": "https://phira.5wyxi.com/files/90c6dac8-afe3-4be7-b0ba-04ef6c692138",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ツクヨミステップ (feat. nameless)(月读舞步)",
   "preview": "https://phira.5wyxi.com/files/26f070c1-a342-434c-9e8b-2e84c2ed4bc4",
   "ranked": false,
-  "rating": 0.91490775,
-  "ratingCount": 23,
+  "rating": 0.917906,
+  "ratingCount": 24,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

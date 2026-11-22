@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:42Z",
-    "lastChanged": "2026-09-21T02:06:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-07T12:57:37.509748Z",
   "charter": "Ibl && Cya",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 11.5,
   "file": "https://phira.5wyxi.com/files/f180c981-10c2-4c54-993d-65fb410795f1",
+  "hidden": false,
   "id": 49999,
   "illustration": "https://phira.5wyxi.com/files/a6426b42-6633-44c6-bcc4-8e2a64aa7132",
   "illustrator": "",

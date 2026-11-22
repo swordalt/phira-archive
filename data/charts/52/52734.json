@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:22Z",
-    "lastChanged": "2026-09-21T02:04:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-01T15:32:03.248581Z",
   "charter": "龙龙&yraihy",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/d8f4b9aa-b675-4367-938f-aaba9c6872e6",
+  "hidden": false,
   "id": 52734,
   "illustration": "https://phira.5wyxi.com/files/c54be17e-e58b-41fd-aaf0-67519f5478bd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "除夕",
   "preview": "https://phira.5wyxi.com/files/d3168f0a-2e83-41f6-9e31-ef0f38a40957",
   "ranked": false,
-  "rating": 0.92503345,
-  "ratingCount": 996,
+  "rating": 0.9251506,
+  "ratingCount": 1040,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

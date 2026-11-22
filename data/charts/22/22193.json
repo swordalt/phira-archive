@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:51Z",
-    "lastChanged": "2026-09-21T02:05:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-29T11:48:52.317262Z",
   "charter": "A1N_",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 29.0,
   "file": "https://phira.5wyxi.com/files/625585d5-4fbd-43cf-8b48-9b23039242dd",
+  "hidden": false,
   "id": 22193,
   "illustration": "https://phira.5wyxi.com/files/7d768240-fad7-4ae0-a7c8-9d42453d08da",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Finixe",
   "preview": "https://phira.5wyxi.com/files/127a3102-8adb-4241-a9c0-7060f2deb441",
   "ranked": false,
-  "rating": 0.910053,
-  "ratingCount": 107,
+  "rating": 0.91144615,
+  "ratingCount": 112,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

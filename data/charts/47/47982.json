@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:56Z",
-    "lastChanged": "2026-09-21T02:03:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-12T06:47:35.535171Z",
   "charter": "tutouSAMA",
@@ -14,6 +14,7 @@
   "description": "本人用时8h做完(实际是6小时在欣赏谱面)，本人的第一张成谱",
   "difficulty": 15.499999,
   "file": "https://phira.5wyxi.com/files/887d9bfe-5dc4-4b2b-a25d-e18a4eef981e",
+  "hidden": false,
   "id": 47982,
   "illustration": "https://phira.5wyxi.com/files/3a99e92b-107b-42cd-8f49-094d535e3477",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Chartreuse Green",
   "preview": "https://phira.5wyxi.com/files/7067bf56-c214-48d4-a446-8ec35e23ac12",
   "ranked": false,
-  "rating": 0.90125424,
-  "ratingCount": 224,
+  "rating": 0.9038205,
+  "ratingCount": 231,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

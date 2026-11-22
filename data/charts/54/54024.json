@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:48Z",
-    "lastChanged": "2026-09-21T02:06:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-10T16:28:57.168090Z",
   "charter": "Uvie",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nMalody自制转谱\nBPM:200\nNote:2440",
   "difficulty": 26.999989,
   "file": "https://phira.5wyxi.com/files/1c835feb-ac0d-46a5-b10c-4811e006edfd",
+  "hidden": false,
   "id": 54024,
   "illustration": "https://phira.5wyxi.com/files/ead6f34d-5a59-4986-8759-b153a4a32eec",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Euphoria [USAO Remix]",
   "preview": "https://phira.5wyxi.com/files/01bf9866-00f7-45fd-863e-f33aba429fe3",
   "ranked": false,
-  "rating": 0.92760986,
-  "ratingCount": 159,
+  "rating": 0.9298359,
+  "ratingCount": 168,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

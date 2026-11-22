@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:33Z",
-    "lastChanged": "2026-09-21T02:05:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-28T12:35:41.065579Z",
   "charter": "MCyyr's big brain hole（",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，此为更新版本，较原来的版本多了一些提示和表演，可能会降低背谱难度（？）\r\n展现谱力时刻，本来是想只写扫线的，然后后面脑洞大开写了一大堆自己都不知道是啥的东西反正挺帅的就是，含有较多sv和背谱段，请酌情游玩打分\r\n游玩前请务必前往B站观看BV15XzeBpEsL以免初见创亖（骗你的，初见过后一样创亖）",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/9858d1bd-5861-485e-a699-a5da904be654",
+  "hidden": false,
   "id": 51736,
   "illustration": "https://phira.5wyxi.com/files/615f973b-5ca7-4fda-bc99-135d786849a0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "thrinos;pygmalion",
   "preview": "https://phira.5wyxi.com/files/ae044d88-4bb7-4e5f-89e0-0f6981c23f4d",
   "ranked": false,
-  "rating": 0.9168183,
-  "ratingCount": 55,
+  "rating": 0.9208739,
+  "ratingCount": 58,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

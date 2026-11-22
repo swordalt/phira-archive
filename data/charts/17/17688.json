@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:05Z",
-    "lastChanged": "2026-09-21T02:02:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-29T14:33:48.359150Z",
   "charter": "TRixLoid",
@@ -14,6 +14,7 @@
   "description": "映射段谱面判定 BUG 已修复，本谱面由谱师本人上传",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/e5824e21-880b-4441-a53c-99b80820746e",
+  "hidden": false,
   "id": 17688,
   "illustration": "https://phira.5wyxi.com/files/63411fba-9a00-429c-a824-d4202ca8e892",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "G e n g a o z o",
   "preview": "https://phira.5wyxi.com/files/b5e6d539-2659-4fa3-902c-1c92fc7fc6cc",
   "ranked": false,
-  "rating": 0.8769935,
-  "ratingCount": 590,
+  "rating": 0.8781965,
+  "ratingCount": 597,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

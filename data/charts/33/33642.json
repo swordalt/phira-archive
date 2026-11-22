@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:02Z",
-    "lastChanged": "2026-09-21T02:03:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-09T04:25:53.268281Z",
   "charter": "霓暮114514",
@@ -14,6 +14,7 @@
   "description": "Bilibili@霓玖盺霓，巧克力味玫瑰合作，本人上传",
   "difficulty": 14.400001,
   "file": "https://phira.5wyxi.com/files/702e1165-c283-49aa-ba8b-b7f5ca2289d1",
+  "hidden": false,
   "id": 33642,
   "illustration": "https://phira.5wyxi.com/files/6c430cd0-78cf-41b5-8667-7ba9cfc009d8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "overdose",
   "preview": "https://phira.5wyxi.com/files/1d87701c-877d-442f-8b8f-b00fe06f2698",
   "ranked": false,
-  "rating": 0.9365608,
-  "ratingCount": 2644,
+  "rating": 0.93777114,
+  "ratingCount": 2784,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

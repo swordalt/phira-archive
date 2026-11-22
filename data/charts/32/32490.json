@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:07Z",
-    "lastChanged": "2026-09-21T02:06:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-26T05:28:05.929742Z",
   "charter": "电子弹簧",
@@ -14,6 +14,7 @@
   "description": "谱师（ B站同名）：电子弹簧\n经谱师本人同意上传\n非常好玩的切，难度9+",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/0532d1f8-9ac9-4377-b65d-ab1382b83a03",
+  "hidden": false,
   "id": 32490,
   "illustration": "https://phira.5wyxi.com/files/1b820fd9-090b-415f-a555-35ffc3bda4dc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The World of Scarlet",
   "preview": "https://phira.5wyxi.com/files/4fe17796-30f3-496a-8644-7df6a7949d6e",
   "ranked": false,
-  "rating": 0.9353855,
-  "ratingCount": 49,
+  "rating": 0.93044764,
+  "ratingCount": 50,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:02Z",
-    "lastChanged": "2026-09-21T02:03:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-04T15:22:02.271571Z",
   "charter": "strpuio",
@@ -14,6 +14,7 @@
   "description": "修了表演bug，抱歉影响大家的成绩\n新人2谱，写了72h（16days）\n估计是最后一个谱子了\nb站有视频",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/49fcca5c-be77-4683-b690-5b9e92b2d6f5",
+  "hidden": false,
   "id": 33274,
   "illustration": "https://phira.5wyxi.com/files/00d201a8-1085-4aad-97cc-b65fa413a55b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Cry for me",
   "preview": "https://phira.5wyxi.com/files/9ded5122-2a3a-44aa-a36c-60a18b541ba2",
   "ranked": false,
-  "rating": 0.9427349,
-  "ratingCount": 12450,
+  "rating": 0.94277805,
+  "ratingCount": 13398,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

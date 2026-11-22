@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:45Z",
-    "lastChanged": "2026-09-21T02:05:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-28T04:31:37.914358Z",
   "charter": "LucidDream, Taufiq Acumalaka",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 25.0,
   "file": "https://phira.5wyxi.com/files/036d7f95-8f90-44c1-83b9-6d486874ac9e",
+  "hidden": false,
   "id": 17616,
   "illustration": "https://phira.5wyxi.com/files/b9dee833-1f79-4d36-ab84-06c1a2537eb1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Aurora",
   "preview": "https://phira.5wyxi.com/files/f0c036ed-8ce4-4079-ad86-7155190854b1",
   "ranked": false,
-  "rating": 0.95941895,
-  "ratingCount": 954,
+  "rating": 0.9594793,
+  "ratingCount": 964,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-27T10:26:47.624384Z",
   "charter": "RAnineF",
@@ -14,6 +14,7 @@
   "description": "本人上传，谱面灵感来源于b站同名稿件，已获取作者授权",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/3a191fbc-2e57-4e94-bbfb-d905d7cb7855",
+  "hidden": false,
   "id": 2637,
   "illustration": "https://phira.5wyxi.com/files/d80876c6-8ec7-4e77-844b-e86194f09482",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Re:Sin",
   "preview": "https://phira.5wyxi.com/files/063d14c0-4103-4eef-9278-a5157b39aa9d",
   "ranked": false,
-  "rating": 0.81991905,
-  "ratingCount": 587,
+  "rating": 0.82013327,
+  "ratingCount": 593,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

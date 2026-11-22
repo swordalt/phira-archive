@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:10Z",
-    "lastChanged": "2026-09-21T02:01:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-12T23:35:33.108554Z",
   "charter": "yourgrandpa",
@@ -14,6 +14,7 @@
   "description": "是谱师本人上传，别退了（",
   "difficulty": 15.7,
   "file": "https://phira.5wyxi.com/files/55123320-c648-435c-aa9a-c02252a9f2da",
+  "hidden": false,
   "id": 1794,
   "illustration": "https://phira.5wyxi.com/files/baef6432-70fc-421f-b14c-13f130ce6ce9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "彁",
   "preview": "https://phira.5wyxi.com/files/dcea948c-ba57-4875-a37b-2a06998dc90d",
   "ranked": false,
-  "rating": 0.8232998,
-  "ratingCount": 1147,
+  "rating": 0.8233203,
+  "ratingCount": 1151,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

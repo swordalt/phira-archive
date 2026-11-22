@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:05Z",
-    "lastChanged": "2026-09-21T02:03:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-28T10:04:26.090084Z",
   "charter": "封茗云冰谱姬",
@@ -14,6 +14,7 @@
   "description": "B站封茗云冰\n视频BV1gPAreAE6V\n开学了啊啊啊\n这是一个白开水\n但我保证下一个谱会很有意思\n",
   "difficulty": 13.1,
   "file": "https://phira.5wyxi.com/files/0d43c15c-1331-4174-9597-db01a53c6e10",
+  "hidden": false,
   "id": 34558,
   "illustration": "https://phira.5wyxi.com/files/3a356f93-2ea1-4915-b6b1-6126147d8020",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "舞姬",
   "preview": "https://phira.5wyxi.com/files/30894ad1-c90a-4fec-80d6-a4c48e9ef688",
   "ranked": false,
-  "rating": 0.9110211,
-  "ratingCount": 145,
+  "rating": 0.9108773,
+  "ratingCount": 151,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

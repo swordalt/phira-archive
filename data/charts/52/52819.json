@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:22Z",
-    "lastChanged": "2026-09-21T02:04:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-16T16:26:07.396851Z",
   "charter": "zhudyfox",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/107fbaa8-0909-4c16-9242-78b8ec25c72c",
+  "hidden": false,
   "id": 52819,
   "illustration": "https://phira.5wyxi.com/files/bdfd353c-c279-4861-a76c-9757ddc44d87",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "End Time",
   "preview": "https://phira.5wyxi.com/files/c9ddd16f-4923-4aea-a54a-f9015b5d0170",
   "ranked": false,
-  "rating": 0.90490156,
-  "ratingCount": 153,
+  "rating": 0.90435827,
+  "ratingCount": 159,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

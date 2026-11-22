@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:45Z",
-    "lastChanged": "2026-09-21T02:04:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-06T05:05:59.524832Z",
   "charter": "Chaos",
@@ -14,6 +14,7 @@
   "description": "本人上传(Chaos)",
   "difficulty": 15.000004,
   "file": "https://phira.5wyxi.com/files/38478977-bb94-4c32-9586-3f34bd37946f",
+  "hidden": false,
   "id": 60063,
   "illustration": "https://phira.5wyxi.com/files/5d3d94de-4a72-438b-beb4-864a0b7b66b1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bring Me Back",
   "preview": "https://phira.5wyxi.com/files/58bf5483-fff1-45ff-a5a4-84793cdf4acf",
   "ranked": false,
-  "rating": 0.91677856,
-  "ratingCount": 28,
+  "rating": 0.93641937,
+  "ratingCount": 45,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

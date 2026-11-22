@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:41Z",
-    "lastChanged": "2026-09-21T02:06:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-20T15:33:49.994310Z",
   "charter": "龙龙",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/3a219d09-be5e-4959-8e78-ae5c6857575d",
+  "hidden": false,
   "id": 49324,
   "illustration": "https://phira.5wyxi.com/files/4bb20d3c-3b69-4735-9cc5-0e67fdfea63c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "一点点",
   "preview": "https://phira.5wyxi.com/files/988578db-00e5-4cc6-816c-76ecedfe6e8d",
   "ranked": false,
-  "rating": 0.90989846,
-  "ratingCount": 1426,
+  "rating": 0.9089246,
+  "ratingCount": 1594,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

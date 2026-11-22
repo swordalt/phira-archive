@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:03Z",
-    "lastChanged": "2026-09-21T02:05:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-06T06:12:12.641109Z",
   "charter": "网好菜菌",
@@ -14,6 +14,7 @@
   "description": "WSRT×云梦杯原创谱面\n初次登场于第一轮表演赛\n谱师本人上传\n感谢所有对这张谱面提出过建议和指导的人！",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/917be45c-0086-4d9d-8bd4-893e05ac5593",
+  "hidden": false,
   "id": 69739,
   "illustration": "https://phira.5wyxi.com/files/ac9af9fc-4dbe-450b-bbee-f6cefe574a05",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "超·东方不眠夜",
   "preview": "https://phira.5wyxi.com/files/41e4c832-e1e7-4d8e-9930-98e3995d21b7",
   "ranked": false,
-  "rating": 0.9183247,
-  "ratingCount": 503,
+  "rating": 0.91919875,
+  "ratingCount": 549,
   "reviewed": true,
   "stable": false,
   "stableRequest": true,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:21Z",
-    "lastChanged": "2026-09-21T02:03:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-07T07:26:20.781555Z",
   "charter": "U111S",
@@ -14,6 +14,7 @@
   "description": "B站本人上传\n账号:UUISS_",
   "difficulty": 9.2,
   "file": "https://phira.5wyxi.com/files/1e7330b4-fa85-4b78-a520-f072cff6dfc1",
+  "hidden": false,
   "id": 39316,
   "illustration": "https://phira.5wyxi.com/files/8a35e18e-1a9d-4721-b11b-3d84e19a6ace",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ハート111",
   "preview": "https://phira.5wyxi.com/files/2d22dce0-26ce-46e9-b26f-27ac66bae97f",
   "ranked": false,
-  "rating": 0.92401105,
-  "ratingCount": 1402,
+  "rating": 0.9246669,
+  "ratingCount": 1453,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:19Z",
-    "lastChanged": "2026-09-21T02:06:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-28T15:36:43.889820Z",
   "charter": "塞壬唱片-FSR/Crywolf",
@@ -14,6 +14,7 @@
   "description": "铺师本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/15d2f619-d280-4dd2-ae1a-65e202b8e83a",
+  "hidden": false,
   "id": 40450,
   "illustration": "https://phira.5wyxi.com/files/d46de63c-7c41-4c8e-8441-ac12a21f04c5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Somniomancer[null set]",
   "preview": "https://phira.5wyxi.com/files/2c2fafc9-397e-4588-96ec-33711898c602",
   "ranked": false,
-  "rating": 0.9282772,
-  "ratingCount": 22,
+  "rating": 0.92750657,
+  "ratingCount": 23,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

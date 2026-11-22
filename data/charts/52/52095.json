@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:18Z",
-    "lastChanged": "2026-09-21T02:04:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-05T02:55:50.372942Z",
   "charter": "Cookie",
@@ -14,6 +14,7 @@
   "description": "我认为很爽的双指谱\n谱师@CookieRacer",
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/ac176f73-67dd-4d35-99d4-cd02ed4c9fa1",
+  "hidden": false,
   "id": 52095,
   "illustration": "https://phira.5wyxi.com/files/208c37b9-1061-4eab-bf52-d57580cb465e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Catharsis",
   "preview": "https://phira.5wyxi.com/files/b834da31-03b6-4050-8a1d-aa16307e2b3d",
   "ranked": false,
-  "rating": 0.934464,
-  "ratingCount": 137,
+  "rating": 0.9354527,
+  "ratingCount": 144,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

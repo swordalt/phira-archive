@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:36Z",
-    "lastChanged": "2026-09-21T02:04:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-11T10:00:08.696236Z",
   "charter": "hhhur213",
@@ -14,6 +14,7 @@
   "description": "俺的第三张谱喵！演示视频: BV1fYDCBjEUd",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/e969e774-6153-4788-95b8-64a343aeea27",
+  "hidden": false,
   "id": 55971,
   "illustration": "https://phira.5wyxi.com/files/fcaf5b85-d695-4642-ad10-c7be25820dec",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Synthesis.",
   "preview": "https://phira.5wyxi.com/files/728de5b0-6a9c-4e64-8119-737245f28c9c",
   "ranked": false,
-  "rating": 0.7176474,
-  "ratingCount": 69,
+  "rating": 0.73315704,
+  "ratingCount": 76,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

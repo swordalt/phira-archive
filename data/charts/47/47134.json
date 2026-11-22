@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:52Z",
-    "lastChanged": "2026-09-21T02:03:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-24T01:07:51.943710Z",
   "charter": "GabrielC",
@@ -14,6 +14,7 @@
   "description": "本人上传。",
   "difficulty": 14.200001,
   "file": "https://phira.5wyxi.com/files/b1101103-0e46-4fcd-b87c-df252b984d9a",
+  "hidden": false,
   "id": 47134,
   "illustration": "https://phira.5wyxi.com/files/a65d91d5-b955-4707-b0d0-c9a675d9d704",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "XX:Calling",
   "preview": "https://phira.5wyxi.com/files/be29285f-6028-4048-a6bd-b0c6dfad7d81",
   "ranked": false,
-  "rating": 0.92865723,
+  "rating": 0.93052846,
   "ratingCount": 33,
   "reviewed": true,
   "stable": false,

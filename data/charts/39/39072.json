@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:16Z",
-    "lastChanged": "2026-09-21T02:06:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-01T09:11:00.814589Z",
   "charter": "尾月",
@@ -14,6 +14,7 @@
   "description": "纯配置6k爽谱（？）",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/40c9aba8-afab-486a-a940-19a60f559367",
+  "hidden": false,
   "id": 39072,
   "illustration": "https://phira.5wyxi.com/files/9bfd6672-fd5b-4232-8f3c-dd9974533308",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "音符盒（再临处刑曲）",
   "preview": "https://phira.5wyxi.com/files/b83f7455-fef9-4743-b3e4-d9098ed2f52f",
   "ranked": false,
-  "rating": 0.8705109,
-  "ratingCount": 33,
+  "rating": 0.8617134,
+  "ratingCount": 39,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

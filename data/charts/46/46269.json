@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:48Z",
-    "lastChanged": "2026-09-21T02:03:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-01T13:48:40.572458Z",
   "charter": "DESTF0_556 as \"Journey to the end\"",
@@ -14,6 +14,7 @@
   "description": "BPM：210\n5thWJC参赛谱",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/b5a7f2c3-2639-43ef-84ef-370c89c2749d",
+  "hidden": false,
   "id": 46269,
   "illustration": "https://phira.5wyxi.com/files/f1ad8846-2075-455c-b61a-d694f8c03b92",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "旅の果てで待っていて",
   "preview": "https://phira.5wyxi.com/files/4809ba94-1de8-4c26-a1d6-cac6ebbcf319",
   "ranked": false,
-  "rating": 0.9351651,
-  "ratingCount": 220,
+  "rating": 0.93616307,
+  "ratingCount": 224,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

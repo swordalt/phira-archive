@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:04Z",
-    "lastChanged": "2026-09-21T02:03:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-18T09:14:01.429759Z",
   "charter": "真的离离原上铺",
@@ -14,6 +14,7 @@
   "description": "音符大小超过1.1可能会获得较差体验",
   "difficulty": 15.900008,
   "file": "https://phira.5wyxi.com/files/45f7807f-79f9-4da5-bb81-aff033ba97d4",
+  "hidden": false,
   "id": 34189,
   "illustration": "https://phira.5wyxi.com/files/3f8c5f8e-4300-4521-ada0-5d03fbdcafe2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "あかず",
   "preview": "https://phira.5wyxi.com/files/36f0a9a5-34f2-4510-955a-5bbf41c41851",
   "ranked": false,
-  "rating": 0.9151498,
-  "ratingCount": 195,
+  "rating": 0.9155814,
+  "ratingCount": 196,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

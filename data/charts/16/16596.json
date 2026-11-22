@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:01Z",
-    "lastChanged": "2026-09-21T02:02:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-04T05:24:59.794452Z",
   "charter": "RightFT",
@@ -14,6 +14,7 @@
   "description": "Puremoon 羽源杯 比赛用谱",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/d90a0bfe-a36f-4013-87aa-ce0a5d714fb1",
+  "hidden": false,
   "id": 16596,
   "illustration": "https://phira.5wyxi.com/files/14420f89-55bc-483b-89a9-9f58eb055372",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Gypsophila",
   "preview": "https://phira.5wyxi.com/files/6d401cc6-58fd-4db0-8c85-412e2e09cc2a",
   "ranked": true,
-  "rating": 0.92247117,
-  "ratingCount": 1928,
+  "rating": 0.92253333,
+  "ratingCount": 1937,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

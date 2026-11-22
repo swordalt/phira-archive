@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:14Z",
-    "lastChanged": "2026-09-21T02:02:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-19T23:53:30.022862Z",
   "charter": "羽梦明 |「零落」",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nB站谱面预览已发布BV1QM4m1r7en",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/8a0bce2a-c78e-4de0-a3e1-da7859928b08",
+  "hidden": false,
   "id": 20167,
   "illustration": "https://phira.5wyxi.com/files/eef25abd-8846-4b30-a94b-0033138444f0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "泠重乞愿",
   "preview": "https://phira.5wyxi.com/files/60f80921-b012-4978-9662-f36bb96d4d7a",
   "ranked": false,
-  "rating": 0.95744205,
-  "ratingCount": 1433,
+  "rating": 0.9576315,
+  "ratingCount": 1479,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

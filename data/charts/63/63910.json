@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:54Z",
-    "lastChanged": "2026-09-21T02:04:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:32Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-04T05:30:59.612053Z",
   "charter": "我是你姐姐的刀",
@@ -14,6 +14,7 @@
   "description": "铺师本人上传",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/31e7b7a1-18f2-483f-b037-b4e76701a758",
+  "hidden": false,
   "id": 63910,
   "illustration": "https://phira.5wyxi.com/files/85a94fd1-0a8e-40bd-ba57-433ad60c723a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MONTAGEM PITTY",
   "preview": "https://phira.5wyxi.com/files/b484b732-ab11-4748-ab19-195667bb3e87",
   "ranked": false,
-  "rating": 0.9275644,
-  "ratingCount": 11380,
+  "rating": 0.9289083,
+  "ratingCount": 12322,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

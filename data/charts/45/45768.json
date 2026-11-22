@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:45Z",
-    "lastChanged": "2026-09-21T02:03:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-26T13:23:03.715885Z",
   "charter": "仙家不能对话",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/fe62eb76-1ef4-455e-9cbb-d2206a144d89",
+  "hidden": false,
   "id": 45768,
   "illustration": "https://phira.5wyxi.com/files/897853a6-b384-41f1-8279-69d73d920e5e",
   "illustrator": "",

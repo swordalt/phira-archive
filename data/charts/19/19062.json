@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:10Z",
-    "lastChanged": "2026-09-21T02:02:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-30T01:19:47.290282Z",
   "charter": "Schwarz墨",
@@ -14,6 +14,7 @@
   "description": "本人第四首自制谱",
   "difficulty": 12.3,
   "file": "https://phira.5wyxi.com/files/697bb1a9-6053-41b8-899f-1cbf45f3ecfb",
+  "hidden": false,
   "id": 19062,
   "illustration": "https://phira.5wyxi.com/files/f28dba31-f208-4572-8d6e-11423f369919",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "浮光（The History）",
   "preview": "https://phira.5wyxi.com/files/2851eb48-a79d-4210-a753-0efea92f049b",
   "ranked": false,
-  "rating": 0.9130141,
-  "ratingCount": 3522,
+  "rating": 0.9127417,
+  "ratingCount": 3654,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

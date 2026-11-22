@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:01Z",
-    "lastChanged": "2026-09-21T02:04:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-05T07:03:27.817456Z",
   "charter": "Smurf__",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/d74407f9-805d-4494-8fb1-9270269904d8",
+  "hidden": false,
   "id": 48775,
   "illustration": "https://phira.5wyxi.com/files/b2334933-188f-4216-9fa3-04100f54ef64",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "DEUS_X_MACHINE",
   "preview": "https://phira.5wyxi.com/files/b60304e3-b096-46b0-8835-83502107b30d",
   "ranked": true,
-  "rating": 0.9241843,
-  "ratingCount": 445,
+  "rating": 0.9225958,
+  "ratingCount": 476,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

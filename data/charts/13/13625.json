@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:48Z",
-    "lastChanged": "2026-09-21T02:01:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-14T09:45:36.517978Z",
   "charter": "changer loves pemo",
@@ -14,6 +14,7 @@
   "description": "BV1HV411X7cJ\nUID:485847921与191585825\n-------------------------\n前半段：\nchanger配置与主线特效\npemo配置优化与部分特效\n后半段：\npemo配置与部分特效\nchanger配置优化与特效\n——————————\n曲名：Sparkle New Life\n作曲：rider\n谱师：changer loves pemo（我与@不会音游的changer）\n物量：817\n事件：6000\nbpm：150\n定数：15.7\n——————————\n谱面使用@cmdysj的Re:phiedit制作\n——————————\n我不拥有歌曲及曲绘的版权，如有侵权，请联系我立即删除",
   "difficulty": 15.7,
   "file": "https://phira.5wyxi.com/files/94d26f08-77de-45df-a254-747ccae401e4",
+  "hidden": false,
   "id": 13625,
   "illustration": "https://phira.5wyxi.com/files/49682329-9af7-4d8c-95a7-6429cc58b3f3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sparkle New Life",
   "preview": "https://phira.5wyxi.com/files/0f3cf8c4-ca2d-4e7d-af5f-568b6123cf47",
   "ranked": false,
-  "rating": 0.9105486,
-  "ratingCount": 524,
+  "rating": 0.91066957,
+  "ratingCount": 528,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

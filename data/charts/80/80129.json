@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-04T18:06:10Z",
-    "lastChanged": "2026-10-07T17:46:26Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:03:09Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-04T12:30:36.536055Z",
   "charter": "HRS-Team",
@@ -14,6 +14,7 @@
   "description": "HRS-Pattern-Lv.③单曲",
   "difficulty": 3.6999993,
   "file": "https://phira.5wyxi.com/files/e6e60538-2222-4f65-9b8e-dc0373eee7eb",
+  "hidden": false,
   "id": 80129,
   "illustration": "https://phira.5wyxi.com/files/4e994284-948e-4fcb-b975-a4d206966a77",
   "illustrator": "Unknown",
@@ -21,8 +22,8 @@
   "name": "朝影",
   "preview": "https://phira.5wyxi.com/files/8610f6b1-1635-490d-9a75-f44c88e2062f",
   "ranked": false,
-  "rating": 0.9142612,
-  "ratingCount": 244,
+  "rating": 0.8948995,
+  "ratingCount": 635,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

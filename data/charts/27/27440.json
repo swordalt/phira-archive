@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:39Z",
-    "lastChanged": "2026-09-21T02:02:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-06T17:58:50.766510Z",
   "charter": "我爱玩音游1234",
@@ -14,6 +14,7 @@
   "description": "这次做的兰兰的歌",
   "difficulty": 11.0,
   "file": "https://phira.5wyxi.com/files/81760775-e9d5-4d69-bccd-b6f6e4df24ab",
+  "hidden": false,
   "id": 27440,
   "illustration": "https://phira.5wyxi.com/files/c5f1e553-e49d-4c57-8e8d-195042fc904b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "兰音Reine - 虹色蝶々",
   "preview": "https://phira.5wyxi.com/files/5952758a-af3b-40b5-bf64-68018b2e6e97",
   "ranked": false,
-  "rating": 0.89123076,
-  "ratingCount": 247,
+  "rating": 0.8917072,
+  "ratingCount": 255,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

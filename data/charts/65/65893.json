@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:57Z",
-    "lastChanged": "2026-09-21T02:04:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-12T06:14:48.671089Z",
   "charter": "爱玩音游的小孩子",
@@ -14,6 +14,7 @@
   "description": "第三张谱",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/37a1aeb5-4a28-4748-818a-7e14de00d45d",
+  "hidden": false,
   "id": 65893,
   "illustration": "https://phira.5wyxi.com/files/dc88e1dc-4b8d-4652-bb2e-58903dece559",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "limitless",
   "preview": "https://phira.5wyxi.com/files/e9316e98-d5c8-4b40-97db-69288bb394af",
   "ranked": false,
-  "rating": 0.86200124,
-  "ratingCount": 207,
+  "rating": 0.8608095,
+  "ratingCount": 223,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

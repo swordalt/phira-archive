@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:29Z",
-    "lastChanged": "2026-09-21T02:04:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-16T09:51:24.123842Z",
   "charter": "p/f/s",
@@ -14,6 +14,7 @@
   "description": "b站高中生不想上学",
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/3d5c4630-802e-43e7-889c-71d0c6b47268",
+  "hidden": false,
   "id": 54227,
   "illustration": "https://phira.5wyxi.com/files/a6dc9e83-27b0-4b37-b512-093d0e42feef",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Go Back",
   "preview": "https://phira.5wyxi.com/files/41f06816-a845-4e8d-bee8-4394ff18e4f8",
   "ranked": false,
-  "rating": 0.7248714,
-  "ratingCount": 10,
+  "rating": 0.7424124,
+  "ratingCount": 11,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

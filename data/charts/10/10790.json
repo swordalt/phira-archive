@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:38Z",
-    "lastChanged": "2026-09-21T02:01:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-23T08:47:10.607791Z",
   "charter": "屑影酱",
@@ -14,6 +14,7 @@
   "description": "累，完，无，不写可能，谢",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/4aa02d0c-4c89-48d9-8530-bcd821c8e7ab",
+  "hidden": false,
   "id": 10790,
   "illustration": "https://phira.5wyxi.com/files/5c4ffa1b-92fb-4920-9922-2c71541d3e34",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "斜陽",
   "preview": "https://phira.5wyxi.com/files/08d2ba0b-32c5-4263-8747-5636a78212bb",
   "ranked": false,
-  "rating": 0.9547864,
-  "ratingCount": 2312,
+  "rating": 0.9545768,
+  "ratingCount": 2357,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

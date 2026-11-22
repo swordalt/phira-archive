@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:35Z",
-    "lastChanged": "2026-09-21T02:06:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-18T18:42:06.802858Z",
   "charter": "山海柔",
@@ -14,6 +14,7 @@
   "description": "新人首谱",
   "difficulty": 13.099999,
   "file": "https://phira.5wyxi.com/files/03e491f5-58ba-4ad9-a83d-144a5e0a62d6",
+  "hidden": false,
   "id": 46922,
   "illustration": "https://phira.5wyxi.com/files/16cce01d-1e1c-45e6-974a-6774a5dec3da",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "一千零一夜",
   "preview": "https://phira.5wyxi.com/files/7bfcd5b0-14b4-4212-b927-c214ee56e104",
   "ranked": false,
-  "rating": 0.9248626,
-  "ratingCount": 208,
+  "rating": 0.9243023,
+  "ratingCount": 215,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

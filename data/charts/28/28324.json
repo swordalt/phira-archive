@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:42Z",
-    "lastChanged": "2026-09-21T02:02:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-04T16:19:05.947048Z",
   "charter": "EMM-U",
@@ -14,6 +14,7 @@
   "description": "生日作",
   "difficulty": 13.5,
   "file": "https://phira.5wyxi.com/files/1726c268-6af7-4841-add3-a7387f9ba615",
+  "hidden": false,
   "id": 28324,
   "illustration": "https://phira.5wyxi.com/files/719c4179-3755-41e7-a5bd-65f2a28a97c5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Altale",
   "preview": "https://phira.5wyxi.com/files/aa123be5-9c49-45af-8ea5-bc40098130ad",
   "ranked": false,
-  "rating": 0.95663977,
-  "ratingCount": 1073,
+  "rating": 0.9562966,
+  "ratingCount": 1091,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

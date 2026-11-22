@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:13Z",
-    "lastChanged": "2026-09-21T02:04:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-21T14:45:39.850746Z",
   "charter": "MORNING",
@@ -14,6 +14,7 @@
   "description": "发一下旧谱吧\n\n有部分改动\n2022.8.28\nBV1oP41157y4",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/8ccf0b5c-0e24-4b7e-b36e-9306544407d4",
+  "hidden": false,
   "id": 51481,
   "illustration": "https://phira.5wyxi.com/files/3e5248f7-fbe0-4db8-882d-9bd83d5e56d9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "トンデモワンダーズ",
   "preview": "https://phira.5wyxi.com/files/2f98d30f-4fd7-4fc7-b002-490caffaad4d",
   "ranked": false,
-  "rating": 0.9237637,
-  "ratingCount": 955,
+  "rating": 0.9236074,
+  "ratingCount": 995,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

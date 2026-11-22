@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:03Z",
-    "lastChanged": "2026-09-21T02:06:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-04T14:23:55.933341Z",
   "charter": "ident11fai",
@@ -14,6 +14,7 @@
   "description": "双指谱，b站@白西西西西瓜\n求审核组的帅哥们网开一面，过一下",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/eb24bbf8-5e85-4a9c-a94a-16f59cb906db",
+  "hidden": false,
   "id": 29415,
   "illustration": "https://phira.5wyxi.com/files/58730a7f-de6c-4664-9c7f-6c5b7813490f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Apollo",
   "preview": "https://phira.5wyxi.com/files/a122272c-e74f-4208-83ec-aa67db63fa96",
   "ranked": false,
-  "rating": 0.9412063,
-  "ratingCount": 32,
+  "rating": 0.94609433,
+  "ratingCount": 37,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

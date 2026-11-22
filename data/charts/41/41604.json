@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:22Z",
-    "lastChanged": "2026-09-21T02:06:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-13T13:30:39.477056Z",
   "charter": "ERGM ",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/132ce30a-956c-4689-b1d2-d65f2a70d6b5",
+  "hidden": false,
   "id": 41604,
   "illustration": "https://phira.5wyxi.com/files/e34c7750-568b-4ec4-bf92-59e0697cf18b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Highscore",
   "preview": "https://phira.5wyxi.com/files/3632b4b1-8425-4f9e-abd2-97d2941154fc",
   "ranked": false,
-  "rating": 0.90226454,
-  "ratingCount": 35,
+  "rating": 0.898862,
+  "ratingCount": 37,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:10Z",
-    "lastChanged": "2026-09-21T02:02:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-25T14:37:08.965786Z",
   "charter": "扎尔",
@@ -14,6 +14,7 @@
   "description": "网易云没撒取绘所以临时用这个垫着",
   "difficulty": 14.5,
   "file": "https://phira.5wyxi.com/files/e1146e15-5388-40d7-9a18-22a126afa925",
+  "hidden": false,
   "id": 18898,
   "illustration": "https://phira.5wyxi.com/files/6fbc6f90-b0d6-429f-a4cd-3dcd8ecfa7d8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "2024.",
   "preview": "https://phira.5wyxi.com/files/4291b8d7-f7c4-4353-ab14-c24b4175f605",
   "ranked": false,
-  "rating": 0.9346287,
-  "ratingCount": 875,
+  "rating": 0.9347747,
+  "ratingCount": 880,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

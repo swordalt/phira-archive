@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:37Z",
-    "lastChanged": "2026-09-21T02:02:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-26T22:18:19.028711Z",
   "charter": "AegleIyorit",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/32648488-1689-4619-99e2-737acaed4382",
+  "hidden": false,
   "id": 26961,
   "illustration": "https://phira.5wyxi.com/files/fbb4b976-d064-4de4-a1e8-119a028fb01b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "絶対零度",
   "preview": "https://phira.5wyxi.com/files/3d613c42-3eec-43a9-823b-2787c9c93504",
   "ranked": false,
-  "rating": 0.9066579,
-  "ratingCount": 78,
+  "rating": 0.90890956,
+  "ratingCount": 80,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

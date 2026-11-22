@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:36Z",
-    "lastChanged": "2026-09-21T02:02:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-22T17:13:19.963458Z",
   "charter": "BXZ",
@@ -14,6 +14,7 @@
   "description": "给雪梨老师的生贺谱，雪梨老师生日快乐！",
   "difficulty": 15.600003,
   "file": "https://phira.5wyxi.com/files/d2c77f86-4176-467d-9622-25164ca1aeb1",
+  "hidden": false,
   "id": 26726,
   "illustration": "https://phira.5wyxi.com/files/c047b0b5-5d9a-431d-ac6a-44da9c25143c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "月詠に鳴る",
   "preview": "https://phira.5wyxi.com/files/22b17cbb-c401-42c8-882f-a7406bace3fe",
   "ranked": false,
-  "rating": 0.8588963,
-  "ratingCount": 411,
+  "rating": 0.8596406,
+  "ratingCount": 416,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

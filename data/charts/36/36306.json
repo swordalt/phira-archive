@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-09-21T02:06:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-06T14:53:23.921236Z",
   "charter": "Towards the CITY",
@@ -14,6 +14,7 @@
   "description": "本人上传\n一张带一点技的偏标准叠谱\n感谢游玩喵",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/ea28ebea-1612-4ea8-b0b4-92874b0d5e70",
+  "hidden": false,
   "id": 36306,
   "illustration": "https://phira.5wyxi.com/files/a1e3e02b-46d3-43ca-8813-eb9a1d324919",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Towards the 300",
   "preview": "https://phira.5wyxi.com/files/5a0986e0-9c08-49af-919a-60896289597b",
   "ranked": false,
-  "rating": 0.961716,
-  "ratingCount": 300,
+  "rating": 0.96201754,
+  "ratingCount": 320,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:16Z",
-    "lastChanged": "2026-09-21T02:03:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-04T11:23:27.909374Z",
   "charter": "灵光vs 多多",
@@ -14,6 +14,7 @@
   "description": "主作者本人上传，",
   "difficulty": 18.000004,
   "file": "https://phira.5wyxi.com/files/41b70e96-65b8-477c-8432-ce90744867ee",
+  "hidden": false,
   "id": 37500,
   "illustration": "https://phira.5wyxi.com/files/e4f8d28e-c8a1-4c2a-b160-b9ff23a9bdf5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Avantgarde",
   "preview": "https://phira.5wyxi.com/files/b7a83af4-3c22-4f66-aec5-ce27716d4f3a",
   "ranked": false,
-  "rating": 0.89071417,
-  "ratingCount": 109,
+  "rating": 0.89271164,
+  "ratingCount": 111,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

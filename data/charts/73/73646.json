@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:09Z",
-    "lastChanged": "2026-10-04T10:51:12Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:08Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-16T03:16:05.551408Z",
   "charter": "Snowy Graphic",
@@ -14,6 +14,7 @@
   "description": "本人上传，多多来B站支持我哦（与B站同名）～BV1hmb26ZEWo",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/075bcdf4-02fc-44e1-b209-97273b1c544b",
+  "hidden": false,
   "id": 73646,
   "illustration": "https://phira.5wyxi.com/files/cc6e711b-a7f4-4f29-81ae-8796d53cf8cd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Snowy Night",
   "preview": "https://phira.5wyxi.com/files/f776d1da-7146-4eae-8eb8-15bdd54b1d5f",
   "ranked": false,
-  "rating": 0.9223875,
-  "ratingCount": 143,
+  "rating": 0.92438096,
+  "ratingCount": 159,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

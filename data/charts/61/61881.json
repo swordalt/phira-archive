@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:50Z",
-    "lastChanged": "2026-09-21T02:04:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-11T08:30:35.243977Z",
   "charter": "额帅煎饼大",
@@ -14,6 +14,7 @@
   "description": "和@Esama#385765(配置打底）的合作喵，负责了表演和部分配置修改，经讨论，由我上传。BV18ejt6rEUb",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/cf14fa23-a5fa-4844-a98d-128758884002",
+  "hidden": false,
   "id": 61881,
   "illustration": "https://phira.5wyxi.com/files/a0c688a9-8b34-4887-b3fb-5e08d4c64ea2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Love Para",
   "preview": "https://phira.5wyxi.com/files/e2d0ca9a-48c7-46ff-a6c3-cdfad5438ac1",
   "ranked": true,
-  "rating": 0.8775487,
-  "ratingCount": 4763,
+  "rating": 0.8789838,
+  "ratingCount": 5146,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

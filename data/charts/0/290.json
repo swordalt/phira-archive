@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:05Z",
-    "lastChanged": "2026-09-21T02:01:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "Chocolate_yi",
@@ -14,6 +14,7 @@
   "description": "已获得@Chocolate_1的授权，快去b站关注ta",
   "difficulty": 15.400001,
   "file": "https://phira.5wyxi.com/files/5324ba60-8247-47d3-8b05-12dd655db57c",
+  "hidden": false,
   "id": 290,
   "illustration": "https://phira.5wyxi.com/files/ea7334a6-241c-4ad7-9e42-40d9cdeeed5a",
   "illustrator": "Cyranek",
@@ -21,8 +22,8 @@
   "name": "Groove Battle 2",
   "preview": "https://phira.5wyxi.com/files/df4507c5-28ae-45c3-8e98-1cfbffeb2eaf",
   "ranked": false,
-  "rating": 0.90991664,
-  "ratingCount": 1194,
+  "rating": 0.90953326,
+  "ratingCount": 1200,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

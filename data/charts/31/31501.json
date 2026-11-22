@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:55Z",
-    "lastChanged": "2026-09-21T02:02:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-06T11:00:29.581932Z",
   "charter": "1000-284",
@@ -14,6 +14,7 @@
   "description": "萌新二谱",
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/3e658939-7d20-4798-b57a-e8b81b23e575",
+  "hidden": false,
   "id": 31501,
   "illustration": "https://phira.5wyxi.com/files/5ee0a67c-879d-45ca-8cc5-316a3b66a05d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Disorder",
   "preview": "https://phira.5wyxi.com/files/077021c9-1944-4774-acf9-bf5a19f0b988",
   "ranked": false,
-  "rating": 0.8655731,
-  "ratingCount": 208,
+  "rating": 0.86904335,
+  "ratingCount": 218,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

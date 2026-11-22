@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:05Z",
-    "lastChanged": "2026-09-21T02:02:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-27T01:27:35.034069Z",
   "charter": "Easy_sun under Starlight！",
@@ -14,6 +14,7 @@
   "description": "BV1ji42197mS谱师本人上传\n（3.27已修复重叠键）",
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/576b5484-bf56-4b4b-a9a3-f0facbc0e78a",
+  "hidden": false,
   "id": 17588,
   "illustration": "https://phira.5wyxi.com/files/b3b721ec-3049-4296-bb59-025ffba22dd4",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "ほしのおとしもの",
   "preview": "https://phira.5wyxi.com/files/6164fd24-85d8-4a50-b5cb-ce1fb0bbb506",
   "ranked": false,
-  "rating": 0.8846652,
+  "rating": 0.8849793,
   "ratingCount": 369,
   "reviewed": true,
   "stable": false,

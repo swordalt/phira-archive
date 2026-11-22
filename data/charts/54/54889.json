@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:33Z",
-    "lastChanged": "2026-09-21T02:04:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-02T04:55:45.795597Z",
   "charter": "^OωO^  !",
@@ -14,6 +14,7 @@
   "description": "2nd WMC参赛谱面（主题：低物量&高难度）。谱师：^ΟωΟ^（b站id：inverted_vOmOv），本人上传。难度：SP，物量：10，参考定数：10.0。谱面预览：BV1a6XkB6EkX。推荐宽高比：3:2，推荐note大小：1.050（RPE内185），推荐资源包：高仿官皮。",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/a10e7df8-5558-4292-b39f-4be0f846a1c0",
+  "hidden": false,
   "id": 54889,
   "illustration": "https://phira.5wyxi.com/files/d62c05a7-c7f0-4cfb-96f7-3a5ff6982ba3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "DataErr0r  !",
   "preview": "https://phira.5wyxi.com/files/625fb01d-5492-4990-b7d9-b6004b0a6edd",
   "ranked": false,
-  "rating": 0.8309134,
-  "ratingCount": 86,
+  "rating": 0.82647794,
+  "ratingCount": 89,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

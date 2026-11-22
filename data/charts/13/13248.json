@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:40Z",
-    "lastChanged": "2026-09-21T02:05:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-05T12:43:07.627572Z",
   "charter": "guest_mnn",
@@ -14,6 +14,7 @@
   "description": "纯分谱",
   "difficulty": 1.0000001,
   "file": "https://phira.5wyxi.com/files/dd21a2ba-c187-4e8a-aa51-93aefc215b3b",
+  "hidden": false,
   "id": 13248,
   "illustration": "https://phira.5wyxi.com/files/abc7af55-9263-4ff3-9619-b49cc9d2b674",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Freedom Dive (Ending)",
   "preview": "https://phira.5wyxi.com/files/b0e915f6-f7f6-4eb7-93d2-30c267aae9be",
   "ranked": false,
-  "rating": 0.80439216,
-  "ratingCount": 108,
+  "rating": 0.8078613,
+  "ratingCount": 111,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

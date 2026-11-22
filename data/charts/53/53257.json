@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:24Z",
-    "lastChanged": "2026-09-21T02:04:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:32Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-23T12:45:51.398787Z",
   "charter": "Spasmodic",
@@ -14,6 +14,7 @@
   "description": "111新人初谱求轻喷",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/c8040fde-f866-4584-8972-9a0914cddc2a",
+  "hidden": false,
   "id": 53257,
   "illustration": "https://phira.5wyxi.com/files/825f5fcc-63fc-4452-8863-e2156f4a4d6c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "群青シグナル",
   "preview": "https://phira.5wyxi.com/files/c97a71fa-4f01-484a-9992-51184611041e",
   "ranked": false,
-  "rating": 0.91827625,
-  "ratingCount": 280,
+  "rating": 0.92099684,
+  "ratingCount": 302,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

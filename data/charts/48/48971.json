@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:02Z",
-    "lastChanged": "2026-09-21T02:04:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-10T07:45:24.611520Z",
   "charter": "Xlip",
@@ -14,6 +14,7 @@
   "description": "17！！！！！！",
   "difficulty": 17.1,
   "file": "https://phira.5wyxi.com/files/0bcd13fa-61f9-469d-843c-6ca61f8d342f",
+  "hidden": false,
   "id": 48971,
   "illustration": "https://phira.5wyxi.com/files/5aa130ff-488a-498d-8deb-38bb4945155b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "End of World",
   "preview": "https://phira.5wyxi.com/files/a8afad68-a8cb-4568-8df8-60cb0bc3b689",
   "ranked": false,
-  "rating": 0.8917285,
-  "ratingCount": 157,
+  "rating": 0.89059657,
+  "ratingCount": 160,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

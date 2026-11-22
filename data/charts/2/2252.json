@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:12Z",
-    "lastChanged": "2026-09-21T02:01:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-14T18:53:29.620257Z",
   "charter": "林微 VS SHARK",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/75f2cc57-4e89-4384-a565-f464c7a81369",
+  "hidden": false,
   "id": 2252,
   "illustration": "https://phira.5wyxi.com/files/2ab45331-7c02-479e-83a0-2b07040e9f45",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "T+ VS SHARK",
   "preview": "https://phira.5wyxi.com/files/34c4d16f-8939-4811-8870-27be418f70b2",
   "ranked": false,
-  "rating": 0.9145908,
-  "ratingCount": 808,
+  "rating": 0.91483414,
+  "ratingCount": 814,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

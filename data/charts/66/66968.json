@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:59Z",
-    "lastChanged": "2026-09-21T02:04:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-19T09:24:03.120880Z",
   "charter": "Reticent_Dust",
@@ -14,6 +14,7 @@
   "description": "修改定数（18.3→18.1）\n7.19微调配置、表演",
   "difficulty": 18.1,
   "file": "https://phira.5wyxi.com/files/12bd547f-0d73-4292-be6e-45095303dc74",
+  "hidden": false,
   "id": 66968,
   "illustration": "https://phira.5wyxi.com/files/615819db-822a-4a0f-8202-d0e7b66e6561",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Stellaria",
   "preview": "https://phira.5wyxi.com/files/607285fc-081e-4742-bbcf-dda08262dffe",
   "ranked": false,
-  "rating": 0.9186875,
-  "ratingCount": 367,
+  "rating": 0.92173636,
+  "ratingCount": 389,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

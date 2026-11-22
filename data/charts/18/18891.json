@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:23Z",
-    "lastChanged": "2026-09-21T02:05:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-25T12:09:03.542407Z",
   "charter": "小芳芳",
@@ -14,6 +14,7 @@
   "description": "该谱面双指可打，无反手配置",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/cff39a49-a4a9-495a-9bc9-427f28f4c3b7",
+  "hidden": false,
   "id": 18891,
   "illustration": "https://phira.5wyxi.com/files/b5b46605-0ad9-4f2d-86e8-a629ca275dd2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "qualia-ideaesthesia-",
   "preview": "https://phira.5wyxi.com/files/30259a91-5f6a-4a1e-a04c-dac12f0e5e68",
   "ranked": false,
-  "rating": 0.90613776,
-  "ratingCount": 84,
+  "rating": 0.90720457,
+  "ratingCount": 85,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

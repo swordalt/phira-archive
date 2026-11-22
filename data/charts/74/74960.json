@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:11Z",
-    "lastChanged": "2026-09-21T02:05:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-22T05:16:43.673346Z",
   "charter": "HypnoZzz",
@@ -14,6 +14,7 @@
   "description": "爆发小考，有初见杀",
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/90d6b0fa-9e69-43c8-857a-224626a03e57",
+  "hidden": false,
   "id": 74960,
   "illustration": "https://phira.5wyxi.com/files/e0cead9b-eb85-4527-9688-44ad0096dc96",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Interstellar Leap",
   "preview": "https://phira.5wyxi.com/files/8a96a1db-11a0-4890-a459-50ff3e2ad139",
   "ranked": false,
-  "rating": 0.87482905,
-  "ratingCount": 33,
+  "rating": 0.8837589,
+  "ratingCount": 35,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

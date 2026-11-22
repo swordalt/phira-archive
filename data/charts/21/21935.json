@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:19Z",
-    "lastChanged": "2026-09-21T02:02:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-26T04:42:36.565843Z",
   "charter": "mgr_",
@@ -14,6 +14,7 @@
   "description": "BV1cb421n7mk",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/4689a111-8465-4d6e-83bb-879b00f36d28",
+  "hidden": false,
   "id": 21935,
   "illustration": "https://phira.5wyxi.com/files/19b0351e-2b7d-497b-b5f2-181dd286ba9f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Per Astra Ad Aspera",
   "preview": "https://phira.5wyxi.com/files/90cc50eb-63e9-4b35-9a6f-8d4f0068df92",
   "ranked": false,
-  "rating": 0.92102385,
-  "ratingCount": 981,
+  "rating": 0.92066413,
+  "ratingCount": 987,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:28Z",
-    "lastChanged": "2026-09-21T02:02:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-01T11:08:21.066191Z",
   "charter": "KevinNatt",
@@ -14,6 +14,7 @@
   "description": "本人上传\n答辩重置\n物量788\nmade by KevinNatt（Neon）",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/0c0651f1-d909-4451-abe3-a36049a87fbd",
+  "hidden": false,
   "id": 24942,
   "illustration": "https://phira.5wyxi.com/files/b0f15090-dc5c-4c3c-968c-ffb142406651",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Alone",
   "preview": "https://phira.5wyxi.com/files/47fdaf23-8686-432c-8692-90124dc4ade2",
   "ranked": false,
-  "rating": 0.89014244,
-  "ratingCount": 699,
+  "rating": 0.89197046,
+  "ratingCount": 735,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

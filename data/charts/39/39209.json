@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:21Z",
-    "lastChanged": "2026-09-21T02:03:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-04T10:57:40.211559Z",
   "charter": "CMRainbowX",
@@ -14,6 +14,7 @@
   "description": "本人上传，尾杀加强ver.",
   "difficulty": 1.9,
   "file": "https://phira.5wyxi.com/files/35452c80-6ef6-4349-9c2d-013899af3431",
+  "hidden": false,
   "id": 39209,
   "illustration": "https://phira.5wyxi.com/files/9e6c595d-7e54-4574-a6b5-f6aeb60d0e07",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fallen Symphony",
   "preview": "https://phira.5wyxi.com/files/aaef955e-9a66-4bd2-8d7a-b213bef21b6a",
   "ranked": false,
-  "rating": 0.9416883,
-  "ratingCount": 662,
+  "rating": 0.94001347,
+  "ratingCount": 702,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

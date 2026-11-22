@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:09Z",
-    "lastChanged": "2026-09-21T02:03:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-28T10:37:17.622774Z",
   "charter": "审蓝",
@@ -14,6 +14,7 @@
   "description": "2-3小时完成，Ctrl+C Ctrl+V Ctrl+V Ctrl+V Ctrl+V Ctrl+V ",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/a237b986-11fc-4cfd-9e31-8c1cab764725",
+  "hidden": false,
   "id": 35786,
   "illustration": "https://phira.5wyxi.com/files/e07eb75e-4880-45f8-a3fa-1d3d2fef59ad",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dummy!",
   "preview": "https://phira.5wyxi.com/files/64f94d15-a0aa-440e-bf43-a8b28284e6ec",
   "ranked": false,
-  "rating": 0.9427343,
-  "ratingCount": 1477,
+  "rating": 0.9436691,
+  "ratingCount": 1511,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

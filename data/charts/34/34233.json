@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-19T22:51:02.902739Z",
   "charter": "小怪AQAQ",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/99555f72-9844-43df-8439-ca7e31cd0546",
+  "hidden": false,
   "id": 34233,
   "illustration": "https://phira.5wyxi.com/files/3811e6fe-ac3e-43bd-8baa-93d477298a64",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Armageddon",
   "preview": "https://phira.5wyxi.com/files/149f9e16-dd3d-4dae-8be2-f9497559bdcf",
   "ranked": false,
-  "rating": 0.9417753,
-  "ratingCount": 153,
+  "rating": 0.94368213,
+  "ratingCount": 159,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:30Z",
-    "lastChanged": "2026-09-21T02:05:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-17T05:15:17.751628Z",
   "charter": "时若汐",
@@ -14,6 +14,7 @@
   "description": "......自己体会",
   "difficulty": 1.0,
   "file": "https://phira.5wyxi.com/files/655db0d2-796b-4dc7-a255-31e4804ab305",
+  "hidden": false,
   "id": 41918,
   "illustration": "https://phira.5wyxi.com/files/3f5958fb-d0ab-49fb-832b-80d6ce3dddad",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "白日妄想",
   "preview": "https://phira.5wyxi.com/files/4c22d9b6-6526-4930-9aa7-c35ee13e3ce3",
   "ranked": false,
-  "rating": 0.89129424,
-  "ratingCount": 117,
+  "rating": 0.8948322,
+  "ratingCount": 120,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

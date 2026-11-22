@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:08Z",
-    "lastChanged": "2026-09-21T02:03:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-18T12:10:49.651781Z",
   "charter": "SBDETR X MujiSama",
@@ -14,6 +14,7 @@
   "description": "谱师本人代表上传，此为改版",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/ba462970-e5a8-4768-ae46-9da8ffc7699f",
+  "hidden": false,
   "id": 35412,
   "illustration": "https://phira.5wyxi.com/files/e1b9e68e-b80e-483f-b098-4e56b5afb929",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "《Ж》",
   "preview": "https://phira.5wyxi.com/files/bf534fc5-ae3a-41dc-9b4c-2974681eaedb",
   "ranked": false,
-  "rating": 0.9535198,
-  "ratingCount": 1588,
+  "rating": 0.9531361,
+  "ratingCount": 1659,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

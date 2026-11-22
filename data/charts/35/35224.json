@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:07Z",
-    "lastChanged": "2026-09-21T02:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-14T19:16:33.816170Z",
   "charter": "阿星",
@@ -14,6 +14,7 @@
   "description": "第一次正式写谱，写这张谱一共花了我一个星期的时间，技术有限，还请见谅。b站视频链接：BV1wsQNY9EeS",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/26cbd1cf-6df3-49e5-a350-23eed86f54d2",
+  "hidden": false,
   "id": 35224,
   "illustration": "https://phira.5wyxi.com/files/4ea1e449-afda-470a-8f0b-45d94838ede2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Stop, Go",
   "preview": "https://phira.5wyxi.com/files/8db2f2f5-c0b8-4fce-8e7e-1c42b91c7b37",
   "ranked": false,
-  "rating": 0.905053,
-  "ratingCount": 27,
+  "rating": 0.90799546,
+  "ratingCount": 28,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:10Z",
-    "lastChanged": "2026-09-21T02:05:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-19T10:44:27.877732Z",
   "charter": "Lion",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n发布于b站 :homo狮子114514",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/a064e439-1946-426b-86ce-ae709ad081be",
+  "hidden": false,
   "id": 74406,
   "illustration": "https://phira.5wyxi.com/files/b9f877d9-797e-4491-96b1-fd1c55293ee8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Rustala",
   "preview": "https://phira.5wyxi.com/files/8776f888-2587-4f73-ae5f-dd837be2db8f",
   "ranked": false,
-  "rating": 0.8931306,
-  "ratingCount": 343,
+  "rating": 0.89397436,
+  "ratingCount": 374,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

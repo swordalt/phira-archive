@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:42Z",
-    "lastChanged": "2026-09-21T02:05:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-16T04:55:01.724790Z",
   "charter": "Welcome to wacca's world",
@@ -14,6 +14,7 @@
   "description": "My friend wants me to make a chart using this song :v\n\nSalamKontol",
   "difficulty": 25.0,
   "file": "https://phira.5wyxi.com/files/36399f96-33dd-435c-bc4e-503c92817681",
+  "hidden": false,
   "id": 15797,
   "illustration": "https://phira.5wyxi.com/files/bd598227-eeb4-4003-be82-bd8ec26d3795",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ouvertüre",
   "preview": "https://phira.5wyxi.com/files/8e9adbed-e1f9-4858-a618-a2d383715db6",
   "ranked": false,
-  "rating": 0.9333302,
-  "ratingCount": 380,
+  "rating": 0.934112,
+  "ratingCount": 386,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

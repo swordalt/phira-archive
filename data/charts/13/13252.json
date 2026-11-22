@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:47Z",
-    "lastChanged": "2026-09-21T02:01:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-05T14:08:07.683432Z",
   "charter": "CR19",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/9b18bf1e-35ff-438f-b0a4-2fbe208ee1f4",
+  "hidden": false,
   "id": 13252,
   "illustration": "https://phira.5wyxi.com/files/5f3a7a7d-3087-43cd-b0b4-c263a291d25c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Isolation",
   "preview": "https://phira.5wyxi.com/files/6d176efc-7f92-40c1-8903-fd02300f6849",
   "ranked": false,
-  "rating": 0.85470986,
-  "ratingCount": 218,
+  "rating": 0.85430443,
+  "ratingCount": 225,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

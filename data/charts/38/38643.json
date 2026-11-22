@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:16Z",
-    "lastChanged": "2026-09-21T02:06:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-24T20:52:13.068879Z",
   "charter": "玉树临风风语酱",
@@ -14,6 +14,7 @@
   "description": "B站哀叆就是我啦~",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/b2e22fef-022a-4ac9-a010-f7bd82b5e185",
+  "hidden": false,
   "id": 38643,
   "illustration": "https://phira.5wyxi.com/files/23dfad97-3132-4163-93db-772a9af3fd83",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Infinity Heaven",
   "preview": "https://phira.5wyxi.com/files/416edffb-0764-450f-9400-bfd144eedbb4",
   "ranked": false,
-  "rating": 0.9454612,
-  "ratingCount": 750,
+  "rating": 0.94504833,
+  "ratingCount": 887,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

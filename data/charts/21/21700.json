@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:18Z",
-    "lastChanged": "2026-09-21T02:02:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-22T14:01:48.336518Z",
   "charter": "阿瑞_Resonance",
@@ -14,6 +14,7 @@
   "description": "这不神奇吗\n欢迎关注b站@阿瑞_Resonance\n谢谢喵",
   "difficulty": 16.800001,
   "file": "https://phira.5wyxi.com/files/dc6c3fa8-0ccc-4ed6-9c36-afdf2f55e6dd",
+  "hidden": false,
   "id": 21700,
   "illustration": "https://phira.5wyxi.com/files/9a3ada8f-5e65-441e-ba1c-e96c748e2d25",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "野花香 (Haocore Mix)",
   "preview": "https://phira.5wyxi.com/files/6831369f-3978-4dd4-be2b-d565a51caced",
   "ranked": false,
-  "rating": 0.94961256,
-  "ratingCount": 11617,
+  "rating": 0.94947606,
+  "ratingCount": 11726,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

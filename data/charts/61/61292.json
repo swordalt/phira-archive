@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:49Z",
-    "lastChanged": "2026-09-21T02:04:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-18T12:33:14.498493Z",
   "charter": "P",
@@ -14,6 +14,7 @@
   "description": "本人上传😡",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/725fb838-478d-49da-beaf-dd24f954b71b",
+  "hidden": false,
   "id": 61292,
   "illustration": "https://phira.5wyxi.com/files/d37eef03-0429-44ce-8d03-02bcef3052f6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "サプレッサ",
   "preview": "https://phira.5wyxi.com/files/14d967b9-96bf-4d33-8db7-d94d375179c5",
   "ranked": false,
-  "rating": 0.808612,
-  "ratingCount": 19,
+  "rating": 0.82284033,
+  "ratingCount": 22,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

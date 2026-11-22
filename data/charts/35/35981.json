@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:29Z",
-    "lastChanged": "2026-09-21T02:05:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-31T14:18:43.768465Z",
   "charter": "XF",
@@ -14,6 +14,7 @@
   "description": "双指可解(?)\n\n愚人节谱，偏纯配置，表演很敷衍awa\n详细简介见b站:不是小烦のxf\n谱师本人上传",
   "difficulty": 15.000001,
   "file": "https://phira.5wyxi.com/files/165f595d-23ac-4066-a640-dbc96d136cb6",
+  "hidden": false,
   "id": 35981,
   "illustration": "https://phira.5wyxi.com/files/4558deda-d9cf-4fb0-825d-ebd2b2aea5e3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "CYCLES",
   "preview": "https://phira.5wyxi.com/files/a3ec4333-2788-4c77-9f01-49ce60a9f6a3",
   "ranked": false,
-  "rating": 0.9357993,
-  "ratingCount": 139,
+  "rating": 0.93688995,
+  "ratingCount": 143,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:46Z",
-    "lastChanged": "2026-09-21T02:01:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-30T05:04:59.437855Z",
   "charter": "Maintemo3957 & MujiSama",
@@ -14,6 +14,7 @@
   "description": "谱师本人代表上传     此为上架区IN自制谱EZ差分",
   "difficulty": 7.4999995,
   "file": "https://phira.5wyxi.com/files/a0f23be2-53c3-423c-9664-9644a19e32a0",
+  "hidden": false,
   "id": 12963,
   "illustration": "https://phira.5wyxi.com/files/8ef5ede9-6212-45a6-90e1-291f9f7cefe0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Saintelmo",
   "preview": "https://phira.5wyxi.com/files/9334d768-353d-41fd-9336-45f058486b90",
   "ranked": false,
-  "rating": 0.90548515,
-  "ratingCount": 187,
+  "rating": 0.9062179,
+  "ratingCount": 190,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

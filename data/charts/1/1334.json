@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:08Z",
-    "lastChanged": "2026-09-21T02:01:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-07T05:46:32.599349Z",
   "charter": "qhnps",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 16.800001,
   "file": "https://phira.5wyxi.com/files/b6258f74-9ba7-4a6b-9a33-2bfdfd3511ad",
+  "hidden": false,
   "id": 1334,
   "illustration": "https://phira.5wyxi.com/files/f48d0054-c868-4311-bd28-4c127cded725",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mystery Circles Ultra",
   "preview": "https://phira.5wyxi.com/files/7dc1470a-d895-4352-aa77-6a87e00bea85",
   "ranked": false,
-  "rating": 0.86962014,
-  "ratingCount": 639,
+  "rating": 0.8702781,
+  "ratingCount": 642,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

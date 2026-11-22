@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:26Z",
-    "lastChanged": "2026-09-21T02:06:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-04T05:23:28.688404Z",
   "charter": "Zyonx",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.8,
   "file": "https://phira.5wyxi.com/files/8a4d11da-e552-48d0-85e9-9d3a44fb9ed3",
+  "hidden": false,
   "id": 42834,
   "illustration": "https://phira.5wyxi.com/files/ee8f304e-2b30-4685-9029-d33498a77bae",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Navsegda (Speed Up Ver.)",
   "preview": "https://phira.5wyxi.com/files/9df7c1a7-deb3-4b39-a275-ad574be02bbc",
   "ranked": false,
-  "rating": 0.9655039,
-  "ratingCount": 481,
+  "rating": 0.96450144,
+  "ratingCount": 517,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

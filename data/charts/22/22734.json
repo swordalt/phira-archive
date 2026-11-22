@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:21Z",
-    "lastChanged": "2026-09-21T02:02:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-06T02:32:42.790364Z",
   "charter": "[+]",
@@ -14,6 +14,7 @@
   "description": "新人第一张谱，多提点建议",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/1369dd00-21b5-466c-bbc8-47f274dd01e6",
+  "hidden": false,
   "id": 22734,
   "illustration": "https://phira.5wyxi.com/files/f63ea222-ade1-4b3f-ab8d-4cc44e3fa67b",
   "illustrator": "",

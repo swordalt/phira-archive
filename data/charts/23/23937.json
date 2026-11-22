@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:54Z",
-    "lastChanged": "2026-09-21T02:05:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-21T02:21:19.232349Z",
   "charter": "Flass",
@@ -14,6 +14,7 @@
   "description": "ma转",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/d2e3454c-0662-4e00-aa69-042fb1c11de8",
+  "hidden": false,
   "id": 23937,
   "illustration": "https://phira.5wyxi.com/files/eb1d6fe9-850e-46b5-bf57-9ec94e3062f5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "sing sing red indigo",
   "preview": "https://phira.5wyxi.com/files/5261e12e-539b-4fed-8f26-089e76783d5a",
   "ranked": false,
-  "rating": 0.71985346,
-  "ratingCount": 11,
+  "rating": 0.6875924,
+  "ratingCount": 16,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

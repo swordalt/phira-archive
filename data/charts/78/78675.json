@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-23T11:25:42Z",
-    "lastChanged": "2026-09-25T07:40:51Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:21Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-09-22T08:32:05.859862Z",
   "charter": "至尊小晴",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.7,
   "file": "https://phira.5wyxi.com/files/788eed66-47b9-4faa-8f27-50893ac15649",
+  "hidden": false,
   "id": 78675,
   "illustration": "https://phira.5wyxi.com/files/3215fd3c-3971-4e79-a2b3-b52febdd38bb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "怪诞剧院",
   "preview": "https://phira.5wyxi.com/files/908dd857-ec8e-461e-8ec2-0d815d0ede2c",
   "ranked": false,
-  "rating": 0.907292,
-  "ratingCount": 136,
+  "rating": 0.8999939,
+  "ratingCount": 442,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

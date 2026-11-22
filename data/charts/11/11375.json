@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:40Z",
-    "lastChanged": "2026-09-21T02:01:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-11T13:44:31.967108Z",
   "charter": "RougNiT",
@@ -14,6 +14,7 @@
   "description": "个人很喜欢的一首Phonk\n比较简单的一首13，没有什么难点\n谱师本人上传",
   "difficulty": 13.1,
   "file": "https://phira.5wyxi.com/files/554c3b0b-a0d7-4587-b820-690be4db8b67",
+  "hidden": false,
   "id": 11375,
   "illustration": "https://phira.5wyxi.com/files/e32c5650-abbb-4383-bb9c-d9afc2fe465a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "PRINCE OF DARKNESS",
   "preview": "https://phira.5wyxi.com/files/9c249906-cc67-47b8-b133-bf3cca1eeaf8",
   "ranked": false,
-  "rating": 0.9386568,
-  "ratingCount": 3542,
+  "rating": 0.93912596,
+  "ratingCount": 3626,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

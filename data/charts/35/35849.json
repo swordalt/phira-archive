@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:10Z",
-    "lastChanged": "2026-09-21T02:03:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-29T09:45:23.291547Z",
   "charter": "Ziyieee vs. かをりの茗忻",
@@ -14,6 +14,7 @@
   "description": "由谱师本人上传",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/612c37a3-e981-4d75-8406-88c46f764b74",
+  "hidden": false,
   "id": 35849,
   "illustration": "https://phira.5wyxi.com/files/421ffb9c-9474-43ca-9b15-f147d4a5576d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "テレパシ",
   "preview": "https://phira.5wyxi.com/files/93fa1ebc-2334-4f57-953b-e237c416f577",
   "ranked": false,
-  "rating": 0.9596112,
-  "ratingCount": 2457,
+  "rating": 0.9602639,
+  "ratingCount": 2576,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

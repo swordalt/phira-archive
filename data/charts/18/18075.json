@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:07Z",
-    "lastChanged": "2026-09-21T02:02:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-05T03:26:18.847640Z",
   "charter": "BigPigeon & suik",
@@ -14,6 +14,7 @@
   "description": "合作谱，获得同意后上传。\n相比单人谱有较大改动。\n比较推荐1.5宽高比游玩。",
   "difficulty": 16.5,
   "file": "https://phira.5wyxi.com/files/e53efafe-3b3c-44bf-8478-54fd02ffb564",
+  "hidden": false,
   "id": 18075,
   "illustration": "https://phira.5wyxi.com/files/6de07e49-d8ec-4e4f-b210-f5a5e2afddaa",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "INTERNET YAMERO",
   "preview": "https://phira.5wyxi.com/files/74c691df-9676-46cc-b4ac-68e1585adb40",
   "ranked": false,
-  "rating": 0.7919184,
+  "rating": 0.8262638,
   "ratingCount": 556,
   "reviewed": true,
   "stable": false,

@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-20T15:37:38.329733Z",
   "charter": "Klimatizacija",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/a6afdc25-c8c2-4cf7-9b5d-1f2006e474aa",
+  "hidden": false,
   "id": 8089,
   "illustration": "https://phira.5wyxi.com/files/04022d0e-c503-4860-8a58-24694cda48e5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "∀nomaly",
   "preview": "https://phira.5wyxi.com/files/28183125-d564-4b3f-8e50-4a609041aca8",
   "ranked": false,
-  "rating": 0.77977103,
-  "ratingCount": 1302,
+  "rating": 0.7801192,
+  "ratingCount": 1304,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

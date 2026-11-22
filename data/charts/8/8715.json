@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:30Z",
-    "lastChanged": "2026-09-21T02:01:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-08T13:33:22.365544Z",
   "charter": "LogicM \"Chase the Moon\"",
@@ -14,6 +14,7 @@
   "description": "本人上传；5thpecjam参赛作品。",
   "difficulty": 15.177777,
   "file": "https://phira.5wyxi.com/files/f92ee425-5c2f-4dd7-97ed-077bfb2c129e",
+  "hidden": false,
   "id": 8715,
   "illustration": "https://phira.5wyxi.com/files/abdcbfa8-7e42-41db-b872-e9fe1b0d4811",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lunation",
   "preview": "https://phira.5wyxi.com/files/5e74c957-5cbe-41e5-97e0-0f5832fc7117",
   "ranked": true,
-  "rating": 0.9228362,
-  "ratingCount": 1415,
+  "rating": 0.9226175,
+  "ratingCount": 1424,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

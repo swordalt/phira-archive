@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-08T17:50:20Z",
-    "lastChanged": "2026-10-09T05:59:00Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:25Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-08T01:56:00.193829Z",
   "charter": "kama",
@@ -14,6 +14,7 @@
   "description": "本人上传，b站@Com_ma",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/073be4d7-b4ad-4151-b63e-f9c81422a116",
+  "hidden": false,
   "id": 80571,
   "illustration": "https://phira.5wyxi.com/files/d2ef392f-8a2d-4068-8872-43b162720115",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Rendezvous",
   "preview": "https://phira.5wyxi.com/files/d5a0c5c6-c417-41af-8a03-a4c7114a06b4",
   "ranked": false,
-  "rating": 0.92238414,
-  "ratingCount": 79,
+  "rating": 0.9448059,
+  "ratingCount": 1069,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

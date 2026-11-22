@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:20Z",
-    "lastChanged": "2026-09-21T02:02:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-01T05:19:30.239816Z",
   "charter": "朱邪冷羽",
@@ -14,6 +14,7 @@
   "description": "Visage HD版本",
   "difficulty": 9.0,
   "file": "https://phira.5wyxi.com/files/38722dda-766e-4610-a230-6aad3dd175d3",
+  "hidden": false,
   "id": 22371,
   "illustration": "https://phira.5wyxi.com/files/4496683b-ce36-4507-8907-af1b9210fbc1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Visage",
   "preview": "https://phira.5wyxi.com/files/d48981d0-52ba-48b0-a1d1-372daed76c04",
   "ranked": false,
-  "rating": 0.91405606,
-  "ratingCount": 488,
+  "rating": 0.91586816,
+  "ratingCount": 508,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:49Z",
-    "lastChanged": "2026-09-21T02:06:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-10T10:51:17.622064Z",
   "charter": "CosyJester",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/a6aca641-2d2a-4540-bf54-3af00cad3fa7",
+  "hidden": false,
   "id": 55789,
   "illustration": "https://phira.5wyxi.com/files/9943b0ab-f15a-45b1-a54c-145c148c0cc7",
   "illustrator": "",

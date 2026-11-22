@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:10Z",
-    "lastChanged": "2026-09-21T02:04:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-31T10:47:44.632951Z",
   "charter": "Usami Yuko",
@@ -14,6 +14,7 @@
   "description": "本人上传@重生之我是兎子头",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/7ca4c833-75a6-4db3-a28e-6ee712224147",
+  "hidden": false,
   "id": 50752,
   "illustration": "https://phira.5wyxi.com/files/ae215767-f1c7-491a-b22c-15552f706127",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "神威",
   "preview": "https://phira.5wyxi.com/files/6d318f70-85c6-44ff-9836-5a1583014834",
   "ranked": true,
-  "rating": 0.9141462,
-  "ratingCount": 2683,
+  "rating": 0.91477543,
+  "ratingCount": 2826,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

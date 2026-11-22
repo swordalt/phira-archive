@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:54Z",
-    "lastChanged": "2026-09-21T02:05:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-19T17:04:18.070800Z",
   "charter": "Jiuwenzi",
@@ -14,6 +14,7 @@
   "description": "摆了）\n感谢幸运星的转谱喵(谱面由本人在malody上制作)",
   "difficulty": 12.899998,
   "file": "https://phira.5wyxi.com/files/99a66219-f382-4fdc-8c25-fb5719c3e40e",
+  "hidden": false,
   "id": 23858,
   "illustration": "https://phira.5wyxi.com/files/56032666-d16a-42dd-a7c4-75c8a42f49f6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Collapse of Ego",
   "preview": "https://phira.5wyxi.com/files/92426bd8-23df-4572-937b-3cfb7c29b76f",
   "ranked": false,
-  "rating": 0.8917569,
-  "ratingCount": 42,
+  "rating": 0.8985525,
+  "ratingCount": 46,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

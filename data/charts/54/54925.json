@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:33Z",
-    "lastChanged": "2026-09-21T02:04:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-03T03:52:56.028782Z",
   "charter": "开学の口苗",
@@ -14,6 +14,7 @@
   "description": "本人第一次写谱，不喜勿喷🙏；作者开学没时间学制谱所以质量可能不太好，在这里说声抱歉",
   "difficulty": 15.400001,
   "file": "https://phira.5wyxi.com/files/c5b471da-6127-4a59-9047-f1b94750b97d",
+  "hidden": false,
   "id": 54925,
   "illustration": "https://phira.5wyxi.com/files/78a07ff4-16ba-4cc1-a8c1-2faf7e7ca2be",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "けものになりたい！",
   "preview": "https://phira.5wyxi.com/files/81243e3b-d4ff-4eca-9f3b-d5cdf9f910d6",
   "ranked": false,
-  "rating": 0.8842471,
-  "ratingCount": 27,
+  "rating": 0.8663415,
+  "ratingCount": 31,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

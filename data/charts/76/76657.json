@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:13Z",
-    "lastChanged": "2026-09-21T02:05:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-30T16:58:03.317953Z",
   "charter": "WOnDERER",
@@ -14,6 +14,7 @@
   "description": "0thpecjam 内场位61\n原谱链接BV1kN9MB8Edu",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/159cd832-c32c-4a07-9e0e-e12ec44fa5e7",
+  "hidden": false,
   "id": 76657,
   "illustration": "https://phira.5wyxi.com/files/ba728640-b21d-4661-b7ba-0d354dee34d6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "AMAZING MIGHTYYYY!!!!",
   "preview": "https://phira.5wyxi.com/files/67a3c233-cb6a-4337-bc52-c6a9af3c133b",
   "ranked": false,
-  "rating": 0.93303585,
-  "ratingCount": 275,
+  "rating": 0.93873155,
+  "ratingCount": 331,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

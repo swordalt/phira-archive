@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:57Z",
-    "lastChanged": "2026-09-21T02:05:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-05T10:28:10.754475Z",
   "charter": "LiLT",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/01d04b2f-11e1-4afb-8c40-2f790e2de2e3",
+  "hidden": false,
   "id": 25351,
   "illustration": "https://phira.5wyxi.com/files/cfe7151b-06cd-47cb-8a0b-c453e82df30c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "HYPER-ULTRA-PLAY!!!",
   "preview": "https://phira.5wyxi.com/files/07467425-0137-486f-a733-4c00f94c3868",
   "ranked": false,
-  "rating": 0.85429126,
-  "ratingCount": 20,
+  "rating": 0.8600307,
+  "ratingCount": 21,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

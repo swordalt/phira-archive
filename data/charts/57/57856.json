@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:41Z",
-    "lastChanged": "2026-09-21T02:04:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-05T03:37:00.476929Z",
   "charter": "冷冻烤李子ldklz",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n新人二谱，希望多多支持",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/30d75488-0992-4551-bd1e-e62a8d8a2508",
+  "hidden": false,
   "id": 57856,
   "illustration": "https://phira.5wyxi.com/files/5e6b27db-3df6-4e86-ad63-a1d4ce2a5e90",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Cheerio!",
   "preview": "https://phira.5wyxi.com/files/30703064-6356-44c0-a9be-cb9f64b36f50",
   "ranked": false,
-  "rating": 0.9351932,
-  "ratingCount": 698,
+  "rating": 0.935513,
+  "ratingCount": 721,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

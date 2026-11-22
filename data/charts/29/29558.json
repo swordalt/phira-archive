@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:46Z",
-    "lastChanged": "2026-09-21T02:02:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-07T11:12:34.648217Z",
   "charter": "Suikmilk",
@@ -14,6 +14,7 @@
   "description": "本人上传，发布游玩视频请@Suikmilk (审核过这个，另一个没这句话的帮忙打回一下，谢谢了)",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/1ad670c6-ce2a-4ffb-9910-fbc23a934168",
+  "hidden": false,
   "id": 29558,
   "illustration": "https://phira.5wyxi.com/files/5448002b-65b1-4eeb-b75f-75c397a86290",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MEGATON BLAST",
   "preview": "https://phira.5wyxi.com/files/51068c9b-cd8b-4dd7-b053-6812cdf85cd2",
   "ranked": true,
-  "rating": 0.9357302,
-  "ratingCount": 1256,
+  "rating": 0.9355242,
+  "ratingCount": 1274,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

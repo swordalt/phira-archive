@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:59Z",
-    "lastChanged": "2026-09-21T02:01:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-19T09:54:11.895979Z",
   "charter": "SSuent .vs. Rea_cy",
@@ -14,6 +14,7 @@
   "description": "谱面为谱师本人上传",
   "difficulty": 16.500002,
   "file": "https://phira.5wyxi.com/files/2ea1675f-1d4d-4f6f-b535-a0dadb641061",
+  "hidden": false,
   "id": 16119,
   "illustration": "https://phira.5wyxi.com/files/cbcfd19b-b32f-48c0-a928-a32139551b2a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "666",
   "preview": "https://phira.5wyxi.com/files/00ea7417-fcfa-477f-bfe9-91385923ba7d",
   "ranked": false,
-  "rating": 0.916864,
-  "ratingCount": 2963,
+  "rating": 0.91727364,
+  "ratingCount": 3029,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

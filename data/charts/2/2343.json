@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:12Z",
-    "lastChanged": "2026-09-21T02:01:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-20T15:19:47.507936Z",
   "charter": "27-2",
@@ -14,6 +14,7 @@
   "description": "谱面貌似由于制谱器功能不适配导致与实际上有偏差，详情请参考BV1Ds4y1M7vv\n爱发电：https://afdian.net/a/nayume272",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/887113b5-ab67-445d-8996-0eef4525ea78",
+  "hidden": false,
   "id": 2343,
   "illustration": "https://phira.5wyxi.com/files/5439ebd0-6a0d-4cb8-8cb7-9a59930713cd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "悪魔の子 ",
   "preview": "https://phira.5wyxi.com/files/af6f23e6-6fd6-423a-b363-49acce303da5",
   "ranked": false,
-  "rating": 0.9412742,
-  "ratingCount": 17314,
+  "rating": 0.94118154,
+  "ratingCount": 17554,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

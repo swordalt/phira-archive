@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:50Z",
-    "lastChanged": "2026-09-21T02:06:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-01T06:20:23.094591Z",
   "charter": "唬唬大狐狸",
@@ -14,6 +14,7 @@
   "description": "难度8dan左右，有大量子弹叠键以及锚切!  !  !",
   "difficulty": 31.0,
   "file": "https://phira.5wyxi.com/files/d49c65dd-4393-424c-8a28-9c6a1efdcf05",
+  "hidden": false,
   "id": 57435,
   "illustration": "https://phira.5wyxi.com/files/459fc845-4180-44c4-80b9-8db92829b503",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ひつぎとふたご",
   "preview": "https://phira.5wyxi.com/files/1ba9e471-9d2d-47f5-97d3-86a26d58fc33",
   "ranked": false,
-  "rating": 0.9035471,
-  "ratingCount": 257,
+  "rating": 0.90839136,
+  "ratingCount": 285,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

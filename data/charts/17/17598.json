@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:05Z",
-    "lastChanged": "2026-09-21T02:02:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-27T13:44:19.096834Z",
   "charter": "377 Got Silence......",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/85c6d655-bec8-41bc-bdc1-2b601bc16c55",
+  "hidden": false,
   "id": 17598,
   "illustration": "https://phira.5wyxi.com/files/c316a2ed-a72c-4b7f-9c23-8bd8e02cbf2b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "I Got Silence",
   "preview": "https://phira.5wyxi.com/files/cb0d75f1-7cc3-4385-b1ea-1a8b0e41c5b8",
   "ranked": true,
-  "rating": 0.90436673,
-  "ratingCount": 1335,
+  "rating": 0.9047269,
+  "ratingCount": 1354,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

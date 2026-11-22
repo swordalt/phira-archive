@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:15Z",
-    "lastChanged": "2026-09-21T02:06:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-24T19:57:11.093716Z",
   "charter": "YouMina",
@@ -14,6 +14,7 @@
   "description": "该谱是本人全权制作的18th生日系列谱，这是第一弹，后面还有17弹，共18份谱，该谱面由本人发布。\n\n谱师B站UID：631902839\n视频BV号：BV1qLjNzvEpF",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/5b2de7f6-c084-4214-b9bb-117e0e37df16",
+  "hidden": false,
   "id": 38642,
   "illustration": "https://phira.5wyxi.com/files/a958e541-27ec-4f8a-a7ed-46b7cc63540f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "星降る夜と一輪の花",
   "preview": "https://phira.5wyxi.com/files/af72728d-9e30-4c06-a7d4-61be438166f8",
   "ranked": false,
-  "rating": 0.97066295,
-  "ratingCount": 1071,
+  "rating": 0.9705272,
+  "ratingCount": 1150,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

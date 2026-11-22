@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:58Z",
-    "lastChanged": "2026-09-21T02:03:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-25T13:06:06.088983Z",
   "charter": "Cyber Boy",
@@ -14,6 +14,7 @@
   "description": "更新难度15.4→15.6\n感谢游玩。",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/fbe93099-dfb1-4f4d-bb17-b3257bb40100",
+  "hidden": false,
   "id": 48407,
   "illustration": "https://phira.5wyxi.com/files/265cde23-aaab-440f-a5dd-24c3539f0863",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "c.s.q.n.",
   "preview": "https://phira.5wyxi.com/files/f6cb9a16-b79e-4b2e-8c64-e29d0f8634b5",
   "ranked": false,
-  "rating": 0.70317346,
-  "ratingCount": 290,
+  "rating": 0.70338225,
+  "ratingCount": 294,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

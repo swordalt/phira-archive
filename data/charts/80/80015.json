@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-04T10:51:26Z",
-    "lastChanged": "2026-10-07T17:46:22Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:24Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-03T16:04:27.659179Z",
   "charter": "YX沅绪&2462835&RS超级小瑞",
@@ -14,6 +14,7 @@
   "description": "YX沅绪（配置）\n@2462835#1498506（判定线表演）\n@RS超级小瑞#599775（故事板设计）",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/acc86180-30b0-42f6-a746-7acc33d3486b",
+  "hidden": false,
   "id": 80015,
   "illustration": "https://phira.5wyxi.com/files/563ce871-8cbc-4434-b639-1f34b58d1b48",
   "illustrator": "DLSir",
@@ -21,8 +22,8 @@
   "name": "一梦繁唐",
   "preview": "https://phira.5wyxi.com/files/ccd363d9-f3fe-434b-a848-80361abe820e",
   "ranked": false,
-  "rating": 0.93209344,
-  "ratingCount": 2426,
+  "rating": 0.9271697,
+  "ratingCount": 7781,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

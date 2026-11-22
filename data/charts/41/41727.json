@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:30Z",
-    "lastChanged": "2026-09-21T02:05:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-15T05:24:45.633402Z",
   "charter": "正在骑北极熊送荔枝的橙小橘",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 6.6,
   "file": "https://phira.5wyxi.com/files/fdd4cb3e-643e-4d81-8599-0d0ae3406624",
+  "hidden": false,
   "id": 41727,
   "illustration": "https://phira.5wyxi.com/files/7454efee-3395-43be-a1ef-4edcf77f0399",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "画离弦（Dj光头版）",
   "preview": "https://phira.5wyxi.com/files/e3f1335b-34dc-4322-81c7-09767e9d05e1",
   "ranked": false,
-  "rating": 0.9561154,
-  "ratingCount": 33050,
+  "rating": 0.9557787,
+  "ratingCount": 33421,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

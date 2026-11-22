@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:27Z",
-    "lastChanged": "2026-09-21T02:06:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-31T02:22:03.542828Z",
   "charter": "ransom阮赎",
@@ -14,6 +14,7 @@
   "description": "本人上传qwq玩的开心",
   "difficulty": 9.0,
   "file": "https://phira.5wyxi.com/files/783b4b41-89cd-4455-9d24-cc23daf4e701",
+  "hidden": false,
   "id": 43193,
   "illustration": "https://phira.5wyxi.com/files/3f2c7f9d-5fd7-4b38-a9a1-a65ddf214ea8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "好きだから。（因为我喜欢你。）",
   "preview": "https://phira.5wyxi.com/files/54dd5e7a-ee68-418e-9963-c8802bcb82c3",
   "ranked": false,
-  "rating": 0.9284907,
-  "ratingCount": 97,
+  "rating": 0.92486846,
+  "ratingCount": 102,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

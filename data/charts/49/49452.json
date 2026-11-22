@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:41Z",
-    "lastChanged": "2026-09-21T02:06:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-23T07:41:05.701992Z",
   "charter": "Sccrea",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.500002,
   "file": "https://phira.5wyxi.com/files/a01899de-cceb-4d21-977e-e703b17fd9da",
+  "hidden": false,
   "id": 49452,
   "illustration": "https://phira.5wyxi.com/files/57939815-8e14-4e5f-b2ba-ccbbee8d978a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "RE Aoharu",
   "preview": "https://phira.5wyxi.com/files/e3abfbb8-60e8-4d0c-8daa-f7d55d904f8e",
   "ranked": false,
-  "rating": 0.9195413,
-  "ratingCount": 96,
+  "rating": 0.91849697,
+  "ratingCount": 99,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

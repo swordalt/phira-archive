@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:36Z",
-    "lastChanged": "2026-09-21T02:02:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-22T23:45:02.940694Z",
   "charter": "awa",
@@ -14,6 +14,7 @@
   "description": "谱师b站:awa-official\n本人上传",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/55aefaf9-4de4-48d4-9869-0b79ee2e0b4f",
+  "hidden": false,
   "id": 26736,
   "illustration": "https://phira.5wyxi.com/files/8f700429-b52c-4f71-bfd7-ede966dcd1e3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "再见公主",
   "preview": "https://phira.5wyxi.com/files/6fdac02c-8269-43bb-9f7b-718aed52a958",
   "ranked": false,
-  "rating": 0.9281981,
-  "ratingCount": 382,
+  "rating": 0.92940587,
+  "ratingCount": 393,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

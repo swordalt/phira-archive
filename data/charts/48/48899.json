@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:02Z",
-    "lastChanged": "2026-09-21T02:04:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-09T02:40:01.776669Z",
   "charter": "Lyca0N",
@@ -14,6 +14,7 @@
   "description": "本人上传 原视频BV1Qa2MBxEjb",
   "difficulty": 12.8,
   "file": "https://phira.5wyxi.com/files/28aed6cb-f1a2-44be-b847-e3c30f878e51",
+  "hidden": false,
   "id": 48899,
   "illustration": "https://phira.5wyxi.com/files/843f1c7b-85d7-46ef-87d5-98afdd9ec04a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "NaCl",
   "preview": "https://phira.5wyxi.com/files/cfa01b72-2190-4de5-b903-f9617f67d925",
   "ranked": false,
-  "rating": 0.93818706,
-  "ratingCount": 83,
+  "rating": 0.9349457,
+  "ratingCount": 85,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

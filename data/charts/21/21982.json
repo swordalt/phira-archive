@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:19Z",
-    "lastChanged": "2026-09-21T02:02:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-26T17:25:58.837803Z",
   "charter": "Mon3tr_z2×L_|Z1ε8",
@@ -14,6 +14,7 @@
   "description": "B站@SinnerAnna",
   "difficulty": 15.799999,
   "file": "https://phira.5wyxi.com/files/f517b5d7-ce25-4696-9876-b877e4acd5a8",
+  "hidden": false,
   "id": 21982,
   "illustration": "https://phira.5wyxi.com/files/46cd4827-2fd9-4a24-8582-3f741da30f88",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sea Monster",
   "preview": "https://phira.5wyxi.com/files/9c6c8580-ab5e-4fef-8795-7ac8bf6d99c7",
   "ranked": false,
-  "rating": 0.898467,
-  "ratingCount": 103,
+  "rating": 0.8994356,
+  "ratingCount": 105,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

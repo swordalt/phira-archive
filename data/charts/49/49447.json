@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:41Z",
-    "lastChanged": "2026-09-21T02:06:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-23T06:38:16.865199Z",
   "charter": "天崽awa",
@@ -14,6 +14,7 @@
   "description": "发布谱面相关内容请注明谱师信息",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/ad2f9ec4-c932-4689-8989-7b0c9db118c3",
+  "hidden": false,
   "id": 49447,
   "illustration": "https://phira.5wyxi.com/files/f8d9111b-a639-4fea-98e1-59fee86c1998",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "忙シー日",
   "preview": "https://phira.5wyxi.com/files/dadb0904-24d1-46db-899a-4ad62a460906",
   "ranked": false,
-  "rating": 0.9622341,
-  "ratingCount": 275,
+  "rating": 0.96152073,
+  "ratingCount": 290,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

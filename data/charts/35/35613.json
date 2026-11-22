@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:09Z",
-    "lastChanged": "2026-09-21T02:03:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-23T03:24:57.252459Z",
   "charter": "㔞䒌傟是答辩",
@@ -14,6 +14,7 @@
   "description": "用了3天做了个简单谱EZ.LV6，欢迎游玩",
   "difficulty": 6.4999995,
   "file": "https://phira.5wyxi.com/files/d2856533-e0a7-479d-9f71-a8a8f2ed265d",
+  "hidden": false,
   "id": 35613,
   "illustration": "https://phira.5wyxi.com/files/8b6787e1-8fa4-4e59-811c-dc4b3ec43cd7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Be Kind",
   "preview": "https://phira.5wyxi.com/files/e1e89455-61cf-4fa2-9679-86ebb1c126fd",
   "ranked": false,
-  "rating": 0.90632004,
-  "ratingCount": 295,
+  "rating": 0.9041679,
+  "ratingCount": 327,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

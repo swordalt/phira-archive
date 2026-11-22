@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-26T12:59:56Z",
-    "lastChanged": "2026-09-27T18:17:48Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:23Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-09-26T11:50:26.389354Z",
   "charter": "YanY",
@@ -14,6 +14,7 @@
   "description": "写个锤子谱。本人上传，B站@超爱吃盐的盐盐",
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/33ac0078-dede-449a-a969-d322881fbdda",
+  "hidden": false,
   "id": 79153,
   "illustration": "https://phira.5wyxi.com/files/96243ff7-34eb-41b2-94e4-f23cf5ba3d52",
   "illustrator": "お笑い大好きキャラメルさん",
@@ -21,8 +22,8 @@
   "name": "CHU-CHU DRAIN feat. 奕夕 / Yi Xi",
   "preview": "https://phira.5wyxi.com/files/3e39f80a-6d4d-4483-b14c-12dbe8253edb",
   "ranked": false,
-  "rating": 0.93973535,
-  "ratingCount": 189,
+  "rating": 0.93280077,
+  "ratingCount": 2044,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

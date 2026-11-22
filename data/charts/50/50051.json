@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:06Z",
-    "lastChanged": "2026-09-21T02:04:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-09T14:48:56.901564Z",
   "charter": "Cloud #25",
@@ -14,6 +14,7 @@
   "description": "本人上传，1stPecJam参赛谱面，谱面编号25",
   "difficulty": 12.400001,
   "file": "https://phira.5wyxi.com/files/363388d5-d071-4c4e-9fea-933c11bdf3d6",
+  "hidden": false,
   "id": 50051,
   "illustration": "https://phira.5wyxi.com/files/40de866d-43d6-4595-8f06-4518369992b3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "春弦",
   "preview": "https://phira.5wyxi.com/files/ad13f7b2-7d91-4613-aa7c-ca3f99eb0c89",
   "ranked": false,
-  "rating": 0.9487877,
-  "ratingCount": 546,
+  "rating": 0.9494448,
+  "ratingCount": 585,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

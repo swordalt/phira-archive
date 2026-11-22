@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:06Z",
-    "lastChanged": "2026-09-21T02:04:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-11T10:56:43.622383Z",
   "charter": "爆裂水龙果",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/46e55f6d-eb43-4778-bff9-e4bc2a48b425",
+  "hidden": false,
   "id": 50096,
   "illustration": "https://phira.5wyxi.com/files/5ef5098d-4fcc-452b-9c09-5714fb011c89",
   "illustrator": "",

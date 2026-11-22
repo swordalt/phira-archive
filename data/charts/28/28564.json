@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:43Z",
-    "lastChanged": "2026-09-21T02:02:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-08T11:07:23.605636Z",
   "charter": "AronKing",
@@ -14,6 +14,7 @@
   "description": "AronKing本人上传",
   "difficulty": 15.9,
   "file": "https://phira.5wyxi.com/files/c210304e-2ae1-46b5-adce-2b2f9bc33343",
+  "hidden": false,
   "id": 28564,
   "illustration": "https://phira.5wyxi.com/files/d045b73e-ad3f-4373-86ae-05a6bb9b4bf3",
   "illustrator": "",

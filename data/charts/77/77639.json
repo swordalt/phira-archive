@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:04Z",
-    "lastChanged": "2026-09-21T02:07:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-10T11:29:49.920094Z",
   "charter": "sT3alth",
@@ -14,6 +14,7 @@
   "description": "作者本人上传。",
   "difficulty": 34.0,
   "file": "https://phira.5wyxi.com/files/fb42052d-9a43-455b-931a-c4c1e5e68e3b",
+  "hidden": false,
   "id": 77639,
   "illustration": "https://phira.5wyxi.com/files/baf1c10e-32a9-4173-b15d-32a8f5f5f853",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "still chasing that summer when we reached the blue together",
   "preview": "https://phira.5wyxi.com/files/75572d78-0932-40fa-9352-b3abf2e5e904",
   "ranked": false,
-  "rating": 0.8898406,
-  "ratingCount": 23,
+  "rating": 0.9139737,
+  "ratingCount": 34,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

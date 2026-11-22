@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:58Z",
-    "lastChanged": "2026-09-21T02:05:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-27T10:31:31.310362Z",
   "charter": "861168 with 凉音姐",
@@ -14,6 +14,7 @@
   "description": "Yuzu Dan Speed\r\n本段位为模仿DFC的双指段位，本谱为双指谱。\r\n谱师定数：DFC 10.4（～IN 16.3）\r\n发布谱面相关视频请@谱师681186\n不是很会写乱，望谅解（）",
   "difficulty": 10.400002,
   "file": "https://phira.5wyxi.com/files/ee3ff84a-6407-460a-8240-e3e1b182690a",
+  "hidden": false,
   "id": 26047,
   "illustration": "https://phira.5wyxi.com/files/4b9a3902-147b-489e-b69e-87493acffee9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Smiling-Swinging!!",
   "preview": "https://phira.5wyxi.com/files/baa11893-a8b0-413d-9409-645701d4f6bf",
   "ranked": false,
-  "rating": 0.9194496,
-  "ratingCount": 176,
+  "rating": 0.92170316,
+  "ratingCount": 186,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:57Z",
-    "lastChanged": "2026-09-21T02:04:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-11T07:46:37.500302Z",
   "charter": "Cookie_wa",
@@ -14,6 +14,7 @@
   "description": "5th 5L2K no.1\r\nB站@Cookie_wa\r\nBV1rCN46xEc7",
   "difficulty": 17.2,
   "file": "https://phira.5wyxi.com/files/ed831575-8c6b-4b41-803c-f0d0249ed8a6",
+  "hidden": false,
   "id": 65627,
   "illustration": "https://phira.5wyxi.com/files/5345f8dc-0ab6-46b3-8b85-84c59ef9ea57",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Don't Fight The Music",
   "preview": "https://phira.5wyxi.com/files/e2077aed-3523-4811-999b-012297387263",
   "ranked": false,
-  "rating": 0.8551471,
-  "ratingCount": 343,
+  "rating": 0.857987,
+  "ratingCount": 357,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

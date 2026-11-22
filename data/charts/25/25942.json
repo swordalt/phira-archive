@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:58Z",
-    "lastChanged": "2026-09-21T02:05:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-11T03:51:29.258841Z",
   "charter": "垃圾制造者",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.900001,
   "file": "https://phira.5wyxi.com/files/5fe77530-228f-4fe7-be34-7c63aa607d63",
+  "hidden": false,
   "id": 25942,
   "illustration": "https://phira.5wyxi.com/files/d64d0eda-8ac7-46eb-8c8d-e4974a46a28d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "BRAVE：ROAD",
   "preview": "https://phira.5wyxi.com/files/ec08a972-3794-43ba-9e80-384f1b289115",
   "ranked": false,
-  "rating": 0.85552204,
-  "ratingCount": 29,
+  "rating": 0.85978603,
+  "ratingCount": 30,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

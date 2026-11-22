@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:35Z",
-    "lastChanged": "2026-09-21T02:04:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-08T16:27:20.441646Z",
   "charter": "羽梦明",
@@ -14,6 +14,7 @@
   "description": "本谱写于2022年9月，本人当时的二谱，懒得改了就这样传吧",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/6f1d78d3-b2ef-48a5-ba36-2c068e4ca1a3",
+  "hidden": false,
   "id": 55542,
   "illustration": "https://phira.5wyxi.com/files/853cac08-3405-4903-b7d6-f0bee0132e2c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "绝世丑角",
   "preview": "https://phira.5wyxi.com/files/caf6b83e-f527-42c9-bfdb-24ec56b6d706",
   "ranked": false,
-  "rating": 0.91936135,
-  "ratingCount": 310,
+  "rating": 0.9232303,
+  "ratingCount": 355,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

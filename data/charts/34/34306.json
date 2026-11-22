@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:05Z",
-    "lastChanged": "2026-09-21T02:03:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-22T07:37:23.338017Z",
   "charter": "Ming",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/32276985-4c4a-4cae-99dd-3a1eb0212bfd",
+  "hidden": false,
   "id": 34306,
   "illustration": "https://phira.5wyxi.com/files/d3dd472c-ff29-42a9-b3ea-fab9c6fbee85",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Kiseki in Blue Dreams",
   "preview": "https://phira.5wyxi.com/files/cd1dab9f-1ef4-4fcb-afe4-1409bc5e3c50",
   "ranked": false,
-  "rating": 0.9003792,
-  "ratingCount": 570,
+  "rating": 0.9007647,
+  "ratingCount": 578,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

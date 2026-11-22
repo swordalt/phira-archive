@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:56Z",
-    "lastChanged": "2026-09-21T02:06:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-21T08:53:46.402569Z",
   "charter": "r0不会打满叠",
@@ -14,6 +14,7 @@
   "description": "bpm：221\nBroJack震撼来袭！",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/1a8c0848-d4af-41c8-b11e-989f5f9d916c",
+  "hidden": false,
   "id": 61877,
   "illustration": "https://phira.5wyxi.com/files/cb03fd02-e947-4901-97dc-6f326537051b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GOODBRO(Ebimayo REMIX)",
   "preview": "https://phira.5wyxi.com/files/9dfc7657-af39-4b42-86a4-e5770c110c48",
   "ranked": false,
-  "rating": 0.9264587,
-  "ratingCount": 53,
+  "rating": 0.93194914,
+  "ratingCount": 59,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:23Z",
-    "lastChanged": "2026-09-21T02:06:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-17T14:53:10.077660Z",
   "charter": "一只守岸人",
@@ -14,6 +14,7 @@
   "description": "疑似谱师做梦梦到谈恋爱",
   "difficulty": 15.7,
   "file": "https://phira.5wyxi.com/files/9b5a841a-bf22-4d05-adef-f44df78037ed",
+  "hidden": false,
   "id": 41964,
   "illustration": "https://phira.5wyxi.com/files/627efec6-389c-4d02-bc25-8d0daded8a17",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "多幸运",
   "preview": "https://phira.5wyxi.com/files/0bbc3d17-e762-4a31-817a-8b48aacdb73e",
   "ranked": false,
-  "rating": 0.83881503,
-  "ratingCount": 2600,
+  "rating": 0.8421793,
+  "ratingCount": 2901,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

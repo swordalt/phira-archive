@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:56Z",
-    "lastChanged": "2026-09-21T02:02:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-16T15:30:03.782432Z",
   "charter": "辰",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/24475875-d399-4488-b673-82fa00abfadc",
+  "hidden": false,
   "id": 31916,
   "illustration": "https://phira.5wyxi.com/files/d9e261cc-b608-4bf5-ab2a-46b867b0794a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "打上花火",
   "preview": "https://phira.5wyxi.com/files/27f5f17c-2630-4e7f-82ad-3a9c30c03a77",
   "ranked": false,
-  "rating": 0.93643546,
-  "ratingCount": 4933,
+  "rating": 0.93530273,
+  "ratingCount": 5056,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

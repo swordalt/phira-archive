@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:24Z",
-    "lastChanged": "2026-09-21T02:06:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-03T12:14:57.559362Z",
   "charter": "MianTiao Revival Arts",
@@ -14,6 +14,7 @@
   "description": "本人上传\r2025/10/3 进行谱面重置",
   "difficulty": 15.500003,
   "file": "https://phira.5wyxi.com/files/81e7c551-77a6-4861-a541-ff45e159f663",
+  "hidden": false,
   "id": 42194,
   "illustration": "https://phira.5wyxi.com/files/5a495f79-dff1-4ffb-975d-18262faa95c8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Martial Arts",
   "preview": "https://phira.5wyxi.com/files/e1677296-47e6-439a-ada1-d2d0c8e31af6",
   "ranked": false,
-  "rating": 0.9321454,
-  "ratingCount": 35,
+  "rating": 0.9338384,
+  "ratingCount": 36,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

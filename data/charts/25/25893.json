@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:33Z",
-    "lastChanged": "2026-09-21T02:02:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-10T13:42:12.434736Z",
   "charter": "Trios",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.300001,
   "file": "https://phira.5wyxi.com/files/1a8e0fa6-0190-4867-b02e-2b682993d6ac",
+  "hidden": false,
   "id": 25893,
   "illustration": "https://phira.5wyxi.com/files/a0d1ad47-dc68-465c-8243-bfc1856813a5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "water",
   "preview": "https://phira.5wyxi.com/files/45082b2d-6ef4-4c1d-a309-2c670760953e",
   "ranked": false,
-  "rating": 0.9444234,
-  "ratingCount": 709,
+  "rating": 0.94369894,
+  "ratingCount": 725,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

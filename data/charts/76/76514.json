@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:02Z",
-    "lastChanged": "2026-09-21T02:07:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-30T05:34:10.338410Z",
   "charter": "qwe_48 vs. ArtificialCore_",
@@ -14,6 +14,7 @@
   "description": "B站@ArtificialCore_\n本人上传",
   "difficulty": 5.7,
   "file": "https://phira.5wyxi.com/files/26ad2856-ea7d-4272-a792-b50706163405",
+  "hidden": false,
   "id": 76514,
   "illustration": "https://phira.5wyxi.com/files/3e40439b-450d-49af-a8ea-62bc495c6ffb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "天穹之扉(Celestial::Aperture)",
   "preview": "https://phira.5wyxi.com/files/e554e10a-e4ff-4799-8892-0e09e0af11a9",
   "ranked": false,
-  "rating": 0.9504227,
-  "ratingCount": 57,
+  "rating": 0.9636028,
+  "ratingCount": 98,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

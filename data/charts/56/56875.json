@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:38Z",
-    "lastChanged": "2026-09-27T10:15:35Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:57:54Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-04-21T10:07:56.642246Z",
   "charter": "秀才杨是真的show",
@@ -14,6 +14,7 @@
   "description": "本人的第一张TPE自制谱！",
   "difficulty": 14.300001,
   "file": "https://phira.5wyxi.com/files/627fa0bc-2cba-4198-963a-6019583a2a1a",
+  "hidden": false,
   "id": 56875,
   "illustration": "https://phira.5wyxi.com/files/750050ba-f40b-42cd-867d-bcced76f7efa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "香港ノ奇術師",
   "preview": "https://phira.5wyxi.com/files/71ca6879-8546-4103-acfb-925394385a8f",
   "ranked": false,
-  "rating": 0.8019451,
-  "ratingCount": 7,
+  "rating": 0.80948716,
+  "ratingCount": 8,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:13Z",
-    "lastChanged": "2026-09-21T02:02:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-12T15:45:00.578349Z",
   "charter": "huajiao ft. emm_u",
@@ -14,6 +14,7 @@
   "description": "生日作",
   "difficulty": 14.1,
   "file": "https://phira.5wyxi.com/files/1721209c-2af3-4b5e-8094-6f9babe23cac",
+  "hidden": false,
   "id": 19912,
   "illustration": "https://phira.5wyxi.com/files/1161688e-6534-460e-b3c5-ff2236a41388",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ふわり",
   "preview": "https://phira.5wyxi.com/files/e7fc9f35-23de-4eaa-8403-afffb56cb55e",
   "ranked": true,
-  "rating": 0.94559205,
-  "ratingCount": 8001,
+  "rating": 0.94564325,
+  "ratingCount": 8103,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

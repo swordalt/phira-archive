@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:09Z",
-    "lastChanged": "2026-09-21T02:03:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-26T23:18:44.606029Z",
   "charter": "FastZ0107",
@@ -14,6 +14,7 @@
   "description": "由谱师FastZ0107本人上传（写的真的很好了qwq）\n之后还会再去进修一些谱面表演之类的",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/68882eb0-22c9-42e7-8b66-6a79ddeb012a",
+  "hidden": false,
   "id": 35756,
   "illustration": "https://phira.5wyxi.com/files/b1c20ff2-952a-440e-af8c-14f3dd7aca93",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "サヨナラ！！ウイルス",
   "preview": "https://phira.5wyxi.com/files/4612fb25-dd26-4526-93c4-317262837727",
   "ranked": false,
-  "rating": 0.9339036,
-  "ratingCount": 1598,
+  "rating": 0.9350092,
+  "ratingCount": 1665,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:14Z",
-    "lastChanged": "2026-09-21T02:03:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-16T04:19:33.094592Z",
   "charter": "FadĒ0",
@@ -14,6 +14,7 @@
   "description": "(之前的谱面因为一些原因删了）",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/2d5cbcc4-4ad8-43d9-b748-fac5de03cdb7",
+  "hidden": false,
   "id": 36913,
   "illustration": "https://phira.5wyxi.com/files/15c3342e-994a-43d2-baeb-6052388f90ff",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ēvocator",
   "preview": "https://phira.5wyxi.com/files/bd8bb583-947b-4be0-9186-5d36e8973c3e",
   "ranked": false,
-  "rating": 0.934071,
-  "ratingCount": 664,
+  "rating": 0.93413913,
+  "ratingCount": 669,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

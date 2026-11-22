@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:24Z",
-    "lastChanged": "2026-09-21T02:01:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-04T09:02:04.064202Z",
   "charter": "Bluerrysheep",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/a8e67c68-fab7-44b3-bbf0-9ccf4687609e",
+  "hidden": false,
   "id": 6797,
   "illustration": "https://phira.5wyxi.com/files/5561201c-5f84-4a3f-9092-00cecb64d96c",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "花と、雪と、ドラムンベース ",
   "preview": "https://phira.5wyxi.com/files/89dde365-b467-410c-9531-c78d6b6c190d",
   "ranked": false,
-  "rating": 0.81913656,
+  "rating": 0.81852674,
   "ratingCount": 276,
   "reviewed": true,
   "stable": false,

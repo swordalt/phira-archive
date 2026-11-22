@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:55Z",
-    "lastChanged": "2026-09-21T02:03:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-03T17:29:18.857175Z",
   "charter": "渊琼_deep",
@@ -14,6 +14,7 @@
   "description": "前年老谱未发",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/8525bb11-f942-4041-b96c-986ce96cfc42",
+  "hidden": false,
   "id": 47567,
   "illustration": "https://phira.5wyxi.com/files/0c0b3911-141b-48c4-be78-554521633c6e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Final Code-7",
   "preview": "https://phira.5wyxi.com/files/69e374a1-15c1-4935-aa8a-707b2f9d3347",
   "ranked": false,
-  "rating": 0.81359005,
-  "ratingCount": 21,
+  "rating": 0.82076013,
+  "ratingCount": 22,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

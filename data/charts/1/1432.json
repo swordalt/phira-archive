@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:08Z",
-    "lastChanged": "2026-09-21T02:01:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-08T12:47:19.325006Z",
   "charter": "幻离_Setsuna",
@@ -14,6 +14,7 @@
   "description": "为谱师本人@MoonSeenight_幻离上传",
   "difficulty": 16.800003,
   "file": "https://phira.5wyxi.com/files/3bc9b186-0454-4a69-831c-257adf4925ba",
+  "hidden": false,
   "id": 1432,
   "illustration": "https://phira.5wyxi.com/files/e0699548-48e7-42a9-ad9e-42010b63b00c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Alteregoism",
   "preview": "https://phira.5wyxi.com/files/28ec7a27-6554-4947-b4fe-37d68987839e",
   "ranked": false,
-  "rating": 0.8700925,
-  "ratingCount": 1218,
+  "rating": 0.87029755,
+  "ratingCount": 1220,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

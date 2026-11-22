@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-26T17:05:29Z",
-    "lastChanged": "2026-10-25T09:29:48Z",
-    "revisions": 5
+    "lastChanged": "2026-11-22T12:59:23Z",
+    "revisions": 6
   },
   "chartUpdated": "2026-09-26T13:47:00.827737Z",
   "charter": "生肖大绿龙",
@@ -14,6 +14,7 @@
   "description": "本谱为谱师本人上传，谱师b站名：生肖大绿龙",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/52d268ff-e8df-4919-bc55-ea3b0f99bd38",
+  "hidden": false,
   "id": 79174,
   "illustration": "https://phira.5wyxi.com/files/4b138226-a1da-4488-bfb7-959cc44d53b7",
   "illustrator": "Lucy米果",
@@ -21,8 +22,8 @@
   "name": "Noon Reverie（正午遐想）",
   "preview": "https://phira.5wyxi.com/files/5dde3b2f-dc95-4e97-a37a-e5ae8b2469c6",
   "ranked": false,
-  "rating": 0.89914286,
-  "ratingCount": 62,
+  "rating": 0.8990225,
+  "ratingCount": 74,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:03Z",
-    "lastChanged": "2026-09-21T02:01:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "watercup-第三轮回",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/5e3d827f-3010-43af-b4fe-e9a906f1317a",
+  "hidden": false,
   "id": 6,
   "illustration": "https://phira.5wyxi.com/files/aa72b7e5-3cc0-4249-9646-6b5a8f69303e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "新•轮回尘世",
   "preview": "https://phira.5wyxi.com/files/fe32ecbd-8332-4842-8dc4-d7f1d6417ca1",
   "ranked": false,
-  "rating": 0.89442897,
-  "ratingCount": 306,
+  "rating": 0.8939942,
+  "ratingCount": 312,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

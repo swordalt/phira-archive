@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:30Z",
-    "lastChanged": "2026-09-21T02:06:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-15T11:31:46.936222Z",
   "charter": "GaBoron",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/0a84bef5-7812-4283-a43b-13f3e7b2d493",
+  "hidden": false,
   "id": 44776,
   "illustration": "https://phira.5wyxi.com/files/4c2142ac-ae32-4ec7-906e-aeeda4bc3f53",
   "illustrator": "",

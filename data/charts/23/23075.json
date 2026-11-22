@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:21Z",
-    "lastChanged": "2026-09-21T02:02:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-10T01:33:23.291865Z",
   "charter": "HaoCers",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/686f188f-8c55-4d5a-889d-75a9f178f87a",
+  "hidden": false,
   "id": 23075,
   "illustration": "https://phira.5wyxi.com/files/3db60a02-4cfc-44c2-adce-18e0c800fc38",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "好",
   "preview": "https://phira.5wyxi.com/files/7de20fe9-38ed-41e1-bea2-652cc3b09fd4",
   "ranked": true,
-  "rating": 0.90066963,
-  "ratingCount": 4833,
+  "rating": 0.900479,
+  "ratingCount": 4895,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

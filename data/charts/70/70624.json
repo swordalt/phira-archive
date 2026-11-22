@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-27T08:02:17Z",
-    "lastChanged": "2026-10-04T10:51:05Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:58:55Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-08-01T16:59:45.315493Z",
   "charter": "MerryHearn",
@@ -14,6 +14,7 @@
   "description": "BV12CGG6yE7h\n本人上传",
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/9283cf76-31d6-407e-b61d-25c778068897",
+  "hidden": false,
   "id": 70624,
   "illustration": "https://phira.5wyxi.com/files/2ff22c1f-cd0c-4061-b984-d916357abfc3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "初音狂奏曲第01番「彗惺」",
   "preview": "https://phira.5wyxi.com/files/2734c9a5-9885-4bf8-a48d-14373d61252d",
   "ranked": false,
-  "rating": 0.8905898,
-  "ratingCount": 82,
+  "rating": 0.9048307,
+  "ratingCount": 532,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

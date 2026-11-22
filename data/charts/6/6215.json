@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:22Z",
-    "lastChanged": "2026-09-21T02:01:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-27T13:09:41.132969Z",
   "charter": "sshc/restain",
@@ -14,6 +14,7 @@
   "description": "谱师之一上传",
   "difficulty": 14.699999,
   "file": "https://phira.5wyxi.com/files/e06363ac-ff51-455a-a41e-23178ccd60de",
+  "hidden": false,
   "id": 6215,
   "illustration": "https://phira.5wyxi.com/files/e7c2fca4-f5ad-4142-b667-79a893fdfcb6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dandelion's Daydream",
   "preview": "https://phira.5wyxi.com/files/60f087c3-5feb-438b-84cd-1c9bccbe6335",
   "ranked": false,
-  "rating": 0.89962333,
-  "ratingCount": 315,
+  "rating": 0.8996245,
+  "ratingCount": 316,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

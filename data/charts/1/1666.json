@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:35Z",
-    "lastChanged": "2026-09-21T02:05:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-11T16:10:21.787560Z",
   "charter": "Iblcya",
@@ -14,6 +14,7 @@
   "description": "本人上传\nDFC Alpha-Beta Speed Practice Pack Vol.1 Beta供谱",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/926d1c77-46ab-404a-ae6d-3a571eda415a",
+  "hidden": false,
   "id": 1666,
   "illustration": "https://phira.5wyxi.com/files/e74e540c-3eab-4863-99aa-de242b99a346",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "邪華",
   "preview": "https://phira.5wyxi.com/files/0b2dd312-8e2f-42b8-814c-1ea3f267eb4f",
   "ranked": false,
-  "rating": 0.9235119,
-  "ratingCount": 393,
+  "rating": 0.92360765,
+  "ratingCount": 407,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

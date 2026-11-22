@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:39Z",
-    "lastChanged": "2026-09-21T02:05:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-17T08:14:23.400295Z",
   "charter": "charadiana",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/fa29dc05-8dcd-47ab-9df1-6f6a42e465bd",
+  "hidden": false,
   "id": 12584,
   "illustration": "https://phira.5wyxi.com/files/8665f412-259a-46f6-927d-023204ed2cd3",
   "illustrator": "",

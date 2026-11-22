@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:05Z",
-    "lastChanged": "2026-09-21T02:06:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-14T05:11:46.183082Z",
   "charter": "改天是哪天6",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.999996,
   "file": "https://phira.5wyxi.com/files/fea8e218-98c7-4322-a4ae-e21a51d93b27",
+  "hidden": false,
   "id": 30709,
   "illustration": "https://phira.5wyxi.com/files/8a1cbe13-2ec3-489b-9904-a4deb2bb34ad",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "5:20AM",
   "preview": "https://phira.5wyxi.com/files/70a96ff8-fe01-47e3-987a-f4edc792a744",
   "ranked": false,
-  "rating": 0.9176758,
-  "ratingCount": 391,
+  "rating": 0.9198384,
+  "ratingCount": 404,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

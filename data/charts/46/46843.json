@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:51Z",
-    "lastChanged": "2026-09-21T02:03:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-14T13:26:24.822083Z",
   "charter": "ZXRwei",
@@ -14,6 +14,7 @@
   "description": "谱面预览:BV1i6bzz8EAc",
   "difficulty": 12.400002,
   "file": "https://phira.5wyxi.com/files/61ca07ae-db6a-47ed-95ef-4125d5340e62",
+  "hidden": false,
   "id": 46843,
   "illustration": "https://phira.5wyxi.com/files/76f15853-ba57-4fab-b61d-fe2f905f071d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "与风告别",
   "preview": "https://phira.5wyxi.com/files/a9856067-ac62-4725-bb6e-3aef535716be",
   "ranked": false,
-  "rating": 0.9305827,
-  "ratingCount": 584,
+  "rating": 0.9304812,
+  "ratingCount": 641,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:09Z",
-    "lastChanged": "2026-09-21T02:04:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-26T18:55:28.045263Z",
   "charter": "#3_",
@@ -14,6 +14,7 @@
   "description": "新人初谱，b站@小闪说说，欢迎锐评",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/a91a3359-d0f3-44cf-83a2-b041f22bab4f",
+  "hidden": false,
   "id": 50585,
   "illustration": "https://phira.5wyxi.com/files/b10f2535-668c-47cf-a51d-dd03848b523c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "神鳴",
   "preview": "https://phira.5wyxi.com/files/49d700fa-436e-4c89-942f-ecd6ee35b6e5",
   "ranked": false,
-  "rating": 0.75707054,
-  "ratingCount": 79,
+  "rating": 0.75890255,
+  "ratingCount": 82,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

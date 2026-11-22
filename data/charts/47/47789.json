@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:55Z",
-    "lastChanged": "2026-09-21T02:03:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-06T16:46:14.061423Z",
   "charter": "iph22222",
@@ -14,6 +14,7 @@
   "description": "新人新谱",
   "difficulty": 16.800003,
   "file": "https://phira.5wyxi.com/files/64551bfc-aa19-41bf-9c5a-f9332da9b651",
+  "hidden": false,
   "id": 47789,
   "illustration": "https://phira.5wyxi.com/files/436a711a-3f16-4779-8228-bd59a0266cca",
   "illustrator": "",

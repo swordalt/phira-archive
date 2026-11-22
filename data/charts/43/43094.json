@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:26Z",
-    "lastChanged": "2026-09-21T02:06:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-29T14:54:27.192579Z",
   "charter": "XiaoChao14",
@@ -14,6 +14,7 @@
   "description": "谱面预览BV1Gu8ozBEWh\n已改谱",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/bf7f5aee-34e6-42b0-965d-d22d26a38686",
+  "hidden": false,
   "id": 43094,
   "illustration": "https://phira.5wyxi.com/files/78492684-0b29-4d26-bd89-5faeb590fbf5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "系ぎて",
   "preview": "https://phira.5wyxi.com/files/5cbcf926-d25a-447e-a69c-67e623f2ad18",
   "ranked": false,
-  "rating": 0.7630128,
-  "ratingCount": 91,
+  "rating": 0.7656661,
+  "ratingCount": 95,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

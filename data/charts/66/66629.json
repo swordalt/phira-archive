@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:59Z",
-    "lastChanged": "2026-09-21T02:04:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-15T03:12:30.140544Z",
   "charter": "Nor3Rt",
@@ -14,6 +14,7 @@
   "description": "本人上传，对比前一版有改动，请以此版为准",
   "difficulty": 11.0,
   "file": "https://phira.5wyxi.com/files/fe6151bf-a57e-47af-9913-fe9a84f92e0f",
+  "hidden": false,
   "id": 66629,
   "illustration": "https://phira.5wyxi.com/files/b7879f3e-9fbf-4292-ba1c-f5f57b241d03",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "攻心",
   "preview": "https://phira.5wyxi.com/files/63dcc471-5bc1-4d54-8dfb-97ca059ad0f3",
   "ranked": false,
-  "rating": 0.96078837,
-  "ratingCount": 563,
+  "rating": 0.9583174,
+  "ratingCount": 1346,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

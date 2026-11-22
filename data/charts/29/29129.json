@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:45Z",
-    "lastChanged": "2026-09-21T02:02:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-27T06:17:50.034144Z",
   "charter": "Glorie",
@@ -14,6 +14,7 @@
   "description": "曲名：VIVIDVELOCITY\n曲师：Synthion\n曲绘：Synthion\n谱师：Glorie\n物量：827\n事件：2200+\n定数：AT Lv.16(16.4)\n萌新谱师，请多关照。前后写了也有近两个月，写的不好还请见谅。\n本人上传",
   "difficulty": 15.999998,
   "file": "https://phira.5wyxi.com/files/2f5fb5b5-ce33-44e0-b503-dec5d7cb27a6",
+  "hidden": false,
   "id": 29129,
   "illustration": "https://phira.5wyxi.com/files/503cad33-5092-4039-a45c-85bd4270fc65",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "VIVIDVELOCITY",
   "preview": "https://phira.5wyxi.com/files/e713e680-eeed-4b58-b5e3-75529c5fbace",
   "ranked": false,
-  "rating": 0.8265264,
-  "ratingCount": 187,
+  "rating": 0.8275428,
+  "ratingCount": 191,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

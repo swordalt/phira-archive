@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:17Z",
-    "lastChanged": "2026-09-21T02:04:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-02T14:25:21.448056Z",
   "charter": "5GOODNIGHT&GOODMORNING",
@@ -14,6 +14,7 @@
   "description": "本人的第一张正式自制谱\n谱师：5GOODNIGHT\n凑物量：5GOODMORNING（不会写谱の飞舞一个）\n欢迎来玩awa",
   "difficulty": 15.700002,
   "file": "https://phira.5wyxi.com/files/9df47ddb-bc74-41cd-85dc-a312b8424d28",
+  "hidden": false,
   "id": 51997,
   "illustration": "https://phira.5wyxi.com/files/e1373972-f236-49a9-be0b-e3f7a0482556",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "溶けてゆく",
   "preview": "https://phira.5wyxi.com/files/6b4a8416-8f83-488c-a3fb-efa8836bde36",
   "ranked": false,
-  "rating": 0.79081666,
-  "ratingCount": 84,
+  "rating": 0.79793507,
+  "ratingCount": 87,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

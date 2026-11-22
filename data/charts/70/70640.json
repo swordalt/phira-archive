@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:05Z",
-    "lastChanged": "2026-09-21T02:05:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-01T20:03:46.700981Z",
   "charter": "pinkᴉp",
@@ -14,6 +14,7 @@
   "description": "该谱面为 WSRT x 云梦杯 比赛供谱 首次登场于【沉坠•破晓】8进4淘汰赛败者组 b站视频BV1at3m6UEw3 本人上传",
   "difficulty": 16.800001,
   "file": "https://phira.5wyxi.com/files/83a689eb-b27f-4a21-943c-e7cf74506925",
+  "hidden": false,
   "id": 70640,
   "illustration": "https://phira.5wyxi.com/files/2117765b-f735-459a-a37b-6b9e619b62e1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "orphᴉc",
   "preview": "https://phira.5wyxi.com/files/789a1b39-7254-4eb6-837a-97474b2f707b",
   "ranked": false,
-  "rating": 0.874145,
-  "ratingCount": 170,
+  "rating": 0.87414443,
+  "ratingCount": 178,
   "reviewed": true,
   "stable": false,
   "stableRequest": true,

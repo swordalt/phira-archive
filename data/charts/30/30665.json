@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:50Z",
-    "lastChanged": "2026-09-21T02:02:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-13T07:34:48.304021Z",
   "charter": "AveryRondes",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/1fafa173-5639-41d8-9b48-de145be468ad",
+  "hidden": false,
   "id": 30665,
   "illustration": "https://phira.5wyxi.com/files/f19b23dc-2de6-40d1-a47d-b282385b8a77",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "妄想感傷代償連盟",
   "preview": "https://phira.5wyxi.com/files/888beb81-dd50-43ad-bb23-6104cc5d11b2",
   "ranked": false,
-  "rating": 0.8935985,
-  "ratingCount": 3102,
+  "rating": 0.8945059,
+  "ratingCount": 3528,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

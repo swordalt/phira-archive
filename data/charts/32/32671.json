@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:59Z",
-    "lastChanged": "2026-09-21T02:02:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-28T07:04:56.360248Z",
   "charter": "23113",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.100019,
   "file": "https://phira.5wyxi.com/files/1622b367-4785-452c-8997-83c311fd1903",
+  "hidden": false,
   "id": 32671,
   "illustration": "https://phira.5wyxi.com/files/654ce462-232d-4297-902b-dec5b6df3662",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Chaotic Time Trio Phase1.5",
   "preview": "https://phira.5wyxi.com/files/0fa428b7-58ae-4713-8184-88afa6e79b58",
   "ranked": false,
-  "rating": 0.92531013,
-  "ratingCount": 582,
+  "rating": 0.92656714,
+  "ratingCount": 599,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:24Z",
-    "lastChanged": "2026-09-21T02:06:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-21T06:20:59.815020Z",
   "charter": "AkiPapawmer",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/8fee54ba-231e-453f-bb4e-1f6b80959fd7",
+  "hidden": false,
   "id": 42287,
   "illustration": "https://phira.5wyxi.com/files/2ec19ddb-1cb1-46d5-9fc2-a7395ad05b87",
   "illustrator": "",

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:23Z",
-    "lastChanged": "2026-09-21T02:01:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-01T09:03:43.964031Z",
   "charter": "LXyhuman",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/6f9bd5c2-8c21-4d5b-bcbe-4ac392538d55",
+  "hidden": false,
   "id": 6571,
   "illustration": "https://phira.5wyxi.com/files/d845efd8-dba4-4d67-86a3-ab0197a1996e",
   "illustrator": "",

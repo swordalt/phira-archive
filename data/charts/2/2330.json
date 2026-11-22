@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:12Z",
-    "lastChanged": "2026-09-21T02:01:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-20T12:38:21.996494Z",
   "charter": "fz20181223",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/d0a21003-79c0-4fbd-80b9-a67efd19eae5",
+  "hidden": false,
   "id": 2330,
   "illustration": "https://phira.5wyxi.com/files/c3ef6a83-1078-4ab3-a677-bce2ebd42b24",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Road With You",
   "preview": "https://phira.5wyxi.com/files/bc8afa82-a21a-45a6-9474-c6c0ed6cc9f4",
   "ranked": false,
-  "rating": 0.90900666,
-  "ratingCount": 409,
+  "rating": 0.909215,
+  "ratingCount": 410,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

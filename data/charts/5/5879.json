@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:36Z",
-    "lastChanged": "2026-09-21T02:05:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-23T05:30:45.469207Z",
   "charter": "BZLZHH",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传 哔哩哔哩@BZLZHH",
   "difficulty": 21.0,
   "file": "https://phira.5wyxi.com/files/04a79e97-a296-43fe-974a-3300e9a90107",
+  "hidden": false,
   "id": 5879,
   "illustration": "https://phira.5wyxi.com/files/09d25e89-7ad6-4ac9-b4d4-efbbaf8592bc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "INFiNiTE ENERZY -Overdoze-",
   "preview": "https://phira.5wyxi.com/files/2707e9d4-ec4b-4d1c-9230-6dcc40e2e196",
   "ranked": false,
-  "rating": 0.93889457,
-  "ratingCount": 4056,
+  "rating": 0.9392106,
+  "ratingCount": 4101,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

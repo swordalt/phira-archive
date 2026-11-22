@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:50Z",
-    "lastChanged": "2026-09-21T02:05:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-21T11:12:49.725040Z",
   "charter": "Pw975",
@@ -14,6 +14,7 @@
   "description": "其实还可以塞，但是我又懒又菜，就这样吧ww",
   "difficulty": 22.999992,
   "file": "https://phira.5wyxi.com/files/715eaf97-8abd-453c-b100-4f699a10159d",
+  "hidden": false,
   "id": 21620,
   "illustration": "https://phira.5wyxi.com/files/27fc2cbe-0d01-4358-8319-11913523b487",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "群青",
   "preview": "https://phira.5wyxi.com/files/c65e258e-0cf5-4fb5-ae50-d348ed847de9",
   "ranked": false,
-  "rating": 0.908616,
-  "ratingCount": 121,
+  "rating": 0.9100078,
+  "ratingCount": 124,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

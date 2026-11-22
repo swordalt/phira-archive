@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:59Z",
-    "lastChanged": "2026-09-21T02:04:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-14T13:26:32.777521Z",
   "charter": "毛怪cucumber(鸠の星空)",
@@ -14,6 +14,7 @@
   "description": "作者本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/fa9c4a32-708e-4a1c-8bb9-7ec767c57e4f",
+  "hidden": false,
   "id": 66548,
   "illustration": "https://phira.5wyxi.com/files/c53854b1-f2b6-4d0b-9159-bc53471b501e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "速通满级攻略",
   "preview": "https://phira.5wyxi.com/files/3bdd65cb-cc5f-41d0-9cd5-667902628acd",
   "ranked": false,
-  "rating": 0.9163513,
-  "ratingCount": 121,
+  "rating": 0.94096816,
+  "ratingCount": 338,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

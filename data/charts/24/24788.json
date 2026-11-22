@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:27Z",
-    "lastChanged": "2026-09-21T02:02:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-31T04:27:15.583579Z",
   "charter": "Hyme vs emyH",
@@ -14,6 +14,7 @@
   "description": "Hyme collab with emyH",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/6ed62c6c-281b-4050-a65e-41388648fa01",
+  "hidden": false,
   "id": 24788,
   "illustration": "https://phira.5wyxi.com/files/03aa6e8f-47fa-4be9-82f1-76905a386558",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Kagachi 蛇神",
   "preview": "https://phira.5wyxi.com/files/16c694b0-c940-4be1-bcfe-5d0a672b6b8f",
   "ranked": false,
-  "rating": 0.9262116,
-  "ratingCount": 99,
+  "rating": 0.92361593,
+  "ratingCount": 100,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

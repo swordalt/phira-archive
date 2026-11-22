@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:06Z",
-    "lastChanged": "2026-09-21T02:01:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-25T14:19:23.672591Z",
   "charter": "-skyline-",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.400001,
   "file": "https://phira.5wyxi.com/files/8ffdad9a-5580-4039-ae76-1cb251def78a",
+  "hidden": false,
   "id": 772,
   "illustration": "https://phira.5wyxi.com/files/c2879759-104c-46ae-b271-b70050c66842",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Last Judgement",
   "preview": "https://phira.5wyxi.com/files/f359ea52-620b-438f-b6bd-7c80bc2a5a3a",
   "ranked": false,
-  "rating": 0.86800337,
-  "ratingCount": 322,
+  "rating": 0.8670878,
+  "ratingCount": 332,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

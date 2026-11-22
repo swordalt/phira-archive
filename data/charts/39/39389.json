@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:29Z",
-    "lastChanged": "2026-09-21T02:05:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-08T06:49:35.728656Z",
   "charter": "对  比  实  验",
@@ -14,6 +14,7 @@
   "description": "765598557你怎么又在写史啊",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/4b300c62-c3c8-4802-b586-49731ae82386",
+  "hidden": false,
   "id": 39389,
   "illustration": "https://phira.5wyxi.com/files/8ea40730-438f-4852-84bb-80c958f48fe3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Alfheim's faith",
   "preview": "https://phira.5wyxi.com/files/f6b95597-da7f-4d2b-97a5-7a8e47ba854a",
   "ranked": false,
-  "rating": 0.7983601,
-  "ratingCount": 48,
+  "rating": 0.78995305,
+  "ratingCount": 49,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

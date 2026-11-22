@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:41Z",
-    "lastChanged": "2026-09-21T02:05:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-09T05:16:44.471131Z",
   "charter": "元气麦子",
@@ -14,6 +14,7 @@
   "description": "这里没有简介！",
   "difficulty": 23.0,
   "file": "https://phira.5wyxi.com/files/8c8d60cf-28d1-4b85-94ab-41894ca5f829",
+  "hidden": false,
   "id": 15107,
   "illustration": "https://phira.5wyxi.com/files/67980530-6377-4cef-b0f3-06f4a5e287fb",
   "illustrator": "",

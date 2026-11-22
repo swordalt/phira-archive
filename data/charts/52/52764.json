@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:22Z",
-    "lastChanged": "2026-09-21T02:04:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-16T01:59:46.806524Z",
   "charter": "Antyric as [天影]",
@@ -14,6 +14,7 @@
   "description": "本人上传；b站id=Antyric，正式简介见发布视频。",
   "difficulty": 16.7,
   "file": "https://phira.5wyxi.com/files/9d7cca2b-eeb6-4f0b-ade7-e911956a8710",
+  "hidden": false,
   "id": 52764,
   "illustration": "https://phira.5wyxi.com/files/ec5d11f6-5437-4953-9f7c-cba85f0031f2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Celestial Horizon",
   "preview": "https://phira.5wyxi.com/files/f7dcb02d-6dcd-4e7d-835a-783051fa0315",
   "ranked": false,
-  "rating": 0.9418576,
-  "ratingCount": 111,
+  "rating": 0.9421479,
+  "ratingCount": 119,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

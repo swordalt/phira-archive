@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:40Z",
-    "lastChanged": "2026-09-21T02:06:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-03T14:06:39.967005Z",
   "charter": "lbz",
@@ -14,6 +14,7 @@
   "description": "milthm 靈 的仿制谱",
   "difficulty": 8.0,
   "file": "https://phira.5wyxi.com/files/4a103168-3962-42a9-ad85-bb179a1001d1",
+  "hidden": false,
   "id": 48750,
   "illustration": "https://phira.5wyxi.com/files/ce309308-57c3-43dc-b505-1649209b644e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "靈",
   "preview": "https://phira.5wyxi.com/files/a741a41e-4d3b-4aab-93f7-365337a071c0",
   "ranked": false,
-  "rating": 0.9386637,
-  "ratingCount": 128,
+  "rating": 0.9389468,
+  "ratingCount": 133,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:03Z",
-    "lastChanged": "2026-09-21T02:04:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-16T02:24:02.937394Z",
   "charter": "硅胶well",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 18.300005,
   "file": "https://phira.5wyxi.com/files/4869b0bb-cbf3-4d20-81fe-4e9b8917769e",
+  "hidden": false,
   "id": 49184,
   "illustration": "https://phira.5wyxi.com/files/e2f3bfd9-1a0c-4750-8556-99f2f9082038",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "kodokushi",
   "preview": "https://phira.5wyxi.com/files/8c027a25-d948-4ed0-88eb-e99004cab6bf",
   "ranked": false,
-  "rating": 0.74380416,
-  "ratingCount": 15,
+  "rating": 0.7564627,
+  "ratingCount": 16,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

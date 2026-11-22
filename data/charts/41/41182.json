@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:21Z",
-    "lastChanged": "2026-09-21T02:06:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-08T12:25:08.460431Z",
   "charter": "LJ-23",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 27.0,
   "file": "https://phira.5wyxi.com/files/c20beae6-59f6-41b9-8f4c-b88a8d2bd53c",
+  "hidden": false,
   "id": 41182,
   "illustration": "https://phira.5wyxi.com/files/19e90cbc-9b04-4548-9658-a6b4ba18ab7c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "星之记忆",
   "preview": "https://phira.5wyxi.com/files/acf311dc-63d8-4b75-8d3f-8c1c249efb26",
   "ranked": false,
-  "rating": 0.96377873,
-  "ratingCount": 280,
+  "rating": 0.9643148,
+  "ratingCount": 299,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:29Z",
-    "lastChanged": "2026-09-21T02:02:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-02T06:23:04.180561Z",
   "charter": "XiaoTuanZi in the evernight city",
@@ -14,6 +14,7 @@
   "description": "新人3谱，谱师本人上传，b站@团子-Tuan",
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/cb6f316e-ae18-4ccf-bda3-9ecec9d37ee1",
+  "hidden": false,
   "id": 25009,
   "illustration": "https://phira.5wyxi.com/files/39cc314b-b872-4fc9-b77e-b138777ae5fb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Le Porteur d'Ombre",
   "preview": "https://phira.5wyxi.com/files/7c341624-49d8-449a-8160-fe0d2cbeee67",
   "ranked": false,
-  "rating": 0.87375164,
-  "ratingCount": 863,
+  "rating": 0.8730645,
+  "ratingCount": 869,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:25Z",
-    "lastChanged": "2026-09-21T02:05:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-05T03:23:29.319815Z",
   "charter": "我",
@@ -14,6 +14,7 @@
   "description": "好像不止楼梯哦（？）\n整活用请勿模仿\n谱师本人上传",
   "difficulty": 16.500002,
   "file": "https://phira.5wyxi.com/files/b2bf624b-f95c-4013-9aa4-ecb6e15d69df",
+  "hidden": false,
   "id": 22662,
   "illustration": "https://phira.5wyxi.com/files/69f3bdca-2ad6-43db-b813-b7d412db9c80",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "30秒5K楼梯练习！！",
   "preview": "https://phira.5wyxi.com/files/59c2013e-20b4-43d5-a423-0a8c6d51fb2d",
   "ranked": false,
-  "rating": 0.8105327,
-  "ratingCount": 2833,
+  "rating": 0.8111036,
+  "ratingCount": 2891,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:01Z",
-    "lastChanged": "2026-09-21T02:02:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-02T05:02:57.767264Z",
   "charter": "DY",
@@ -14,6 +14,7 @@
   "description": "曲名：2021.Start 曲师：WAVEFORM  曲绘：WAVEFORM （DY 〔Modified〕) 谱面：DY 难度：IN Lv.13（13.9）  看着中间的Drap和Flick来判断何时点击两侧的Tap，同时Tap也有提示哪个指示Drap或者Flick。 游玩愉快！",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/69844e12-3e86-471d-9374-bf23ac554eec",
+  "hidden": false,
   "id": 16605,
   "illustration": "https://phira.5wyxi.com/files/99d9957d-72f7-4808-bc5e-40770b60317b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "2021.Start",
   "preview": "https://phira.5wyxi.com/files/b0d47ff8-877b-4298-9ba1-040722d9442a",
   "ranked": false,
-  "rating": 0.8908298,
-  "ratingCount": 81,
+  "rating": 0.8921202,
+  "ratingCount": 82,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

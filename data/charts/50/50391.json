@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:08Z",
-    "lastChanged": "2026-09-21T02:04:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-20T14:53:36.546361Z",
   "charter": "sheep",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.5,
   "file": "https://phira.5wyxi.com/files/45b331fd-43a2-444a-934d-fa1a6c0091a8",
+  "hidden": false,
   "id": 50391,
   "illustration": "https://phira.5wyxi.com/files/526b724d-89d3-49ad-9738-e169e14cf1c7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "寒いからあいすが食べたい",
   "preview": "https://phira.5wyxi.com/files/ffbb6a18-99c9-4eda-a9d1-9a22abb81629",
   "ranked": false,
-  "rating": 0.9479811,
-  "ratingCount": 198,
+  "rating": 0.94487983,
+  "ratingCount": 212,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

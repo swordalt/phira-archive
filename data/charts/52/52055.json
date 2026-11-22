@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:17Z",
-    "lastChanged": "2026-09-21T02:04:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-05T11:26:24.044529Z",
   "charter": "ChickenPige0n",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/4d966c99-87d2-4807-8f00-636dd3b2a69e",
+  "hidden": false,
   "id": 52055,
   "illustration": "https://phira.5wyxi.com/files/4b4e3516-83fe-4731-a020-73db2500b682",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ex-Otogibanashi (Anime ver.)",
   "preview": "https://phira.5wyxi.com/files/32fb0587-e3c4-4853-9e0c-f6ca9fef7b0c",
   "ranked": false,
-  "rating": 0.922441,
-  "ratingCount": 1048,
+  "rating": 0.92301184,
+  "ratingCount": 1090,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

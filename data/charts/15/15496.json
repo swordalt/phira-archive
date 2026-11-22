@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:56Z",
-    "lastChanged": "2026-09-21T02:01:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-12T12:43:37.079585Z",
   "charter": "Hwere .vs. Rea_cy",
@@ -14,6 +14,7 @@
   "description": "谱面为谱师本人上传",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/1d94073e-d401-497f-9d04-8a8ba0168e0a",
+  "hidden": false,
   "id": 15496,
   "illustration": "https://phira.5wyxi.com/files/17608e6c-5d60-442f-9bb7-2f8f60c070f9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Hello (BPM) 2024",
   "preview": "https://phira.5wyxi.com/files/30bf4df2-afa0-444b-a1d3-01057803a931",
   "ranked": false,
-  "rating": 0.93745685,
-  "ratingCount": 4212,
+  "rating": 0.93742406,
+  "ratingCount": 4235,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

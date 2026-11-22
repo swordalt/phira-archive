@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:02Z",
-    "lastChanged": "2026-09-21T02:03:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-03T18:46:29.521840Z",
   "charter": "不/存在的菠萝菠萝哒",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n2025.4.12 修改标题\n2025.5.4 微调谱面",
   "difficulty": 13.500002,
   "file": "https://phira.5wyxi.com/files/94f2c3e8-f88e-4012-ba03-f1e575fc2097",
+  "hidden": false,
   "id": 33317,
   "illustration": "https://phira.5wyxi.com/files/913ae4a4-51ce-4248-871a-e7514e6af77f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "We are condemned to be free",
   "preview": "https://phira.5wyxi.com/files/e2cfc7c7-5e9d-4d59-a730-fa31aff49ba8",
   "ranked": false,
-  "rating": 0.9532186,
-  "ratingCount": 883,
+  "rating": 0.95402527,
+  "ratingCount": 930,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

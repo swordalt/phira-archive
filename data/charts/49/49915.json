@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:05Z",
-    "lastChanged": "2026-09-21T02:04:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-06T19:51:55.438441Z",
   "charter": "P_esp",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.8,
   "file": "https://phira.5wyxi.com/files/91d79390-9126-41fc-a2ad-de9a92a51552",
+  "hidden": false,
   "id": 49915,
   "illustration": "https://phira.5wyxi.com/files/39f399a6-5219-4736-a94c-69f7d1afd41f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sinfonia Regalis",
   "preview": "https://phira.5wyxi.com/files/64b2b6e3-49b2-4e6c-b081-646ab218ef56",
   "ranked": false,
-  "rating": 0.90387434,
-  "ratingCount": 77,
+  "rating": 0.9038392,
+  "ratingCount": 78,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-10T17:47:35Z",
-    "lastChanged": "2026-10-11T11:05:33Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:23Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-09-28T09:30:52.780451Z",
   "charter": "vila Papilio & 囃狼",
@@ -14,6 +14,7 @@
   "description": "Create by Myself.",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/1330904b-c54d-411d-b0e7-05a3115dd7e4",
+  "hidden": false,
   "id": 79349,
   "illustration": "https://phira.5wyxi.com/files/b0d0ff1f-8ff8-4bd4-819a-fe925bcef214",
   "illustrator": "UK",
@@ -21,8 +22,8 @@
   "name": "dashstar*(VIP)",
   "preview": "https://phira.5wyxi.com/files/af8efd41-a03c-4fd1-9e86-93b71edc396f",
   "ranked": false,
-  "rating": 0.91181237,
-  "ratingCount": 34,
+  "rating": 0.90649796,
+  "ratingCount": 111,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

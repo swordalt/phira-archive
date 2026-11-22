@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:15Z",
-    "lastChanged": "2026-09-21T02:04:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-23T13:39:14.808448Z",
   "charter": "小光(xiao-yan)",
@@ -14,6 +14,7 @@
   "description": "本人上传。\n物量1800+，事件5w+",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/8557382b-8e4d-4c72-9123-79c8322d9511",
+  "hidden": false,
   "id": 51546,
   "illustration": "https://phira.5wyxi.com/files/c096314e-9ef1-4c8c-bbbb-1d5672490eea",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "UNDERGROUND",
   "preview": "https://phira.5wyxi.com/files/8d7fcc7a-f022-47fc-8cae-14fd4e876467",
   "ranked": false,
-  "rating": 0.91159844,
-  "ratingCount": 549,
+  "rating": 0.9090098,
+  "ratingCount": 656,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

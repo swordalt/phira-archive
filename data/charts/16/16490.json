@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:00Z",
-    "lastChanged": "2026-09-21T02:02:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-09T03:19:47.413961Z",
   "charter": "Feng_Fj",
@@ -14,6 +14,7 @@
   "description": "=================\n本人的第三张谱，中间鸽了挺久（）\n表演不会写，凑合着看吧\n=================\n*本次更新对谱面进行了一些微调*\n*本次更新对尾杀黄键进行了修改###多整了点特效*",
   "difficulty": 15.8,
   "file": "https://phira.5wyxi.com/files/356a3cf9-1c7f-4380-b6f3-b1a957a84f6f",
+  "hidden": false,
   "id": 16490,
   "illustration": "https://phira.5wyxi.com/files/89432e73-dc5e-480e-bc86-6ffb4b686cf7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Liberation from oppression",
   "preview": "https://phira.5wyxi.com/files/676dc6fc-88fd-4a39-af87-ff2ec6d7d17d",
   "ranked": false,
-  "rating": 0.9225313,
-  "ratingCount": 1057,
+  "rating": 0.92263067,
+  "ratingCount": 1060,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

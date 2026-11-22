@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:07Z",
-    "lastChanged": "2026-09-21T02:02:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-08T13:50:06.212981Z",
   "charter": "CharlieXD",
@@ -14,6 +14,7 @@
   "description": "自製TheFatRat精選輯的第一張譜！\n希望各位喜歡\n\n•黃鍵海注意•\n封面、譜面皆由本人所製",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/b41c1403-444e-4d51-91f0-9dc3d950fe27",
+  "hidden": false,
   "id": 18218,
   "illustration": "https://phira.5wyxi.com/files/b357de7d-cb04-4fba-a181-a3ff03ca62ef",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Stronger",
   "preview": "https://phira.5wyxi.com/files/b1e341ea-77b5-4541-b056-4c37845def77",
   "ranked": false,
-  "rating": 0.8916827,
-  "ratingCount": 464,
+  "rating": 0.8921372,
+  "ratingCount": 476,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

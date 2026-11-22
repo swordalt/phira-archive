@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:26Z",
-    "lastChanged": "2026-09-21T02:03:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-30T06:06:13.532643Z",
   "charter": "Shanmarium",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.5,
   "file": "https://phira.5wyxi.com/files/9f5841b3-b6be-43de-95de-878f8e0a9206",
+  "hidden": false,
   "id": 40567,
   "illustration": "https://phira.5wyxi.com/files/7eb20e72-31b8-4ac1-a25a-5bb8e6ce4292",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "D/N/A",
   "preview": "https://phira.5wyxi.com/files/5930306a-d45b-4510-8eef-6f99853d6ad7",
   "ranked": false,
-  "rating": 0.9050783,
-  "ratingCount": 1208,
+  "rating": 0.905413,
+  "ratingCount": 1232,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

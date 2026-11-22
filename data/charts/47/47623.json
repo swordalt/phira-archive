@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:55Z",
-    "lastChanged": "2026-09-21T02:03:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-05T00:46:15.786599Z",
   "charter": "Encly",
@@ -14,6 +14,7 @@
   "description": "谱师B站@ty天远",
   "difficulty": 16.700003,
   "file": "https://phira.5wyxi.com/files/4024e588-2190-4867-ae1e-e208045064c4",
+  "hidden": false,
   "id": 47623,
   "illustration": "https://phira.5wyxi.com/files/2caecff4-c72f-4821-adc7-3af7f111c280",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ふわふわ時間",
   "preview": "https://phira.5wyxi.com/files/54bf038d-8a13-4fe5-8534-0597bd1f78f0",
   "ranked": false,
-  "rating": 0.91343546,
-  "ratingCount": 500,
+  "rating": 0.91361946,
+  "ratingCount": 520,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

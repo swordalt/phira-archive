@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:39Z",
-    "lastChanged": "2026-09-21T02:02:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-02T07:00:07.674723Z",
   "charter": "CDQAQ",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/52312804-cb5c-4a63-abfa-185f4df6f08c",
+  "hidden": false,
   "id": 27320,
   "illustration": "https://phira.5wyxi.com/files/cbbd3053-9edf-477d-96b2-acdee3205c3a",
   "illustrator": "",

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:53Z",
-    "lastChanged": "2026-09-21T02:06:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-06T06:08:24.814080Z",
   "charter": "BaDu0NwN",
@@ -14,6 +14,7 @@
   "description": "本人上传\n踏浪好听",
   "difficulty": 15.499999,
   "file": "https://phira.5wyxi.com/files/a9a3a2e0-c98e-46c4-9214-7a5523fde4a3",
+  "hidden": false,
   "id": 60077,
   "illustration": "https://phira.5wyxi.com/files/3fe24c3e-4d64-45bc-9e19-c4df899c51a7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "踏浪",
   "preview": "https://phira.5wyxi.com/files/b3537823-0c24-448e-9412-e72a16723ee4",
   "ranked": false,
-  "rating": 0.8487795,
-  "ratingCount": 434,
+  "rating": 0.84976083,
+  "ratingCount": 445,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

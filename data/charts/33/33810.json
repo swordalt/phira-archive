@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:03Z",
-    "lastChanged": "2026-09-21T02:03:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-11T11:15:45.155697Z",
   "charter": "落霜",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/d7072590-0c71-42d2-863d-a4468659cebc",
+  "hidden": false,
   "id": 33810,
   "illustration": "https://phira.5wyxi.com/files/ae21ebaf-0743-467d-9345-eb67d22f0c3f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "梨花雨",
   "preview": "https://phira.5wyxi.com/files/89c3650d-063c-4a16-bb7b-d644d2f66d25",
   "ranked": false,
-  "rating": 0.85874236,
-  "ratingCount": 64,
+  "rating": 0.862041,
+  "ratingCount": 67,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

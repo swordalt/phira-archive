@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:13Z",
-    "lastChanged": "2026-10-04T10:51:20Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:14Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-31T04:59:08.274779Z",
   "charter": "blazedgrating",
@@ -14,6 +14,7 @@
   "description": "谱师b站：blazed_grating\n曲绘画师b站：QiQi_七柒\n部分表演感谢 zyrf 的协助\n",
   "difficulty": 17.1,
   "file": "https://phira.5wyxi.com/files/816d1784-006a-4cfa-bbbc-b576aa1488d9",
+  "hidden": false,
   "id": 76696,
   "illustration": "https://phira.5wyxi.com/files/730ee0d9-82d1-4089-b79a-34be4e2c3d17",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Clinozoisite",
   "preview": "https://phira.5wyxi.com/files/13cfe25a-c9b3-443b-a992-22c74fb604be",
   "ranked": false,
-  "rating": 0.95685184,
-  "ratingCount": 499,
+  "rating": 0.9569538,
+  "ratingCount": 593,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

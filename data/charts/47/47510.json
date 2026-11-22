@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:55Z",
-    "lastChanged": "2026-09-21T02:03:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-03T00:31:25.897765Z",
   "charter": "user_0113386",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/06e03d91-42ca-4386-8e07-319edebacce3",
+  "hidden": false,
   "id": 47510,
   "illustration": "https://phira.5wyxi.com/files/900d0342-e5b8-433e-bb32-7eff2e6b4c11",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "蛋仔闹新春",
   "preview": "https://phira.5wyxi.com/files/9026391b-f50e-4ca4-9619-c5ce1cffcf96",
   "ranked": false,
-  "rating": 0.8269806,
-  "ratingCount": 239,
+  "rating": 0.82848394,
+  "ratingCount": 262,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

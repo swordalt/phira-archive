@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:10Z",
-    "lastChanged": "2026-09-21T02:05:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-19T01:28:34.620719Z",
   "charter": "实心小猫(iCeStaRs)",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 9.900003,
   "file": "https://phira.5wyxi.com/files/06f4ad1f-8d1a-4a7a-b8e1-ebd90e50e144",
+  "hidden": false,
   "id": 74271,
   "illustration": "https://phira.5wyxi.com/files/a127ea97-a565-4c33-8975-a1b1cbc1f01b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "不再错过的盛夏",
   "preview": "https://phira.5wyxi.com/files/fbf4b74b-9bd8-4ddd-b3af-7273a02ac2e7",
   "ranked": false,
-  "rating": 0.9343828,
-  "ratingCount": 2215,
+  "rating": 0.93692386,
+  "ratingCount": 2491,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

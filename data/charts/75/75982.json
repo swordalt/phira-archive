@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:13Z",
-    "lastChanged": "2026-09-21T02:05:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-27T07:20:20.547244Z",
   "charter": "dustrga",
@@ -14,6 +14,7 @@
   "description": "新人初谱，打分手下留情谢谢",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/31e2dd72-7c86-407d-a574-fa62a38a44a5",
+  "hidden": false,
   "id": 75982,
   "illustration": "https://phira.5wyxi.com/files/122e744e-7a0c-42de-96a5-7ac0a63ca930",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "終点",
   "preview": "https://phira.5wyxi.com/files/1457ab74-74df-4ff6-9b93-ea6d9192f151",
   "ranked": false,
-  "rating": 0.9020784,
-  "ratingCount": 375,
+  "rating": 0.9073969,
+  "ratingCount": 439,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

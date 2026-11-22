@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:23Z",
-    "lastChanged": "2026-09-21T02:01:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-31T12:32:33.106167Z",
   "charter": "Chocolate_yi",
@@ -14,6 +14,7 @@
   "description": "B站号Chocolate_yi,7月27日动态证明我是本人qwq",
   "difficulty": 13.600001,
   "file": "https://phira.5wyxi.com/files/ef48a124-9b9b-425a-a427-794b129515fb",
+  "hidden": false,
   "id": 6526,
   "illustration": "https://phira.5wyxi.com/files/ca7f0905-7590-4b70-9894-be066c4e2682",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Daylight",
   "preview": "https://phira.5wyxi.com/files/428f887e-46f3-4df1-ad35-1fb1d39ecda8",
   "ranked": false,
-  "rating": 0.88884467,
-  "ratingCount": 1868,
+  "rating": 0.8889948,
+  "ratingCount": 1883,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

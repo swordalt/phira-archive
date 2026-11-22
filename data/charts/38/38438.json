@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:19Z",
-    "lastChanged": "2026-09-21T02:03:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-21T12:20:22.525895Z",
   "charter": "MiraYuuki",
@@ -14,6 +14,7 @@
   "description": "English:\nChart make by only me.\nContact me on discord: @mira_yuuki\nMy youtube channel: @MiraYuuki",
   "difficulty": 14.800003,
   "file": "https://phira.5wyxi.com/files/c7478391-699e-46ea-84b5-ded82aa5faf4",
+  "hidden": false,
   "id": 38438,
   "illustration": "https://phira.5wyxi.com/files/6e1e72d3-600d-4a74-9026-6877a28d0a0e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Deep Blue",
   "preview": "https://phira.5wyxi.com/files/7f4f359f-2466-44f2-9751-9b3c96e14589",
   "ranked": false,
-  "rating": 0.8822793,
-  "ratingCount": 137,
+  "rating": 0.8813545,
+  "ratingCount": 150,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:24Z",
-    "lastChanged": "2026-09-21T02:03:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-28T12:06:29.019430Z",
   "charter": "一往无前的星辰",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，b站@一往无前的星辰(谱面更换，某处Flick判定问题已经修复)",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/b2794cf0-c822-4047-ad9d-b26988ceb302",
+  "hidden": false,
   "id": 40153,
   "illustration": "https://phira.5wyxi.com/files/3eb43c5a-38ce-447f-af59-5d5ed6cce942",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "3,2,1!",
   "preview": "https://phira.5wyxi.com/files/9fe59b53-4eda-48e0-8cd6-fea019b5e174",
   "ranked": false,
-  "rating": 0.94794667,
-  "ratingCount": 1696,
+  "rating": 0.94799644,
+  "ratingCount": 1788,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

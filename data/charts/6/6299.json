@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:36Z",
-    "lastChanged": "2026-09-21T02:05:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-28T12:19:09.194483Z",
   "charter": "韦巴写不完5th",
@@ -14,6 +14,7 @@
   "description": "本人上传，欢迎B站关注@一棵韦巴",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/60019212-2ef2-44db-a51d-ff4c2748caff",
+  "hidden": false,
   "id": 6299,
   "illustration": "https://phira.5wyxi.com/files/71995f58-dd86-41f9-bbf9-364a430b9522",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Le Porteur d'Ombre",
   "preview": "https://phira.5wyxi.com/files/723bd69b-bf2f-4740-9676-f71234d69774",
   "ranked": false,
-  "rating": 0.8147702,
-  "ratingCount": 647,
+  "rating": 0.8142074,
+  "ratingCount": 651,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

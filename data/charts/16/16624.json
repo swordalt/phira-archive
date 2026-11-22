@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:01Z",
-    "lastChanged": "2026-09-21T02:02:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-02T09:25:59.782425Z",
   "charter": "羽梦明、清竹晚星",
@@ -14,6 +14,7 @@
   "description": "谱师上传\n清澈透明的夏曲 & 一张精心赶制(?)的传统故事板谱！\n6thPceJam特殊赛道SP No.1",
   "difficulty": 13.500002,
   "file": "https://phira.5wyxi.com/files/30655bb8-75e8-4296-b928-dc0b4b388480",
+  "hidden": false,
   "id": 16624,
   "illustration": "https://phira.5wyxi.com/files/419ba06c-6512-4474-b89a-1441fa53ec82",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fiction Blue",
   "preview": "https://phira.5wyxi.com/files/252f85dc-c3c9-4ddd-8082-e2a3d1e97676",
   "ranked": false,
-  "rating": 0.9423874,
-  "ratingCount": 15420,
+  "rating": 0.94138116,
+  "ratingCount": 16035,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

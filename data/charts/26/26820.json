@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:36Z",
-    "lastChanged": "2026-09-21T02:02:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-23T23:27:17.801936Z",
   "charter": "白鲨想睡觉",
@@ -14,6 +14,7 @@
   "description": "b 站发了视频",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/771a824f-43d5-4c61-aff7-e9079a9f28de",
+  "hidden": false,
   "id": 26820,
   "illustration": "https://phira.5wyxi.com/files/e06483ea-246d-4ecf-8729-a53d4dd33e84",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "PANDORA PARADOXXX",
   "preview": "https://phira.5wyxi.com/files/234e8f75-a2f9-45ce-8f3b-24197ded20ad",
   "ranked": false,
-  "rating": 0.7354763,
-  "ratingCount": 184,
+  "rating": 0.7350643,
+  "ratingCount": 190,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

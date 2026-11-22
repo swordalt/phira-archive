@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:31Z",
-    "lastChanged": "2026-09-21T02:03:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-23T13:16:02.022932Z",
   "charter": "ColourpOINT",
@@ -14,6 +14,7 @@
   "description": "懂王杯初赛参赛谱，修改配置后本人上传",
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/50d94571-52f0-48e8-8b81-438f360775b4",
+  "hidden": false,
   "id": 42317,
   "illustration": "https://phira.5wyxi.com/files/28b49f69-7a3d-4954-87e5-d8adf6ec86c8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Song for Sprites",
   "preview": "https://phira.5wyxi.com/files/356c3e01-4240-4a10-a8dc-6cbb311495a1",
   "ranked": false,
-  "rating": 0.9312324,
-  "ratingCount": 211,
+  "rating": 0.93148446,
+  "ratingCount": 212,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

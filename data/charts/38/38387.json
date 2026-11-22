@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:18Z",
-    "lastChanged": "2026-09-21T02:03:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-19T16:37:01.861815Z",
   "charter": "pppgsss",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.800001,
   "file": "https://phira.5wyxi.com/files/c2b7e94a-4082-4074-8162-f79756786c79",
+  "hidden": false,
   "id": 38387,
   "illustration": "https://phira.5wyxi.com/files/830f949a-3155-40ac-a8d3-b27360e215f2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Please",
   "preview": "https://phira.5wyxi.com/files/db05eda9-0662-4240-ad8a-09238b6027dd",
   "ranked": false,
-  "rating": 0.9305976,
-  "ratingCount": 988,
+  "rating": 0.9307567,
+  "ratingCount": 998,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

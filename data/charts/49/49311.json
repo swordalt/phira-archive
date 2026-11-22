@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:03Z",
-    "lastChanged": "2026-09-21T02:04:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-20T09:16:37.214440Z",
   "charter": "VuK_",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/1b5691a0-09d8-4b68-9882-9a86437d00c2",
+  "hidden": false,
   "id": 49311,
   "illustration": "https://phira.5wyxi.com/files/9fdeef99-3b36-4159-82e7-0a2122dd4cfe",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "X-TALI(DJ)",
   "preview": "https://phira.5wyxi.com/files/57203d29-9e30-459a-8f12-488249eba32f",
   "ranked": false,
-  "rating": 0.9099723,
-  "ratingCount": 1059,
+  "rating": 0.9095824,
+  "ratingCount": 1186,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

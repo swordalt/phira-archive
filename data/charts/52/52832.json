@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:22Z",
-    "lastChanged": "2026-09-21T02:04:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-11T07:52:02.035115Z",
   "charter": "Scarf",
@@ -14,6 +14,7 @@
   "description": "b站关注陈维巾Scarf！发手元记得@一下",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/15ad8054-b5d9-4209-8682-6e37a8095ec4",
+  "hidden": false,
   "id": 52832,
   "illustration": "https://phira.5wyxi.com/files/72ef8398-2ec4-4a6b-858d-7d9583888c3d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "蜘蛛の糸",
   "preview": "https://phira.5wyxi.com/files/16255233-9821-4269-bd75-c9ba44d87ae9",
   "ranked": false,
-  "rating": 0.92547524,
-  "ratingCount": 961,
+  "rating": 0.9259032,
+  "ratingCount": 975,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

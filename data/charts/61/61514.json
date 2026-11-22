@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:49Z",
-    "lastChanged": "2026-09-21T02:04:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-19T12:12:36.968780Z",
   "charter": "Xiao饼干c",
@@ -14,6 +14,7 @@
   "description": "歌曲：MONTAGEM ALQUIMIA\n谱师：Xiao饼干c\n难度：SP.15.2\n物量：367\n事件：967\n目前谱子已知问题已修复：0619\n1.修复了39秒处与42秒处左右键位不一致的问题\n2.修复了谱面开头出现线的问题",
   "difficulty": 15.2,
   "file": "https://phira.5wyxi.com/files/3849ffbd-caa6-42c3-942e-c08212bae15d",
+  "hidden": false,
   "id": 61514,
   "illustration": "https://phira.5wyxi.com/files/f63117cf-bf48-4799-9fae-cf1c8160717c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MONTAGEM ALQUIMIA",
   "preview": "https://phira.5wyxi.com/files/9878158f-167b-4b2a-8237-8ac0eb0b1aea",
   "ranked": false,
-  "rating": 0.8888851,
-  "ratingCount": 21643,
+  "rating": 0.8900756,
+  "ratingCount": 22770,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

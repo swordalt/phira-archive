@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:33Z",
-    "lastChanged": "2026-09-21T02:03:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-28T03:57:23.509277Z",
   "charter": "IKanCookie",
@@ -14,6 +14,7 @@
   "description": "这个是半夜闲的写的awa，算是旧作新发了，配置比较吃手法awa，但是理论可收（已经有人收了）",
   "difficulty": 16.5,
   "file": "https://phira.5wyxi.com/files/bd91b721-f749-4a1b-a0b2-7e28a61730d2",
+  "hidden": false,
   "id": 42914,
   "illustration": "https://phira.5wyxi.com/files/2990b5cb-df25-43bd-9947-3e2f306b4000",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "但",
   "preview": "https://phira.5wyxi.com/files/35237181-408f-4f7f-b8f2-232f98aafd2e",
   "ranked": false,
-  "rating": 0.92144424,
-  "ratingCount": 2388,
+  "rating": 0.92239666,
+  "ratingCount": 2567,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

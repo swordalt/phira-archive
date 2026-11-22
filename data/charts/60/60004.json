@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:52Z",
-    "lastChanged": "2026-09-21T02:06:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-05T16:38:11.514017Z",
   "charter": "食欲でちゅん",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/7ffb1be0-36e2-40a9-83b0-43b875899937",
+  "hidden": false,
   "id": 60004,
   "illustration": "https://phira.5wyxi.com/files/e6a71afb-2c93-4ebe-ba13-0aa6da30f6ac",
   "illustrator": "",

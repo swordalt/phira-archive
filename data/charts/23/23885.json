@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:25Z",
-    "lastChanged": "2026-09-21T02:02:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-26T10:26:19.958421Z",
   "charter": "lost experiment[muun]",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.700002,
   "file": "https://phira.5wyxi.com/files/1f37a40b-b0de-4822-bd4c-d7e599fd8659",
+  "hidden": false,
   "id": 23885,
   "illustration": "https://phira.5wyxi.com/files/5c497f46-8c89-4d4f-8c26-4de31a6c7a80",
   "illustrator": "",

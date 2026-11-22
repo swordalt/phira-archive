@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:46Z",
-    "lastChanged": "2026-09-21T02:06:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-26T15:03:32.067219Z",
   "charter": "N10-Smokx1ng",
@@ -14,6 +14,7 @@
   "description": "定位：我也不知道",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/546b35ca-983b-4834-a979-f1c14e750e7f",
+  "hidden": false,
   "id": 53482,
   "illustration": "https://phira.5wyxi.com/files/de399787-2004-47a5-81db-b995f563fb33",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sea of Stars",
   "preview": "https://phira.5wyxi.com/files/3b7934b1-44d8-4212-a0c3-5eb927e86d13",
   "ranked": false,
-  "rating": 0.9072915,
-  "ratingCount": 16,
+  "rating": 0.9115794,
+  "ratingCount": 17,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

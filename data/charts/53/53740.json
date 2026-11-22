@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:48Z",
-    "lastChanged": "2026-09-21T02:06:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-02T12:54:01.721774Z",
   "charter": "AsxzrE",
@@ -14,6 +14,7 @@
   "description": "本人上传。。。。",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/d37e6ca3-27a3-41d4-aefe-529162e22e1f",
+  "hidden": false,
   "id": 53740,
   "illustration": "https://phira.5wyxi.com/files/2db70e01-5f9f-4c0c-b82a-c66ae1003b9d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Schwarzschild",
   "preview": "https://phira.5wyxi.com/files/94bd32d7-df54-4fbb-a699-e37566d37cfa",
   "ranked": false,
-  "rating": 0.7013203,
-  "ratingCount": 11,
+  "rating": 0.69248664,
+  "ratingCount": 12,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

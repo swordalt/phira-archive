@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:12Z",
-    "lastChanged": "2026-09-21T02:05:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-25T16:19:24.749500Z",
   "charter": "1u0",
@@ -14,6 +14,7 @@
   "description": "第二张常规谱\ndy：XiaodaiMaster\n本人上传",
   "difficulty": 13.8,
   "file": "https://phira.5wyxi.com/files/6070c9f5-f5c7-4c3e-90f2-858cb2aad17b",
+  "hidden": false,
   "id": 75708,
   "illustration": "https://phira.5wyxi.com/files/7bcfb562-e531-4762-8d0e-22b83f36aeed",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Frisbee",
   "preview": "https://phira.5wyxi.com/files/dd0add7f-6903-4445-9f0c-8e077862f8ed",
   "ranked": false,
-  "rating": 0.9232951,
-  "ratingCount": 110,
+  "rating": 0.92627937,
+  "ratingCount": 222,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

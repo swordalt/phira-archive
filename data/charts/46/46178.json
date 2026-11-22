@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:33Z",
-    "lastChanged": "2026-09-21T02:06:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-30T17:16:24.509333Z",
   "charter": "Eycisxx",
@@ -14,6 +14,7 @@
   "description": "或许纯配置不应该这么单调?\n默认延迟+40",
   "difficulty": 19.0,
   "file": "https://phira.5wyxi.com/files/4e09793a-f648-421b-9e46-4b8606307c6b",
+  "hidden": false,
   "id": 46178,
   "illustration": "https://phira.5wyxi.com/files/3b9c6afe-e0e9-4bac-a183-3952e8a2034e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GGF",
   "preview": "https://phira.5wyxi.com/files/d60b868a-dffc-417d-9c48-4185bf64f1cd",
   "ranked": false,
-  "rating": 0.95188326,
-  "ratingCount": 390,
+  "rating": 0.95050025,
+  "ratingCount": 400,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

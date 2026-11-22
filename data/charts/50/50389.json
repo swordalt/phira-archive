@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:08Z",
-    "lastChanged": "2026-09-21T02:04:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-20T14:50:12.806200Z",
   "charter": "Suik",
@@ -14,6 +14,7 @@
   "description": "本人上传\n陈年老谱了，想你了百花放的风刃",
   "difficulty": 12.500001,
   "file": "https://phira.5wyxi.com/files/50f02550-ac3c-4086-a4ed-bff52c62be75",
+  "hidden": false,
   "id": 50389,
   "illustration": "https://phira.5wyxi.com/files/683ea87a-602f-484b-8fc3-f01911320502",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "STARRY DAYS",
   "preview": "https://phira.5wyxi.com/files/9b1c0c03-9eb7-47e4-a058-84d2bf62dcc4",
   "ranked": false,
-  "rating": 0.92350966,
-  "ratingCount": 240,
+  "rating": 0.92509377,
+  "ratingCount": 254,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

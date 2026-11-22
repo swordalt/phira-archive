@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:11Z",
-    "lastChanged": "2026-09-21T02:04:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-02T14:01:50.618995Z",
   "charter": "三次元腐爛標本",
@@ -14,6 +14,7 @@
   "description": "哔哩哔哩@和绪雪音",
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/3cc68b3b-620f-4ab5-a3ef-eb62080c9d8b",
+  "hidden": false,
   "id": 50896,
   "illustration": "https://phira.5wyxi.com/files/826d751d-fa8a-4afb-ab3e-32a2f1b422f3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ネビュラの方程式",
   "preview": "https://phira.5wyxi.com/files/477c640a-f3f6-4e23-bcbf-9ff460ae6257",
   "ranked": false,
-  "rating": 0.9514832,
-  "ratingCount": 429,
+  "rating": 0.95192724,
+  "ratingCount": 460,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

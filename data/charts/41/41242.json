@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:27Z",
-    "lastChanged": "2026-09-21T02:03:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-09T08:07:21.082063Z",
   "charter": "“Yurisaku”",
@@ -14,6 +14,7 @@
   "description": "本人上传 初寻杯比赛供谱 b站：Yurisky_ @MooniteSakust#8883",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/a8cdccde-51d4-46b1-ae15-561559220a23",
+  "hidden": false,
   "id": 41242,
   "illustration": "https://phira.5wyxi.com/files/3c248716-1f16-4918-8a09-447d46c37003",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Apollo",
   "preview": "https://phira.5wyxi.com/files/1c757636-83b2-41ae-8a17-cacb438e5893",
   "ranked": false,
-  "rating": 0.92429,
-  "ratingCount": 771,
+  "rating": 0.9231686,
+  "ratingCount": 806,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

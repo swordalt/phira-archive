@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:17Z",
-    "lastChanged": "2026-09-21T02:06:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-05T10:22:03.611366Z",
   "charter": "10xing",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/e808e33b-a502-4ee3-8a97-3b1a7a5c84ca",
+  "hidden": false,
   "id": 39230,
   "illustration": "https://phira.5wyxi.com/files/1318d2b2-9d04-45de-a8c5-311b3fbe3f64",
   "illustrator": "",

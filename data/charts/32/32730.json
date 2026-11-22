@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:59Z",
-    "lastChanged": "2026-09-21T02:02:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-28T16:09:11.146115Z",
   "charter": "LQin凛秋",
@@ -14,6 +14,7 @@
   "description": "谱面预览在B站：https://b23.tv/fsmyJCp\nB站搜索：linQ凛秋",
   "difficulty": 14.800003,
   "file": "https://phira.5wyxi.com/files/16358b44-5e98-4a97-a809-c2c97b531c14",
+  "hidden": false,
   "id": 32730,
   "illustration": "https://phira.5wyxi.com/files/475faf04-5e9c-47f9-bf32-46296cceed61",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "僕らの記憶を掠わないで",
   "preview": "https://phira.5wyxi.com/files/c8ab9b95-ce0e-4808-947c-30c2e23c65d1",
   "ranked": false,
-  "rating": 0.93145174,
-  "ratingCount": 315,
+  "rating": 0.93137926,
+  "ratingCount": 326,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:07Z",
-    "lastChanged": "2026-09-21T02:02:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-08T06:11:23.036781Z",
   "charter": "Pois0n",
@@ -14,6 +14,7 @@
   "description": "(en-us) made in 2 days with too many motivation",
   "difficulty": 13.500002,
   "file": "https://phira.5wyxi.com/files/de4819d3-a74b-4aa2-9be7-80bb5b694622",
+  "hidden": false,
   "id": 18203,
   "illustration": "https://phira.5wyxi.com/files/362b26b7-2486-405c-aed1-a76b0a38e5b7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Replay",
   "preview": "https://phira.5wyxi.com/files/a3bc7195-5755-4ed6-a4d1-c46bbf81b2ea",
   "ranked": true,
-  "rating": 0.9394202,
-  "ratingCount": 4704,
+  "rating": 0.9394658,
+  "ratingCount": 4776,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

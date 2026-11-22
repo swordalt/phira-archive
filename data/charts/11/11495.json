@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:20Z",
-    "lastChanged": "2026-09-21T02:05:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-15T05:33:26.839939Z",
   "charter": "写谱的10986",
@@ -14,6 +14,7 @@
   "description": "此谱用于春节时整活，没什么特点，本来想在春节传的",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/bf660d54-8f64-44e4-bfc8-13a4f70cc624",
+  "hidden": false,
   "id": 11495,
   "illustration": "https://phira.5wyxi.com/files/7363174c-fa3d-4d21-8282-bb2248f2e11c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "新春快乐",
   "preview": "https://phira.5wyxi.com/files/a40f7924-c33b-48f8-a478-d0891f99e2af",
   "ranked": false,
-  "rating": 0.9055955,
-  "ratingCount": 991,
+  "rating": 0.90588236,
+  "ratingCount": 994,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

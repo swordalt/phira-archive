@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:05Z",
-    "lastChanged": "2026-09-21T02:06:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-08T14:56:22.586784Z",
   "charter": "boliye",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.8,
   "file": "https://phira.5wyxi.com/files/837a8301-d110-45db-a738-66fdc57df25d",
+  "hidden": false,
   "id": 30584,
   "illustration": "https://phira.5wyxi.com/files/0243833d-cd7f-4fde-b9b4-5565a645a600",
   "illustrator": "",

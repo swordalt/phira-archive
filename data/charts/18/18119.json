@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:07Z",
-    "lastChanged": "2026-09-21T02:02:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-06T02:04:59.210275Z",
   "charter": "antimony",
@@ -14,6 +14,7 @@
   "description": "BV1am411z7fp",
   "difficulty": 17.1,
   "file": "https://phira.5wyxi.com/files/0a2c32f7-3bc6-45ff-8ed8-0af6b8c1f87c",
+  "hidden": false,
   "id": 18119,
   "illustration": "https://phira.5wyxi.com/files/feca19fa-43d3-4043-873f-72a961242802",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Seculo Seculorum",
   "preview": "https://phira.5wyxi.com/files/52f594aa-ba2f-45c0-94c4-ee966e192a70",
   "ranked": false,
-  "rating": 0.92688334,
-  "ratingCount": 644,
+  "rating": 0.92725986,
+  "ratingCount": 649,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

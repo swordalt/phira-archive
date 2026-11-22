@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:18Z",
-    "lastChanged": "2026-09-21T02:01:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-06T03:07:47.921983Z",
   "charter": "キサラ",
@@ -14,6 +14,7 @@
   "description": "b站关注キサラ_ 谢谢喵",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/3830f239-185e-4039-9d9b-a6f6512360e0",
+  "hidden": false,
   "id": 4713,
   "illustration": "https://phira.5wyxi.com/files/44898ca3-7215-4b35-88c1-2b4b99e0c407",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Trick",
   "preview": "https://phira.5wyxi.com/files/4a02692f-5f70-4e5d-a1ac-0c865b342d62",
   "ranked": false,
-  "rating": 0.9252279,
-  "ratingCount": 3594,
+  "rating": 0.9253843,
+  "ratingCount": 3600,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

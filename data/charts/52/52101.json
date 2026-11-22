@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:18Z",
-    "lastChanged": "2026-09-21T02:04:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-05T05:41:13.671617Z",
   "charter": "CMZ_qwq",
@@ -14,6 +14,7 @@
   "description": "B站@CMZ_qwq",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/e32674ed-42ae-4e77-a6bc-f53cb380c86f",
+  "hidden": false,
   "id": 52101,
   "illustration": "https://phira.5wyxi.com/files/bee07e32-5e1f-44de-bf03-19914ad57350",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "限りなく灰色へ",
   "preview": "https://phira.5wyxi.com/files/a81b4534-b912-4e57-9c64-bbb50697ca1f",
   "ranked": false,
-  "rating": 0.8969656,
-  "ratingCount": 457,
+  "rating": 0.89916694,
+  "ratingCount": 483,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

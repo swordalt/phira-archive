@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:50Z",
-    "lastChanged": "2026-09-21T02:03:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-06T08:01:45.255439Z",
   "charter": "Team_tpxk aka. Asakaze",
@@ -14,6 +14,7 @@
   "description": "b站ajinyi踏平星空上传\n沉淀一年，希望大家喜欢",
   "difficulty": 17.300001,
   "file": "https://phira.5wyxi.com/files/4d7c5a63-ff76-40d9-a7e8-c92cb8ab4863",
+  "hidden": false,
   "id": 46434,
   "illustration": "https://phira.5wyxi.com/files/4859d85a-f676-4e74-8a61-2412e86f42b0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Oceanus",
   "preview": "https://phira.5wyxi.com/files/a81ae347-7cb0-436e-9f9f-f5bd34a789fb",
   "ranked": false,
-  "rating": 0.92214453,
-  "ratingCount": 168,
+  "rating": 0.921446,
+  "ratingCount": 176,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

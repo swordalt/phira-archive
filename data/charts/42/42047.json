@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:24Z",
-    "lastChanged": "2026-09-21T02:06:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-18T11:55:56.958210Z",
   "charter": "aowangID",
@@ -14,6 +14,7 @@
   "description": "好久没有写新谱了 写一个玩玩",
   "difficulty": 26.0,
   "file": "https://phira.5wyxi.com/files/d55cfcc1-1721-432b-a2e0-04ab6b88b13a",
+  "hidden": false,
   "id": 42047,
   "illustration": "https://phira.5wyxi.com/files/305ef12e-0481-4c5a-be6e-e05ddbfbebde",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Silent Echochamber (feat. blaxervant & Kobaryo)",
   "preview": "https://phira.5wyxi.com/files/fef97b72-a69c-4c0e-94d4-bb63063afb22",
   "ranked": false,
-  "rating": 0.9561917,
-  "ratingCount": 194,
+  "rating": 0.9571654,
+  "ratingCount": 202,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

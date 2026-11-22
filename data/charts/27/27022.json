@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:00Z",
-    "lastChanged": "2026-09-21T02:06:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-28T11:25:56.130531Z",
   "charter": "Istina",
@@ -14,6 +14,7 @@
   "description": "无轨键盘",
   "difficulty": 16.9,
   "file": "https://phira.5wyxi.com/files/018927df-f10c-464b-8b4c-95b1175f7c03",
+  "hidden": false,
   "id": 27022,
   "illustration": "https://phira.5wyxi.com/files/dc023e69-09da-4270-bddd-22511c8afde1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Chronostasis",
   "preview": "https://phira.5wyxi.com/files/f8ea5991-f9a0-4db6-90e3-45162db38691",
   "ranked": false,
-  "rating": 0.8096022,
-  "ratingCount": 156,
+  "rating": 0.8066508,
+  "ratingCount": 166,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

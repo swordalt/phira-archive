@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:18Z",
-    "lastChanged": "2026-09-21T02:04:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-07T09:15:12.184096Z",
   "charter": "3Nex vs Qc天水",
@@ -14,6 +14,7 @@
   "description": "第三届全连杯比赛谱之一。\n谱师本人上传。",
   "difficulty": 17.600002,
   "file": "https://phira.5wyxi.com/files/17f54af6-e100-4755-a463-57970c46718f",
+  "hidden": false,
   "id": 52228,
   "illustration": "https://phira.5wyxi.com/files/5d9c4167-ed20-4170-a84d-f5490cec82eb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Exitium",
   "preview": "https://phira.5wyxi.com/files/c3183cf8-a39a-4165-9a95-fbd33774081e",
   "ranked": false,
-  "rating": 0.88099414,
-  "ratingCount": 60,
+  "rating": 0.8900763,
+  "ratingCount": 67,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

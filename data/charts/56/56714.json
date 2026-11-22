@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:38Z",
-    "lastChanged": "2026-09-21T02:04:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-27T13:55:12.284602Z",
   "charter": "NotTure1",
@@ -14,6 +14,7 @@
   "description": "譜師本人上傳。\nBV1NxQJBZEFw\n\n2026_06_27 一改。",
   "difficulty": 13.800003,
   "file": "https://phira.5wyxi.com/files/413848ed-082e-4470-a50d-e821de12cd24",
+  "hidden": false,
   "id": 56714,
   "illustration": "https://phira.5wyxi.com/files/7abda5a3-0b4f-4460-b850-f3b0f3cace67",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ブレインロット feat. 重音テト",
   "preview": "https://phira.5wyxi.com/files/a10a014a-c820-4134-b210-9d669b6d27d4",
   "ranked": false,
-  "rating": 0.9341091,
-  "ratingCount": 14704,
+  "rating": 0.93344146,
+  "ratingCount": 15214,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

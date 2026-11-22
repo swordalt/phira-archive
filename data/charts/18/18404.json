@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:09Z",
-    "lastChanged": "2026-09-21T02:02:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-13T12:25:11.628704Z",
   "charter": "-45X",
@@ -14,6 +14,7 @@
   "description": "尝试加了点特别的配置",
   "difficulty": 15.5,
   "file": "https://phira.5wyxi.com/files/0b064f22-6cce-42bd-8099-1b64a8f95edb",
+  "hidden": false,
   "id": 18404,
   "illustration": "https://phira.5wyxi.com/files/00dc8171-fee7-46e3-bd9f-579793daa351",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "VECTOЯ",
   "preview": "https://phira.5wyxi.com/files/bb35c9f7-72e4-4f8e-8a97-9de7904adbab",
   "ranked": false,
-  "rating": 0.91276234,
-  "ratingCount": 190,
+  "rating": 0.9130608,
+  "ratingCount": 192,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

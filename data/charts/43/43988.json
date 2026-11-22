@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:37Z",
-    "lastChanged": "2026-09-21T02:03:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-08T02:05:34.430943Z",
   "charter": "KaNoteN v.s. 陨%_  v.s. QR",
@@ -14,6 +14,7 @@
   "description": "感谢盒子和qr的动效，沉淀了一年半的产物，希望大家能够喜欢",
   "difficulty": 18.500002,
   "file": "https://phira.5wyxi.com/files/11af0363-a149-49d8-aeed-1b4aa666848a",
+  "hidden": false,
   "id": 43988,
   "illustration": "https://phira.5wyxi.com/files/c17699a1-c8c3-4e59-91e3-2ada0f7eefff",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Waking Shadows (feat. Eili)",
   "preview": "https://phira.5wyxi.com/files/10d4fc37-88f2-4c08-abfd-7ec9be4849e9",
   "ranked": true,
-  "rating": 0.91064656,
-  "ratingCount": 2048,
+  "rating": 0.9118039,
+  "ratingCount": 2148,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

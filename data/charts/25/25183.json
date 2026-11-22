@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:29Z",
-    "lastChanged": "2026-09-21T02:02:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-01T13:26:04.108987Z",
   "charter": "我菠萝菠萝哒了",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n萌新初谱，轻喷QWQ",
   "difficulty": 15.9,
   "file": "https://phira.5wyxi.com/files/eb42aa45-9b10-4b6c-92f2-99c591931375",
+  "hidden": false,
   "id": 25183,
   "illustration": "https://phira.5wyxi.com/files/7438a80f-edd2-42ca-9bf7-200bd4581806",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "with U",
   "preview": "https://phira.5wyxi.com/files/960307f5-5a1e-4764-aaa7-86dc19a067ef",
   "ranked": false,
-  "rating": 0.9156765,
-  "ratingCount": 743,
+  "rating": 0.91575414,
+  "ratingCount": 746,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

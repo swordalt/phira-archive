@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:57Z",
-    "lastChanged": "2026-09-21T02:05:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-02T11:51:56.344747Z",
   "charter": "Iblcya",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n这个谱子是给新人写好玩双指的参考",
   "difficulty": 10.3,
   "file": "https://phira.5wyxi.com/files/92e6f208-af16-42dd-a86b-91bef85120c6",
+  "hidden": false,
   "id": 25047,
   "illustration": "https://phira.5wyxi.com/files/d097fd95-adb8-41f6-b2e3-c5c10df72f2a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "CO5M1C R4ILR0AD",
   "preview": "https://phira.5wyxi.com/files/910cb6fa-62e4-4495-9b4d-624c0a2aa8ce",
   "ranked": false,
-  "rating": 0.8189834,
-  "ratingCount": 48,
+  "rating": 0.82339996,
+  "ratingCount": 51,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

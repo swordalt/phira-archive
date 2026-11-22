@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:33Z",
-    "lastChanged": "2026-09-21T02:01:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-20T12:10:19.656223Z",
   "charter": "Best Hinata Ever",
@@ -14,6 +14,7 @@
   "description": "谱面由日向666本人上传",
   "difficulty": 14.900004,
   "file": "https://phira.5wyxi.com/files/0cd7d674-61d8-452b-956b-43fb8936e2d9",
+  "hidden": false,
   "id": 9523,
   "illustration": "https://phira.5wyxi.com/files/6d1e5336-106b-4ca9-a3f0-8d4f7ff99268",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Best Song Ever",
   "preview": "https://phira.5wyxi.com/files/7aa2f54a-7449-45a3-b3c0-8622e55fbed9",
   "ranked": false,
-  "rating": 0.904926,
-  "ratingCount": 238,
+  "rating": 0.9053035,
+  "ratingCount": 240,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

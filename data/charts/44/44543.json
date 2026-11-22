@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:29Z",
-    "lastChanged": "2026-09-21T02:06:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-13T06:07:06.225130Z",
   "charter": "jhfwiwhfi",
@@ -14,6 +14,7 @@
   "description": "第一次写叠（4～5dan），有点紧张（谱面为本人上传）",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/03f2f6a6-d5a1-43a0-9bc4-93fcea32683e",
+  "hidden": false,
   "id": 44543,
   "illustration": "https://phira.5wyxi.com/files/0da562b0-c2bf-4ee0-a749-4afd5f7a27f1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "夜に駆ける",
   "preview": "https://phira.5wyxi.com/files/a1494102-0e9d-4e0d-9cd7-2d6b6befb8d3",
   "ranked": false,
-  "rating": 0.92526114,
-  "ratingCount": 121,
+  "rating": 0.9299217,
+  "ratingCount": 132,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

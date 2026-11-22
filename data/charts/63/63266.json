@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:53Z",
-    "lastChanged": "2026-09-21T02:04:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-30T09:11:47.920221Z",
   "charter": "Sonwzhs",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 9.2,
   "file": "https://phira.5wyxi.com/files/534b094c-77bb-46c3-8895-7a331d95c834",
+  "hidden": false,
   "id": 63266,
   "illustration": "https://phira.5wyxi.com/files/1b2c440a-2e61-45a6-8b98-5b4c934bc521",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Unity",
   "preview": "https://phira.5wyxi.com/files/7bd61f1a-08e7-4a9d-9049-65ee7c5e1520",
   "ranked": false,
-  "rating": 0.92956454,
-  "ratingCount": 966,
+  "rating": 0.93196493,
+  "ratingCount": 1105,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

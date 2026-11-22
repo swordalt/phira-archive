@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:29Z",
-    "lastChanged": "2026-09-21T02:02:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-04T15:50:34.259434Z",
   "charter": "BlackHoleOverGod",
@@ -14,6 +14,7 @@
   "description": "上张谱IN的改谱",
   "difficulty": 13.9,
   "file": "https://phira.5wyxi.com/files/18613072-ff42-441f-a3e3-16a653925ca7",
+  "hidden": false,
   "id": 25062,
   "illustration": "https://phira.5wyxi.com/files/93f88494-8152-4266-80b4-7a7ad933b784",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "TIME HEALS EVERYTHING",
   "preview": "https://phira.5wyxi.com/files/bb9502af-7f2c-43fb-8ab5-b6da1db116fc",
   "ranked": false,
-  "rating": 0.9308447,
-  "ratingCount": 1077,
+  "rating": 0.9309031,
+  "ratingCount": 1102,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:51Z",
-    "lastChanged": "2026-09-21T02:05:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-02T03:43:35.100052Z",
   "charter": "KINRDHALP",
@@ -14,6 +14,7 @@
   "description": "非常规谱面   一次对变速的尝试，有部分背谱需求",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/592078b0-02af-422a-91f0-8f9e217ec29f",
+  "hidden": false,
   "id": 22440,
   "illustration": "https://phira.5wyxi.com/files/62c2f892-eaf5-4199-87a7-446f03962cc0",
   "illustrator": "",

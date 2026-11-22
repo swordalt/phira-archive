@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:13Z",
-    "lastChanged": "2026-09-21T02:01:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-27T06:04:09.228469Z",
   "charter": "YxY",
@@ -14,6 +14,7 @@
   "description": "b站uid 384794473 感谢游玩支持",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/2710dadf-8b1a-408e-968a-fda2c8b6719b",
+  "hidden": false,
   "id": 2618,
   "illustration": "https://phira.5wyxi.com/files/af530fde-0435-408a-a692-2019c4ffc979",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ethereal",
   "preview": "https://phira.5wyxi.com/files/e0ead80f-c127-4267-8889-e0dce6fec3e9",
   "ranked": false,
-  "rating": 0.91129595,
-  "ratingCount": 614,
+  "rating": 0.91080487,
+  "ratingCount": 618,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:41Z",
-    "lastChanged": "2026-09-21T02:05:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-26T10:28:03.491385Z",
   "charter": "Dargoon.",
@@ -14,6 +14,7 @@
   "description": "Malody2Phigros\n证明一下我还是会写谱的",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/1338c4d5-a2d1-4b3b-b3a3-cdf0f0fec1d2",
+  "hidden": false,
   "id": 14193,
   "illustration": "https://phira.5wyxi.com/files/41e81e7b-aa24-4106-8ad6-76ba63618404",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Antler",
   "preview": "https://phira.5wyxi.com/files/df89b781-2f26-4e34-8ff1-0fa621709605",
   "ranked": false,
-  "rating": 0.888348,
-  "ratingCount": 133,
+  "rating": 0.89077693,
+  "ratingCount": 135,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

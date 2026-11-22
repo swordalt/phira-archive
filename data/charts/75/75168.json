@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:11Z",
-    "lastChanged": "2026-09-21T02:05:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-23T05:29:24.688734Z",
   "charter": "時のかけら、昔日より。",
@@ -14,6 +14,7 @@
   "description": "该谱面为 WSRT x 云梦杯 比赛供谱\n首次登场于【沉坠•破晓】总决赛胜者组\n\n————————————————\n曲名：墜光の都市より\n曲师：DJ Raisei\n谱师：時のかけら、昔日より。（@MooniteSakust#8883 @Cybifer#148983 ）\n难度：AT Lv.17\n物量：1529",
   "difficulty": 17.2,
   "file": "https://phira.5wyxi.com/files/6ba605e9-d0bb-45b4-a2cc-f438fa4b83a1",
+  "hidden": false,
   "id": 75168,
   "illustration": "https://phira.5wyxi.com/files/e5d93819-763f-4582-916c-2fd7d4c80e58",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "墜光の都市より",
   "preview": "https://phira.5wyxi.com/files/9105c292-994f-4e69-845f-07b0ab6067ea",
   "ranked": false,
-  "rating": 0.94252247,
-  "ratingCount": 426,
+  "rating": 0.9455984,
+  "ratingCount": 489,
   "reviewed": true,
   "stable": false,
   "stableRequest": true,

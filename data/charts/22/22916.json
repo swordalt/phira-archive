@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:52Z",
-    "lastChanged": "2026-09-21T02:05:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-07T19:13:08.474659Z",
   "charter": "耀柯末哦",
@@ -14,6 +14,7 @@
   "description": "上次发的谱里面的划长条都改为黄键了",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/6cb7c98f-f045-4756-a12d-a28c05471fad",
+  "hidden": false,
   "id": 22916,
   "illustration": "https://phira.5wyxi.com/files/b011c6e8-6e99-47f6-b44b-17c3abd31ad8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "NIGHTMARE  CITY",
   "preview": "https://phira.5wyxi.com/files/1fa573d6-98ea-4999-a3d1-12d0287d9064",
   "ranked": false,
-  "rating": 0.8131171,
-  "ratingCount": 21,
+  "rating": 0.8202577,
+  "ratingCount": 22,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

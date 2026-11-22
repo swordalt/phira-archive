@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:50Z",
-    "lastChanged": "2026-09-21T02:02:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-07T15:49:49.786358Z",
   "charter": "Haruharu",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/be84633e-8d4f-4ca5-9b34-aa80ad392c4b",
+  "hidden": false,
   "id": 30521,
   "illustration": "https://phira.5wyxi.com/files/82bb68a2-725f-40b5-a02b-63d3488f4c94",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "十拳剣",
   "preview": "https://phira.5wyxi.com/files/88491790-bc6c-4d43-bf58-3d2fc2caf761",
   "ranked": false,
-  "rating": 0.9517294,
-  "ratingCount": 3166,
+  "rating": 0.9518373,
+  "ratingCount": 3244,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

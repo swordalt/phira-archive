@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:31Z",
-    "lastChanged": "2026-09-21T02:02:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-04T04:20:17.123357Z",
   "charter": "myStical,mySide",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.700018,
   "file": "https://phira.5wyxi.com/files/30ca2aff-a2ef-4b14-b3b9-693ab7597abb",
+  "hidden": false,
   "id": 25219,
   "illustration": "https://phira.5wyxi.com/files/026a677e-10cc-4dc4-a0c0-538d238a9b21",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mystic Light Quest",
   "preview": "https://phira.5wyxi.com/files/e5f8b7eb-dda7-41a3-95a0-2987d35f5737",
   "ranked": false,
-  "rating": 0.9146157,
-  "ratingCount": 456,
+  "rating": 0.9133126,
+  "ratingCount": 467,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

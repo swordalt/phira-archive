@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:21Z",
-    "lastChanged": "2026-09-21T02:03:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-04T01:47:47.764570Z",
   "charter": "celestial& Icier = SeRazon;",
@@ -14,6 +14,7 @@
   "description": "是星鸿的个人曲，在星鸿的合作支持下一起写了\n祝我和星鸿高考加油捏",
   "difficulty": 14.800003,
   "file": "https://phira.5wyxi.com/files/15156a99-032c-4b57-b184-ff212aba779d",
+  "hidden": false,
   "id": 39197,
   "illustration": "https://phira.5wyxi.com/files/6532613b-a31c-4fed-bd76-c0fcd15681e5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Celestrial Quest",
   "preview": "https://phira.5wyxi.com/files/9f3a1550-06ee-44ba-8999-e34995c2cf54",
   "ranked": false,
-  "rating": 0.9617895,
-  "ratingCount": 1173,
+  "rating": 0.9622307,
+  "ratingCount": 1202,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

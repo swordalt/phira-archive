@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:58Z",
-    "lastChanged": "2026-09-21T02:02:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-26T11:19:28.915108Z",
   "charter": "H-Bix As Crazy",
@@ -14,6 +14,7 @@
   "description": "谱师H-Bix亲自上传，第一次制谱",
   "difficulty": 16.400005,
   "file": "https://phira.5wyxi.com/files/d34224a8-4af0-4648-947c-8485d7a10e48",
+  "hidden": false,
   "id": 32525,
   "illustration": "https://phira.5wyxi.com/files/19b44fd3-a552-461d-8482-f870267babd2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "《Ж》",
   "preview": "https://phira.5wyxi.com/files/9592c9fd-1c2b-4deb-a9ac-3d4debb7f48e",
   "ranked": false,
-  "rating": 0.7464998,
-  "ratingCount": 160,
+  "rating": 0.7490196,
+  "ratingCount": 162,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

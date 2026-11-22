@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:57Z",
-    "lastChanged": "2026-09-21T02:04:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-11T08:39:19.893833Z",
   "charter": "阿诺",
@@ -14,6 +14,7 @@
   "description": "这个谱师太呆了不知道怎么更新谱面所以重新发了，这是二改，但还是很k咕",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/53d8db14-d01a-49f1-8758-9390d85add76",
+  "hidden": false,
   "id": 65640,
   "illustration": "https://phira.5wyxi.com/files/a9d2ebdf-6028-4844-93e4-51653d73114d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Inverted World",
   "preview": "https://phira.5wyxi.com/files/91e2fae3-268a-490b-950e-fe586c026c08",
   "ranked": false,
-  "rating": 0.9176324,
-  "ratingCount": 120,
+  "rating": 0.9177399,
+  "ratingCount": 175,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

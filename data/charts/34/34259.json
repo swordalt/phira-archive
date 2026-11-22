@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:05Z",
-    "lastChanged": "2026-09-21T02:03:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-21T06:10:58.075004Z",
   "charter": "KoukoNa_Hooour",
@@ -14,6 +14,7 @@
   "description": "B站：KouKona_时",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/381fc55f-5754-498f-9d29-7a9d3375a51c",
+  "hidden": false,
   "id": 34259,
   "illustration": "https://phira.5wyxi.com/files/35fcf59c-3814-4f58-8577-f601658f9c69",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "キャンディークッキーチョコレート",
   "preview": "https://phira.5wyxi.com/files/82631956-dcdc-4886-abaf-64e700abcdf1",
   "ranked": false,
-  "rating": 0.9304566,
-  "ratingCount": 2742,
+  "rating": 0.9305814,
+  "ratingCount": 2828,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

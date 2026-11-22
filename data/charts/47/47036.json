@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:52Z",
-    "lastChanged": "2026-09-21T02:03:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-21T06:01:53.728610Z",
   "charter": "Necrologist & D.G",
@@ -14,6 +14,7 @@
   "description": "b站链接：BV1xgWwzoEa2",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/2db0063d-d4ab-4c26-9ee4-9f855b99c8bd",
+  "hidden": false,
   "id": 47036,
   "illustration": "https://phira.5wyxi.com/files/6dea4cf3-6b77-48ea-96c1-60ed7a13e69a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Theatore Creatore",
   "preview": "https://phira.5wyxi.com/files/31bc2923-f682-4498-bdb1-7de5aaec5437",
   "ranked": false,
-  "rating": 0.89278036,
-  "ratingCount": 363,
+  "rating": 0.89483994,
+  "ratingCount": 375,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

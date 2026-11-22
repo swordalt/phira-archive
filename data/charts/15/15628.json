@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:42Z",
-    "lastChanged": "2026-09-21T02:05:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-14T06:43:36.346075Z",
   "charter": "Kinrdhalp",
@@ -14,6 +14,7 @@
   "description": "本人上传，此为malody转谱",
   "difficulty": 17.6,
   "file": "https://phira.5wyxi.com/files/0ebfff17-db5d-4d0e-8038-79e7436d8305",
+  "hidden": false,
   "id": 15628,
   "illustration": "https://phira.5wyxi.com/files/64996348-a84d-4271-8647-00088fd89b9f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "牢玩家的小曲",
   "preview": "https://phira.5wyxi.com/files/cfc08a82-290d-4f94-9792-22ea2365d200",
   "ranked": false,
-  "rating": 0.8206575,
-  "ratingCount": 262,
+  "rating": 0.8213429,
+  "ratingCount": 263,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:19Z",
-    "lastChanged": "2026-09-21T02:06:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-26T11:56:57.273451Z",
   "charter": "小文rrr",
@@ -14,6 +14,7 @@
   "description": "大家好！我是小文rrr，本谱面由谱师本人上传",
   "difficulty": 25.0,
   "file": "https://phira.5wyxi.com/files/78bb392e-8e68-4235-8640-d5c94437881d",
+  "hidden": false,
   "id": 40285,
   "illustration": "https://phira.5wyxi.com/files/b2842ffc-14b4-4e79-8404-0f32e1030bc5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dreaming Trip",
   "preview": "https://phira.5wyxi.com/files/5bfa1f44-ee70-4abe-83b8-b35396c0194f",
   "ranked": false,
-  "rating": 0.9381435,
-  "ratingCount": 278,
+  "rating": 0.9388839,
+  "ratingCount": 283,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:27Z",
-    "lastChanged": "2026-09-21T02:06:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-03T23:41:04.642600Z",
   "charter": "k9_zh",
@@ -14,6 +14,7 @@
   "description": "铺面由铺师本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/a70f87e4-796d-4ca8-b4f9-d29b33b61bd1",
+  "hidden": false,
   "id": 43623,
   "illustration": "https://phira.5wyxi.com/files/d550adfc-cc2c-4101-bd77-99e995441f41",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Kira Kira Noel Story！ 1.05x",
   "preview": "https://phira.5wyxi.com/files/f7a3d0e4-4a8b-46a6-9264-22a56417cb4b",
   "ranked": false,
-  "rating": 0.8207767,
-  "ratingCount": 11,
+  "rating": 0.8202161,
+  "ratingCount": 12,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

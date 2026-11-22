@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:08Z",
-    "lastChanged": "2026-09-21T02:07:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-09T15:29:00.998126Z",
   "charter": "QQ1816",
@@ -14,6 +14,7 @@
   "description": "b站：BV19sigBkEaR；本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/bbdbb6bc-12b9-488a-8de2-475e14cc4d81",
+  "hidden": false,
   "id": 51121,
   "illustration": "https://phira.5wyxi.com/files/10a8c751-3634-4ca6-878f-1b26242c5248",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "靈",
   "preview": "https://phira.5wyxi.com/files/16cf45b9-1f03-47fd-9661-16c11b344c44",
   "ranked": false,
-  "rating": 0.82924867,
-  "ratingCount": 132,
+  "rating": 0.8307514,
+  "ratingCount": 146,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

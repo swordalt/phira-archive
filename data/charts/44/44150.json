@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:38Z",
-    "lastChanged": "2026-09-21T02:03:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-09T09:13:03.223698Z",
   "charter": "一枚普通egg",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/d995ac48-d23c-49af-8218-0af8008bb605",
+  "hidden": false,
   "id": 44150,
   "illustration": "https://phira.5wyxi.com/files/fa604920-b0d1-4a4d-a600-b5690d6b7605",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "那年盛夏",
   "preview": "https://phira.5wyxi.com/files/3cf53dae-8e03-4d8f-818b-a4c87359fd1c",
   "ranked": false,
-  "rating": 0.8821662,
-  "ratingCount": 553,
+  "rating": 0.8851525,
+  "ratingCount": 590,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

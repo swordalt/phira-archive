@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:08Z",
-    "lastChanged": "2026-09-21T02:03:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-19T05:28:18.526133Z",
   "charter": "Rainmaker",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/ab855a19-364c-4a55-86ef-8846e6fd3c3c",
+  "hidden": false,
   "id": 35426,
   "illustration": "https://phira.5wyxi.com/files/19a2df8b-2a2e-4316-920b-499eacc28a4d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Forever",
   "preview": "https://phira.5wyxi.com/files/02c4267b-28cf-4f85-af86-60bcbeed8152",
   "ranked": false,
-  "rating": 0.75826436,
-  "ratingCount": 24,
+  "rating": 0.75119513,
+  "ratingCount": 25,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

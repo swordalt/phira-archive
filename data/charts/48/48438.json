@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:58Z",
-    "lastChanged": "2026-09-21T02:03:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-28T05:47:39.229556Z",
   "charter": "突然変異のtwotthrees & Sakuyaです",
@@ -14,6 +14,7 @@
   "description": "削弱版，修改了配置",
   "difficulty": 16.799997,
   "file": "https://phira.5wyxi.com/files/41f84ec0-d9dc-4521-a05e-9e2ae1481671",
+  "hidden": false,
   "id": 48438,
   "illustration": "https://phira.5wyxi.com/files/47ca9791-6f26-4dee-a08f-b7e5c5bec2bc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mutation",
   "preview": "https://phira.5wyxi.com/files/3a8909ed-2a1f-4c84-873d-68a2f580606d",
   "ranked": false,
-  "rating": 0.925182,
-  "ratingCount": 279,
+  "rating": 0.9247956,
+  "ratingCount": 284,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:02Z",
-    "lastChanged": "2026-09-21T02:02:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-10T05:05:38.490344Z",
   "charter": "Mxpea",
@@ -14,6 +14,7 @@
   "description": "阿巴巴巴",
   "difficulty": 14.400001,
   "file": "https://phira.5wyxi.com/files/18de39fd-a6b4-40ae-a3c7-fe3bf87896df",
+  "hidden": false,
   "id": 16989,
   "illustration": "https://phira.5wyxi.com/files/b35045ad-56ba-4ad4-8388-b2312c3dbe61",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Let's Get Crunk",
   "preview": "https://phira.5wyxi.com/files/47e338b8-0668-45d8-b38c-586caf426151",
   "ranked": false,
-  "rating": 0.8572101,
-  "ratingCount": 25,
+  "rating": 0.8529409,
+  "ratingCount": 26,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

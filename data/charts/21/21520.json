@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:18Z",
-    "lastChanged": "2026-09-21T02:02:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-19T12:44:15.966873Z",
   "charter": "GHHGFFHJF",
@@ -14,6 +14,7 @@
   "description": "新手壹制谱，本人上传。                    内含四合院。",
   "difficulty": 14.899999,
   "file": "https://phira.5wyxi.com/files/efb4a9ad-45f3-4e95-bb5e-d5e04ba3464c",
+  "hidden": false,
   "id": 21520,
   "illustration": "https://phira.5wyxi.com/files/fa32648d-bf35-4c53-897b-1841851a8b1f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Final Phase",
   "preview": "https://phira.5wyxi.com/files/8a819c9a-66e8-47f5-8f2a-f1199f70cda0",
   "ranked": false,
-  "rating": 0.91197765,
-  "ratingCount": 71,
+  "rating": 0.91183966,
+  "ratingCount": 72,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

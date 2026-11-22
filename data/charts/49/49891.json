@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-06T10:07:23Z",
-    "lastChanged": "2026-10-07T17:46:27Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:02:27Z",
+    "revisions": 4
   },
   "chartUpdated": "2025-12-06T13:26:57.312338Z",
   "charter": "XXY",
@@ -14,6 +14,7 @@
   "description": "比较简单的耐力谱-v-\n难度分布/中间最难\n——最高48分/BPM126\nawa\n谱面由我本人（小小雨）上传",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/39deb055-8fdf-4f63-bddf-9b8fabdf8568",
+  "hidden": false,
   "id": 49891,
   "illustration": "https://phira.5wyxi.com/files/fe271ceb-e5a6-4c75-973c-d9b642e079de",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ΩZСÜRIDΛD",
   "preview": "https://phira.5wyxi.com/files/017debaa-5ad1-4eee-a4b7-323d696d1700",
   "ranked": false,
-  "rating": 0.9007121,
-  "ratingCount": 11,
+  "rating": 0.94144267,
+  "ratingCount": 53,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

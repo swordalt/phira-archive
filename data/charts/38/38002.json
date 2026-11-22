@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:14Z",
-    "lastChanged": "2026-09-21T02:06:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-11T13:58:18.022339Z",
   "charter": "QiNGFENG Two Three Three",
@@ -14,6 +14,7 @@
   "description": "本人上传\n虽然没有特别深入的接触东方，但是特别喜欢这首歌，遂写之",
   "difficulty": 17.100006,
   "file": "https://phira.5wyxi.com/files/e7d912c9-9f78-4426-b891-c27cf06d92ed",
+  "hidden": false,
   "id": 38002,
   "illustration": "https://phira.5wyxi.com/files/6ec116b4-88c5-41de-860f-9c6a4c294cb9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Re:Unknown X",
   "preview": "https://phira.5wyxi.com/files/d2090999-fec3-4e07-91ce-b50cd8e78981",
   "ranked": false,
-  "rating": 0.8895538,
-  "ratingCount": 65,
+  "rating": 0.8927086,
+  "ratingCount": 67,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

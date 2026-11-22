@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:32Z",
-    "lastChanged": "2026-09-21T02:03:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-26T05:46:49.966875Z",
   "charter": "煜有奈",
@@ -14,6 +14,7 @@
   "description": "重发一次，致歉",
   "difficulty": 16.100004,
   "file": "https://phira.5wyxi.com/files/2267485d-8391-4604-9105-459cbf4a0d8d",
+  "hidden": false,
   "id": 42744,
   "illustration": "https://phira.5wyxi.com/files/1a349bdb-4ab4-4639-a996-f830db35ebb1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Disorder",
   "preview": "https://phira.5wyxi.com/files/a1db41a0-a6e4-4398-802c-6dcf2bf79497",
   "ranked": false,
-  "rating": 0.94897807,
-  "ratingCount": 1810,
+  "rating": 0.94960386,
+  "ratingCount": 1847,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

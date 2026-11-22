@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:49Z",
-    "lastChanged": "2026-09-21T02:06:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-11T08:38:45.273738Z",
   "charter": "Tairitsu2113",
@@ -14,6 +14,7 @@
   "description": "削弱版",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/d74cb7cf-41ca-4df4-9be6-e7d429524543",
+  "hidden": false,
   "id": 55958,
   "illustration": "https://phira.5wyxi.com/files/d2392e66-9737-44d2-82b3-b0b6eeba10a3",
   "illustrator": "",

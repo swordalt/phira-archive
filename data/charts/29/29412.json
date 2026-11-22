@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:03Z",
-    "lastChanged": "2026-09-21T02:06:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-04T09:21:06.572041Z",
   "charter": "IambicCave",
@@ -14,6 +14,7 @@
   "description": "227bpm双押切+三押切，但水段比较多，难度ex1-",
   "difficulty": 17.800001,
   "file": "https://phira.5wyxi.com/files/9a985a32-7631-4ec1-9cef-d4167ae2bc5d",
+  "hidden": false,
   "id": 29412,
   "illustration": "https://phira.5wyxi.com/files/14113372-c2f5-4ccf-a4e9-41e06ba09476",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "センダンライフ",
   "preview": "https://phira.5wyxi.com/files/0b684ff3-3fe9-490f-bdce-866f9832d543",
   "ranked": false,
-  "rating": 0.95457643,
-  "ratingCount": 178,
+  "rating": 0.956448,
+  "ratingCount": 187,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

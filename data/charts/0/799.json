@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:34Z",
-    "lastChanged": "2026-09-21T02:05:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-28T07:55:53.201625Z",
   "charter": "Dicing Iblcyaz",
@@ -14,6 +14,7 @@
   "description": "超级早期谱面，采音不太行\n不是双指谱！！！！",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/0a0f41dd-0a62-40cd-9270-c4aa648bfd8c",
+  "hidden": false,
   "id": 799,
   "illustration": "https://phira.5wyxi.com/files/cd7fcc6e-186c-4227-a89e-9a6f20a9b838",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dicing Quantz",
   "preview": "https://phira.5wyxi.com/files/2b626937-9a9b-44fe-ae66-755e275329af",
   "ranked": false,
-  "rating": 0.85764235,
-  "ratingCount": 84,
+  "rating": 0.85478705,
+  "ratingCount": 87,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

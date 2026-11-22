@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:14Z",
-    "lastChanged": "2026-09-21T02:01:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-10T03:49:14.445286Z",
   "charter": "HCl",
@@ -14,6 +14,7 @@
   "description": "谱师B站：@HCl__盐酸\n新人初谱",
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/4f25ea47-7b44-4c7f-bfd9-920f2e7f78d2",
+  "hidden": false,
   "id": 3269,
   "illustration": "https://phira.5wyxi.com/files/c21a7d9a-2434-41d7-853c-343c8eb89989",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "室内系的TrackMaker",
   "preview": "https://phira.5wyxi.com/files/03d9659c-639c-4b1c-9be6-2341b0a466ce",
   "ranked": false,
-  "rating": 0.9466076,
-  "ratingCount": 43349,
+  "rating": 0.94638896,
+  "ratingCount": 43765,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:16Z",
-    "lastChanged": "2026-09-21T02:02:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-22T08:28:40.856359Z",
   "charter": "母鸡",
@@ -14,6 +14,7 @@
   "description": "BV1oB4y1V7eG  谱师本人上传 此为重制版      2024.6.22     最后一次修改，不改了累了",
   "difficulty": 15.7,
   "file": "https://phira.5wyxi.com/files/64d959c5-640a-4e3e-a4c1-dade09824272",
+  "hidden": false,
   "id": 21201,
   "illustration": "https://phira.5wyxi.com/files/0839114a-769c-489a-b297-d5701ab15169",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ナイト・オブ・ナイツ",
   "preview": "https://phira.5wyxi.com/files/fef2aaff-df7f-4e86-9536-bf445a21b9c0",
   "ranked": true,
-  "rating": 0.91834706,
-  "ratingCount": 4442,
+  "rating": 0.918731,
+  "ratingCount": 4537,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

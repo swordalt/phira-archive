@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:11Z",
-    "lastChanged": "2026-09-21T02:04:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-02T06:55:42.815414Z",
   "charter": "鸡排",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/e93a8814-52ab-44cb-a072-53c69fc3f1bd",
+  "hidden": false,
   "id": 50867,
   "illustration": "https://phira.5wyxi.com/files/134dd7e4-02bc-4efa-b420-f39e640b27f2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "豪大大鸡排",
   "preview": "https://phira.5wyxi.com/files/ac5e9a15-8d91-4422-bb66-4204d8da4427",
   "ranked": false,
-  "rating": 0.92988694,
-  "ratingCount": 8696,
+  "rating": 0.93001425,
+  "ratingCount": 8989,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

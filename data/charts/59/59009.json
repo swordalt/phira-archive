@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:43Z",
-    "lastChanged": "2026-09-21T02:04:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-24T08:17:54.105525Z",
   "charter": "SiENSY",
@@ -14,6 +14,7 @@
   "description": "定数：17.5\n使用Malady制谱器制作，低质致歉\n请将键宽调至最小再游玩！\n欢迎b站支持",
   "difficulty": 17.500002,
   "file": "https://phira.5wyxi.com/files/1239718a-760c-4635-8349-d9383c437dc0",
+  "hidden": false,
   "id": 59009,
   "illustration": "https://phira.5wyxi.com/files/4763006b-4681-4586-9709-956dc020200f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "火花-Reloaded-",
   "preview": "https://phira.5wyxi.com/files/20f1a375-2056-45e8-b17a-6a3145dab0e5",
   "ranked": false,
-  "rating": 0.8765387,
-  "ratingCount": 299,
+  "rating": 0.8795383,
+  "ratingCount": 330,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

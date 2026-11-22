@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:36Z",
-    "lastChanged": "2026-09-21T02:03:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-02T10:55:01.658659Z",
   "charter": "xgsgt & X酱 ",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/35318ff9-8a5d-477a-b1be-9d377728f824",
+  "hidden": false,
   "id": 43466,
   "illustration": "https://phira.5wyxi.com/files/63b380c9-eb6d-4d9f-aea2-097ffd7121b9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Helios",
   "preview": "https://phira.5wyxi.com/files/5a31453e-af08-478e-a6a4-418f90e73785",
   "ranked": false,
-  "rating": 0.8959922,
-  "ratingCount": 79,
+  "rating": 0.89479595,
+  "ratingCount": 84,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

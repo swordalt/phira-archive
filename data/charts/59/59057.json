@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:44Z",
-    "lastChanged": "2026-09-21T02:04:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-24T12:36:27.012505Z",
   "charter": "L34PeRE77",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/df5a6d5b-5dd0-478c-a48d-12d4d3226e1d",
+  "hidden": false,
   "id": 59057,
   "illustration": "https://phira.5wyxi.com/files/02e3a3d9-85ee-4377-b4c1-56acf3d0ebe9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "AeroXea ( Full Ver. )",
   "preview": "https://phira.5wyxi.com/files/1ee72a39-a19f-40e1-95aa-e58f11a72eea",
   "ranked": false,
-  "rating": 0.93661153,
-  "ratingCount": 103,
+  "rating": 0.93746346,
+  "ratingCount": 106,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:42Z",
-    "lastChanged": "2026-09-21T02:03:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-18T14:50:21.397820Z",
   "charter": "121",
@@ -14,6 +14,7 @@
   "description": "bili @---121QwQ121--- 本人上传",
   "difficulty": 14.299998,
   "file": "https://phira.5wyxi.com/files/22c050a7-f295-4c33-8a50-fffdd4dfcbed",
+  "hidden": false,
   "id": 45067,
   "illustration": "https://phira.5wyxi.com/files/2937e15e-76ea-419e-9e66-c61f8775ec82",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lost Umbrella",
   "preview": "https://phira.5wyxi.com/files/4ead9160-7f75-47f6-9815-56de9caa1b30",
   "ranked": false,
-  "rating": 0.9286661,
-  "ratingCount": 5877,
+  "rating": 0.9285255,
+  "ratingCount": 6425,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

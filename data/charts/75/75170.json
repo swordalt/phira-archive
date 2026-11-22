@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-09T13:07:00Z",
-    "lastChanged": "2026-10-12T10:38:09Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:10Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-08-23T05:35:32.528927Z",
   "charter": "steal seelence",
@@ -14,6 +14,7 @@
   "description": "哦这是未削弱版",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/b49e208d-684a-4a71-a58b-b2361b06b93f",
+  "hidden": false,
   "id": 75170,
   "illustration": "https://phira.5wyxi.com/files/ab789e1e-1498-4cff-b212-934b24d22501",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "QuomodocunquizE",
   "preview": "https://phira.5wyxi.com/files/2a0814ab-41ec-4da4-8cd5-3bcb14454feb",
   "ranked": false,
-  "rating": 0.8001146,
-  "ratingCount": 21,
+  "rating": 0.89580613,
+  "ratingCount": 53,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:06Z",
-    "lastChanged": "2026-09-21T02:04:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-10T15:30:29.745477Z",
   "charter": "五星上将QZK",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/d7a3161d-fafd-47b6-a8af-6d98e8728c56",
+  "hidden": false,
   "id": 50079,
   "illustration": "https://phira.5wyxi.com/files/63738b07-4a1e-431f-b567-708996aa5277",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "QZKago Requiem",
   "preview": "https://phira.5wyxi.com/files/851eae9f-051a-4b9a-894c-93e8b931b3e1",
   "ranked": false,
-  "rating": 0.8606567,
-  "ratingCount": 386,
+  "rating": 0.86014867,
+  "ratingCount": 410,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

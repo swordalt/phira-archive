@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:07Z",
-    "lastChanged": "2026-09-21T02:04:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-19T18:31:23.425526Z",
   "charter": "rafl",
@@ -14,6 +14,7 @@
   "description": "本人上传，新人初铺，还在学习中，不喜勿喷o(〃'▽'〃)o",
   "difficulty": 10.8,
   "file": "https://phira.5wyxi.com/files/dcc20b01-3a60-4bb1-af06-049a1e772110",
+  "hidden": false,
   "id": 50349,
   "illustration": "https://phira.5wyxi.com/files/8228ca91-d65a-40c9-b05b-994fd6f30477",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "魔法的起点I",
   "preview": "https://phira.5wyxi.com/files/07127815-8783-429a-a2a1-c58c1f5647f3",
   "ranked": false,
-  "rating": 0.91469437,
-  "ratingCount": 200,
+  "rating": 0.91415083,
+  "ratingCount": 220,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

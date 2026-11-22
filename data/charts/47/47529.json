@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:55Z",
-    "lastChanged": "2026-09-21T02:03:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-03T06:06:21.714765Z",
   "charter": "Dark Suds",
@@ -14,6 +14,7 @@
   "description": "新人初谱，总耗时34h，不喜轻喷",
   "difficulty": 15.4,
   "file": "https://phira.5wyxi.com/files/4f687caa-b307-40a5-ba7b-985ae60725db",
+  "hidden": false,
   "id": 47529,
   "illustration": "https://phira.5wyxi.com/files/dd40898a-3f16-4b08-9cb2-89033e9577fd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dark Shadows",
   "preview": "https://phira.5wyxi.com/files/9f2cc026-c485-4a26-bfbb-d1571c87d0b0",
   "ranked": false,
-  "rating": 0.9346867,
-  "ratingCount": 186,
+  "rating": 0.9338804,
+  "ratingCount": 190,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

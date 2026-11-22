@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:29Z",
-    "lastChanged": "2026-09-21T02:05:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-24T17:20:35.634199Z",
   "charter": "世界反转",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/c9b1a6bb-3e0b-4505-83f6-12238bfa10ec",
+  "hidden": false,
   "id": 38629,
   "illustration": "https://phira.5wyxi.com/files/2dcbfefe-3643-4cf4-bb6b-61b8712bd728",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Moonlike Smile 皎洁的笑颜",
   "preview": "https://phira.5wyxi.com/files/86cbc514-817f-4458-b09e-9c744ac37785",
   "ranked": false,
-  "rating": 0.9074154,
-  "ratingCount": 116,
+  "rating": 0.909561,
+  "ratingCount": 120,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

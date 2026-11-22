@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:34Z",
-    "lastChanged": "2026-09-21T02:05:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T11:17:44.167140Z",
   "charter": "Iblcya",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 11.9,
   "file": "https://phira.5wyxi.com/files/e83c4402-7027-492e-ba41-aea698b9149c",
+  "hidden": false,
   "id": 424,
   "illustration": "https://phira.5wyxi.com/files/e5becdcf-c6c3-46d8-a79b-d77939e15159",
   "illustrator": "ESharkie",
@@ -21,8 +22,8 @@
   "name": "Falling Asteroid",
   "preview": "https://phira.5wyxi.com/files/775f613c-51c5-4e00-b037-39d3411e13aa",
   "ranked": false,
-  "rating": 0.91918176,
-  "ratingCount": 74,
+  "rating": 0.919987,
+  "ratingCount": 75,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

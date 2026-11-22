@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-27T10:18:23Z",
-    "lastChanged": "2026-09-27T10:18:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-16T10:47:18.911421Z",
   "charter": "水的痕迹",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 28.0,
   "file": "https://phira.5wyxi.com/files/aaf3c582-b9ac-49b1-ae4b-f95b759b8442",
+  "hidden": false,
   "id": 73759,
   "illustration": "https://phira.5wyxi.com/files/7af10958-72f1-4f15-ab3a-aec7918c5ca6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "グッバイ宣言",
   "preview": "https://phira.5wyxi.com/files/1b28206a-e0bc-4f78-a52d-c9cf94d5b750",
   "ranked": false,
-  "rating": 0.8319606,
-  "ratingCount": 10,
+  "rating": 0.93209344,
+  "ratingCount": 195,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

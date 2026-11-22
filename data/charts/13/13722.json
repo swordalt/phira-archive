@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:48Z",
-    "lastChanged": "2026-09-21T02:01:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-20T13:52:16.944193Z",
   "charter": "MillionMas",
@@ -14,6 +14,7 @@
   "description": "1.17 初次上传\n1.20 改了一些初见杀的地方，调整了少量键位\n（第一次写谱，有不妥之处，欢迎指出。b站名字:此账号已注销--）",
   "difficulty": 14.2,
   "file": "https://phira.5wyxi.com/files/330f6311-bb8c-44bf-95af-48c1d48adcad",
+  "hidden": false,
   "id": 13722,
   "illustration": "https://phira.5wyxi.com/files/c61028a9-5f90-4aa1-aea8-f4a32090a3ae",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "再会",
   "preview": "https://phira.5wyxi.com/files/b4449eef-b722-4307-a090-5f42c03d3e91",
   "ranked": false,
-  "rating": 0.8877079,
-  "ratingCount": 420,
+  "rating": 0.88741356,
+  "ratingCount": 423,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

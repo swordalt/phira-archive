@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:02Z",
-    "lastChanged": "2026-09-21T02:04:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-09T07:25:16.003463Z",
   "charter": "Pigxuan",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/e179e8ce-e28a-45d6-8ad4-6b306bdd15b2",
+  "hidden": false,
   "id": 48929,
   "illustration": "https://phira.5wyxi.com/files/ed434f96-e289-403c-a19a-09591251615b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "R",
   "preview": "https://phira.5wyxi.com/files/e2deaf84-4a77-4051-9387-8f87ce57f839",
   "ranked": false,
-  "rating": 0.91422045,
-  "ratingCount": 302,
+  "rating": 0.91414547,
+  "ratingCount": 322,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

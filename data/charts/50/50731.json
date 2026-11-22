@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:10Z",
-    "lastChanged": "2026-09-21T02:04:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-31T12:41:41.024685Z",
   "charter": "手残的KID",
@@ -14,6 +14,7 @@
   "description": "新人初谱\n12.31：\n修改了530-531combo红蓝双押极易爆bad的排键\n抱歉清空了排行榜＞＜\nb站@手残的KID\n",
   "difficulty": 17.100004,
   "file": "https://phira.5wyxi.com/files/b1e9d404-e477-4688-9dd9-f99321733dfa",
+  "hidden": false,
   "id": 50731,
   "illustration": "https://phira.5wyxi.com/files/2575f89c-6539-428d-afa6-58fd0569da4f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Re：End of a Dream",
   "preview": "https://phira.5wyxi.com/files/9bc1bd7c-11e5-43a1-91a1-b4d7d9ab3d79",
   "ranked": false,
-  "rating": 0.93981916,
-  "ratingCount": 487,
+  "rating": 0.93946236,
+  "ratingCount": 506,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

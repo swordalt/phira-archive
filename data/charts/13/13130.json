@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-01T01:47:26.389960Z",
   "charter": "MYLV",
@@ -14,6 +14,7 @@
   "description": "抽象如飞龙般的双指谱",
   "difficulty": 16.600002,
   "file": "https://phira.5wyxi.com/files/2534aaaf-b582-4736-960b-d5f4d1e14ce5",
+  "hidden": false,
   "id": 13130,
   "illustration": "https://phira.5wyxi.com/files/d4c70276-fbff-462d-8613-53d21b96f3d0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Selfmade Disaster",
   "preview": "https://phira.5wyxi.com/files/b58b72e3-f068-4ea9-9d80-c4ca1aa842d5",
   "ranked": false,
-  "rating": 0.82604533,
-  "ratingCount": 180,
+  "rating": 0.8289036,
+  "ratingCount": 183,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

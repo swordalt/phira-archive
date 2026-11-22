@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-22T14:44:17Z",
-    "lastChanged": "2026-09-22T14:44:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-20T23:41:33.815792Z",
   "charter": "星空谷_",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/675abb6c-d40f-4683-9f78-035388733740",
+  "hidden": false,
   "id": 78617,
   "illustration": "https://phira.5wyxi.com/files/158e3f8c-c2d1-4108-a378-637ea02fde80",
   "illustrator": "Yostar",
@@ -21,8 +22,8 @@
   "name": "全速向光",
   "preview": "https://phira.5wyxi.com/files/1ade08b0-f7b2-419b-af3c-be17b309f23c",
   "ranked": false,
-  "rating": 0.80552316,
-  "ratingCount": 3,
+  "rating": 0.9406879,
+  "ratingCount": 3344,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

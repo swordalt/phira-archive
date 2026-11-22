@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:22Z",
-    "lastChanged": "2026-09-21T02:05:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-11T13:06:56.290352Z",
   "charter": "huanp",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/323e73db-d18c-4dca-b2d7-c6a2196bbfb3",
+  "hidden": false,
   "id": 15396,
   "illustration": "https://phira.5wyxi.com/files/242ab3e7-7a1f-4407-912b-bfd913b26eb4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "conflict",
   "preview": "https://phira.5wyxi.com/files/07aa99ba-0794-493d-b947-75d3c3486426",
   "ranked": false,
-  "rating": 0.78098917,
-  "ratingCount": 127,
+  "rating": 0.78237677,
+  "ratingCount": 128,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

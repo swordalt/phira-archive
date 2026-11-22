@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:24Z",
-    "lastChanged": "2026-09-21T02:04:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-24T17:39:19.059122Z",
   "charter": "Deda Team",
@@ -14,6 +14,7 @@
   "description": "旧谱重制，本人上传\n（就算是重置也是24年咕到现在的谱了",
   "difficulty": 15.599998,
   "file": "https://phira.5wyxi.com/files/a78e7ec9-aa92-4e2b-a9e3-485f9d697025",
+  "hidden": false,
   "id": 53350,
   "illustration": "https://phira.5wyxi.com/files/8498d01b-e5a8-4394-9dfd-592acdaed760",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Deda Dash",
   "preview": "https://phira.5wyxi.com/files/60f8d31d-cc3f-4f57-bc08-017de4e47313",
   "ranked": false,
-  "rating": 0.91124177,
-  "ratingCount": 111,
+  "rating": 0.9106979,
+  "ratingCount": 115,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

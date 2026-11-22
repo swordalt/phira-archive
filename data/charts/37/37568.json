@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:07Z",
-    "lastChanged": "2026-09-21T02:07:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-05T00:32:53.983588Z",
   "charter": "我是可爱屑ti",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/46348d15-ea22-42c1-812d-4302eaf8e93c",
+  "hidden": false,
   "id": 37568,
   "illustration": "https://phira.5wyxi.com/files/83846248-0c3c-4eab-9564-1b661ec27016",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "天空の城ヴェリエル",
   "preview": "https://phira.5wyxi.com/files/0b958500-2416-496a-b92a-aa4efa2a5893",
   "ranked": false,
-  "rating": 0.78444475,
-  "ratingCount": 279,
+  "rating": 0.7862878,
+  "ratingCount": 292,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:20Z",
-    "lastChanged": "2026-09-21T02:01:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-16T18:21:17.649670Z",
   "charter": "ST129",
@@ -14,6 +14,7 @@
   "description": "谱面由本人创作                       曲绘由本人创作                           新人制作的第一张谱面，欢迎拷打。                                      （建议使用默认note大小游玩）",
   "difficulty": 15.8,
   "file": "https://phira.5wyxi.com/files/10ac3c71-dd9b-4145-9f51-ebee2c091b9a",
+  "hidden": false,
   "id": 5459,
   "illustration": "https://phira.5wyxi.com/files/5e159b4f-bcad-483a-ad93-582fc9ab18bc",
   "illustrator": "",

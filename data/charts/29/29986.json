@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:48Z",
-    "lastChanged": "2026-09-21T02:02:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-23T07:35:14.274926Z",
   "charter": "F₂ in Ж",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/a41a26cc-d51b-4036-a718-6e85d251edfa",
+  "hidden": false,
   "id": 29986,
   "illustration": "https://phira.5wyxi.com/files/7892b900-716d-499d-872e-eed56ac1966d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "《Ж》",
   "preview": "https://phira.5wyxi.com/files/47d1a41f-ffcb-4f1d-bdba-46217a25deb4",
   "ranked": false,
-  "rating": 0.91406655,
-  "ratingCount": 468,
+  "rating": 0.9138384,
+  "ratingCount": 472,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

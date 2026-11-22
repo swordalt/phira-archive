@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:47Z",
-    "lastChanged": "2026-09-21T02:05:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-18T10:15:03.149611Z",
   "charter": "linghunnanren",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/d24909d7-94c8-44ba-af2a-8d72018fc6a0",
+  "hidden": false,
   "id": 20068,
   "illustration": "https://phira.5wyxi.com/files/931a659e-ba8a-4cd5-acd2-40f72d861c08",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "春を告げる",
   "preview": "https://phira.5wyxi.com/files/5246e7aa-8b2a-4f1b-b764-32738dc91663",
   "ranked": false,
-  "rating": 0.94231325,
-  "ratingCount": 340,
+  "rating": 0.94248235,
+  "ratingCount": 341,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

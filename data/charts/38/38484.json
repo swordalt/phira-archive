@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:15Z",
-    "lastChanged": "2026-09-21T02:06:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-23T06:08:25.452099Z",
   "charter": "Ranmoc",
@@ -14,6 +14,7 @@
   "description": "是130不是140！这回难度不标normal了（哭）",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/61928cbc-dda2-49e6-ac80-dda3809fcfa7",
+  "hidden": false,
   "id": 38484,
   "illustration": "https://phira.5wyxi.com/files/0f253aeb-7691-48f6-8bef-370705e7eb3e",
   "illustrator": "",

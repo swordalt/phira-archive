@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:43Z",
-    "lastChanged": "2026-09-21T02:03:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-20T11:40:24.175173Z",
   "charter": "咕咕-Aweir",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/8012367f-806d-4829-a562-6ef59eee4347",
+  "hidden": false,
   "id": 45263,
   "illustration": "https://phira.5wyxi.com/files/75aed121-b6e6-451d-867e-f2a10a52727c",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "Straight into the lights",
   "preview": "https://phira.5wyxi.com/files/0733c0d7-2a5f-476a-b739-105966ca2108",
   "ranked": false,
-  "rating": 0.7520601,
+  "rating": 0.7534166,
   "ratingCount": 164,
   "reviewed": true,
   "stable": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:25Z",
-    "lastChanged": "2026-09-21T02:03:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-27T10:45:16.288633Z",
   "charter": "Clovis",
@@ -14,6 +14,7 @@
   "description": "本人上传，初谱。 B站电梯直达BV18VGPzVEfz",
   "difficulty": 13.700003,
   "file": "https://phira.5wyxi.com/files/6e53a658-9a3a-4973-a9cb-d207cb29a70a",
+  "hidden": false,
   "id": 40343,
   "illustration": "https://phira.5wyxi.com/files/2885e5ab-128f-428e-a7ed-fc460c03607b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "stars we chase",
   "preview": "https://phira.5wyxi.com/files/26929b2d-d260-4489-88bc-3db493c72368",
   "ranked": false,
-  "rating": 0.94234556,
-  "ratingCount": 142,
+  "rating": 0.94418234,
+  "ratingCount": 151,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

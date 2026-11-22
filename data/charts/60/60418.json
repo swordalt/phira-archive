@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:47Z",
-    "lastChanged": "2026-09-21T02:04:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-08T14:12:17.996364Z",
   "charter": "Cometarca",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 19.0,
   "file": "https://phira.5wyxi.com/files/0bea0cd3-5675-4f70-970e-a400f12dcc94",
+  "hidden": false,
   "id": 60418,
   "illustration": "https://phira.5wyxi.com/files/a399d509-d59d-433c-8da8-2352ccc1e53e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "夏。踏切。私。",
   "preview": "https://phira.5wyxi.com/files/1b9e644b-bce2-473e-a2dc-78810e9b4dfc",
   "ranked": false,
-  "rating": 0.83883506,
-  "ratingCount": 81,
+  "rating": 0.84794575,
+  "ratingCount": 86,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

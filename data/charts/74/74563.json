@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:10Z",
-    "lastChanged": "2026-09-21T02:05:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-20T06:21:16.515777Z",
   "charter": "LL2007",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 8.0,
   "file": "https://phira.5wyxi.com/files/114af0c1-448f-4cc4-b3c2-a31bd413e5e9",
+  "hidden": false,
   "id": 74563,
   "illustration": "https://phira.5wyxi.com/files/98152ab5-1f63-4f18-91cb-899bd3a2bad6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Death Pledge",
   "preview": "https://phira.5wyxi.com/files/14697bad-4752-4c51-99ee-a1f58f033adc",
   "ranked": false,
-  "rating": 0.82810473,
-  "ratingCount": 53,
+  "rating": 0.81431395,
+  "ratingCount": 68,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

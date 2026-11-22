@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:02Z",
-    "lastChanged": "2026-09-21T02:07:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-25T14:41:43.413800Z",
   "charter": "十千秋子",
@@ -14,6 +14,7 @@
   "description": "⚠6分钟耐力叠，耐力不够谨慎游玩⚠\nBPM:191\n流速:14",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/a6b3c304-b406-4cd5-8753-c2b88ac7bdad",
+  "hidden": false,
   "id": 75696,
   "illustration": "https://phira.5wyxi.com/files/c989cd5a-3c03-41ed-bc75-f5f08abf683c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MariannE",
   "preview": "https://phira.5wyxi.com/files/2d74aeb1-52f8-42bd-9969-164b356405d4",
   "ranked": false,
-  "rating": 0.9299709,
-  "ratingCount": 26,
+  "rating": 0.94771963,
+  "ratingCount": 37,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

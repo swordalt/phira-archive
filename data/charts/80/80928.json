@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-12T20:14:32Z",
-    "lastChanged": "2026-10-12T20:14:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-12T13:00:12.674335Z",
   "charter": "N_neo",
@@ -14,6 +14,7 @@
   "description": "调整了部分配置，删除了部分视觉干扰。",
   "difficulty": 46.0,
   "file": "https://phira.5wyxi.com/files/5cbfc175-5641-4956-a67e-0be2ca7a1d58",
+  "hidden": false,
   "id": 80928,
   "illustration": "https://phira.5wyxi.com/files/203b113a-f0d3-48ea-bc78-21c599e7b772",
   "illustrator": "UK",
@@ -21,8 +22,8 @@
   "name": "MEGALOVANIA(Camellia Remix)",
   "preview": "https://phira.5wyxi.com/files/5b357074-a6ac-4e8f-9134-9e11c577a4a0",
   "ranked": false,
-  "rating": 0.7803841,
-  "ratingCount": 2,
+  "rating": 0.8618151,
+  "ratingCount": 11,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

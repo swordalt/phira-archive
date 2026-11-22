@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-24T04:37:40Z",
-    "lastChanged": "2026-10-04T10:51:12Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:08Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-08-15T15:38:49.048950Z",
   "charter": "我的准度有点爆炸",
@@ -14,6 +14,7 @@
   "description": "提示：3:2比例使用更佳\nB站：准度爆炸姐_\n发布相关谱面视频需标明谱师@准度爆炸姐",
   "difficulty": 14.1,
   "file": "https://phira.5wyxi.com/files/43127cf0-9e5e-4517-a48a-ba8df3d1456e",
+  "hidden": false,
   "id": 73592,
   "illustration": "https://phira.5wyxi.com/files/71d65232-c357-445a-9e2b-b73f9a652034",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "アクマバライ",
   "preview": "https://phira.5wyxi.com/files/03f8225f-2a9f-4395-baf8-3bab34a9f966",
   "ranked": false,
-  "rating": 0.93846184,
-  "ratingCount": 3200,
+  "rating": 0.9401692,
+  "ratingCount": 6269,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

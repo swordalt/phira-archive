@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:10Z",
-    "lastChanged": "2026-09-21T02:03:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-05T05:56:51.282858Z",
   "charter": "fishclouds",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/89e9df0e-1bc5-4a68-9e43-723f9f3ed33a",
+  "hidden": false,
   "id": 36193,
   "illustration": "https://phira.5wyxi.com/files/65f44ef5-0c42-48bf-94ec-7a1dacc595bc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Luminous Entities Lost Heart",
   "preview": "https://phira.5wyxi.com/files/afe62e83-785b-4225-add0-985a60dcaf98",
   "ranked": false,
-  "rating": 0.92905504,
-  "ratingCount": 427,
+  "rating": 0.9294169,
+  "ratingCount": 435,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

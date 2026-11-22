@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:45Z",
-    "lastChanged": "2026-09-21T02:02:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-18T12:06:21.899353Z",
   "charter": "light_down",
@@ -14,6 +14,7 @@
   "description": "新人初谱，不合理部分已改完",
   "difficulty": 15.899998,
   "file": "https://phira.5wyxi.com/files/b2eb035d-4bb7-4206-a671-2baba6ec82e4",
+  "hidden": false,
   "id": 29187,
   "illustration": "https://phira.5wyxi.com/files/c4b279c7-74ed-4cfe-aa76-ac425eeb9484",
   "illustrator": "",

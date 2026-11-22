@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:40Z",
-    "lastChanged": "2026-09-21T02:06:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-04T04:52:07.386881Z",
   "charter": "wu2",
@@ -14,6 +14,7 @@
   "description": "请大家吃纵",
   "difficulty": 11.900007,
   "file": "https://phira.5wyxi.com/files/4c329d03-fbc1-45e0-806f-c7ea600998bf",
+  "hidden": false,
   "id": 48761,
   "illustration": "https://phira.5wyxi.com/files/32c22ebb-d710-4c78-ac7b-173a0426a67d",
   "illustrator": "",

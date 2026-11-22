@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:36Z",
-    "lastChanged": "2026-09-21T02:05:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-23T03:36:36.504218Z",
   "charter": "xiaomeiw810",
@@ -14,6 +14,7 @@
   "description": "新人初谱，含456k以及无轨段     B站@xiaomeiw810",
   "difficulty": 16.700003,
   "file": "https://phira.5wyxi.com/files/f55f5c87-bd80-40eb-8140-998c36929267",
+  "hidden": false,
   "id": 5835,
   "illustration": "https://phira.5wyxi.com/files/195c92bf-f91d-4593-8b9b-f904834a45da",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Rainbow",
   "preview": "https://phira.5wyxi.com/files/d9f72a70-67ba-4f01-afd3-a0f2cfb1e925",
   "ranked": false,
-  "rating": 0.6965791,
-  "ratingCount": 300,
+  "rating": 0.6968895,
+  "ratingCount": 301,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

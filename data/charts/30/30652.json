@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:50Z",
-    "lastChanged": "2026-09-21T02:02:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-12T10:30:58.281490Z",
   "charter": "Rosmontis-gear",
@@ -14,6 +14,7 @@
   "description": "B站@Rosmontis-gear\n之前日推刷到的一首歌，特别喜欢这种风格，做个自制谱自己打顺便看看能不能安利一下这首歌。",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/9d6aad79-5386-4237-9697-ba908e70ba3c",
+  "hidden": false,
   "id": 30652,
   "illustration": "https://phira.5wyxi.com/files/cdaf0a41-0928-4690-bc09-ef19cca996c6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "薄明の雫",
   "preview": "https://phira.5wyxi.com/files/a5deaad7-4a37-4ded-a597-1a2a8822681b",
   "ranked": false,
-  "rating": 0.88809615,
-  "ratingCount": 38,
+  "rating": 0.8978793,
+  "ratingCount": 42,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:39Z",
-    "lastChanged": "2026-09-21T02:04:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-30T04:51:51.402945Z",
   "charter": "Ex1stenS",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/dc32a120-c4e0-4308-b75f-cf7c408f1428",
+  "hidden": false,
   "id": 57343,
   "illustration": "https://phira.5wyxi.com/files/aa4c1d81-ca55-4214-b6b4-cc39c0672fe7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Wonder Night Land",
   "preview": "https://phira.5wyxi.com/files/92777739-dcee-4bd7-b9ab-e36d5237bc82",
   "ranked": false,
-  "rating": 0.9555394,
-  "ratingCount": 88,
+  "rating": 0.9580116,
+  "ratingCount": 97,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

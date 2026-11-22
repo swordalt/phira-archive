@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:43Z",
-    "lastChanged": "2026-09-21T02:01:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-03T15:07:46.233750Z",
   "charter": "音矿喵喵鱼     ",
@@ -14,6 +14,7 @@
   "description": "本人上传，与【@awa_az】合作的差分谱面，天地创谱。",
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/c376d664-06a1-4ba0-bf69-20fd0858eac0",
+  "hidden": false,
   "id": 12135,
   "illustration": "https://phira.5wyxi.com/files/3934fc0b-4338-44b2-9c98-25ec9c9e2d22",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Phoebus",
   "preview": "https://phira.5wyxi.com/files/e826de04-fd32-4bf0-b83c-dc21adc57ae7",
   "ranked": false,
-  "rating": 0.887985,
-  "ratingCount": 210,
+  "rating": 0.88675624,
+  "ratingCount": 212,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

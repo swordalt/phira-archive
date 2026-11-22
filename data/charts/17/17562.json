@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:05Z",
-    "lastChanged": "2026-09-21T02:02:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-25T13:25:31.349430Z",
   "charter": "Virtese",
@@ -14,6 +14,7 @@
   "description": "根据官谱写的,修改了一次",
   "difficulty": 14.600002,
   "file": "https://phira.5wyxi.com/files/6fce87fe-cf9c-4f11-9ef7-41c4a9185a63",
+  "hidden": false,
   "id": 17562,
   "illustration": "https://phira.5wyxi.com/files/ce299938-6616-4d4c-9459-e20f407eba3e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Find_Me",
   "preview": "https://phira.5wyxi.com/files/ac5a6809-def8-42d3-8e87-c68c82e06bbb",
   "ranked": false,
-  "rating": 0.91905755,
-  "ratingCount": 290,
+  "rating": 0.9184288,
+  "ratingCount": 295,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

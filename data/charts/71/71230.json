@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:05Z",
-    "lastChanged": "2026-09-21T02:05:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-04T13:21:32.750843Z",
   "charter": "HYPERTEAM",
@@ -14,6 +14,7 @@
   "description": "源汐杯决赛谱\n上传已经过其他谱师同意",
   "difficulty": 19.000002,
   "file": "https://phira.5wyxi.com/files/8e7b9fbc-5d11-40f7-a12b-af4f79d19314",
+  "hidden": false,
   "id": 71230,
   "illustration": "https://phira.5wyxi.com/files/277abee2-81f6-4095-b6c6-ed5cd88abf75",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "HYPER MEMORIES",
   "preview": "https://phira.5wyxi.com/files/e4e08067-6fae-4e3d-b6b7-39d66b9ae392",
   "ranked": false,
-  "rating": 0.85148996,
-  "ratingCount": 302,
+  "rating": 0.85762995,
+  "ratingCount": 327,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

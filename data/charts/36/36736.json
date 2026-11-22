@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-09-21T02:06:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-19T10:20:37.979933Z",
   "charter": "VANDY",
@@ -14,6 +14,7 @@
   "description": "还有个双指谱等下辈子微调一下开个新号传",
   "difficulty": 39.0,
   "file": "https://phira.5wyxi.com/files/25066b0c-6f5a-4f5d-a12d-949bd78592ba",
+  "hidden": false,
   "id": 36736,
   "illustration": "https://phira.5wyxi.com/files/165254e0-6f11-4d60-9453-b11fc3c1880b",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "Corrupted Paywall",
   "preview": "https://phira.5wyxi.com/files/01675e91-ecc0-4fdc-8d4f-0a6a6c096fd1",
   "ranked": false,
-  "rating": 0.9072804,
+  "rating": 0.91054827,
   "ratingCount": 23,
   "reviewed": true,
   "stable": false,

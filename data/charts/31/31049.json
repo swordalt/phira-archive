@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:52Z",
-    "lastChanged": "2026-09-21T02:02:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-25T09:56:25.836657Z",
   "charter": "O1biang Hinata Rock",
@@ -14,6 +14,7 @@
   "description": "谱面由本人（@日向666）@林溪山人 @欧一biang吔 制作",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/82f2d9a8-b0ce-4291-9425-e8b03ede0fe4",
+  "hidden": false,
   "id": 31049,
   "illustration": "https://phira.5wyxi.com/files/62d02990-6165-4279-99d4-6348babb39ca",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Christmas Canon Rock",
   "preview": "https://phira.5wyxi.com/files/9ff68dd0-286d-43c3-81a7-766b61bfe4e0",
   "ranked": false,
-  "rating": 0.9324026,
-  "ratingCount": 92,
+  "rating": 0.93156433,
+  "ratingCount": 94,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

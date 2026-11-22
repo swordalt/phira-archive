@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:24Z",
-    "lastChanged": "2026-09-21T02:04:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:32Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-22T12:28:21.055231Z",
   "charter": "土豆温柔地写谱",
@@ -14,6 +14,7 @@
   "description": "代传，已征得谱师本人同意",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/ebc64361-9c97-47d9-8c7a-95969422f5f9",
+  "hidden": false,
   "id": 53188,
   "illustration": "https://phira.5wyxi.com/files/9e80fb9d-fb94-41ca-8d9f-730f51dde64a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "優しさに触れて",
   "preview": "https://phira.5wyxi.com/files/d370a2ef-6942-4e17-a488-a543e3b7a42d",
   "ranked": false,
-  "rating": 0.95354676,
-  "ratingCount": 387,
+  "rating": 0.95375276,
+  "ratingCount": 419,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

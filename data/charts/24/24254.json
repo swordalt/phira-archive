@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:26Z",
-    "lastChanged": "2026-09-21T02:02:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-28T10:50:01.641663Z",
   "charter": "▇▁▂▃▅▆▇▇▆▅▃▂▁▇",
@@ -14,6 +14,7 @@
   "description": "2024里糖杯8强Secret Track谱面。\n欢迎关注B站 瑞矢斯 & InterJoke国际玩笑\n谱师：Ration & @InterJoke#3017\n……\n“复仇”不可避免。\n“战斗”一触即发。\n悲怆为何？乱世如何？\n快说，快说，纽约、莫斯科、北极是什么？\n传说，传说，同归于终末荒漠，高贵或龌龊？",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/09a78ce6-4b35-40e7-a0f4-09f5dde4d839",
+  "hidden": false,
   "id": 24254,
   "illustration": "https://phira.5wyxi.com/files/e8da4478-3c8a-459f-8856-052502c1e4a5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Nemesis",
   "preview": "https://phira.5wyxi.com/files/1dc15ad8-8db7-46a9-9a3c-2bcedf7c1053",
   "ranked": true,
-  "rating": 0.9407293,
-  "ratingCount": 5839,
+  "rating": 0.94072014,
+  "ratingCount": 5977,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

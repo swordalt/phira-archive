@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:54Z",
-    "lastChanged": "2026-09-21T02:04:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:32Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-04T02:34:31.478357Z",
   "charter": "the world of TER-RRR-KAM",
@@ -14,6 +14,7 @@
   "description": "本人上传，超雄谱面\n@yinshan#86638",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/a5e75fd3-ad47-4b13-bd02-0da4ccd6efbc",
+  "hidden": false,
   "id": 63879,
   "illustration": "https://phira.5wyxi.com/files/8fc93f2c-f245-48b4-9b85-a6162d4fedd6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "the world of periwinkle",
   "preview": "https://phira.5wyxi.com/files/d4af0286-9cfa-43f5-bbf6-5a868f9d8e1c",
   "ranked": false,
-  "rating": 0.81236434,
-  "ratingCount": 34,
+  "rating": 0.80042976,
+  "ratingCount": 38,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

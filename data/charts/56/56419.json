@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:36Z",
-    "lastChanged": "2026-09-21T02:04:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-15T15:58:58.851262Z",
   "charter": "Blue Eclipse*",
@@ -14,6 +14,7 @@
   "description": "囃狼's chart",
   "difficulty": 14.200001,
   "file": "https://phira.5wyxi.com/files/92a3b818-01c1-4058-90eb-2d79d5e66198",
+  "hidden": false,
   "id": 56419,
   "illustration": "https://phira.5wyxi.com/files/ef9b9fea-1ca5-4be5-8b89-1d3ad5405dc5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sakura Bloomin*",
   "preview": "https://phira.5wyxi.com/files/69c4fd5b-91d4-4d34-b251-7ca89b95eb07",
   "ranked": false,
-  "rating": 0.8622309,
-  "ratingCount": 30,
+  "rating": 0.86989194,
+  "ratingCount": 32,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

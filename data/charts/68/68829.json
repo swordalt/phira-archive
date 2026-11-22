@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:02Z",
-    "lastChanged": "2026-09-21T02:05:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-24T06:21:41.872807Z",
   "charter": "我可能是一个人",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 18.9,
   "file": "https://phira.5wyxi.com/files/08aeb107-86fc-431a-8dfa-74f265194cd8",
+  "hidden": false,
   "id": 68829,
   "illustration": "https://phira.5wyxi.com/files/419b5a10-9086-4447-b766-0548d185eca1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "SAN値直葬",
   "preview": "https://phira.5wyxi.com/files/d92bd988-345c-4ecd-8f52-1b8917d2c8ed",
   "ranked": false,
-  "rating": 0.83228076,
-  "ratingCount": 150,
+  "rating": 0.83889824,
+  "ratingCount": 171,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

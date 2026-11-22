@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:04Z",
-    "lastChanged": "2026-09-21T02:01:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "Be With Them [Vex_ & Shimizu & 377]",
@@ -14,6 +14,7 @@
   "description": "我是其中一个，另外两个一个事VeX一个事Leaper",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/a95b5acc-a530-45bf-92ae-56a2706353ce",
+  "hidden": false,
   "id": 191,
   "illustration": "https://phira.5wyxi.com/files/3768c622-8795-4b73-8a81-f2f44227206a",
   "illustrator": "Be With Kagamiri",
@@ -21,8 +22,8 @@
   "name": "Be With Me",
   "preview": "https://phira.5wyxi.com/files/fc4ce4d2-8ee4-46d2-af9b-1b1377e7cf94",
   "ranked": false,
-  "rating": 0.92176855,
-  "ratingCount": 281,
+  "rating": 0.92205703,
+  "ratingCount": 286,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

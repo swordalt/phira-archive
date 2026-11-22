@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:33Z",
-    "lastChanged": "2026-09-21T02:04:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-02T08:33:49.865034Z",
   "charter": "name_小制",
@@ -14,6 +14,7 @@
   "description": "谱师: name_小制\n新人初谱(新人第一个正常点的谱)",
   "difficulty": 15.699995,
   "file": "https://phira.5wyxi.com/files/3470cb5d-bf0a-40a9-b557-876d361f30ed",
+  "hidden": false,
   "id": 54897,
   "illustration": "https://phira.5wyxi.com/files/c96e23d9-aa7f-4014-bac3-98cd510e264c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "one forgotten night",
   "preview": "https://phira.5wyxi.com/files/220f4cfa-da54-4461-8f51-72c7a702ca0c",
   "ranked": false,
-  "rating": 0.7449676,
-  "ratingCount": 16,
+  "rating": 0.7499437,
+  "ratingCount": 19,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:57Z",
-    "lastChanged": "2026-09-21T02:02:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-21T09:54:21.812602Z",
   "charter": "Xeuhaied Atopos",
@@ -14,6 +14,7 @@
   "description": "你说这是一首儿歌，对吧（延迟已修改，之前那个搞错了没发现）",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/d0cd5238-83f3-4030-9226-afd9f9db573b",
+  "hidden": false,
   "id": 32151,
   "illustration": "https://phira.5wyxi.com/files/1e119a73-78ee-41ae-804f-a3cec058ccc4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Devil Trigger （Ver1.1）",
   "preview": "https://phira.5wyxi.com/files/595058c4-98e2-42f2-a16a-8fe9921587a0",
   "ranked": false,
-  "rating": 0.8594271,
-  "ratingCount": 179,
+  "rating": 0.8648831,
+  "ratingCount": 185,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

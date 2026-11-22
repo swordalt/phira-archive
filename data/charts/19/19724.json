@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:12Z",
-    "lastChanged": "2026-09-21T02:02:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-09T08:56:40.138085Z",
   "charter": "引羽小垚",
@@ -14,6 +14,7 @@
   "description": "这是我做的第十七个自制谱，又是一年五月，给我5分钟，马上来！\n（过了一会儿……）\n能再给我10分钟吗？",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/122a2ff6-932e-4c8e-bf67-a65fed89f2b6",
+  "hidden": false,
   "id": 19724,
   "illustration": "https://phira.5wyxi.com/files/2aa6a6c5-3487-44fd-9be8-02f2ff96973c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "おちゃめ機能",
   "preview": "https://phira.5wyxi.com/files/2861a4c5-2682-4e9a-a3fc-71de4924b537",
   "ranked": false,
-  "rating": 0.91102153,
-  "ratingCount": 1437,
+  "rating": 0.9118558,
+  "ratingCount": 1482,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

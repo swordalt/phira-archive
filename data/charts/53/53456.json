@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:46Z",
-    "lastChanged": "2026-09-21T02:06:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-26T12:11:34.866747Z",
   "charter": "drunken",
@@ -14,6 +14,7 @@
   "description": "难度12下位的叠切，手感好",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/503ce700-bc7f-445c-93e7-e9189bacbe0b",
+  "hidden": false,
   "id": 53456,
   "illustration": "https://phira.5wyxi.com/files/60ddefe8-8dd6-42ca-9182-583b5d4252f4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Final Moments",
   "preview": "https://phira.5wyxi.com/files/82205f4b-b7d6-49a8-88f6-b5b56a518211",
   "ranked": false,
-  "rating": 0.94855964,
-  "ratingCount": 43,
+  "rating": 0.94790584,
+  "ratingCount": 53,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:21Z",
-    "lastChanged": "2026-09-21T02:02:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-06T10:37:22.990799Z",
   "charter": "Eason_AC",
@@ -14,6 +14,7 @@
   "description": "废稿\n不一定会传到B站上",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/affeac24-aede-40a3-a26c-996434ed4c09",
+  "hidden": false,
   "id": 22776,
   "illustration": "https://phira.5wyxi.com/files/117baab1-98bb-45fe-b5a6-310467e71f54",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Baby",
   "preview": "https://phira.5wyxi.com/files/2d26d486-8238-4d25-9580-990f7db4d122",
   "ranked": false,
-  "rating": 0.908581,
-  "ratingCount": 392,
+  "rating": 0.9065776,
+  "ratingCount": 414,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

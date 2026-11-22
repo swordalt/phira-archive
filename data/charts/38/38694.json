@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:19Z",
-    "lastChanged": "2026-09-21T02:03:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-25T08:22:14.201423Z",
   "charter": "羊批QAQ",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/564f4e8c-62e1-49cb-abb3-dd0bdc90ca19",
+  "hidden": false,
   "id": 38694,
   "illustration": "https://phira.5wyxi.com/files/b3a9d9b9-286e-4054-ba7e-5f19abb6ff99",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "天空之城",
   "preview": "https://phira.5wyxi.com/files/93bd7682-6769-4c04-868a-4d93a6e0a240",
   "ranked": false,
-  "rating": 0.7639511,
-  "ratingCount": 135,
+  "rating": 0.7653323,
+  "ratingCount": 141,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

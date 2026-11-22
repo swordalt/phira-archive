@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:56Z",
-    "lastChanged": "2026-09-21T02:02:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-17T04:33:36.088691Z",
   "charter": "橘風 ft.DarkTEM",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/8f3ac587-5a75-4fec-bf01-7e3c732513fe",
+  "hidden": false,
   "id": 31927,
   "illustration": "https://phira.5wyxi.com/files/ec5b0243-6a21-497a-8ff8-de3ca5877448",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dual Doom Deathmatch",
   "preview": "https://phira.5wyxi.com/files/47ef0c52-bf30-4cec-84e0-2e88f9ffc803",
   "ranked": false,
-  "rating": 0.7333037,
-  "ratingCount": 45,
+  "rating": 0.73814845,
+  "ratingCount": 47,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

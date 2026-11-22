@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:28Z",
-    "lastChanged": "2026-09-21T02:05:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-27T03:44:03.078228Z",
   "charter": "Winde",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/1e1309d0-533b-4aa2-8ca0-eb21fd0d7df0",
+  "hidden": false,
   "id": 32567,
   "illustration": "https://phira.5wyxi.com/files/28d6ba5e-33c9-4544-ad88-98d21f57b2ef",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "翻转岩石，晨光洒落你身",
   "preview": "https://phira.5wyxi.com/files/92ade9cd-bac6-461e-ba09-d0c14e6e0c4c",
   "ranked": false,
-  "rating": 0.61577564,
-  "ratingCount": 29,
+  "rating": 0.62748814,
+  "ratingCount": 28,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

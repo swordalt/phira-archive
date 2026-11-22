@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-27T08:02:44Z",
-    "lastChanged": "2026-09-28T00:36:34Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:02:44Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-04-08T04:47:47.164843Z",
   "charter": "Kiliion",
@@ -14,6 +14,7 @@
   "description": "谱师为我本人。有变速地方，初见需注意",
   "difficulty": 36.0,
   "file": "https://phira.5wyxi.com/files/983ff9e8-24e6-410b-a3e5-6b13f3c5b799",
+  "hidden": false,
   "id": 55410,
   "illustration": "https://phira.5wyxi.com/files/a92dbf17-5ab0-4e66-9560-35ee810c8994",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "せかいから____がきえるとき",
   "preview": "https://phira.5wyxi.com/files/d1a143db-2d37-4ed8-b226-8af64a53d747",
   "ranked": false,
-  "rating": 0.755949,
-  "ratingCount": 2,
+  "rating": 0.9179565,
+  "ratingCount": 32,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

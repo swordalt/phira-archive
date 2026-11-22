@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:31Z",
-    "lastChanged": "2026-09-21T02:02:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-05T09:10:55.319831Z",
   "charter": "我",
@@ -14,6 +14,7 @@
   "description": "BV1mQaoejE6q\n看不见",
   "difficulty": 13.700003,
   "file": "https://phira.5wyxi.com/files/54bb9a70-f271-40c1-972d-30f8e7742708",
+  "hidden": false,
   "id": 25342,
   "illustration": "https://phira.5wyxi.com/files/29400810-946c-45b2-bee8-4e4785d40f29",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "A Gleam For The Sightless",
   "preview": "https://phira.5wyxi.com/files/1e425f54-5ab5-4918-b50f-d0c3e8bc97cd",
   "ranked": true,
-  "rating": 0.8716125,
-  "ratingCount": 591,
+  "rating": 0.8699737,
+  "ratingCount": 596,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

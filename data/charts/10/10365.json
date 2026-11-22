@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-11T10:29:54.205321Z",
   "charter": "Allen",
@@ -14,6 +14,7 @@
   "description": "第一張譜 爛很正常（改過譜）",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/fd875440-2a90-45d5-aa69-8821d53b6690",
+  "hidden": false,
   "id": 10365,
   "illustration": "https://phira.5wyxi.com/files/80eb14ef-b325-4798-a34c-9f8f5e76a705",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ANOMALY",
   "preview": "https://phira.5wyxi.com/files/4c279c25-7326-4507-825d-f6bd66c19397",
   "ranked": false,
-  "rating": 0.89539903,
-  "ratingCount": 325,
+  "rating": 0.89573425,
+  "ratingCount": 327,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

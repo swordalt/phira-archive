@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:48Z",
-    "lastChanged": "2026-09-21T02:03:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-01T03:44:25.481919Z",
   "charter": "Flyingfish812",
@@ -14,6 +14,7 @@
   "description": "5thWJC L2 No.11 B站指路：BV1aDhkzTE1p",
   "difficulty": 16.600002,
   "file": "https://phira.5wyxi.com/files/de710322-da7e-4fbe-a22d-cd371e4c8cd0",
+  "hidden": false,
   "id": 46245,
   "illustration": "https://phira.5wyxi.com/files/a013e792-093e-4558-b7d2-efa15d076c38",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "古典哈基米：野哈飞舞",
   "preview": "https://phira.5wyxi.com/files/261fe77b-eeca-4ee5-9256-e92a4895f440",
   "ranked": false,
-  "rating": 0.8972955,
-  "ratingCount": 5211,
+  "rating": 0.89630765,
+  "ratingCount": 5393,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

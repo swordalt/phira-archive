@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:05Z",
-    "lastChanged": "2026-09-21T02:03:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-23T01:47:17.775189Z",
   "charter": "MikuQ2Q-phira wwsde",
@@ -14,6 +14,7 @@
   "description": "舞动的箭头",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/be093fb3-782e-4678-a9e2-3a7a27d31f06",
+  "hidden": false,
   "id": 34364,
   "illustration": "https://phira.5wyxi.com/files/92c999bc-cf94-4d88-bc1e-c395ce329281",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "星と僕らと (tofubeats Remix)",
   "preview": "https://phira.5wyxi.com/files/a72d450b-87fd-4dbf-8e12-8a3e27a1994d",
   "ranked": false,
-  "rating": 0.8374863,
-  "ratingCount": 2355,
+  "rating": 0.8376498,
+  "ratingCount": 2391,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

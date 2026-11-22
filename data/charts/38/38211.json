@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:15Z",
-    "lastChanged": "2026-09-21T02:06:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-17T13:51:10.696567Z",
   "charter": "PG_2523",
@@ -14,6 +14,7 @@
   "description": "132中大叠，有纵慎入，不耐，可能8到8+吧",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/266f19ac-83b2-483e-a03d-cc1e285c8b2d",
+  "hidden": false,
   "id": 38211,
   "illustration": "https://phira.5wyxi.com/files/47c29fe6-9a5a-47e2-b712-e31c495c7944",
   "illustrator": "",

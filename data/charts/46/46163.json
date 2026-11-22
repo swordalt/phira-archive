@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:48Z",
-    "lastChanged": "2026-09-21T02:03:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-30T14:21:11.889299Z",
   "charter": "WZMC82",
@@ -14,6 +14,7 @@
   "description": "谱师本人上次，新人初谱，**杯校内比赛谱面",
   "difficulty": 16.900003,
   "file": "https://phira.5wyxi.com/files/5c405ba4-b128-45ed-ab71-c8b1151a83cd",
+  "hidden": false,
   "id": 46163,
   "illustration": "https://phira.5wyxi.com/files/32483d56-1441-4aa8-b1a9-6de7d51d213f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Crimson Empire",
   "preview": "https://phira.5wyxi.com/files/2a8af9bb-7d4e-4a7c-9639-898c9d4d1fc7",
   "ranked": false,
-  "rating": 0.8768932,
-  "ratingCount": 172,
+  "rating": 0.87702453,
+  "ratingCount": 173,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

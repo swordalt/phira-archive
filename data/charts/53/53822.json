@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:27Z",
-    "lastChanged": "2026-09-21T02:04:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-15T10:06:30.873961Z",
   "charter": "时音海",
@@ -14,6 +14,7 @@
   "description": "目前做的最好的一个谱面。B站@时音海。",
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/bf751fa6-dc92-45c4-a33b-32baa3f21cce",
+  "hidden": false,
   "id": 53822,
   "illustration": "https://phira.5wyxi.com/files/30393f8b-502d-4ace-b25d-8ad164fe3847",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "完美偶像",
   "preview": "https://phira.5wyxi.com/files/b0f9a26e-6a3e-4cfa-8d83-4ce43b65ce7f",
   "ranked": false,
-  "rating": 0.8665608,
-  "ratingCount": 445,
+  "rating": 0.867988,
+  "ratingCount": 451,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

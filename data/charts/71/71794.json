@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-27T08:02:17Z",
-    "lastChanged": "2026-09-27T18:17:49Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:00Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-08-07T04:31:35.678873Z",
   "charter": "牢杜鹃31",
@@ -14,6 +14,7 @@
   "description": "作者的第二个作品，awa",
   "difficulty": 12.400001,
   "file": "https://phira.5wyxi.com/files/68b8b902-6c53-4756-86b7-80da140c16ee",
+  "hidden": false,
   "id": 71794,
   "illustration": "https://phira.5wyxi.com/files/7f05dd7b-5dd1-43d0-a3e1-a1418a5cf248",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Samsara",
   "preview": "https://phira.5wyxi.com/files/0c177d83-6c4e-4dc5-ab6d-0684df0ba719",
   "ranked": false,
-  "rating": 0.774984,
-  "ratingCount": 6,
+  "rating": 0.6858569,
+  "ratingCount": 109,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

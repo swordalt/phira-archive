@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:18Z",
-    "lastChanged": "2026-10-25T09:29:47Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:21Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-25T08:32:14.200716Z",
   "charter": "~ 雪麦 ~",
@@ -14,6 +14,7 @@
   "description": "越写到后面越没什么想法了（\n板子写的，无电脑，使用Win虚拟机\n\nB站谱面视频：BV1P3Y963EPR\nB站：@是小麦呐_#8422\n本人上传",
   "difficulty": 14.1,
   "file": "https://phira.5wyxi.com/files/ce881d8c-985f-4621-9a70-57a8bb872bc9",
+  "hidden": false,
   "id": 78480,
   "illustration": "https://phira.5wyxi.com/files/a5094950-605f-4538-8d7b-77ab861b7342",
   "illustrator": "Mad Project (@Orzmic)",
@@ -21,8 +22,8 @@
   "name": "Snow Dance",
   "preview": "https://phira.5wyxi.com/files/af72678c-a1a5-4a47-9e51-88e64e2b7ec3",
   "ranked": false,
-  "rating": 0.9125434,
-  "ratingCount": 407,
+  "rating": 0.9100338,
+  "ratingCount": 662,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

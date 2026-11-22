@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:24Z",
-    "lastChanged": "2026-09-21T02:06:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-21T07:43:00.556256Z",
   "charter": "Iblcya",
@@ -14,6 +14,7 @@
   "description": "说太多就传不上去了",
   "difficulty": 11.7,
   "file": "https://phira.5wyxi.com/files/35d15cb6-332f-4622-9735-dc7be4c26b67",
+  "hidden": false,
   "id": 42291,
   "illustration": "https://phira.5wyxi.com/files/b96b832a-9c78-4907-a021-97dedfbc3de7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "macro.w□□",
   "preview": "https://phira.5wyxi.com/files/7fbe4642-d259-4033-b392-36a733489188",
   "ranked": false,
-  "rating": 0.91249174,
-  "ratingCount": 32,
+  "rating": 0.91006523,
+  "ratingCount": 35,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

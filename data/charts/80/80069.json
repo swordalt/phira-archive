@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-04T06:46:30Z",
-    "lastChanged": "2026-10-18T09:09:19Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:24Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-04T05:09:03.819356Z",
   "charter": "母鸡Sama",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传 谱面为 骐骥杯 比赛谱面，特别感谢Ezcape_82对多指段的修缮",
   "difficulty": 16.900002,
   "file": "https://phira.5wyxi.com/files/ff5b0bed-4e1a-49fa-b281-6ab2d9e228e5",
+  "hidden": false,
   "id": 80069,
   "illustration": "https://phira.5wyxi.com/files/c4575cd6-e1e7-4f7c-b0c6-46348f182f4d",
   "illustrator": "煎茶",
@@ -21,8 +22,8 @@
   "name": "Melodiniq(低配）",
   "preview": "https://phira.5wyxi.com/files/989d966c-bb1c-4814-b4a1-0ef895f1ad7d",
   "ranked": false,
-  "rating": 0.8843563,
-  "ratingCount": 141,
+  "rating": 0.8983095,
+  "ratingCount": 203,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

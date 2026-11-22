@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:02Z",
-    "lastChanged": "2026-09-21T02:02:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-31T15:38:41.013920Z",
   "charter": "LogicM",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.500004,
   "file": "https://phira.5wyxi.com/files/84cd7166-eb2e-4f67-a5ad-459ffdf75205",
+  "hidden": false,
   "id": 16686,
   "illustration": "https://phira.5wyxi.com/files/e379adf2-1184-4e89-8e01-d2fb1194ed72",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "星河一天",
   "preview": "https://phira.5wyxi.com/files/44b54152-f802-431d-88d9-56b477f90967",
   "ranked": false,
-  "rating": 0.8815184,
-  "ratingCount": 512,
+  "rating": 0.8811342,
+  "ratingCount": 519,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

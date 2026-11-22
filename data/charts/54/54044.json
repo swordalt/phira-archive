@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:28Z",
-    "lastChanged": "2026-09-21T02:04:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-11T17:11:25.818699Z",
   "charter": "凌晓璇",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/27858aa5-40e8-46ea-839f-3c3f1972ae4b",
+  "hidden": false,
   "id": 54044,
   "illustration": "https://phira.5wyxi.com/files/42060273-d4e5-4b44-aa11-2ba4655e5bc2",
   "illustrator": "",

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:16Z",
-    "lastChanged": "2026-09-21T02:01:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-18T08:24:15.999982Z",
   "charter": "Horei2on",
@@ -14,6 +14,7 @@
   "description": "来点虹虹！",
   "difficulty": 14.600002,
   "file": "https://phira.5wyxi.com/files/7e99d0ca-e680-4c19-8949-ee8e4f01f448",
+  "hidden": false,
   "id": 3689,
   "illustration": "https://phira.5wyxi.com/files/454b4ccb-2e6b-4a8f-87b4-3e76dc681e88",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "わちゅごなどぅー",
   "preview": "https://phira.5wyxi.com/files/38096831-76b0-4d5b-8c7f-e0388d058c59",
   "ranked": false,
-  "rating": 0.9338482,
-  "ratingCount": 269,
+  "rating": 0.9339715,
+  "ratingCount": 271,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

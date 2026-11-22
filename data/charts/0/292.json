@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:05Z",
-    "lastChanged": "2026-09-21T02:01:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "Àqua PrIsm 233",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 14.5,
   "file": "https://phira.5wyxi.com/files/85519dae-664b-4150-b7cb-c251f4c7b17e",
+  "hidden": false,
   "id": 292,
   "illustration": "https://phira.5wyxi.com/files/68e9e75d-017d-4c5d-821f-1f06b54ca822",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Àqua Prism",
   "preview": "https://phira.5wyxi.com/files/671d1c2c-b58a-4504-b21b-6ce71527e855",
   "ranked": false,
-  "rating": 0.9435751,
-  "ratingCount": 1182,
+  "rating": 0.9435813,
+  "ratingCount": 1189,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

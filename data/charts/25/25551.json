@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:31Z",
-    "lastChanged": "2026-09-21T02:02:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-07T10:16:25.900581Z",
   "charter": "Griddle煎盘/CHOUzz_2085",
@@ -14,6 +14,7 @@
   "description": "B站@Griddle煎盘 与 @人机de抽子 联合写谱",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/4f8b0c24-856d-4ee4-87cc-09982de8e091",
+  "hidden": false,
   "id": 25551,
   "illustration": "https://phira.5wyxi.com/files/c67a5fc4-4c97-45fb-82fb-e576c6129e76",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "月夜剧院",
   "preview": "https://phira.5wyxi.com/files/a3dfce85-1a9e-4108-a79a-26d7eb96ff74",
   "ranked": false,
-  "rating": 0.8808221,
-  "ratingCount": 92,
+  "rating": 0.8780512,
+  "ratingCount": 98,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

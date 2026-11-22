@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:17Z",
-    "lastChanged": "2026-09-21T02:01:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-01T22:32:13.787423Z",
   "charter": "白绒绒",
@@ -14,6 +14,7 @@
   "description": "花了点时间好好学习怎么写特效，但是看起来还是好僵硬",
   "difficulty": 14.600002,
   "file": "https://phira.5wyxi.com/files/6cc291d6-6ec4-41de-87fc-09561346f3bd",
+  "hidden": false,
   "id": 4382,
   "illustration": "https://phira.5wyxi.com/files/0d9e4ed5-6ba5-463d-8b36-17912768ff12",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "PSYCHOKINESIS",
   "preview": "https://phira.5wyxi.com/files/4babe02f-1ea3-4ce0-8f4c-b221bc6f8d16",
   "ranked": false,
-  "rating": 0.8986089,
-  "ratingCount": 181,
+  "rating": 0.8986522,
+  "ratingCount": 182,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

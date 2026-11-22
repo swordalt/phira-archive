@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:37Z",
-    "lastChanged": "2026-09-21T02:03:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-07T09:53:08.792034Z",
   "charter": "Lychee",
@@ -14,6 +14,7 @@
   "description": "牛尾宪辅的夜间巡航",
   "difficulty": 6.0,
   "file": "https://phira.5wyxi.com/files/ce297ddc-c529-4f72-8b74-41c8b1f703d1",
+  "hidden": false,
   "id": 43932,
   "illustration": "https://phira.5wyxi.com/files/7d08d3ea-4fb5-41e0-a538-fd4272d73e02",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Night Cruising 夜间巡航",
   "preview": "https://phira.5wyxi.com/files/d4f1b74d-58d2-4a60-b047-a36f4edbfdf9",
   "ranked": false,
-  "rating": 0.8119717,
-  "ratingCount": 824,
+  "rating": 0.85658026,
+  "ratingCount": 4363,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

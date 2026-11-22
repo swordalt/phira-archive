@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:39Z",
-    "lastChanged": "2026-09-21T02:03:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-11T20:37:13.385617Z",
   "charter": "枫剑",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/f56e178d-8fb4-443e-a3cf-3c7b8aba98ea",
+  "hidden": false,
   "id": 44381,
   "illustration": "https://phira.5wyxi.com/files/9556038a-1dde-422b-bd39-87e34d4a4567",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "contact",
   "preview": "https://phira.5wyxi.com/files/5e203f98-4065-48aa-8f21-b7eaa4d0d542",
   "ranked": false,
-  "rating": 0.840517,
-  "ratingCount": 21,
+  "rating": 0.8465778,
+  "ratingCount": 22,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

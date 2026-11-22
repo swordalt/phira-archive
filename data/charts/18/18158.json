@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:23Z",
-    "lastChanged": "2026-09-21T02:05:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-06T11:40:51.191416Z",
   "charter": "WSPDZ",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.200005,
   "file": "https://phira.5wyxi.com/files/3a2642e7-6fee-4059-b8d7-fa499f6b77e3",
+  "hidden": false,
   "id": 18158,
   "illustration": "https://phira.5wyxi.com/files/4d921ab8-1010-4fd8-a61a-42573ec92911",
   "illustrator": "",

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:53Z",
-    "lastChanged": "2026-09-21T02:04:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-01T10:11:15.260735Z",
   "charter": "秦艽",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传。新人第一次写高难可能手感会很差。",
   "difficulty": 18.000004,
   "file": "https://phira.5wyxi.com/files/824cd1af-63d5-4444-a880-ab0ec7da5d85",
+  "hidden": false,
   "id": 63470,
   "illustration": "https://phira.5wyxi.com/files/339923d5-4c58-4d4b-b9a1-1242b8abe710",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Yorugao",
   "preview": "https://phira.5wyxi.com/files/0946ac26-bced-430e-a1ab-568834bfd303",
   "ranked": false,
-  "rating": 0.8041453,
-  "ratingCount": 75,
+  "rating": 0.80901426,
+  "ratingCount": 77,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

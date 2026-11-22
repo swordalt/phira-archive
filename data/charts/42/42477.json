@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:32Z",
-    "lastChanged": "2026-09-21T02:03:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-23T02:51:28.218661Z",
   "charter": "LiteT",
@@ -14,6 +14,7 @@
   "description": "新人第一次制谱，部分片段有些瑕疵，请多包涵",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/fca63f8a-9946-4a16-beae-4adeb94e0981",
+  "hidden": false,
   "id": 42477,
   "illustration": "https://phira.5wyxi.com/files/b2a7f950-320b-41ef-a7e4-58e4a73365cb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "管道(Pipeline)",
   "preview": "https://phira.5wyxi.com/files/678d1f5f-4caf-4a0c-bd4c-b2aace0996d5",
   "ranked": false,
-  "rating": 0.8273963,
-  "ratingCount": 131,
+  "rating": 0.8324914,
+  "ratingCount": 135,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

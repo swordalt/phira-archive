@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:25Z",
-    "lastChanged": "2026-09-21T02:02:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-22T12:06:06.106989Z",
   "charter": "你好喵",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.500002,
   "file": "https://phira.5wyxi.com/files/f12471d0-36c1-48fe-8cf2-2f038f58a7cf",
+  "hidden": false,
   "id": 24080,
   "illustration": "https://phira.5wyxi.com/files/44305a5e-e884-4e0a-a559-7df99a306097",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "8番出口",
   "preview": "https://phira.5wyxi.com/files/47f2be62-2aba-4fdf-a585-7b4aba4e99be",
   "ranked": false,
-  "rating": 0.89812666,
-  "ratingCount": 835,
+  "rating": 0.8985766,
+  "ratingCount": 855,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

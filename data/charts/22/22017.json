@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:19Z",
-    "lastChanged": "2026-09-21T02:02:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-27T08:34:03.336925Z",
   "charter": "Abnormlily",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 13.400002,
   "file": "https://phira.5wyxi.com/files/d4c93b97-6146-4714-9334-514ba5f039d6",
+  "hidden": false,
   "id": 22017,
   "illustration": "https://phira.5wyxi.com/files/d8041ace-d6b2-4f4d-bf7c-e5e55acd8147",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "Nyandemic!",
   "preview": "https://phira.5wyxi.com/files/94f76cdb-c6f4-437b-81c9-25586d91765b",
   "ranked": false,
-  "rating": 0.9242544,
+  "rating": 0.9239537,
   "ratingCount": 68,
   "reviewed": true,
   "stable": false,

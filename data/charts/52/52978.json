@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:22Z",
-    "lastChanged": "2026-09-21T02:04:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-19T08:53:52.951275Z",
   "charter": "YeeHan",
@@ -14,6 +14,7 @@
   "description": "谱师：B站 夜寒YeeHan（本人上传）\n因为喜欢SHIKI这首就写了这谱子\n新人初谱，请多关照",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/dd6aee03-1de7-4cbd-bd40-3e7c1b8f6c57",
+  "hidden": false,
   "id": 52978,
   "illustration": "https://phira.5wyxi.com/files/34dcbebe-bfe9-4449-b0ff-d36411262296",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "BABYLON",
   "preview": "https://phira.5wyxi.com/files/0f8eeeae-b345-4d9e-aaa7-16353a40e94f",
   "ranked": false,
-  "rating": 0.7944284,
-  "ratingCount": 13,
+  "rating": 0.8055944,
+  "ratingCount": 15,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

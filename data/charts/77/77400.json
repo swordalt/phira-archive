@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:15Z",
-    "lastChanged": "2026-09-21T02:05:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-06T14:24:13.623646Z",
   "charter": "华庆铮",
@@ -14,6 +14,7 @@
   "description": "6thWJC G1No.22",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/e9ac5f99-1f43-4242-a579-4b53ecd13c7d",
+  "hidden": false,
   "id": 77400,
   "illustration": "https://phira.5wyxi.com/files/0e2a4738-a7a6-42d3-8114-a0fca98a2f15",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ViRTUS",
   "preview": "https://phira.5wyxi.com/files/69362101-c6df-4adf-846f-fccd7c41365f",
   "ranked": false,
-  "rating": 0.8925726,
-  "ratingCount": 67,
+  "rating": 0.8899673,
+  "ratingCount": 108,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

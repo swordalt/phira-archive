@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:18Z",
-    "lastChanged": "2026-09-21T02:03:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-17T08:37:32.881350Z",
   "charter": "醋酸铅是弱电解质",
@@ -14,6 +14,7 @@
   "description": "蔚蓝档案6th PV\n尝试一下新的风格\n\n2025/5/17更新：\n优化动效，调整部分排键，定数调至14\n修复不同比例下的显示bug",
   "difficulty": 14.9,
   "file": "https://phira.5wyxi.com/files/3b07a5cb-4520-4830-bddb-e10581554432",
+  "hidden": false,
   "id": 38025,
   "illustration": "https://phira.5wyxi.com/files/3fa34d30-39ad-4e39-af10-da8481119d33",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "6th PV Theme",
   "preview": "https://phira.5wyxi.com/files/24c3ef06-aea7-4474-b838-31e191c6c1c0",
   "ranked": false,
-  "rating": 0.95543325,
-  "ratingCount": 3167,
+  "rating": 0.9546944,
+  "ratingCount": 3287,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:03Z",
-    "lastChanged": "2026-09-21T02:06:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-11T05:12:12.143355Z",
   "charter": "Hexflasher",
@@ -14,6 +14,7 @@
   "description": "6k new map made by Hexflasher\nJackBurger V1 Part.1\n----------\nName:星が降らない街\nArtist:黑魔\nType:Jack\nBPM:165\nDifficulty:Candy\n6k Difficulty:[13]\n----------\n本人为新手谱师，谱面都为本人精心制作，当然目前是开始，质量会很差，请多多包涵，对谱面有建议，评价，甚至批判，都可以联系我。",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/5a650218-bc92-449b-b2f4-c0e8797ed099",
+  "hidden": false,
   "id": 29605,
   "illustration": "https://phira.5wyxi.com/files/c29ea6ba-b426-4660-885b-94f1fefabd39",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "星が降らない街",
   "preview": "https://phira.5wyxi.com/files/336dd19b-d1a2-4ec4-8935-56f391e6a85a",
   "ranked": false,
-  "rating": 0.94990736,
-  "ratingCount": 212,
+  "rating": 0.9494957,
+  "ratingCount": 220,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:59Z",
-    "lastChanged": "2026-09-21T02:06:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-30T03:32:09.078155Z",
   "charter": "shaowu/2884omgpy",
@@ -14,6 +14,7 @@
   "description": "已经过2884omgpy谱师同意，合作谱（？）玩的愉快。重传",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/c1d0e5d6-dac4-4cc8-b08f-deee237f46b0",
+  "hidden": false,
   "id": 70049,
   "illustration": "https://phira.5wyxi.com/files/39a67570-1ab4-4b34-888e-68900afb27d5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Qualifie",
   "preview": "https://phira.5wyxi.com/files/e9acc5ca-c94b-42d4-baae-bba640af7d28",
   "ranked": false,
-  "rating": 0.8915768,
-  "ratingCount": 687,
+  "rating": 0.89657974,
+  "ratingCount": 737,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:33Z",
-    "lastChanged": "2026-09-21T02:02:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-14T11:10:35.189361Z",
   "charter": "TAT",
@@ -14,6 +14,7 @@
   "description": "第三张。定数15.9\nb站已发\nb站：このfw一个韩涵TAT503",
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/d90bbc77-c007-43d3-b281-f9bb89fd473e",
+  "hidden": false,
   "id": 26237,
   "illustration": "https://phira.5wyxi.com/files/54e52f07-fbba-4ea2-a046-eb48139e0ecc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Everlasting Rain",
   "preview": "https://phira.5wyxi.com/files/885cc915-8816-452a-a386-6ba35116659b",
   "ranked": false,
-  "rating": 0.81180656,
-  "ratingCount": 87,
+  "rating": 0.8159716,
+  "ratingCount": 89,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

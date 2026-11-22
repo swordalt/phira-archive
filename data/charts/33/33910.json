@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-12T13:04:37.532756Z",
   "charter": "Aether",
@@ -14,6 +14,7 @@
   "description": "过段条件：无暂acc96 谱面预览：BV12GKjehEHm",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/4c828f90-7e1d-48e0-9087-fc51a0a59e90",
+  "hidden": false,
   "id": 33910,
   "illustration": "https://phira.5wyxi.com/files/be3be9ed-e0c5-4b08-9c4d-84da67219e7b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dan Wheelchair",
   "preview": "https://phira.5wyxi.com/files/b924ddba-ab5f-4c89-a011-2974b0bafb5f",
   "ranked": false,
-  "rating": 0.87862897,
-  "ratingCount": 29,
+  "rating": 0.88125265,
+  "ratingCount": 32,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

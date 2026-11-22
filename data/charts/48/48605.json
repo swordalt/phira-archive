@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:00Z",
-    "lastChanged": "2026-09-21T02:04:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-01T01:44:10.267010Z",
   "charter": "云三个点 feat. CloudSkyStar",
@@ -14,6 +14,7 @@
   "description": "本人上传，已经过其他谱师同意。\n\n按道理来说是写完的第三张谱。",
   "difficulty": 12.799998,
   "file": "https://phira.5wyxi.com/files/ff1db316-bb07-4ab0-b892-5178ba999bde",
+  "hidden": false,
   "id": 48605,
   "illustration": "https://phira.5wyxi.com/files/5c54ea81-eb64-4331-96ed-3ca02dcf0ffd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "云女孩",
   "preview": "https://phira.5wyxi.com/files/ef5ce694-7d1e-4f6c-b99a-cb07e3a8223a",
   "ranked": false,
-  "rating": 0.93267834,
-  "ratingCount": 478,
+  "rating": 0.9344106,
+  "ratingCount": 516,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

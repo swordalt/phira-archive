@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:42Z",
-    "lastChanged": "2026-09-21T02:04:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-17T10:50:41.653282Z",
   "charter": "fcYz0Tak",
@@ -14,6 +14,7 @@
   "description": "新人初谱",
   "difficulty": 18.499994,
   "file": "https://phira.5wyxi.com/files/8616ea73-0120-4ce1-b8ac-fc2e795df53a",
+  "hidden": false,
   "id": 58596,
   "illustration": "https://phira.5wyxi.com/files/3ee74e25-f6ae-42cf-94d2-dd3f21e35421",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Distortion Human",
   "preview": "https://phira.5wyxi.com/files/1523e799-961c-42b9-b1a1-01eb4ba83092",
   "ranked": false,
-  "rating": 0.7093302,
-  "ratingCount": 75,
+  "rating": 0.7167852,
+  "ratingCount": 77,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

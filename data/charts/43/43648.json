@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:37Z",
-    "lastChanged": "2026-09-21T02:03:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-04T06:47:48.824659Z",
   "charter": "XiLp",
@@ -14,6 +14,7 @@
   "description": "太高质了",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/ed2cad98-6cd3-4969-be6f-494dae609e59",
+  "hidden": false,
   "id": 43648,
   "illustration": "https://phira.5wyxi.com/files/c593c1d0-8095-4544-bd07-116f354db05c",
   "illustrator": "",

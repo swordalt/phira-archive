@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:17Z",
-    "lastChanged": "2026-09-21T02:02:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-18T15:47:03.096762Z",
   "charter": "InterJoke",
@@ -14,6 +14,7 @@
   "description": "本人上传，只改了一点点\n极远古谱面，发布于2021/11/15\n\n感觉有点无从改起的谱面\n可能是因为这最初就是参考\nFinal Step！风格写的八股谱罢\n\n总之先放出来，后面慢慢改\n可玩性还算有一点（",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/cfab47eb-9cb4-46a2-ae64-2bfe18bf461e",
+  "hidden": false,
   "id": 21509,
   "illustration": "https://phira.5wyxi.com/files/40101177-6c38-434c-b2fc-dfb1343db475",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "smiling",
   "preview": "https://phira.5wyxi.com/files/19a6ce80-9274-4c8e-83bb-24b2400c4822",
   "ranked": false,
-  "rating": 0.9188864,
-  "ratingCount": 152,
+  "rating": 0.9192648,
+  "ratingCount": 153,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

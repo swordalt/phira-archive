@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:16Z",
-    "lastChanged": "2026-09-21T02:03:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-05T04:46:51.612445Z",
   "charter": "StarsTwinkle",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/42a9f1c5-f55d-4759-b724-03bfffe3f399",
+  "hidden": false,
   "id": 37616,
   "illustration": "https://phira.5wyxi.com/files/3ceab9ad-cd59-4899-b0e5-1699ed9fab92",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ark",
   "preview": "https://phira.5wyxi.com/files/fd63a0de-013c-440c-9b80-41292667377b",
   "ranked": false,
-  "rating": 0.73359185,
-  "ratingCount": 198,
+  "rating": 0.7328951,
+  "ratingCount": 202,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

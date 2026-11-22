@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:23Z",
-    "lastChanged": "2026-09-21T02:05:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-28T09:21:35.088420Z",
   "charter": "茶子",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/72c8a769-839a-4188-99f3-de007eb01fae",
+  "hidden": false,
   "id": 19003,
   "illustration": "https://phira.5wyxi.com/files/189a4e8e-fecd-4258-beac-76df7286a7c2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "迷你世界背景音乐",
   "preview": "https://phira.5wyxi.com/files/ddae6302-ecf9-4f5e-be97-3938285502f1",
   "ranked": false,
-  "rating": 0.8451341,
-  "ratingCount": 2425,
+  "rating": 0.8464627,
+  "ratingCount": 2472,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

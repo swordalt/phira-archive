@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:51Z",
-    "lastChanged": "2026-09-21T02:05:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-30T13:05:16.608669Z",
   "charter": "澜汐Eaule",
@@ -14,6 +14,7 @@
   "description": "合作谱的纯配置版本",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/a329da29-8b39-49e8-998e-002d91951883",
+  "hidden": false,
   "id": 22317,
   "illustration": "https://phira.5wyxi.com/files/f7d2340e-76f2-4275-99aa-4ef2a016b712",
   "illustrator": "",

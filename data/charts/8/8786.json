@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:30Z",
-    "lastChanged": "2026-09-21T02:01:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-30T07:48:02.614338Z",
   "charter": "射〇の粒子",
@@ -14,6 +14,7 @@
   "description": "新人第一张谱面，希望大家能喜欢呜呜呜（本人，非代发，哔哩哔哩uid382104903。手元@本人即可）",
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/37e9e716-cc1b-4d75-a378-7b068658201f",
+  "hidden": false,
   "id": 8786,
   "illustration": "https://phira.5wyxi.com/files/aa657e1b-2a39-4c64-9daf-0343fe00eb54",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ナイト・オブ・ナイツ (USAO Remix)",
   "preview": "https://phira.5wyxi.com/files/34f5e1fc-545f-4642-93b5-acf35826d439",
   "ranked": false,
-  "rating": 0.8833944,
-  "ratingCount": 636,
+  "rating": 0.88347113,
+  "ratingCount": 642,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

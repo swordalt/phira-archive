@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:11Z",
-    "lastChanged": "2026-09-21T02:03:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-14T14:26:40.474920Z",
   "charter": "Nørmal DiSTribuTiØN -Før the Legends-",
@@ -14,6 +14,7 @@
   "description": "本人上传，25/6/14更新谱面和定数",
   "difficulty": 17.300001,
   "file": "https://phira.5wyxi.com/files/f733ae49-919a-4bc7-a782-1bd4c444481a",
+  "hidden": false,
   "id": 36374,
   "illustration": "https://phira.5wyxi.com/files/517f880c-2870-4d84-a273-236120e8bb22",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "sølips",
   "preview": "https://phira.5wyxi.com/files/71e027fb-9233-4a9b-bfe3-3d721077815a",
   "ranked": false,
-  "rating": 0.6445614,
-  "ratingCount": 48,
+  "rating": 0.6525395,
+  "ratingCount": 50,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

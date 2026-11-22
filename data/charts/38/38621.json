@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:15Z",
-    "lastChanged": "2026-09-21T02:06:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-24T15:35:38.907441Z",
   "charter": "星轨xY",
@@ -14,6 +14,7 @@
   "description": "作者本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/76259bce-d294-495d-bf94-dd2831c3eb52",
+  "hidden": false,
   "id": 38621,
   "illustration": "https://phira.5wyxi.com/files/f1fc48bd-ad79-4894-9e5c-af2204c5bc68",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "命日",
   "preview": "https://phira.5wyxi.com/files/5ef2d5d4-df96-4e72-93fe-22d3cca24ffb",
   "ranked": false,
-  "rating": 0.7236113,
+  "rating": 0.7330049,
   "ratingCount": 13,
   "reviewed": true,
   "stable": false,

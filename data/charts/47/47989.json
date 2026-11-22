@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:32Z",
-    "lastChanged": "2026-09-21T02:05:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-12T09:32:59.927430Z",
   "charter": "Hshshshshq",
@@ -14,6 +14,7 @@
   "description": "请输入文本",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/2ce75d86-c2c9-4f58-9b4a-c6940d5958cb",
+  "hidden": false,
   "id": 47989,
   "illustration": "https://phira.5wyxi.com/files/3ba290da-86a8-48e5-935c-277aa589c7ea",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "弹舌",
   "preview": "https://phira.5wyxi.com/files/941935f2-a107-418f-8ace-5d254a93dbf6",
   "ranked": false,
-  "rating": 0.8231975,
-  "ratingCount": 115,
+  "rating": 0.81955427,
+  "ratingCount": 121,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:05Z",
-    "lastChanged": "2026-09-21T02:06:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-07T16:24:44.149645Z",
   "charter": "PFZ",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/2b144e08-3665-4241-9173-869d5c34b0c8",
+  "hidden": false,
   "id": 30522,
   "illustration": "https://phira.5wyxi.com/files/3b523abf-1a1f-4004-9f1f-f3adbd5e529b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "イガク",
   "preview": "https://phira.5wyxi.com/files/8147043d-5677-4d29-b869-1dad6648e26c",
   "ranked": false,
-  "rating": 0.9412649,
-  "ratingCount": 416,
+  "rating": 0.94015807,
+  "ratingCount": 458,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:32Z",
-    "lastChanged": "2026-09-21T02:06:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-25T13:18:05.837301Z",
   "charter": "隆隆duolong",
@@ -14,6 +14,7 @@
   "description": "B站 红烧多隆加孜然\n演示视频  BV1jgedzXEid\n新人第一次写4k，可能会有一些神秘和采音不准",
   "difficulty": 14.000005,
   "file": "https://phira.5wyxi.com/files/459da71b-13a9-4ba6-8cdd-64c8ea65985a",
+  "hidden": false,
   "id": 45665,
   "illustration": "https://phira.5wyxi.com/files/2cd3f0b2-193b-4edd-a1eb-49e8c083f74d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "まだまだ続くよ",
   "preview": "https://phira.5wyxi.com/files/c506cdb0-90c9-48d9-899e-fd39d93c58af",
   "ranked": false,
-  "rating": 0.9393054,
-  "ratingCount": 61,
+  "rating": 0.9374437,
+  "ratingCount": 62,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

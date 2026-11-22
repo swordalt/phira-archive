@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:08Z",
-    "lastChanged": "2026-09-21T02:04:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-24T04:38:39.027631Z",
   "charter": "Seachannel",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，2025年终作",
   "difficulty": 15.400001,
   "file": "https://phira.5wyxi.com/files/0dc5dab8-3a71-4d6d-a19c-0a52deddbcfd",
+  "hidden": false,
   "id": 50508,
   "illustration": "https://phira.5wyxi.com/files/f1ca0cb5-e7e8-4ea0-8c82-edc31db646ba",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "まにまに 2025 Edit",
   "preview": "https://phira.5wyxi.com/files/49ead409-7ced-4062-b993-40dfde339bb5",
   "ranked": false,
-  "rating": 0.94651103,
-  "ratingCount": 572,
+  "rating": 0.9464065,
+  "ratingCount": 638,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

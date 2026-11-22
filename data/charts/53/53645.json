@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:26Z",
-    "lastChanged": "2026-09-21T02:04:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-01T03:07:46.196213Z",
   "charter": "The Charter",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 16.5,
   "file": "https://phira.5wyxi.com/files/99092cfb-9463-4e4f-a0a1-3ebe671819ba",
+  "hidden": false,
   "id": 53645,
   "illustration": "https://phira.5wyxi.com/files/2c74e3a3-75dd-4bfc-a2a2-a06aa09919ee",
   "illustrator": "",

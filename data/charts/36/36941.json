@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:14Z",
-    "lastChanged": "2026-09-21T02:03:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-25T10:41:38.458002Z",
   "charter": "☆ silicopper ☆",
@@ -14,6 +14,7 @@
   "description": "谱师：我                                 定数：14.6（旧）                                    这次写了点简单的，但是对新定数表不太熟就只用了旧的",
   "difficulty": 14.600002,
   "file": "https://phira.5wyxi.com/files/ffe93f60-7b8c-4b24-ae54-8a5f4e878810",
+  "hidden": false,
   "id": 36941,
   "illustration": "https://phira.5wyxi.com/files/0e1ee3d7-c4bb-487e-8378-039ca66d1b05",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ほしのおとしもの",
   "preview": "https://phira.5wyxi.com/files/6658892f-0bd6-4e82-813c-a57f2098f119",
   "ranked": false,
-  "rating": 0.91473967,
-  "ratingCount": 226,
+  "rating": 0.9112877,
+  "ratingCount": 228,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

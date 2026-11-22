@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:43Z",
-    "lastChanged": "2026-09-21T02:06:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-20T13:59:05.240828Z",
   "charter": "YMEA",
@@ -14,6 +14,7 @@
   "description": "让@Lage加了一些字幕（本来写的动效但太晃了所以给去了）\n谱面已上传至Malody（sid:484 cid:152055）\n关注我谢谢喵~",
   "difficulty": 33.0,
   "file": "https://phira.5wyxi.com/files/4a619e52-5a18-4350-a158-888152f89ab1",
+  "hidden": false,
   "id": 50385,
   "illustration": "https://phira.5wyxi.com/files/08eb11f4-9a83-4b5d-8227-08a8df9c7e9c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "月に叢雲華に風",
   "preview": "https://phira.5wyxi.com/files/536f3482-9585-4483-8c63-ce7deb4ea26a",
   "ranked": false,
-  "rating": 0.8853078,
-  "ratingCount": 172,
+  "rating": 0.8899729,
+  "ratingCount": 188,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

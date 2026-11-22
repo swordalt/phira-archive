@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:08Z",
-    "lastChanged": "2026-09-21T02:07:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-17T13:29:51.108834Z",
   "charter": "绿萝卜丶",
@@ -14,6 +14,7 @@
   "description": "新人首谱（粉扑），采音奇妙，不会动画（本人上传）",
   "difficulty": 17.59999,
   "file": "https://phira.5wyxi.com/files/f929203f-bd1b-4833-8306-d28fc2150946",
+  "hidden": false,
   "id": 43276,
   "illustration": "https://phira.5wyxi.com/files/eca8f860-afc3-4f94-8923-d530152e2ebe",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Chronostasis",
   "preview": "https://phira.5wyxi.com/files/810030be-5711-4128-8e8d-ffcbe7218d5d",
   "ranked": false,
-  "rating": 0.81343216,
-  "ratingCount": 602,
+  "rating": 0.81310064,
+  "ratingCount": 645,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

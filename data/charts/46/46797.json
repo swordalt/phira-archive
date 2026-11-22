@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:50Z",
-    "lastChanged": "2026-09-21T02:03:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-14T05:02:01.652179Z",
   "charter": "ALAN",
@@ -14,6 +14,7 @@
   "description": "谱师本人制作上传的哦 ",
   "difficulty": 9.000001,
   "file": "https://phira.5wyxi.com/files/3d572b5f-5f02-447e-bd71-2bea84dc41ea",
+  "hidden": false,
   "id": 46797,
   "illustration": "https://phira.5wyxi.com/files/a0df7f61-3f53-43a0-875d-779a152e7312",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Two Different Worlds",
   "preview": "https://phira.5wyxi.com/files/d8e804c2-ee09-4444-8ef2-13bc9004339c",
   "ranked": false,
-  "rating": 0.9064988,
-  "ratingCount": 1318,
+  "rating": 0.9060735,
+  "ratingCount": 1405,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

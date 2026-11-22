@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:17Z",
-    "lastChanged": "2026-09-27T10:16:21Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:18Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-09-13T01:40:41.987247Z",
   "charter": "_ _ _",
@@ -14,6 +14,7 @@
   "description": "b站预览：BV1qWY96wEUZ\n闪烁的音符会在下一拍被打击\n请注意音乐的节奏喔",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/e0f0f887-a98f-42ea-acb0-108808b85a3d",
+  "hidden": false,
   "id": 77963,
   "illustration": "https://phira.5wyxi.com/files/3f9313b6-8199-480f-afdc-be0c94e3d953",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Limen",
   "preview": "https://phira.5wyxi.com/files/0e01f796-f2ff-486a-b2cc-5d1aea59c079",
   "ranked": false,
-  "rating": 0.952812,
-  "ratingCount": 120,
+  "rating": 0.9506235,
+  "ratingCount": 189,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

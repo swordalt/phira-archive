@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:28Z",
-    "lastChanged": "2026-09-21T02:04:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-10T15:35:25.281785Z",
   "charter": "霜枝",
@@ -14,6 +14,7 @@
   "description": "b站：BV19sigBkEaR；本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/f1f4d9b3-250f-482a-b04d-31a964fc4753",
+  "hidden": false,
   "id": 54023,
   "illustration": "https://phira.5wyxi.com/files/e56fd34c-73db-4757-9de8-babe69047aeb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "靈",
   "preview": "https://phira.5wyxi.com/files/b4fab739-f9db-4b0b-810e-46cfda9f3515",
   "ranked": false,
-  "rating": 0.86219853,
-  "ratingCount": 56,
+  "rating": 0.87336296,
+  "ratingCount": 61,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

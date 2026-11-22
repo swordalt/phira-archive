@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:02Z",
-    "lastChanged": "2026-09-21T02:04:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-09T04:30:26.098795Z",
   "charter": "6122",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 8.0,
   "file": "https://phira.5wyxi.com/files/7a8b231c-9290-46d5-b2f5-c03116d823f5",
+  "hidden": false,
   "id": 48913,
   "illustration": "https://phira.5wyxi.com/files/461e90ac-5123-43ce-a7ae-dde325695566",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Antler",
   "preview": "https://phira.5wyxi.com/files/45f37d0a-b3c5-4d3f-988e-b2ad26a29c94",
   "ranked": false,
-  "rating": 0.9357318,
-  "ratingCount": 157,
+  "rating": 0.93859917,
+  "ratingCount": 164,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

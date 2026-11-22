@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:44Z",
-    "lastChanged": "2026-09-21T02:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-20T10:31:39.481639Z",
   "charter": "小鱼仔娱乐",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/f7b0d85f-8f97-4b52-9637-bfb870aee96c",
+  "hidden": false,
   "id": 28961,
   "illustration": "https://phira.5wyxi.com/files/dfc1eab2-118e-4a23-87dd-ccaaa177abca",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "经过",
   "preview": "https://phira.5wyxi.com/files/9ab82446-ce43-4430-976b-40438268d96e",
   "ranked": false,
-  "rating": 0.95298535,
-  "ratingCount": 3645,
+  "rating": 0.95302993,
+  "ratingCount": 3818,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

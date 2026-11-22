@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:11Z",
-    "lastChanged": "2026-09-21T02:02:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-04T16:33:39.937515Z",
   "charter": "Snow Yy",
@@ -14,6 +14,7 @@
   "description": "本人第一个铺，不喜勿喷",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/3c545ee1-5e56-4c59-b73f-28e6cdf4bb61",
+  "hidden": false,
   "id": 19536,
   "illustration": "https://phira.5wyxi.com/files/c5278fcc-d155-417c-9879-ee896ef885c5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Filthy Mind",
   "preview": "https://phira.5wyxi.com/files/026e46cd-3f8b-479f-88f9-c066e2cb868e",
   "ranked": false,
-  "rating": 0.9172111,
-  "ratingCount": 123,
+  "rating": 0.9177366,
+  "ratingCount": 124,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:08Z",
-    "lastChanged": "2026-09-21T02:07:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-16T01:44:43.045246Z",
   "charter": "Heronmony（鹭鸟音律）",
@@ -14,6 +14,7 @@
   "description": "17.9",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/ddcfbf6f-4708-4ce3-896c-1b015abd915f",
+  "hidden": false,
   "id": 49179,
   "illustration": "https://phira.5wyxi.com/files/435fda4e-bc85-41ab-a3bc-d2f56f1c521f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "靈",
   "preview": "https://phira.5wyxi.com/files/b695454c-156e-49f8-922b-adf7c8f290ee",
   "ranked": false,
-  "rating": 0.8204693,
-  "ratingCount": 139,
+  "rating": 0.821965,
+  "ratingCount": 150,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

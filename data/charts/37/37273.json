@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:16Z",
-    "lastChanged": "2026-09-21T02:03:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-02T14:00:16.347744Z",
   "charter": "绝地苏州",
@@ -14,6 +14,7 @@
   "description": "真的是谱师本人 ",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/0e132ae0-240a-4395-9238-cbc15f063abf",
+  "hidden": false,
   "id": 37273,
   "illustration": "https://phira.5wyxi.com/files/a511318c-851a-496d-9bd6-2f6738cda00e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "夏の雨の日の思い出",
   "preview": "https://phira.5wyxi.com/files/170304a5-31fa-451d-9d7f-928d8db08250",
   "ranked": false,
-  "rating": 0.94124234,
-  "ratingCount": 129,
+  "rating": 0.9403275,
+  "ratingCount": 139,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

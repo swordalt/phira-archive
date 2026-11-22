@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:50Z",
-    "lastChanged": "2026-09-21T02:03:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-12T16:32:40.653846Z",
   "charter": "dd",
@@ -14,6 +14,7 @@
   "description": "b站 豆豆_dlb\n我不明白为什么这么久没过\n写了16h+\n事件5500+",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/9db51200-2957-4aaa-9577-22d517514c0f",
+  "hidden": false,
   "id": 46697,
   "illustration": "https://phira.5wyxi.com/files/1d0d1087-ca0b-4a2e-98c9-37808ee4a4e4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "化けの花",
   "preview": "https://phira.5wyxi.com/files/b51a6ec6-13cd-4e47-9501-6236f9ccecf3",
   "ranked": false,
-  "rating": 0.89939576,
-  "ratingCount": 140,
+  "rating": 0.9041553,
+  "ratingCount": 150,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

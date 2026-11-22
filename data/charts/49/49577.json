@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:41Z",
-    "lastChanged": "2026-09-21T02:06:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-29T04:20:57.107309Z",
   "charter": "Jiuwenzi",
@@ -14,6 +14,7 @@
   "description": "神秘sample gamma单曲3",
   "difficulty": 13.600002,
   "file": "https://phira.5wyxi.com/files/8db8a066-bf18-4770-9a9e-68b13361739b",
+  "hidden": false,
   "id": 49577,
   "illustration": "https://phira.5wyxi.com/files/ef0f55b4-bb91-4ea8-b496-267502e6e267",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "silly-willy-nilly",
   "preview": "https://phira.5wyxi.com/files/0d92a102-0e74-4bbc-89ef-c775904e6357",
   "ranked": false,
-  "rating": 0.9436574,
-  "ratingCount": 38,
+  "rating": 0.94533116,
+  "ratingCount": 41,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

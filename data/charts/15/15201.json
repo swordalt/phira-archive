@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:55Z",
-    "lastChanged": "2026-09-21T02:01:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-09T21:44:35.422718Z",
   "charter": "Gxlh",
@@ -14,6 +14,7 @@
   "description": "谱师：哔哩哔哩@酉茸奈大。具体视频：BV1Y4421c7FX。",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/fd32bbde-5bd9-4fd6-a203-cba667507a86",
+  "hidden": false,
   "id": 15201,
   "illustration": "https://phira.5wyxi.com/files/761a8a03-53cb-45bd-8972-a75c2d0b66ff",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "花月夜",
   "preview": "https://phira.5wyxi.com/files/c2135ed7-961a-4658-8f9c-d155fa73b71b",
   "ranked": false,
-  "rating": 0.9457064,
-  "ratingCount": 1563,
+  "rating": 0.94596744,
+  "ratingCount": 1597,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

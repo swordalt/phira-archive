@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:09Z",
-    "lastChanged": "2026-09-21T02:02:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-12T14:55:36.315404Z",
   "charter": "LQDIfglxLQA",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nMwB2AHcAIAAtADcATwBsAHEA\naAB2ACAANABOAFcAcgB3AGQ\nAbwBIAHkAaABxAHcAdgAgAEY\nAawBkAHUAdwAtACAAUQByAC\n4AMgA0AA==JEAhJCgpKSgkQC\nQoICQqKCAgKCA=Pqqzmpfqtd",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/68437000-8723-41e6-bf47-2167287267a5",
+  "hidden": false,
   "id": 18338,
   "illustration": "https://phira.5wyxi.com/files/913e4904-c6fc-4d9c-aa8f-b4741bd7dd19",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Deathender",
   "preview": "https://phira.5wyxi.com/files/bf75945b-1565-41cb-a6d1-16def72a3cda",
   "ranked": false,
-  "rating": 0.7987594,
-  "ratingCount": 343,
+  "rating": 0.797945,
+  "ratingCount": 344,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

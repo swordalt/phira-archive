@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:18Z",
-    "lastChanged": "2026-09-21T02:06:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-22T10:06:49.976518Z",
   "charter": "三无宫心海",
@@ -14,6 +14,7 @@
   "description": "第一次写谱，不会写表演(，这张只是想让你们打打看哪里有手感不好的地方，表演后面会写的(，反馈B站三无宫心海",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/1986c7c7-c701-4c74-8d30-8edc0c085464",
+  "hidden": false,
   "id": 40096,
   "illustration": "https://phira.5wyxi.com/files/99163483-78b2-4b1a-8498-9f1dde9be586",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ヨミビトシラズ",
   "preview": "https://phira.5wyxi.com/files/8f578b90-6d16-4115-9b7a-71e4826f06fd",
   "ranked": false,
-  "rating": 0.9124676,
-  "ratingCount": 31,
+  "rating": 0.914888,
+  "ratingCount": 32,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

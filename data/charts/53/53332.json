@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:46Z",
-    "lastChanged": "2026-09-21T02:06:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-24T12:26:15.079163Z",
   "charter": "Jiuwenzi",
@@ -14,6 +14,7 @@
   "description": "DFC 8dan 3/4 drag 654/1620 pass=98.09",
   "difficulty": 8.1,
   "file": "https://phira.5wyxi.com/files/f18a720e-5123-45dc-a3d9-a3945e7220b1",
+  "hidden": false,
   "id": 53332,
   "illustration": "https://phira.5wyxi.com/files/3d1cd321-31a6-424d-b86d-538f60b21416",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MAGENTA POTION",
   "preview": "https://phira.5wyxi.com/files/815902cd-9f24-45fe-bb95-e074123d477d",
   "ranked": false,
-  "rating": 0.95913833,
-  "ratingCount": 651,
+  "rating": 0.95866007,
+  "ratingCount": 722,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

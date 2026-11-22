@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:46Z",
-    "lastChanged": "2026-09-21T02:06:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-11T16:29:52.408143Z",
   "charter": "TEC109",
@@ -14,6 +14,7 @@
   "description": "本人上传 DRAG 2624/4456\n标准分 98.59\n年度魔丸降临 最神秘的位移技\n双指中难谱面，多指谨慎游玩",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/0f42f579-1a5c-46a4-b747-74aeab2c5506",
+  "hidden": false,
   "id": 52471,
   "illustration": "https://phira.5wyxi.com/files/a90faa10-8f42-412b-8ae3-2e43a304581b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Animation Warrior Theme",
   "preview": "https://phira.5wyxi.com/files/3557a1ce-db66-4883-b756-96a743d7edb8",
   "ranked": false,
-  "rating": 0.8689121,
-  "ratingCount": 25,
+  "rating": 0.88109493,
+  "ratingCount": 28,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

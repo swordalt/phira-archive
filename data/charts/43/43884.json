@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:28Z",
-    "lastChanged": "2026-09-21T02:06:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-06T15:07:08.301096Z",
   "charter": "困の鸽子",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/423e6062-e2c3-45f4-bf1d-c32146089a2b",
+  "hidden": false,
   "id": 43884,
   "illustration": "https://phira.5wyxi.com/files/dc70aec4-5ff7-4a10-92ac-8098321a7fbb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "不虚此行 On the Journey",
   "preview": "https://phira.5wyxi.com/files/67598612-321f-45f3-8619-247f74d213cf",
   "ranked": false,
-  "rating": 0.92738986,
-  "ratingCount": 70,
+  "rating": 0.92585963,
+  "ratingCount": 71,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

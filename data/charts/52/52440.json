@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:46Z",
-    "lastChanged": "2026-09-21T02:06:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-11T08:21:21.449197Z",
   "charter": "HuAnMo66",
@@ -14,6 +14,7 @@
   "description": "新人做谱，个人定数17.0",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/b8af8a0b-6bf2-4102-be1e-70cee9cbe080",
+  "hidden": false,
   "id": 52440,
   "illustration": "https://phira.5wyxi.com/files/e600a01a-d12f-4db0-afdf-26e00b89bf87",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "系ぎて",
   "preview": "https://phira.5wyxi.com/files/b10baf92-8cd6-4cbf-ada9-e1f0798eaf19",
   "ranked": false,
-  "rating": 0.7754712,
-  "ratingCount": 55,
+  "rating": 0.77794874,
+  "ratingCount": 57,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

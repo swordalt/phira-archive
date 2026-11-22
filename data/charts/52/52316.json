@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:19Z",
-    "lastChanged": "2026-09-21T02:04:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-15T03:23:32.396154Z",
   "charter": "是苏沐不是s马",
@@ -14,6 +14,7 @@
   "description": "谱面预览:BV1fGcMzgEej\n谱师@是苏沐不是s马",
   "difficulty": 16.000002,
   "file": "https://phira.5wyxi.com/files/fb16998b-dd3b-40bc-bb7b-a915bb994865",
+  "hidden": false,
   "id": 52316,
   "illustration": "https://phira.5wyxi.com/files/a4a9177a-240b-4750-9e99-3f3cbdcf612f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mado",
   "preview": "https://phira.5wyxi.com/files/beeaf48e-e098-49e4-b533-20dd206ce648",
   "ranked": false,
-  "rating": 0.90282655,
-  "ratingCount": 499,
+  "rating": 0.90373856,
+  "ratingCount": 504,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:40Z",
-    "lastChanged": "2026-09-21T02:02:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-15T12:28:57.360593Z",
   "charter": "神坒の母鸡",
@@ -14,6 +14,7 @@
   "description": "谱师本人代表上传    此为旧版",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/49054b20-d864-4b3d-b12b-e62efcfb4276",
+  "hidden": false,
   "id": 27719,
   "illustration": "https://phira.5wyxi.com/files/2c7524f6-bac6-4b1e-ae53-146f0778327c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "《Ж》",
   "preview": "https://phira.5wyxi.com/files/55a1d920-041e-45b3-9292-c73140ca93cb",
   "ranked": false,
-  "rating": 0.9494426,
-  "ratingCount": 1463,
+  "rating": 0.9492278,
+  "ratingCount": 1487,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

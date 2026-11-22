@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:36Z",
-    "lastChanged": "2026-09-21T02:04:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-11T11:39:53.974402Z",
   "charter": "尾月",
@@ -14,6 +14,7 @@
   "description": "借鉴了世界计划的谱面。\n争取之后加特效（懒）\n作者就我自己没别人了",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/00d758e1-d461-4afe-a58f-43a47be64a10",
+  "hidden": false,
   "id": 55996,
   "illustration": "https://phira.5wyxi.com/files/6c5551bb-aab3-4d08-9c17-94e5880323c7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ダイジョブですか？ (ARE YOU OK#)",
   "preview": "https://phira.5wyxi.com/files/de37a3ca-a554-41b0-ae2c-86779acde560",
   "ranked": false,
-  "rating": 0.8388956,
-  "ratingCount": 162,
+  "rating": 0.8561782,
+  "ratingCount": 196,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

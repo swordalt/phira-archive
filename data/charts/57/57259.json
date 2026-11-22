@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:39Z",
-    "lastChanged": "2026-09-21T02:04:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-10T22:36:21.444214Z",
   "charter": "PecJam of the End",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\r\n\r\n2026.7.11：微调了部分配置，优化游玩体验",
   "difficulty": 16.500002,
   "file": "https://phira.5wyxi.com/files/5e321502-8755-4d9d-9f96-5824a0fff331",
+  "hidden": false,
   "id": 57259,
   "illustration": "https://phira.5wyxi.com/files/71e45cd4-bf1d-41b7-989d-514e45164c51",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "終の舞姫",
   "preview": "https://phira.5wyxi.com/files/dac4c5ae-6ad3-4692-bd7e-65929084b941",
   "ranked": false,
-  "rating": 0.9481132,
-  "ratingCount": 1276,
+  "rating": 0.94702435,
+  "ratingCount": 1315,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

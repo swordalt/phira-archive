@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:19Z",
-    "lastChanged": "2026-09-21T02:05:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-20T11:51:41.423641Z",
   "charter": "飞舞双指",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/2eadbb67-1ad4-479c-8f45-a1cdd4a6963d",
+  "hidden": false,
   "id": 5682,
   "illustration": "https://phira.5wyxi.com/files/16246616-1e34-47fd-ab60-edf250514650",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "江南皮革厂",
   "preview": "https://phira.5wyxi.com/files/10181c6c-2cda-4054-8530-49991d403570",
   "ranked": false,
-  "rating": 0.94554704,
-  "ratingCount": 6433,
+  "rating": 0.9455825,
+  "ratingCount": 6457,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

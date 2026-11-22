@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:44Z",
-    "lastChanged": "2026-09-21T02:04:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-08T13:25:17.116307Z",
   "charter": "FFXL＜ー＞（-飞飞XL-）",
@@ -14,6 +14,7 @@
   "description": "谱师：-飞飞XL-\n本家：CHUNITHM\n上线版本：CHUNITHM NEW",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/756fb54f-e93c-401b-9e2c-c23280a89402",
+  "hidden": false,
   "id": 59223,
   "illustration": "https://phira.5wyxi.com/files/246ad6c2-112c-4bd2-86b5-c52a9c21b102",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "蜘蛛の糸",
   "preview": "https://phira.5wyxi.com/files/e8ac242a-4bf8-474b-bab0-0c9b80a1b9d4",
   "ranked": false,
-  "rating": 0.9254053,
-  "ratingCount": 1075,
+  "rating": 0.9240414,
+  "ratingCount": 1126,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:11Z",
-    "lastChanged": "2026-09-21T02:02:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-03T12:44:33.117663Z",
   "charter": "o1b \\ ( •́ω•̀ ) / Hnt",
@@ -14,6 +14,7 @@
   "description": "o1b（@欧一biang吔）负责配置和故事板\nhnt（@日向666）负责判定线表演",
   "difficulty": 13.7000065,
   "file": "https://phira.5wyxi.com/files/904a3f52-f10b-4c85-9476-f48648354a43",
+  "hidden": false,
   "id": 19390,
   "illustration": "https://phira.5wyxi.com/files/10e5d74c-279e-451c-be30-f0446032aa14",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Climax",
   "preview": "https://phira.5wyxi.com/files/4b245ba7-f387-41b8-bab8-588f1c79f4fa",
   "ranked": false,
-  "rating": 0.94137824,
-  "ratingCount": 404,
+  "rating": 0.94191694,
+  "ratingCount": 409,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

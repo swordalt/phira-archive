@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:51Z",
-    "lastChanged": "2026-09-21T02:01:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-22T08:58:09.488391Z",
   "charter": "引羽小垚",
@@ -14,6 +14,7 @@
   "description": "这是我做的第一个自制谱，曲目和灵感来源于丶惟茉的《【中文填词】东方角色组曲（Bad Apple!!）》希望大家喜欢这个作品！",
   "difficulty": 13.400002,
   "file": "https://phira.5wyxi.com/files/f3981aba-2c80-4b74-90a0-264b95506092",
+  "hidden": false,
   "id": 14436,
   "illustration": "https://phira.5wyxi.com/files/4b5658e3-33a3-4021-b95c-ec0b15a68ef2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "东方角色组曲(Bad Apple!!)",
   "preview": "https://phira.5wyxi.com/files/d399b28f-32eb-4d27-9517-24d43c18f46d",
   "ranked": false,
-  "rating": 0.83636457,
-  "ratingCount": 448,
+  "rating": 0.83846754,
+  "ratingCount": 462,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

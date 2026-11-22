@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:41Z",
-    "lastChanged": "2026-09-21T02:05:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-27T05:05:21.779412Z",
   "charter": "SKYUNTARXICE",
@@ -14,6 +14,7 @@
   "description": "第一次写完整6K",
   "difficulty": 25.0,
   "file": "https://phira.5wyxi.com/files/f6dc2204-0dec-4c9f-9be3-ea28e686cbf2",
+  "hidden": false,
   "id": 14244,
   "illustration": "https://phira.5wyxi.com/files/49daa3fa-d642-4697-9c5a-2d72a5443ed6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Inverted World",
   "preview": "https://phira.5wyxi.com/files/43f686e6-0cc6-4ead-994d-0588a5537a21",
   "ranked": false,
-  "rating": 0.9487003,
-  "ratingCount": 351,
+  "rating": 0.9483923,
+  "ratingCount": 370,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

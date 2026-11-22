@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:58Z",
-    "lastChanged": "2026-09-21T02:04:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-13T13:56:43.392135Z",
   "charter": "AFOUG",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传   第三张自制\nB站:anttin_AOF\n",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/8c2c0bc2-6631-4b3d-b67e-329f719c621c",
+  "hidden": false,
   "id": 66286,
   "illustration": "https://phira.5wyxi.com/files/5111b1fe-9c46-41d6-b122-ff7372c62a08",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GOODWORLD",
   "preview": "https://phira.5wyxi.com/files/5e2c6827-d4a7-495e-a6ca-d28006dddf8b",
   "ranked": false,
-  "rating": 0.8464682,
-  "ratingCount": 52,
+  "rating": 0.8614637,
+  "ratingCount": 77,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

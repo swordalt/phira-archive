@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:09Z",
-    "lastChanged": "2026-09-21T02:02:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-22T13:09:38.458962Z",
   "charter": "SRS",
@@ -14,6 +14,7 @@
   "description": "本人上传，DreamSnow607==DreamSnow==SRS==我",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/28570288-08ee-42d3-8fa3-8346217fc7eb",
+  "hidden": false,
   "id": 18814,
   "illustration": "https://phira.5wyxi.com/files/c85fb0fd-fe6d-4b57-872f-04a26d080feb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "星晴",
   "preview": "https://phira.5wyxi.com/files/4810bac2-fada-4a93-ae01-dfe86a34557f",
   "ranked": false,
-  "rating": 0.9341357,
-  "ratingCount": 3427,
+  "rating": 0.9334139,
+  "ratingCount": 3616,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

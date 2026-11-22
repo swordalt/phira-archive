@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:25Z",
-    "lastChanged": "2026-09-21T02:03:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-29T06:48:42.006567Z",
   "charter": "Phigros柠檬",
@@ -14,6 +14,7 @@
   "description": "快手Phigros柠檬/bilibili酸柠檬喝甜可乐上传",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/0edac88e-40cb-495c-a5d8-b987caf8060a",
+  "hidden": false,
   "id": 40508,
   "illustration": "https://phira.5wyxi.com/files/85f2b1e7-1767-4186-81eb-93e0ecc5bbce",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "混沌ブギ",
   "preview": "https://phira.5wyxi.com/files/0c80fabb-2d80-4494-8e9f-245666662b1b",
   "ranked": false,
-  "rating": 0.91196287,
-  "ratingCount": 1821,
+  "rating": 0.9113664,
+  "ratingCount": 1928,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

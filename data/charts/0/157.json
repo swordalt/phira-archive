@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:04Z",
-    "lastChanged": "2026-09-21T02:01:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "DoopSumMer",
@@ -14,6 +14,7 @@
   "description": "正在做：重置-增长版「アイデン貞貞メルトダウン」，详细可看bilibili@DoopSumMer",
   "difficulty": 8.0,
   "file": "https://phira.5wyxi.com/files/7ff0f0d2-cf73-45b5-8611-50a2c799b03e",
+  "hidden": false,
   "id": 157,
   "illustration": "https://phira.5wyxi.com/files/eeea47aa-d350-4ceb-8610-b1fef9c4bd3f",
   "illustrator": "UK",
@@ -21,8 +22,8 @@
   "name": "钢琴-アイデン貞貞メルトダウン",
   "preview": "https://phira.5wyxi.com/files/9d3657ce-5d27-4413-a545-b55c288c68ad",
   "ranked": false,
-  "rating": 0.89465445,
-  "ratingCount": 1493,
+  "rating": 0.8957474,
+  "ratingCount": 1528,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

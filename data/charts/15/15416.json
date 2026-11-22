@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:56Z",
-    "lastChanged": "2026-09-21T02:01:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-11T16:31:19.218085Z",
   "charter": "Fyato的I",
@@ -14,6 +14,7 @@
   "description": "为FJC创作的谱面\nEnjoy it:)",
   "difficulty": 16.500002,
   "file": "https://phira.5wyxi.com/files/a4b5d015-37b6-4b0e-bc54-3cac5e7a3c15",
+  "hidden": false,
   "id": 15416,
   "illustration": "https://phira.5wyxi.com/files/4070f863-26bb-4413-b90c-cf897035fbd6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "I",
   "preview": "https://phira.5wyxi.com/files/75e08327-a53c-4416-a047-5d84fc3e9713",
   "ranked": false,
-  "rating": 0.9074832,
-  "ratingCount": 582,
+  "rating": 0.9066917,
+  "ratingCount": 590,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

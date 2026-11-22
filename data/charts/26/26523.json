@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:35Z",
-    "lastChanged": "2026-09-21T02:02:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-18T12:15:52.077044Z",
   "charter": "RT_ESCADE",
@@ -14,6 +14,7 @@
   "description": "你们心心念念的人类恐惧症2.0",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/7fd47201-0938-44ab-8269-1586de458e6e",
+  "hidden": false,
   "id": 26523,
   "illustration": "https://phira.5wyxi.com/files/491a6989-303f-42e5-bdb1-3b42bc0414f0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "人类恐惧症",
   "preview": "https://phira.5wyxi.com/files/b7809931-2cbe-424e-bb0a-ec7c31f762fc",
   "ranked": false,
-  "rating": 0.9380685,
-  "ratingCount": 736,
+  "rating": 0.93824387,
+  "ratingCount": 743,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

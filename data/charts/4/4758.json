@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:19Z",
-    "lastChanged": "2026-09-21T02:01:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-06T06:06:51.039470Z",
   "charter": "Pois0n",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/9e011632-d707-4e0b-9103-993068283742",
+  "hidden": false,
   "id": 4758,
   "illustration": "https://phira.5wyxi.com/files/f117189f-ce29-486d-b2ee-6832a8ae1dcc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Make Up Your World",
   "preview": "https://phira.5wyxi.com/files/31f3cc9f-d4ba-472c-9e26-2610ecad1a4b",
   "ranked": false,
-  "rating": 0.9252503,
-  "ratingCount": 1082,
+  "rating": 0.92557317,
+  "ratingCount": 1090,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

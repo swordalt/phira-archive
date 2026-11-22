@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:40Z",
-    "lastChanged": "2026-09-21T02:03:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-13T05:40:56.295077Z",
   "charter": "白-永远的神-糖",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/e3ad3164-93a4-4863-ba44-7d3eecaf9a9e",
+  "hidden": false,
   "id": 44539,
   "illustration": "https://phira.5wyxi.com/files/2ec4c4f2-a46e-4829-b64b-cfeb16c68c80",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "京剧猫",
   "preview": "https://phira.5wyxi.com/files/1c177f0b-f834-4370-8993-a94ce69f4daf",
   "ranked": false,
-  "rating": 0.87607086,
-  "ratingCount": 2391,
+  "rating": 0.8754545,
+  "ratingCount": 2614,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

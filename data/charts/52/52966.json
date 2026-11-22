@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:22Z",
-    "lastChanged": "2026-09-21T02:04:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-19T05:59:54.849422Z",
   "charter": "wax -synesthesia-",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/f0a4a16e-5d6c-461c-bce5-a4bfddf50e58",
+  "hidden": false,
   "id": 52966,
   "illustration": "https://phira.5wyxi.com/files/594cd5f1-7d1e-4dfa-bce6-8e8289aec5a5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "qualia -ideaesthesia-",
   "preview": "https://phira.5wyxi.com/files/d3dc2802-65f9-4c5f-bc9e-8ce31ea95260",
   "ranked": false,
-  "rating": 0.8424553,
-  "ratingCount": 27,
+  "rating": 0.8453503,
+  "ratingCount": 30,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:21Z",
-    "lastChanged": "2026-09-21T02:03:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-04T05:27:16.318459Z",
   "charter": "困且累",
@@ -14,6 +14,7 @@
   "description": "谱面于25年6月2日晚更新。修改了部分排键和手感。（随后会写上故事版，但需要一段时间。）                                      B站困且累。做完档案最终章，深有感触，故作此谱。这张谱面是我的第五张（第六张）谱面，会有不足之处，但我在这张谱面上下了很大的功夫。（我不小心把谱给删了，重投一下）。                                  谨此谱面，送给每一位学生，也送给每一位热爱BA的你",
   "difficulty": 5.5,
   "file": "https://phira.5wyxi.com/files/8f3d33b0-90b4-459b-aca0-b982fce6bcef",
+  "hidden": false,
   "id": 39199,
   "illustration": "https://phira.5wyxi.com/files/3f766b41-8071-45f0-a22f-10dfba4ed6e8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Memories of Kindness",
   "preview": "https://phira.5wyxi.com/files/80e186b0-e2b0-463e-85b8-15ffeefc8ec6",
   "ranked": false,
-  "rating": 0.9609749,
-  "ratingCount": 2558,
+  "rating": 0.96181166,
+  "ratingCount": 2730,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

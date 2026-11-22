@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:25Z",
-    "lastChanged": "2026-09-21T02:01:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-07T12:36:10.964675Z",
   "charter": "JGR",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 16.5,
   "file": "https://phira.5wyxi.com/files/71962db1-c68e-4eec-a53b-be9b459453e1",
+  "hidden": false,
   "id": 7038,
   "illustration": "https://phira.5wyxi.com/files/cf9124ed-8dc2-4dfe-bda5-cc91364bc21f",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "爵士——优化",
   "preview": "https://phira.5wyxi.com/files/7c84e535-97c3-46de-beb6-d419297ad2e4",
   "ranked": false,
-  "rating": 0.3529627,
+  "rating": 0.38564378,
   "ratingCount": 160,
   "reviewed": true,
   "stable": false,

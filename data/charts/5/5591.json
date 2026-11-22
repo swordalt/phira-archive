@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:36Z",
-    "lastChanged": "2026-09-21T02:05:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-19T06:16:44.608041Z",
   "charter": "Willowism",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 31.0,
   "file": "https://phira.5wyxi.com/files/bdd68c8e-450b-4df0-b217-ab4c34f1b9a3",
+  "hidden": false,
   "id": 5591,
   "illustration": "https://phira.5wyxi.com/files/e0b44b76-b621-4e1f-a619-85de01e06d3d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "群青",
   "preview": "https://phira.5wyxi.com/files/65c997d7-17f1-4f88-a073-cdb3670fb778",
   "ranked": false,
-  "rating": 0.80461824,
-  "ratingCount": 836,
+  "rating": 0.80532324,
+  "ratingCount": 841,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

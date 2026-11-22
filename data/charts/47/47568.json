@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:37Z",
-    "lastChanged": "2026-09-21T02:06:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-03T17:44:17.489065Z",
   "charter": "小鸟游星野",
@@ -14,6 +14,7 @@
   "description": "ADOFAI转phira",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/3a42f7b3-c235-4455-9fe6-af960736b9c0",
+  "hidden": false,
   "id": 47568,
   "illustration": "https://phira.5wyxi.com/files/fdcd5608-76f8-4ffc-ae8b-ce455ecddd6c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "slavik goblins",
   "preview": "https://phira.5wyxi.com/files/a1bbce18-bb3b-45f7-80c9-79376ea3b793",
   "ranked": false,
-  "rating": 0.90196157,
-  "ratingCount": 20,
+  "rating": 0.9126755,
+  "ratingCount": 23,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

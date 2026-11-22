@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:51Z",
-    "lastChanged": "2026-09-21T02:05:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-26T11:36:19.009032Z",
   "charter": "001437",
@@ -14,6 +14,7 @@
   "description": "本人上传γωγ",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/b09b9da3-620d-47e5-91b4-14026f5a0bfa",
+  "hidden": false,
   "id": 21964,
   "illustration": "https://phira.5wyxi.com/files/a45e967f-032f-493c-9ec9-4a9de0ce4fd6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dengeki Tube",
   "preview": "https://phira.5wyxi.com/files/ef27a098-e42d-4e28-8fe7-c8ed146c9fb4",
   "ranked": false,
-  "rating": 0.870769,
-  "ratingCount": 8,
+  "rating": 0.87991786,
+  "ratingCount": 9,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

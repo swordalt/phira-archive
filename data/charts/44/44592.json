@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:40Z",
-    "lastChanged": "2026-09-21T02:03:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-13T15:43:34.419491Z",
   "charter": "JacK张",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 11.400001,
   "file": "https://phira.5wyxi.com/files/9a107b57-5470-49b8-9ab5-993970eb13f6",
+  "hidden": false,
   "id": 44592,
   "illustration": "https://phira.5wyxi.com/files/f4f4e364-b0a2-4d19-9b2d-453823029861",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Pure Imagination",
   "preview": "https://phira.5wyxi.com/files/a843b827-76f1-42bf-a410-c2dff784d65e",
   "ranked": false,
-  "rating": 0.7783041,
-  "ratingCount": 109,
+  "rating": 0.7655399,
+  "ratingCount": 117,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

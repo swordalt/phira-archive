@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:55Z",
-    "lastChanged": "2026-09-21T02:05:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-23T14:08:51.693690Z",
   "charter": "Iblcya as Engine",
@@ -14,6 +14,7 @@
   "description": "LC2024#2 GF SV1",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/3acac249-12c3-49ec-ae2a-7e152f264640",
+  "hidden": false,
   "id": 24179,
   "illustration": "https://phira.5wyxi.com/files/5e087e4e-16a8-4951-b5a8-f03fb3bc2114",
   "illustrator": "",

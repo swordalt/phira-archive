@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:39Z",
-    "lastChanged": "2026-09-21T02:06:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-31T16:55:06.021515Z",
   "charter": "DFC_TEAM",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 16.699987,
   "file": "https://phira.5wyxi.com/files/221b991b-6b7e-418a-b96f-a9f338f817ba",
+  "hidden": false,
   "id": 48599,
   "illustration": "https://phira.5wyxi.com/files/1992a936-02c0-4eae-a49e-7be5b033a9d9",
   "illustrator": "",

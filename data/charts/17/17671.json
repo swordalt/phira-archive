@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:05Z",
-    "lastChanged": "2026-09-21T02:02:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-29T11:17:58.654788Z",
   "charter": "南瓜",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/9e2e86ab-1b12-4b33-9eec-465478edf2f7",
+  "hidden": false,
   "id": 17671,
   "illustration": "https://phira.5wyxi.com/files/a4b61fcf-e073-4932-8ab9-bc5d07aef2ed",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Aurora",
   "preview": "https://phira.5wyxi.com/files/11947d2f-75f2-4e21-9ff4-c95acd26b9db",
   "ranked": false,
-  "rating": 0.9355621,
-  "ratingCount": 197,
+  "rating": 0.9360337,
+  "ratingCount": 200,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

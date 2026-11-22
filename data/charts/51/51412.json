@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:33Z",
-    "lastChanged": "2026-09-21T02:05:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-19T15:46:53.329081Z",
   "charter": "MCyyr",
@@ -14,6 +14,7 @@
   "description": "本人上传，游玩前请先到B站观看BV1B3rDBGECP以免初见创亖\n孩子们只用了五根线7小时写出来的粉扑是什么样的",
   "difficulty": 17.2,
   "file": "https://phira.5wyxi.com/files/9e5e6a9b-38f0-4f59-afc3-dc7a8ac530a7",
+  "hidden": false,
   "id": 51412,
   "illustration": "https://phira.5wyxi.com/files/b8dedc57-59ab-4251-a142-849bb44f9c40",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "IGNITE",
   "preview": "https://phira.5wyxi.com/files/955dd19f-28ff-44c0-a9ab-2b781f4a166f",
   "ranked": false,
-  "rating": 0.85119414,
-  "ratingCount": 51,
+  "rating": 0.84880966,
+  "ratingCount": 52,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

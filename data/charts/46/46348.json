@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:49Z",
-    "lastChanged": "2026-09-21T02:03:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-04T09:47:24.543795Z",
   "charter": "ねこ vs. Nightmare Cosmos vs. Fevm1r vs. Restart vs. red vs. Papilio",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 18.2,
   "file": "https://phira.5wyxi.com/files/5378b845-7a21-4f07-bb55-081f682bc9f4",
+  "hidden": false,
   "id": 46348,
   "illustration": "https://phira.5wyxi.com/files/efc319e5-534a-4d3e-9efa-9eb214ae0173",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ANTINEUTRINO WITCHCRAFT",
   "preview": "https://phira.5wyxi.com/files/dacd9067-66dc-48e9-bddc-ba14cffe072f",
   "ranked": false,
-  "rating": 0.91022956,
-  "ratingCount": 178,
+  "rating": 0.90964353,
+  "ratingCount": 184,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

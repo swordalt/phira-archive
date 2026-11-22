@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:49Z",
-    "lastChanged": "2026-09-21T02:04:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-19T13:45:31.031640Z",
   "charter": "Hamber",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 8.0,
   "file": "https://phira.5wyxi.com/files/13843bac-714d-4fb1-913e-05a466d7323f",
+  "hidden": false,
   "id": 61537,
   "illustration": "https://phira.5wyxi.com/files/efe7d8a5-6535-46f6-9b18-36aa6aa41f2c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "花开在回家的路上",
   "preview": "https://phira.5wyxi.com/files/58390e28-b361-426b-a6da-d8fe1ddb8afd",
   "ranked": false,
-  "rating": 0.9229506,
-  "ratingCount": 1175,
+  "rating": 0.9223891,
+  "ratingCount": 1274,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

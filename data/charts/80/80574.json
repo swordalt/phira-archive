@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-09T13:06:59Z",
-    "lastChanged": "2026-10-18T09:09:20Z",
-    "revisions": 4
+    "lastChanged": "2026-11-22T12:59:25Z",
+    "revisions": 5
   },
   "chartUpdated": "2026-10-08T05:18:47.026470Z",
   "charter": "W·¥·G",
@@ -14,6 +14,7 @@
   "description": "本人@NWM_與我無關 上传",
   "difficulty": 16.9,
   "file": "https://phira.5wyxi.com/files/8a884142-a647-493a-9e04-554a058da30b",
+  "hidden": false,
   "id": 80574,
   "illustration": "https://phira.5wyxi.com/files/6f1a5bfd-18ba-4037-8124-c375999d5ccd",
   "illustrator": "Passione",
@@ -21,11 +22,11 @@
   "name": "FX戦士くるみちゃん",
   "preview": "https://phira.5wyxi.com/files/6d4377dc-490a-4d42-b748-1a4f165a491a",
   "ranked": false,
-  "rating": 0.9153816,
-  "ratingCount": 118,
-  "reviewed": false,
+  "rating": 0.90868944,
+  "ratingCount": 266,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

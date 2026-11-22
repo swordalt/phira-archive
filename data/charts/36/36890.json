@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:14Z",
-    "lastChanged": "2026-09-21T02:03:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-22T10:37:03.069912Z",
   "charter": "Fev Let's 牛乳!!",
@@ -14,6 +14,7 @@
   "description": "Charter:Fevm1r",
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/a9cc1a8c-eb09-4f07-9bd0-a49e604539ba",
+  "hidden": false,
   "id": 36890,
   "illustration": "https://phira.5wyxi.com/files/104eb6e7-53ea-4c5d-a901-ef037aba218b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Oshama Scramble!",
   "preview": "https://phira.5wyxi.com/files/533955f2-c650-4eee-86af-5e23243c271b",
   "ranked": false,
-  "rating": 0.9431413,
-  "ratingCount": 796,
+  "rating": 0.9437459,
+  "ratingCount": 812,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

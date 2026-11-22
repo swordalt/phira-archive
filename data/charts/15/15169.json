@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:55Z",
-    "lastChanged": "2026-09-21T02:01:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-12T12:11:53.908664Z",
   "charter": "BigPigeon咕咕咕",
@@ -14,6 +14,7 @@
   "description": "微调谱面",
   "difficulty": 17.900003,
   "file": "https://phira.5wyxi.com/files/bcf234ff-9935-4a4a-9f97-ffe05ab6b0c6",
+  "hidden": false,
   "id": 15169,
   "illustration": "https://phira.5wyxi.com/files/43bdce8e-e21b-4c2c-bd4f-85f9f54614f2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "天空の城ヴェリエル",
   "preview": "https://phira.5wyxi.com/files/0007dcab-d255-499a-bd8b-7667296d7669",
   "ranked": false,
-  "rating": 0.3662996,
-  "ratingCount": 108,
+  "rating": 0.44637457,
+  "ratingCount": 112,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

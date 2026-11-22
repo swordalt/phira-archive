@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:48Z",
-    "lastChanged": "2026-09-21T02:02:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-23T14:11:07.250908Z",
   "charter": "Hejiu",
@@ -14,6 +14,7 @@
   "description": "B站昵称：鹤九ゞ\n欢迎去视频下方评论\n视频链接：https://b23.tv/k9Bi2Bp",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/d3089e74-d91c-4e38-918c-569dd847d32f",
+  "hidden": false,
   "id": 30021,
   "illustration": "https://phira.5wyxi.com/files/89b6f140-d11c-4e76-9914-4cdc637acd1b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "墜光の都市より",
   "preview": "https://phira.5wyxi.com/files/7870f46e-544b-4548-b309-330eee4025fd",
   "ranked": false,
-  "rating": 0.9291421,
-  "ratingCount": 169,
+  "rating": 0.93036836,
+  "ratingCount": 172,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

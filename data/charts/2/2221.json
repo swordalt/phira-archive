@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:11Z",
-    "lastChanged": "2026-09-21T02:01:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-17T15:55:55.622973Z",
   "charter": "Let's 牛乳 Dance!!!",
@@ -14,6 +14,7 @@
   "description": "本人上传 谱面BV1jG4y1F73W",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/1e198ff7-8245-44bb-9457-8f507878c35b",
+  "hidden": false,
   "id": 2221,
   "illustration": "https://phira.5wyxi.com/files/792d7eb8-f169-4464-abe0-c52bdb3d0903",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Oshama Scramble!",
   "preview": "https://phira.5wyxi.com/files/326fa98b-54dd-4a22-804a-a05b167174b6",
   "ranked": false,
-  "rating": 0.93252516,
-  "ratingCount": 6435,
+  "rating": 0.93255806,
+  "ratingCount": 6450,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

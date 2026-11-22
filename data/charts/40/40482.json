@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:25Z",
-    "lastChanged": "2026-09-21T02:03:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-29T04:19:34.929558Z",
   "charter": "Intel_0000",
@@ -14,6 +14,7 @@
   "description": "个人初谱 B站发了动态 审核求过(>^ω^<)",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/80228009-94e9-4c08-9619-36733816fd88",
+  "hidden": false,
   "id": 40482,
   "illustration": "https://phira.5wyxi.com/files/51a21165-35c2-4f8d-8eed-b68722fd3e35",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lava Chicken",
   "preview": "https://phira.5wyxi.com/files/0537794b-d95b-458c-b09a-7aeaf9c430a3",
   "ranked": false,
-  "rating": 0.9322308,
-  "ratingCount": 391,
+  "rating": 0.93031305,
+  "ratingCount": 403,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-15T04:27:21Z",
-    "lastChanged": "2026-10-18T09:11:19Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:02:29Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-01-11T17:08:58.493443Z",
   "charter": "No_Rthblue",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，写给澜枫练各种交互以及提升底力耐力稳定力用的",
   "difficulty": 15.9,
   "file": "https://phira.5wyxi.com/files/758c742b-960e-4c9c-b29f-fa0e1e865171",
+  "hidden": false,
   "id": 51194,
   "illustration": "https://phira.5wyxi.com/files/e4e48379-d4a1-409b-a0e9-ac5698d62d8e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Synthesis.",
   "preview": "https://phira.5wyxi.com/files/f156263c-16ed-4073-9a8f-35dc96e1b896",
   "ranked": false,
-  "rating": 0.8321292,
-  "ratingCount": 15,
+  "rating": 0.88197374,
+  "ratingCount": 53,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:16Z",
-    "lastChanged": "2026-09-21T02:06:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-27T04:56:52.467779Z",
   "charter": "Wolflover",
@@ -14,6 +14,7 @@
   "description": "本人上传，更新谱面",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/5a91626d-80f7-4f80-95bb-eec24443d95c",
+  "hidden": false,
   "id": 38792,
   "illustration": "https://phira.5wyxi.com/files/cca16bcc-3bec-4041-8873-23855b06c6e3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Class Memories",
   "preview": "https://phira.5wyxi.com/files/2bdc7064-8b4f-4f64-bf03-2494dae01e57",
   "ranked": false,
-  "rating": 0.92661655,
-  "ratingCount": 67,
+  "rating": 0.92696166,
+  "ratingCount": 70,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

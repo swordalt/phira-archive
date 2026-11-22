@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:14Z",
-    "lastChanged": "2026-09-21T02:01:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-07T00:47:23.763003Z",
   "charter": "Party 415 1999-2011",
@@ -14,6 +14,7 @@
   "description": "治疗便秘专用神谱",
   "difficulty": 14.900001,
   "file": "https://phira.5wyxi.com/files/de4a81b4-2787-4167-b2bb-d52cbb289a4e",
+  "hidden": false,
   "id": 3085,
   "illustration": "https://phira.5wyxi.com/files/ca6bc0f0-2859-4319-9585-12e7be1f0e0f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Party 4U \"holy nite mix\"",
   "preview": "https://phira.5wyxi.com/files/8a5a2dd0-f4d3-4bb5-b213-2481296f1023",
   "ranked": false,
-  "rating": 0.33631584,
-  "ratingCount": 66,
+  "rating": 0.3380256,
+  "ratingCount": 67,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

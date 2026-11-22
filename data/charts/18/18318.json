@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:07Z",
-    "lastChanged": "2026-09-21T02:02:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-12T02:57:41.765577Z",
   "charter": "你知道我什么成分",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/dc45fe05-ad04-48ba-9927-9e68dcd7ddab",
+  "hidden": false,
   "id": 18318,
   "illustration": "https://phira.5wyxi.com/files/5fc15691-b9d0-4f4d-9b82-20593acc83ba",
   "illustrator": "",

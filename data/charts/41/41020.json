@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:27Z",
-    "lastChanged": "2026-09-21T02:03:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-06T12:55:42.449278Z",
   "charter": "尘溪",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/78022c84-2dce-407a-87ae-e74edcc49c68",
+  "hidden": false,
   "id": 41020,
   "illustration": "https://phira.5wyxi.com/files/ebe4e57e-9e53-49ca-aca3-85e876c6464e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "青丘",
   "preview": "https://phira.5wyxi.com/files/642e72b1-c341-4546-9e7b-1e72a0103731",
   "ranked": false,
-  "rating": 0.79964274,
-  "ratingCount": 73,
+  "rating": 0.7950783,
+  "ratingCount": 75,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

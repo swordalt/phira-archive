@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:21Z",
-    "lastChanged": "2026-09-21T02:03:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-01T15:55:11.881770Z",
   "charter": "L0u1ss",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 9.900001,
   "file": "https://phira.5wyxi.com/files/aeea5601-899f-4432-a788-159a83d67c02",
+  "hidden": false,
   "id": 39107,
   "illustration": "https://phira.5wyxi.com/files/a904de92-2cae-4cfa-8dc0-e5cb73ed10b7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Watcher",
   "preview": "https://phira.5wyxi.com/files/21432944-f94e-4178-992b-22f89948bfa6",
   "ranked": false,
-  "rating": 0.9412125,
-  "ratingCount": 310,
+  "rating": 0.9353719,
+  "ratingCount": 324,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

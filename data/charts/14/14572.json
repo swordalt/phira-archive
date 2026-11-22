@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:52Z",
-    "lastChanged": "2026-09-21T02:01:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-31T15:13:41.109135Z",
   "charter": "stoy109",
@@ -14,6 +14,7 @@
   "description": "Just an old draft of mine.",
   "difficulty": 13.499998,
   "file": "https://phira.5wyxi.com/files/77b78b1b-5cb7-4886-a673-5d54716f8af4",
+  "hidden": false,
   "id": 14572,
   "illustration": "https://phira.5wyxi.com/files/04bc70bf-a25f-4bdf-863b-31bb61c6ac6c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Kick Back (Tv Size)",
   "preview": "https://phira.5wyxi.com/files/63e22947-4831-4949-af07-6caca1622a0f",
   "ranked": false,
-  "rating": 0.9081567,
-  "ratingCount": 1806,
+  "rating": 0.9077448,
+  "ratingCount": 1857,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

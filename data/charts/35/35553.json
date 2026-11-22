@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:09Z",
-    "lastChanged": "2026-09-21T02:03:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-22T11:56:27.540566Z",
   "charter": "Kingside_MM",
@@ -14,6 +14,7 @@
   "description": "萌新作品请多指教 哔哩哔哩搜作者",
   "difficulty": 14.400001,
   "file": "https://phira.5wyxi.com/files/6c6d7ecd-4809-42bd-9b3b-305be8a591b1",
+  "hidden": false,
   "id": 35553,
   "illustration": "https://phira.5wyxi.com/files/2086f2d2-7f0e-40c6-adae-338d43c66a42",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Future Without You",
   "preview": "https://phira.5wyxi.com/files/20046eff-d5a3-4f92-af47-46ea0827ae36",
   "ranked": false,
-  "rating": 0.8742999,
-  "ratingCount": 22,
+  "rating": 0.8766102,
+  "ratingCount": 24,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

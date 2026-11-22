@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:40Z",
-    "lastChanged": "2026-09-21T02:06:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-13T07:54:16.121987Z",
   "charter": "Ling-578",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传；水段很多的d叠",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/807da07b-c520-4c85-b7d8-ad288859e84b",
+  "hidden": false,
   "id": 49047,
   "illustration": "https://phira.5wyxi.com/files/3edec412-10fb-4642-a388-a120b5aecea5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Memories Sacrifice",
   "preview": "https://phira.5wyxi.com/files/a6f0b17c-2643-4fe0-883c-6164649b169b",
   "ranked": false,
-  "rating": 0.92505854,
-  "ratingCount": 21,
+  "rating": 0.93299186,
+  "ratingCount": 24,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

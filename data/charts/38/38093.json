@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:18Z",
-    "lastChanged": "2026-09-21T02:03:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-15T07:29:47.878438Z",
   "charter": "Eternal Slumber",
@@ -14,6 +14,7 @@
   "description": "[en-US] Chart by me (gargH2O). ",
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/abc137c6-8ef1-4bf6-80e2-c0c86885376a",
+  "hidden": false,
   "id": 38093,
   "illustration": "https://phira.5wyxi.com/files/7b33a5a6-b2c5-44f5-bd44-69dc93f1d0b7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ENDYMION",
   "preview": "https://phira.5wyxi.com/files/34ec2701-64f7-45f7-b264-f74569cb122e",
   "ranked": false,
-  "rating": 0.90104467,
-  "ratingCount": 200,
+  "rating": 0.90297216,
+  "ratingCount": 205,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:06Z",
-    "lastChanged": "2026-09-21T02:02:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-18T08:30:12.124368Z",
   "charter": "Fanchy",
@@ -14,6 +14,7 @@
   "description": "欢迎进群149087944交流~",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/d21902b1-03f1-4f53-b263-b3d0038d4ffc",
+  "hidden": false,
   "id": 17950,
   "illustration": "https://phira.5wyxi.com/files/aa1a18b7-4c78-4bd3-8ccb-01536818fd04",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Unreal Creation!",
   "preview": "https://phira.5wyxi.com/files/ef663545-59ec-4bd3-97c2-abeb77190d17",
   "ranked": false,
-  "rating": 0.96079755,
-  "ratingCount": 2002,
+  "rating": 0.9605906,
+  "ratingCount": 2042,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

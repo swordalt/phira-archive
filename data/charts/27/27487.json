@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:39Z",
-    "lastChanged": "2026-09-21T02:02:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-07T09:51:30.479380Z",
   "charter": "新人1",
@@ -14,6 +14,7 @@
   "description": "新人做的史，多多指教",
   "difficulty": 14.5,
   "file": "https://phira.5wyxi.com/files/b8d11865-f6b4-48ed-ac30-982550dabbaa",
+  "hidden": false,
   "id": 27487,
   "illustration": "https://phira.5wyxi.com/files/3f5c9cad-fa82-4f13-a461-3eaeabca7648",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "海马成长痛",
   "preview": "https://phira.5wyxi.com/files/890c6b29-7c28-4a9c-9034-ea669e1e3c04",
   "ranked": false,
-  "rating": 0.90041107,
-  "ratingCount": 374,
+  "rating": 0.9013456,
+  "ratingCount": 392,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

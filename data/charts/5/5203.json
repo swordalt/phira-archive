@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:20Z",
-    "lastChanged": "2026-09-21T02:01:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-13T00:14:43.799864Z",
   "charter": "P!G!N! POWER!~~~",
@@ -14,6 +14,7 @@
   "description": "去b站也点点赞吧！",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/db737a72-0084-4ea0-8dd7-ce944126f1a9",
+  "hidden": false,
   "id": 5203,
   "illustration": "https://phira.5wyxi.com/files/c41b360b-12cf-49b9-9df1-32d6f0ba3a9e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ULTRA SYNERGY MATRIX",
   "preview": "https://phira.5wyxi.com/files/42d37ba0-6dbb-40f8-aee5-7c356cd2161e",
   "ranked": true,
-  "rating": 0.9118191,
-  "ratingCount": 4018,
+  "rating": 0.9118982,
+  "ratingCount": 4043,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:33Z",
-    "lastChanged": "2026-09-21T02:04:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-04T04:47:08.523707Z",
   "charter": "azure",
@@ -14,6 +14,7 @@
   "description": "有事好商量呜呜呜",
   "difficulty": 15.400001,
   "file": "https://phira.5wyxi.com/files/7c00c9e8-1c32-4352-a2b4-d5a2135b0e92",
+  "hidden": false,
   "id": 54996,
   "illustration": "https://phira.5wyxi.com/files/f2dc3635-f848-4963-95fd-2be7c4632163",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GOT YOU",
   "preview": "https://phira.5wyxi.com/files/08eae6e3-1b3b-4bc5-a12b-488e1225082e",
   "ranked": false,
-  "rating": 0.8999133,
-  "ratingCount": 1451,
+  "rating": 0.9047353,
+  "ratingCount": 1790,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

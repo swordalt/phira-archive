@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:02Z",
-    "lastChanged": "2026-09-21T02:06:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-18T13:04:04.516959Z",
   "charter": "Lanlang",
@@ -14,6 +14,7 @@
   "description": "铺师亲自上传，使用malody写铺\n铺师:蓝狼\n欢迎去B站关注铺师\nbilbili:@一只屑蓝狼\n铺面演示:bilibili@一只屑蓝狼",
   "difficulty": 16.899998,
   "file": "https://phira.5wyxi.com/files/4e8efe3b-8575-49bd-9453-371665690527",
+  "hidden": false,
   "id": 28818,
   "illustration": "https://phira.5wyxi.com/files/b8058b8f-89fa-4ad5-970f-9eb991c4b724",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Hello(BPM)2021",
   "preview": "https://phira.5wyxi.com/files/c3109c84-a626-4fdf-aef8-872671ed550c",
   "ranked": false,
-  "rating": 0.7535019,
-  "ratingCount": 30,
+  "rating": 0.74747145,
+  "ratingCount": 32,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

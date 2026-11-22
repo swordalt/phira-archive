@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-09-21T02:06:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-19T11:04:06.768759Z",
   "charter": "困の鸽子",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 25.0,
   "file": "https://phira.5wyxi.com/files/03e1443e-fc68-4554-9f14-c7dc04e3ec60",
+  "hidden": false,
   "id": 36738,
   "illustration": "https://phira.5wyxi.com/files/753b14d7-0341-47aa-837c-249d348757c8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "恋萌两面♡シンドローム ",
   "preview": "https://phira.5wyxi.com/files/cb8c21ae-974d-4159-b1f1-90a1269c7c44",
   "ranked": false,
-  "rating": 0.9587819,
-  "ratingCount": 165,
+  "rating": 0.9584213,
+  "ratingCount": 168,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

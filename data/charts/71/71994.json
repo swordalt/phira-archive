@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:06Z",
-    "lastChanged": "2026-09-21T02:05:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-08T03:43:26.895186Z",
   "charter": "f.r.e.m.o.",
@@ -14,6 +14,7 @@
   "description": "FreMo本人上传\n\nWSRT x 云梦杯供谱，谱师@FM壹某",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/819db02a-985c-402a-8e47-97a67b23913e",
+  "hidden": false,
   "id": 71994,
   "illustration": "https://phira.5wyxi.com/files/5269e334-0f79-4321-bc19-4d9c7e5337be",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "c.s.q.n. (2026 Remaster)",
   "preview": "https://phira.5wyxi.com/files/a8069f9a-3bf6-4810-bd69-c3ad1b1f7946",
   "ranked": false,
-  "rating": 0.91940504,
-  "ratingCount": 1321,
+  "rating": 0.9218835,
+  "ratingCount": 1460,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

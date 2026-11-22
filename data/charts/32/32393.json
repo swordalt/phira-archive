@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:58Z",
-    "lastChanged": "2026-09-21T02:02:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-25T02:20:14.425007Z",
   "charter": "StudyRay",
@@ -14,6 +14,7 @@
   "description": "我去终于能传上了，有大量的pv neta，希望大家能玩得开心",
   "difficulty": 17.100004,
   "file": "https://phira.5wyxi.com/files/7665c03d-75e4-45f5-a317-b7a61b6c4e93",
+  "hidden": false,
   "id": 32393,
   "illustration": "https://phira.5wyxi.com/files/cb873de9-1076-473a-8b7d-29852f4a1171",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "おべんきょうたいむ",
   "preview": "https://phira.5wyxi.com/files/005f5483-ed7e-43da-aa8b-86ed0bae5175",
   "ranked": false,
-  "rating": 0.9075611,
-  "ratingCount": 1262,
+  "rating": 0.9085511,
+  "ratingCount": 1294,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

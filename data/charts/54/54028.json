@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:28Z",
-    "lastChanged": "2026-09-21T02:04:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-04T20:07:50.490664Z",
   "charter": "SMC's First Chart",
@@ -14,6 +14,7 @@
   "description": "(en-US) BV15SPRzGEre\n2026/04/15 Update: Outro section has been fixed.\n2026/05/05 Update: Chart parsing issue resolved.",
   "difficulty": 13.8,
   "file": "https://phira.5wyxi.com/files/827de25d-604b-4f15-82af-731ae7160d77",
+  "hidden": false,
   "id": 54028,
   "illustration": "https://phira.5wyxi.com/files/10cf3136-0146-4876-b587-97737cb3b0ee",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "My First Phone",
   "preview": "https://phira.5wyxi.com/files/f045e05d-9f6b-4736-87ab-1ffe069a74bf",
   "ranked": false,
-  "rating": 0.89984477,
-  "ratingCount": 178,
+  "rating": 0.8960473,
+  "ratingCount": 181,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

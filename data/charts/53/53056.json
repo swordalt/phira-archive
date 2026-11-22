@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:23Z",
-    "lastChanged": "2026-09-21T02:04:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-20T12:16:44.309744Z",
   "charter": "WANG-Barry",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/43e93e31-dea8-4a48-8789-beba088b56ce",
+  "hidden": false,
   "id": 53056,
   "illustration": "https://phira.5wyxi.com/files/2a9aecb8-f81e-4f0c-98f4-3f225c3fa05a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "循迹",
   "preview": "https://phira.5wyxi.com/files/10f4cacb-a878-4272-b414-e66008a5c6fe",
   "ranked": false,
-  "rating": 0.9072228,
-  "ratingCount": 4385,
+  "rating": 0.9077293,
+  "ratingCount": 4979,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

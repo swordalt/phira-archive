@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:52Z",
-    "lastChanged": "2026-09-21T02:02:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-26T04:01:58.228631Z",
   "charter": "NyaSita",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/874d043e-09b8-432c-b25d-a93fc687fe4c",
+  "hidden": false,
   "id": 31063,
   "illustration": "https://phira.5wyxi.com/files/0516e474-15e2-4069-b75b-0fdf441b357b",
   "illustrator": "",

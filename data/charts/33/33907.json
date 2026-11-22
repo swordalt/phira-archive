@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-12T12:51:14.931638Z",
   "charter": "starch",
@@ -14,6 +14,7 @@
   "description": "写的有点崩\n但应该还是能玩一点的（\n流速:12.4",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/c7d49938-a02e-437b-8abc-6c8be886e765",
+  "hidden": false,
   "id": 33907,
   "illustration": "https://phira.5wyxi.com/files/0295f134-cf77-411b-8a89-ae1a57cce16b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "カラフル",
   "preview": "https://phira.5wyxi.com/files/52931797-2b4d-4de0-8130-6a01260cd909",
   "ranked": false,
-  "rating": 0.93341863,
-  "ratingCount": 152,
+  "rating": 0.9331168,
+  "ratingCount": 154,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:34Z",
-    "lastChanged": "2026-09-21T02:03:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-31T02:15:29.967927Z",
   "charter": "AKX",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/453ca77e-eb81-4591-9df3-e35ad3a908ae",
+  "hidden": false,
   "id": 43192,
   "illustration": "https://phira.5wyxi.com/files/9f543fd1-bb97-4fff-99f1-eaf8745ae549",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "珠玉",
   "preview": "https://phira.5wyxi.com/files/0e6766e7-b493-49f1-8b9f-6e0de095b5fa",
   "ranked": false,
-  "rating": 0.92628884,
-  "ratingCount": 2014,
+  "rating": 0.92763263,
+  "ratingCount": 2158,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

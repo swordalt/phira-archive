@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:49Z",
-    "lastChanged": "2026-09-21T02:03:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-01T14:15:45.595272Z",
   "charter": "2stWJC",
@@ -14,6 +14,7 @@
   "description": "本人上传 5thwjc L1 no.19",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/3097dc9d-4ae6-4d7d-8005-c30875c05b55",
+  "hidden": false,
   "id": 46418,
   "illustration": "https://phira.5wyxi.com/files/34c7a38d-8292-4fad-922c-2975014418c0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MORNINGLOOM",
   "preview": "https://phira.5wyxi.com/files/4fbe4624-7fa7-47c4-a391-65051eb45ea6",
   "ranked": true,
-  "rating": 0.9030759,
-  "ratingCount": 1108,
+  "rating": 0.9028761,
+  "ratingCount": 1141,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

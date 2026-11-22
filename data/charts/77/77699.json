@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:04Z",
-    "lastChanged": "2026-09-21T02:07:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-11T05:42:27.119802Z",
   "charter": "十千秋子",
@@ -14,6 +14,7 @@
   "description": "时长:7m12s|BPM:230\n流速:13.5",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/cc7de976-f7b4-418f-9a28-7ab0f8af23be",
+  "hidden": false,
   "id": 77699,
   "illustration": "https://phira.5wyxi.com/files/cd9c23f1-3705-4493-a8ac-5c8e32bd0345",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "NIGHTMARE † CITY",
   "preview": "https://phira.5wyxi.com/files/408416ab-d64c-4971-9947-78775d354574",
   "ranked": false,
-  "rating": 0.9082507,
-  "ratingCount": 16,
+  "rating": 0.9210689,
+  "ratingCount": 33,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

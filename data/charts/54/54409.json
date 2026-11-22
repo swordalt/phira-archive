@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:29Z",
-    "lastChanged": "2026-09-21T02:04:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-21T13:37:32.564834Z",
   "charter": "GET DOWN NOW",
@@ -14,6 +14,7 @@
   "description": "本人上传（No.845) 大家玩的开心！",
   "difficulty": 14.099999,
   "file": "https://phira.5wyxi.com/files/3f6d3e4b-5034-4a57-9300-0912a76a76e7",
+  "hidden": false,
   "id": 54409,
   "illustration": "https://phira.5wyxi.com/files/4930a78f-002a-4351-885d-70bdc6c21418",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Beyond the way",
   "preview": "https://phira.5wyxi.com/files/eea55643-b6a9-4813-af7b-09efdfa0446b",
   "ranked": false,
-  "rating": 0.9269367,
-  "ratingCount": 423,
+  "rating": 0.9296454,
+  "ratingCount": 487,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

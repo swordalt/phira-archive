@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:20Z",
-    "lastChanged": "2026-09-21T02:01:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-13T09:41:55.610521Z",
   "charter": "Fyato & zzxl12138",
@@ -14,6 +14,7 @@
   "description": "谱师bilibili@飞野同学是笨蛋 和 @zzxl12138\n发布手元/屏元请@我们\n禁止录制autoplay视频发布到任何平台",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/e95b8145-3744-41fa-8874-70b5ef269219",
+  "hidden": false,
   "id": 5233,
   "illustration": "https://phira.5wyxi.com/files/605a248b-4809-4b52-840d-1c9c2e87deea",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "R.I.P.",
   "preview": "https://phira.5wyxi.com/files/9c9960a4-b250-4ec8-89ae-df002f1f795b",
   "ranked": false,
-  "rating": 0.8730182,
-  "ratingCount": 431,
+  "rating": 0.874024,
+  "ratingCount": 436,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:46Z",
-    "lastChanged": "2026-09-21T02:02:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-08T03:07:36.469347Z",
   "charter": "Sun1Verse",
@@ -14,6 +14,7 @@
   "description": "本人上传，第一次写SP谱，请多关照。B站：@音乐小子1",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/fb81bc13-1ec2-492b-84d6-ec7af584c59c",
+  "hidden": false,
   "id": 29473,
   "illustration": "https://phira.5wyxi.com/files/a2c74f43-4678-436e-88e2-84f002febf92",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Love You",
   "preview": "https://phira.5wyxi.com/files/9b73188e-2bfa-4442-a739-9bb3eb77a04e",
   "ranked": false,
-  "rating": 0.8814577,
-  "ratingCount": 82,
+  "rating": 0.87421554,
+  "ratingCount": 84,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

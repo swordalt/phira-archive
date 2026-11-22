@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:36Z",
-    "lastChanged": "2026-09-21T02:06:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-24T14:15:16.965975Z",
   "charter": "XuaNYan_A",
@@ -14,6 +14,7 @@
   "description": "依旧是Malody的转谱，依旧是4K排键但双指可玩，我什么时候才能做点正常4K啊（悲鸣）",
   "difficulty": 15.600001,
   "file": "https://phira.5wyxi.com/files/3dcf223f-eef5-4bf0-9d67-5704d1662ba9",
+  "hidden": false,
   "id": 47180,
   "illustration": "https://phira.5wyxi.com/files/044035dc-2323-4ebf-ba68-dda55ef4f5da",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "星界ちゃんと可不ちゃんのおつかい合騒曲",
   "preview": "https://phira.5wyxi.com/files/b31252ac-7935-474f-b150-bf96a5bffda3",
   "ranked": false,
-  "rating": 0.95966357,
-  "ratingCount": 206,
+  "rating": 0.96043646,
+  "ratingCount": 226,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

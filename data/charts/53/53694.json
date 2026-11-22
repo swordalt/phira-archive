@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:48Z",
-    "lastChanged": "2026-09-21T02:06:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-01T15:08:32.728273Z",
   "charter": "舶渡樱澪",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 16.199999,
   "file": "https://phira.5wyxi.com/files/9c5df867-cbc4-4f3e-b2dd-4374fdb3faa5",
+  "hidden": false,
   "id": 53694,
   "illustration": "https://phira.5wyxi.com/files/a19af82c-7290-446a-9f9f-ade3d4185a35",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "世末歌者",
   "preview": "https://phira.5wyxi.com/files/b8828843-7a97-40d5-97c7-ad7093ad5c15",
   "ranked": false,
-  "rating": 0.90543264,
-  "ratingCount": 30,
+  "rating": 0.9081222,
+  "ratingCount": 31,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

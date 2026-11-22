@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:28Z",
-    "lastChanged": "2026-09-21T02:03:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-12T13:48:35.584786Z",
   "charter": "DrEEpial",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.500002,
   "file": "https://phira.5wyxi.com/files/226abac1-b7aa-4662-b1c0-4d65842915d6",
+  "hidden": false,
   "id": 41514,
   "illustration": "https://phira.5wyxi.com/files/77bc20d4-3238-4ad2-b99b-6b8c7c83f932",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Babs Seed",
   "preview": "https://phira.5wyxi.com/files/aa8dbb50-8533-47ee-9a1c-aa3572b0e505",
   "ranked": false,
-  "rating": 0.92277867,
-  "ratingCount": 810,
+  "rating": 0.92527235,
+  "ratingCount": 868,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

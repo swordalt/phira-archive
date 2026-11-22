@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:01Z",
-    "lastChanged": "2026-09-21T02:05:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-21T01:54:46.007412Z",
   "charter": "infinite700",
@@ -14,6 +14,7 @@
   "description": "本人上传，B站 infinite_aligN，第一版有问题，帮我打回一下谢谢",
   "difficulty": 16.700003,
   "file": "https://phira.5wyxi.com/files/a08fcdb1-8bec-4d67-bdae-ee55bb9a270c",
+  "hidden": false,
   "id": 68088,
   "illustration": "https://phira.5wyxi.com/files/c7bc3142-bdc3-4828-bedf-0bf4e43ace7d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Euphoria (feat. Tsugumi Nagahara)",
   "preview": "https://phira.5wyxi.com/files/286bb9d5-059a-48c3-8325-154448a5e8e2",
   "ranked": false,
-  "rating": 0.92487085,
-  "ratingCount": 456,
+  "rating": 0.92668426,
+  "ratingCount": 485,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

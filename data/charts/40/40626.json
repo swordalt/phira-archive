@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:26Z",
-    "lastChanged": "2026-09-21T02:03:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-01T01:24:57.177048Z",
   "charter": "LongDaDa",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，b站：BV1cDg1zGECh",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/75ef88c7-93be-4002-a3b6-035c26f60919",
+  "hidden": false,
   "id": 40626,
   "illustration": "https://phira.5wyxi.com/files/706e99fc-eaa3-4bcd-bc09-08313b25453f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Hammer of Justice",
   "preview": "https://phira.5wyxi.com/files/f32d9d2b-dd98-49c9-9c1b-f27243cce2ac",
   "ranked": false,
-  "rating": 0.9467228,
-  "ratingCount": 929,
+  "rating": 0.9482104,
+  "ratingCount": 979,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

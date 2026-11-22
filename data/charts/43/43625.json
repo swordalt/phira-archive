@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:36Z",
-    "lastChanged": "2026-09-21T02:03:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-04T00:26:43.089502Z",
   "charter": "Unkn233333339",
@@ -14,6 +14,7 @@
   "description": "该谱面为【云梦•始源】比赛供谱\n首次登场于EX区16进8淘汰赛第三场",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/5cb4c84d-a2f5-44d4-a38a-869df924f15c",
+  "hidden": false,
   "id": 43625,
   "illustration": "https://phira.5wyxi.com/files/d0151d07-e667-490f-b8e4-793be96e32c7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "DANGEROOOOUS JUNGLE",
   "preview": "https://phira.5wyxi.com/files/401080b1-bfbc-4ae6-8955-e5cac54165c7",
   "ranked": false,
-  "rating": 0.9065384,
-  "ratingCount": 3156,
+  "rating": 0.90546364,
+  "ratingCount": 3426,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

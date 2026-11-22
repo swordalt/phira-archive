@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:32Z",
-    "lastChanged": "2026-09-21T02:03:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-24T15:31:49.728868Z",
   "charter": "senty-Wh",
@@ -14,6 +14,7 @@
   "description": "铺面很简单\n",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/c1ed493d-6ac7-46d1-a79d-4732b8d8b23c",
+  "hidden": false,
   "id": 42635,
   "illustration": "https://phira.5wyxi.com/files/861ea78b-6382-406c-bcc7-a24c1958ded8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "故年往迹",
   "preview": "https://phira.5wyxi.com/files/1ae6f214-d955-4cdf-b972-0d2c63a025ad",
   "ranked": false,
-  "rating": 0.7077079,
-  "ratingCount": 37,
+  "rating": 0.7102234,
+  "ratingCount": 40,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

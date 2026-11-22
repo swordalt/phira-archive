@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-09-21T02:06:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-21T15:29:22.150466Z",
   "charter": "A-L-ab ",
@@ -14,6 +14,7 @@
   "description": "b站同名，欢迎关注",
   "difficulty": 15.900001,
   "file": "https://phira.5wyxi.com/files/02b82de9-db4c-45f0-b3f8-f6eecad08be6",
+  "hidden": false,
   "id": 36871,
   "illustration": "https://phira.5wyxi.com/files/e45c259e-7029-4ba3-b63a-98c53841293d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Immaculate",
   "preview": "https://phira.5wyxi.com/files/d05e4470-2d91-49bf-9588-56252b3b4649",
   "ranked": false,
-  "rating": 0.9474797,
-  "ratingCount": 139,
+  "rating": 0.9478482,
+  "ratingCount": 140,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

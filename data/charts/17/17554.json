@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:05Z",
-    "lastChanged": "2026-09-21T02:02:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-25T11:16:55.570495Z",
   "charter": "N.C.\"Build\"",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/27992fdf-fcca-46d8-bb2e-bf1a1870c92b",
+  "hidden": false,
   "id": 17554,
   "illustration": "https://phira.5wyxi.com/files/3c544d5d-9d9f-4301-82a7-f11516df5241",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Be The One",
   "preview": "https://phira.5wyxi.com/files/47e3869d-1864-4985-99a3-627c926acfbf",
   "ranked": false,
-  "rating": 0.9435203,
-  "ratingCount": 6808,
+  "rating": 0.9434536,
+  "ratingCount": 7162,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

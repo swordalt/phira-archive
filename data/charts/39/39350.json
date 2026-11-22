@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:17Z",
-    "lastChanged": "2026-09-21T02:06:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-07T14:31:51.004546Z",
   "charter": "wrppy",
@@ -14,6 +14,7 @@
   "description": "malody转phi，新人初谱",
   "difficulty": 10.000001,
   "file": "https://phira.5wyxi.com/files/710420fa-3cdb-4884-a4b0-a2908f4cdc04",
+  "hidden": false,
   "id": 39350,
   "illustration": "https://phira.5wyxi.com/files/5795b0c5-1d18-4ee5-986a-2db01fe1c532",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ハオ (好)",
   "preview": "https://phira.5wyxi.com/files/1abdf1d1-cb24-45bd-b525-4d4db4f0c543",
   "ranked": false,
-  "rating": 0.90371716,
-  "ratingCount": 181,
+  "rating": 0.9037479,
+  "ratingCount": 186,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

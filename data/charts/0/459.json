@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:05Z",
-    "lastChanged": "2026-09-21T02:01:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-12T08:16:25.424979Z",
   "charter": "のりじゅうよ野离十依&DDC0v0",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/e4b005eb-4e1a-49c2-b1bd-0f224783d3c1",
+  "hidden": false,
   "id": 459,
   "illustration": "https://phira.5wyxi.com/files/debf7c25-fbb1-4c14-9fda-046c8c925489",
   "illustrator": "UK",
@@ -21,8 +22,8 @@
   "name": "Hello (BPM) 2023",
   "preview": "https://phira.5wyxi.com/files/ea15a6e2-4f33-470c-9dff-9ea0349b1ce0",
   "ranked": false,
-  "rating": 0.88146424,
-  "ratingCount": 3920,
+  "rating": 0.8813729,
+  "ratingCount": 3930,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

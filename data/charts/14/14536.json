@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:22Z",
-    "lastChanged": "2026-09-21T02:05:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-31T08:53:40.377078Z",
   "charter": "videogame and kujira find the truth",
@@ -14,6 +14,7 @@
   "description": "愚人节特供",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/a4a29952-6bb7-44d3-8a81-551e0d41c0fd",
+  "hidden": false,
   "id": 14536,
   "illustration": "https://phira.5wyxi.com/files/be242d18-f072-4390-b5a8-14d1676b8d8a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Nhelv",
   "preview": "https://phira.5wyxi.com/files/21427515-e11e-4e78-a8de-01f150423154",
   "ranked": false,
-  "rating": 0.9097195,
-  "ratingCount": 314,
+  "rating": 0.9100067,
+  "ratingCount": 315,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

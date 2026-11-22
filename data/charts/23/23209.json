@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:21Z",
-    "lastChanged": "2026-09-21T02:02:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-11T12:16:50.295268Z",
   "charter": "Last HanBao vs HugMe~",
@@ -14,6 +14,7 @@
   "description": "合作谱。本人发布，谱质可能14.9",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/055fb241-1992-4bfb-bc23-c9bc406adc4d",
+  "hidden": false,
   "id": 23209,
   "illustration": "https://phira.5wyxi.com/files/ebd952c9-5581-4f74-99ee-5e4a2ff702e7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "时落叶影",
   "preview": "https://phira.5wyxi.com/files/dacd39a2-3f63-4f53-9add-485f75b4b545",
   "ranked": false,
-  "rating": 0.8898122,
-  "ratingCount": 1146,
+  "rating": 0.8908525,
+  "ratingCount": 1171,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:18Z",
-    "lastChanged": "2026-09-21T02:05:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-13T15:54:20.140515Z",
   "charter": "L",
@@ -14,6 +14,7 @@
   "description": "bilibili已上传，b站昵称LaN色的煤球",
   "difficulty": 51121.0,
   "file": "https://phira.5wyxi.com/files/d035313a-270d-44d4-8e84-190861b6805e",
+  "hidden": false,
   "id": 1912,
   "illustration": "https://phira.5wyxi.com/files/c4afdd72-140b-438a-9932-9a02a03c50a2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "๏ เ เ ค เ ๏ ๏ ๏ ๏ ๏ เ ค เ",
   "preview": "https://phira.5wyxi.com/files/f5c3b3be-1b0a-4d47-8ced-8c9ee1eea7e5",
   "ranked": false,
-  "rating": 0.8940986,
-  "ratingCount": 2197,
+  "rating": 0.89433426,
+  "ratingCount": 2213,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

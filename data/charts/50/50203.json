@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:43Z",
-    "lastChanged": "2026-09-21T02:06:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-14T04:06:25.635406Z",
   "charter": "Sxxert",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/130eb773-00cf-4dec-b27d-b60476cea64d",
+  "hidden": false,
   "id": 50203,
   "illustration": "https://phira.5wyxi.com/files/ca71ebbb-b750-4357-8735-8e1967660088",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Oshama Scramble!",
   "preview": "https://phira.5wyxi.com/files/658256ca-8fc8-41c1-bdce-a972c5152ef7",
   "ranked": false,
-  "rating": 0.9284693,
-  "ratingCount": 76,
+  "rating": 0.9345767,
+  "ratingCount": 87,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

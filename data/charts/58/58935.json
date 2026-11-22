@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:43Z",
-    "lastChanged": "2026-09-21T02:04:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-02T05:12:32.321145Z",
   "charter": "我是你姐姐的刀",
@@ -14,6 +14,7 @@
   "description": "铺师本人上传",
   "difficulty": 15.2,
   "file": "https://phira.5wyxi.com/files/1cf56395-6b5a-4349-93a2-c6cc3a44d202",
+  "hidden": false,
   "id": 58935,
   "illustration": "https://phira.5wyxi.com/files/d8455817-2b06-431a-bfda-d6ace63fde33",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Kwik Flip | YTPMV",
   "preview": "https://phira.5wyxi.com/files/89a5a8a7-38e1-493f-847f-5fbe59b3a6c3",
   "ranked": false,
-  "rating": 0.9406091,
-  "ratingCount": 486,
+  "rating": 0.9413132,
+  "ratingCount": 561,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

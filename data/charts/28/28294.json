@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:42Z",
-    "lastChanged": "2026-09-21T02:02:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-01T01:24:58.679925Z",
   "charter": "南瓜",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/cd752d8f-2a78-4493-ac75-474928a2d8e0",
+  "hidden": false,
   "id": 28294,
   "illustration": "https://phira.5wyxi.com/files/33db4de7-3728-4aa5-9306-dd846368d3ce",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Χάρων",
   "preview": "https://phira.5wyxi.com/files/3007a69e-1469-4fa4-a992-6d9ab9c154f5",
   "ranked": false,
-  "rating": 0.92074335,
-  "ratingCount": 794,
+  "rating": 0.9204596,
+  "ratingCount": 797,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

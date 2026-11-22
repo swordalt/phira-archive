@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:04Z",
-    "lastChanged": "2026-09-21T02:05:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-31T11:52:46.898782Z",
   "charter": "Kamoi",
@@ -14,6 +14,7 @@
   "description": "登场于云梦杯ex组16进8最后一场\n请支持B站@Kamoioff谢谢喵",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/7e96569e-3a68-4ea8-9991-048ce0e10ddc",
+  "hidden": false,
   "id": 70345,
   "illustration": "https://phira.5wyxi.com/files/c8c4b8d7-89ad-4d8d-8f9b-c17f63b61b2d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Blithe",
   "preview": "https://phira.5wyxi.com/files/ead350f5-7922-4026-b60b-39ae6608c072",
   "ranked": false,
-  "rating": 0.86857593,
-  "ratingCount": 121,
+  "rating": 0.8696105,
+  "ratingCount": 125,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

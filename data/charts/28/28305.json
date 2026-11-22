@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:42Z",
-    "lastChanged": "2026-09-21T02:02:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-05T02:43:50.505985Z",
   "charter": "To：Unknown Future",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n10.19更新谱面与曲绘",
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/614fb26d-3366-4cff-9421-db01146bb689",
+  "hidden": false,
   "id": 28305,
   "illustration": "https://phira.5wyxi.com/files/bada45a6-d4fb-4ec9-a366-402041123d52",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "To：Be Continued",
   "preview": "https://phira.5wyxi.com/files/6d5ee0db-7762-49ae-88a6-0f2cd59c853e",
   "ranked": false,
-  "rating": 0.940932,
-  "ratingCount": 1121,
+  "rating": 0.941105,
+  "ratingCount": 1128,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:47Z",
-    "lastChanged": "2026-09-21T02:04:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-09T14:12:38.005361Z",
   "charter": "zzz",
@@ -14,6 +14,7 @@
   "description": "bpm:83～90",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/e17e3399-9a49-49b9-b4f7-2dbd19be2365",
+  "hidden": false,
   "id": 60509,
   "illustration": "https://phira.5wyxi.com/files/0b6a639e-bc12-4195-81ce-4887e0a7d839",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Altale",
   "preview": "https://phira.5wyxi.com/files/03efb392-dbb7-48f9-9619-a6bd4c304847",
   "ranked": false,
-  "rating": 0.90622383,
-  "ratingCount": 44,
+  "rating": 0.916463,
+  "ratingCount": 51,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

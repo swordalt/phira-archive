@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:45Z",
-    "lastChanged": "2026-09-21T02:02:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-31T03:10:16.709785Z",
   "charter": "雨云不用伞",
@@ -14,6 +14,7 @@
   "description": "一年前的最后一舞，值得发出来留个纪念",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/d250f5fe-a78b-47a9-8402-2268260447e5",
+  "hidden": false,
   "id": 29239,
   "illustration": "https://phira.5wyxi.com/files/d0252058-0778-48b8-a9e3-f5c9f83f0bd7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "enchanted wanderer",
   "preview": "https://phira.5wyxi.com/files/6bc86d16-1355-4668-a9d4-2f8a89083e37",
   "ranked": false,
-  "rating": 0.87133455,
-  "ratingCount": 91,
+  "rating": 0.867859,
+  "ratingCount": 97,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

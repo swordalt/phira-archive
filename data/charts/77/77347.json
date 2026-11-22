@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:14Z",
-    "lastChanged": "2026-09-21T02:05:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-06T10:33:03.957469Z",
   "charter": "Kyursure likes jam with slices of toast",
@@ -14,6 +14,7 @@
   "description": "B站@可萱_Kyursure\n\n总物量:854\nBPM:256-325\n定数:15.0\n\n本人上传",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/876c703d-8c19-4079-a033-4e11c63155ed",
+  "hidden": false,
   "id": 77347,
   "illustration": "https://phira.5wyxi.com/files/c88eca72-5054-4dfe-9c0a-093b91ac9afe",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Jam with Pancake",
   "preview": "https://phira.5wyxi.com/files/3329313b-43ce-44a8-abed-6fb4f37d661b",
   "ranked": false,
-  "rating": 0.9006338,
-  "ratingCount": 93,
+  "rating": 0.9117377,
+  "ratingCount": 120,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

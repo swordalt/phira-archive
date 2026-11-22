@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:38Z",
-    "lastChanged": "2026-09-21T02:06:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-05T07:29:19.088512Z",
   "charter": "定义",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/e42613de-91ac-4dc6-849c-98bd14dbb8f6",
+  "hidden": false,
   "id": 47656,
   "illustration": "https://phira.5wyxi.com/files/e1c5f822-e308-4a2e-b230-68c2083b6a5c",
   "illustrator": "",

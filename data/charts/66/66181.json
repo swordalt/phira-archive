@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:58Z",
-    "lastChanged": "2026-09-21T02:06:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-13T08:24:46.353078Z",
   "charter": "Apple",
@@ -14,6 +14,7 @@
   "description": "谱师：苹果piee\nmalody转phi好麻烦呀 一年前的产物拖到现在发",
   "difficulty": 16.5,
   "file": "https://phira.5wyxi.com/files/9181c1ee-8bed-42cb-891e-dbb29abcd8a8",
+  "hidden": false,
   "id": 66181,
   "illustration": "https://phira.5wyxi.com/files/5612c243-dc7f-4dd0-8e3f-0038849b2ca3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Polacro",
   "preview": "https://phira.5wyxi.com/files/9c46de90-e7af-46c2-91eb-299bbf5924ce",
   "ranked": false,
-  "rating": 0.8591032,
-  "ratingCount": 19,
+  "rating": 0.8761242,
+  "ratingCount": 23,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

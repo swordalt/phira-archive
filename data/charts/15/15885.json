@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:58Z",
-    "lastChanged": "2026-09-21T02:01:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-16T15:52:34.792113Z",
   "charter": "6thPecJam",
@@ -14,6 +14,7 @@
   "description": "诶，没说不能投纯配置啊",
   "difficulty": 14.5,
   "file": "https://phira.5wyxi.com/files/70145394-9c2f-437e-84d2-e327d1f05ccb",
+  "hidden": false,
   "id": 15885,
   "illustration": "https://phira.5wyxi.com/files/b50d79f5-5735-429d-9b31-5e63fbc7aef4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "絶対敵対メチャキライヤー",
   "preview": "https://phira.5wyxi.com/files/a1c7e89a-b347-4e4d-b2e7-af9e425d2326",
   "ranked": false,
-  "rating": 0.89471537,
-  "ratingCount": 2294,
+  "rating": 0.8946204,
+  "ratingCount": 2322,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

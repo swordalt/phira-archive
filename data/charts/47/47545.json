@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:55Z",
-    "lastChanged": "2026-09-21T02:03:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-03T10:07:10.071350Z",
   "charter": "Another Phigros Charting Team",
@@ -14,6 +14,7 @@
   "description": "FreMo本人上传，APCT制作",
   "difficulty": 15.899996,
   "file": "https://phira.5wyxi.com/files/d5f36643-dc1a-422d-a091-53aa0b098f63",
+  "hidden": false,
   "id": 47545,
   "illustration": "https://phira.5wyxi.com/files/d4d1127c-c185-423c-9ca0-29420cb6d1e6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "紅蓮華",
   "preview": "https://phira.5wyxi.com/files/5e402dac-d42c-430f-b8e9-83eff77ee77e",
   "ranked": false,
-  "rating": 0.9336031,
-  "ratingCount": 7790,
+  "rating": 0.93253314,
+  "ratingCount": 8331,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

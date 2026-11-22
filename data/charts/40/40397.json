@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:19Z",
-    "lastChanged": "2026-09-21T02:06:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-28T06:49:16.192332Z",
   "charter": "moonnicholas",
@@ -14,6 +14,7 @@
   "description": "本人上傳",
   "difficulty": 4.5000005,
   "file": "https://phira.5wyxi.com/files/7894d975-a950-47ff-9edf-3a22e9d17a50",
+  "hidden": false,
   "id": 40397,
   "illustration": "https://phira.5wyxi.com/files/178b882f-44b8-4817-9222-c73d836ce428",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "virkatoの主題によるperson09風超絶技巧変奏曲",
   "preview": "https://phira.5wyxi.com/files/c47a0987-ac02-4736-b5c8-9ba96493ee2e",
   "ranked": false,
-  "rating": 0.9616451,
-  "ratingCount": 235,
+  "rating": 0.96165967,
+  "ratingCount": 244,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

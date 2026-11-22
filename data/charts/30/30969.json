@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:51Z",
-    "lastChanged": "2026-09-21T02:02:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-22T04:31:45.723591Z",
   "charter": "Phigros柠檬",
@@ -14,6 +14,7 @@
   "description": "快手Phigros柠檬制作并上传",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/da26be39-065a-4715-8299-98ae385c4a1c",
+  "hidden": false,
   "id": 30969,
   "illustration": "https://phira.5wyxi.com/files/bb3bf1c7-fea2-4b34-9f31-af6a2112c393",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ブランディングができない（不可能品牌推广）",
   "preview": "https://phira.5wyxi.com/files/81df0c83-dfc4-4437-867b-12fe2e2fd12c",
   "ranked": false,
-  "rating": 0.8947139,
-  "ratingCount": 621,
+  "rating": 0.8963513,
+  "ratingCount": 634,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

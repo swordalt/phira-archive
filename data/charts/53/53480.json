@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:46Z",
-    "lastChanged": "2026-09-21T02:06:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-26T15:02:52.484040Z",
   "charter": "Nosmoking",
@@ -14,6 +14,7 @@
   "description": "定位：切换",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/00205ec1-2c66-47a1-92ec-8646c7b4d7ae",
+  "hidden": false,
   "id": 53480,
   "illustration": "https://phira.5wyxi.com/files/9e7f6cce-a9a5-4b1a-b816-0a00af7b8b08",
   "illustrator": "",

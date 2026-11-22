@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:50Z",
-    "lastChanged": "2026-09-21T02:04:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-22T10:58:10.766038Z",
   "charter": "终点——",
@@ -14,6 +14,7 @@
   "description": "原生日作，因为原谱投到phira上才发现有两处露馅，遂重投awa。质量不算太好，关注谱师包子UwU（哔哩哔哩）谢谢喵owo",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/66b31e36-99a6-49f3-8cd5-b4b38f11604a",
+  "hidden": false,
   "id": 62008,
   "illustration": "https://phira.5wyxi.com/files/d4daae40-e299-45e1-82ab-644fa2d97988",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "……已至",
   "preview": "https://phira.5wyxi.com/files/a7edee26-4df6-4789-b9ce-32ed5256bed5",
   "ranked": false,
-  "rating": 0.885501,
-  "ratingCount": 184,
+  "rating": 0.89309096,
+  "ratingCount": 216,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

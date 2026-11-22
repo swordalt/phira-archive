@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:06Z",
-    "lastChanged": "2026-09-21T02:05:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-09T08:00:27.064478Z",
   "charter": "novatia vs. Lavenzard",
@@ -14,6 +14,7 @@
   "description": "【【凌梦杯/phigros自制谱】-Libra- IN Lv.15-哔哩哔哩】 https://b23.tv/DJMR5GW",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/d5dd77b4-7199-4a19-9ff8-c35bc40b4ad0",
+  "hidden": false,
   "id": 72238,
   "illustration": "https://phira.5wyxi.com/files/ca42d768-7462-4cea-a260-e5a2e5429510",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "-Libra-",
   "preview": "https://phira.5wyxi.com/files/0c137631-ed5e-4826-b66f-6edd7021c1d1",
   "ranked": false,
-  "rating": 0.8990197,
-  "ratingCount": 83,
+  "rating": 0.9016229,
+  "ratingCount": 90,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

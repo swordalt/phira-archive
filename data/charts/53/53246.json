@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:24Z",
-    "lastChanged": "2026-09-21T02:04:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:32Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-23T10:40:07.957128Z",
   "charter": "A380P",
@@ -14,6 +14,7 @@
   "description": "A380P的第一首像样的音游曲（划掉）完全由A380P编曲-曲绘-制谱。",
   "difficulty": 16.399996,
   "file": "https://phira.5wyxi.com/files/3f0f8e25-c4f1-42f1-99db-0a6a32e2d1b2",
+  "hidden": false,
   "id": 53246,
   "illustration": "https://phira.5wyxi.com/files/4400cded-d379-4e5e-b9e7-85c7c9962c4a",
   "illustrator": "",

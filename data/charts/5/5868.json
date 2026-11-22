@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:21Z",
-    "lastChanged": "2026-09-21T02:01:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-23T02:53:25.589735Z",
   "charter": "Vilstk_凌云",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 14.8,
   "file": "https://phira.5wyxi.com/files/00828123-3b95-4581-9518-2fc78c984410",
+  "hidden": false,
   "id": 5868,
   "illustration": "https://phira.5wyxi.com/files/7004dd2c-9f59-4932-8716-b08ed944a57e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "药",
   "preview": "https://phira.5wyxi.com/files/2016b559-d459-46e7-990d-6e409f38b3aa",
   "ranked": false,
-  "rating": 0.9169052,
-  "ratingCount": 521,
+  "rating": 0.9171447,
+  "ratingCount": 527,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

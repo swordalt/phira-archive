@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:28Z",
-    "lastChanged": "2026-09-21T02:01:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-25T04:33:08.807748Z",
   "charter": "sTaЯMondy & uis",
@@ -14,6 +14,7 @@
   "description": "合作谱，谱师其一本人上传",
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/e34ee05e-7b22-45ce-a4de-0f2517a556cd",
+  "hidden": false,
   "id": 8341,
   "illustration": "https://phira.5wyxi.com/files/7db12d38-e190-4dea-8b8b-55c1cf0d72d2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Avantgarde",
   "preview": "https://phira.5wyxi.com/files/0cad05ac-4227-4cad-8327-5df45fda77a2",
   "ranked": false,
-  "rating": 0.91175735,
-  "ratingCount": 1316,
+  "rating": 0.9120517,
+  "ratingCount": 1331,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

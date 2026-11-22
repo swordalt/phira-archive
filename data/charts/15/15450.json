@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:42Z",
-    "lastChanged": "2026-09-21T02:05:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-12T06:34:56.815188Z",
   "charter": "落痕luor",
@@ -14,6 +14,7 @@
   "description": "进行了一波速写 难度大概5dan+的叠 感谢Darkness的耐心指导(虽然排列还是不好看但是比初版好www)",
   "difficulty": 29.0,
   "file": "https://phira.5wyxi.com/files/e44f7958-b4a2-4ae4-9f7b-0bcb4b41ad6e",
+  "hidden": false,
   "id": 15450,
   "illustration": "https://phira.5wyxi.com/files/aa2117bf-c758-4859-87ec-85951bd9a473",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "fairy stage",
   "preview": "https://phira.5wyxi.com/files/4b41aa52-952a-4b42-952b-fe246f371060",
   "ranked": false,
-  "rating": 0.9548751,
-  "ratingCount": 527,
+  "rating": 0.95596254,
+  "ratingCount": 539,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:51Z",
-    "lastChanged": "2026-09-21T02:04:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-13T21:26:06.010786Z",
   "charter": "SMCharter",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n（第一次警告）：这个谱面只使用了一条线，所以这里没有lineart\n（第二次警告）：重复模式\n（第三次警告）：784cb: [HOLD FLICKER WARNING]\n频道链接在我的 Phira 个人资料里。",
   "difficulty": 15.500001,
   "file": "https://phira.5wyxi.com/files/f6511309-d7b2-4b77-aaf4-7a90d1cdcd4e",
+  "hidden": false,
   "id": 62074,
   "illustration": "https://phira.5wyxi.com/files/2390d410-92d0-40c3-b2c6-4256b7396239",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "TSUSURVIVORGAMUSH",
   "preview": "https://phira.5wyxi.com/files/817817cd-0212-450e-8c7a-d69356ac3f69",
   "ranked": false,
-  "rating": 0.87959594,
-  "ratingCount": 12,
+  "rating": 0.8762524,
+  "ratingCount": 13,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

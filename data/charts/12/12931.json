@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:45Z",
-    "lastChanged": "2026-09-21T02:01:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-29T13:57:41.246183Z",
   "charter": "飞飞 of Liberty",
@@ -14,6 +14,7 @@
   "description": "定数：15.9\nBPM：242\n曲师：kobaryo\n本家：CHUNITHM",
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/6e805372-659e-4676-a05d-334a66018d32",
+  "hidden": false,
   "id": 12931,
   "illustration": "https://phira.5wyxi.com/files/fdbadc31-034b-45bf-9edf-41b215763182",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Everlasting Liberty",
   "preview": "https://phira.5wyxi.com/files/db026ce9-d359-4c06-85c0-1e2225122883",
   "ranked": true,
-  "rating": 0.91622955,
-  "ratingCount": 2612,
+  "rating": 0.91647863,
+  "ratingCount": 2645,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

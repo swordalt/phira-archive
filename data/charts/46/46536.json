@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:35Z",
-    "lastChanged": "2026-09-21T02:06:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-07T08:30:03.685156Z",
   "charter": "J.Westra.J",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 5.0,
   "file": "https://phira.5wyxi.com/files/3be259e6-1c6f-445a-a4c0-2afb60407283",
+  "hidden": false,
   "id": 46536,
   "illustration": "https://phira.5wyxi.com/files/bb7a2c66-73a3-4a25-845e-4c2b5f66f0d5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mr.broken_heart",
   "preview": "https://phira.5wyxi.com/files/114fc7d5-ab80-45c2-90a6-ba6a1e468b17",
   "ranked": false,
-  "rating": 0.79671043,
-  "ratingCount": 145,
+  "rating": 0.79280984,
+  "ratingCount": 152,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

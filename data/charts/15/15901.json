@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:58Z",
-    "lastChanged": "2026-09-21T02:01:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-16T16:41:32.079905Z",
   "charter": "HDE",
@@ -14,6 +14,7 @@
   "description": "第一次写低难，我觉得写的还可以",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/3abd2bb7-749b-4393-8ce4-43924b881f01",
+  "hidden": false,
   "id": 15901,
   "illustration": "https://phira.5wyxi.com/files/114fc4a4-8dd7-4e7c-9cc5-0093b1397d30",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "夜に駆ける",
   "preview": "https://phira.5wyxi.com/files/d21969ba-6240-4121-8964-07b9673da184",
   "ranked": false,
-  "rating": 0.9351016,
-  "ratingCount": 3569,
+  "rating": 0.9350805,
+  "ratingCount": 3616,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

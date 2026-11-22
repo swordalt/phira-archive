@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:26Z",
-    "lastChanged": "2026-09-21T02:04:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-28T15:12:25.684435Z",
   "charter": "pyg",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/ba0c0d2e-9c01-407a-971e-6536415f930a",
+  "hidden": false,
   "id": 53619,
   "illustration": "https://phira.5wyxi.com/files/fc041f06-f569-4c2a-898b-ea14441afe32",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "インドア系ならトラックメイカー",
   "preview": "https://phira.5wyxi.com/files/0391da1c-6d47-485a-91dd-294ef5bf4b62",
   "ranked": false,
-  "rating": 0.8288407,
-  "ratingCount": 94,
+  "rating": 0.8380603,
+  "ratingCount": 111,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

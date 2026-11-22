@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:47Z",
-    "lastChanged": "2026-09-21T02:05:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-15T23:22:01.049087Z",
   "charter": "晴天有雪OvO",
@@ -14,6 +14,7 @@
   "description": "bilibili:晴天有雪OvO\n谱师本人上传",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/706aca4c-087c-4419-9ffe-cedbaeaaeeb1",
+  "hidden": false,
   "id": 19974,
   "illustration": "https://phira.5wyxi.com/files/de3bf17a-fbdd-4615-895f-6cbe6270211f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Vicious Mockery",
   "preview": "https://phira.5wyxi.com/files/b760af7d-6d6d-4398-8cd0-f51dc5516a2d",
   "ranked": false,
-  "rating": 0.8236652,
-  "ratingCount": 152,
+  "rating": 0.8240739,
+  "ratingCount": 153,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

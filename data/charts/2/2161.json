@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:11Z",
-    "lastChanged": "2026-09-21T02:01:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-16T11:31:59.056867Z",
   "charter": "长条の信徒†ree3Jack",
@@ -14,6 +14,7 @@
   "description": "由于原谱使用Phira打开会闪退，此版本为修复版，删除部分特效。———————————————原谱面请在Bilibili搜索            @我将化身Tree3分大叠",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/81cbf670-e700-45b4-a886-c637ed43535c",
+  "hidden": false,
   "id": 2161,
   "illustration": "https://phira.5wyxi.com/files/27579466-0854-403b-b03e-c1e9b17a6b36",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ReviXy",
   "preview": "https://phira.5wyxi.com/files/7f9cee1c-87d0-4d96-adaa-8ac754be258e",
   "ranked": false,
-  "rating": 0.73229873,
-  "ratingCount": 195,
+  "rating": 0.73350465,
+  "ratingCount": 196,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

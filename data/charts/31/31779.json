@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:06Z",
-    "lastChanged": "2026-09-21T02:06:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-13T13:29:43.050657Z",
   "charter": "Ancient iron",
@@ -14,6 +14,7 @@
   "description": "本人上传                                                                                 新手谱师，写的可能不是很好，尽力了qwq                                                               音乐是NIKKE中古铁的战斗曲                                                                                       因为原版谱面太难所以这张谱是大削弱过后的                                                               其实很早之前就写了这张谱，但是想着国内大部分人都不认识NIKKE就没发，正好最近NIKKE国服上线了就想着传一下                                                                      有兴趣的可以去了解了解（",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/4dcb2bae-3462-4491-b2ff-7a8fb55dbdbd",
+  "hidden": false,
   "id": 31779,
   "illustration": "https://phira.5wyxi.com/files/1c7038d5-3dc8-4154-b768-28744b0c98b7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Moving Fortress",
   "preview": "https://phira.5wyxi.com/files/8a223b2b-6ecd-4bfd-909e-137a34152046",
   "ranked": false,
-  "rating": 0.90257996,
-  "ratingCount": 15,
+  "rating": 0.9072596,
+  "ratingCount": 17,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

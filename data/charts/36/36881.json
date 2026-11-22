@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:14Z",
-    "lastChanged": "2026-09-21T02:03:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-22T03:36:49.565908Z",
   "charter": "ironman_sm vs HDE",
@@ -14,6 +14,7 @@
   "description": "和 @ironman_sm 的合作谱，拖了两年才完成的谱面\n谱面预览：https://www.bilibili.com/video/BV1BU5CzzEaK/",
   "difficulty": 15.8,
   "file": "https://phira.5wyxi.com/files/caac1fb5-b3d9-46ce-8791-567315d30b10",
+  "hidden": false,
   "id": 36881,
   "illustration": "https://phira.5wyxi.com/files/d48f6392-eb79-4251-ac14-ea8274875cd4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GOODRUSH",
   "preview": "https://phira.5wyxi.com/files/0f44a82d-4dd5-4a21-91ec-17689f3026ac",
   "ranked": false,
-  "rating": 0.9208671,
-  "ratingCount": 558,
+  "rating": 0.921646,
+  "ratingCount": 566,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

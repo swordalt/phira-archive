@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-27T10:16:04Z",
-    "lastChanged": "2026-10-04T10:51:01Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:58:48Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-07-23T15:46:21.318177Z",
   "charter": "炫彩章鱼",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/d4a44467-b688-4310-953c-a01fd515e514",
+  "hidden": false,
   "id": 68735,
   "illustration": "https://phira.5wyxi.com/files/6127704f-1ad1-4a07-a74a-499dd7a24357",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "星降る夜と一輪の花",
   "preview": "https://phira.5wyxi.com/files/2fd1db2d-efb7-40ea-9062-732c88a24d07",
   "ranked": false,
-  "rating": 0.9328066,
-  "ratingCount": 69,
+  "rating": 0.93501616,
+  "ratingCount": 388,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

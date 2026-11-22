@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:52Z",
-    "lastChanged": "2026-09-21T02:05:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-07T03:42:11.471722Z",
   "charter": "Axyiw",
@@ -14,6 +14,7 @@
   "description": "本人上传，发布于dy马甲axyiw",
   "difficulty": 17.799997,
   "file": "https://phira.5wyxi.com/files/e28ce81b-0b79-4870-ace0-92da56cb4eff",
+  "hidden": false,
   "id": 22829,
   "illustration": "https://phira.5wyxi.com/files/faeebc4d-406f-4fbe-b5ee-109e4ae1b4f4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ragnarok",
   "preview": "https://phira.5wyxi.com/files/7f41d26d-919f-4581-ab10-eb700f639489",
   "ranked": false,
-  "rating": 0.8555808,
-  "ratingCount": 81,
+  "rating": 0.8572911,
+  "ratingCount": 82,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

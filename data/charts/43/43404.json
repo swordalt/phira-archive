@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:35Z",
-    "lastChanged": "2026-09-21T02:03:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-01T18:01:46.878946Z",
   "charter": "凌晓璇",
@@ -14,6 +14,7 @@
   "description": "B站，谱面作者 @凌晓璇 ，新人第二张谱~，B站原视频链接：BV1ZshpzpELQ",
   "difficulty": 12.6,
   "file": "https://phira.5wyxi.com/files/89f031ab-f3ff-4192-a82d-f59481fbbfd5",
+  "hidden": false,
   "id": 43404,
   "illustration": "https://phira.5wyxi.com/files/3593f0aa-8bfe-4d5d-b5eb-42ae5f2f2f97",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "すれすれ",
   "preview": "https://phira.5wyxi.com/files/a5f5dce4-1443-4902-b8db-e49d2cc71636",
   "ranked": false,
-  "rating": 0.94284105,
-  "ratingCount": 246,
+  "rating": 0.9441963,
+  "ratingCount": 252,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

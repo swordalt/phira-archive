@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:03Z",
-    "lastChanged": "2026-09-21T02:02:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-16T03:51:35.619735Z",
   "charter": "Qc_Tianshui",
@@ -14,6 +14,7 @@
   "description": "谱师Qc天水本人上传，B站有号",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/ca024e3f-9397-4eb2-8c6a-665c691cccb3",
+  "hidden": false,
   "id": 17159,
   "illustration": "https://phira.5wyxi.com/files/951b0798-e148-430f-a9a7-76f1cea190e3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "We Could Get More Machinegun Psystyle! -And More Genre Switches-",
   "preview": "https://phira.5wyxi.com/files/b14074ec-0908-4393-a385-496958608238",
   "ranked": false,
-  "rating": 0.9007223,
-  "ratingCount": 967,
+  "rating": 0.90106964,
+  "ratingCount": 986,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

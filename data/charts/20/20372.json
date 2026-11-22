@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:14Z",
-    "lastChanged": "2026-09-21T02:02:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-01T05:58:40.785674Z",
   "charter": "Imagaxis",
@@ -14,6 +14,7 @@
   "description": "16 综合谱，几乎每方面都会考到。4k预警！！  ps：刚写完想定15 来着\n2025 Update:提高谱面流速，修改部分配置，增加shader\n旧定数：15.7\n新定数：16.1",
   "difficulty": 16.100004,
   "file": "https://phira.5wyxi.com/files/904ad5a2-a24d-4a79-9902-4b1963ccaa0a",
+  "hidden": false,
   "id": 20372,
   "illustration": "https://phira.5wyxi.com/files/417926a2-464e-47df-902c-4aad854785f4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "LosT iN The ciTiE",
   "preview": "https://phira.5wyxi.com/files/3249b685-95b0-4eec-97ad-dcf60bf16010",
   "ranked": false,
-  "rating": 0.753013,
-  "ratingCount": 67,
+  "rating": 0.7652643,
+  "ratingCount": 71,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

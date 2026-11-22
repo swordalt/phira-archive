@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:17Z",
-    "lastChanged": "2026-09-21T02:01:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-01T14:25:30.806316Z",
   "charter": "雨の咕 X GUGU_QwQ",
@@ -14,6 +14,7 @@
   "description": "为本人上传：BV17a4y1w7C5\n根据各位大佬的意见改谱，希望能玩的开心ww~\n（可能还有些不足，但我看不出来，呜...）（小声）",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/12fc55cb-27ab-4840-877b-f85c7fb1e510",
+  "hidden": false,
   "id": 4421,
   "illustration": "https://phira.5wyxi.com/files/ee8389e3-15c4-492c-89ed-bdfe1e9e5d06",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fine Logic",
   "preview": "https://phira.5wyxi.com/files/14a61a3e-667e-4c3f-aeb3-0707841622ad",
   "ranked": true,
-  "rating": 0.933505,
-  "ratingCount": 2143,
+  "rating": 0.933652,
+  "ratingCount": 2158,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:14Z",
-    "lastChanged": "2026-09-21T02:03:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-16T14:59:30.285325Z",
   "charter": "Light_Seeker",
@@ -14,6 +14,7 @@
   "description": "垂直判定的极致应用，全押或许能通过，但我试过很难",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/46cef6d4-1313-4a63-8e54-4aa8674016f9",
+  "hidden": false,
   "id": 36634,
   "illustration": "https://phira.5wyxi.com/files/c38cf841-17b6-42e1-8110-dce90e0202ba",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "BBC Countdown 2013",
   "preview": "https://phira.5wyxi.com/files/62c101a2-7715-486a-924a-ac73007287aa",
   "ranked": false,
-  "rating": 0.91791534,
-  "ratingCount": 525,
+  "rating": 0.9182326,
+  "ratingCount": 538,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

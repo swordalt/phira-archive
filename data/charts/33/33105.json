@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:08Z",
-    "lastChanged": "2026-09-21T02:06:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-02T08:21:22.087054Z",
   "charter": "莳雨Eternity",
@@ -14,6 +14,7 @@
   "description": "190js+hs\n写的十分的弱智\n本人上传",
   "difficulty": 23.0,
   "file": "https://phira.5wyxi.com/files/1aeaa0b6-d2be-43e9-9553-a2acdbb4bf5f",
+  "hidden": false,
   "id": 33105,
   "illustration": "https://phira.5wyxi.com/files/763b78ad-76a1-422f-964c-2d3df179508b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Hidden Ending",
   "preview": "https://phira.5wyxi.com/files/a2363b74-4ad0-41c8-854c-79939c4f829f",
   "ranked": false,
-  "rating": 0.9214088,
-  "ratingCount": 254,
+  "rating": 0.92014915,
+  "ratingCount": 263,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

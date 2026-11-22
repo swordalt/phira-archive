@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:54Z",
-    "lastChanged": "2026-09-21T02:05:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-21T11:13:25.307733Z",
   "charter": "boliye",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.7,
   "file": "https://phira.5wyxi.com/files/84538b5d-117e-4bc5-838e-8039df8a3716",
+  "hidden": false,
   "id": 23977,
   "illustration": "https://phira.5wyxi.com/files/2bc7b95e-59e4-41e8-ac53-a2d0215ffcf6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "少女幻葬　～Necro-Fantasy",
   "preview": "https://phira.5wyxi.com/files/08ede230-d496-434e-bd0c-48dd7e83ac4a",
   "ranked": false,
-  "rating": 0.9499121,
-  "ratingCount": 176,
+  "rating": 0.95034516,
+  "ratingCount": 183,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

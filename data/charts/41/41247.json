@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:27Z",
-    "lastChanged": "2026-09-21T02:03:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-09T09:01:15.516884Z",
   "charter": "Chlorine Broken the Store_Cl",
@@ -14,6 +14,7 @@
   "description": "拍砖妙曲",
   "difficulty": 15.7,
   "file": "https://phira.5wyxi.com/files/06f2d2c7-8432-4481-86c8-4aa3c033c04c",
+  "hidden": false,
   "id": 41247,
   "illustration": "https://phira.5wyxi.com/files/111a12a6-c652-4d5a-b708-2c9c3bca6afb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sickkunt Hardstyle (Explicit)",
   "preview": "https://phira.5wyxi.com/files/b4f2291e-ac77-48e3-aea8-f5f4dd668f0d",
   "ranked": false,
-  "rating": 0.9228877,
-  "ratingCount": 1069,
+  "rating": 0.9226845,
+  "ratingCount": 1108,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

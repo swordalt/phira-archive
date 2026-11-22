@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:34Z",
-    "lastChanged": "2026-09-21T02:01:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-28T15:54:45.908674Z",
   "charter": "四分之一个锅碳",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/85d49eac-b0a4-4ff9-bdef-763f461fa434",
+  "hidden": false,
   "id": 9736,
   "illustration": "https://phira.5wyxi.com/files/9015f0c3-7bcb-468c-8304-51e8c3b5113c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "猫之茗片尾曲",
   "preview": "https://phira.5wyxi.com/files/34233d93-b86f-4c0f-9229-8fdc77488f75",
   "ranked": false,
-  "rating": 0.92873865,
-  "ratingCount": 1694,
+  "rating": 0.92972785,
+  "ratingCount": 1755,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

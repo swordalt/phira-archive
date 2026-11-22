@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:30Z",
-    "lastChanged": "2026-09-21T02:06:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-16T09:53:24.180409Z",
   "charter": "夜空.txt",
@@ -14,6 +14,7 @@
   "description": "本人做的第二张铺，不喜勿喷\n视频:BV1g6YvzUEuT",
   "difficulty": 15.6,
   "file": "https://phira.5wyxi.com/files/7febc49d-8e0b-4d09-b48e-9e3cce058fec",
+  "hidden": false,
   "id": 44853,
   "illustration": "https://phira.5wyxi.com/files/9cc0f34a-ead5-485a-9079-54a3158808dd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "乐园梦游计",
   "preview": "https://phira.5wyxi.com/files/d699e7ad-16c5-4abb-b764-eb160a00283c",
   "ranked": false,
-  "rating": 0.85189486,
-  "ratingCount": 23,
+  "rating": 0.85217375,
+  "ratingCount": 25,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

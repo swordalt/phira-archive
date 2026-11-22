@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-10T17:47:41Z",
-    "lastChanged": "2026-10-12T10:38:13Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:03:09Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-10T15:40:38.033766Z",
   "charter": "YMEA",
@@ -14,6 +14,7 @@
   "description": "旧作重传\n2024-11-10\n\nCrft快三周年了，这个是一周年纯配置供谱\n（其实我当时忘传了#=%）\n\nPASS 99.30\n后光99.5以上 \n难度约为e3\n\n快手 x B站 洋漫YMEA\nDY YMEA",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/0a048568-c87e-4af5-868e-7da990113a37",
+  "hidden": false,
   "id": 80752,
   "illustration": "https://phira.5wyxi.com/files/f0ae75fe-61ed-4f10-ac6b-8a89488c9474",
   "illustrator": "UK",
@@ -21,8 +22,8 @@
   "name": "FLATLINE",
   "preview": "https://phira.5wyxi.com/files/235a1250-b3e2-40b3-9af9-b2b3a4ff183c",
   "ranked": false,
-  "rating": 0.8911611,
-  "ratingCount": 21,
+  "rating": 0.88914406,
+  "ratingCount": 76,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

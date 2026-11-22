@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:40Z",
-    "lastChanged": "2026-09-21T02:02:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-15T12:38:19.237915Z",
   "charter": "白鲨想睡觉",
@@ -14,6 +14,7 @@
   "description": "没有发视频，是自己写的",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/f4bd236a-d812-4e12-b728-32199a495f79",
+  "hidden": false,
   "id": 27722,
   "illustration": "https://phira.5wyxi.com/files/48eb1ed9-18ed-41f0-ad35-7c0678e6824b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Destr0yer",
   "preview": "https://phira.5wyxi.com/files/11fa5a8b-099a-4c37-8a4f-81f90c2f0943",
   "ranked": false,
-  "rating": 0.8658213,
-  "ratingCount": 190,
+  "rating": 0.86619675,
+  "ratingCount": 192,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

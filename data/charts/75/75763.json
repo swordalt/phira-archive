@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:12Z",
-    "lastChanged": "2026-11-15T12:20:53Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:12Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-26T05:01:45.496065Z",
   "charter": "Comma",
@@ -14,6 +14,7 @@
   "description": "本人上传\nb站@Com_ma",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/cf8ca03b-2443-4dca-890e-eade6b834cea",
+  "hidden": false,
   "id": 75763,
   "illustration": "https://phira.5wyxi.com/files/9082fd7b-8fa9-4182-a524-babec81d8411",
   "illustrator": "",
@@ -21,11 +22,11 @@
   "name": "うちゅうのふしぎ",
   "preview": "https://phira.5wyxi.com/files/8317faf2-588c-401d-981b-fdb9c54a48e8",
   "ranked": false,
-  "rating": 0.8947082,
-  "ratingCount": 177,
-  "reviewed": false,
+  "rating": 0.89359313,
+  "ratingCount": 179,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

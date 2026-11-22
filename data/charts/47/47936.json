@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:56Z",
-    "lastChanged": "2026-09-21T02:03:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-11T10:04:05.369394Z",
   "charter": "Baoguahui",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.2,
   "file": "https://phira.5wyxi.com/files/8a40368c-210b-48b9-a85c-9bd308718c11",
+  "hidden": false,
   "id": 47936,
   "illustration": "https://phira.5wyxi.com/files/727ee784-8bd0-4e4e-a63c-9ca6f2bb484a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "紬の夏休み (溝口ゆうま Remix)",
   "preview": "https://phira.5wyxi.com/files/4ea78cbf-8aa1-4cb0-baa1-97ef4fe5ae48",
   "ranked": false,
-  "rating": 0.8630735,
-  "ratingCount": 112,
+  "rating": 0.85928875,
+  "ratingCount": 117,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

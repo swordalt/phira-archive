@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:57Z",
-    "lastChanged": "2026-09-21T02:01:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-15T15:28:32.006189Z",
   "charter": "6thPecJam",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传啦，B站：- Faver-，等比赛结束后就传B站。这是我迄今为止写过的最满意的一张谱面呢，经测试，目前没有bug的反馈，有的话一定要来告诉我啦qwq。最后，感谢大家来玩我的谱面，祝各位在6thPecJam都能有好的成绩啦～",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/ab3b99ca-05f4-422f-afb8-60e5fdc2dcb2",
+  "hidden": false,
   "id": 15769,
   "illustration": "https://phira.5wyxi.com/files/eb1056c1-ff5b-462c-b580-17003e4b46ca",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Beyond the Rainbow",
   "preview": "https://phira.5wyxi.com/files/5768d3f5-c34c-4397-aa36-e31ceac61cd9",
   "ranked": true,
-  "rating": 0.92250574,
-  "ratingCount": 1442,
+  "rating": 0.92229503,
+  "ratingCount": 1462,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

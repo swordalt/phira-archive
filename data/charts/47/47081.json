@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:52Z",
-    "lastChanged": "2026-09-21T02:03:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-22T07:56:19.878874Z",
   "charter": "Redza Stickmin",
@@ -14,6 +14,7 @@
   "description": "重制了一下，配置基本没变，表演和动效差不多全改了。",
   "difficulty": 14.300001,
   "file": "https://phira.5wyxi.com/files/8de1b202-bae8-4f99-ba44-ace299d56970",
+  "hidden": false,
   "id": 47081,
   "illustration": "https://phira.5wyxi.com/files/61764d1e-9329-49c5-ba1a-578f549662f1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Infertehno",
   "preview": "https://phira.5wyxi.com/files/be439c88-8e3d-4d7c-af62-cd002f684cd3",
   "ranked": false,
-  "rating": 0.93947864,
-  "ratingCount": 446,
+  "rating": 0.94048357,
+  "ratingCount": 467,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

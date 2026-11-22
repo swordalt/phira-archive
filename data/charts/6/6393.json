@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-29T13:44:46.639741Z",
   "charter": "Twotthrees Virus",
@@ -14,6 +14,7 @@
   "description": "为了防止盗传于是本人重新上传",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/b7579382-f2f6-4fdb-b818-902e1344f7d6",
+  "hidden": false,
   "id": 6393,
   "illustration": "https://phira.5wyxi.com/files/8006ef64-0663-4b61-ad15-84cbc29261ac",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Villain Virus",
   "preview": "https://phira.5wyxi.com/files/200268e5-7537-43aa-983b-6880bc61e7d1",
   "ranked": false,
-  "rating": 0.86184293,
-  "ratingCount": 1916,
+  "rating": 0.86231625,
+  "ratingCount": 1923,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

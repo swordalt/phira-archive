@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:04Z",
-    "lastChanged": "2026-09-21T02:07:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-04T13:02:47.678631Z",
   "charter": "∫-м1ŋμ§0Л3",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 19.0,
   "file": "https://phira.5wyxi.com/files/a15c6152-1007-4f68-ab27-d96d5819a6f5",
+  "hidden": false,
   "id": 77018,
   "illustration": "https://phira.5wyxi.com/files/5d583cd9-c53f-418c-9e73-48cf05eb136d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "INTERNET YAMERO",
   "preview": "https://phira.5wyxi.com/files/c83f7387-dc1a-4680-b42c-d321e5d83863",
   "ranked": false,
-  "rating": 0.7962938,
-  "ratingCount": 10,
+  "rating": 0.79799205,
+  "ratingCount": 15,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

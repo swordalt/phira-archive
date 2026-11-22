@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:16Z",
-    "lastChanged": "2026-09-21T02:06:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-01T14:04:58.970770Z",
   "charter": "Yinyourer",
@@ -14,6 +14,7 @@
   "description": "重做铺子第二次",
   "difficulty": 4.5,
   "file": "https://phira.5wyxi.com/files/d04c4ee0-ba2d-4ea6-8306-7ddda662f3d0",
+  "hidden": false,
   "id": 39101,
   "illustration": "https://phira.5wyxi.com/files/0afc2ae4-f0d6-4792-8692-1c4fee2666da",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "WATER",
   "preview": "https://phira.5wyxi.com/files/37eb9544-d287-40d3-9258-f3cce50e46c7",
   "ranked": false,
-  "rating": 0.85193455,
-  "ratingCount": 26,
+  "rating": 0.8664459,
+  "ratingCount": 30,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

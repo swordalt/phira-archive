@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:41Z",
-    "lastChanged": "2026-09-21T02:05:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-08T13:03:59.579654Z",
   "charter": "喜食天禄",
@@ -14,6 +14,7 @@
   "description": "b站 @喜食天禄",
   "difficulty": 16.5,
   "file": "https://phira.5wyxi.com/files/438f1503-21d0-4703-a8ab-02cde9a8d7ea",
+  "hidden": false,
   "id": 15054,
   "illustration": "https://phira.5wyxi.com/files/9572dd52-6efb-4f5d-8bcd-32e59beca3d5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "おわりとはじまりのおと",
   "preview": "https://phira.5wyxi.com/files/040e6a94-9a28-4bd9-bba5-5c7683dd5c56",
   "ranked": false,
-  "rating": 0.938408,
-  "ratingCount": 96,
+  "rating": 0.93962735,
+  "ratingCount": 98,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:18Z",
-    "lastChanged": "2026-09-21T02:02:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-22T14:40:05.254619Z",
   "charter": "Yurisky_ vs. Moonite",
@@ -14,6 +14,7 @@
   "description": "上传已经过另一位谱师允许，如需发布游玩视频@Yurisky_ @澄橙子Orighting谢谢喵",
   "difficulty": 17.2,
   "file": "https://phira.5wyxi.com/files/c82ddfdd-e214-4605-b800-17ded14802d2",
+  "hidden": false,
   "id": 21708,
   "illustration": "https://phira.5wyxi.com/files/81ae3c80-aac1-46cd-9e35-791be3179a14",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "核心共振",
   "preview": "https://phira.5wyxi.com/files/eeb492b8-7fe4-478a-942f-27b02d9df2fc",
   "ranked": false,
-  "rating": 0.88893056,
-  "ratingCount": 859,
+  "rating": 0.8906,
+  "ratingCount": 880,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:18Z",
-    "lastChanged": "2026-09-21T02:02:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-21T09:01:15.961200Z",
   "charter": "ASMPeel",
@@ -14,6 +14,7 @@
   "description": "月初完成的一张谱，多次优化后考虑还是传了上来，希望能喜欢；大家也去b站多多支持原曲曲师谢谢喵！～",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/e17d2459-2bb5-4972-a37b-537775a98b7f",
+  "hidden": false,
   "id": 21606,
   "illustration": "https://phira.5wyxi.com/files/c98f5291-599d-4d11-b33a-c4459a3d15c7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GAME life",
   "preview": "https://phira.5wyxi.com/files/e150f922-1123-48a1-b453-13ad22586090",
   "ranked": false,
-  "rating": 0.9466888,
-  "ratingCount": 1276,
+  "rating": 0.9463064,
+  "ratingCount": 1286,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

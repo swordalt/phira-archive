@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:06Z",
-    "lastChanged": "2026-09-21T02:06:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-08T05:44:47.305884Z",
   "charter": "Aether",
@@ -14,6 +14,7 @@
   "description": "标级更新为18",
   "difficulty": 18.200005,
   "file": "https://phira.5wyxi.com/files/a5c2651d-8c8d-4b28-9b96-f27fbc963f0f",
+  "hidden": false,
   "id": 31564,
   "illustration": "https://phira.5wyxi.com/files/077116af-1873-472c-bf48-f450d4d5a1af",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Yorixiro",
   "preview": "https://phira.5wyxi.com/files/a9eaa504-ef93-4d41-9df8-86aa7ba58431",
   "ranked": false,
-  "rating": 0.8882177,
-  "ratingCount": 59,
+  "rating": 0.8916996,
+  "ratingCount": 61,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

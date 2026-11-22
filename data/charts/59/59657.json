@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:45Z",
-    "lastChanged": "2026-09-21T02:04:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-31T13:16:56.117564Z",
   "charter": "TZR087 in CFS MUG Charting Team",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.900001,
   "file": "https://phira.5wyxi.com/files/facaad02-1a98-4e4c-a961-6be9c56781fa",
+  "hidden": false,
   "id": 59657,
   "illustration": "https://phira.5wyxi.com/files/7d0ab3ba-94f0-4b97-8818-b8ece75083f1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Wake(cut ver.)",
   "preview": "https://phira.5wyxi.com/files/a7340da1-9142-42d1-ba42-2036c155deb8",
   "ranked": false,
-  "rating": 0.92020136,
-  "ratingCount": 1707,
+  "rating": 0.9208525,
+  "ratingCount": 2147,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

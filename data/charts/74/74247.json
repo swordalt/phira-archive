@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:00Z",
-    "lastChanged": "2026-09-21T02:07:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-18T16:24:46.663082Z",
   "charter": "betrix",
@@ -14,6 +14,7 @@
   "description": "乌鸡",
   "difficulty": 18.999996,
   "file": "https://phira.5wyxi.com/files/1bcc82bf-ddac-4063-b91c-a70655cfb392",
+  "hidden": false,
   "id": 74247,
   "illustration": "https://phira.5wyxi.com/files/3f946baa-9559-43be-8bb7-64482301c3d6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "終の舞姫 ",
   "preview": "https://phira.5wyxi.com/files/96df7fed-aaaa-4aa9-8b92-dec04e792b43",
   "ranked": false,
-  "rating": 0.8940588,
-  "ratingCount": 10,
+  "rating": 0.88608104,
+  "ratingCount": 14,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

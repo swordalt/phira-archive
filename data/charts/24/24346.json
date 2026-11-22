@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:26Z",
-    "lastChanged": "2026-09-21T02:02:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-25T17:55:32.397033Z",
   "charter": "GeomilA",
@@ -14,6 +14,7 @@
   "description": "Thanks for playing :)",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/065b789f-6523-4512-80ac-1f5718ce5ba4",
+  "hidden": false,
   "id": 24346,
   "illustration": "https://phira.5wyxi.com/files/8fa06baa-e7ab-423b-9b1a-27602efc4cf9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Electroman Adventures",
   "preview": "https://phira.5wyxi.com/files/2e7594ad-fb14-4f50-be31-33758c5177cf",
   "ranked": false,
-  "rating": 0.859774,
-  "ratingCount": 46,
+  "rating": 0.86784047,
+  "ratingCount": 49,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

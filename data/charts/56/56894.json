@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:38Z",
-    "lastChanged": "2026-09-21T02:04:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-21T17:39:37.745879Z",
   "charter": "1234",
@@ -14,6 +14,7 @@
   "description": "本人上传\nshader故事板微调（约20s）",
   "difficulty": 12.100008,
   "file": "https://phira.5wyxi.com/files/a22897e1-384a-4b76-9489-b9f2077b5a75",
+  "hidden": false,
   "id": 56894,
   "illustration": "https://phira.5wyxi.com/files/3b766627-d702-47c4-b756-26285075067b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "余晖(gloaming.)",
   "preview": "https://phira.5wyxi.com/files/d2058d9a-67c6-4f82-9142-f6ed54630dd4",
   "ranked": false,
-  "rating": 0.87714934,
-  "ratingCount": 73,
+  "rating": 0.87652624,
+  "ratingCount": 87,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

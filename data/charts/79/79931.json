@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-04T10:51:26Z",
-    "lastChanged": "2026-10-04T10:51:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-03T06:54:39.873222Z",
   "charter": "kaNano、",
@@ -14,6 +14,7 @@
   "description": "「一輪」\n\n谱师本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/9a8d6c9e-35c4-41e0-bd3b-7043398c3e93",
+  "hidden": false,
   "id": 79931,
   "illustration": "https://phira.5wyxi.com/files/6627bc06-6d7b-4ed8-af63-7487464f8820",
   "illustrator": "毛腿猪兔子 Kolaa",
@@ -21,11 +22,11 @@
   "name": "〇、",
   "preview": "https://phira.5wyxi.com/files/f46a4191-b153-4a8c-afbf-f40736bf415e",
   "ranked": false,
-  "rating": 0.84372836,
-  "ratingCount": 0,
-  "reviewed": false,
+  "rating": 0.9009609,
+  "ratingCount": 132,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "BOF",
     "BMS",

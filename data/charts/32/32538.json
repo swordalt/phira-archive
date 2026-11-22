@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:58Z",
-    "lastChanged": "2026-09-21T02:02:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-26T13:37:45.040127Z",
   "charter": "Leo197",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.500003,
   "file": "https://phira.5wyxi.com/files/64af15c2-4153-42aa-96c1-8fc51cc27757",
+  "hidden": false,
   "id": 32538,
   "illustration": "https://phira.5wyxi.com/files/362b726d-6d77-4884-b191-d3cddb204033",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Collapsing World",
   "preview": "https://phira.5wyxi.com/files/a751bcb6-89b7-4b78-bf92-a86bc5e890ec",
   "ranked": false,
-  "rating": 0.9485001,
-  "ratingCount": 1162,
+  "rating": 0.94843626,
+  "ratingCount": 1226,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

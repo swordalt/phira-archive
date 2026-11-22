@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-11-01T07:26:04Z",
-    "lastChanged": "2026-11-01T07:26:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-05T04:09:28.706543Z",
   "charter": "color",
@@ -14,6 +14,7 @@
   "description": "本人上传：第一张4k谱 有问题请见谅喽",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/ae152bef-01e7-475d-a68e-3ddb9b8f94d7",
+  "hidden": false,
   "id": 80206,
   "illustration": "https://phira.5wyxi.com/files/5c35f023-caf2-4e08-8b1a-cc56a9ee5ba9",
   "illustrator": "ちふり",
@@ -21,8 +22,8 @@
   "name": "snooze",
   "preview": "https://phira.5wyxi.com/files/2b2c35c3-9bc9-482f-938d-4d365105c46f",
   "ranked": false,
-  "rating": 0.85721785,
-  "ratingCount": 4,
+  "rating": 0.94333744,
+  "ratingCount": 199,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

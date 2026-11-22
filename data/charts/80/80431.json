@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-09T13:07:33Z",
-    "lastChanged": "2026-10-12T10:38:13Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:03:09Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-06T14:00:23.257844Z",
   "charter": "食欲でちゅん",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/19916457-ce8e-45ae-a39c-702947400b8d",
+  "hidden": false,
   "id": 80431,
   "illustration": "https://phira.5wyxi.com/files/9de9165f-a55b-46ba-8ace-c183fe117107",
   "illustrator": "From Internet",
@@ -21,8 +22,8 @@
   "name": "Remind a locus",
   "preview": "https://phira.5wyxi.com/files/8af1863f-0f39-4ed6-87e2-42febbb6e820",
   "ranked": false,
-  "rating": 0.879081,
-  "ratingCount": 13,
+  "rating": 0.90707684,
+  "ratingCount": 22,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

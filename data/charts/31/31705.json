@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:06Z",
-    "lastChanged": "2026-09-21T02:06:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-02T10:45:15.546877Z",
   "charter": "Au0Sparse",
@@ -14,6 +14,7 @@
   "description": "新人初谱，轻喷\nB站：Au0Sparse",
   "difficulty": 41.0,
   "file": "https://phira.5wyxi.com/files/92ab02f4-cfed-4282-8bc4-65d273b59449",
+  "hidden": false,
   "id": 31705,
   "illustration": "https://phira.5wyxi.com/files/330babf8-68b3-46b5-9365-e28dd3f5b293",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "空白とカタルシス ",
   "preview": "https://phira.5wyxi.com/files/7a973025-1246-4ff7-816b-ec1a2b45dc79",
   "ranked": false,
-  "rating": 0.90239537,
-  "ratingCount": 55,
+  "rating": 0.90403664,
+  "ratingCount": 56,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

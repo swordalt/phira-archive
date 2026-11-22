@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:04Z",
-    "lastChanged": "2026-09-21T02:04:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-28T17:28:35.366499Z",
   "charter": "傻狍子是白泽",
@@ -14,6 +14,7 @@
   "description": "萌新第三张谱子，推荐宽高比1.5来获得最佳效果嗷",
   "difficulty": 5.8,
   "file": "https://phira.5wyxi.com/files/739cbf61-179b-4e48-b5ea-06f6fe06d8e0",
+  "hidden": false,
   "id": 49569,
   "illustration": "https://phira.5wyxi.com/files/d5e6e345-8b1d-4dec-b5de-4558cd3b9ed1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lyla and the Clouds Stars",
   "preview": "https://phira.5wyxi.com/files/65350d84-69fb-44db-a996-187e9e429c23",
   "ranked": false,
-  "rating": 0.863188,
-  "ratingCount": 21,
+  "rating": 0.876364,
+  "ratingCount": 25,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

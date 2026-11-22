@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:39Z",
-    "lastChanged": "2026-09-21T02:02:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-07T10:10:28.893958Z",
   "charter": "Target Imagaxis",
@@ -14,6 +14,7 @@
   "description": "这其实是我完成度最高的铺子了，距离上一版已经大半年了。\n删除所有不合理配置，加强踩音和特效。\n最终版（踩音仍有不足，有机会改吧）\nTips:其实我几天前就写好了，只不过服务器问题传不上去。\n",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/bc6a643f-b27d-4053-9c9b-14b181a1747d",
+  "hidden": false,
   "id": 27491,
   "illustration": "https://phira.5wyxi.com/files/c21d63b1-7c3d-40f2-8aa3-d9ad40092930",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Target ▲ Zero",
   "preview": "https://phira.5wyxi.com/files/5e32b81c-32bc-4209-9851-7cf39c849e8d",
   "ranked": false,
-  "rating": 0.75188076,
-  "ratingCount": 26,
+  "rating": 0.74141514,
+  "ratingCount": 27,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:35Z",
-    "lastChanged": "2026-09-21T02:04:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-10T13:31:13.176206Z",
   "charter": "cyz",
@@ -14,6 +14,7 @@
   "description": "b站 BV1oSQcBbEn8\n谱师本人上传 新人初谱",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/d891ad05-3000-4546-a567-ddb7c882cf76",
+  "hidden": false,
   "id": 55831,
   "illustration": "https://phira.5wyxi.com/files/ecf44da4-2c02-4697-ad1d-791a7638f635",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "宇宙残骸少女（Cosmic Dusty Girl）",
   "preview": "https://phira.5wyxi.com/files/ab4f722f-74ae-4d4f-ab98-40a932a90b11",
   "ranked": false,
-  "rating": 0.8389811,
-  "ratingCount": 195,
+  "rating": 0.84733856,
+  "ratingCount": 214,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

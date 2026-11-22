@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:09Z",
-    "lastChanged": "2026-09-21T02:04:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-27T10:19:17.648248Z",
   "charter": "Lumieny fixed by SunTrace",
@@ -14,6 +14,7 @@
   "description": "B站：Lumieny\n\n配置：Lumieny\n表演：SunTrace\n谱师SunTrace已授权\n谱师Lumieny亲自上传",
   "difficulty": 15.8,
   "file": "https://phira.5wyxi.com/files/c895fe1a-ab45-4cb6-9300-c7279e9e8de7",
+  "hidden": false,
   "id": 50626,
   "illustration": "https://phira.5wyxi.com/files/3b5b4f9f-23e8-4a2e-af95-385ee2becf74",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "VIIIbit Explorer",
   "preview": "https://phira.5wyxi.com/files/1ad9035b-46d3-4561-8aff-3f5afb7284c1",
   "ranked": false,
-  "rating": 0.9311378,
-  "ratingCount": 246,
+  "rating": 0.9319213,
+  "ratingCount": 255,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

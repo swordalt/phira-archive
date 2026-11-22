@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:16Z",
-    "lastChanged": "2026-09-21T02:02:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-10T04:20:41.515119Z",
   "charter": "J",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.000008,
   "file": "https://phira.5wyxi.com/files/554f529f-39d8-474d-90d7-7d5290350c00",
+  "hidden": false,
   "id": 21096,
   "illustration": "https://phira.5wyxi.com/files/3f20e148-b58f-4eee-bc25-eaf02765d108",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "sølips",
   "preview": "https://phira.5wyxi.com/files/836b89f0-a5cc-450f-ba07-e1f4e504c441",
   "ranked": false,
-  "rating": 0.8856408,
-  "ratingCount": 631,
+  "rating": 0.8856597,
+  "ratingCount": 632,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

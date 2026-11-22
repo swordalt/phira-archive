@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:35Z",
-    "lastChanged": "2026-09-21T02:04:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-07T15:32:24.771120Z",
   "charter": "SakiNyaaaaamon",
@@ -14,6 +14,7 @@
   "description": "本人（smetcot为旧名）上传，请使用phira0.7及以上版本预览/游玩，否则会出现表演/判定bug",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/7efca3f7-5ac7-4f75-a0f5-31ae71d43549",
+  "hidden": false,
   "id": 55361,
   "illustration": "https://phira.5wyxi.com/files/f33dc5e7-8fbd-45ed-a266-e555e0d39379",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MOTTAI",
   "preview": "https://phira.5wyxi.com/files/ee0a0682-e425-4148-ac33-affe251e4539",
   "ranked": false,
-  "rating": 0.9371313,
-  "ratingCount": 1425,
+  "rating": 0.9380057,
+  "ratingCount": 1528,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

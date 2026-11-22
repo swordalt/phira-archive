@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:18Z",
-    "lastChanged": "2026-09-21T02:03:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-17T14:40:26.180984Z",
   "charter": "白時計",
@@ -14,6 +14,7 @@
   "description": "复健作",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/b9e91867-cc3f-44b5-b632-5efc18c25edb",
+  "hidden": false,
   "id": 38222,
   "illustration": "https://phira.5wyxi.com/files/41decf34-8f33-49d0-879a-51e626af4026",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ハレハレヤ",
   "preview": "https://phira.5wyxi.com/files/3cef2f2d-e079-4e3a-b114-23748e22af36",
   "ranked": false,
-  "rating": 0.9286047,
-  "ratingCount": 399,
+  "rating": 0.9297366,
+  "ratingCount": 417,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

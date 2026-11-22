@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:30Z",
-    "lastChanged": "2026-09-21T02:03:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-19T04:44:08.963555Z",
   "charter": "LEMONCOM",
@@ -14,6 +14,7 @@
   "description": "本人上传(不上架）",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/b5e0a6be-79ae-4ee1-b432-5f0d7d20a26a",
+  "hidden": false,
   "id": 42087,
   "illustration": "https://phira.5wyxi.com/files/5894abc7-4745-4b8d-877b-fda9e2f57b02",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Exorcism",
   "preview": "https://phira.5wyxi.com/files/46b48554-28dd-4dc0-98f8-e2677df0a291",
   "ranked": false,
-  "rating": 0.8613219,
-  "ratingCount": 52,
+  "rating": 0.8571193,
+  "ratingCount": 53,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

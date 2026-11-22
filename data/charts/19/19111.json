@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:10Z",
-    "lastChanged": "2026-09-21T02:02:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-01T08:23:12.595698Z",
   "charter": "KevinNatt",
@@ -14,6 +14,7 @@
   "description": "本人上传\n目前为止做的最用心的一张谱子\n事件：1746\n物量：777\n难度：14.8",
   "difficulty": 14.799998,
   "file": "https://phira.5wyxi.com/files/3a81e969-8fde-4180-8c09-8e25b0af2366",
+  "hidden": false,
   "id": 19111,
   "illustration": "https://phira.5wyxi.com/files/611b96a4-2b9e-495e-9dff-055e7e9efc28",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sleep Well",
   "preview": "https://phira.5wyxi.com/files/d27513a6-3067-4c96-b1e3-e0b1fc160a73",
   "ranked": false,
-  "rating": 0.9117741,
-  "ratingCount": 527,
+  "rating": 0.9116329,
+  "ratingCount": 550,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

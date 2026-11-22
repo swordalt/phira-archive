@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:01Z",
-    "lastChanged": "2026-09-21T02:06:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-14T12:36:29.273911Z",
   "charter": "MathTreePig",
@@ -14,6 +14,7 @@
   "description": "4K新人初谱，本人上传。仅供练习使用。",
   "difficulty": 16.399986,
   "file": "https://phira.5wyxi.com/files/352c94ae-2c05-4039-a4eb-7d4641dbb7ce",
+  "hidden": false,
   "id": 27671,
   "illustration": "https://phira.5wyxi.com/files/4a7c4530-7528-45a9-b7ff-005f299777ac",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "New Game",
   "preview": "https://phira.5wyxi.com/files/011a5fbc-ebe1-42f9-97ec-8237f8a61809",
   "ranked": false,
-  "rating": 0.9208044,
-  "ratingCount": 69,
+  "rating": 0.9225218,
+  "ratingCount": 73,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

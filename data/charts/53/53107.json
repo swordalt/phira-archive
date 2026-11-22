@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:46Z",
-    "lastChanged": "2026-09-21T02:06:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-21T06:51:23.754166Z",
   "charter": "Geuatrouk&LPI",
@@ -14,6 +14,7 @@
   "description": "重置\nb站MHwiskasler",
   "difficulty": 18.899996,
   "file": "https://phira.5wyxi.com/files/784d5b4b-774d-4422-b623-3b5063ee5861",
+  "hidden": false,
   "id": 53107,
   "illustration": "https://phira.5wyxi.com/files/ffa8f012-38b1-40aa-92ae-68fce9caea81",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Big Banana",
   "preview": "https://phira.5wyxi.com/files/8425daa0-0d4c-4d92-907e-b3309cf4ebe7",
   "ranked": false,
-  "rating": 0.8667254,
-  "ratingCount": 27,
+  "rating": 0.8708611,
+  "ratingCount": 28,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

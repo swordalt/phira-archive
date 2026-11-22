@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:43Z",
-    "lastChanged": "2026-09-21T02:05:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-02T03:14:07.953260Z",
   "charter": "元气麦子",
@@ -14,6 +14,7 @@
   "description": "本人上传，malody转谱\n如有侵权，请联系3519367825@qq.com\n之前那一版没投纯配置，请审核打回",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/2ae98426-ce9e-43ad-8914-946d4b676ed6",
+  "hidden": false,
   "id": 16600,
   "illustration": "https://phira.5wyxi.com/files/a104a8f9-8e33-4ee4-abf0-6447a280ed6d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "硝华流焰 Blossoms of Summer Night",
   "preview": "https://phira.5wyxi.com/files/28726ae6-78dc-4892-9a91-4cc2d3f5f29f",
   "ranked": false,
-  "rating": 0.94796085,
-  "ratingCount": 442,
+  "rating": 0.94831187,
+  "ratingCount": 445,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

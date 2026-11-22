@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:44Z",
-    "lastChanged": "2026-09-21T02:05:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-23T03:41:35.338550Z",
   "charter": "Iblcya",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nLC2024#2SFLN1",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/ca6a7685-95a4-4e42-83e6-6b7d3c64e08c",
+  "hidden": false,
   "id": 17416,
   "illustration": "https://phira.5wyxi.com/files/4d32b06a-9e8e-4199-b3f2-38a328ce4f03",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "エータ・ベータ・イータ",
   "preview": "https://phira.5wyxi.com/files/99b4357e-5f66-4cca-ba2c-12cfb85fe592",
   "ranked": false,
-  "rating": 0.9215934,
-  "ratingCount": 159,
+  "rating": 0.923956,
+  "ratingCount": 164,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

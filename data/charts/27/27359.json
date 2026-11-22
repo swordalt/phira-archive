@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:39Z",
-    "lastChanged": "2026-09-21T02:02:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-03T10:07:56.089336Z",
   "charter": "-凡草-",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/015c18e5-c48b-4a4e-9b78-d6622ae77847",
+  "hidden": false,
   "id": 27359,
   "illustration": "https://phira.5wyxi.com/files/67ba3d3f-84a4-4dbc-873a-ba44526ffd04",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "俺ゴーストタイプ（我是幽灵属性）",
   "preview": "https://phira.5wyxi.com/files/989ad062-0d53-4d3f-87c9-a300eb5391b4",
   "ranked": false,
-  "rating": 0.90711343,
-  "ratingCount": 98,
+  "rating": 0.9097229,
+  "ratingCount": 102,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

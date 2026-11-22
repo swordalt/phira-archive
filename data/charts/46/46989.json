@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:31Z",
-    "lastChanged": "2026-09-21T02:05:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-20T12:11:32.708174Z",
   "charter": "KTL_kolc",
@@ -14,6 +14,7 @@
   "description": "hello bpm φ",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/1c6eba43-507f-4a9d-8270-e62e52df79de",
+  "hidden": false,
   "id": 46989,
   "illustration": "https://phira.5wyxi.com/files/f98ababd-6902-41f2-8d7a-d63dd19c89f3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "RUSH E",
   "preview": "https://phira.5wyxi.com/files/bbbea6cc-cda1-4bb0-a693-b77e3aabfd68",
   "ranked": false,
-  "rating": 0.8006756,
-  "ratingCount": 1247,
+  "rating": 0.7997752,
+  "ratingCount": 1348,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

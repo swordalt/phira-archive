@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:37Z",
-    "lastChanged": "2026-09-21T02:03:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-06T09:03:49.042445Z",
   "charter": "fishclouds",
@@ -14,6 +14,7 @@
   "description": "本人上传；平平无奇耐力谱",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/b438758d-a82a-4ec2-a39e-c7a70f31ec5e",
+  "hidden": false,
   "id": 43844,
   "illustration": "https://phira.5wyxi.com/files/84e93f03-e3a7-4429-8254-43564a311a36",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "超ナイト・オブ・ナイツ",
   "preview": "https://phira.5wyxi.com/files/a2f3ead4-8994-4864-a932-948fd5c62f3d",
   "ranked": false,
-  "rating": 0.9298295,
-  "ratingCount": 247,
+  "rating": 0.9321203,
+  "ratingCount": 268,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

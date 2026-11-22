@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-02T15:37:47Z",
-    "lastChanged": "2026-11-02T23:26:27Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:31Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-11-01T08:45:29.329340Z",
   "charter": "小天是个小男娘",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 18.2,
   "file": "https://phira.5wyxi.com/files/823b40ce-a405-403d-ae43-6a973f885209",
+  "hidden": false,
   "id": 82822,
   "illustration": "https://phira.5wyxi.com/files/94dac82f-05a2-415d-b8f1-2a3399c6701a",
   "illustrator": "穗嶋（Costume: shikimi）",
@@ -21,14 +22,14 @@
   "name": "[協] Hand in Hand",
   "preview": "https://phira.5wyxi.com/files/930caff8-e0f3-4529-ac7a-e25abd269b26",
   "ranked": false,
-  "rating": 0.70196027,
-  "ratingCount": 0,
+  "rating": 0.7190152,
+  "ratingCount": 28,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-02T15:11:26.958052733Z",
+  "updated": "2026-11-02T15:11:26.958052Z",
   "uploader": 1210804
 }

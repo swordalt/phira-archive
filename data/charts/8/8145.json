@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:28Z",
-    "lastChanged": "2026-09-21T02:01:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-21T10:48:27.275777Z",
   "charter": "CBRTY",
@@ -14,6 +14,7 @@
   "description": "作者qq1192835072",
   "difficulty": 11.999996,
   "file": "https://phira.5wyxi.com/files/7053cd1e-b82e-47cf-af86-3d4a5a276447",
+  "hidden": false,
   "id": 8145,
   "illustration": "https://phira.5wyxi.com/files/bb83bef9-cf68-49c5-9e41-2e5dba8f699f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "わたしたちのクエスト(Short Ver)",
   "preview": "https://phira.5wyxi.com/files/e9b7d7cb-2168-4845-8eb4-5034a1b93312",
   "ranked": false,
-  "rating": 0.95410705,
-  "ratingCount": 3140,
+  "rating": 0.95437485,
+  "ratingCount": 3166,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

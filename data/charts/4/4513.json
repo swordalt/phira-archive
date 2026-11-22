@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:18Z",
-    "lastChanged": "2026-09-21T02:01:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-02T18:35:53.406647Z",
   "charter": "ZellZ",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/1ccad3c4-5f66-42a8-9479-c61590154e68",
+  "hidden": false,
   "id": 4513,
   "illustration": "https://phira.5wyxi.com/files/619f90b1-dd7c-4725-8659-da57870805c9",
   "illustrator": "",

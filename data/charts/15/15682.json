@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:42Z",
-    "lastChanged": "2026-09-21T02:05:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-14T15:20:29.767Z",
   "charter": "ydjddjll",
@@ -14,6 +14,7 @@
   "description": "好好研究了再评。。。",
   "difficulty": 12.000003,
   "file": "https://phira.5wyxi.com/files/672ed1e9-27ec-4373-ad73-70d5957e93b8",
+  "hidden": false,
   "id": 15682,
   "illustration": "https://phira.5wyxi.com/files/3a4e26a9-7895-425e-918a-9ceb0f494259",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fragrance",
   "preview": "https://phira.5wyxi.com/files/6bda8805-0f1e-4e84-a29e-36bfcd51aeaf",
   "ranked": false,
-  "rating": 0.91306615,
-  "ratingCount": 95,
+  "rating": 0.9139467,
+  "ratingCount": 96,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

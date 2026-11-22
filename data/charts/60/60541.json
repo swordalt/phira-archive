@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:48Z",
-    "lastChanged": "2026-09-21T02:04:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-10T05:54:51.780425Z",
   "charter": "凑teto",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，求快过审",
   "difficulty": 14.500001,
   "file": "https://phira.5wyxi.com/files/cf55d297-ba8b-438e-ae1b-348b60d269c5",
+  "hidden": false,
   "id": 60541,
   "illustration": "https://phira.5wyxi.com/files/5e316e38-26f0-4da4-8a18-d1e448324ef0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "歌姫失格",
   "preview": "https://phira.5wyxi.com/files/9f6af8b7-6804-4c63-bcc7-fbbb6740824c",
   "ranked": false,
-  "rating": 0.911198,
-  "ratingCount": 3414,
+  "rating": 0.9109683,
+  "ratingCount": 3936,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

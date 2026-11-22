@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:41Z",
-    "lastChanged": "2026-09-21T02:06:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-14T23:00:39.374922Z",
   "charter": "ECYCG",
@@ -14,6 +14,7 @@
   "description": "马老弟转的",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/edb8f7b8-d4a4-41fd-b87b-c60f36b9e443",
+  "hidden": false,
   "id": 49110,
   "illustration": "https://phira.5wyxi.com/files/e872fec6-3efd-4e74-af14-e63dc31e6405",
   "illustrator": "",

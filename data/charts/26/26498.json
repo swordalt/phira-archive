@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:59Z",
-    "lastChanged": "2026-09-21T02:05:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-23T12:15:32.030986Z",
   "charter": "woxianbaile",
@@ -14,6 +14,7 @@
   "description": "你们最喜欢的硬抗",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/e35617c0-a10e-4b7f-bcef-71c637c7c482",
+  "hidden": false,
   "id": 26498,
   "illustration": "https://phira.5wyxi.com/files/b5434c8d-429f-4062-ab10-36ae5f492666",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Hello (BPM) 2023",
   "preview": "https://phira.5wyxi.com/files/6d997553-dafa-4328-b14d-701fef1e26e0",
   "ranked": false,
-  "rating": 0.9257222,
-  "ratingCount": 284,
+  "rating": 0.9274196,
+  "ratingCount": 288,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:32Z",
-    "lastChanged": "2026-09-21T02:02:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-09T11:08:56.881813Z",
   "charter": "THE BIG TWOTTHREES",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 19.9,
   "file": "https://phira.5wyxi.com/files/88e312ed-b998-4b31-9eae-414a3db4c417",
+  "hidden": false,
   "id": 25753,
   "illustration": "https://phira.5wyxi.com/files/5b324dc7-f0e7-43b5-a20a-44358c4f34b8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "THE BIG BLACK",
   "preview": "https://phira.5wyxi.com/files/92e8eb6f-082f-493b-94aa-50b9b4f510a6",
   "ranked": false,
-  "rating": 0.79818904,
-  "ratingCount": 305,
+  "rating": 0.79763585,
+  "ratingCount": 308,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

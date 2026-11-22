@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:08Z",
-    "lastChanged": "2026-09-21T02:01:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-09T11:25:46.148705Z",
   "charter": "天津twotthrees ＆ 天津Lastims",
@@ -14,6 +14,7 @@
   "description": "暮色大师 计划通补全计划",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/d2ec01d8-101a-4472-887d-9f791545f052",
+  "hidden": false,
   "id": 1283,
   "illustration": "https://phira.5wyxi.com/files/fcf92cf5-d990-4e25-94c5-84f913cb7385",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "天津甕星",
   "preview": "https://phira.5wyxi.com/files/98ba0c42-ba50-48de-8cca-1d022ceb62fd",
   "ranked": true,
-  "rating": 0.9047583,
-  "ratingCount": 2197,
+  "rating": 0.9050753,
+  "ratingCount": 2212,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

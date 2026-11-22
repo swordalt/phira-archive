@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:43Z",
-    "lastChanged": "2026-09-21T02:04:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-17T11:29:49.496699Z",
   "charter": "Funny_M3",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，谱面预览：BV1Z6Ln68EDL",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/8de91e34-9a16-4ca6-b0fa-c55d8be36377",
+  "hidden": false,
   "id": 58598,
   "illustration": "https://phira.5wyxi.com/files/ed36df64-1e32-4505-8b54-ae355b64a3cf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "NO BATIDÃO",
   "preview": "https://phira.5wyxi.com/files/b2598716-e8f5-4bb5-8251-79d9e8918b51",
   "ranked": false,
-  "rating": 0.88528234,
-  "ratingCount": 7307,
+  "rating": 0.88556087,
+  "ratingCount": 7713,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

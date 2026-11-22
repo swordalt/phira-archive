@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:05Z",
-    "lastChanged": "2026-09-21T02:03:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-22T12:36:55.933630Z",
   "charter": "Meteorite",
@@ -14,6 +14,7 @@
   "description": "2月22日新谱更新\n添加歌词",
   "difficulty": 14.900001,
   "file": "https://phira.5wyxi.com/files/763a39c3-cfe8-4acd-a779-26106cad04e0",
+  "hidden": false,
   "id": 34326,
   "illustration": "https://phira.5wyxi.com/files/86645d54-621f-48d3-b7df-217095462fdd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "you are my curse",
   "preview": "https://phira.5wyxi.com/files/653685c0-9d9d-4339-b3ed-04fa0292585d",
   "ranked": false,
-  "rating": 0.9444726,
-  "ratingCount": 315,
+  "rating": 0.9418709,
+  "ratingCount": 346,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

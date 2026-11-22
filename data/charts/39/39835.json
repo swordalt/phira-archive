@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:18Z",
-    "lastChanged": "2026-09-21T02:06:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-26T13:37:44.835381Z",
   "charter": "City Takedown",
@@ -14,6 +14,7 @@
   "description": "本人上传\n这首是对于黄键技谱的全新尝试\n双指中难谱面，多指谨慎游玩\n感谢游玩喵",
   "difficulty": 13.200001,
   "file": "https://phira.5wyxi.com/files/80ffeec1-4543-45bf-a874-5d870a8c54a4",
+  "hidden": false,
   "id": 39835,
   "illustration": "https://phira.5wyxi.com/files/031f01bc-b43d-4fe5-88c9-4d92299d50d9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Tokyo Takedown",
   "preview": "https://phira.5wyxi.com/files/719757c0-ef2c-407f-87b6-eaf6e116b9e6",
   "ranked": false,
-  "rating": 0.9633287,
-  "ratingCount": 108,
+  "rating": 0.963762,
+  "ratingCount": 116,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

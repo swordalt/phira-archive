@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:17Z",
-    "lastChanged": "2026-09-21T02:05:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-13T02:34:41.203562Z",
   "charter": "ZZZ",
@@ -14,6 +14,7 @@
   "description": "不好请见谅，嘻嘻",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/39b542aa-6aac-4281-9bd0-532da9062f99",
+  "hidden": false,
   "id": 77972,
   "illustration": "https://phira.5wyxi.com/files/3df94be8-597b-475a-90ff-df1f046e177f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Wolves Standing Towards Enemies",
   "preview": "https://phira.5wyxi.com/files/5edb21ee-d2da-4d44-a3fb-afd6eb6e4da5",
   "ranked": false,
-  "rating": 0.7269011,
-  "ratingCount": 13,
+  "rating": 0.78420407,
+  "ratingCount": 83,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

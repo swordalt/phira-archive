@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:22Z",
-    "lastChanged": "2026-09-21T02:06:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-13T04:50:50.444433Z",
   "charter": "MEMZ",
@@ -14,6 +14,7 @@
   "description": "本人上传 谱面预览（BV1KEMXz8EXv）",
   "difficulty": 15.300003,
   "file": "https://phira.5wyxi.com/files/5a2036bd-4354-4b11-91a4-768c41a4e00c",
+  "hidden": false,
   "id": 41550,
   "illustration": "https://phira.5wyxi.com/files/17db60cb-8fba-40bc-ab2d-b36f1df600bf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "R.I.P.",
   "preview": "https://phira.5wyxi.com/files/748f143c-9d75-4732-8ea6-b2cbe7551ac6",
   "ranked": false,
-  "rating": 0.8624092,
-  "ratingCount": 67,
+  "rating": 0.86154044,
+  "ratingCount": 70,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

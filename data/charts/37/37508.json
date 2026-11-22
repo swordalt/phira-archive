@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:13Z",
-    "lastChanged": "2026-09-21T02:06:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-04T12:15:30.398246Z",
   "charter": "帷の凌辰",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，b站同名",
   "difficulty": 19.000006,
   "file": "https://phira.5wyxi.com/files/a3e7d51d-7530-415b-9f30-ba73ca450c0c",
+  "hidden": false,
   "id": 37508,
   "illustration": "https://phira.5wyxi.com/files/db2425b7-e618-4650-8050-5c3498a86879",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Another Me Inside",
   "preview": "https://phira.5wyxi.com/files/de76de81-0a54-4e6f-9414-3f884a52a11d",
   "ranked": false,
-  "rating": 0.92436385,
-  "ratingCount": 71,
+  "rating": 0.92536783,
+  "ratingCount": 72,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

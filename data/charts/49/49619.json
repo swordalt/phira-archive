@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:04Z",
-    "lastChanged": "2026-09-21T02:04:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-29T12:52:24.575793Z",
   "charter": "''拝啓'' with little咸鱼",
@@ -14,6 +14,7 @@
   "description": "第一次蟹浦，希望高分awa",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/913fc76c-91fd-4cee-a10b-7ebb382457d6",
+  "hidden": false,
   "id": 49619,
   "illustration": "https://phira.5wyxi.com/files/f13edfe2-634c-4211-80da-8e7e18f08eff",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "拝啓",
   "preview": "https://phira.5wyxi.com/files/499784ca-65f3-4db8-9abb-edd3c8423ba2",
   "ranked": false,
-  "rating": 0.91745245,
-  "ratingCount": 1644,
+  "rating": 0.9174447,
+  "ratingCount": 1784,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

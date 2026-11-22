@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:52Z",
-    "lastChanged": "2026-09-21T02:05:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-07T03:53:16.773806Z",
   "charter": "特殊音乐人",
@@ -14,6 +14,7 @@
   "description": "谱师本人亲自上传！\n盗传必究！",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/29cb7f5f-b20d-4ec2-a885-3488d4a64461",
+  "hidden": false,
   "id": 22833,
   "illustration": "https://phira.5wyxi.com/files/a79995e1-3c74-4a64-8248-1d139392f834",
   "illustrator": "",

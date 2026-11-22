@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:51Z",
-    "lastChanged": "2026-09-21T02:05:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-03T06:38:19.064191Z",
   "charter": "ty",
@@ -14,6 +14,7 @@
   "description": "谱师就是本人（ Lv35是ma定级，实际难度个人感觉7dan左右\nInspired by Limbo",
   "difficulty": 35.0,
   "file": "https://phira.5wyxi.com/files/c786bf9c-598b-4fb6-80c3-938589ab2cf8",
+  "hidden": false,
   "id": 22531,
   "illustration": "https://phira.5wyxi.com/files/fdcdbd45-7aad-416e-819a-d5f175a38261",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Isolation",
   "preview": "https://phira.5wyxi.com/files/238edb0f-5179-4ffe-bff6-fb0d8ae76a24",
   "ranked": false,
-  "rating": 0.9506822,
-  "ratingCount": 157,
+  "rating": 0.9511944,
+  "ratingCount": 159,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

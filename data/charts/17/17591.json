@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:45Z",
-    "lastChanged": "2026-09-21T02:05:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-27T05:42:06.705274Z",
   "charter": "lostzkdc",
@@ -14,6 +14,7 @@
   "description": "第一次做谱",
   "difficulty": 10.000001,
   "file": "https://phira.5wyxi.com/files/a4fef9d2-b1f2-401c-8ccf-ed9499994a1e",
+  "hidden": false,
   "id": 17591,
   "illustration": "https://phira.5wyxi.com/files/2c6c9266-415e-45c2-89ee-116bf430a0b7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ark",
   "preview": "https://phira.5wyxi.com/files/92a8079e-cc32-42e1-bcd5-23bca556efe0",
   "ranked": false,
-  "rating": 0.92734426,
-  "ratingCount": 770,
+  "rating": 0.9278645,
+  "ratingCount": 788,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:43Z",
-    "lastChanged": "2026-09-21T02:05:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-07T15:37:11.609473Z",
   "charter": "Istina",
@@ -14,6 +14,7 @@
   "description": "无轨叠练习谱，无暂停97%pass",
   "difficulty": 9.8,
   "file": "https://phira.5wyxi.com/files/b9b9860c-fd73-48a0-a473-e69762572e92",
+  "hidden": false,
   "id": 16824,
   "illustration": "https://phira.5wyxi.com/files/cfa099d3-cb29-4d73-8ab3-ee717b342e69",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "[9.8]Istina Jack-Trap Crow",
   "preview": "https://phira.5wyxi.com/files/013f313e-fbcb-4822-a9df-e8f3c33c19c0",
   "ranked": false,
-  "rating": 0.9255662,
-  "ratingCount": 32,
+  "rating": 0.9275699,
+  "ratingCount": 33,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

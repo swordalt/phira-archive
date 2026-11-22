@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:30Z",
-    "lastChanged": "2026-09-21T02:05:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-28T07:13:29.724749Z",
   "charter": "告别",
@@ -14,6 +14,7 @@
   "description": "谱面一大部分就不用判定线来表演了哈！（谱师本人上传）",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/f7b5d3dc-69c3-41c7-b1f6-8ef3b2a71063",
+  "hidden": false,
   "id": 42943,
   "illustration": "https://phira.5wyxi.com/files/558c3fd8-e2c4-472d-8728-b9cb9df0495d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "モニタリング(野花香)",
   "preview": "https://phira.5wyxi.com/files/1eb3a155-cd33-4492-891f-3e2cc6b57639",
   "ranked": false,
-  "rating": 0.8957352,
-  "ratingCount": 284,
+  "rating": 0.89575213,
+  "ratingCount": 294,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

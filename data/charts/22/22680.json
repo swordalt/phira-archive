@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:21Z",
-    "lastChanged": "2026-09-21T02:02:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-05T08:04:12.820844Z",
   "charter": "开朗的金木研",
@@ -14,6 +14,7 @@
   "description": "这保证是本人写的，B站UID:1085094375",
   "difficulty": 14.400017,
   "file": "https://phira.5wyxi.com/files/12e47f13-bcf6-4fc5-98de-16fc9c8718c0",
+  "hidden": false,
   "id": 22680,
   "illustration": "https://phira.5wyxi.com/files/83e6c2f1-e2bd-48f2-9350-a84b06fcbbab",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Battle Against a True Hero",
   "preview": "https://phira.5wyxi.com/files/10d0aaa0-d566-4d1a-ae33-91e171c57884",
   "ranked": false,
-  "rating": 0.9169335,
-  "ratingCount": 1108,
+  "rating": 0.9174856,
+  "ratingCount": 1125,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

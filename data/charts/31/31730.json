@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:55Z",
-    "lastChanged": "2026-09-21T02:02:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-12T07:44:19.602997Z",
   "charter": "M1OR",
@@ -14,6 +14,7 @@
   "description": "这个版本没有shader，不是重复上传，B站:M1-TEch_极梦",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/782a696b-52f4-4246-9dbd-3ad5ca76272e",
+  "hidden": false,
   "id": 31730,
   "illustration": "https://phira.5wyxi.com/files/b1c7c8f3-2b85-45d9-bd6e-5f651da46cf6",
   "illustrator": "",

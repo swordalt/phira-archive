@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:30Z",
-    "lastChanged": "2026-09-21T02:01:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-31T02:04:34.613713Z",
   "charter": "裂文虎克",
@@ -14,6 +14,7 @@
   "description": "作者：d裂文虎克b",
   "difficulty": 13.500005,
   "file": "https://phira.5wyxi.com/files/feb4ef4e-e2b5-4839-8d44-2ff1570e1866",
+  "hidden": false,
   "id": 8855,
   "illustration": "https://phira.5wyxi.com/files/0e2f9a5c-6aa1-4db7-ab2d-5c7badf51c4b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "疾風忍殺わらにんじゃ",
   "preview": "https://phira.5wyxi.com/files/1a422f91-2ceb-4bb8-beb4-69eb4b346f38",
   "ranked": false,
-  "rating": 0.9482646,
-  "ratingCount": 1109,
+  "rating": 0.9486897,
+  "ratingCount": 1121,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

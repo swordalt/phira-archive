@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:03Z",
-    "lastChanged": "2026-09-21T02:02:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-13T00:46:41.296269Z",
   "charter": "南方の辉(南辉)",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/f83ffc55-b983-4aa5-aced-5330bb2461d0",
+  "hidden": false,
   "id": 17087,
   "illustration": "https://phira.5wyxi.com/files/e9247af6-6cf6-46a2-a384-28ea67505387",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Kusa(草)",
   "preview": "https://phira.5wyxi.com/files/6e35fcc1-ba8b-4fa2-9a9f-321860ec9fae",
   "ranked": false,
-  "rating": 0.8052026,
-  "ratingCount": 195,
+  "rating": 0.8062016,
+  "ratingCount": 196,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

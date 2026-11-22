@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:51Z",
-    "lastChanged": "2026-09-21T02:04:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-26T02:57:50.648680Z",
   "charter": "DbtT1-9421",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，视频BV1GsEm6TE28",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/27a87008-df23-4cfb-bbfa-0dee8b27a6f5",
+  "hidden": false,
   "id": 62485,
   "illustration": "https://phira.5wyxi.com/files/2af42bc9-7c09-4179-a1dc-922c9b71c5bd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "笙·宴(MotiF-east)",
   "preview": "https://phira.5wyxi.com/files/3fe2f76f-b9f5-4e8a-ae85-c5bd80999793",
   "ranked": false,
-  "rating": 0.9087906,
-  "ratingCount": 50,
+  "rating": 0.9103134,
+  "ratingCount": 63,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

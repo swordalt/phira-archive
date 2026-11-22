@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:51Z",
-    "lastChanged": "2026-09-21T02:06:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-10T12:28:32.918786Z",
   "charter": "KiLi-sens",
@@ -14,6 +14,7 @@
   "description": "本人上传\nsv加ln，初见警告",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/956ac31c-b9f4-45f2-abcc-c3879d14fcf4",
+  "hidden": false,
   "id": 58160,
   "illustration": "https://phira.5wyxi.com/files/1252a051-70c7-4477-a7a0-b476c30010e7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Swing Skip Drop",
   "preview": "https://phira.5wyxi.com/files/053c08e7-1e6b-49ed-b9da-6fa6cf816436",
   "ranked": false,
-  "rating": 0.8139423,
-  "ratingCount": 18,
+  "rating": 0.84219605,
+  "ratingCount": 22,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

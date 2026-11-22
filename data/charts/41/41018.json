@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:21Z",
-    "lastChanged": "2026-09-21T02:06:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-06T11:59:29.670608Z",
   "charter": "GT_Sakuya咲夜",
@@ -14,6 +14,7 @@
   "description": "写的有点偏观赏了",
   "difficulty": 33.0,
   "file": "https://phira.5wyxi.com/files/4421ade2-1f0d-4e3c-9c50-c1efcedcaa59",
+  "hidden": false,
   "id": 41018,
   "illustration": "https://phira.5wyxi.com/files/f54937cf-3d88-4fb5-a699-7fecc489dd77",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Nopea",
   "preview": "https://phira.5wyxi.com/files/e872daa1-126d-42fa-8d71-5dfc9ddbb026",
   "ranked": false,
-  "rating": 0.9412974,
-  "ratingCount": 79,
+  "rating": 0.9446555,
+  "ratingCount": 83,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

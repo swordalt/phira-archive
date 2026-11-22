@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:31Z",
-    "lastChanged": "2026-09-21T02:05:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-12T13:23:42.179595Z",
   "charter": "陈柯宇",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/c431adf9-7e9c-45a0-baea-8b5311075fcc",
+  "hidden": false,
   "id": 46693,
   "illustration": "https://phira.5wyxi.com/files/97a0e167-107e-4469-a83b-618db4835435",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "生僻字",
   "preview": "https://phira.5wyxi.com/files/3fcece11-512b-4aed-acb6-236873f952d4",
   "ranked": false,
-  "rating": 0.9090892,
-  "ratingCount": 1111,
+  "rating": 0.9082051,
+  "ratingCount": 1254,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

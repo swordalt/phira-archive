@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:12Z",
-    "lastChanged": "2026-09-21T02:05:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-25T08:57:12.115484Z",
   "charter": "Easy_pipi",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nb站@Easy_pipi#1136300",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/20959bd2-56f2-4754-82e3-60dd84d8f288",
+  "hidden": false,
   "id": 75618,
   "illustration": "https://phira.5wyxi.com/files/8a3f811e-2983-4a41-87a5-b96afd555db5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Absolution Pulse",
   "preview": "https://phira.5wyxi.com/files/c75565dc-999c-4c7b-b6cd-fa60d4fafee3",
   "ranked": false,
-  "rating": 0.81711555,
-  "ratingCount": 157,
+  "rating": 0.82846296,
+  "ratingCount": 181,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

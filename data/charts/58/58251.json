@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:42Z",
-    "lastChanged": "2026-09-21T02:04:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-12T06:34:09.681512Z",
   "charter": "AnoForward",
@@ -14,6 +14,7 @@
   "description": "初见杀配置警告\n体感难度：IN Lv.14.2~14.4\n\n新人不知道第几张谱面，配置踩音和表演都很烂，因为很喜欢这首歌所以写了\n\n请务必调整延迟以确保最佳游玩体验！",
   "difficulty": 14.300001,
   "file": "https://phira.5wyxi.com/files/47fa8d49-9b31-4be3-b579-6adc6b998d3d",
+  "hidden": false,
   "id": 58251,
   "illustration": "https://phira.5wyxi.com/files/a106c4bf-42b6-4f37-ab05-4bf1f2533c29",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "人生進行形",
   "preview": "https://phira.5wyxi.com/files/1233c626-0ba3-4a6b-8114-8fc08ec02ad8",
   "ranked": false,
-  "rating": 0.91150755,
-  "ratingCount": 360,
+  "rating": 0.9129552,
+  "ratingCount": 391,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

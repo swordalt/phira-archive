@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:02Z",
-    "lastChanged": "2026-09-21T02:05:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-26T10:05:32.977868Z",
   "charter": "Starry_66",
@@ -14,6 +14,7 @@
   "description": "初谱",
   "difficulty": 14.7,
   "file": "https://phira.5wyxi.com/files/11cafffa-19cb-4157-b636-34114c109051",
+  "hidden": false,
   "id": 69317,
   "illustration": "https://phira.5wyxi.com/files/90b09f72-31fc-4108-bf17-dd82e843ee9e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "反乌托邦+拼接遗憾+Sinos De Natal",
   "preview": "https://phira.5wyxi.com/files/e9d0d937-1cb2-45f0-8f2c-6bf8524dbeac",
   "ranked": false,
-  "rating": 0.91372025,
-  "ratingCount": 57045,
+  "rating": 0.9140391,
+  "ratingCount": 61232,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

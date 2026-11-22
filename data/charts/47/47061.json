@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:36Z",
-    "lastChanged": "2026-09-21T02:06:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-21T09:42:09.919903Z",
   "charter": "Nothing/snlagsla",
@@ -14,6 +14,7 @@
   "description": "chart creator 8039-s1234\nchart by Malody to Phi\n本人制作与上传\n瞎写的小耐力谱，虽然还是很稀烂就是了\n定级使用ma默认定级",
   "difficulty": 30.0,
   "file": "https://phira.5wyxi.com/files/fbb1e9a9-ef81-4581-a6dd-ea41751dd6e8",
+  "hidden": false,
   "id": 47061,
   "illustration": "https://phira.5wyxi.com/files/744edece-0929-4139-9f0f-d5cca46c75d3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Kawaii Razor Blades",
   "preview": "https://phira.5wyxi.com/files/f411acb3-99bf-4666-86de-7e0af656895a",
   "ranked": false,
-  "rating": 0.9159624,
-  "ratingCount": 25,
+  "rating": 0.9237692,
+  "ratingCount": 28,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

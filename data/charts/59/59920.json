@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:52Z",
-    "lastChanged": "2026-09-21T02:06:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-04T16:00:02.610652Z",
   "charter": "Gengaozo -Charter of Nocent-",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 15.000001,
   "file": "https://phira.5wyxi.com/files/b0e2a3ef-2101-4ad3-be9b-8d5b86e9828b",
+  "hidden": false,
   "id": 59920,
   "illustration": "https://phira.5wyxi.com/files/5facf9b8-a2d3-422c-b1ab-9af5e3d4fb90",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Gengaozo -Noize of Nocent-",
   "preview": "https://phira.5wyxi.com/files/8a39b9f4-be89-4f55-a727-936c9212b2f8",
   "ranked": false,
-  "rating": 0.7803841,
-  "ratingCount": 2,
+  "rating": 0.80552316,
+  "ratingCount": 3,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

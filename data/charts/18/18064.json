@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:07Z",
-    "lastChanged": "2026-09-21T02:02:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-05T12:19:53.769825Z",
   "charter": "纯黑先生 vs. ffporia",
@@ -14,6 +14,7 @@
   "description": "谱师：b站@纯黑先森@ffporia 4-5调整了部分的排键",
   "difficulty": 16.000004,
   "file": "https://phira.5wyxi.com/files/eb5adcaa-8353-4b9e-bedd-97e7beb425cd",
+  "hidden": false,
   "id": 18064,
   "illustration": "https://phira.5wyxi.com/files/6521a3cc-bf97-4633-91c3-7f1ccbdb0719",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Selenadia",
   "preview": "https://phira.5wyxi.com/files/9ace90ac-ddd3-483b-9efb-9b91a05ec75e",
   "ranked": false,
-  "rating": 0.87982017,
-  "ratingCount": 141,
+  "rating": 0.8793001,
+  "ratingCount": 146,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

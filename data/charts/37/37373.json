@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:16Z",
-    "lastChanged": "2026-09-21T02:03:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-03T11:21:12.862865Z",
   "charter": "台灯和电风扇",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/e19a82c0-13cd-4bc4-91be-17e89304ffce",
+  "hidden": false,
   "id": 37373,
   "illustration": "https://phira.5wyxi.com/files/5679d393-80d3-4cd3-b562-948db4684b9c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ヤミナベ!!!!",
   "preview": "https://phira.5wyxi.com/files/cdfcf7ff-1350-449e-9046-d0e58171b504",
   "ranked": false,
-  "rating": 0.92195046,
-  "ratingCount": 654,
+  "rating": 0.92081887,
+  "ratingCount": 677,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

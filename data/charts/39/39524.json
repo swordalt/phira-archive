@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:22Z",
-    "lastChanged": "2026-09-21T02:03:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-12T07:35:44.112031Z",
   "charter": "2884omgpy",
@@ -14,6 +14,7 @@
   "description": "本人上传;B站对应BV1qyTtzrEaP",
   "difficulty": 17.400002,
   "file": "https://phira.5wyxi.com/files/bb26cd39-d75f-483b-a1b7-e92a432d7e68",
+  "hidden": false,
   "id": 39524,
   "illustration": "https://phira.5wyxi.com/files/b31f0b16-0a1b-4812-b45d-dafe45cd33d8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "BPM = BPM + 1",
   "preview": "https://phira.5wyxi.com/files/b122eda8-fe2a-4b42-9c0b-c87cfc38a5be",
   "ranked": false,
-  "rating": 0.87182975,
-  "ratingCount": 390,
+  "rating": 0.8723103,
+  "ratingCount": 393,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

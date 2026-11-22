@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:49Z",
-    "lastChanged": "2026-09-21T02:01:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-22T10:49:34.436325Z",
   "charter": "秋山",
@@ -14,6 +14,7 @@
   "description": "难点：\n四指谱\n铺面变化极多\n锁手\n\n要点：\n换手\n垂直判定\n合理利用红键调整手的位置辅助读谱\n\n警告！由于比例设置，部分配置对小屏幕的手机用户可能不太友好\n\n本人上传\n这是我写的第一个四指谱！因此没敢写什么对底力要求高的东西，是个非常非常友善的四指谱，解起来手感亲测应该也非常舒适。\n但是根据发布一小时后玩家的分数情况发现这谱子似乎比我想象地困难了，稍稍后我会大致做个解说放在改谱对应的视频下方。\n如果手感感觉很差，建议换个解谱方式或者在谱师对应视频下评论区进行质疑，谱师有评必回。\n稍后在B站上传攻略\n更新：\n增加简介中的难点介绍\n更改tips内容\n更改定数\nup：梦仙-林溪山人",
   "difficulty": 14.900001,
   "file": "https://phira.5wyxi.com/files/b1244987-132c-4d9b-bca9-4a0d4abe2eff",
+  "hidden": false,
   "id": 13962,
   "illustration": "https://phira.5wyxi.com/files/ec659293-56e0-4d65-92ad-7c12212e82f4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Waterfalls",
   "preview": "https://phira.5wyxi.com/files/b9cdddcb-9120-4513-82ff-b73f453b13c3",
   "ranked": false,
-  "rating": 0.90945154,
-  "ratingCount": 282,
+  "rating": 0.909925,
+  "ratingCount": 289,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

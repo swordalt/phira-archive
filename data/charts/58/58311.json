@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:42Z",
-    "lastChanged": "2026-09-21T02:04:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-14T01:39:41.729668Z",
   "charter": "Evir",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.7,
   "file": "https://phira.5wyxi.com/files/28c98376-c219-4eb7-b9d9-56c3d68c3483",
+  "hidden": false,
   "id": 58311,
   "illustration": "https://phira.5wyxi.com/files/6bc40d1a-a157-4bfd-bfd6-8af317f184fa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dreams From Another World",
   "preview": "https://phira.5wyxi.com/files/22944537-f5a7-4ece-807a-d27d92b77862",
   "ranked": false,
-  "rating": 0.6621522,
-  "ratingCount": 4,
+  "rating": 0.66938,
+  "ratingCount": 6,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

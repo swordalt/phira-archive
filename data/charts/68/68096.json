@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:01Z",
-    "lastChanged": "2026-09-21T02:05:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-25T10:01:35.811222Z",
   "charter": "TariR",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/7cb90ae9-093d-4708-b7c2-bbb8862e3d13",
+  "hidden": false,
   "id": 68096,
   "illustration": "https://phira.5wyxi.com/files/7880dddb-d175-4348-ae22-f02ca5d53068",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dextroy",
   "preview": "https://phira.5wyxi.com/files/ccfa6e49-c234-4ae6-9f82-3ee241338d09",
   "ranked": false,
-  "rating": 0.88310784,
-  "ratingCount": 155,
+  "rating": 0.8845065,
+  "ratingCount": 162,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

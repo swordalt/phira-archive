@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:09Z",
-    "lastChanged": "2026-09-21T02:02:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-20T18:25:11.449223Z",
   "charter": "《绿》",
@@ -14,6 +14,7 @@
   "description": "谱面为本人上传，如果喜欢该谱师的作品可前往b站关注 滺绿—Vluoy",
   "difficulty": 16.5,
   "file": "https://phira.5wyxi.com/files/773232e2-d60c-4622-8751-f9e8a437dbcf",
+  "hidden": false,
   "id": 18726,
   "illustration": "https://phira.5wyxi.com/files/9e765868-2ed0-425e-9928-45ff1b6f2c68",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "《ж》",
   "preview": "https://phira.5wyxi.com/files/bff117bd-d644-4c89-aa8f-50a6cd59ae08",
   "ranked": false,
-  "rating": 0.9347654,
-  "ratingCount": 2689,
+  "rating": 0.93502426,
+  "ratingCount": 2715,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

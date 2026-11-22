@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:53Z",
-    "lastChanged": "2026-09-21T02:03:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-27T10:46:23.376201Z",
   "charter": "hin",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 12.1,
   "file": "https://phira.5wyxi.com/files/1151ee8d-fea1-4617-869b-420c12f78411",
+  "hidden": false,
   "id": 47278,
   "illustration": "https://phira.5wyxi.com/files/a7b0f191-344b-4922-bce4-b288bacfe168",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Altale",
   "preview": "https://phira.5wyxi.com/files/d02cfd8c-d323-466e-88d2-bc924802ab1c",
   "ranked": false,
-  "rating": 0.8973895,
-  "ratingCount": 170,
+  "rating": 0.8966504,
+  "ratingCount": 178,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:07Z",
-    "lastChanged": "2026-09-21T02:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-02T16:27:55.043248Z",
   "charter": "Chatterbox是话痨吖",
@@ -14,6 +14,7 @@
   "description": "4th WJC参赛谱\n谱面预览BV1d89VYMEmC",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/27be130e-11f4-4455-a499-ccd4270e6b48",
+  "hidden": false,
   "id": 34772,
   "illustration": "https://phira.5wyxi.com/files/d3ce9a72-4105-472b-a82d-657fb8b387a8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ツムギボシ",
   "preview": "https://phira.5wyxi.com/files/398f8c1e-1cc5-41e9-b838-84c9762977ea",
   "ranked": true,
-  "rating": 0.90943044,
-  "ratingCount": 2132,
+  "rating": 0.9099036,
+  "ratingCount": 2182,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

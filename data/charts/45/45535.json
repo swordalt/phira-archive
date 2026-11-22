@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:44Z",
-    "lastChanged": "2026-09-21T02:03:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-23T14:17:02.749201Z",
   "charter": "Hnt.smg",
@@ -14,6 +14,7 @@
   "description": "谱面由本人制作并上传（@日向666）",
   "difficulty": 17.300001,
   "file": "https://phira.5wyxi.com/files/284a1e1a-f0d4-4239-949b-4a6a4f83df84",
+  "hidden": false,
   "id": 45535,
   "illustration": "https://phira.5wyxi.com/files/5aa1b087-2bf9-47ba-8bd7-c7b2dd3ea871",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "SIGMA",
   "preview": "https://phira.5wyxi.com/files/f5c4c098-858d-4d21-9dd8-de9468e38aac",
   "ranked": false,
-  "rating": 0.88593656,
-  "ratingCount": 268,
+  "rating": 0.887669,
+  "ratingCount": 279,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

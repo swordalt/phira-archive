@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:05Z",
-    "lastChanged": "2026-09-21T02:05:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-07T08:46:21.129682Z",
   "charter": "FreMo",
@@ -14,6 +14,7 @@
   "description": "FreMo本人上传\n\n凌云杯供谱，谱师@FM壹某",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/6ffc99c5-5be1-4ca4-8415-4518d97c078b",
+  "hidden": false,
   "id": 71841,
   "illustration": "https://phira.5wyxi.com/files/3730cc98-3c42-43ab-a457-304c88cf6ad5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Comet Coaster",
   "preview": "https://phira.5wyxi.com/files/c23dbd98-2ac6-4c91-802a-a87ec64d575a",
   "ranked": false,
-  "rating": 0.91609806,
-  "ratingCount": 195,
+  "rating": 0.91404814,
+  "ratingCount": 216,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

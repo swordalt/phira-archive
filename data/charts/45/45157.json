@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:30Z",
-    "lastChanged": "2026-09-21T02:06:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-19T11:58:00.042849Z",
   "charter": "原雪ovo",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 11.0,
   "file": "https://phira.5wyxi.com/files/4540b93d-5ca0-493a-92cb-a7d8cc7df1eb",
+  "hidden": false,
   "id": 45157,
   "illustration": "https://phira.5wyxi.com/files/d9afacb4-3ce3-4cd2-a116-a96b944fa15b",
   "illustrator": "",

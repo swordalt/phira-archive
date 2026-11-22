@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:30Z",
-    "lastChanged": "2026-09-21T02:03:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-19T05:27:34.317974Z",
   "charter": "World's end MAPLER",
@@ -14,6 +14,7 @@
   "description": "b站 枫起_fq",
   "difficulty": 17.2,
   "file": "https://phira.5wyxi.com/files/ca1e3107-a797-4be3-af84-fd2ee154a83a",
+  "hidden": false,
   "id": 42095,
   "illustration": "https://phira.5wyxi.com/files/352d50ef-238b-48ac-83c5-eaef06ef6438",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "World's end BLACKBOX",
   "preview": "https://phira.5wyxi.com/files/e0dbf1d1-4c52-488f-9c6c-aa167e366975",
   "ranked": false,
-  "rating": 0.93986464,
-  "ratingCount": 1027,
+  "rating": 0.9396269,
+  "ratingCount": 1054,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

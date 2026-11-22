@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-05T15:55:11Z",
-    "lastChanged": "2026-10-07T17:46:26Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:03:09Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-09-28T05:01:57.662580Z",
   "charter": "冷影",
@@ -14,6 +14,7 @@
   "description": "冷影初键盘谱，前后改了10几次，各位玩的开心",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/ad0a72b6-5f8d-43dc-bd4a-bb273d7a5e4b",
+  "hidden": false,
   "id": 79336,
   "illustration": "https://phira.5wyxi.com/files/50d1aa9b-91b5-4959-92eb-bfb4b9ed6d95",
   "illustrator": "崩坏：星穹铁道",
@@ -21,8 +22,8 @@
   "name": "拂晓Proi Proi",
   "preview": "https://phira.5wyxi.com/files/b1a05867-99fe-4d3d-b83c-86a06379fda2",
   "ranked": false,
-  "rating": 0.86779094,
-  "ratingCount": 13,
+  "rating": 0.88613915,
+  "ratingCount": 26,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:35Z",
-    "lastChanged": "2026-09-21T02:01:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-30T17:54:59.064411Z",
   "charter": "Next Rain",
@@ -14,6 +14,7 @@
   "description": "因为很多人想要所以就传了（真的不可以过下stable么呜呜呜）",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/762c392b-e66c-4aa7-9d94-8e39a6f7d9b9",
+  "hidden": false,
   "id": 9907,
   "illustration": "https://phira.5wyxi.com/files/943af75a-afbd-42a4-9129-b6a129d947d8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "One Last Kiss",
   "preview": "https://phira.5wyxi.com/files/b87bc234-1c95-440c-bf08-bf0c06e9c193",
   "ranked": false,
-  "rating": 0.95143074,
-  "ratingCount": 49424,
+  "rating": 0.95127213,
+  "ratingCount": 51265,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

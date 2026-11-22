@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:04Z",
-    "lastChanged": "2026-09-21T02:01:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "偲烏⇔囃狼",
@@ -14,6 +14,7 @@
   "description": "不是谱师本人\n谱师已同意上传\n谱师B站囃狼",
   "difficulty": 13.299996,
   "file": "https://phira.5wyxi.com/files/30cd5116-b6eb-4a65-9e31-f18bb9692d8d",
+  "hidden": false,
   "id": 173,
   "illustration": "https://phira.5wyxi.com/files/22228bae-30c1-4ca7-b1c8-336dfb2ae517",
   "illustrator": "UK",
@@ -21,8 +22,8 @@
   "name": "隔岸 (DJ完整版)",
   "preview": "https://phira.5wyxi.com/files/247c0511-3e34-4d49-b647-8fc3b5bce182",
   "ranked": false,
-  "rating": 0.8840776,
-  "ratingCount": 5226,
+  "rating": 0.8840987,
+  "ratingCount": 5680,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

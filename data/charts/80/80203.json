@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-11-01T07:26:04Z",
-    "lastChanged": "2026-11-01T11:39:15Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T13:03:09Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-05T04:06:31.389367Z",
   "charter": "color",
@@ -14,6 +14,7 @@
   "description": "111 第一张5k谱 有什么不会请见谅呗",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/124850ad-7cd2-46dc-97ba-c889780128f0",
+  "hidden": false,
   "id": 80203,
   "illustration": "https://phira.5wyxi.com/files/4d1b0d68-0103-4939-8325-44bb9cb708c7",
   "illustrator": "ちふり",
@@ -21,14 +22,14 @@
   "name": "snooze",
   "preview": "https://phira.5wyxi.com/files/52ef4445-239a-499e-8ede-5eaa4411af53",
   "ranked": false,
-  "rating": 0.84143823,
-  "ratingCount": 0,
+  "rating": 0.94947815,
+  "ratingCount": 145,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "plain"
   ],
-  "updated": "2026-11-01T04:31:18.017521524Z",
+  "updated": "2026-11-01T04:31:18.017521Z",
   "uploader": 995266
 }

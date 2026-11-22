@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:27Z",
-    "lastChanged": "2026-09-21T02:04:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-08T05:29:21.379194Z",
   "charter": "ARXChem",
@@ -14,6 +14,7 @@
   "description": "观赏性定轨",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/d8389ec4-1ce9-485d-891f-50f7f832db0a",
+  "hidden": false,
   "id": 53964,
   "illustration": "https://phira.5wyxi.com/files/c259d3bd-8e94-43d2-b2a2-f0a3c0cc792f",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "Ex-Otogibanashi",
   "preview": "https://phira.5wyxi.com/files/e44323f8-4a63-4678-8fe9-ec43ded192f0",
   "ranked": false,
-  "rating": 0.7976119,
+  "rating": 0.783899,
   "ratingCount": 29,
   "reviewed": true,
   "stable": false,

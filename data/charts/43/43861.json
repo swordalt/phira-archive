@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:37Z",
-    "lastChanged": "2026-09-21T02:03:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-06T10:57:28.916694Z",
   "charter": "dube_white",
@@ -14,6 +14,7 @@
   "description": "USAO新歌，虽然旧活，但时长达标了喵\r\n如有任何谱面相关建议或更正，\r\n私信@B站 dube_white\r\n\r\n*本人上传",
   "difficulty": 16.800001,
   "file": "https://phira.5wyxi.com/files/7b4f1042-59aa-49a7-a985-851159dfebd5",
+  "hidden": false,
   "id": 43861,
   "illustration": "https://phira.5wyxi.com/files/7695541e-399e-4524-bb30-db0131277a24",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Calling Out",
   "preview": "https://phira.5wyxi.com/files/4f2787ed-7283-4fee-a606-325ab857ab52",
   "ranked": false,
-  "rating": 0.8913115,
-  "ratingCount": 72,
+  "rating": 0.88788885,
+  "ratingCount": 76,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

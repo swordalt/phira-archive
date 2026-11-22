@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:27Z",
-    "lastChanged": "2026-09-21T02:05:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-16T01:42:09.098171Z",
   "charter": "IHAVEV fixed by trojan__",
@@ -14,6 +14,7 @@
   "description": "谱师：IHAVEV & trojan__\r\n谱面由IHAVEV上传",
   "difficulty": 16.4,
   "file": "https://phira.5wyxi.com/files/b002d66f-b0ce-43dd-8a5b-0d8f058e99ad",
+  "hidden": false,
   "id": 31875,
   "illustration": "https://phira.5wyxi.com/files/c4798eb4-c3b6-434a-b833-7bdd075f3cdd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Weli Welo Wela",
   "preview": "https://phira.5wyxi.com/files/c75358a1-8144-435a-971f-08ee2d974913",
   "ranked": false,
-  "rating": 0.85622746,
-  "ratingCount": 385,
+  "rating": 0.857455,
+  "ratingCount": 389,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

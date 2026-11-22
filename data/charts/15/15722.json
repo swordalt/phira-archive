@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:57Z",
-    "lastChanged": "2026-09-21T02:01:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-15T07:15:31.367995Z",
   "charter": "sensei",
@@ -14,6 +14,7 @@
   "description": "原曲就很上头 remix之后更爽了（\n看到这张专就想着要写一首所以就选了这首\n之后可能还会再写（？\n好听！",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/81ff3a14-5aef-42a8-9165-63eb28757f19",
+  "hidden": false,
   "id": 15722,
   "illustration": "https://phira.5wyxi.com/files/e2ee132b-2e04-43ab-a3da-f5b70583d3c7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Glitch Street (ARForest Remix)",
   "preview": "https://phira.5wyxi.com/files/ed2ca440-1e83-42b8-9438-1983cb79689f",
   "ranked": false,
-  "rating": 0.9469999,
-  "ratingCount": 1836,
+  "rating": 0.9477932,
+  "ratingCount": 1865,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

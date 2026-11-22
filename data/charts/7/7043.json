@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:25Z",
-    "lastChanged": "2026-09-21T02:01:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-07T14:26:14.960906Z",
   "charter": "Rewrite",
@@ -14,6 +14,7 @@
   "description": "这不是一条Tip",
   "difficulty": 11.499997,
   "file": "https://phira.5wyxi.com/files/15c2016f-4bf4-466f-9f95-f2895a9d4664",
+  "hidden": false,
   "id": 7043,
   "illustration": "https://phira.5wyxi.com/files/fc2a7f4f-2b15-4354-8498-7c1c329d27e0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "情结",
   "preview": "https://phira.5wyxi.com/files/d2489562-4143-49e4-8140-e20b618aa7f7",
   "ranked": false,
-  "rating": 0.9390272,
-  "ratingCount": 1536,
+  "rating": 0.9380175,
+  "ratingCount": 1576,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-09T13:07:33Z",
-    "lastChanged": "2026-10-12T10:38:13Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:03:09Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-06T13:47:02.583639Z",
   "charter": "食欲でちゅん",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/60073288-e07a-4fbb-bdc6-5931dc276fd2",
+  "hidden": false,
   "id": 80429,
   "illustration": "https://phira.5wyxi.com/files/2ffee684-c161-44dd-9756-dc7d6a4bd3d2",
   "illustrator": "From Internet",
@@ -21,8 +22,8 @@
   "name": "Secret Illumination",
   "preview": "https://phira.5wyxi.com/files/61696cf2-5011-4ab9-b1dc-01d4f4cf745d",
   "ranked": false,
-  "rating": 0.9087999,
-  "ratingCount": 28,
+  "rating": 0.93045557,
+  "ratingCount": 87,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

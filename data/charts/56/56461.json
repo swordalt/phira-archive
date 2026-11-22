@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:49Z",
-    "lastChanged": "2026-09-21T02:06:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-17T03:37:19.086244Z",
   "charter": "Step_back",
@@ -14,6 +14,7 @@
   "description": "【Limen 5K Normal Lv.11】续作\n制谱天数：9d  净时长：29h \n谱师本人上传，非转谱。",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/6386cf5f-ac1c-48f5-8e41-052756523bd7",
+  "hidden": false,
   "id": 56461,
   "illustration": "https://phira.5wyxi.com/files/1e1af1df-e07b-4b01-a9a4-1bfad69108d6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Angel Echo",
   "preview": "https://phira.5wyxi.com/files/dc790e91-5c3c-4401-a7ae-e980f69d7f4f",
   "ranked": false,
-  "rating": 0.9627699,
-  "ratingCount": 270,
+  "rating": 0.965887,
+  "ratingCount": 326,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

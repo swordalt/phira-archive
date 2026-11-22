@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-06T17:08:47Z",
-    "lastChanged": "2026-10-06T17:08:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-06T14:27:46.862405Z",
   "charter": "WúXia",
@@ -14,6 +14,7 @@
   "description": "b站@Re_无暇",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/f772ffc2-50f5-4f56-b27c-7fe3a63f20c9",
+  "hidden": false,
   "id": 80444,
   "illustration": "https://phira.5wyxi.com/files/0be3fcb5-453f-4431-b399-8826eb8760d9",
   "illustrator": "炸梦",
@@ -21,8 +22,8 @@
   "name": "天球(そら)のMúsica",
   "preview": "https://phira.5wyxi.com/files/bd63fa44-ac62-419f-abce-ed0f60f02c80",
   "ranked": false,
-  "rating": 0.7878899,
-  "ratingCount": 0,
+  "rating": 0.89618254,
+  "ratingCount": 329,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

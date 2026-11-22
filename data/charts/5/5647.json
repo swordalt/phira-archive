@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:36Z",
-    "lastChanged": "2026-09-21T02:05:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-20T03:39:16.171794Z",
   "charter": "末污",
@@ -14,6 +14,7 @@
   "description": "本人6k初谱转谱",
   "difficulty": 18.2,
   "file": "https://phira.5wyxi.com/files/abafada2-014c-4f92-add9-fca57cfc323a",
+  "hidden": false,
   "id": 5647,
   "illustration": "https://phira.5wyxi.com/files/250c11a4-a25a-4b95-8c78-6feadf02b6f5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "UMMU",
   "preview": "https://phira.5wyxi.com/files/0dfa8a1d-055a-4fdc-bd32-ec37f861f604",
   "ranked": false,
-  "rating": 0.914826,
-  "ratingCount": 183,
+  "rating": 0.91619354,
+  "ratingCount": 186,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:26Z",
-    "lastChanged": "2026-09-21T02:01:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-12T12:07:12.245255Z",
   "charter": "becifia",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/6badd67f-16ae-4754-b1b7-96caccc30208",
+  "hidden": false,
   "id": 7458,
   "illustration": "https://phira.5wyxi.com/files/9b29bcef-db07-4feb-8e5e-e5b097447467",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "六兆年と一夜物語",
   "preview": "https://phira.5wyxi.com/files/7375ccfc-4532-4ccf-8b09-b7200fa533b0",
   "ranked": false,
-  "rating": 0.7990186,
-  "ratingCount": 1183,
+  "rating": 0.79897773,
+  "ratingCount": 1189,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

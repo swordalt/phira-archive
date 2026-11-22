@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:43Z",
-    "lastChanged": "2026-09-21T02:06:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-15T14:00:24.112243Z",
   "charter": "jeasnuip",
@@ -14,6 +14,7 @@
   "description": "Alpha乱转谱，谱师是我",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/66a3b3a4-4911-4351-a824-c81ac1e9dcfd",
+  "hidden": false,
   "id": 51258,
   "illustration": "https://phira.5wyxi.com/files/e69e06f8-c994-44bb-b0a3-4294292eea1a",
   "illustrator": "",

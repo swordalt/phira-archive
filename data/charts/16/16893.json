@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:02Z",
-    "lastChanged": "2026-09-21T02:02:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-09T06:33:56.534676Z",
   "charter": "豆豆很好呦",
@@ -14,6 +14,7 @@
   "description": "新人初谱，请关照。。。。。。。B站：天禄与辟邪呦",
   "difficulty": 30.0,
   "file": "https://phira.5wyxi.com/files/358a0397-6de9-4584-8402-94315736ce23",
+  "hidden": false,
   "id": 16893,
   "illustration": "https://phira.5wyxi.com/files/b91e7827-ee31-475b-82b1-0590b02a3cb3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Deathender",
   "preview": "https://phira.5wyxi.com/files/43964390-7316-4f40-9855-c3da160720c2",
   "ranked": false,
-  "rating": 0.7765981,
-  "ratingCount": 109,
+  "rating": 0.7712502,
+  "ratingCount": 114,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

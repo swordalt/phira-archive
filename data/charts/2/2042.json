@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:18Z",
-    "lastChanged": "2026-09-21T02:05:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-14T10:56:29.540985Z",
   "charter": "矮子喵",
@@ -14,6 +14,7 @@
   "description": "谱师：矮子喵",
   "difficulty": 1.0000001,
   "file": "https://phira.5wyxi.com/files/ef45a1d6-d572-4881-abfb-cfd5a2dd64df",
+  "hidden": false,
   "id": 2042,
   "illustration": "https://phira.5wyxi.com/files/dae079eb-e0af-42f6-9bdd-187976fa77bd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "FunkyTown ~ 旋转鸡块",
   "preview": "https://phira.5wyxi.com/files/bcca737f-cdc2-4754-b1a3-1e78e9577cad",
   "ranked": false,
-  "rating": 0.8864691,
-  "ratingCount": 16143,
+  "rating": 0.886297,
+  "ratingCount": 16181,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:46Z",
-    "lastChanged": "2026-09-21T02:02:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-10T03:27:38.403141Z",
   "charter": "母鸡Sama",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传   此为重置二改  修改内容:大幅修改排键，将所有拟合16分改为24分，平衡了谱面难度分配，难度上调至15.4",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/558be903-d37e-41af-8461-70d86a275cf1",
+  "hidden": false,
   "id": 29544,
   "illustration": "https://phira.5wyxi.com/files/f1efa565-44a3-4713-b43d-be05d6d67c53",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "月夜見",
   "preview": "https://phira.5wyxi.com/files/71a0060f-b74e-4a29-94b6-838035e1741f",
   "ranked": false,
-  "rating": 0.94841796,
-  "ratingCount": 377,
+  "rating": 0.9484555,
+  "ratingCount": 381,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

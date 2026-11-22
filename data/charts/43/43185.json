@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:34Z",
-    "lastChanged": "2026-09-21T02:03:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-30T16:19:01.187705Z",
   "charter": "Mr.K_Death for the Better.",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 17.600002,
   "file": "https://phira.5wyxi.com/files/15e63025-82fd-4ba7-9614-31ff0e171afb",
+  "hidden": false,
   "id": 43185,
   "illustration": "https://phira.5wyxi.com/files/21c79f18-b6b9-4b30-b365-615df9bb9b22",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ENDYMION",
   "preview": "https://phira.5wyxi.com/files/adaf4b43-9b19-4fdb-a488-2acaa346530b",
   "ranked": false,
-  "rating": 0.8281042,
-  "ratingCount": 122,
+  "rating": 0.82403946,
+  "ratingCount": 133,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

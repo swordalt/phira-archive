@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:13Z",
-    "lastChanged": "2026-09-21T02:01:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-28T04:09:30.035793Z",
   "charter": "SanyeGofyTe",
@@ -14,6 +14,7 @@
   "description": "Bilibili [谱面作者：@SanyeGofyTe]\nBV1NN41117ks\n在与残忍的敌人展开殊死搏斗中..",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/86d9a3a2-1cf2-4dad-8c32-2dfbbed5da78",
+  "hidden": false,
   "id": 2682,
   "illustration": "https://phira.5wyxi.com/files/91ce7abc-87b8-4893-84d2-9e6978052f12",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Conflict",
   "preview": "https://phira.5wyxi.com/files/16e8d32b-0a3a-41a3-aada-f6fe5e7bde33",
   "ranked": false,
-  "rating": 0.92842466,
-  "ratingCount": 1361,
+  "rating": 0.92891973,
+  "ratingCount": 1385,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

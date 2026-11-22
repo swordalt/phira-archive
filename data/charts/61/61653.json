@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:54Z",
-    "lastChanged": "2026-09-21T02:06:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-20T07:35:30.327252Z",
   "charter": "小雨",
@@ -14,6 +14,7 @@
   "description": "这期神了\n本人上传",
   "difficulty": 23.0,
   "file": "https://phira.5wyxi.com/files/ed5e29f0-5f20-4122-a0e8-113d7ae81afa",
+  "hidden": false,
   "id": 61653,
   "illustration": "https://phira.5wyxi.com/files/b81317fc-4ede-4d2b-abb1-bb6c34703f8e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "YO HO HO HO FUNK",
   "preview": "https://phira.5wyxi.com/files/1f1ac750-3bcf-480f-ab5a-ab6f4ee7337d",
   "ranked": false,
-  "rating": 0.8140576,
-  "ratingCount": 46,
+  "rating": 0.83264047,
+  "ratingCount": 55,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

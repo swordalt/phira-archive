@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:16Z",
-    "lastChanged": "2026-10-04T10:51:22Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:17Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-09-10T13:42:43.919179Z",
   "charter": "冰川中的烈火",
@@ -14,6 +14,7 @@
   "description": "b站搜冰川中的烈火\n首张高难键盘谱 有很多不足 首杀奖励AP",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/56fe7c57-c416-4501-8f1a-ef2c62231b18",
+  "hidden": false,
   "id": 77654,
   "illustration": "https://phira.5wyxi.com/files/21f63de3-42fc-4a05-b9ed-0a6983704576",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Aberrant Destructor",
   "preview": "https://phira.5wyxi.com/files/3ac1fff1-0af8-4db3-aa71-c2d854c73ce7",
   "ranked": false,
-  "rating": 0.92870164,
-  "ratingCount": 122,
+  "rating": 0.9321002,
+  "ratingCount": 174,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

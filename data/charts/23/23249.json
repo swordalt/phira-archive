@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:53Z",
-    "lastChanged": "2026-09-21T02:05:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-12T03:26:50.306851Z",
   "charter": "yywl",
@@ -14,6 +14,7 @@
   "description": "流速慢调流速",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/4db782eb-d169-4bdf-88bf-5ffd09319eb6",
+  "hidden": false,
   "id": 23249,
   "illustration": "https://phira.5wyxi.com/files/e1620586-af1f-4a24-888f-e8727b9f0ee2",
   "illustrator": "",

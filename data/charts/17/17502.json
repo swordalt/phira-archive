@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:05Z",
-    "lastChanged": "2026-09-21T02:02:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-24T06:12:11.389023Z",
   "charter": "YT_XT",
@@ -14,6 +14,7 @@
   "description": "谱师b站主页：https://space.bilibili.com/477792744?spm_id_from=333.1007.0.0\r\n工期两个月，终于是赶在过生日前写完了，就当是给自己的生日礼物了）",
   "difficulty": 13.5,
   "file": "https://phira.5wyxi.com/files/872c0526-6132-4563-84cc-2ed97c8251e3",
+  "hidden": false,
   "id": 17502,
   "illustration": "https://phira.5wyxi.com/files/a279e332-c635-4fa4-9b1d-e7b3769b1102",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "微茫",
   "preview": "https://phira.5wyxi.com/files/23f2508f-4b5e-4c52-bdf0-3a9620eccd02",
   "ranked": false,
-  "rating": 0.93881696,
-  "ratingCount": 566,
+  "rating": 0.93948126,
+  "ratingCount": 576,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

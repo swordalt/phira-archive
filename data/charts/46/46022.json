@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:31Z",
-    "lastChanged": "2026-09-21T02:05:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-29T06:54:59.860567Z",
   "charter": "Zr vs 40252",
@@ -14,6 +14,7 @@
   "description": "b站@Zr-40252 第一次传谱pwp终于没bug了qwq",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/29ea317c-902f-4bd2-b2a5-8ffbdee69f8f",
+  "hidden": false,
   "id": 46022,
   "illustration": "https://phira.5wyxi.com/files/f8a1ed83-383c-4e9d-812d-dd33d5d3551f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Algebra",
   "preview": "https://phira.5wyxi.com/files/bf5a3bc5-70f4-44be-b07d-4ad89487e910",
   "ranked": false,
-  "rating": 0.86336935,
-  "ratingCount": 227,
+  "rating": 0.85868967,
+  "ratingCount": 237,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

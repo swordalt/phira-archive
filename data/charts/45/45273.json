@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:43Z",
-    "lastChanged": "2026-09-21T02:03:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-20T14:19:10.054036Z",
   "charter": "special vs golden kuchazi",
@@ -14,6 +14,7 @@
   "description": "为本人上传",
   "difficulty": 6.0,
   "file": "https://phira.5wyxi.com/files/9cec27b2-5a05-4ee3-8722-34e2a8cfb6a6",
+  "hidden": false,
   "id": 45273,
   "illustration": "https://phira.5wyxi.com/files/b3dc5582-de59-4afa-bb99-6350d856f565",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "divine",
   "preview": "https://phira.5wyxi.com/files/476a182e-2846-4c74-85a9-d9b8d55e1618",
   "ranked": false,
-  "rating": 0.9342172,
-  "ratingCount": 1146,
+  "rating": 0.93322134,
+  "ratingCount": 1179,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

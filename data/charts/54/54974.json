@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:33Z",
-    "lastChanged": "2026-09-21T02:04:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-03T17:32:50.818279Z",
   "charter": "cribby joins the banquet",
@@ -14,6 +14,7 @@
   "description": "my submission for 0thPecJam (RG 112)",
   "difficulty": 14.8,
   "file": "https://phira.5wyxi.com/files/502e09ff-570c-4b55-9333-65aff76f0191",
+  "hidden": false,
   "id": 54974,
   "illustration": "https://phira.5wyxi.com/files/023dc766-784b-4941-976d-f406ddafaf89",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "宴",
   "preview": "https://phira.5wyxi.com/files/3fadc161-9388-4cfa-9027-5a54c85ffa14",
   "ranked": false,
-  "rating": 0.927153,
-  "ratingCount": 259,
+  "rating": 0.9292956,
+  "ratingCount": 281,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

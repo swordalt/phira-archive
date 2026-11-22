@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:58Z",
-    "lastChanged": "2026-09-21T02:05:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-12T09:52:09.966343Z",
   "charter": "Griddle煎盘",
@@ -14,6 +14,7 @@
   "description": "谱师本人（B站 @Griddle煎盘 ）上传",
   "difficulty": 16.8,
   "file": "https://phira.5wyxi.com/files/b7d14b94-c1cc-4a6e-9cbe-2b3685f227da",
+  "hidden": false,
   "id": 26068,
   "illustration": "https://phira.5wyxi.com/files/4bfeca68-2326-46b5-82ca-2642f33582e7",
   "illustrator": "",

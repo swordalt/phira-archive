@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:06Z",
-    "lastChanged": "2026-09-21T02:01:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-22T14:22:15.753304Z",
   "charter": "幻射忍者",
@@ -14,6 +14,7 @@
   "description": "b站可以找到我，这个冰花是难得的良心谱",
   "difficulty": 12.9000025,
   "file": "https://phira.5wyxi.com/files/4046a538-e368-430d-8245-eae21195d6ac",
+  "hidden": false,
   "id": 711,
   "illustration": "https://phira.5wyxi.com/files/0f241d3a-698e-4a10-9741-ed4433e665d6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ice Flower",
   "preview": "https://phira.5wyxi.com/files/49838f7f-d82f-4da5-908b-6cb2b137dad8",
   "ranked": false,
-  "rating": 0.8984077,
-  "ratingCount": 259,
+  "rating": 0.8991598,
+  "ratingCount": 271,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

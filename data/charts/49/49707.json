@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:08Z",
-    "lastChanged": "2026-09-21T02:07:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-30T11:58:17.258754Z",
   "charter": "雫",
@@ -14,6 +14,7 @@
   "description": "新入",
   "difficulty": 14.5,
   "file": "https://phira.5wyxi.com/files/6838adbf-b0e8-4e5e-a934-af433d26fbdd",
+  "hidden": false,
   "id": 49707,
   "illustration": "https://phira.5wyxi.com/files/a280c93f-f1ce-45f4-8439-895f82f0533d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "原色",
   "preview": "https://phira.5wyxi.com/files/593fcefc-6c9e-476c-86fb-7e9fae06799d",
   "ranked": false,
-  "rating": 0.89106053,
-  "ratingCount": 357,
+  "rating": 0.8866665,
+  "ratingCount": 407,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

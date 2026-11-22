@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:27Z",
-    "lastChanged": "2026-09-21T02:05:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-21T16:20:45.444010Z",
   "charter": "Hinata ↑20 to 21↓",
@@ -14,6 +14,7 @@
   "description": "谱面本人上传@日向666",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/4a02d4b3-1765-442e-b176-e7b65b0a30b1",
+  "hidden": false,
   "id": 30962,
   "illustration": "https://phira.5wyxi.com/files/c61e07e7-a61e-40d4-adc9-5523aaa920f1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Winter ↑cube↓",
   "preview": "https://phira.5wyxi.com/files/1c348b37-4d53-44c1-a226-10a1261a414e",
   "ranked": false,
-  "rating": 0.95035577,
-  "ratingCount": 1039,
+  "rating": 0.95080537,
+  "ratingCount": 1062,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

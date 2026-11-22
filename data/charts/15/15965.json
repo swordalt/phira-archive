@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:59Z",
-    "lastChanged": "2026-09-21T02:01:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-17T12:47:51.202316Z",
   "charter": "tempo",
@@ -14,6 +14,7 @@
   "description": "en-US\n\nTripping Angel's Hard Luck",
   "difficulty": 14.900001,
   "file": "https://phira.5wyxi.com/files/0d95a62c-21a7-4a4f-a038-ef854c20f660",
+  "hidden": false,
   "id": 15965,
   "illustration": "https://phira.5wyxi.com/files/d58eb176-d1df-4eb0-9ba0-518069bbff73",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "パキパキ天使のハードラック",
   "preview": "https://phira.5wyxi.com/files/c4184c84-54bc-4fa5-a015-a8e65f8fadc0",
   "ranked": false,
-  "rating": 0.85664606,
-  "ratingCount": 320,
+  "rating": 0.8594769,
+  "ratingCount": 327,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

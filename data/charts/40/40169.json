@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:24Z",
-    "lastChanged": "2026-09-21T02:03:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-23T13:38:40.464035Z",
   "charter": "远动四海升",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.200001,
   "file": "https://phira.5wyxi.com/files/1b3c75d0-5fcb-4859-839e-ecd125671dda",
+  "hidden": false,
   "id": 40169,
   "illustration": "https://phira.5wyxi.com/files/c2a3bec1-97ed-4522-8576-c8b77df03b03",
   "illustrator": "",

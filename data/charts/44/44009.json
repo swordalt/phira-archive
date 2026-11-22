@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:37Z",
-    "lastChanged": "2026-09-21T02:03:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-08T06:04:05.253045Z",
   "charter": "褚嬴cyy",
@@ -14,6 +14,7 @@
   "description": "第三版，望过审",
   "difficulty": 13.000018,
   "file": "https://phira.5wyxi.com/files/a33121d1-fb03-44f9-87bf-94940a23771e",
+  "hidden": false,
   "id": 44009,
   "illustration": "https://phira.5wyxi.com/files/4737d0d1-c9fd-462f-b31e-80c76926cde7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "I Want You",
   "preview": "https://phira.5wyxi.com/files/1c8758a8-c0d8-4c5c-b479-3e0998652c0d",
   "ranked": false,
-  "rating": 0.8718261,
-  "ratingCount": 61,
+  "rating": 0.87864816,
+  "ratingCount": 65,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

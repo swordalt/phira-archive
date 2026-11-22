@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:34Z",
-    "lastChanged": "2026-09-21T02:02:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-04T07:21:59.506965Z",
   "charter": "凛秋",
@@ -14,6 +14,7 @@
   "description": "铺面预览在b站",
   "difficulty": 12.299997,
   "file": "https://phira.5wyxi.com/files/8191f1b9-12ff-479c-8a53-64c39f721edc",
+  "hidden": false,
   "id": 26485,
   "illustration": "https://phira.5wyxi.com/files/e2d0ee59-8835-4fa1-9134-4fb046e33422",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "食虫植物",
   "preview": "https://phira.5wyxi.com/files/858b613e-52f1-43ff-b3c8-2261cceea907",
   "ranked": false,
-  "rating": 0.95154035,
-  "ratingCount": 1463,
+  "rating": 0.9507177,
+  "ratingCount": 1509,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

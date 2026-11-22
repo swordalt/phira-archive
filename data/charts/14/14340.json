@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:41Z",
-    "lastChanged": "2026-09-21T02:05:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-28T13:51:43.021251Z",
   "charter": "LJ-23",
@@ -14,6 +14,7 @@
   "description": "这是萌新的第一张4k谱，可能有很多很多不足的地方，以后会持续改进的，感谢大家的游玩！",
   "difficulty": 26.0,
   "file": "https://phira.5wyxi.com/files/1a7f3d1f-5890-4692-9556-0c52206664b7",
+  "hidden": false,
   "id": 14340,
   "illustration": "https://phira.5wyxi.com/files/9d760a2a-ed92-444b-90ff-78693eb2063a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Our New Story",
   "preview": "https://phira.5wyxi.com/files/6f107901-33a5-49ea-baae-fcc48cd88fdc",
   "ranked": false,
-  "rating": 0.9496502,
-  "ratingCount": 828,
+  "rating": 0.95043147,
+  "ratingCount": 838,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:44Z",
-    "lastChanged": "2026-09-21T02:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-16T09:51:46.999267Z",
   "charter": "いけにえ_",
@@ -14,6 +14,7 @@
   "description": "谱师b站同名",
   "difficulty": 16.899996,
   "file": "https://phira.5wyxi.com/files/f83f988d-e32a-4917-9606-74278c220146",
+  "hidden": false,
   "id": 28766,
   "illustration": "https://phira.5wyxi.com/files/80a4b5a0-f1fa-4c0d-b481-e1fdfeda3637",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Op.I 《fear-TITΛN-》",
   "preview": "https://phira.5wyxi.com/files/5c5ebae1-9aa2-410b-b411-fc44dc1ab90b",
   "ranked": false,
-  "rating": 0.86342114,
-  "ratingCount": 309,
+  "rating": 0.863538,
+  "ratingCount": 310,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

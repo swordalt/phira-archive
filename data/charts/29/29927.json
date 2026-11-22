@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:48Z",
-    "lastChanged": "2026-09-21T02:02:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-21T13:24:03.461436Z",
   "charter": "YasoteMay",
@@ -14,6 +14,7 @@
   "description": "这张谱总算是可以打了，虽然物量较高，但难度确实不超过16，还是可以打的。总之新人，做的不好请见谅",
   "difficulty": 16.900003,
   "file": "https://phira.5wyxi.com/files/28880dbb-f0ac-4c54-a8f7-eecb25f2b84d",
+  "hidden": false,
   "id": 29927,
   "illustration": "https://phira.5wyxi.com/files/c4f31f20-9b85-4153-ba33-9ab36138728e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "witch of the hollows",
   "preview": "https://phira.5wyxi.com/files/78e1cc02-872d-4dbb-a4e2-904b14724aaa",
   "ranked": false,
-  "rating": 0.8912254,
-  "ratingCount": 249,
+  "rating": 0.88917595,
+  "ratingCount": 255,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

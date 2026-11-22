@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:42Z",
-    "lastChanged": "2026-09-21T02:04:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-16T12:21:02.940716Z",
   "charter": "E E E",
@@ -14,6 +14,7 @@
   "description": "0th PecJam RG141",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/66b6ffca-92a1-47f3-be96-bbd8d4a73127",
+  "hidden": false,
   "id": 58501,
   "illustration": "https://phira.5wyxi.com/files/4aaebec7-b614-42f1-860c-6872a8baf477",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "IIII IIII IIII",
   "preview": "https://phira.5wyxi.com/files/a0bd17d8-04a1-445e-be98-5a2ed465b18a",
   "ranked": false,
-  "rating": 0.8882579,
-  "ratingCount": 383,
+  "rating": 0.88895285,
+  "ratingCount": 395,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

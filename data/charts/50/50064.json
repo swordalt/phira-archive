@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:43Z",
-    "lastChanged": "2026-09-21T02:06:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-10T08:45:09.379485Z",
   "charter": "-The midnight cure-",
@@ -14,6 +14,7 @@
   "description": "本人上傳",
   "difficulty": 3.2000005,
   "file": "https://phira.5wyxi.com/files/8d6b3f43-b020-4e90-bf00-26c80cd31d76",
+  "hidden": false,
   "id": 50064,
   "illustration": "https://phira.5wyxi.com/files/648915b6-213b-4668-bd07-3382ca6c6944",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "Midnight (feat. METRO MEW)",
   "preview": "https://phira.5wyxi.com/files/5bf4bbe5-9309-4bbc-b8b9-b0e792db8dfb",
   "ranked": false,
-  "rating": 0.8765896,
+  "rating": 0.8787768,
   "ratingCount": 52,
   "reviewed": true,
   "stable": false,

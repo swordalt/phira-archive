@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:43Z",
-    "lastChanged": "2026-09-21T02:06:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-31T16:44:04.384462Z",
   "charter": "DesRemuci vs. HiriTypee",
@@ -14,6 +14,7 @@
   "description": "谱面由谱师亲自上传，B站:DesRemuci",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/e6314c85-ea06-4e2b-b0d0-d1434456529b",
+  "hidden": false,
   "id": 50792,
   "illustration": "https://phira.5wyxi.com/files/0a16e18e-a125-4f84-a7f1-332fe3327b46",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Stεganography",
   "preview": "https://phira.5wyxi.com/files/e57b4e53-7157-469e-873c-c385181520f1",
   "ranked": false,
-  "rating": 0.94475377,
-  "ratingCount": 93,
+  "rating": 0.9453217,
+  "ratingCount": 94,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

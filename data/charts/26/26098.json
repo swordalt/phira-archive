@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:33Z",
-    "lastChanged": "2026-09-21T02:02:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-13T04:52:16.314238Z",
   "charter": "厂家家家家",
@@ -14,6 +14,7 @@
   "description": "没上传b站，原因就是懒（没准之后会上传吧？）\nB站名：厂家家家家",
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/ab40f79c-9370-4b84-87cc-c73252b3b463",
+  "hidden": false,
   "id": 26098,
   "illustration": "https://phira.5wyxi.com/files/1a13009a-06b6-4ec5-adf7-0686bd7b28b5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ゴートゥ大都会",
   "preview": "https://phira.5wyxi.com/files/5c0caa70-4796-4f1b-b22e-940cfc47230d",
   "ranked": false,
-  "rating": 0.9405921,
-  "ratingCount": 625,
+  "rating": 0.94078356,
+  "ratingCount": 659,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

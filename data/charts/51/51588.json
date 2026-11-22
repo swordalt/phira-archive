@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:15Z",
-    "lastChanged": "2026-09-21T02:04:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-24T09:21:17.969832Z",
   "charter": "鵲崽and小鳩",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，感谢水分子的改良与修改，祝大家玩的开心！",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/495e3993-5143-411c-a2d6-bb54d8c7897b",
+  "hidden": false,
   "id": 51588,
   "illustration": "https://phira.5wyxi.com/files/c53db6e2-7d0e-47cd-9bc2-ab54ed6cf70d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "殿ッ！？ご乱心！？",
   "preview": "https://phira.5wyxi.com/files/a1e2437a-0239-4fde-8b0c-ddb6708d54ac",
   "ranked": false,
-  "rating": 0.9205409,
-  "ratingCount": 109,
+  "rating": 0.91973674,
+  "ratingCount": 119,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:51Z",
-    "lastChanged": "2026-09-21T02:02:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-17T17:02:27.056485Z",
   "charter": "思 — — — 昔",
@@ -14,6 +14,7 @@
   "description": "本人的第三张谱面，尝试了新的写法\n有点小创，但有引导，望大家玩的开心\nB站预览视频见BV1uskHYsEom",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/6df8f276-6764-4cae-aa4b-229ce6d3ea6d",
+  "hidden": false,
   "id": 30865,
   "illustration": "https://phira.5wyxi.com/files/045962fc-6277-4ab0-92cb-1f6c78b95f3b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Conway's Child",
   "preview": "https://phira.5wyxi.com/files/9caaa6bb-a8e7-47d4-9535-9c53b4e6c61b",
   "ranked": false,
-  "rating": 0.90044045,
-  "ratingCount": 81,
+  "rating": 0.89719135,
+  "ratingCount": 84,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

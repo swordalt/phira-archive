@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:33Z",
-    "lastChanged": "2026-09-21T02:06:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-30T10:22:10.546291Z",
   "charter": "Walnut",
@@ -14,6 +14,7 @@
   "description": "第二次做谱，豪庭！小破站@Walnnut",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/a1087538-3489-4f51-b922-f54d7502a818",
+  "hidden": false,
   "id": 46140,
   "illustration": "https://phira.5wyxi.com/files/7be37ea3-0bc4-451b-95ef-76c27be690d6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Starry",
   "preview": "https://phira.5wyxi.com/files/d48d0ace-da03-46a6-89a1-d7117fcacd04",
   "ranked": false,
-  "rating": 0.8257282,
-  "ratingCount": 4,
+  "rating": 0.856128,
+  "ratingCount": 6,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

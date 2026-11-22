@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:40Z",
-    "lastChanged": "2026-09-21T02:04:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-03T14:04:58.328586Z",
   "charter": "GG",
@@ -14,6 +14,7 @@
   "description": "王从天降，怒目狰狞!",
   "difficulty": 14.7,
   "file": "https://phira.5wyxi.com/files/78d17646-e0a9-4161-be7b-6d9535bf0d9f",
+  "hidden": false,
   "id": 57710,
   "illustration": "https://phira.5wyxi.com/files/b4f249f7-b018-46f0-b437-c21884dd3942",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "KING",
   "preview": "https://phira.5wyxi.com/files/20580863-7d24-406c-a15c-3dae44b0fe64",
   "ranked": false,
-  "rating": 0.9298652,
-  "ratingCount": 4243,
+  "rating": 0.93028724,
+  "ratingCount": 4458,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

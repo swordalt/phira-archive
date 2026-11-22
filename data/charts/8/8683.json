@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:20Z",
-    "lastChanged": "2026-09-21T02:05:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-29T07:58:13.403887Z",
   "charter": "/** encoding=UTF-8 */Min key to the future door",
@@ -14,6 +14,7 @@
   "description": "谱师：Zes M Young\n这是小号，大号丢了\n整活，见Tips(",
   "difficulty": 14.1,
   "file": "https://phira.5wyxi.com/files/1806d875-b639-4865-b9a6-cf123b422686",
+  "hidden": false,
   "id": 8683,
   "illustration": "https://phira.5wyxi.com/files/b68f19c5-3e25-495e-a7ba-e3f91e983154",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "解锁未来",
   "preview": "https://phira.5wyxi.com/files/042586ba-022d-43f8-9a49-f23c44a1cb63",
   "ranked": false,
-  "rating": 0.8980996,
-  "ratingCount": 433,
+  "rating": 0.8990534,
+  "ratingCount": 438,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

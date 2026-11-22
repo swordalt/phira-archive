@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:53Z",
-    "lastChanged": "2026-09-21T02:03:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-24T07:53:34.603854Z",
   "charter": "^OωO^",
@@ -14,6 +14,7 @@
   "description": "本谱为0thPecJam预选谱面。谱师b站：inverted_vOmOv。UID:544143726。谱面预览视频:【［0thPecJam］晚自习逃跑的50秒！2025/02/09 Astral自制谱-哔哩哔哩】 https://b23.tv/H5ixRgi。",
   "difficulty": 15.500001,
   "file": "https://phira.5wyxi.com/files/1684fa4f-9b92-4bda-ad7c-d8ca0616e7ec",
+  "hidden": false,
   "id": 47153,
   "illustration": "https://phira.5wyxi.com/files/ba8cc501-06af-4e96-ad0d-c6f4db2843b8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "2025/02/09 Astral",
   "preview": "https://phira.5wyxi.com/files/fae383d6-b6ac-4867-a9f6-d027ce959009",
   "ranked": false,
-  "rating": 0.8795659,
-  "ratingCount": 32,
+  "rating": 0.8499637,
+  "ratingCount": 35,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

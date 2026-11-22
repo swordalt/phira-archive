@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:02Z",
-    "lastChanged": "2026-09-21T02:06:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-25T08:52:08.556480Z",
   "charter": "垃圾制造者",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/a3a54c94-1562-4023-9f21-425f1c93cb80",
+  "hidden": false,
   "id": 29042,
   "illustration": "https://phira.5wyxi.com/files/3363737f-fc86-4012-97db-dc930d7cee51",
   "illustrator": "",

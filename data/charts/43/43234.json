@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:27Z",
-    "lastChanged": "2026-09-21T02:06:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-31T05:45:41.100821Z",
   "charter": "doudou901",
@@ -14,6 +14,7 @@
   "description": "难",
   "difficulty": 19.2,
   "file": "https://phira.5wyxi.com/files/6c1cfbbf-a7ba-43c8-b03b-3f2e83d26de0",
+  "hidden": false,
   "id": 43234,
   "illustration": "https://phira.5wyxi.com/files/bac4d735-01fc-4ebd-9d38-910ab5b07566",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "stay with me ",
   "preview": "https://phira.5wyxi.com/files/853b1a70-8d35-4e81-8ba6-cc325b790fbf",
   "ranked": false,
-  "rating": 0.78569186,
-  "ratingCount": 82,
+  "rating": 0.7914162,
+  "ratingCount": 86,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

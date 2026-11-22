@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:59Z",
-    "lastChanged": "2026-09-21T02:06:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-27T11:40:07.626169Z",
   "charter": "Xiyv_",
@@ -14,6 +14,7 @@
   "description": "bot测出来rf8 ln8\n我不知道是不是真的。\nb站 Xiyv__\n欢迎指导喵",
   "difficulty": 8.499999,
   "file": "https://phira.5wyxi.com/files/bcd46ecf-ccd4-41a5-bc9a-e5e3a9cccbd5",
+  "hidden": false,
   "id": 69517,
   "illustration": "https://phira.5wyxi.com/files/2f507b8d-8ba9-4280-9c71-89a927274e4e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sink to the Deep Sea World",
   "preview": "https://phira.5wyxi.com/files/643ea911-16e3-4b1c-a97a-f3e8851dec9c",
   "ranked": false,
-  "rating": 0.88350415,
-  "ratingCount": 91,
+  "rating": 0.8834071,
+  "ratingCount": 95,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

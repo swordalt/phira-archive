@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:32Z",
-    "lastChanged": "2026-09-21T02:02:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-08T15:17:06.537911Z",
   "charter": "Charisk",
@@ -14,6 +14,7 @@
   "description": "第一次写谱,还请各位大佬指点.推荐使用电脑端游玩",
   "difficulty": 11.0,
   "file": "https://phira.5wyxi.com/files/63f6d5cb-2faa-4429-9cf2-791beeab06c1",
+  "hidden": false,
   "id": 25675,
   "illustration": "https://phira.5wyxi.com/files/46415210-1667-4407-a1c2-5f6c9967898c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "再生Recall",
   "preview": "https://phira.5wyxi.com/files/adb4d05e-2635-47ea-a07e-70cae38a78c4",
   "ranked": false,
-  "rating": 0.95836,
-  "ratingCount": 1104,
+  "rating": 0.95943356,
+  "ratingCount": 1158,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:41Z",
-    "lastChanged": "2026-09-21T02:06:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-21T11:21:08.228536Z",
   "charter": "kirto.moshang.owo",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传 是自己的第二个4K谱面",
   "difficulty": 25.0,
   "file": "https://phira.5wyxi.com/files/512f2d06-433e-4702-9fd9-846856eabd4f",
+  "hidden": false,
   "id": 49341,
   "illustration": "https://phira.5wyxi.com/files/c5bc8229-46f5-44aa-8c85-a810dffff43d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ほしのおとしもの",
   "preview": "https://phira.5wyxi.com/files/05a1843f-2553-4e5f-82de-f0d28e82a752",
   "ranked": false,
-  "rating": 0.9349786,
-  "ratingCount": 192,
+  "rating": 0.93594396,
+  "ratingCount": 198,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

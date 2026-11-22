@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:50Z",
-    "lastChanged": "2026-09-21T02:02:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-10T09:51:51.049136Z",
   "charter": "Neuoir",
@@ -14,6 +14,7 @@
   "description": "试图用1万+事件模仿PV...\nB站：新海彼亚\n视频：BV1XSqjYPE82",
   "difficulty": 14.200001,
   "file": "https://phira.5wyxi.com/files/19b1eedb-b2dc-4000-b275-9acef6bec5e9",
+  "hidden": false,
   "id": 30610,
   "illustration": "https://phira.5wyxi.com/files/37fe37ef-d948-4eca-b94c-f000bb45be3e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "モニタリング",
   "preview": "https://phira.5wyxi.com/files/775afc74-b7de-40af-96eb-e666e75e8f48",
   "ranked": false,
-  "rating": 0.93260884,
-  "ratingCount": 4425,
+  "rating": 0.93277925,
+  "ratingCount": 4625,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

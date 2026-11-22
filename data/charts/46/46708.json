@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:50Z",
-    "lastChanged": "2026-09-21T02:03:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-13T02:41:22.233399Z",
   "charter": "Easy_pipi",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/1208ddf5-b2db-4f52-8541-81146efb7b64",
+  "hidden": false,
   "id": 46708,
   "illustration": "https://phira.5wyxi.com/files/f7e4179e-01bc-43ab-97aa-f0f3325c3440",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Frey's Philosophy",
   "preview": "https://phira.5wyxi.com/files/f06b95df-e2d7-4bea-97e1-981b72511d5f",
   "ranked": false,
-  "rating": 0.9197631,
-  "ratingCount": 357,
+  "rating": 0.9195177,
+  "ratingCount": 367,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

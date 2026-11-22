@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:56Z",
-    "lastChanged": "2026-10-04T10:50:52Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:58:37Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-07-10T19:06:46.368584Z",
   "charter": "Freezing KYUR",
@@ -14,6 +14,7 @@
   "description": "本人上传\n完成于2025.7.31\nID与哔站同名",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/3aac46d5-101c-4239-876d-76d84e86e2d6",
+  "hidden": false,
   "id": 65511,
   "illustration": "https://phira.5wyxi.com/files/6bb7e02b-83be-464b-8c76-3b8237451823",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "cold planet",
   "preview": "https://phira.5wyxi.com/files/6387ec5f-78ff-49ad-b46d-8175f9f499e3",
   "ranked": false,
-  "rating": 0.80328155,
-  "ratingCount": 8,
+  "rating": 0.8072592,
+  "ratingCount": 24,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

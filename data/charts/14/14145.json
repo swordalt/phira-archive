@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:41Z",
-    "lastChanged": "2026-09-21T02:05:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-25T15:50:49.575364Z",
   "charter": "Gou_he",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/a2f67640-82f8-4a08-9f06-eabd8239a41b",
+  "hidden": false,
   "id": 14145,
   "illustration": "https://phira.5wyxi.com/files/2f2bdfbd-877b-4c92-8588-53e54c7d4760",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "きゅ〜と★アグレッション",
   "preview": "https://phira.5wyxi.com/files/cf544a38-309a-4f5f-82b2-0dc22fa92f9d",
   "ranked": false,
-  "rating": 0.87590283,
-  "ratingCount": 37,
+  "rating": 0.87886846,
+  "ratingCount": 38,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

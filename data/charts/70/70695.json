@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:05Z",
-    "lastChanged": "2026-10-04T10:51:05Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:58:58Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-02T05:39:34.104177Z",
   "charter": "Linze",
@@ -14,6 +14,7 @@
   "description": "谱面为本人制作并上传",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/bde3430c-3e25-4ae1-9577-e53170bfc24d",
+  "hidden": false,
   "id": 70695,
   "illustration": "https://phira.5wyxi.com/files/6e43da91-6c21-48b6-a01b-19c3fef23daf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Algebra",
   "preview": "https://phira.5wyxi.com/files/bde2e8a9-5789-47ef-b41e-89fa06784758",
   "ranked": false,
-  "rating": 0.921564,
-  "ratingCount": 348,
+  "rating": 0.9146078,
+  "ratingCount": 539,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

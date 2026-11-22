@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:33Z",
-    "lastChanged": "2026-09-21T02:04:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-03T12:36:19.409985Z",
   "charter": "骷髅剑盾牌",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/4a79747f-f802-4f63-a472-174b5a3375b9",
+  "hidden": false,
   "id": 54948,
   "illustration": "https://phira.5wyxi.com/files/0c62bd8e-fbd5-416c-b73a-a4c478f8ac5e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Takoyaki-Rave Bomber",
   "preview": "https://phira.5wyxi.com/files/2fe63888-dce7-4acd-873f-f5df3e4d8b4a",
   "ranked": true,
-  "rating": 0.9478856,
-  "ratingCount": 389,
+  "rating": 0.9473206,
+  "ratingCount": 416,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

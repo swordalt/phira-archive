@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:15Z",
-    "lastChanged": "2026-09-21T02:03:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-30T15:09:49.975154Z",
   "charter": "三点/骨灰zero",
@@ -14,6 +14,7 @@
   "description": "B站@3点_-_/@cattleya 视频链接BV1LojAzfEfK，谱师本人上传，均已同意上传谱面，希望大家玩得开心",
   "difficulty": 16.500002,
   "file": "https://phira.5wyxi.com/files/875505f1-5611-434a-95ed-639e36304ca1",
+  "hidden": false,
   "id": 37131,
   "illustration": "https://phira.5wyxi.com/files/6ddbb850-a168-4fa1-9006-7efdf8130827",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "LANCE",
   "preview": "https://phira.5wyxi.com/files/78faaded-d049-4b34-a3df-977927960844",
   "ranked": false,
-  "rating": 0.87330717,
-  "ratingCount": 20,
+  "rating": 0.87098944,
+  "ratingCount": 21,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:09Z",
-    "lastChanged": "2026-09-21T02:01:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-10T20:07:27.720489Z",
   "charter": "InterJoke vs. 瑞矢斯 vs. Salt vs. Air",
@@ -14,6 +14,7 @@
   "description": "吾愿光明遍此间。",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/35205fa2-3af8-4cd1-8b64-9eddfefaa74e",
+  "hidden": false,
   "id": 1616,
   "illustration": "https://phira.5wyxi.com/files/3ed9db54-645d-4a17-bc51-0f2f1419b954",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "花たちに希望を",
   "preview": "https://phira.5wyxi.com/files/ea5eb00d-d77f-4433-96f0-13953a3d1a6d",
   "ranked": true,
-  "rating": 0.9186333,
-  "ratingCount": 1705,
+  "rating": 0.91895586,
+  "ratingCount": 1718,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

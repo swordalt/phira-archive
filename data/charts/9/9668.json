@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:34Z",
-    "lastChanged": "2026-09-21T02:01:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-25T02:23:14.576286Z",
   "charter": "NyaCers vs.Snowball",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 15.400001,
   "file": "https://phira.5wyxi.com/files/c7236838-070a-47e6-8fc4-32946458a884",
+  "hidden": false,
   "id": 9668,
   "illustration": "https://phira.5wyxi.com/files/17ade42a-46c5-4035-bdb5-9696e0c9f7a4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Last Page",
   "preview": "https://phira.5wyxi.com/files/58689ba5-52cf-4dc4-9ef3-6325ed7831b9",
   "ranked": true,
-  "rating": 0.94906104,
-  "ratingCount": 7606,
+  "rating": 0.948946,
+  "ratingCount": 7674,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:21Z",
-    "lastChanged": "2026-09-21T02:02:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-12T07:37:57.732728Z",
   "charter": "Brand New Dason",
@@ -14,6 +14,7 @@
   "description": "Notanote独占曲。新人二谱，写得一般。",
   "difficulty": 13.399999,
   "file": "https://phira.5wyxi.com/files/753d400e-8aed-443b-9ebc-f0b5cf587aeb",
+  "hidden": false,
   "id": 23267,
   "illustration": "https://phira.5wyxi.com/files/d950c0a2-f890-4491-ab70-e200083f404b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Brand New Day",
   "preview": "https://phira.5wyxi.com/files/d2b11f73-9f40-435c-ba7d-de49cde47da5",
   "ranked": false,
-  "rating": 0.9003824,
-  "ratingCount": 47,
+  "rating": 0.90230936,
+  "ratingCount": 48,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:04Z",
-    "lastChanged": "2026-09-21T02:03:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-15T16:54:32.982391Z",
   "charter": "Q9ks",
@@ -14,6 +14,7 @@
   "description": "音乐来源：B站BV14vr7YMESk； Remix：chickenshout(网易云音乐名称） 或 _Jiiao_（B站up主名称）； 音乐原作者：DJ Okawari/fox capture plan； 新手第二张谱，可能因为宽高比影响，部分地方有露馅，请见谅",
   "difficulty": 14.600002,
   "file": "https://phira.5wyxi.com/files/12262061-15c8-4a11-8f30-f624540543d1",
+  "hidden": false,
   "id": 34102,
   "illustration": "https://phira.5wyxi.com/files/cba79989-e3ff-4f0e-a9c3-97b164114ada",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lightning Moment (Melodic Dubstep Remix)",
   "preview": "https://phira.5wyxi.com/files/0680aaf2-f533-4b9a-aeec-166db35d3ffa",
   "ranked": false,
-  "rating": 0.9372672,
-  "ratingCount": 8306,
+  "rating": 0.936903,
+  "ratingCount": 8571,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

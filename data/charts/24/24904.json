@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:28Z",
-    "lastChanged": "2026-09-21T02:02:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-01T05:27:49.275794Z",
   "charter": "WarmKuhe,ColdSuika",
@@ -14,6 +14,7 @@
   "description": "合作谱 经另一位谱师同意上传 谱师:@KuheCoola09 @噬梦Suika\n第二张常规自制 同时也是第一张真正意义上的合作谱\n\n中间一段蓝红使用垂直判定解决",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/f56d4402-6d34-4357-8ae2-90e583282694",
+  "hidden": false,
   "id": 24904,
   "illustration": "https://phira.5wyxi.com/files/28822607-aa60-41d2-aa55-c8f6149a1fce",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Cold Air, Warm Heart",
   "preview": "https://phira.5wyxi.com/files/125f5453-fd67-4c3f-ab29-3f7a6dc73788",
   "ranked": false,
-  "rating": 0.8834357,
-  "ratingCount": 201,
+  "rating": 0.88388205,
+  "ratingCount": 202,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

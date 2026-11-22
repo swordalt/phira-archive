@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:02Z",
-    "lastChanged": "2026-09-21T02:03:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-10T00:00:50.818524Z",
   "charter": "XL -lanooooodles-",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/eed729e6-5906-4962-9f87-3ebacf5869ed",
+  "hidden": false,
   "id": 33706,
   "illustration": "https://phira.5wyxi.com/files/4941ed84-76fc-4040-9542-bd794ef52859",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "XL TECHNO -More Dance Remix",
   "preview": "https://phira.5wyxi.com/files/ee45b036-ced0-47a6-bb21-0493382abb8d",
   "ranked": false,
-  "rating": 0.7390905,
-  "ratingCount": 136,
+  "rating": 0.73888904,
+  "ratingCount": 139,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

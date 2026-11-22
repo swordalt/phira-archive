@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:15Z",
-    "lastChanged": "2026-09-21T02:06:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-22T09:36:45.714425Z",
   "charter": "Ranmoc",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/e4e92aae-5e93-49e3-948b-d4033a954a2a",
+  "hidden": false,
   "id": 38454,
   "illustration": "https://phira.5wyxi.com/files/f38c964e-9bb6-4553-beb6-04b2c7296750",
   "illustrator": "",

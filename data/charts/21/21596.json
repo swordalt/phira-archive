@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:18Z",
-    "lastChanged": "2026-09-21T02:02:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-21T05:20:38.808369Z",
   "charter": "翼鸣云海",
@@ -14,6 +14,7 @@
   "description": "这是我的第三张自制谱，写的不好请见谅（尤其到结尾就没思路了）\n！初见杀注意 ！（作者已收）\n详情 B站 @翼鸣云海",
   "difficulty": 14.199984,
   "file": "https://phira.5wyxi.com/files/ccbf3553-0dae-4de2-a74e-a98b3a37e575",
+  "hidden": false,
   "id": 21596,
   "illustration": "https://phira.5wyxi.com/files/6dc3e582-fe98-4549-8b0a-605e4d1520ae",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "黑暗森林",
   "preview": "https://phira.5wyxi.com/files/83f27ce1-f053-4de0-90d3-86bb51b9ee83",
   "ranked": false,
-  "rating": 0.92849696,
-  "ratingCount": 1714,
+  "rating": 0.9284983,
+  "ratingCount": 1755,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

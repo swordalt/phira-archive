@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:21Z",
-    "lastChanged": "2026-09-21T02:04:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-13T15:20:36.874526Z",
   "charter": "星云冰雨 feat. 舶渡樱澪",
@@ -14,6 +14,7 @@
   "description": "大概18.2(17.2)\n本人上传，经过所有谱师允许而上传\nBV1rhcnz1Eav",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/b98a5c74-32d4-4538-9600-ed6226187cfb",
+  "hidden": false,
   "id": 52599,
   "illustration": "https://phira.5wyxi.com/files/9375d95c-065c-4991-bd02-b3f309caed12",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "EDM Jumpers",
   "preview": "https://phira.5wyxi.com/files/b2a9385c-abe0-4e7f-ba5b-e158aaf880ea",
   "ranked": false,
-  "rating": 0.91835785,
-  "ratingCount": 119,
+  "rating": 0.91658723,
+  "ratingCount": 122,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

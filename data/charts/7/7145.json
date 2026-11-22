@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:25Z",
-    "lastChanged": "2026-09-21T02:01:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-09T04:20:28.661250Z",
   "charter": "霓暮",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.900007,
   "file": "https://phira.5wyxi.com/files/52ab167b-a1d2-407a-be6b-a1c98146c80a",
+  "hidden": false,
   "id": 7145,
   "illustration": "https://phira.5wyxi.com/files/39915bab-a9da-4e22-aed4-675ce524f424",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "アイドル",
   "preview": "https://phira.5wyxi.com/files/bfba0763-93a0-473c-bca9-093939cb9693",
   "ranked": false,
-  "rating": 0.85886645,
-  "ratingCount": 2870,
+  "rating": 0.85879314,
+  "ratingCount": 2892,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

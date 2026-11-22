@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:05Z",
-    "lastChanged": "2026-09-21T02:02:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-29T14:42:35.238786Z",
   "charter": "TRixLoid",
@@ -14,6 +14,7 @@
   "description": "本谱面由谱师本人上传，曲绘由谱师本人制作",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/dc34399e-0fc5-45d8-a4d2-b55cbd497e0f",
+  "hidden": false,
   "id": 17689,
   "illustration": "https://phira.5wyxi.com/files/5a6da36c-96a0-40a8-a2c7-ac2f77b0aa5a",
   "illustrator": "",

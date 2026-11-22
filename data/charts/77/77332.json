@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:14Z",
-    "lastChanged": "2026-09-21T02:05:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-06T10:07:59.179229Z",
   "charter": "母鸡",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传 此为6thWJC参赛谱面  编号g1 No.2",
   "difficulty": 14.899998,
   "file": "https://phira.5wyxi.com/files/0db369b3-f604-460b-9900-3bc973ea5415",
+  "hidden": false,
   "id": 77332,
   "illustration": "https://phira.5wyxi.com/files/98743272-e4dd-48e9-aedb-35e0f6113ffc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Saga Script",
   "preview": "https://phira.5wyxi.com/files/1b9169a7-3549-439e-88e4-ef334c3523c3",
   "ranked": false,
-  "rating": 0.94878805,
-  "ratingCount": 70,
+  "rating": 0.95171154,
+  "ratingCount": 86,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

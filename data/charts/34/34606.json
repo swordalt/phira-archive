@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:06Z",
-    "lastChanged": "2026-09-21T02:03:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-06T16:40:17.924755Z",
   "charter": "G1 No.16",
@@ -14,6 +14,7 @@
   "description": "来求评价了",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/8c0b2598-80d4-4ebe-805f-9abd325589e4",
+  "hidden": false,
   "id": 34606,
   "illustration": "https://phira.5wyxi.com/files/e3681c39-3831-423d-a063-fc9b5ad49042",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "OMG",
   "preview": "https://phira.5wyxi.com/files/690c54ad-61fb-49e4-9437-d6901bc0951c",
   "ranked": false,
-  "rating": 0.9360763,
-  "ratingCount": 813,
+  "rating": 0.93620485,
+  "ratingCount": 821,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:10Z",
-    "lastChanged": "2026-09-21T02:02:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-28T06:03:54.957029Z",
   "charter": "Blane",
@@ -14,6 +14,7 @@
   "description": "Cross Soul （官谱改），官谱的基础上将纵连改成了交互，双指底力谱，有初见杀",
   "difficulty": 16.100004,
   "file": "https://phira.5wyxi.com/files/c2bf44c1-c7c5-45c7-a72e-2ba8cf525ef8",
+  "hidden": false,
   "id": 18996,
   "illustration": "https://phira.5wyxi.com/files/54e54f40-b116-4bf3-a743-6496e715e263",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Cross†Soul",
   "preview": "https://phira.5wyxi.com/files/b32b92b8-fbc5-43bf-8cde-4ece30254488",
   "ranked": false,
-  "rating": 0.91347915,
-  "ratingCount": 1128,
+  "rating": 0.9141573,
+  "ratingCount": 1142,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:44Z",
-    "lastChanged": "2026-09-21T02:03:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-22T04:41:35.749141Z",
   "charter": "CXXX",
@@ -14,6 +14,7 @@
   "description": "谱面紧张第一！次被写好第一次",
   "difficulty": 13.300001,
   "file": "https://phira.5wyxi.com/files/198df13b-4d68-4978-8af1-e352d066ac9e",
+  "hidden": false,
   "id": 45388,
   "illustration": "https://phira.5wyxi.com/files/20af9fab-553c-4b9d-b11c-e35fc31be97e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "反乌托邦",
   "preview": "https://phira.5wyxi.com/files/4b91784b-463b-4648-b8a8-895d2b0357d0",
   "ranked": false,
-  "rating": 0.91871005,
-  "ratingCount": 4048,
+  "rating": 0.918648,
+  "ratingCount": 4611,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

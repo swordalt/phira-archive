@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:27Z",
-    "lastChanged": "2026-09-21T02:02:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-28T08:41:32.073500Z",
   "charter": "GeomilA",
@@ -14,6 +14,7 @@
   "description": "My 2nd beatmap. hope you enjoy :)",
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/6e5c65eb-0756-465d-ba87-b39bdbdbe82f",
+  "hidden": false,
   "id": 24548,
   "illustration": "https://phira.5wyxi.com/files/e6974ceb-041c-4204-91ef-f6a44a33c499",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ClutterFunk",
   "preview": "https://phira.5wyxi.com/files/18ba0a15-9f7e-4d77-b37c-b4dbfdb86da6",
   "ranked": false,
-  "rating": 0.89385533,
-  "ratingCount": 62,
+  "rating": 0.895467,
+  "ratingCount": 63,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

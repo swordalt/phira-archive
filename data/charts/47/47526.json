@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:55Z",
-    "lastChanged": "2026-09-21T02:03:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-03T03:54:56.119294Z",
   "charter": "DTF100",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.7,
   "file": "https://phira.5wyxi.com/files/0822ee27-8a61-4e4c-9521-4443df1f362f",
+  "hidden": false,
   "id": 47526,
   "illustration": "https://phira.5wyxi.com/files/15e3e2fc-0fe7-4d99-ab52-a8ba54af8361",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GOODTEK",
   "preview": "https://phira.5wyxi.com/files/85081bbb-4590-4514-a853-b852d241bda5",
   "ranked": false,
-  "rating": 0.86955047,
-  "ratingCount": 194,
+  "rating": 0.8702055,
+  "ratingCount": 203,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

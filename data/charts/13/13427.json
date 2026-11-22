@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-09T12:57:43.120971Z",
   "charter": "diang",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/3dab7e99-b48d-467d-82c9-ae55144ebfa7",
+  "hidden": false,
   "id": 13427,
   "illustration": "https://phira.5wyxi.com/files/47a728fe-c610-46fa-9ae6-02c4e467576e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "rubia",
   "preview": "https://phira.5wyxi.com/files/83ff1529-b94d-4bf8-990c-be521b54cf24",
   "ranked": false,
-  "rating": 0.7604475,
-  "ratingCount": 285,
+  "rating": 0.76129663,
+  "ratingCount": 286,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

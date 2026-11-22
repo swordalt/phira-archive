@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:35Z",
-    "lastChanged": "2026-09-21T02:04:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-10T07:02:33.618387Z",
   "charter": "Circle&Seachannel",
@@ -14,6 +14,7 @@
   "description": "@Circlewwwwwww#65155",
   "difficulty": 13.799999,
   "file": "https://phira.5wyxi.com/files/518be5d4-12ab-410f-8cd2-f2e5afbc9020",
+  "hidden": false,
   "id": 55756,
   "illustration": "https://phira.5wyxi.com/files/8fa020af-6a46-412b-b3cf-859263aa5068",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lost City",
   "preview": "https://phira.5wyxi.com/files/1496d2a2-d86d-4477-9eb4-25609559bb43",
   "ranked": false,
-  "rating": 0.9298681,
-  "ratingCount": 135,
+  "rating": 0.9296642,
+  "ratingCount": 136,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:03Z",
-    "lastChanged": "2026-09-21T02:01:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-11T13:20:29.660807Z",
   "charter": "羽梦明",
@@ -14,6 +14,7 @@
   "description": "tpz神曲，等你再战！",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/25a790d2-754f-4711-a34c-280415969e4a",
+  "hidden": false,
   "id": 99,
   "illustration": "https://phira.5wyxi.com/files/3cc03f34-66e5-4dbb-a434-da7856a477c6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sanctuary",
   "preview": "https://phira.5wyxi.com/files/125eb452-fca4-4d1a-bb93-7d1645191830",
   "ranked": false,
-  "rating": 0.9421489,
-  "ratingCount": 7020,
+  "rating": 0.94222635,
+  "ratingCount": 7050,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

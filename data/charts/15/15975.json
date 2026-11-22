@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:59Z",
-    "lastChanged": "2026-09-21T02:01:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-17T13:36:52.335767Z",
   "charter": "kkkkkkkywy",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 13.3,
   "file": "https://phira.5wyxi.com/files/4b9fb664-1081-4754-a241-866d6b2ae55e",
+  "hidden": false,
   "id": 15975,
   "illustration": "https://phira.5wyxi.com/files/148efd79-e2f5-47df-a8f4-1703a8893f97",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sister's Noise",
   "preview": "https://phira.5wyxi.com/files/29417278-ebb0-495c-8a2a-f822124c8661",
   "ranked": false,
-  "rating": 0.9393234,
-  "ratingCount": 1617,
+  "rating": 0.93920475,
+  "ratingCount": 1642,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

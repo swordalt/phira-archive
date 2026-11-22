@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:54Z",
-    "lastChanged": "2026-09-21T02:05:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-15T08:46:03.188097Z",
   "charter": "qwpp",
@@ -14,6 +14,7 @@
   "description": "本人上传                                             最难的一集   小时候看这个看哭了",
   "difficulty": 17.9,
   "file": "https://phira.5wyxi.com/files/22aab6fc-a7cc-4f6a-ae11-f56dacab43d5",
+  "hidden": false,
   "id": 23497,
   "illustration": "https://phira.5wyxi.com/files/4253c8ec-2201-40e0-b2ae-e9c36596a33f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Electric Angel",
   "preview": "https://phira.5wyxi.com/files/51ff614c-a761-48d7-a6ab-8de8abde97da",
   "ranked": false,
-  "rating": 0.909954,
-  "ratingCount": 162,
+  "rating": 0.9120039,
+  "ratingCount": 167,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

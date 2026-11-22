@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:52Z",
-    "lastChanged": "2026-09-21T02:06:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-30T21:51:52.223921Z",
   "charter": "ninwowo vs. YMEA",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，后经@YMEA洋漫#5238 修改，难度大概在γ左右，写的160bpm中叠，曲绘已经同意使用，望通过",
   "difficulty": 37.0,
   "file": "https://phira.5wyxi.com/files/1df67e01-c25f-48a0-b2e1-ce693b5be288",
+  "hidden": false,
   "id": 59572,
   "illustration": "https://phira.5wyxi.com/files/7a131a4f-2f5c-4469-9add-d46c490563ce",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dramatic Entrance!",
   "preview": "https://phira.5wyxi.com/files/a6d7180a-c079-4f4c-9368-f242fcaef6a8",
   "ranked": false,
-  "rating": 0.91409975,
-  "ratingCount": 39,
+  "rating": 0.91605175,
+  "ratingCount": 40,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

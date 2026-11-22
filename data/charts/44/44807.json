@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:42Z",
-    "lastChanged": "2026-09-21T02:03:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-15T16:43:37.785802Z",
   "charter": "Yurin_II",
@@ -14,6 +14,7 @@
   "description": "1.0版本，后续可能会完善谱面其他细节，侵删",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/03e5283e-646d-483f-bd5c-99f310456e24",
+  "hidden": false,
   "id": 44807,
   "illustration": "https://phira.5wyxi.com/files/dfed1d85-35dc-43a0-be34-f3abcd058dfb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "臙脂 ft. 重音テト",
   "preview": "https://phira.5wyxi.com/files/99498390-5433-4062-b723-464186615d25",
   "ranked": false,
-  "rating": 0.92311215,
-  "ratingCount": 2681,
+  "rating": 0.923829,
+  "ratingCount": 2797,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

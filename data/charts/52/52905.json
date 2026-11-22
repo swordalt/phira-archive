@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-27T08:02:44Z",
-    "lastChanged": "2026-10-04T10:53:41Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:02:40Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-02-18T10:10:54.692480Z",
   "charter": "肆肆",
@@ -14,6 +14,7 @@
   "description": "噔↑噔↑噔↑   就能ap啦",
   "difficulty": 8.0,
   "file": "https://phira.5wyxi.com/files/94ae88fb-5c41-42a5-a796-3833cfa69de4",
+  "hidden": false,
   "id": 52905,
   "illustration": "https://phira.5wyxi.com/files/204b308e-b295-48d3-863b-87d49ee3393b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "だんだん早くなる  LV.12",
   "preview": "https://phira.5wyxi.com/files/1304137c-b314-4610-b18e-0fdc0889f344",
   "ranked": false,
-  "rating": 0.8642844,
-  "ratingCount": 4,
+  "rating": 0.90722173,
+  "ratingCount": 26,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

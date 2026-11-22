@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:11Z",
-    "lastChanged": "2026-09-21T02:02:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-03T07:18:50.220355Z",
   "charter": "FGH",
@@ -14,6 +14,7 @@
   "description": "之前做的，改了一些地方。",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/0acc095c-5057-459a-a43f-2e42aa159125",
+  "hidden": false,
   "id": 19351,
   "illustration": "https://phira.5wyxi.com/files/f5d5d978-4669-4571-9c03-87ad7e316c90",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "So Far Away",
   "preview": "https://phira.5wyxi.com/files/b836c4cb-99f7-472e-8ede-577f74d9fdf2",
   "ranked": false,
-  "rating": 0.8884878,
-  "ratingCount": 1927,
+  "rating": 0.88835967,
+  "ratingCount": 1951,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

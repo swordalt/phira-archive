@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:42Z",
-    "lastChanged": "2026-09-21T02:03:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-18T09:38:18.701022Z",
   "charter": "中微子",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/bb33a90b-a99b-4718-a5ab-150011e7a3b6",
+  "hidden": false,
   "id": 44987,
   "illustration": "https://phira.5wyxi.com/files/2c684b9d-562d-42c4-b911-a9c61fc71607",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "eyes in the water",
   "preview": "https://phira.5wyxi.com/files/29281408-9167-4f6f-bd89-e4453b0cc575",
   "ranked": false,
-  "rating": 0.82843393,
-  "ratingCount": 4406,
+  "rating": 0.8276821,
+  "ratingCount": 4983,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

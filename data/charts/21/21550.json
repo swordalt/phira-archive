@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:18Z",
-    "lastChanged": "2026-09-21T02:02:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-20T07:23:38.784682Z",
   "charter": "天才威玩游戏",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，未经授权禁止转载，如需发布B站等平台的话请标明原作者",
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/ae07b382-bf53-42b2-af3f-942f7dc7feb5",
+  "hidden": false,
   "id": 21550,
   "illustration": "https://phira.5wyxi.com/files/506c433c-656e-4654-bd1d-39774d72c39d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fool For You",
   "preview": "https://phira.5wyxi.com/files/44ac7610-f85c-4c0b-8814-72b9c1ad87c3",
   "ranked": false,
-  "rating": 0.928684,
-  "ratingCount": 2508,
+  "rating": 0.9282359,
+  "ratingCount": 2620,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

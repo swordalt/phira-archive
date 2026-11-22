@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:36Z",
-    "lastChanged": "2026-09-21T02:04:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-11T12:30:26.173812Z",
   "charter": "Wothapes",
@@ -14,6 +14,7 @@
   "description": "新人第一张谱，可能会有各种问题，欢迎大家来B站评论区提意见！\n本人B站id：Wothapes",
   "difficulty": 14.600001,
   "file": "https://phira.5wyxi.com/files/220f6b0a-643c-4497-901e-46704366bfe7",
+  "hidden": false,
   "id": 56015,
   "illustration": "https://phira.5wyxi.com/files/425cc630-44ca-4406-bd76-52b27eecb86c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lily Toxicity",
   "preview": "https://phira.5wyxi.com/files/d613985e-d5f3-43e3-bb6d-6cae4e9cac4c",
   "ranked": false,
-  "rating": 0.9255719,
-  "ratingCount": 258,
+  "rating": 0.92771333,
+  "ratingCount": 298,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:29Z",
-    "lastChanged": "2026-09-21T02:03:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-13T06:58:26.906310Z",
   "charter": "Rokren",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.899998,
   "file": "https://phira.5wyxi.com/files/a794a17b-b04c-4d91-b87d-988afa72f7c6",
+  "hidden": false,
   "id": 41569,
   "illustration": "https://phira.5wyxi.com/files/9f3a42af-05e1-4488-8a69-35e5cffb78e4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The King's Return",
   "preview": "https://phira.5wyxi.com/files/250d536a-41b1-4d92-a161-ec35157e17b1",
   "ranked": false,
-  "rating": 0.91235405,
-  "ratingCount": 199,
+  "rating": 0.9108783,
+  "ratingCount": 201,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

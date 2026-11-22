@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-08T17:50:20Z",
-    "lastChanged": "2026-10-18T09:09:20Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:25Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-08T01:59:47.394025Z",
   "charter": "母鸡Sama' vs awa_",
@@ -14,6 +14,7 @@
   "description": "谱师本人代表上传 协作谱师: @awa123#101",
   "difficulty": 16.800003,
   "file": "https://phira.5wyxi.com/files/7775fbcd-dcb5-483e-9943-853d44e3f8e6",
+  "hidden": false,
   "id": 80572,
   "illustration": "https://phira.5wyxi.com/files/8ea2b83a-14d0-48cd-b6e9-325efb96c20b",
   "illustrator": "CHUNITHM",
@@ -21,8 +22,8 @@
   "name": "Hardsync",
   "preview": "https://phira.5wyxi.com/files/946c4372-dd62-4c7d-91ce-384800bf7fc0",
   "ranked": false,
-  "rating": 0.89462006,
-  "ratingCount": 59,
+  "rating": 0.8979591,
+  "ratingCount": 95,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

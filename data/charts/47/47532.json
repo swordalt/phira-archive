@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:55Z",
-    "lastChanged": "2026-10-11T11:03:50Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:56:39Z",
+    "revisions": 3
   },
   "chartUpdated": "2025-10-03T06:19:28.157246Z",
   "charter": "好大德疯",
@@ -14,6 +14,7 @@
   "description": "简介逆天",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/765d4a38-717d-4193-9e66-a13db19cafec",
+  "hidden": false,
   "id": 47532,
   "illustration": "https://phira.5wyxi.com/files/a01b71f3-d32e-45e9-8522-c7ca118558e4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "命に嫌われている",
   "preview": "https://phira.5wyxi.com/files/1a5f6bbf-21d9-48d3-8229-7bd6eeef6b69",
   "ranked": false,
-  "rating": 0.9448098,
-  "ratingCount": 1033,
+  "rating": 0.9460493,
+  "ratingCount": 1115,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

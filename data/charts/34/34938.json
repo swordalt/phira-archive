@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:10Z",
-    "lastChanged": "2026-09-21T02:06:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-08T07:52:19.029155Z",
   "charter": "FancyDar",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/c04cce00-3c4c-4c30-a60f-10ac04bbabeb",
+  "hidden": false,
   "id": 34938,
   "illustration": "https://phira.5wyxi.com/files/ec1c0a26-93fe-46dc-9cb7-e8dfa6db8eb8",
   "illustrator": "",

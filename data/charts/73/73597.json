@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:09Z",
-    "lastChanged": "2026-09-21T02:05:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-15T16:04:45.389260Z",
   "charter": "MornStar a.k.a MeSSive",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.900003,
   "file": "https://phira.5wyxi.com/files/2341420a-2236-418b-a616-b95730d8ad04",
+  "hidden": false,
   "id": 73597,
   "illustration": "https://phira.5wyxi.com/files/53aaf9eb-d5fa-4869-a810-556a6d1dc727",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Melodiniq",
   "preview": "https://phira.5wyxi.com/files/0c52ff26-fa78-41c1-bf70-c6e177e1ae77",
   "ranked": false,
-  "rating": 0.8255542,
-  "ratingCount": 39,
+  "rating": 0.82350445,
+  "ratingCount": 47,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

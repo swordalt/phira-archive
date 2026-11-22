@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:36Z",
-    "lastChanged": "2026-09-21T02:02:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-22T15:45:54.200697Z",
   "charter": "提米SaMa",
@@ -14,6 +14,7 @@
   "description": "比较烂",
   "difficulty": 15.900001,
   "file": "https://phira.5wyxi.com/files/7bae9cce-4593-4466-b628-8671bc34bbbb",
+  "hidden": false,
   "id": 26716,
   "illustration": "https://phira.5wyxi.com/files/864e01f5-d8b4-4124-9034-bca79097aa11",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "退廃的人生讃歌",
   "preview": "https://phira.5wyxi.com/files/542daaf9-d500-40f0-b5c1-4d62204ea531",
   "ranked": false,
-  "rating": 0.8904891,
-  "ratingCount": 474,
+  "rating": 0.88869876,
+  "ratingCount": 489,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

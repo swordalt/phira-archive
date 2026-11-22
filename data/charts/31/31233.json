@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:53Z",
-    "lastChanged": "2026-09-21T02:02:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-30T18:03:49.636095Z",
   "charter": "Auknifish",
@@ -14,6 +14,7 @@
   "description": "摸鱼做的谱子",
   "difficulty": 13.200001,
   "file": "https://phira.5wyxi.com/files/e04d14be-bed8-4c92-b06d-03545820621b",
+  "hidden": false,
   "id": 31233,
   "illustration": "https://phira.5wyxi.com/files/27037eb6-330e-4c7c-b57b-c18dc0415890",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Midnight Trip",
   "preview": "https://phira.5wyxi.com/files/d7da98fb-3a5c-49da-8ba7-0ee3e839b1c9",
   "ranked": false,
-  "rating": 0.94248813,
-  "ratingCount": 580,
+  "rating": 0.93994784,
+  "ratingCount": 598,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

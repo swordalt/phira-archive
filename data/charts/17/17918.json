@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:06Z",
-    "lastChanged": "2026-09-21T02:02:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-01T14:01:34.886039Z",
   "charter": "弭儿酱",
@@ -14,6 +14,7 @@
   "description": "@皮卡的柠檬，是本人上传",
   "difficulty": 14.9,
   "file": "https://phira.5wyxi.com/files/a4c52a0d-91a1-4390-9bc0-a38704ff0c77",
+  "hidden": false,
   "id": 17918,
   "illustration": "https://phira.5wyxi.com/files/ba2733c6-50d9-471c-ab3a-708f99f907ba",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Causality Festival",
   "preview": "https://phira.5wyxi.com/files/b6f0aab1-68ef-4bc0-b4a2-738a2ed9fd13",
   "ranked": false,
-  "rating": 0.83811885,
-  "ratingCount": 14,
+  "rating": 0.8490338,
+  "ratingCount": 16,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

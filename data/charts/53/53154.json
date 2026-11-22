@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:24Z",
-    "lastChanged": "2026-09-21T02:04:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:32Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-22T01:35:37.398316Z",
   "charter": "Wassupt",
@@ -14,6 +14,7 @@
   "description": "新人第一次写谱\n谢谢大家游玩",
   "difficulty": 13.600002,
   "file": "https://phira.5wyxi.com/files/d9bab6d5-9e4e-41b1-8732-1bc0ea6f7392",
+  "hidden": false,
   "id": 53154,
   "illustration": "https://phira.5wyxi.com/files/fe542d6b-2786-4d3f-bf71-2c0d58a1328c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dusk Till Dawn",
   "preview": "https://phira.5wyxi.com/files/45229ab3-150d-4b3c-bc8c-7951a05afb0f",
   "ranked": false,
-  "rating": 0.93518114,
-  "ratingCount": 126,
+  "rating": 0.9336018,
+  "ratingCount": 127,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

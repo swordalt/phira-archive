@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:39Z",
-    "lastChanged": "2026-09-21T02:05:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-31T13:15:57.617471Z",
   "charter": "778路公交车方向张江地铁站",
@@ -14,6 +14,7 @@
   "description": "新人的第一张4k谱面，祝大家2024元旦快乐。",
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/954cb5a9-84c5-49b1-b505-52d13b45e4f8",
+  "hidden": false,
   "id": 13081,
   "illustration": "https://phira.5wyxi.com/files/6c1b9523-db52-4867-9b28-6ea165078584",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Euphoria",
   "preview": "https://phira.5wyxi.com/files/f3eb1a89-d51a-4789-bb3c-45e5724f0447",
   "ranked": false,
-  "rating": 0.92801964,
-  "ratingCount": 490,
+  "rating": 0.92952543,
+  "ratingCount": 492,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

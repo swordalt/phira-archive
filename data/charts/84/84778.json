@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-11-22T11:09:37Z",
-    "lastChanged": "2026-11-22T11:09:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-21T23:00:10.564546Z",
   "charter": "DFC_TEAM",
@@ -23,7 +23,7 @@
   "preview": "https://phira.5wyxi.com/files/5ad629e9-38c1-44e5-a0ec-4d8eefbdc292",
   "ranked": false,
   "rating": 0.7482895,
-  "ratingCount": 1,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -35,6 +35,6 @@
     "Tea",
     "plain"
   ],
-  "updated": "2026-11-22T09:38:05.646169Z",
+  "updated": "2026-11-22T09:38:05.646169881Z",
   "uploader": 737822
 }

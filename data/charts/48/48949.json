@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:32Z",
-    "lastChanged": "2026-09-21T02:05:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-09T12:50:12.666352Z",
   "charter": "5071",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n我觉得是神谱",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/ed3ef54f-3431-4e1e-8f09-993220d4401a",
+  "hidden": false,
   "id": 48949,
   "illustration": "https://phira.5wyxi.com/files/9b7c0554-2423-4107-afb5-d26580253f4b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "RENDA JOCEKY",
   "preview": "https://phira.5wyxi.com/files/c28bebef-42db-47d1-b18f-ee72e73497a0",
   "ranked": false,
-  "rating": 0.89426446,
-  "ratingCount": 641,
+  "rating": 0.8932151,
+  "ratingCount": 664,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

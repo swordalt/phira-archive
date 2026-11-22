@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:48Z",
-    "lastChanged": "2026-09-21T02:03:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-30T06:23:17.221973Z",
   "charter": "WSSB_SBX",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/0d5c430e-dd3a-4c6c-95e3-753e16ec8acd",
+  "hidden": false,
   "id": 46120,
   "illustration": "https://phira.5wyxi.com/files/4abfec99-e33a-4101-8518-cddabb331acf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "M.O.P.E.-333",
   "preview": "https://phira.5wyxi.com/files/39a9c4ac-077b-4fe6-8382-15548e259bf7",
   "ranked": false,
-  "rating": 0.72470635,
-  "ratingCount": 532,
+  "rating": 0.7215347,
+  "ratingCount": 554,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

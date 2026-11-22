@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-09-21T02:06:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-15T02:59:09.755505Z",
   "charter": "是狐狸不是猫",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 25.0,
   "file": "https://phira.5wyxi.com/files/25e78374-72c0-44c5-987b-b576be823cc3",
+  "hidden": false,
   "id": 36591,
   "illustration": "https://phira.5wyxi.com/files/a0d97f39-526e-444f-83f0-87d1d5bee664",
   "illustrator": "",

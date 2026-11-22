@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:58Z",
-    "lastChanged": "2026-09-21T02:06:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-19T09:12:23.316312Z",
   "charter": "3522328",
@@ -14,6 +14,7 @@
   "description": "本人上传\n不速写初稿",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/061d7aca-cf98-4045-951b-00f1610661ca",
+  "hidden": false,
   "id": 67709,
   "illustration": "https://phira.5wyxi.com/files/6284c2de-5cb5-4531-b767-c32e22b2ec4f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Infinity Heaven",
   "preview": "https://phira.5wyxi.com/files/05f27d5b-eebb-43d5-be4a-0272580168fb",
   "ranked": false,
-  "rating": 0.91676134,
-  "ratingCount": 36,
+  "rating": 0.9150903,
+  "ratingCount": 43,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

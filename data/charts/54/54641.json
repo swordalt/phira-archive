@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:31Z",
-    "lastChanged": "2026-09-21T02:04:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-28T04:54:43.189416Z",
   "charter": "dfq-hmmm",
@@ -14,6 +14,7 @@
   "description": "新人二谱，谱师本人上传，B站：dfq-hmmm\n只截取了歌曲的一半，后面部分有些许重复\n谱面部分学习白复生（）\n物量：554\n事件：3092\nBPM：168",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/a5851ef6-89fb-4c19-a008-bb625956118a",
+  "hidden": false,
   "id": 54641,
   "illustration": "https://phira.5wyxi.com/files/2ff64366-11cd-4ec1-b4dd-abb93f54a56b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "In The Wind And In Time",
   "preview": "https://phira.5wyxi.com/files/e81b519e-75b0-470e-a04d-5b52152d6b32",
   "ranked": false,
-  "rating": 0.85305053,
-  "ratingCount": 29,
+  "rating": 0.868967,
+  "ratingCount": 32,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

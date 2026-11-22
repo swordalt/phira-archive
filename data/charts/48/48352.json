@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:58Z",
-    "lastChanged": "2026-09-21T02:03:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-24T20:48:42.170744Z",
   "charter": "Mortis",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/cfba129b-9e7b-44d1-908a-91e234a2d5b1",
+  "hidden": false,
   "id": 48352,
   "illustration": "https://phira.5wyxi.com/files/1bc27a9a-7160-4d26-824b-ee7168119b20",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Life is PIANO",
   "preview": "https://phira.5wyxi.com/files/b1473e05-2c6a-4f72-8312-aeb2b5f90b46",
   "ranked": false,
-  "rating": 0.95240563,
-  "ratingCount": 1117,
+  "rating": 0.952525,
+  "ratingCount": 1165,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

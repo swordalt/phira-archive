@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:42Z",
-    "lastChanged": "2026-09-21T02:05:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-12T11:16:38.604190Z",
   "charter": "Lipcu",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/d4388dce-5204-460a-bcae-1bae7b1378ed",
+  "hidden": false,
   "id": 15483,
   "illustration": "https://phira.5wyxi.com/files/257f3286-11f3-4a51-9a7c-d5580206681a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "First Town Of This Journey",
   "preview": "https://phira.5wyxi.com/files/4a98efed-1458-4e55-8959-4d9dc551cdc2",
   "ranked": false,
-  "rating": 0.9172957,
-  "ratingCount": 136,
+  "rating": 0.91777056,
+  "ratingCount": 138,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

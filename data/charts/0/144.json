@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:04Z",
-    "lastChanged": "2026-09-21T02:01:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-01T07:40:04.963713Z",
   "charter": "H1-u8617",
@@ -14,6 +14,7 @@
   "description": "押题重置 b站账号同名 录制手元及其他二创时请@谱师并尽量指路谱面预览 【【Phigros自制/考前押题但是重置】某刻 梦境迎来终结/Re：End of a Dream IN Lv.15/双指-哔哩哔哩】 https://b23.tv/HzwaKRh",
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/d38a9cde-820c-43c4-a7b8-1a2d76e537b3",
+  "hidden": false,
   "id": 144,
   "illustration": "https://phira.5wyxi.com/files/4960f942-3c3f-4782-995e-ff0f632749c9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Re：End of a Dream",
   "preview": "https://phira.5wyxi.com/files/f1f4ec81-e664-461c-9e1a-730504e8537c",
   "ranked": false,
-  "rating": 0.84799397,
-  "ratingCount": 1436,
+  "rating": 0.84752285,
+  "ratingCount": 1449,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

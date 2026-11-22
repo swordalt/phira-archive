@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-10-12T10:38:14Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:01:21Z",
+    "revisions": 4
   },
   "chartUpdated": "2025-03-28T02:24:39.860054Z",
   "charter": "Black City",
@@ -14,6 +14,7 @@
   "description": "本人上传\n262/926，97.76%\n感谢游玩喵",
   "difficulty": 10.400001,
   "file": "https://phira.5wyxi.com/files/0d28633f-3e8e-458d-bdfc-cc6aea861f81",
+  "hidden": false,
   "id": 35764,
   "illustration": "https://phira.5wyxi.com/files/190d4d25-b000-488d-9cbc-442732c474a5",
   "illustrator": "Maimai",
@@ -21,8 +22,8 @@
   "name": "Black Out",
   "preview": "https://phira.5wyxi.com/files/ac317158-0ba2-4a43-a34c-3cc930acd83d",
   "ranked": false,
-  "rating": 0.9639969,
-  "ratingCount": 269,
+  "rating": 0.96482766,
+  "ratingCount": 295,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

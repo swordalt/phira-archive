@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:13Z",
-    "lastChanged": "2026-09-21T02:02:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-22T08:22:18.373153Z",
   "charter": "3e as \"Xrdirwav\"",
@@ -14,6 +14,7 @@
   "description": "https://www.bilibili.com/video/BV1Tx4y1W7tr/\n谱师名义X3wave",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/c2d7fbe8-32c3-4278-9b4e-2abdad21bfbe",
+  "hidden": false,
   "id": 19993,
   "illustration": "https://phira.5wyxi.com/files/1e200c40-7a29-443f-8049-270fd7d1b9c4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ordirehv",
   "preview": "https://phira.5wyxi.com/files/818d9934-bd6d-4bac-ba9e-0d3d621defb3",
   "ranked": false,
-  "rating": 0.87896794,
-  "ratingCount": 399,
+  "rating": 0.8785095,
+  "ratingCount": 403,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

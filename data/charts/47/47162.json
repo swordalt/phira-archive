@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:36Z",
-    "lastChanged": "2026-09-21T02:06:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-24T12:06:13.927494Z",
   "charter": "北极星的祝福",
@@ -14,6 +14,7 @@
   "description": "就当是瞎写的吧",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/2f37109d-511d-434e-a270-2e86e604ef0b",
+  "hidden": false,
   "id": 47162,
   "illustration": "https://phira.5wyxi.com/files/0a6b5b0c-a136-4e75-afe6-3c1d8999e9cf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "大月墜落狂想",
   "preview": "https://phira.5wyxi.com/files/e03310a9-5584-4efe-86aa-7537918098fc",
   "ranked": false,
-  "rating": 0.9397416,
-  "ratingCount": 192,
+  "rating": 0.94054216,
+  "ratingCount": 201,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

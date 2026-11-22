@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:59Z",
-    "lastChanged": "2026-09-21T02:05:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-15T16:44:57.988227Z",
   "charter": "woxianbaile",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/4b7dd42f-27e7-4e3c-b550-7fef1ce7d423",
+  "hidden": false,
   "id": 26352,
   "illustration": "https://phira.5wyxi.com/files/6a520d3e-d0d1-4317-b853-5f6300005e1f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Roars of V.E.N.G.E.A.N.C.E. -Take Back Everything-",
   "preview": "https://phira.5wyxi.com/files/25460eab-ed6a-4496-a7b0-e9c7aacd0ba1",
   "ranked": false,
-  "rating": 0.93448496,
-  "ratingCount": 79,
+  "rating": 0.93527234,
+  "ratingCount": 80,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

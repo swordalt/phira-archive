@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:47Z",
-    "lastChanged": "2026-09-21T02:03:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-29T03:36:32.903800Z",
   "charter": "小9鸟",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 2.0,
   "file": "https://phira.5wyxi.com/files/aaaa04b9-3ead-4a3c-95db-6cef60ad528b",
+  "hidden": false,
   "id": 45983,
   "illustration": "https://phira.5wyxi.com/files/221d03f8-56ab-441b-aa6c-4959b462621c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bio-Engineering",
   "preview": "https://phira.5wyxi.com/files/8f2aa593-31cd-4c5f-aeaf-87ed09f5c434",
   "ranked": false,
-  "rating": 0.86809665,
-  "ratingCount": 83,
+  "rating": 0.8705699,
+  "ratingCount": 89,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

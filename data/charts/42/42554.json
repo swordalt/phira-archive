@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:32Z",
-    "lastChanged": "2026-09-21T02:03:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-23T15:37:08.789707Z",
   "charter": "sJDeviko",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.900003,
   "file": "https://phira.5wyxi.com/files/b7660513-93c0-42b1-a56c-3d7c36cd6cf9",
+  "hidden": false,
   "id": 42554,
   "illustration": "https://phira.5wyxi.com/files/d25360c8-18b0-476b-9107-3c5f249211ef",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Party",
   "preview": "https://phira.5wyxi.com/files/5ad51cef-4b38-42cd-8b16-20e6660f84ca",
   "ranked": false,
-  "rating": 0.6945802,
-  "ratingCount": 15,
+  "rating": 0.69970155,
+  "ratingCount": 16,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

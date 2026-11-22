@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:11Z",
-    "lastChanged": "2026-09-21T02:04:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-02T13:58:15.682107Z",
   "charter": "金枪鱼 × NULLData",
@@ -14,6 +14,7 @@
   "description": "物量2107｜事件1.37w｜难度18.0（17.1）｜时长161.5s\n合作修改，感谢游玩。",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/466b20ca-f6df-4b1f-bceb-c1bb6a4c652c",
+  "hidden": false,
   "id": 50888,
   "illustration": "https://phira.5wyxi.com/files/a991b9b3-8a43-4716-8bd7-5b261871e468",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "raputa",
   "preview": "https://phira.5wyxi.com/files/e80b9841-ed03-4bdb-a988-051d7fc722cd",
   "ranked": false,
-  "rating": 0.82443446,
-  "ratingCount": 192,
+  "rating": 0.82527417,
+  "ratingCount": 204,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

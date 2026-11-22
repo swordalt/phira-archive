@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:21Z",
-    "lastChanged": "2026-09-21T02:02:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-05T02:17:00.827078Z",
   "charter": "XanoYu",
@@ -14,6 +14,7 @@
   "description": "新人初铺，有待锐评\n修改1（2024.7.14）判定线下移，物量663→666\n修改2（2025.1.1）谱面重做，物量不变",
   "difficulty": 13.800001,
   "file": "https://phira.5wyxi.com/files/476ec694-1129-476f-a61e-1dffba297bdf",
+  "hidden": false,
   "id": 23219,
   "illustration": "https://phira.5wyxi.com/files/c32cc070-2ed3-4789-b25f-8856414a1cf5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "机械动力",
   "preview": "https://phira.5wyxi.com/files/3fe959a6-e7bb-410d-9418-0032b8a549d9",
   "ranked": false,
-  "rating": 0.87955916,
-  "ratingCount": 333,
+  "rating": 0.87948555,
+  "ratingCount": 336,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

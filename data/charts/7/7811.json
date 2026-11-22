@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:36Z",
-    "lastChanged": "2026-09-21T02:05:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-17T08:54:00.237629Z",
   "charter": "kgdj",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/d68cd44b-9e4b-4ffc-9ca7-8b2f1fa13f23",
+  "hidden": false,
   "id": 7811,
   "illustration": "https://phira.5wyxi.com/files/f011a484-d586-47cb-bd4e-82e1882834bd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "attack of the Killer Queen",
   "preview": "https://phira.5wyxi.com/files/e4fbacca-f02f-4f65-91e5-dafe04d372da",
   "ranked": false,
-  "rating": 0.88964874,
-  "ratingCount": 235,
+  "rating": 0.89011544,
+  "ratingCount": 236,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

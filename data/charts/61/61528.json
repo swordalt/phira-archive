@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:49Z",
-    "lastChanged": "2026-09-21T02:04:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-19T12:51:19.102176Z",
   "charter": "light_down",
@@ -14,6 +14,7 @@
   "description": "新人初谱，大部分配置已改",
   "difficulty": 15.8,
   "file": "https://phira.5wyxi.com/files/384d0b76-c51a-4882-8b4c-035948c79fdc",
+  "hidden": false,
   "id": 61528,
   "illustration": "https://phira.5wyxi.com/files/e98d7a85-ce74-44de-9b97-a326f8ced9a3",
   "illustrator": "",

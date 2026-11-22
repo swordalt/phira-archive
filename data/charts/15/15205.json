@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:55Z",
-    "lastChanged": "2026-09-21T02:01:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-09T23:45:13.905057Z",
   "charter": "trios",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/ba632b81-6e9a-4a58-92b7-982725a22596",
+  "hidden": false,
   "id": 15205,
   "illustration": "https://phira.5wyxi.com/files/42b732ec-9732-4a46-8c91-9eeaaf3ca400",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Wolves Standing Towards Enemies",
   "preview": "https://phira.5wyxi.com/files/3352a190-73cb-4e11-bb79-6f2bd7cb4903",
   "ranked": false,
-  "rating": 0.8921577,
-  "ratingCount": 588,
+  "rating": 0.89224046,
+  "ratingCount": 593,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

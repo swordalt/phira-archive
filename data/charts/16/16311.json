@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:00Z",
-    "lastChanged": "2026-09-21T02:02:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-22T15:11:00.761464Z",
   "charter": "LB_",
@@ -14,6 +14,7 @@
   "description": "Self-Making ",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/1e582121-1661-4f98-ba60-87f2a9b9bd5c",
+  "hidden": false,
   "id": 16311,
   "illustration": "https://phira.5wyxi.com/files/202b0a71-6189-4d61-9480-31cc6ce9d671",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Cryout",
   "preview": "https://phira.5wyxi.com/files/77651b47-f296-4e50-b5e9-d7163808ad29",
   "ranked": false,
-  "rating": 0.80734247,
-  "ratingCount": 526,
+  "rating": 0.80771303,
+  "ratingCount": 527,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

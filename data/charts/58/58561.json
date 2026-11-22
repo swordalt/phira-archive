@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:42Z",
-    "lastChanged": "2026-09-21T02:04:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-17T05:38:19.914908Z",
   "charter": "KouKona",
@@ -14,6 +14,7 @@
   "description": "b站：KouKona_K\n我写过的真正意义上的愚人节，里面的特殊玩法我都有引导，玩家可以多琢磨琢磨。我认为这是我写过挺好玩的一张谱了",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/4f931107-21fa-4fb9-8762-129d223ea70f",
+  "hidden": false,
   "id": 58561,
   "illustration": "https://phira.5wyxi.com/files/57a3985f-51be-40dc-927c-e2cf4c3e507c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Football",
   "preview": "https://phira.5wyxi.com/files/7e7d7c65-5c4b-49cb-8a69-07ba21e135bb",
   "ranked": false,
-  "rating": 0.79422843,
-  "ratingCount": 180,
+  "rating": 0.7937555,
+  "ratingCount": 186,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

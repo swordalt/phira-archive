@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:04Z",
-    "lastChanged": "2026-09-21T02:06:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-22T15:59:07.915917Z",
   "charter": "VANDY",
@@ -14,6 +14,7 @@
   "description": "reg10左右",
   "difficulty": 35.0,
   "file": "https://phira.5wyxi.com/files/483f72e9-d4b0-4ee1-bbf4-17811dd09329",
+  "hidden": false,
   "id": 29957,
   "illustration": "https://phira.5wyxi.com/files/326b3f8c-271c-4be2-8b39-c28576885b0f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Mountain Eater",
   "preview": "https://phira.5wyxi.com/files/169d695c-9cfc-42de-ab78-9390a5fb172f",
   "ranked": false,
-  "rating": 0.924728,
-  "ratingCount": 128,
+  "rating": 0.92637926,
+  "ratingCount": 136,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

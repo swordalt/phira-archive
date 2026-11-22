@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:19Z",
-    "lastChanged": "2026-09-21T02:06:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-27T07:47:54.477707Z",
   "charter": "糊糊_hu",
@@ -14,6 +14,7 @@
   "description": "170bpm切，难度6～7dan。谱师本人上传",
   "difficulty": 28.0,
   "file": "https://phira.5wyxi.com/files/0d09cf5e-b686-44e3-af13-460970b8f2dd",
+  "hidden": false,
   "id": 40326,
   "illustration": "https://phira.5wyxi.com/files/0e440396-c873-4d80-a2c1-65ac52d9c8cc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Angel dust",
   "preview": "https://phira.5wyxi.com/files/94229f07-b862-49cd-9a31-cff78cd5076e",
   "ranked": false,
-  "rating": 0.91771585,
-  "ratingCount": 162,
+  "rating": 0.9191306,
+  "ratingCount": 172,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

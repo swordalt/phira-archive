@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:03Z",
-    "lastChanged": "2026-09-21T02:04:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-22T12:54:31.555928Z",
   "charter": "独身貴族",
@@ -14,6 +14,7 @@
   "description": "本人上传(囃狼)",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/e819a898-17e7-475f-a19f-651251dfa9cf",
+  "hidden": false,
   "id": 49398,
   "illustration": "https://phira.5wyxi.com/files/fb17109c-8490-4b85-846a-1c14157e5736",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "孤独に生きる者",
   "preview": "https://phira.5wyxi.com/files/c1606649-ded9-4c91-8a41-05ac12d66e99",
   "ranked": true,
-  "rating": 0.83519787,
-  "ratingCount": 1532,
+  "rating": 0.8342011,
+  "ratingCount": 1655,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

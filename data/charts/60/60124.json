@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:45Z",
-    "lastChanged": "2026-09-21T02:04:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-06T12:08:50.813651Z",
   "charter": "raiN_mare",
@@ -14,6 +14,7 @@
   "description": "二铺，作者b站同名，若能给出您的建议，不胜感谢",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/89ed5f47-a2b2-4f4c-8556-05cc3fd295be",
+  "hidden": false,
   "id": 60124,
   "illustration": "https://phira.5wyxi.com/files/c4684738-ec76-4d53-bc67-7ff0c40fc4c9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Komorebi",
   "preview": "https://phira.5wyxi.com/files/73cdcd61-cf61-4a1b-9f2f-de7e50fe4cf8",
   "ranked": false,
-  "rating": 0.91005784,
-  "ratingCount": 3225,
+  "rating": 0.91158754,
+  "ratingCount": 3452,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

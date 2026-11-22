@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:20Z",
-    "lastChanged": "2026-09-21T02:04:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-07T11:14:14.415302Z",
   "charter": "NOVA・126",
@@ -14,6 +14,7 @@
   "description": "修复一处采音错误和判定线错位\n新人第三张常规谱，第一张比赛供谱，第一张键盘谱。\n谱面预览会发布到b站\n尽力写难了，还是有点放不开QwQ",
   "difficulty": 18.1,
   "file": "https://phira.5wyxi.com/files/61d84ed3-7bd8-4338-9f48-08b9d4a7a53a",
+  "hidden": false,
   "id": 52541,
   "illustration": "https://phira.5wyxi.com/files/76c449e3-dd94-49b6-8159-223323531ab7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "超ナイト・オブ・ナイツ",
   "preview": "https://phira.5wyxi.com/files/10d82ac7-55e8-4d1d-b04e-5f4fc490794f",
   "ranked": false,
-  "rating": 0.9278188,
-  "ratingCount": 428,
+  "rating": 0.927245,
+  "ratingCount": 440,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:18Z",
-    "lastChanged": "2026-09-21T02:03:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-20T14:16:00.502821Z",
   "charter": "...",
@@ -14,6 +14,7 @@
   "description": "本人上传\n第二张谱，，，",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/74a84e31-b126-470c-8912-0aa2e05a33dd",
+  "hidden": false,
   "id": 38413,
   "illustration": "https://phira.5wyxi.com/files/bcda44ea-41f8-45b9-be28-eb28b1f81062",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Pagoda",
   "preview": "https://phira.5wyxi.com/files/ff98a561-b92c-49e2-a7f0-667ff89ac901",
   "ranked": false,
-  "rating": 0.9293376,
-  "ratingCount": 207,
+  "rating": 0.92995447,
+  "ratingCount": 215,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

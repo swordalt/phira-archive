@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:00Z",
-    "lastChanged": "2026-09-21T02:03:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-29T20:23:43.901911Z",
   "charter": "冬、",
@@ -14,6 +14,7 @@
   "description": "第一次写谱，想法难现，没赶上春晚QwQ\nBili UID:523237742",
   "difficulty": 14.900006,
   "file": "https://phira.5wyxi.com/files/abdc1b28-b27f-48ab-b5bc-45b47b10ac4e",
+  "hidden": false,
   "id": 32847,
   "illustration": "https://phira.5wyxi.com/files/0da3766e-ce8c-402c-bcd3-b2730a4eacf6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "小动物之星主题曲",
   "preview": "https://phira.5wyxi.com/files/e8624a1c-34b1-4811-99c1-aeed64e97c50",
   "ranked": false,
-  "rating": 0.7474165,
-  "ratingCount": 72,
+  "rating": 0.7494227,
+  "ratingCount": 73,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

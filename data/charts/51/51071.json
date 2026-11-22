@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:11Z",
-    "lastChanged": "2026-09-21T02:04:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-08T05:30:35.711607Z",
   "charter": "euphoriccribby",
@@ -14,6 +14,7 @@
   "description": "(EN) Slow Damage Opening Theme full ver\ncharted by sadcribby\nrecommend playing in 16:9",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/08b7da6f-2aa0-4e66-9c65-392dc40a4eb2",
+  "hidden": false,
   "id": 51071,
   "illustration": "https://phira.5wyxi.com/files/a856eec7-1d8f-44b5-b0d5-0a6d1525f8d8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "il",
   "preview": "https://phira.5wyxi.com/files/fd0488da-5bd3-4123-8581-175e973213b5",
   "ranked": false,
-  "rating": 0.9217946,
-  "ratingCount": 195,
+  "rating": 0.92200357,
+  "ratingCount": 203,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:02Z",
-    "lastChanged": "2026-09-21T02:03:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-04T01:49:36.989232Z",
   "charter": "煎饼 vs.suik",
@@ -14,6 +14,7 @@
   "description": "BV1b7FLe2EbX\n合作谱，经协商，由本人上传\n\n",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/9b76784d-e580-4b3f-87be-0429eb98f94f",
+  "hidden": false,
   "id": 33228,
   "illustration": "https://phira.5wyxi.com/files/eeb7244d-9baf-46f6-a64d-06ca0469ec78",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "影缝",
   "preview": "https://phira.5wyxi.com/files/ce95a39d-7f82-4720-ae79-852ed84d22e6",
   "ranked": false,
-  "rating": 0.8685963,
-  "ratingCount": 74,
+  "rating": 0.86830413,
+  "ratingCount": 73,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

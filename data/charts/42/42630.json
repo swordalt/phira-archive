@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:32Z",
-    "lastChanged": "2026-09-21T02:03:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-24T14:48:59.422844Z",
   "charter": "电玩 & 芝麻糊",
@@ -14,6 +14,7 @@
   "description": "Nothing",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/f9e8578b-ffe9-4745-979e-d2acbc92024a",
+  "hidden": false,
   "id": 42630,
   "illustration": "https://phira.5wyxi.com/files/7230c0ee-002f-42cc-baeb-7cac4043cadf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "电子迷宫",
   "preview": "https://phira.5wyxi.com/files/445a54b7-a2f9-4b7c-8198-893108f21c90",
   "ranked": false,
-  "rating": 0.8928797,
-  "ratingCount": 544,
+  "rating": 0.89175546,
+  "ratingCount": 564,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

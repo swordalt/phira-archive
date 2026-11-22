@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:38Z",
-    "lastChanged": "2026-09-21T02:03:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-08T14:31:44.004669Z",
   "charter": "SoulBreaker",
@@ -14,6 +14,7 @@
   "description": "曲师：Hinkik\n难度：IN15\n谱师：本人（SoulBreaker）\n\n前半部分是我一年多前写的，后半是最近半个月写的。我总感觉前面怪怪的，但又说不上来哪里怪。总之就是希望喜欢我的谱。",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/a890d16d-7a69-4a29-a88d-79204e1f331d",
+  "hidden": false,
   "id": 44068,
   "illustration": "https://phira.5wyxi.com/files/54a7b7d9-20cb-4f39-b802-531645ec0854",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "OutBreaker",
   "preview": "https://phira.5wyxi.com/files/94cd1fb6-533e-48df-a51e-625879a6ea1d",
   "ranked": false,
-  "rating": 0.9140587,
-  "ratingCount": 214,
+  "rating": 0.9134679,
+  "ratingCount": 217,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

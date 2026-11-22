@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:54Z",
-    "lastChanged": "2026-09-21T02:04:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-02T03:39:58.288444Z",
   "charter": "...",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/61e2b3dc-554d-45f0-a35a-8a429962f66a",
+  "hidden": false,
   "id": 63560,
   "illustration": "https://phira.5wyxi.com/files/9adea90e-7572-44f4-9172-951602dce26a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "SABE QUEBRAR",
   "preview": "https://phira.5wyxi.com/files/3f5a4901-35cd-4e8a-ab2d-6bee3ef271ff",
   "ranked": false,
-  "rating": 0.910299,
-  "ratingCount": 1211,
+  "rating": 0.9117522,
+  "ratingCount": 1258,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

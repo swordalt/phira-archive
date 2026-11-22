@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:43Z",
-    "lastChanged": "2026-09-21T02:06:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-22T11:22:42.607678Z",
   "charter": "-WuyuP-",
@@ -14,6 +14,7 @@
   "description": "创新双指谱，WuyuP的创意",
   "difficulty": 15.900001,
   "file": "https://phira.5wyxi.com/files/8ff1b637-38da-4c45-9d3b-c3dc5a22d7b8",
+  "hidden": false,
   "id": 50484,
   "illustration": "https://phira.5wyxi.com/files/dd37ddc1-4d45-42ba-865c-bc56f22bd65e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "8th:Planet ~Re:search~",
   "preview": "https://phira.5wyxi.com/files/1349bd91-b82d-4a05-b3de-5ddea6955845",
   "ranked": false,
-  "rating": 0.9317538,
-  "ratingCount": 43,
+  "rating": 0.9331772,
+  "ratingCount": 44,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

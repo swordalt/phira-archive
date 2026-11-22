@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:02Z",
-    "lastChanged": "2026-09-21T02:05:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-26T05:21:13.595956Z",
   "charter": "Aksiar_Salt in 7sRef",
@@ -14,6 +14,7 @@
   "description": "本人上传，b站名称与Phira用户名同名。这次写了点创谱，祝各位玩得开心喵",
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/0d338cfb-e103-4ac3-9ea7-ce5aa87c6fa1",
+  "hidden": false,
   "id": 69259,
   "illustration": "https://phira.5wyxi.com/files/f776c5dd-fe18-4d11-9de8-d1f9c03973ee",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "砂の函",
   "preview": "https://phira.5wyxi.com/files/d73fc6d9-2ccd-4987-b138-7df9e49f4d3f",
   "ranked": false,
-  "rating": 0.87438035,
-  "ratingCount": 88,
+  "rating": 0.8667074,
+  "ratingCount": 91,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

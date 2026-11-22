@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:13Z",
-    "lastChanged": "2026-09-21T02:04:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-20T15:56:40.830245Z",
   "charter": "Cloudちゃんとhomeちゃんのおつかい合騒曲",
@@ -14,6 +14,7 @@
   "description": "本人创作，本人上传，谱师名为马甲",
   "difficulty": 17.800001,
   "file": "https://phira.5wyxi.com/files/42b65e3d-3386-4ddc-b74f-4e1fda4b7282",
+  "hidden": false,
   "id": 51445,
   "illustration": "https://phira.5wyxi.com/files/70fa7134-7e1b-43b4-a118-cfb01d545362",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "星界ちゃんと可不ちゃんのおつかい合騒曲",
   "preview": "https://phira.5wyxi.com/files/14e7d318-d9aa-41d2-99ac-eeb36c81b076",
   "ranked": false,
-  "rating": 0.8685688,
-  "ratingCount": 351,
+  "rating": 0.877321,
+  "ratingCount": 371,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

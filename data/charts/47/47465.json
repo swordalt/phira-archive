@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:54Z",
-    "lastChanged": "2026-09-21T02:03:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-02T03:29:47.584194Z",
   "charter": "mian813",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.1,
   "file": "https://phira.5wyxi.com/files/88ab26f7-0bc5-4d26-83d4-1a6d9b8d1ccc",
+  "hidden": false,
   "id": 47465,
   "illustration": "https://phira.5wyxi.com/files/31da7e56-32c5-4f7a-8d42-cf15a7111e59",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "渚",
   "preview": "https://phira.5wyxi.com/files/4e157080-7a1e-4f4a-bdad-95de8fa1ba00",
   "ranked": false,
-  "rating": 0.93669707,
-  "ratingCount": 1014,
+  "rating": 0.9371414,
+  "ratingCount": 1119,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

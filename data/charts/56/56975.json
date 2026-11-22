@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:50Z",
-    "lastChanged": "2026-09-21T02:06:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-24T05:53:27.082663Z",
   "charter": "辰旭",
@@ -14,6 +14,7 @@
   "description": "一h速写谱\n觉得好听就写了\n本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/dcf25440-89a0-4a10-8100-8f5accc8dd29",
+  "hidden": false,
   "id": 56975,
   "illustration": "https://phira.5wyxi.com/files/bf14dc43-932b-46e4-bcd8-29cfd3f40c16",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Montagem pitty",
   "preview": "https://phira.5wyxi.com/files/1b47060f-bcf3-4076-a952-f19f1eb16261",
   "ranked": false,
-  "rating": 0.9416304,
-  "ratingCount": 627,
+  "rating": 0.9426427,
+  "ratingCount": 653,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

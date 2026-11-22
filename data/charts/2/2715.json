@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:13Z",
-    "lastChanged": "2026-09-21T02:01:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-28T14:15:43.915237Z",
   "charter": "ukjhjl",
@@ -14,6 +14,7 @@
   "description": "更新了曲绘作者“Zris”",
   "difficulty": 13.400002,
   "file": "https://phira.5wyxi.com/files/42397663-0dec-47fe-88e0-04eb5df4c605",
+  "hidden": false,
   "id": 2715,
   "illustration": "https://phira.5wyxi.com/files/e08cf48d-a78a-45d3-a504-f6a6cb953601",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "IN",
   "preview": "https://phira.5wyxi.com/files/0b0df362-17b8-4fe6-8511-818f64a8b9f0",
   "ranked": false,
-  "rating": 0.8207186,
-  "ratingCount": 123,
+  "rating": 0.8209658,
+  "ratingCount": 127,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

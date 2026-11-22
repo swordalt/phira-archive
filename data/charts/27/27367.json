@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:39Z",
-    "lastChanged": "2026-09-21T02:02:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-04T10:10:03.329013Z",
   "charter": "MillionMas",
@@ -14,6 +14,7 @@
   "description": "实验性写法，小心初见\nb站uid:401000322",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/93cd9685-5162-4a7d-a90d-cc89f336e1c5",
+  "hidden": false,
   "id": 27367,
   "illustration": "https://phira.5wyxi.com/files/7f0608cf-0c70-4fcb-842a-8f5476baf90d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "panopticon",
   "preview": "https://phira.5wyxi.com/files/6eb42cd0-3de4-4776-bf47-5019eeb3c814",
   "ranked": false,
-  "rating": 0.9297429,
-  "ratingCount": 84,
+  "rating": 0.92440575,
+  "ratingCount": 89,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

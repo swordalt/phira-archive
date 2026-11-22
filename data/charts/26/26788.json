@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:36Z",
-    "lastChanged": "2026-09-21T02:02:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-23T10:18:17.826454Z",
   "charter": "STaright",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.699999,
   "file": "https://phira.5wyxi.com/files/0c041031-ba11-4fb8-8032-b7162ea833ef",
+  "hidden": false,
   "id": 26788,
   "illustration": "https://phira.5wyxi.com/files/ac571a81-c086-4496-bfba-174d71c27a0b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "命日",
   "preview": "https://phira.5wyxi.com/files/d3e228ee-b5e6-403f-ae6c-35dffc6634a2",
   "ranked": false,
-  "rating": 0.8475939,
-  "ratingCount": 311,
+  "rating": 0.8433892,
+  "ratingCount": 322,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

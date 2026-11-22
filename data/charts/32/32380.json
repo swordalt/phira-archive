@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:58Z",
-    "lastChanged": "2026-09-21T02:02:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-24T15:10:19.691566Z",
   "charter": "TempX",
@@ -14,6 +14,7 @@
   "description": "4lines 774events in total\n谱面演示：BV1wYfpYdELM（由@南飞SouP39N代发）",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/fd58bf9d-77c7-4c46-94da-c78d4368a418",
+  "hidden": false,
   "id": 32380,
   "illustration": "https://phira.5wyxi.com/files/203c206b-95b1-41a0-abaf-4187d0239dab",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Oriens",
   "preview": "https://phira.5wyxi.com/files/de413deb-c2f2-4d84-a43f-0670476781f6",
   "ranked": false,
-  "rating": 0.9311669,
-  "ratingCount": 218,
+  "rating": 0.93148,
+  "ratingCount": 219,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

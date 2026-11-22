@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:51Z",
-    "lastChanged": "2026-09-21T02:04:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-25T13:45:00.558655Z",
   "charter": "Fiztin in the big light ball",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/f9c8b3b0-1139-4746-a5c0-eebdfe02c997",
+  "hidden": false,
   "id": 62425,
   "illustration": "https://phira.5wyxi.com/files/1359b06b-2974-4c48-863b-831271fb3ed2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MOBILYS",
   "preview": "https://phira.5wyxi.com/files/79ab2f78-456a-4925-91d1-3cb7acb22884",
   "ranked": false,
-  "rating": 0.83446944,
-  "ratingCount": 317,
+  "rating": 0.8392376,
+  "ratingCount": 342,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

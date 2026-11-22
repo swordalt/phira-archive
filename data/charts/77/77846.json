@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:04Z",
-    "lastChanged": "2026-09-21T02:07:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-12T07:34:14.326112Z",
   "charter": "guange喵",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/6d26f1d9-95d8-40df-b010-761f42936bac",
+  "hidden": false,
   "id": 77846,
   "illustration": "https://phira.5wyxi.com/files/c4836bb7-27df-4e5b-9926-fbb931b1ad9e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "起死開戦",
   "preview": "https://phira.5wyxi.com/files/7fd7ae33-79f4-49ed-bda6-f92a102637cf",
   "ranked": false,
-  "rating": 0.92033726,
-  "ratingCount": 69,
+  "rating": 0.95009476,
+  "ratingCount": 188,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:00Z",
-    "lastChanged": "2026-09-21T02:07:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-05T13:34:50.679991Z",
   "charter": "AURORÆCLIPSE.",
@@ -14,6 +14,7 @@
   "description": "Beyond Firmament Cup Tiebreaker #2",
   "difficulty": 18.000002,
   "file": "https://phira.5wyxi.com/files/4da7d72e-147f-4830-b758-cd163dd0d4ec",
+  "hidden": false,
   "id": 71475,
   "illustration": "https://phira.5wyxi.com/files/f09a4e6c-aa26-4ca1-be12-32bcbc569774",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fastest Crash",
   "preview": "https://phira.5wyxi.com/files/73ddc74c-9d03-41bd-bd41-0a41fb8a74b3",
   "ranked": false,
-  "rating": 0.96531165,
-  "ratingCount": 63,
+  "rating": 0.96695673,
+  "ratingCount": 72,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

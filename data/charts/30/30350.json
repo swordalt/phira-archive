@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:06Z",
-    "lastChanged": "2026-09-21T02:07:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-01T12:25:14.118606Z",
   "charter": "昶勣之光",
@@ -14,6 +14,7 @@
   "description": "本人初谱，可能会有点初见杀……",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/7fbbc755-6639-4915-9991-50754cb37a9c",
+  "hidden": false,
   "id": 30350,
   "illustration": "https://phira.5wyxi.com/files/5c4132f4-135d-4591-b511-2b283b1319d1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "电玩",
   "preview": "https://phira.5wyxi.com/files/717a4e59-dc74-4b0d-b384-a5bdc1f37776",
   "ranked": false,
-  "rating": 0.8429257,
-  "ratingCount": 76,
+  "rating": 0.84991246,
+  "ratingCount": 80,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

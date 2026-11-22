@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:08Z",
-    "lastChanged": "2026-09-21T02:03:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-18T11:15:04.979692Z",
   "charter": "red newdlorW",
@@ -14,6 +14,7 @@
   "description": "The second chart made by red newdlorW. Experiments with drag spam that acts as \"arcs\" (from Arcaea). Inspired by the ArcCreate version made by \"RayClust\".",
   "difficulty": 16.800001,
   "file": "https://phira.5wyxi.com/files/67e8d2c5-a22c-49e6-aaa1-f6f38dfe7f31",
+  "hidden": false,
   "id": 35410,
   "illustration": "https://phira.5wyxi.com/files/f9d3267f-4099-453d-a5c2-a10a452ee685",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "Ästhetik Tonartificiel",
   "preview": "https://phira.5wyxi.com/files/c481d83f-2b8f-472e-bd3c-b1c091cd882c",
   "ranked": false,
-  "rating": 0.87386906,
+  "rating": 0.8712057,
   "ratingCount": 220,
   "reviewed": true,
   "stable": false,

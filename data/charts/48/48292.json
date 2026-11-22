@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:39Z",
-    "lastChanged": "2026-09-21T02:06:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-22T14:49:56.845944Z",
   "charter": "RKMFSGN",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 17.4,
   "file": "https://phira.5wyxi.com/files/e4ed652a-8e17-46f3-8469-8ea87659492d",
+  "hidden": false,
   "id": 48292,
   "illustration": "https://phira.5wyxi.com/files/bf1191c5-03dc-401a-b87d-bb924bf15348",
   "illustrator": "",

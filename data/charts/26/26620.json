@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:59Z",
-    "lastChanged": "2026-09-21T02:05:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-20T17:36:30.921661Z",
   "charter": "aowangID",
@@ -14,6 +14,7 @@
   "description": "新人第二张谱 按自己手感写的 轻点喷 (／_＼)",
   "difficulty": 21.0,
   "file": "https://phira.5wyxi.com/files/9b2a1069-a21a-49f6-a95d-2f0af411342c",
+  "hidden": false,
   "id": 26620,
   "illustration": "https://phira.5wyxi.com/files/46ad8b8a-dbab-4be0-9d91-8fcb0bf61d4a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Power Attack (Extended)",
   "preview": "https://phira.5wyxi.com/files/79b7acb0-bc87-43eb-bc24-1b13ff71bdca",
   "ranked": false,
-  "rating": 0.93565583,
-  "ratingCount": 584,
+  "rating": 0.9358122,
+  "ratingCount": 593,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

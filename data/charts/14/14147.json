@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:41Z",
-    "lastChanged": "2026-09-21T02:05:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-25T15:52:51.327023Z",
   "charter": "Gou_he",
@@ -14,6 +14,7 @@
   "description": "难。",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/25e7eb65-52db-418d-a5ab-65f64f160358",
+  "hidden": false,
   "id": 14147,
   "illustration": "https://phira.5wyxi.com/files/0240855a-79e6-42ab-abac-aba0d7a4a7c9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MAGNETAR GIRL",
   "preview": "https://phira.5wyxi.com/files/4e1d0637-894b-49ab-8b8a-c2432a4a7414",
   "ranked": false,
-  "rating": 0.81606716,
-  "ratingCount": 9,
+  "rating": 0.82834965,
+  "ratingCount": 10,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

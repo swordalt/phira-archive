@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:23Z",
-    "lastChanged": "2026-09-21T02:02:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-17T10:45:37.552943Z",
   "charter": "Star_ovo",
@@ -14,6 +14,7 @@
   "description": "b站：草莓蛋糕ovo_。谱面已改动，解决了很多问题（包括采音）",
   "difficulty": 14.5,
   "file": "https://phira.5wyxi.com/files/c4009cb2-c6e4-4e2c-9e1d-35d913b0e584",
+  "hidden": false,
   "id": 23670,
   "illustration": "https://phira.5wyxi.com/files/4ce685ac-56d8-4687-8478-847c325c5a38",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "钢铁奇美拉",
   "preview": "https://phira.5wyxi.com/files/231d8b25-0722-4fe0-b996-94eafbcbcda9",
   "ranked": false,
-  "rating": 0.8944254,
-  "ratingCount": 463,
+  "rating": 0.8935645,
+  "ratingCount": 471,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:39Z",
-    "lastChanged": "2026-09-21T02:02:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-10T15:00:26.915392Z",
   "charter": "gaosheng",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.200001,
   "file": "https://phira.5wyxi.com/files/7bba0906-a950-4c55-9234-aa451437ef40",
+  "hidden": false,
   "id": 27576,
   "illustration": "https://phira.5wyxi.com/files/13b5ce67-c381-4ad7-b88e-6e6c1f688e1c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "つよがるガール ",
   "preview": "https://phira.5wyxi.com/files/84e0c063-efaf-46d1-bc3f-4c1fafda3b51",
   "ranked": true,
-  "rating": 0.92864937,
-  "ratingCount": 2198,
+  "rating": 0.9283552,
+  "ratingCount": 2231,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

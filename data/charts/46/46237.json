@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:48Z",
-    "lastChanged": "2026-09-21T02:03:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-31T16:38:42.953843Z",
   "charter": "衣角的斜长条",
@@ -14,6 +14,7 @@
   "description": "本人上传喵",
   "difficulty": 13.700003,
   "file": "https://phira.5wyxi.com/files/df0de8f7-f944-46f2-86ae-1e8401d826d0",
+  "hidden": false,
   "id": 46237,
   "illustration": "https://phira.5wyxi.com/files/3ee4cc62-ddbb-4e57-8fd2-e2e6781ea07c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "动感方块",
   "preview": "https://phira.5wyxi.com/files/4f59d5e7-c5bb-4850-bc87-f468ae99c18e",
   "ranked": true,
-  "rating": 0.8998988,
-  "ratingCount": 4345,
+  "rating": 0.90007347,
+  "ratingCount": 4566,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

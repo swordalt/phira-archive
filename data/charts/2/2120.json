@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:11Z",
-    "lastChanged": "2026-09-21T02:01:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-15T13:09:29.601488Z",
   "charter": "AlanAugustine",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/7055e69d-48db-46bd-a7b9-12fef2fc86ce",
+  "hidden": false,
   "id": 2120,
   "illustration": "https://phira.5wyxi.com/files/5a11e99a-7142-43bb-a38c-c714094a9be9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sterelogue",
   "preview": "https://phira.5wyxi.com/files/bc2380c8-daf4-4c41-8ade-249cf5596548",
   "ranked": false,
-  "rating": 0.77768695,
-  "ratingCount": 283,
+  "rating": 0.77715445,
+  "ratingCount": 284,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

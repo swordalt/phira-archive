@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:31Z",
-    "lastChanged": "2026-09-21T02:04:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-28T12:01:21.056038Z",
   "charter": "LogicM",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/383d6d66-9b26-4064-bf66-fbf0ec500a46",
+  "hidden": false,
   "id": 54670,
   "illustration": "https://phira.5wyxi.com/files/8ec15c50-d0c1-421c-8fb2-407bc0427a0d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Transcend My Love",
   "preview": "https://phira.5wyxi.com/files/23494a82-a61a-41b1-b981-a53684d1252e",
   "ranked": true,
-  "rating": 0.8522845,
-  "ratingCount": 942,
+  "rating": 0.85173625,
+  "ratingCount": 1027,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

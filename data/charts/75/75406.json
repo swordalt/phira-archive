@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:12Z",
-    "lastChanged": "2026-09-21T02:05:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-24T08:51:39.390130Z",
   "charter": "Aoizuki",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/7027f5e0-6927-406e-8603-0f0d90b3b19f",
+  "hidden": false,
   "id": 75406,
   "illustration": "https://phira.5wyxi.com/files/809710bc-99e4-4616-a667-004afa9c2d4c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Never Say Goodbye",
   "preview": "https://phira.5wyxi.com/files/0fd063c3-b77f-48fd-8597-f68c7a4b5120",
   "ranked": false,
-  "rating": 0.84485394,
-  "ratingCount": 45,
+  "rating": 0.8664641,
+  "ratingCount": 65,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

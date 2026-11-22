@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:17Z",
-    "lastChanged": "2026-09-21T02:06:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-02T13:00:52.974025Z",
   "charter": "Geuatrouk",
@@ -14,6 +14,7 @@
   "description": "优秀\n无须质疑",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/b1fc7024-28b7-439e-8f04-ceb7e597b323",
+  "hidden": false,
   "id": 39168,
   "illustration": "https://phira.5wyxi.com/files/cf05d42e-02a5-4e61-8b00-3654099068c0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "刷牙歌",
   "preview": "https://phira.5wyxi.com/files/d019aa50-7eb5-42ed-b525-9b50a7a39ae4",
   "ranked": false,
-  "rating": 0.8864993,
-  "ratingCount": 65,
+  "rating": 0.8897259,
+  "ratingCount": 67,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

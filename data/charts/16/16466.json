@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:43Z",
-    "lastChanged": "2026-09-21T02:05:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-25T04:10:27.802014Z",
   "charter": "is-垃圾喵",
@@ -14,6 +14,7 @@
   "description": "阿巴阿巴",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/999f8305-4719-40e5-9d9b-9254d5353c16",
+  "hidden": false,
   "id": 16466,
   "illustration": "https://phira.5wyxi.com/files/c4c63ea2-24f6-418c-8955-40dd842191ca",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Qliphot",
   "preview": "https://phira.5wyxi.com/files/9b169edf-469c-4812-bc6e-13b45f9fe7cd",
   "ranked": false,
-  "rating": 0.939613,
-  "ratingCount": 298,
+  "rating": 0.93946666,
+  "ratingCount": 305,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

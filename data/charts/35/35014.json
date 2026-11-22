@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:07Z",
-    "lastChanged": "2026-09-21T02:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-09T04:07:55.448103Z",
   "charter": "刘家辉123",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 9.999993,
   "file": "https://phira.5wyxi.com/files/ce3264dc-d3a1-49f8-b64d-c35ea955dd3e",
+  "hidden": false,
   "id": 35014,
   "illustration": "https://phira.5wyxi.com/files/ee2d44cc-ed67-4567-b10b-ca21faca9c38",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Red moon",
   "preview": "https://phira.5wyxi.com/files/0c20be9a-9a66-4302-b526-d0b90ab9ef0d",
   "ranked": false,
-  "rating": 0.8986347,
-  "ratingCount": 1974,
+  "rating": 0.9004945,
+  "ratingCount": 2068,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

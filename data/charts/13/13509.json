@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-12T13:11:54.064493Z",
   "charter": "SRH603",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/3221f7a0-2e30-4869-9ba5-4ecdc97a861c",
+  "hidden": false,
   "id": 13509,
   "illustration": "https://phira.5wyxi.com/files/bf1fef76-888f-4706-a98f-319c773b3f19",
   "illustrator": "",

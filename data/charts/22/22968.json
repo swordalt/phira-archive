@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:21Z",
-    "lastChanged": "2026-09-21T02:02:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-08T10:23:15.257857Z",
   "charter": "希",
@@ -14,6 +14,7 @@
   "description": "「星核猎手」卡芙卡",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/03324243-d889-43f1-84fc-abcd6c482337",
+  "hidden": false,
   "id": 22968,
   "illustration": "https://phira.5wyxi.com/files/01140f0b-5bee-48eb-9fbe-e74ca176d9c7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "「戏剧性反讽」",
   "preview": "https://phira.5wyxi.com/files/b490ae2e-b2f7-4930-9ea1-67be28155950",
   "ranked": false,
-  "rating": 0.92709345,
-  "ratingCount": 7364,
+  "rating": 0.92645735,
+  "ratingCount": 7546,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:17Z",
-    "lastChanged": "2026-09-21T02:01:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-27T18:14:56.909068Z",
   "charter": "UNKNOWN239",
@@ -14,6 +14,7 @@
   "description": "修改后的版本基本上没有初见杀的问题了，前后配置改动比较大\n",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/20a5bc97-bbc5-41de-9529-414bc3c8f980",
+  "hidden": false,
   "id": 4193,
   "illustration": "https://phira.5wyxi.com/files/f42129c0-67e9-4ed8-8c7a-6ab463537aae",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GOODBOUNCE",
   "preview": "https://phira.5wyxi.com/files/36268246-321b-479d-8766-ae14f43fc16f",
   "ranked": false,
-  "rating": 0.92611945,
-  "ratingCount": 1622,
+  "rating": 0.9262283,
+  "ratingCount": 1630,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

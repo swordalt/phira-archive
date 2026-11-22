@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:06Z",
-    "lastChanged": "2026-09-21T02:07:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-27T01:16:57.006368Z",
   "charter": "FoxAB feat.vitamin b",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/541f587d-75c5-437a-9bf8-a343c1d3bfcc",
+  "hidden": false,
   "id": 28063,
   "illustration": "https://phira.5wyxi.com/files/53d21508-b870-4c12-baaa-bbc1774d1042",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "※Golden Hour (Chime Remix)",
   "preview": "https://phira.5wyxi.com/files/7528c70a-b4e9-4675-b1a0-230ebc4855cd",
   "ranked": false,
-  "rating": 0.9742833,
-  "ratingCount": 5735,
+  "rating": 0.9742691,
+  "ratingCount": 5911,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

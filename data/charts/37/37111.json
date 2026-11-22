@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-09-21T02:06:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-30T11:10:19.320111Z",
   "charter": "ReimiliaScarlet",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/c8ead3c9-71f5-4ae5-a0db-d01c33c1d53e",
+  "hidden": false,
   "id": 37111,
   "illustration": "https://phira.5wyxi.com/files/419feccf-1c19-4dfc-84b7-142eba7f3181",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Absolute Queen",
   "preview": "https://phira.5wyxi.com/files/10ae6e85-7d84-412c-8055-f967f095d9a6",
   "ranked": false,
-  "rating": 0.95356673,
-  "ratingCount": 103,
+  "rating": 0.95525104,
+  "ratingCount": 107,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

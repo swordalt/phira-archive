@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:57Z",
-    "lastChanged": "2026-09-21T02:03:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-15T16:17:17.819778Z",
   "charter": "-Twinklin'nyanst8R-",
@@ -14,6 +14,7 @@
   "description": "5thPecJam参赛作，暂时不想改了，遂丢上来。",
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/1d2ca3a3-9cf0-4d17-9497-91487ef34964",
+  "hidden": false,
   "id": 48058,
   "illustration": "https://phira.5wyxi.com/files/15130bf9-8e23-4fd0-989f-8300fe5aab7b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Nyan-Nyan Naughty Night",
   "preview": "https://phira.5wyxi.com/files/0f9e8c66-165e-4924-8f99-0ec5bba9be3f",
   "ranked": false,
-  "rating": 0.8809467,
-  "ratingCount": 180,
+  "rating": 0.88270104,
+  "ratingCount": 184,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

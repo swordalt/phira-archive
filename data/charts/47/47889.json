@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:56Z",
-    "lastChanged": "2026-09-21T02:03:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-08T08:31:39.927327Z",
   "charter": "",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.000008,
   "file": "https://phira.5wyxi.com/files/7126f803-7310-4a08-a69c-4c48c9dea41d",
+  "hidden": false,
   "id": 47889,
   "illustration": "https://phira.5wyxi.com/files/eea56f64-6864-4273-a4f5-bdb655a26075",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "一花一剑【天官赐福】",
   "preview": "https://phira.5wyxi.com/files/99ff88a4-5951-4d5b-8e65-6139f7d11762",
   "ranked": false,
-  "rating": 0.93256646,
-  "ratingCount": 2705,
+  "rating": 0.9330254,
+  "ratingCount": 3017,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

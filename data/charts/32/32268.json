@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:06Z",
-    "lastChanged": "2026-09-21T02:06:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-23T08:02:04.813939Z",
   "charter": "S神",
@@ -14,6 +14,7 @@
   "description": "狐狸第一张正常谱 势ZENITH段boss候选",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/27498d4a-4a87-4ed0-a211-5f2d484ced45",
+  "hidden": false,
   "id": 32268,
   "illustration": "https://phira.5wyxi.com/files/1112dde9-3ef7-4cb1-8b3b-1e84a7e99c03",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MEPHISTO",
   "preview": "https://phira.5wyxi.com/files/f8c84a4a-cbbb-4b20-b1e5-1f3e24daacaf",
   "ranked": false,
-  "rating": 0.9505985,
-  "ratingCount": 56,
+  "rating": 0.9514462,
+  "ratingCount": 58,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

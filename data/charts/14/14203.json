@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:50Z",
-    "lastChanged": "2026-09-21T02:01:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:32Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-26T11:50:21.638927Z",
   "charter": "ポイズンは踊りました",
@@ -14,6 +14,7 @@
   "description": "(en-us)\nfrom rhythm game \"MUSIC DIVER\"\noriginal: U.N.オーエンは彼女なのか？\nremixed by モリモリあつし",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/c7ee7def-bce4-4d9c-953a-62c3d9864e89",
+  "hidden": false,
   "id": 14203,
   "illustration": "https://phira.5wyxi.com/files/bbaea379-3029-465b-a39e-63aa0731b933",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "パリピフラン",
   "preview": "https://phira.5wyxi.com/files/a48ecde1-9f28-451d-8c9a-69a727b6df13",
   "ranked": false,
-  "rating": 0.92284256,
-  "ratingCount": 524,
+  "rating": 0.9227701,
+  "ratingCount": 526,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

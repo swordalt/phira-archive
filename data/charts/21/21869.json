@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:19Z",
-    "lastChanged": "2026-09-21T02:02:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-24T13:28:14.032083Z",
   "charter": "真纪真纪乐乐乐",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/4c48f5f3-f989-4bf9-ac1f-45f5d67f9ed7",
+  "hidden": false,
   "id": 21869,
   "illustration": "https://phira.5wyxi.com/files/91e65f8e-ad08-4ad3-93db-36d9a345133a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "野花香 (Haocore Mix)",
   "preview": "https://phira.5wyxi.com/files/c9593c06-c4fe-4494-90ef-6fbfe67d322f",
   "ranked": false,
-  "rating": 0.9160835,
-  "ratingCount": 2776,
+  "rating": 0.9157097,
+  "ratingCount": 2800,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

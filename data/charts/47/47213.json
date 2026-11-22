@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:37Z",
-    "lastChanged": "2026-09-21T02:06:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-25T16:58:32.130569Z",
   "charter": "小鸟游星野",
@@ -14,6 +14,7 @@
   "description": "ADOFAI转谱",
   "difficulty": 3.0,
   "file": "https://phira.5wyxi.com/files/9244daab-b67f-49b9-ba18-a3c1bdb7b067",
+  "hidden": false,
   "id": 47213,
   "illustration": "https://phira.5wyxi.com/files/16fb8faa-241d-476c-96e3-a944aff4e146",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "wavetapper",
   "preview": "https://phira.5wyxi.com/files/9e7386b7-6fcc-4172-bcfe-40364326355b",
   "ranked": false,
-  "rating": 0.8575921,
-  "ratingCount": 40,
+  "rating": 0.87725514,
+  "ratingCount": 47,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:26Z",
-    "lastChanged": "2026-09-21T02:05:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-14T12:19:00.996008Z",
   "charter": "csqn其旂淠淠",
@@ -14,6 +14,7 @@
   "description": "由csqn其旂淠淠铺曲，翻版必究",
   "difficulty": 15.900001,
   "file": "https://phira.5wyxi.com/files/a1e22645-c268-4cb2-982f-86c432d4b7fe",
+  "hidden": false,
   "id": 27669,
   "illustration": "https://phira.5wyxi.com/files/d5fd11e8-92c6-4ea6-970a-af91659b4fc4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Catnap",
   "preview": "https://phira.5wyxi.com/files/bcdd0203-912d-4de2-966a-55d7fb15adde",
   "ranked": false,
-  "rating": 0.9034478,
-  "ratingCount": 20,
+  "rating": 0.9001597,
+  "ratingCount": 21,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

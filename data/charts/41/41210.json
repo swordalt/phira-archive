@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:27Z",
-    "lastChanged": "2026-09-21T02:03:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-08T23:17:51.827896Z",
   "charter": "zmvw",
@@ -14,6 +14,7 @@
   "description": "谱师zmvw本人上传，此为特效删减版适配phira，完整版请移步b站",
   "difficulty": 15.3,
   "file": "https://phira.5wyxi.com/files/e1ed0cbf-4ce5-4995-8cc4-a7e33815bacd",
+  "hidden": false,
   "id": 41210,
   "illustration": "https://phira.5wyxi.com/files/7002f9cc-7ed0-48d9-979f-a0ccc691e2df",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "纳塔 Natlan",
   "preview": "https://phira.5wyxi.com/files/eff57de8-cd66-4639-ab4f-5f36914b6a38",
   "ranked": false,
-  "rating": 0.92879057,
-  "ratingCount": 595,
+  "rating": 0.92905074,
+  "ratingCount": 622,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

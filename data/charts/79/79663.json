@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-06T17:08:49Z",
-    "lastChanged": "2026-10-08T17:50:21Z",
-    "revisions": 4
+    "lastChanged": "2026-11-22T12:59:23Z",
+    "revisions": 5
   },
   "chartUpdated": "2026-10-01T12:00:10.854575Z",
   "charter": "kaNano_",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/c12dad8f-44e3-4de7-8db0-7001e4462c75",
+  "hidden": false,
   "id": 79663,
   "illustration": "https://phira.5wyxi.com/files/05d00f86-8e4f-441a-b261-808d427661f7",
   "illustrator": "Unknown",
@@ -21,8 +22,8 @@
   "name": "Reboot",
   "preview": "https://phira.5wyxi.com/files/3a3f2636-2f12-42a9-b1da-b5425399a56e",
   "ranked": false,
-  "rating": 0.9180593,
-  "ratingCount": 54,
+  "rating": 0.9325184,
+  "ratingCount": 138,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:07Z",
-    "lastChanged": "2026-09-21T02:07:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-30T13:04:23.029460Z",
   "charter": "Sildild",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/97840fb9-e571-4dff-b0b9-e8da5e644a54",
+  "hidden": false,
   "id": 35946,
   "illustration": "https://phira.5wyxi.com/files/f2f25671-35d0-4044-9907-f57dc968d82e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Singularity at 2.64e+6 BPM",
   "preview": "https://phira.5wyxi.com/files/95377ee6-24ad-4989-b96e-e26ae5a76858",
   "ranked": false,
-  "rating": 0.9513139,
-  "ratingCount": 628,
+  "rating": 0.95278037,
+  "ratingCount": 661,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

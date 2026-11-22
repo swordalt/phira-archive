@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:02Z",
-    "lastChanged": "2026-09-21T02:07:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-30T10:41:14.542224Z",
   "charter": "HRS-Team",
@@ -14,6 +14,7 @@
   "description": "HRS-Lv.8-Pattern单曲\n这是换手谱，对。",
   "difficulty": 8.699995,
   "file": "https://phira.5wyxi.com/files/86c194c6-2a90-48a5-a9ab-d0f4a29ad729",
+  "hidden": false,
   "id": 76576,
   "illustration": "https://phira.5wyxi.com/files/e840e29a-5ea8-4cfb-b84d-941777b8c3d9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Suomi",
   "preview": "https://phira.5wyxi.com/files/0337734a-a725-4a0a-bd81-1f3d0a418015",
   "ranked": false,
-  "rating": 0.91639763,
-  "ratingCount": 19,
+  "rating": 0.92951685,
+  "ratingCount": 25,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

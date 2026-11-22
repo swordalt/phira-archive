@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:40Z",
-    "lastChanged": "2026-09-21T02:03:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-19T07:27:10.366361Z",
   "charter": "猫亦之",
@@ -14,6 +14,7 @@
   "description": "萌新五谱，谱师本人上传\n传错文件改了一下，抱歉影响了大家分数\n玩的开心！\nb站 猫亦之",
   "difficulty": 14.100004,
   "file": "https://phira.5wyxi.com/files/eff0d128-f59e-470b-b78b-6e1e09f87dc5",
+  "hidden": false,
   "id": 44524,
   "illustration": "https://phira.5wyxi.com/files/543e6053-af12-4b21-b69b-3030298ac754",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Crucified",
   "preview": "https://phira.5wyxi.com/files/75b0fb21-800c-4de6-b0ef-e53c49996b3f",
   "ranked": false,
-  "rating": 0.9400631,
-  "ratingCount": 1810,
+  "rating": 0.9402037,
+  "ratingCount": 1884,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

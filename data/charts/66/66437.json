@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:58Z",
-    "lastChanged": "2026-09-21T02:06:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-14T06:13:27.071534Z",
   "charter": "HRS-Team",
@@ -14,6 +14,7 @@
   "description": "HRS-Lv.不知道-Pattern单曲",
   "difficulty": 13.500002,
   "file": "https://phira.5wyxi.com/files/db412637-99cb-4716-a559-708da05844d7",
+  "hidden": false,
   "id": 66437,
   "illustration": "https://phira.5wyxi.com/files/6b36b57c-aadd-4ad3-a7df-92c7e8dd6147",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ex-Otogibanashi (Anime ver.)",
   "preview": "https://phira.5wyxi.com/files/593efa8d-5f85-4886-acfb-33c1202c7ef6",
   "ranked": false,
-  "rating": 0.9518082,
-  "ratingCount": 81,
+  "rating": 0.9558875,
+  "ratingCount": 91,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

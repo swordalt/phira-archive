@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:44Z",
-    "lastChanged": "2026-09-21T02:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-22T10:09:38.434426Z",
   "charter": "母鸡Sama",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传   预览视频BV19GypYuEVw",
   "difficulty": 15.7,
   "file": "https://phira.5wyxi.com/files/2b88e7d6-7e9f-4cc6-a5b6-3c40eb41ceb4",
+  "hidden": false,
   "id": 28987,
   "illustration": "https://phira.5wyxi.com/files/3d7bede1-c49f-4776-a655-180e79bc65af",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "记忆碎片",
   "preview": "https://phira.5wyxi.com/files/c2dd03bf-1960-4f25-9f87-e138935fcd29",
   "ranked": false,
-  "rating": 0.94590867,
-  "ratingCount": 5818,
+  "rating": 0.946005,
+  "ratingCount": 5923,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:09Z",
-    "lastChanged": "2026-09-21T02:03:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-24T05:05:15.830449Z",
   "charter": "Burns",
@@ -14,6 +14,7 @@
   "description": "约稿，本人上传，B站@超爱吃盐的盐盐",
   "difficulty": 12.900007,
   "file": "https://phira.5wyxi.com/files/d14872b2-c1e7-4085-be4d-e26118dcb132",
+  "hidden": false,
   "id": 35688,
   "illustration": "https://phira.5wyxi.com/files/050bfd79-3d07-4f2e-a8f3-7303ef7155e8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "子路 战斗曲",
   "preview": "https://phira.5wyxi.com/files/c45a880b-7ae7-4162-a14e-ed180a42c221",
   "ranked": false,
-  "rating": 0.93632734,
-  "ratingCount": 1351,
+  "rating": 0.9354768,
+  "ratingCount": 1420,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

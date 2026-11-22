@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:02Z",
-    "lastChanged": "2026-09-21T02:02:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-03T03:29:07.092820Z",
   "charter": "BigPigeon",
@@ -14,6 +14,7 @@
   "description": "3RD飞技杯娱乐赛道J1。\n再次微调后上传，增强可玩性。\n第一次参赛，四小时速写，经验不足，质量一般，进步空间还很大。",
   "difficulty": 17.599998,
   "file": "https://phira.5wyxi.com/files/2e4f6965-74aa-4d6c-8195-fd8b499a4094",
+  "hidden": false,
   "id": 17018,
   "illustration": "https://phira.5wyxi.com/files/1e283a4a-0372-4e40-b3a4-7139da08a6c0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Last Page",
   "preview": "https://phira.5wyxi.com/files/4a5e0d02-37c2-4f71-850b-cdb91af57cad",
   "ranked": false,
-  "rating": 0.37280074,
-  "ratingCount": 181,
+  "rating": 0.40641996,
+  "ratingCount": 183,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

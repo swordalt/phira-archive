@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:29Z",
-    "lastChanged": "2026-09-21T02:01:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-29T06:07:39.150673Z",
   "charter": "XiaoYueQwQ",
@@ -14,6 +14,7 @@
   "description": "新人初谱，希望谱没事",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/e9c4fb69-1e6e-4ef9-ac28-0be1ca772d96",
+  "hidden": false,
   "id": 8671,
   "illustration": "https://phira.5wyxi.com/files/79f0c2f0-3e48-41d5-8045-800cef1881f0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Endospore",
   "preview": "https://phira.5wyxi.com/files/c8e02511-b701-426e-96be-17b6ccc0e82c",
   "ranked": false,
-  "rating": 0.8734917,
-  "ratingCount": 84,
+  "rating": 0.8732779,
+  "ratingCount": 86,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

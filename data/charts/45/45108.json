@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:43Z",
-    "lastChanged": "2026-09-21T02:03:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-19T07:33:35.109792Z",
   "charter": "moonfall",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/49174107-e2bd-4d32-8bcb-21141112f47a",
+  "hidden": false,
   "id": 45108,
   "illustration": "https://phira.5wyxi.com/files/c3d8f859-e33e-4e12-8ab4-c9af4d5359fb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "デロデロデロデ",
   "preview": "https://phira.5wyxi.com/files/e0e335cf-c2cb-45e5-8c7a-b69cc2b9738c",
   "ranked": false,
-  "rating": 0.83880377,
-  "ratingCount": 50,
+  "rating": 0.84282625,
+  "ratingCount": 52,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

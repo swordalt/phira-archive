@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-18T09:09:21Z",
-    "lastChanged": "2026-10-19T07:40:43Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:26Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-17T08:28:37.581865Z",
   "charter": "Der",
@@ -14,6 +14,7 @@
   "description": "不是完整歌曲，致歉，只选取了一部分",
   "difficulty": 10.000008,
   "file": "https://phira.5wyxi.com/files/313092f0-eb0a-48e3-bcb5-b95efa41c9fa",
+  "hidden": false,
   "id": 81305,
   "illustration": "https://phira.5wyxi.com/files/7fe00bae-e45c-48f4-af7f-5d3b047e0f43",
   "illustrator": "Official Art",
@@ -21,8 +22,8 @@
   "name": "Crucifix X ",
   "preview": "https://phira.5wyxi.com/files/8f197af6-3f08-4b15-833e-c10dd9eed7a8",
   "ranked": false,
-  "rating": 0.86412126,
-  "ratingCount": 66,
+  "rating": 0.88613385,
+  "ratingCount": 476,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

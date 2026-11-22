@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:57Z",
-    "lastChanged": "2026-09-21T02:05:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-30T13:43:43.857109Z",
   "charter": "Coldsnow vs. congratulations",
@@ -14,6 +14,7 @@
   "description": "三人合作写谱 谱师：@Coldsnow             @Congratulations             @UNDEFINED 经另外两人同意上传     麻烦把前面的都打回，只保留这一版，谢谢。",
   "difficulty": 17.1,
   "file": "https://phira.5wyxi.com/files/9c2b430f-2821-4cae-8b1b-5b632049467c",
+  "hidden": false,
   "id": 24756,
   "illustration": "https://phira.5wyxi.com/files/27cbc953-250c-48c7-9a34-02e59a201bc1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "十拳剣",
   "preview": "https://phira.5wyxi.com/files/90d2fa91-a862-4dbb-969f-2321f8505a3b",
   "ranked": false,
-  "rating": 0.9096063,
-  "ratingCount": 394,
+  "rating": 0.90930504,
+  "ratingCount": 405,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

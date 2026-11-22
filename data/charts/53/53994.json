@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:27Z",
-    "lastChanged": "2026-09-21T02:04:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-08T23:21:02.796360Z",
   "charter": "欧内的[戦]",
@@ -14,6 +14,7 @@
   "description": "本人上传                                            定数：19.6                                              物量：2712                                                       新人初铺，配置不小心写难了请见谅（\n更新：优化排键",
   "difficulty": 19.0,
   "file": "https://phira.5wyxi.com/files/fb216c49-d234-451a-8c1b-70f2f004ffcf",
+  "hidden": false,
   "id": 53994,
   "illustration": "https://phira.5wyxi.com/files/bce2f754-3725-43c3-aacd-ff5a8fd9f0fa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Intersect Thunderbolt",
   "preview": "https://phira.5wyxi.com/files/620ff755-1b1c-4c07-86e3-9fb31c811a31",
   "ranked": false,
-  "rating": 0.87685,
-  "ratingCount": 140,
+  "rating": 0.87498605,
+  "ratingCount": 157,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:49Z",
-    "lastChanged": "2026-09-21T02:04:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-20T04:31:04.144534Z",
   "charter": "Gino:)",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/62fd4aa3-64ee-4baf-8f1b-b9e39607c57d",
+  "hidden": false,
   "id": 61622,
   "illustration": "https://phira.5wyxi.com/files/a78eb2b0-0a19-46c4-a867-673e7c382f7a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mario",
   "preview": "https://phira.5wyxi.com/files/c7503692-727b-4701-8468-17f082c623ec",
   "ranked": false,
-  "rating": 0.87001413,
-  "ratingCount": 225,
+  "rating": 0.87192106,
+  "ratingCount": 299,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:26Z",
-    "lastChanged": "2026-09-21T02:06:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-29T16:45:36.433498Z",
   "charter": "假鹏",
@@ -14,6 +14,7 @@
   "description": "本人上传\n初谱，目前纯配置",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/ea4cf218-5211-4482-8fcf-e46d8fae63fa",
+  "hidden": false,
   "id": 43106,
   "illustration": "https://phira.5wyxi.com/files/8d347ec5-3f0e-4a59-8aaf-d9bf1ce0139f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MYTH Re:LEASE",
   "preview": "https://phira.5wyxi.com/files/107bf5b6-da11-423b-917b-f67bfdb6c7ed",
   "ranked": false,
-  "rating": 0.93872833,
-  "ratingCount": 54,
+  "rating": 0.93786347,
+  "ratingCount": 62,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

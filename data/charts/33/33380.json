@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:02Z",
-    "lastChanged": "2026-09-21T02:03:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-05T17:08:02.307816Z",
   "charter": "Muji",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传   此为23年旧版",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/1cae3a70-70f5-41d0-a34b-7abfb5cb919a",
+  "hidden": false,
   "id": 33380,
   "illustration": "https://phira.5wyxi.com/files/996d41cd-9a2f-451f-b6b2-8530d334e3d7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Axion",
   "preview": "https://phira.5wyxi.com/files/d6213109-0fd7-4bd8-aa78-231d323a11ab",
   "ranked": false,
-  "rating": 0.94748336,
-  "ratingCount": 184,
+  "rating": 0.9489201,
+  "ratingCount": 191,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:09Z",
-    "lastChanged": "2026-09-21T02:04:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-27T04:13:35.503061Z",
   "charter": "Mzl_麻酱,commandwm",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/6731bcad-46b6-42d5-89cf-58e1776e2565",
+  "hidden": false,
   "id": 50594,
   "illustration": "https://phira.5wyxi.com/files/b2257ee4-33d5-423c-bc5f-9e4c10298e16",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "JingleDeath",
   "preview": "https://phira.5wyxi.com/files/bb199e47-896d-47b6-8aec-7af8f61001f9",
   "ranked": false,
-  "rating": 0.7675647,
-  "ratingCount": 17,
+  "rating": 0.7719766,
+  "ratingCount": 19,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

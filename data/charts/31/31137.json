@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:52Z",
-    "lastChanged": "2026-09-21T02:02:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-28T11:21:43.973118Z",
   "charter": "ASDFCVBNHJKL",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 1.8000001,
   "file": "https://phira.5wyxi.com/files/cc78e71d-23aa-4360-9695-ec21b31c7bd4",
+  "hidden": false,
   "id": 31137,
   "illustration": "https://phira.5wyxi.com/files/fc8c2405-5ac9-444d-a2d7-ca635cb189d9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "pi",
   "preview": "https://phira.5wyxi.com/files/8f9600d5-10ce-412a-93f3-19a11243c5e0",
   "ranked": false,
-  "rating": 0.9206631,
-  "ratingCount": 778,
+  "rating": 0.9194334,
+  "ratingCount": 842,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

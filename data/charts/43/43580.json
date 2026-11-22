@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:27Z",
-    "lastChanged": "2026-09-21T02:06:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-03T10:18:24.654810Z",
   "charter": "cconnoonn",
@@ -14,6 +14,7 @@
   "description": "本人上传\n作谱时长7h",
   "difficulty": 17.5,
   "file": "https://phira.5wyxi.com/files/9d3ae236-55c6-49e8-aac3-a92663f7b491",
+  "hidden": false,
   "id": 43580,
   "illustration": "https://phira.5wyxi.com/files/b50c71c7-12a3-4699-83b1-fb4dc5b0b510",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Xaleid◆scopiX",
   "preview": "https://phira.5wyxi.com/files/e7794a75-b25a-4bd6-af44-cbdff03554f8",
   "ranked": false,
-  "rating": 0.8534249,
-  "ratingCount": 115,
+  "rating": 0.8571047,
+  "ratingCount": 118,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

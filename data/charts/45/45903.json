@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:33Z",
-    "lastChanged": "2026-09-21T02:06:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-28T08:29:39.526614Z",
   "charter": "Zoom001",
@@ -14,6 +14,7 @@
   "description": "！！！！！！！！！！",
   "difficulty": 15.100003,
   "file": "https://phira.5wyxi.com/files/2ef5434a-5f62-4ce7-ac55-a8eed42d4812",
+  "hidden": false,
   "id": 45903,
   "illustration": "https://phira.5wyxi.com/files/d56a087b-9dc3-45ce-b0c0-84e27e1ac5cf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Good bye, Merry-Go-Round.",
   "preview": "https://phira.5wyxi.com/files/0d4510fb-e411-4c64-8af8-6fa871cb3ad9",
   "ranked": false,
-  "rating": 0.94964504,
-  "ratingCount": 584,
+  "rating": 0.95020694,
+  "ratingCount": 603,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

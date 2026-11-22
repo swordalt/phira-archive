@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:04Z",
-    "lastChanged": "2026-09-21T02:03:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-16T07:59:45.748176Z",
   "charter": "hsX小轩 as 「純粋な暴力」",
@@ -14,6 +14,7 @@
   "description": "2025.2.16 定数修改为18.7",
   "difficulty": 18.699999,
   "file": "https://phira.5wyxi.com/files/3a69e439-b5f4-4a7e-8313-64fdff495e57",
+  "hidden": false,
   "id": 34128,
   "illustration": "https://phira.5wyxi.com/files/d78a7c5c-c36e-425b-a2ba-d197ccd7cb8f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ギザバ怪文書",
   "preview": "https://phira.5wyxi.com/files/591fb1e6-fd92-475e-9b4f-7ead8625a0bc",
   "ranked": false,
-  "rating": 0.93462217,
-  "ratingCount": 1289,
+  "rating": 0.9353388,
+  "ratingCount": 1356,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

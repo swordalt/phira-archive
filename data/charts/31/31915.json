@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:56Z",
-    "lastChanged": "2026-09-21T02:02:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-16T15:29:50.594300Z",
   "charter": "Sakurori",
@@ -14,6 +14,7 @@
   "description": "本人写的第二张谱。希望大家喜欢！",
   "difficulty": 14.8,
   "file": "https://phira.5wyxi.com/files/4956540e-677a-491a-93d3-6f9258455ec9",
+  "hidden": false,
   "id": 31915,
   "illustration": "https://phira.5wyxi.com/files/097ed2aa-425e-48d8-ae61-727efdbce429",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "失敗作少女 (MARETU Remix)",
   "preview": "https://phira.5wyxi.com/files/7914d709-a2db-484c-9a9f-75d7cec875cb",
   "ranked": false,
-  "rating": 0.9435539,
-  "ratingCount": 4752,
+  "rating": 0.944227,
+  "ratingCount": 4974,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

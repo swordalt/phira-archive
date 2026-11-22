@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:40Z",
-    "lastChanged": "2026-09-21T02:02:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-15T15:47:29.656844Z",
   "charter": "南方の辉",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/33103b4c-0632-48ee-bd9d-1b594d5fb771",
+  "hidden": false,
   "id": 27725,
   "illustration": "https://phira.5wyxi.com/files/ac5e3129-2862-4728-bf19-5fd42708ebc7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "すとり～ま～FIRE!?!?",
   "preview": "https://phira.5wyxi.com/files/aea593e5-aa6b-4520-809c-9327afe63f94",
   "ranked": false,
-  "rating": 0.89628935,
-  "ratingCount": 191,
+  "rating": 0.89788723,
+  "ratingCount": 194,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:42Z",
-    "lastChanged": "2026-09-30T06:37:39Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:52:15Z",
+    "revisions": 4
   },
   "chartUpdated": "2023-11-23T12:53:18.922279Z",
   "charter": "GuanfzyA fixed by FN花计",
@@ -14,6 +14,7 @@
   "description": "谱师组：@GuanfzyA#305089 @FN花计#1082\n谱面演示：B站：BV1Mw411n7VF\n谱面内部版本：2.0.2.1（long ver.）",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/5fb073af-25cf-4b16-ba63-f0dcacf01250",
+  "hidden": false,
   "id": 11717,
   "illustration": "https://phira.5wyxi.com/files/f95e4b6c-00ce-4d03-b927-93d4c82462e0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "琵琶行（Full ver.）",
   "preview": "https://phira.5wyxi.com/files/e3b6e903-fd43-4b43-8536-d6bbccfa1933",
   "ranked": false,
-  "rating": 0.909182,
-  "ratingCount": 4480,
+  "rating": 0.9090277,
+  "ratingCount": 9669,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

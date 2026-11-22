@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-24T10:49:30Z",
-    "lastChanged": "2026-10-26T12:49:24Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:28Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-23T07:13:34.969466Z",
   "charter": "C.efe (nobody cares)",
@@ -14,6 +14,7 @@
   "description": "站中间串两边的结果就是两头不讨好",
   "difficulty": 2.0000002,
   "file": "https://phira.5wyxi.com/files/2bdd9082-d02b-474c-8576-ade387969943",
+  "hidden": false,
   "id": 81800,
   "illustration": "https://phira.5wyxi.com/files/e7c2be7a-a95b-4cd9-9be2-74e18f600a8d",
   "illustrator": "贝贝web",
@@ -21,8 +22,8 @@
   "name": "火花",
   "preview": "https://phira.5wyxi.com/files/aed20394-f19c-470d-ad5e-2a51afbf736e",
   "ranked": false,
-  "rating": 0.92803675,
-  "ratingCount": 670,
+  "rating": 0.9149855,
+  "ratingCount": 2350,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

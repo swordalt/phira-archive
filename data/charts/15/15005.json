@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:54Z",
-    "lastChanged": "2026-09-21T02:01:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-08T08:11:53.816697Z",
   "charter": "BXZ",
@@ -14,6 +14,7 @@
   "description": "好听，这是我第二作",
   "difficulty": 14.300001,
   "file": "https://phira.5wyxi.com/files/bf5b73ba-20d7-4a52-9da4-ded7969ac4d8",
+  "hidden": false,
   "id": 15005,
   "illustration": "https://phira.5wyxi.com/files/c3caff46-5ece-4398-86f6-c8188cc9f669",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "超级无敌QQ拳",
   "preview": "https://phira.5wyxi.com/files/88a58277-85de-4280-8b82-8075d058ed6d",
   "ranked": false,
-  "rating": 0.92555714,
-  "ratingCount": 1579,
+  "rating": 0.9257101,
+  "ratingCount": 1597,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

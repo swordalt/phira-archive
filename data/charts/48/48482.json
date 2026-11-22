@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:58Z",
-    "lastChanged": "2026-09-21T02:03:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-26T07:45:50.901554Z",
   "charter": "Copanko",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/6ca76659-3b69-438e-8c17-ef1ed0ff5643",
+  "hidden": false,
   "id": 48482,
   "illustration": "https://phira.5wyxi.com/files/2caa7015-acb8-42cd-83a0-660de0d20d37",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "打上花火",
   "preview": "https://phira.5wyxi.com/files/cc511ff8-f799-42a6-8abb-0c75f5535f74",
   "ranked": false,
-  "rating": 0.93522793,
-  "ratingCount": 6750,
+  "rating": 0.93528616,
+  "ratingCount": 7217,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

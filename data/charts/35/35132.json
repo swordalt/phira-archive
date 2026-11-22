@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:07Z",
-    "lastChanged": "2026-09-21T02:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-11T16:30:18.967778Z",
   "charter": "Akisan",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.7,
   "file": "https://phira.5wyxi.com/files/32b113a7-bd0b-472c-b379-220b0e4677f8",
+  "hidden": false,
   "id": 35132,
   "illustration": "https://phira.5wyxi.com/files/d10698f1-a3e4-4ae9-8c47-7ebe4bb4023e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Excalibur ～Revived resolution～",
   "preview": "https://phira.5wyxi.com/files/34593aa6-94d8-4579-bc2f-143e6ebe9971",
   "ranked": false,
-  "rating": 0.94302565,
-  "ratingCount": 658,
+  "rating": 0.9435383,
+  "ratingCount": 667,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

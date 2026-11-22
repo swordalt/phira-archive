@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:06Z",
-    "lastChanged": "2026-09-21T02:01:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-28T15:08:38.061097Z",
   "charter": "cmdysj",
@@ -14,6 +14,7 @@
   "description": "本人上传；之前的延迟不对改了一下",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/99700546-c235-4164-910e-a16947afb06d",
+  "hidden": false,
   "id": 755,
   "illustration": "https://phira.5wyxi.com/files/052aa4e6-69aa-4f75-a828-4d06d6f0e3b8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "マシンガンポエムドール",
   "preview": "https://phira.5wyxi.com/files/57f792d5-b42e-4fa2-90ff-f8d3ee10a076",
   "ranked": false,
-  "rating": 0.91665167,
-  "ratingCount": 12324,
+  "rating": 0.91656345,
+  "ratingCount": 12506,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:17Z",
-    "lastChanged": "2026-09-21T02:05:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-12T23:57:32.680952Z",
   "charter": "滔赫",
@@ -14,6 +14,7 @@
   "description": "6thWJC No.20\n本人上传 哔站同名",
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/0b97da76-52be-4d80-a1d0-c1f10d2f5d8a",
+  "hidden": false,
   "id": 77953,
   "illustration": "https://phira.5wyxi.com/files/0733abaa-7d3e-40b1-af5e-0f04d3c58bd8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Insane Defect",
   "preview": "https://phira.5wyxi.com/files/24281e6f-cf3d-43af-871b-41d20b1800fe",
   "ranked": false,
-  "rating": 0.84612286,
-  "ratingCount": 28,
+  "rating": 0.8663943,
+  "ratingCount": 53,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

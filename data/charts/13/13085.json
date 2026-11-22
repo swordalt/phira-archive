@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:46Z",
-    "lastChanged": "2026-09-21T02:01:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-31T13:31:07.285742Z",
   "charter": "我是橙小橘",
@@ -14,6 +14,7 @@
   "description": "谱师：Bilibili@我是橙小橘（本人上传）    谱面浏览：BV1CM4y1r7we   enjoy~( Ω .̫ Ω )✧",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/f5726468-f522-4e5d-9998-b56c9a94ee0b",
+  "hidden": false,
   "id": 13085,
   "illustration": "https://phira.5wyxi.com/files/3eefe5e0-9b7b-4778-81bd-2625444120fb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "心如止水",
   "preview": "https://phira.5wyxi.com/files/10ad853d-ebbc-4cf0-93e0-90c0155c5820",
   "ranked": false,
-  "rating": 0.89680487,
-  "ratingCount": 25804,
+  "rating": 0.8966597,
+  "ratingCount": 27332,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

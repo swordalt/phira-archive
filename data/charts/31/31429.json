@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:54Z",
-    "lastChanged": "2026-09-21T02:02:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-04T15:19:09.001652Z",
   "charter": "lujin",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n第一次完整写了15 总的来说还是有点粗糙 继续加油吧\n二编 已经没有问题了",
   "difficulty": 16.000004,
   "file": "https://phira.5wyxi.com/files/7f791eac-6b24-422f-aa96-83e0bec370b6",
+  "hidden": false,
   "id": 31429,
   "illustration": "https://phira.5wyxi.com/files/6a07e9cf-93ef-4517-964a-f74041ea7d29",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "チューリングの跡",
   "preview": "https://phira.5wyxi.com/files/318eef86-1a2e-48fa-adde-ff1941eeff44",
   "ranked": false,
-  "rating": 0.87565696,
-  "ratingCount": 104,
+  "rating": 0.88018584,
+  "ratingCount": 107,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:43Z",
-    "lastChanged": "2026-09-21T02:05:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-18T06:51:38.336974Z",
   "charter": "SeeHoon",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/55c1ed75-1a44-4d47-9af8-461d3498bd14",
+  "hidden": false,
   "id": 16029,
   "illustration": "https://phira.5wyxi.com/files/1bce5ac9-059f-4c99-a387-a9a565b7b4d4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sinkhole",
   "preview": "https://phira.5wyxi.com/files/638c06cb-10fa-45b2-b456-32dd3adae5b4",
   "ranked": false,
-  "rating": 0.96434385,
-  "ratingCount": 615,
+  "rating": 0.9636013,
+  "ratingCount": 630,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

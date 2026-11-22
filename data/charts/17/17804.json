@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:05Z",
-    "lastChanged": "2026-09-21T02:02:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-31T03:13:27.223725Z",
   "charter": "potato",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/e3ef355c-cfd4-4ff3-923b-2b0560a0eac4",
+  "hidden": false,
   "id": 17804,
   "illustration": "https://phira.5wyxi.com/files/8a9120c7-eb75-4dbb-a771-63f029c48513",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "RAD DOGS",
   "preview": "https://phira.5wyxi.com/files/458427f4-a662-4554-b4c5-b5a242e68561",
   "ranked": false,
-  "rating": 0.80291855,
-  "ratingCount": 167,
+  "rating": 0.8086103,
+  "ratingCount": 173,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

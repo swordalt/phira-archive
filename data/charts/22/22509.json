@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:21Z",
-    "lastChanged": "2026-09-21T02:02:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-03T00:30:47.024943Z",
   "charter": "re-",
@@ -14,6 +14,7 @@
   "description": "BV1bFhveUEKG",
   "difficulty": 14.599999,
   "file": "https://phira.5wyxi.com/files/6b743e62-a9c6-4c54-a8b7-0fa76227d2ee",
+  "hidden": false,
   "id": 22509,
   "illustration": "https://phira.5wyxi.com/files/342480ff-eb2b-4a42-b787-6c55e4158ca8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "床",
   "preview": "https://phira.5wyxi.com/files/eebfbb58-ba16-4f5f-9437-2cfe9e4f9efe",
   "ranked": false,
-  "rating": 0.9247751,
-  "ratingCount": 2589,
+  "rating": 0.92522216,
+  "ratingCount": 2661,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

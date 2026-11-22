@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:20Z",
-    "lastChanged": "2026-09-21T02:05:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-09T09:53:57.149682Z",
   "charter": "sJDeviko",
@@ -14,6 +14,7 @@
   "description": "啊?",
   "difficulty": 0.1,
   "file": "https://phira.5wyxi.com/files/49fb6de0-6cbc-4081-bf57-1e916b472584",
+  "hidden": false,
   "id": 10046,
   "illustration": "https://phira.5wyxi.com/files/f9de9137-3dec-4f8a-83ad-a1766a198d19",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "音弾超人ゴリライザー",
   "preview": "https://phira.5wyxi.com/files/79d1fcae-ae6c-4ced-a996-206637d35cae",
   "ranked": false,
-  "rating": 0.76520205,
-  "ratingCount": 126,
+  "rating": 0.76807016,
+  "ratingCount": 128,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

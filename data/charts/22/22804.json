@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:21Z",
-    "lastChanged": "2026-09-21T02:02:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-14T17:13:44.848467Z",
   "charter": "towns circle",
@@ -14,6 +14,7 @@
   "description": "灌注主包谢谢喵",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/0065c0d8-b75f-42bc-bf9e-3fe2d32ee7a8",
+  "hidden": false,
   "id": 22804,
   "illustration": "https://phira.5wyxi.com/files/06b900d6-7bc4-4ed5-bea3-874d8ba025ab",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "VR in the Virtual World（Extended Mix）",
   "preview": "https://phira.5wyxi.com/files/c03a4dc6-be20-4978-87a2-1f4c033e6ba4",
   "ranked": false,
-  "rating": 0.9058782,
-  "ratingCount": 100,
+  "rating": 0.9076821,
+  "ratingCount": 102,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

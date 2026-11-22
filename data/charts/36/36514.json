@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:13Z",
-    "lastChanged": "2026-09-21T02:03:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-13T02:06:18.796059Z",
   "charter": "TRZY",
@@ -14,6 +14,7 @@
   "description": "是谱师本人制作，bilibili：天月_あまつき",
   "difficulty": 17.500002,
   "file": "https://phira.5wyxi.com/files/f8939c91-a9ce-4ddc-89d3-005e02570f44",
+  "hidden": false,
   "id": 36514,
   "illustration": "https://phira.5wyxi.com/files/326c3f4b-be81-4f75-8d42-fe2ce5d44eac",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "KIZUNA resolution",
   "preview": "https://phira.5wyxi.com/files/0e31b0a6-f932-4e7a-a95a-8aca3f9589c5",
   "ranked": false,
-  "rating": 0.8701481,
-  "ratingCount": 627,
+  "rating": 0.8724871,
+  "ratingCount": 635,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

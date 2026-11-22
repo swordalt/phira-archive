@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-09-21T02:06:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-30T18:42:04.835189Z",
   "charter": "派尔姆猫",
@@ -14,6 +14,7 @@
   "description": "b站派尔姆猫，求审核大大通过，辛苦了",
   "difficulty": 15.200003,
   "file": "https://phira.5wyxi.com/files/1a1b92ce-df61-4700-b4a1-b68bbc626884",
+  "hidden": false,
   "id": 37139,
   "illustration": "https://phira.5wyxi.com/files/6124bf70-38ff-4068-952b-1eb13e90cea0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Light",
   "preview": "https://phira.5wyxi.com/files/2fd3fd05-927e-4c51-b412-bd4bedbe5345",
   "ranked": false,
-  "rating": 0.91470414,
-  "ratingCount": 19,
+  "rating": 0.9181861,
+  "ratingCount": 20,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

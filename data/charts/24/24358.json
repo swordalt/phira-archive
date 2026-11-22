@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:26Z",
-    "lastChanged": "2026-09-21T02:02:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-26T02:21:02.492316Z",
   "charter": "月【星】晨",
@@ -14,6 +14,7 @@
   "description": "本人上传，全部谱师同意上传。谱面预览详见BV1uu4y1D7Yc P37\n已修正",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/0c219c2e-b8fb-4a33-a08a-f451a0fd65f2",
+  "hidden": false,
   "id": 24358,
   "illustration": "https://phira.5wyxi.com/files/76355c48-cdc0-4dd5-8407-5367c1c8b031",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "寄明月",
   "preview": "https://phira.5wyxi.com/files/a66506c8-aec7-4850-bcc4-fbf6265f2144",
   "ranked": false,
-  "rating": 0.93133146,
-  "ratingCount": 9666,
+  "rating": 0.9307389,
+  "ratingCount": 10492,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

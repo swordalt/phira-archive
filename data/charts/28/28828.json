@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:44Z",
-    "lastChanged": "2026-09-21T02:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-24T14:51:38.761196Z",
   "charter": "tomato & #1f1e33",
@@ -14,6 +14,7 @@
   "description": "本人上传 曲绘更符合中国宝宝体质",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/80682c7b-9f32-485c-9afe-997445f4195b",
+  "hidden": false,
   "id": 28828,
   "illustration": "https://phira.5wyxi.com/files/02914ecc-562d-45be-ba71-46b5bca1a52a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Gloomy Flash",
   "preview": "https://phira.5wyxi.com/files/baa26b5f-d7b2-4d29-a46b-a3c5ddf93edd",
   "ranked": true,
-  "rating": 0.9163417,
-  "ratingCount": 1136,
+  "rating": 0.9160441,
+  "ratingCount": 1177,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

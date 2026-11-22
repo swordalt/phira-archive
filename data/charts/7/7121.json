@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:36Z",
-    "lastChanged": "2026-09-21T02:05:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-08T14:14:38.730930Z",
   "charter": "Phira_Narrow",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 22.0,
   "file": "https://phira.5wyxi.com/files/e7e77769-09bf-4d49-97d0-9a0ef8bbb816",
+  "hidden": false,
   "id": 7121,
   "illustration": "https://phira.5wyxi.com/files/5c2ae791-2c16-42a1-9ee7-f153308725a2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Can't it be true",
   "preview": "https://phira.5wyxi.com/files/2f8a3886-6229-4575-ad09-8e0602af15a5",
   "ranked": false,
-  "rating": 0.9465111,
-  "ratingCount": 1972,
+  "rating": 0.9466595,
+  "ratingCount": 1997,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

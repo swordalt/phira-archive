@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:31Z",
-    "lastChanged": "2026-09-21T02:04:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-28T14:34:55.798066Z",
   "charter": "ただ、愛の彼岸に辿り着きたい",
@@ -14,6 +14,7 @@
   "description": "本人上传，0thPecJam参赛谱RG35 ",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/f6d9b85c-9403-4656-86cd-05d658c46ba9",
+  "hidden": false,
   "id": 54683,
   "illustration": "https://phira.5wyxi.com/files/19b56e7d-23b3-40d5-953c-fff7457924af",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "愛し愛(short ver.)",
   "preview": "https://phira.5wyxi.com/files/b8d17e9b-e121-47df-8d9b-902b2572f1bd",
   "ranked": false,
-  "rating": 0.9440433,
-  "ratingCount": 1321,
+  "rating": 0.9440033,
+  "ratingCount": 1379,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

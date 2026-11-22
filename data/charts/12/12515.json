@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:45Z",
-    "lastChanged": "2026-09-21T02:01:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-16T07:10:50.297547Z",
   "charter": "AR15I",
@@ -14,6 +14,7 @@
   "description": "新人的第一个铺子",
   "difficulty": 15.099999,
   "file": "https://phira.5wyxi.com/files/53dccdc5-4485-4b50-948e-6dac2de24c6b",
+  "hidden": false,
   "id": 12515,
   "illustration": "https://phira.5wyxi.com/files/7b7d50c6-0a72-4f6e-bc5d-ab4be2826559",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "NightTheater",
   "preview": "https://phira.5wyxi.com/files/1719cc6b-f43b-47e2-b09b-e899c84225a1",
   "ranked": false,
-  "rating": 0.8878269,
-  "ratingCount": 535,
+  "rating": 0.88801694,
+  "ratingCount": 536,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

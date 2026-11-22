@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:42Z",
-    "lastChanged": "2026-09-21T02:05:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-14T07:30:06.157710Z",
   "charter": "Ctrl_",
@@ -14,6 +14,7 @@
   "description": "感谢雨落转谱",
   "difficulty": 23.0,
   "file": "https://phira.5wyxi.com/files/17aa6c13-54d3-4491-b280-2a778e2f9f01",
+  "hidden": false,
   "id": 15635,
   "illustration": "https://phira.5wyxi.com/files/fc04d428-4c97-48a2-ae84-3736a6a524da",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "my flow ",
   "preview": "https://phira.5wyxi.com/files/925ad38b-fdfe-478d-80b1-eb11167d4271",
   "ranked": false,
-  "rating": 0.9390945,
-  "ratingCount": 152,
+  "rating": 0.9386197,
+  "ratingCount": 154,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

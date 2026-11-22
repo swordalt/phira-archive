@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:40Z",
-    "lastChanged": "2026-09-21T02:01:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-02T11:33:23.603519Z",
   "charter": "hyt756",
@@ -14,6 +14,7 @@
   "description": "Please set Offset(s) : 0.8",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/830f0a2d-d022-4df3-865c-1ac606727498",
+  "hidden": false,
   "id": 11083,
   "illustration": "https://phira.5wyxi.com/files/d0d31ae2-fc1f-4023-85a3-7318aeca1554",
   "illustrator": "",

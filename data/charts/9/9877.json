@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:35Z",
-    "lastChanged": "2026-09-21T02:01:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-30T11:41:42.095558Z",
   "charter": "雪降大魔王",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n终于在国庆赶出来了这张谱\n特别感谢C啉提供的曲绘！！\n有的地方可能会有一点点初见杀",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/05612bf0-8089-48a4-ab44-da7c77c1a86d",
+  "hidden": false,
   "id": 9877,
   "illustration": "https://phira.5wyxi.com/files/54eb08c0-2c8b-4149-8f21-86464b3b92b5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Midnight",
   "preview": "https://phira.5wyxi.com/files/579c54a4-905f-4ab3-a263-9fc7317bac09",
   "ranked": false,
-  "rating": 0.92978716,
-  "ratingCount": 531,
+  "rating": 0.9291328,
+  "ratingCount": 534,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

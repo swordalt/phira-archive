@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:01Z",
-    "lastChanged": "2026-09-21T02:04:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-02T09:48:00.312821Z",
   "charter": "铜板沙",
@@ -14,6 +14,7 @@
   "description": "用时三天的速写（应该是罢\n欢迎B站关注@铜板沙 谢谢喵～",
   "difficulty": 14.800003,
   "file": "https://phira.5wyxi.com/files/78caedbf-8e97-493a-a76e-c654edcdc5f5",
+  "hidden": false,
   "id": 48720,
   "illustration": "https://phira.5wyxi.com/files/5c0884b2-b0be-4317-bce1-faef0287b776",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Eternal Snow",
   "preview": "https://phira.5wyxi.com/files/951cf68e-6fe9-42c3-960d-86a3f72d7962",
   "ranked": false,
-  "rating": 0.92570364,
-  "ratingCount": 117,
+  "rating": 0.9269062,
+  "ratingCount": 122,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:27Z",
-    "lastChanged": "2026-09-21T02:02:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-31T01:00:47.257383Z",
   "charter": "0_zero壹方_",
@@ -14,6 +14,7 @@
   "description": "谱师为我自己，4个小时17条线写出来的，是个人写的最好的谱（目前）",
   "difficulty": 13.7,
   "file": "https://phira.5wyxi.com/files/0679d92c-4f54-4c1f-aba3-ee588e1c22de",
+  "hidden": false,
   "id": 24776,
   "illustration": "https://phira.5wyxi.com/files/a757308a-1f5f-46c3-b10d-063e36b8c442",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Recall！",
   "preview": "https://phira.5wyxi.com/files/2fb910b4-b98e-4cbe-9c66-258d9f98fe04",
   "ranked": false,
-  "rating": 0.88589036,
-  "ratingCount": 53,
+  "rating": 0.8878795,
+  "ratingCount": 54,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

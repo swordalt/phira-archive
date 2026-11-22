@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:20Z",
-    "lastChanged": "2026-09-21T02:02:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-02T06:06:23.360889Z",
   "charter": "米津八爷",
@@ -14,6 +14,7 @@
   "description": "最爱的帝国少女",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/c4c97019-a761-4641-a97d-e6e11297fd4c",
+  "hidden": false,
   "id": 22448,
   "illustration": "https://phira.5wyxi.com/files/bfb29dd8-6dd5-43f9-bd7e-a84cd5ddd356",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "帝国少女",
   "preview": "https://phira.5wyxi.com/files/5847f3a7-5828-481a-b072-1dbb8c722197",
   "ranked": false,
-  "rating": 0.9207716,
-  "ratingCount": 1496,
+  "rating": 0.922015,
+  "ratingCount": 1588,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

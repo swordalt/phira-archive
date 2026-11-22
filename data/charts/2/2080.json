@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:35Z",
-    "lastChanged": "2026-09-21T02:05:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-14T13:27:40.166147Z",
   "charter": "BL3EIeD",
@@ -14,6 +14,7 @@
   "description": "我写的我写的，去年第一次写多指请多指教。",
   "difficulty": 16.900002,
   "file": "https://phira.5wyxi.com/files/2025d188-1df1-45f7-8659-156c06a4eb6c",
+  "hidden": false,
   "id": 2080,
   "illustration": "https://phira.5wyxi.com/files/8f210931-f600-46ef-91b9-f816542932d0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dimension Hacker",
   "preview": "https://phira.5wyxi.com/files/d86f1f67-2938-45f7-9cfc-14992e6df51e",
   "ranked": false,
-  "rating": 0.81159997,
-  "ratingCount": 136,
+  "rating": 0.810997,
+  "ratingCount": 137,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:29Z",
-    "lastChanged": "2026-09-21T02:04:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-21T01:12:56.071467Z",
   "charter": "小莳SunLight",
@@ -14,6 +14,7 @@
   "description": "b站 小莳SunLight",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/f6f025bd-5adb-4a75-b015-a7a5cd9c05f5",
+  "hidden": false,
   "id": 54337,
   "illustration": "https://phira.5wyxi.com/files/0207fab4-525a-4c4e-8131-ae27966c4654",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Theme of SSS",
   "preview": "https://phira.5wyxi.com/files/35cd1354-f57c-4fee-911d-afb7d868d03c",
   "ranked": false,
-  "rating": 0.93534184,
-  "ratingCount": 464,
+  "rating": 0.9373327,
+  "ratingCount": 486,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

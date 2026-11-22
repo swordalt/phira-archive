@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:34Z",
-    "lastChanged": "2026-09-21T02:05:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "Sublcya",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 12.300001,
   "file": "https://phira.5wyxi.com/files/642e2bad-479c-4a8d-8d04-ae92b092be00",
+  "hidden": false,
   "id": 320,
   "illustration": "https://phira.5wyxi.com/files/ead6dea4-0c56-4c56-b1a4-ba2b823ebf78",
   "illustrator": "takehirotei",
@@ -21,8 +22,8 @@
   "name": "sus;apple",
   "preview": "https://phira.5wyxi.com/files/66354ad7-29fd-485e-9db7-268edd5c476f",
   "ranked": false,
-  "rating": 0.85754716,
-  "ratingCount": 126,
+  "rating": 0.85754466,
+  "ratingCount": 127,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

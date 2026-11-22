@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:00Z",
-    "lastChanged": "2026-09-21T02:02:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-02T07:41:05.300838Z",
   "charter": "Zero and Zihun were engulfed by the storm",
@@ -14,6 +14,7 @@
   "description": "谱师本人",
   "difficulty": 15.7,
   "file": "https://phira.5wyxi.com/files/992a4c28-b2b4-4a53-8056-82bbfd540e6c",
+  "hidden": false,
   "id": 16561,
   "illustration": "https://phira.5wyxi.com/files/c97323a9-bd12-4e9e-b7ec-767976d5fade",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "又三郎",
   "preview": "https://phira.5wyxi.com/files/c8b69ba6-6f3c-461a-936a-95019857eb7c",
   "ranked": false,
-  "rating": 0.940512,
-  "ratingCount": 1352,
+  "rating": 0.9428453,
+  "ratingCount": 1527,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

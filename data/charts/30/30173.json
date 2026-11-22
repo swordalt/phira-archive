@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:04Z",
-    "lastChanged": "2026-09-21T02:06:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-27T18:13:04.746779Z",
   "charter": "Xnline",
@@ -14,6 +14,7 @@
   "description": "本人上传，常规5切",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/64f516c5-0b04-4c6c-a19c-9420e5cc9a60",
+  "hidden": false,
   "id": 30173,
   "illustration": "https://phira.5wyxi.com/files/f7a1a98c-02d4-4c11-83fc-f2f013a49b14",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "cyanine",
   "preview": "https://phira.5wyxi.com/files/e1dca183-b4d8-4ae8-84c0-348ffdaf4208",
   "ranked": false,
-  "rating": 0.94856775,
-  "ratingCount": 338,
+  "rating": 0.948577,
+  "ratingCount": 339,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

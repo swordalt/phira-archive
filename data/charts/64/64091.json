@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:55Z",
-    "lastChanged": "2026-09-21T02:04:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:32Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-04T15:09:07.900592Z",
   "charter": "Shun2420",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.700002,
   "file": "https://phira.5wyxi.com/files/1dff6d0b-06c2-475a-bc01-08c315e2b2bf",
+  "hidden": false,
   "id": 64091,
   "illustration": "https://phira.5wyxi.com/files/b7d94b97-4704-481f-8da2-8a0ba5672479",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "青春のアーカイブ",
   "preview": "https://phira.5wyxi.com/files/c452dcf9-1efb-4a93-a309-666e9554b4ef",
   "ranked": false,
-  "rating": 0.9433099,
-  "ratingCount": 982,
+  "rating": 0.9448136,
+  "ratingCount": 1072,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

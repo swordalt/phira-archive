@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:56Z",
-    "lastChanged": "2026-09-21T02:02:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-18T14:25:14.136393Z",
   "charter": "Arkimpact",
@@ -14,6 +14,7 @@
   "description": "本谱面由谱师本人上传，B 站@关耳天马 @放克麦子 @盒子2000の秘密桃源",
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/ec09d217-5f02-4f77-8d93-98b010b5342d",
+  "hidden": false,
   "id": 32006,
   "illustration": "https://phira.5wyxi.com/files/034507b8-cb7b-4627-a488-f13c7705944d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "神圣之光 (Arklight)",
   "preview": "https://phira.5wyxi.com/files/e41510e8-a900-4649-9b0b-a93bbcd38a04",
   "ranked": true,
-  "rating": 0.91685265,
-  "ratingCount": 1568,
+  "rating": 0.91718966,
+  "ratingCount": 1599,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

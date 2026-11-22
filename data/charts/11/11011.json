@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:39Z",
-    "lastChanged": "2026-09-21T02:01:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-29T11:31:02.059918Z",
   "charter": "A_xie_A",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/3276508f-4094-407e-a1c5-765c49eca337",
+  "hidden": false,
   "id": 11011,
   "illustration": "https://phira.5wyxi.com/files/2867a992-1407-4986-8c34-60f8ccfbae86",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Avantgarde",
   "preview": "https://phira.5wyxi.com/files/6064eaec-d65e-46ca-90b5-ec6268efce18",
   "ranked": false,
-  "rating": 0.9367157,
-  "ratingCount": 2778,
+  "rating": 0.93650955,
+  "ratingCount": 2804,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

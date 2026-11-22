@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:36Z",
-    "lastChanged": "2026-09-21T02:02:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-20T23:46:39.873173Z",
   "charter": "兰花酱",
@@ -14,6 +14,7 @@
   "description": "以后会改谱的",
   "difficulty": 15.7,
   "file": "https://phira.5wyxi.com/files/4f783487-2b05-4c6c-9713-9e361704cc5c",
+  "hidden": false,
   "id": 26634,
   "illustration": "https://phira.5wyxi.com/files/fd81f6bc-e1e2-4a75-b483-e1d37c75478a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "明鏡烈火",
   "preview": "https://phira.5wyxi.com/files/c1ab3d02-618b-475e-9292-559c84fc2bfb",
   "ranked": false,
-  "rating": 0.71328217,
-  "ratingCount": 503,
+  "rating": 0.7119973,
+  "ratingCount": 518,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

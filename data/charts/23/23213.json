@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:21Z",
-    "lastChanged": "2026-09-21T02:02:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-11T13:12:41.105332Z",
   "charter": "希",
@@ -14,6 +14,7 @@
   "description": "花火「独角戏」",
   "difficulty": 15.000004,
   "file": "https://phira.5wyxi.com/files/28dd1d37-9ee2-48b2-9d6a-91281655ba7f",
+  "hidden": false,
   "id": 23213,
   "illustration": "https://phira.5wyxi.com/files/3e053c5a-fab8-43f3-920c-9861b614e29d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "「独角戏」",
   "preview": "https://phira.5wyxi.com/files/ea713ef6-d27e-4046-a408-d83556df6084",
   "ranked": false,
-  "rating": 0.93768,
-  "ratingCount": 9534,
+  "rating": 0.9374403,
+  "ratingCount": 9709,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

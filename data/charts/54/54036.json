@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:28Z",
-    "lastChanged": "2026-09-21T02:04:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-11T14:59:21.570838Z",
   "charter": "YSR",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/9bf05ae6-b4f1-4984-8799-49747e1affc7",
+  "hidden": false,
   "id": 54036,
   "illustration": "https://phira.5wyxi.com/files/21fafeb7-5bda-4a61-a6b8-8ed7ed31ff0c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Hikari",
   "preview": "https://phira.5wyxi.com/files/e7c4f6f5-ea54-4d28-84ce-4344ed6d9d06",
   "ranked": false,
-  "rating": 0.75525814,
-  "ratingCount": 6,
+  "rating": 0.775387,
+  "ratingCount": 7,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

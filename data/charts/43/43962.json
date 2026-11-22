@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:28Z",
-    "lastChanged": "2026-09-21T02:06:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-07T14:40:42.131064Z",
   "charter": "Shine-_-enihS",
@@ -14,6 +14,7 @@
   "description": "本人上传。第二张谱，第一张定轨4k。",
   "difficulty": 38.0,
   "file": "https://phira.5wyxi.com/files/46bb8a01-26f4-433e-9829-3ee97bb664f2",
+  "hidden": false,
   "id": 43962,
   "illustration": "https://phira.5wyxi.com/files/5e9d6abe-cfb0-4be1-93cc-c1f876a85949",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MAXRAGE",
   "preview": "https://phira.5wyxi.com/files/e6d3c572-fbe1-4642-924a-2c53603af09e",
   "ranked": false,
-  "rating": 0.94624144,
-  "ratingCount": 60,
+  "rating": 0.947225,
+  "ratingCount": 63,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

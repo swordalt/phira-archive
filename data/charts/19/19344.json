@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:47Z",
-    "lastChanged": "2026-09-21T02:05:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-03T05:41:20.638891Z",
   "charter": "Hiesnoze",
@@ -14,6 +14,7 @@
   "description": "优化了一下采音\n流速14→13.5\nBPM198\n单手切警告（？）",
   "difficulty": 33.0,
   "file": "https://phira.5wyxi.com/files/24cc8ee3-6b6e-47ae-bdfe-b8be064a7f90",
+  "hidden": false,
   "id": 19344,
   "illustration": "https://phira.5wyxi.com/files/57b1d5e6-108f-427f-877e-c73c32f96d93",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ice Festival",
   "preview": "https://phira.5wyxi.com/files/9fb835aa-b7c1-4ba1-89be-eb6dd984f3b8",
   "ranked": false,
-  "rating": 0.959796,
-  "ratingCount": 141,
+  "rating": 0.96088177,
+  "ratingCount": 145,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

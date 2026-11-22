@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:12Z",
-    "lastChanged": "2026-09-21T02:04:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-16T12:53:50.978751Z",
   "charter": "冰川中的烈火",
@@ -14,6 +14,7 @@
   "description": "b站冰川中的烈火 - 这是b站@THYANIX青则溪的委托！ 超爽碎核！",
   "difficulty": 16.800007,
   "file": "https://phira.5wyxi.com/files/065e6686-2468-4c01-9391-281714ba581b",
+  "hidden": false,
   "id": 51279,
   "illustration": "https://phira.5wyxi.com/files/1e151a70-61b7-4ece-b59e-9db9f368dd71",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Scrutinised",
   "preview": "https://phira.5wyxi.com/files/b5a3e60d-d59f-4204-80ee-99adac1cd0b1",
   "ranked": false,
-  "rating": 0.9236283,
-  "ratingCount": 353,
+  "rating": 0.92416215,
+  "ratingCount": 360,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

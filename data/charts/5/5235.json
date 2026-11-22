@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:20Z",
-    "lastChanged": "2026-09-21T02:01:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-13T09:43:57.335008Z",
   "charter": "NintyKeven",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，b站@銫_ 谱师名义“NintyKeven”为马甲",
   "difficulty": 13.500002,
   "file": "https://phira.5wyxi.com/files/f56adc62-eb2f-43c7-8b29-cfd2547ac776",
+  "hidden": false,
   "id": 5235,
   "illustration": "https://phira.5wyxi.com/files/29e0ecaf-f791-4c05-a90d-278971a567b9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "星茶会",
   "preview": "https://phira.5wyxi.com/files/1e155046-d872-4c5a-afd3-c1725a0e313a",
   "ranked": false,
-  "rating": 0.93169016,
-  "ratingCount": 5463,
+  "rating": 0.9319007,
+  "ratingCount": 5524,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

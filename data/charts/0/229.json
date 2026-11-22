@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:05Z",
-    "lastChanged": "2026-09-21T02:01:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "[Clock - Pixel]",
@@ -14,6 +14,7 @@
   "description": "代人上传，感谢@是像素吖 的授权！谱师：@是像素吖",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/4347f936-1116-4905-bc64-0cd17d8dfb39",
+  "hidden": false,
   "id": 229,
   "illustration": "https://phira.5wyxi.com/files/61468fe9-0a1c-4d02-82b3-387c0e0d6c5f",
   "illustrator": "?",
@@ -21,8 +22,8 @@
   "name": "Chronostasis 2021",
   "preview": "https://phira.5wyxi.com/files/ce95f90e-c0d0-4133-91ee-4b76347905fe",
   "ranked": false,
-  "rating": 0.9041121,
-  "ratingCount": 2256,
+  "rating": 0.9042081,
+  "ratingCount": 2288,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:34Z",
-    "lastChanged": "2026-09-21T02:05:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-10T07:24:41.354725Z",
   "charter": "mj1748",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/37c433f3-930d-4bba-b36e-fd7a9fa6c9c1",
+  "hidden": false,
   "id": 1569,
   "illustration": "https://phira.5wyxi.com/files/37647d13-875c-44b8-977e-a9824eeb4c31",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "躯樹の墓守",
   "preview": "https://phira.5wyxi.com/files/f0b083f2-315a-405f-82f7-31a668178dbf",
   "ranked": false,
-  "rating": 0.7683841,
-  "ratingCount": 96,
+  "rating": 0.7661859,
+  "ratingCount": 98,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

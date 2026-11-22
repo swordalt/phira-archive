@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:24Z",
-    "lastChanged": "2026-09-21T02:05:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-31T05:19:48.484340Z",
   "charter": "KA",
@@ -14,6 +14,7 @@
   "description": "ilibilib：KASTATION",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/c0478817-21aa-40c3-8ca3-28c6693f7129",
+  "hidden": false,
   "id": 20546,
   "illustration": "https://phira.5wyxi.com/files/a98f8efe-e10a-43cb-9be8-51922883473a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "风屿",
   "preview": "https://phira.5wyxi.com/files/c382b54e-fcad-40db-b10c-ea216bf34064",
   "ranked": false,
-  "rating": 0.7156896,
-  "ratingCount": 247,
+  "rating": 0.717592,
+  "ratingCount": 248,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

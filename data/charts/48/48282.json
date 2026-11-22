@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:58Z",
-    "lastChanged": "2026-09-21T02:03:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-22T08:30:59.460707Z",
   "charter": "柚子",
@@ -14,6 +14,7 @@
   "description": "新人第一个高难度谱面，质量低见谅",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/22e8ad6a-a355-45e0-aa11-fb7308ec8ba2",
+  "hidden": false,
   "id": 48282,
   "illustration": "https://phira.5wyxi.com/files/f13e3f04-5394-4c4c-8189-a248a87fc1a5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "INFINITE HYPERDRIVE",
   "preview": "https://phira.5wyxi.com/files/4aaf703b-a4c6-4152-99bf-0a674ccd97ee",
   "ranked": false,
-  "rating": 0.8802819,
-  "ratingCount": 78,
+  "rating": 0.8784061,
+  "ratingCount": 84,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

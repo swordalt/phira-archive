@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:07Z",
-    "lastChanged": "2026-09-21T02:06:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-25T14:42:51.534574Z",
   "charter": "KM seeker",
@@ -14,6 +14,7 @@
   "description": "特效不行，请见谅，B站：可木Kydwes-Miaco",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/b719e1d4-0d7a-4e98-8b9f-1864aeba1d2e",
+  "hidden": false,
   "id": 32454,
   "illustration": "https://phira.5wyxi.com/files/1100ff68-0411-4760-b444-e3f03ef3cd4c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "a truth seeker -Communication with Utopia will be lost-",
   "preview": "https://phira.5wyxi.com/files/131144cc-adc7-4478-9416-5fa40e31bc20",
   "ranked": false,
-  "rating": 0.88926375,
-  "ratingCount": 217,
+  "rating": 0.88711536,
+  "ratingCount": 221,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:25Z",
-    "lastChanged": "2026-09-21T02:06:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-23T04:56:43.334752Z",
   "charter": "laopai",
@@ -14,6 +14,7 @@
   "description": "新手第一次做谱子 有些地方可能做得不好 见谅",
   "difficulty": 11.999996,
   "file": "https://phira.5wyxi.com/files/3ccdbf59-c527-4d0f-aee6-8043ba7998e4",
+  "hidden": false,
   "id": 42490,
   "illustration": "https://phira.5wyxi.com/files/f990b9bd-735b-40ac-b26d-7c70a4971065",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "葬",
   "preview": "https://phira.5wyxi.com/files/68759550-b7e2-40a1-ba3c-c93443d0c11d",
   "ranked": false,
-  "rating": 0.8945583,
-  "ratingCount": 107,
+  "rating": 0.895174,
+  "ratingCount": 112,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:07Z",
-    "lastChanged": "2026-11-15T12:22:27Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:01:12Z",
+    "revisions": 4
   },
   "chartUpdated": "2025-02-05T12:01:11.047775Z",
   "charter": "ShaShen4404",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 36.0,
   "file": "https://phira.5wyxi.com/files/40722f59-6412-416f-8a37-1d9b2702c068",
+  "hidden": false,
   "id": 32689,
   "illustration": "https://phira.5wyxi.com/files/af11ed6a-ac18-4a80-a838-b979ba6ca51a",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "Straight into the lights",
   "preview": "https://phira.5wyxi.com/files/a12871e2-0792-402e-84ca-e8a9e1080fad",
   "ranked": false,
-  "rating": 0.94100463,
+  "rating": 0.9398262,
   "ratingCount": 212,
   "reviewed": true,
   "stable": false,

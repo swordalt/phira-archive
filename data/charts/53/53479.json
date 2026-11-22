@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:46Z",
-    "lastChanged": "2026-09-21T02:06:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-26T15:02:42.826145Z",
   "charter": "Nosmoking",
@@ -14,6 +14,7 @@
   "description": "定位：LN（long note）",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/b584c323-1d2f-467c-b7dd-2c7395ecdde9",
+  "hidden": false,
   "id": 53479,
   "illustration": "https://phira.5wyxi.com/files/23fca115-8974-4bd9-af7c-9801907656e5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "メルヘル小惑星",
   "preview": "https://phira.5wyxi.com/files/ea365e6e-3275-461c-b213-d4da989d5c17",
   "ranked": false,
-  "rating": 0.9129902,
-  "ratingCount": 25,
+  "rating": 0.9256919,
+  "ratingCount": 30,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:08Z",
-    "lastChanged": "2026-09-21T02:06:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-30T10:51:34.997630Z",
   "charter": "Emp",
@@ -14,6 +14,7 @@
   "description": "谱师第二人格写出的，排列抽象，采音摆烂的塞爆谱面。（谱师本人吃不下这坨）",
   "difficulty": 36.0,
   "file": "https://phira.5wyxi.com/files/be7d826a-7687-4024-a0eb-0926fcbc773d",
+  "hidden": false,
   "id": 32896,
   "illustration": "https://phira.5wyxi.com/files/d44848d7-bb70-4825-84a4-b9b3b395cc65",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Breakcore革命前夜",
   "preview": "https://phira.5wyxi.com/files/e4f1afd6-a668-4d09-b909-1313e4cfc35f",
   "ranked": false,
-  "rating": 0.9263484,
-  "ratingCount": 76,
+  "rating": 0.9272652,
+  "ratingCount": 77,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

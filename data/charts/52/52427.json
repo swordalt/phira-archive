@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:20Z",
-    "lastChanged": "2026-09-21T02:04:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-11T05:51:07.975739Z",
   "charter": "LiFE Rabbit",
@@ -14,6 +14,7 @@
   "description": "生命花园的HD版本",
   "difficulty": 9.0,
   "file": "https://phira.5wyxi.com/files/7e161b36-fd4f-4250-8be5-c505b872662e",
+  "hidden": false,
   "id": 52427,
   "illustration": "https://phira.5wyxi.com/files/b0fc031b-e42d-45b0-88af-1333b37aa0ed",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "LiFE Garden(Extended Mix)",
   "preview": "https://phira.5wyxi.com/files/28f06226-17c8-46be-af44-529aa9a26a5c",
   "ranked": false,
-  "rating": 0.9166962,
-  "ratingCount": 145,
+  "rating": 0.9170907,
+  "ratingCount": 148,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

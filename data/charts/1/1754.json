@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:10Z",
-    "lastChanged": "2026-09-21T02:01:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-12T14:52:02.764567Z",
   "charter": "阳光彩虹小霜炎",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 14.200002,
   "file": "https://phira.5wyxi.com/files/6e0cefb9-f9ba-47f6-86cf-3bdb9dc91b3c",
+  "hidden": false,
   "id": 1754,
   "illustration": "https://phira.5wyxi.com/files/4d1020b4-2e2b-4b88-b914-80852fbe7ddc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "阳光彩虹小白马",
   "preview": "https://phira.5wyxi.com/files/b33220d7-0153-49f1-92f7-00b0bc39c146",
   "ranked": false,
-  "rating": 0.91026616,
-  "ratingCount": 16306,
+  "rating": 0.9100643,
+  "ratingCount": 16566,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

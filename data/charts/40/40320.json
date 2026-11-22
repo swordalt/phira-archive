@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:19Z",
-    "lastChanged": "2026-09-21T02:06:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-27T05:45:56.008220Z",
   "charter": "星轨xY",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/22a54deb-dfbb-4198-b2de-393ef76f8f24",
+  "hidden": false,
   "id": 40320,
   "illustration": "https://phira.5wyxi.com/files/4b23317f-c559-47db-9b17-22afd1a4d058",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": " Atlantis Lives",
   "preview": "https://phira.5wyxi.com/files/8b33d6bc-8dde-43b6-9942-632aedc9176e",
   "ranked": false,
-  "rating": 0.86196613,
-  "ratingCount": 11,
+  "rating": 0.86177754,
+  "ratingCount": 13,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

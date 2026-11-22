@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:44Z",
-    "lastChanged": "2026-09-21T02:05:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-22T15:37:14.189601Z",
   "charter": "Iblcya",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nLC2024#2QUALIFICATIONHB1",
   "difficulty": 10.5,
   "file": "https://phira.5wyxi.com/files/c2b0eaeb-0a1a-4b51-a6f8-318c079d28ef",
+  "hidden": false,
   "id": 17389,
   "illustration": "https://phira.5wyxi.com/files/70c16607-7a21-49fe-abb7-892ce8d4febd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Giri the Giri",
   "preview": "https://phira.5wyxi.com/files/042b9d27-772e-422a-bb9a-1a475dcf3efc",
   "ranked": false,
-  "rating": 0.85755426,
-  "ratingCount": 805,
+  "rating": 0.8575959,
+  "ratingCount": 808,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

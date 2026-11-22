@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:24Z",
-    "lastChanged": "2026-09-21T02:05:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-11T00:12:51.885787Z",
   "charter": "本所",
@@ -14,6 +14,7 @@
   "description": "新人随便写写，练个手先辣",
   "difficulty": 1.0,
   "file": "https://phira.5wyxi.com/files/6ecf6727-c122-41bf-8e44-0b3701eb52bb",
+  "hidden": false,
   "id": 21159,
   "illustration": "https://phira.5wyxi.com/files/6f8c512d-0ab4-4b6c-8dbe-e1d8e7b7f133",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "野花香",
   "preview": "https://phira.5wyxi.com/files/63f38afe-878d-4019-8187-e4b61d59078f",
   "ranked": false,
-  "rating": 0.8803438,
-  "ratingCount": 644,
+  "rating": 0.87842953,
+  "ratingCount": 653,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

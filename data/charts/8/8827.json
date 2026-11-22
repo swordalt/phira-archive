@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:30Z",
-    "lastChanged": "2026-09-21T02:01:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-31T08:42:38.981273Z",
   "charter": "X.U.II.S",
@@ -14,6 +14,7 @@
   "description": "关注b站@uuuuuisans\n关注b站@uuuuuisans\n关注b站@uuuuuisans\n(本人上传，半成品)",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/3e50e4bc-5d4a-4ea2-81b8-0e0bad4a3f22",
+  "hidden": false,
   "id": 8827,
   "illustration": "https://phira.5wyxi.com/files/a106fbd6-47ce-4920-b0d8-0dad88f501df",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "XODUS",
   "preview": "https://phira.5wyxi.com/files/6510b9f5-0dd8-45a3-9653-69d11077e0d2",
   "ranked": false,
-  "rating": 0.8799108,
-  "ratingCount": 1200,
+  "rating": 0.8796443,
+  "ratingCount": 1206,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

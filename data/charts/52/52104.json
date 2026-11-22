@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:18Z",
-    "lastChanged": "2026-09-21T02:04:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-05T07:33:11.063145Z",
   "charter": "PM",
@@ -14,6 +14,7 @@
   "description": "本人上传，b站同名",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/c2d93df3-3b3a-4a18-bc23-6724590e0340",
+  "hidden": false,
   "id": 52104,
   "illustration": "https://phira.5wyxi.com/files/d8667298-3d40-48e6-9123-d9754d1339a5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "KENSEI",
   "preview": "https://phira.5wyxi.com/files/c8113701-f2ec-438c-b220-2410b6fc3c66",
   "ranked": false,
-  "rating": 0.930716,
-  "ratingCount": 39,
+  "rating": 0.93167627,
+  "ratingCount": 41,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

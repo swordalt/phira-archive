@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:21Z",
-    "lastChanged": "2026-09-21T02:06:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-05T11:20:55.116339Z",
   "charter": "爆炸狗",
@@ -14,6 +14,7 @@
   "description": "你不会以为键盘谱没有叠吧\n(叠键已删除)",
   "difficulty": 17.6,
   "file": "https://phira.5wyxi.com/files/cc09fa1e-27e3-4cb6-aa4a-89120f729267",
+  "hidden": false,
   "id": 40949,
   "illustration": "https://phira.5wyxi.com/files/63b39808-06d9-46e4-881d-4d771a482592",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "春嵐",
   "preview": "https://phira.5wyxi.com/files/6c42e39a-f7b9-4671-8590-37a3fa1e59ea",
   "ranked": false,
-  "rating": 0.8985907,
-  "ratingCount": 52,
+  "rating": 0.9053659,
+  "ratingCount": 59,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

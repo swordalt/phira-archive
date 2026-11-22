@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:56Z",
-    "lastChanged": "2026-09-21T02:04:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-09T11:22:51.285736Z",
   "charter": "DY vs. Suik",
@@ -14,6 +14,7 @@
   "description": "合作谱面\n\n\n配置：雨中的铃铛鸟\n动效：DY---DY\n\n发布者为DY---DY本人",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/522316aa-ad29-4d39-83ce-831b2e5a0e3c",
+  "hidden": false,
   "id": 65261,
   "illustration": "https://phira.5wyxi.com/files/f1a8eaf4-cdba-4e39-9593-79223153f154",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "qualia -ideaesthesia-",
   "preview": "https://phira.5wyxi.com/files/fdc9a66f-3f23-46ef-aa7e-7cd2bbf88cae",
   "ranked": false,
-  "rating": 0.82813734,
-  "ratingCount": 57,
+  "rating": 0.83370847,
+  "ratingCount": 62,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

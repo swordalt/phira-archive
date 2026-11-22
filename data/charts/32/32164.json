@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:57Z",
-    "lastChanged": "2026-09-21T02:02:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-21T14:53:39.500856Z",
   "charter": "RLCR-雨巷猫归",
@@ -14,6 +14,7 @@
   "description": "新人二谱，该曲原本在未来写谱计划当中的，但没想到Phigros收录了。于是先放弃正在写的谱面，打算押一下配置，并于1月10日晚新建文件夹，但是写到1月17日下午15点还有部分「判定线动效和判定线表演」未完成，迫于时间压力不得已先发出半成品至b站。\n\n谱面1月18日晚完成，b站视频于1月20日0点换源，谱面主要改动如下：\n\n1.修改4k段落的大位移双押，以及部分容易误触的配置\n2.更改部分判定线动效的缓动曲线\n3.对未添加判定线动效和判定线表演段落进行添加\n\n1月20日晚对谱面进行更新，b站视频于1月21日上午换源，谱面改动如下：\n\n1.提高谱面流速\n2.修改599combo处红键\n3.对481combo和521combo处侧落蓝键的位置进行下调\n\n3月4日更新：\n\n修改谱面定数：15.5（新）  15.4（旧）\n\n谱师b站：RLRC-雨巷猫归\n\n\n",
   "difficulty": 15.500001,
   "file": "https://phira.5wyxi.com/files/db6517e5-0697-4ef1-8e0c-43fb1d819eaf",
+  "hidden": false,
   "id": 32164,
   "illustration": "https://phira.5wyxi.com/files/35aa863a-72c5-4050-85e6-b2b09572386b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "蝎虎天体 -Lacertid-",
   "preview": "https://phira.5wyxi.com/files/73bf4b72-fcb0-4e44-81aa-0b109ed69d72",
   "ranked": false,
-  "rating": 0.91834974,
-  "ratingCount": 2088,
+  "rating": 0.91824037,
+  "ratingCount": 2151,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

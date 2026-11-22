@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:05Z",
-    "lastChanged": "2026-09-21T02:05:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-02T02:28:44.958916Z",
   "charter": "D1η_nasAb",
@@ -14,6 +14,7 @@
   "description": "个人五谱，本人上传，一种较为激进的双指谱面，为了防止文件过大，我压缩了解锁动画",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/66f3e047-ccad-44b8-8fb2-d86c26523d46",
+  "hidden": false,
   "id": 70660,
   "illustration": "https://phira.5wyxi.com/files/89669174-36c8-4641-9c28-40124d074a4d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "NON Eq",
   "preview": "https://phira.5wyxi.com/files/e0919d1e-2545-4a61-9a91-d286c2458ee6",
   "ranked": false,
-  "rating": 0.86037207,
-  "ratingCount": 47,
+  "rating": 0.8629491,
+  "ratingCount": 71,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:15Z",
-    "lastChanged": "2026-09-21T02:03:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-02T13:49:14.842777Z",
   "charter": "Rotating Roast X",
@@ -14,6 +14,7 @@
   "description": "一改",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/5181334c-18df-44ff-b932-551def0e8a61",
+  "hidden": false,
   "id": 37132,
   "illustration": "https://phira.5wyxi.com/files/894a5123-950a-4d92-ae1e-0105189b6348",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Level Up",
   "preview": "https://phira.5wyxi.com/files/d3da133d-aca2-4e79-94b1-ae70da1b6133",
   "ranked": false,
-  "rating": 0.90592474,
-  "ratingCount": 126,
+  "rating": 0.9059036,
+  "ratingCount": 128,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

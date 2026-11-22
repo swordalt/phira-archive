@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:15Z",
-    "lastChanged": "2026-09-21T02:03:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-01T13:04:47.997931Z",
   "charter": "Corydalis",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/f0d724ce-0680-4b3a-a4dc-8bef8153d38a",
+  "hidden": false,
   "id": 37206,
   "illustration": "https://phira.5wyxi.com/files/a35298c7-2d1f-4da1-bf02-ada3209fa218",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Destr0yer",
   "preview": "https://phira.5wyxi.com/files/44b45c3f-98d0-478a-aa8e-ab7ab856e97a",
   "ranked": false,
-  "rating": 0.937837,
-  "ratingCount": 419,
+  "rating": 0.93841344,
+  "ratingCount": 427,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-09T13:06:59Z",
-    "lastChanged": "2026-10-13T18:10:18Z",
-    "revisions": 4
+    "lastChanged": "2026-11-22T12:59:25Z",
+    "revisions": 5
   },
   "chartUpdated": "2026-10-09T09:45:50.185793Z",
   "charter": "Yann",
@@ -14,6 +14,7 @@
   "description": "我好像在写什么很过时的东西。\n————————————\n本人上传，B站@超爱吃盐的盐盐",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/3ce7a04f-4bfc-4b7a-8fcf-586a13c92c92",
+  "hidden": false,
   "id": 80636,
   "illustration": "https://phira.5wyxi.com/files/5ec9fb35-5aa8-44ab-b28f-e4cdc6a4194a",
   "illustrator": "SEGA",
@@ -21,8 +22,8 @@
   "name": "WE'RE BACK!!",
   "preview": "https://phira.5wyxi.com/files/8e79d706-381b-4cfc-a511-b27c9b97bea9",
   "ranked": false,
-  "rating": 0.9413631,
-  "ratingCount": 186,
+  "rating": 0.9389133,
+  "ratingCount": 299,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

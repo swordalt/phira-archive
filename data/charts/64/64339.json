@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:57Z",
-    "lastChanged": "2026-09-21T02:06:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-05T15:05:32.014141Z",
   "charter": "HRS-Team",
@@ -14,6 +14,7 @@
   "description": "HRS-Lv.1-Sync单曲",
   "difficulty": 1.2,
   "file": "https://phira.5wyxi.com/files/fbb1eee9-ca4f-4acf-b34b-5b4a50437079",
+  "hidden": false,
   "id": 64339,
   "illustration": "https://phira.5wyxi.com/files/c33618f0-2f61-40a5-90b0-b1f1d9855ebb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "system all green",
   "preview": "https://phira.5wyxi.com/files/768be8a4-5775-49db-a2dd-ff8f156aff55",
   "ranked": false,
-  "rating": 0.9051516,
-  "ratingCount": 30,
+  "rating": 0.9078494,
+  "ratingCount": 31,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:14Z",
-    "lastChanged": "2026-09-21T02:06:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-05T15:01:20.674249Z",
   "charter": "moonnicholas",
@@ -14,6 +14,7 @@
   "description": "本人上傳",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/d6c95f7f-7df0-471a-9ded-2c753ec1a749",
+  "hidden": false,
   "id": 37696,
   "illustration": "https://phira.5wyxi.com/files/7c7e53a6-7234-4721-9b5e-2d08643d6e39",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "量子力学のためのピアノ協奏曲",
   "preview": "https://phira.5wyxi.com/files/fdbfaaf7-65ab-43b5-8fdc-a765da74e51d",
   "ranked": false,
-  "rating": 0.9419371,
-  "ratingCount": 92,
+  "rating": 0.94272053,
+  "ratingCount": 95,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

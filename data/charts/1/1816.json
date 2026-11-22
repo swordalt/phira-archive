@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:10Z",
-    "lastChanged": "2026-09-21T02:01:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-13T03:12:19.816544Z",
   "charter": "awa_az",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.566667,
   "file": "https://phira.5wyxi.com/files/433e9cfe-5aac-4077-b0b4-f5ffa4ee98fa",
+  "hidden": false,
   "id": 1816,
   "illustration": "https://phira.5wyxi.com/files/c9e533a1-a8aa-4f12-8a52-b17b7dd9b431",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bloody Marquis",
   "preview": "https://phira.5wyxi.com/files/57973ed3-5b96-45ab-816f-ecde019f1394",
   "ranked": true,
-  "rating": 0.94316083,
-  "ratingCount": 5460,
+  "rating": 0.9431873,
+  "ratingCount": 5486,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:58Z",
-    "lastChanged": "2026-09-21T02:04:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-19T15:11:16.981094Z",
   "charter": "YanY & Alasy & Burns",
@@ -14,6 +14,7 @@
   "description": "二改，感谢FM壹某的建议。顺手的ABYSS，本人上传，B站@超爱吃盐的盐盐",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/a5e5fc37-b3e4-4921-b939-c7f72af58594",
+  "hidden": false,
   "id": 66012,
   "illustration": "https://phira.5wyxi.com/files/7b4e54c2-7316-4b74-9297-5f3f81de20f4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ABYSS MOTION 192.333",
   "preview": "https://phira.5wyxi.com/files/46657943-930e-4923-a7da-eac3f4ec896b",
   "ranked": true,
-  "rating": 0.9239812,
-  "ratingCount": 1997,
+  "rating": 0.92507344,
+  "ratingCount": 2435,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

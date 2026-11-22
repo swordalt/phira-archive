@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-09T07:49:37.651411Z",
   "charter": "Renonamida vs. れーの涙",
@@ -14,6 +14,7 @@
   "description": "新人初谱\n这个谱打起来挺简单的 难度大概比reg3简单\n求轻点喷😭\n本人上传",
   "difficulty": 22.0,
   "file": "https://phira.5wyxi.com/files/c5a8d9bd-12a6-404a-994d-5ba4544d1315",
+  "hidden": false,
   "id": 33658,
   "illustration": "https://phira.5wyxi.com/files/fcfb7e01-b7c1-4660-b49b-d0e65dd10ac4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Latent Kingdom",
   "preview": "https://phira.5wyxi.com/files/89e5246b-dd1a-4961-8fd9-52a9da369a3c",
   "ranked": false,
-  "rating": 0.9024516,
-  "ratingCount": 244,
+  "rating": 0.9033152,
+  "ratingCount": 251,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

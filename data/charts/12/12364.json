@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:39Z",
-    "lastChanged": "2026-09-21T02:05:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-10T10:44:26.264779Z",
   "charter": "彩虹蓝兔",
@@ -14,6 +14,7 @@
   "description": "重传，改了bug",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/9e42ad85-883e-4333-86d6-3d8668e75f2f",
+  "hidden": false,
   "id": 12364,
   "illustration": "https://phira.5wyxi.com/files/373ba959-aec2-4094-a686-ff0188ed6dd8",
   "illustrator": "",

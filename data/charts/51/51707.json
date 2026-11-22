@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:15Z",
-    "lastChanged": "2026-09-21T02:04:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-27T15:04:27.254816Z",
   "charter": "于岚饮料",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nB站:于岚饮料\n\n此次上传为削弱版，尾杀定轨6k版本。不削弱太难了。\n\n请酌情游玩",
   "difficulty": 19.0,
   "file": "https://phira.5wyxi.com/files/3eeb0991-025a-4a58-89a8-e0321cf7a175",
+  "hidden": false,
   "id": 51707,
   "illustration": "https://phira.5wyxi.com/files/4b8a34c9-404d-40a6-95d2-708f6a7f10c2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "DIST SQUAD",
   "preview": "https://phira.5wyxi.com/files/c99b638e-612e-42b3-95db-803f172228b0",
   "ranked": false,
-  "rating": 0.91456974,
-  "ratingCount": 138,
+  "rating": 0.9156883,
+  "ratingCount": 148,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

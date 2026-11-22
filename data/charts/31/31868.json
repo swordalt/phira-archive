@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:56Z",
-    "lastChanged": "2026-09-21T02:02:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-15T16:19:31.428680Z",
   "charter": "I+Light is Green",
@@ -14,6 +14,7 @@
   "description": "本人上传。未发视频。",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/8c7e4616-a965-4b8c-ad32-baa30bf77152",
+  "hidden": false,
   "id": 31868,
   "illustration": "https://phira.5wyxi.com/files/2e7a01ce-c8df-4a2b-a1e5-a8356ebe014d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Chartreuse Green",
   "preview": "https://phira.5wyxi.com/files/44242fb2-466b-4ea0-8264-aab9d9bc3f0f",
   "ranked": false,
-  "rating": 0.9017295,
-  "ratingCount": 139,
+  "rating": 0.9025323,
+  "ratingCount": 143,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

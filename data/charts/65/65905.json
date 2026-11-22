@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:58Z",
-    "lastChanged": "2026-09-21T02:06:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-12T06:50:52.215286Z",
   "charter": "MoG",
@@ -14,6 +14,7 @@
   "description": "2026.4.4 完成。\n叠+乱",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/ab1f7357-94a8-4897-8c44-8112be0ecc86",
+  "hidden": false,
   "id": 65905,
   "illustration": "https://phira.5wyxi.com/files/c325beca-7d12-48c4-aa79-cc788dc08335",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Signal",
   "preview": "https://phira.5wyxi.com/files/2e5ca264-87fb-4066-806b-94187fcf7094",
   "ranked": false,
-  "rating": 0.9009299,
-  "ratingCount": 44,
+  "rating": 0.91198707,
+  "ratingCount": 50,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

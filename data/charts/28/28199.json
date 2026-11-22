@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:06Z",
-    "lastChanged": "2026-09-21T02:07:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-01T16:24:09.302846Z",
   "charter": "FeCO3",
@@ -14,6 +14,7 @@
   "description": "新人初谱，本人上传",
   "difficulty": 17.6,
   "file": "https://phira.5wyxi.com/files/7c6f4cbf-872f-423e-b978-326c9f986f67",
+  "hidden": false,
   "id": 28199,
   "illustration": "https://phira.5wyxi.com/files/68c0e22a-3bff-4d81-a1b9-5ca15a3bd5af",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Metamorphosism",
   "preview": "https://phira.5wyxi.com/files/280cc014-2d62-42be-8da4-5d11e68490ed",
   "ranked": false,
-  "rating": 0.5972202,
-  "ratingCount": 105,
+  "rating": 0.64654475,
+  "ratingCount": 104,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

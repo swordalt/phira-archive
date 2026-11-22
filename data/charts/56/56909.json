@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:50Z",
-    "lastChanged": "2026-09-21T02:06:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-22T04:18:53.723803Z",
   "charter": "心态放平",
@@ -14,6 +14,7 @@
   "description": "写谱用时：8h\n难度：[17]hybrid（5dan可打）\nhybrid写的不好还请见谅\n感谢游玩\nThank you for your playing!\n",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/fcb8b5a9-dae2-405a-91de-efd6821d4de9",
+  "hidden": false,
   "id": 56909,
   "illustration": "https://phira.5wyxi.com/files/ad2ebe9e-1f22-4f5f-a1e1-57aa8ce7d141",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "アンノウン・マザーグース",
   "preview": "https://phira.5wyxi.com/files/1aef0935-bdcb-4dba-97b1-c310ae6be8fb",
   "ranked": false,
-  "rating": 0.9375173,
-  "ratingCount": 37,
+  "rating": 0.9390038,
+  "ratingCount": 38,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

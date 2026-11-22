@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:06Z",
-    "lastChanged": "2026-09-21T02:07:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-26T13:58:07.520846Z",
   "charter": "ap137",
@@ -14,6 +14,7 @@
   "description": "这是什么，原来是达芬啊",
   "difficulty": 16.7,
   "file": "https://phira.5wyxi.com/files/c992661b-9446-421a-a83e-90aaca95a788",
+  "hidden": false,
   "id": 24423,
   "illustration": "https://phira.5wyxi.com/files/ee975cd8-9bd6-4e4c-b67d-0c519f3dd400",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "野花香 (Haocore Mix)",
   "preview": "https://phira.5wyxi.com/files/f9af2455-0c12-458c-b724-ba520c983752",
   "ranked": false,
-  "rating": 0.8099174,
-  "ratingCount": 201,
+  "rating": 0.8103106,
+  "ratingCount": 203,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

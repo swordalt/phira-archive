@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:49Z",
-    "lastChanged": "2026-09-21T02:06:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-26T09:55:01.890874Z",
   "charter": "TEC109",
@@ -14,6 +14,7 @@
   "description": "本人上传 DRAG 606/2528\n标准分 97.65\n技巧式谱面的延续\n双指低难谱面，多指谨慎游玩",
   "difficulty": 11.200001,
   "file": "https://phira.5wyxi.com/files/d48875f9-413f-412b-a780-62064ee1cc23",
+  "hidden": false,
   "id": 54568,
   "illustration": "https://phira.5wyxi.com/files/2cc4efa4-da4e-469c-850f-3a82d0c10bd2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Challenger",
   "preview": "https://phira.5wyxi.com/files/1187416a-a05d-4598-bec3-c8cfc6b3bfdf",
   "ranked": false,
-  "rating": 0.94274527,
-  "ratingCount": 51,
+  "rating": 0.94839334,
+  "ratingCount": 57,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:48Z",
-    "lastChanged": "2026-09-21T02:05:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-31T13:15:17.216113Z",
   "charter": "ChipmunkesuAI",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.000004,
   "file": "https://phira.5wyxi.com/files/cd0b74f0-7e27-4d61-acc1-a0cf93eda7ec",
+  "hidden": false,
   "id": 20560,
   "illustration": "https://phira.5wyxi.com/files/e3bf3a38-d0a4-44ef-b471-d4d0559e7849",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "好了现在可以哭了",
   "preview": "https://phira.5wyxi.com/files/1823a974-4140-40c6-aa72-13966fe7537e",
   "ranked": false,
-  "rating": 0.9047413,
-  "ratingCount": 97,
+  "rating": 0.90014666,
+  "ratingCount": 99,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

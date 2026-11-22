@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:11Z",
-    "lastChanged": "2026-09-21T02:02:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-04T06:58:08.653672Z",
   "charter": "诶嘿的小芳芳",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/1f37f641-9029-4884-b20e-fef89989e636",
+  "hidden": false,
   "id": 19454,
   "illustration": "https://phira.5wyxi.com/files/7fe6de27-3c97-43c2-ae6a-a2672a626abd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Taurus",
   "preview": "https://phira.5wyxi.com/files/29199615-a785-4a2c-8e28-93c75a8b17aa",
   "ranked": false,
-  "rating": 0.85641044,
-  "ratingCount": 148,
+  "rating": 0.85715073,
+  "ratingCount": 151,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

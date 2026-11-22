@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:45Z",
-    "lastChanged": "2026-09-21T02:01:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-29T14:17:54.295524Z",
   "charter": "悠氧",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.1,
   "file": "https://phira.5wyxi.com/files/4ae90398-4019-4ec3-b101-782755f7d3d8",
+  "hidden": false,
   "id": 12934,
   "illustration": "https://phira.5wyxi.com/files/c19b9e54-8c25-434c-8371-4f1b35f2cd58",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ふゆびより",
   "preview": "https://phira.5wyxi.com/files/557bd334-3903-491d-87ae-bb8ab8d1f6ba",
   "ranked": false,
-  "rating": 0.8855559,
-  "ratingCount": 106,
+  "rating": 0.8866042,
+  "ratingCount": 107,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

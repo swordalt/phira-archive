@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:21Z",
-    "lastChanged": "2026-09-21T02:02:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-06T14:06:35.848275Z",
   "charter": "Staster",
@@ -14,6 +14,7 @@
   "description": "给审核送个业绩）",
   "difficulty": 17.300001,
   "file": "https://phira.5wyxi.com/files/bbe7ce0a-8640-4b0c-a1f2-1653e6fb8d79",
+  "hidden": false,
   "id": 22789,
   "illustration": "https://phira.5wyxi.com/files/966eb932-c1fb-4886-856d-de89baa66db7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GALACTIC WARZONE",
   "preview": "https://phira.5wyxi.com/files/b4b8b842-eadb-44dd-84d8-59438a1de663",
   "ranked": false,
-  "rating": 0.85980916,
-  "ratingCount": 287,
+  "rating": 0.8602524,
+  "ratingCount": 288,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

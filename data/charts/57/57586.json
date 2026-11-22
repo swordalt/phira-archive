@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:40Z",
-    "lastChanged": "2026-09-21T02:04:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-02T12:04:58.107937Z",
   "charter": "枫起",
@@ -14,6 +14,7 @@
   "description": "作者本人上传",
   "difficulty": 16.299997,
   "file": "https://phira.5wyxi.com/files/7c209fca-e867-4901-b0c7-bfaddb576402",
+  "hidden": false,
   "id": 57586,
   "illustration": "https://phira.5wyxi.com/files/cab32037-7855-4241-9ebd-ab667e366e05",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "马蒂亚斯",
   "preview": "https://phira.5wyxi.com/files/ac28905c-77b5-474a-81c6-2c5889d61eea",
   "ranked": false,
-  "rating": 0.93971306,
-  "ratingCount": 876,
+  "rating": 0.9406056,
+  "ratingCount": 1013,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

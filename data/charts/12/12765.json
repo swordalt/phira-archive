@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:45Z",
-    "lastChanged": "2026-09-21T02:01:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-23T17:51:49.688360Z",
   "charter": "AL_Blackneko",
@@ -14,6 +14,7 @@
   "description": "w这次是写Phigros的第二张谱子，由于接触phi自制谱还不够熟悉，有什么问题还请多多给建议~\nB站链接:BV1Cp4y1Z7o1",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/5d9c9c79-0ebd-4c44-9ed3-b85409dedc5f",
+  "hidden": false,
   "id": 12765,
   "illustration": "https://phira.5wyxi.com/files/4a9cd0d2-036a-4cb3-86d7-6cefbae5962c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Equality of Equites",
   "preview": "https://phira.5wyxi.com/files/0b0b9904-0f1d-44d2-9482-ef3b838211a6",
   "ranked": false,
-  "rating": 0.9330886,
-  "ratingCount": 381,
+  "rating": 0.9334134,
+  "ratingCount": 383,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

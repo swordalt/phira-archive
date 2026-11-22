@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-02T02:12:23Z",
-    "lastChanged": "2026-10-11T11:05:34Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:23Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-01T14:41:13.764853Z",
   "charter": "该困不吸烟",
@@ -14,6 +14,7 @@
   "description": "本人上传，经过合作谱师允许后上传\n首杀小小悬赏20r",
   "difficulty": 19.0,
   "file": "https://phira.5wyxi.com/files/58224db8-353b-43ec-b7ff-8848de1d3b38",
+  "hidden": false,
   "id": 79694,
   "illustration": "https://phira.5wyxi.com/files/e278a066-52eb-47b1-929b-0508e851269f",
   "illustrator": "Terada tera",
@@ -21,8 +22,8 @@
   "name": "メルヘル小惑星",
   "preview": "https://phira.5wyxi.com/files/4fc90b44-4504-4849-bc18-7a480df83206",
   "ranked": false,
-  "rating": 0.8616571,
-  "ratingCount": 144,
+  "rating": 0.87007195,
+  "ratingCount": 190,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

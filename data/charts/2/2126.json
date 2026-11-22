@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:11Z",
-    "lastChanged": "2026-09-21T02:01:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-15T13:42:59.298635Z",
   "charter": "霜炎酱",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.2,
   "file": "https://phira.5wyxi.com/files/1efdec3b-02db-4907-b054-7dcab6da12ab",
+  "hidden": false,
   "id": 2126,
   "illustration": "https://phira.5wyxi.com/files/bcc2f685-5555-4950-a075-3d0b093f2750",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "怪物",
   "preview": "https://phira.5wyxi.com/files/3fbb2e42-28c4-423e-8f84-e1bb341f8916",
   "ranked": true,
-  "rating": 0.9298258,
-  "ratingCount": 51693,
+  "rating": 0.9297824,
+  "ratingCount": 52100,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:20Z",
-    "lastChanged": "2026-09-21T02:01:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-12T10:11:50.802185Z",
   "charter": "Euphonium(银色子弹限定版",
@@ -14,6 +14,7 @@
   "description": "不会写，好难喵( ๑ŏ ﹏ ŏ๑ )",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/07638c6d-408b-4baa-86d6-a94309c1414b",
+  "hidden": false,
   "id": 5162,
   "illustration": "https://phira.5wyxi.com/files/fdf0427b-e5ff-4fa1-9b65-4c352f29041f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Butterfly Core",
   "preview": "https://phira.5wyxi.com/files/177b5cf1-d332-44cc-af76-296668931085",
   "ranked": false,
-  "rating": 0.9198046,
-  "ratingCount": 507,
+  "rating": 0.9202784,
+  "ratingCount": 510,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

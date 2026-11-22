@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:31Z",
-    "lastChanged": "2026-09-21T02:02:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-08T10:53:00.509599Z",
   "charter": "ShaoQi Cup Chart Team",
@@ -14,6 +14,7 @@
   "description": "2024勺柒杯 龙组决赛谱面 本谱面由勺柒杯谱师组部分成员联合制作 谱师名单：Zku、β，银河系 本谱面上传已经过全体谱师同意 “一切，都将消失殆尽。一切，都将迎来终结…”",
   "difficulty": 17.600002,
   "file": "https://phira.5wyxi.com/files/50dc1807-489d-4e20-bda4-0a9ccdca66d5",
+  "hidden": false,
   "id": 25648,
   "illustration": "https://phira.5wyxi.com/files/e8f8643c-6bc9-4422-8e68-8eecf32af400",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Final EndGame",
   "preview": "https://phira.5wyxi.com/files/a04d18f8-4120-49a4-9c57-46953fe7fbe4",
   "ranked": false,
-  "rating": 0.91213024,
-  "ratingCount": 206,
+  "rating": 0.91326433,
+  "ratingCount": 210,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

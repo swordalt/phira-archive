@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:50Z",
-    "lastChanged": "2026-09-21T02:02:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-14T12:00:09.550655Z",
   "charter": "X1nGL1nG feat. H20YuE iN ScAr1eT W0rld",
@@ -14,6 +14,7 @@
   "description": "提前换掉了曲绘",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/f2375b57-d7eb-4248-825b-006a8154dc20",
+  "hidden": false,
   "id": 30738,
   "illustration": "https://phira.5wyxi.com/files/e88f6027-a4d4-4651-a051-633b17a6e10a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "the world of scarlet",
   "preview": "https://phira.5wyxi.com/files/1a492a65-ff12-404b-a23b-c5598d065cf4",
   "ranked": false,
-  "rating": 0.91341025,
-  "ratingCount": 299,
+  "rating": 0.91363174,
+  "ratingCount": 300,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

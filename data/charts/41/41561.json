@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:29Z",
-    "lastChanged": "2026-09-21T02:03:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-13T05:45:09.940929Z",
   "charter": "29Light",
@@ -14,6 +14,7 @@
   "description": "本人上传\n个人初谱\n技术力不行还请谅解\n。。。。。。。。。。。\n7.13调整：\n1.微调了谱面，物量：174→213\n2.谱面难度：12.1→12.5\n3.调整了不合理采音\n",
   "difficulty": 12.500003,
   "file": "https://phira.5wyxi.com/files/ac78787f-44d1-4ef3-8e00-379848d17b7c",
+  "hidden": false,
   "id": 41561,
   "illustration": "https://phira.5wyxi.com/files/e6025bd4-b513-49f3-a0c4-7f8547ddcf86",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "独りんぼエンヴィー",
   "preview": "https://phira.5wyxi.com/files/37b6ac01-4e28-4750-b64b-4628ddec724b",
   "ranked": false,
-  "rating": 0.886377,
-  "ratingCount": 450,
+  "rating": 0.8859686,
+  "ratingCount": 471,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

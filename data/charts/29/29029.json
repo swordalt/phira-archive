@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:02Z",
-    "lastChanged": "2026-09-21T02:06:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-24T22:35:35.752181Z",
   "charter": "OR71",
@@ -14,6 +14,7 @@
   "description": "5K",
   "difficulty": 29.0,
   "file": "https://phira.5wyxi.com/files/166a0896-605c-44f7-ae36-93f5a6349a15",
+  "hidden": false,
   "id": 29029,
   "illustration": "https://phira.5wyxi.com/files/d37d953f-e40a-467f-82d3-a8f1fb7d31e0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Second Choice",
   "preview": "https://phira.5wyxi.com/files/3139e47d-00e6-4f82-902d-d2c1bcd1e3b0",
   "ranked": false,
-  "rating": 0.9360467,
-  "ratingCount": 170,
+  "rating": 0.93647015,
+  "ratingCount": 182,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

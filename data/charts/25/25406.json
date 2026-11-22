@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:31Z",
-    "lastChanged": "2026-09-21T02:02:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-05T23:44:17.207702Z",
   "charter": "U233",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.199998,
   "file": "https://phira.5wyxi.com/files/fdf69cc0-d6ec-4b70-9e3f-5317368c7e78",
+  "hidden": false,
   "id": 25406,
   "illustration": "https://phira.5wyxi.com/files/e4a085cc-2544-4f1f-b42b-ef420b833da0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "让风告诉你",
   "preview": "https://phira.5wyxi.com/files/b9a06c67-ff0d-4cd8-ba85-899a141fbb2c",
   "ranked": false,
-  "rating": 0.93499786,
-  "ratingCount": 7008,
+  "rating": 0.9350351,
+  "ratingCount": 7225,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

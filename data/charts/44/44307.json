@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:29Z",
-    "lastChanged": "2026-09-21T02:06:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-11T04:30:01.900061Z",
   "charter": "StyAGT",
@@ -14,6 +14,7 @@
   "description": "去年八月份写的，从malody转谱来，b站id：StyAGT，修复了一下谱面流速",
   "difficulty": 29.00002,
   "file": "https://phira.5wyxi.com/files/5cefb965-89f5-4eeb-9175-c26927819f01",
+  "hidden": false,
   "id": 44307,
   "illustration": "https://phira.5wyxi.com/files/5f035ca8-14fb-4dfb-8ea3-e5a0f5f9a27e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Kyrie Eleison  ",
   "preview": "https://phira.5wyxi.com/files/e9f6e112-0900-4b57-9f56-75e25a614e4f",
   "ranked": false,
-  "rating": 0.95231646,
-  "ratingCount": 109,
+  "rating": 0.9522987,
+  "ratingCount": 114,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

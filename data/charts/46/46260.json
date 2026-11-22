@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:48Z",
-    "lastChanged": "2026-09-21T02:03:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-01T10:42:35.228024Z",
   "charter": "unKnown::239",
@@ -14,6 +14,7 @@
   "description": "5thWJC参赛谱\n序号 L4 No.7",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/b547f507-bf0f-4463-960c-5fe726088e33",
+  "hidden": false,
   "id": 46260,
   "illustration": "https://phira.5wyxi.com/files/cc0e1356-9012-4c94-b824-b9ab1505100b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "reFract::dense",
   "preview": "https://phira.5wyxi.com/files/dbef4fe9-789d-47b1-a4f3-dfa87540b01b",
   "ranked": false,
-  "rating": 0.92972106,
-  "ratingCount": 86,
+  "rating": 0.92805463,
+  "ratingCount": 87,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

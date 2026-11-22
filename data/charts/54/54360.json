@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:29Z",
-    "lastChanged": "2026-09-21T02:04:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-21T05:42:14.752127Z",
   "charter": "肥皂泡哦",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.300001,
   "file": "https://phira.5wyxi.com/files/a6d537ba-b47b-4643-8ec7-8141742cd940",
+  "hidden": false,
   "id": 54360,
   "illustration": "https://phira.5wyxi.com/files/c2101da3-0944-4cb0-8196-0a5d8e3bde1a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ATLAS RUSH",
   "preview": "https://phira.5wyxi.com/files/11c4d2b5-3ad9-444a-8098-a095ae48ab9d",
   "ranked": false,
-  "rating": 0.78445053,
-  "ratingCount": 26,
+  "rating": 0.79927397,
+  "ratingCount": 35,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

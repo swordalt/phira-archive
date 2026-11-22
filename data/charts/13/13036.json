@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:46Z",
-    "lastChanged": "2026-09-21T02:01:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-31T05:45:05.965361Z",
   "charter": "星相运轨-The End of Hinata-",
@@ -14,6 +14,7 @@
   "description": "谱面由@日向666 本人和@屑影一只共同完成此谱面，屑影负责了一小段判定线表演。",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/22a64252-b376-47c2-affa-6afaad522675",
+  "hidden": false,
   "id": 13036,
   "illustration": "https://phira.5wyxi.com/files/483127f9-c11a-405b-9ea2-607aecdbbea7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "星相运轨-The End of Time-",
   "preview": "https://phira.5wyxi.com/files/cd79b3b0-ccd9-4795-a0e8-3781a381ac04",
   "ranked": false,
-  "rating": 0.93907964,
-  "ratingCount": 1445,
+  "rating": 0.9388254,
+  "ratingCount": 1458,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

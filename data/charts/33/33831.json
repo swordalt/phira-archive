@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:03Z",
-    "lastChanged": "2026-09-21T02:03:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-11T17:01:16.041445Z",
   "charter": "Hurricàne3",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/86acb961-6f11-40ef-a08e-424670fa0481",
+  "hidden": false,
   "id": 33831,
   "illustration": "https://phira.5wyxi.com/files/5346548a-c18c-4512-b853-b9d7ae13716a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Magic Bomb (Questions I get asked) ",
   "preview": "https://phira.5wyxi.com/files/12f35926-2415-420f-bc64-f3ae9095e03b",
   "ranked": false,
-  "rating": 0.9143125,
-  "ratingCount": 70,
+  "rating": 0.9102209,
+  "ratingCount": 73,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

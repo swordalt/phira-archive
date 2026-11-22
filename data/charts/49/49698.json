@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:05Z",
-    "lastChanged": "2026-09-21T02:04:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-30T09:41:23.396764Z",
   "charter": "blackhole",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.1,
   "file": "https://phira.5wyxi.com/files/09e8ab61-3b76-42a2-a30e-056e95e36d3b",
+  "hidden": false,
   "id": 49698,
   "illustration": "https://phira.5wyxi.com/files/52931795-dd9a-4681-bd37-412e8fb4650f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "羽毛球",
   "preview": "https://phira.5wyxi.com/files/3528cc8c-1d71-4a50-8a0b-c9f09231708a",
   "ranked": false,
-  "rating": 0.8615154,
-  "ratingCount": 49,
+  "rating": 0.8602673,
+  "ratingCount": 53,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

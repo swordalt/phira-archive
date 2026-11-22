@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:11Z",
-    "lastChanged": "2026-09-21T02:01:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-13T13:33:05.629283Z",
   "charter": "Crazy ZFCarrot",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/bd4c67db-1f83-46e2-85f4-ac10316d6fb5",
+  "hidden": false,
   "id": 1884,
   "illustration": "https://phira.5wyxi.com/files/1a3d8f1e-ac1c-46be-9c30-51cd32b746f1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "No.1127",
   "preview": "https://phira.5wyxi.com/files/fbe68f00-59a6-429d-bc1c-2de551700026",
   "ranked": false,
-  "rating": 0.8365999,
-  "ratingCount": 145,
+  "rating": 0.8384898,
+  "ratingCount": 148,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

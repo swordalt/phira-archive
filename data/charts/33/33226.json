@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:02Z",
-    "lastChanged": "2026-09-21T02:03:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-03T18:56:37.170746Z",
   "charter": "mtuling",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/7dd3e5ac-a7af-41de-a35f-1969670cf208",
+  "hidden": false,
   "id": 33226,
   "illustration": "https://phira.5wyxi.com/files/8da1d6d8-af49-42fb-9224-2e2ba78813d5",
   "illustrator": "",

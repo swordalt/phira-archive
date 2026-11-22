@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:48Z",
-    "lastChanged": "2026-09-21T02:05:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-20T12:51:12.234424Z",
   "charter": "congratulations",
@@ -14,6 +14,7 @@
   "description": "采音好难，采了8.5h，写谱2h(\n本人上传)",
   "difficulty": 19.0,
   "file": "https://phira.5wyxi.com/files/fc6bd9d2-edb8-40ff-b472-aecd6ffd2895",
+  "hidden": false,
   "id": 20179,
   "illustration": "https://phira.5wyxi.com/files/bd3732db-f439-48be-8bfb-45002ddf6ff1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "青丘",
   "preview": "https://phira.5wyxi.com/files/18dd61e1-041f-464a-ab11-725d00545d22",
   "ranked": false,
-  "rating": 0.941136,
-  "ratingCount": 400,
+  "rating": 0.941475,
+  "ratingCount": 404,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

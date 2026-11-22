@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:52Z",
-    "lastChanged": "2026-09-21T02:05:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-08T10:02:36.276458Z",
   "charter": "是流萤不是流滢",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/e5393b37-3ea8-470e-9765-28dd62fd3daf",
+  "hidden": false,
   "id": 22966,
   "illustration": "https://phira.5wyxi.com/files/c0084182-4950-47ef-a90c-69b15230353a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Drama",
   "preview": "https://phira.5wyxi.com/files/20fe4699-6d89-4c71-bd45-80151d867961",
   "ranked": false,
-  "rating": 0.8372126,
-  "ratingCount": 38,
+  "rating": 0.8410388,
+  "ratingCount": 39,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

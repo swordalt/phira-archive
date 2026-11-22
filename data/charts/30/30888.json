@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:51Z",
-    "lastChanged": "2026-09-21T02:02:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-18T17:53:08.218430Z",
   "charter": "Smurf__ vs. restey_lih",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.3,
   "file": "https://phira.5wyxi.com/files/5e908d63-fe0b-44d2-948a-b5ac9866511e",
+  "hidden": false,
   "id": 30888,
   "illustration": "https://phira.5wyxi.com/files/09cb9fda-68e1-4188-8b85-a2f48a724a57",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Polestar",
   "preview": "https://phira.5wyxi.com/files/1cf5ce0d-19d5-4048-ade3-de75b532747a",
   "ranked": true,
-  "rating": 0.92426825,
-  "ratingCount": 523,
+  "rating": 0.92325693,
+  "ratingCount": 533,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

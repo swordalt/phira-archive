@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:51Z",
-    "lastChanged": "2026-09-21T02:05:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-01T04:33:54.243838Z",
   "charter": "耀柯末哦",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 6.8,
   "file": "https://phira.5wyxi.com/files/378d0626-8748-4bc4-a330-97aea0fd695b",
+  "hidden": false,
   "id": 22369,
   "illustration": "https://phira.5wyxi.com/files/5d944766-fd03-4016-879b-d0393172ae8c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "カイバイ",
   "preview": "https://phira.5wyxi.com/files/748f4708-05a9-46a3-bc23-7adb457abf58",
   "ranked": false,
-  "rating": 0.90637034,
-  "ratingCount": 82,
+  "rating": 0.9044964,
+  "ratingCount": 84,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

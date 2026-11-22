@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:17Z",
-    "lastChanged": "2026-09-21T02:04:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-03T19:52:00.521583Z",
   "charter": "Starness_: Who I am",
@@ -14,6 +14,7 @@
   "description": "本人上传，曲绘为PV截图，无不良引导",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/5f2bd113-003e-490b-a9ed-bb18cac77a5e",
+  "hidden": false,
   "id": 52061,
   "illustration": "https://phira.5wyxi.com/files/2a8996fa-87f4-4c6e-a516-06ef91ba14b0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Wer ich bin",
   "preview": "https://phira.5wyxi.com/files/df8659f6-341c-4d32-bbc4-35b8c6793db2",
   "ranked": false,
-  "rating": 0.90622133,
-  "ratingCount": 25,
+  "rating": 0.9069533,
+  "ratingCount": 27,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

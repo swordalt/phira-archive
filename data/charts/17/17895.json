@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:06Z",
-    "lastChanged": "2026-09-21T02:02:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-01T10:26:04.430902Z",
   "charter": "zhezhe3570",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/f36576d8-cc95-4fcf-80a0-2578cfe7b56b",
+  "hidden": false,
   "id": 17895,
   "illustration": "https://phira.5wyxi.com/files/62aa51d0-004b-403a-b8ff-00bfe520f000",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "甩葱歌",
   "preview": "https://phira.5wyxi.com/files/51df6fea-21e4-407d-b433-8596c51e25e4",
   "ranked": false,
-  "rating": 0.9236944,
-  "ratingCount": 11979,
+  "rating": 0.9232136,
+  "ratingCount": 12496,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

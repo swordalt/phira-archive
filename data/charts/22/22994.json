@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:53Z",
-    "lastChanged": "2026-09-21T02:05:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-08T15:22:32.700543Z",
   "charter": "QWERTY123sks",
@@ -14,6 +14,7 @@
   "description": "早期写的一张谱\n感觉还不错\n大量面条警告\n本谱若觉得流速过快，请将画面比例调至16:9（或1.77778）！",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/28887c4b-e5fd-4a56-9fd7-0e6056643f0a",
+  "hidden": false,
   "id": 22994,
   "illustration": "https://phira.5wyxi.com/files/9e51ac6f-3461-45e3-b780-e618fdf6ef61",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Pixel Pig",
   "preview": "https://phira.5wyxi.com/files/f17f27a6-e3fb-4693-9778-b6ab2581347a",
   "ranked": false,
-  "rating": 0.946272,
-  "ratingCount": 274,
+  "rating": 0.9468158,
+  "ratingCount": 287,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

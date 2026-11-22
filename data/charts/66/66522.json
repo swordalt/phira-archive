@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:59Z",
-    "lastChanged": "2026-09-21T02:04:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-14T11:33:45.843587Z",
   "charter": "W_壹零贰肆[2026Spring]",
@@ -14,6 +14,7 @@
   "description": "清明时节，旅行踏青！ 一起感受一下这首杀穿营销号的轻快舒畅的小曲吧！",
   "difficulty": 14.3,
   "file": "https://phira.5wyxi.com/files/8127c42b-8a5d-49cf-906a-20821d7b93a8",
+  "hidden": false,
   "id": 66522,
   "illustration": "https://phira.5wyxi.com/files/43fbe088-cf60-4d76-b75b-fff16138b91d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Trip",
   "preview": "https://phira.5wyxi.com/files/aaca36b7-2743-4376-a3de-bf65eb404647",
   "ranked": false,
-  "rating": 0.91839385,
-  "ratingCount": 2952,
+  "rating": 0.9197934,
+  "ratingCount": 3288,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

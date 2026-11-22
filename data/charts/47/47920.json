@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:56Z",
-    "lastChanged": "2026-09-21T02:03:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-10T11:07:49.098323Z",
   "charter": "RnLamsuly",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.400001,
   "file": "https://phira.5wyxi.com/files/b6826055-9085-496a-8fe3-14482d6c86c1",
+  "hidden": false,
   "id": 47920,
   "illustration": "https://phira.5wyxi.com/files/caf92174-8085-47f2-affe-93fc25c8a712",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "H0N3Y ~A Collapse of Honey~",
   "preview": "https://phira.5wyxi.com/files/8a3f4e89-ddf8-4878-9133-cfb48ce8a02b",
   "ranked": false,
-  "rating": 0.856128,
-  "ratingCount": 6,
+  "rating": 0.8533043,
+  "ratingCount": 7,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

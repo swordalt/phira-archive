@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:17Z",
-    "lastChanged": "2026-09-21T02:04:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-29T15:31:01.123188Z",
   "charter": "FR -RETURNER-",
@@ -14,6 +14,7 @@
   "description": "协调小考 关注b站azqwq谢谢喵(延迟-100ms即可正常游玩了(",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/085f36df-db22-40b3-b4eb-ba0814ebbb67",
+  "hidden": false,
   "id": 51782,
   "illustration": "https://phira.5wyxi.com/files/3501ee3a-1dc4-4ffd-aabc-5f98234b07e9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The King's Return",
   "preview": "https://phira.5wyxi.com/files/0470f594-2b60-4512-b829-c3c4ae0f32a4",
   "ranked": false,
-  "rating": 0.8649013,
-  "ratingCount": 240,
+  "rating": 0.86451024,
+  "ratingCount": 243,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

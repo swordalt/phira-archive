@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:31Z",
-    "lastChanged": "2026-09-21T02:04:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-28T11:24:19.143879Z",
   "charter": "YanY",
@@ -14,6 +14,7 @@
   "description": "本人上传，0thPecJam RG.24，B站@超爱吃盐的盐盐",
   "difficulty": 13.400002,
   "file": "https://phira.5wyxi.com/files/f52db705-8385-4946-924a-d0291cf6dee8",
+  "hidden": false,
   "id": 54664,
   "illustration": "https://phira.5wyxi.com/files/fa51baba-c2a7-4f85-81eb-fbf480780592",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "青苹果乐园",
   "preview": "https://phira.5wyxi.com/files/9c55636e-2287-4d68-a464-c95bf258db4e",
   "ranked": true,
-  "rating": 0.8959302,
-  "ratingCount": 5282,
+  "rating": 0.8953138,
+  "ratingCount": 5951,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

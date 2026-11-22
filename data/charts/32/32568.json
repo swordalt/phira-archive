@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:28Z",
-    "lastChanged": "2026-09-21T02:05:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-27T03:45:25.272261Z",
   "charter": "23113",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 1.0,
   "file": "https://phira.5wyxi.com/files/0e7670e1-8672-43a2-be61-7293af8a3974",
+  "hidden": false,
   "id": 32568,
   "illustration": "https://phira.5wyxi.com/files/fadeae92-50ee-420d-8b5f-669f4afe0b84",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Apex",
   "preview": "https://phira.5wyxi.com/files/d0c59ef6-34e0-4463-bf26-f117c776528a",
   "ranked": false,
-  "rating": 0.8835032,
-  "ratingCount": 259,
+  "rating": 0.88159996,
+  "ratingCount": 263,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

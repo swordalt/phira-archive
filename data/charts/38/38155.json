@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:18Z",
-    "lastChanged": "2026-09-21T02:03:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-17T03:07:33.280309Z",
   "charter": "Hxgjfh",
@@ -14,6 +14,7 @@
   "description": "最新力作\nNew one",
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/d77ab870-5d5f-4cde-8a8b-3e09a3fa2ce4",
+  "hidden": false,
   "id": 38155,
   "illustration": "https://phira.5wyxi.com/files/efc8170e-fed5-4876-9294-f6db94121806",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Paradise",
   "preview": "https://phira.5wyxi.com/files/492cdec2-82c7-4b86-a1b5-1dafa0f59587",
   "ranked": false,
-  "rating": 0.90075094,
-  "ratingCount": 914,
+  "rating": 0.9011635,
+  "ratingCount": 959,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

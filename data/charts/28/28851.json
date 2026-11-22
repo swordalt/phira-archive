@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:44Z",
-    "lastChanged": "2026-09-21T02:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-19T02:38:33.836293Z",
   "charter": "这里没有昵称 as TCN",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/2ed227d3-cbfb-4b5e-a591-f1e1293dc52e",
+  "hidden": false,
   "id": 28851,
   "illustration": "https://phira.5wyxi.com/files/d2a0138b-82d5-4b36-93be-28cd0954a314",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Miracle Forest (VIP Mix)",
   "preview": "https://phira.5wyxi.com/files/2ab49d30-986a-4d4d-857c-ae034dd7e293",
   "ranked": false,
-  "rating": 0.8190825,
-  "ratingCount": 80,
+  "rating": 0.82205194,
+  "ratingCount": 85,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

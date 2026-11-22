@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-14T16:59:14Z",
-    "lastChanged": "2026-11-15T16:59:38Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:23Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-01T03:03:07.526801Z",
   "charter": "Suikmilk",
@@ -22,11 +22,11 @@
   "name": "Illegal Access-Forbidden Love",
   "preview": "https://phira.5wyxi.com/files/c0e52f7b-34c6-4a92-a592-33ed89165838",
   "ranked": false,
-  "rating": 0.9401825,
-  "ratingCount": 61,
-  "reviewed": true,
+  "rating": 0.95178115,
+  "ratingCount": 115,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

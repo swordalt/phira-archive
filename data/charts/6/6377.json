@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:23Z",
-    "lastChanged": "2026-09-21T02:01:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-31T04:03:14.307561Z",
   "charter": "右果:あばあば",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/489a74f4-5b7f-47b8-aea3-0252e8f09e5e",
+  "hidden": false,
   "id": 6377,
   "illustration": "https://phira.5wyxi.com/files/6b73b671-7598-463a-b0ff-b35b6cc75857",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ぱぴぷぴぷぴぱ",
   "preview": "https://phira.5wyxi.com/files/ae0e630d-0fc9-4cf7-8867-66f43a5d26b0",
   "ranked": false,
-  "rating": 0.89705664,
-  "ratingCount": 4380,
+  "rating": 0.8972452,
+  "ratingCount": 4394,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

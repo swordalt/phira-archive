@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:43Z",
-    "lastChanged": "2026-09-21T02:05:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-18T11:41:16.949883Z",
   "charter": "ye -srx-",
@@ -14,6 +14,7 @@
   "description": "欣赏难度有AT17，谱师本人上传",
   "difficulty": 17.2,
   "file": "https://phira.5wyxi.com/files/066ee379-6b19-4ee7-bf80-39d87d254855",
+  "hidden": false,
   "id": 16055,
   "illustration": "https://phira.5wyxi.com/files/c7abf75a-67df-4d93-9885-834adf856bc6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "speculation",
   "preview": "https://phira.5wyxi.com/files/058ce84b-d56b-4cb3-8def-c34669988282",
   "ranked": false,
-  "rating": 0.81437135,
-  "ratingCount": 75,
+  "rating": 0.8167507,
+  "ratingCount": 76,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

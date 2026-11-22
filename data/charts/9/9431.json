@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:32Z",
-    "lastChanged": "2026-09-21T02:01:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-16T23:25:36.319676Z",
   "charter": "someone---A",
@@ -14,6 +14,7 @@
   "description": "这是什么",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/08ae8339-be9c-4696-9080-1f1106361401",
+  "hidden": false,
   "id": 9431,
   "illustration": "https://phira.5wyxi.com/files/0ca8517b-2427-4ba6-8474-7336f6ab38b5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Orthodox",
   "preview": "https://phira.5wyxi.com/files/3c8b96bd-d62e-40a0-b907-0ea85607bec0",
   "ranked": false,
-  "rating": 0.8329975,
-  "ratingCount": 277,
+  "rating": 0.83050543,
+  "ratingCount": 281,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:27Z",
-    "lastChanged": "2026-09-21T02:04:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-10T10:40:47.752664Z",
   "charter": "Lage vs YMEA",
@@ -14,6 +14,7 @@
   "description": "我不写简介总能过吧2",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/44c84fdb-85f2-4ba5-b0fc-b09639d30920",
+  "hidden": false,
   "id": 54015,
   "illustration": "https://phira.5wyxi.com/files/ba619f84-714d-44d6-be40-4cd718680392",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "カラフルビート(feat.ユメ&ユウ)",
   "preview": "https://phira.5wyxi.com/files/e5b1c34c-c65c-4d6d-8d18-b20b703784cb",
   "ranked": false,
-  "rating": 0.92579,
-  "ratingCount": 165,
+  "rating": 0.92429227,
+  "ratingCount": 172,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

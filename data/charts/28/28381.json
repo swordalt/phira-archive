@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:42Z",
-    "lastChanged": "2026-09-21T02:02:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-05T23:09:18.301509Z",
   "charter": "Bad Srec!!",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.800003,
   "file": "https://phira.5wyxi.com/files/799d309b-d56e-4e85-b791-52be58017b22",
+  "hidden": false,
   "id": 28381,
   "illustration": "https://phira.5wyxi.com/files/74ff13f6-c77e-42e9-bea1-43b408243a05",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bad Apple!!",
   "preview": "https://phira.5wyxi.com/files/e1127b96-5b43-4da1-951e-3112b886f177",
   "ranked": false,
-  "rating": 0.93166584,
-  "ratingCount": 8906,
+  "rating": 0.931494,
+  "ratingCount": 9428,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

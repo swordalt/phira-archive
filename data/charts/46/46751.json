@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:50Z",
-    "lastChanged": "2026-09-21T02:03:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-13T13:33:59.275451Z",
   "charter": "隰有苓蘭",
@@ -14,6 +14,7 @@
   "description": "本人五小时写谱\nb站同名（隰有苓蘭）\n四指谱（后面有小观赏）\n",
   "difficulty": 14.5,
   "file": "https://phira.5wyxi.com/files/0ef0b5a1-7925-43e4-8be3-6a64d08221fb",
+  "hidden": false,
   "id": 46751,
   "illustration": "https://phira.5wyxi.com/files/ea2cff68-1620-40b1-84a7-50b7c8b35adc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "乘烟",
   "preview": "https://phira.5wyxi.com/files/3d4e2b99-9b7f-4433-b493-813ac09acc23",
   "ranked": false,
-  "rating": 0.9257841,
-  "ratingCount": 172,
+  "rating": 0.9274803,
+  "ratingCount": 195,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

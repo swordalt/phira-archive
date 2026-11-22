@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:17Z",
-    "lastChanged": "2026-09-21T02:02:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-26T10:41:56.024087Z",
   "charter": "Norwww",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/dc3d3827-e032-4cd1-9b0b-2a8ac75fdd4b",
+  "hidden": false,
   "id": 21329,
   "illustration": "https://phira.5wyxi.com/files/34f2d21b-1c39-44a3-8ec7-efe04b1f9e61",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "IMPACT",
   "preview": "https://phira.5wyxi.com/files/5295ef90-095e-4e3b-bfc9-6c027e0837ba",
   "ranked": false,
-  "rating": 0.867948,
-  "ratingCount": 370,
+  "rating": 0.86828154,
+  "ratingCount": 371,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:06Z",
-    "lastChanged": "2026-09-21T02:06:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-13T16:27:41.406088Z",
   "charter": "OERPER",
@@ -14,6 +14,7 @@
   "description": "第一次写谱，写的不太好请见谅",
   "difficulty": 10.2,
   "file": "https://phira.5wyxi.com/files/beb1cc49-63d8-45a4-94a6-a6e1ecc7a528",
+  "hidden": false,
   "id": 31787,
   "illustration": "https://phira.5wyxi.com/files/cc470b51-6da6-40b5-862c-9b8594aaf43a",
   "illustrator": "",

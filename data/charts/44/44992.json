@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:42Z",
-    "lastChanged": "2026-10-04T18:06:07Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:56:19Z",
+    "revisions": 4
   },
   "chartUpdated": "2025-08-17T15:42:07.381155Z",
   "charter": "KaNoteN-禁压%...#%-",
@@ -14,6 +14,7 @@
   "description": "云梦杯EX区决赛原创谱",
   "difficulty": 19.100004,
   "file": "https://phira.5wyxi.com/files/f1f02a3b-b6a6-465e-80ed-61ce23da9296",
+  "hidden": false,
   "id": 44992,
   "illustration": "https://phira.5wyxi.com/files/df90f140-a578-4ae3-999c-6f3c9c1b2aa1",
   "illustrator": "QueseraGames Co., Ltd.",
@@ -21,8 +22,8 @@
   "name": "Dear Farthest You",
   "preview": "https://phira.5wyxi.com/files/9c81ff46-f7bf-44be-924f-1d3f1a437aeb",
   "ranked": true,
-  "rating": 0.84659535,
-  "ratingCount": 421,
+  "rating": 0.82501906,
+  "ratingCount": 1294,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

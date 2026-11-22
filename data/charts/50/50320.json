@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:07Z",
-    "lastChanged": "2026-09-21T02:04:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-18T16:34:01.891282Z",
   "charter": "Sylveon 雄",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.6,
   "file": "https://phira.5wyxi.com/files/e53aa45a-a798-42fa-be70-ddb5cf6c3080",
+  "hidden": false,
   "id": 50320,
   "illustration": "https://phira.5wyxi.com/files/0134c673-bcf7-44c8-ab34-b8c616977006",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MegiddØ",
   "preview": "https://phira.5wyxi.com/files/f019f9b0-2897-4ab5-9989-6f46b621d6e5",
   "ranked": false,
-  "rating": 0.9238305,
-  "ratingCount": 335,
+  "rating": 0.9250333,
+  "ratingCount": 343,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

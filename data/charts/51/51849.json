@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:33Z",
-    "lastChanged": "2026-09-21T02:05:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-31T02:52:12.434986Z",
   "charter": "憋笑的N",
@@ -14,6 +14,7 @@
   "description": "譜師本人上傳",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/ca90d72f-2793-46ae-8f1f-8681021f0a6f",
+  "hidden": false,
   "id": 51849,
   "illustration": "https://phira.5wyxi.com/files/e548fbf3-0034-4ddf-8c01-7ccc75f59115",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "PPAP (Pen Pineapple Apple Pen)",
   "preview": "https://phira.5wyxi.com/files/49bb05c4-3fb3-4ba2-b514-10a893412fb1",
   "ranked": false,
-  "rating": 0.912444,
-  "ratingCount": 202,
+  "rating": 0.9132304,
+  "ratingCount": 358,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

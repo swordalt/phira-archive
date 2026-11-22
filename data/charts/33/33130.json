@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:01Z",
-    "lastChanged": "2026-09-21T02:03:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-02T13:59:53.124070Z",
   "charter": "米酪_Ricotta vs. 鳝丝好吃(SSHC) vs. XSlience_10231",
@@ -14,6 +14,7 @@
   "description": "改了定数（16.7→17.1→16.9）\n不想改定数了，我懒，在写新谱",
   "difficulty": 16.900003,
   "file": "https://phira.5wyxi.com/files/e3854496-6d95-4fdd-a412-20a586266646",
+  "hidden": false,
   "id": 33130,
   "illustration": "https://phira.5wyxi.com/files/c4f5b8b7-a39e-4203-9d53-02e3baa403f5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "VorpΛlize",
   "preview": "https://phira.5wyxi.com/files/2cdbaf67-5627-4dbe-a664-08bdb0e80848",
   "ranked": false,
-  "rating": 0.9354706,
-  "ratingCount": 1213,
+  "rating": 0.9358409,
+  "ratingCount": 1223,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:55Z",
-    "lastChanged": "2026-09-21T02:04:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-06T04:19:10.306348Z",
   "charter": "Elimination",
@@ -14,6 +14,7 @@
   "description": "本人上传\nb站@Com_ma",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/9ca76c32-3876-40bf-8e50-af989583f301",
+  "hidden": false,
   "id": 64422,
   "illustration": "https://phira.5wyxi.com/files/ab5e391d-4b1d-466e-888c-88c3cd7a97b4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Araya",
   "preview": "https://phira.5wyxi.com/files/6d54d415-4d83-41f6-896f-0492eac632c0",
   "ranked": false,
-  "rating": 0.9551472,
-  "ratingCount": 1377,
+  "rating": 0.95646316,
+  "ratingCount": 1579,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

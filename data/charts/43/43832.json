@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:37Z",
-    "lastChanged": "2026-09-21T02:03:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-06T07:50:33.374149Z",
   "charter": "shun2420",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.000004,
   "file": "https://phira.5wyxi.com/files/cc82e2cf-4cba-4a46-abdc-e9e0c3956732",
+  "hidden": false,
   "id": 43832,
   "illustration": "https://phira.5wyxi.com/files/a13d345f-daaf-4e3d-aa99-5fdd48dd87a6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Why Donchu Listen To Me??",
   "preview": "https://phira.5wyxi.com/files/91c634c3-dff8-4b46-8d45-00247cad9b54",
   "ranked": false,
-  "rating": 0.8395732,
-  "ratingCount": 57,
+  "rating": 0.84055203,
+  "ratingCount": 58,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

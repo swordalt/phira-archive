@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:51Z",
-    "lastChanged": "2026-09-21T02:03:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-17T12:17:46.748635Z",
   "charter": "Star Arts",
@@ -14,6 +14,7 @@
   "description": "6TH anniversary整活谱。\n有些小细节是根据歌词写的，欢迎各位自行探索。\n在这张谱中，你可以玩到很多熟悉的配置哦～\n已上传至b站@锐评大神StarArts",
   "difficulty": 15.399998,
   "file": "https://phira.5wyxi.com/files/6f3611ab-1790-438b-b4e4-29b740ff5cab",
+  "hidden": false,
   "id": 46907,
   "illustration": "https://phira.5wyxi.com/files/b5018462-ffe5-4132-a54f-bb04477b2d61",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "5:20AM",
   "preview": "https://phira.5wyxi.com/files/72827c45-d959-415f-8e0c-a5f60e70063a",
   "ranked": false,
-  "rating": 0.91758424,
-  "ratingCount": 4282,
+  "rating": 0.9184224,
+  "ratingCount": 4842,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

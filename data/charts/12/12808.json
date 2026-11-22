@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:39Z",
-    "lastChanged": "2026-09-21T02:05:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-24T10:44:03.031720Z",
   "charter": "亿之菜貌",
@@ -14,6 +14,7 @@
   "description": "第二次写谱",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/8be40e87-fd25-4a59-befc-bbab413b5c98",
+  "hidden": false,
   "id": 12808,
   "illustration": "https://phira.5wyxi.com/files/edd80380-8f0e-470a-bb64-86cd1d5895c9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "シルエット",
   "preview": "https://phira.5wyxi.com/files/2085b6f6-992f-4e92-b15b-35865de1cf89",
   "ranked": false,
-  "rating": 0.8197994,
-  "ratingCount": 282,
+  "rating": 0.82024854,
+  "ratingCount": 286,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

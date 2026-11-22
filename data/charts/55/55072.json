@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:33Z",
-    "lastChanged": "2026-09-21T02:04:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-05T08:44:12.541041Z",
   "charter": "△",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/937fd40c-b1f9-4125-9458-ca816ea71f05",
+  "hidden": false,
   "id": 55072,
   "illustration": "https://phira.5wyxi.com/files/45b03798-1699-4c2c-907b-e93b27d337d3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Penrose triangIe",
   "preview": "https://phira.5wyxi.com/files/b8b3f837-7f48-4e76-9415-eccce99f8ab1",
   "ranked": false,
-  "rating": 0.9405839,
-  "ratingCount": 427,
+  "rating": 0.9405369,
+  "ratingCount": 456,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

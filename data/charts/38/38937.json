@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:20Z",
-    "lastChanged": "2026-09-21T02:03:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-31T05:53:52.732103Z",
   "charter": "zzxl as \"Radiant Knight\"",
@@ -14,6 +14,7 @@
   "description": "bili@zzxl12138 本人上传",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/5617c3b9-8a91-4601-964e-5a5bf6bfcd17",
+  "hidden": false,
   "id": 38937,
   "illustration": "https://phira.5wyxi.com/files/48eeb1e4-1bf9-43af-b951-8bbf5e5cdb4a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Radiant",
   "preview": "https://phira.5wyxi.com/files/c65f6e51-b710-4542-8246-f0dfe3196683",
   "ranked": false,
-  "rating": 0.9539272,
-  "ratingCount": 880,
+  "rating": 0.9543914,
+  "ratingCount": 951,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

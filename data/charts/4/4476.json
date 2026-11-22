@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:17Z",
-    "lastChanged": "2026-09-21T02:01:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-02T07:18:44.986196Z",
   "charter": "日向666_",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/7a3ea980-8e48-48f8-be6e-bbeb58db131e",
+  "hidden": false,
   "id": 4476,
   "illustration": "https://phira.5wyxi.com/files/210a4444-e469-47e2-8188-ac608138c15f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Chemistry",
   "preview": "https://phira.5wyxi.com/files/e3a20a73-4cfb-4e43-9335-ddb4a9726b63",
   "ranked": false,
-  "rating": 0.87821025,
-  "ratingCount": 121,
+  "rating": 0.8763084,
+  "ratingCount": 125,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

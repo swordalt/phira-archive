@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:07Z",
-    "lastChanged": "2026-09-21T02:02:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-05T14:16:32.244178Z",
   "charter": "凌雨",
@@ -14,6 +14,7 @@
   "description": "谱师本人，单人作品，感谢支持",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/111c7f7a-3567-4529-a8de-4a5721c49ce1",
+  "hidden": false,
   "id": 18117,
   "illustration": "https://phira.5wyxi.com/files/4b85c1cf-ee55-492c-9290-077130d50601",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "BREaK! BREaK! BREaK!",
   "preview": "https://phira.5wyxi.com/files/96be732f-ddc4-4ac7-a688-1c30d72b1316",
   "ranked": false,
-  "rating": 0.8636783,
-  "ratingCount": 389,
+  "rating": 0.8644536,
+  "ratingCount": 393,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

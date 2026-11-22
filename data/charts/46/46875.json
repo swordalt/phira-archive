@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:31Z",
-    "lastChanged": "2026-09-21T02:05:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-15T15:45:40.725806Z",
   "charter": "theStrictIX",
@@ -14,6 +14,7 @@
   "description": "本人上传，B站同作者名。",
   "difficulty": 13.500001,
   "file": "https://phira.5wyxi.com/files/e1343ccb-09e1-4320-925b-9b89fb91a1ae",
+  "hidden": false,
   "id": 46875,
   "illustration": "https://phira.5wyxi.com/files/a3a3975a-6886-4c01-b10f-04462790a46f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "アンビバレンス",
   "preview": "https://phira.5wyxi.com/files/d6f49e91-47cc-4619-afbe-52d4a0665906",
   "ranked": false,
-  "rating": 0.82146364,
-  "ratingCount": 86,
+  "rating": 0.8251505,
+  "ratingCount": 92,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

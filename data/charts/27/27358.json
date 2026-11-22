@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:39Z",
-    "lastChanged": "2026-09-21T02:02:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-05T11:13:05.525713Z",
   "charter": "大鸽子咕咕咕",
@@ -14,6 +14,7 @@
   "description": "协奏杯谱面修改版，改成了常规谱，难度不高，侧重手法。",
   "difficulty": 15.900001,
   "file": "https://phira.5wyxi.com/files/c8ca62c8-9882-4b53-8185-c93d4c795bc8",
+  "hidden": false,
   "id": 27358,
   "illustration": "https://phira.5wyxi.com/files/b8f27788-2065-44b5-9102-68930eb8ae39",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bossa Gabba",
   "preview": "https://phira.5wyxi.com/files/581ac2ee-a2cc-4f06-a09d-e0b6b4dfc134",
   "ranked": false,
-  "rating": 0.33912247,
-  "ratingCount": 83,
+  "rating": 0.42567086,
+  "ratingCount": 82,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

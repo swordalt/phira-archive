@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:21Z",
-    "lastChanged": "2026-09-21T02:02:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-10T02:01:47.229739Z",
   "charter": "BXZ",
@@ -14,6 +14,7 @@
   "description": "新人二谱",
   "difficulty": 15.099998,
   "file": "https://phira.5wyxi.com/files/b9caa254-f182-4d92-ad2f-4bfa3597f452",
+  "hidden": false,
   "id": 23077,
   "illustration": "https://phira.5wyxi.com/files/25212422-d0e2-46c1-9faf-227f045407ca",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "はいよろこんで",
   "preview": "https://phira.5wyxi.com/files/18930449-41ea-45fb-8521-c3de4d94ff37",
   "ranked": false,
-  "rating": 0.9478263,
-  "ratingCount": 10796,
+  "rating": 0.9476253,
+  "ratingCount": 11174,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

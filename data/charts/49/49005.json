@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:03Z",
-    "lastChanged": "2026-09-21T02:04:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-11T09:49:36.360589Z",
   "charter": "Co_Kie",
@@ -14,6 +14,7 @@
   "description": "我认为还不错玩的一张谱\n谱师b站@CookieRacer",
   "difficulty": 17.300001,
   "file": "https://phira.5wyxi.com/files/273f4897-f5bb-4e67-b2a6-142e9ba9b9b0",
+  "hidden": false,
   "id": 49005,
   "illustration": "https://phira.5wyxi.com/files/cb040b59-8aec-4ed0-8533-11ec84056dce",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Archidoxen",
   "preview": "https://phira.5wyxi.com/files/6bffa950-f01b-42e8-b0da-588a66624131",
   "ranked": false,
-  "rating": 0.92542034,
-  "ratingCount": 962,
+  "rating": 0.92640316,
+  "ratingCount": 995,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

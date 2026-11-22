@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:15Z",
-    "lastChanged": "2026-09-21T02:06:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-17T12:02:25.342351Z",
   "charter": "-Star-天崽awa a.k.a.FurryAwA",
@@ -14,6 +14,7 @@
   "description": "Kalpa第一次公募获奖曲\n上传谱面相关内容请注明谱师信息@天崽awa",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/3073b688-1cfb-46f7-815e-3c97c37b73f4",
+  "hidden": false,
   "id": 38197,
   "illustration": "https://phira.5wyxi.com/files/e4ddc211-88bc-4f7b-bc48-ed2a8316cd98",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Grabbing a star",
   "preview": "https://phira.5wyxi.com/files/d43000b0-bc26-49aa-b252-12290e2d9e90",
   "ranked": false,
-  "rating": 0.9635354,
-  "ratingCount": 197,
+  "rating": 0.963261,
+  "ratingCount": 203,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

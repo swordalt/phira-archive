@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:20Z",
-    "lastChanged": "2026-09-21T02:03:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-31T06:53:07.666258Z",
   "charter": "小鸟游星野",
@@ -14,6 +14,7 @@
   "description": "涅槃太好听了",
   "difficulty": 17.1,
   "file": "https://phira.5wyxi.com/files/8994fd8e-f5ce-4cd5-be9b-c902a9be0eff",
+  "hidden": false,
   "id": 38941,
   "illustration": "https://phira.5wyxi.com/files/1f5e7729-d03f-425b-a0f5-405daa0f425a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "涅槃/重生",
   "preview": "https://phira.5wyxi.com/files/8bb01665-12df-42e8-9b38-927163166528",
   "ranked": false,
-  "rating": 0.7877646,
-  "ratingCount": 151,
+  "rating": 0.78516936,
+  "ratingCount": 159,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

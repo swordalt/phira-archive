@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:06Z",
-    "lastChanged": "2026-09-21T02:07:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-11T05:54:51.134214Z",
   "charter": "大鸽子咕咕咕 feat. Pewd",
@@ -14,6 +14,7 @@
   "description": "谱面最终版更新！该谱面为手法谱，有初见杀。耗时两个多月，感谢游玩。",
   "difficulty": 16.900002,
   "file": "https://phira.5wyxi.com/files/0c0c7229-a10a-40f7-bf96-346357382964",
+  "hidden": false,
   "id": 25458,
   "illustration": "https://phira.5wyxi.com/files/bbfa0191-fab5-4d71-9175-41d0ece6d621",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Cthugha",
   "preview": "https://phira.5wyxi.com/files/9d056b5a-9776-48f6-a90d-606c9c791908",
   "ranked": false,
-  "rating": 0.52297544,
-  "ratingCount": 710,
+  "rating": 0.5437075,
+  "ratingCount": 713,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:08Z",
-    "lastChanged": "2026-09-21T02:05:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-13T08:18:46.797384Z",
   "charter": "HHmeowmeows",
@@ -14,6 +14,7 @@
   "description": "Special thanks to AxolotlsPlasma171 for letting me chart this!",
   "difficulty": 19.0,
   "file": "https://phira.5wyxi.com/files/0810a62a-ac36-49c0-ab38-51978c3d128c",
+  "hidden": false,
   "id": 73123,
   "illustration": "https://phira.5wyxi.com/files/efee2178-30f2-489b-98a4-333c5913e3ef",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Destroy (Agitato remix)",
   "preview": "https://phira.5wyxi.com/files/b6780e41-7357-4745-8357-bb19bd026ffd",
   "ranked": false,
-  "rating": 0.77590567,
-  "ratingCount": 80,
+  "rating": 0.7865654,
+  "ratingCount": 90,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

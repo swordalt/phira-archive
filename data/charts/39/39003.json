@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:21Z",
-    "lastChanged": "2026-09-21T02:03:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-31T16:57:51.795493Z",
   "charter": "leisen等23万个人",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/eec178c7-5cfb-41dd-8e5e-ea2537c07606",
+  "hidden": false,
   "id": 39003,
   "illustration": "https://phira.5wyxi.com/files/0c70e409-a12a-480a-a964-89f3b1a1b1f0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "M （エム）",
   "preview": "https://phira.5wyxi.com/files/b456bbff-6fc9-4721-8ad6-fcf73816080d",
   "ranked": false,
-  "rating": 0.95633554,
-  "ratingCount": 454,
+  "rating": 0.95535964,
+  "ratingCount": 483,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

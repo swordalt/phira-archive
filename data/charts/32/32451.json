@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:07Z",
-    "lastChanged": "2026-09-21T02:06:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-25T14:07:31.844272Z",
   "charter": "maqiang",
@@ -14,6 +14,7 @@
   "description": "本人上传 喜欢这首歌就试着写了一下 不会用搞什么表演判定线 第一张铺子（",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/634503b2-a667-4ed9-9e67-6fd694dce7e1",
+  "hidden": false,
   "id": 32451,
   "illustration": "https://phira.5wyxi.com/files/67e06345-baa4-4a6c-8783-bc55184c1c6e",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "缸",
   "preview": "https://phira.5wyxi.com/files/4524576c-35d8-4aee-8ce5-8d95423a1614",
   "ranked": false,
-  "rating": 0.9222071,
+  "rating": 0.9226671,
   "ratingCount": 166,
   "reviewed": true,
   "stable": false,

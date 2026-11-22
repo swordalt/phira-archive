@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:32Z",
-    "lastChanged": "2026-09-21T02:03:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-24T08:49:47.760581Z",
   "charter": "Dqz1z",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/71cbe5cf-31b7-42f0-a8be-7c1138084fbc",
+  "hidden": false,
   "id": 42601,
   "illustration": "https://phira.5wyxi.com/files/480ae29c-8836-45fd-84e0-abe4cd38f5ec",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Minecraft Lava Chicken (Original Game Soundtrack)",
   "preview": "https://phira.5wyxi.com/files/6d25839f-b6a6-4ba4-a769-e2288f5f3c18",
   "ranked": false,
-  "rating": 0.8389456,
-  "ratingCount": 211,
+  "rating": 0.84107894,
+  "ratingCount": 217,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

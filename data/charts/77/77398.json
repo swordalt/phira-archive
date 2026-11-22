@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:15Z",
-    "lastChanged": "2026-09-21T02:05:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-06T14:06:11.738433Z",
   "charter": "怀瑾握瑜",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nBV1jCtH6hEkt",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/da119c5b-de44-4061-8a62-fd0df1eaabe3",
+  "hidden": false,
   "id": 77398,
   "illustration": "https://phira.5wyxi.com/files/009e518f-8ea4-4973-a812-3e0a2bbd39ee",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "月影砕花",
   "preview": "https://phira.5wyxi.com/files/81ae1de6-0811-4a7f-9907-ff96189477ad",
   "ranked": false,
-  "rating": 0.89125144,
-  "ratingCount": 43,
+  "rating": 0.9248993,
+  "ratingCount": 62,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

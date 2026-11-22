@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:59Z",
-    "lastChanged": "2026-09-21T02:01:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-20T08:34:55.240254Z",
   "charter": "WR & MAR",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nbilibili@事北极熊 @音与洋之舞\n写了点龙的\n谱面演示:BV1Nm411S7Z8",
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/8278ef96-5490-43cd-a441-ba8dc5d76043",
+  "hidden": false,
   "id": 16148,
   "illustration": "https://phira.5wyxi.com/files/c66d32a8-7c2a-4423-b548-8ce91bbc2ab5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Seraphim",
   "preview": "https://phira.5wyxi.com/files/b38439f3-44cd-40a5-b11f-e02ef73956e1",
   "ranked": false,
-  "rating": 0.9409485,
-  "ratingCount": 881,
+  "rating": 0.94095033,
+  "ratingCount": 887,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

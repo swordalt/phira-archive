@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:39Z",
-    "lastChanged": "2026-09-21T02:03:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-11T01:08:58.256609Z",
   "charter": "褚赢cyy",
@@ -14,6 +14,7 @@
   "description": "本人上传，此为第二版，优化及新的动效",
   "difficulty": 13.799999,
   "file": "https://phira.5wyxi.com/files/76f7a745-6223-46ea-ba0e-003ed18d974c",
+  "hidden": false,
   "id": 44296,
   "illustration": "https://phira.5wyxi.com/files/dfc827ec-0469-46ff-a831-d447c3fd2675",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "My Wonderland",
   "preview": "https://phira.5wyxi.com/files/884dbfaa-7ffc-495d-8ede-0d4336c3c369",
   "ranked": false,
-  "rating": 0.89048684,
-  "ratingCount": 32,
+  "rating": 0.89344376,
+  "ratingCount": 33,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

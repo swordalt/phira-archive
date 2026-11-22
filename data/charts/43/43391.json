@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:27Z",
-    "lastChanged": "2026-09-21T02:06:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-01T14:34:31.668775Z",
   "charter": "陆米米 and soEasy",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.800001,
   "file": "https://phira.5wyxi.com/files/323db698-ddd8-42fb-8c66-8fb14cc3aef4",
+  "hidden": false,
   "id": 43391,
   "illustration": "https://phira.5wyxi.com/files/8e30a3d3-2bf8-416c-bc01-197bb155c72d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "心要让你看见(DJ版)",
   "preview": "https://phira.5wyxi.com/files/1d846595-d828-4f77-88cc-733d3585f1d2",
   "ranked": false,
-  "rating": 0.8840819,
-  "ratingCount": 155,
+  "rating": 0.87942356,
+  "ratingCount": 162,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

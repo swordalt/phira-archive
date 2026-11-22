@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:40Z",
-    "lastChanged": "2026-09-21T02:04:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-03T07:41:27.515319Z",
   "charter": "Pigeeeeeon",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/f80c76cb-57ff-4184-b91a-24159efc4fe9",
+  "hidden": false,
   "id": 57672,
   "illustration": "https://phira.5wyxi.com/files/345ab8a4-de03-4bce-9ce9-a67c875e3111",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "CO5M1C R4ILR0AD",
   "preview": "https://phira.5wyxi.com/files/18137fbb-fd23-4722-9185-7e0724b7e924",
   "ranked": false,
-  "rating": 0.92704374,
-  "ratingCount": 196,
+  "rating": 0.92788064,
+  "ratingCount": 202,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

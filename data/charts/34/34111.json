@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:04Z",
-    "lastChanged": "2026-09-21T02:03:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-16T03:07:43.326666Z",
   "charter": "-浮沫离柑-",
@@ -14,6 +14,7 @@
   "description": "本人上传，二谱，含有shader。b站视频BV1QRNteqEBP",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/90d3e1dd-6fd9-48bb-8ce2-768105071178",
+  "hidden": false,
   "id": 34111,
   "illustration": "https://phira.5wyxi.com/files/5832b0c3-2796-4cad-90b5-40ee9ed44548",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "DESTRUCTION ～天羽の溃～",
   "preview": "https://phira.5wyxi.com/files/b58d511c-c1e3-44ba-b591-2fcef7682f95",
   "ranked": false,
-  "rating": 0.91406107,
-  "ratingCount": 238,
+  "rating": 0.9125962,
+  "ratingCount": 250,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

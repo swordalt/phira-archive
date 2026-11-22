@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:35Z",
-    "lastChanged": "2026-09-21T02:01:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-01T13:32:19.801986Z",
   "charter": "春晖awa",
@@ -14,6 +14,7 @@
   "description": "二谱，本人上传，B站视频：BV1t34y1V7nX\n麻烦审核了，上传的时候一直没点保存T . T",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/ab689268-841f-4bea-af33-29cf3592621d",
+  "hidden": false,
   "id": 9981,
   "illustration": "https://phira.5wyxi.com/files/d2e71104-17c1-49a2-aee5-0a8f7201f8c9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "larva",
   "preview": "https://phira.5wyxi.com/files/4c6c72a6-702f-44fd-a8a7-1ec01c4f25d9",
   "ranked": false,
-  "rating": 0.84847885,
-  "ratingCount": 350,
+  "rating": 0.84708726,
+  "ratingCount": 354,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

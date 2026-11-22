@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:27Z",
-    "lastChanged": "2026-09-21T02:03:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-09T10:09:33.728852Z",
   "charter": "Shun",
@@ -14,6 +14,7 @@
   "description": "谱面为谱师本人上传，bilibili@Shun2420,\n为比赛\"初寻杯\"供谱",
   "difficulty": 14.699999,
   "file": "https://phira.5wyxi.com/files/f6d95608-aaa8-4fe8-940f-7e9dbab526f3",
+  "hidden": false,
   "id": 41253,
   "illustration": "https://phira.5wyxi.com/files/ac28bc4e-9869-4dc2-a874-7cdd3d1c8510",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Counting Stars",
   "preview": "https://phira.5wyxi.com/files/c5d66442-66c7-40af-b9a6-52a943367dff",
   "ranked": false,
-  "rating": 0.92280436,
-  "ratingCount": 3107,
+  "rating": 0.92116815,
+  "ratingCount": 3333,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

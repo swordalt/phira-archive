@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:59Z",
-    "lastChanged": "2026-09-21T02:05:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-14T12:52:05.453087Z",
   "charter": "TBxerC",
@@ -14,6 +14,7 @@
   "description": "B站 :TBxerC\n流速:12.5\n4～5k小键盘\n感谢@起名钉子户的MalodyToPhigros转谱器",
   "difficulty": 17.400002,
   "file": "https://phira.5wyxi.com/files/f2cc77f1-0698-4976-aae4-a386dfbcc816",
+  "hidden": false,
   "id": 26246,
   "illustration": "https://phira.5wyxi.com/files/5e10840c-0452-48f3-ab36-074f1e5a937a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Synthesis.",
   "preview": "https://phira.5wyxi.com/files/1c104de6-4c95-4a20-b041-9c0aaafe8b47",
   "ranked": false,
-  "rating": 0.81556493,
-  "ratingCount": 144,
+  "rating": 0.8209696,
+  "ratingCount": 152,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

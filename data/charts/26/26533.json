@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:35Z",
-    "lastChanged": "2026-09-21T02:02:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-18T16:53:06.773060Z",
   "charter": "307o",
@@ -14,6 +14,7 @@
   "description": "本人",
   "difficulty": 14.6,
   "file": "https://phira.5wyxi.com/files/38a26f8d-3e2f-47be-8d7a-fc223952f1c0",
+  "hidden": false,
   "id": 26533,
   "illustration": "https://phira.5wyxi.com/files/a2f9dd17-ec2b-430d-a910-098526587d12",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Orphe",
   "preview": "https://phira.5wyxi.com/files/e76b708e-4dd8-429b-9950-c3b728979801",
   "ranked": false,
-  "rating": 0.8954824,
-  "ratingCount": 351,
+  "rating": 0.89554423,
+  "ratingCount": 354,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

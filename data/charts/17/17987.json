@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:06Z",
-    "lastChanged": "2026-09-21T02:02:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-03T10:25:36.703233Z",
   "charter": "Alasy",
@@ -14,6 +14,7 @@
   "description": "新人二谱，本人上传，B站@_Alasy_\n感谢超爱吃盐的盐盐以及其他群友的指导，希望你喜欢~",
   "difficulty": 13.500002,
   "file": "https://phira.5wyxi.com/files/b58f0da9-333e-4376-823e-58b9a898f79f",
+  "hidden": false,
   "id": 17987,
   "illustration": "https://phira.5wyxi.com/files/a2efbc45-ffcd-481f-96fb-1701e8d0ee42",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ヨイハナビ",
   "preview": "https://phira.5wyxi.com/files/1148b209-a241-47da-8eb9-8adc7588bb47",
   "ranked": true,
-  "rating": 0.9066834,
-  "ratingCount": 2777,
+  "rating": 0.9063354,
+  "ratingCount": 2810,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

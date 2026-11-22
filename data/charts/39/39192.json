@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:21Z",
-    "lastChanged": "2026-09-21T02:03:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-03T15:01:30.850527Z",
   "charter": "海鸿",
@@ -14,6 +14,7 @@
   "description": "本人√传→",
   "difficulty": 14.000007,
   "file": "https://phira.5wyxi.com/files/0b4644cf-5c20-4275-84bd-17f9aaccbd99",
+  "hidden": false,
   "id": 39192,
   "illustration": "https://phira.5wyxi.com/files/79124901-f862-4c99-ae04-b85e1dbd41a8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MARENOL",
   "preview": "https://phira.5wyxi.com/files/b154970b-a4b7-492e-86a8-c2a3a44ba133",
   "ranked": false,
-  "rating": 0.9132153,
-  "ratingCount": 499,
+  "rating": 0.9139094,
+  "ratingCount": 513,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:02Z",
-    "lastChanged": "2026-09-21T02:02:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-05T10:30:42.659062Z",
   "charter": "How to Chart?",
@@ -14,6 +14,7 @@
   "description": "en-US\n\ncharters:\nTempo\nSumarΣxon\nhua\nSilverWolf",
   "difficulty": 15.5,
   "file": "https://phira.5wyxi.com/files/822363b7-4e57-48f4-8c3b-ef1fcd4bfb50",
+  "hidden": false,
   "id": 16758,
   "illustration": "https://phira.5wyxi.com/files/e5984c3e-f4d6-4298-bf84-7fadd6c15938",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "How To Make 音ゲ～曲!",
   "preview": "https://phira.5wyxi.com/files/33071a0a-0a3a-4e3b-a98d-353002a20233",
   "ranked": false,
-  "rating": 0.9374251,
-  "ratingCount": 1315,
+  "rating": 0.9374883,
+  "ratingCount": 1332,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

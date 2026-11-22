@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:12Z",
-    "lastChanged": "2026-09-21T02:05:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-30T05:45:28.539697Z",
   "charter": "h2oYue",
@@ -14,6 +14,7 @@
   "description": "本人上传，3rdWMC参赛谱面（位二）\nb站：BV1zZ8v6LEQM\n\n感谢vext_ 帮我改谱",
   "difficulty": 15.6,
   "file": "https://phira.5wyxi.com/files/80ce3b3e-6749-4af8-a503-c727d1e2446a",
+  "hidden": false,
   "id": 75704,
   "illustration": "https://phira.5wyxi.com/files/fab4abcd-b540-4b9f-80dc-04e80354adeb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Oshama Scramble!",
   "preview": "https://phira.5wyxi.com/files/ec9f3862-e133-40ee-809f-55c36a4dfe5d",
   "ranked": false,
-  "rating": 0.9244014,
-  "ratingCount": 590,
+  "rating": 0.9293255,
+  "ratingCount": 700,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

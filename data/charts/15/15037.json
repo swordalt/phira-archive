@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:54Z",
-    "lastChanged": "2026-09-21T02:01:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-08T10:42:51.288064Z",
   "charter": "オレンジ最強",
@@ -14,6 +14,7 @@
   "description": "谱师：オレンジ最強\r\n视频：https://www.bilibili.com/video/BV1qU421Z7xU",
   "difficulty": 13.600002,
   "file": "https://phira.5wyxi.com/files/e2f88b27-af63-4815-82c2-f8740bb1cf8c",
+  "hidden": false,
   "id": 15037,
   "illustration": "https://phira.5wyxi.com/files/b66e7713-6cc5-44bd-8b3d-9573db9d8aed",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "cry cry",
   "preview": "https://phira.5wyxi.com/files/88ab5847-f5da-4391-9413-3750fb7e8d32",
   "ranked": false,
-  "rating": 0.9369404,
-  "ratingCount": 282,
+  "rating": 0.9407274,
+  "ratingCount": 304,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:53Z",
-    "lastChanged": "2026-09-21T02:01:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-04T08:19:43.666134Z",
   "charter": "AR15",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/35d1cee0-7ef3-4f61-83c9-9053ba7340a4",
+  "hidden": false,
   "id": 14776,
   "illustration": "https://phira.5wyxi.com/files/5b36c8de-8a79-48b9-bbc7-b9bc0e5864d6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Felys(final remix)",
   "preview": "https://phira.5wyxi.com/files/4cfe6660-07dc-44f1-8229-4561bbe9b904",
   "ranked": false,
-  "rating": 0.9494966,
-  "ratingCount": 1114,
+  "rating": 0.9497522,
+  "ratingCount": 1131,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

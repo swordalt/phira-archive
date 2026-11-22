@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:35Z",
-    "lastChanged": "2026-09-21T02:05:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-12T04:20:18.717393Z",
   "charter": "mj1748",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/71d0e713-ea97-46ef-b15f-081bab7c2159",
+  "hidden": false,
   "id": 1689,
   "illustration": "https://phira.5wyxi.com/files/234ef176-f77f-4a9e-9cb5-21942481f110",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "緑眼のジェラシー",
   "preview": "https://phira.5wyxi.com/files/84ec8314-0be5-4ce1-9dc2-60def4b73d6f",
   "ranked": false,
-  "rating": 0.45328894,
-  "ratingCount": 313,
+  "rating": 0.45823058,
+  "ratingCount": 316,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

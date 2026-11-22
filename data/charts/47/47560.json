@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:55Z",
-    "lastChanged": "2026-09-21T02:03:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-03T12:58:08.481622Z",
   "charter": "白板 ft.馬鹿黑板",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传,B站同名",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/68e1d13c-a789-4e5c-8f6d-ad6f53e809db",
+  "hidden": false,
   "id": 47560,
   "illustration": "https://phira.5wyxi.com/files/27a466c7-0d01-47c6-a53d-26727331b9d5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "殿ッ！？ご乱心！？",
   "preview": "https://phira.5wyxi.com/files/ba667eea-41ed-4ca3-ad87-9154bd3ff31d",
   "ranked": false,
-  "rating": 0.9336667,
-  "ratingCount": 397,
+  "rating": 0.93436277,
+  "ratingCount": 409,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

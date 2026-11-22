@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:39Z",
-    "lastChanged": "2026-09-21T02:05:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-31T06:11:28.446965Z",
   "charter": "luor",
@@ -14,6 +14,7 @@
   "description": "之前写的一张谱 又稍微改了一点",
   "difficulty": 25.0,
   "file": "https://phira.5wyxi.com/files/0d6d6120-9438-45f0-855e-289592551ecb",
+  "hidden": false,
   "id": 13037,
   "illustration": "https://phira.5wyxi.com/files/9a318df6-ee94-4687-9040-284d003cae3c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dance of Wrath",
   "preview": "https://phira.5wyxi.com/files/3ff9da82-0548-4c56-95a3-7f6a115d2d2d",
   "ranked": false,
-  "rating": 0.93903273,
-  "ratingCount": 258,
+  "rating": 0.9393804,
+  "ratingCount": 264,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

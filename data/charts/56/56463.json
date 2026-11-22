@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:36Z",
-    "lastChanged": "2026-10-25T09:28:45Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:57:53Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-19T05:52:28.680371Z",
   "charter": "Axi vs.雨巷猫归",
@@ -14,6 +14,7 @@
   "description": "谱面原视频：BV1bHDiBrEWv\n感谢@雨巷猫归#1352658 的谱面协助",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/05eacc8a-6768-4008-a4f7-ebbfaa29accc",
+  "hidden": false,
   "id": 56463,
   "illustration": "https://phira.5wyxi.com/files/b65ae6ff-5ea2-4efa-a0f8-1982b136e614",
   "illustrator": "Super All Star Bros.",
@@ -21,8 +22,8 @@
   "name": "encounter",
   "preview": "https://phira.5wyxi.com/files/d78f1882-4cdb-4f47-8857-fc89dbf30d1b",
   "ranked": false,
-  "rating": 0.9193793,
-  "ratingCount": 61,
+  "rating": 0.92055905,
+  "ratingCount": 116,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

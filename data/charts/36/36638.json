@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-09-21T02:06:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-28T09:51:24.114005Z",
   "charter": "wutianMK",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 37.0,
   "file": "https://phira.5wyxi.com/files/8d39730e-4a51-4278-9bb0-211ced03e500",
+  "hidden": false,
   "id": 36638,
   "illustration": "https://phira.5wyxi.com/files/afba4de0-fa08-4953-a1f9-8d37227aaf6c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Zoisite",
   "preview": "https://phira.5wyxi.com/files/2f97c536-ee4e-468c-a904-40a56a68d462",
   "ranked": false,
-  "rating": 0.8698517,
-  "ratingCount": 40,
+  "rating": 0.8782016,
+  "ratingCount": 42,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

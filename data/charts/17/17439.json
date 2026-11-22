@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:05Z",
-    "lastChanged": "2026-09-21T02:02:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-23T12:23:28.747360Z",
   "charter": "/10005/",
@@ -14,6 +14,7 @@
   "description": "谱师亲自上传，这个是最终版本了",
   "difficulty": 14.400001,
   "file": "https://phira.5wyxi.com/files/63a85bd8-4c8c-4f18-b21a-6bfb4e968c27",
+  "hidden": false,
   "id": 17439,
   "illustration": "https://phira.5wyxi.com/files/66e7489f-3f0b-48dd-ae92-53e0ad51688e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "A Clock",
   "preview": "https://phira.5wyxi.com/files/3d6c6d11-b31a-4726-8156-18121517af5b",
   "ranked": false,
-  "rating": 0.91856056,
-  "ratingCount": 151,
+  "rating": 0.9176352,
+  "ratingCount": 155,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

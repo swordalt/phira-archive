@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:25Z",
-    "lastChanged": "2026-09-21T02:06:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-22T02:03:01.785298Z",
   "charter": "CMcloudy",
@@ -14,6 +14,7 @@
   "description": "本谱本人全部负责，床不斯尼",
   "difficulty": 34.0,
   "file": "https://phira.5wyxi.com/files/8044535e-6bb9-4313-b84b-2af6def79162",
+  "hidden": false,
   "id": 42381,
   "illustration": "https://phira.5wyxi.com/files/e644ed98-ed1d-45fb-beb9-240f3f84f4af",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Unlimited Hyperlink",
   "preview": "https://phira.5wyxi.com/files/ed491a4d-4e77-4e19-b4a4-2be4eba3d702",
   "ranked": false,
-  "rating": 0.8302874,
-  "ratingCount": 29,
+  "rating": 0.8190258,
+  "ratingCount": 30,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

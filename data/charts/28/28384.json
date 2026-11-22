@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:42Z",
-    "lastChanged": "2026-09-21T02:02:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-06T00:24:47.633970Z",
   "charter": "lyxxxx",
@@ -14,6 +14,7 @@
   "description": "微调",
   "difficulty": 12.500002,
   "file": "https://phira.5wyxi.com/files/498607a7-df71-4add-b9c6-4124c3220777",
+  "hidden": false,
   "id": 28384,
   "illustration": "https://phira.5wyxi.com/files/96af915b-fa15-4a28-913d-1f370b6044c1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Five Hundred Miles",
   "preview": "https://phira.5wyxi.com/files/98b53908-833d-4cab-bb37-b36335ea8fc3",
   "ranked": false,
-  "rating": 0.95565456,
-  "ratingCount": 398,
+  "rating": 0.95401335,
+  "ratingCount": 414,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

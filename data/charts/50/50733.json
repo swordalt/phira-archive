@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:10Z",
-    "lastChanged": "2026-09-21T02:04:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-31T04:43:06.192206Z",
   "charter": "Joke vs. Rui",
@@ -14,6 +14,7 @@
   "description": "合作谱师：瑞矢斯\n全体谱师同意上传\n\n压了1年多稿的键盘谱\n主打一个不断年更就是胜利\n\n瑞客六代，越溜越快（指流速）",
   "difficulty": 16.500002,
   "file": "https://phira.5wyxi.com/files/4472b83e-2fa3-4aa8-8599-2d44ba0a42b9",
+  "hidden": false,
   "id": 50733,
   "illustration": "https://phira.5wyxi.com/files/aa0f5f1d-420f-44fc-9a8e-fa0fef269fab",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Show's Over",
   "preview": "https://phira.5wyxi.com/files/f262cfd6-bfa5-4258-9e4b-a22ad2e1e898",
   "ranked": false,
-  "rating": 0.93985164,
-  "ratingCount": 222,
+  "rating": 0.940146,
+  "ratingCount": 226,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

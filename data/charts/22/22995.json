@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:21Z",
-    "lastChanged": "2026-09-21T02:02:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-08T15:26:43.173540Z",
   "charter": "被咯素质",
@@ -14,6 +14,7 @@
   "description": "BV116421Z7Lw",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/a50f1d73-fd48-415d-bdcd-cebceb99760b",
+  "hidden": false,
   "id": 22995,
   "illustration": "https://phira.5wyxi.com/files/d3686ac2-61a3-47ec-9b26-7d0d751917ef",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "シカ色デイズ(鹿色Days)",
   "preview": "https://phira.5wyxi.com/files/9231fc40-b07b-4140-905c-d51b2ca6b166",
   "ranked": false,
-  "rating": 0.88678664,
-  "ratingCount": 1729,
+  "rating": 0.8869817,
+  "ratingCount": 1738,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

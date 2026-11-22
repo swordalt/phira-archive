@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-09-21T02:06:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-24T09:13:55.631205Z",
   "charter": "MCMK-",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/f34d4e23-6b70-4f50-a5db-bea41034c005",
+  "hidden": false,
   "id": 36921,
   "illustration": "https://phira.5wyxi.com/files/138e508e-f8dc-4f66-a0a3-d7d13361850e",
   "illustrator": "",

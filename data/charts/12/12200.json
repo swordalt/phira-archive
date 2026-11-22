@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:39Z",
-    "lastChanged": "2026-09-21T02:05:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-06T14:40:33.476885Z",
   "charter": "zxz",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/c468ace1-b44a-438f-9fe8-3911bf3bde54",
+  "hidden": false,
   "id": 12200,
   "illustration": "https://phira.5wyxi.com/files/7f56d33b-5624-49f7-941f-fb75f77c7077",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Pont des souvenirs(piano ver.) 4k",
   "preview": "https://phira.5wyxi.com/files/5813499c-0838-4b04-9dbf-5fe95f1c2231",
   "ranked": false,
-  "rating": 0.83131534,
-  "ratingCount": 60,
+  "rating": 0.8349743,
+  "ratingCount": 62,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

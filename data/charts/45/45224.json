@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:30Z",
-    "lastChanged": "2026-09-21T02:06:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-20T05:19:28.122903Z",
   "charter": "恃卑矜己",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 26.0,
   "file": "https://phira.5wyxi.com/files/bc44d5a3-05cc-4f11-9b1d-dc934616bdeb",
+  "hidden": false,
   "id": 45224,
   "illustration": "https://phira.5wyxi.com/files/e0b2c8d8-d4e1-481a-9438-9c3b75d8f750",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "どっちにするの？",
   "preview": "https://phira.5wyxi.com/files/ee686134-ed56-46bc-b6fe-db86d25e1968",
   "ranked": false,
-  "rating": 0.9415999,
-  "ratingCount": 414,
+  "rating": 0.9405388,
+  "ratingCount": 432,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

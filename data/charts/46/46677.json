@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:50Z",
-    "lastChanged": "2026-09-21T02:03:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-12T06:35:54.887968Z",
   "charter": "EndsSky",
@@ -14,6 +14,7 @@
   "description": "非常滴美味",
   "difficulty": 14.1,
   "file": "https://phira.5wyxi.com/files/819a18c2-5b33-4bb5-a506-5ffe2ba1f6d7",
+  "hidden": false,
   "id": 46677,
   "illustration": "https://phira.5wyxi.com/files/527afe2a-4fe5-4c54-a5d0-75c5e4acf815",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Hand in Hand",
   "preview": "https://phira.5wyxi.com/files/a5a524c6-4e81-4ec7-9013-814cf3872060",
   "ranked": false,
-  "rating": 0.9128897,
-  "ratingCount": 304,
+  "rating": 0.91518253,
+  "ratingCount": 342,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

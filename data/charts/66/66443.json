@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:58Z",
-    "lastChanged": "2026-09-21T02:06:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-14T06:30:46.321293Z",
   "charter": "HRS-Team",
@@ -14,6 +14,7 @@
   "description": "HRS-Lv.12-Flow练习曲",
   "difficulty": 12.1,
   "file": "https://phira.5wyxi.com/files/d9871f42-108e-427d-83d9-5e9b1210e655",
+  "hidden": false,
   "id": 66443,
   "illustration": "https://phira.5wyxi.com/files/4b317269-ae47-4939-817e-b0a6be152ba4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Break Through The Barrier",
   "preview": "https://phira.5wyxi.com/files/a46a31b5-3d60-4570-b61f-63c25f51ee85",
   "ranked": false,
-  "rating": 0.8954973,
-  "ratingCount": 50,
+  "rating": 0.90102744,
+  "ratingCount": 53,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

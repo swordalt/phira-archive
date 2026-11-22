@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:35Z",
-    "lastChanged": "2026-09-21T02:06:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-14T00:01:13.164805Z",
   "charter": "QuanX",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/229de69d-388a-4901-89ca-3a6ffb5b147d",
+  "hidden": false,
   "id": 46771,
   "illustration": "https://phira.5wyxi.com/files/11980db2-56c0-41ea-90dd-8aff716e109c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "天球のMúsica",
   "preview": "https://phira.5wyxi.com/files/a9c34455-904f-489f-97dd-4217b973497b",
   "ranked": false,
-  "rating": 0.96245134,
-  "ratingCount": 249,
+  "rating": 0.9621516,
+  "ratingCount": 263,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

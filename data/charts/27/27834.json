@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:41Z",
-    "lastChanged": "2026-09-21T02:02:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-19T01:26:51.530805Z",
   "charter": "被咯素质",
@@ -14,6 +14,7 @@
   "description": "b站:@_被咯素质_",
   "difficulty": 14.899999,
   "file": "https://phira.5wyxi.com/files/814213ea-ae44-443e-be26-c527ce22667f",
+  "hidden": false,
   "id": 27834,
   "illustration": "https://phira.5wyxi.com/files/e8f8db06-fb44-4e57-a915-bce9a2de6d4c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Qualia",
   "preview": "https://phira.5wyxi.com/files/1a35265b-f38e-48ac-a739-2ccf334b3a8b",
   "ranked": false,
-  "rating": 0.8611256,
-  "ratingCount": 67,
+  "rating": 0.86309606,
+  "ratingCount": 68,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

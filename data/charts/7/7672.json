@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:27Z",
-    "lastChanged": "2026-09-21T02:01:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-15T05:49:38.477143Z",
   "charter": "星星awa",
@@ -14,6 +14,7 @@
   "description": "加入萝莉次元368835276",
   "difficulty": 17.300005,
   "file": "https://phira.5wyxi.com/files/2fcf326d-36d8-4548-b267-44a0a1353ca2",
+  "hidden": false,
   "id": 7672,
   "illustration": "https://phira.5wyxi.com/files/86d88bb6-2ef1-446a-980a-f7a16097c923",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Animosity",
   "preview": "https://phira.5wyxi.com/files/d94b621c-e383-40a3-b825-7d1832f39da1",
   "ranked": false,
-  "rating": 0.8258854,
-  "ratingCount": 753,
+  "rating": 0.827228,
+  "ratingCount": 761,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

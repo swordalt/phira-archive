@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:02Z",
-    "lastChanged": "2026-09-21T02:06:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-27T12:41:16.346070Z",
   "charter": "cray_fish",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/15bf0fa5-2633-4cea-a447-3c87357cdacd",
+  "hidden": false,
   "id": 29174,
   "illustration": "https://phira.5wyxi.com/files/fb4c872a-0477-43c6-a581-f3e44e9385c5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Apollo",
   "preview": "https://phira.5wyxi.com/files/67763bc4-e3bc-457a-907c-5603e37baca3",
   "ranked": false,
-  "rating": 0.8805986,
-  "ratingCount": 26,
+  "rating": 0.88442683,
+  "ratingCount": 27,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

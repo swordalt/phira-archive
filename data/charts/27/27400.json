@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:39Z",
-    "lastChanged": "2026-09-21T02:02:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-05T14:34:23.726105Z",
   "charter": "いけにえ_",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/aaeebed5-3243-4776-8ae4-9b444689ef48",
+  "hidden": false,
   "id": 27400,
   "illustration": "https://phira.5wyxi.com/files/704c8d79-c98d-4a9e-977b-20ef16c4fdba",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bad Encryption",
   "preview": "https://phira.5wyxi.com/files/05603945-e01e-49ef-906a-28ac61fd9913",
   "ranked": false,
-  "rating": 0.8157903,
-  "ratingCount": 14,
+  "rating": 0.8251943,
+  "ratingCount": 15,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

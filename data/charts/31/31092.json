@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:52Z",
-    "lastChanged": "2026-09-21T02:02:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-27T11:44:20.921804Z",
   "charter": "TAT",
@@ -14,6 +14,7 @@
   "description": "第二张，b站同名",
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/35c8eabe-02e6-4b76-80af-898255727a2c",
+  "hidden": false,
   "id": 31092,
   "illustration": "https://phira.5wyxi.com/files/db837bcb-dc30-40af-ae12-212cd69950cc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "PUPA",
   "preview": "https://phira.5wyxi.com/files/72a0fe9f-54ff-4f46-a6f6-e994da69bf55",
   "ranked": false,
-  "rating": 0.8505916,
-  "ratingCount": 176,
+  "rating": 0.8505959,
+  "ratingCount": 178,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

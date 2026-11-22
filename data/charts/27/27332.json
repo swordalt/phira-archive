@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:00Z",
-    "lastChanged": "2026-09-21T02:06:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-02T13:35:51.272515Z",
   "charter": "史诗",
@@ -14,6 +14,7 @@
   "description": "这是史诗本人第一次写叠，难度在7-8左右，手感比较差，请见谅。（以后我会陆陆续续写的）",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/c8c809a2-f21a-4e25-8cf1-baf3d0b792f9",
+  "hidden": false,
   "id": 27332,
   "illustration": "https://phira.5wyxi.com/files/b30b302f-aaea-4678-9529-85e807fbde56",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Leathal Deal",
   "preview": "https://phira.5wyxi.com/files/ccbb98cd-4841-496c-962e-b3ac22040984",
   "ranked": false,
-  "rating": 0.9170112,
-  "ratingCount": 247,
+  "rating": 0.9167064,
+  "ratingCount": 253,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

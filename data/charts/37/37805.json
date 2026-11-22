@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:17Z",
-    "lastChanged": "2026-09-21T02:03:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-08T14:41:56.577013Z",
   "charter": "CMZ_qwq",
@@ -14,6 +14,7 @@
   "description": "谱师：b站@CMZ_qwq",
   "difficulty": 14.9000025,
   "file": "https://phira.5wyxi.com/files/f37494a5-cf54-408e-a380-03bd45cf06cd",
+  "hidden": false,
   "id": 37805,
   "illustration": "https://phira.5wyxi.com/files/79f66388-3077-4072-9aa1-8d74795253a0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "刹那の誓い",
   "preview": "https://phira.5wyxi.com/files/56664abe-2c55-4109-b8e7-da7c63ebecae",
   "ranked": false,
-  "rating": 0.94045204,
-  "ratingCount": 1109,
+  "rating": 0.9404467,
+  "ratingCount": 1125,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

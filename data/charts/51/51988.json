@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:45Z",
-    "lastChanged": "2026-09-21T02:06:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-02T11:53:09.463697Z",
   "charter": "SfcarisFW25880",
@@ -14,6 +14,7 @@
   "description": "该谱面由＂熊大sfcarisFW25880 ＂谱师本人亲自上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/4db6d6c7-b38b-4485-9673-dc285f1c9d8b",
+  "hidden": false,
   "id": 51988,
   "illustration": "https://phira.5wyxi.com/files/19b36240-0bd2-4b4b-a258-91af32dde636",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Heaven’s Fall ",
   "preview": "https://phira.5wyxi.com/files/027bbd67-52ba-4acc-ab09-bb82152ed887",
   "ranked": false,
-  "rating": 0.90235233,
-  "ratingCount": 14,
+  "rating": 0.9072915,
+  "ratingCount": 16,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

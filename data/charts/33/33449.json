@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:02Z",
-    "lastChanged": "2026-09-21T02:03:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-06T12:45:55.572227Z",
   "charter": "D1η_nasAb",
@@ -14,6 +14,7 @@
   "description": "本人上传，新人初谱，微奋警告，暂未上传b站，修改了定数",
   "difficulty": 16.200003,
   "file": "https://phira.5wyxi.com/files/af19d72e-cc68-4ccd-9ada-6a4e5729e771",
+  "hidden": false,
   "id": 33449,
   "illustration": "https://phira.5wyxi.com/files/4f3bc54c-4547-4783-9855-bb331b0ddeb4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Time To Night Sky (feat. Lee Yu Jin)",
   "preview": "https://phira.5wyxi.com/files/946af167-de21-479e-8342-d6f614c743fe",
   "ranked": false,
-  "rating": 0.89818674,
-  "ratingCount": 555,
+  "rating": 0.89869034,
+  "ratingCount": 572,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

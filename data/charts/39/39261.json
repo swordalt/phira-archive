@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:21Z",
-    "lastChanged": "2026-09-21T02:03:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-06T06:56:48.959174Z",
   "charter": "TieGuo",
@@ -14,6 +14,7 @@
   "description": "初谱\n花了两天做的",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/3c587373-c1ec-4f12-9dde-45b190a236d9",
+  "hidden": false,
   "id": 39261,
   "illustration": "https://phira.5wyxi.com/files/54d05460-eeb9-44da-800e-6cbac6dda712",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ゆで卵茹でます! ! ! !",
   "preview": "https://phira.5wyxi.com/files/a7f1a4a3-fb66-4f50-af19-4c164161bb9a",
   "ranked": false,
-  "rating": 0.9558844,
-  "ratingCount": 705,
+  "rating": 0.9544601,
+  "ratingCount": 740,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

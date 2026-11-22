@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:16Z",
-    "lastChanged": "2026-09-21T02:02:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-19T06:47:13.827728Z",
   "charter": "CharredRout15",
@@ -14,6 +14,7 @@
   "description": "bilibili@CharredRout15",
   "difficulty": 10.499991,
   "file": "https://phira.5wyxi.com/files/67431267-fa54-42b4-90ce-77f450345714",
+  "hidden": false,
   "id": 20796,
   "illustration": "https://phira.5wyxi.com/files/cf5b4930-9024-4945-bdb5-705f2895e056",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "青いピラミッド",
   "preview": "https://phira.5wyxi.com/files/056754ea-1ea6-438c-a967-980c7299770c",
   "ranked": false,
-  "rating": 0.8956494,
-  "ratingCount": 662,
+  "rating": 0.8959835,
+  "ratingCount": 665,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

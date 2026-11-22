@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:32Z",
-    "lastChanged": "2026-09-21T02:03:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-25T02:36:27.872418Z",
   "charter": "易HYEYR",
@@ -14,6 +14,7 @@
   "description": "本人制作，还是新人2谱，配置有点糖",
   "difficulty": 16.6,
   "file": "https://phira.5wyxi.com/files/d120189c-b9e0-4241-823a-8419d45a1326",
+  "hidden": false,
   "id": 42660,
   "illustration": "https://phira.5wyxi.com/files/c5a111dc-d54d-4fe0-a802-1682927bbee5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "荒诞儿戏",
   "preview": "https://phira.5wyxi.com/files/0c91cb62-3a7b-4985-97a5-3cd6a848d868",
   "ranked": false,
-  "rating": 0.89216954,
-  "ratingCount": 450,
+  "rating": 0.89396954,
+  "ratingCount": 494,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:29Z",
-    "lastChanged": "2026-09-21T02:03:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-18T08:19:38.343490Z",
   "charter": "Chris_hopper",
@@ -14,6 +14,7 @@
   "description": "CSH耗费两个月时间打造的",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/7f1e0e46-9372-4aae-9cd3-6f6b828b2dd7",
+  "hidden": false,
   "id": 42019,
   "illustration": "https://phira.5wyxi.com/files/9a0b5531-7481-42db-8ded-dd3feeefe537",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "希望有羽毛和翅膀",
   "preview": "https://phira.5wyxi.com/files/05137a87-b728-4689-85a5-97d0e9fa3ff9",
   "ranked": false,
-  "rating": 0.8920495,
-  "ratingCount": 2218,
+  "rating": 0.89173955,
+  "ratingCount": 2354,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

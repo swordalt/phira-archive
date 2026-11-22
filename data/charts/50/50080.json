@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:43Z",
-    "lastChanged": "2026-09-21T02:06:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-06T11:51:19.581368Z",
   "charter": "Nothing hope shatter...",
@@ -14,6 +14,7 @@
   "description": "SHATTER_80391234本人上传\n本谱关联《XH精选集》\n\n更新日志\n2026.2.6尾杀小微调",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/e5a2c08a-e9fd-45e2-9eed-3949b9dab7e6",
+  "hidden": false,
   "id": 50080,
   "illustration": "https://phira.5wyxi.com/files/cd94c38f-c630-41e7-92f4-fb3ccad2b0dc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "SHATTER",
   "preview": "https://phira.5wyxi.com/files/b62a3355-e17c-40c3-a308-5a661d4b0c50",
   "ranked": false,
-  "rating": 0.82839084,
-  "ratingCount": 8,
+  "rating": 0.8405403,
+  "ratingCount": 9,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

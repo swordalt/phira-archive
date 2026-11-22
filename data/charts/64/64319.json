@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:55Z",
-    "lastChanged": "2026-09-21T02:04:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-05T13:58:43.372447Z",
   "charter": "wxl",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n新人初谱（B站账号w旋蓝）",
   "difficulty": 14.9,
   "file": "https://phira.5wyxi.com/files/1a7bb9dd-3eca-4df6-9143-e5ec416b7f28",
+  "hidden": false,
   "id": 64319,
   "illustration": "https://phira.5wyxi.com/files/1db5972d-c11a-490a-b7c3-92b52227b228",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "命日",
   "preview": "https://phira.5wyxi.com/files/43c7c916-d0fe-429e-9ccd-0a48e05f52f5",
   "ranked": false,
-  "rating": 0.8216633,
-  "ratingCount": 110,
+  "rating": 0.8254375,
+  "ratingCount": 123,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

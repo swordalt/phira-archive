@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:49Z",
-    "lastChanged": "2026-09-21T02:04:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-18T12:49:12.220591Z",
   "charter": "猫猫吨",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/ee7e0c0a-09d5-4770-9e79-4bf2eed42017",
+  "hidden": false,
   "id": 61301,
   "illustration": "https://phira.5wyxi.com/files/3d2e39a2-130a-4c3a-9da7-74955e856a80",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "人マニア (人狂热症)",
   "preview": "https://phira.5wyxi.com/files/8bdc131c-612a-4fad-a66c-6619728cfcac",
   "ranked": false,
-  "rating": 0.926651,
-  "ratingCount": 1669,
+  "rating": 0.9270157,
+  "ratingCount": 1832,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

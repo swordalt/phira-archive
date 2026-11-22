@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:01Z",
-    "lastChanged": "2026-09-21T02:02:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-02T22:59:28.678762Z",
   "charter": "言辞偏稽",
@@ -14,6 +14,7 @@
   "description": "envy cat walk",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/c10dfe24-569d-44f7-b206-f4efc22105fb",
+  "hidden": false,
   "id": 16665,
   "illustration": "https://phira.5wyxi.com/files/9129661f-95ba-4c91-9661-334b5f37d09b",
   "illustrator": "",

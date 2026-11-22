@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-12T20:14:24Z",
-    "lastChanged": "2026-10-12T20:14:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-01T09:22:05.072431Z",
   "charter": "InFinity Charting Team",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.400002,
   "file": "https://phira.5wyxi.com/files/23d6ef9d-b3ad-4fdd-a776-528b051b0974",
+  "hidden": false,
   "id": 79631,
   "illustration": "https://phira.5wyxi.com/files/4899baef-c45f-41e7-95c0-e0b379c477ef",
   "illustrator": "渗透物",
@@ -21,8 +22,8 @@
   "name": "IF = Infinity",
   "preview": "https://phira.5wyxi.com/files/c34ccb5f-c9d8-4114-8a33-6835e72a7aa8",
   "ranked": false,
-  "rating": 0.8392056,
-  "ratingCount": 6,
+  "rating": 0.9496475,
+  "ratingCount": 385,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

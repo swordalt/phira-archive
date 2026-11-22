@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:39Z",
-    "lastChanged": "2026-09-21T02:06:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-25T13:10:55.686405Z",
   "charter": "WuyuP",
@@ -14,6 +14,7 @@
   "description": "曲子自己剪的，你们想听也没有",
   "difficulty": 13.9,
   "file": "https://phira.5wyxi.com/files/ee9cde95-87da-4e34-bf0c-ca9b13aba53e",
+  "hidden": false,
   "id": 48408,
   "illustration": "https://phira.5wyxi.com/files/e4e5e2a9-cc05-423f-b1d3-cda6ff913910",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dream with Me",
   "preview": "https://phira.5wyxi.com/files/725f1930-924c-42e9-8ea2-49720854c930",
   "ranked": false,
-  "rating": 0.91531974,
-  "ratingCount": 194,
+  "rating": 0.91735363,
+  "ratingCount": 198,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

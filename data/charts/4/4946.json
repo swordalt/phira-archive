@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:19Z",
-    "lastChanged": "2026-09-21T02:01:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-08T13:57:41.485604Z",
   "charter": "Daimeng",
@@ -14,6 +14,7 @@
   "description": "本人上传 / 微笑调查队",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/d31f43ae-42d0-4cfc-893f-f1c7b1448029",
+  "hidden": false,
   "id": 4946,
   "illustration": "https://phira.5wyxi.com/files/1eb146aa-a229-4476-a60e-8356254f4709",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "にっこり^^調査隊のテーマ",
   "preview": "https://phira.5wyxi.com/files/f1e783da-0f99-4020-8a0a-0cdca6702083",
   "ranked": false,
-  "rating": 0.9416344,
-  "ratingCount": 3806,
+  "rating": 0.9416923,
+  "ratingCount": 3935,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

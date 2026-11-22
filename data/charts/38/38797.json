@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:20Z",
-    "lastChanged": "2026-09-21T02:03:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-27T08:40:23.721696Z",
   "charter": "苦练音游的星光",
@@ -14,6 +14,7 @@
   "description": "第一次写谱子，谱师本人上传\n抖音:苦练音游的星光",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/d87d30bf-1736-4eaf-838f-cd22f4ad06e8",
+  "hidden": false,
   "id": 38797,
   "illustration": "https://phira.5wyxi.com/files/ceb599a9-327e-4d48-85cd-4c5b875f1d80",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lose you now",
   "preview": "https://phira.5wyxi.com/files/eff40d51-a21a-496e-ba76-76598b6ab050",
   "ranked": false,
-  "rating": 0.89198357,
-  "ratingCount": 237,
+  "rating": 0.8919847,
+  "ratingCount": 246,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

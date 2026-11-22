@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:51Z",
-    "lastChanged": "2026-09-21T02:03:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-16T06:05:44.880590Z",
   "charter": "haohao",
@@ -14,6 +14,7 @@
   "description": "新人初谱，定数16.8",
   "difficulty": 16.8,
   "file": "https://phira.5wyxi.com/files/87c45a39-e449-4b39-b48e-d8122c8f71fe",
+  "hidden": false,
   "id": 46882,
   "illustration": "https://phira.5wyxi.com/files/ef42c8e8-7b6d-433d-8c56-795afea98709",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Don't Fight The Music",
   "preview": "https://phira.5wyxi.com/files/4ae2c452-5113-4feb-a1c0-ea9fa6fa0318",
   "ranked": false,
-  "rating": 0.8860613,
-  "ratingCount": 161,
+  "rating": 0.88157105,
+  "ratingCount": 167,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

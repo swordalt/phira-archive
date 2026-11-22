@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:07Z",
-    "lastChanged": "2026-09-21T02:02:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-09T16:00:09.263818Z",
   "charter": "墨",
@@ -14,6 +14,7 @@
   "description": "快中考了 做的不好 见谅TvT",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/98cedb9e-5358-492f-91b8-ddc4e6eaa478",
+  "hidden": false,
   "id": 18251,
   "illustration": "https://phira.5wyxi.com/files/5fd4a2a9-ab69-499b-9c99-337b953e247c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Take me to your paradise",
   "preview": "https://phira.5wyxi.com/files/b09c3006-e89e-437b-b597-5cf62311ff80",
   "ranked": false,
-  "rating": 0.9024899,
-  "ratingCount": 78,
+  "rating": 0.9036798,
+  "ratingCount": 79,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

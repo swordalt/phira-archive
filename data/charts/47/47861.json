@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:56Z",
-    "lastChanged": "2026-09-21T02:03:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-07T18:43:11.309715Z",
   "charter": "porjf",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/6dc5ca26-0361-4307-835d-c02ffe5c4f7a",
+  "hidden": false,
   "id": 47861,
   "illustration": "https://phira.5wyxi.com/files/58698b54-869a-42e0-b432-d10ea05736cd",
   "illustrator": "",
@@ -23,9 +24,9 @@
   "ranked": false,
   "rating": 0.8243802,
   "ratingCount": 8,
-  "reviewed": true,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

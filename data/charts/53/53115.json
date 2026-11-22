@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:23Z",
-    "lastChanged": "2026-09-21T02:04:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-21T09:31:38.419614Z",
   "charter": "Silence City",
@@ -14,6 +14,7 @@
   "description": "谱师自己上传 b站HTNMiku_Official",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/b3cce4e5-b10a-47ba-8b1c-5763ee8fc09b",
+  "hidden": false,
   "id": 53115,
   "illustration": "https://phira.5wyxi.com/files/61dba412-d755-4f2b-af33-35ed0f5bbcd3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "イコラト",
   "preview": "https://phira.5wyxi.com/files/b9746d25-25f8-4648-85e2-631524946606",
   "ranked": false,
-  "rating": 0.95217746,
-  "ratingCount": 162,
+  "rating": 0.953883,
+  "ratingCount": 174,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

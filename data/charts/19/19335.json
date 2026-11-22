@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:11Z",
-    "lastChanged": "2026-09-21T02:02:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-03T03:56:06.510645Z",
   "charter": "explld",
@@ -14,6 +14,7 @@
   "description": "非原曲，这里去掉了人声",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/02fd59a3-a1b3-4cd5-81d7-b8ce2600206c",
+  "hidden": false,
   "id": 19335,
   "illustration": "https://phira.5wyxi.com/files/bba3207b-ed70-4b42-bac3-946910ab670c",
   "illustrator": "",

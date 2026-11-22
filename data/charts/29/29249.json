@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:03Z",
-    "lastChanged": "2026-09-21T02:06:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-31T08:47:01.518649Z",
   "charter": "ks咖小啡",
@@ -14,6 +14,7 @@
   "description": "第二张谱",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/ba15c594-0fe0-4abb-819e-f63b7ee4db26",
+  "hidden": false,
   "id": 29249,
   "illustration": "https://phira.5wyxi.com/files/de1984ab-2c47-4f78-bd0d-e9462c1985d1",
   "illustrator": "",

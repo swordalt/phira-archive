@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:45Z",
-    "lastChanged": "2026-09-21T02:03:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-25T18:05:23.104973Z",
   "charter": "隰有苓蘭",
@@ -14,6 +14,7 @@
   "description": "本人七小时所写\nb站同名（之前上传的音频有延迟，调整后重传）",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/3b1bd93d-404d-420c-9962-e7cdd4a0ecf9",
+  "hidden": false,
   "id": 45692,
   "illustration": "https://phira.5wyxi.com/files/407ff811-62ef-4388-bb29-616ff1c88f10",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "人生有梦",
   "preview": "https://phira.5wyxi.com/files/e568602c-9394-48d1-99bb-78a0c71f234b",
   "ranked": false,
-  "rating": 0.8964009,
-  "ratingCount": 121,
+  "rating": 0.89889336,
+  "ratingCount": 125,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

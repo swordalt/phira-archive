@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:44Z",
-    "lastChanged": "2026-09-21T02:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-25T12:05:48.210441Z",
   "charter": "沃爱线线",
@@ -14,6 +14,7 @@
   "description": "（谱面 By 飞跃的线）这是我的第二张沃玛生贺谱，希望大家喜欢！",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/7eef7b9f-5090-4c7e-ae10-429cab4b9c2b",
+  "hidden": false,
   "id": 29048,
   "illustration": "https://phira.5wyxi.com/files/cc32be94-82e8-437e-a39d-7a1eeea94463",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "喃喃萤火",
   "preview": "https://phira.5wyxi.com/files/a2ce2602-7eff-446b-bee1-fefa0382dd9a",
   "ranked": false,
-  "rating": 0.915154,
-  "ratingCount": 354,
+  "rating": 0.91556615,
+  "ratingCount": 364,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

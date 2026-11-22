@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:03Z",
-    "lastChanged": "2026-09-21T02:05:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-28T14:13:38.670506Z",
   "charter": "Suikywy",
@@ -14,6 +14,7 @@
   "description": "Fated Dest1ny\n曲师：Team Berial\n绘：小昉\n谱师：Fated Dest1ny\n曲师：Team Berial\n绘：小昉\n谱师：Suikywy\n定数：16.6\n感谢：PHIM\nTGL\n定数：16.6\n感谢：PHIM\nTGL",
   "difficulty": 16.6,
   "file": "https://phira.5wyxi.com/files/4412b9ea-5bcc-4c97-8611-d381ec1d714c",
+  "hidden": false,
   "id": 69741,
   "illustration": "https://phira.5wyxi.com/files/1329754a-dcf7-4a35-a3d8-9024702b675a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fated Dest1ny",
   "preview": "https://phira.5wyxi.com/files/0cb110a0-2679-423e-aa1e-4263cd2978f6",
   "ranked": false,
-  "rating": 0.9361659,
-  "ratingCount": 542,
+  "rating": 0.94021183,
+  "ratingCount": 617,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

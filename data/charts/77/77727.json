@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:16Z",
-    "lastChanged": "2026-11-15T12:20:59Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:17Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-09-11T10:19:46.029679Z",
   "charter": "Pigeeeeeon vs. Sodium",
@@ -14,6 +14,7 @@
   "description": "6thWJC\nG2 No.6",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/e32460de-bc29-4ce5-bad0-d24c672eb398",
+  "hidden": false,
   "id": 77727,
   "illustration": "https://phira.5wyxi.com/files/6fdc3d11-706c-419b-b59c-986660fd88a1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MARENOIA",
   "preview": "https://phira.5wyxi.com/files/2a6ec858-ce60-42d1-a18d-f334303c93cf",
   "ranked": false,
-  "rating": 0.86841124,
-  "ratingCount": 210,
+  "rating": 0.8695954,
+  "ratingCount": 218,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

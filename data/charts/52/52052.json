@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:17Z",
-    "lastChanged": "2026-09-21T02:04:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-03T15:28:10.435344Z",
   "charter": "澈羽",
@@ -14,6 +14,7 @@
   "description": "谱师：哔哩哔哩@一加一不等于三吗",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/a97cace8-e471-4fbc-89cd-82ef4c014cf9",
+  "hidden": false,
   "id": 52052,
   "illustration": "https://phira.5wyxi.com/files/bec3b363-d0be-47d0-9877-5c91a60b9563",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "INFINITE HYPERDRIVE",
   "preview": "https://phira.5wyxi.com/files/09b73342-45a3-4761-9f1e-24b6fcbaa36a",
   "ranked": false,
-  "rating": 0.9033173,
-  "ratingCount": 170,
+  "rating": 0.9034184,
+  "ratingCount": 179,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

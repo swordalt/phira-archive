@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:57Z",
-    "lastChanged": "2026-09-21T02:05:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-31T11:40:17.596003Z",
   "charter": "Tunaman",
@@ -14,6 +14,7 @@
   "description": "高難譜，沒9dan很難打",
   "difficulty": 37.0,
   "file": "https://phira.5wyxi.com/files/dd21bbf9-b20c-42ec-b09d-2e7c5f7be5cd",
+  "hidden": false,
   "id": 24826,
   "illustration": "https://phira.5wyxi.com/files/cd884c0d-5f3d-4766-812e-ce80f02cb2a8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Crossing Dimension",
   "preview": "https://phira.5wyxi.com/files/e2cd56dd-7b50-4bad-a4c0-a65e3b43130d",
   "ranked": false,
-  "rating": 0.9302893,
-  "ratingCount": 62,
+  "rating": 0.93235236,
+  "ratingCount": 64,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

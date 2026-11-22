@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:09Z",
-    "lastChanged": "2026-09-21T02:04:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-27T08:47:08.989556Z",
   "charter": "GatlingPea-688",
@@ -14,6 +14,7 @@
   "description": "b站关注GatlingPea-688（打广告）",
   "difficulty": 19.800001,
   "file": "https://phira.5wyxi.com/files/c1693507-3400-4c04-b30d-55b76eb780e9",
+  "hidden": false,
   "id": 50619,
   "illustration": "https://phira.5wyxi.com/files/6a8eb877-753b-4c8f-b20f-b67762a4a258",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Rigor mormist",
   "preview": "https://phira.5wyxi.com/files/677e6704-593b-4d26-afa0-f704a446503e",
   "ranked": false,
-  "rating": 0.8827419,
-  "ratingCount": 16,
+  "rating": 0.87160075,
+  "ratingCount": 20,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

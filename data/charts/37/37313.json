@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:16Z",
-    "lastChanged": "2026-09-21T02:03:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-03T04:07:16.251517Z",
   "charter": "RE_AL-辰",
@@ -14,6 +14,7 @@
   "description": "本人上传\nBPM 185\n⚠️请将宽高比调整至3以上游玩\n视频BV1ZuV5zSEw6",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/ccfadb93-9f97-48ee-8c98-27cfe7e1ca71",
+  "hidden": false,
   "id": 37313,
   "illustration": "https://phira.5wyxi.com/files/5222dcc9-5165-4b60-9a90-804a0af7aed2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ブルアカ 6th PV",
   "preview": "https://phira.5wyxi.com/files/a6c3bec6-1d60-4d7f-bb66-d98a12d68286",
   "ranked": false,
-  "rating": 0.95469004,
-  "ratingCount": 1211,
+  "rating": 0.9547765,
+  "ratingCount": 1237,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

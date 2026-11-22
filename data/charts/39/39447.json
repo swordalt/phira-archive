@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:29Z",
-    "lastChanged": "2026-09-21T02:05:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-09T14:44:47.579215Z",
   "charter": "晓昊vs果粒",
@@ -14,6 +14,7 @@
   "description": "（谱师本人上传）",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/bc0554ef-d7d2-4a7d-b47b-428860b5a9f9",
+  "hidden": false,
   "id": 39447,
   "illustration": "https://phira.5wyxi.com/files/67b40fe1-90e6-4809-969e-831b901bdc4d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "最后一击",
   "preview": "https://phira.5wyxi.com/files/300b057b-4748-41f0-a1a1-0aec6fe3e8f5",
   "ranked": false,
-  "rating": 0.85834557,
-  "ratingCount": 63,
+  "rating": 0.86041576,
+  "ratingCount": 65,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

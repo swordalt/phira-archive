@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:34Z",
-    "lastChanged": "2026-09-21T02:06:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-06T00:07:24.535630Z",
   "charter": "Thaumiel",
@@ -14,6 +14,7 @@
   "description": "本人上传\n4k η段",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/2588507b-3fa8-46d1-bee8-7736c85b6647",
+  "hidden": false,
   "id": 46413,
   "illustration": "https://phira.5wyxi.com/files/3cb40949-f2ff-4add-8c0b-934856986dbe",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dan ~ REFORM ~ FINAL",
   "preview": "https://phira.5wyxi.com/files/0df92d75-744d-438b-9aa9-7e3cf4464b77",
   "ranked": false,
-  "rating": 0.9415329,
-  "ratingCount": 41,
+  "rating": 0.94402796,
+  "ratingCount": 43,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

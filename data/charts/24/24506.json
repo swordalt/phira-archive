@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:27Z",
-    "lastChanged": "2026-09-21T02:02:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-27T15:22:18.136793Z",
   "charter": "阿瑞_Resonance",
@@ -14,6 +14,7 @@
   "description": "旧谱重制\n谱师@b站：\n阿瑞_-Resonance-_\n个人群：\n544934445\n欢迎来玩~",
   "difficulty": 16.699999,
   "file": "https://phira.5wyxi.com/files/cbe54342-2b86-4fd4-a1d3-44236b429531",
+  "hidden": false,
   "id": 24506,
   "illustration": "https://phira.5wyxi.com/files/7c30bf59-05e7-4f7b-8f88-3bab9e294746",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "国士無双",
   "preview": "https://phira.5wyxi.com/files/c8f80224-2eb8-4966-afef-21c9c03b5273",
   "ranked": false,
-  "rating": 0.9286738,
-  "ratingCount": 1073,
+  "rating": 0.92910475,
+  "ratingCount": 1091,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

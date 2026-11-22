@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:09Z",
-    "lastChanged": "2026-09-21T02:05:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-15T06:36:43.454214Z",
   "charter": "星梦Birght",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/db551a71-eea2-4a33-ba4e-3fd4809e211a",
+  "hidden": false,
   "id": 73487,
   "illustration": "https://phira.5wyxi.com/files/3a54e69d-a9e3-4c5b-ad98-5a1626498a2d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "De;Action",
   "preview": "https://phira.5wyxi.com/files/887ab88c-6888-4f3d-a360-909fed469cf3",
   "ranked": false,
-  "rating": 0.89014035,
-  "ratingCount": 104,
+  "rating": 0.896332,
+  "ratingCount": 124,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:21Z",
-    "lastChanged": "2026-09-21T02:03:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-01T07:37:08.924886Z",
   "charter": "『LIVE∀REVOLSE』",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.900003,
   "file": "https://phira.5wyxi.com/files/dc80c72f-e1a5-4e11-8609-c1f04f7026bf",
+  "hidden": false,
   "id": 39056,
   "illustration": "https://phira.5wyxi.com/files/db1e3320-b1a5-43e1-ab21-f8d2d87996df",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "THE WORLD REVOLVING (Camellia Remix)",
   "preview": "https://phira.5wyxi.com/files/dc4dbef7-654a-4689-bc8d-f16c88a0b4d0",
   "ranked": false,
-  "rating": 0.96191376,
-  "ratingCount": 4487,
+  "rating": 0.9613882,
+  "ratingCount": 4670,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

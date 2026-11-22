@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:39Z",
-    "lastChanged": "2026-09-21T02:03:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-11T14:00:59.843615Z",
   "charter": "Miset_CCDD",
@@ -14,6 +14,7 @@
   "description": "新人谱师第二谱",
   "difficulty": 14.5,
   "file": "https://phira.5wyxi.com/files/d5b2d56b-a516-46d5-b95f-24bdeb162c9f",
+  "hidden": false,
   "id": 44354,
   "illustration": "https://phira.5wyxi.com/files/75366b3a-3cde-4f25-b536-d434c5762693",
   "illustrator": "",

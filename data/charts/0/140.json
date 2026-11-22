@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:04Z",
-    "lastChanged": "2026-09-21T02:01:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "KiN0_DBDWZ",
@@ -14,6 +14,7 @@
   "description": "23.01.17新版，修改部分演出和配置。",
   "difficulty": 13.200001,
   "file": "https://phira.5wyxi.com/files/f47898f2-1a82-4192-afec-1bdd6fe3f8ad",
+  "hidden": false,
   "id": 140,
   "illustration": "https://phira.5wyxi.com/files/6a9a6ee0-1c9e-4747-8291-9f5d1862ecf4",
   "illustrator": "KiN0~Wallhaven~",
@@ -21,8 +22,8 @@
   "name": "Keep Going",
   "preview": "https://phira.5wyxi.com/files/1b36d2b4-11ae-41db-ac3f-9a31db1c75fb",
   "ranked": false,
-  "rating": 0.9178581,
-  "ratingCount": 285,
+  "rating": 0.9186174,
+  "ratingCount": 295,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

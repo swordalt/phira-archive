@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:54Z",
-    "lastChanged": "2026-09-21T02:01:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-06T02:15:15.963271Z",
   "charter": "Springwine in QQ",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.9,
   "file": "https://phira.5wyxi.com/files/d68cd350-1945-4fbb-acec-6dc8335ea956",
+  "hidden": false,
   "id": 14873,
   "illustration": "https://phira.5wyxi.com/files/4f52bfe0-6748-49bc-aaa4-e4c887617980",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "QQ",
   "preview": "https://phira.5wyxi.com/files/40003b37-f205-4d98-a463-5776732bfa54",
   "ranked": false,
-  "rating": 0.9115409,
-  "ratingCount": 1400,
+  "rating": 0.91179305,
+  "ratingCount": 1408,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

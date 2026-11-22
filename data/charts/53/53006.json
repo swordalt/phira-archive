@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:23Z",
-    "lastChanged": "2026-09-21T02:04:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-19T14:21:43.412300Z",
   "charter": "WoMYPu",
@@ -14,6 +14,7 @@
   "description": "本人上传，沉彩杯C组决赛特供",
   "difficulty": 16.700008,
   "file": "https://phira.5wyxi.com/files/cc8af191-7d4e-4f01-8a96-005e14bddb3b",
+  "hidden": false,
   "id": 53006,
   "illustration": "https://phira.5wyxi.com/files/727be33e-9124-457f-8601-75cb0b454b84",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "honeykill",
   "preview": "https://phira.5wyxi.com/files/1204da44-749e-4d9b-a473-028df0713baa",
   "ranked": false,
-  "rating": 0.7586064,
-  "ratingCount": 13,
+  "rating": 0.75636023,
+  "ratingCount": 14,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

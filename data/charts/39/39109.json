@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:21Z",
-    "lastChanged": "2026-09-21T02:03:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-06T15:51:30.977587Z",
   "charter": "xgsgt",
@@ -14,6 +14,7 @@
   "description": "已与2025.6.6改谱\n本人上传\nb站：xgsgt\n\n本谱含有少量初见杀，速写2天 ，详情请转至b站",
   "difficulty": 14.400005,
   "file": "https://phira.5wyxi.com/files/cbe42155-987a-499e-841e-f328e3e7d18e",
+  "hidden": false,
   "id": 39109,
   "illustration": "https://phira.5wyxi.com/files/0b65c0e1-ba52-436c-a81c-11097cbe37df",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "偽中国語",
   "preview": "https://phira.5wyxi.com/files/e413024c-c87f-440b-a2c5-58b4b096ba23",
   "ranked": false,
-  "rating": 0.90101135,
-  "ratingCount": 1710,
+  "rating": 0.9013539,
+  "ratingCount": 1783,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

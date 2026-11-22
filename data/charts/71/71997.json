@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:06Z",
-    "lastChanged": "2026-09-21T02:05:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-08T03:46:10.921763Z",
   "charter": "The Last Dance",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.6,
   "file": "https://phira.5wyxi.com/files/06053c4f-9e62-439a-a044-896fd68a2a91",
+  "hidden": false,
   "id": 71997,
   "illustration": "https://phira.5wyxi.com/files/6f86dbd4-1db9-48d3-865d-8db01dee235a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "靈",
   "preview": "https://phira.5wyxi.com/files/cfd5d87d-2b04-4c0d-a127-b451cd017ede",
   "ranked": false,
-  "rating": 0.8615136,
-  "ratingCount": 604,
+  "rating": 0.86787915,
+  "ratingCount": 651,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

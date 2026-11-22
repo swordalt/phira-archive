@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:36Z",
-    "lastChanged": "2026-09-21T02:06:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-23T08:36:40.015394Z",
   "charter": "卡神仔",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 5.699997,
   "file": "https://phira.5wyxi.com/files/85e60657-4ae9-4141-9655-1a9c13bdb9c6",
+  "hidden": false,
   "id": 47107,
   "illustration": "https://phira.5wyxi.com/files/4ed43a34-1e68-4e98-8b29-b48103b17841",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "節奏小技巧",
   "preview": "https://phira.5wyxi.com/files/3a4e2fa1-237a-444f-94f2-ae2bbd34e26e",
   "ranked": false,
-  "rating": 0.85214657,
-  "ratingCount": 68,
+  "rating": 0.85280764,
+  "ratingCount": 69,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

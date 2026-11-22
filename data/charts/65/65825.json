@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:57Z",
-    "lastChanged": "2026-09-21T02:04:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-11T23:57:36.028067Z",
   "charter": "Aibc_",
@@ -14,6 +14,7 @@
   "description": "发视频请标谱面ID和作者名",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/7b36d049-888f-4ace-ad67-4b70b1031a7a",
+  "hidden": false,
   "id": 65825,
   "illustration": "https://phira.5wyxi.com/files/84cdc8db-afe7-411c-a0db-dcfa12fcf979",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "百九十",
   "preview": "https://phira.5wyxi.com/files/01afe2b7-b108-42a1-b355-fbffa3fd74de",
   "ranked": false,
-  "rating": 0.7470953,
-  "ratingCount": 31,
+  "rating": 0.76535773,
+  "ratingCount": 36,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

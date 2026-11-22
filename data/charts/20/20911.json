@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:49Z",
-    "lastChanged": "2026-09-21T02:05:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-13T03:08:10.631448Z",
   "charter": "縱連打はtem_bili",
@@ -14,6 +14,7 @@
   "description": "Vibro警告",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/f0cd7c19-a8ba-4bc7-b55d-bd0e63101e45",
+  "hidden": false,
   "id": 20911,
   "illustration": "https://phira.5wyxi.com/files/45cd9783-48ae-4b30-a9fc-76bcb2aed47b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "RENDA JOCEKY",
   "preview": "https://phira.5wyxi.com/files/5308a8cd-e527-4c9a-a1ec-13d3aeabdd7a",
   "ranked": false,
-  "rating": 0.82572424,
-  "ratingCount": 86,
+  "rating": 0.82960814,
+  "ratingCount": 88,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

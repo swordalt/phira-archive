@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:41Z",
-    "lastChanged": "2026-09-21T02:06:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-16T06:46:53.370316Z",
   "charter": "Done_yumo",
@@ -14,6 +14,7 @@
   "description": "谱面难度ex2左右，休息段给的比较多\n总时长：9min45s\n总物量：7807\n选曲：\n叠——sakura zxc（1.2x）\n技——せかいから____がきえるとき（cut）\n乱——bye（1.05x）\n切——氷面鏡\nBpm：\n叠--144 技--214 乱--168 切--230\n选曲&剪辑：用时3h\n写谱：用时15h\n抖音：YuMoawa.",
   "difficulty": 11.0,
   "file": "https://phira.5wyxi.com/files/364d4927-b9b1-4653-9cbf-00d4566877f5",
+  "hidden": false,
   "id": 49201,
   "illustration": "https://phira.5wyxi.com/files/b55151df-c0ca-4abb-9870-e93f32ad385b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Yumo's 4k Dan Course",
   "preview": "https://phira.5wyxi.com/files/af5d5c8d-3800-44ba-9539-cd94dcc844da",
   "ranked": false,
-  "rating": 0.92458403,
-  "ratingCount": 101,
+  "rating": 0.9278093,
+  "ratingCount": 107,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

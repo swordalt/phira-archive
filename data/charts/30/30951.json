@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:51Z",
-    "lastChanged": "2026-09-21T02:02:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-21T13:19:12.980532Z",
   "charter": "storm",
@@ -14,6 +14,7 @@
   "description": "新人第一谱，写的可能不太好，耗时3天写的谱",
   "difficulty": 13.900003,
   "file": "https://phira.5wyxi.com/files/e0691860-4b49-439c-b70f-822d745e1059",
+  "hidden": false,
   "id": 30951,
   "illustration": "https://phira.5wyxi.com/files/c54da41f-eb28-4279-bafe-b5ebb2a45db7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "《Ж》",
   "preview": "https://phira.5wyxi.com/files/4db0e09e-9632-4ddd-808e-c894a4353144",
   "ranked": false,
-  "rating": 0.7936343,
-  "ratingCount": 207,
+  "rating": 0.7939349,
+  "ratingCount": 213,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

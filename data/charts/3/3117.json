@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-07T09:13:41.518497Z",
   "charter": "Axeor",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 14.099998,
   "file": "https://phira.5wyxi.com/files/ace16f3f-69cd-4916-ab66-006125b341c9",
+  "hidden": false,
   "id": 3117,
   "illustration": "https://phira.5wyxi.com/files/0462f887-5376-40dc-a0f0-da7cd7da9632",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "NYAN CAT BOMBASTICHYPE REMIX",
   "preview": "https://phira.5wyxi.com/files/75d472e7-c7b7-44a5-a449-cdd3aee21049",
   "ranked": false,
-  "rating": 0.9412758,
-  "ratingCount": 6135,
+  "rating": 0.94115126,
+  "ratingCount": 6193,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

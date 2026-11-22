@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:16Z",
-    "lastChanged": "2026-09-21T02:06:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-26T06:25:36.391316Z",
   "charter": "moonnicholas",
@@ -14,6 +14,7 @@
   "description": "跟pure rice的不是同一張譜面啦！喂www  Length 6:14, Tap:4882, Hold:756",
   "difficulty": 5.2,
   "file": "https://phira.5wyxi.com/files/7a18464a-7260-4a30-9b84-daf9671e91b9",
+  "hidden": false,
   "id": 38770,
   "illustration": "https://phira.5wyxi.com/files/0c2abc4f-a50b-428a-90f6-5ba3c63c8af3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Central Nucleus",
   "preview": "https://phira.5wyxi.com/files/49165c0b-c513-44c4-ace0-bed60c55e1a9",
   "ranked": false,
-  "rating": 0.9343196,
-  "ratingCount": 41,
+  "rating": 0.93574816,
+  "ratingCount": 42,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:04Z",
-    "lastChanged": "2026-09-21T02:03:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-14T15:43:56.696016Z",
   "charter": "落霜",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/97e3b417-08f8-414f-8df2-48da14d282cb",
+  "hidden": false,
   "id": 34029,
   "illustration": "https://phira.5wyxi.com/files/5db9265a-90d9-4df8-8797-b74bc29c409b",
   "illustrator": "",

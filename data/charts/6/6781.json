@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:24Z",
-    "lastChanged": "2026-09-21T02:01:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-04T04:05:54.791842Z",
   "charter": "GuanfzyA",
@@ -14,6 +14,7 @@
   "description": "新人初谱，谱师本人上传",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/7d2a17ce-0d1a-47d2-946e-86777334da9a",
+  "hidden": false,
   "id": 6781,
   "illustration": "https://phira.5wyxi.com/files/0004fccd-de24-4bde-9f93-5dc00a164bb6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "琵琶行",
   "preview": "https://phira.5wyxi.com/files/b9537c38-868f-4570-9bc9-901f149d7850",
   "ranked": false,
-  "rating": 0.9139492,
-  "ratingCount": 11840,
+  "rating": 0.91420865,
+  "ratingCount": 12507,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

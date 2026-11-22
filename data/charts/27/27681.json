@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:40Z",
-    "lastChanged": "2026-09-21T02:02:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-14T13:49:02.216983Z",
   "charter": "ArIsu",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/d633d721-8c52-404f-8208-6e1b9ed0471a",
+  "hidden": false,
   "id": 27681,
   "illustration": "https://phira.5wyxi.com/files/39878928-1645-4fe4-96c3-f7ee5bd44270",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Eternal Disaster (peri0d)",
   "preview": "https://phira.5wyxi.com/files/5b21c8c3-698a-45c6-93fe-28fd84ffad29",
   "ranked": false,
-  "rating": 0.89421505,
-  "ratingCount": 48,
+  "rating": 0.8962274,
+  "ratingCount": 49,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

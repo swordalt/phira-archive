@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:25Z",
-    "lastChanged": "2026-09-21T02:06:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-24T12:54:09.249428Z",
   "charter": "RainC10ud",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n大概是三押切练习谱",
   "difficulty": 29.0,
   "file": "https://phira.5wyxi.com/files/d30522e1-37ee-4e1c-9367-244d5dd30b1a",
+  "hidden": false,
   "id": 42622,
   "illustration": "https://phira.5wyxi.com/files/68371161-e9b9-48fd-a1cc-3daf3525c4f0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ワールズエンド・ダンスホール",
   "preview": "https://phira.5wyxi.com/files/e1b52d70-84c6-41ec-a10f-0478317cfdd6",
   "ranked": false,
-  "rating": 0.9675117,
-  "ratingCount": 395,
+  "rating": 0.96719635,
+  "ratingCount": 420,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

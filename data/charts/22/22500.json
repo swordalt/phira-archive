@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:51Z",
-    "lastChanged": "2026-09-21T02:05:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-02T14:55:02.284681Z",
   "charter": "放鹤归山",
@@ -14,6 +14,7 @@
   "description": "本人上传。",
   "difficulty": 9.999992,
   "file": "https://phira.5wyxi.com/files/482bea08-2548-479b-9e99-225680ba70f6",
+  "hidden": false,
   "id": 22500,
   "illustration": "https://phira.5wyxi.com/files/c2b32ca5-39e6-47e3-8acd-174cc20c80fc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "何以歌",
   "preview": "https://phira.5wyxi.com/files/49c05b42-8f84-4c0a-bcb4-1f94f215a971",
   "ranked": false,
-  "rating": 0.9582413,
-  "ratingCount": 16102,
+  "rating": 0.9578805,
+  "ratingCount": 17272,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

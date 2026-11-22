@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:33Z",
-    "lastChanged": "2026-09-21T02:02:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-15T05:07:27.214800Z",
   "charter": "HaBai",
@@ -14,6 +14,7 @@
   "description": "本人上传，后半段动效没认真搓，抱歉\n谱面预览BV1yx421r71f\n封面截取自BV1giYme8EYx",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/4d8c73e7-d063-4e8f-b702-34b55d2e3d8b",
+  "hidden": false,
   "id": 26295,
   "illustration": "https://phira.5wyxi.com/files/7b1d6d11-570c-44bb-b4e9-ee1844b70b89",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "樱落繁花",
   "preview": "https://phira.5wyxi.com/files/3a0638ce-6742-433a-b15e-ed66226e5709",
   "ranked": false,
-  "rating": 0.95713145,
-  "ratingCount": 1995,
+  "rating": 0.95659685,
+  "ratingCount": 2035,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

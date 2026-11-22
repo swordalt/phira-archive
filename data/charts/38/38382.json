@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:18Z",
-    "lastChanged": "2026-09-21T02:03:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-19T14:29:54.224970Z",
   "charter": "冰原诺khoryRran",
@@ -14,6 +14,7 @@
   "description": "bilibili@冰原诺KhoryRran",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/bb902c49-8cf2-4c97-9f3f-b38fdea7353f",
+  "hidden": false,
   "id": 38382,
   "illustration": "https://phira.5wyxi.com/files/09538e6f-8a66-44e6-acf4-0176181f6087",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "使一颗心免于哀伤",
   "preview": "https://phira.5wyxi.com/files/242181b1-8e05-4a25-a9ef-73b70edd998a",
   "ranked": false,
-  "rating": 0.9079779,
-  "ratingCount": 1857,
+  "rating": 0.9071391,
+  "ratingCount": 1980,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:29Z",
-    "lastChanged": "2026-09-21T02:02:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-02T10:50:20.334487Z",
   "charter": "永声FG",
@@ -14,6 +14,7 @@
   "description": "本人第二张谱\n因为不知道为什么迟迟没有审核故再次上传\n如审核到了第一次上传的谱（id是24857）麻烦下架（此谱稍稍改良了下配置\n已授权，谱师本人上传",
   "difficulty": 15.7,
   "file": "https://phira.5wyxi.com/files/9646ebba-9c2b-4bc0-a29a-b4be4079d187",
+  "hidden": false,
   "id": 25040,
   "illustration": "https://phira.5wyxi.com/files/726d2756-06c6-4b9e-89ee-efa6c4d5e5b6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bloodlust",
   "preview": "https://phira.5wyxi.com/files/a7248cf4-96ee-41c4-bac3-e5386c3c8a51",
   "ranked": false,
-  "rating": 0.86214036,
-  "ratingCount": 26,
+  "rating": 0.86484987,
+  "ratingCount": 28,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

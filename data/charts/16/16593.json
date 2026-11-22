@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:01Z",
-    "lastChanged": "2026-09-21T02:02:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-02T00:16:08.825289Z",
   "charter": "『ｶﾐﾌﾛｼ ✟S/suen\\T✟ de \"Địγịnαs mαçαηǐ¢αε\"』",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 18.000008,
   "file": "https://phira.5wyxi.com/files/9cb1a4e6-1525-441b-b138-5fbd5ca932ad",
+  "hidden": false,
   "id": 16593,
   "illustration": "https://phira.5wyxi.com/files/6e5f7b32-b2da-4419-92b1-123b5471229a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "DEUX EX MĀXHINĀ",
   "preview": "https://phira.5wyxi.com/files/ae846e0a-390c-49d0-a695-e17fbb63ccfa",
   "ranked": true,
-  "rating": 0.8687019,
-  "ratingCount": 2983,
+  "rating": 0.86947805,
+  "ratingCount": 3016,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

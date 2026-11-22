@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:13Z",
-    "lastChanged": "2026-09-21T02:01:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-22T07:54:53.358282Z",
   "charter": "muun",
@@ -14,6 +14,7 @@
   "description": "本人上传，改谱，原谱已删",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/db3f9576-1041-4686-9c04-f0c5ddec7283",
+  "hidden": false,
   "id": 2608,
   "illustration": "https://phira.5wyxi.com/files/b8ae12d0-f7ec-440e-b961-4fa8e4047c0f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Rainmaker",
   "preview": "https://phira.5wyxi.com/files/0a867d8e-2e89-447a-bec0-96f0f32fa46c",
   "ranked": false,
-  "rating": 0.73906296,
-  "ratingCount": 196,
+  "rating": 0.7399879,
+  "ratingCount": 197,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

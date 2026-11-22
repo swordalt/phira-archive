@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-25T01:25:04Z",
-    "lastChanged": "2026-09-25T01:25:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-21T03:16:55.277978Z",
   "charter": "AOV",
@@ -14,6 +14,7 @@
   "description": "交替脑裂，13轨下落，24轨上升\n\n本人上传，b站UID524354793",
   "difficulty": 17.900003,
   "file": "https://phira.5wyxi.com/files/14b0c097-3ed6-4909-8ccf-f84a596855bc",
+  "hidden": false,
   "id": 78621,
   "illustration": "https://phira.5wyxi.com/files/cfef019f-a1de-45ee-a71c-aa844b41ba1b",
   "illustrator": "Alan Walker",
@@ -21,8 +22,8 @@
   "name": "The Spectre",
   "preview": "https://phira.5wyxi.com/files/54307110-5817-415b-b69c-eb5b9b28c443",
   "ranked": false,
-  "rating": 0.80552316,
-  "ratingCount": 3,
+  "rating": 0.7547748,
+  "ratingCount": 192,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

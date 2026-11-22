@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:02Z",
-    "lastChanged": "2026-09-21T02:05:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-27T03:52:53.820781Z",
   "charter": "Febriz -w-",
@@ -14,6 +14,7 @@
   "description": "使用PhiEditer製作",
   "difficulty": 17.2,
   "file": "https://phira.5wyxi.com/files/117da90a-82b8-4dfc-9172-d8cdf7ccacb9",
+  "hidden": false,
   "id": 69432,
   "illustration": "https://phira.5wyxi.com/files/eae54348-1078-4e02-ae11-0815b94ff680",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Singularity",
   "preview": "https://phira.5wyxi.com/files/5f141ca5-c7bf-4850-b69c-ef344f64364d",
   "ranked": false,
-  "rating": 0.81567323,
-  "ratingCount": 4,
+  "rating": 0.8769536,
+  "ratingCount": 11,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

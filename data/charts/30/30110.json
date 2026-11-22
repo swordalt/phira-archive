@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:48Z",
-    "lastChanged": "2026-09-21T02:02:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-25T14:18:09.938812Z",
   "charter": "20 years later Arcos079* fixed by Miline.",
@@ -14,6 +14,7 @@
   "description": "个人首15上位谱 定数为15.8 \n尾杀的5k可能有点超纲（？）\n不过大体还是不错的\n难点主要集中在爆发和锁手\n多指并不是很难（",
   "difficulty": 15.8,
   "file": "https://phira.5wyxi.com/files/5025754e-8745-4f96-aaf2-aacbd687e353",
+  "hidden": false,
   "id": 30110,
   "illustration": "https://phira.5wyxi.com/files/52e801d7-2281-4afa-89f5-18e44ae0b766",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "Red-rize \"B172 mix\"",
   "preview": "https://phira.5wyxi.com/files/67c81a7a-38cd-48ef-93f7-be656e32705c",
   "ranked": false,
-  "rating": 0.86192757,
+  "rating": 0.8606335,
   "ratingCount": 75,
   "reviewed": true,
   "stable": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:16Z",
-    "lastChanged": "2026-09-21T02:03:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-03T13:44:05.009157Z",
   "charter": "OK螃蟹xieOK（b站6-66-8）",
@@ -14,6 +14,7 @@
   "description": "b站号：6-66-8，本人上传",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/db277bd6-2e9b-47a6-be07-cc0cf5610833",
+  "hidden": false,
   "id": 37390,
   "illustration": "https://phira.5wyxi.com/files/fa73d7ca-9638-477a-ad0a-345c79bbde1a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Alea jacta est!",
   "preview": "https://phira.5wyxi.com/files/901d4eb6-8706-444b-a7d8-749c778850a6",
   "ranked": false,
-  "rating": 0.8057382,
-  "ratingCount": 51,
+  "rating": 0.8074281,
+  "ratingCount": 52,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

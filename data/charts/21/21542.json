@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:18Z",
-    "lastChanged": "2026-09-21T02:02:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-20T05:26:47.476271Z",
   "charter": "ChickenPige0n",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/2630fd14-b119-46c3-9f98-003625b46c86",
+  "hidden": false,
   "id": 21542,
   "illustration": "https://phira.5wyxi.com/files/59b2f36b-ba2b-40d2-b4d3-ae5da8cd431c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ザムザ",
   "preview": "https://phira.5wyxi.com/files/95eb94e6-cd88-4329-802e-9344a1ca7e20",
   "ranked": false,
-  "rating": 0.89239395,
-  "ratingCount": 633,
+  "rating": 0.8925353,
+  "ratingCount": 641,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

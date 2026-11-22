@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:25Z",
-    "lastChanged": "2026-09-21T02:02:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-24T08:26:05.213527Z",
   "charter": "antimony",
@@ -14,6 +14,7 @@
   "description": "833120173",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/af831cd3-4cf2-4bfc-917a-d1487341da26",
+  "hidden": false,
   "id": 24233,
   "illustration": "https://phira.5wyxi.com/files/6bb22ec4-4c26-4f93-a11a-4fff2af824b3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "熱異常",
   "preview": "https://phira.5wyxi.com/files/c46f1f12-8425-4b80-8ba1-27d1cc0efcab",
   "ranked": false,
-  "rating": 0.91251755,
-  "ratingCount": 726,
+  "rating": 0.9126433,
+  "ratingCount": 739,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

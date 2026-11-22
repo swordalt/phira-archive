@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:53Z",
-    "lastChanged": "2026-09-21T02:03:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-27T08:07:55.610870Z",
   "charter": "WH0",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 18.5,
   "file": "https://phira.5wyxi.com/files/92e3a30a-805e-45e9-bc3b-981d8a936399",
+  "hidden": false,
   "id": 47269,
   "illustration": "https://phira.5wyxi.com/files/6dd1f290-1220-4fcb-8242-790db2e61647",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Greeting into Abysschaos",
   "preview": "https://phira.5wyxi.com/files/3fbc3af8-d13d-4155-8569-a3c7a241a881",
   "ranked": false,
-  "rating": 0.9173036,
-  "ratingCount": 231,
+  "rating": 0.9170619,
+  "ratingCount": 245,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

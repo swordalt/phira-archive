@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:33Z",
-    "lastChanged": "2026-09-21T02:04:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-04T13:12:46.683305Z",
   "charter": "哈哈我要创死你们所有人",
@@ -14,6 +14,7 @@
   "description": "谱面预览BV1QUDuBMEWB\n0th Pecjam参赛谱\n使用了神秘手序，希望各位玩得开心",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/2e0d3635-0a89-4cde-8d2a-00f5af148975",
+  "hidden": false,
   "id": 55016,
   "illustration": "https://phira.5wyxi.com/files/7eba8fdb-ce8b-42ad-bacd-d70e5509d677",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Horoscope Express",
   "preview": "https://phira.5wyxi.com/files/3016aaf1-f07c-4e0d-a818-21fab9996037",
   "ranked": false,
-  "rating": 0.92036915,
-  "ratingCount": 117,
+  "rating": 0.9191578,
+  "ratingCount": 119,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

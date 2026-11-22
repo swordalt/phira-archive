@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:53Z",
-    "lastChanged": "2026-09-21T02:05:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-10T08:33:39.309662Z",
   "charter": "ye -srx-",
@@ -14,6 +14,7 @@
   "description": "b站業山瑞希，有前作speculation AT17",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/a39d52f4-7676-4c64-bd5c-294b5e90f637",
+  "hidden": false,
   "id": 23111,
   "illustration": "https://phira.5wyxi.com/files/fad00a46-454a-4b7d-a70c-0bc8e2f4be8d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Vulnerability",
   "preview": "https://phira.5wyxi.com/files/933c0b45-ad73-42a0-b2e8-82f3d1b18560",
   "ranked": false,
-  "rating": 0.9082217,
-  "ratingCount": 77,
+  "rating": 0.90813804,
+  "ratingCount": 78,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

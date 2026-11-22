@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:38Z",
-    "lastChanged": "2026-09-21T02:05:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-14T15:00:01.390028Z",
   "charter": "Luor",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 26.0,
   "file": "https://phira.5wyxi.com/files/64efa328-aef6-48a7-8948-3165a1ab4372",
+  "hidden": false,
   "id": 10472,
   "illustration": "https://phira.5wyxi.com/files/d7aeae5f-bdb1-4577-b778-e07ac778b1ad",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "I",
   "preview": "https://phira.5wyxi.com/files/6a96892d-3d29-4bd1-8747-779b37dfdff7",
   "ranked": false,
-  "rating": 0.94504476,
-  "ratingCount": 1135,
+  "rating": 0.94519573,
+  "ratingCount": 1140,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

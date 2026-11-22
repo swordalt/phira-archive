@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:30Z",
-    "lastChanged": "2026-09-21T02:01:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-29T14:41:31.755589Z",
   "charter": "Ab5K",
@@ -14,6 +14,7 @@
   "description": "本人上传 5thpecjam参赛谱 考虑到尾杀对不会4k的玩家来说略有难度所以定了15.2",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/101493c6-5b65-4347-b3be-66be01bc822b",
+  "hidden": false,
   "id": 8734,
   "illustration": "https://phira.5wyxi.com/files/7e910936-1779-4867-985a-248098ca3b2b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Own The Night",
   "preview": "https://phira.5wyxi.com/files/983a1c29-38c6-4d65-996c-c81c21110db1",
   "ranked": true,
-  "rating": 0.9254156,
-  "ratingCount": 2012,
+  "rating": 0.92496395,
+  "ratingCount": 2077,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

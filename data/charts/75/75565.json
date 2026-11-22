@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:12Z",
-    "lastChanged": "2026-10-18T09:09:08Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:12Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-25T04:13:56.630514Z",
   "charter": "C.S.Rland",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，本谱基于3rdWMC（脉弱杯）进行了大量优化改动",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/ef8abd02-6693-46c4-9e5c-d0a5fdd6bd53",
+  "hidden": false,
   "id": 75565,
   "illustration": "https://phira.5wyxi.com/files/538bf154-9657-4cbf-bd9b-8e8d33cf0afe",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Borderland",
   "preview": "https://phira.5wyxi.com/files/07fce6bb-46df-4bac-9565-1d252288e76c",
   "ranked": false,
-  "rating": 0.8681545,
-  "ratingCount": 114,
+  "rating": 0.8701505,
+  "ratingCount": 117,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

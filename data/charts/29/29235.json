@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:45Z",
-    "lastChanged": "2026-09-21T02:02:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-30T16:58:18.632548Z",
   "charter": "妙妙（墨璃）",
@@ -14,6 +14,7 @@
   "description": "Remzcore和S3RL的一首歌曲，非常好听",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/b298d51a-d0c7-4cb8-906e-60c461eac243",
+  "hidden": false,
   "id": 29235,
   "illustration": "https://phira.5wyxi.com/files/119d0ac4-0620-45f2-9c38-e593e2d760ac",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Forget the real world",
   "preview": "https://phira.5wyxi.com/files/232df55c-4686-43b0-a28c-02b98fb13e89",
   "ranked": false,
-  "rating": 0.8838126,
-  "ratingCount": 55,
+  "rating": 0.8876681,
+  "ratingCount": 57,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:06Z",
-    "lastChanged": "2026-09-21T02:02:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-31T12:52:16.846966Z",
   "charter": "B X M Power！",
@@ -14,6 +14,7 @@
   "description": "本谱面由谱师本人上传，B 站@盒子2000の秘密桃源",
   "difficulty": 15.099999,
   "file": "https://phira.5wyxi.com/files/3c5fd833-3541-4004-b96b-b32e2e5ae00f",
+  "hidden": false,
   "id": 17844,
   "illustration": "https://phira.5wyxi.com/files/263ea65a-46c8-4fdd-bbbc-73c3602cfe8c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ULTRA SYNERGY MATRIX",
   "preview": "https://phira.5wyxi.com/files/adae678d-9be8-435e-8cdd-ca9c1e54a987",
   "ranked": false,
-  "rating": 0.92582715,
-  "ratingCount": 409,
+  "rating": 0.9259361,
+  "ratingCount": 415,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

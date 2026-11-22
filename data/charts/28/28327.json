@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:42Z",
-    "lastChanged": "2026-09-21T02:02:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-04T16:39:45.953542Z",
   "charter": "sqrt2to1",
@@ -14,6 +14,7 @@
   "description": "初见杀警告！\n算是第一张谱子吧。\n由于第一版初见杀过于严重，故进行紧急削弱。有意见欢迎来B站【Phigros自制】 interstellar leap 星际跃迁 IN Lv.15 跃动于星际之间！-哔哩哔哩】 https://b23.tv/OH7xMQC评论区下方留言！（初见杀可能救不回来了）\n还请高抬贵手orz\n看起来都被创的不轻，本来定14的改成15吧。。\n10/04——微调",
   "difficulty": 15.099999,
   "file": "https://phira.5wyxi.com/files/9cc9606c-985b-44ca-8334-e0171305301c",
+  "hidden": false,
   "id": 28327,
   "illustration": "https://phira.5wyxi.com/files/829b2477-c458-44ed-be6f-bdd66a5e2fa8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Interstellar Leap",
   "preview": "https://phira.5wyxi.com/files/cba2125d-aaa5-4354-af2d-22daed82fa7d",
   "ranked": false,
-  "rating": 0.8721004,
-  "ratingCount": 170,
+  "rating": 0.8735821,
+  "ratingCount": 172,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

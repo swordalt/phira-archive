@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:36Z",
-    "lastChanged": "2026-09-21T02:03:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-02T05:56:37.861896Z",
   "charter": "FurSea",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.400002,
   "file": "https://phira.5wyxi.com/files/398bed8f-e42d-4bac-b171-ae8ed6f76fcc",
+  "hidden": false,
   "id": 43440,
   "illustration": "https://phira.5wyxi.com/files/48a34067-5552-4763-9eb5-40ddb41b9957",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "请不要带我走。",
   "preview": "https://phira.5wyxi.com/files/f55946ba-5897-483d-80a5-42091cfbf46c",
   "ranked": false,
-  "rating": 0.9362585,
-  "ratingCount": 5891,
+  "rating": 0.93580395,
+  "ratingCount": 6411,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

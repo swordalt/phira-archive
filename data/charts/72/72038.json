@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:06Z",
-    "lastChanged": "2026-09-21T02:05:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-08T07:24:56.703809Z",
   "charter": "zgmzbc",
@@ -14,6 +14,7 @@
   "description": "本人上传，新人初谱，已上传bilibili，感谢游玩评价",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/f3235f26-243c-4666-bf6d-25a40d962a1f",
+  "hidden": false,
   "id": 72038,
   "illustration": "https://phira.5wyxi.com/files/c7e119a8-a5e6-42d6-a8b5-cb9214713e4b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "About The Universe",
   "preview": "https://phira.5wyxi.com/files/f1821a1a-dc66-40b5-ab27-fc5978931646",
   "ranked": false,
-  "rating": 0.841247,
-  "ratingCount": 75,
+  "rating": 0.8450715,
+  "ratingCount": 154,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:49Z",
-    "lastChanged": "2026-09-21T02:02:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-28T07:50:41.180762Z",
   "charter": "0o不会取名o0",
@@ -14,6 +14,7 @@
   "description": "本人上传\n第五个谱子，事双指谱，有一些创人配置\n本来想写15但好像又写难了一点(吧)",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/bd7de988-5477-41cd-9d1b-91860fe2e1cc",
+  "hidden": false,
   "id": 30184,
   "illustration": "https://phira.5wyxi.com/files/313201a1-f7bd-450f-8d26-b335714bdb12",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "enchanted wanderer",
   "preview": "https://phira.5wyxi.com/files/3028cc29-3cf3-4f5b-8485-2f2f69a55e96",
   "ranked": false,
-  "rating": 0.86556405,
-  "ratingCount": 125,
+  "rating": 0.86364186,
+  "ratingCount": 128,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

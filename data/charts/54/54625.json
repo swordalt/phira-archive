@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:31Z",
-    "lastChanged": "2026-09-21T02:04:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-28T01:03:29.545353Z",
   "charter": "-Fanyiling-fyl-",
@@ -14,6 +14,7 @@
   "description": "本人上传。\n所有高亮note都是tap，长条除外。非高亮note正常判定。\n我说染色是好看的也方便读谱的！\n好像写的难了点",
   "difficulty": 5.0,
   "file": "https://phira.5wyxi.com/files/c1008a8d-c6f3-46c5-abed-1a110ede1f14",
+  "hidden": false,
   "id": 54625,
   "illustration": "https://phira.5wyxi.com/files/42347e5a-272c-4572-8921-c1cb4e2f9570",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "UwU Funk",
   "preview": "https://phira.5wyxi.com/files/85b31086-4c1f-4283-8b42-4de3978e6579",
   "ranked": false,
-  "rating": 0.7653804,
-  "ratingCount": 453,
+  "rating": 0.76676303,
+  "ratingCount": 470,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

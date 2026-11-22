@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-01T14:59:19Z",
-    "lastChanged": "2026-11-01T19:33:45Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:31Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-31T18:16:48.353766Z",
   "charter": "【CELTRIX NOVA】",
@@ -14,6 +14,7 @@
   "description": "【YYW三周年纪念谱】\n————————————\n提坦兴战，穹宇沸扬；\n三秩偕征，共赴律章。\n以此一谱，敬贺周年。\n————————————\n谱师：【CELTRIX NOVA】\n(@Betrixx#435853 & @CelyndrA#253256)\n\n",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/8298e515-1734-4bc1-a5ad-274710b35227",
+  "hidden": false,
   "id": 82729,
   "illustration": "https://phira.5wyxi.com/files/19c1f98d-5c0f-4b1d-9941-2b9972b5de6a",
   "illustrator": "Unknow",
@@ -21,14 +22,14 @@
   "name": "Titanomachia",
   "preview": "https://phira.5wyxi.com/files/683e8815-605c-40cd-bba3-1009c0a19fd1",
   "ranked": false,
-  "rating": 0.81567323,
-  "ratingCount": 0,
+  "rating": 0.906405,
+  "ratingCount": 74,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-01T13:22:45.893595052Z",
+  "updated": "2026-11-01T13:22:45.893595Z",
   "uploader": 2035
 }

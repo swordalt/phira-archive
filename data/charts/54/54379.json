@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:29Z",
-    "lastChanged": "2026-09-21T02:04:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-21T09:15:13.090523Z",
   "charter": "时音海",
@@ -14,6 +14,7 @@
   "description": "B站@时音海，本谱已更新。（注意账号是时音海）",
   "difficulty": 14.800003,
   "file": "https://phira.5wyxi.com/files/e48a476b-99e9-424c-985e-9ed5a2ba1ec5",
+  "hidden": false,
   "id": 54379,
   "illustration": "https://phira.5wyxi.com/files/fce7e49a-2021-4cc3-87fa-84fbd4fceb2f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lockdown(feat.NEONA)",
   "preview": "https://phira.5wyxi.com/files/8d123570-07e8-4090-9bb6-c7796958aa46",
   "ranked": false,
-  "rating": 0.90259856,
-  "ratingCount": 66,
+  "rating": 0.8845479,
+  "ratingCount": 82,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

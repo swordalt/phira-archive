@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:09Z",
-    "lastChanged": "2026-10-04T10:51:13Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:08Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-17T11:52:12.457655Z",
   "charter": "funkier wheat",
@@ -14,6 +14,7 @@
   "description": "感谢盒子、鱼某和239对谱面设计的帮助！",
   "difficulty": 13.200001,
   "file": "https://phira.5wyxi.com/files/937e1ed0-567d-470f-a34b-1c14e9cc192a",
+  "hidden": false,
   "id": 73948,
   "illustration": "https://phira.5wyxi.com/files/16348022-1a3c-4d57-bccd-d60075291ac5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "enchanted love",
   "preview": "https://phira.5wyxi.com/files/423f7755-a09e-496f-9215-5f925fb3e691",
   "ranked": false,
-  "rating": 0.92692333,
-  "ratingCount": 582,
+  "rating": 0.9288326,
+  "ratingCount": 635,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

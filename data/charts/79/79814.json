@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-02T16:14:06Z",
-    "lastChanged": "2026-10-02T16:14:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-02T11:17:46.536913Z",
   "charter": "朝日の锁",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/733bee03-4a17-4bd8-b3bb-243deb36150a",
+  "hidden": false,
   "id": 79814,
   "illustration": "https://phira.5wyxi.com/files/fc8870fc-b860-4294-9f1b-ded70fffa4d7",
   "illustrator": "柚原もけ",
@@ -21,8 +22,8 @@
   "name": "キミのとなりで",
   "preview": "https://phira.5wyxi.com/files/5b2ac2c3-0945-4af8-ba61-a66442de6851",
   "ranked": false,
-  "rating": 0.9273591,
-  "ratingCount": 16,
+  "rating": 0.9425557,
+  "ratingCount": 415,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

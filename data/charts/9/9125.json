@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:31Z",
-    "lastChanged": "2026-09-21T02:01:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-08T16:28:11.098528Z",
   "charter": "小鱼仔娱乐",
@@ -14,6 +14,7 @@
   "description": "更新内容：提升难度为14.8>14.9，感谢看到这里！（相关视频：BV1PP41187Z2（本人上传）",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/12bd36fd-5cb8-4597-88b6-fe72136600e4",
+  "hidden": false,
   "id": 9125,
   "illustration": "https://phira.5wyxi.com/files/3b18aa4e-eeb4-40f3-8d73-cdf14d97166e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "You",
   "preview": "https://phira.5wyxi.com/files/66b3fa59-7ef4-4388-ad13-2fa9b2b02fc0",
   "ranked": false,
-  "rating": 0.9414255,
-  "ratingCount": 2303,
+  "rating": 0.9416324,
+  "ratingCount": 2321,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

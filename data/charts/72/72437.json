@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:07Z",
-    "lastChanged": "2026-09-27T10:16:11Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:01Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-10T03:46:57.601042Z",
   "charter": "旅航",
@@ -14,6 +14,7 @@
   "description": "B站同名，手法谱",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/3643f66a-4598-4618-bb70-2c62e76ffbb9",
+  "hidden": false,
   "id": 72437,
   "illustration": "https://phira.5wyxi.com/files/e0713a74-4fc8-4d2a-805c-ad19924b6fe5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "抜錨（ウォルピスカーター cover.)",
   "preview": "https://phira.5wyxi.com/files/08ce82fc-c4c7-43d0-a448-dfb358135536",
   "ranked": false,
-  "rating": 0.90852684,
-  "ratingCount": 222,
+  "rating": 0.91136307,
+  "ratingCount": 251,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

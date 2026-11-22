@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:53Z",
-    "lastChanged": "2026-09-21T02:04:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-30T14:25:35.245858Z",
   "charter": "Yandere",
@@ -14,6 +14,7 @@
   "description": "我保留了一些本味，让玩家知道他们玩的曲子是中二的。\n——————————————\n本人上传，B站@超爱吃盐的盐盐",
   "difficulty": 17.2,
   "file": "https://phira.5wyxi.com/files/9dce494d-42f3-4ed2-929c-26e41a346d6f",
+  "hidden": false,
   "id": 63320,
   "illustration": "https://phira.5wyxi.com/files/0cfad7fc-f8fd-4d97-b3d1-82d8140eb3e5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "幻想ロードオブキング",
   "preview": "https://phira.5wyxi.com/files/98a6dec8-5bb0-413c-9337-eef705e30d92",
   "ranked": false,
-  "rating": 0.9312535,
-  "ratingCount": 411,
+  "rating": 0.9310287,
+  "ratingCount": 434,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:27Z",
-    "lastChanged": "2026-09-21T02:03:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-07T10:05:27.928122Z",
   "charter": "不爱吃烤板鸭",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/4f06145d-e344-49b8-9ee3-4dfb2d18f8e5",
+  "hidden": false,
   "id": 41093,
   "illustration": "https://phira.5wyxi.com/files/eda14b94-633a-48f3-a295-c4ebe3717b12",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "反乌托邦",
   "preview": "https://phira.5wyxi.com/files/721d5436-3f1f-4a98-9bc6-8e469fba9340",
   "ranked": false,
-  "rating": 0.9287536,
-  "ratingCount": 4395,
+  "rating": 0.92994803,
+  "ratingCount": 4678,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

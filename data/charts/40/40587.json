@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:26Z",
-    "lastChanged": "2026-09-21T02:03:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-30T10:20:54.325259Z",
   "charter": "Towards the N65z",
@@ -14,6 +14,7 @@
   "description": "本人上传，谱面难度较高，请据自身实力谨慎游玩打分",
   "difficulty": 18.2,
   "file": "https://phira.5wyxi.com/files/1c9cb0d7-f8fd-4589-a40e-fa9b72e41dcd",
+  "hidden": false,
   "id": 40587,
   "illustration": "https://phira.5wyxi.com/files/6aa8ba5f-b36a-49e8-afa8-d11196084b02",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Towards the 300",
   "preview": "https://phira.5wyxi.com/files/d2f18e42-c893-45fe-9a79-0068a17a9a05",
   "ranked": false,
-  "rating": 0.93646735,
-  "ratingCount": 261,
+  "rating": 0.937983,
+  "ratingCount": 268,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

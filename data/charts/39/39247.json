@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:21Z",
-    "lastChanged": "2026-09-21T02:03:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-05T19:11:07.251440Z",
   "charter": "xiechar",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.5,
   "file": "https://phira.5wyxi.com/files/b9144fe6-db75-4168-9e92-e7dd540e2d82",
+  "hidden": false,
   "id": 39247,
   "illustration": "https://phira.5wyxi.com/files/bd08629f-c6d7-4c01-bae7-421960ba2498",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ark",
   "preview": "https://phira.5wyxi.com/files/a8aa48f5-c5cc-488c-b32a-252b50546d00",
   "ranked": false,
-  "rating": 0.8149515,
-  "ratingCount": 129,
+  "rating": 0.8119118,
+  "ratingCount": 135,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

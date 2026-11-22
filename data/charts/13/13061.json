@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:46Z",
-    "lastChanged": "2026-09-21T02:01:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-31T09:59:53.782763Z",
   "charter": "lzwd",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.3,
   "file": "https://phira.5wyxi.com/files/b721076c-6c95-400b-922e-da39b7eb3808",
+  "hidden": false,
   "id": 13061,
   "illustration": "https://phira.5wyxi.com/files/15281024-18b2-423e-b236-887fcba0cf83",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "the 3rd Anniversary",
   "preview": "https://phira.5wyxi.com/files/732f5167-0e8b-4693-b1a3-6c7708f83d6e",
   "ranked": false,
-  "rating": 0.8498207,
-  "ratingCount": 353,
+  "rating": 0.852756,
+  "ratingCount": 361,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

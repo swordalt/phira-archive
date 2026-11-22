@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:40Z",
-    "lastChanged": "2026-09-21T02:01:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-05T05:48:39.541793Z",
   "charter": "烏魚",
@@ -14,6 +14,7 @@
   "description": "个人第二张谱面，由谱师本人上传；谱面预览可于b站账号 弦余Socine 观看。\n从成语 乌兔匆匆 出发，试着营造一种神话的氛围。\n谱面于11/5进行微调，优化了手感",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/db8766f6-6087-4d0c-9872-3c1adb63ecff",
+  "hidden": false,
   "id": 11148,
   "illustration": "https://phira.5wyxi.com/files/ec426cee-de9f-44a4-84b8-76040e8c8ab8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "烏兎",
   "preview": "https://phira.5wyxi.com/files/020ec8c4-921f-400a-8acc-5702e4ed432f",
   "ranked": false,
-  "rating": 0.9144764,
-  "ratingCount": 1050,
+  "rating": 0.91481763,
+  "ratingCount": 1057,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

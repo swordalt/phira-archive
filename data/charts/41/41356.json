@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:22Z",
-    "lastChanged": "2026-09-21T02:06:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-31T06:50:05.015612Z",
   "charter": "安纳回",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/cca37de6-2b35-46b2-bc21-339a08a73f2c",
+  "hidden": false,
   "id": 41356,
   "illustration": "https://phira.5wyxi.com/files/44a54558-b874-43e8-ade5-aabf66bcdcce",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "门的另一端",
   "preview": "https://phira.5wyxi.com/files/28c7aa50-df4e-4c37-8367-9a70f46eb441",
   "ranked": false,
-  "rating": 0.93723893,
-  "ratingCount": 115,
+  "rating": 0.93776655,
+  "ratingCount": 116,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

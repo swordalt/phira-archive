@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:07Z",
-    "lastChanged": "2026-09-21T02:04:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-20T14:44:22.298373Z",
   "charter": "G0d$tar",
@@ -14,6 +14,7 @@
   "description": "新人手机四谱\nB站@GodStar神星",
   "difficulty": 15.8,
   "file": "https://phira.5wyxi.com/files/e3e03010-b870-4df9-b88e-1ccc0ba06415",
+  "hidden": false,
   "id": 50387,
   "illustration": "https://phira.5wyxi.com/files/de4ac859-be33-4c3a-a63e-4996787d6e93",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fist Me",
   "preview": "https://phira.5wyxi.com/files/2215e655-306d-4c06-8bcf-e4e3fc50441e",
   "ranked": false,
-  "rating": 0.95144194,
-  "ratingCount": 40,
+  "rating": 0.95628965,
+  "ratingCount": 46,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

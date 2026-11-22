@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:06Z",
-    "lastChanged": "2026-09-21T02:07:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-22T11:52:46.909918Z",
   "charter": "交互当双押",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/1eb6fa37-946e-4630-8f3c-31e586f88db4",
+  "hidden": false,
   "id": 28991,
   "illustration": "https://phira.5wyxi.com/files/24075a1c-2e80-40fc-8bdd-f425c2b063e3",
   "illustrator": "",

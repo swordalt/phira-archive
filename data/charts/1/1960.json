@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:35Z",
-    "lastChanged": "2026-09-21T02:05:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-14T01:13:19.461385Z",
   "charter": "LeionTha",
@@ -14,6 +14,7 @@
   "description": "由本人LeionTha(lindachaoshen)上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/99c297fd-6857-4e94-acea-b1dac65acd63",
+  "hidden": false,
   "id": 1960,
   "illustration": "https://phira.5wyxi.com/files/ea811623-f19b-48f4-97c1-ee14b667b295",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Alteregoism",
   "preview": "https://phira.5wyxi.com/files/505f53a4-27ae-4168-bee7-338ba69b4d6e",
   "ranked": false,
-  "rating": 0.9025947,
-  "ratingCount": 434,
+  "rating": 0.9030459,
+  "ratingCount": 436,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

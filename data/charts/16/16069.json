@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:59Z",
-    "lastChanged": "2026-09-21T02:01:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-18T15:23:32.910052Z",
   "charter": "TenE",
@@ -14,6 +14,7 @@
   "description": "初作",
   "difficulty": 15.500021,
   "file": "https://phira.5wyxi.com/files/389e3dc4-4b1f-49c4-bb0f-52e362a2a0e1",
+  "hidden": false,
   "id": 16069,
   "illustration": "https://phira.5wyxi.com/files/562f6589-fd4e-4ce5-a768-5eb4a5de2d5e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Reindeers Gifts",
   "preview": "https://phira.5wyxi.com/files/ef327859-4551-402b-b07d-c5ab536c6390",
   "ranked": false,
-  "rating": 0.78311706,
-  "ratingCount": 82,
+  "rating": 0.80221236,
+  "ratingCount": 92,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:39Z",
-    "lastChanged": "2026-09-21T02:02:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-01T06:13:24.794662Z",
   "charter": "...8888...",
@@ -14,6 +14,7 @@
   "description": "7thPecjam RG No.103",
   "difficulty": 8.0,
   "file": "https://phira.5wyxi.com/files/ff9a5b39-4497-48be-b850-4087894c79f1",
+  "hidden": false,
   "id": 27283,
   "illustration": "https://phira.5wyxi.com/files/636c3cb9-e662-4ddc-afba-f6ff40d2ebf9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "drink-colored eight star",
   "preview": "https://phira.5wyxi.com/files/26256ff1-f451-4d8d-9505-fa9e89c9d094",
   "ranked": false,
-  "rating": 0.8859165,
-  "ratingCount": 131,
+  "rating": 0.88760906,
+  "ratingCount": 133,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

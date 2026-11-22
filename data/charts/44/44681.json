@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:30Z",
-    "lastChanged": "2026-09-21T02:06:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-14T11:57:36.431679Z",
   "charter": "200%Charters",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n\nLC2025#1 Final TB",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/9027269f-462a-4c67-b024-73b16d5f7942",
+  "hidden": false,
   "id": 44681,
   "illustration": "https://phira.5wyxi.com/files/16ea3d30-e5f2-431f-8b37-418716715a67",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "200%MIX东方カーニバル",
   "preview": "https://phira.5wyxi.com/files/56b5803f-a31c-4133-bef9-ed22c480489a",
   "ranked": false,
-  "rating": 0.8443839,
-  "ratingCount": 21,
+  "rating": 0.8608386,
+  "ratingCount": 24,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:25Z",
-    "lastChanged": "2026-09-21T02:06:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-24T09:52:25.097335Z",
   "charter": "LOS VOLTAJE",
@@ -14,6 +14,7 @@
   "description": "铺面由铺师本人上传",
   "difficulty": 18.6,
   "file": "https://phira.5wyxi.com/files/e757b6bd-e90c-443a-8a37-48db789bffac",
+  "hidden": false,
   "id": 42608,
   "illustration": "https://phira.5wyxi.com/files/7e4ad23e-06fe-4115-825c-00b605ade4fb",
   "illustrator": "",

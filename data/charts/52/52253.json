@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:19Z",
-    "lastChanged": "2026-09-21T02:04:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-07T16:13:33.180454Z",
   "charter": "zhanwai",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.3,
   "file": "https://phira.5wyxi.com/files/2f71f250-3051-48e5-93a6-ec32949f5133",
+  "hidden": false,
   "id": 52253,
   "illustration": "https://phira.5wyxi.com/files/d4baafb5-5644-4f71-a935-c173a80b7d30",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "不乱不破",
   "preview": "https://phira.5wyxi.com/files/0e1edc49-799c-4387-91c6-5d596bac4f4a",
   "ranked": false,
-  "rating": 0.93978286,
-  "ratingCount": 1096,
+  "rating": 0.9390477,
+  "ratingCount": 1186,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

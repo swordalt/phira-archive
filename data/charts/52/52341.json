@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-12T20:14:33Z",
-    "lastChanged": "2026-10-13T10:26:00Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:02:39Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-02-09T20:15:09.952027Z",
   "charter": "3437-114514",
@@ -14,6 +14,7 @@
   "description": "轉譜Iota切完整版 本人上傳\r\n譜面演示BV1KGsJzVEQx",
   "difficulty": 19.1,
   "file": "https://phira.5wyxi.com/files/67effabf-4af3-44b6-99c7-02489c459e49",
+  "hidden": false,
   "id": 52341,
   "illustration": "https://phira.5wyxi.com/files/df3bca56-6ff2-4175-9c92-d68567aeb1d5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bad Apple!! feat. nomico",
   "preview": "https://phira.5wyxi.com/files/7d4d2449-5466-4280-89f7-58a313bc5f8d",
   "ranked": false,
-  "rating": null,
-  "ratingCount": 0,
+  "rating": 0.76620734,
+  "ratingCount": 43,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

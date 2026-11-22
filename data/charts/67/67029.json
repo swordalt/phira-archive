@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:59Z",
-    "lastChanged": "2026-09-21T02:04:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-16T14:23:16.966639Z",
   "charter": "昔ERSTWHILE",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n谱面预览:BV1gyKV6GERF\n部分配置和采音方式主要借鉴了ChainBeeT",
   "difficulty": 16.700003,
   "file": "https://phira.5wyxi.com/files/02ae1c25-11c6-4549-b494-1c3efd3d17dc",
+  "hidden": false,
   "id": 67029,
   "illustration": "https://phira.5wyxi.com/files/30132b26-f46b-4350-a412-3860e2a2fbce",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "クォークの海を泳いで",
   "preview": "https://phira.5wyxi.com/files/3659a31d-759b-413c-8b46-a6afceded818",
   "ranked": false,
-  "rating": 0.8257282,
-  "ratingCount": 4,
+  "rating": 0.86019063,
+  "ratingCount": 7,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

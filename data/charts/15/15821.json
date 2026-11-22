@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:42Z",
-    "lastChanged": "2026-09-21T02:05:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-16T08:33:36.182057Z",
   "charter": "Vars",
@@ -14,6 +14,7 @@
   "description": "Chart made by Vars (me) in Malody and converted to Phira by Twfixz :V",
   "difficulty": 19.0,
   "file": "https://phira.5wyxi.com/files/5a95b4aa-dc68-4225-813e-04caa568dc22",
+  "hidden": false,
   "id": 15821,
   "illustration": "https://phira.5wyxi.com/files/6782d40e-f2b9-4b1e-acf6-6d5f9c4c2601",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Tempest",
   "preview": "https://phira.5wyxi.com/files/3829051c-9a0a-4709-9dfa-5d687d4813c1",
   "ranked": false,
-  "rating": 0.9465948,
-  "ratingCount": 471,
+  "rating": 0.94717205,
+  "ratingCount": 478,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

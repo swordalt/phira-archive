@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:07Z",
-    "lastChanged": "2026-09-21T02:02:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-21T14:08:18.738985Z",
   "charter": "XXTT2420",
@@ -14,6 +14,7 @@
   "description": "谱面为谱师本人上传 @bilibili AxeJti_2420",
   "difficulty": 14.9,
   "file": "https://phira.5wyxi.com/files/bf0ccfe4-6716-49c5-964d-799bab19f721",
+  "hidden": false,
   "id": 18170,
   "illustration": "https://phira.5wyxi.com/files/63735081-7655-43a5-aae8-3e73fba56fc5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Hopes and Dreams",
   "preview": "https://phira.5wyxi.com/files/19845f40-7a11-4301-b99a-af389608c844",
   "ranked": false,
-  "rating": 0.9390317,
-  "ratingCount": 6945,
+  "rating": 0.93922424,
+  "ratingCount": 7134,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

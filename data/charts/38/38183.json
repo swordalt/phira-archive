@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:15Z",
-    "lastChanged": "2026-09-21T02:06:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-17T09:28:48.458270Z",
   "charter": "PG_2523",
@@ -14,6 +14,7 @@
   "description": "197耐力切，带点锚，31313131那一段会改",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/c14e712f-da4d-4e91-8c71-8a91301d65e1",
+  "hidden": false,
   "id": 38183,
   "illustration": "https://phira.5wyxi.com/files/5b5fe178-1170-4a33-a307-21db70e773d8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ad astra per aspera",
   "preview": "https://phira.5wyxi.com/files/8db256cf-118a-4756-b3f8-90acf14ab544",
   "ranked": false,
-  "rating": 0.9458946,
-  "ratingCount": 567,
+  "rating": 0.9462618,
+  "ratingCount": 592,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

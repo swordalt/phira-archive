@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:13Z",
-    "lastChanged": "2026-09-21T02:02:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-10T08:19:27.840530Z",
   "charter": "Encly",
@@ -14,6 +14,7 @@
   "description": "谱师Bilibili@ty天远",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/b9778598-a031-4d66-b5be-0b16373f2160",
+  "hidden": false,
   "id": 19815,
   "illustration": "https://phira.5wyxi.com/files/939a826c-435b-441b-97df-b210d3983f5c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ennor",
   "preview": "https://phira.5wyxi.com/files/5b47c829-7b0b-483f-8824-592df25821f7",
   "ranked": false,
-  "rating": 0.9303433,
-  "ratingCount": 1189,
+  "rating": 0.93020886,
+  "ratingCount": 1195,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

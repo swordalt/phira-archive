@@ -4,16 +4,17 @@
       "regular"
     ],
     "firstSeen": "2026-10-07T17:46:22Z",
-    "lastChanged": "2026-11-08T07:12:49Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:25Z",
+    "revisions": 3
   },
-  "chartUpdated": "2026-11-08T06:12:44.036076885Z",
+  "chartUpdated": "2026-11-08T06:12:44.036076Z",
   "charter": "∅Memoir of \"Administrat∅R\"∅",
   "composer": "onoken a.k.a. owl*tree",
   "created": "2026-10-07T16:25:17.707194Z",
   "description": "该谱面为 WSRT x 云梦杯 2026 比赛供谱的改版。为避免清榜，谱师团队选择了重新上传差分谱。\r\n感谢Kanoten和A水的摸图！————————————————\n曲名：Melodiniq\n曲师：onoken a.k.a. owl*tree\n谱师：∅Memoir of \"Administrat∅R\"∅\n难度：ULT Lv.18\n物量：2026\r\n\r\nUpdate(20261108)：进行了大量对音修正，修改了部分排列。\r\n\r\n@scniscn#4071（特效）@Baize1133#448065（修缮）",
   "difficulty": 18.500002,
   "file": "https://phira.5wyxi.com/files/6195dacf-5a33-4028-85d9-4964a4eb26b8",
+  "hidden": false,
   "id": 80561,
   "illustration": "https://phira.5wyxi.com/files/f4fdc8f2-7885-450b-801f-c95483581a56",
   "illustrator": "",
@@ -21,14 +22,14 @@
   "name": "Melodiniq",
   "preview": "https://phira.5wyxi.com/files/54443a7f-2955-4ff0-b21a-f884d2a37913",
   "ranked": false,
-  "rating": 0.9506315,
-  "ratingCount": 112,
+  "rating": 0.9463027,
+  "ratingCount": 224,
   "reviewed": true,
   "stable": false,
   "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-08T06:12:44.036076885Z",
+  "updated": "2026-11-08T06:12:44.036076Z",
   "uploader": 148983
 }

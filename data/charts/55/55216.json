@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:34Z",
-    "lastChanged": "2026-09-21T02:04:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-06T15:42:22.281178Z",
   "charter": "墨 Inky",
@@ -14,6 +14,7 @@
   "description": "本人上传 @InkySAIKYO\n尝试了一些新的表演想法",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/af6dc7ff-d7af-4310-b981-661e9061e227",
+  "hidden": false,
   "id": 55216,
   "illustration": "https://phira.5wyxi.com/files/f86a2462-3d65-4720-bb43-bc6df4e54f1b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "有明/Ariake",
   "preview": "https://phira.5wyxi.com/files/cbdabceb-d876-4154-9ca9-8bb735c48749",
   "ranked": false,
-  "rating": 0.91160667,
-  "ratingCount": 89,
+  "rating": 0.91275775,
+  "ratingCount": 91,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

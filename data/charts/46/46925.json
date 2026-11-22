@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:35Z",
-    "lastChanged": "2026-09-21T02:06:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-19T04:13:43.311977Z",
   "charter": "听云月",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/c4af5533-2dab-4bc8-8386-cc840f1a845a",
+  "hidden": false,
   "id": 46925,
   "illustration": "https://phira.5wyxi.com/files/23e7cf90-f8ed-4878-bb22-ee6c92de62c0",
   "illustrator": "",

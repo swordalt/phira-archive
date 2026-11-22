@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:47Z",
-    "lastChanged": "2026-09-21T02:01:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-04T13:55:45.129253Z",
   "charter": "AlanAugustine",
@@ -14,6 +14,7 @@
   "description": "@猫车画风 2ndPecJam第17",
   "difficulty": 14.3,
   "file": "https://phira.5wyxi.com/files/1f906a58-c3ca-4cb0-846d-dcbdd5cd6afb",
+  "hidden": false,
   "id": 13234,
   "illustration": "https://phira.5wyxi.com/files/d7687bee-ea84-4365-99a6-2a4c03ddbb3d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dream of Memories",
   "preview": "https://phira.5wyxi.com/files/d5341108-f012-4f40-bcab-5f610bed704e",
   "ranked": false,
-  "rating": 0.9028058,
-  "ratingCount": 194,
+  "rating": 0.90279794,
+  "ratingCount": 197,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

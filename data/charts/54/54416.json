@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:49Z",
-    "lastChanged": "2026-09-21T02:06:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-21T15:14:15.254573Z",
   "charter": "kirto.moshang.owo",
@@ -14,6 +14,7 @@
   "description": "第九个4K谱面喵",
   "difficulty": 30.0,
   "file": "https://phira.5wyxi.com/files/5eda475d-c9f2-4a87-a715-34fe79a5b7ed",
+  "hidden": false,
   "id": 54416,
   "illustration": "https://phira.5wyxi.com/files/b8984b95-19f8-4f8f-be68-d5fb12a1913c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "封焔の135秒",
   "preview": "https://phira.5wyxi.com/files/b729b6f8-78fe-43f6-aee9-d68b25af4641",
   "ranked": false,
-  "rating": 0.95396936,
-  "ratingCount": 233,
+  "rating": 0.9563537,
+  "ratingCount": 291,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

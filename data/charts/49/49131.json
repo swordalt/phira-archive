@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:03Z",
-    "lastChanged": "2026-09-21T02:04:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-15T07:36:29.467923Z",
   "charter": "吧唧吧唧吧33",
@@ -14,6 +14,7 @@
   "description": "新人初谱，做了一些大胆的尝试。B站：吧唧吧唧吧33",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/5c061801-30e7-4ac9-af76-4e25240262f3",
+  "hidden": false,
   "id": 49131,
   "illustration": "https://phira.5wyxi.com/files/28526b88-3c0d-48aa-86f8-3eacb03d6ce5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "峡谷奇遇",
   "preview": "https://phira.5wyxi.com/files/411cb5eb-788e-4883-b2cd-cd1868d416ca",
   "ranked": false,
-  "rating": 0.8665263,
-  "ratingCount": 21,
+  "rating": 0.8629231,
+  "ratingCount": 23,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:21Z",
-    "lastChanged": "2026-09-21T02:03:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-02T03:20:01.476994Z",
   "charter": "UNKN239",
@@ -14,6 +14,7 @@
   "description": "B站：BV1BbWUeDE7g",
   "difficulty": 15.9,
   "file": "https://phira.5wyxi.com/files/6ca3ea1f-bfb4-42ee-b0e0-66624a61a2bf",
+  "hidden": false,
   "id": 39039,
   "illustration": "https://phira.5wyxi.com/files/addb2034-fe7b-4169-9ecc-3f249f4a1a4e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "HAINUWELE",
   "preview": "https://phira.5wyxi.com/files/a83b025e-508a-43a0-b92d-c4634affea61",
   "ranked": false,
-  "rating": 0.92635864,
-  "ratingCount": 408,
+  "rating": 0.9263334,
+  "ratingCount": 412,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:09Z",
-    "lastChanged": "2026-09-21T02:02:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-30T13:36:11.733973Z",
   "charter": "Cloudli_efe",
@@ -14,6 +14,7 @@
   "description": "本人上传\nBV1jF4NeYEtS",
   "difficulty": 12.900011,
   "file": "https://phira.5wyxi.com/files/082a4aee-a5b8-43e3-aa81-ff403b1b946c",
+  "hidden": false,
   "id": 18747,
   "illustration": "https://phira.5wyxi.com/files/114ad757-10d5-4e11-b724-34d80ab53a2e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Nostalgia!",
   "preview": "https://phira.5wyxi.com/files/8fba6e56-ef8b-49fc-83e5-d92866c435d8",
   "ranked": false,
-  "rating": 0.9399388,
-  "ratingCount": 1989,
+  "rating": 0.93991476,
+  "ratingCount": 1993,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

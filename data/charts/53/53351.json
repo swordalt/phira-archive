@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:24Z",
-    "lastChanged": "2026-09-21T02:04:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-24T17:40:00.383450Z",
   "charter": "Esama",
@@ -14,6 +14,7 @@
   "description": "生日作",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/94e4eb79-3975-439c-8abc-2e89a92a4ee2",
+  "hidden": false,
   "id": 53351,
   "illustration": "https://phira.5wyxi.com/files/b82c6600-9add-460a-99fe-cc9d2ac3a5c3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Astronomy",
   "preview": "https://phira.5wyxi.com/files/f81fbe74-b255-45a9-add7-19650278605a",
   "ranked": false,
-  "rating": 0.92787594,
-  "ratingCount": 175,
+  "rating": 0.93056357,
+  "ratingCount": 183,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

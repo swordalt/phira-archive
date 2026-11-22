@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:40Z",
-    "lastChanged": "2026-09-21T02:05:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-07T13:10:56.686582Z",
   "charter": "IambicCave",
@@ -14,6 +14,7 @@
   "description": "模仿Malody stb风格的一张谱面，适合有一点4K基础（reg3dan）的小鸽子们游玩～",
   "difficulty": 14.99999,
   "file": "https://phira.5wyxi.com/files/43e0564c-891c-4013-b9c9-af21a2c88b1b",
+  "hidden": false,
   "id": 13388,
   "illustration": "https://phira.5wyxi.com/files/58cae613-6b3d-459c-afc5-390582cf5212",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Quelle coloré!",
   "preview": "https://phira.5wyxi.com/files/9b17a4e7-2a2a-4bc7-8f0b-fbde65025059",
   "ranked": false,
-  "rating": 0.93850946,
-  "ratingCount": 247,
+  "rating": 0.9387561,
+  "ratingCount": 248,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

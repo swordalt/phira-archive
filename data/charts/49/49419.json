@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:41Z",
-    "lastChanged": "2026-09-21T02:06:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-22T18:07:45.638162Z",
   "charter": "kirto.moshang.owo",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传 是第三个4K谱面了哦~",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/90c916bc-2459-4b97-99c8-753cf2677b32",
+  "hidden": false,
   "id": 49419,
   "illustration": "https://phira.5wyxi.com/files/c4a42e70-8798-46cd-be1f-b482b0952ee2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "memories of blue",
   "preview": "https://phira.5wyxi.com/files/4358a453-527d-42b8-8276-f175495eb0a2",
   "ranked": false,
-  "rating": 0.9316339,
-  "ratingCount": 152,
+  "rating": 0.93357843,
+  "ratingCount": 158,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

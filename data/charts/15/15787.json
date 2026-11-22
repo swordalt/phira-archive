@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:22Z",
-    "lastChanged": "2026-09-21T02:05:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-16T01:49:52.979462Z",
   "charter": "hai_ren",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，b站uid:3494374715426985，已发布谱面文件视频",
   "difficulty": 17.6,
   "file": "https://phira.5wyxi.com/files/1afd978c-a082-4d52-ab30-730dc6f56abf",
+  "hidden": false,
   "id": 15787,
   "illustration": "https://phira.5wyxi.com/files/6c024105-dc22-42bb-9d84-6fe3947ed432",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "风屿",
   "preview": "https://phira.5wyxi.com/files/a930d368-6286-4ca8-9f84-1c51ccf9721f",
   "ranked": false,
-  "rating": 0.8532929,
-  "ratingCount": 624,
+  "rating": 0.85350436,
+  "ratingCount": 635,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:53Z",
-    "lastChanged": "2026-09-21T02:05:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-11T07:01:02.751235Z",
   "charter": "KasiltM-QR",
@@ -14,6 +14,7 @@
   "description": "BV1teaxetEau",
   "difficulty": 11.0,
   "file": "https://phira.5wyxi.com/files/d407c9c4-2257-4686-8ed0-1b449393b0bc",
+  "hidden": false,
   "id": 23178,
   "illustration": "https://phira.5wyxi.com/files/f9b192ae-ff24-4653-a552-134b9381c309",
   "illustrator": "",

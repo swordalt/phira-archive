@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:04Z",
-    "lastChanged": "2026-09-21T02:04:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-30T03:35:45.953691Z",
   "charter": "Black Breaker（Geocart）",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/36d1b6c2-2ed9-4942-9b04-22842997a886",
+  "hidden": false,
   "id": 49672,
   "illustration": "https://phira.5wyxi.com/files/f8e388e4-6a71-47aa-90b7-5232fea56885",
   "illustrator": "",

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:49Z",
-    "lastChanged": "2026-09-21T02:03:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-05T14:09:04.280627Z",
   "charter": "54.0MHz respects for 198GB",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.7,
   "file": "https://phira.5wyxi.com/files/2b316b20-3975-459c-9eae-cd263b5554b8",
+  "hidden": false,
   "id": 46393,
   "illustration": "https://phira.5wyxi.com/files/f61bd2a5-00f4-4372-ac30-397841b1a175",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Future Downloader",
   "preview": "https://phira.5wyxi.com/files/10b5d422-d192-49ab-917b-177c4b380f4b",
   "ranked": false,
-  "rating": 0.90168834,
-  "ratingCount": 289,
+  "rating": 0.8998929,
+  "ratingCount": 291,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:09Z",
-    "lastChanged": "2026-09-21T02:02:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-16T08:41:20.096210Z",
   "charter": "Queen YanY",
@@ -14,6 +14,7 @@
   "description": "本人上传，B站@超爱吃盐的盐盐",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/10e64cb8-0071-493e-86bb-13ae4a7709d3",
+  "hidden": false,
   "id": 18551,
   "illustration": "https://phira.5wyxi.com/files/6f84d772-6eef-4b59-8329-3c190a7ba5bf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "嬢王",
   "preview": "https://phira.5wyxi.com/files/8078a75f-203b-4e74-add0-bd677f2ff912",
   "ranked": false,
-  "rating": 0.92907894,
-  "ratingCount": 1691,
+  "rating": 0.92890626,
+  "ratingCount": 1743,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

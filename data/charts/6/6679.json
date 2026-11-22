@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:24Z",
-    "lastChanged": "2026-09-21T02:01:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-02T10:07:05.258662Z",
   "charter": "日向666",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/15a3962e-dda2-4884-9a7f-f6cce7eb732c",
+  "hidden": false,
   "id": 6679,
   "illustration": "https://phira.5wyxi.com/files/5c3dd0a1-afa0-40c7-bdc7-c5a0eb9b4063",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "笼",
   "preview": "https://phira.5wyxi.com/files/e03f5b79-55a8-4f05-9700-66d35fe84668",
   "ranked": false,
-  "rating": 0.91752106,
-  "ratingCount": 6745,
+  "rating": 0.9166469,
+  "ratingCount": 6904,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

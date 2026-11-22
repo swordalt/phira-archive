@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:32Z",
-    "lastChanged": "2026-09-21T02:03:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-26T10:49:52.424670Z",
   "charter": "虎口中的小羊",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/50930609-eff0-4969-b414-5721defa4118",
+  "hidden": false,
   "id": 42782,
   "illustration": "https://phira.5wyxi.com/files/4f569d88-a600-491a-80f0-d374d17ad95b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "樱之子",
   "preview": "https://phira.5wyxi.com/files/07ed9240-82a8-4de5-8f76-aa0b65929f70",
   "ranked": false,
-  "rating": 0.9361496,
-  "ratingCount": 195,
+  "rating": 0.9360859,
+  "ratingCount": 205,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

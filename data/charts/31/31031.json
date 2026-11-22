@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:27Z",
-    "lastChanged": "2026-09-21T02:05:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-24T04:54:22.219225Z",
   "charter": "布偶猫猫黛安娜",
@@ -14,6 +14,7 @@
   "description": "新手练习",
   "difficulty": 7.0,
   "file": "https://phira.5wyxi.com/files/259dad6a-0a12-44c0-b897-747c36e6c5cb",
+  "hidden": false,
   "id": 31031,
   "illustration": "https://phira.5wyxi.com/files/f375cf5c-98ce-451a-8af9-bec0f8134eb1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "飞鸟说",
   "preview": "https://phira.5wyxi.com/files/cf9637fc-93fb-4bb5-8c31-94f89bac2564",
   "ranked": false,
-  "rating": 0.9675234,
-  "ratingCount": 1049,
+  "rating": 0.96684194,
+  "ratingCount": 1072,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

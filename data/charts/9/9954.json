@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:35Z",
-    "lastChanged": "2026-09-21T02:01:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-01T07:17:47.809284Z",
   "charter": "-白久拾楷- VS sacama",
@@ -14,6 +14,7 @@
   "description": "由本人上传 b站有账号",
   "difficulty": 15.9,
   "file": "https://phira.5wyxi.com/files/a2b3baa3-8811-47c1-ba89-b60cf82e6273",
+  "hidden": false,
   "id": 9954,
   "illustration": "https://phira.5wyxi.com/files/4e8fdc45-4e64-4fd1-a410-18579b945df3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Avantgarde",
   "preview": "https://phira.5wyxi.com/files/5953ee7a-381b-41f8-8df0-8f68104609b6",
   "ranked": false,
-  "rating": 0.8393654,
-  "ratingCount": 371,
+  "rating": 0.8383226,
+  "ratingCount": 373,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

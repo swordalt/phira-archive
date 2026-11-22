@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:58Z",
-    "lastChanged": "2026-09-21T02:05:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-13T06:07:00.470199Z",
   "charter": "Biralerie_化用品",
@@ -14,6 +14,7 @@
   "description": "Malody slide转谱",
   "difficulty": 13.699999,
   "file": "https://phira.5wyxi.com/files/a12d1686-e510-419a-8c51-b6deab2c7298",
+  "hidden": false,
   "id": 26108,
   "illustration": "https://phira.5wyxi.com/files/8db072fc-0835-456d-b642-baf5a8a302df",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ラグトレイン（延误列车）",
   "preview": "https://phira.5wyxi.com/files/440d2c8c-46fc-4ce0-ae62-36a5ff41a7e8",
   "ranked": false,
-  "rating": 0.93251395,
-  "ratingCount": 239,
+  "rating": 0.9300374,
+  "ratingCount": 245,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:23Z",
-    "lastChanged": "2026-09-21T02:04:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-20T15:44:27.711386Z",
   "charter": "αn Enderβone",
@@ -14,6 +14,7 @@
   "description": "本谱面为【CityTravel2026W】比赛精英联赛决赛供谱\n欢迎关注b站EnderBone_末地遗骨喵",
   "difficulty": 16.900003,
   "file": "https://phira.5wyxi.com/files/9664d188-effa-4314-a39b-54cb6df4a60b",
+  "hidden": false,
   "id": 53075,
   "illustration": "https://phira.5wyxi.com/files/a039ae66-14b7-4911-bc0b-dfdb9b089e69",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "αterlβus (2025 Remaster)",
   "preview": "https://phira.5wyxi.com/files/59814986-073a-4523-ac3b-b8b77a0747be",
   "ranked": false,
-  "rating": 0.9369989,
-  "ratingCount": 525,
+  "rating": 0.9386552,
+  "ratingCount": 542,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:32Z",
-    "lastChanged": "2026-09-21T02:02:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-10T02:25:43.048797Z",
   "charter": "みかげ＆Spica",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.600002,
   "file": "https://phira.5wyxi.com/files/45d8c38f-8b5e-4383-b1eb-581c1fbd58bc",
+  "hidden": false,
   "id": 25818,
   "illustration": "https://phira.5wyxi.com/files/f866e787-7b15-4e2e-b169-57872644b408",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "蛍はいなかった（初音未来.ver）",
   "preview": "https://phira.5wyxi.com/files/8ddc1cd0-018b-4620-a332-b50071ea1414",
   "ranked": true,
-  "rating": 0.8927654,
-  "ratingCount": 2956,
+  "rating": 0.8908528,
+  "ratingCount": 3450,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

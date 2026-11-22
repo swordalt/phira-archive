@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:58Z",
-    "lastChanged": "2026-09-21T02:06:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-23T16:06:02.532078Z",
   "charter": "xmm_LXCDEF",
@@ -14,6 +14,7 @@
   "description": "第一次写这种正常的4k谱\n还请见谅qwq\n谱面视频：BV18UKs6MEox\n顺便这是最后在phira传的4k谱",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/7dcdd5f4-82a5-49db-959a-30fdba2d1ed3",
+  "hidden": false,
   "id": 68742,
   "illustration": "https://phira.5wyxi.com/files/070ef186-2664-4459-9d43-cc46b50703d8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "天照らす律動",
   "preview": "https://phira.5wyxi.com/files/027f60df-7fd1-4d1d-9597-9cf2e58b58ed",
   "ranked": false,
-  "rating": 0.8889167,
-  "ratingCount": 52,
+  "rating": 0.9029425,
+  "ratingCount": 65,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

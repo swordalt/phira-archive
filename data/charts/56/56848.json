@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:38Z",
-    "lastChanged": "2026-09-21T02:04:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-21T13:00:34.754111Z",
   "charter": "ガラスの草",
@@ -14,6 +14,7 @@
   "description": "曲名：Sendan Life(Katagiri Bootleg)\n作曲：かたぎり/花守ゆみり\n谱师：ガラスの草\n难度：AT Lv.18\n本人上传，视频号BV1JDdrBREyR",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/00595e6f-5fd7-4ccd-afca-64e2dd345527",
+  "hidden": false,
   "id": 56848,
   "illustration": "https://phira.5wyxi.com/files/80307469-b89b-4636-a429-b60ac7a6ee29",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sendan Life(Katagiri Bootleg)",
   "preview": "https://phira.5wyxi.com/files/6089d596-7ac2-4d93-b747-81c4c7971363",
   "ranked": false,
-  "rating": 0.9104784,
-  "ratingCount": 282,
+  "rating": 0.91032356,
+  "ratingCount": 291,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:42Z",
-    "lastChanged": "2026-09-21T02:06:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-07T05:21:17.995331Z",
   "charter": "Jiuwenzi",
@@ -14,6 +14,7 @@
   "description": "神秘sapmle beta单曲4",
   "difficulty": 11.9,
   "file": "https://phira.5wyxi.com/files/74a45ccb-7935-47a8-92e1-60a8b5135053",
+  "hidden": false,
   "id": 49941,
   "illustration": "https://phira.5wyxi.com/files/21f0f0db-4543-4150-81d4-5422d454e517",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sakazuki",
   "preview": "https://phira.5wyxi.com/files/df72e5d8-560a-44e7-8665-d08d84700c14",
   "ranked": false,
-  "rating": 0.95418864,
-  "ratingCount": 204,
+  "rating": 0.95538336,
+  "ratingCount": 226,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

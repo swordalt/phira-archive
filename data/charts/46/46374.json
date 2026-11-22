@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:49Z",
-    "lastChanged": "2026-09-21T02:03:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-21T06:32:38.416976Z",
   "charter": "mxy",
@@ -14,6 +14,7 @@
   "description": "由哔哩哔哩@某轩哟本人上传",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/bb46c41f-e99e-4711-ae4a-a85783dc46a7",
+  "hidden": false,
   "id": 46374,
   "illustration": "https://phira.5wyxi.com/files/651f2a6b-b323-4cdf-bac7-41b7b5c01e92",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "eastward",
   "preview": "https://phira.5wyxi.com/files/863be383-acb2-45f4-9a58-fb8714f27f06",
   "ranked": true,
-  "rating": 0.9249909,
-  "ratingCount": 650,
+  "rating": 0.92520696,
+  "ratingCount": 669,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:02Z",
-    "lastChanged": "2026-09-21T02:05:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-22T08:59:35.978697Z",
   "charter": "小球",
@@ -14,6 +14,7 @@
   "description": "新手第一次零速度绑线",
   "difficulty": 13.200001,
   "file": "https://phira.5wyxi.com/files/03bbe753-fe03-4fa4-92b7-e49de3dc3e91",
+  "hidden": false,
   "id": 68398,
   "illustration": "https://phira.5wyxi.com/files/4a33ec2c-e9eb-428c-b75e-455f49a8b82b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Life Goes On",
   "preview": "https://phira.5wyxi.com/files/aaeabc0a-11d7-4c04-b796-01348b2bab56",
   "ranked": false,
-  "rating": 0.9139194,
-  "ratingCount": 29887,
+  "rating": 0.9144004,
+  "ratingCount": 30949,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

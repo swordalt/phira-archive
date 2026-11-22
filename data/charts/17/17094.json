@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:03Z",
-    "lastChanged": "2026-09-21T02:02:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-13T08:27:53.507179Z",
   "charter": "Blane",
@@ -14,6 +14,7 @@
   "description": "本人一个人第一次做谱子qwq，希望可以给您们带来良好的游戏体验",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/591cfd28-9df7-4a41-a668-5437d815990e",
+  "hidden": false,
   "id": 17094,
   "illustration": "https://phira.5wyxi.com/files/91868eb8-96b0-4c3c-b572-c983d67b24cd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Peer Gynt",
   "preview": "https://phira.5wyxi.com/files/37b63b8f-b3f9-477d-b498-a3f97537fdea",
   "ranked": false,
-  "rating": 0.85441214,
-  "ratingCount": 156,
+  "rating": 0.8562547,
+  "ratingCount": 158,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

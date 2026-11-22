@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:03Z",
-    "lastChanged": "2026-09-21T02:06:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-08T20:09:18.719538Z",
   "charter": "VANDY",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.600002,
   "file": "https://phira.5wyxi.com/files/3e988772-ff93-4575-9aba-b3a6864395fd",
+  "hidden": false,
   "id": 29494,
   "illustration": "https://phira.5wyxi.com/files/a7f2b1dc-3efa-40e4-9be9-f65bab1485b5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "人マニア",
   "preview": "https://phira.5wyxi.com/files/c558be7f-c4f2-4f6a-8a69-c7e6e73c653b",
   "ranked": false,
-  "rating": 0.86074734,
-  "ratingCount": 44,
+  "rating": 0.86521596,
+  "ratingCount": 47,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

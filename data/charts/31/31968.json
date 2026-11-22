@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:56Z",
-    "lastChanged": "2026-09-21T02:02:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-18T01:55:41.868498Z",
   "charter": "Shun_2420.",
@@ -14,6 +14,7 @@
   "description": "谱面为谱师本人上传bilibili@shun_2420 如有问题欢迎指出\n前面简单，尾杀难\nphira评分零参考价值。",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/46e8d035-c899-43a3-a351-1aadffed3c5c",
+  "hidden": false,
   "id": 31968,
   "illustration": "https://phira.5wyxi.com/files/6c4bf153-3825-4df4-93cd-cedcad940b39",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ginevra",
   "preview": "https://phira.5wyxi.com/files/0b7e92d7-5e28-48b5-a83b-788304107df6",
   "ranked": false,
-  "rating": 0.833853,
-  "ratingCount": 79,
+  "rating": 0.83045346,
+  "ratingCount": 81,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

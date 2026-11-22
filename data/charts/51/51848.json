@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:17Z",
-    "lastChanged": "2026-09-21T02:04:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-31T01:59:33.915343Z",
   "charter": "-_Yihan_-",
@@ -14,6 +14,7 @@
   "description": "我也要写吗",
   "difficulty": 16.7,
   "file": "https://phira.5wyxi.com/files/46dcf2e5-0f52-433a-b88a-ba5d552d89d9",
+  "hidden": false,
   "id": 51848,
   "illustration": "https://phira.5wyxi.com/files/6ab9f3f5-dc49-43b0-a845-5683a02907a2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": ":3c",
   "preview": "https://phira.5wyxi.com/files/34359a9b-ef51-4e35-bdc7-8665afadfef1",
   "ranked": false,
-  "rating": 0.91502887,
-  "ratingCount": 298,
+  "rating": 0.91656774,
+  "ratingCount": 307,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

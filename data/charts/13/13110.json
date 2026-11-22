@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:46Z",
-    "lastChanged": "2026-09-21T02:01:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-31T15:50:07.303034Z",
   "charter": "Lunsford",
@@ -14,6 +14,7 @@
   "description": "初谱，不完善请见谅",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/d5ca7344-9636-4f4c-9207-ff96897f2dea",
+  "hidden": false,
   "id": 13110,
   "illustration": "https://phira.5wyxi.com/files/055e8dc6-405a-4ae4-9452-3a2206fa1a55",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Aurora",
   "preview": "https://phira.5wyxi.com/files/e5e90c79-22a9-424a-ab31-e7f6896ba2ea",
   "ranked": false,
-  "rating": 0.90989316,
-  "ratingCount": 910,
+  "rating": 0.9103106,
+  "ratingCount": 917,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

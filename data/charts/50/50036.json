@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:06Z",
-    "lastChanged": "2026-09-21T02:04:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-09T03:09:13.202282Z",
   "charter": "GT_Alpha",
@@ -14,6 +14,7 @@
   "description": "本人B站：GT_Alpha\n上传的第一张谱，希望大家喜欢",
   "difficulty": 16.800003,
   "file": "https://phira.5wyxi.com/files/5b175c4a-5e98-4033-a8ab-701c14516f85",
+  "hidden": false,
   "id": 50036,
   "illustration": "https://phira.5wyxi.com/files/06b0e53a-9578-4a50-8cf7-cc7c5624a837",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Heathenism dogma（异见学说）",
   "preview": "https://phira.5wyxi.com/files/290d1920-8e4d-4825-a30f-492a4bfd9ddb",
   "ranked": false,
-  "rating": 0.94057685,
-  "ratingCount": 523,
+  "rating": 0.9415573,
+  "ratingCount": 538,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

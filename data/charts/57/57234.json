@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:38Z",
-    "lastChanged": "2026-09-21T02:04:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-25T11:01:03.772603Z",
   "charter": "Decaplex",
@@ -14,6 +14,7 @@
   "description": "A song from boggio’s community.\n⚠️Jacket modified by me. I don’t own the original square audio cover.\nhttps://www.youtube.com/watch?v=l4NBCn5zy38",
   "difficulty": 13.800003,
   "file": "https://phira.5wyxi.com/files/bef6c638-dfbc-4bdf-98f5-1dcd01b0dd10",
+  "hidden": false,
   "id": 57234,
   "illustration": "https://phira.5wyxi.com/files/932f2894-a30b-423b-a8b3-d8ddbc78ce85",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "CALL OF THE HEIGHTS",
   "preview": "https://phira.5wyxi.com/files/f16c1d21-0715-4a38-9259-dd4f646c8126",
   "ranked": false,
-  "rating": 0.875767,
-  "ratingCount": 185,
+  "rating": 0.87864584,
+  "ratingCount": 191,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

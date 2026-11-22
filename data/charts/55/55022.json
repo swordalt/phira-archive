@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:33Z",
-    "lastChanged": "2026-09-21T02:04:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-04T13:46:42.657773Z",
   "charter": "Scroll Velocity-OVERLOAD-",
@@ -14,6 +14,7 @@
   "description": "本人上传 0thPecJam RG129 有修改",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/757257d1-133b-4748-b3c7-88004cc8aa04",
+  "hidden": false,
   "id": 55022,
   "illustration": "https://phira.5wyxi.com/files/0c87b668-a5f1-4243-8a63-3ee5a84927aa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Glacierfall (Park Remix)",
   "preview": "https://phira.5wyxi.com/files/f8a666ee-bb78-426b-afa9-a2dfed2b9a74",
   "ranked": false,
-  "rating": 0.8482777,
-  "ratingCount": 70,
+  "rating": 0.8598366,
+  "ratingCount": 75,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:22Z",
-    "lastChanged": "2026-09-21T02:04:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-16T07:52:20.004690Z",
   "charter": "soulful potato",
@@ -14,6 +14,7 @@
   "description": "Re_yapotato",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/6b3953bb-f121-408c-a416-34030980cd4b",
+  "hidden": false,
   "id": 52785,
   "illustration": "https://phira.5wyxi.com/files/664dfddf-d10d-4192-9f66-9c164d4f007e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "In Love",
   "preview": "https://phira.5wyxi.com/files/7e893781-1264-46f5-8f67-609d43aaf394",
   "ranked": false,
-  "rating": 0.9035869,
-  "ratingCount": 88,
+  "rating": 0.9059205,
+  "ratingCount": 96,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

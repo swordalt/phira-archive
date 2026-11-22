@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:15Z",
-    "lastChanged": "2026-09-21T02:03:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-01T03:15:56.979770Z",
   "charter": "ColourpOINT",
@@ -14,6 +14,7 @@
   "description": "BV1gHGhzXETA\n本人上传",
   "difficulty": 16.200005,
   "file": "https://phira.5wyxi.com/files/45414da0-6711-465e-8298-35beee24ef68",
+  "hidden": false,
   "id": 37157,
   "illustration": "https://phira.5wyxi.com/files/e45af3f9-4282-459d-b7b4-fbfc31efcd71",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "イガク",
   "preview": "https://phira.5wyxi.com/files/b4a8c3ef-d170-490d-aa46-702718fa1c76",
   "ranked": false,
-  "rating": 0.90099376,
-  "ratingCount": 553,
+  "rating": 0.90047115,
+  "ratingCount": 561,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

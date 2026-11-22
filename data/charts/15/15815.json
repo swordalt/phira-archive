@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:58Z",
-    "lastChanged": "2026-09-21T02:01:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-16T07:54:07.581232Z",
   "charter": "6thPecJam",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 14.1,
   "file": "https://phira.5wyxi.com/files/daea03a9-5f87-428c-8bd6-f87345541b7d",
+  "hidden": false,
   "id": 15815,
   "illustration": "https://phira.5wyxi.com/files/1bed6d17-e280-4e2a-abc7-3fd6bb7f566a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GRÄNDIR",
   "preview": "https://phira.5wyxi.com/files/19f30ef3-13ed-43f9-8282-f02cead4f6e1",
   "ranked": false,
-  "rating": 0.8736811,
-  "ratingCount": 187,
+  "rating": 0.87349194,
+  "ratingCount": 190,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:51Z",
-    "lastChanged": "2026-09-21T02:01:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-11T09:13:14.850929Z",
   "charter": "南瓜",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/1000c1ee-9e72-4412-b44e-a73db3fa3043",
+  "hidden": false,
   "id": 14451,
   "illustration": "https://phira.5wyxi.com/files/d5e964b9-2529-44f1-80ec-a1a8a6f9fb3c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "B.B.K.K.B.K.K.",
   "preview": "https://phira.5wyxi.com/files/32c8ae43-ad0a-4f9a-a22f-d6815d0d8562",
   "ranked": false,
-  "rating": 0.8908716,
-  "ratingCount": 690,
+  "rating": 0.89117724,
+  "ratingCount": 692,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

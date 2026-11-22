@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:20Z",
-    "lastChanged": "2026-09-21T02:02:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-29T09:04:24.457553Z",
   "charter": "Sangueve",
@@ -14,6 +14,7 @@
   "description": "新人初谱",
   "difficulty": 16.600002,
   "file": "https://phira.5wyxi.com/files/ee56dbc8-1c4b-4f71-988c-230eeb435ccf",
+  "hidden": false,
   "id": 22171,
   "illustration": "https://phira.5wyxi.com/files/a61616c0-42d9-4cea-8e3b-a28a5bc46c6c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "cyanine",
   "preview": "https://phira.5wyxi.com/files/cd716d20-bee9-48ba-9192-d589fb30f5da",
   "ranked": false,
-  "rating": 0.90046763,
-  "ratingCount": 566,
+  "rating": 0.9003048,
+  "ratingCount": 567,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

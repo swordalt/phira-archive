@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:56Z",
-    "lastChanged": "2026-09-21T02:01:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-12T11:53:13.491241Z",
   "charter": "sniper654hf",
@@ -14,6 +14,7 @@
   "description": "至审核：上次上传的有键在铺面外，修改完毕",
   "difficulty": 15.999994,
   "file": "https://phira.5wyxi.com/files/36058be6-18c6-471a-b6df-38625ddbdf82",
+  "hidden": false,
   "id": 15492,
   "illustration": "https://phira.5wyxi.com/files/136e647b-a7a8-43eb-b53b-1d08bb087c21",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "All My People",
   "preview": "https://phira.5wyxi.com/files/00de14a0-9124-4fdb-a449-fd42af9741d3",
   "ranked": false,
-  "rating": 0.6673699,
-  "ratingCount": 2754,
+  "rating": 0.6681416,
+  "ratingCount": 2773,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

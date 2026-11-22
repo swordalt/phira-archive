@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:07Z",
-    "lastChanged": "2026-09-21T02:07:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-07T12:17:42.765148Z",
   "charter": "sumuNC",
@@ -14,6 +14,7 @@
   "description": "尾杀颠了不改了龙币们凑合着打吧（乐）",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/70804a9b-c63e-4abf-bf36-f507241e9652",
+  "hidden": false,
   "id": 33511,
   "illustration": "https://phira.5wyxi.com/files/5cf52f05-e8cf-4b43-af2b-fb1000dfa365",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "野花香 (Haocore Mix)",
   "preview": "https://phira.5wyxi.com/files/268fee2d-3f83-4f44-9939-c7c109f12757",
   "ranked": false,
-  "rating": 0.89716125,
-  "ratingCount": 533,
+  "rating": 0.8987275,
+  "ratingCount": 547,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

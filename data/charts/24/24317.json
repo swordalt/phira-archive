@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:26Z",
-    "lastChanged": "2026-09-21T02:02:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-25T11:26:33.683252Z",
   "charter": "懒得写谱的鴿",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.600002,
   "file": "https://phira.5wyxi.com/files/e12c2243-73f8-4c9e-976b-92055283d2bb",
+  "hidden": false,
   "id": 24317,
   "illustration": "https://phira.5wyxi.com/files/4a25b982-c448-4402-aa26-638274f71c17",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "もペもペ",
   "preview": "https://phira.5wyxi.com/files/32fd1389-d71e-4903-8e2a-316519465685",
   "ranked": false,
-  "rating": 0.918828,
-  "ratingCount": 2853,
+  "rating": 0.9187976,
+  "ratingCount": 2887,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

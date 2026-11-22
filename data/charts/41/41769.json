@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:29Z",
-    "lastChanged": "2026-09-21T02:03:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-15T13:53:47.457123Z",
   "charter": "Unpaid_Emloyee",
@@ -14,6 +14,7 @@
   "description": "本人上傳",
   "difficulty": 17.800001,
   "file": "https://phira.5wyxi.com/files/5c970060-3743-42a6-986f-1bc50d4961b8",
+  "hidden": false,
   "id": 41769,
   "illustration": "https://phira.5wyxi.com/files/7318f52b-4c71-4d18-9410-64402841036e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "BUZZ CUTZ",
   "preview": "https://phira.5wyxi.com/files/c51808be-9a8d-448a-ab10-a55c566698da",
   "ranked": false,
-  "rating": 0.79208815,
-  "ratingCount": 132,
+  "rating": 0.79743683,
+  "ratingCount": 137,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

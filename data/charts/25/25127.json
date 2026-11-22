@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:29Z",
-    "lastChanged": "2026-09-21T02:02:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-03T05:45:51.251628Z",
   "charter": "芥末！",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/d8e6ae70-a53d-4a8a-abf9-0157e746c88f",
+  "hidden": false,
   "id": 25127,
   "illustration": "https://phira.5wyxi.com/files/28beaefe-5cef-4ad5-8d0d-06d10f3ad230",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "+ERABY+ECONNEC+10N",
   "preview": "https://phira.5wyxi.com/files/1d9e9cf7-3e6c-48f9-97c5-d36c87d1d3ed",
   "ranked": false,
-  "rating": 0.815875,
-  "ratingCount": 177,
+  "rating": 0.81682533,
+  "ratingCount": 179,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

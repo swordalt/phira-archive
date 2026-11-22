@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:56Z",
-    "lastChanged": "2026-09-21T02:04:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-09T05:14:03.228223Z",
   "charter": "脱碳甲醛CH2O",
@@ -14,6 +14,7 @@
   "description": "第二次做谱，如有缺点请见谅   B站：脱碳甲醛- HIRA",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/39b5327c-aab0-4948-81d2-ab10a4e471b6",
+  "hidden": false,
   "id": 65161,
   "illustration": "https://phira.5wyxi.com/files/9f3d6eb3-ecad-4a60-93ec-2b04a22a5938",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Windy Hill",
   "preview": "https://phira.5wyxi.com/files/11da7fd3-7056-4100-bab6-ad47ff7cb262",
   "ranked": false,
-  "rating": 0.8644053,
-  "ratingCount": 864,
+  "rating": 0.8710901,
+  "ratingCount": 958,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

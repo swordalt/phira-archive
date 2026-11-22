@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:39Z",
-    "lastChanged": "2026-09-21T02:02:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-14T09:56:26.392024Z",
   "charter": "Cloudli respects Yeewo",
@@ -14,6 +14,7 @@
   "description": "本人上传，视频BV1cGHEePE7j\n7thPecJam活动供谱，修改部分内容，并统一谱师名义",
   "difficulty": 13.6,
   "file": "https://phira.5wyxi.com/files/08aade57-4744-431b-bc15-623bbc10196d",
+  "hidden": false,
   "id": 27352,
   "illustration": "https://phira.5wyxi.com/files/867b222c-0a1d-450a-8df7-b9d38f93a0aa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fly To Meteor",
   "preview": "https://phira.5wyxi.com/files/fe2c2061-ec89-428a-9dad-3e1051509262",
   "ranked": false,
-  "rating": 0.93337727,
-  "ratingCount": 506,
+  "rating": 0.93238026,
+  "ratingCount": 514,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

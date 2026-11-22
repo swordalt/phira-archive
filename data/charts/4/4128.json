@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:17Z",
-    "lastChanged": "2026-09-21T02:01:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-26T12:58:37.546111Z",
   "charter": "SnapDot",
@@ -14,6 +14,7 @@
   "description": "新人第三次写谱\n相关视频已上传b站\n已修改2次",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/9caef937-df37-47fc-b307-4d05b686699a",
+  "hidden": false,
   "id": 4128,
   "illustration": "https://phira.5wyxi.com/files/d13fdfa5-9085-421e-be6e-934cacad79d3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Power Attack",
   "preview": "https://phira.5wyxi.com/files/bf54d7fd-1642-468e-ab5b-9bef95a942ed",
   "ranked": false,
-  "rating": 0.78800386,
-  "ratingCount": 311,
+  "rating": 0.7885023,
+  "ratingCount": 312,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

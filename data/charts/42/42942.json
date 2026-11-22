@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:33Z",
-    "lastChanged": "2026-09-21T02:03:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-28T07:11:50.834752Z",
   "charter": "MZDDZMQY",
@@ -14,6 +14,7 @@
   "description": "初寻杯供谱",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/39530883-478c-49d0-8da0-98d2b25b4bca",
+  "hidden": false,
   "id": 42942,
   "illustration": "https://phira.5wyxi.com/files/73239906-30db-42b9-8372-9cd0cb16d833",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Grin",
   "preview": "https://phira.5wyxi.com/files/e3e97db6-e0a6-4eb9-ba79-d60d100fcd7f",
   "ranked": false,
-  "rating": 0.92302495,
-  "ratingCount": 281,
+  "rating": 0.9219328,
+  "ratingCount": 289,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

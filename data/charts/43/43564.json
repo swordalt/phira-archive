@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:36Z",
-    "lastChanged": "2026-09-21T02:03:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-03T08:41:06.304898Z",
   "charter": "Ars Goetiaからの挑戦状",
@@ -14,6 +14,7 @@
   "description": "该谱面为【云梦•始源】比赛供谱\n首次登场于A区决赛\nKenny负责了全曲的配置，我负责前半的特效，无叶负责后半的特效\n————————————————\n曲名：Lemegeton -little key of solomon-\n曲师：Team Grimoire vs MASAKI\n谱师：Ars Goetiaからの挑戦状（Karlott + WinterPT + 无叶）\n难度：IN Lv.16\n物量：1395\n\n@Karlott#44 @_无叶_#540194",
   "difficulty": 16.600002,
   "file": "https://phira.5wyxi.com/files/f2966202-d40b-4676-95aa-6f3f319fa72f",
+  "hidden": false,
   "id": 43564,
   "illustration": "https://phira.5wyxi.com/files/e2f2e467-db22-463b-9261-89d8fc58822f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lemegeton -little key of solomon-",
   "preview": "https://phira.5wyxi.com/files/193de916-2fa4-4bf7-8c21-f6eb3ecee87b",
   "ranked": true,
-  "rating": 0.92501533,
-  "ratingCount": 1175,
+  "rating": 0.9251264,
+  "ratingCount": 1213,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

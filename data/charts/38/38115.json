@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:15Z",
-    "lastChanged": "2026-09-21T02:06:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-16T04:03:14.058760Z",
   "charter": "Done_yumo",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/05e9635f-afc9-41c0-89f4-5832d5cde7c3",
+  "hidden": false,
   "id": 38115,
   "illustration": "https://phira.5wyxi.com/files/c7618103-a248-434e-881c-457229aeb437",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Contrasty Angeles",
   "preview": "https://phira.5wyxi.com/files/9544fabf-7329-4c30-98bd-055f4d401f60",
   "ranked": false,
-  "rating": 0.9303511,
-  "ratingCount": 62,
+  "rating": 0.9313976,
+  "ratingCount": 63,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

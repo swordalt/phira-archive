@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:11Z",
-    "lastChanged": "2026-09-21T02:04:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-09T05:18:43.871795Z",
   "charter": "消失的光钰",
@@ -14,6 +14,7 @@
   "description": "本人上传（B站@消失的光钰），由于账号受限制暂时无法再上传音游视频，敬请谅解",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/392c340d-704d-4860-955b-305fb00ca45a",
+  "hidden": false,
   "id": 51094,
   "illustration": "https://phira.5wyxi.com/files/93332401-c9df-4e31-8c73-eddfda5c02f0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "イニシャル",
   "preview": "https://phira.5wyxi.com/files/8c87f17f-3e61-4652-9dfb-ab178e6ffa2d",
   "ranked": false,
-  "rating": 0.87132466,
-  "ratingCount": 71,
+  "rating": 0.8576583,
+  "ratingCount": 83,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

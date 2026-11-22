@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:42Z",
-    "lastChanged": "2026-09-21T02:02:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-03T02:03:14.654258Z",
   "charter": "YanY",
@@ -14,6 +14,7 @@
   "description": "本人上传，非常规谱面，B站@超爱吃盐的盐盐",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/d2e98665-5680-4afa-bc71-363acdadac12",
+  "hidden": false,
   "id": 28265,
   "illustration": "https://phira.5wyxi.com/files/48a1e245-1bdd-4149-b214-cc7afeab7219",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bangarang (feat. Sirah)",
   "preview": "https://phira.5wyxi.com/files/fb8bcb0e-fb02-4a99-918c-b40dde5aea7a",
   "ranked": false,
-  "rating": 0.90833604,
-  "ratingCount": 252,
+  "rating": 0.9107144,
+  "ratingCount": 264,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

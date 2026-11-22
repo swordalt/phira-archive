@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:48Z",
-    "lastChanged": "2026-09-21T02:05:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-05T13:55:26.716853Z",
   "charter": "AuroraP",
@@ -14,6 +14,7 @@
   "description": "Alpha，其实是给sp1的。可惜换成了别的",
   "difficulty": 11.0,
   "file": "https://phira.5wyxi.com/files/9636b2ba-4f51-48f4-9207-ba68a326daf1",
+  "hidden": false,
   "id": 20809,
   "illustration": "https://phira.5wyxi.com/files/70a27a18-a253-43e3-88a2-fd49b5391c9e",
   "illustrator": "",

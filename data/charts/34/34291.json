@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:05Z",
-    "lastChanged": "2026-09-21T02:03:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-22T04:54:08.706570Z",
   "charter": "FreMo vs. 影子蛋",
@@ -14,6 +14,7 @@
   "description": "本人上传 谱师：FreMo vs 影子蛋",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/9971424a-85a6-40d9-97e6-6cd4e6714b0d",
+  "hidden": false,
   "id": 34291,
   "illustration": "https://phira.5wyxi.com/files/b8ac23aa-43b0-4547-8644-2a8baf95e40b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GASHATT",
   "preview": "https://phira.5wyxi.com/files/7c7962ae-7f16-4e3a-a60e-c27c86e72dba",
   "ranked": false,
-  "rating": 0.9508893,
-  "ratingCount": 95,
+  "rating": 0.9520047,
+  "ratingCount": 97,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

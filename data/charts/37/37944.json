@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:17Z",
-    "lastChanged": "2026-09-21T02:03:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-11T05:10:35.410154Z",
   "charter": "YuRan",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/50272130-39bc-4b4d-87d8-db95b61bfbf0",
+  "hidden": false,
   "id": 37944,
   "illustration": "https://phira.5wyxi.com/files/9c406cd8-aa73-4584-b599-2dfc03b243c4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fragrance",
   "preview": "https://phira.5wyxi.com/files/d31ad998-1934-4891-8660-554382338d26",
   "ranked": false,
-  "rating": 0.8305686,
-  "ratingCount": 73,
+  "rating": 0.8309031,
+  "ratingCount": 76,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

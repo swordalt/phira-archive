@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:38Z",
-    "lastChanged": "2026-09-21T02:06:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-19T01:50:34.078926Z",
   "charter": "14514104玩玩",
@@ -14,6 +14,7 @@
   "description": "上传的第一，二次都出BUG了，再试一次",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/defc8cea-9c8a-4dcc-98b6-10b5ec9ac0c7",
+  "hidden": false,
   "id": 48196,
   "illustration": "https://phira.5wyxi.com/files/4cacc6f2-7223-4249-8169-856876764ed8",
   "illustrator": "",

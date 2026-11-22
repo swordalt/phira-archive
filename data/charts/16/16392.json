@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:00Z",
-    "lastChanged": "2026-09-21T02:02:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-24T01:50:17.174802Z",
   "charter": "tiramisuya",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.8,
   "file": "https://phira.5wyxi.com/files/0386d851-4c00-4abf-8503-add9f15122fc",
+  "hidden": false,
   "id": 16392,
   "illustration": "https://phira.5wyxi.com/files/46a1bced-1a56-4c09-b750-60de7f424036",
   "illustrator": "",

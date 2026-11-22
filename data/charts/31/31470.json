@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:55Z",
-    "lastChanged": "2026-09-21T02:02:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-05T12:43:34.012579Z",
   "charter": "XfYang",
@@ -14,6 +14,7 @@
   "description": "新人初铺",
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/ce821fa8-1ae4-408f-b150-4873a964adcf",
+  "hidden": false,
   "id": 31470,
   "illustration": "https://phira.5wyxi.com/files/135b913e-1771-4516-abda-398fa1fba83a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Latent Kingdom",
   "preview": "https://phira.5wyxi.com/files/8d561ed6-f44c-48cb-aa9a-b9c00df2c50c",
   "ranked": false,
-  "rating": 0.6111638,
-  "ratingCount": 99,
+  "rating": 0.6109326,
+  "ratingCount": 100,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

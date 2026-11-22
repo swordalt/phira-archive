@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:00Z",
-    "lastChanged": "2026-09-21T02:07:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-19T09:30:48.453449Z",
   "charter": "Jiuwenzi",
@@ -14,6 +14,7 @@
   "description": "@Jiuwenzi#1997470（配置）\n谱师本人上传\n1232/2868\nstacc=98.16\n本谱作为RW音游战队DFC普考曲目\n审：1105248898",
   "difficulty": 11.500002,
   "file": "https://phira.5wyxi.com/files/8bf51ece-8ec4-486f-9516-a71f6420470f",
+  "hidden": false,
   "id": 74388,
   "illustration": "https://phira.5wyxi.com/files/0a9cccdb-d9ac-4ade-8a7f-ed7776ad505c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "TearJerker",
   "preview": "https://phira.5wyxi.com/files/639b5475-e968-4aec-b38c-955d8f7c92a2",
   "ranked": false,
-  "rating": 0.90939415,
-  "ratingCount": 166,
+  "rating": 0.9198499,
+  "ratingCount": 204,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

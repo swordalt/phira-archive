@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:38Z",
-    "lastChanged": "2026-09-21T02:04:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-19T05:36:33.610936Z",
   "charter": "无解",
@@ -14,6 +14,7 @@
   "description": "0thPecJam参赛作品，编号RG45，谱面已微调",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/ed033624-d217-4813-beb1-f502ac2e7425",
+  "hidden": false,
   "id": 56723,
   "illustration": "https://phira.5wyxi.com/files/cb4708e4-bc1c-44f5-9e7c-1486d36f8bb7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Cutter",
   "preview": "https://phira.5wyxi.com/files/8d3f9743-58bb-46a2-81e2-fb5a90f6c4f1",
   "ranked": false,
-  "rating": 0.9404694,
-  "ratingCount": 750,
+  "rating": 0.94063836,
+  "ratingCount": 786,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

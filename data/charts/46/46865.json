@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:51Z",
-    "lastChanged": "2026-09-21T02:03:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-15T09:07:31.243235Z",
   "charter": "潭底鱼PondFish",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/1c7e73b1-e605-4fdb-9bec-661e4b89fdc7",
+  "hidden": false,
   "id": 46865,
   "illustration": "https://phira.5wyxi.com/files/fff5b0c9-c72d-4c47-88ed-85750feb3ef1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fine Logic",
   "preview": "https://phira.5wyxi.com/files/a77ba9ec-e080-40fc-891e-6ce354277878",
   "ranked": false,
-  "rating": 0.91500264,
-  "ratingCount": 53,
+  "rating": 0.9164768,
+  "ratingCount": 54,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

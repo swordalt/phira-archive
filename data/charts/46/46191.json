@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:31Z",
-    "lastChanged": "2026-09-21T02:05:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-31T02:58:34.722276Z",
   "charter": "5201314114514",
@@ -14,6 +14,7 @@
   "description": "本人铺师发布",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/39c38501-705b-4426-8b75-ce6e358722c4",
+  "hidden": false,
   "id": 46191,
   "illustration": "https://phira.5wyxi.com/files/7a6c7a80-d50d-42b3-b678-904f9d8cc2f4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "拼好剧",
   "preview": "https://phira.5wyxi.com/files/edd06b7d-ee26-4367-af20-409f0f53436a",
   "ranked": false,
-  "rating": 0.82091063,
-  "ratingCount": 1082,
+  "rating": 0.81996644,
+  "ratingCount": 1205,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

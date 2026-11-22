@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:41Z",
-    "lastChanged": "2026-09-21T02:05:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-25T06:52:06.646910Z",
   "charter": "SKYUNTARXICE",
@@ -14,6 +14,7 @@
   "description": "一张普通的5k谱",
   "difficulty": 30.0,
   "file": "https://phira.5wyxi.com/files/00ef64e6-ac69-4628-b6aa-10c8cd343b9f",
+  "hidden": false,
   "id": 14112,
   "illustration": "https://phira.5wyxi.com/files/ce186732-8202-492a-a328-360f01eaac6b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Tojita Sekai",
   "preview": "https://phira.5wyxi.com/files/59c0e3c4-0ed9-4223-abf4-3b78320a4843",
   "ranked": false,
-  "rating": 0.94831103,
-  "ratingCount": 417,
+  "rating": 0.9493545,
+  "ratingCount": 429,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

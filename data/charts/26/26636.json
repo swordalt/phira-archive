@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:36Z",
-    "lastChanged": "2026-09-21T02:02:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-21T00:17:49.958440Z",
   "charter": "MZDDZMQY",
@@ -14,6 +14,7 @@
   "description": "3rdWJC No.13",
   "difficulty": 18.000008,
   "file": "https://phira.5wyxi.com/files/48aed895-d536-4bc3-bca9-7ff150852b15",
+  "hidden": false,
   "id": 26636,
   "illustration": "https://phira.5wyxi.com/files/82811f5d-3385-46dc-9940-4451658f41eb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ultimate Force",
   "preview": "https://phira.5wyxi.com/files/777ddec5-a481-44ee-9cf6-42fbb4bc3c7b",
   "ranked": false,
-  "rating": 0.88228637,
-  "ratingCount": 260,
+  "rating": 0.8819897,
+  "ratingCount": 267,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

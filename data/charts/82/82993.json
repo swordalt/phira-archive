@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-04T17:07:23Z",
-    "lastChanged": "2026-11-04T23:34:55Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:31Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-11-04T05:54:15.095004Z",
   "charter": "Succubus Diva",
@@ -14,6 +14,7 @@
   "description": "本人上传，b站@叶子林233 ，Phira用户#10068",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/ad40ae8b-a648-4f1b-88b5-e52ed1fc5b1d",
+  "hidden": false,
   "id": 82993,
   "illustration": "https://phira.5wyxi.com/files/fc3b3665-2563-4307-9a03-ecf59461ce69",
   "illustrator": "©SEGA",
@@ -21,14 +22,14 @@
   "name": "Disruptor Array",
   "preview": "https://phira.5wyxi.com/files/867efbc6-fe1f-4dfb-b068-2aefd0b79893",
   "ranked": false,
-  "rating": 0.8150344,
-  "ratingCount": 0,
+  "rating": 0.9045015,
+  "ratingCount": 172,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-04T14:25:01.020834104Z",
+  "updated": "2026-11-04T14:25:01.020834Z",
   "uploader": 10068
 }

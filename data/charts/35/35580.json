@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:09Z",
-    "lastChanged": "2026-09-21T02:03:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-22T15:56:32.373053Z",
   "charter": "bilibili名字真的太难取了c/bilibili好大德疯_",
@@ -14,6 +14,7 @@
   "description": "仿冰火的一个铺面（铺师本人上传）",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/675f23ac-3b58-48f8-aa79-f656c623c1d9",
+  "hidden": false,
   "id": 35580,
   "illustration": "https://phira.5wyxi.com/files/8be20edd-6fe3-4fc1-bcc1-2d5418dc7729",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MemoryLocked",
   "preview": "https://phira.5wyxi.com/files/4f58532d-06bd-4468-8726-c17c3afabb84",
   "ranked": false,
-  "rating": 0.9068123,
-  "ratingCount": 187,
+  "rating": 0.909688,
+  "ratingCount": 193,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

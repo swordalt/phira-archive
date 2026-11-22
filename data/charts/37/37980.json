@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:17Z",
-    "lastChanged": "2026-09-21T02:03:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-11T11:08:44.390629Z",
   "charter": "風見沢の第二の選択",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 7.899999,
   "file": "https://phira.5wyxi.com/files/db780c26-075b-46ac-b7d3-2efd13f5279e",
+  "hidden": false,
   "id": 37980,
   "illustration": "https://phira.5wyxi.com/files/81d62561-2d0f-4583-982f-84b301dd6ba3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "第二选择 (Second Choice)",
   "preview": "https://phira.5wyxi.com/files/aef69b7a-f582-40fa-840d-2717ded556e1",
   "ranked": false,
-  "rating": 0.7857983,
-  "ratingCount": 44,
+  "rating": 0.79029036,
+  "ratingCount": 45,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

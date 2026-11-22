@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:14Z",
-    "lastChanged": "2026-09-21T02:06:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-10T12:40:14.114067Z",
   "charter": "匿名&匿名",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/f229a719-69ad-46df-b0b8-415419ee886d",
+  "hidden": false,
   "id": 37906,
   "illustration": "https://phira.5wyxi.com/files/7926810f-1e41-456c-84b1-936e5aa34b25",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lost Requiem",
   "preview": "https://phira.5wyxi.com/files/ea49d69d-1937-4461-ba27-89a30e921d38",
   "ranked": false,
-  "rating": 0.9298733,
-  "ratingCount": 62,
+  "rating": 0.9305135,
+  "ratingCount": 64,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

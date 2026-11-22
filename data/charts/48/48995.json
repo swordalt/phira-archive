@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:02Z",
-    "lastChanged": "2026-09-21T02:04:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-11T04:43:18.087515Z",
   "charter": "RS֎FF",
@@ -14,6 +14,7 @@
   "description": "要研究的键盘谱，曲名特殊符号phira显示不出来",
   "difficulty": 17.300001,
   "file": "https://phira.5wyxi.com/files/90b7caa5-f145-4569-bef5-94937f84440b",
+  "hidden": false,
   "id": 48995,
   "illustration": "https://phira.5wyxi.com/files/50ece036-5954-4e04-8a5f-635fa2f56d36",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "百鬼֎夜行",
   "preview": "https://phira.5wyxi.com/files/62797684-73fb-48d4-9f9f-e4602ee0988d",
   "ranked": false,
-  "rating": 0.92357343,
-  "ratingCount": 830,
+  "rating": 0.92375535,
+  "ratingCount": 841,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:25Z",
-    "lastChanged": "2026-09-21T02:02:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-19T10:59:01.952969Z",
   "charter": "suik vs. 煎饼",
@@ -14,6 +14,7 @@
   "description": "合作谱，经交流由我负责上传。",
   "difficulty": 15.299998,
   "file": "https://phira.5wyxi.com/files/3e378e4c-780d-4c31-9da0-e92a1e4d6cd0",
+  "hidden": false,
   "id": 23826,
   "illustration": "https://phira.5wyxi.com/files/9d1262bf-7ce2-4dc1-b692-ce04afcf14ec",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "nameless story",
   "preview": "https://phira.5wyxi.com/files/1fb49d4f-17f3-45f3-a112-6bb90a7b82f2",
   "ranked": false,
-  "rating": 0.92478,
-  "ratingCount": 282,
+  "rating": 0.92470366,
+  "ratingCount": 283,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

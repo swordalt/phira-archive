@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:16Z",
-    "lastChanged": "2026-09-21T02:05:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-12T05:51:23.835946Z",
   "charter": "YSTAR-T",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nLucky Number\n使用可漏音游扩图模板\n定数 16.3\n物量 1388\r\n9.12日更新:交互键型整改,爆发段降低难度",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/a4393128-c352-4478-973d-a93eee981164",
+  "hidden": false,
   "id": 77787,
   "illustration": "https://phira.5wyxi.com/files/e8d4aba9-8d97-46ee-9826-7b306374f56c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "777",
   "preview": "https://phira.5wyxi.com/files/66bbba59-7b84-443f-980c-3c25d841ec61",
   "ranked": false,
-  "rating": 0.93266153,
-  "ratingCount": 227,
+  "rating": 0.9336588,
+  "ratingCount": 357,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

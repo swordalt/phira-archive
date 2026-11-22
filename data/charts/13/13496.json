@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:48Z",
-    "lastChanged": "2026-09-21T02:01:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-12T09:11:03.533342Z",
   "charter": "君翌",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 14.100001,
   "file": "https://phira.5wyxi.com/files/6ebeace9-f997-4e63-bfe7-6df8e7f6f5d9",
+  "hidden": false,
   "id": 13496,
   "illustration": "https://phira.5wyxi.com/files/3c2c7928-d603-4f2a-98ee-56cb51dcc75d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "神のまにまに",
   "preview": "https://phira.5wyxi.com/files/577ed127-7a3c-45db-92e5-47df42bbe7d7",
   "ranked": false,
-  "rating": 0.9561138,
-  "ratingCount": 18380,
+  "rating": 0.9562038,
+  "ratingCount": 18730,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

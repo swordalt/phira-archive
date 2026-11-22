@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:11Z",
-    "lastChanged": "2026-09-21T02:04:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-09T15:06:47.153789Z",
   "charter": "SHOXQUACH",
@@ -14,6 +14,7 @@
   "description": "节奏医生第二章夜晚Boss\t（有人知道为什么游玩的时候到曲目后面音质会爆炸吗0",
   "difficulty": 15.200005,
   "file": "https://phira.5wyxi.com/files/69b44a28-e238-41be-a1fa-0c067906f4a9",
+  "hidden": false,
   "id": 51118,
   "illustration": "https://phira.5wyxi.com/files/d08ba974-ed14-47c8-9f96-c626cd6fd91f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bitter Times",
   "preview": "https://phira.5wyxi.com/files/a6fe3180-6e9f-4c67-a097-df524c1d45d9",
   "ranked": false,
-  "rating": 0.8550068,
-  "ratingCount": 66,
+  "rating": 0.8556441,
+  "ratingCount": 67,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

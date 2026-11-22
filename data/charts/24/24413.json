@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:56Z",
-    "lastChanged": "2026-09-21T02:05:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-26T12:18:06.984398Z",
   "charter": "晨旭",
@@ -14,6 +14,7 @@
   "description": "用malody写的，通过使用@起名钉子户（bilibili）的转铺工具制作",
   "difficulty": 16.500002,
   "file": "https://phira.5wyxi.com/files/680e611a-1171-4033-ba55-44aa74fa2a45",
+  "hidden": false,
   "id": 24413,
   "illustration": "https://phira.5wyxi.com/files/272ea882-5a7b-45cd-9fad-3a7ef0520ebb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Inverted World",
   "preview": "https://phira.5wyxi.com/files/a1ce77b5-4e0c-4f89-96a9-bca15496c71d",
   "ranked": false,
-  "rating": 0.79655415,
-  "ratingCount": 166,
+  "rating": 0.80017793,
+  "ratingCount": 169,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

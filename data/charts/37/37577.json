@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:16Z",
-    "lastChanged": "2026-09-21T02:03:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-05T01:56:27.304013Z",
   "charter": "1737283010",
@@ -14,6 +14,7 @@
   "description": "本人创作",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/7a9afe6b-b085-4a54-9e08-67e99f508906",
+  "hidden": false,
   "id": 37577,
   "illustration": "https://phira.5wyxi.com/files/1450dc92-daf7-41c7-a9f3-8a8c3423be0c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Samsara",
   "preview": "https://phira.5wyxi.com/files/6edc094e-b155-4f03-9691-d7e0e74dff94",
   "ranked": false,
-  "rating": 0.8322919,
-  "ratingCount": 110,
+  "rating": 0.8355351,
+  "ratingCount": 121,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

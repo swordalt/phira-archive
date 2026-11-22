@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:06Z",
-    "lastChanged": "2026-09-21T02:04:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-13T13:42:52.718574Z",
   "charter": "S-N-O-W",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/7653d897-dd9a-484e-bcc3-30f4c765e24c",
+  "hidden": false,
   "id": 50179,
   "illustration": "https://phira.5wyxi.com/files/ade5d6aa-68de-4cde-bbfe-5a0a7ec26675",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "破釜沉舟",
   "preview": "https://phira.5wyxi.com/files/b3ff6490-f3b9-4be8-bda5-b92f5a3c1829",
   "ranked": false,
-  "rating": 0.8791344,
-  "ratingCount": 68,
+  "rating": 0.87784475,
+  "ratingCount": 75,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

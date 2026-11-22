@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:01Z",
-    "lastChanged": "2026-09-21T02:04:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-03T13:04:31.039Z",
   "charter": "酷炫神海纪青龙",
@@ -14,6 +14,7 @@
   "description": "本谱于11月3日晚上经过修改了，小心全程交叉交互！",
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/df9a3438-9b19-4f96-8c3c-0f738ca66003",
+  "hidden": false,
   "id": 48748,
   "illustration": "https://phira.5wyxi.com/files/75756f94-4c0e-4731-96a8-ebb79c2b5043",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "青丝",
   "preview": "https://phira.5wyxi.com/files/2ddfebf1-2eb9-4f81-b4cf-7401fa13e463",
   "ranked": false,
-  "rating": 0.8228221,
-  "ratingCount": 1259,
+  "rating": 0.82377464,
+  "ratingCount": 1385,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

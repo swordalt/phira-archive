@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:05Z",
-    "lastChanged": "2026-09-21T02:02:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-30T01:38:34.932735Z",
   "charter": "MnO₂（FTang_87）",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/21b45bbe-ee2d-4bf5-932f-6e537162c5f3",
+  "hidden": false,
   "id": 17703,
   "illustration": "https://phira.5wyxi.com/files/ffe30c74-03f4-4b7b-b49f-cbb2658ccdc5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Good bye,Merry-Go-Round.",
   "preview": "https://phira.5wyxi.com/files/94318b0e-8951-4aab-a867-41e206ab7cfc",
   "ranked": false,
-  "rating": 0.7815279,
-  "ratingCount": 205,
+  "rating": 0.78221905,
+  "ratingCount": 208,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

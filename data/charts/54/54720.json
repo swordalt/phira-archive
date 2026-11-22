@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:49Z",
-    "lastChanged": "2026-09-21T02:06:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-29T07:32:55.506968Z",
   "charter": "fminusone at cafe in 6412I731V",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 19.0,
   "file": "https://phira.5wyxi.com/files/e61a5350-dc38-48ad-ac1c-f9cdc990eb69",
+  "hidden": false,
   "id": 54720,
   "illustration": "https://phira.5wyxi.com/files/242c0cd1-8326-4645-8d60-cdbc243bfb46",
   "illustrator": "",

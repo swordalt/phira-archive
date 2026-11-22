@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:17Z",
-    "lastChanged": "2026-09-21T02:04:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-29T05:55:01.949779Z",
   "charter": "钍钍232",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/875ed1b7-2fe7-47d5-919a-f08c06c0dbae",
+  "hidden": false,
   "id": 51764,
   "illustration": "https://phira.5wyxi.com/files/cd8c99bb-ff6f-46c2-a97c-63f4e12ecde0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Tales of Neverland",
   "preview": "https://phira.5wyxi.com/files/880fc12f-24de-4fa0-9b14-b371538925f7",
   "ranked": false,
-  "rating": 0.87759614,
-  "ratingCount": 64,
+  "rating": 0.8820465,
+  "ratingCount": 69,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

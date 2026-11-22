@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:45Z",
-    "lastChanged": "2026-09-21T02:01:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-23T15:29:25.841209Z",
   "charter": "CHCAT1320",
@@ -14,6 +14,7 @@
   "description": "该谱面修改后上传，发b站要@<谱师>",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/db9b7e3a-fd01-4345-b9dd-a538ef37de47",
+  "hidden": false,
   "id": 12760,
   "illustration": "https://phira.5wyxi.com/files/05bd7e7a-7804-4cba-8185-ea67f9c24b87",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "甩葱歌",
   "preview": "https://phira.5wyxi.com/files/d50e0978-c4aa-4991-9140-2c52d246146c",
   "ranked": false,
-  "rating": 0.9268358,
-  "ratingCount": 8374,
+  "rating": 0.92669135,
+  "ratingCount": 8719,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

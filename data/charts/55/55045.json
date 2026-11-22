@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:33Z",
-    "lastChanged": "2026-09-21T02:04:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-05T02:21:03.177800Z",
   "charter": "生天",
@@ -14,6 +14,7 @@
   "description": "awa",
   "difficulty": 14.200001,
   "file": "https://phira.5wyxi.com/files/adbd06cf-b799-4431-afaf-4bbbb3c081e8",
+  "hidden": false,
   "id": 55045,
   "illustration": "https://phira.5wyxi.com/files/ba9d80d7-4e86-496f-810f-2cf9e3d7b3ae",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Winter↑Cube↓",
   "preview": "https://phira.5wyxi.com/files/b806439e-b53b-400c-9644-4661a902d422",
   "ranked": false,
-  "rating": 0.91140354,
-  "ratingCount": 83,
+  "rating": 0.906552,
+  "ratingCount": 103,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

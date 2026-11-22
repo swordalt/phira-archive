@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:02Z",
-    "lastChanged": "2026-09-21T02:03:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-08T07:15:47.132165Z",
   "charter": "xzxxxxhs",
@@ -14,6 +14,7 @@
   "description": "随便写的",
   "difficulty": 15.6,
   "file": "https://phira.5wyxi.com/files/98206255-f906-4e17-a08e-1c7cc7f27b60",
+  "hidden": false,
   "id": 33244,
   "illustration": "https://phira.5wyxi.com/files/06a5b612-9835-4342-906d-c1dc86a3c72c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "好运来(Haocore Mix)",
   "preview": "https://phira.5wyxi.com/files/fe879243-afc3-48fa-b1fc-7afb33b8ea4b",
   "ranked": false,
-  "rating": 0.94167453,
-  "ratingCount": 3241,
+  "rating": 0.94108516,
+  "ratingCount": 3304,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

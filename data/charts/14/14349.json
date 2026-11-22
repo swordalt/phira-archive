@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:51Z",
-    "lastChanged": "2026-09-21T02:01:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-28T15:29:24.611295Z",
   "charter": "Q",
@@ -14,6 +14,7 @@
   "description": "为本人自制并上传",
   "difficulty": 14.600002,
   "file": "https://phira.5wyxi.com/files/c8f8f204-5186-45c3-b6b9-089cca5963d7",
+  "hidden": false,
   "id": 14349,
   "illustration": "https://phira.5wyxi.com/files/0a429481-9b2c-477a-aab5-7ff1788eec02",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "うまぴょい伝説/",
   "preview": "https://phira.5wyxi.com/files/2a4f0945-76dd-4972-91e9-aedce27fa081",
   "ranked": false,
-  "rating": 0.9208069,
-  "ratingCount": 1066,
+  "rating": 0.9203304,
+  "ratingCount": 1075,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

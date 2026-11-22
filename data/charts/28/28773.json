@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:02Z",
-    "lastChanged": "2026-09-21T02:06:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-16T11:53:09.502916Z",
   "charter": "ξ-118",
@@ -14,6 +14,7 @@
   "description": "我不知道写什么，就写作者是哔站不知叫甚名字吧",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/155eb745-bbb0-4cd3-b754-86f3c2151475",
+  "hidden": false,
   "id": 28773,
   "illustration": "https://phira.5wyxi.com/files/1ca384c2-ee5f-42ed-9804-38e0b92765ed",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Destr0yer",
   "preview": "https://phira.5wyxi.com/files/b845533d-2686-489e-8ddf-d65d17faa414",
   "ranked": false,
-  "rating": 0.9130251,
-  "ratingCount": 69,
+  "rating": 0.91421527,
+  "ratingCount": 70,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

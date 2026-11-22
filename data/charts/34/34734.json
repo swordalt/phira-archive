@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:06Z",
-    "lastChanged": "2026-09-21T02:03:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-02T08:17:58.645569Z",
   "charter": "AROgard_NAM",
@@ -14,6 +14,7 @@
   "description": "询问修改建议",
   "difficulty": 15.400003,
   "file": "https://phira.5wyxi.com/files/21f2c8cd-f58c-4308-82a4-cd30b20c70e4",
+  "hidden": false,
   "id": 34734,
   "illustration": "https://phira.5wyxi.com/files/8a589e75-4ba0-4f64-8e07-7ecbcbcc2e4e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mandragora",
   "preview": "https://phira.5wyxi.com/files/d8b62c17-8e98-43d8-9eee-bf905139dd66",
   "ranked": false,
-  "rating": 0.905156,
-  "ratingCount": 273,
+  "rating": 0.904883,
+  "ratingCount": 274,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:09Z",
-    "lastChanged": "2026-09-21T02:02:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-18T07:06:01.198694Z",
   "charter": "LaurAPking",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 18.000004,
   "file": "https://phira.5wyxi.com/files/e5fbe910-c898-4c78-9a53-a198b20d822f",
+  "hidden": false,
   "id": 18604,
   "illustration": "https://phira.5wyxi.com/files/6fce8957-0e9f-49e3-9e8a-ca3d91828293",
   "illustrator": "",

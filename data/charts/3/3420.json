@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:15Z",
-    "lastChanged": "2026-09-21T02:01:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-12T00:44:54.413777Z",
   "charter": "DwaY",
@@ -14,6 +14,7 @@
   "description": "第三改，小改了一点不太合理的地方\n稍微加了一点特效\n可能基本不会再改了",
   "difficulty": 14.5,
   "file": "https://phira.5wyxi.com/files/bbfff72c-4af6-4c41-9f31-0b1c1726e885",
+  "hidden": false,
   "id": 3420,
   "illustration": "https://phira.5wyxi.com/files/c6838bbb-b3fb-40dd-8ed7-6d12dac5ca24",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "夢色",
   "preview": "https://phira.5wyxi.com/files/1208b760-d383-492c-add2-f805a82aafdd",
   "ranked": false,
-  "rating": 0.8733335,
-  "ratingCount": 316,
+  "rating": 0.8738134,
+  "ratingCount": 319,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

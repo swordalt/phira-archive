@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:11Z",
-    "lastChanged": "2026-09-21T02:04:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-03T03:46:39.827511Z",
   "charter": "sqrt2to1",
@@ -14,6 +14,7 @@
   "description": "对去年谱面进行了部分配置与动效的调整。",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/99a83762-cc23-4569-98c1-ab22dcc998cf",
+  "hidden": false,
   "id": 50929,
   "illustration": "https://phira.5wyxi.com/files/7da9860b-12d4-4061-a0e3-fe8e5cb6db24",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Interstellar Leap",
   "preview": "https://phira.5wyxi.com/files/fd447a27-2d26-4bbc-ada8-cb3b28257c8c",
   "ranked": false,
-  "rating": 0.83479893,
-  "ratingCount": 18,
+  "rating": 0.8418467,
+  "ratingCount": 19,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

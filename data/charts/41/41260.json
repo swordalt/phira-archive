@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:22Z",
-    "lastChanged": "2026-09-21T02:06:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-09T11:12:01.837102Z",
   "charter": "xzdlh",
@@ -14,6 +14,7 @@
   "description": "新人初谱，尾杀可能爆点有点多，总体来说挺满意的，欢迎大佬们评分指正（本人上传）",
   "difficulty": 14.1,
   "file": "https://phira.5wyxi.com/files/9384a319-1089-4142-a022-1986905c3f33",
+  "hidden": false,
   "id": 41260,
   "illustration": "https://phira.5wyxi.com/files/8d22b142-8df0-492d-9126-bfa11279d76b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "R",
   "preview": "https://phira.5wyxi.com/files/8333d08c-5663-4107-a7f2-ddd31dfe6a50",
   "ranked": false,
-  "rating": 0.9071229,
-  "ratingCount": 37,
+  "rating": 0.9091872,
+  "ratingCount": 38,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

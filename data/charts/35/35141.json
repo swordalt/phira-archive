@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:07Z",
-    "lastChanged": "2026-09-21T02:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-12T09:46:22.544882Z",
   "charter": "Sorzy",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.2,
   "file": "https://phira.5wyxi.com/files/e7fe1bb8-03c8-4d4e-9262-de8926846bd7",
+  "hidden": false,
   "id": 35141,
   "illustration": "https://phira.5wyxi.com/files/8dc1587b-c5cf-4cbd-82e5-959f75632d40",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Orca",
   "preview": "https://phira.5wyxi.com/files/7e9e1959-9cc0-46d8-a78b-fcc2ecff0617",
   "ranked": false,
-  "rating": 0.92886317,
-  "ratingCount": 151,
+  "rating": 0.929723,
+  "ratingCount": 171,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

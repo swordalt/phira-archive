@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:29Z",
-    "lastChanged": "2026-09-21T02:04:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-14T17:57:42.695804Z",
   "charter": "EntityNULLx",
@@ -14,6 +14,7 @@
   "description": "曲师: 黒皇帝 feat. AKA\n谱师: EntityNULLx  & Le_AZG\n物量：1500\nBPM：220\n时长2min29s\n谱师同意上传！！！",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/4ea6b994-5dad-40e0-a758-b420397c75df",
+  "hidden": false,
   "id": 54169,
   "illustration": "https://phira.5wyxi.com/files/2219c253-3b89-4b3f-be96-0b0c02945d37",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Le Porteur d'Ombre",
   "preview": "https://phira.5wyxi.com/files/bd5e098d-dedb-4ca7-81cb-1decb2ce3f24",
   "ranked": false,
-  "rating": 0.9220675,
-  "ratingCount": 575,
+  "rating": 0.9198423,
+  "ratingCount": 604,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

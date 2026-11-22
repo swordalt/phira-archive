@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:32Z",
-    "lastChanged": "2026-09-21T02:03:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-23T14:01:55.443925Z",
   "charter": "伊知地虹虾",
@@ -14,6 +14,7 @@
   "description": "新人谱师的第二张谱子，b站同名，欢迎游玩和讨论。(出问题了重发一下）",
   "difficulty": 14.300001,
   "file": "https://phira.5wyxi.com/files/e53c65b8-8e0e-4dc7-ba07-fbe5495802ec",
+  "hidden": false,
   "id": 42544,
   "illustration": "https://phira.5wyxi.com/files/e7dc656a-0be2-4e79-a74d-ef401fd1a917",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "削いで、",
   "preview": "https://phira.5wyxi.com/files/c594e001-edac-49c8-8cce-5289ccdef769",
   "ranked": false,
-  "rating": 0.904339,
-  "ratingCount": 322,
+  "rating": 0.90581393,
+  "ratingCount": 332,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

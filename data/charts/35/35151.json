@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:07Z",
-    "lastChanged": "2026-09-21T02:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-12T14:59:05.712262Z",
   "charter": "ming12137",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/6c300db1-9908-413e-9312-c98b0941d2c7",
+  "hidden": false,
   "id": 35151,
   "illustration": "https://phira.5wyxi.com/files/329ac841-a105-4451-9795-0f0b0b3db904",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "夏影-AIRness-",
   "preview": "https://phira.5wyxi.com/files/bea3cbce-f8a7-4c34-b89c-b313afa4e909",
   "ranked": false,
-  "rating": 0.89545,
-  "ratingCount": 133,
+  "rating": 0.899322,
+  "ratingCount": 141,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

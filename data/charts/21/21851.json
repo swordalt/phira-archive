@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:18Z",
-    "lastChanged": "2026-09-21T02:02:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-08T16:01:13.506805Z",
   "charter": "Soul",
@@ -14,6 +14,7 @@
   "description": "note先生今天陪对象去了哦~~",
   "difficulty": 13.800003,
   "file": "https://phira.5wyxi.com/files/e7f841ea-56c0-4606-9ee5-9654273778bc",
+  "hidden": false,
   "id": 21851,
   "illustration": "https://phira.5wyxi.com/files/90eb6f7f-428d-467a-8826-22fab1f6fa62",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Formula",
   "preview": "https://phira.5wyxi.com/files/d0ebbe89-37d7-4b39-a227-d958a5aac319",
   "ranked": false,
-  "rating": 0.9021918,
-  "ratingCount": 259,
+  "rating": 0.90150034,
+  "ratingCount": 265,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

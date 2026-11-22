@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:24Z",
-    "lastChanged": "2026-09-21T02:03:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-22T04:55:44.903225Z",
   "charter": "0122PODUL",
@@ -14,6 +14,7 @@
   "description": "初谱一改",
   "difficulty": 15.5,
   "file": "https://phira.5wyxi.com/files/a54cb35e-f3b0-4b68-8f80-2a34090f04b1",
+  "hidden": false,
   "id": 40074,
   "illustration": "https://phira.5wyxi.com/files/76c234b7-2b7d-4017-8614-1aa5a1ec9c25",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "月咏に鸣る",
   "preview": "https://phira.5wyxi.com/files/708290ff-de85-4d0b-bf31-e9377ac0df7d",
   "ranked": false,
-  "rating": 0.86828727,
-  "ratingCount": 240,
+  "rating": 0.8685685,
+  "ratingCount": 243,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

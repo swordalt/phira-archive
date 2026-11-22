@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:25Z",
-    "lastChanged": "2026-10-02T16:14:09Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:51:40Z",
+    "revisions": 3
   },
   "chartUpdated": "2023-08-07T13:17:52.157977Z",
   "charter": "Relena.",
@@ -14,6 +14,7 @@
   "description": "（本人上传）来点龙的。我就是喜欢at17。 bilibili的版本是16，我疯魔了，精神状态有待考究。 有借鉴suddendeath，同名ma自制和dy自制。 感谢游玩！定数修改。",
   "difficulty": 17.800003,
   "file": "https://phira.5wyxi.com/files/baba3b80-1176-4830-89c7-c6f440dbc741",
+  "hidden": false,
   "id": 7039,
   "illustration": "https://phira.5wyxi.com/files/dc5638f8-46d2-4b03-ae31-c63af8378d44",
   "illustrator": "彼の地で再び遭う契束を交わした -《熱血》-嬬武器雷刀◆蒼弐",
@@ -21,11 +22,11 @@
   "name": "A Lasting Promise",
   "preview": "https://phira.5wyxi.com/files/26eca100-d7df-4418-9873-191cc43abec5",
   "ranked": false,
-  "rating": 0.8616579,
-  "ratingCount": 767,
-  "reviewed": false,
+  "rating": 0.86295307,
+  "ratingCount": 835,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

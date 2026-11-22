@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:34Z",
-    "lastChanged": "2026-09-21T02:06:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-04T11:50:33.354887Z",
   "charter": "倚泉",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 23.0,
   "file": "https://phira.5wyxi.com/files/5d6040d5-b344-4dd3-88eb-aa7e1b15768b",
+  "hidden": false,
   "id": 46350,
   "illustration": "https://phira.5wyxi.com/files/a55622a2-2b74-406c-89aa-453c212ff5ca",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "牛仔很忙",
   "preview": "https://phira.5wyxi.com/files/5a479329-02ac-4f4a-9430-2b72a7bdf8f3",
   "ranked": false,
-  "rating": 0.87824374,
-  "ratingCount": 133,
+  "rating": 0.8885195,
+  "ratingCount": 148,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

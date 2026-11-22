@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:24Z",
-    "lastChanged": "2026-09-21T02:06:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-20T10:25:10.844035Z",
   "charter": "一只手岸人",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 77.0,
   "file": "https://phira.5wyxi.com/files/8b68eec5-335f-45a6-8783-d125db826dc5",
+  "hidden": false,
   "id": 42202,
   "illustration": "https://phira.5wyxi.com/files/df3a2165-40a2-40a7-802f-3a1a2d307ecb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "叹云兮",
   "preview": "https://phira.5wyxi.com/files/f1ad98f6-c3c7-4f4c-ae35-e74065c2a347",
   "ranked": false,
-  "rating": 0.88699615,
-  "ratingCount": 2492,
+  "rating": 0.8896919,
+  "ratingCount": 2791,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

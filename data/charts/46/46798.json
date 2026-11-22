@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:31Z",
-    "lastChanged": "2026-09-21T02:05:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-14T05:12:41.351265Z",
   "charter": "DiAMONDGAMER",
@@ -14,6 +14,7 @@
   "description": "本谱面是《节奏医生》 5-1N One Slip Too Late的还原向谱面，整张谱面还原了《节奏医生》的对应玩法，并不是常规谱面\n由本人上传（@DiAMONDGAMER)\n\n尽管电脑版无法上传成绩，我们仍然推荐你使用电脑版游玩，全键盘判定真的很方便诶！\n\n谱师已亲自验证谱面可解",
   "difficulty": 3.0000005,
   "file": "https://phira.5wyxi.com/files/0f5903ae-3f16-4fc2-851d-7b2f243c6800",
+  "hidden": false,
   "id": 46798,
   "illustration": "https://phira.5wyxi.com/files/e9cedc07-9cdc-4f68-9d80-df08a091a4ab",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "One Slip Too Late",
   "preview": "https://phira.5wyxi.com/files/73cefed0-89ba-456b-b7b4-178d0ed824a3",
   "ranked": false,
-  "rating": 0.9606515,
-  "ratingCount": 107,
+  "rating": 0.9620273,
+  "ratingCount": 110,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

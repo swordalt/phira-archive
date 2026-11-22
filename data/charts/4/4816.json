@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:19Z",
-    "lastChanged": "2026-09-21T02:01:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-07T02:05:14.935607Z",
   "charter": "ChI·X·河",
@@ -14,6 +14,7 @@
   "description": "Play!",
   "difficulty": 14.5,
   "file": "https://phira.5wyxi.com/files/c04494e5-59dc-4ca8-aecf-d711254fb47e",
+  "hidden": false,
   "id": 4816,
   "illustration": "https://phira.5wyxi.com/files/10631163-0786-4855-9e62-af2ce712b9f5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "El último baile",
   "preview": "https://phira.5wyxi.com/files/92380b27-8207-44da-9f15-cb2dc2515f97",
   "ranked": false,
-  "rating": 0.88778526,
-  "ratingCount": 3982,
+  "rating": 0.88769644,
+  "ratingCount": 3993,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

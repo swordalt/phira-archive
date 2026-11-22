@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:53Z",
-    "lastChanged": "2026-09-21T02:05:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-13T07:32:16.652087Z",
   "charter": "Easterchanted",
@@ -14,6 +14,7 @@
   "description": "有问题请去B站私信 @Easterchanted 我看到就回",
   "difficulty": 14.2,
   "file": "https://phira.5wyxi.com/files/0b37d694-9922-4f60-92e2-53881a4c1f73",
+  "hidden": false,
   "id": 23358,
   "illustration": "https://phira.5wyxi.com/files/a964a478-f316-47b6-ac6d-406f6dda5729",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "今天不是明天",
   "preview": "https://phira.5wyxi.com/files/51413d71-2f5f-4e72-926d-45b2b2707acc",
   "ranked": false,
-  "rating": 0.93147653,
-  "ratingCount": 743,
+  "rating": 0.93203956,
+  "ratingCount": 751,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

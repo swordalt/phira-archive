@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:31Z",
-    "lastChanged": "2026-09-21T02:02:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-18T11:51:30.504957Z",
   "charter": "Personal_Maker",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n新人初谱\n<bilibili> @ Personal_Maker\n有意见或建议可以在B站私信",
   "difficulty": 13.900003,
   "file": "https://phira.5wyxi.com/files/fff444a1-746f-4eb2-8df6-4082866cb759",
+  "hidden": false,
   "id": 25572,
   "illustration": "https://phira.5wyxi.com/files/05d08c15-05ae-4978-bbca-ff47073f5e09",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Memories",
   "preview": "https://phira.5wyxi.com/files/e2332508-333e-420f-967c-1d5ef5d3b392",
   "ranked": false,
-  "rating": 0.87701744,
-  "ratingCount": 128,
+  "rating": 0.8798008,
+  "ratingCount": 130,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:59Z",
-    "lastChanged": "2026-09-21T02:06:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-24T17:38:55.982767Z",
   "charter": "Bonious",
@@ -14,6 +14,7 @@
   "description": "第一次写4k，有些配置不太成熟，请见谅\n使用b站艾特起名钉子户制作的malody转谱器，使用malody的定数",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/a5963271-8326-4687-8c0e-fa776840dddf",
+  "hidden": false,
   "id": 68973,
   "illustration": "https://phira.5wyxi.com/files/6511895a-9a9a-4282-937f-6d849fad7f76",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sterelogue",
   "preview": "https://phira.5wyxi.com/files/f308cb95-6379-4207-9da8-a17edaed44c0",
   "ranked": false,
-  "rating": 0.93585086,
-  "ratingCount": 94,
+  "rating": 0.94115496,
+  "ratingCount": 114,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

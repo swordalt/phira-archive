@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:56Z",
-    "lastChanged": "2026-09-21T02:04:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-10T17:09:12.000562Z",
   "charter": "77nN",
@@ -14,6 +14,7 @@
   "description": "原视频：BV14ZNn6QEVc\nB站：@_77nN",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/0507ebf0-14a0-4eec-b119-048cc2b4837e",
+  "hidden": false,
   "id": 65503,
   "illustration": "https://phira.5wyxi.com/files/ba82f9ec-04fb-4a7f-88d5-79f8f16041e6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ぼくらの16bit戦争",
   "preview": "https://phira.5wyxi.com/files/e7000676-1899-4c0d-8975-916e453af64c",
   "ranked": false,
-  "rating": 0.9063713,
-  "ratingCount": 281,
+  "rating": 0.90766144,
+  "ratingCount": 303,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

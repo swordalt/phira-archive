@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:38Z",
-    "lastChanged": "2026-09-21T02:06:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-06T12:35:57.074116Z",
   "charter": "咒咒咒咒",
@@ -14,6 +14,7 @@
   "description": "测不出bpm",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/f74b1d36-5096-419d-a430-2abfed367c8e",
+  "hidden": false,
   "id": 47766,
   "illustration": "https://phira.5wyxi.com/files/aeec203c-9c77-4357-a2f9-e8d1c392769a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "でびるコネクショん",
   "preview": "https://phira.5wyxi.com/files/bdc9823e-1eeb-4648-bb94-7de5fea6e9e8",
   "ranked": false,
-  "rating": 0.8087643,
-  "ratingCount": 16,
+  "rating": 0.79829353,
+  "ratingCount": 18,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:53Z",
-    "lastChanged": "2026-09-21T02:02:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-31T15:41:38.042580Z",
   "charter": "KoukonA",
@@ -14,6 +14,7 @@
   "description": "B站：小时Hooour",
   "difficulty": 13.500002,
   "file": "https://phira.5wyxi.com/files/5c979230-f36c-4edf-9c48-19b7646c94b5",
+  "hidden": false,
   "id": 31274,
   "illustration": "https://phira.5wyxi.com/files/47dd751e-1947-4bec-b6e9-999247b1be65",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": ".coooooffee",
   "preview": "https://phira.5wyxi.com/files/02998c78-af78-4714-8980-338842f3be2d",
   "ranked": false,
-  "rating": 0.9276933,
-  "ratingCount": 188,
+  "rating": 0.927388,
+  "ratingCount": 190,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

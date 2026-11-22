@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:31Z",
-    "lastChanged": "2026-09-21T02:06:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-23T09:20:21.866593Z",
   "charter": "夜空",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/2a7877e8-d896-456d-8e29-275c97dd738f",
+  "hidden": false,
   "id": 45505,
   "illustration": "https://phira.5wyxi.com/files/ebd3d04b-9e7e-4434-a411-89ffb50de8fb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "lose control",
   "preview": "https://phira.5wyxi.com/files/f9bf461f-aa6e-48f8-b0f1-060a31c21006",
   "ranked": false,
-  "rating": 0.9217973,
-  "ratingCount": 125,
+  "rating": 0.9202097,
+  "ratingCount": 132,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

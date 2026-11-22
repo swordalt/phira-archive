@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:02Z",
-    "lastChanged": "2026-09-21T02:07:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-25T03:45:04.894363Z",
   "charter": "Ay_bv",
@@ -14,6 +14,7 @@
   "description": "咪",
   "difficulty": 35.0,
   "file": "https://phira.5wyxi.com/files/426457c9-3fbf-4766-8778-9f3644c9b704",
+  "hidden": false,
   "id": 75562,
   "illustration": "https://phira.5wyxi.com/files/c8f80694-d24f-436e-9ead-bdbee66a8449",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "CALAMITY RHAPSODY",
   "preview": "https://phira.5wyxi.com/files/7c111d14-3095-408b-9480-792c3f17f751",
   "ranked": false,
-  "rating": 0.95330095,
-  "ratingCount": 36,
+  "rating": 0.95320565,
+  "ratingCount": 65,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

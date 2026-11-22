@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:02Z",
-    "lastChanged": "2026-09-21T02:02:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-09T16:22:19.808972Z",
   "charter": "Niye",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/fec85497-d17b-41c0-a162-edf52a70c7cb",
+  "hidden": false,
   "id": 16946,
   "illustration": "https://phira.5wyxi.com/files/3ea4be34-3e16-49f8-b9f7-273941e21482",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "きゅうくらりん",
   "preview": "https://phira.5wyxi.com/files/ea9d7e87-e766-44f4-a2b0-bfd8129eb23d",
   "ranked": false,
-  "rating": 0.89020264,
-  "ratingCount": 1113,
+  "rating": 0.89080435,
+  "ratingCount": 1141,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

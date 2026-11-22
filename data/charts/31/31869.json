@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:06Z",
-    "lastChanged": "2026-09-21T02:06:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-15T16:37:31.717280Z",
   "charter": "Wolflover",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/81f598ba-bcb6-403e-a9a6-b8ea6d92c5f8",
+  "hidden": false,
   "id": 31869,
   "illustration": "https://phira.5wyxi.com/files/47575d34-bf28-496d-8c5d-19b20a78d246",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Reimei",
   "preview": "https://phira.5wyxi.com/files/f1809110-c5f2-4fd8-a65f-9b5bd2437573",
   "ranked": false,
-  "rating": 0.942568,
-  "ratingCount": 63,
+  "rating": 0.9450412,
+  "ratingCount": 66,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

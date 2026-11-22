@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:51Z",
-    "lastChanged": "2026-09-21T02:06:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-10T10:52:41.151456Z",
   "charter": "jomacox",
@@ -14,6 +14,7 @@
   "description": "代传，谱师为Mukyo.，6+～7dan\n@Mukyo.#514754",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/4a6d7ed3-d7c0-44e9-a066-aa5e7665b41c",
+  "hidden": false,
   "id": 58149,
   "illustration": "https://phira.5wyxi.com/files/c7e61fd2-3d3c-4e59-913d-d90d0917485e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Light it up",
   "preview": "https://phira.5wyxi.com/files/4b862bc1-e221-44b3-9dea-249785345781",
   "ranked": false,
-  "rating": 0.9181991,
-  "ratingCount": 225,
+  "rating": 0.921913,
+  "ratingCount": 236,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

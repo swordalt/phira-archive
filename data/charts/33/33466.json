@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:02Z",
-    "lastChanged": "2026-09-21T02:03:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-02T10:29:54.170349Z",
   "charter": "-CO-NH-",
@@ -14,6 +14,7 @@
   "description": "B站@-CO一NH-",
   "difficulty": 14.8,
   "file": "https://phira.5wyxi.com/files/b02a446d-7592-4fd0-a2a6-a0274aaa665e",
+  "hidden": false,
   "id": 33466,
   "illustration": "https://phira.5wyxi.com/files/a3bdb13f-8ce0-41be-915d-0b9b6d7da979",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "はっぴ～しゅ～てぃんぐすた～",
   "preview": "https://phira.5wyxi.com/files/50dccab6-50be-49ad-8203-54acc7adaf08",
   "ranked": false,
-  "rating": 0.941678,
-  "ratingCount": 556,
+  "rating": 0.9419902,
+  "ratingCount": 564,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

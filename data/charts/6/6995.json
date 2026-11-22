@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:25Z",
-    "lastChanged": "2026-09-21T02:01:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-10T13:37:03.840681Z",
   "charter": "MouCat",
@@ -14,6 +14,7 @@
   "description": "孩子第一次拿RPE写谱，不会加特效，反正又不是不能看（  有什么建议的话，可以去B站私信我（我的B站id改了，现在是@冰绒の某猫）\n2024.8.10 改了部分配置，加了一点点表演",
   "difficulty": 12.300001,
   "file": "https://phira.5wyxi.com/files/1fd8f18f-676a-45b5-8088-881dde3de41f",
+  "hidden": false,
   "id": 6995,
   "illustration": "https://phira.5wyxi.com/files/d83828b1-2793-49f1-89d9-1c68fed5db8d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "外婆桥-雪狐桑的翻唱",
   "preview": "https://phira.5wyxi.com/files/ef08be2d-ee51-4bbd-a92d-a46f6a56c241",
   "ranked": false,
-  "rating": 0.9252775,
-  "ratingCount": 5219,
+  "rating": 0.9262214,
+  "ratingCount": 5366,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

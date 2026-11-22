@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:10Z",
-    "lastChanged": "2026-09-21T02:01:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-12T17:13:54.449724Z",
   "charter": "lizyuethink feat. Js",
@@ -14,6 +14,7 @@
   "description": "主打简约风的谱面，仅使用6判定线1047事件\nB站关注@A水做L的孩I纸@Js-谢谢喵",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/2a863ab8-9015-46e3-b8ff-3efe56535cc0",
+  "hidden": false,
   "id": 1782,
   "illustration": "https://phira.5wyxi.com/files/90fe782e-c157-409a-8134-74b2123bbcaf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "てんてん (New Vocal Version)",
   "preview": "https://phira.5wyxi.com/files/da508412-614f-4428-8265-397b7d341660",
   "ranked": true,
-  "rating": 0.76819265,
-  "ratingCount": 352,
+  "rating": 0.7658225,
+  "ratingCount": 358,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

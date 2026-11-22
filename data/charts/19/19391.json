@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:11Z",
-    "lastChanged": "2026-09-21T02:02:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-03T12:52:11.123852Z",
   "charter": "@Rea",
@@ -14,6 +14,7 @@
   "description": "谱面为谱师本人Rea_cy上传\n前一个发错了帮删一下aaaa",
   "difficulty": 17.400002,
   "file": "https://phira.5wyxi.com/files/99082b8b-329f-4de9-9837-1e09ac3e633a",
+  "hidden": false,
   "id": 19391,
   "illustration": "https://phira.5wyxi.com/files/6546c676-a8c8-4dd8-a787-11852bdd51e8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ULTiMATE INFLATiON",
   "preview": "https://phira.5wyxi.com/files/3f4b57bd-d107-4614-91b1-e6952c1c1167",
   "ranked": false,
-  "rating": 0.8544753,
-  "ratingCount": 454,
+  "rating": 0.85453755,
+  "ratingCount": 461,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

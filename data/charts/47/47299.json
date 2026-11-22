@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:37Z",
-    "lastChanged": "2026-09-21T02:06:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-27T17:04:03.891375Z",
   "charter": "Anskipeando",
@@ -14,6 +14,7 @@
   "description": "4k - technical\nbpm：200\nnote：2491\ntime：2:39.120\n\n本人做谱\n使用转谱器转谱",
   "difficulty": 42.0,
   "file": "https://phira.5wyxi.com/files/dad9ca26-c039-463d-baca-1b13434d81d5",
+  "hidden": false,
   "id": 47299,
   "illustration": "https://phira.5wyxi.com/files/47e82b2f-13dc-491d-af09-04d94935925a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Avantgarde",
   "preview": "https://phira.5wyxi.com/files/04d336cc-05d2-44c9-ab61-882e99b770d8",
   "ranked": false,
-  "rating": 0.89386344,
-  "ratingCount": 72,
+  "rating": 0.9005012,
+  "ratingCount": 76,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

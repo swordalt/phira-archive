@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:16Z",
-    "lastChanged": "2026-09-21T02:05:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-12T12:38:44.225826Z",
   "charter": "Search The Aurora Yonder.",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 14.400001,
   "file": "https://phira.5wyxi.com/files/ab0173ce-033c-4742-9b92-b712a70b9e89",
+  "hidden": false,
   "id": 77902,
   "illustration": "https://phira.5wyxi.com/files/24313600-9214-4da4-bbac-8f4696ad3a1c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "STAY",
   "preview": "https://phira.5wyxi.com/files/6c0e346f-ea57-411b-a7e3-55724a6c1ff1",
   "ranked": false,
-  "rating": 0.88987345,
-  "ratingCount": 1520,
+  "rating": 0.88558066,
+  "ratingCount": 4145,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

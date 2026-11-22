@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:56Z",
-    "lastChanged": "2026-09-21T02:04:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-10T02:35:31.103471Z",
   "charter": "Der",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.000001,
   "file": "https://phira.5wyxi.com/files/969a022e-9eef-4bd3-a88c-0dbb7c8d22a8",
+  "hidden": false,
   "id": 65377,
   "illustration": "https://phira.5wyxi.com/files/e19a9f10-5c38-4bf9-a0fa-42c39a58d30a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "九万字DJ",
   "preview": "https://phira.5wyxi.com/files/cf7d14ad-81b7-4494-b56e-b51b798aef9f",
   "ranked": false,
-  "rating": 0.9139693,
-  "ratingCount": 66049,
+  "rating": 0.91463464,
+  "ratingCount": 69153,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:11Z",
-    "lastChanged": "2026-09-21T02:04:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-04T05:27:27.785624Z",
   "charter": "ln_137",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/412fdfd4-454c-49b9-ae3b-28a22b5d65fe",
+  "hidden": false,
   "id": 50963,
   "illustration": "https://phira.5wyxi.com/files/214601c3-fe61-42ce-b6e4-605ff9bda90a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "明け星",
   "preview": "https://phira.5wyxi.com/files/00c2894c-2cd7-4147-8c79-541e8a15c9fc",
   "ranked": false,
-  "rating": 0.8835872,
-  "ratingCount": 60,
+  "rating": 0.8884466,
+  "ratingCount": 66,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

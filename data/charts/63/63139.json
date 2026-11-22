@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:52Z",
-    "lastChanged": "2026-09-21T02:04:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-29T12:17:19.991177Z",
   "charter": "「潰壞」",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.500002,
   "file": "https://phira.5wyxi.com/files/52521dac-c904-4077-a20a-81a89723d2f1",
+  "hidden": false,
   "id": 63139,
   "illustration": "https://phira.5wyxi.com/files/86077347-32ec-4c18-bde1-a207a22e4f86",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Pendulum of Doom",
   "preview": "https://phira.5wyxi.com/files/4597e083-1133-4c92-ba7c-a94cabcb9b9b",
   "ranked": false,
-  "rating": 0.94114566,
-  "ratingCount": 155,
+  "rating": 0.94364476,
+  "ratingCount": 176,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-27T04:53:15Z",
-    "lastChanged": "2026-10-27T04:53:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-24T13:20:51.442580Z",
   "charter": "*LingBai*",
@@ -14,6 +14,7 @@
   "description": "b站：零白还是LingBai\n个人三谱\n偏手序的双指谱\n谱面较b站版本后半段略改动",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/bd52ae52-a02c-48e3-9162-aa4f0ee76c07",
+  "hidden": false,
   "id": 82003,
   "illustration": "https://phira.5wyxi.com/files/7044bc5c-70db-4ca4-b5c1-ab20f676daec",
   "illustrator": "いちさきおすし",
@@ -21,8 +22,8 @@
   "name": "Star Fall in Evernight City",
   "preview": "https://phira.5wyxi.com/files/2b5f20b2-7516-4053-9768-56a7c48bd8a1",
   "ranked": false,
-  "rating": 0.8415292,
-  "ratingCount": 8,
+  "rating": 0.9137664,
+  "ratingCount": 196,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:47Z",
-    "lastChanged": "2026-09-21T02:03:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-29T02:28:35.517704Z",
   "charter": "Don Quixote",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/c769d107-2533-4fc3-b22b-e2ab0ef99103",
+  "hidden": false,
   "id": 45980,
   "illustration": "https://phira.5wyxi.com/files/18282e0c-ae03-42cd-9caa-8f8ecdc17a0d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Operation",
   "preview": "https://phira.5wyxi.com/files/64dea147-d217-42a5-9880-98a93b4c2b3e",
   "ranked": false,
-  "rating": 0.8751825,
-  "ratingCount": 83,
+  "rating": 0.8796421,
+  "ratingCount": 87,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

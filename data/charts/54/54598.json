@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:30Z",
-    "lastChanged": "2026-09-21T02:04:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-27T12:10:30.618405Z",
   "charter": "小茜呀qq",
@@ -14,6 +14,7 @@
   "description": "本人上传 优化了一些不合理的地方qq",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/2622ff33-cc13-436e-ba16-28ddb80d0e2c",
+  "hidden": false,
   "id": 54598,
   "illustration": "https://phira.5wyxi.com/files/49565228-2641-46c2-9a38-c08aabd30adc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "余花にみとれて",
   "preview": "https://phira.5wyxi.com/files/37b148c1-17b2-4a52-8857-c760c0ef434b",
   "ranked": false,
-  "rating": 0.9358439,
-  "ratingCount": 565,
+  "rating": 0.93712986,
+  "ratingCount": 616,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

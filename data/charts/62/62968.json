@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:56Z",
-    "lastChanged": "2026-09-21T02:06:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-28T08:46:21.715859Z",
   "charter": "jomacox",
@@ -14,6 +14,7 @@
   "description": "本人上传（\n写谱时长：4d\n净时长：8h\nmalody转谱",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/12697a6d-9d06-444a-8bc5-48f03484cb8f",
+  "hidden": false,
   "id": 62968,
   "illustration": "https://phira.5wyxi.com/files/6543f3c0-c36d-4615-ade8-06462f676b76",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "from now on-Camellia Remix",
   "preview": "https://phira.5wyxi.com/files/0710b04d-c6d1-439a-aa3a-c61b96cdadc7",
   "ranked": false,
-  "rating": 0.9391198,
-  "ratingCount": 62,
+  "rating": 0.94342655,
+  "ratingCount": 67,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

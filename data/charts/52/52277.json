@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:19Z",
-    "lastChanged": "2026-09-21T02:04:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-08T07:24:18.168468Z",
   "charter": "SiENSY",
@@ -14,6 +14,7 @@
   "description": "（ 重传）使用malody制谱器制作，本人上传，b站uid：631905046",
   "difficulty": 17.900003,
   "file": "https://phira.5wyxi.com/files/d0c97d73-b651-4787-9bbd-e4390e1195da",
+  "hidden": false,
   "id": 52277,
   "illustration": "https://phira.5wyxi.com/files/388ee174-a9f1-45bc-bf5c-4e25af57a1ac",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Gamol Hundgēar",
   "preview": "https://phira.5wyxi.com/files/25f0fb80-fc22-4360-b911-74ad054f3afd",
   "ranked": false,
-  "rating": 0.87848806,
-  "ratingCount": 38,
+  "rating": 0.8813253,
+  "ratingCount": 39,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

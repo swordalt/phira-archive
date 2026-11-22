@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:42Z",
-    "lastChanged": "2026-09-21T02:06:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-07T05:17:28.223856Z",
   "charter": "Jiuwenzi",
@@ -14,6 +14,7 @@
   "description": "神秘sample beta单曲2",
   "difficulty": 12.099999,
   "file": "https://phira.5wyxi.com/files/82714fb0-26a5-4e2e-9f83-dd1298bca5c1",
+  "hidden": false,
   "id": 49938,
   "illustration": "https://phira.5wyxi.com/files/c5edc564-0614-460d-a62c-4bea58b0abf7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Unshakable",
   "preview": "https://phira.5wyxi.com/files/2a9a7832-270a-4be4-beaf-6bba6edb1df5",
   "ranked": false,
-  "rating": 0.95931745,
-  "ratingCount": 145,
+  "rating": 0.96036327,
+  "ratingCount": 165,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

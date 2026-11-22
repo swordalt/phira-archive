@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:58Z",
-    "lastChanged": "2026-09-21T02:02:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-26T11:27:59.900773Z",
   "charter": "ChickenPige0n",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/4037e1a4-d579-4729-b95a-0aae769134f7",
+  "hidden": false,
   "id": 32527,
   "illustration": "https://phira.5wyxi.com/files/4db519e4-b813-4f6d-857c-72bcddbb2efe",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "コンペイトウさん過激派",
   "preview": "https://phira.5wyxi.com/files/1ac1cdc8-4bc5-4175-8f52-d09203b303a6",
   "ranked": false,
-  "rating": 0.90925425,
-  "ratingCount": 61,
+  "rating": 0.91199017,
+  "ratingCount": 63,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

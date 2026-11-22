@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:04Z",
-    "lastChanged": "2026-09-21T02:04:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-28T15:38:04.314823Z",
   "charter": "Hunlet ~the martyr of dawn~",
@@ -14,6 +14,7 @@
   "description": "成年作，有你有他也有我。",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/e54b16f8-7dd3-4aaa-9277-dd6967f81320",
+  "hidden": false,
   "id": 49563,
   "illustration": "https://phira.5wyxi.com/files/cdeec979-c8cd-4ead-ab72-2ae367d1d2ac",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "黎命に殉ず",
   "preview": "https://phira.5wyxi.com/files/bd0732a4-c0b5-4c70-b6c2-57ea83f06593",
   "ranked": false,
-  "rating": 0.85443103,
-  "ratingCount": 188,
+  "rating": 0.85567874,
+  "ratingCount": 192,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:09Z",
-    "lastChanged": "2026-09-21T02:04:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-28T14:49:51.597795Z",
   "charter": "Knd_cL",
@@ -14,6 +14,7 @@
   "description": "本人上传\nB站：@Knd_cL",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/8af37de1-6ed2-4116-b58b-d02c0d11a7be",
+  "hidden": false,
   "id": 50682,
   "illustration": "https://phira.5wyxi.com/files/fb87af74-7287-4ee0-b693-e5dde1696735",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Empire",
   "preview": "https://phira.5wyxi.com/files/51940acb-60f0-44a9-a437-7392a72f734e",
   "ranked": false,
-  "rating": 0.88896465,
-  "ratingCount": 103,
+  "rating": 0.88978744,
+  "ratingCount": 104,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

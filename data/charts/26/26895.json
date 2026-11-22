@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:00Z",
-    "lastChanged": "2026-09-21T02:06:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-25T15:40:05.776280Z",
   "charter": "Ninth-Bird",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 29.0,
   "file": "https://phira.5wyxi.com/files/e0c00360-8dcb-4228-9051-b2d30bf67266",
+  "hidden": false,
   "id": 26895,
   "illustration": "https://phira.5wyxi.com/files/6b72c0fa-ffd6-4752-8c92-9ce645fb3cb2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "太阳系ですこ",
   "preview": "https://phira.5wyxi.com/files/641c6071-46ca-43d8-aefa-b96fdd6a06de",
   "ranked": false,
-  "rating": 0.9420296,
-  "ratingCount": 433,
+  "rating": 0.9433409,
+  "ratingCount": 443,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

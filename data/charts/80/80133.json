@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-04T18:06:10Z",
-    "lastChanged": "2026-10-07T17:46:26Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:03:09Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-04T12:48:16.178270Z",
   "charter": "HRS-Team",
@@ -14,6 +14,7 @@
   "description": "HRS 3rd Dan考核\nSync:汐 BPM≈42\nFlow:銀色 每分钟拍数≈63.999\nPattern:朝影 BPM≈36\n触边:97.00/过段:97.50/后光:98.33 \nHRS交流群：1106507620",
   "difficulty": 3.0,
   "file": "https://phira.5wyxi.com/files/d39c7ae5-b5eb-4056-878f-5a551bb2a010",
+  "hidden": false,
   "id": 80133,
   "illustration": "https://phira.5wyxi.com/files/cc23f838-3836-4bff-869a-fa845dc6a0a4",
   "illustrator": "Irina",
@@ -21,8 +22,8 @@
   "name": "HRS ~ 3rd Dan ~",
   "preview": "https://phira.5wyxi.com/files/206ae1b4-3fea-41bd-ac75-426d641fa841",
   "ranked": false,
-  "rating": 0.873541,
-  "ratingCount": 54,
+  "rating": 0.8972806,
+  "ratingCount": 108,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

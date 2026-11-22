@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:03Z",
-    "lastChanged": "2026-09-21T02:04:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-14T16:01:19.418335Z",
   "charter": "It's a secret that Nanatan made it",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.600002,
   "file": "https://phira.5wyxi.com/files/22bef627-d6c5-4981-8aca-90eccba5ec4c",
+  "hidden": false,
   "id": 49099,
   "illustration": "https://phira.5wyxi.com/files/509db689-6229-42bd-bc31-6fad20cf7cfd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Secret Illumination (seatrus's The AURA Remix)",
   "preview": "https://phira.5wyxi.com/files/d96494dd-21d5-4780-b7d3-b01c805a22d7",
   "ranked": false,
-  "rating": 0.8124175,
-  "ratingCount": 182,
+  "rating": 0.8124383,
+  "ratingCount": 183,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

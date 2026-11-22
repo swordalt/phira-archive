@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:47Z",
-    "lastChanged": "2026-09-21T02:04:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-08T12:19:56.111310Z",
   "charter": "Knd_cL",
@@ -14,6 +14,7 @@
   "description": "本人上传\nB站搜：@Knd_cL\n",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/7bf6ac34-461e-4f0b-b920-a8e5b4d74b85",
+  "hidden": false,
   "id": 60414,
   "illustration": "https://phira.5wyxi.com/files/5bb0583e-ee85-424c-abb6-046f7eb37edd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "TV WORLD",
   "preview": "https://phira.5wyxi.com/files/5d8bf65e-ce4e-49db-b86b-eda5726d95e1",
   "ranked": false,
-  "rating": 0.92744863,
-  "ratingCount": 214,
+  "rating": 0.9280518,
+  "ratingCount": 280,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

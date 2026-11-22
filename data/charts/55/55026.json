@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:33Z",
-    "lastChanged": "2026-09-21T02:04:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-04T14:11:58.776268Z",
   "charter": "御原智乃",
@@ -14,6 +14,7 @@
   "description": "b站@御原智乃。传张老谱，以前怎么没发现，这张写这么好",
   "difficulty": 14.699997,
   "file": "https://phira.5wyxi.com/files/f4dc46bf-3971-420c-b4ef-3ffa2d3c8ae2",
+  "hidden": false,
   "id": 55026,
   "illustration": "https://phira.5wyxi.com/files/ca075332-d2e2-4386-b741-14de0bd15fa7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Black：Magnam",
   "preview": "https://phira.5wyxi.com/files/505a8a2d-cc06-4598-8dcd-cf963a22bbe6",
   "ranked": true,
-  "rating": 0.9218847,
-  "ratingCount": 348,
+  "rating": 0.9215192,
+  "ratingCount": 390,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

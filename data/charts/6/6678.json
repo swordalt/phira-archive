@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:36Z",
-    "lastChanged": "2026-09-21T02:05:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-02T09:57:39.115264Z",
   "charter": "Cada",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 27.0,
   "file": "https://phira.5wyxi.com/files/c838f31d-a8d1-4f58-b356-62a461c90ca9",
+  "hidden": false,
   "id": 6678,
   "illustration": "https://phira.5wyxi.com/files/76157a73-26cc-4549-b0d3-32bedf56c0f7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Escape",
   "preview": "https://phira.5wyxi.com/files/26e73f95-f280-4eef-9a44-bdd88934d72d",
   "ranked": false,
-  "rating": 0.92668635,
-  "ratingCount": 336,
+  "rating": 0.92660964,
+  "ratingCount": 337,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

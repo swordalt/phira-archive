@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:14Z",
-    "lastChanged": "2026-09-21T02:03:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-19T08:30:04.014846Z",
   "charter": "一年级の小偷",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/017be6f2-f83e-499b-a988-d7bafb564e4b",
+  "hidden": false,
   "id": 36731,
   "illustration": "https://phira.5wyxi.com/files/62f23eb8-971d-4ea8-9c42-023c3b6021b3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ギプソフィラを花束に",
   "preview": "https://phira.5wyxi.com/files/4b3be878-a3d0-4343-ad88-a08bbcd16bea",
   "ranked": false,
-  "rating": 0.89629996,
-  "ratingCount": 75,
+  "rating": 0.8954442,
+  "ratingCount": 77,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

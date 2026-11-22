@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:01Z",
-    "lastChanged": "2026-09-21T02:06:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-25T13:08:28.023511Z",
   "charter": "mx_eoe",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/adc9cd97-a7ba-48ea-ac73-c08322f8c7ec",
+  "hidden": false,
   "id": 28038,
   "illustration": "https://phira.5wyxi.com/files/aa480298-20c1-4ad2-bc5f-bc5a4b395bae",
   "illustrator": "",

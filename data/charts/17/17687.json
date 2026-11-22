@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:05Z",
-    "lastChanged": "2026-09-21T02:02:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-29T13:58:48.330136Z",
   "charter": "屛庐",
@@ -14,6 +14,7 @@
   "description": "谱师：屛庐，懒得写特效了",
   "difficulty": 14.900002,
   "file": "https://phira.5wyxi.com/files/964e9a7b-eb64-4dd0-bf0b-f6700bed103e",
+  "hidden": false,
   "id": 17687,
   "illustration": "https://phira.5wyxi.com/files/d4714e72-a32d-49ad-a863-8ccc03eeb16b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Oriental Bounce",
   "preview": "https://phira.5wyxi.com/files/b7b3e997-73df-4224-9eca-cc4e2ea0661d",
   "ranked": false,
-  "rating": 0.9368758,
-  "ratingCount": 223,
+  "rating": 0.93671876,
+  "ratingCount": 224,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

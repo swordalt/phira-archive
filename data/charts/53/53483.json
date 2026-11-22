@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:46Z",
-    "lastChanged": "2026-09-21T02:06:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-26T15:03:39.329053Z",
   "charter": "Nosmoking",
@@ -14,6 +14,7 @@
   "description": "定位：高密度乱",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/bbb3f5ed-4501-4404-b2d6-60278d80a9dc",
+  "hidden": false,
   "id": 53483,
   "illustration": "https://phira.5wyxi.com/files/66dfff85-4b0a-43e1-a10d-dfe4d932cbc9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "lcyxis ~True Ending~",
   "preview": "https://phira.5wyxi.com/files/0ecf7297-e625-4ebf-a04c-3d8f6e9fed13",
   "ranked": false,
-  "rating": 0.9463282,
-  "ratingCount": 36,
+  "rating": 0.94466853,
+  "ratingCount": 38,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

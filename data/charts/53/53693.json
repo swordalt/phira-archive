@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:48Z",
-    "lastChanged": "2026-09-21T02:06:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-01T15:07:13.202262Z",
   "charter": "酒寄彩叶",
@@ -14,6 +14,7 @@
   "description": "本人上传\n彩叶是1",
   "difficulty": 16.4,
   "file": "https://phira.5wyxi.com/files/b4e297d4-0fc1-4a7d-a762-db4f93d53829",
+  "hidden": false,
   "id": 53693,
   "illustration": "https://phira.5wyxi.com/files/f8a8507f-198f-419a-ad10-7aac52f79d76",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "「ray」 (超かぐや姫! Ver.)",
   "preview": "https://phira.5wyxi.com/files/66548a24-a90e-4407-8b2c-e33a36a67702",
   "ranked": false,
-  "rating": 0.93955815,
-  "ratingCount": 224,
+  "rating": 0.94062006,
+  "ratingCount": 233,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

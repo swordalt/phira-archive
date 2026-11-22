@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:28Z",
-    "lastChanged": "2026-09-21T02:04:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-14T08:56:43.649273Z",
   "charter": "NightcordKnd",
@@ -14,6 +14,7 @@
   "description": "新人初谱咕 尽管写的时候发现了一些问题但可能还是会有各种各样的错误 不过短期内没法改要中考了 抱歉（\n难点集中在尾杀 主要考四合院 需要利用垂判特性来解 尽可能留了反应时间和提示\n侵删",
   "difficulty": 14.700002,
   "file": "https://phira.5wyxi.com/files/0a0fbe9c-f197-4861-9aad-19b475ced296",
+  "hidden": false,
   "id": 54126,
   "illustration": "https://phira.5wyxi.com/files/09abd1ef-6aa5-4193-a755-6d9033826a0f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Episodic Rain",
   "preview": "https://phira.5wyxi.com/files/8fb74352-a290-4806-b992-3fcc1a904fe2",
   "ranked": false,
-  "rating": 0.9116919,
-  "ratingCount": 14,
+  "rating": 0.9273462,
+  "ratingCount": 17,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

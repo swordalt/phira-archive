@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:58Z",
-    "lastChanged": "2026-09-21T02:02:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-24T07:53:26.709665Z",
   "charter": "Supernorva & Plone_plone",
@@ -14,6 +14,7 @@
   "description": "本人上传，B站名@Supernorva\n发布手元录屏请@我\n视频：BV1bLBmYQEfM",
   "difficulty": 16.800001,
   "file": "https://phira.5wyxi.com/files/d4e84966-4ff9-4616-99f5-2a89aa1e363e",
+  "hidden": false,
   "id": 32332,
   "illustration": "https://phira.5wyxi.com/files/27858dd7-d484-4ac5-9218-aa467aed4b18",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Nyarlathotep's Dreamland",
   "preview": "https://phira.5wyxi.com/files/34b8c924-64de-4822-9349-58596f9f597e",
   "ranked": false,
-  "rating": 0.84396493,
-  "ratingCount": 175,
+  "rating": 0.8448526,
+  "ratingCount": 176,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

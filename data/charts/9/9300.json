@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:20Z",
-    "lastChanged": "2026-09-21T02:05:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-12T10:55:47.076708Z",
   "charter": "日向666",
@@ -14,6 +14,7 @@
   "description": "谱面由@日向666本人上传",
   "difficulty": 18.2,
   "file": "https://phira.5wyxi.com/files/d1e7c2c3-56e0-4e99-8d4a-7a405245c732",
+  "hidden": false,
   "id": 9300,
   "illustration": "https://phira.5wyxi.com/files/ae302972-5e8b-4adf-b292-9f572f3861a6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "宴がはじまる!",
   "preview": "https://phira.5wyxi.com/files/e56410d5-cfad-4f13-b984-29b77a446e6e",
   "ranked": false,
-  "rating": 0.8993591,
-  "ratingCount": 656,
+  "rating": 0.8980582,
+  "ratingCount": 660,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

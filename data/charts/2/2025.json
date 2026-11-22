@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:11Z",
-    "lastChanged": "2026-09-21T02:01:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-14T08:54:18.134453Z",
   "charter": "雨云不用伞",
@@ -14,6 +14,7 @@
   "description": "PE转RPE有小bug请见谅orz",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/9619063f-0f53-4f59-983e-0d5d38c64fd3",
+  "hidden": false,
   "id": 2025,
   "illustration": "https://phira.5wyxi.com/files/0de5ff0f-4379-47f2-bd6e-4d9e1a9d069a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "enchanted love",
   "preview": "https://phira.5wyxi.com/files/a40c95ea-e4ca-43cc-99b7-1d0fc686c312",
   "ranked": false,
-  "rating": 0.9190179,
-  "ratingCount": 1671,
+  "rating": 0.9192591,
+  "ratingCount": 1680,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

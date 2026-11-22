@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:00Z",
-    "lastChanged": "2026-09-21T02:03:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-30T10:55:50.674558Z",
   "charter": "zyz章鱼粥",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/98d63ec4-8704-4f80-91e7-10a461bb1e52",
+  "hidden": false,
   "id": 32897,
   "illustration": "https://phira.5wyxi.com/files/b4c7238a-0e18-438a-969b-9ef500f2655c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "DT Zumba",
   "preview": "https://phira.5wyxi.com/files/1be03781-24c0-4eae-846e-682b52601036",
   "ranked": false,
-  "rating": 0.70360464,
-  "ratingCount": 19,
+  "rating": 0.6868601,
+  "ratingCount": 20,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

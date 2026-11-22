@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-27T10:16:04Z",
-    "lastChanged": "2026-10-04T10:51:01Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:58:49Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-07-23T17:26:13.005448Z",
   "charter": "小黑",
@@ -14,6 +14,7 @@
   "description": "重制版\n可能有点初见杀",
   "difficulty": 16.800003,
   "file": "https://phira.5wyxi.com/files/d8cc8ca7-9432-4379-8a7e-57086dd9e06d",
+  "hidden": false,
   "id": 68754,
   "illustration": "https://phira.5wyxi.com/files/281471ec-2c6f-4851-aa0c-c2bcb4778fb5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "climax",
   "preview": "https://phira.5wyxi.com/files/0d45f546-befa-444b-9b78-fce88af28d07",
   "ranked": false,
-  "rating": 0.8613223,
-  "ratingCount": 21,
+  "rating": 0.8907449,
+  "ratingCount": 95,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

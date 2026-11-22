@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:59Z",
-    "lastChanged": "2026-09-21T02:04:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-16T14:59:04.771273Z",
   "charter": "Chris_hopper",
@@ -14,6 +14,7 @@
   "description": "不喜勿喷，耗时2月制成。创作小白，请多指教。感谢支持。",
   "difficulty": 14.199997,
   "file": "https://phira.5wyxi.com/files/b859b859-1a44-486e-b6df-5517112cefe4",
+  "hidden": false,
   "id": 67043,
   "illustration": "https://phira.5wyxi.com/files/c037ec5b-6404-4f38-a02e-65a64056d787",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "耀斑",
   "preview": "https://phira.5wyxi.com/files/5693b86e-4a89-4f04-afcd-c436cca344ab",
   "ranked": false,
-  "rating": 0.93990225,
-  "ratingCount": 515,
+  "rating": 0.9306926,
+  "ratingCount": 1554,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

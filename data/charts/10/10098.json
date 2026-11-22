@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:36Z",
-    "lastChanged": "2026-09-21T02:01:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-03T12:55:27.499650Z",
   "charter": "枫叶-石油（phira:张张125）",
@@ -14,6 +14,7 @@
   "description": "慎进，粪谱！（与B站头像有出入）",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/8eeb5f7c-7b16-448e-a2c9-92aa0f80a933",
+  "hidden": false,
   "id": 10098,
   "illustration": "https://phira.5wyxi.com/files/d4326e91-6b66-4512-a59d-7e434873e43d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "蝎虎天体-Lacertid-",
   "preview": "https://phira.5wyxi.com/files/eb0bd096-eba3-4af4-914f-84e523c4b131",
   "ranked": false,
-  "rating": 0.8012397,
-  "ratingCount": 804,
+  "rating": 0.8013757,
+  "ratingCount": 808,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

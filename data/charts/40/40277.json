@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:24Z",
-    "lastChanged": "2026-09-21T02:03:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-26T08:35:56.554037Z",
   "charter": "GZDMDQ",
@@ -14,6 +14,7 @@
   "description": "就是GZDMDQ本人",
   "difficulty": 16.899998,
   "file": "https://phira.5wyxi.com/files/2c785d8a-3eee-498c-b357-939bb6b6eb38",
+  "hidden": false,
   "id": 40277,
   "illustration": "https://phira.5wyxi.com/files/110b544e-e184-4a8c-9796-178b6cec9a64",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "风暴(The Storm)",
   "preview": "https://phira.5wyxi.com/files/11b357b1-ab5e-4998-8227-6fea6248b00e",
   "ranked": false,
-  "rating": 0.8190111,
-  "ratingCount": 222,
+  "rating": 0.82238764,
+  "ratingCount": 229,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

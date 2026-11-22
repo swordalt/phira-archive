@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:13Z",
-    "lastChanged": "2026-09-21T02:05:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-27T17:57:36.024872Z",
   "charter": "UNKN239",
@@ -14,6 +14,7 @@
   "description": "哔站链接 BV1HNhA6xE42",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/83369509-fcfb-4138-bd58-91edd82136bf",
+  "hidden": false,
   "id": 76096,
   "illustration": "https://phira.5wyxi.com/files/28825c9b-c7cb-4026-a5ec-d434e0c8816a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "HYPER-NATION",
   "preview": "https://phira.5wyxi.com/files/74c59eaa-ce51-48b5-b563-5662ae8db5dc",
   "ranked": true,
-  "rating": 0.93099654,
-  "ratingCount": 158,
+  "rating": 0.93101335,
+  "ratingCount": 476,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

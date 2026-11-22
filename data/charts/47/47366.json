@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:54Z",
-    "lastChanged": "2026-09-21T02:03:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-30T23:21:28.427071Z",
   "charter": "X.L.I.P",
@@ -14,6 +14,7 @@
   "description": "你就放开了写，肯定好玩",
   "difficulty": 16.500002,
   "file": "https://phira.5wyxi.com/files/3ddbde8b-d87f-4268-b93f-4612d0502932",
+  "hidden": false,
   "id": 47366,
   "illustration": "https://phira.5wyxi.com/files/25a059e4-cd65-429d-b113-aa8512895cc0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "X.E.N.O",
   "preview": "https://phira.5wyxi.com/files/de57f811-b20a-4e57-ace5-ab9d49eddfd6",
   "ranked": false,
-  "rating": 0.81807876,
-  "ratingCount": 88,
+  "rating": 0.81957364,
+  "ratingCount": 92,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

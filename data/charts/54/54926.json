@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:33Z",
-    "lastChanged": "2026-09-21T02:04:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-03T06:13:21.840308Z",
   "charter": "Seachannel",
@@ -14,6 +14,7 @@
   "description": "大家好我是Seachannel, 不要把我拆开",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/af01eb91-6bc5-48e6-ba36-1a5a299e43dd",
+  "hidden": false,
   "id": 54926,
   "illustration": "https://phira.5wyxi.com/files/c06255e2-1dc6-4c14-9885-1cadc9ce4f37",
   "illustrator": "",

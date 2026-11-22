@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:29Z",
-    "lastChanged": "2026-09-21T02:04:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-15T01:55:41.001895Z",
   "charter": "人机deCXK",
@@ -14,6 +14,7 @@
   "description": "新人谱师～不喜勿喷～",
   "difficulty": 13.900001,
   "file": "https://phira.5wyxi.com/files/56f47c5a-c292-44d9-9685-9275f81433cc",
+  "hidden": false,
   "id": 54176,
   "illustration": "https://phira.5wyxi.com/files/8782738d-4fa4-4c2f-9946-28d3db2ac247",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "立春",
   "preview": "https://phira.5wyxi.com/files/5156e8f5-de05-45ec-bb90-f49c2fac79c6",
   "ranked": false,
-  "rating": 0.878302,
-  "ratingCount": 249,
+  "rating": 0.8753569,
+  "ratingCount": 275,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

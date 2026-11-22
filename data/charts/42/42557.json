@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:25Z",
-    "lastChanged": "2026-09-21T02:06:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-23T17:01:12.259140Z",
   "charter": "西江月",
@@ -14,6 +14,7 @@
   "description": "第一张谱，谱师b站@西江之日月",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/1249da28-6e0c-4004-b684-6450ed477e3d",
+  "hidden": false,
   "id": 42557,
   "illustration": "https://phira.5wyxi.com/files/053df676-c373-414e-a6f1-149865907dad",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "生命流",
   "preview": "https://phira.5wyxi.com/files/8e54d4c8-9615-4244-97da-e1de3df5f645",
   "ranked": false,
-  "rating": 0.8558719,
-  "ratingCount": 32,
+  "rating": 0.8597852,
+  "ratingCount": 33,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:16Z",
-    "lastChanged": "2026-09-21T02:02:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-04T10:43:30.027304Z",
   "charter": "Haze Attack",
@@ -14,6 +14,7 @@
   "description": "Charter:CatRiot 本人上传",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/b8f6a162-c60d-46c8-8ce6-4f7a1db61cd8",
+  "hidden": false,
   "id": 20782,
   "illustration": "https://phira.5wyxi.com/files/203db0e8-3c8a-4637-92c6-c5aec5c9f692",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Power Attack",
   "preview": "https://phira.5wyxi.com/files/2e2f1476-2dd6-4ed7-ab6d-1f405cbe65fa",
   "ranked": false,
-  "rating": 0.94089144,
-  "ratingCount": 964,
+  "rating": 0.9407064,
+  "ratingCount": 987,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

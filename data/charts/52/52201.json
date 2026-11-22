@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:18Z",
-    "lastChanged": "2026-09-21T02:04:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-07T01:19:47.813484Z",
   "charter": "Keunk_Rea",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/0d5344e0-1cb1-4014-b7d0-e5ad11c76e29",
+  "hidden": false,
   "id": 52201,
   "illustration": "https://phira.5wyxi.com/files/8f9d5a92-31ba-437c-8f9c-bd481756cb89",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fatalisme",
   "preview": "https://phira.5wyxi.com/files/d98fb3c8-a788-4f0b-8b08-c365f4613192",
   "ranked": false,
-  "rating": 0.9443584,
-  "ratingCount": 402,
+  "rating": 0.9445689,
+  "ratingCount": 414,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

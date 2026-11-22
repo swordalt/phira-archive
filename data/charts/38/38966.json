@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:16Z",
-    "lastChanged": "2026-09-21T02:06:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-31T09:50:00.469433Z",
   "charter": "DJKSlu",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/de6edf05-31fd-4c2a-83cc-2a1fcaf6947c",
+  "hidden": false,
   "id": 38966,
   "illustration": "https://phira.5wyxi.com/files/cbda3726-b509-450b-8d07-8669cc5dce9f",
   "illustrator": "",

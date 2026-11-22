@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:14Z",
-    "lastChanged": "2026-09-21T02:03:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-18T04:01:21.809565Z",
   "charter": "日向反击战",
@@ -14,6 +14,7 @@
   "description": "谱面由谱师本人【日向666】制作并上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/b7afcbb3-4d62-4d6c-832d-681adc8917ac",
+  "hidden": false,
   "id": 36656,
   "illustration": "https://phira.5wyxi.com/files/d87927f3-4d3f-4ef4-8ad4-702fc3b7847d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "家庭称呼歌",
   "preview": "https://phira.5wyxi.com/files/e1584418-c23b-418c-b7f4-66bdee1bc933",
   "ranked": false,
-  "rating": 0.8664575,
-  "ratingCount": 573,
+  "rating": 0.862569,
+  "ratingCount": 596,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

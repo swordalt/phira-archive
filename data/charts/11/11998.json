@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:21Z",
-    "lastChanged": "2026-09-21T02:05:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-02T09:17:53.105323Z",
   "charter": "DY2-3-2",
@@ -14,6 +14,7 @@
   "description": "本人上传bilibili@DY232",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/04e021b3-c239-4236-8132-b4ecb63da7e7",
+  "hidden": false,
   "id": 11998,
   "illustration": "https://phira.5wyxi.com/files/effb7fa3-6a98-4f76-b224-160d6c407af7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Was ist dein Lieblinsfach",
   "preview": "https://phira.5wyxi.com/files/35ec4eda-1153-4dea-ba13-532fd0390f69",
   "ranked": false,
-  "rating": 0.86213094,
-  "ratingCount": 235,
+  "rating": 0.85887545,
+  "ratingCount": 240,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

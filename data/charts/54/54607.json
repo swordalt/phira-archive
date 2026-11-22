@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:30Z",
-    "lastChanged": "2026-09-21T02:04:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-27T15:48:41.807494Z",
   "charter": "Mzl_麻酱",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/cd6009ed-7639-4f01-8173-0d72a9352164",
+  "hidden": false,
   "id": 54607,
   "illustration": "https://phira.5wyxi.com/files/ad7ab9f8-b7aa-4467-bdc6-271f54be3704",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "银河",
   "preview": "https://phira.5wyxi.com/files/5a34ea28-31eb-4d7e-bdb5-d5f94d6abb78",
   "ranked": false,
-  "rating": 0.8172108,
-  "ratingCount": 17,
+  "rating": 0.8243455,
+  "ratingCount": 20,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

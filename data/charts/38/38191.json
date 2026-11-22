@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:18Z",
-    "lastChanged": "2026-09-21T02:03:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-17T09:55:29.735211Z",
   "charter": "ab5k love",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.000004,
   "file": "https://phira.5wyxi.com/files/3dadf917-6990-479d-a1d6-57cd86c9e0a7",
+  "hidden": false,
   "id": 38191,
   "illustration": "https://phira.5wyxi.com/files/607a9d54-c414-4e16-a62b-1f7f67266da2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Love like we're dying",
   "preview": "https://phira.5wyxi.com/files/7ec8c35b-5abe-449f-b462-3cc697dc5d74",
   "ranked": false,
-  "rating": 0.9382199,
-  "ratingCount": 139,
+  "rating": 0.9383235,
+  "ratingCount": 144,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:08Z",
-    "lastChanged": "2026-09-21T02:06:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-29T01:26:28.152063Z",
   "charter": "Aandy",
@@ -14,6 +14,7 @@
   "description": "Convert by MVP\n双指，纯配置，瞎写的（（",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/c63e1907-1c56-49bc-a2fd-4cd38977ba40",
+  "hidden": false,
   "id": 32738,
   "illustration": "https://phira.5wyxi.com/files/5c50e657-b214-4194-ab6c-5a1d589710bb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Beat the rules",
   "preview": "https://phira.5wyxi.com/files/49df0a58-4da1-4e24-ba89-a787399d2bbb",
   "ranked": false,
-  "rating": 0.91228014,
-  "ratingCount": 97,
+  "rating": 0.91292006,
+  "ratingCount": 100,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

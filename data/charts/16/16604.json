@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:01Z",
-    "lastChanged": "2026-09-21T02:02:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-02T05:02:49.970214Z",
   "charter": "tangentdelta",
@@ -14,6 +14,7 @@
   "description": "自己写的第二个谱子，可能会有不足的地方，请多多包涵",
   "difficulty": 9.0,
   "file": "https://phira.5wyxi.com/files/80df5d48-20e9-429b-866c-699af2331209",
+  "hidden": false,
   "id": 16604,
   "illustration": "https://phira.5wyxi.com/files/a010db6b-7694-450b-b33e-83859007571a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Thriving dawn",
   "preview": "https://phira.5wyxi.com/files/9a09ba20-4d35-4491-b494-6239e0609c5a",
   "ranked": false,
-  "rating": 0.9205048,
-  "ratingCount": 114,
+  "rating": 0.9210144,
+  "ratingCount": 116,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

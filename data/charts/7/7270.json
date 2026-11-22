@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:25Z",
-    "lastChanged": "2026-09-21T02:01:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-10T23:45:53.695608Z",
   "charter": "小“炎”熊",
@@ -14,6 +14,7 @@
   "description": "上传者为谱师本人，B站视频BV号BV1Zh4y1F7hA，谱师B站账号UID:1581907472",
   "difficulty": 13.300001,
   "file": "https://phira.5wyxi.com/files/06a3afa0-3f83-43ac-bb8a-30f25203c911",
+  "hidden": false,
   "id": 7270,
   "illustration": "https://phira.5wyxi.com/files/584daf26-c254-4e80-af69-fbf1cad9b280",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "夏天幻游日记",
   "preview": "https://phira.5wyxi.com/files/dda74664-398b-41d1-8b22-556136daad2f",
   "ranked": false,
-  "rating": 0.9270777,
-  "ratingCount": 1327,
+  "rating": 0.92771995,
+  "ratingCount": 1342,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-25T16:04:04Z",
-    "lastChanged": "2026-10-26T12:49:31Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:03:13Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-25T11:50:19.571416Z",
   "charter": "冷影",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，音频来源b站异色乌鸫的“六十八位学生合唱blessing”写给uz的生贺作，玩的开心",
   "difficulty": 16.200003,
   "file": "https://phira.5wyxi.com/files/397e998b-aa5b-4ebe-94e3-a7803f4550e0",
+  "hidden": false,
   "id": 82172,
   "illustration": "https://phira.5wyxi.com/files/4a0fc99d-365a-4b06-a880-0a29b27ff37c",
   "illustrator": "蔚蓝档案",
@@ -21,8 +22,8 @@
   "name": "Blessing（六十八位学生合唱）",
   "preview": "https://phira.5wyxi.com/files/03c0c286-39b0-479b-9838-4327990e0ccf",
   "ranked": false,
-  "rating": 0.8851848,
-  "ratingCount": 10,
+  "rating": 0.9166894,
+  "ratingCount": 88,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:21Z",
-    "lastChanged": "2026-09-21T02:05:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-19T11:19:42.039795Z",
   "charter": "NuanR_Mxi & NuanR_Star",
@@ -14,6 +14,7 @@
   "description": "整活写的，第一次写整活谱，实测可打，不可autoplay直接上传视频平台，手元请@暖日_mxi",
   "difficulty": 15.799984,
   "file": "https://phira.5wyxi.com/files/d7b34e0c-a8c3-4a41-8048-6392968497b5",
+  "hidden": false,
   "id": 12631,
   "illustration": "https://phira.5wyxi.com/files/d3c7001e-d839-49fe-b89e-80c3e3796a02",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "耳 朵 聋 了",
   "preview": "https://phira.5wyxi.com/files/2e8182ba-2716-4b4d-92c4-0f5a9ccd941c",
   "ranked": false,
-  "rating": 0.87367743,
-  "ratingCount": 628,
+  "rating": 0.8740816,
+  "ratingCount": 630,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

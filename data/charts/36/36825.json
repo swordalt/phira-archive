@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:29Z",
-    "lastChanged": "2026-09-21T02:05:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-20T09:12:36.242027Z",
   "charter": "MCMK-",
@@ -14,6 +14,7 @@
   "description": "愚人节整活谱",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/5b6b384b-87ca-456e-96a3-22592d26c512",
+  "hidden": false,
   "id": 36825,
   "illustration": "https://phira.5wyxi.com/files/2179f800-156e-4fe9-bc9b-3f2a49f67677",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "管道ERROR",
   "preview": "https://phira.5wyxi.com/files/0e56c39d-2774-47e9-a578-0077ded51c1b",
   "ranked": false,
-  "rating": 0.8803045,
-  "ratingCount": 214,
+  "rating": 0.8820376,
+  "ratingCount": 218,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

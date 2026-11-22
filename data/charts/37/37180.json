@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-09-21T02:06:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-01T07:29:38.577439Z",
   "charter": "xlyee",
@@ -14,6 +14,7 @@
   "description": "个人的第二个4k谱，这个写的有点赶，所以手感不太好",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/3607bad6-0553-45b3-9c52-0c3860f00912",
+  "hidden": false,
   "id": 37180,
   "illustration": "https://phira.5wyxi.com/files/046a16b8-df81-4659-a70a-baf32498da64",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "反乌托邦",
   "preview": "https://phira.5wyxi.com/files/ae58954b-141e-4a11-bbbc-56cd21d90847",
   "ranked": false,
-  "rating": 0.91071206,
-  "ratingCount": 450,
+  "rating": 0.90771717,
+  "ratingCount": 483,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

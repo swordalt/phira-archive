@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:25Z",
-    "lastChanged": "2026-09-21T02:02:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-20T19:38:20.297596Z",
   "charter": "苏子2333",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/f6529ab0-f2e1-4c17-8a09-90265e8d077b",
+  "hidden": false,
   "id": 23932,
   "illustration": "https://phira.5wyxi.com/files/be4c61be-04f7-4075-b3a2-8dd6406487f6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ラビットホール",
   "preview": "https://phira.5wyxi.com/files/97a53e84-ddf3-4375-bb0f-fb21db42f67f",
   "ranked": false,
-  "rating": 0.9071611,
-  "ratingCount": 1676,
+  "rating": 0.9070743,
+  "ratingCount": 1693,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:07Z",
-    "lastChanged": "2026-09-21T02:06:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-26T10:49:32.474562Z",
   "charter": "chuanyuan\n",
@@ -14,6 +14,7 @@
   "description": "我是超级踩音王",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/6f8383f2-7b3c-47f5-9497-7d150694fc30",
+  "hidden": false,
   "id": 32523,
   "illustration": "https://phira.5wyxi.com/files/86fa826b-da5e-42aa-8de3-e8ce43cf290f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Nostos2021",
   "preview": "https://phira.5wyxi.com/files/3c02041e-2604-4105-97a9-3a022d65eedb",
   "ranked": false,
-  "rating": 0.80179083,
-  "ratingCount": 108,
+  "rating": 0.8035914,
+  "ratingCount": 109,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

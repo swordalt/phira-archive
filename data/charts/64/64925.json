@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:57Z",
-    "lastChanged": "2026-09-21T02:06:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-08T08:43:16.390482Z",
   "charter": "DEL-starh",
@@ -14,6 +14,7 @@
   "description": "生日作\n感谢Anxiety的铺面指导\n神秘段位制作中.......",
   "difficulty": 1.0,
   "file": "https://phira.5wyxi.com/files/04e8aa46-a897-4da2-bb70-6d584411e5b3",
+  "hidden": false,
   "id": 64925,
   "illustration": "https://phira.5wyxi.com/files/45b84891-792e-4014-9946-c4c423383a7a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "M.O.P.E.-333",
   "preview": "https://phira.5wyxi.com/files/4e38efd0-46d6-4584-a67b-ce98afad7872",
   "ranked": false,
-  "rating": 0.80552316,
-  "ratingCount": 3,
+  "rating": 0.8879031,
+  "ratingCount": 10,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

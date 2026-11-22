@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:40Z",
-    "lastChanged": "2026-09-21T02:04:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-02T12:49:02.478757Z",
   "charter": "Łucid//Amné",
@@ -14,6 +14,7 @@
   "description": "我向你证明，我拥有跨越遗忘的■■。  第三届「穹顶杯」决赛谱面。",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/0882b7bb-e225-4745-a39e-08c5997478bc",
+  "hidden": false,
   "id": 57590,
   "illustration": "https://phira.5wyxi.com/files/e1eb16dc-4a74-41b5-aea4-dd1b73cdce6e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Amnéhilesie",
   "preview": "https://phira.5wyxi.com/files/abc00b67-d816-4fa6-9bb5-5286e844a748",
   "ranked": false,
-  "rating": 0.9484202,
-  "ratingCount": 708,
+  "rating": 0.94880813,
+  "ratingCount": 735,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

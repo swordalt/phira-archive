@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:29Z",
-    "lastChanged": "2026-09-21T02:02:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-03T19:13:01.808428Z",
   "charter": "Xuniy",
@@ -14,6 +14,7 @@
   "description": "本谱使用故事版\n\n可能有一点问题，但是不会改了૮（  ºm º）ა\n\nbilibili：薰依x",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/4385d198-57e2-4fb2-ad90-8abd3822530a",
+  "hidden": false,
   "id": 25203,
   "illustration": "https://phira.5wyxi.com/files/06d4ae53-7b8d-47ba-8253-bad52ed99b31",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mystic Light Quest",
   "preview": "https://phira.5wyxi.com/files/b57645e3-3293-49dc-abc4-a7ed7b4df49c",
   "ranked": false,
-  "rating": 0.9365231,
-  "ratingCount": 2680,
+  "rating": 0.93753207,
+  "ratingCount": 2799,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:57Z",
-    "lastChanged": "2026-09-21T02:01:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-13T22:37:35.806138Z",
   "charter": "6thPecJam",
@@ -14,6 +14,7 @@
   "description": "Miku也会飞.",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/4cf12bc5-0772-4b05-a351-55ffbe4b90b1",
+  "hidden": false,
   "id": 15613,
   "illustration": "https://phira.5wyxi.com/files/33ab391b-d8de-4b4f-a5fe-5e22d89ee972",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "青く駆けろ！(feat.初音ミク)",
   "preview": "https://phira.5wyxi.com/files/e157d302-464e-457e-94c8-c3d5a0f2867b",
   "ranked": false,
-  "rating": 0.91214955,
-  "ratingCount": 791,
+  "rating": 0.91202784,
+  "ratingCount": 801,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

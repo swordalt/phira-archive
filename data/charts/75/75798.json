@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:13Z",
-    "lastChanged": "2026-09-21T02:05:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-26T08:20:10.302302Z",
   "charter": "TriZCloud",
@@ -14,6 +14,7 @@
   "description": "第四张谱，半年之后回来填坑\n协作者：@xgcn与RainCloud9#1136943（优化谱面）\n本人上传，已征得协作者同意。",
   "difficulty": 14.600002,
   "file": "https://phira.5wyxi.com/files/44c34f06-223c-4fd4-9b89-5836f94740a1",
+  "hidden": false,
   "id": 75798,
   "illustration": "https://phira.5wyxi.com/files/4ee11138-1511-4db2-a099-255096d5f42d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mannenzakura",
   "preview": "https://phira.5wyxi.com/files/84f6768b-10b2-4254-b787-ee2c7da12969",
   "ranked": false,
-  "rating": 0.90056306,
-  "ratingCount": 287,
+  "rating": 0.90408266,
+  "ratingCount": 337,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

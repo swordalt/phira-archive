@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:15Z",
-    "lastChanged": "2026-09-21T02:06:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-22T17:23:55.264091Z",
   "charter": "狗鸿大人",
@@ -14,6 +14,7 @@
   "description": "第二张4K，后半段爆发非常阴",
   "difficulty": 22.0,
   "file": "https://phira.5wyxi.com/files/2cf69df4-5bdc-4df9-b003-6d533a18b889",
+  "hidden": false,
   "id": 38475,
   "illustration": "https://phira.5wyxi.com/files/06871791-0651-4173-aff0-07e93d16f1b5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Inverted World",
   "preview": "https://phira.5wyxi.com/files/295ef347-d6e1-4a84-901c-b086d48e1765",
   "ranked": false,
-  "rating": 0.94400144,
-  "ratingCount": 813,
+  "rating": 0.944725,
+  "ratingCount": 844,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:03Z",
-    "lastChanged": "2026-09-21T02:04:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-22T14:30:44.493297Z",
   "charter": "晓技_link",
@@ -14,6 +14,7 @@
   "description": "B站 @晓技_link\n本人上传",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/8d7c45a2-d258-4d03-aae3-24beeb37afd4",
+  "hidden": false,
   "id": 49412,
   "illustration": "https://phira.5wyxi.com/files/9611159d-9246-43d9-b3a8-aa1cdd133975",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Autumn Fall",
   "preview": "https://phira.5wyxi.com/files/a1569845-b7c2-45c4-a4f7-a36d15119835",
   "ranked": false,
-  "rating": 0.8965477,
-  "ratingCount": 29,
+  "rating": 0.90272665,
+  "ratingCount": 33,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

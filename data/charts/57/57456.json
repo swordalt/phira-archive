@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:39Z",
-    "lastChanged": "2026-09-21T02:04:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-01T09:41:09.104664Z",
   "charter": "RGB-敬启中",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nB站：BV1bzRNBYEVL\n此次上传修改了采音，请退回之前上传的版本",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/0fb0becc-56f8-46b9-8b57-4e5ec22646ca",
+  "hidden": false,
   "id": 57456,
   "illustration": "https://phira.5wyxi.com/files/43accf53-51a4-4b05-9b66-e392c1bf5763",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "拝啓",
   "preview": "https://phira.5wyxi.com/files/85646fd6-f9ca-49e8-a6c2-b4c71ea61c51",
   "ranked": false,
-  "rating": 0.9254625,
-  "ratingCount": 2563,
+  "rating": 0.92783624,
+  "ratingCount": 2811,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

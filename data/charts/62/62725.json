@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:56Z",
-    "lastChanged": "2026-09-21T02:06:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-27T07:30:48.419361Z",
   "charter": "mzycAB",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/6c79db02-b93c-498f-a6dd-128b0c9f9e12",
+  "hidden": false,
   "id": 62725,
   "illustration": "https://phira.5wyxi.com/files/e8598416-bf7c-42fc-ae5b-23e62a941183",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sky High",
   "preview": "https://phira.5wyxi.com/files/75904dae-1afc-48b6-9373-7745a6bfc4a9",
   "ranked": false,
-  "rating": 0.7934091,
-  "ratingCount": 10,
+  "rating": 0.8001006,
+  "ratingCount": 11,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

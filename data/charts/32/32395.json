@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:07Z",
-    "lastChanged": "2026-09-21T02:06:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-25T02:32:28.452469Z",
   "charter": "白荧工作室",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 5.0,
   "file": "https://phira.5wyxi.com/files/39dbd08b-44ae-45f1-acdc-384afbea9248",
+  "hidden": false,
   "id": 32395,
   "illustration": "https://phira.5wyxi.com/files/87efc0d2-e086-4802-ae7c-b786c0e548d0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "幻昼DJ(Ikun战歌)",
   "preview": "https://phira.5wyxi.com/files/d939808f-06d7-4277-a02e-ce71689d098e",
   "ranked": false,
-  "rating": 0.85941285,
-  "ratingCount": 190,
+  "rating": 0.8603675,
+  "ratingCount": 196,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

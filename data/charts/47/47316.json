@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:54Z",
-    "lastChanged": "2026-09-21T02:03:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-29T04:49:47.406186Z",
   "charter": "CwD9kir_",
@@ -14,6 +14,7 @@
   "description": "本人上传，是差分削弱！本谱可能会持续更新",
   "difficulty": 18.700003,
   "file": "https://phira.5wyxi.com/files/9c1d7f49-a710-42ac-8ca5-94fb326188ee",
+  "hidden": false,
   "id": 47316,
   "illustration": "https://phira.5wyxi.com/files/2aaac2c9-6435-4ea3-825d-c2c6642b49f1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Rafflesia",
   "preview": "https://phira.5wyxi.com/files/14cb99e7-ff9e-47f2-a4a2-2d4cf1d8968d",
   "ranked": false,
-  "rating": 0.942757,
-  "ratingCount": 480,
+  "rating": 0.94341594,
+  "ratingCount": 495,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

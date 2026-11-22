@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-02T02:12:31Z",
-    "lastChanged": "2026-10-11T11:07:27Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:02:29Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-01-11T06:56:20.370589Z",
   "charter": "Anianfisul",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/059a848f-a84a-4b0e-abce-ed91d0d09203",
+  "hidden": false,
   "id": 51184,
   "illustration": "https://phira.5wyxi.com/files/19ad0b60-5f4f-4177-8ac7-dd4a4247d682",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "オーバーライド（覆写）",
   "preview": "https://phira.5wyxi.com/files/c64e34d0-2010-474b-bfb2-4717d3255b9c",
   "ranked": false,
-  "rating": 0.9420783,
-  "ratingCount": 40,
+  "rating": 0.93654835,
+  "ratingCount": 62,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

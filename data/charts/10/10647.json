@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:38Z",
-    "lastChanged": "2026-09-21T02:01:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-20T15:17:38.426225Z",
   "charter": "Suglarke",
@@ -14,6 +14,7 @@
   "description": "求一个不断红键的phira（x\n第二版",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/6bcd0fb8-088f-4e03-b6d4-e86cf1d3c348",
+  "hidden": false,
   "id": 10647,
   "illustration": "https://phira.5wyxi.com/files/d21aa5ac-7f7f-4f53-ba87-8acb39675377",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Unparalleled",
   "preview": "https://phira.5wyxi.com/files/9bd8d551-3aea-4b58-b4ab-f4d0e2d3b5be",
   "ranked": false,
-  "rating": 0.93140703,
-  "ratingCount": 165,
+  "rating": 0.9310532,
+  "ratingCount": 167,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

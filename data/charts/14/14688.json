@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:53Z",
-    "lastChanged": "2026-09-21T02:01:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-03T04:39:04.896256Z",
   "charter": "Floating Ocean",
@@ -14,6 +14,7 @@
   "description": "^再飞行^\n预览: BV1L7421T76N",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/45f10806-7c61-4183-96fb-4a828972de5a",
+  "hidden": false,
   "id": 14688,
   "illustration": "https://phira.5wyxi.com/files/fdaf00f0-fe6b-480f-ad4a-9f406c777c74",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fly Again",
   "preview": "https://phira.5wyxi.com/files/d2eb9644-7a14-4b10-b9db-6c693fdf2138",
   "ranked": false,
-  "rating": 0.9423809,
-  "ratingCount": 838,
+  "rating": 0.942646,
+  "ratingCount": 844,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

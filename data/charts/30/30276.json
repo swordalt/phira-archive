@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:49Z",
-    "lastChanged": "2026-09-21T02:02:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-30T11:44:25.411229Z",
   "charter": "CreativityNaxes a.k.a. Kris_Creeper survive",
@@ -14,6 +14,7 @@
   "description": "本谱使用@cmdysj 的Re:PhiEdit制作\r\n谱面:CreativityNaxes a.k.a. Kris_Creeper survive（CreativityNaxes）\r\n粉丝群:739239730",
   "difficulty": 16.6,
   "file": "https://phira.5wyxi.com/files/989383f1-a662-49f5-8162-1812a4ddcfd6",
+  "hidden": false,
   "id": 30276,
   "illustration": "https://phira.5wyxi.com/files/e7b96b21-216a-47bd-9965-825ae445f0fc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Divide et impera!",
   "preview": "https://phira.5wyxi.com/files/442f27f7-9eb8-4303-93ee-1083f0cfd57d",
   "ranked": false,
-  "rating": 0.69898546,
-  "ratingCount": 113,
+  "rating": 0.69993246,
+  "ratingCount": 115,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

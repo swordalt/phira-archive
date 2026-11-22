@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:40Z",
-    "lastChanged": "2026-09-21T02:06:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-08T08:49:10.405844Z",
   "charter": "agbot123",
@@ -14,6 +14,7 @@
   "description": "没有休息段还有很长的锁手段\n\n后半段那一坨32分（应该是32分）其实是对拍和切",
   "difficulty": 10.000003,
   "file": "https://phira.5wyxi.com/files/c51eea2f-62c4-44f2-9790-a63e554df4a7",
+  "hidden": false,
   "id": 48858,
   "illustration": "https://phira.5wyxi.com/files/d76d8f6a-1d3e-40f5-99a5-9566f4c891f5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Break Through the Barrier",
   "preview": "https://phira.5wyxi.com/files/19ea1407-4d0f-4a1d-9e04-34a0dac152ec",
   "ranked": false,
-  "rating": 0.8966789,
-  "ratingCount": 44,
+  "rating": 0.9149662,
+  "ratingCount": 70,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:35Z",
-    "lastChanged": "2026-09-21T02:06:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-14T07:47:00.763061Z",
   "charter": "Canqiu20110505dfg",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 32.0,
   "file": "https://phira.5wyxi.com/files/3857f3ce-3263-46ea-95fa-9dd57cf9bd9f",
+  "hidden": false,
   "id": 46812,
   "illustration": "https://phira.5wyxi.com/files/51fb62e5-6d62-473b-9fd0-01df7da68b47",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Rush E 2",
   "preview": "https://phira.5wyxi.com/files/f0ff661e-ade0-4028-9f22-72cb672c275e",
   "ranked": false,
-  "rating": 0.8178863,
-  "ratingCount": 17,
+  "rating": 0.81251425,
+  "ratingCount": 24,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

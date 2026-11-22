@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:50Z",
-    "lastChanged": "2026-09-21T02:04:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-22T03:33:30.393196Z",
   "charter": "JiuFen",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 5.5,
   "file": "https://phira.5wyxi.com/files/d364a583-bcf8-41ec-98c4-45b3adf0c396",
+  "hidden": false,
   "id": 61967,
   "illustration": "https://phira.5wyxi.com/files/1d8b1b90-d229-4733-b8e1-794096b8bdab",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Amidst Nature",
   "preview": "https://phira.5wyxi.com/files/8740e186-7368-4c73-9dfe-a89946bef652",
   "ranked": false,
-  "rating": 0.8644706,
-  "ratingCount": 74,
+  "rating": 0.8667813,
+  "ratingCount": 80,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

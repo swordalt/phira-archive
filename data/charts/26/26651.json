@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:36Z",
-    "lastChanged": "2026-09-21T02:02:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-21T02:01:53.476647Z",
   "charter": "[CONVERGENCE]",
@@ -14,6 +14,7 @@
   "description": "本人上传，BV1zyWsepEhd",
   "difficulty": 16.800001,
   "file": "https://phira.5wyxi.com/files/a489e765-69fb-4adf-97c9-124792f2fea9",
+  "hidden": false,
   "id": 26651,
   "illustration": "https://phira.5wyxi.com/files/8d9805e8-8ef8-45df-8cd6-8adaf90eea4c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "《Ж》",
   "preview": "https://phira.5wyxi.com/files/d654d901-aa65-4a6c-983c-18ba17e08cd3",
   "ranked": false,
-  "rating": 0.8874945,
-  "ratingCount": 296,
+  "rating": 0.88763463,
+  "ratingCount": 299,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

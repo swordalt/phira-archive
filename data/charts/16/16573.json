@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:01Z",
-    "lastChanged": "2026-09-21T02:02:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-01T11:06:28.796142Z",
   "charter": "Mr.Socine",
@@ -14,6 +14,7 @@
   "description": "GIMMICK n.噱头；花招\r\n2ndWJC参赛谱，相较于原谱有所改动。\r\n谱面预览将于b站@弦余Socine 发布。",
   "difficulty": 14.1,
   "file": "https://phira.5wyxi.com/files/9c4a01f2-6ce6-4d1a-b167-25d8c900a8c8",
+  "hidden": false,
   "id": 16573,
   "illustration": "https://phira.5wyxi.com/files/d56dbe80-c5e1-4fbd-ac2d-c085aab1a9ba",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GIMMICK",
   "preview": "https://phira.5wyxi.com/files/e827e97b-cf88-47ec-8eed-7362d477350d",
   "ranked": true,
-  "rating": 0.8616097,
-  "ratingCount": 433,
+  "rating": 0.8570424,
+  "ratingCount": 439,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

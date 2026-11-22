@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:20Z",
-    "lastChanged": "2026-09-21T02:01:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-18T01:52:57.602930Z",
   "charter": "Silent Night",
@@ -14,6 +14,7 @@
   "description": "本人bilibili账号 HTNMiku_Offical\n这张谱是我6月写的，所以质量好像不是很高",
   "difficulty": 13.500002,
   "file": "https://phira.5wyxi.com/files/28812196-dc0f-43de-af20-031440825850",
+  "hidden": false,
   "id": 5515,
   "illustration": "https://phira.5wyxi.com/files/b25d57d1-4928-4be0-9cde-c8ceda911709",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "静寂に咲く",
   "preview": "https://phira.5wyxi.com/files/541b441c-7c42-45a0-809d-2be1808545eb",
   "ranked": false,
-  "rating": 0.9158417,
-  "ratingCount": 372,
+  "rating": 0.9162938,
+  "ratingCount": 374,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

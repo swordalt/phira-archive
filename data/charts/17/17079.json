@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:03Z",
-    "lastChanged": "2026-09-21T02:02:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-12T05:17:30.691956Z",
   "charter": "Rui and GUGU(PT Charting Team)",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/6fece1d1-d4df-4e73-b3a9-7023d492ab9c",
+  "hidden": false,
   "id": 17079,
   "illustration": "https://phira.5wyxi.com/files/b838eeb3-29fc-4eb5-afc1-95598f845ef7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dragonflame",
   "preview": "https://phira.5wyxi.com/files/f757351a-6834-4deb-ac68-51ca0f61ce58",
   "ranked": false,
-  "rating": 0.9449309,
-  "ratingCount": 1091,
+  "rating": 0.94519264,
+  "ratingCount": 1113,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

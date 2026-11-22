@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-02T09:39:20Z",
-    "lastChanged": "2026-10-11T11:05:34Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:24Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-02T08:56:38.303131Z",
   "charter": "zwz",
@@ -14,6 +14,7 @@
   "description": "谱师本人（中微子）上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/3923f4a4-157f-4a73-a5a9-e258e8f21765",
+  "hidden": false,
   "id": 79798,
   "illustration": "https://phira.5wyxi.com/files/2c3d19c0-e97e-4e6e-a7fd-9db98b49ad00",
   "illustrator": "Kotte Animation",
@@ -21,8 +22,8 @@
   "name": "琵琶曲（DJ版）",
   "preview": "https://phira.5wyxi.com/files/5cb4843e-7dfe-4a23-817c-c190c0e2a74c",
   "ranked": false,
-  "rating": 0.887921,
-  "ratingCount": 19751,
+  "rating": 0.8840426,
+  "ratingCount": 47318,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

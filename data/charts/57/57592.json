@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:40Z",
-    "lastChanged": "2026-09-21T02:04:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-02T12:50:15.988348Z",
   "charter": "Pigeeeeeon",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.5,
   "file": "https://phira.5wyxi.com/files/31adf651-9bc7-4228-b95e-60461199cc1e",
+  "hidden": false,
   "id": 57592,
   "illustration": "https://phira.5wyxi.com/files/ca86ea28-2b28-4d7b-b970-6b6f4979a45d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ÅMARA(大未来電脳)",
   "preview": "https://phira.5wyxi.com/files/6eb986e8-db69-43b2-8255-9684f6098b8d",
   "ranked": false,
-  "rating": 0.89022154,
-  "ratingCount": 134,
+  "rating": 0.88950795,
+  "ratingCount": 137,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

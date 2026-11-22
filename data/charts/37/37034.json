@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:14Z",
-    "lastChanged": "2026-09-21T02:03:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-27T13:05:02.141982Z",
   "charter": "REO",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/12374552-a7f7-4950-b831-d93c0e91e76c",
+  "hidden": false,
   "id": 37034,
   "illustration": "https://phira.5wyxi.com/files/e5419a34-cb10-4833-b2fa-4f8c0b30e222",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "嫦娥奔月 -Lunar Paradoxx-",
   "preview": "https://phira.5wyxi.com/files/1e4519bd-820e-4af6-bc48-99079d11599b",
   "ranked": false,
-  "rating": 0.9357375,
-  "ratingCount": 309,
+  "rating": 0.93326116,
+  "ratingCount": 344,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

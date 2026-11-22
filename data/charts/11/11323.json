@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:40Z",
-    "lastChanged": "2026-09-21T02:01:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-10T16:13:29.610393Z",
   "charter": "VeX or MaX ?",
@@ -14,6 +14,7 @@
   "description": "谱师均同意上传至Phira，由3957本人上传\n@_Vexxxx_#215",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/9f502109-164f-46a0-816b-bc37d167a71e",
+  "hidden": false,
   "id": 11323,
   "illustration": "https://phira.5wyxi.com/files/a04bc594-5c9e-42fa-bbf1-c88ac23b3dce",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "BLACK or WHITE?",
   "preview": "https://phira.5wyxi.com/files/828af01a-c22c-4108-bdc8-c2f4f021f69b",
   "ranked": true,
-  "rating": 0.9170525,
-  "ratingCount": 4098,
+  "rating": 0.9160366,
+  "ratingCount": 4233,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

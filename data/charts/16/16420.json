@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:00Z",
-    "lastChanged": "2026-09-21T02:02:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-24T13:28:37.291860Z",
   "charter": "OWCat",
@@ -14,6 +14,7 @@
   "description": "初谱，本人上传",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/f7f63c98-eeeb-499a-9ebb-78868cb4ea51",
+  "hidden": false,
   "id": 16420,
   "illustration": "https://phira.5wyxi.com/files/9c1cb157-0ae6-4cdc-9f57-78bc31c47018",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ロキ",
   "preview": "https://phira.5wyxi.com/files/71e93417-d13c-427a-acc1-57af6ee5e5f1",
   "ranked": false,
-  "rating": 0.9447908,
-  "ratingCount": 2414,
+  "rating": 0.94405216,
+  "ratingCount": 2455,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

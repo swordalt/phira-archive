@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:44Z",
-    "lastChanged": "2026-09-21T02:05:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-24T02:28:23.697430Z",
   "charter": "Iblcya's Micro Lab",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nLC2024#1/#1.5特供版本",
   "difficulty": 13.49999,
   "file": "https://phira.5wyxi.com/files/90deb406-a039-497b-9d47-6e2f899b7b0d",
+  "hidden": false,
   "id": 17478,
   "illustration": "https://phira.5wyxi.com/files/f8305e31-bc3a-4922-9591-c568c49b7e1a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Antineutrino Witchcraft(0.8x)",
   "preview": "https://phira.5wyxi.com/files/56211747-ca5d-4155-acf5-e59c71ff3cf9",
   "ranked": false,
-  "rating": 0.8871727,
-  "ratingCount": 168,
+  "rating": 0.8884917,
+  "ratingCount": 170,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

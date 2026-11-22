@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:26Z",
-    "lastChanged": "2026-09-21T02:05:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-31T00:21:50.255427Z",
   "charter": "55752525",
@@ -14,6 +14,7 @@
   "description": "本人上传，BV1NEHLeYE3M，发手元屏元记得标明视频链接",
   "difficulty": 15.2,
   "file": "https://phira.5wyxi.com/files/86f86bd1-11ea-452e-9437-6672f11c1cb1",
+  "hidden": false,
   "id": 27185,
   "illustration": "https://phira.5wyxi.com/files/3974e790-1516-47f1-9713-61e54a6f097a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Protorubbisher",
   "preview": "https://phira.5wyxi.com/files/c0181b34-e213-44b7-bda9-2c9d069b70d0",
   "ranked": false,
-  "rating": 0.8655744,
-  "ratingCount": 76,
+  "rating": 0.8660054,
+  "ratingCount": 77,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

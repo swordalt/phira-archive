@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:19Z",
-    "lastChanged": "2026-09-21T02:05:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-01T12:21:26.040566Z",
   "charter": "Konocy",
@@ -14,6 +14,7 @@
   "description": "谱师：Konocry\n初谱 制作时间2022.3",
   "difficulty": 12.8,
   "file": "https://phira.5wyxi.com/files/4c55da0d-d6cc-4241-91a9-f5ca9ad803a3",
+  "hidden": false,
   "id": 6584,
   "illustration": "https://phira.5wyxi.com/files/f0fb1cf9-3fcc-429b-ab5f-64273fe82a90",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "醉酒的蝴蝶",
   "preview": "https://phira.5wyxi.com/files/dc864e92-f450-43d5-803e-ffb32f9140a5",
   "ranked": false,
-  "rating": 0.87823445,
-  "ratingCount": 788,
+  "rating": 0.87761056,
+  "ratingCount": 797,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

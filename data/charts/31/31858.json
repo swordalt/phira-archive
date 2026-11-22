@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:55Z",
-    "lastChanged": "2026-09-21T02:02:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-15T13:51:44.902345Z",
   "charter": "kingmp3",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.5,
   "file": "https://phira.5wyxi.com/files/ef7e89c2-ea57-4195-bae5-320e252aa712",
+  "hidden": false,
   "id": 31858,
   "illustration": "https://phira.5wyxi.com/files/1f87600e-be2a-4bdf-8787-6843905af705",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "战斗堡垒",
   "preview": "https://phira.5wyxi.com/files/fd6be755-c3c2-48d8-aa15-e99e9009e43a",
   "ranked": false,
-  "rating": 0.7744886,
-  "ratingCount": 27,
+  "rating": 0.76378965,
+  "ratingCount": 28,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

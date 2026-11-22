@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:12Z",
-    "lastChanged": "2026-09-21T02:02:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-08T14:54:27.635685Z",
   "charter": "CharlieXD",
@@ -14,6 +14,7 @@
   "description": "自製TheFatRat精選輯的第二張譜！\n希望各位喜歡\n\nv2: 修改部分速度+配置\n\n•四合院注意•\n封面、譜面皆由本人所製",
   "difficulty": 14.600002,
   "file": "https://phira.5wyxi.com/files/03b5e89d-e688-4a2d-9fe4-9e509d271e25",
+  "hidden": false,
   "id": 19682,
   "illustration": "https://phira.5wyxi.com/files/a8093424-ec80-42bd-878a-3c049f355cde",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Hunger",
   "preview": "https://phira.5wyxi.com/files/42067eab-bca8-4429-8b13-86c2b0ad50e0",
   "ranked": false,
-  "rating": 0.8595225,
-  "ratingCount": 99,
+  "rating": 0.8609019,
+  "ratingCount": 100,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

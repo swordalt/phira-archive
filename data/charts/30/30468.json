@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:05Z",
-    "lastChanged": "2026-09-21T02:06:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-07T01:02:52.748563Z",
   "charter": "ade_maine",
@@ -14,6 +14,7 @@
   "description": "来自osu!mania的转铺\n感觉好听就转了",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/b4d66f86-2a1a-4749-8037-965cc7bbaf24",
+  "hidden": false,
   "id": 30468,
   "illustration": "https://phira.5wyxi.com/files/9fab1ac9-3d1f-4770-8326-a45ee183fa21",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "G e n g a o z o -Noize of Nocent-",
   "preview": "https://phira.5wyxi.com/files/a0ae3d0b-9cf9-4dbd-8644-89157585c0c2",
   "ranked": false,
-  "rating": 0.8444777,
-  "ratingCount": 19,
+  "rating": 0.85083526,
+  "ratingCount": 20,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

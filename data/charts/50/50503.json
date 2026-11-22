@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:43Z",
-    "lastChanged": "2026-09-21T02:06:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-23T11:25:42.598917Z",
   "charter": "Jiuwenzi",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n神秘Donk Delta来袭！",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/851a997b-6cb5-4e69-9e02-32c52a6fa256",
+  "hidden": false,
   "id": 50503,
   "illustration": "https://phira.5wyxi.com/files/f396d4cb-836d-4455-b144-9b7e03a32dd9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "DFC Donk Delta Dan (Sample)",
   "preview": "https://phira.5wyxi.com/files/3d9e9299-4ce0-4646-bc6b-9e37867fcc04",
   "ranked": false,
-  "rating": 0.91658556,
-  "ratingCount": 26,
+  "rating": 0.9162162,
+  "ratingCount": 27,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

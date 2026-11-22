@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:08Z",
-    "lastChanged": "2026-09-21T02:07:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-06T13:25:56.785787Z",
   "charter": "SrY-ABYSS",
@@ -14,6 +14,7 @@
   "description": "BGM来自游戏《崩坏星穹铁道》昔涟角色pv\n已修复1个miss的bug，低配机谨慎游玩",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/f8e17eab-01e3-470c-83a9-43b284771af3",
+  "hidden": false,
   "id": 48789,
   "illustration": "https://phira.5wyxi.com/files/4852e72a-3ee1-4a07-b094-4f107de13a4f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "再度和你",
   "preview": "https://phira.5wyxi.com/files/fc5bb95e-53f5-40fc-9313-13ced62204c4",
   "ranked": false,
-  "rating": 0.9741386,
-  "ratingCount": 5886,
+  "rating": 0.97387767,
+  "ratingCount": 6177,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

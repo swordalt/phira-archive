@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:12Z",
-    "lastChanged": "2026-09-21T02:01:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-25T17:06:25.452801Z",
   "charter": "InterJoke",
@@ -14,6 +14,7 @@
   "description": "2023调整版。BV1BY411n7x5",
   "difficulty": 14.600002,
   "file": "https://phira.5wyxi.com/files/4db3f649-f0cc-4335-a9c1-9160a8a473c3",
+  "hidden": false,
   "id": 2551,
   "illustration": "https://phira.5wyxi.com/files/59cf5e2f-6f4d-4a61-8221-7bd2bf733538",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "The Guardians Of The Sun",
   "preview": "https://phira.5wyxi.com/files/2d2afefb-de8b-4d14-9ec5-56a0c3395e4b",
   "ranked": false,
-  "rating": 0.8994888,
+  "rating": 0.9002716,
   "ratingCount": 220,
   "reviewed": true,
   "stable": false,

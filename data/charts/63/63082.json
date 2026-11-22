@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:52Z",
-    "lastChanged": "2026-09-21T02:04:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-29T05:31:41.678228Z",
   "charter": "凑teto",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/03bbc85f-8403-4239-b6a7-b3f425642321",
+  "hidden": false,
   "id": 63082,
   "illustration": "https://phira.5wyxi.com/files/350b2b02-95fb-4bfd-84c3-4cdb007dea76",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Signaling",
   "preview": "https://phira.5wyxi.com/files/f1981b94-6483-47ce-aa48-a38c2fa565b3",
   "ranked": false,
-  "rating": 0.9336795,
-  "ratingCount": 3624,
+  "rating": 0.93330264,
+  "ratingCount": 3927,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:37Z",
-    "lastChanged": "2026-09-21T02:06:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-02T14:20:05.184930Z",
   "charter": "AkiPapawmer",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/99aaac20-7523-46f7-ad50-07d0253c3636",
+  "hidden": false,
   "id": 47500,
   "illustration": "https://phira.5wyxi.com/files/4ec05e85-1a7f-40e4-ab67-fd4116bc460e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Soils Unknown, Atnor (Eastern Wetlands",
   "preview": "https://phira.5wyxi.com/files/3c223624-df46-4b48-aac6-dd6d9937a3af",
   "ranked": false,
-  "rating": 0.91717225,
-  "ratingCount": 84,
+  "rating": 0.91903365,
+  "ratingCount": 86,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

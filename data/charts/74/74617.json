@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:10Z",
-    "lastChanged": "2026-09-21T02:05:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-20T11:06:00.335553Z",
   "charter": "XF",
@@ -14,6 +14,7 @@
   "description": "B站：不是小烦のXF(谱师本人上传)\n详细简介见b站视频\n也是赶上最新最热了)",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/d81d2b80-8ce5-4334-adcc-66c642f720a3",
+  "hidden": false,
   "id": 74617,
   "illustration": "https://phira.5wyxi.com/files/14bf1f46-6a01-493f-8d35-4456f0065776",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Aegisfortia",
   "preview": "https://phira.5wyxi.com/files/7b75ac05-1a8c-4002-81cf-db11c946861b",
   "ranked": false,
-  "rating": 0.8753132,
-  "ratingCount": 129,
+  "rating": 0.8843814,
+  "ratingCount": 162,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:18Z",
-    "lastChanged": "2026-09-21T02:06:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-23T08:13:25.548500Z",
   "charter": "表情捏",
@@ -14,6 +14,7 @@
   "description": "两年前的谱，微调，本人上传",
   "difficulty": 30.0,
   "file": "https://phira.5wyxi.com/files/5505af43-da38-4ba2-b7f2-59099b178e43",
+  "hidden": false,
   "id": 40142,
   "illustration": "https://phira.5wyxi.com/files/d725c613-88ca-4e37-a173-02a9ebae3dd3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ad astra per aspera",
   "preview": "https://phira.5wyxi.com/files/d142a677-603a-47c1-b1b7-502d5bc79ae2",
   "ranked": false,
-  "rating": 0.9367264,
-  "ratingCount": 142,
+  "rating": 0.93899935,
+  "ratingCount": 146,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

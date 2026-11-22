@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:21Z",
-    "lastChanged": "2026-09-21T02:02:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-06T06:07:13.750654Z",
   "charter": "Tesixt's FRIEND",
@@ -14,6 +14,7 @@
   "description": "本人上传\nB站同名，欢迎前往锐评谱面aa",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/8d95936e-7c35-49ad-9faf-054b65d4e25f",
+  "hidden": false,
   "id": 22756,
   "illustration": "https://phira.5wyxi.com/files/82e232ac-5378-4dbf-923f-6b293d09d36a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "FRIEND",
   "preview": "https://phira.5wyxi.com/files/1b2ec2c0-9af9-4e3e-a84e-2c0542723e1a",
   "ranked": false,
-  "rating": 0.75606114,
-  "ratingCount": 206,
+  "rating": 0.7579093,
+  "ratingCount": 208,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

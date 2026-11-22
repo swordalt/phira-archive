@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:28Z",
-    "lastChanged": "2026-09-21T02:06:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-07T04:29:40.758519Z",
   "charter": "雾涯Mistend",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/376030c3-35a7-4bf6-ad1c-f918256d1e7e",
+  "hidden": false,
   "id": 43906,
   "illustration": "https://phira.5wyxi.com/files/cc9f59a0-f8ae-4f88-98e0-344a615121a4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "EVERYTHING BLACK feat. RATIRL [Lieless FRENCHCORE BOOTLEG] (Sped Up & Cut Ver.)",
   "preview": "https://phira.5wyxi.com/files/0eceec83-8e56-4b04-8663-28d8ca5d3686",
   "ranked": false,
-  "rating": 0.87191457,
-  "ratingCount": 15,
+  "rating": 0.8781078,
+  "ratingCount": 16,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:20Z",
-    "lastChanged": "2026-09-21T02:03:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-29T01:27:56.668592Z",
   "charter": "天铭_Boomobile",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/63c899c6-fea9-4b4b-a61f-2298faa573bf",
+  "hidden": false,
   "id": 38848,
   "illustration": "https://phira.5wyxi.com/files/1755aa2d-ef9f-4f2c-94f9-8f7e849a8a4a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "夏が終わる",
   "preview": "https://phira.5wyxi.com/files/d9e067e2-730e-4c80-b107-e99990d9f58e",
   "ranked": false,
-  "rating": 0.9291853,
-  "ratingCount": 186,
+  "rating": 0.93475443,
+  "ratingCount": 202,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

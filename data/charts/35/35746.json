@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:09Z",
-    "lastChanged": "2026-09-21T02:03:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-26T14:39:22.371885Z",
   "charter": "514 respect for Qf",
@@ -14,6 +14,7 @@
   "description": "致敬另一位谱师旺仔。玩的开心，有问题找b站旅人五一四",
   "difficulty": 16.4,
   "file": "https://phira.5wyxi.com/files/10031079-b30f-40b7-a2e6-e86f7abe585c",
+  "hidden": false,
   "id": 35746,
   "illustration": "https://phira.5wyxi.com/files/4fdc0304-d060-40a6-9cf6-946df42a0bae",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "2 MINUTES FIGHTERS",
   "preview": "https://phira.5wyxi.com/files/3eaa9c20-ee08-41e0-99da-602678d82a4e",
   "ranked": false,
-  "rating": 0.90810126,
-  "ratingCount": 22,
+  "rating": 0.9112263,
+  "ratingCount": 24,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

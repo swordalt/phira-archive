@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:45Z",
-    "lastChanged": "2026-09-21T02:05:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-29T01:10:07.389122Z",
   "charter": "BWen & achjuncool",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 4.0,
   "file": "https://phira.5wyxi.com/files/f5f5852f-f5cc-4d78-a949-b4eeca55295a",
+  "hidden": false,
   "id": 17663,
   "illustration": "https://phira.5wyxi.com/files/ec996d3c-b403-4615-8b35-ec0baad252dc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Flower Rocket（轮指/外）",
   "preview": "https://phira.5wyxi.com/files/1a3e03bf-1bb3-4eba-9942-aa9dc0ed191d",
   "ranked": false,
-  "rating": 0.9360703,
-  "ratingCount": 213,
+  "rating": 0.93568945,
+  "ratingCount": 216,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

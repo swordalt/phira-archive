@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:22Z",
-    "lastChanged": "2026-09-21T02:03:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-12T17:30:44.018354Z",
   "charter": "DecentduCk",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.700027,
   "file": "https://phira.5wyxi.com/files/85128135-4f0f-431e-9fb7-71767757dd5f",
+  "hidden": false,
   "id": 39540,
   "illustration": "https://phira.5wyxi.com/files/e2729f84-b857-461b-9242-b530d01c6402",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Southern Cross",
   "preview": "https://phira.5wyxi.com/files/9501a852-659a-4adc-8cab-0c07194f1ad6",
   "ranked": false,
-  "rating": 0.91262937,
-  "ratingCount": 593,
+  "rating": 0.91368306,
+  "ratingCount": 612,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:10Z",
-    "lastChanged": "2026-09-21T02:03:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-31T15:31:25.869278Z",
   "charter": "Ri n Fal l",
@@ -14,6 +14,7 @@
   "description": "愚人节快乐",
   "difficulty": 1.0,
   "file": "https://phira.5wyxi.com/files/3763089b-fa90-46fb-865e-606fba16aed0",
+  "hidden": false,
   "id": 35986,
   "illustration": "https://phira.5wyxi.com/files/fe857994-ac41-4a09-bdb7-98e496331d89",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "mii channel but all the puases are uncomfortably long",
   "preview": "https://phira.5wyxi.com/files/1422be48-7105-478c-b62c-4aa065b88fe0",
   "ranked": false,
-  "rating": 0.57567406,
-  "ratingCount": 703,
+  "rating": 0.5736462,
+  "ratingCount": 743,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

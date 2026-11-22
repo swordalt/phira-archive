@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:23Z",
-    "lastChanged": "2026-09-21T02:05:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-03T06:46:50.848600Z",
   "charter": "Ziyieee & Max3957",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，6thPecJam谱面编号SP No.9",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/30547281-f145-4f0e-aaaf-20dbd4db5fe2",
+  "hidden": false,
   "id": 16701,
   "illustration": "https://phira.5wyxi.com/files/6803a185-dfe4-4dac-958b-8fa47b278656",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Doki Doki PE Group! (Part.2)",
   "preview": "https://phira.5wyxi.com/files/4f9d379c-09ad-4f5a-97c2-bfe9f7cd3503",
   "ranked": false,
-  "rating": 0.9646977,
-  "ratingCount": 667,
+  "rating": 0.9647615,
+  "ratingCount": 671,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

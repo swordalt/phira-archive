@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:56Z",
-    "lastChanged": "2026-09-21T02:03:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-12T01:25:05.891091Z",
   "charter": "Encly",
@@ -14,6 +14,7 @@
   "description": "谱师B站@ty天远",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/0b0018e1-fc0d-4a62-a4b7-52e645a1b7ec",
+  "hidden": false,
   "id": 47966,
   "illustration": "https://phira.5wyxi.com/files/1aad97f9-8bca-403e-9410-f7e345cb9326",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Marshmallow",
   "preview": "https://phira.5wyxi.com/files/f9f9f322-dd12-41de-989f-48e34081ef3d",
   "ranked": false,
-  "rating": 0.9408339,
-  "ratingCount": 690,
+  "rating": 0.9394323,
+  "ratingCount": 723,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

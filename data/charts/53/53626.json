@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:26Z",
-    "lastChanged": "2026-09-21T02:04:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-28T17:32:14.360294Z",
   "charter": "中微子",
@@ -14,6 +14,7 @@
   "description": "3h速写",
   "difficulty": 19.5,
   "file": "https://phira.5wyxi.com/files/fbe5a182-066e-401a-8d68-8c61ea144f14",
+  "hidden": false,
   "id": 53626,
   "illustration": "https://phira.5wyxi.com/files/3492adc3-1081-499e-8d43-87bd4ac26f90",
   "illustrator": "",

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:06Z",
-    "lastChanged": "2026-09-21T02:06:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-24T17:00:25.772412Z",
   "charter": "¿Aether?",
@@ -14,6 +14,7 @@
   "description": "供双人使用屏幕大的板子游玩",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/b4fd5801-2588-497d-8e25-284e88c760ec",
+  "hidden": false,
   "id": 32385,
   "illustration": "https://phira.5wyxi.com/files/577cdf50-7f33-41d2-941f-49b10a19e063",
   "illustrator": "",

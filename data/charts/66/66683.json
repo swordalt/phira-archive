@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:59Z",
-    "lastChanged": "2026-09-21T02:04:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-15T07:20:24.287265Z",
   "charter": "Vw Vw?",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/619e701d-2625-49b2-a602-d141e5ec1137",
+  "hidden": false,
   "id": 66683,
   "illustration": "https://phira.5wyxi.com/files/03f8a26a-15bd-4284-8a6e-0f50307ad01c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Villain Virus",
   "preview": "https://phira.5wyxi.com/files/01e1210b-d163-40c3-915b-39fbfbd30227",
   "ranked": false,
-  "rating": 0.8461256,
-  "ratingCount": 23,
+  "rating": 0.8788631,
+  "ratingCount": 42,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:16Z",
-    "lastChanged": "2026-09-21T02:06:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-28T13:52:35.052414Z",
   "charter": "世界反转",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/b7185e98-24fd-439e-81b7-4e0f7eb4d4ee",
+  "hidden": false,
   "id": 38838,
   "illustration": "https://phira.5wyxi.com/files/c7f63c02-1936-457d-a1dc-e0b0e5c0758d",
   "illustrator": "",

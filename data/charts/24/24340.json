@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:56Z",
-    "lastChanged": "2026-09-21T02:05:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-25T15:06:02.516036Z",
   "charter": "twotthrees233",
@@ -14,6 +14,7 @@
   "description": "LC2024#2 FINAL RC1 LC特供版",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/3aaa33fa-1238-468a-a8e9-f28fab5aab15",
+  "hidden": false,
   "id": 24340,
   "illustration": "https://phira.5wyxi.com/files/43acf4db-bff3-4478-a601-0a7d1b98f9f9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Big Black[0.75x]",
   "preview": "https://phira.5wyxi.com/files/81a945ce-4a4a-42bd-8a79-23be04d09c66",
   "ranked": false,
-  "rating": 0.89562523,
-  "ratingCount": 43,
+  "rating": 0.89576215,
+  "ratingCount": 45,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

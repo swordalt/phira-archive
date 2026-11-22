@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:38Z",
-    "lastChanged": "2026-09-21T02:05:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-10T13:57:55.051638Z",
   "charter": "Uuuu",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/cf1e3e0b-6920-4a62-a36f-b74315187532",
+  "hidden": false,
   "id": 11315,
   "illustration": "https://phira.5wyxi.com/files/c5b9b437-064f-4a18-a2d8-0af9b89061a5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Spider's Thread",
   "preview": "https://phira.5wyxi.com/files/566f54df-c604-4f38-b7e9-8ef290a7e424",
   "ranked": false,
-  "rating": 0.88529557,
-  "ratingCount": 355,
+  "rating": 0.88407564,
+  "ratingCount": 357,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:28Z",
-    "lastChanged": "2026-09-21T02:04:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-14T10:35:18.334181Z",
   "charter": "Jason",
@@ -14,6 +14,7 @@
   "description": "史！",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/b0316d16-5a1b-49f6-a625-0313d666bbc3",
+  "hidden": false,
   "id": 54132,
   "illustration": "https://phira.5wyxi.com/files/4d8e9b65-2762-4db1-8d93-0a514ff303b8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "run",
   "preview": "https://phira.5wyxi.com/files/e41da758-0404-482a-9cb9-77a5c5f2adc8",
   "ranked": false,
-  "rating": 0.80552316,
-  "ratingCount": 3,
+  "rating": 0.8423025,
+  "ratingCount": 5,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

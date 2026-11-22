@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:43Z",
-    "lastChanged": "2026-09-21T02:02:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-09T14:10:47.766396Z",
   "charter": "不会制谱的酱",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/ece2f4f4-f66d-4425-af5d-fb530fc75e30",
+  "hidden": false,
   "id": 28429,
   "illustration": "https://phira.5wyxi.com/files/19228cb2-7596-4676-9f7e-3958a58a8d4c",
   "illustrator": "",

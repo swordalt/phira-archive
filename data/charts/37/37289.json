@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:16Z",
-    "lastChanged": "2026-09-21T02:03:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-02T16:51:09.333027Z",
   "charter": "theStrictIX",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 13.999999,
   "file": "https://phira.5wyxi.com/files/53e30693-a088-4389-b901-1a705cd7665d",
+  "hidden": false,
   "id": 37289,
   "illustration": "https://phira.5wyxi.com/files/2067e71d-bb20-4de7-838d-26e3faf19298",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "It's alright",
   "preview": "https://phira.5wyxi.com/files/01c7ace0-aeeb-4186-8582-7412d7167fd3",
   "ranked": false,
-  "rating": 0.9313156,
-  "ratingCount": 68,
+  "rating": 0.9300644,
+  "ratingCount": 71,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

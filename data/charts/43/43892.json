@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:37Z",
-    "lastChanged": "2026-09-21T02:03:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-07T00:12:45.080858Z",
   "charter": "WanFeng_ABYDOS",
@@ -14,6 +14,7 @@
   "description": "作者本人，感觉这张谱面没有写好，下次一定加油！\n祝你玩得开心！",
   "difficulty": 14.2,
   "file": "https://phira.5wyxi.com/files/b98d531e-8ea1-495b-bc32-f8d10b3cebb7",
+  "hidden": false,
   "id": 43892,
   "illustration": "https://phira.5wyxi.com/files/2c49e2c7-86b4-4719-9fb5-d3dd7d0c82c7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dead Inside",
   "preview": "https://phira.5wyxi.com/files/ffce39c1-a7a8-4338-a37d-c638745f5b66",
   "ranked": false,
-  "rating": 0.9401901,
-  "ratingCount": 1275,
+  "rating": 0.9398881,
+  "ratingCount": 1427,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

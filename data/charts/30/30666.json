@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:50Z",
-    "lastChanged": "2026-09-21T02:02:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-27T17:07:13.218506Z",
   "charter": "鬥魁",
@@ -14,6 +14,7 @@
   "description": "B站UID:1535063526\n关注一下up的视频呗（）",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/9eedaf8c-b07d-4992-90ac-57e9329977e3",
+  "hidden": false,
   "id": 30666,
   "illustration": "https://phira.5wyxi.com/files/25574467-c4ba-4794-9a9b-2c7c1dc3a67c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "基尼奇：驰焰猎逐",
   "preview": "https://phira.5wyxi.com/files/1d82ba08-94d5-4e73-a107-d38bc44e1542",
   "ranked": false,
-  "rating": 0.9041196,
-  "ratingCount": 763,
+  "rating": 0.9034709,
+  "ratingCount": 781,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

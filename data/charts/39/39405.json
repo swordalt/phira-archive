@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:17Z",
-    "lastChanged": "2026-09-21T02:06:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-08T11:42:28.139572Z",
   "charter": "-墨江本江-",
@@ -14,6 +14,7 @@
   "description": "等级我都不知道多少（）\n（初版）",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/0d692d50-45f8-4056-a9e9-e7bec12bed7b",
+  "hidden": false,
   "id": 39405,
   "illustration": "https://phira.5wyxi.com/files/907860d5-af96-4a04-968d-2a6a1c923df9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ダイダイダイダイダイキライ",
   "preview": "https://phira.5wyxi.com/files/a9b88ad4-a783-4185-b8a5-9a1faddb157e",
   "ranked": false,
-  "rating": 0.91649,
-  "ratingCount": 162,
+  "rating": 0.9166325,
+  "ratingCount": 168,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

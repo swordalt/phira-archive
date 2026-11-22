@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:25Z",
-    "lastChanged": "2026-09-21T02:05:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-07T11:38:25.477464Z",
   "charter": "已发疯的DIALOGBOX",
@@ -14,6 +14,7 @@
   "description": "本人萌新一枚，本作品纯属整活，顺带作练习之用。谱面配置巨史。请各路勇士鲜尝之……？？！",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/c3be4c70-c292-41d4-b73a-936c2d493fbf",
+  "hidden": false,
   "id": 25559,
   "illustration": "https://phira.5wyxi.com/files/1abf1cd2-078e-4fa9-991b-700487830669",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Creeping(BP Ver.)",
   "preview": "https://phira.5wyxi.com/files/a56f99cc-09a0-46ef-a7a5-79461b055a75",
   "ranked": false,
-  "rating": 0.8540609,
-  "ratingCount": 86,
+  "rating": 0.8556922,
+  "ratingCount": 87,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

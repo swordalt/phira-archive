@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:57Z",
-    "lastChanged": "2026-09-21T02:01:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-15T07:05:23.435814Z",
   "charter": "慕星_Murty&熠烨XX",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/06aa6a4c-4fcc-416b-a83b-953781f1bf55",
+  "hidden": false,
   "id": 15720,
   "illustration": "https://phira.5wyxi.com/files/e3cec06c-a15e-49c1-9d7c-9edf9cc9417b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "From The Light To The Darkness",
   "preview": "https://phira.5wyxi.com/files/9edaa39a-0d40-4938-8c27-fda5be5c0cf9",
   "ranked": false,
-  "rating": 0.8982995,
-  "ratingCount": 100,
+  "rating": 0.8990642,
+  "ratingCount": 101,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

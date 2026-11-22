@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:49Z",
-    "lastChanged": "2026-09-21T02:04:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-18T23:32:30.996807Z",
   "charter": "ありすArisu ",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.400001,
   "file": "https://phira.5wyxi.com/files/4633820a-3989-4589-a77f-54b865e878ef",
+  "hidden": false,
   "id": 61371,
   "illustration": "https://phira.5wyxi.com/files/2cb4f33f-4bbc-4759-9552-74fa721071fb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "PUPA",
   "preview": "https://phira.5wyxi.com/files/3b188f00-a539-4751-b733-dcfaf720cc84",
   "ranked": false,
-  "rating": 0.9068489,
-  "ratingCount": 105,
+  "rating": 0.9012661,
+  "ratingCount": 122,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

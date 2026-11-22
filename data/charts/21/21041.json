@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:16Z",
-    "lastChanged": "2026-09-21T02:02:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-02T07:35:07.816334Z",
   "charter": "屑随风",
@@ -14,6 +14,7 @@
   "description": "  禁止任何盗传本谱面的行为！一旦发现，必将深究，后果自负！\n  曲目：cycanie\n  定数：15.5（暂定）\n  物量：1135\n  视频：【『Phigros自制谱/Phigros × Lanota/谱面微调』：那石头似乎荡漾着旋律的回响——cyanine IN Lv.15谱面调整演示-哔哩哔哩】 https://b23.tv/at9GimE",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/369fef89-e9ce-4cdd-a49b-63ea2180e81a",
+  "hidden": false,
   "id": 21041,
   "illustration": "https://phira.5wyxi.com/files/99abb82e-2a3b-47bb-aa44-6800e69501ec",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "cyanine",
   "preview": "https://phira.5wyxi.com/files/ebc02da8-f8fe-4e9b-9a7b-2f01c4c16b1b",
   "ranked": true,
-  "rating": 0.91601104,
-  "ratingCount": 4095,
+  "rating": 0.9159383,
+  "ratingCount": 4134,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

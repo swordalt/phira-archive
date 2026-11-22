@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:02Z",
-    "lastChanged": "2026-09-21T02:06:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-26T02:15:09.207732Z",
   "charter": "小怪AQAQ",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.7,
   "file": "https://phira.5wyxi.com/files/afbafc5c-a18f-4b2b-a169-61f1841af930",
+  "hidden": false,
   "id": 29065,
   "illustration": "https://phira.5wyxi.com/files/b9324a20-800f-43bb-8511-00fff1901ce9",
   "illustrator": "",

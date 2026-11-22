@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:35Z",
-    "lastChanged": "2026-09-21T02:06:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-11T13:11:52.821826Z",
   "charter": "我亦云鸯",
@@ -14,6 +14,7 @@
   "description": "我爱玩原神",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/4a5cf480-946a-465c-b647-811e5dae103b",
+  "hidden": false,
   "id": 46666,
   "illustration": "https://phira.5wyxi.com/files/c1b91caf-27c2-4388-b1a4-fe9f883c9c17",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ヴァンパイア",
   "preview": "https://phira.5wyxi.com/files/4625e0cb-e2cc-4330-8a40-ee71aad146fc",
   "ranked": false,
-  "rating": 0.9262674,
-  "ratingCount": 71,
+  "rating": 0.9294622,
+  "ratingCount": 76,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

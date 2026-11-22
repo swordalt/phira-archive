@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:20Z",
-    "lastChanged": "2026-09-21T02:04:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-12T05:23:56.793124Z",
   "charter": "「长夜将尽」",
@@ -14,6 +14,7 @@
   "description": "B站：早期陈总",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/c14fc423-7d2f-458d-b29b-85ca6af4e3b7",
+  "hidden": false,
   "id": 52482,
   "illustration": "https://phira.5wyxi.com/files/dbf35d81-b447-4dcf-b046-39c828b16f1a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sphalerite",
   "preview": "https://phira.5wyxi.com/files/bc2aa0a1-cac7-471c-936b-4de28a76c166",
   "ranked": false,
-  "rating": 0.93060374,
-  "ratingCount": 276,
+  "rating": 0.9342398,
+  "ratingCount": 303,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:42Z",
-    "lastChanged": "2026-09-21T02:06:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-07T05:19:53.358144Z",
   "charter": "Jiuwenzi",
@@ -14,6 +14,7 @@
   "description": "神秘sample beta单曲1",
   "difficulty": 11.9,
   "file": "https://phira.5wyxi.com/files/1d9f8f73-52d6-4ac2-8506-ca3fa0dcb547",
+  "hidden": false,
   "id": 49940,
   "illustration": "https://phira.5wyxi.com/files/19563ca0-5231-40e7-a786-3c25fedad924",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "KINGWORLD",
   "preview": "https://phira.5wyxi.com/files/0bc6ccbb-fa74-41fb-a321-47d8206d1bf9",
   "ranked": false,
-  "rating": 0.96470124,
-  "ratingCount": 220,
+  "rating": 0.96242696,
+  "ratingCount": 248,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

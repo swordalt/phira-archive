@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:39Z",
-    "lastChanged": "2026-09-21T02:04:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-28T16:23:11.744524Z",
   "charter": "Semo42ka",
@@ -14,6 +14,7 @@
   "description": "Russian funny song.\nI was very late..",
   "difficulty": 42.0,
   "file": "https://phira.5wyxi.com/files/9a1daa54-6636-40dd-8578-03f4e5e4af78",
+  "hidden": false,
   "id": 57293,
   "illustration": "https://phira.5wyxi.com/files/1915732b-15e9-4c44-a8ee-807ddc157e02",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "42",
   "preview": "https://phira.5wyxi.com/files/8106012e-625c-44af-883a-1eaa98467983",
   "ranked": false,
-  "rating": 0.82187957,
-  "ratingCount": 67,
+  "rating": 0.82007504,
+  "ratingCount": 76,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

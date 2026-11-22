@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:05Z",
-    "lastChanged": "2026-09-21T02:02:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-31T04:05:25.505661Z",
   "charter": "YasoteMay",
@@ -14,6 +14,7 @@
   "description": "谱面版本v2.0，微调了部分排键和特效，所有的note都会回收哦～enjoy!",
   "difficulty": 14.7,
   "file": "https://phira.5wyxi.com/files/4be5e276-998b-4235-bf62-2ddb456f160b",
+  "hidden": false,
   "id": 17807,
   "illustration": "https://phira.5wyxi.com/files/1e83f58b-4a6d-4edb-9b64-027104cd75dd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "苦茶子",
   "preview": "https://phira.5wyxi.com/files/ae8b7515-81e6-4d4c-9556-b3cb648f20f8",
   "ranked": false,
-  "rating": 0.92955023,
-  "ratingCount": 38383,
+  "rating": 0.9290855,
+  "ratingCount": 40711,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

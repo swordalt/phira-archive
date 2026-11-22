@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:57Z",
-    "lastChanged": "2026-09-21T02:02:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-20T07:23:47.372052Z",
   "charter": "次空间的衣",
@@ -14,6 +14,7 @@
   "description": "曲目:Constant Moderato Piano Arrange\n谱师:次空间的衣(B站:@模糊的云梦)\n难度:IN Lv.12\n事件数:2818\ncombo数:626\n制谱器:Re:PhiEdit",
   "difficulty": 12.500002,
   "file": "https://phira.5wyxi.com/files/4cf70911-8998-4b2f-aed3-83be617499ec",
+  "hidden": false,
   "id": 32087,
   "illustration": "https://phira.5wyxi.com/files/4809848d-7805-48f0-9c52-e1c4726bc150",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Constant Moderato Piano Arrange",
   "preview": "https://phira.5wyxi.com/files/79bec70f-ff2f-473f-974b-f470634edb7e",
   "ranked": false,
-  "rating": 0.9486188,
-  "ratingCount": 1870,
+  "rating": 0.9480605,
+  "ratingCount": 1925,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:36Z",
-    "lastChanged": "2026-09-21T02:05:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-17T11:48:46.053023Z",
   "charter": "Az-Q",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/66b2eb7b-bfa0-47c3-8f41-c04f6541b07f",
+  "hidden": false,
   "id": 7828,
   "illustration": "https://phira.5wyxi.com/files/b0250d86-8bcc-4070-bc05-a9603813c73d",
   "illustrator": "",

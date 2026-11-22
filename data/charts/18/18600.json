@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:09Z",
-    "lastChanged": "2026-09-21T02:02:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-18T03:27:54.547658Z",
   "charter": "Teak",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/a1f8d073-08a8-41f5-8c28-4f90f5431a39",
+  "hidden": false,
   "id": 18600,
   "illustration": "https://phira.5wyxi.com/files/a26ce750-c045-426f-afaa-af28e5747247",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "オトナのピーターパン",
   "preview": "https://phira.5wyxi.com/files/04e96abd-99c5-4e6b-b9c1-b9139f47d16d",
   "ranked": false,
-  "rating": 0.94900024,
-  "ratingCount": 413,
+  "rating": 0.9491314,
+  "ratingCount": 415,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

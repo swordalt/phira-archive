@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:44Z",
-    "lastChanged": "2026-09-21T02:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-19T16:52:13.417968Z",
   "charter": "Happy Birthday!",
@@ -14,6 +14,7 @@
   "description": "谱师b站 @IceAgeDOT @-zerouth-",
   "difficulty": 14.300002,
   "file": "https://phira.5wyxi.com/files/50a26f34-bee4-4f4f-aeb9-68b124547614",
+  "hidden": false,
   "id": 28922,
   "illustration": "https://phira.5wyxi.com/files/a085be1a-859c-4c14-95f2-347c00d806e4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ここからはじまるプロローグ。",
   "preview": "https://phira.5wyxi.com/files/c3510910-1cff-4a99-a6cf-d672cf9b84cd",
   "ranked": false,
-  "rating": 0.9361114,
-  "ratingCount": 395,
+  "rating": 0.9362957,
+  "ratingCount": 403,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

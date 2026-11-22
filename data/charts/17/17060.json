@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:03Z",
-    "lastChanged": "2026-09-21T02:02:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-11T11:37:17.304195Z",
   "charter": "piupiu",
@@ -14,6 +14,7 @@
   "description": "是第一次写谱，希望游玩愉快。（极难给我写个爽谱啊！！！）",
   "difficulty": 14.200001,
   "file": "https://phira.5wyxi.com/files/4f3386d9-27ad-49bc-8bc9-8bf30d85cfe5",
+  "hidden": false,
   "id": 17060,
   "illustration": "https://phira.5wyxi.com/files/9eaf30fc-0065-4437-a416-5c5813e504df",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Absolute Perfection",
   "preview": "https://phira.5wyxi.com/files/e350c4d6-20ac-458d-ba18-40175f152218",
   "ranked": false,
-  "rating": 0.94730806,
-  "ratingCount": 228,
+  "rating": 0.9452009,
+  "ratingCount": 233,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

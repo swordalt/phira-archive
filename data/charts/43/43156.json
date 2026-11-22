@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:34Z",
-    "lastChanged": "2026-09-21T02:03:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-30T10:40:15.452792Z",
   "charter": "cake",
@@ -14,6 +14,7 @@
   "description": "b站:BV16ChAzqEiE\n个人初谱，希望留下宝贵意见。",
   "difficulty": 17.300003,
   "file": "https://phira.5wyxi.com/files/800e476b-af03-43f8-bdba-89abdf80da07",
+  "hidden": false,
   "id": 43156,
   "illustration": "https://phira.5wyxi.com/files/d167c494-3fd3-462c-b844-0d7e4db17f37",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ギザバ怪文書 (feat. 音街ウナ)",
   "preview": "https://phira.5wyxi.com/files/11c9ad42-1c02-4930-ad73-ed640d7b4b66",
   "ranked": false,
-  "rating": 0.83272064,
-  "ratingCount": 180,
+  "rating": 0.83581364,
+  "ratingCount": 184,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

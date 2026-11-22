@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:58Z",
-    "lastChanged": "2026-09-21T02:02:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-24T09:40:27.139923Z",
   "charter": "Seaundburst",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/bac38797-51d8-4abb-9c02-ca029d436ebb",
+  "hidden": false,
   "id": 32353,
   "illustration": "https://phira.5wyxi.com/files/3ed5272f-365a-46ec-8fa8-445980a0ff3e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "夏恋",
   "preview": "https://phira.5wyxi.com/files/d7582454-4c09-428f-8775-4d45941f6fb1",
   "ranked": false,
-  "rating": 0.8750821,
-  "ratingCount": 679,
+  "rating": 0.8749106,
+  "ratingCount": 704,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

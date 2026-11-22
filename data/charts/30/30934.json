@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:51Z",
-    "lastChanged": "2026-09-21T02:02:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-21T06:20:15.704970Z",
   "charter": "苑文",
@@ -14,6 +14,7 @@
   "description": "玩高级功能做出来的什么东西，个人98，能打遂发。\n少量参考了其他的谱面，点滑需要提早一点打。",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/104af4a1-b55a-43e8-9b9d-e4afa24f9136",
+  "hidden": false,
   "id": 30934,
   "illustration": "https://phira.5wyxi.com/files/731add84-f7ff-4ab8-9816-d7ab563bc74c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "玩具狂奏曲 -終焉-",
   "preview": "https://phira.5wyxi.com/files/cb4c7b92-fe12-4a89-99fa-873057808f69",
   "ranked": false,
-  "rating": 0.5518645,
-  "ratingCount": 219,
+  "rating": 0.5777586,
+  "ratingCount": 225,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

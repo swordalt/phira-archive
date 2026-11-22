@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:47Z",
-    "lastChanged": "2026-09-21T02:03:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-29T08:22:08.000569Z",
   "charter": "蜜任",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/fadea461-6e77-4597-b492-a9c1802fc2e2",
+  "hidden": false,
   "id": 46037,
   "illustration": "https://phira.5wyxi.com/files/e26bd635-977d-4adc-be1e-237db55a4bcc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "CANDY MAGIC",
   "preview": "https://phira.5wyxi.com/files/085a0923-d9fc-45d6-bebf-9ce5d5a5443c",
   "ranked": false,
-  "rating": 0.8767922,
-  "ratingCount": 33,
+  "rating": 0.88004196,
+  "ratingCount": 34,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

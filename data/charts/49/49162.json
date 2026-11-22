@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:41Z",
-    "lastChanged": "2026-09-21T02:06:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-15T15:00:20.707453Z",
   "charter": "Lage vs.YMEA",
@@ -14,6 +14,7 @@
   "description": "和@Lage写的一坨\n（已得到雷之大蛇的同意）\n后面忘了\nks：洋漫YMEA\n",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/2f747cbf-4bc1-4c7c-a5d0-4b315677d208",
+  "hidden": false,
   "id": 49162,
   "illustration": "https://phira.5wyxi.com/files/38816c15-e2de-456f-a593-d18e53207fd7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ヒアソビ (feat. 初音ミク)",
   "preview": "https://phira.5wyxi.com/files/08e4f3f1-55b7-4997-a7b0-4cb714c7fb91",
   "ranked": false,
-  "rating": 0.9543099,
-  "ratingCount": 293,
+  "rating": 0.9535426,
+  "ratingCount": 307,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

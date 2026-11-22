@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:07Z",
-    "lastChanged": "2026-10-04T10:48:09Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:55:01Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-09-27T07:15:54.685529Z",
   "charter": "FSK ~melodies of memories~",
@@ -14,6 +14,7 @@
   "description": "谱面信息\n曲名：rainbow\n曲师：ああああ\n等级：IN Lv.13.7\nBPM：199\n物量：747\n事件：3300+\nTotal Lines：24\n视频链接：BV1zHRhYhEUY\n本人上传，欢迎大佬指教！",
   "difficulty": 13.700003,
   "file": "https://phira.5wyxi.com/files/9ecb91ea-2cac-43ff-831b-ccfefb772d35",
+  "hidden": false,
   "id": 35195,
   "illustration": "https://phira.5wyxi.com/files/00f65611-c197-4c50-a9be-1f3363fe7ed6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "rainbow",
   "preview": "https://phira.5wyxi.com/files/f824fcd6-9cc0-4bd1-98c9-16b3efc0c074",
   "ranked": false,
-  "rating": 0.91245055,
-  "ratingCount": 658,
+  "rating": 0.9122145,
+  "ratingCount": 723,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

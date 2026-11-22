@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:44Z",
-    "lastChanged": "2026-09-21T02:06:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-31T21:28:13.417212Z",
   "charter": "kirto.moshang.owo",
@@ -14,6 +14,7 @@
   "description": "是第六个4K谱面 祝游玩愉快~",
   "difficulty": 26.0,
   "file": "https://phira.5wyxi.com/files/7f8a4880-d0d7-4d65-99fd-faf3e09b68e5",
+  "hidden": false,
   "id": 51900,
   "illustration": "https://phira.5wyxi.com/files/8cdabc35-ae10-4271-9f35-7d9229aa3bb9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Horizon Blue",
   "preview": "https://phira.5wyxi.com/files/e72229c6-c8f0-4e59-9b99-cabbac49c54e",
   "ranked": false,
-  "rating": 0.94629055,
-  "ratingCount": 641,
+  "rating": 0.946881,
+  "ratingCount": 666,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:27Z",
-    "lastChanged": "2026-09-21T02:02:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-31T09:49:54.386171Z",
   "charter": "双指魔王司令",
@@ -14,6 +14,7 @@
   "description": "双指魔王司令的出道谱！",
   "difficulty": 16.700003,
   "file": "https://phira.5wyxi.com/files/733de0d9-de92-475f-b95b-384009c23cb5",
+  "hidden": false,
   "id": 24808,
   "illustration": "https://phira.5wyxi.com/files/28b06665-f8a4-48b8-b4bb-e796967306ac",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Poppy",
   "preview": "https://phira.5wyxi.com/files/1a353fb5-5d50-4302-b567-0387170f53f6",
   "ranked": false,
-  "rating": 0.66432464,
-  "ratingCount": 34,
+  "rating": 0.6818979,
+  "ratingCount": 36,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

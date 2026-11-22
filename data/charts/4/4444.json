@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:36Z",
-    "lastChanged": "2026-09-21T02:05:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-02T00:02:32.278273Z",
   "charter": "SK-Ticotas & MUSYNC",
@@ -14,6 +14,7 @@
   "description": "BV1Gs4y1k7SV",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/e78bd5e2-fa9c-4cc9-9668-33c7bed918ec",
+  "hidden": false,
   "id": 4444,
   "illustration": "https://phira.5wyxi.com/files/3a41f305-c0db-4d52-aa64-3c4b5ecf9be8",
   "illustrator": "",

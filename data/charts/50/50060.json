@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:06Z",
-    "lastChanged": "2026-09-21T02:04:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-06T11:22:05.895164Z",
   "charter": "LPI -\"EGOIST\"-",
@@ -14,6 +14,7 @@
   "description": "本人上传\n哔哩哔哩: @LPI_",
   "difficulty": 15.700001,
   "file": "https://phira.5wyxi.com/files/68b7a73a-52b8-4251-b779-d933a554839e",
+  "hidden": false,
   "id": 50060,
   "illustration": "https://phira.5wyxi.com/files/655798a4-d2c3-460a-ac11-8edcd386aee9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "エゴイスト",
   "preview": "https://phira.5wyxi.com/files/ed0ccaf3-5a14-4fda-8023-aba0ba4198ab",
   "ranked": false,
-  "rating": 0.90907323,
-  "ratingCount": 2408,
+  "rating": 0.9081605,
+  "ratingCount": 2470,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

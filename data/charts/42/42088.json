@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:24Z",
-    "lastChanged": "2026-09-21T02:06:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-19T04:46:01.696843Z",
   "charter": "LEMONCOM",
@@ -14,6 +14,7 @@
   "description": "本人上传（不上架）",
   "difficulty": 8.0,
   "file": "https://phira.5wyxi.com/files/f7977b5b-222b-4ef7-a5e3-35b133c3e68b",
+  "hidden": false,
   "id": 42088,
   "illustration": "https://phira.5wyxi.com/files/323782ea-714e-4cb3-b09b-b287aa2394b8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Interstice Oath",
   "preview": "https://phira.5wyxi.com/files/365cd60f-70f4-4597-a810-077268f4cc55",
   "ranked": false,
-  "rating": 0.88192934,
-  "ratingCount": 19,
+  "rating": 0.891194,
+  "ratingCount": 21,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

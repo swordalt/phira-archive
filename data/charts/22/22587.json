@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:21Z",
-    "lastChanged": "2026-09-21T02:02:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-11T06:48:09.251830Z",
   "charter": "Fade",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.999996,
   "file": "https://phira.5wyxi.com/files/a184831f-b8cf-4b9d-839e-ace6151a7fc1",
+  "hidden": false,
   "id": 22587,
   "illustration": "https://phira.5wyxi.com/files/c9289789-6fc9-459f-ac9f-02a30c91e960",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Polacro",
   "preview": "https://phira.5wyxi.com/files/95a48bc7-7853-4059-9352-f66274df4232",
   "ranked": false,
-  "rating": 0.93480617,
-  "ratingCount": 408,
+  "rating": 0.93551433,
+  "ratingCount": 414,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:50Z",
-    "lastChanged": "2026-09-21T02:02:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-13T12:36:05.001710Z",
   "charter": "柒",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 16.299997,
   "file": "https://phira.5wyxi.com/files/dadc6422-383f-4ee1-ae82-a8c70e9d4e00",
+  "hidden": false,
   "id": 30676,
   "illustration": "https://phira.5wyxi.com/files/2732eb16-4706-4bdb-ad58-876b964a5856",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "独角戏 MONODRAMA",
   "preview": "https://phira.5wyxi.com/files/453c6e46-ae5a-41bd-ae7c-a2947dff7efb",
   "ranked": false,
-  "rating": 0.8945128,
-  "ratingCount": 2117,
+  "rating": 0.89509636,
+  "ratingCount": 2140,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

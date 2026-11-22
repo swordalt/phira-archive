@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:49Z",
-    "lastChanged": "2026-09-21T02:06:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-04T17:35:10.973923Z",
   "charter": "OoairoO vs. air",
@@ -14,6 +14,7 @@
   "description": "bpm180的切 简单到爆\nln是第一次写 应该问题不大",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/5ec7a934-2750-4824-9abd-ffb8a28a06e3",
+  "hidden": false,
   "id": 55037,
   "illustration": "https://phira.5wyxi.com/files/5133ef8a-0872-4002-b9ef-837c1e62beee",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Perpetual Descent",
   "preview": "https://phira.5wyxi.com/files/3a2aa98e-3650-4114-b08b-1785ac899b2c",
   "ranked": false,
-  "rating": 0.843259,
-  "ratingCount": 13,
+  "rating": 0.8777897,
+  "ratingCount": 18,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

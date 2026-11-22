@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:37Z",
-    "lastChanged": "2026-09-21T02:02:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-26T03:13:45.408293Z",
   "charter": "Biebie Cup",
@@ -14,6 +14,7 @@
   "description": "此为憋憋杯参赛谱\n这里是代传\n活动内使用",
   "difficulty": 9.0,
   "file": "https://phira.5wyxi.com/files/a3a5cdf2-f9c4-44fe-8020-2ae549193975",
+  "hidden": false,
   "id": 26926,
   "illustration": "https://phira.5wyxi.com/files/2f869dd0-90d1-492c-a5b1-09718e5cbc0d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "the EmpErroR",
   "preview": "https://phira.5wyxi.com/files/c6e78139-ff9e-499f-83c8-23d8dc4822d5",
   "ranked": false,
-  "rating": 0.74126333,
-  "ratingCount": 129,
+  "rating": 0.74562967,
+  "ratingCount": 132,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

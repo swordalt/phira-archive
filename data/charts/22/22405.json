@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:51Z",
-    "lastChanged": "2026-09-21T02:05:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-01T11:59:08.410077Z",
   "charter": "For1ornDream",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.7,
   "file": "https://phira.5wyxi.com/files/6a513e9d-dad2-46ea-b262-a78374264e9d",
+  "hidden": false,
   "id": 22405,
   "illustration": "https://phira.5wyxi.com/files/0127e556-995b-439e-b034-d5279af880b1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "LAMIA",
   "preview": "https://phira.5wyxi.com/files/f8e18942-8598-4eca-a867-d76964b38baa",
   "ranked": false,
-  "rating": 0.8402219,
-  "ratingCount": 207,
+  "rating": 0.8387574,
+  "ratingCount": 208,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:34Z",
-    "lastChanged": "2026-09-21T02:05:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-10T09:48:16.726430Z",
   "charter": "charadoger",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/db16924b-f38d-4865-8683-7fa1c26b329c",
+  "hidden": false,
   "id": 1574,
   "illustration": "https://phira.5wyxi.com/files/f0b2784c-5951-4ad0-946f-0a89f8858bea",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "マーシャル・マキシマイザー(Marshall Maximizer)",
   "preview": "https://phira.5wyxi.com/files/f7a0f428-3861-46c8-9e35-8581fc35f037",
   "ranked": false,
-  "rating": 0.9081758,
-  "ratingCount": 145,
+  "rating": 0.90879804,
+  "ratingCount": 146,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

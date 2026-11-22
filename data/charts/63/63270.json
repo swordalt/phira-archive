@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:53Z",
-    "lastChanged": "2026-09-21T02:04:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-30T09:15:06.729996Z",
   "charter": "KKK41TZ",
@@ -14,6 +14,7 @@
   "description": "First Phira Chart~\nDisclaimer: it's something...",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/c3dc0c69-1dc8-43ad-97be-6c3a77b5b5df",
+  "hidden": false,
   "id": 63270,
   "illustration": "https://phira.5wyxi.com/files/4207139e-406b-40a9-b0f6-038ec6f4f493",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "やラララ (YARARARA) ft. 重音テト",
   "preview": "https://phira.5wyxi.com/files/238db764-b3ef-4ff2-95b8-c45396e75745",
   "ranked": false,
-  "rating": 0.9076242,
-  "ratingCount": 2149,
+  "rating": 0.9067059,
+  "ratingCount": 2448,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

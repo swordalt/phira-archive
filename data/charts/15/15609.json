@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:57Z",
-    "lastChanged": "2026-09-21T02:01:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-15T08:22:25.744924Z",
   "charter": "Encly",
@@ -14,6 +14,7 @@
   "description": "谱师Bilibili@ty天远 庆音杯比赛特供 觉得这歌很好听于是就写了！",
   "difficulty": 17.1,
   "file": "https://phira.5wyxi.com/files/cbea676a-348f-4f5a-8af7-7d7ce86a971d",
+  "hidden": false,
   "id": 15609,
   "illustration": "https://phira.5wyxi.com/files/4f8abf4e-db66-4559-8e53-6ddfa5a7c494",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "《Ж》",
   "preview": "https://phira.5wyxi.com/files/66cb62b5-c726-4739-84e7-66e838dd02a3",
   "ranked": false,
-  "rating": 0.8665835,
-  "ratingCount": 1043,
+  "rating": 0.867489,
+  "ratingCount": 1058,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

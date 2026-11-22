@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:40Z",
-    "lastChanged": "2026-09-21T02:02:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-17T14:06:26.211175Z",
   "charter": "UIs_Sdhe",
@@ -14,6 +14,7 @@
   "description": "获取谱面请加入QQ群：895870849\n\n相关游戏：Phigros\n曲目：《Ж》\n曲师：LYRi \"Cyanblue\" WHiTE x NIKANON(tk14)\n画师：Siesphere\n谱师：UIs_Sdhe\n难度：AT Lv.16.3(因为我能打过)\n制谱器：Re:PhiEdit by cmdysj\n下载：\n进入QQ聊天群获取，群号：895870849\n本谱为无serder版(除了一些必要的shader没有删)",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/565361d9-25f2-4d75-aaf7-3a0bc7a73ec7",
+  "hidden": false,
   "id": 27781,
   "illustration": "https://phira.5wyxi.com/files/5fea92a7-0757-42d9-b126-0ede4653095e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "《Ж》",
   "preview": "https://phira.5wyxi.com/files/8b48f4be-739c-45bc-ba2a-3552c4dcfb4c",
   "ranked": false,
-  "rating": 0.89062965,
-  "ratingCount": 381,
+  "rating": 0.89084387,
+  "ratingCount": 391,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

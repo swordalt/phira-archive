@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:43Z",
-    "lastChanged": "2026-09-21T02:04:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-22T14:28:49.713507Z",
   "charter": "酸雨 X F R 4 7",
@@ -14,6 +14,7 @@
   "description": "本人上传，比赛用谱，写的挺无聊的，灵光在最后帮了写了一点",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/6d62b0f4-d694-4d52-ab0c-ad4f9e5fa0c8",
+  "hidden": false,
   "id": 58831,
   "illustration": "https://phira.5wyxi.com/files/c3f2e76d-6c22-482b-be40-3fa7b899add2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Broken Fruitz",
   "preview": "https://phira.5wyxi.com/files/be6ab26f-3d8b-404f-876e-5a6d39aff8c7",
   "ranked": false,
-  "rating": 0.9273843,
-  "ratingCount": 475,
+  "rating": 0.9304595,
+  "ratingCount": 510,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

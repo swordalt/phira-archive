@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:57Z",
-    "lastChanged": "2026-09-21T02:02:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-19T16:25:22.779432Z",
   "charter": "ぼくのみくさま",
@@ -14,6 +14,7 @@
   "description": "本账号为b站@HTNMiku_Official自己创建的生日专用号 谱师HTNMiku_Official自己上传",
   "difficulty": 13.700003,
   "file": "https://phira.5wyxi.com/files/62069bf1-8659-41d6-b4d2-15ae49f731b1",
+  "hidden": false,
   "id": 32066,
   "illustration": "https://phira.5wyxi.com/files/03d68282-154f-4996-9c51-181219cff82e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ぼくのかみさま",
   "preview": "https://phira.5wyxi.com/files/be94f5ba-b282-4692-91d7-fc0f86335c12",
   "ranked": false,
-  "rating": 0.9373252,
-  "ratingCount": 347,
+  "rating": 0.9366392,
+  "ratingCount": 355,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

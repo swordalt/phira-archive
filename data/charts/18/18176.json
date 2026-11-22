@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:07Z",
-    "lastChanged": "2026-09-21T02:02:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-06T16:22:33.274753Z",
   "charter": "S3L",
@@ -14,6 +14,7 @@
   "description": "本人上传，1小时速写。",
   "difficulty": 14.6,
   "file": "https://phira.5wyxi.com/files/9e82a7a2-86f1-4049-a19e-4e10314b7109",
+  "hidden": false,
   "id": 18176,
   "illustration": "https://phira.5wyxi.com/files/758358b2-86a6-467c-befb-c21bde7ae429",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lunatic Sky",
   "preview": "https://phira.5wyxi.com/files/07f0e2b6-f383-4777-9266-590e947aa60d",
   "ranked": false,
-  "rating": 0.9281898,
-  "ratingCount": 198,
+  "rating": 0.92755383,
+  "ratingCount": 201,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

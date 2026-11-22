@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:00Z",
-    "lastChanged": "2026-09-21T02:02:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-03T13:22:35.058697Z",
   "charter": "Alasy",
@@ -14,6 +14,7 @@
   "description": "新人初谱,还不太会写演出。",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/2292ead9-e414-4585-83ce-93613dd2a86a",
+  "hidden": false,
   "id": 16298,
   "illustration": "https://phira.5wyxi.com/files/364b0b72-4097-4d68-aafe-ac979c5ec50b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ぐだふわエブリデ",
   "preview": "https://phira.5wyxi.com/files/18e74df2-3168-404b-853c-42c3ce509441",
   "ranked": false,
-  "rating": 0.9229746,
-  "ratingCount": 280,
+  "rating": 0.92322236,
+  "ratingCount": 281,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

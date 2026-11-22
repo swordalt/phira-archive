@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-16T23:30:40.859678Z",
   "charter": "eeldimm",
@@ -14,6 +14,7 @@
   "description": "barebones chart made by one poor soul",
   "difficulty": 15.699993,
   "file": "https://phira.5wyxi.com/files/d05e8d72-37ca-4b7f-9050-b0d974d78757",
+  "hidden": false,
   "id": 34155,
   "illustration": "https://phira.5wyxi.com/files/259d8d00-c79c-4c76-aec6-158897e068f1",
   "illustrator": "",

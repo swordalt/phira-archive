@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:45Z",
-    "lastChanged": "2026-09-21T02:01:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-24T12:23:31.513316Z",
   "charter": "Merry Christmax",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，圣诞快乐捏",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/bd97f463-e7db-4d24-8c2d-ee6707fd1554",
+  "hidden": false,
   "id": 12812,
   "illustration": "https://phira.5wyxi.com/files/007f8f29-2f65-4e3a-82dc-6626c1211cac",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Burn (Haocore Mix)",
   "preview": "https://phira.5wyxi.com/files/7f714b22-4c8b-4c32-9edb-3ce949c64904",
   "ranked": false,
-  "rating": 0.9376728,
-  "ratingCount": 4653,
+  "rating": 0.93753755,
+  "ratingCount": 4700,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

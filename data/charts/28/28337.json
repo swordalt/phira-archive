@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:42Z",
-    "lastChanged": "2026-09-21T02:02:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-04T23:39:00.307676Z",
   "charter": "UnshownName as 'Subconscious'",
@@ -14,6 +14,7 @@
   "description": "Her Requiem",
   "difficulty": 15.400001,
   "file": "https://phira.5wyxi.com/files/d6fc65dd-d77a-4f06-a8f2-e656f49bfe04",
+  "hidden": false,
   "id": 28337,
   "illustration": "https://phira.5wyxi.com/files/01faca2e-d5a5-41b1-94b1-2ea8a5515821",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "R.I.P.",
   "preview": "https://phira.5wyxi.com/files/24f80e49-4b6a-46ee-8dd7-0e69a18dfe62",
   "ranked": false,
-  "rating": 0.9143336,
-  "ratingCount": 551,
+  "rating": 0.91487336,
+  "ratingCount": 556,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

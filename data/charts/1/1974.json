@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:35Z",
-    "lastChanged": "2026-09-21T02:05:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-14T03:24:52.707436Z",
   "charter": "Fwx1",
@@ -14,6 +14,7 @@
   "description": "很早的一个作品，当时接触4K不久，b站@不知名兽兽，想发b站@我就可以了",
   "difficulty": 15.299999,
   "file": "https://phira.5wyxi.com/files/829e31c4-2f5a-44f0-82ba-6802bf097feb",
+  "hidden": false,
   "id": 1974,
   "illustration": "https://phira.5wyxi.com/files/68a5f145-0019-4f1e-af7b-03273383df51",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Splatter Doll",
   "preview": "https://phira.5wyxi.com/files/7ed39e24-cdac-4c2a-a4b0-45a4391e4bb8",
   "ranked": false,
-  "rating": 0.8991736,
-  "ratingCount": 1651,
+  "rating": 0.8994763,
+  "ratingCount": 1658,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

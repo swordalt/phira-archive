@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:29Z",
-    "lastChanged": "2026-09-21T02:03:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-13T15:35:54.920435Z",
   "charter": "南瓜",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/32043085-fc0c-41e7-802b-f60dfb3829ed",
+  "hidden": false,
   "id": 41615,
   "illustration": "https://phira.5wyxi.com/files/4d677845-3ebe-4968-9ccb-59d0a56ebb51",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "T氏の話を信じるな (feat_ 初音ミク & 重音テト)",
   "preview": "https://phira.5wyxi.com/files/66bcaf9c-d1ac-45c9-a77a-195dbcb48e91",
   "ranked": false,
-  "rating": 0.95152456,
-  "ratingCount": 6333,
+  "rating": 0.9511254,
+  "ratingCount": 6530,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

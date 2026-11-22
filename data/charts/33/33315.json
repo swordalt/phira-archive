@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:02Z",
-    "lastChanged": "2026-09-21T02:03:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-05T05:26:07.650010Z",
   "charter": "distorted_MLE",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/37136bdb-116d-410c-9118-1819fc423bce",
+  "hidden": false,
   "id": 33315,
   "illustration": "https://phira.5wyxi.com/files/22f1c3db-b2b7-4fa1-b7b6-9377bcd2e334",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Unraveling Stasis",
   "preview": "https://phira.5wyxi.com/files/0e97efd0-4c57-4200-bba5-31469f3f6be8",
   "ranked": false,
-  "rating": 0.859305,
-  "ratingCount": 170,
+  "rating": 0.8608983,
+  "ratingCount": 173,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:47Z",
-    "lastChanged": "2026-09-21T02:02:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-15T13:37:05.929976Z",
   "charter": "阿瑞-Resonance",
@@ -14,6 +14,7 @@
   "description": "是@秋实-Allenyou的委托\n曲子是他的个人印象曲！",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/9a8bc0de-010b-4fc3-9e05-7ca86c17532a",
+  "hidden": false,
   "id": 29692,
   "illustration": "https://phira.5wyxi.com/files/ccbd00f7-eda6-4e3f-ad08-8de2a8320335",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "SγN FlΩ0d",
   "preview": "https://phira.5wyxi.com/files/e7fc957f-aad9-46e0-9dc3-66e76efcacf5",
   "ranked": false,
-  "rating": 0.9234766,
-  "ratingCount": 373,
+  "rating": 0.92360985,
+  "ratingCount": 375,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

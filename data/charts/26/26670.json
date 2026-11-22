@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:36Z",
-    "lastChanged": "2026-09-21T02:02:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-25T08:09:59.207311Z",
   "charter": "Cookie_awa",
@@ -14,6 +14,7 @@
   "description": "修复了 162cb 处 Hold 无法点击的问题\n修改了 329cb  471cb 处 Flick引导时间\n========================\n谱师b站@Cookie_wa",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/09f38749-0dec-4d62-882a-6d83af2e3072",
+  "hidden": false,
   "id": 26670,
   "illustration": "https://phira.5wyxi.com/files/683a0d33-ea54-45a3-9960-f59fcc3c505e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Grimheart",
   "preview": "https://phira.5wyxi.com/files/39ff7671-1132-4aa0-9376-64ce690a2543",
   "ranked": false,
-  "rating": 0.8956541,
-  "ratingCount": 417,
+  "rating": 0.8976125,
+  "ratingCount": 508,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

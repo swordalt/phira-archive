@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:27Z",
-    "lastChanged": "2026-09-21T02:05:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-19T05:12:34.651208Z",
   "charter": "Xiaoyang is Sunshine cheerful big boy",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/875a3548-febb-4c5b-aa5c-8a7c594709e4",
+  "hidden": false,
   "id": 30892,
   "illustration": "https://phira.5wyxi.com/files/564b1bcd-3b63-4c17-8f33-b39522e7ec2e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "阳光开朗大男孩",
   "preview": "https://phira.5wyxi.com/files/13b5b925-a848-4ef2-99ff-b7f773a5a328",
   "ranked": false,
-  "rating": 0.92740905,
-  "ratingCount": 4936,
+  "rating": 0.9263473,
+  "ratingCount": 5137,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

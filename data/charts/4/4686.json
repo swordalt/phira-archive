@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:18Z",
-    "lastChanged": "2026-09-21T02:01:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-27T12:10:11.820409Z",
   "charter": "xERdouS",
@@ -14,6 +14,7 @@
   "description": "（本人上传）改谱改谱\r\n大削了变速，同时略微降低了全局流速，排键优化，动效优化。\r\n ",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/9226322e-5e72-4803-bedd-2899a9e6bb27",
+  "hidden": false,
   "id": 4686,
   "illustration": "https://phira.5wyxi.com/files/25a4c15f-723f-45cc-9616-369ac93f00c2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "即兴演出 fReeStyLE",
   "preview": "https://phira.5wyxi.com/files/eca684da-4c10-4fb8-b93c-5ea9cc4072d4",
   "ranked": true,
-  "rating": 0.912962,
-  "ratingCount": 12989,
+  "rating": 0.9129412,
+  "ratingCount": 13116,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

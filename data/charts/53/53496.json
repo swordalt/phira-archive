@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:25Z",
-    "lastChanged": "2026-09-21T02:04:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-26T16:22:06.102952Z",
   "charter": "Firsna",
@@ -14,6 +14,7 @@
   "description": "本人上传\nBV167cGzpEjj",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/703bd446-3dcf-4e96-b1c6-90a1cebfb3b7",
+  "hidden": false,
   "id": 53496,
   "illustration": "https://phira.5wyxi.com/files/6258791e-420d-447c-8d38-c53314bcf499",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "「僕は…」",
   "preview": "https://phira.5wyxi.com/files/a65a61fc-82fb-4d04-a90b-f0ed022d430c",
   "ranked": false,
-  "rating": 0.9128653,
-  "ratingCount": 766,
+  "rating": 0.91207385,
+  "ratingCount": 824,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

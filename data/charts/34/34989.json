@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:07Z",
-    "lastChanged": "2026-09-21T02:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-08T14:43:30.747604Z",
   "charter": "FR",
@@ -14,6 +14,7 @@
   "description": "本人写谱上传。",
   "difficulty": 17.300001,
   "file": "https://phira.5wyxi.com/files/8be2054e-c589-417b-9a6a-7707dc7490ad",
+  "hidden": false,
   "id": 34989,
   "illustration": "https://phira.5wyxi.com/files/aa149344-6ac7-4b58-8139-64295d2750e9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sphalerite",
   "preview": "https://phira.5wyxi.com/files/40d98ee9-fc3c-4e03-a337-b672230f0655",
   "ranked": false,
-  "rating": 0.900238,
-  "ratingCount": 556,
+  "rating": 0.900154,
+  "ratingCount": 561,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

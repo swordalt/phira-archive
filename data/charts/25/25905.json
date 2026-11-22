@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:33Z",
-    "lastChanged": "2026-09-21T02:02:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-10T14:49:28.181616Z",
   "charter": "RightFT",
@@ -14,6 +14,7 @@
   "description": "本谱面为@卞思捷  个人约稿",
   "difficulty": 14.600002,
   "file": "https://phira.5wyxi.com/files/8df3f436-d90e-4094-aadf-223050bd52b8",
+  "hidden": false,
   "id": 25905,
   "illustration": "https://phira.5wyxi.com/files/eb170879-71be-46c8-b6b9-fc5b2f125acf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Surveillance(feat. RANASOL)",
   "preview": "https://phira.5wyxi.com/files/c8a9713f-d673-4ab6-b1be-d7312e86cac9",
   "ranked": true,
-  "rating": 0.9207869,
-  "ratingCount": 544,
+  "rating": 0.92107165,
+  "ratingCount": 549,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

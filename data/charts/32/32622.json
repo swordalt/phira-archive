@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:59Z",
-    "lastChanged": "2026-09-21T02:02:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-27T11:24:46.301738Z",
   "charter": "MZDDZMQY",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 18.00001,
   "file": "https://phira.5wyxi.com/files/14c6421d-e4bc-4a38-9314-accb09a4f63c",
+  "hidden": false,
   "id": 32622,
   "illustration": "https://phira.5wyxi.com/files/23f8d849-5778-4598-a33e-e4cf549a0941",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MixxioN",
   "preview": "https://phira.5wyxi.com/files/c822244d-0aaf-43f4-9eef-e06bdca6179b",
   "ranked": false,
-  "rating": 0.886771,
-  "ratingCount": 722,
+  "rating": 0.8875432,
+  "ratingCount": 734,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

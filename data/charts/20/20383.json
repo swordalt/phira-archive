@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:14Z",
-    "lastChanged": "2026-09-21T02:02:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-26T01:32:53.776766Z",
   "charter": "5071 vs. Moli233 vs. LongBig",
@@ -14,6 +14,7 @@
   "description": "已经过所有谱师同意上传\n非常感谢默离与LongBig愿意与我一起写谱\n可前往B站观看演示视频：BV1Az421a7pF\n若有任何建议都可以在视频底下提出！",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/eeeabcac-3c0b-463e-925d-f605230dc359",
+  "hidden": false,
   "id": 20383,
   "illustration": "https://phira.5wyxi.com/files/5ae45160-0150-423c-933c-5b50e19296af",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Speculation",
   "preview": "https://phira.5wyxi.com/files/adb0be49-eb34-441e-ba97-115186cd9cb0",
   "ranked": false,
-  "rating": 0.75149715,
-  "ratingCount": 472,
+  "rating": 0.78406256,
+  "ratingCount": 474,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

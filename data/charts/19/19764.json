@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:12Z",
-    "lastChanged": "2026-09-21T02:02:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-10T05:17:35.776670Z",
   "charter": "盐盐",
@@ -14,6 +14,7 @@
   "description": "旧谱补传——HD版本,本人上传。",
   "difficulty": 8.0,
   "file": "https://phira.5wyxi.com/files/762ea866-9dd4-4bb3-80d2-7b8d5b7373db",
+  "hidden": false,
   "id": 19764,
   "illustration": "https://phira.5wyxi.com/files/f0409cf0-e358-4f91-be83-2f2b4566b870",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "快眠!安眠!スヤリスト生活 ",
   "preview": "https://phira.5wyxi.com/files/bbf80bf1-00ec-4e56-b7a6-2c088bc70a51",
   "ranked": false,
-  "rating": 0.95919967,
-  "ratingCount": 3221,
+  "rating": 0.9586975,
+  "ratingCount": 3282,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

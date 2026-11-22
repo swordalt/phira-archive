@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:48Z",
-    "lastChanged": "2026-09-21T02:02:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-11T14:38:13.059282Z",
   "charter": "YanY",
@@ -14,6 +14,7 @@
   "description": "@OK-1511约稿\n——————————\n本人上传，B站@超爱吃盐的盐盐",
   "difficulty": 14.699999,
   "file": "https://phira.5wyxi.com/files/d4ab885f-e7ea-46b6-b888-f36957e60c97",
+  "hidden": false,
   "id": 29989,
   "illustration": "https://phira.5wyxi.com/files/f9094c07-e26a-431e-b857-a96aadf43a46",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Chasing",
   "preview": "https://phira.5wyxi.com/files/a8c262f7-6445-4f92-968b-214302ec2e52",
   "ranked": false,
-  "rating": 0.94436014,
-  "ratingCount": 917,
+  "rating": 0.9444626,
+  "ratingCount": 924,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

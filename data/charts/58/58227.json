@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:42Z",
-    "lastChanged": "2026-09-21T02:04:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-11T16:09:16.592052Z",
   "charter": "HOSII",
@@ -14,6 +14,7 @@
   "description": "低难差分。偏双指底力龙谱我自己都不会打<(ºOº)>\n此谱为谱师本人上传",
   "difficulty": 16.800001,
   "file": "https://phira.5wyxi.com/files/d366129a-5a5b-4667-aed1-3950d47d3333",
+  "hidden": false,
   "id": 58227,
   "illustration": "https://phira.5wyxi.com/files/74537fce-a227-418e-b522-ce4d01260a39",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "YOUNITHM",
   "preview": "https://phira.5wyxi.com/files/cd1b7118-a2cc-4359-95f4-6e0ca0695794",
   "ranked": false,
-  "rating": 0.86770153,
-  "ratingCount": 362,
+  "rating": 0.86202264,
+  "ratingCount": 375,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

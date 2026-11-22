@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:07Z",
-    "lastChanged": "2026-09-21T02:04:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-17T12:15:33.356864Z",
   "charter": "靈",
@@ -14,6 +14,7 @@
   "description": "改谱了，嗯对，哔站太懒了没发，",
   "difficulty": 16.6,
   "file": "https://phira.5wyxi.com/files/6b0ee618-6670-402c-8489-329eda259e5f",
+  "hidden": false,
   "id": 50283,
   "illustration": "https://phira.5wyxi.com/files/8c1d871a-0201-436e-8c7b-ad8bf2e416d0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "靈",
   "preview": "https://phira.5wyxi.com/files/b59cd817-0fd7-413e-bc03-8e2df3985b39",
   "ranked": false,
-  "rating": 0.9491002,
-  "ratingCount": 2500,
+  "rating": 0.948721,
+  "ratingCount": 2568,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

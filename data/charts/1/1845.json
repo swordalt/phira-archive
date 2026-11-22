@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-13T07:13:12.966800Z",
   "charter": "Cattail",
@@ -14,6 +14,7 @@
   "description": "我怀念的故事",
   "difficulty": 5.0,
   "file": "https://phira.5wyxi.com/files/7a1c4fd3-2133-40e1-8d42-5ffaaf2921a5",
+  "hidden": false,
   "id": 1845,
   "illustration": "https://phira.5wyxi.com/files/0a1f1945-3fcd-4518-a5a6-94a69efe1816",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "枝江",
   "preview": "https://phira.5wyxi.com/files/d15c1a6b-3b45-4983-8275-37efa5607abd",
   "ranked": false,
-  "rating": 0.9324062,
-  "ratingCount": 825,
+  "rating": 0.93268865,
+  "ratingCount": 838,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

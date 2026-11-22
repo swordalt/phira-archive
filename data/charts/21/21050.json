@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:24Z",
-    "lastChanged": "2026-09-21T02:05:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-09T13:12:34.004433Z",
   "charter": "BreezePhan",
@@ -14,6 +14,7 @@
   "description": "精神状态墓前良好（竖起大拇指",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/61c3f384-7262-470c-a93b-53f6ce678e09",
+  "hidden": false,
   "id": 21050,
   "illustration": "https://phira.5wyxi.com/files/367f6c36-68be-46a4-bd34-0cd669141665",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Amazing Digital Circus Main Theme",
   "preview": "https://phira.5wyxi.com/files/7909cbc7-4e2f-44c0-af71-9a378c01624c",
   "ranked": false,
-  "rating": 0.93476206,
-  "ratingCount": 4201,
+  "rating": 0.9344214,
+  "ratingCount": 4289,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:51Z",
-    "lastChanged": "2026-09-21T02:02:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-21T05:57:59.201244Z",
   "charter": "@-__rainbow__-/@いちつね薙",
@@ -14,6 +14,7 @@
   "description": "谱师的第二张谱，由@いちつね薙修改",
   "difficulty": 14.600004,
   "file": "https://phira.5wyxi.com/files/f65181bb-0d4e-424a-8915-239772ca28c4",
+  "hidden": false,
   "id": 30857,
   "illustration": "https://phira.5wyxi.com/files/90a56ecb-539d-4333-914f-4a29ecfde3d2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "彼女は旅に出る/甘城なつき(cover)",
   "preview": "https://phira.5wyxi.com/files/5c38d239-55f1-4227-9283-73bb4a97f25d",
   "ranked": false,
-  "rating": 0.95052236,
-  "ratingCount": 2342,
+  "rating": 0.9506946,
+  "ratingCount": 2388,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

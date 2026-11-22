@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:23Z",
-    "lastChanged": "2026-09-21T02:01:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-29T16:11:44.072157Z",
   "charter": "Toast",
@@ -14,6 +14,7 @@
   "description": "新人谱师第三张谱",
   "difficulty": 13.8,
   "file": "https://phira.5wyxi.com/files/f25ba014-d349-4b0b-aacb-7c674259e332",
+  "hidden": false,
   "id": 6400,
   "illustration": "https://phira.5wyxi.com/files/b5204d1c-63e5-4d16-86a4-deddfe88af50",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "吉原ラメント",
   "preview": "https://phira.5wyxi.com/files/79a7a912-f3e7-4926-86ab-2377fa832b6a",
   "ranked": false,
-  "rating": 0.9281635,
-  "ratingCount": 455,
+  "rating": 0.92861515,
+  "ratingCount": 465,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

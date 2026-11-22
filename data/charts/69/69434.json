@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:02Z",
-    "lastChanged": "2026-09-21T02:05:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-15T05:33:35.148936Z",
   "charter": "lnfine",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/f7807233-4eae-4cfa-bcb0-81009ce4250e",
+  "hidden": false,
   "id": 69434,
   "illustration": "https://phira.5wyxi.com/files/9927447c-70d3-4d36-a1de-d1bf0bf517fe",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "IIII IIII IIII",
   "preview": "https://phira.5wyxi.com/files/486f8817-a452-4267-9b76-b3fa65454f9e",
   "ranked": false,
-  "rating": 0.9058527,
-  "ratingCount": 184,
+  "rating": 0.90436816,
+  "ratingCount": 207,
   "reviewed": true,
   "stable": false,
   "stableRequest": true,

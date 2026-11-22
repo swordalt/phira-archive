@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:26Z",
-    "lastChanged": "2026-10-23T19:06:36Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:53:38Z",
+    "revisions": 3
   },
   "chartUpdated": "2024-07-26T02:32:02.295533Z",
   "charter": "Demolisher XINGLING",
@@ -14,6 +14,7 @@
   "description": "致敬传奇双指极限谱Hello(bpm)2021",
   "difficulty": 16.900003,
   "file": "https://phira.5wyxi.com/files/37994edc-8706-48a3-83ed-fe0028f07397",
+  "hidden": false,
   "id": 24362,
   "illustration": "https://phira.5wyxi.com/files/41c7c846-f376-4877-a2ff-0f24fffdc6ad",
   "illustrator": "Camellia",
@@ -21,8 +22,8 @@
   "name": "Hello(bpm)2021",
   "preview": "https://phira.5wyxi.com/files/f28e504a-c7fe-497b-8998-c465d47f795b",
   "ranked": false,
-  "rating": 0.8716912,
-  "ratingCount": 814,
+  "rating": 0.86448234,
+  "ratingCount": 928,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

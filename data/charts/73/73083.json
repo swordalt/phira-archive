@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:08Z",
-    "lastChanged": "2026-11-15T12:20:45Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:05Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-13T04:57:23.615754Z",
   "charter": "LrkyY",
@@ -14,6 +14,7 @@
   "description": "写的不好请见谅\nb站@落叶_Official\n定数IN Lv.14\n物量1080\n事件2900+\n用时14h+",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/a9f1488b-5546-4bf7-bfed-78b2f38d1fae",
+  "hidden": false,
   "id": 73083,
   "illustration": "https://phira.5wyxi.com/files/b34eeea6-fef1-42f8-8677-3175d1367dfb",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "メシア",
   "preview": "https://phira.5wyxi.com/files/d3ff0a16-0dc1-4987-9ee8-c8bac9c5cb3b",
   "ranked": false,
-  "rating": 0.92259127,
+  "rating": 0.92350066,
   "ratingCount": 81,
   "reviewed": true,
   "stable": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:56Z",
-    "lastChanged": "2026-09-21T02:06:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-26T13:28:34.489340Z",
   "charter": "狂奏第01番執行者·L",
@@ -14,6 +14,7 @@
   "description": "本人上传。",
   "difficulty": 18.1,
   "file": "https://phira.5wyxi.com/files/a331171b-a800-4b59-9164-929c7765d5fd",
+  "hidden": false,
   "id": 62581,
   "illustration": "https://phira.5wyxi.com/files/5dce8e68-64ba-4f8a-a3ff-1457a24d54cd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "初音狂奏曲第01番「彗惺」 (feat. 初音ミク)",
   "preview": "https://phira.5wyxi.com/files/48c117e7-fd10-44f9-a4ea-e8ffdae49b10",
   "ranked": false,
-  "rating": 0.9035834,
-  "ratingCount": 464,
+  "rating": 0.9051246,
+  "ratingCount": 497,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

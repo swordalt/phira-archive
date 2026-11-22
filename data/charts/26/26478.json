@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:34Z",
-    "lastChanged": "2026-09-21T02:02:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-17T10:47:25.205667Z",
   "charter": "阿瑞_Resonance",
@@ -14,6 +14,7 @@
   "description": "谱师b站：阿瑞_-Resonance-_\n\n感谢A水老师的建议！\n\n\n2026.6.17\n修改部分配置",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/98f48e91-6ec7-452e-8478-61671016e656",
+  "hidden": false,
   "id": 26478,
   "illustration": "https://phira.5wyxi.com/files/205da10a-7a45-46db-94e4-f4c57e11159c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "THE MUZZLE FACING",
   "preview": "https://phira.5wyxi.com/files/fa390a42-7bfc-4f93-a24e-51a31b2d4f8f",
   "ranked": false,
-  "rating": 0.9402174,
-  "ratingCount": 602,
+  "rating": 0.94076115,
+  "ratingCount": 613,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:13Z",
-    "lastChanged": "2026-09-21T02:01:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-28T11:12:09.122459Z",
   "charter": "飞飞XL",
@@ -14,6 +14,7 @@
   "description": "请上B站关注谱师-飞飞XL-谢谢喵",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/527ef52f-7519-49c4-856e-0e3d21c24bdc",
+  "hidden": false,
   "id": 2708,
   "illustration": "https://phira.5wyxi.com/files/5ed6fb8a-be16-439f-afcd-381404770c7a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Avantgarde",
   "preview": "https://phira.5wyxi.com/files/c58f8d38-3280-4450-8b1e-0459063ec966",
   "ranked": false,
-  "rating": 0.9103838,
-  "ratingCount": 7151,
+  "rating": 0.9104248,
+  "ratingCount": 7170,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

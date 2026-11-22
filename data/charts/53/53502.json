@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:25Z",
-    "lastChanged": "2026-09-21T02:04:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-26T18:43:10.714498Z",
   "charter": "RT_Escade",
@@ -14,6 +14,7 @@
   "description": "回坑作，不喜勿喷，谱面中有很多小巧思，希望能发现",
   "difficulty": 14.600002,
   "file": "https://phira.5wyxi.com/files/8d0b7e19-702f-4ce4-9b97-645ada52ee4f",
+  "hidden": false,
   "id": 53502,
   "illustration": "https://phira.5wyxi.com/files/ef4069cb-2bd4-4ac7-b866-d624f63777b2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "幸福刑",
   "preview": "https://phira.5wyxi.com/files/92cfe6cb-ca7c-419c-b80b-7f2895ee83f5",
   "ranked": false,
-  "rating": 0.9483555,
-  "ratingCount": 2123,
+  "rating": 0.9497976,
+  "ratingCount": 2476,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:35Z",
-    "lastChanged": "2026-09-21T02:03:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-31T07:41:23.998827Z",
   "charter": "GodNoob",
@@ -14,6 +14,7 @@
   "description": "新人初谱，敬请瑞平",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/c29c1211-cc96-4dcc-88c5-e22181e78693",
+  "hidden": false,
   "id": 43238,
   "illustration": "https://phira.5wyxi.com/files/036aa62c-369d-4b91-90fb-32a7fe66b23e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Shelter",
   "preview": "https://phira.5wyxi.com/files/f363114a-113e-49be-9a3d-9056c4c218bf",
   "ranked": false,
-  "rating": 0.9233527,
-  "ratingCount": 740,
+  "rating": 0.9242721,
+  "ratingCount": 773,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

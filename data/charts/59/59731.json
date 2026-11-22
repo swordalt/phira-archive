@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:52Z",
-    "lastChanged": "2026-09-21T02:06:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-01T12:35:12.377375Z",
   "charter": "TEC109",
@@ -14,6 +14,7 @@
   "description": "本人上传\n384/2442，pass97.42\n这对吗\n双指中难谱面，多指谨慎游玩",
   "difficulty": 13.9,
   "file": "https://phira.5wyxi.com/files/c02a3e43-7abb-449a-9bbd-be89d677a73c",
+  "hidden": false,
   "id": 59731,
   "illustration": "https://phira.5wyxi.com/files/68382dd4-25e7-4e7b-a18c-1bcf96ff7b5a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "That Girl",
   "preview": "https://phira.5wyxi.com/files/8f39b938-7efd-49fb-ae86-ced9495d9f4a",
   "ranked": false,
-  "rating": 0.83739537,
-  "ratingCount": 1133,
+  "rating": 0.83608586,
+  "ratingCount": 1141,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

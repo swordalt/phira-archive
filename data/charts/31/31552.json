@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:55Z",
-    "lastChanged": "2026-09-21T02:02:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-07T23:15:08.978201Z",
   "charter": "Hinata Rock",
@@ -14,6 +14,7 @@
   "description": "谱面为本人上传（@日向666）",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/4ff0f76a-1786-4932-a6bb-440d64d3609c",
+  "hidden": false,
   "id": 31552,
   "illustration": "https://phira.5wyxi.com/files/c36a29f3-1b0d-43e7-904e-a8e4344108f7",
   "illustrator": "",

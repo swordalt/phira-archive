@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:19Z",
-    "lastChanged": "2026-09-21T02:06:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-28T13:56:21.490228Z",
   "charter": "雾涯mistend",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/ae312279-566d-4416-a628-4d98e3e2d543",
+  "hidden": false,
   "id": 40439,
   "illustration": "https://phira.5wyxi.com/files/4ff029f0-f420-4f8b-96cb-6d884c1a6661",
   "illustrator": "",

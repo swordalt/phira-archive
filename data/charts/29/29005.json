@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:02Z",
-    "lastChanged": "2026-09-21T02:06:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-23T12:15:57.149595Z",
   "charter": "ye -srx-",
@@ -14,6 +14,7 @@
   "description": "速写，应该不到17 收割难度不高",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/5f07120c-2915-496f-9b32-1197b7b7eac9",
+  "hidden": false,
   "id": 29005,
   "illustration": "https://phira.5wyxi.com/files/15bd8c4e-581f-4f9f-9302-49315e65edf3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Signal",
   "preview": "https://phira.5wyxi.com/files/97e6882d-6b11-41e4-9f8f-c465f0627598",
   "ranked": false,
-  "rating": 0.9455217,
-  "ratingCount": 110,
+  "rating": 0.9482641,
+  "ratingCount": 116,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:06Z",
-    "lastChanged": "2026-09-21T02:07:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-05T06:10:02.291352Z",
   "charter": "778Y0E",
@@ -14,6 +14,7 @@
   "description": "注：我是778Y0E本人，为了整活我把用户名改掉了。2.0版本更新：修改部分配置，加强难度至18",
   "difficulty": 18.000004,
   "file": "https://phira.5wyxi.com/files/f2290a72-7d39-49da-b18b-9645c408cd72",
+  "hidden": false,
   "id": 22671,
   "illustration": "https://phira.5wyxi.com/files/8d660b83-6930-4beb-8e35-45c6e69a558b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Re Aoharu hypertrance bootleg prod. Salty Salt & shizuon",
   "preview": "https://phira.5wyxi.com/files/94cad8af-0211-40ee-b717-8a731cfb8d5c",
   "ranked": false,
-  "rating": 0.91331667,
-  "ratingCount": 413,
+  "rating": 0.91409504,
+  "ratingCount": 418,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

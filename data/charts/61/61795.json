@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:50Z",
-    "lastChanged": "2026-09-21T02:04:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-21T00:09:33.133596Z",
   "charter": "Fanyiling-fyl",
@@ -14,6 +14,7 @@
   "description": "本人上传。\n没怎么写表演是因为我不会写契合这个配置的表演。",
   "difficulty": 19.300001,
   "file": "https://phira.5wyxi.com/files/2dc019dd-3cdc-4e49-878f-fe6ef9c5647f",
+  "hidden": false,
   "id": 61795,
   "illustration": "https://phira.5wyxi.com/files/622f02fd-2785-4c50-a101-5d09ea0b1963",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "macro.wav",
   "preview": "https://phira.5wyxi.com/files/59ac3c5c-5267-4cf4-9789-b5c1c306eeef",
   "ranked": false,
-  "rating": 0.76658577,
-  "ratingCount": 162,
+  "rating": 0.8098665,
+  "ratingCount": 171,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

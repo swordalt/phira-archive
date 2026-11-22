@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:16Z",
-    "lastChanged": "2026-09-21T02:03:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-04T06:33:00.705059Z",
   "charter": "xiaoxiawa",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/3cf9d75b-6edf-4f5e-a557-906c0f91eff5",
+  "hidden": false,
   "id": 37464,
   "illustration": "https://phira.5wyxi.com/files/e7959928-c390-43cb-bbbb-2deb83d2c7ba",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "恋月桜花",
   "preview": "https://phira.5wyxi.com/files/9d196a84-206d-41bc-9f20-f5b29e336d5b",
   "ranked": false,
-  "rating": 0.89041287,
-  "ratingCount": 56,
+  "rating": 0.8773187,
+  "ratingCount": 62,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

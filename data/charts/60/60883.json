@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:48Z",
-    "lastChanged": "2026-09-21T02:04:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-13T17:08:22.269914Z",
   "charter": "黒月 ENGAGED!",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/24d41608-f8de-4e9e-bc38-edecb12bc7f4",
+  "hidden": false,
   "id": 60883,
   "illustration": "https://phira.5wyxi.com/files/a2a19d75-167b-4909-b71d-13fb0db322d8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "KILLER MACHINE",
   "preview": "https://phira.5wyxi.com/files/95682468-81ac-48d8-b99a-59aa4d5d9c06",
   "ranked": false,
-  "rating": 0.79026014,
-  "ratingCount": 9,
+  "rating": 0.80152154,
+  "ratingCount": 13,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:58Z",
-    "lastChanged": "2026-09-21T02:02:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-25T02:34:43.841102Z",
   "charter": "Seromethiopia",
@@ -14,6 +14,7 @@
   "description": "3小时速写\n预期评分3.5到4 现在看来差不多",
   "difficulty": 15.099998,
   "file": "https://phira.5wyxi.com/files/3fd37c52-6af1-4d57-9dad-3f9afe3950dc",
+  "hidden": false,
   "id": 32396,
   "illustration": "https://phira.5wyxi.com/files/d2b2e6c5-7d6a-4fd0-a8ff-dabc50d42015",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Superpower",
   "preview": "https://phira.5wyxi.com/files/1197ea9c-c46b-4494-bdd3-2e1ae16f304a",
   "ranked": false,
-  "rating": 0.8573503,
-  "ratingCount": 35,
+  "rating": 0.8609484,
+  "ratingCount": 36,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:36Z",
-    "lastChanged": "2026-09-21T02:03:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-03T09:10:28.863069Z",
   "charter": "Dqz1z",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/2f6a5fe3-3302-45cc-81ca-9b02ab795267",
+  "hidden": false,
   "id": 43573,
   "illustration": "https://phira.5wyxi.com/files/4783e714-9349-4d74-8e06-80b6125bce81",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "otherside",
   "preview": "https://phira.5wyxi.com/files/56092b8d-414c-410c-b149-4810c749786a",
   "ranked": false,
-  "rating": 0.92548746,
-  "ratingCount": 524,
+  "rating": 0.92347693,
+  "ratingCount": 576,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

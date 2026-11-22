@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:32Z",
-    "lastChanged": "2026-09-21T02:05:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-21T13:24:16.255398Z",
   "charter": "Meow-yuan-Meow",
@@ -14,6 +14,7 @@
   "description": "谱面预览BV1mS4FzAELn\n谱师本人上传",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/6867d7c0-5b38-4ebc-9062-c181e1bc898d",
+  "hidden": false,
   "id": 47937,
   "illustration": "https://phira.5wyxi.com/files/3654f210-628a-4db7-b389-1c115d87900d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "OIIAIOOOOOIAI",
   "preview": "https://phira.5wyxi.com/files/b9f775cb-055c-4b3a-ab51-4cd31446031c",
   "ranked": false,
-  "rating": 0.863892,
-  "ratingCount": 1450,
+  "rating": 0.861651,
+  "ratingCount": 1580,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

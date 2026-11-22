@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:11Z",
-    "lastChanged": "2026-09-21T02:04:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-05T08:50:21.350144Z",
   "charter": "喵喵喵",
@@ -14,6 +14,7 @@
   "description": "新人第一张谱\n谱面视频：BV1JXBaBDEFw",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/4e7902ba-3644-4978-a735-ca5b82972aaa",
+  "hidden": false,
   "id": 51001,
   "illustration": "https://phira.5wyxi.com/files/1597d035-f284-44ed-bc38-4d839de835be",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Flower Dance",
   "preview": "https://phira.5wyxi.com/files/f21a8088-c1ca-440b-8ddc-4a6a8bf468ba",
   "ranked": false,
-  "rating": 0.9159401,
-  "ratingCount": 1300,
+  "rating": 0.91674924,
+  "ratingCount": 1529,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

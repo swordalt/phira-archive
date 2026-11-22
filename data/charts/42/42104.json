@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:24Z",
-    "lastChanged": "2026-09-21T02:06:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-19T07:50:13.011077Z",
   "charter": "雨时",
@@ -14,6 +14,7 @@
   "description": "本人上传   以后应该会回来改一下谱面      二谱 后面手感可能会差点 ToT      作者已分段 ap",
   "difficulty": 17.499996,
   "file": "https://phira.5wyxi.com/files/27474319-317d-41c6-9d1f-e2c3df82f46b",
+  "hidden": false,
   "id": 42104,
   "illustration": "https://phira.5wyxi.com/files/c9ed2845-02f4-4da7-abd3-70759b89fa4a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "混沌を超えし我らが神聖なる調律主を讃えよ",
   "preview": "https://phira.5wyxi.com/files/89e6b220-e8ae-4384-aa92-2e8e0b438f2f",
   "ranked": false,
-  "rating": 0.9366497,
-  "ratingCount": 148,
+  "rating": 0.9372482,
+  "ratingCount": 151,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

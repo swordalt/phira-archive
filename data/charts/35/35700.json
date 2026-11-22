@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:09Z",
-    "lastChanged": "2026-09-21T02:03:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-24T14:58:11.257156Z",
   "charter": "白荧工作室",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/317ae282-9e78-450d-9722-ff478179b886",
+  "hidden": false,
   "id": 35700,
   "illustration": "https://phira.5wyxi.com/files/efc4c585-05b2-40ed-a51e-e44cf8eaacb6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "喜欢的话就去追吧",
   "preview": "https://phira.5wyxi.com/files/440f6d7f-fa1f-4647-8e09-e46942f1f1be",
   "ranked": false,
-  "rating": 0.80049264,
-  "ratingCount": 1088,
+  "rating": 0.80016446,
+  "ratingCount": 1135,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

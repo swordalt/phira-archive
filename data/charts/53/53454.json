@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:46Z",
-    "lastChanged": "2026-09-21T02:06:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-26T11:30:26.673537Z",
   "charter": "V1nce",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，97过",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/477baa69-df41-43c4-bfb3-d2ae9904872c",
+  "hidden": false,
   "id": 53454,
   "illustration": "https://phira.5wyxi.com/files/9b253e06-ca80-45d8-99ad-84034f12ede4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Contrapasso Paradiso",
   "preview": "https://phira.5wyxi.com/files/c46b6eca-23c3-46d6-b7bb-23b008fb96f4",
   "ranked": false,
-  "rating": 0.79755837,
-  "ratingCount": 11,
+  "rating": 0.8095502,
+  "ratingCount": 12,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

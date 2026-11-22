@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:43Z",
-    "lastChanged": "2026-09-21T02:04:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-18T23:52:40.663738Z",
   "charter": "願忘",
@@ -14,6 +14,7 @@
   "description": "本人上傳",
   "difficulty": 15.6,
   "file": "https://phira.5wyxi.com/files/f5530d12-b609-4ad2-aeff-cd894b59d80f",
+  "hidden": false,
   "id": 58671,
   "illustration": "https://phira.5wyxi.com/files/eff4cf66-bb8f-4a25-896e-129c7b264308",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Grayed Out-Antifront-",
   "preview": "https://phira.5wyxi.com/files/63d82d93-27bc-4ee5-9eb8-f342c0310de9",
   "ranked": false,
-  "rating": 0.88604134,
-  "ratingCount": 13,
+  "rating": 0.89210284,
+  "ratingCount": 14,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

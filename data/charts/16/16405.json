@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:00Z",
-    "lastChanged": "2026-09-21T02:02:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-24T05:21:10.222164Z",
   "charter": "匿名 G",
@@ -14,6 +14,7 @@
   "description": "为本人上传：BV1cV4y1d79e\n为萌新第三次写谱（",
   "difficulty": 14.5,
   "file": "https://phira.5wyxi.com/files/160c1654-9d52-4119-88c8-88a8f452187c",
+  "hidden": false,
   "id": 16405,
   "illustration": "https://phira.5wyxi.com/files/8f954505-ea76-44a9-b839-a8a497ef17c7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "匿名M",
   "preview": "https://phira.5wyxi.com/files/2dccae60-5c36-4ede-92d0-8fa9dfe164ae",
   "ranked": false,
-  "rating": 0.93839025,
-  "ratingCount": 3367,
+  "rating": 0.93806577,
+  "ratingCount": 3407,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

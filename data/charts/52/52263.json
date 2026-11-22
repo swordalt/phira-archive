@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:19Z",
-    "lastChanged": "2026-09-21T02:04:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-08T02:02:55.266028Z",
   "charter": "Yurina vs. Pro唷",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 13.199997,
   "file": "https://phira.5wyxi.com/files/fad05bca-d4ad-4e6a-9463-21a0c7742675",
+  "hidden": false,
   "id": 52263,
   "illustration": "https://phira.5wyxi.com/files/5463c63e-761b-4832-bdac-9a4b170bf0b9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "英雄主义",
   "preview": "https://phira.5wyxi.com/files/76bc602c-03ff-4491-9e03-ced365b8b565",
   "ranked": false,
-  "rating": 0.95684904,
-  "ratingCount": 19686,
+  "rating": 0.956684,
+  "ratingCount": 21918,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

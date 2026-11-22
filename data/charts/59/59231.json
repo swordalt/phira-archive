@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:44Z",
-    "lastChanged": "2026-09-21T02:04:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-31T12:38:18.389505Z",
   "charter": "Ex1stenS",
@@ -14,6 +14,7 @@
   "description": "本人上传\n修改部分配置",
   "difficulty": 16.700003,
   "file": "https://phira.5wyxi.com/files/a3f238d1-7dd7-4b54-a9c2-7e2021740f91",
+  "hidden": false,
   "id": 59231,
   "illustration": "https://phira.5wyxi.com/files/5cda8ccf-82c6-43eb-824f-22aad917e21e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "超ナイト・オブ・ナイツ",
   "preview": "https://phira.5wyxi.com/files/df8135d3-1571-46f6-aba0-9bc5acff1e3b",
   "ranked": false,
-  "rating": 0.92602897,
-  "ratingCount": 595,
+  "rating": 0.927429,
+  "ratingCount": 627,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

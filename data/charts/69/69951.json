@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:03Z",
-    "lastChanged": "2026-09-21T02:05:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-29T13:07:32.758980Z",
   "charter": "woxianbaile",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.8,
   "file": "https://phira.5wyxi.com/files/227d5cb7-9436-4666-8c8a-8c44cdf4ffa7",
+  "hidden": false,
   "id": 69951,
   "illustration": "https://phira.5wyxi.com/files/52d71430-c0c5-40be-bf5b-f3829a9c11fe",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Recollect",
   "preview": "https://phira.5wyxi.com/files/67f6fc50-5fff-4c11-8f8c-40e3e1b893c3",
   "ranked": false,
-  "rating": 0.92923075,
-  "ratingCount": 480,
+  "rating": 0.930257,
+  "ratingCount": 766,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

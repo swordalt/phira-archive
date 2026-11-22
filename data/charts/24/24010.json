@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:25Z",
-    "lastChanged": "2026-09-21T02:02:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-21T19:39:28.225023Z",
   "charter": "白辰星",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.900001,
   "file": "https://phira.5wyxi.com/files/cd4fccc4-ca58-4d8d-8106-d8232ac47d47",
+  "hidden": false,
   "id": 24010,
   "illustration": "https://phira.5wyxi.com/files/5f301a65-5d1a-417c-bb13-f490d93d42ab",
   "illustrator": "",

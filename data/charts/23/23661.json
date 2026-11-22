@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:23Z",
-    "lastChanged": "2026-09-21T02:02:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-17T08:16:53.269238Z",
   "charter": "C457",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.600007,
   "file": "https://phira.5wyxi.com/files/6ab973a0-409a-488b-8187-3307e0676757",
+  "hidden": false,
   "id": 23661,
   "illustration": "https://phira.5wyxi.com/files/23bb733e-2887-478b-a464-bfe67e1ddac7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "再飞行",
   "preview": "https://phira.5wyxi.com/files/61d72146-cc6f-4b2f-841c-982782ae2ca4",
   "ranked": false,
-  "rating": 0.9250849,
-  "ratingCount": 804,
+  "rating": 0.925083,
+  "ratingCount": 821,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:43Z",
-    "lastChanged": "2026-09-21T02:03:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-19T09:06:13.185765Z",
   "charter": "YZZ",
@@ -14,6 +14,7 @@
   "description": "本人上传\n新人初谱\nb站UID:411325457",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/1ddcf612-2152-4363-aa8d-840ab9f899ee",
+  "hidden": false,
   "id": 45130,
   "illustration": "https://phira.5wyxi.com/files/fb3f075c-3580-4d7d-9fbc-23d980cfb0dd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "㋰責任集合体",
   "preview": "https://phira.5wyxi.com/files/2f8973cc-0ad7-47af-9115-ece14e3904a2",
   "ranked": false,
-  "rating": 0.9382196,
-  "ratingCount": 2519,
+  "rating": 0.9387482,
+  "ratingCount": 2682,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

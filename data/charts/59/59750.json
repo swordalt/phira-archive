@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:45Z",
-    "lastChanged": "2026-09-21T02:04:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-01T15:59:13.829140Z",
   "charter": "Rainbow Cat",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/5f2ab6af-79cf-47eb-a29c-013525225691",
+  "hidden": false,
   "id": 59750,
   "illustration": "https://phira.5wyxi.com/files/3671e198-4e30-49aa-9a8e-2d106b8def9b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sink To The Deep Sea World",
   "preview": "https://phira.5wyxi.com/files/d655431b-0ed9-4ed0-92c8-f4ada58ecbc8",
   "ranked": false,
-  "rating": 0.87770975,
-  "ratingCount": 79,
+  "rating": 0.8803993,
+  "ratingCount": 84,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

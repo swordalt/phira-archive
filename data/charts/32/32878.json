@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:08Z",
-    "lastChanged": "2026-09-21T02:06:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-30T07:42:13.558903Z",
   "charter": "Isharmal",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 40.0,
   "file": "https://phira.5wyxi.com/files/04765e84-848a-4384-973b-36455b1c3c13",
+  "hidden": false,
   "id": 32878,
   "illustration": "https://phira.5wyxi.com/files/3de20703-38a0-49b2-b862-54f074875578",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "驟雨の狭間",
   "preview": "https://phira.5wyxi.com/files/7de502ab-416a-4dcc-b913-806df9913de5",
   "ranked": false,
-  "rating": 0.91640013,
-  "ratingCount": 61,
+  "rating": 0.9176799,
+  "ratingCount": 62,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

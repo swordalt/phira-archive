@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:44Z",
-    "lastChanged": "2026-09-21T02:01:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-10T03:11:49.761185Z",
   "charter": "Axeor.",
@@ -14,6 +14,7 @@
   "description": "@Axeor",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/f875323f-81ae-488a-a12e-84f0bc08ad81",
+  "hidden": false,
   "id": 12275,
   "illustration": "https://phira.5wyxi.com/files/96422c8b-dd07-4e53-9ba9-ee46ee52ada9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Don't Die",
   "preview": "https://phira.5wyxi.com/files/eddb3089-9901-4202-a6e7-8d669476b52f",
   "ranked": false,
-  "rating": 0.90290314,
-  "ratingCount": 402,
+  "rating": 0.90388674,
+  "ratingCount": 407,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

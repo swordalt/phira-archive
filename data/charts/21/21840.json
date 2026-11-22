@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:51Z",
-    "lastChanged": "2026-09-21T02:05:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-24T02:20:50.330806Z",
   "charter": "cgl",
@@ -14,6 +14,7 @@
   "description": "BPM150",
   "difficulty": 30.0,
   "file": "https://phira.5wyxi.com/files/59d77a67-f2b2-4ae6-be11-30246e40b880",
+  "hidden": false,
   "id": 21840,
   "illustration": "https://phira.5wyxi.com/files/20e76903-8011-432c-bd60-b1bbdc4da074",
   "illustrator": "",

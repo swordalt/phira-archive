@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:29Z",
-    "lastChanged": "2026-09-21T02:04:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-12T14:25:18.898218Z",
   "charter": "Yurisky_/喵呜呜喵喵喵呜",
@@ -14,6 +14,7 @@
   "description": "本人上传 曲名：私は、わたしの事が好き 曲师：HoneyWorks/かぐや(cv.夏吉ゆうこ) 谱师：Yurisky_/喵呜呜喵喵喵呜（Yurisky_/@Dragon.#702870 ） 难度：IN Lv.14 物量：1825 B站：BV1aSw4zDExy 2026.3.21:修改227cb处采音以及若干问题。2026.4.5:优化了部分段落。2026.6.12:更新为加长版。",
   "difficulty": 15.500001,
   "file": "https://phira.5wyxi.com/files/29090f12-94c6-4bd9-902c-66e00e82c8c4",
+  "hidden": false,
   "id": 54187,
   "illustration": "https://phira.5wyxi.com/files/287da57c-7112-47c2-9a95-21c837f3d7a6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "私は、わたしの事が好き(Extended ver)",
   "preview": "https://phira.5wyxi.com/files/d0bd140b-eb5d-4e1d-82ec-0c8ff731d07c",
   "ranked": true,
-  "rating": 0.918735,
-  "ratingCount": 5371,
+  "rating": 0.91951036,
+  "ratingCount": 5814,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

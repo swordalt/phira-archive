@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:12Z",
-    "lastChanged": "2026-09-21T02:02:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-05T19:18:32.964383Z",
   "charter": "Redmi201̣",
@@ -14,6 +14,7 @@
   "description": "本人上傳desu",
   "difficulty": 11.0,
   "file": "https://phira.5wyxi.com/files/232d2985-cd1e-4103-8bdf-5fb7468b5de2",
+  "hidden": false,
   "id": 19632,
   "illustration": "https://phira.5wyxi.com/files/67c91394-1a74-4604-88a4-c8beebebd670",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Serene Scenario (Theme 201)",
   "preview": "https://phira.5wyxi.com/files/f4b31c30-1682-4e63-ae51-bc3db24a5219",
   "ranked": false,
-  "rating": 0.93735486,
-  "ratingCount": 1286,
+  "rating": 0.93698204,
+  "ratingCount": 1302,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

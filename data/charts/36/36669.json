@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-09-21T02:06:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-18T13:55:55.871840Z",
   "charter": "TEC109",
@@ -14,6 +14,7 @@
   "description": "本人上传www\n专门为dfc新手编写的一张标准11.0中叠\n有点耐力挑战哦\n感谢游玩喵喵喵",
   "difficulty": 11.300001,
   "file": "https://phira.5wyxi.com/files/b2e50919-3354-4e1c-968e-d0772c3ce416",
+  "hidden": false,
   "id": 36669,
   "illustration": "https://phira.5wyxi.com/files/0c1c18b1-9097-4d89-92d0-ddafbb5cebd1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mantarave",
   "preview": "https://phira.5wyxi.com/files/0fa917cf-d887-4305-b1c1-1cf220d0d9ef",
   "ranked": false,
-  "rating": 0.9597347,
-  "ratingCount": 211,
+  "rating": 0.9591458,
+  "ratingCount": 220,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

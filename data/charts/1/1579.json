@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:09Z",
-    "lastChanged": "2026-09-21T02:01:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-10T10:11:42.174133Z",
   "charter": "Calamity-phi",
@@ -14,6 +14,7 @@
   "description": "The end has come！",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/c0e069db-c0ad-4eae-bdec-45d18482547c",
+  "hidden": false,
   "id": 1579,
   "illustration": "https://phira.5wyxi.com/files/adfe07f7-bf0c-4c6e-8931-db9f505fe710",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Raw Unfilltered Calamity",
   "preview": "https://phira.5wyxi.com/files/b57c02f4-7be5-49bc-bf18-92408078c30d",
   "ranked": false,
-  "rating": 0.90790814,
-  "ratingCount": 1001,
+  "rating": 0.9078304,
+  "ratingCount": 1018,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

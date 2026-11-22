@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:58Z",
-    "lastChanged": "2026-09-21T02:05:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-11T08:49:52.000004Z",
   "charter": "小识谈记",
@@ -14,6 +14,7 @@
   "description": "新人谱面",
   "difficulty": 14.700001,
   "file": "https://phira.5wyxi.com/files/10ad60bf-551b-4260-82e6-274be9436c06",
+  "hidden": false,
   "id": 25974,
   "illustration": "https://phira.5wyxi.com/files/2d87b598-3be1-41de-9cf2-5944a55fe891",
   "illustrator": "",

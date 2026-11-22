@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:07Z",
-    "lastChanged": "2026-09-21T02:01:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-02T08:22:45.884234Z",
   "charter": "Maltosaki drunk over ( ? )",
@@ -14,6 +14,7 @@
   "description": "奇异搞笑，图一乐\n谱师自己不想打了，手机断触十几个",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/a9eb87ff-360d-4732-ab05-9a566e5626f7",
+  "hidden": false,
   "id": 1027,
   "illustration": "https://phira.5wyxi.com/files/e04c70cb-21ee-4d62-8a7b-f8d6d591a6eb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lose Control",
   "preview": "https://phira.5wyxi.com/files/5ee2b338-7328-41ce-a49c-f4771ec376dd",
   "ranked": false,
-  "rating": 0.86205006,
-  "ratingCount": 4536,
+  "rating": 0.86222386,
+  "ratingCount": 4587,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

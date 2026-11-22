@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:59Z",
-    "lastChanged": "2026-09-21T02:04:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-15T11:40:38.364198Z",
   "charter": "李辞方",
@@ -14,6 +14,7 @@
   "description": "第一次写的谱，重新调整了一下，又上传一遍，希望能过\nCiallo",
   "difficulty": 5.0,
   "file": "https://phira.5wyxi.com/files/ce386295-f681-49ed-a54d-5731541f7273",
+  "hidden": false,
   "id": 66749,
   "illustration": "https://phira.5wyxi.com/files/bad962d9-9ce8-4614-ba22-82f45c046571",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "空山新雨后",
   "preview": "https://phira.5wyxi.com/files/34accdaf-2921-4163-a871-eaf62c5bfc1b",
   "ranked": false,
-  "rating": 0.92088145,
-  "ratingCount": 250,
+  "rating": 0.92943823,
+  "ratingCount": 573,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

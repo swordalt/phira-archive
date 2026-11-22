@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:46Z",
-    "lastChanged": "2026-09-21T02:02:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-07T07:06:57.559881Z",
   "charter": "跑跑刨刨泡泡",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 13.7,
   "file": "https://phira.5wyxi.com/files/c38a2a18-c9ff-4e48-aa2d-18bcac1622a4",
+  "hidden": false,
   "id": 29452,
   "illustration": "https://phira.5wyxi.com/files/b1a7e0b2-78a4-4506-ab96-638ce6b8883d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "甜甜饕餮糖糖",
   "preview": "https://phira.5wyxi.com/files/d43dfa41-3517-4f66-80ec-644fcec7d2a0",
   "ranked": false,
-  "rating": 0.92614233,
-  "ratingCount": 128,
+  "rating": 0.9262084,
+  "ratingCount": 133,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

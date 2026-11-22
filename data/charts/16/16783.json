@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:23Z",
-    "lastChanged": "2026-09-21T02:05:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-06T11:47:35.720693Z",
   "charter": "梦可tos",
@@ -14,6 +14,7 @@
   "description": "本人创作，突发奇想的一款音游，用phi自制谱打打方式模拟出来，虽然放在这里和制作时比例不一样，但也没有没太大影响，如果觉得卡手可以把按键调小一点，这种音游玩法还是比较卡手啊",
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/a1519440-9444-42da-87b1-aa9804796f14",
+  "hidden": false,
   "id": 16783,
   "illustration": "https://phira.5wyxi.com/files/d0ded75f-571e-4431-8f58-136e50622505",
   "illustrator": "",

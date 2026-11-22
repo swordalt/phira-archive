@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:07Z",
-    "lastChanged": "2026-09-21T02:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-06T08:08:58.688806Z",
   "charter": "GuoLi",
@@ -14,6 +14,7 @@
   "description": "新人初次写谱，很喜欢真夜中的这首歌，以后还会再写的",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/0d4a5267-2981-496b-ab08-f6eee61ae564",
+  "hidden": false,
   "id": 34848,
   "illustration": "https://phira.5wyxi.com/files/fcca343f-f2ae-450a-b7b2-8cf243e9beaf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ham",
   "preview": "https://phira.5wyxi.com/files/7009d759-60fd-4b62-b08f-983292fb10d8",
   "ranked": false,
-  "rating": 0.94824415,
-  "ratingCount": 347,
+  "rating": 0.9458221,
+  "ratingCount": 365,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

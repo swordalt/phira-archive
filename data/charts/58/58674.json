@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:51Z",
-    "lastChanged": "2026-09-21T02:06:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-19T04:40:17.003465Z",
   "charter": "0.571024%",
@@ -14,6 +14,7 @@
   "description": "为本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/0f00df8a-ff97-43bc-a96e-b08500aefaff",
+  "hidden": false,
   "id": 58674,
   "illustration": "https://phira.5wyxi.com/files/6474b049-1ad8-4c23-8ab9-3112040d8725",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "大地に咲く旋律",
   "preview": "https://phira.5wyxi.com/files/537b1272-5109-4bd7-ba9e-d97c6b19b1a9",
   "ranked": false,
-  "rating": 0.9072788,
-  "ratingCount": 123,
+  "rating": 0.9154904,
+  "ratingCount": 140,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

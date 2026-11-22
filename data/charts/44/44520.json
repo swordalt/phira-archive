@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:40Z",
-    "lastChanged": "2026-09-21T02:03:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-13T02:40:27.792966Z",
   "charter": "zhanwai",
@@ -14,6 +14,7 @@
   "description": "谱师B站ID：zhanwai                    Ciallo～(∠・ω< )⌒☆",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/f053a7b4-9541-4421-861e-b8f27e80fcce",
+  "hidden": false,
   "id": 44520,
   "illustration": "https://phira.5wyxi.com/files/db19b72d-0db9-42e2-b077-9059010bcfb2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "茉子の日常",
   "preview": "https://phira.5wyxi.com/files/53dc6fc8-2b14-45f3-83c5-722eadb9617c",
   "ranked": false,
-  "rating": 0.9415204,
-  "ratingCount": 523,
+  "rating": 0.94106543,
+  "ratingCount": 548,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

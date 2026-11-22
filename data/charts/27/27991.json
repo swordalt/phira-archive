@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:01Z",
-    "lastChanged": "2026-09-21T02:06:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-23T14:31:03.817839Z",
   "charter": "cconn",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/a437bdca-9d25-40f5-8df5-a02743ab6292",
+  "hidden": false,
   "id": 27991,
   "illustration": "https://phira.5wyxi.com/files/b7665d2b-4ce8-4707-8168-31e57ca958ea",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Re_Nascence(Psystyle ver.)",
   "preview": "https://phira.5wyxi.com/files/73d5eb08-a1c1-4859-9d28-308357a2c348",
   "ranked": false,
-  "rating": 0.9551257,
-  "ratingCount": 343,
+  "rating": 0.9546647,
+  "ratingCount": 348,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

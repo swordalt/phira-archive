@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:58Z",
-    "lastChanged": "2026-09-21T02:06:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-10T04:47:50.203746Z",
   "charter": "sb",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.499998,
   "file": "https://phira.5wyxi.com/files/1ee72a34-dd51-4c96-8069-639d0fc21167",
+  "hidden": false,
   "id": 65401,
   "illustration": "https://phira.5wyxi.com/files/bc0fdd76-667c-4cea-aae7-f245c3c924ae",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "kizuna resolution",
   "preview": "https://phira.5wyxi.com/files/e6a0f14b-d155-4213-9257-3132bcc07784",
   "ranked": false,
-  "rating": 0.9084086,
-  "ratingCount": 138,
+  "rating": 0.9027428,
+  "ratingCount": 153,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

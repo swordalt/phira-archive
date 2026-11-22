@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:32Z",
-    "lastChanged": "2026-09-21T02:04:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-01T02:49:45.069016Z",
   "charter": "ififjust",
@@ -14,6 +14,7 @@
   "description": "b站：BV1u2XkBiEQ2\n有点半愚人节半常规了。",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/7bf8701a-0210-42a9-ba7d-d1f08dbc795b",
+  "hidden": false,
   "id": 54846,
   "illustration": "https://phira.5wyxi.com/files/00e0d7fa-b044-4746-b5eb-67434529df0b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "奥のカガミで笑う影",
   "preview": "https://phira.5wyxi.com/files/f0506149-932d-49f4-8db4-9f21e5f4f7d2",
   "ranked": false,
-  "rating": 0.86922884,
-  "ratingCount": 11,
+  "rating": 0.8756852,
+  "ratingCount": 16,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:40Z",
-    "lastChanged": "2026-09-21T02:01:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-15T18:52:35.783831Z",
   "charter": "InterJoke",
@@ -14,6 +14,7 @@
   "description": "2022/5/20发布，BV1Uu41167D\n微调版本谱面，本人上传。\n\n是《溯Resux》的原创曲\n希望溯游早日打赢复活赛（",
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/94f93044-c080-464e-ab4b-05e1decfcca2",
+  "hidden": false,
   "id": 11503,
   "illustration": "https://phira.5wyxi.com/files/061cbb83-b918-4a52-adc4-43a2a32a638d",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "Gurus - For the Posterity -",
   "preview": "https://phira.5wyxi.com/files/3c083f31-bd4e-473d-a56e-dc87683616e0",
   "ranked": false,
-  "rating": 0.93027717,
+  "rating": 0.93005365,
   "ratingCount": 62,
   "reviewed": true,
   "stable": false,

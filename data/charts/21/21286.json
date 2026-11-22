@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:50Z",
-    "lastChanged": "2026-09-21T02:05:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-14T10:05:11.671395Z",
   "charter": "Quillius",
@@ -14,6 +14,7 @@
   "description": "BPM:238\n谱师本人 b站:Quillius\n可能不到α+\n谱面预览:BV1j4VxetEKz",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/94c5af76-77b1-4f51-981a-d6aeeca7b534",
+  "hidden": false,
   "id": 21286,
   "illustration": "https://phira.5wyxi.com/files/3617accb-2bc3-4344-8e44-0c84b8b17593",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Climax (Kobaryo's FTN-Remix)",
   "preview": "https://phira.5wyxi.com/files/38a8c9b3-dd56-413a-b3b3-399b78d87e44",
   "ranked": false,
-  "rating": 0.94635767,
-  "ratingCount": 105,
+  "rating": 0.94733083,
+  "ratingCount": 106,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:39Z",
-    "lastChanged": "2026-09-21T02:01:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-28T11:50:40.170269Z",
   "charter": "您线蓝了（喜）",
@@ -14,6 +14,7 @@
   "description": "本人上传，B站UID:525375004，有工程截图",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/03e64311-fb7e-46f8-aa95-14bf5988a8fe",
+  "hidden": false,
   "id": 10933,
   "illustration": "https://phira.5wyxi.com/files/fc7c7196-e99c-4149-9ab5-ba35f8eb0c9e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Glorious Morning",
   "preview": "https://phira.5wyxi.com/files/3ef77977-3024-46a2-827f-9bd59fa36474",
   "ranked": false,
-  "rating": 0.84067637,
-  "ratingCount": 176,
+  "rating": 0.8445212,
+  "ratingCount": 181,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:50Z",
-    "lastChanged": "2026-09-21T02:06:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-01T11:47:40.578734Z",
   "charter": "恃卑矜己",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 21.0,
   "file": "https://phira.5wyxi.com/files/0f1d299d-79e4-4f86-8c23-a6d914abdb37",
+  "hidden": false,
   "id": 57477,
   "illustration": "https://phira.5wyxi.com/files/0abc6853-8328-497e-845d-3422bceb9a40",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Timeline",
   "preview": "https://phira.5wyxi.com/files/a94228da-70ce-42fe-9e04-f68e0f910f1d",
   "ranked": false,
-  "rating": 0.9339594,
-  "ratingCount": 274,
+  "rating": 0.93541116,
+  "ratingCount": 308,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

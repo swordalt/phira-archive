@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:05Z",
-    "lastChanged": "2026-09-21T02:06:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-12T17:40:03.820354Z",
   "charter": "Txskino feat.LAJ",
@@ -14,6 +14,7 @@
   "description": "旨在还原红黑出的神奇轴交互，本人上传。",
   "difficulty": 13.3,
   "file": "https://phira.5wyxi.com/files/9ef68080-e082-49ba-b07f-2fcdf11bcccc",
+  "hidden": false,
   "id": 30661,
   "illustration": "https://phira.5wyxi.com/files/4258855d-cb03-4a86-949a-62ba0ed99931",
   "illustrator": "",

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:19Z",
-    "lastChanged": "2026-09-21T02:02:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-24T10:37:39.839239Z",
   "charter": "扎尔",
@@ -14,6 +14,7 @@
   "description": "前面因为时间问题没发谱子来迟了私密马赛呜呜",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/0c7c2c78-6e2d-47f2-951a-3f2dd3ad560b",
+  "hidden": false,
   "id": 21858,
   "illustration": "https://phira.5wyxi.com/files/6f589d16-602a-45d8-8c58-194575ac34a8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "5:20 AM",
   "preview": "https://phira.5wyxi.com/files/496819bb-60bd-4303-946b-0b6d3d7a3611",
   "ranked": false,
-  "rating": 0.92840564,
-  "ratingCount": 12271,
+  "rating": 0.9284701,
+  "ratingCount": 12806,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

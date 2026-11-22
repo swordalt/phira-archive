@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:45Z",
-    "lastChanged": "2026-09-21T02:06:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-11T05:18:28.993306Z",
   "charter": "xmm_LXCDEF",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n类型：Stream\nBPM:149\nB站：BV1UbFXzVEPf\n是否有耐力要求：是",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/b6d1eedd-f8d3-47e7-842c-cdf26b487361",
+  "hidden": false,
   "id": 52425,
   "illustration": "https://phira.5wyxi.com/files/a50b13bd-5b67-421f-8b86-c4aa38bd4a56",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "LiFE Garden (Extended Mix)",
   "preview": "https://phira.5wyxi.com/files/53012229-9217-4bf1-90d4-fc22ac2485bf",
   "ranked": false,
-  "rating": 0.9129858,
-  "ratingCount": 93,
+  "rating": 0.91616714,
+  "ratingCount": 103,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

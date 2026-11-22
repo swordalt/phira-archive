@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:30Z",
-    "lastChanged": "2026-09-21T02:05:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-25T07:40:57.441241Z",
   "charter": "卡神仔",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/2f1e69e8-5d14-4c57-8102-0b369bee5a24",
+  "hidden": false,
   "id": 42671,
   "illustration": "https://phira.5wyxi.com/files/9de9f2fc-381f-4243-83d4-abb85ff9b029",
   "illustrator": "",

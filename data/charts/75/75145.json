@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:11Z",
-    "lastChanged": "2026-09-21T02:05:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-23T03:45:40.027450Z",
   "charter": "XiaoQXiaoN",
@@ -14,6 +14,7 @@
   "description": "第五届bbc参赛谱\n会尝试申请上架，主要目的是获取建议，如果不过审的话，请stable提供建议\n幽幽子nb",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/a7ac8289-c329-49f0-bf75-3ad0c1386b4f",
+  "hidden": false,
   "id": 75145,
   "illustration": "https://phira.5wyxi.com/files/3e5f2c02-c329-46c3-a5ad-d102705792cd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "彷徨いの冥~天~",
   "preview": "https://phira.5wyxi.com/files/5f806fdb-92ac-418f-bf53-6fc96da065e0",
   "ranked": false,
-  "rating": 0.91437715,
-  "ratingCount": 117,
+  "rating": 0.9270845,
+  "ratingCount": 165,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

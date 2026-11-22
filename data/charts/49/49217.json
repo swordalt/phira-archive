@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:03Z",
-    "lastChanged": "2026-09-21T02:04:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-16T11:24:32.529271Z",
   "charter": "Mliukkua",
@@ -14,6 +14,7 @@
   "description": "新人第一张常规谱，希望大家喜欢。（谱面没有上传B站，但也许以后会考虑上传谱面，B站账号:巡音ミク）",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/d7f9133c-5659-4941-89e1-f06a5574dfb9",
+  "hidden": false,
   "id": 49217,
   "illustration": "https://phira.5wyxi.com/files/261b58bd-ca96-4df1-99ed-30798d8e2f56",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "それがあなたの幸せとしても",
   "preview": "https://phira.5wyxi.com/files/82f06712-628d-4cbc-9749-be6c787888de",
   "ranked": false,
-  "rating": 0.92841005,
-  "ratingCount": 145,
+  "rating": 0.92971194,
+  "ratingCount": 153,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

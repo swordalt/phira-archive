@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:28Z",
-    "lastChanged": "2026-09-21T02:05:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-31T00:34:33.783074Z",
   "charter": "冬、",
@@ -14,6 +14,7 @@
   "description": "本人上传。\n铺还没写完游戏就停服了…\nBili UID:523237742",
   "difficulty": 14.900006,
   "file": "https://phira.5wyxi.com/files/febc8429-17af-4be6-abbb-0d6de3a32c8d",
+  "hidden": false,
   "id": 32935,
   "illustration": "https://phira.5wyxi.com/files/a3bc8308-31c4-4916-b371-7226124db88c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "小动物之星主题曲",
   "preview": "https://phira.5wyxi.com/files/2ca495dd-f2f3-4e36-8a12-f68a8c7ad63b",
   "ranked": false,
-  "rating": 0.8222476,
-  "ratingCount": 26,
+  "rating": 0.82176095,
+  "ratingCount": 29,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:45Z",
-    "lastChanged": "2026-09-21T02:04:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-31T10:09:17.707075Z",
   "charter": "红莉栖_Tina",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/c3d79322-b07f-4bf4-89d4-687e2c846248",
+  "hidden": false,
   "id": 59636,
   "illustration": "https://phira.5wyxi.com/files/6908b2ee-ffd6-4824-bd2b-f0d28bfed04e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ABYSS MOTION 192.333",
   "preview": "https://phira.5wyxi.com/files/e0b3d7cb-2630-4bea-9a6a-5ba3c439748d",
   "ranked": false,
-  "rating": 0.8547412,
-  "ratingCount": 150,
+  "rating": 0.85541284,
+  "ratingCount": 151,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

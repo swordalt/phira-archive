@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:41Z",
-    "lastChanged": "2026-09-21T02:04:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-04T02:35:08.687436Z",
   "charter": "hosii",
@@ -14,6 +14,7 @@
   "description": "个人第四张谱",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/bce8b032-3e3a-474a-a7ca-b6e088d86f3b",
+  "hidden": false,
   "id": 57763,
   "illustration": "https://phira.5wyxi.com/files/0b462e2e-9d27-4f73-af42-30f7cc095f6e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Alice in 冷凍庫(cover by花谱)",
   "preview": "https://phira.5wyxi.com/files/0f1e0e48-650d-4f62-9550-f120954dbd05",
   "ranked": false,
-  "rating": 0.8704342,
-  "ratingCount": 21,
+  "rating": 0.87478334,
+  "ratingCount": 24,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

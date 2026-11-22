@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:47Z",
-    "lastChanged": "2026-09-21T02:05:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-10T10:17:34.704779Z",
   "charter": "SeeRukio",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/aa3ab6af-d4e9-4663-bce3-fb3935689775",
+  "hidden": false,
   "id": 19773,
   "illustration": "https://phira.5wyxi.com/files/1d94a6a6-cbbb-43ee-a62a-3483414bcd7b",
   "illustrator": "",

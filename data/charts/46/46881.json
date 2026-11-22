@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:35Z",
-    "lastChanged": "2026-09-21T02:06:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-16T05:38:55.500403Z",
   "charter": "GOODLIZI",
@@ -14,6 +14,7 @@
   "description": "《希望有羽毛和翅膀》from 崩坏：星穹铁道 新人初谱，请多指教！",
   "difficulty": 15.5,
   "file": "https://phira.5wyxi.com/files/5527ebd8-e54e-4883-ae37-69f5b9ddfe39",
+  "hidden": false,
   "id": 46881,
   "illustration": "https://phira.5wyxi.com/files/74f7467e-c434-41d2-a691-82a59e3a6c9e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "希望有羽毛和翅膀",
   "preview": "https://phira.5wyxi.com/files/e8784c53-c1eb-44e6-b102-6d4c2886b388",
   "ranked": false,
-  "rating": 0.922459,
-  "ratingCount": 260,
+  "rating": 0.92236745,
+  "ratingCount": 279,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-27T08:02:17Z",
-    "lastChanged": "2026-09-27T18:17:49Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:13Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-08-30T13:43:42.851628Z",
   "charter": "inwarsan",
@@ -14,6 +14,7 @@
   "description": "本人上传。\nb站 BV1EQc7zvEAG",
   "difficulty": 14.400005,
   "file": "https://phira.5wyxi.com/files/8ce8b727-25f0-4afc-90d3-b23f1ac54cdb",
+  "hidden": false,
   "id": 76614,
   "illustration": "https://phira.5wyxi.com/files/b50ef166-766e-4b9a-a36f-de495f556973",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "樱落繁花",
   "preview": "https://phira.5wyxi.com/files/5602adf1-aaf7-4e27-aec1-b906b059e42f",
   "ranked": false,
-  "rating": 0.87855464,
-  "ratingCount": 32,
+  "rating": 0.88484585,
+  "ratingCount": 527,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

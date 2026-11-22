@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:05Z",
-    "lastChanged": "2026-09-21T02:03:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-23T11:19:47.676936Z",
   "charter": "silentSea",
@@ -14,6 +14,7 @@
   "description": "本人上传，录手元b站@silentSea-霍格",
   "difficulty": 15.8,
   "file": "https://phira.5wyxi.com/files/8740e91a-8c81-4859-bced-2849cd0b71fb",
+  "hidden": false,
   "id": 34408,
   "illustration": "https://phira.5wyxi.com/files/5f477773-906a-4948-8b93-6cb7503d782a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "[CRYSTAL_ACCESS]",
   "preview": "https://phira.5wyxi.com/files/7dd9e52b-5662-4d73-b153-9ca5e0bfd2ff",
   "ranked": true,
-  "rating": 0.92956185,
-  "ratingCount": 982,
+  "rating": 0.92972696,
+  "ratingCount": 1003,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

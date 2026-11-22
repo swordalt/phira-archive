@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:01Z",
-    "lastChanged": "2026-09-21T02:06:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-17T01:05:59.385083Z",
   "charter": "Pradon",
@@ -14,6 +14,7 @@
   "description": "不会特效，不会动效，没写完\n第一张谱\nbilibili: Pradon_",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/64a38c2a-10a1-44f8-8a95-4b9e2dd757ed",
+  "hidden": false,
   "id": 27772,
   "illustration": "https://phira.5wyxi.com/files/0d0701f3-4cc1-4386-a7fe-3e9f734ea699",
   "illustrator": "",

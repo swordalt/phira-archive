@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:41Z",
-    "lastChanged": "2026-09-21T02:02:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-29T03:45:18.666426Z",
   "charter": "Chlorine_Cl",
@@ -14,6 +14,7 @@
   "description": "神啊，可不可以让我感受一下……",
   "difficulty": 15.7000065,
   "file": "https://phira.5wyxi.com/files/1a52b10c-6354-4764-ba0a-58564afdfd80",
+  "hidden": false,
   "id": 28130,
   "illustration": "https://phira.5wyxi.com/files/e877ca46-579b-4a35-8838-16cd9cf5801a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "暮色回响",
   "preview": "https://phira.5wyxi.com/files/156bcc73-d904-4b7b-90ae-2d551bb90046",
   "ranked": false,
-  "rating": 0.81342846,
-  "ratingCount": 665,
+  "rating": 0.855777,
+  "ratingCount": 867,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

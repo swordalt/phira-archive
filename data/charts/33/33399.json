@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-06T04:29:26.358322Z",
   "charter": "lostzk",
@@ -14,6 +14,7 @@
   "description": "谱师:lostzk b站名乄lostzk\n新人写的第二张个人谱\n感谢大家的游玩(>_<)",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/95f3ac9f-e915-41ea-97f8-e233bc816e65",
+  "hidden": false,
   "id": 33399,
   "illustration": "https://phira.5wyxi.com/files/546a9b5c-9150-4568-947c-290772a0e38f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Horizon Blue",
   "preview": "https://phira.5wyxi.com/files/5fda1255-bba0-447c-9301-b735c9141714",
   "ranked": false,
-  "rating": 0.9334492,
-  "ratingCount": 699,
+  "rating": 0.9331872,
+  "ratingCount": 715,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:36Z",
-    "lastChanged": "2026-09-21T02:05:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-21T01:48:04.944462Z",
   "charter": "Walnnut",
@@ -14,6 +14,7 @@
   "description": "第一次做谱 见谅",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/231701c1-fc4e-4b72-94c1-b4f595724b6f",
+  "hidden": false,
   "id": 5710,
   "illustration": "https://phira.5wyxi.com/files/96ce93ff-f7c2-4337-9466-481ff5136bd8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "You",
   "preview": "https://phira.5wyxi.com/files/58d3c15b-7090-4389-8849-dfc68f0b7712",
   "ranked": false,
-  "rating": 0.90857065,
-  "ratingCount": 473,
+  "rating": 0.90895814,
+  "ratingCount": 475,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-05T14:55:46.232074Z",
   "charter": "PurplstaR",
@@ -14,6 +14,7 @@
   "description": "b站预览BV11C411z76S 更新：难度17 → 18 → 19",
   "difficulty": 19.0,
   "file": "https://phira.5wyxi.com/files/8cd5075d-7898-4136-b2b3-d8a56296aeeb",
+  "hidden": false,
   "id": 14863,
   "illustration": "https://phira.5wyxi.com/files/d01e70a0-a7eb-4acc-91fe-fb928d286ce3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Eviternity",
   "preview": "https://phira.5wyxi.com/files/cfc165cd-633d-464b-961b-38c78eb04388",
   "ranked": false,
-  "rating": 0.88814217,
-  "ratingCount": 1904,
+  "rating": 0.8887433,
+  "ratingCount": 1932,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

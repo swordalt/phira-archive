@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:11Z",
-    "lastChanged": "2026-09-21T02:04:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-02T14:34:24.922306Z",
   "charter": "catriot.fev",
@@ -14,6 +14,7 @@
   "description": " 本人上传",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/d055edb0-0273-4cd7-97ba-a09de4a2f2d9",
+  "hidden": false,
   "id": 50903,
   "illustration": "https://phira.5wyxi.com/files/63b39b8d-d378-4923-9290-22ecff08a9d9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "macro.wav",
   "preview": "https://phira.5wyxi.com/files/8aeb48c5-1d5d-4adb-904f-6afc9aca75eb",
   "ranked": false,
-  "rating": 0.94235253,
-  "ratingCount": 382,
+  "rating": 0.9418044,
+  "ratingCount": 388,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:53Z",
-    "lastChanged": "2026-09-21T02:02:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-31T09:19:00.062808Z",
   "charter": "Daigodo's Chaos as 'Haze' Fixed '雷神'",
@@ -14,6 +14,7 @@
   "description": "YouTube @daigodou3",
   "difficulty": 16.6,
   "file": "https://phira.5wyxi.com/files/1a86fc5c-5f16-4142-8f11-8e91823253de",
+  "hidden": false,
   "id": 31247,
   "illustration": "https://phira.5wyxi.com/files/43a6fc97-ac87-4c02-9109-375194c43de6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Acht Streiks",
   "preview": "https://phira.5wyxi.com/files/1300697e-d4c6-4750-8359-49b71da723ac",
   "ranked": false,
-  "rating": 0.89463556,
-  "ratingCount": 252,
+  "rating": 0.8951452,
+  "ratingCount": 256,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

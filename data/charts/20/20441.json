@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:48Z",
-    "lastChanged": "2026-09-21T02:05:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-26T15:49:57.312706Z",
   "charter": "Ruilay",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/18023809-923a-4be9-96ee-24600423322b",
+  "hidden": false,
   "id": 20441,
   "illustration": "https://phira.5wyxi.com/files/8b0a0d4c-d9c2-45e5-92d6-7f1f88ae796b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "私は雨",
   "preview": "https://phira.5wyxi.com/files/e0396c1d-3991-4875-a62f-5e73247e7234",
   "ranked": false,
-  "rating": 0.94163144,
-  "ratingCount": 662,
+  "rating": 0.94130605,
+  "ratingCount": 668,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

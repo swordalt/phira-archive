@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:58Z",
-    "lastChanged": "2026-09-21T02:04:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-14T02:43:48.583716Z",
   "charter": "potato,dancing in the air with Zest",
@@ -14,6 +14,7 @@
   "description": "@Zestsauce#91797（调教）\n",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/f4c10e0b-fe80-4017-94fd-a2223e927891",
+  "hidden": false,
   "id": 66374,
   "illustration": "https://phira.5wyxi.com/files/f9c41df0-70f5-4357-bdba-29767a3bb39b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "亂★舞",
   "preview": "https://phira.5wyxi.com/files/c896ff15-bde3-4efe-8d3e-d5fae02b74b7",
   "ranked": false,
-  "rating": 0.7201639,
-  "ratingCount": 6,
+  "rating": 0.84886754,
+  "ratingCount": 23,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

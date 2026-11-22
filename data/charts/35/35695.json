@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:11Z",
-    "lastChanged": "2026-09-21T02:06:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-24T11:05:29.544322Z",
   "charter": "Cometarca",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/ed2096a3-c6e3-4d2d-95db-4e0ed96d144d",
+  "hidden": false,
   "id": 35695,
   "illustration": "https://phira.5wyxi.com/files/f3889f63-be9e-44e3-bec3-cf7408dc07e0",
   "illustrator": "",

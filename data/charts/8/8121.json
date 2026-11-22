@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:28Z",
-    "lastChanged": "2026-09-21T02:01:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-24T15:19:26.897962Z",
   "charter": "不降",
@@ -14,6 +14,7 @@
   "description": "本人发布 B站 不降-",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/ffdacb51-18cd-475c-9440-f984725dbe96",
+  "hidden": false,
   "id": 8121,
   "illustration": "https://phira.5wyxi.com/files/b5561bdc-cf0f-40df-abef-abca70a7463c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "朧月",
   "preview": "https://phira.5wyxi.com/files/f10a21dc-b40c-4d97-b6fe-34a31fd3e236",
   "ranked": false,
-  "rating": 0.92366177,
-  "ratingCount": 629,
+  "rating": 0.9234188,
+  "ratingCount": 632,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:38Z",
-    "lastChanged": "2026-09-21T02:02:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-31T16:22:08.997937Z",
   "charter": "ΣΔΣ",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/52b14f7f-5d58-4057-9d20-0f5db056168b",
+  "hidden": false,
   "id": 27230,
   "illustration": "https://phira.5wyxi.com/files/d5e1dc73-0c51-49e6-b35b-89b15dbfe3f2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "~Redintegration~ 割れた鏡",
   "preview": "https://phira.5wyxi.com/files/0f26264f-dc78-4790-a27a-b48a10cea061",
   "ranked": false,
-  "rating": 0.9323502,
-  "ratingCount": 187,
+  "rating": 0.93270653,
+  "ratingCount": 188,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

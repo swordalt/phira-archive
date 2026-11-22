@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:16Z",
-    "lastChanged": "2026-09-21T02:06:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-31T04:37:19.255990Z",
   "charter": "lostzkdc",
@@ -14,6 +14,7 @@
   "description": "本人第一次写高难谱，如写不好请见谅\nb站:乄lostzk",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/4e70f648-fbef-4a38-88a2-c5488c6d48bc",
+  "hidden": false,
   "id": 38932,
   "illustration": "https://phira.5wyxi.com/files/842fbb4b-f170-461a-a814-b66a779c85fe",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "《Ж》",
   "preview": "https://phira.5wyxi.com/files/5e60fc69-6524-414f-8db8-c8c52972c37a",
   "ranked": false,
-  "rating": 0.94434816,
-  "ratingCount": 150,
+  "rating": 0.9458355,
+  "ratingCount": 155,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

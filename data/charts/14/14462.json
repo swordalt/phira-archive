@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:41Z",
-    "lastChanged": "2026-09-21T02:05:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-30T10:28:41.272693Z",
   "charter": "表情捏",
@@ -14,6 +14,7 @@
   "description": "萌新不懂事写着玩的，难度不高",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/79656306-6099-425e-8061-4a9d25342bb9",
+  "hidden": false,
   "id": 14462,
   "illustration": "https://phira.5wyxi.com/files/278800dd-12b4-4de8-b935-ad97928cbbd7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Infinity Heaven",
   "preview": "https://phira.5wyxi.com/files/2dfbc274-a17c-41ea-a117-bc97784a5b26",
   "ranked": false,
-  "rating": 0.9408449,
-  "ratingCount": 872,
+  "rating": 0.94077635,
+  "ratingCount": 901,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

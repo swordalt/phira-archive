@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:56Z",
-    "lastChanged": "2026-09-21T02:05:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-24T03:45:10.885745Z",
   "charter": "qwpp",
@@ -14,6 +14,7 @@
   "description": "悬赏：双指上97.9%或多指99.6%v15r（已被爆掉                                                    谱师：我（b站@一头屑                        仿dfc风格，好玩的很呐（迫真（应该…？                                                有动效，但不多                               谱面大部分为stamina（切），望周知",
   "difficulty": 14.899999,
   "file": "https://phira.5wyxi.com/files/e5be976c-b133-48fa-b8be-d2a38d045327",
+  "hidden": false,
   "id": 24206,
   "illustration": "https://phira.5wyxi.com/files/33a66b1d-a012-4359-bc41-5222ff118873",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Nyarlathotep's Dreamland",
   "preview": "https://phira.5wyxi.com/files/e842b98e-2482-4414-94dd-0dff4a6f9347",
   "ranked": false,
-  "rating": 0.9045286,
-  "ratingCount": 106,
+  "rating": 0.90625167,
+  "ratingCount": 108,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

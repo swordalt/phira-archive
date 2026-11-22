@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:50Z",
-    "lastChanged": "2026-09-21T02:02:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-08T17:32:07.973272Z",
   "charter": "LiFaDian",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/162a101b-0647-480b-a2ad-a234e3e75e6f",
+  "hidden": false,
   "id": 30586,
   "illustration": "https://phira.5wyxi.com/files/cca95f9b-ba14-4181-b209-c873150db448",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Luminous memory",
   "preview": "https://phira.5wyxi.com/files/7f55a8a1-7d31-4fce-9f95-6f04b1c093e9",
   "ranked": false,
-  "rating": 0.954447,
-  "ratingCount": 1040,
+  "rating": 0.95464104,
+  "ratingCount": 1077,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

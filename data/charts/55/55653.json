@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:35Z",
-    "lastChanged": "2026-09-21T02:04:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-09T11:44:00.486051Z",
   "charter": "FunkierWheat & XerdouS",
@@ -14,6 +14,7 @@
   "description": "谱师：放克麦子、@XerdouS#22799\nEvening Star #1\n感谢盒子2000的修改指导！",
   "difficulty": 14.200001,
   "file": "https://phira.5wyxi.com/files/ba7dc407-87ff-4b47-81e5-a3463be24a5c",
+  "hidden": false,
   "id": 55653,
   "illustration": "https://phira.5wyxi.com/files/8853ed8d-04af-470d-abea-dcf0bbb383af",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Midnight Flux",
   "preview": "https://phira.5wyxi.com/files/13f64b8d-3ffa-4494-afb8-984792c0b544",
   "ranked": true,
-  "rating": 0.86453533,
-  "ratingCount": 1145,
+  "rating": 0.8695618,
+  "ratingCount": 1248,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

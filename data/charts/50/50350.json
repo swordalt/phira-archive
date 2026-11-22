@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:43Z",
-    "lastChanged": "2026-09-21T02:06:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-20T00:15:51.081647Z",
   "charter": "lumimi",
@@ -14,6 +14,7 @@
   "description": "底力手法谱 18.1\n本人上传",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/6b8048c7-6b47-4abf-b606-50ae8242c244",
+  "hidden": false,
   "id": 50350,
   "illustration": "https://phira.5wyxi.com/files/f46baab5-64de-433a-95a7-a7d14006d132",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "怪獣になりたい",
   "preview": "https://phira.5wyxi.com/files/2bb0ed73-7b44-416d-8049-dc5f02e590d1",
   "ranked": false,
-  "rating": 0.9018803,
-  "ratingCount": 207,
+  "rating": 0.90096104,
+  "ratingCount": 226,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

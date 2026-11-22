@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:24Z",
-    "lastChanged": "2026-09-21T02:03:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-23T13:06:14.341825Z",
   "charter": "Ptrr006",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.400002,
   "file": "https://phira.5wyxi.com/files/ad49b0fc-0cd4-4099-a7b3-b8df2e39fbdf",
+  "hidden": false,
   "id": 40165,
   "illustration": "https://phira.5wyxi.com/files/4d1b039e-09f3-43ee-a74b-56db5c27e1de",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "KIZUNA Resolution",
   "preview": "https://phira.5wyxi.com/files/470fad82-389b-4dc7-bd17-b645f33ee95e",
   "ranked": false,
-  "rating": 0.8193838,
-  "ratingCount": 263,
+  "rating": 0.82223,
+  "ratingCount": 269,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

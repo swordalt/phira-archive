@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:09Z",
-    "lastChanged": "2026-09-21T02:03:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-23T00:08:39.673243Z",
   "charter": "See S-739 next time!",
@@ -14,6 +14,7 @@
   "description": "为了legacy谱的纪念意义，这谱没有什么特效，谨以此献给我逝去的朋友，我们还会再见。谱师qq：1832485753",
   "difficulty": 11.9,
   "file": "https://phira.5wyxi.com/files/1e9049ce-190a-4018-b12b-8d3117af091d",
+  "hidden": false,
   "id": 35592,
   "illustration": "https://phira.5wyxi.com/files/140b5f54-1fd1-47c9-9873-8cb733cf0a2d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "We Will Meet Again",
   "preview": "https://phira.5wyxi.com/files/7872a639-1449-4b57-a10c-01205fcaa3a9",
   "ranked": false,
-  "rating": 0.9276526,
-  "ratingCount": 180,
+  "rating": 0.924756,
+  "ratingCount": 198,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

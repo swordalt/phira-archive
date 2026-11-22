@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:30Z",
-    "lastChanged": "2026-09-21T02:06:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-20T02:24:42.352951Z",
   "charter": "Captain______",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/4672e52a-ee7e-4fc6-9d29-dc6695ae8aab",
+  "hidden": false,
   "id": 45209,
   "illustration": "https://phira.5wyxi.com/files/c35e819c-977f-44c3-ac87-8870b64bb127",
   "illustrator": "",

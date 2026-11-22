@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-26T11:35:40.784155Z",
   "charter": "[ERROR-CHARTER NOT FOUND]（一只屑猫猫qwq）",
@@ -14,6 +14,7 @@
   "description": "B站关注一只屑猫猫qwq（先传的谱面后传的视频，如果没看见谱面预览证明我还没把谱发上B站（点头）",
   "difficulty": 19.7,
   "file": "https://phira.5wyxi.com/files/4785bf28-80e4-4c1f-aa41-5d99dff4aa87",
+  "hidden": false,
   "id": 9681,
   "illustration": "https://phira.5wyxi.com/files/13c5796a-dcca-42e1-9ebf-73a8353665fe",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Villain Virus",
   "preview": "https://phira.5wyxi.com/files/c54c3315-2bc0-4d6d-ae3e-9545f1a10021",
   "ranked": false,
-  "rating": 0.8797586,
-  "ratingCount": 2284,
+  "rating": 0.8803028,
+  "ratingCount": 2295,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

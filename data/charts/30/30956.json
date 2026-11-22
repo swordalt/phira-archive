@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:51Z",
-    "lastChanged": "2026-09-21T02:02:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-21T14:59:03.065194Z",
   "charter": "阿瑞_Resonance",
@@ -14,6 +14,7 @@
   "description": "谱师（b站）：\n@阿瑞_Resonance",
   "difficulty": 15.200005,
   "file": "https://phira.5wyxi.com/files/1958b319-efae-42db-bb89-c38dee15fa55",
+  "hidden": false,
   "id": 30956,
   "illustration": "https://phira.5wyxi.com/files/7b984aa0-b685-4473-99cf-107244b5e585",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Tracker (NonNam Remix)",
   "preview": "https://phira.5wyxi.com/files/d1e1d817-683d-4ed0-bf15-c2558caaf372",
   "ranked": false,
-  "rating": 0.8763904,
-  "ratingCount": 178,
+  "rating": 0.87780344,
+  "ratingCount": 182,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

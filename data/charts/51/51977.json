@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:17Z",
-    "lastChanged": "2026-09-21T02:04:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-02T08:51:29.012039Z",
   "charter": "LongDaDa",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/09492c66-d0d8-4afe-a1b5-8db38334729c",
+  "hidden": false,
   "id": 51977,
   "illustration": "https://phira.5wyxi.com/files/f534bdb5-175b-49ab-8ce6-09691b23ecc9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lost Lace",
   "preview": "https://phira.5wyxi.com/files/9fb911b3-b1b6-4450-88a4-40da35bd5567",
   "ranked": false,
-  "rating": 0.8552378,
-  "ratingCount": 142,
+  "rating": 0.86173654,
+  "ratingCount": 153,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

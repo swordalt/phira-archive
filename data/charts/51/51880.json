@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:17Z",
-    "lastChanged": "2026-09-21T02:04:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-31T12:50:02.260015Z",
   "charter": "SummmerSky",
@@ -14,6 +14,7 @@
   "description": "脑裂段灵感来自RYCEAM本家，其余部分尽量现代化了。不喜勿喷。",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/667467e7-4414-4246-ba41-e00b33cf9d1f",
+  "hidden": false,
   "id": 51880,
   "illustration": "https://phira.5wyxi.com/files/235e777a-a416-4e31-aad1-121837c3d516",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ENDRUiD",
   "preview": "https://phira.5wyxi.com/files/05ea4292-3fa2-4749-a696-aa7cced1f95d",
   "ranked": false,
-  "rating": 0.77821165,
-  "ratingCount": 6,
+  "rating": 0.75041115,
+  "ratingCount": 7,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

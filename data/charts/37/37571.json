@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:13Z",
-    "lastChanged": "2026-09-21T02:06:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-05T01:26:12.994564Z",
   "charter": "qj_1016",
@@ -14,6 +14,7 @@
   "description": "Malody V转谱(注：红键皆为点滑)",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/a2c6930f-6566-4bb5-83f1-8793e3733cfb",
+  "hidden": false,
   "id": 37571,
   "illustration": "https://phira.5wyxi.com/files/c5ba6aa3-a676-420f-a13a-1203f176de3e",
   "illustrator": "",

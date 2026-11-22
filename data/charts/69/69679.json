@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-14T19:18:38Z",
-    "lastChanged": "2026-10-18T09:08:55Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:58:53Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-07-28T09:08:11.246507Z",
   "charter": "Shoxquach",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.900001,
   "file": "https://phira.5wyxi.com/files/6feef5b1-9eec-46ac-b1ba-cf33a47cd641",
+  "hidden": false,
   "id": 69679,
   "illustration": "https://phira.5wyxi.com/files/2c5b81e5-8bfd-4a97-8893-b7c6ae7d8f42",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "REINCARNA†ION!! Idol Graduation",
   "preview": "https://phira.5wyxi.com/files/abce368d-5c13-464c-85f6-a93915a2a697",
   "ranked": false,
-  "rating": 0.85116506,
-  "ratingCount": 88,
+  "rating": 0.88238436,
+  "ratingCount": 205,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

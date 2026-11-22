@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-12T02:58:56.413119Z",
   "charter": "woxianbaile",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 5.8,
   "file": "https://phira.5wyxi.com/files/19dc4218-c45b-40c9-8e3e-064b6456ca64",
+  "hidden": false,
   "id": 33845,
   "illustration": "https://phira.5wyxi.com/files/c4a49689-d368-458e-af35-f59c860ea948",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Hello (BPM) 2025",
   "preview": "https://phira.5wyxi.com/files/1673d228-13c3-4d3c-8c80-e967cbe3a64f",
   "ranked": false,
-  "rating": 0.88087183,
-  "ratingCount": 128,
+  "rating": 0.8870511,
+  "ratingCount": 136,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

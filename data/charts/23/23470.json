@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:22Z",
-    "lastChanged": "2026-09-21T02:02:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:32Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-15T02:58:25.353135Z",
   "charter": "Moyan232",
@@ -14,6 +14,7 @@
   "description": "第一次写双指15\n修改了部分排键\n个人偏底力15.8-15.9\n（好像越改越难）",
   "difficulty": 15.800002,
   "file": "https://phira.5wyxi.com/files/4ec0b871-6691-4a3c-bfa6-a9b498d3f705",
+  "hidden": false,
   "id": 23470,
   "illustration": "https://phira.5wyxi.com/files/fed6af59-d797-459f-a452-8815295cb090",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Calamity Fortune",
   "preview": "https://phira.5wyxi.com/files/fc30845c-cb1d-4ae2-8e94-2ef675b1e32b",
   "ranked": false,
-  "rating": 0.93324727,
-  "ratingCount": 658,
+  "rating": 0.93303883,
+  "ratingCount": 671,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

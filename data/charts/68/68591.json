@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:02Z",
-    "lastChanged": "2026-09-21T02:05:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-23T05:58:39.856445Z",
   "charter": "Jeana-Mirianna",
@@ -14,6 +14,7 @@
   "description": "#68590 谱师本人上传喵",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/17584c6c-4e47-48ab-b575-df3cff1102fb",
+  "hidden": false,
   "id": 68591,
   "illustration": "https://phira.5wyxi.com/files/cdb6f608-77c7-44a0-92cd-d2c29987bf9a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "イグニッション",
   "preview": "https://phira.5wyxi.com/files/a341514a-82a8-468c-a2b8-b4586dbcd981",
   "ranked": false,
-  "rating": 0.89304274,
-  "ratingCount": 102,
+  "rating": 0.90298575,
+  "ratingCount": 127,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

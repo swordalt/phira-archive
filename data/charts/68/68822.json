@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:02Z",
-    "lastChanged": "2026-09-21T02:05:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-24T05:50:29.383894Z",
   "charter": "FreMosama & FreMo",
@@ -14,6 +14,7 @@
   "description": "谱师本人FreMo上传\n\n曲绘与站内展示版本有区别，谱面一致。",
   "difficulty": 14.1,
   "file": "https://phira.5wyxi.com/files/c7f23a4d-e2f6-4ef0-9a49-09d362e05aa7",
+  "hidden": false,
   "id": 68822,
   "illustration": "https://phira.5wyxi.com/files/04f52fdb-be87-4bfd-a224-a89f82227f28",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MARENOIA",
   "preview": "https://phira.5wyxi.com/files/e0b9b9bf-cc8d-4bd5-a392-dda7d6d49c59",
   "ranked": false,
-  "rating": 0.915399,
-  "ratingCount": 1474,
+  "rating": 0.9157014,
+  "ratingCount": 1532,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

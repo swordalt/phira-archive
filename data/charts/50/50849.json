@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:11Z",
-    "lastChanged": "2026-09-21T02:04:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-01T18:58:24.633500Z",
   "charter": "Leon",
@@ -14,6 +14,7 @@
   "description": "第二次写谱请多多见谅，虚心接受意见QwQ",
   "difficulty": 16.800003,
   "file": "https://phira.5wyxi.com/files/72dabb3a-e7b0-4716-b16f-3740e1a18639",
+  "hidden": false,
   "id": 50849,
   "illustration": "https://phira.5wyxi.com/files/90558c38-d3e6-4dd6-8a3d-4c036a852830",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "雷切-RAIKIRI-",
   "preview": "https://phira.5wyxi.com/files/3eb0567f-f735-4502-ad82-c73d4bed6a7f",
   "ranked": false,
-  "rating": 0.92512435,
-  "ratingCount": 297,
+  "rating": 0.9269349,
+  "ratingCount": 305,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

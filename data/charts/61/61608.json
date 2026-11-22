@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:49Z",
-    "lastChanged": "2026-09-21T02:04:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-20T01:55:29.676630Z",
   "charter": "R3a1, the proof of existence",
@@ -14,6 +14,7 @@
   "description": "谱师B站账号：@R3a1_ty\n视频：BV1qMEn6AEcF\n记得关注@R3a1_ty喵~",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/4790bb86-88b3-4751-886c-a42f59d4d975",
+  "hidden": false,
   "id": 61608,
   "illustration": "https://phira.5wyxi.com/files/cb0689d8-f31d-431f-b16c-2e987fde7fb4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "サイエンス",
   "preview": "https://phira.5wyxi.com/files/b8b475af-33c7-4760-b542-d1ccb4bd36da",
   "ranked": false,
-  "rating": 0.9137226,
-  "ratingCount": 1731,
+  "rating": 0.91282123,
+  "ratingCount": 1956,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:48Z",
-    "lastChanged": "2026-09-21T02:03:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-31T03:56:48.887992Z",
   "charter": "原雪ovo",
@@ -14,6 +14,7 @@
   "description": "原作者和上传谱面的人是同一个哦～只是大号小号的区别",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/2dcdcad2-15c7-41d8-8362-09ca689455bb",
+  "hidden": false,
   "id": 46195,
   "illustration": "https://phira.5wyxi.com/files/f77b9ae1-ad71-42da-bce9-61dc5624a818",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "芽",
   "preview": "https://phira.5wyxi.com/files/dd9c61ff-0c16-4564-a9e6-ee4ad141cab0",
   "ranked": false,
-  "rating": 0.9492687,
-  "ratingCount": 762,
+  "rating": 0.94836956,
+  "ratingCount": 815,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

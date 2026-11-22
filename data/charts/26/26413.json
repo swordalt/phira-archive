@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:34Z",
-    "lastChanged": "2026-09-21T02:02:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-17T00:22:26.152073Z",
   "charter": "Triangle",
@@ -14,6 +14,7 @@
   "description": "谱面为本人上传\nB站视频链接：BV1KoYJeGEzv\n第一次写谱，写的不好喷轻点",
   "difficulty": 15.7,
   "file": "https://phira.5wyxi.com/files/b008b3f5-e1df-4132-844c-3a67f1c65504",
+  "hidden": false,
   "id": 26413,
   "illustration": "https://phira.5wyxi.com/files/4d8ac508-325f-438b-8956-2b24e70321a2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "TiamaT:F minor",
   "preview": "https://phira.5wyxi.com/files/fb6286ba-7041-4c74-ace7-9ae8a5d9b158",
   "ranked": false,
-  "rating": 0.89446974,
-  "ratingCount": 431,
+  "rating": 0.8943896,
+  "ratingCount": 438,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

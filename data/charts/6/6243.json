@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:22Z",
-    "lastChanged": "2026-09-21T02:01:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-28T02:15:56.157766Z",
   "charter": "Charters In Bigroom",
@@ -14,6 +14,7 @@
   "description": "本谱面为合作谱面。谱师：醒了不起的老傲娇，Fyato，liaohongwei_，Faver_。有部分段落为多指，但整体难度不高。（因为修改部分段落所以谱面换了一次源）",
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/fd66fe3f-2abb-4e80-8f38-a725b09edaa3",
+  "hidden": false,
   "id": 6243,
   "illustration": "https://phira.5wyxi.com/files/1552891d-211a-4205-8cb6-b86e968543d7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bigroom Never Dies",
   "preview": "https://phira.5wyxi.com/files/d84a100a-47bd-4576-b491-98a2f514bc0c",
   "ranked": true,
-  "rating": 0.91830397,
-  "ratingCount": 1313,
+  "rating": 0.9186705,
+  "ratingCount": 1328,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

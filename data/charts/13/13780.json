@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:48Z",
-    "lastChanged": "2026-09-21T02:01:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-19T11:21:36.526262Z",
   "charter": "兽泽OwO with B妖1 with ZXY",
@@ -14,6 +14,7 @@
   "description": "第一张谱面，开头有bug，本人dy名兽泽OwO",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/e5ef2b06-3891-4459-9d52-e13d33e8a54f",
+  "hidden": false,
   "id": 13780,
   "illustration": "https://phira.5wyxi.com/files/79e0e8b7-1e47-412c-b733-d275e56ac29f",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "Nyarlathotep's Dreamland",
   "preview": "https://phira.5wyxi.com/files/bd1f023f-28f0-4606-aa37-0346107611ce",
   "ranked": false,
-  "rating": 0.89770913,
+  "rating": 0.8979357,
   "ratingCount": 455,
   "reviewed": true,
   "stable": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:45Z",
-    "lastChanged": "2026-09-21T02:02:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-19T16:14:11.068205Z",
   "charter": "NECA",
@@ -14,6 +14,7 @@
   "description": "本人上传，b站@NECA_",
   "difficulty": 18.299994,
   "file": "https://phira.5wyxi.com/files/796204d0-c402-44f7-8cd4-aaaf54773334",
+  "hidden": false,
   "id": 29234,
   "illustration": "https://phira.5wyxi.com/files/59f568c3-ca55-4496-9f9b-8a945ace44c0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bossa Gabba",
   "preview": "https://phira.5wyxi.com/files/9d1c0804-6d47-4065-afb8-aa11fc0ed36a",
   "ranked": false,
-  "rating": 0.8455199,
-  "ratingCount": 259,
+  "rating": 0.84807384,
+  "ratingCount": 263,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

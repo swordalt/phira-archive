@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:22Z",
-    "lastChanged": "2026-10-12T10:38:14Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:01:46Z",
+    "revisions": 4
   },
   "chartUpdated": "2025-07-14T04:36:40.940108Z",
   "charter": "Black City",
@@ -14,6 +14,7 @@
   "description": "本人上传\n233/816，97.77%\n给新手写的小切~\n感谢游玩喵",
   "difficulty": 7.5000005,
   "file": "https://phira.5wyxi.com/files/b6c561ca-0297-4baa-8aa4-9af98c64aec9",
+  "hidden": false,
   "id": 41643,
   "illustration": "https://phira.5wyxi.com/files/a1da62e0-7889-4693-82c8-69f26fbef410",
   "illustrator": "Maimai",
@@ -21,8 +22,8 @@
   "name": "Black Out(Nerfed)",
   "preview": "https://phira.5wyxi.com/files/4a4820bf-e3c2-4e7e-b4cd-7805d730894a",
   "ranked": false,
-  "rating": 0.9592824,
-  "ratingCount": 217,
+  "rating": 0.9589665,
+  "ratingCount": 234,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

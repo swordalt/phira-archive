@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:02Z",
-    "lastChanged": "2026-09-21T02:04:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-10T16:19:56.981804Z",
   "charter": "xx_Ayi",
@@ -14,6 +14,7 @@
   "description": "第一次作谱，轻点喷...",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/435a8f42-f3bb-4035-9854-c573bb20f34d",
+  "hidden": false,
   "id": 48989,
   "illustration": "https://phira.5wyxi.com/files/49ab0bd5-e706-4f5b-9294-792b29259c89",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ラヴィット (Loveit)",
   "preview": "https://phira.5wyxi.com/files/f0b8cff8-770c-4c3c-bf42-72f1a9b800bf",
   "ranked": false,
-  "rating": 0.918788,
-  "ratingCount": 466,
+  "rating": 0.91659355,
+  "ratingCount": 504,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

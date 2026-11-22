@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:44Z",
-    "lastChanged": "2026-09-21T02:04:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-26T12:36:15.986893Z",
   "charter": "ハル☆ウェコーん！",
@@ -14,6 +14,7 @@
   "description": "@唯空#4190",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/c2513e0c-d50a-49a7-ae7d-94ec56928a07",
+  "hidden": false,
   "id": 59064,
   "illustration": "https://phira.5wyxi.com/files/2c1c0049-f5d6-462c-9046-6cda25f2f0af",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ずんどこ☆どんどんどーん！",
   "preview": "https://phira.5wyxi.com/files/c8777247-e339-4aec-b9aa-b28fbb074a81",
   "ranked": true,
-  "rating": 0.86746854,
-  "ratingCount": 2814,
+  "rating": 0.8690577,
+  "ratingCount": 2970,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

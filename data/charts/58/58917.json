@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:43Z",
-    "lastChanged": "2026-09-21T02:04:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-23T09:06:34.630356Z",
   "charter": "Deviltaruto",
@@ -14,6 +14,7 @@
   "description": "本人上传 b站视频BV1FYLr6dEmg",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/f038ac21-09c7-4ada-b785-e33d1c1f92c2",
+  "hidden": false,
   "id": 58917,
   "illustration": "https://phira.5wyxi.com/files/76f015dc-0709-4f2c-b55b-925d73c20a74",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Deviloverdose",
   "preview": "https://phira.5wyxi.com/files/9831ef2c-c796-4265-bf5d-068722bad730",
   "ranked": false,
-  "rating": 0.89765084,
-  "ratingCount": 490,
+  "rating": 0.8973068,
+  "ratingCount": 517,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

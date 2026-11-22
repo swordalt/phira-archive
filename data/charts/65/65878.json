@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:57Z",
-    "lastChanged": "2026-09-27T10:15:58Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:58:40Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-07-12T05:15:35.225493Z",
   "charter": "Luyivv",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 6.0,
   "file": "https://phira.5wyxi.com/files/1c8ba449-66ad-4d1d-b268-2674907ff4c7",
+  "hidden": false,
   "id": 65878,
   "illustration": "https://phira.5wyxi.com/files/f7569782-df98-4c2d-8b00-7926c8490945",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "アプリコット",
   "preview": "https://phira.5wyxi.com/files/1bde5214-6977-4267-88e7-36c8be48d35d",
   "ranked": false,
-  "rating": 0.9355059,
-  "ratingCount": 1371,
+  "rating": 0.93628454,
+  "ratingCount": 1503,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

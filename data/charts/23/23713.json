@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:23Z",
-    "lastChanged": "2026-09-21T02:02:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-18T03:15:18.619640Z",
   "charter": "DaikivsMaeda",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/a0c0af69-37fd-4a2f-88b5-81df36a79765",
+  "hidden": false,
   "id": 23713,
   "illustration": "https://phira.5wyxi.com/files/2bd73800-2317-4a51-bbc1-06b2f81dd806",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "浮世絵横丁",
   "preview": "https://phira.5wyxi.com/files/1d563af0-8c77-4e71-82e4-404330ab6527",
   "ranked": false,
-  "rating": 0.61827725,
-  "ratingCount": 68,
+  "rating": 0.6248912,
+  "ratingCount": 69,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

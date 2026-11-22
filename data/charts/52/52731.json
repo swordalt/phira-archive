@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:22Z",
-    "lastChanged": "2026-09-21T02:04:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-15T12:59:00.645983Z",
   "charter": "Qin_zzq",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/d21c87c1-c4d6-48cc-a17a-28863f7ea22d",
+  "hidden": false,
   "id": 52731,
   "illustration": "https://phira.5wyxi.com/files/0affba3c-210b-4a54-a900-308080cf03f3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "「哥伦比娅：飞往何方」",
   "preview": "https://phira.5wyxi.com/files/6e6ea414-fa79-46bf-8f26-c20504e1fdf6",
   "ranked": false,
-  "rating": 0.9164056,
-  "ratingCount": 1207,
+  "rating": 0.91644883,
+  "ratingCount": 1253,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

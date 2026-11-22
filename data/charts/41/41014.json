@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:27Z",
-    "lastChanged": "2026-09-21T02:03:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-06T10:48:25.780606Z",
   "charter": "Xilin7",
@@ -14,6 +14,7 @@
   "description": "我写的第一个低难谱",
   "difficulty": 13.2,
   "file": "https://phira.5wyxi.com/files/d71071a9-7808-46b6-b929-22dfcfdfe7b6",
+  "hidden": false,
   "id": 41014,
   "illustration": "https://phira.5wyxi.com/files/eca05124-7dd6-48fd-85ca-f873ce0a1c9a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Boundless Bliss (无垠无忧)",
   "preview": "https://phira.5wyxi.com/files/853dcd64-fd4a-4c59-aefe-549736c85137",
   "ranked": false,
-  "rating": 0.9280025,
-  "ratingCount": 573,
+  "rating": 0.92758054,
+  "ratingCount": 586,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

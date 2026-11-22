@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:01Z",
-    "lastChanged": "2026-09-21T02:05:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-20T07:12:32.672024Z",
   "charter": "x_x_u",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.800004,
   "file": "https://phira.5wyxi.com/files/be985703-c358-43f9-bdfe-dfbc2f265f10",
+  "hidden": false,
   "id": 67908,
   "illustration": "https://phira.5wyxi.com/files/2236706c-ffc9-4bd3-b6c9-3d383b741a14",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "裏表ラバーズ",
   "preview": "https://phira.5wyxi.com/files/da5f0850-ec23-4213-bbd6-3219c3732ad0",
   "ranked": false,
-  "rating": 0.9527794,
-  "ratingCount": 584,
+  "rating": 0.95438445,
+  "ratingCount": 1495,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

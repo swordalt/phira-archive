@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:47Z",
-    "lastChanged": "2026-09-21T02:02:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-30T14:20:34.010533Z",
   "charter": "Blux_ski",
@@ -14,6 +14,7 @@
   "description": "随机看\r\nBV1rhUaYQEK2",
   "difficulty": 14.400001,
   "file": "https://phira.5wyxi.com/files/7e5caf39-d087-4b20-93ce-b9cab86950e7",
+  "hidden": false,
   "id": 29753,
   "illustration": "https://phira.5wyxi.com/files/0e636f58-52cf-4284-a37b-7bb2ad8f0aed",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Random",
   "preview": "https://phira.5wyxi.com/files/c9eb0d40-d91c-499f-ac6e-9754a841ac1c",
   "ranked": false,
-  "rating": 0.9117234,
-  "ratingCount": 146,
+  "rating": 0.9124566,
+  "ratingCount": 148,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

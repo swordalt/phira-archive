@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:05Z",
-    "lastChanged": "2026-09-21T02:03:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-25T01:07:00.948916Z",
   "charter": "羽梦明 |「囹圄」",
@@ -14,6 +14,7 @@
   "description": "谱师上传，B站谱面预览视频BV1K1AZeuECK",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/33fb8ed3-59ea-4d38-b53d-2b06f69b0ce7",
+  "hidden": false,
   "id": 34467,
   "illustration": "https://phira.5wyxi.com/files/a63e99e8-17b3-46c4-b459-76a7022ab082",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "零重祈愿",
   "preview": "https://phira.5wyxi.com/files/00d75467-248d-45fc-aa4a-8f8518a744d2",
   "ranked": false,
-  "rating": 0.96072394,
-  "ratingCount": 979,
+  "rating": 0.9610335,
+  "ratingCount": 1021,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

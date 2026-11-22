@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:07Z",
-    "lastChanged": "2026-09-21T02:02:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-04T15:16:19.087794Z",
   "charter": "DecentduCk",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传 视频链接：BV1K8411K7cm",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/953efba5-5203-4f7f-9544-289482f6d99c",
+  "hidden": false,
   "id": 18050,
   "illustration": "https://phira.5wyxi.com/files/7afc0ee9-696d-450e-8641-a68ec19bafc0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "告白·告別",
   "preview": "https://phira.5wyxi.com/files/24e01b6d-5400-4820-a267-90792faac182",
   "ranked": false,
-  "rating": 0.9185076,
-  "ratingCount": 681,
+  "rating": 0.9191756,
+  "ratingCount": 689,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

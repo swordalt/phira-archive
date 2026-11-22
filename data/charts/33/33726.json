@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:28Z",
-    "lastChanged": "2026-09-21T02:05:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-10T06:41:36.011324Z",
   "charter": "inferior B-K",
@@ -14,6 +14,7 @@
   "description": "整活向谱面，欢迎在B站@xT10v_G的视频下讨论，祝各位玩得开心",
   "difficulty": 14.7,
   "file": "https://phira.5wyxi.com/files/196f5836-4b41-4cd0-bcc5-f624098208e7",
+  "hidden": false,
   "id": 33726,
   "illustration": "https://phira.5wyxi.com/files/3bb481be-b4b4-466e-9c7c-793e95b30239",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Are you OK?",
   "preview": "https://phira.5wyxi.com/files/3a1bfcc4-b7e3-497b-a2ba-1781c6bbf079",
   "ranked": false,
-  "rating": 0.8477553,
-  "ratingCount": 438,
+  "rating": 0.84695137,
+  "ratingCount": 446,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

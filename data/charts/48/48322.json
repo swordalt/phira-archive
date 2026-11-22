@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:58Z",
-    "lastChanged": "2026-09-21T02:03:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-24T05:04:31.780154Z",
   "charter": "-void-",
@@ -14,6 +14,7 @@
   "description": "作曲：はるまきごはん\n新人初次写谱，希望多多支持！\n",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/90f648c3-e435-45d4-958b-4502aec89d67",
+  "hidden": false,
   "id": 48322,
   "illustration": "https://phira.5wyxi.com/files/0028f5db-062f-4a20-917f-8cad8915d7a9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Empurple",
   "preview": "https://phira.5wyxi.com/files/114215b7-a89c-4e1c-b7be-a2bca7645125",
   "ranked": false,
-  "rating": 0.94248956,
-  "ratingCount": 178,
+  "rating": 0.93883294,
+  "ratingCount": 205,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

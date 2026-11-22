@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:00Z",
-    "lastChanged": "2026-09-21T02:06:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-07T07:19:30.629820Z",
   "charter": "Pure Charter[K.]",
@@ -14,6 +14,7 @@
   "description": "谱面为本人上传\n纯配置谱面，点划向上滑效果更好",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/7d51cb43-5df2-4aff-a6e9-a4bef2cfaaad",
+  "hidden": false,
   "id": 27471,
   "illustration": "https://phira.5wyxi.com/files/70071e4f-670e-44bc-8745-6bd9348d6789",
   "illustrator": "",

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-24T19:03:22Z",
-    "lastChanged": "2026-10-07T17:46:23Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:21Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-04T14:18:30.255741Z",
   "charter": "XerdouS",
@@ -14,6 +14,7 @@
   "description": "又将去往哪里呢，又将遇见什么呢，又将成为什么呢，又将如何生存呢。\r\n\n———怀着这样的心情。\r\n2026.10.4更新 调整了了576cb，现在hold不会和双押形成三押了。",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/8d2b8bb7-70cf-4172-aab6-a65416c97c23",
+  "hidden": false,
   "id": 78876,
   "illustration": "https://phira.5wyxi.com/files/4f9b27ac-b91e-4538-ba95-ca96a07fa424",
   "illustrator": "BanG Dream",
@@ -21,8 +22,8 @@
   "name": "これはぼくたちの生存のあらすじ（TV Size）",
   "preview": "https://phira.5wyxi.com/files/933a2681-725b-42c0-9041-0a8a87595e1e",
   "ranked": false,
-  "rating": 0.9238162,
-  "ratingCount": 315,
+  "rating": 0.9192849,
+  "ratingCount": 474,
   "reviewed": true,
   "stable": false,
   "stableRequest": true,

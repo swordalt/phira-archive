@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:41Z",
-    "lastChanged": "2026-09-21T02:06:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-17T16:30:32.590876Z",
   "charter": "TEC109",
@@ -14,6 +14,7 @@
   "description": "本人上传\n无法理解静屋大师之情感。",
   "difficulty": 8.300001,
   "file": "https://phira.5wyxi.com/files/e1c1f852-7bd4-4599-bd67-b69a6b609387",
+  "hidden": false,
   "id": 49244,
   "illustration": "https://phira.5wyxi.com/files/72ad82d0-2204-4f38-b52d-a6453faec243",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Limen",
   "preview": "https://phira.5wyxi.com/files/3e93ea79-9b74-467c-9c64-d232b97aa028",
   "ranked": false,
-  "rating": 0.9524908,
-  "ratingCount": 177,
+  "rating": 0.9522294,
+  "ratingCount": 188,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

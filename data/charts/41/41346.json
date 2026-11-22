@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:28Z",
-    "lastChanged": "2026-09-21T02:03:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-10T10:34:22.256277Z",
   "charter": "生天",
@@ -14,6 +14,7 @@
   "description": "新人初铺，做的不好请见谅qwq\nBV1T9G3zFEEb",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/97c061a6-9ff6-4b4e-8055-3a21a62af7b3",
+  "hidden": false,
   "id": 41346,
   "illustration": "https://phira.5wyxi.com/files/6ef9a079-31f2-4921-9ed8-b26cdc40513b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "夜、萤火虫和你",
   "preview": "https://phira.5wyxi.com/files/e491bf71-d7bc-482b-a408-6ac7092da860",
   "ranked": false,
-  "rating": 0.89427173,
-  "ratingCount": 16788,
+  "rating": 0.8946059,
+  "ratingCount": 19105,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

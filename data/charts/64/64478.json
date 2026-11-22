@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:57Z",
-    "lastChanged": "2026-09-21T02:06:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-06T08:36:42.899995Z",
   "charter": "ZEN_SGOD_ITH",
@@ -14,6 +14,7 @@
   "description": "S神/狐狸暑期谱面专辑 第一张\n@S神#87478（饲养）",
   "difficulty": 18.6,
   "file": "https://phira.5wyxi.com/files/a1d63234-9834-4e48-9c3b-278d494cd549",
+  "hidden": false,
   "id": 64478,
   "illustration": "https://phira.5wyxi.com/files/2a5802c9-3851-4176-aed4-de326d798547",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Overdrive",
   "preview": "https://phira.5wyxi.com/files/5c39e293-079a-470d-9655-803d85765e24",
   "ranked": false,
-  "rating": 0.81661075,
-  "ratingCount": 10,
+  "rating": 0.8219325,
+  "ratingCount": 11,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:58Z",
-    "lastChanged": "2026-09-21T02:06:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-13T15:30:54.616103Z",
   "charter": "3522328",
@@ -14,6 +14,7 @@
   "description": "本人上传\n不正经拍砖",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/925e96b2-8642-4809-a2c8-afe5bf9dc55e",
+  "hidden": false,
   "id": 66313,
   "illustration": "https://phira.5wyxi.com/files/39ac03e1-dca5-4641-b1ad-d5e0a4951a96",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "frozone",
   "preview": "https://phira.5wyxi.com/files/e55e0108-091f-4f2f-9b23-e0b929559794",
   "ranked": false,
-  "rating": 0.84553653,
-  "ratingCount": 7,
+  "rating": 0.85721785,
+  "ratingCount": 8,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

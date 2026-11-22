@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:37Z",
-    "lastChanged": "2026-09-21T02:02:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-27T00:31:02.969154Z",
   "charter": "白涧君OvO",
@@ -14,6 +14,7 @@
   "description": "这张谱是仅单人制作第二张谱面，兼第一张使用到高级事件和Shader的谱面。歌曲中的歌词及翻译参考b站视频BV1gF411Z7SW和酷某音乐翻译，所以前后翻译有部分不同。\n该谱面有个人自己想出的垂直判定段，大概在中间靠后出现，若在游玩时总出现问题请去个人b站视频下方说明，我会抽空修改，b站同名。",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/886a4da3-6b99-4404-8b02-336d578980d2",
+  "hidden": false,
   "id": 26969,
   "illustration": "https://phira.5wyxi.com/files/22164212-5b14-4fe9-8026-d3924eec8475",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "今はいいんだよ。",
   "preview": "https://phira.5wyxi.com/files/0c2d5e21-8a3c-4b19-8180-6e80eb1b5809",
   "ranked": false,
-  "rating": 0.94594634,
-  "ratingCount": 1089,
+  "rating": 0.9468232,
+  "ratingCount": 1159,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:17Z",
-    "lastChanged": "2026-09-21T02:01:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-01T02:19:35.220956Z",
   "charter": "ZellZ",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/cd882e80-05f2-4cdb-a372-528bbe7525bb",
+  "hidden": false,
   "id": 4374,
   "illustration": "https://phira.5wyxi.com/files/d52a033d-50bb-4a63-a6a7-327d3814ad31",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "croiX",
   "preview": "https://phira.5wyxi.com/files/aabc2f60-671a-439f-bd93-22ec2c73ecff",
   "ranked": false,
-  "rating": 0.74848187,
-  "ratingCount": 147,
+  "rating": 0.74965525,
+  "ratingCount": 149,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

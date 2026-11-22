@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:13Z",
-    "lastChanged": "2026-09-21T02:02:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-12T07:19:09.035001Z",
   "charter": "疯-阿モリAモGLリあつ裴しCK",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/a06893da-c913-489d-a0e3-52b3a4371220",
+  "hidden": false,
   "id": 19885,
   "illustration": "https://phira.5wyxi.com/files/1b381d51-1959-4382-9977-7081d54b45f0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Re:End of a Dream",
   "preview": "https://phira.5wyxi.com/files/c437f3d5-be3f-4456-b3ee-c12d37c20cde",
   "ranked": false,
-  "rating": 0.6850714,
-  "ratingCount": 203,
+  "rating": 0.6866469,
+  "ratingCount": 204,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

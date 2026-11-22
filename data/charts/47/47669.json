@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:38Z",
-    "lastChanged": "2026-09-21T02:06:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-05T11:26:36.830784Z",
   "charter": "Zenith Chart Team",
@@ -14,6 +14,7 @@
   "description": "The leader came in response. It would defeat everyone with endless power.",
   "difficulty": 3.4999998,
   "file": "https://phira.5wyxi.com/files/663e2d05-e021-40de-9a31-d48ccf4b7397",
+  "hidden": false,
   "id": 47669,
   "illustration": "https://phira.5wyxi.com/files/14e44992-a0a0-4149-adfb-6134ef8d0c90",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "神 Zenith Silde Dan Boss Part",
   "preview": "https://phira.5wyxi.com/files/6c9bbffc-3784-4593-b59e-e58a44f0fe5e",
   "ranked": false,
-  "rating": 0.9332693,
-  "ratingCount": 47,
+  "rating": 0.9357946,
+  "ratingCount": 49,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

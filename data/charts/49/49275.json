@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:41Z",
-    "lastChanged": "2026-09-21T02:06:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-19T01:28:54.368372Z",
   "charter": "究极音游王",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 24.0,
   "file": "https://phira.5wyxi.com/files/9f115b6b-dec0-4a61-b105-485b938ba4e0",
+  "hidden": false,
   "id": 49275,
   "illustration": "https://phira.5wyxi.com/files/b47ded15-2ee1-46c2-a231-010405e9c5ee",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "云女孩",
   "preview": "https://phira.5wyxi.com/files/14cb07c7-4020-4f9a-955e-0966e42b6cc1",
   "ranked": false,
-  "rating": 0.9298866,
-  "ratingCount": 64,
+  "rating": 0.9540093,
+  "ratingCount": 186,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

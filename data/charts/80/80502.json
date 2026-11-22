@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-13T18:10:19Z",
-    "lastChanged": "2026-10-18T09:09:20Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:25Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-07T04:39:34.201189Z",
   "charter": "小黑miau",
@@ -14,6 +14,7 @@
   "description": "本人上传\nAAA柿子谱面批发商",
   "difficulty": 15.9,
   "file": "https://phira.5wyxi.com/files/3a9d68cc-ef7a-4351-9fe5-d1838af38e8e",
+  "hidden": false,
   "id": 80502,
   "illustration": "https://phira.5wyxi.com/files/5218ad7b-8b5a-493a-9a58-66b6cfd5b112",
   "illustrator": "カササギ",
@@ -21,8 +22,8 @@
   "name": "バーンアウト",
   "preview": "https://phira.5wyxi.com/files/a43eec3b-db9b-4b44-8054-d094b0eb5336",
   "ranked": false,
-  "rating": 0.92897785,
-  "ratingCount": 498,
+  "rating": 0.9270423,
+  "ratingCount": 1055,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:37Z",
-    "lastChanged": "2026-09-21T02:03:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-06T10:09:54.907140Z",
   "charter": "DY_STAR",
@@ -14,6 +14,7 @@
   "description": "谱师:DY_STAR\nb站:\n谱师:\nUID:1259244174\n用户名:丹焰不是单眼\n\n第一次写这种难度的谱子,写的不好请见谅\n\n谱师本人上传",
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/b174b882-c74c-47af-ba92-e7df4d4e5440",
+  "hidden": false,
   "id": 43850,
   "illustration": "https://phira.5wyxi.com/files/216b9899-081e-4a91-b9e9-22d279f891ac",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Unlimited Hyperlink",
   "preview": "https://phira.5wyxi.com/files/e3362466-da84-45f8-b3d4-96fa03ee2225",
   "ranked": false,
-  "rating": 0.94088286,
-  "ratingCount": 734,
+  "rating": 0.94159424,
+  "ratingCount": 752,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

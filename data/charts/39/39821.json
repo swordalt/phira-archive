@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:24Z",
-    "lastChanged": "2026-09-21T02:03:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-17T01:48:47.831895Z",
   "charter": "demoxyz",
@@ -14,6 +14,7 @@
   "description": "这次是我和画师合力改的新版。",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/21abfee9-00c5-4033-b013-2ae838d9a8b9",
+  "hidden": false,
   "id": 39821,
   "illustration": "https://phira.5wyxi.com/files/7e8dbc11-2a11-4e86-bb59-956e42df988c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "123我爱你",
   "preview": "https://phira.5wyxi.com/files/a1bbef4d-3e16-4356-b0f0-5f15a50297bf",
   "ranked": false,
-  "rating": 0.8686692,
-  "ratingCount": 1355,
+  "rating": 0.86729705,
+  "ratingCount": 1434,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

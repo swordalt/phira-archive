@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:19Z",
-    "lastChanged": "2026-09-21T02:02:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-25T04:21:45.845401Z",
   "charter": "FRZICE",
@@ -14,6 +14,7 @@
   "description": "新人谱师写谱（当谱师学会简单的特效）",
   "difficulty": 13.899998,
   "file": "https://phira.5wyxi.com/files/59a9ff8c-8192-4167-bd1d-588c868bfeb4",
+  "hidden": false,
   "id": 21885,
   "illustration": "https://phira.5wyxi.com/files/71aa19f8-1814-4e14-a3df-172fe98937fc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Stay",
   "preview": "https://phira.5wyxi.com/files/a1186949-41e3-4174-aa2c-8af942941c0f",
   "ranked": false,
-  "rating": 0.82735807,
-  "ratingCount": 3770,
+  "rating": 0.827323,
+  "ratingCount": 3834,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

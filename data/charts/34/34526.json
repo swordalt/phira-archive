@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:05Z",
-    "lastChanged": "2026-09-21T02:03:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-27T05:31:54.582672Z",
   "charter": "可怜的屑",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/6907f8bb-14d3-4c6e-bbe9-fc509169c0eb",
+  "hidden": false,
   "id": 34526,
   "illustration": "https://phira.5wyxi.com/files/e9213a7e-6f5a-448d-aa49-ace4c3aa6fc0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ビビデバ（星慧闪耀）",
   "preview": "https://phira.5wyxi.com/files/f0afb6b7-f8f8-440d-b7d9-5f81b1764f07",
   "ranked": false,
-  "rating": 0.88751465,
-  "ratingCount": 160,
+  "rating": 0.8855905,
+  "ratingCount": 162,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:34Z",
-    "lastChanged": "2026-09-21T02:01:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-28T11:20:14.601298Z",
   "charter": "The Socinator",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/3e64fe36-c167-4696-a4c0-302d2737088a",
+  "hidden": false,
   "id": 9711,
   "illustration": "https://phira.5wyxi.com/files/891640c0-62a2-40c6-b01a-4f90fc7023e8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Survivor (Game Edit)",
   "preview": "https://phira.5wyxi.com/files/9c7ad7c2-6406-484a-9b42-705562131f82",
   "ranked": false,
-  "rating": 0.8990236,
-  "ratingCount": 66,
+  "rating": 0.9000322,
+  "ratingCount": 67,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

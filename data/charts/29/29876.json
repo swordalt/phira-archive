@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:47Z",
-    "lastChanged": "2026-09-21T02:02:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-18T22:49:25.685046Z",
   "charter": "Corydalis",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/eea123eb-4a9a-40df-b56b-87e4553ea990",
+  "hidden": false,
   "id": 29876,
   "illustration": "https://phira.5wyxi.com/files/c27ade4e-cdb0-4e05-a72e-7a3897a73ef7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "sølips",
   "preview": "https://phira.5wyxi.com/files/f32da441-22b9-4912-a52f-5b1f74138053",
   "ranked": false,
-  "rating": 0.8555555,
-  "ratingCount": 215,
+  "rating": 0.855079,
+  "ratingCount": 214,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

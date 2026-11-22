@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:46Z",
-    "lastChanged": "2026-09-21T02:02:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-10T08:14:36.416790Z",
   "charter": "vnnevnnn,,....",
@@ -14,6 +14,7 @@
   "description": "lol\n\nall variants available in youtube @venvoofi",
   "difficulty": 14.800003,
   "file": "https://phira.5wyxi.com/files/aafae2b0-f29a-4968-b3f2-6da3f42bd4b6",
+  "hidden": false,
   "id": 29566,
   "illustration": "https://phira.5wyxi.com/files/8ba418a4-5399-4892-9b2f-7113030917da",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Random",
   "preview": "https://phira.5wyxi.com/files/bf3f9e52-566d-4be6-891e-b5e226436aa9",
   "ranked": false,
-  "rating": 0.93363714,
-  "ratingCount": 537,
+  "rating": 0.93441164,
+  "ratingCount": 548,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

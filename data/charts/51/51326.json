@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:12Z",
-    "lastChanged": "2026-09-21T02:04:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-17T11:02:36.399608Z",
   "charter": "jm333",
@@ -14,6 +14,7 @@
   "description": "24年的谱，本人上传",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/c0b12fd8-c98c-4ffa-952c-804a47b1ec81",
+  "hidden": false,
   "id": 51326,
   "illustration": "https://phira.5wyxi.com/files/e720475f-1b74-4406-b174-9bf3d2d4a731",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ヒビカセ",
   "preview": "https://phira.5wyxi.com/files/200af1df-2594-487e-b989-288c025d33b3",
   "ranked": false,
-  "rating": 0.9139496,
-  "ratingCount": 476,
+  "rating": 0.9143908,
+  "ratingCount": 492,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

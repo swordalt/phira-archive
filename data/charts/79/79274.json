@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-02T09:39:21Z",
-    "lastChanged": "2026-10-03T12:27:26Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:23Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-09-27T08:09:53.439488Z",
   "charter": "Fixations Toward the Notes",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n目前用时最短的谱，吃点协调和定位",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/98c3fade-a47f-49be-9e58-c568dddbcfb8",
+  "hidden": false,
   "id": 79274,
   "illustration": "https://phira.5wyxi.com/files/3e8a1f76-3927-4068-a73c-2494ccb858e9",
   "illustrator": "AriaL [ edited by Stelli ]",
@@ -21,8 +22,8 @@
   "name": "Fixations Toward the Stars",
   "preview": "https://phira.5wyxi.com/files/a1d14945-8725-4d3e-8cba-ec3353e3ea72",
   "ranked": false,
-  "rating": 0.79428464,
-  "ratingCount": 37,
+  "rating": 0.8561583,
+  "ratingCount": 132,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

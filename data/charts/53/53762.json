@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:27Z",
-    "lastChanged": "2026-09-21T02:04:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-03T00:20:34.253291Z",
   "charter": "yraihy",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.1,
   "file": "https://phira.5wyxi.com/files/a64fa774-0107-4ca1-a033-1ab73fadd82d",
+  "hidden": false,
   "id": 53762,
   "illustration": "https://phira.5wyxi.com/files/589d5b95-9434-42f7-afe4-7279516d3c2b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Daylight",
   "preview": "https://phira.5wyxi.com/files/c85ae988-0563-44a1-b0da-c057cfa32d39",
   "ranked": false,
-  "rating": 0.9319536,
-  "ratingCount": 1590,
+  "rating": 0.93162924,
+  "ratingCount": 1712,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

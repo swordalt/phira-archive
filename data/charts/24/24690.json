@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:27Z",
-    "lastChanged": "2026-09-21T02:02:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-08T04:56:08.338134Z",
   "charter": "FSK_",
@@ -14,6 +14,7 @@
   "description": "谱面信息\n曲名：Musical Theater（音乐剧场）\n作者：虹羽RFeather&Xoun＿Zer\n等级：IN Lv.14.4\nBPM：180\n物量：760\nTotal Lines：16\n本人上传，欢迎大佬指教！\nQQ:3354508699",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/20e28cca-0745-45b4-b65d-d9131ee28b1b",
+  "hidden": false,
   "id": 24690,
   "illustration": "https://phira.5wyxi.com/files/10639089-ae62-4d1b-b755-2d7cc219dbdd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Musical Theater",
   "preview": "https://phira.5wyxi.com/files/a106f8ec-a81a-4eba-9f78-8bfe4e387df0",
   "ranked": false,
-  "rating": 0.9128488,
-  "ratingCount": 266,
+  "rating": 0.91268307,
+  "ratingCount": 272,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

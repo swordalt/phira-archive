@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:26Z",
-    "lastChanged": "2026-09-21T02:02:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-25T05:11:28.044122Z",
   "charter": "voistique",
@@ -14,6 +14,7 @@
   "description": "有一点点初见杀，以及精心准备的hold变速纵连",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/7c90609b-c528-406b-9c9f-57cc09d231a2",
+  "hidden": false,
   "id": 24289,
   "illustration": "https://phira.5wyxi.com/files/4ee72a84-19e3-475a-9a9e-a81c54df1983",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Parousia",
   "preview": "https://phira.5wyxi.com/files/26532194-c622-4cc9-a6dc-ed298e890a1e",
   "ranked": false,
-  "rating": 0.875821,
-  "ratingCount": 242,
+  "rating": 0.8785131,
+  "ratingCount": 248,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

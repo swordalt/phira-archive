@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:59Z",
-    "lastChanged": "2026-09-21T02:01:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-18T04:56:45.905971Z",
   "charter": "Yi_Ranhao23",
@@ -14,6 +14,7 @@
   "description": "谱师是B站@Yi_Ranhao23，本人上传\n欢迎关注Laur，以及谱师",
   "difficulty": 14.800003,
   "file": "https://phira.5wyxi.com/files/cc425414-ea51-4ea8-b06e-23115eb94121",
+  "hidden": false,
   "id": 16012,
   "illustration": "https://phira.5wyxi.com/files/5c64919e-fffb-4408-9d1f-ef7fc8ef4a3f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Party People",
   "preview": "https://phira.5wyxi.com/files/9088a1d6-8e96-4b1d-86b8-bcb077f14795",
   "ranked": false,
-  "rating": 0.92052317,
-  "ratingCount": 304,
+  "rating": 0.92116034,
+  "ratingCount": 310,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

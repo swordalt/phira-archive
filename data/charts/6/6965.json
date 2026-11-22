@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:25Z",
-    "lastChanged": "2026-09-21T02:01:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-05T17:47:27.535342Z",
   "charter": "JeetPeart.",
@@ -14,6 +14,7 @@
   "description": "BiliBili@NOVASTAR-T，想说的都在视频简介。抽象谱，坐等下架，我厚颜无耻",
   "difficulty": 13.900003,
   "file": "https://phira.5wyxi.com/files/c0f8f775-d1ac-4dfe-80d5-3fb471e1dd7a",
+  "hidden": false,
   "id": 6965,
   "illustration": "https://phira.5wyxi.com/files/3334cd4d-80ed-41c1-b188-257374433e48",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "epilogue",
   "preview": "https://phira.5wyxi.com/files/81fd42d6-5b32-4bba-b6b0-b38eb20ea851",
   "ranked": false,
-  "rating": 0.9039816,
-  "ratingCount": 253,
+  "rating": 0.9025622,
+  "ratingCount": 256,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

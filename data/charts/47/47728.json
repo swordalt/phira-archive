@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:55Z",
-    "lastChanged": "2026-09-21T02:03:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-06T05:29:46.200408Z",
   "charter": "春汵",
@@ -14,6 +14,7 @@
   "description": "感觉做的比较随意了（）初见杀很多……本人上传",
   "difficulty": 14.800003,
   "file": "https://phira.5wyxi.com/files/c97f5fed-73b5-4997-8b88-aa3571396ad9",
+  "hidden": false,
   "id": 47728,
   "illustration": "https://phira.5wyxi.com/files/4ced6a85-ed91-4963-b6e5-baae290739b9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "サヴァイバル・キリング・メーカー",
   "preview": "https://phira.5wyxi.com/files/79b59988-f4f1-4076-a9fc-364662aa2187",
   "ranked": false,
-  "rating": 0.92728525,
-  "ratingCount": 47,
+  "rating": 0.92515427,
+  "ratingCount": 48,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

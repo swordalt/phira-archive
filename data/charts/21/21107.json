@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:49Z",
-    "lastChanged": "2026-09-21T02:05:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-10T05:58:44.285993Z",
   "charter": "Skyuntarxice",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 30.0,
   "file": "https://phira.5wyxi.com/files/dcc98ef2-85d9-48b3-8bbc-26476b251078",
+  "hidden": false,
   "id": 21107,
   "illustration": "https://phira.5wyxi.com/files/fd629ea2-26e5-431e-81a9-fc4876ea5bf8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Astral Resonance（Rivive Edit）",
   "preview": "https://phira.5wyxi.com/files/e7585f77-0efb-48ad-ad0e-ce0286af6489",
   "ranked": false,
-  "rating": 0.891069,
-  "ratingCount": 79,
+  "rating": 0.89238423,
+  "ratingCount": 80,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

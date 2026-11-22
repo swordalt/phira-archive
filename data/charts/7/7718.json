@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:36Z",
-    "lastChanged": "2026-09-21T02:05:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-15T14:07:27.242101Z",
   "charter": "Daniel休",
@@ -14,6 +14,7 @@
   "description": "V2修复叠键",
   "difficulty": 13.600014,
   "file": "https://phira.5wyxi.com/files/a9b1d12c-88ba-4ec9-8378-b60c20cc7bdd",
+  "hidden": false,
   "id": 7718,
   "illustration": "https://phira.5wyxi.com/files/a0554c52-18b5-4fb5-aa17-ecea63df7b86",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "彗星になれたなら",
   "preview": "https://phira.5wyxi.com/files/b3151048-1ae1-4bf1-87bc-4720eda9e1ca",
   "ranked": false,
-  "rating": 0.9090277,
-  "ratingCount": 286,
+  "rating": 0.9069125,
+  "ratingCount": 287,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

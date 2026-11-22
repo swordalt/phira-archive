@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:19Z",
-    "lastChanged": "2026-09-21T02:03:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-25T12:59:30.702515Z",
   "charter": "Kuewwc",
@@ -14,6 +14,7 @@
   "description": "耗时5h36min，算张速写吧（（，b站同名，可以搜视频评谱",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/453a5b4a-2fff-4914-90b7-01c9941b64f0",
+  "hidden": false,
   "id": 38591,
   "illustration": "https://phira.5wyxi.com/files/82ab889a-21e2-422f-b26d-b5b45de973dc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Cutter",
   "preview": "https://phira.5wyxi.com/files/6ebdac62-fab3-4f7c-b9cd-30f453139538",
   "ranked": false,
-  "rating": 0.93011266,
-  "ratingCount": 468,
+  "rating": 0.93008447,
+  "ratingCount": 472,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

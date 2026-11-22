@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:04Z",
-    "lastChanged": "2026-09-21T02:07:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-14T12:43:35.785355Z",
   "charter": "小柏",
@@ -14,6 +14,7 @@
   "description": "本人上传。\nDFC 较为常规的10切。推荐使用双指游玩。\n\n直至我们再相逢的那天…\n祝你幸福！",
   "difficulty": 10.400002,
   "file": "https://phira.5wyxi.com/files/4ca7ae5a-bf1e-4880-807e-ee522a98428e",
+  "hidden": false,
   "id": 78132,
   "illustration": "https://phira.5wyxi.com/files/cc1fea32-00ff-4de2-89cd-199ac59aff2b",
   "illustrator": "Laputa",
@@ -21,8 +22,8 @@
   "name": "君をのせて(REDALiCE Remix)",
   "preview": "https://phira.5wyxi.com/files/dbc08852-7837-490d-96c0-82fa2705a2c4",
   "ranked": false,
-  "rating": 0.8891076,
-  "ratingCount": 11,
+  "rating": 0.94679594,
+  "ratingCount": 44,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

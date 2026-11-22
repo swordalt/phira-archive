@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:42Z",
-    "lastChanged": "2026-09-21T02:05:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-12T08:37:57.006451Z",
   "charter": "k+anite",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/e0a1e3a3-b511-4fe9-816c-106ff8c09ce8",
+  "hidden": false,
   "id": 15462,
   "illustration": "https://phira.5wyxi.com/files/e80cd47d-1089-4654-b60c-4201a4cc4875",
   "illustrator": "",

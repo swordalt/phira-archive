@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:09Z",
-    "lastChanged": "2026-09-21T02:04:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-27T15:42:48.034114Z",
   "charter": "フェブリス",
@@ -14,6 +14,7 @@
   "description": "Charter:Fevm1r / 本人上传",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/bfa13dfa-7fa4-433a-b6e2-3db4506113d1",
+  "hidden": false,
   "id": 50638,
   "illustration": "https://phira.5wyxi.com/files/4621a417-7fe6-42f7-8e4a-c5d12cd2001b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "テトリス",
   "preview": "https://phira.5wyxi.com/files/da543ce3-7063-49da-b389-a1ca3e121cab",
   "ranked": false,
-  "rating": 0.9300567,
-  "ratingCount": 2020,
+  "rating": 0.9294355,
+  "ratingCount": 2155,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

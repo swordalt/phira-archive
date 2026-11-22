@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:13Z",
-    "lastChanged": "2026-09-21T02:02:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-16T15:07:40.941749Z",
   "charter": "周弦蕤",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\r\n——————\r\n重新写的谱子（\r\n第一个谱子写的就是这首（（（\r\n什么？想看我写的第一个谱子？那就去B站搜吧（绝对没有在宣传，毕竟是史）",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/90b722f1-bd18-4818-9e54-79795607f1df",
+  "hidden": false,
   "id": 19994,
   "illustration": "https://phira.5wyxi.com/files/b4e90b55-03b7-4275-8b0d-5a0a3afb5dbb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "DUNGHILL (feat. 初音ミク)",
   "preview": "https://phira.5wyxi.com/files/df7c409e-c74a-475d-a377-05132646d8ce",
   "ranked": false,
-  "rating": 0.9465906,
-  "ratingCount": 161,
+  "rating": 0.94049114,
+  "ratingCount": 169,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

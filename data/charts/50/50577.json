@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:09Z",
-    "lastChanged": "2026-09-21T02:04:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-26T13:17:22.198091Z",
   "charter": "\"RainYushQ\"",
@@ -14,6 +14,7 @@
   "description": "Phigros Communication Channel Charting Team合作谱面第二辑\n本系列谱面为SkyBird生贺谱面，有EZ、HD、IN三难度\n本谱面为系列中的EZ难度谱面，由Yu_Sh_Q(RainYushQ，我)、DDDDDD(双引号)合作完成，上传已经过DDDDDD许可\n希望大家喜欢！",
   "difficulty": 7.4999986,
   "file": "https://phira.5wyxi.com/files/2401c833-c8d7-484b-b28f-fd10a76e5818",
+  "hidden": false,
   "id": 50577,
   "illustration": "https://phira.5wyxi.com/files/8fe9f48e-3db9-4206-bafa-857e571c1918",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "雨女",
   "preview": "https://phira.5wyxi.com/files/b74dcab0-1a10-4136-8f5e-e7c4d65c0566",
   "ranked": false,
-  "rating": 0.92805195,
-  "ratingCount": 1094,
+  "rating": 0.92629004,
+  "ratingCount": 1183,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

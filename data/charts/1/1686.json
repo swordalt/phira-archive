@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:09Z",
-    "lastChanged": "2026-09-21T02:01:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-12T04:11:06.446733Z",
   "charter": "TXDDZ&Partning",
@@ -14,6 +14,7 @@
   "description": "劲爆机械战车，蛇鲸USAOBasshouse",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/64de121e-c7bd-4ba0-b2f5-8c3fe772f159",
+  "hidden": false,
   "id": 1686,
   "illustration": "https://phira.5wyxi.com/files/e4a242bb-140b-4d6e-90cc-331af6d06af7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Chariot",
   "preview": "https://phira.5wyxi.com/files/df54c5e5-e538-4b40-80a1-2f21b3c7d5f5",
   "ranked": false,
-  "rating": 0.85405767,
-  "ratingCount": 303,
+  "rating": 0.8549377,
+  "ratingCount": 304,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

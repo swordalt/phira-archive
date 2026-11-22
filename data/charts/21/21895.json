@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:19Z",
-    "lastChanged": "2026-09-21T02:02:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-25T05:29:40.859822Z",
   "charter": "临.兵.斗.者. vs 皆.阵.列.在.前.",
@@ -14,6 +14,7 @@
   "description": "本人上传，古早低难，谱师：喵猫鱼 vs 最早的早安",
   "difficulty": 13.6,
   "file": "https://phira.5wyxi.com/files/e2a7bd5f-f6b4-4e78-9eac-31cad3590f7d",
+  "hidden": false,
   "id": 21895,
   "illustration": "https://phira.5wyxi.com/files/7fb59074-47b0-40f0-9684-088d5409d40d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Our Wrenally",
   "preview": "https://phira.5wyxi.com/files/e2e2957b-da05-422f-bb61-bd31b317d13f",
   "ranked": false,
-  "rating": 0.8958156,
-  "ratingCount": 113,
+  "rating": 0.8961495,
+  "ratingCount": 117,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

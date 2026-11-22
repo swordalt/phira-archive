@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:06Z",
-    "lastChanged": "2026-09-21T02:03:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-01T06:58:49.990816Z",
   "charter": "kkkkkkkywy",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 16.7,
   "file": "https://phira.5wyxi.com/files/cd9a8fbc-c96e-4ec6-aa97-8f9bc17a5653",
+  "hidden": false,
   "id": 34645,
   "illustration": "https://phira.5wyxi.com/files/4acea2c3-734b-470a-ba3d-5d7dc3e28d0f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The wheel to the right",
   "preview": "https://phira.5wyxi.com/files/d731ad8f-0f15-421c-9d76-5ec00248af3c",
   "ranked": false,
-  "rating": 0.87756085,
-  "ratingCount": 1363,
+  "rating": 0.87652016,
+  "ratingCount": 1407,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

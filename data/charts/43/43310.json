@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:35Z",
-    "lastChanged": "2026-09-21T02:03:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-31T17:36:09.668439Z",
   "charter": "渊琼_deep",
@@ -14,6 +14,7 @@
   "description": "plum",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/03acea5d-0171-47b8-a7d1-f817480c4b4f",
+  "hidden": false,
   "id": 43310,
   "illustration": "https://phira.5wyxi.com/files/e8ac45de-0f08-4032-8f8c-4fbfd792017d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Shall We Dance?",
   "preview": "https://phira.5wyxi.com/files/e7859d3b-b70b-4078-b15f-2ff555f34279",
   "ranked": false,
-  "rating": 0.9484116,
-  "ratingCount": 453,
+  "rating": 0.9478053,
+  "ratingCount": 491,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

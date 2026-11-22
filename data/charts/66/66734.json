@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:58Z",
-    "lastChanged": "2026-09-21T02:06:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-15T10:47:41.651442Z",
   "charter": "Lin mu Mu(林木木)",
@@ -14,6 +14,7 @@
   "description": "二次并上架此谱 将按phira 上传并封禁 祝你们玩的开心(本人上传)",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/c4440391-7d87-482e-b74e-3fdafa0cbb54",
+  "hidden": false,
   "id": 66734,
   "illustration": "https://phira.5wyxi.com/files/54399bd8-9edd-4319-b1d6-c12e3d4a1f34",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Been Through",
   "preview": "https://phira.5wyxi.com/files/3a1bbd96-4f2c-41e9-a03c-9cb43b2d1da9",
   "ranked": false,
-  "rating": 0.9210689,
-  "ratingCount": 33,
+  "rating": 0.9400678,
+  "ratingCount": 56,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

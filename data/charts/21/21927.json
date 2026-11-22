@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:25Z",
-    "lastChanged": "2026-09-21T02:05:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-26T00:05:11.463782Z",
   "charter": "Lovely_HuTao",
@@ -14,6 +14,7 @@
   "description": "本来想去模仿Legacy结果太过了，那就这样吧，纯整活",
   "difficulty": 15.099999,
   "file": "https://phira.5wyxi.com/files/0b71fb25-3d1f-47b6-b35e-aefba334a08e",
+  "hidden": false,
   "id": 21927,
   "illustration": "https://phira.5wyxi.com/files/36dbe64c-bc4e-4faf-938e-62d339004cfa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Stasis",
   "preview": "https://phira.5wyxi.com/files/b55f8fae-c3f9-4edd-8fb0-890d9b8ad4f2",
   "ranked": false,
-  "rating": 0.55006135,
-  "ratingCount": 585,
+  "rating": 0.5580953,
+  "ratingCount": 588,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

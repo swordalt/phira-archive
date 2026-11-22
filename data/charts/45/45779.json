@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:32Z",
-    "lastChanged": "2026-09-21T02:06:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-26T14:32:37.126130Z",
   "charter": "He0c",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 25.0,
   "file": "https://phira.5wyxi.com/files/440c6882-f00c-4504-bed4-3d491ba52ae2",
+  "hidden": false,
   "id": 45779,
   "illustration": "https://phira.5wyxi.com/files/2cb58162-1f5d-4871-9511-66eca07016bf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "クチナシの木が朽ちる前に",
   "preview": "https://phira.5wyxi.com/files/8187f7cb-2df3-4a53-a797-eec993a93772",
   "ranked": false,
-  "rating": 0.9625849,
-  "ratingCount": 587,
+  "rating": 0.96363866,
+  "ratingCount": 602,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

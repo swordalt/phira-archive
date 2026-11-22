@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:45Z",
-    "lastChanged": "2026-09-21T02:06:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-07T10:49:01.178889Z",
   "charter": "Jiuwenzi",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\ndrag 218/1400\nstacc97“过段”=97.42",
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/d77a590d-a04b-4866-80b8-6d71853bdc59",
+  "hidden": false,
   "id": 52234,
   "illustration": "https://phira.5wyxi.com/files/bd59d51a-5c24-4923-bbb0-b43997b8133a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Aquaris",
   "preview": "https://phira.5wyxi.com/files/0b467f88-2500-43a7-9cf1-eb06a8311726",
   "ranked": false,
-  "rating": 0.9479002,
-  "ratingCount": 39,
+  "rating": 0.95424825,
+  "ratingCount": 46,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

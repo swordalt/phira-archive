@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:40Z",
-    "lastChanged": "2026-09-21T02:01:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-10T16:21:43.861334Z",
   "charter": "猫猫nya～",
@@ -14,6 +14,7 @@
   "description": "简单的at14，多押谱",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/8db5fcff-1ee7-48a6-98d1-628dce684e35",
+  "hidden": false,
   "id": 11324,
   "illustration": "https://phira.5wyxi.com/files/c8fc4c9c-1342-4ef6-8355-0078999e8011",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Forever",
   "preview": "https://phira.5wyxi.com/files/1b87613c-5db5-4920-92fb-431bf3715fe1",
   "ranked": false,
-  "rating": 0.91147,
-  "ratingCount": 334,
+  "rating": 0.9116307,
+  "ratingCount": 338,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

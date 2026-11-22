@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:03Z",
-    "lastChanged": "2026-09-21T02:05:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-29T03:10:32.076187Z",
   "charter": "钻风の奇妙冒险",
@@ -14,6 +14,7 @@
   "description": "B站@钻风想睡觉\n又老一岁哈哈。",
   "difficulty": 14.700003,
   "file": "https://phira.5wyxi.com/files/d7800814-8076-4e5f-ae63-236176301070",
+  "hidden": false,
   "id": 69833,
   "illustration": "https://phira.5wyxi.com/files/af5219d3-6ffc-4dd8-9e16-2c39341f8eca",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Travel Begins",
   "preview": "https://phira.5wyxi.com/files/3fa247d4-857e-450e-87c0-30e1a1ea964c",
   "ranked": false,
-  "rating": 0.9172188,
-  "ratingCount": 208,
+  "rating": 0.91774297,
+  "ratingCount": 228,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:04Z",
-    "lastChanged": "2026-09-21T02:03:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-15T06:56:03.106777Z",
   "charter": "idk in heaven",
@@ -14,6 +14,7 @@
   "description": "好吧刚好在定数洗牌后写完我也不知道怎么定",
   "difficulty": 16.5,
   "file": "https://phira.5wyxi.com/files/c8e18734-4832-4564-828d-01edb675c17e",
+  "hidden": false,
   "id": 34061,
   "illustration": "https://phira.5wyxi.com/files/f1db546c-1043-4a52-909c-a809d3878434",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Infinity Heaven",
   "preview": "https://phira.5wyxi.com/files/1dd5446d-6135-470a-9323-d34d2eb5ccdd",
   "ranked": false,
-  "rating": 0.89856225,
-  "ratingCount": 533,
+  "rating": 0.8993741,
+  "ratingCount": 553,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

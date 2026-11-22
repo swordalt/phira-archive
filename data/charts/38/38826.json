@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:16Z",
-    "lastChanged": "2026-09-21T02:06:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-28T10:54:08.863818Z",
   "charter": "TTEW ＆ CEF",
@@ -14,6 +14,7 @@
   "description": "Pretty easy,Right?...",
   "difficulty": 31.0,
   "file": "https://phira.5wyxi.com/files/ef1aed24-b380-4066-a3e0-f1c860b917aa",
+  "hidden": false,
   "id": 38826,
   "illustration": "https://phira.5wyxi.com/files/9c7a7477-d358-4df1-b5d3-d9d6e4ac9b2d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "雨露霜雪",
   "preview": "https://phira.5wyxi.com/files/aa8c8f64-e530-478e-9459-b74b9dffcefa",
   "ranked": false,
-  "rating": 0.9013687,
-  "ratingCount": 144,
+  "rating": 0.89883035,
+  "ratingCount": 151,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

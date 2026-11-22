@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:43Z",
-    "lastChanged": "2026-09-21T02:01:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-05T15:21:19.632974Z",
   "charter": "Naptie",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/a14437f0-aa7f-4f77-94b1-b3d2e05c41d9",
+  "hidden": false,
   "id": 12181,
   "illustration": "https://phira.5wyxi.com/files/79b9101e-582c-4430-b395-e31a1ed4c72e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "第六感",
   "preview": "https://phira.5wyxi.com/files/944ae117-962b-4707-95fa-15610740799b",
   "ranked": true,
-  "rating": 0.9400207,
-  "ratingCount": 28331,
+  "rating": 0.94000953,
+  "ratingCount": 28854,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

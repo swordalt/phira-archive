@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:41Z",
-    "lastChanged": "2026-09-21T02:06:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-16T04:22:45.552839Z",
   "charter": "柒加贰",
@@ -14,6 +14,7 @@
   "description": "水段较多，难度5～6\n爆发rf10\n难度曲线全面崩盘，我错了（",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/6b15af82-00bf-44a9-b17c-ff7c3d8ce040",
+  "hidden": false,
   "id": 49196,
   "illustration": "https://phira.5wyxi.com/files/c0b0bad2-0396-4582-9678-e7e8da805b13",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "noise canceller",
   "preview": "https://phira.5wyxi.com/files/6ac95862-147a-451d-ba93-b2b32f4b8884",
   "ranked": false,
-  "rating": 0.8208402,
-  "ratingCount": 11,
+  "rating": 0.9022331,
+  "ratingCount": 26,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

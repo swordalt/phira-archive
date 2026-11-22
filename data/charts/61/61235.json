@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:49Z",
-    "lastChanged": "2026-09-21T02:04:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-18T05:24:11.570089Z",
   "charter": "TWWHT",
@@ -14,6 +14,7 @@
   "description": "第一次写谱",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/04fcc237-6a28-4ffa-9117-5c34326df000",
+  "hidden": false,
   "id": 61235,
   "illustration": "https://phira.5wyxi.com/files/5fcded14-7e4d-4c86-b268-c358561da679",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "STYX HELIX",
   "preview": "https://phira.5wyxi.com/files/5f976782-6f5c-48bf-800d-3301b7cded50",
   "ranked": false,
-  "rating": 0.9356626,
-  "ratingCount": 1554,
+  "rating": 0.935719,
+  "ratingCount": 1928,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

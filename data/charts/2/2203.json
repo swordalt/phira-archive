@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:35Z",
-    "lastChanged": "2026-09-21T02:05:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-17T11:38:33.443992Z",
   "charter": "SRS",
@@ -14,6 +14,7 @@
   "description": "谱面为本人创作，练习谱，纯配置",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/2dd7451c-e289-482f-ba5e-9d6624cddc52",
+  "hidden": false,
   "id": 2203,
   "illustration": "https://phira.5wyxi.com/files/59303e09-ab10-47fe-9768-f0cafc968355",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Alice In Voodooland",
   "preview": "https://phira.5wyxi.com/files/fc9ef740-69c7-46b9-a8c9-ac7af62abb41",
   "ranked": false,
-  "rating": 0.8455805,
-  "ratingCount": 100,
+  "rating": 0.84676534,
+  "ratingCount": 101,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

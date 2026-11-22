@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-17T17:03:16Z",
-    "lastChanged": "2026-10-18T09:09:21Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:26Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-17T14:17:34.538761Z",
   "charter": "Team.RZ",
@@ -14,6 +14,7 @@
   "description": "欢迎进入小窝1032562434获取谱面文件喵\r\nbilibili@Ratzen \r\n蝴蝶V1.0.0\r\n本次更新内容\r\n1.替换曲绘\r\n2.修复bug\r\n删榜致歉",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/b351037e-8ff0-4496-ac81-f6c0e953c17b",
+  "hidden": false,
   "id": 81372,
   "illustration": "https://phira.5wyxi.com/files/a506b4c1-e6c0-4027-acd5-70136ad798f0",
   "illustrator": "Team.RZ",
@@ -21,8 +22,8 @@
   "name": "蝴蝶",
   "preview": "https://phira.5wyxi.com/files/80be718c-2177-4807-8e94-ff549eaf7bc7",
   "ranked": false,
-  "rating": 0.94126546,
-  "ratingCount": 527,
+  "rating": 0.9388207,
+  "ratingCount": 3860,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

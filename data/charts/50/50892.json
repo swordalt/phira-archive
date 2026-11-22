@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:11Z",
-    "lastChanged": "2026-09-21T02:04:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-02T13:26:13.640965Z",
   "charter": "demoxyz",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/5594ddb9-d8ee-49be-b9b5-22c1d45d7deb",
+  "hidden": false,
   "id": 50892,
   "illustration": "https://phira.5wyxi.com/files/6271452e-3401-4c7e-82c4-3530d4fb111d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "踩过界(DJR7版)",
   "preview": "https://phira.5wyxi.com/files/6bffd5ea-7f1e-4216-a87e-a94fc5525f82",
   "ranked": false,
-  "rating": 0.8746317,
-  "ratingCount": 32,
+  "rating": 0.88719916,
+  "ratingCount": 35,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:42Z",
-    "lastChanged": "2026-09-21T02:01:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-28T13:30:19.749906Z",
   "charter": "Don't Leave 醒 Alone",
@@ -14,6 +14,7 @@
   "description": "B站关注@醒了不起的老傲娇\n视频后续会发，先将谱面上传Phira，如果有问题后续会进行修改，但整体思路基本不会变。\n(因为改了部分谱面配置所以排行榜被清了一次，抱歉)",
   "difficulty": 14.200001,
   "file": "https://phira.5wyxi.com/files/64b1e34a-1957-448a-95de-fe80387f8b92",
+  "hidden": false,
   "id": 11864,
   "illustration": "https://phira.5wyxi.com/files/e195f4db-37be-4343-83ba-2387810e1db4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Leave It Alone",
   "preview": "https://phira.5wyxi.com/files/882713bb-0416-4f44-bcbd-73af11c4a2e8",
   "ranked": true,
-  "rating": 0.92972815,
-  "ratingCount": 2317,
+  "rating": 0.92991143,
+  "ratingCount": 2325,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

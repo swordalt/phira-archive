@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:27Z",
-    "lastChanged": "2026-09-21T02:02:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-27T07:01:24.761956Z",
   "charter": "Q F",
@@ -14,6 +14,7 @@
   "description": "采音没问题，这首歌就这样的，奇怪物语的主题曲",
   "difficulty": 1.0,
   "file": "https://phira.5wyxi.com/files/fc5861e0-bef6-4bfd-b4b1-f36b5ad5a8da",
+  "hidden": false,
   "id": 24466,
   "illustration": "https://phira.5wyxi.com/files/12b29ab8-30ee-4fa2-8733-6739bd334140",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "KIDS",
   "preview": "https://phira.5wyxi.com/files/d4c9faee-d713-4c8b-842a-01a607e55afe",
   "ranked": false,
-  "rating": 0.9101123,
-  "ratingCount": 443,
+  "rating": 0.90551734,
+  "ratingCount": 495,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

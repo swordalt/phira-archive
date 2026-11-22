@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:07Z",
-    "lastChanged": "2026-09-21T02:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-11T17:46:15.045181Z",
   "charter": "L10n and 9 and 7 Y",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，另一个谱师同意上传",
   "difficulty": 17.1,
   "file": "https://phira.5wyxi.com/files/83192b7f-abf0-415b-aba6-f353b3e0b94e",
+  "hidden": false,
   "id": 35134,
   "illustration": "https://phira.5wyxi.com/files/c86507f7-70ca-480c-a841-2375001662ef",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Broken Conviction",
   "preview": "https://phira.5wyxi.com/files/ae48e3b8-acb3-4bd7-9d7f-c58d1c4b89ef",
   "ranked": false,
-  "rating": 0.92300934,
-  "ratingCount": 231,
+  "rating": 0.9251663,
+  "ratingCount": 239,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

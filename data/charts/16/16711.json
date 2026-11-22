@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:02Z",
-    "lastChanged": "2026-09-21T02:02:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-03T09:32:33.089352Z",
   "charter": "zzy114514",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.000001,
   "file": "https://phira.5wyxi.com/files/8f426426-c429-4e80-99c4-862a297e5fda",
+  "hidden": false,
   "id": 16711,
   "illustration": "https://phira.5wyxi.com/files/521adb99-7e42-4f98-b6e7-6911e3ca1fed",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Inverted Forest",
   "preview": "https://phira.5wyxi.com/files/2fcf1c98-36ed-4371-916c-dfdf0036cccf",
   "ranked": false,
-  "rating": 0.909695,
-  "ratingCount": 99,
+  "rating": 0.9057018,
+  "ratingCount": 101,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

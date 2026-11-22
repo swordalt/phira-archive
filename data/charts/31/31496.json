@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:55Z",
-    "lastChanged": "2026-09-21T02:02:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-07T04:59:55.229498Z",
   "charter": "封茗云冰",
@@ -14,6 +14,7 @@
   "description": "B站封茗云冰视频BV1wErNYhEpG\n0107修改初见杀黄键，减少部分震动幅度\n改善手感问题\n这是常规版本\n谱师虽一身混有note的泥浆，那又怎样~",
   "difficulty": 13.200001,
   "file": "https://phira.5wyxi.com/files/f21304d3-20d2-4ca2-8c55-98cba33fb995",
+  "hidden": false,
   "id": 31496,
   "illustration": "https://phira.5wyxi.com/files/677e33b5-80cb-4270-b8c8-1b08807b564c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "何者",
   "preview": "https://phira.5wyxi.com/files/5ee37bd8-97ef-4e87-92aa-979f9de80a69",
   "ranked": false,
-  "rating": 0.84458363,
-  "ratingCount": 830,
+  "rating": 0.84719735,
+  "ratingCount": 881,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

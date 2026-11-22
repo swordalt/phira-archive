@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:19Z",
-    "lastChanged": "2026-09-21T02:01:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-08T06:47:55.721482Z",
   "charter": "江天凌",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传 BV15c411T7UZ",
   "difficulty": 13.400001,
   "file": "https://phira.5wyxi.com/files/e6ac38c8-a186-4d3e-8b88-3bd52a203acd",
+  "hidden": false,
   "id": 4907,
   "illustration": "https://phira.5wyxi.com/files/c537a0d5-3cb1-4c13-952b-1a3c17cf6e11",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "勾指起誓",
   "preview": "https://phira.5wyxi.com/files/8bcd508d-ef7c-485f-8c08-f0315fa4bec3",
   "ranked": false,
-  "rating": 0.9394814,
-  "ratingCount": 10991,
+  "rating": 0.93822306,
+  "ratingCount": 13119,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:29Z",
-    "lastChanged": "2026-09-21T02:05:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-04T12:15:31.397593Z",
   "charter": "DS",
@@ -14,6 +14,7 @@
   "description": "可以B站支持一下我哦qwq，B站有原视频",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/0a777c65-be91-41bb-a1ec-af25dd82783d",
+  "hidden": false,
   "id": 37509,
   "illustration": "https://phira.5wyxi.com/files/587595a4-aecd-4f11-88fe-6176fbd53db8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "gogogo宣言",
   "preview": "https://phira.5wyxi.com/files/024551d7-0e5c-49aa-aad5-b2d08c918d85",
   "ranked": false,
-  "rating": 0.932711,
-  "ratingCount": 4161,
+  "rating": 0.93244386,
+  "ratingCount": 4223,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

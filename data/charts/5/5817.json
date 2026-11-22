@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:21Z",
-    "lastChanged": "2026-09-21T02:01:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-22T08:31:15.362692Z",
   "charter": "神见万物“Beatparty vs. Corruptivia”",
@@ -14,6 +14,7 @@
   "description": "新人初谱",
   "difficulty": 14.799999,
   "file": "https://phira.5wyxi.com/files/64edfaee-9e45-447d-a6cb-46d80efa8461",
+  "hidden": false,
   "id": 5817,
   "illustration": "https://phira.5wyxi.com/files/b252011c-cb7d-41cc-b331-9c0f40cbec42",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "God sees all",
   "preview": "https://phira.5wyxi.com/files/0adb3522-b118-44e9-8071-18d91ca2487a",
   "ranked": false,
-  "rating": 0.94320667,
-  "ratingCount": 903,
+  "rating": 0.94305503,
+  "ratingCount": 909,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

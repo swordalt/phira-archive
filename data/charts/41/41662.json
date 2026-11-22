@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:29Z",
-    "lastChanged": "2026-09-21T02:03:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-14T09:24:31.491587Z",
   "charter": "Seachannel",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，游玩愉快！",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/3a1b29f3-9bd0-4b55-97d9-79230a5213f5",
+  "hidden": false,
   "id": 41662,
   "illustration": "https://phira.5wyxi.com/files/3919f07b-b70b-4d7a-adaa-af2f2e043be8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Brun-Brun",
   "preview": "https://phira.5wyxi.com/files/0db06e83-2139-4dd9-be92-51bb2bf2dd04",
   "ranked": true,
-  "rating": 0.9132722,
-  "ratingCount": 1206,
+  "rating": 0.9136164,
+  "ratingCount": 1216,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

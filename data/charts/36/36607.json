@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:29Z",
-    "lastChanged": "2026-09-21T02:05:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-15T14:42:13.153530Z",
   "charter": "Kanegawa",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.000002,
   "file": "https://phira.5wyxi.com/files/c911e123-6d7c-4662-bf40-bc97ecf48eb0",
+  "hidden": false,
   "id": 36607,
   "illustration": "https://phira.5wyxi.com/files/afd1d9f8-8964-455b-bfe7-d8be65695f4e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Middle Finger Toujou(42s)",
   "preview": "https://phira.5wyxi.com/files/171e3007-7e8e-4eee-a3c9-6c167d2f6df0",
   "ranked": false,
-  "rating": 0.9419429,
-  "ratingCount": 382,
+  "rating": 0.94225067,
+  "ratingCount": 398,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:56Z",
-    "lastChanged": "2026-09-21T02:01:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-12T05:07:43.376788Z",
   "charter": "tomato",
@@ -14,6 +14,7 @@
   "description": "6pj",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/835945d6-7d18-409f-b435-ac0935d12139",
+  "hidden": false,
   "id": 15441,
   "illustration": "https://phira.5wyxi.com/files/64b6f7fd-952a-4806-af57-2fb50a013524",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Skydive",
   "preview": "https://phira.5wyxi.com/files/56b4ce1b-eb38-4ce0-acf3-4af7959f0559",
   "ranked": false,
-  "rating": 0.821456,
-  "ratingCount": 333,
+  "rating": 0.8226109,
+  "ratingCount": 338,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

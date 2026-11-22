@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:04Z",
-    "lastChanged": "2026-09-21T02:05:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-31T16:56:30.235025Z",
   "charter": "▃Li▅▁",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nb站视频BV14MGN6xEU7",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/e3651264-3371-410b-ba47-3ee27d58a1b1",
+  "hidden": false,
   "id": 70419,
   "illustration": "https://phira.5wyxi.com/files/0aa45c13-54ad-45bd-b969-cc66150234eb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "树海晕动症",
   "preview": "https://phira.5wyxi.com/files/85ced8ef-a2de-469a-98b4-53346c02a32d",
   "ranked": false,
-  "rating": 0.90155756,
-  "ratingCount": 458,
+  "rating": 0.9045879,
+  "ratingCount": 508,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

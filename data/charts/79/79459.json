@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-30T13:37:18Z",
-    "lastChanged": "2026-11-12T18:50:11Z",
-    "revisions": 4
+    "lastChanged": "2026-11-22T12:59:23Z",
+    "revisions": 5
   },
   "chartUpdated": "2026-11-12T13:54:52.752531Z",
   "charter": "Ex1stenS",
@@ -14,6 +14,7 @@
   "description": "本人上传\r\n有改谱",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/fb96c298-57ce-4a18-89f1-839c899d70e4",
+  "hidden": false,
   "id": 79459,
   "illustration": "https://phira.5wyxi.com/files/39ab59f4-230e-4b48-bcf5-f9c5c701afc8",
   "illustrator": "KM",
@@ -21,8 +22,8 @@
   "name": "Signal",
   "preview": "https://phira.5wyxi.com/files/d53fba74-275f-48b6-9b82-3b409a3d6f6e",
   "ranked": false,
-  "rating": 0.887185,
-  "ratingCount": 122,
+  "rating": 0.89285946,
+  "ratingCount": 171,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

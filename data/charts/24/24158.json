@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:25Z",
-    "lastChanged": "2026-09-21T02:02:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-23T10:22:03.596912Z",
   "charter": "Junsi",
@@ -14,6 +14,7 @@
   "description": "于7.23日更新，更改了一些配置",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/552a82bc-93f9-4f68-9825-6d4fb868452c",
+  "hidden": false,
   "id": 24158,
   "illustration": "https://phira.5wyxi.com/files/41845e7d-cba1-4743-981a-c70b99f7188f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Soulwind",
   "preview": "https://phira.5wyxi.com/files/ad0ebaa1-0144-428f-ac90-12e9f448df1e",
   "ranked": false,
-  "rating": 0.91238207,
-  "ratingCount": 166,
+  "rating": 0.91100365,
+  "ratingCount": 167,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

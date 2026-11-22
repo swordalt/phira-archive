@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:38Z",
-    "lastChanged": "2026-09-21T02:05:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-12T07:49:59.396574Z",
   "charter": "Kgrede",
@@ -14,6 +14,7 @@
   "description": "粪谱，无特效，慎玩",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/e2932dfd-3567-4b2b-a742-1470995c0ba6",
+  "hidden": false,
   "id": 11414,
   "illustration": "https://phira.5wyxi.com/files/2b1e15b5-b7da-421b-9468-95a344c75f5e",
   "illustrator": "",

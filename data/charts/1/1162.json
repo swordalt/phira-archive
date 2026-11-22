@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:08Z",
-    "lastChanged": "2026-09-21T02:01:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-04T09:08:35.494181Z",
   "charter": "ironman_sm",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.199999,
   "file": "https://phira.5wyxi.com/files/c574ab5e-0145-4097-8a64-641f06d6ac16",
+  "hidden": false,
   "id": 1162,
   "illustration": "https://phira.5wyxi.com/files/a5de5422-7ff4-4170-9412-4f5e9e4e36fa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Big Daddy",
   "preview": "https://phira.5wyxi.com/files/463dfe96-d962-4409-9b82-248a74cb92cc",
   "ranked": false,
-  "rating": 0.9238495,
-  "ratingCount": 4948,
+  "rating": 0.9237021,
+  "ratingCount": 4978,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

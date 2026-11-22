@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:20Z",
-    "lastChanged": "2026-09-21T02:05:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-15T13:03:32.782588Z",
   "charter": "tRaDeR",
@@ -14,6 +14,7 @@
   "description": "来点刺激的！",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/bf386a96-43ba-4e91-adb1-911efbba3ff3",
+  "hidden": false,
   "id": 7710,
   "illustration": "https://phira.5wyxi.com/files/9fab8da4-31a8-4fa9-8247-e375d6965998",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "电棍：我恨我的电脑♿",
   "preview": "https://phira.5wyxi.com/files/8d27fded-fc2f-489c-9849-5b9138776497",
   "ranked": false,
-  "rating": 0.8629829,
-  "ratingCount": 523,
+  "rating": 0.86372644,
+  "ratingCount": 526,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

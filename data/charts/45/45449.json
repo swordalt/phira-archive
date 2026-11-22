@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:44Z",
-    "lastChanged": "2026-09-21T02:03:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-22T16:41:24.105062Z",
   "charter": "Hsoii",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.400002,
   "file": "https://phira.5wyxi.com/files/7692dd62-dd02-463f-bde6-daf7962d45f5",
+  "hidden": false,
   "id": 45449,
   "illustration": "https://phira.5wyxi.com/files/798feacb-6c99-459d-9d29-1a9226339139",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "White Noise",
   "preview": "https://phira.5wyxi.com/files/ce6a0862-2783-40e3-a996-9f08cda26cbc",
   "ranked": false,
-  "rating": 0.86196786,
-  "ratingCount": 26,
+  "rating": 0.8688141,
+  "ratingCount": 29,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

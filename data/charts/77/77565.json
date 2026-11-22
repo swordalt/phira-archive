@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:16Z",
-    "lastChanged": "2026-09-21T02:05:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-09T09:27:51.630060Z",
   "charter": "Sky is the limit!",
@@ -14,6 +14,7 @@
   "description": "6thWJC 参赛作品。\nBiliBili关注CuuCO谢谢喵！\n视频：\n【[6th WJC参赛谱面] Take You Higher IN Lv.15-哔哩哔哩】 https://b23.tv/lqBPbi3",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/5df1e1c9-4de4-4cda-a280-53b15a77064c",
+  "hidden": false,
   "id": 77565,
   "illustration": "https://phira.5wyxi.com/files/40c5cc99-98ff-401e-93b3-5fc68abb0285",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Take You Higher",
   "preview": "https://phira.5wyxi.com/files/608b38aa-458f-4802-a429-0358059f2b9f",
   "ranked": false,
-  "rating": 0.9311988,
-  "ratingCount": 223,
+  "rating": 0.9444864,
+  "ratingCount": 284,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

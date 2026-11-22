@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-01T07:25:49Z",
-    "lastChanged": "2026-11-15T12:21:08Z",
-    "revisions": 4
+    "lastChanged": "2026-11-22T12:59:31Z",
+    "revisions": 5
   },
   "chartUpdated": "2026-11-01T06:02:40.845889Z",
   "charter": "Yui",
@@ -14,6 +14,7 @@
   "description": "本人上传，B站：朝日の唯",
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/6c377582-60e3-403f-8795-360c9ee22ce5",
+  "hidden": false,
   "id": 82787,
   "illustration": "https://phira.5wyxi.com/files/d6a53d19-a3cb-4686-98fc-ab8721c87d2f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Life is PIANO",
   "preview": "https://phira.5wyxi.com/files/4bba41cd-2c13-47c0-b0dd-0afbf570f56d",
   "ranked": false,
-  "rating": 0.95002985,
-  "ratingCount": 271,
+  "rating": 0.9484095,
+  "ratingCount": 340,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

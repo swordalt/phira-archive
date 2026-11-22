@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:46Z",
-    "lastChanged": "2026-09-21T02:02:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-02T09:15:24.237752Z",
   "charter": "sz我",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/a02c807f-2921-4e90-8e31-4d57b5973ff1",
+  "hidden": false,
   "id": 29313,
   "illustration": "https://phira.5wyxi.com/files/1e6c333c-d4f2-40b5-ad36-a08cc0f4769b",
   "illustrator": "",

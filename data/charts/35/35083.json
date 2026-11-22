@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:07Z",
-    "lastChanged": "2026-09-21T02:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-10T06:03:26.236823Z",
   "charter": "数ヶ月の待ち時間",
@@ -14,6 +14,7 @@
   "description": "BV1oURuYYE3h，本人上传",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/be4ad498-8d57-4e17-b2d5-fbe10c584dc0",
+  "hidden": false,
   "id": 35083,
   "illustration": "https://phira.5wyxi.com/files/feea248c-c5d7-445d-bac3-065a6af8b44f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dahlia",
   "preview": "https://phira.5wyxi.com/files/30746926-a845-40ed-9061-10d2973b4ed2",
   "ranked": false,
-  "rating": 0.95161194,
-  "ratingCount": 646,
+  "rating": 0.9516095,
+  "ratingCount": 654,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

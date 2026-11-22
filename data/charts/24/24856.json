@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:28Z",
-    "lastChanged": "2026-09-21T02:02:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-31T15:39:52.647734Z",
   "charter": "拨了也不动的算盘珠子",
@@ -14,6 +14,7 @@
   "description": "简介很用心",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/2610d2b5-8491-47f1-a033-00badc4e53fb",
+  "hidden": false,
   "id": 24856,
   "illustration": "https://phira.5wyxi.com/files/fb74c496-06ce-419a-9442-27010d2f8487",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "十拳剣",
   "preview": "https://phira.5wyxi.com/files/781f9c48-4835-4270-a684-f73b13eceaf9",
   "ranked": false,
-  "rating": 0.81998813,
-  "ratingCount": 526,
+  "rating": 0.81938106,
+  "ratingCount": 527,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

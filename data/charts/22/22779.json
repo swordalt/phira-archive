@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:52Z",
-    "lastChanged": "2026-09-21T02:05:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-06T11:11:33.092217Z",
   "charter": "Quillius",
@@ -14,6 +14,7 @@
   "description": "Quillius的小号\n谱师本人 b站:Quillius\nBPM:128\n谱面预览:BV1K4aMegESc",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/a7998740-4807-46ad-8377-d45760cc88d2",
+  "hidden": false,
   "id": 22779,
   "illustration": "https://phira.5wyxi.com/files/ab684ff3-1d54-4d73-9d77-394116dbcbaa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Chariot",
   "preview": "https://phira.5wyxi.com/files/7ff1aeca-c2c3-4377-8993-706d41f91918",
   "ranked": false,
-  "rating": 0.94932204,
-  "ratingCount": 137,
+  "rating": 0.9497291,
+  "ratingCount": 142,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

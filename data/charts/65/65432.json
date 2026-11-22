@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:56Z",
-    "lastChanged": "2026-09-21T02:04:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-10T08:56:42.368171Z",
   "charter": "RnJITW8= but Requiem",
@@ -14,6 +14,7 @@
   "description": "FreMo本人上传\n\n自制谱谱师@FM壹某",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/f4828683-01d5-40ac-85bb-31f0e1a801ba",
+  "hidden": false,
   "id": 65432,
   "illustration": "https://phira.5wyxi.com/files/9d75a529-ddff-46c0-87f4-b927c6114f16",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "QZKago Requiem",
   "preview": "https://phira.5wyxi.com/files/44f24d1d-1e01-4ccb-9c16-f4c30aea26ad",
   "ranked": false,
-  "rating": 0.8610546,
-  "ratingCount": 272,
+  "rating": 0.8574713,
+  "ratingCount": 286,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

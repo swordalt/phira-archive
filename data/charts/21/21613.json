@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:18Z",
-    "lastChanged": "2026-09-21T02:02:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-21T10:01:40.479994Z",
   "charter": "TangenT ~The Eternal Star~",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/ee3f1de5-0985-4236-ae22-8e816ac737d4",
+  "hidden": false,
   "id": 21613,
   "illustration": "https://phira.5wyxi.com/files/032b1477-93d1-46d4-904b-adbf118298bd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ホシシズク",
   "preview": "https://phira.5wyxi.com/files/5421c15c-d6bb-47d7-8e04-18b6ed9fc1bd",
   "ranked": false,
-  "rating": 0.90620494,
-  "ratingCount": 126,
+  "rating": 0.90765464,
+  "ratingCount": 128,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

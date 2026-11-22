@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:05Z",
-    "lastChanged": "2026-09-21T02:03:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-21T17:00:38.834560Z",
   "charter": "Mhang_L",
@@ -14,6 +14,7 @@
   "description": "本人首键盘谱",
   "difficulty": 18.000004,
   "file": "https://phira.5wyxi.com/files/d1bd5473-5c11-4f03-823a-76615ae0d3e4",
+  "hidden": false,
   "id": 34279,
   "illustration": "https://phira.5wyxi.com/files/73dd540b-7b52-4025-b3e2-82278fd0d80f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Collapsar",
   "preview": "https://phira.5wyxi.com/files/4910d01a-9d22-4213-92c2-70a2f387c1ab",
   "ranked": false,
-  "rating": 0.93778497,
-  "ratingCount": 276,
+  "rating": 0.93894386,
+  "ratingCount": 286,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

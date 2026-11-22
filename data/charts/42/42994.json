@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:33Z",
-    "lastChanged": "2026-09-21T02:03:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-28T17:10:59.641014Z",
   "charter": "LELEXIAOLL",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/d1d89b11-90db-4bd5-ad8e-e55d8e321d4f",
+  "hidden": false,
   "id": 42994,
   "illustration": "https://phira.5wyxi.com/files/93a5706f-70b0-4617-baa4-d054ba0708f7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "天真的橡皮",
   "preview": "https://phira.5wyxi.com/files/2af1dd95-aa68-4a67-8c6b-b472a6d45978",
   "ranked": false,
-  "rating": 0.8713417,
-  "ratingCount": 3804,
+  "rating": 0.8716885,
+  "ratingCount": 3960,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

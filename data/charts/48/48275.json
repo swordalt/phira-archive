@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:58Z",
-    "lastChanged": "2026-09-21T02:03:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-21T12:46:23.223957Z",
   "charter": "TUDOU & A.B.W.",
@@ -14,6 +14,7 @@
   "description": "B站原视频BV1SNWszbE3S",
   "difficulty": 13.400002,
   "file": "https://phira.5wyxi.com/files/a7c3925a-d00c-4d23-9787-50bd5bcde6ee",
+  "hidden": false,
   "id": 48275,
   "illustration": "https://phira.5wyxi.com/files/c7efb8c8-ceb5-4515-b4bf-2a870412cbc1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fantasia Sonata Arcadia",
   "preview": "https://phira.5wyxi.com/files/6eaaf91d-a362-4cc2-8699-66cef8f8c337",
   "ranked": false,
-  "rating": 0.9478726,
-  "ratingCount": 578,
+  "rating": 0.94853663,
+  "ratingCount": 591,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

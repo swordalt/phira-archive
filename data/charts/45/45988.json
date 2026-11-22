@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:31Z",
-    "lastChanged": "2026-09-21T02:05:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-29T04:12:30.837906Z",
   "charter": "远东四海升",
@@ -14,6 +14,7 @@
   "description": "恶搞类，玩玩就好",
   "difficulty": 18.6,
   "file": "https://phira.5wyxi.com/files/c4382c16-c5cb-4632-97cd-672d286566f7",
+  "hidden": false,
   "id": 45988,
   "illustration": "https://phira.5wyxi.com/files/b2f20144-b09a-4702-845c-9011f6d856e5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "但",
   "preview": "https://phira.5wyxi.com/files/8d892273-2427-4017-a95a-6257524946ab",
   "ranked": false,
-  "rating": 0.9096882,
-  "ratingCount": 665,
+  "rating": 0.9106433,
+  "ratingCount": 705,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

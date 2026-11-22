@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:17Z",
-    "lastChanged": "2026-09-21T02:02:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-15T13:33:51.752900Z",
   "charter": "Cookie_awa",
@@ -14,6 +14,7 @@
   "description": "谱师b站@Cookie_wa",
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/78505d12-7746-4169-9efa-558e288815ce",
+  "hidden": false,
   "id": 21335,
   "illustration": "https://phira.5wyxi.com/files/d8697f4b-30f8-4480-b51e-61bfd75133be",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "epitaxy",
   "preview": "https://phira.5wyxi.com/files/f2582a98-b8f1-479b-a617-c2f4f6ce1cd8",
   "ranked": false,
-  "rating": 0.86092204,
-  "ratingCount": 483,
+  "rating": 0.86114293,
+  "ratingCount": 488,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

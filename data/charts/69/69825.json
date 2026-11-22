@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:03Z",
-    "lastChanged": "2026-09-21T02:05:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-29T02:30:43.547514Z",
   "charter": "bnN4",
@@ -14,6 +14,7 @@
   "description": "看了一圈都没找到写这首歌的谱的\n于是便自己写了一张\n（该谱由谱师本人上传）",
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/caa5ae59-da1b-4ed9-93f3-cee3bff1f3cb",
+  "hidden": false,
   "id": 69825,
   "illustration": "https://phira.5wyxi.com/files/ab26ab06-a683-430b-b5cc-d7cae6b160c8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "月葬",
   "preview": "https://phira.5wyxi.com/files/5d294bc2-9842-4a2c-bfed-be59112ddb48",
   "ranked": false,
-  "rating": 0.78617173,
-  "ratingCount": 53,
+  "rating": 0.7876701,
+  "ratingCount": 57,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

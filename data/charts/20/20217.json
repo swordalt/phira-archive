@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:14Z",
-    "lastChanged": "2026-09-21T02:02:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-21T16:03:29.225579Z",
   "charter": "MYLV",
@@ -14,6 +14,7 @@
   "description": "本人上传，B站@TEK-LYLX 优化谱面速度",
   "difficulty": 18.500006,
   "file": "https://phira.5wyxi.com/files/9ec957ab-0ee9-478a-a06b-5dd40bada6ca",
+  "hidden": false,
   "id": 20217,
   "illustration": "https://phira.5wyxi.com/files/5fc24261-77a3-4b16-8b1e-344f7fd1072f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Blackmagik Blazing",
   "preview": "https://phira.5wyxi.com/files/2f38ac12-85d6-4d1f-905b-d32ff9ea2a04",
   "ranked": false,
-  "rating": 0.8896656,
-  "ratingCount": 453,
+  "rating": 0.89059347,
+  "ratingCount": 464,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

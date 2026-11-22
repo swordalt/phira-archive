@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:11Z",
-    "lastChanged": "2026-09-21T02:01:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-16T10:42:44.270967Z",
   "charter": "無極Rayix",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 14.149999,
   "file": "https://phira.5wyxi.com/files/df3b79c1-0492-4eb0-ae83-2875fe937190",
+  "hidden": false,
   "id": 2154,
   "illustration": "https://phira.5wyxi.com/files/d6a34a13-998c-41cf-bde3-648c16e3bd4e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Abiogenesis",
   "preview": "https://phira.5wyxi.com/files/721c169a-b5fe-48e9-8eb9-368aa3a5333a",
   "ranked": false,
-  "rating": 0.94897693,
-  "ratingCount": 4574,
+  "rating": 0.94904095,
+  "ratingCount": 4593,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

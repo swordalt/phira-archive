@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:30Z",
-    "lastChanged": "2026-09-21T02:06:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-17T09:01:15.269153Z",
   "charter": "snowfall",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/d19d36b8-0c46-4463-a5b3-43770791adf7",
+  "hidden": false,
   "id": 44954,
   "illustration": "https://phira.5wyxi.com/files/dd972ef2-f68f-4bc9-8366-3ce9722b71c6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "her",
   "preview": "https://phira.5wyxi.com/files/34bbb23e-fa64-4fe3-8d94-1ca961f1f953",
   "ranked": false,
-  "rating": 0.9451071,
-  "ratingCount": 104,
+  "rating": 0.94775075,
+  "ratingCount": 115,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

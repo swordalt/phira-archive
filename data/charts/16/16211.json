@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:43Z",
-    "lastChanged": "2026-09-21T02:05:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-21T10:25:19.363375Z",
   "charter": "Iblcya",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nLC2024#2SFHB1",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/458cdb28-4c55-4f2f-bb50-f32a83e19fe0",
+  "hidden": false,
   "id": 16211,
   "illustration": "https://phira.5wyxi.com/files/d3bc898e-dc1c-4b3c-94ff-a967d506a391",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "WATAGASHI RUSH",
   "preview": "https://phira.5wyxi.com/files/88aa6ce0-f4bf-4da4-9740-c6ef3790be17",
   "ranked": false,
-  "rating": 0.9304209,
-  "ratingCount": 126,
+  "rating": 0.9307347,
+  "ratingCount": 128,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

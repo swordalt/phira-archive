@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:45Z",
-    "lastChanged": "2026-09-21T02:05:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-26T16:17:44.525070Z",
   "charter": "LC Team",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nLC2024#1.5特供版本\n2024/3/27 edit 1.15x -> 1.3x",
   "difficulty": 13.5,
   "file": "https://phira.5wyxi.com/files/037b1f1b-4136-451d-85f5-fb397f2443a4",
+  "hidden": false,
   "id": 17534,
   "illustration": "https://phira.5wyxi.com/files/c5f75d9a-1315-4d36-828c-3ea238411c33",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Healing Vision ~Angelic Mix~(1.3x)",
   "preview": "https://phira.5wyxi.com/files/6b78f208-c8c5-4317-b047-1436df157f72",
   "ranked": false,
-  "rating": 0.9276323,
-  "ratingCount": 86,
+  "rating": 0.92843384,
+  "ratingCount": 87,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

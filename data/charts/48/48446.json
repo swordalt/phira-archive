@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:32Z",
-    "lastChanged": "2026-09-21T02:05:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-26T00:51:17.916287Z",
   "charter": "Wejufi",
@@ -14,6 +14,7 @@
   "description": "第一次做譜，沒什麼特別裝飾，希望大家玩的開心\n\n曲目是來自網上的\n本人創作",
   "difficulty": 13.3,
   "file": "https://phira.5wyxi.com/files/0a9a76dd-6157-4001-8010-5997031d84bf",
+  "hidden": false,
   "id": 48446,
   "illustration": "https://phira.5wyxi.com/files/63a63334-4344-4941-af81-6c8d8d35250c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "從從容容",
   "preview": "https://phira.5wyxi.com/files/f058c205-6feb-4b49-81d4-b3b5baa96fcd",
   "ranked": false,
-  "rating": 0.878987,
-  "ratingCount": 220,
+  "rating": 0.87934184,
+  "ratingCount": 232,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

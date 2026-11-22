@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:41Z",
-    "lastChanged": "2026-09-21T02:06:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-19T12:53:31.703264Z",
   "charter": "VIvlan",
@@ -14,6 +14,7 @@
   "description": "本人上传，谱面预览：BV1ukynBnEQ7",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/775725b0-b9aa-4659-9333-ef43b97c2534",
+  "hidden": false,
   "id": 49286,
   "illustration": "https://phira.5wyxi.com/files/eb1c413a-06b6-4754-85af-117e937fec72",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Synthesis",
   "preview": "https://phira.5wyxi.com/files/1e6ad532-18c2-4c7b-a9ea-6eb8a9849d86",
   "ranked": false,
-  "rating": 0.8341063,
-  "ratingCount": 25,
+  "rating": 0.8501872,
+  "ratingCount": 32,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

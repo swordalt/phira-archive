@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:46Z",
-    "lastChanged": "2026-09-21T02:06:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-15T15:28:48.428066Z",
   "charter": "ECYCG",
@@ -14,6 +14,7 @@
   "description": "BPM47 萝卜子塞高！",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/a7407fa3-55ae-47bf-bf53-c5d6981cf1f0",
+  "hidden": false,
   "id": 52753,
   "illustration": "https://phira.5wyxi.com/files/912d87ac-adb4-493a-ac88-a2bfcafb614b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "こんにちは太陽",
   "preview": "https://phira.5wyxi.com/files/644254a3-7389-46ba-87ae-02afe68b6e3c",
   "ranked": false,
-  "rating": 0.951837,
-  "ratingCount": 588,
+  "rating": 0.9519191,
+  "ratingCount": 606,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

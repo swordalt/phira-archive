@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:57Z",
-    "lastChanged": "2026-09-21T02:04:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-11T15:41:33.577673Z",
   "charter": "Hypasonex -From \"In Falsus\"-",
@@ -14,6 +14,7 @@
   "description": "谱面作者：bilibili@闇騎，本人发布",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/f25a14be-8282-41d2-b7c8-c620023b0c33",
+  "hidden": false,
   "id": 65755,
   "illustration": "https://phira.5wyxi.com/files/eef1f38b-ccac-48b0-9b45-944783acdd02",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ghost Ray",
   "preview": "https://phira.5wyxi.com/files/a4949546-f3a8-44a9-bf29-c0dbfe688862",
   "ranked": false,
-  "rating": 0.7527463,
-  "ratingCount": 6,
+  "rating": 0.7922039,
+  "ratingCount": 10,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:44Z",
-    "lastChanged": "2026-09-21T02:05:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-16T04:11:58.211682Z",
   "charter": "Ayu.",
@@ -14,6 +14,7 @@
   "description": "你好，我是Ayu.，本人上传\n—————————————\n为了照应紫谱写了这张，难度系数参考了红谱，还原了一处谱面（）",
   "difficulty": 15.100003,
   "file": "https://phira.5wyxi.com/files/93dc4060-0eea-4bb6-8f8b-5df0519bae5d",
+  "hidden": false,
   "id": 17161,
   "illustration": "https://phira.5wyxi.com/files/e86c0fe1-c43b-41aa-9d2a-b10057483e21",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ハードコア・シンドローム",
   "preview": "https://phira.5wyxi.com/files/f42e553f-25fb-482e-84c3-79527e06b0c3",
   "ranked": false,
-  "rating": 0.9435884,
-  "ratingCount": 189,
+  "rating": 0.9444615,
+  "ratingCount": 192,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:06Z",
-    "lastChanged": "2026-09-21T02:07:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-01T07:22:56.671677Z",
   "charter": "Allay悦灵",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.9,
   "file": "https://phira.5wyxi.com/files/99077f7e-9c93-4071-94c2-2e754d9c05d6",
+  "hidden": false,
   "id": 20607,
   "illustration": "https://phira.5wyxi.com/files/ae8dc754-4191-43ff-953c-d4d94fbb083a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Wolves",
   "preview": "https://phira.5wyxi.com/files/909d9a02-d43a-4060-b91c-121dc07df78a",
   "ranked": false,
-  "rating": 0.8296349,
-  "ratingCount": 348,
+  "rating": 0.83089316,
+  "ratingCount": 357,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

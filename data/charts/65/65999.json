@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:57Z",
-    "lastChanged": "2026-09-21T02:04:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-12T13:24:42.066957Z",
   "charter": "Cyprium_29",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.200005,
   "file": "https://phira.5wyxi.com/files/f4e507a3-f9f7-449e-afb4-a75d9f8075ab",
+  "hidden": false,
   "id": 65999,
   "illustration": "https://phira.5wyxi.com/files/41b50ce1-5633-4ef9-b391-d709bb8d07f0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "極彩色のユ一トピア",
   "preview": "https://phira.5wyxi.com/files/d05a73a6-1dd1-4369-8242-9d5e9debe814",
   "ranked": false,
-  "rating": 0.6556648,
-  "ratingCount": 5,
+  "rating": 0.67154115,
+  "ratingCount": 7,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

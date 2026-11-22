@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:17Z",
-    "lastChanged": "2026-09-21T02:04:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-06T01:20:15.716438Z",
   "charter": "ififjust",
@@ -14,6 +14,7 @@
   "description": "b站：BV1yKZ5BZE9m",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/c133f461-114f-4a0b-bdf9-58bb576803f8",
+  "hidden": false,
   "id": 51955,
   "illustration": "https://phira.5wyxi.com/files/35c39916-2fcc-4fb4-ad17-6e659a9905e0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Vindicate Me",
   "preview": "https://phira.5wyxi.com/files/6537a667-71ee-45aa-a9f1-124edd552534",
   "ranked": false,
-  "rating": 0.9176543,
-  "ratingCount": 210,
+  "rating": 0.91839224,
+  "ratingCount": 211,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

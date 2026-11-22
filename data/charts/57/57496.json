@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:50Z",
-    "lastChanged": "2026-09-21T02:06:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-01T14:21:00.196543Z",
   "charter": "L.C. Xtra",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 18.500002,
   "file": "https://phira.5wyxi.com/files/81dca3f2-36ba-4044-bf01-f81369b077c3",
+  "hidden": false,
   "id": 57496,
   "illustration": "https://phira.5wyxi.com/files/232e725d-5cfa-480e-aee4-4151eb9d301d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "EXXTRA JUDGEMENT",
   "preview": "https://phira.5wyxi.com/files/936411d3-78b1-4345-90a8-c25a6fa7a902",
   "ranked": false,
-  "rating": 0.94806844,
-  "ratingCount": 67,
+  "rating": 0.9515584,
+  "ratingCount": 80,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

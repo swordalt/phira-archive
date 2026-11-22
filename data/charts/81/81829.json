@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-23T14:57:45Z",
-    "lastChanged": "2026-11-08T11:36:07Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:28Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-23T11:44:06.371103Z",
   "charter": "大只黄毛狗狗",
@@ -14,6 +14,7 @@
   "description": "Sunlight insert into my heart",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/b694e409-2147-4711-a9e1-0169684da06d",
+  "hidden": false,
   "id": 81829,
   "illustration": "https://phira.5wyxi.com/files/0a16b33d-9e4b-47c5-95eb-064419de724d",
   "illustrator": "图拉格",
@@ -21,8 +22,8 @@
   "name": "When the Rain",
   "preview": "https://phira.5wyxi.com/files/250fd982-ba9d-4f4d-9b84-ba0ea117ccb6",
   "ranked": true,
-  "rating": 0.9619636,
-  "ratingCount": 215,
+  "rating": 0.93683815,
+  "ratingCount": 403,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

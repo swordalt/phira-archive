@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:39Z",
-    "lastChanged": "2026-09-21T02:05:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-01T13:38:38.279053Z",
   "charter": "Global Multigenre-chart Showdown",
@@ -14,6 +14,7 @@
   "description": "谱师上传 草生比赛2024#1双指赛道总决赛Tiebreaker",
   "difficulty": 14.499998,
   "file": "https://phira.5wyxi.com/files/009cd28f-adbf-414e-ad81-dc904fab0474",
+  "hidden": false,
   "id": 13182,
   "illustration": "https://phira.5wyxi.com/files/f182ee64-c5db-44bd-8c31-457395fb7725",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Multigenre SmackDown",
   "preview": "https://phira.5wyxi.com/files/1e8bfa80-86cf-4812-aa2d-c4f1eb26a7e0",
   "ranked": false,
-  "rating": 0.89690876,
-  "ratingCount": 196,
+  "rating": 0.89696777,
+  "ratingCount": 198,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

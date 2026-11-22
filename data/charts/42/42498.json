@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:25Z",
-    "lastChanged": "2026-09-21T02:06:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-23T06:03:37.592448Z",
   "charter": "Liran",
@@ -14,6 +14,7 @@
   "description": "bpm 180/2",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/b68a466d-4aab-42a1-83d3-fee114ccf251",
+  "hidden": false,
   "id": 42498,
   "illustration": "https://phira.5wyxi.com/files/d9cf8007-ad03-4c05-a89a-0e32f1626d5f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "混沌ブギ",
   "preview": "https://phira.5wyxi.com/files/eee8442a-4d5b-4fa4-9999-ed2e4d6bebcd",
   "ranked": false,
-  "rating": 0.95071983,
-  "ratingCount": 253,
+  "rating": 0.9518468,
+  "ratingCount": 261,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

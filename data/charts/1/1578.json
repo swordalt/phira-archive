@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:34Z",
-    "lastChanged": "2026-09-21T02:05:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-10T10:07:09.360317Z",
   "charter": "charadoger",
@@ -14,6 +14,7 @@
   "description": "尾杀有稍稍改难",
   "difficulty": 22.0,
   "file": "https://phira.5wyxi.com/files/09db58cc-8074-4be3-9ace-337c35eaf7e7",
+  "hidden": false,
   "id": 1578,
   "illustration": "https://phira.5wyxi.com/files/c765b214-1460-42cf-baa3-14ba3956ee2b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "マーシャル・マキシマイザー(Marshall Maximizer)原速",
   "preview": "https://phira.5wyxi.com/files/6cbfdf99-6b59-48fa-9fe9-f91cb07a57c1",
   "ranked": false,
-  "rating": 0.91006905,
-  "ratingCount": 667,
+  "rating": 0.9105716,
+  "ratingCount": 670,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

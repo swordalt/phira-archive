@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:11Z",
-    "lastChanged": "2026-09-21T02:05:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-20T14:23:19.487757Z",
   "charter": "infinite700",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.800003,
   "file": "https://phira.5wyxi.com/files/76d5be96-733e-45c1-bcb1-1a5f26012a75",
+  "hidden": false,
   "id": 74673,
   "illustration": "https://phira.5wyxi.com/files/180f3006-5756-4c74-b689-50af6c253f6c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ブレインロット",
   "preview": "https://phira.5wyxi.com/files/edd3de49-12c2-48bf-9f33-35b85ebff3ef",
   "ranked": false,
-  "rating": 0.9304698,
-  "ratingCount": 14073,
+  "rating": 0.93164945,
+  "ratingCount": 19618,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

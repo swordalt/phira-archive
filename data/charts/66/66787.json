@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:59Z",
-    "lastChanged": "2026-09-21T02:04:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-15T14:35:43.066479Z",
   "charter": "「来自蔚蓝」",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 12.1,
   "file": "https://phira.5wyxi.com/files/41a3c97b-3de1-422b-8542-59fa5d4519e2",
+  "hidden": false,
   "id": 66787,
   "illustration": "https://phira.5wyxi.com/files/7ec085fd-22a0-4f7c-bbe1-5b55c3947525",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "君に会えた日 (TV size)",
   "preview": "https://phira.5wyxi.com/files/df394afd-045b-414e-8ce1-c5d704154814",
   "ranked": false,
-  "rating": 0.9230097,
-  "ratingCount": 2681,
+  "rating": 0.9226073,
+  "ratingCount": 2784,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

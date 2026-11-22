@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:30Z",
-    "lastChanged": "2026-09-21T02:06:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-14T10:20:47.436524Z",
   "charter": "qwpp",
@@ -14,6 +14,7 @@
   "description": "Bpm:190.05    Notes:1300                            本人上传",
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/b57db294-5580-44f7-aef8-f3264da933b6",
+  "hidden": false,
   "id": 44668,
   "illustration": "https://phira.5wyxi.com/files/d766fe4c-6cc5-4a3e-8fba-3bc4a0d6fdf4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Don't say \"lazy\"(1.05x)",
   "preview": "https://phira.5wyxi.com/files/0f3b27d0-988d-47b4-894a-22b845c12078",
   "ranked": false,
-  "rating": 0.9387994,
-  "ratingCount": 44,
+  "rating": 0.9412521,
+  "ratingCount": 46,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

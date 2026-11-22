@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:16Z",
-    "lastChanged": "2026-09-21T02:02:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-12T11:59:49.869804Z",
   "charter": "母鸡",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传   此为旧谱，非重复上传",
   "difficulty": 15.799997,
   "file": "https://phira.5wyxi.com/files/4fdc21c9-b98c-41bd-9fcf-44f5074a3a11",
+  "hidden": false,
   "id": 21213,
   "illustration": "https://phira.5wyxi.com/files/40106637-fae1-45ad-a198-68080fa67bda",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ナイト・オブ・ナイツ",
   "preview": "https://phira.5wyxi.com/files/6c08ffe6-17fa-45b2-9591-b85f7ea18c27",
   "ranked": false,
-  "rating": 0.94850314,
-  "ratingCount": 1375,
+  "rating": 0.94892424,
+  "ratingCount": 1427,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

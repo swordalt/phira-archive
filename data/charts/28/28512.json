@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:43Z",
-    "lastChanged": "2026-09-21T02:02:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-07T08:21:02.080098Z",
   "charter": "SillyCat",
@@ -14,6 +14,7 @@
   "description": "新人第一个谱\n请多多关照",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/065e6be7-7741-4b79-be82-ff64c4869594",
+  "hidden": false,
   "id": 28512,
   "illustration": "https://phira.5wyxi.com/files/d39b596d-dfb3-4e68-9384-75c4ea17cf69",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "アイアンメイデン・ジャンク",
   "preview": "https://phira.5wyxi.com/files/5f5e267a-c908-4a92-8a5d-7547ed473b1e",
   "ranked": false,
-  "rating": 0.9191254,
-  "ratingCount": 457,
+  "rating": 0.9196225,
+  "ratingCount": 460,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:36Z",
-    "lastChanged": "2026-09-21T02:02:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-21T01:16:56.576806Z",
   "charter": "Fananan001",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/9ad47311-0400-47d1-9575-18b67c25f7d1",
+  "hidden": false,
   "id": 26642,
   "illustration": "https://phira.5wyxi.com/files/341ecc8b-890d-4175-9529-2e6802f877fa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "linear ring - enchanted wanderer",
   "preview": "https://phira.5wyxi.com/files/827eaf65-f516-4d04-82a2-77dd18444507",
   "ranked": false,
-  "rating": 0.80935955,
-  "ratingCount": 46,
+  "rating": 0.8131739,
+  "ratingCount": 47,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

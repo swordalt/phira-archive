@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:16Z",
-    "lastChanged": "2026-09-21T02:03:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-04T15:46:10.807922Z",
   "charter": "A Dream of Breaking Free",
@@ -14,6 +14,7 @@
   "description": "本人上传，本家vividstasis",
   "difficulty": 17.200005,
   "file": "https://phira.5wyxi.com/files/c7e401ae-8e44-4d5a-be75-c2a724c86a64",
+  "hidden": false,
   "id": 37553,
   "illustration": "https://phira.5wyxi.com/files/8f77bb57-4609-427b-85c9-9acd64e4469d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "SUPERNOVA",
   "preview": "https://phira.5wyxi.com/files/c39ef86a-ba7f-415f-a610-857932d705d9",
   "ranked": false,
-  "rating": 0.8639362,
-  "ratingCount": 339,
+  "rating": 0.8656893,
+  "ratingCount": 345,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:05Z",
-    "lastChanged": "2026-09-21T02:06:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-30T11:54:19.782593Z",
   "charter": "XXQ",
@@ -14,6 +14,7 @@
   "description": "本人上传\n自制DFCα+段叠\n初稿，大家先玩玩，以后可能会改\n用时六个半小时\n写的不好，请见谅",
   "difficulty": 11.7,
   "file": "https://phira.5wyxi.com/files/19bdeac3-f03e-45db-9f2b-aea5a5d1f082",
+  "hidden": false,
   "id": 30278,
   "illustration": "https://phira.5wyxi.com/files/b9534902-6f89-4da8-8d54-63a57fd823e6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Relayouter - いよわRemix",
   "preview": "https://phira.5wyxi.com/files/840e938c-04c9-488c-b2fe-b4e9b889d5d0",
   "ranked": false,
-  "rating": 0.9570368,
-  "ratingCount": 229,
+  "rating": 0.95682395,
+  "ratingCount": 242,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

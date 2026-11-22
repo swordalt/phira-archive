@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:58Z",
-    "lastChanged": "2026-09-21T02:01:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-16T21:48:30.613029Z",
   "charter": "Mmmmmo",
@@ -14,6 +14,7 @@
   "description": "作者第一次写的谱，所以有不好的地方请见谅！！！",
   "difficulty": 14.300001,
   "file": "https://phira.5wyxi.com/files/1c479678-5d74-4e77-b4ec-67e835c96093",
+  "hidden": false,
   "id": 15906,
   "illustration": "https://phira.5wyxi.com/files/d49cea15-8c24-4c39-a0b3-f92abc255b0b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Vanitas ac Redemptionis",
   "preview": "https://phira.5wyxi.com/files/5d88f56c-5c96-4789-9821-155c9592e5b3",
   "ranked": false,
-  "rating": 0.93965405,
-  "ratingCount": 1093,
+  "rating": 0.9388857,
+  "ratingCount": 1095,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

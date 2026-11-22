@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-09-21T02:06:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-19T03:58:02.210124Z",
   "charter": "Qx625 & 呼呼_w",
@@ -14,6 +14,7 @@
   "description": "谱师：QX625 呼呼w   这张感觉不难，打了两三遍就p了",
   "difficulty": 17.400002,
   "file": "https://phira.5wyxi.com/files/ee6a7c27-1a4c-4e8d-9eec-36136ded7660",
+  "hidden": false,
   "id": 36714,
   "illustration": "https://phira.5wyxi.com/files/7b4153a4-74de-4581-8f90-10ae1a512e0e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "LORELEI",
   "preview": "https://phira.5wyxi.com/files/5a2d6c20-9e4b-444c-b6c0-95509e0bf165",
   "ranked": false,
-  "rating": 0.90746754,
-  "ratingCount": 51,
+  "rating": 0.90742767,
+  "ratingCount": 53,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

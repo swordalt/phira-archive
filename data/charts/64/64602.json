@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:57Z",
-    "lastChanged": "2026-09-21T02:06:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-06T19:58:32.114114Z",
   "charter": "dupeiyang",
@@ -14,6 +14,7 @@
   "description": "b站@碑谷谷谷\n本人上传",
   "difficulty": 28.0,
   "file": "https://phira.5wyxi.com/files/d0a89dba-cb1b-4ad0-b527-c1ac970786d5",
+  "hidden": false,
   "id": 64602,
   "illustration": "https://phira.5wyxi.com/files/201ee471-01ec-4b06-9019-b9a84d6ca98d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "月葬",
   "preview": "https://phira.5wyxi.com/files/5e9c2352-b4e9-44b4-844c-f5a560e49192",
   "ranked": false,
-  "rating": 0.9374727,
-  "ratingCount": 190,
+  "rating": 0.93753225,
+  "ratingCount": 204,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

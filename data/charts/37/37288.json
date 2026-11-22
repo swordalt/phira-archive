@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:16Z",
-    "lastChanged": "2026-09-21T02:03:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-02T16:23:05.942472Z",
   "charter": "北方镜蓝",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，No_Rthblue是我的另一个名字（）\n实际难度是17，18是某个臀萌：啊太难了这得有18于是给我改了😡",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/1e353d4b-9682-46a5-9f86-be6367716b14",
+  "hidden": false,
   "id": 37288,
   "illustration": "https://phira.5wyxi.com/files/5cde46e3-c759-448b-b581-576f4cbe332d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Re_Nascence",
   "preview": "https://phira.5wyxi.com/files/c322a8b7-71f2-4d74-963b-b08435513416",
   "ranked": false,
-  "rating": 0.8771391,
-  "ratingCount": 58,
+  "rating": 0.87641466,
+  "ratingCount": 60,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

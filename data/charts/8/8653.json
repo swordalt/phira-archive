@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:29Z",
-    "lastChanged": "2026-09-21T02:01:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-29T01:34:19.367418Z",
   "charter": "PERFECT IDOL",
@@ -14,6 +14,7 @@
   "description": "本人b站账号 HTNMiku_Offical",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/8bb9c454-e03d-4cf1-be1b-cfbea7751453",
+  "hidden": false,
   "id": 8653,
   "illustration": "https://phira.5wyxi.com/files/4cb3ebe6-df6a-4af6-95eb-670788b925e3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "アイドル (feat. 初音ミク)",
   "preview": "https://phira.5wyxi.com/files/39ada0e4-bbb8-4639-aeb8-56c4ab02d6aa",
   "ranked": false,
-  "rating": 0.8704885,
-  "ratingCount": 2119,
+  "rating": 0.870507,
+  "ratingCount": 2144,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

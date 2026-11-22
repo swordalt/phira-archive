@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:14Z",
-    "lastChanged": "2026-09-21T02:01:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-06T16:14:41.403407Z",
   "charter": "爬爬",
@@ -14,6 +14,7 @@
   "description": "谱龄还不是很长，动效什么的也还不是很成熟qwq，大家愿意指点的可以尽情指点哦xwx\nb站@这里是爬爬\n（为什么审核过了没看到谱 重传一次吧）",
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/6a01ee7c-ba0d-4929-a547-ccf6ff1acae0",
+  "hidden": false,
   "id": 3074,
   "illustration": "https://phira.5wyxi.com/files/d4958e82-b6ae-46aa-b198-f35f7100c6ca",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ローリンガール（翻滚少女）",
   "preview": "https://phira.5wyxi.com/files/51a034a9-012d-40bc-8ae3-6b9379c8e941",
   "ranked": false,
-  "rating": 0.9309496,
-  "ratingCount": 2869,
+  "rating": 0.9307599,
+  "ratingCount": 2938,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

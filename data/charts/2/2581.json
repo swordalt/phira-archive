@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:18Z",
-    "lastChanged": "2026-09-21T02:05:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-26T22:23:00.021199Z",
   "charter": "xiao7sanlian",
@@ -14,6 +14,7 @@
   "description": "本人创作",
   "difficulty": 14.9,
   "file": "https://phira.5wyxi.com/files/ce152d77-66c1-4d50-95b1-62159fb80989",
+  "hidden": false,
   "id": 2581,
   "illustration": "https://phira.5wyxi.com/files/c145b925-0cc9-40b3-a5fd-71797ada41f7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "lose ctrl",
   "preview": "https://phira.5wyxi.com/files/0adaa718-657c-4d14-8147-a54103b6fa78",
   "ranked": false,
-  "rating": 0.9114692,
-  "ratingCount": 2563,
+  "rating": 0.91133314,
+  "ratingCount": 2569,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:40Z",
-    "lastChanged": "2026-09-21T02:01:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-11T16:12:06.800198Z",
   "charter": "小鱼仔娱乐",
@@ -14,6 +14,7 @@
   "description": "许多粉丝想重新玩到这张谱，所以他来啦！（本人上传）",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/9c721b33-d202-4203-bf35-cc7ac1b951a2",
+  "hidden": false,
   "id": 11387,
   "illustration": "https://phira.5wyxi.com/files/3d6bff47-401c-48b8-a752-62c6fb598eae",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "让风告诉你",
   "preview": "https://phira.5wyxi.com/files/94c82c4d-f775-4a68-84e5-21e66ac383ef",
   "ranked": false,
-  "rating": 0.94566166,
-  "ratingCount": 22678,
+  "rating": 0.94574845,
+  "ratingCount": 23115,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

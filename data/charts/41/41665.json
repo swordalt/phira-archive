@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:29Z",
-    "lastChanged": "2026-09-21T02:03:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-14T09:39:57.603759Z",
   "charter": "酷炫神海纪青龙",
@@ -14,6 +14,7 @@
   "description": "《All Falls Down》是Alan Walker主导的跨国合作电子音乐，后由我改为谱面，个人定数为14\n\n本谱于14日傍晚17.23分添加了部分特效，调整了部分键的位置，难度开始上调！\n感觉也没有15的底力，不过等我修改就会有了，就这样吧，祝各位玩得开心！",
   "difficulty": 15.000004,
   "file": "https://phira.5wyxi.com/files/5ebf8055-f064-45f8-b82a-8595e3c9e53e",
+  "hidden": false,
   "id": 41665,
   "illustration": "https://phira.5wyxi.com/files/b4e48cdd-52fe-46fa-b5e3-786264a9c0b1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "AII FaIIs Down",
   "preview": "https://phira.5wyxi.com/files/90ace8fb-c91e-4dc7-bd94-e9e0cd216c36",
   "ranked": false,
-  "rating": 0.8180348,
-  "ratingCount": 440,
+  "rating": 0.826268,
+  "ratingCount": 485,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

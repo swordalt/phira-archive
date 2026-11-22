@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:05Z",
-    "lastChanged": "2026-09-21T02:04:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-04T05:22:03.656216Z",
   "charter": "Iblcya",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/18b8805e-a3b5-4c51-9229-defe52947fa3",
+  "hidden": false,
   "id": 49790,
   "illustration": "https://phira.5wyxi.com/files/37e5fbe6-59ab-4063-a9aa-7149602ff3e5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fluctuate(2020 Remaster)",
   "preview": "https://phira.5wyxi.com/files/47e4ab54-1853-4d8a-8f35-c00e2cff9613",
   "ranked": false,
-  "rating": 0.87928337,
-  "ratingCount": 12,
+  "rating": 0.8975685,
+  "ratingCount": 15,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

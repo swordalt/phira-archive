@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:47Z",
-    "lastChanged": "2026-09-21T02:04:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-08T12:17:09.819365Z",
   "charter": "Hottest 19421",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，视频BV1q1Eu6MEdk",
   "difficulty": 19.9,
   "file": "https://phira.5wyxi.com/files/eeedbcb6-4314-49e8-a655-818cbab97acb",
+  "hidden": false,
   "id": 60413,
   "illustration": "https://phira.5wyxi.com/files/d446e44d-19f0-4c85-bb5b-96c9c3f1ede1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Hottest Take Machine",
   "preview": "https://phira.5wyxi.com/files/526eebcb-5bdf-44c7-acdb-1724acf31292",
   "ranked": false,
-  "rating": 0.9308514,
-  "ratingCount": 74,
+  "rating": 0.93323094,
+  "ratingCount": 81,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

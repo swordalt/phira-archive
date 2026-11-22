@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:03Z",
-    "lastChanged": "2026-09-21T02:01:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "楠瞳#66CCgyFF",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 13.700003,
   "file": "https://phira.5wyxi.com/files/367c2ec0-043f-4c20-8a8b-c2c7f721f753",
+  "hidden": false,
   "id": 30,
   "illustration": "https://phira.5wyxi.com/files/5a0797cf-63a2-4739-9b95-0d03ce5202f1",
   "illustrator": "UK",
@@ -21,8 +22,8 @@
   "name": "夏花",
   "preview": "https://phira.5wyxi.com/files/4623d568-047e-46c2-baf7-1a478db90e47",
   "ranked": false,
-  "rating": 0.93179524,
-  "ratingCount": 904,
+  "rating": 0.9314389,
+  "ratingCount": 942,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

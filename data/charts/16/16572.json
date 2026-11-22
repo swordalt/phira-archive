@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:01Z",
-    "lastChanged": "2026-09-21T02:02:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-01T10:57:57.810923Z",
   "charter": "水的痕迹",
@@ -14,6 +14,7 @@
   "description": "作曲萌新吖～",
   "difficulty": 14.5,
   "file": "https://phira.5wyxi.com/files/c92ac294-2ad5-4336-b54c-c97662f09d6d",
+  "hidden": false,
   "id": 16572,
   "illustration": "https://phira.5wyxi.com/files/ce1b115a-4873-464c-81f1-a6bdc771f1dd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "アゲイン",
   "preview": "https://phira.5wyxi.com/files/6dc3387f-1c16-49c1-9c97-6e378ba972cd",
   "ranked": false,
-  "rating": 0.9571451,
-  "ratingCount": 2626,
+  "rating": 0.9572657,
+  "ratingCount": 2669,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

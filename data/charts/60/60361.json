@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:47Z",
-    "lastChanged": "2026-09-21T02:04:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-08T05:03:23.565691Z",
   "charter": "微醺",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.2,
   "file": "https://phira.5wyxi.com/files/37b3e708-8544-46de-985b-a286a0d39f23",
+  "hidden": false,
   "id": 60361,
   "illustration": "https://phira.5wyxi.com/files/b3af65f0-8c7e-4e84-9c26-5bf88a38d2e2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "室内系的TrackMaker",
   "preview": "https://phira.5wyxi.com/files/3173c3c5-4977-47c6-9a1e-3dc095c97e97",
   "ranked": false,
-  "rating": 0.9088186,
-  "ratingCount": 56505,
+  "rating": 0.9091978,
+  "ratingCount": 58641,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

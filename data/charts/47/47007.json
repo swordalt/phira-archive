@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:36Z",
-    "lastChanged": "2026-09-21T02:06:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-20T16:42:18.774854Z",
   "charter": "せら…ゼノ雷ン…",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 13.599998,
   "file": "https://phira.5wyxi.com/files/302b9a83-37b1-4e40-9873-2864aa58b9cc",
+  "hidden": false,
   "id": 47007,
   "illustration": "https://phira.5wyxi.com/files/be9636eb-6097-4d64-9a57-49c331260902",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "stεganography",
   "preview": "https://phira.5wyxi.com/files/26410cec-3fa1-4dc9-924f-f4315c7496e4",
   "ranked": false,
-  "rating": 0.94096917,
-  "ratingCount": 50,
+  "rating": 0.939647,
+  "ratingCount": 54,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

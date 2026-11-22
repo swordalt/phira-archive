@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:51Z",
-    "lastChanged": "2026-10-11T11:04:55Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:58:22Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-06-23T00:34:09.538768Z",
   "charter": "Gypin极品",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/2ec7de23-b586-44a8-b7b0-f533ceaf35b8",
+  "hidden": false,
   "id": 62090,
   "illustration": "https://phira.5wyxi.com/files/33125840-e450-4ca7-8083-0d4d28e1aed1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Tau2.5.9（short ver.）",
   "preview": "https://phira.5wyxi.com/files/b1bef8c9-404d-4d30-95e3-0a5cc0390075",
   "ranked": false,
-  "rating": 0.8847153,
-  "ratingCount": 23,
+  "rating": 0.8868363,
+  "ratingCount": 25,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

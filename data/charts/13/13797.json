@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:49Z",
-    "lastChanged": "2026-09-21T02:01:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-19T16:09:26.521605Z",
   "charter": "SIGMA",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/f4c1d8b9-5a89-4842-9700-0131285ae9f1",
+  "hidden": false,
   "id": 13797,
   "illustration": "https://phira.5wyxi.com/files/f4400948-47bb-44cd-b381-7610f58bc0de",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lanterns",
   "preview": "https://phira.5wyxi.com/files/e0f4e2ac-e78d-4be1-a74a-4132d97a7d79",
   "ranked": false,
-  "rating": 0.9262163,
-  "ratingCount": 666,
+  "rating": 0.92758095,
+  "ratingCount": 692,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

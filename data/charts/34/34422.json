@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-23T13:10:57.917847Z",
   "charter": "xiaopanTT",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 18.1,
   "file": "https://phira.5wyxi.com/files/aa6c586d-073b-4df0-9b75-fa3ba60b5767",
+  "hidden": false,
   "id": 34422,
   "illustration": "https://phira.5wyxi.com/files/bf280d69-60e1-4c67-b8f3-3fa897b1af35",
   "illustrator": "",

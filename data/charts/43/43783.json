@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:37Z",
-    "lastChanged": "2026-09-21T02:03:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-08T01:56:09.473847Z",
   "charter": "White's Ise [Cursed]",
@@ -14,6 +14,7 @@
   "description": "B站@白Ice-AgNO3 本人上传，第一张IN（感谢游玩喵～ 2025/8/8更新：修复采音错误，调整部分排键和表演。非常抱歉清空了排行榜（）",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/033a5982-0a04-4a4d-8e8e-5d6732875a20",
+  "hidden": false,
   "id": 43783,
   "illustration": "https://phira.5wyxi.com/files/1397ddab-00c7-4230-acf6-98c7aec88b07",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Witch's Curse",
   "preview": "https://phira.5wyxi.com/files/096b627f-ed91-4945-90ed-3449a5d2090d",
   "ranked": false,
-  "rating": 0.9074498,
-  "ratingCount": 180,
+  "rating": 0.9071513,
+  "ratingCount": 186,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

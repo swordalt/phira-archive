@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:33Z",
-    "lastChanged": "2026-09-21T02:02:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-11T12:30:34.154168Z",
   "charter": "幕洛ED",
@@ -14,6 +14,7 @@
   "description": "新人第二次尝试写谱，b站名叫幕洛ED",
   "difficulty": 14.7,
   "file": "https://phira.5wyxi.com/files/f8729a7a-a95f-49b0-9cc4-2e813ad774a9",
+  "hidden": false,
   "id": 25999,
   "illustration": "https://phira.5wyxi.com/files/6dc80c87-5e71-42b6-94d0-7e5079771fe5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Regret",
   "preview": "https://phira.5wyxi.com/files/4c4f7785-7806-4ec5-b94c-1e53536213b0",
   "ranked": false,
-  "rating": 0.9266933,
-  "ratingCount": 69,
+  "rating": 0.927692,
+  "ratingCount": 70,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

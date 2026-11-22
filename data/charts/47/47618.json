@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:38Z",
-    "lastChanged": "2026-09-21T02:06:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-04T18:33:12.622256Z",
   "charter": "sapcrane",
@@ -14,6 +14,7 @@
   "description": "纯良儿童键盘？（也许）\n有一些在正面的正侧（（（大概dy打多了",
   "difficulty": 15.200002,
   "file": "https://phira.5wyxi.com/files/a1bebec0-5e2b-458e-9688-ce0b3c87d0da",
+  "hidden": false,
   "id": 47618,
   "illustration": "https://phira.5wyxi.com/files/8d585c05-fe31-4692-af8d-6ee4d5d5ee54",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "朧",
   "preview": "https://phira.5wyxi.com/files/f878ab71-473f-4a58-b5e3-345623633b77",
   "ranked": false,
-  "rating": 0.899567,
-  "ratingCount": 22,
+  "rating": 0.9032309,
+  "ratingCount": 23,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

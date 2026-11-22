@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:12Z",
-    "lastChanged": "2026-09-21T02:01:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-21T03:10:29.824832Z",
   "charter": "∞Kedmue∞",
@@ -14,6 +14,7 @@
   "description": "该谱面同时参与3rdPecJam委托二：漫长的告别\n\n谱面为本人上传",
   "difficulty": 14.200001,
   "file": "https://phira.5wyxi.com/files/fa351235-f995-4448-9954-0f375bce39a6",
+  "hidden": false,
   "id": 2365,
   "illustration": "https://phira.5wyxi.com/files/91d4e19c-9ac4-4500-9cfc-cf1b9d547942",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Samsara",
   "preview": "https://phira.5wyxi.com/files/c819c55e-1580-45c1-8edf-563208a9f87c",
   "ranked": false,
-  "rating": 0.9140362,
-  "ratingCount": 1053,
+  "rating": 0.9139478,
+  "ratingCount": 1084,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

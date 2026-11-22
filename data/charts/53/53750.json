@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:48Z",
-    "lastChanged": "2026-09-21T02:06:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-02T14:53:29.004387Z",
   "charter": "BYSMESYO",
@@ -14,6 +14,7 @@
   "description": "个人原创谱",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/ab79042f-d618-495c-b9fe-bdc3ff1fc58f",
+  "hidden": false,
   "id": 53750,
   "illustration": "https://phira.5wyxi.com/files/8be4ce68-b61c-4d4b-b69e-570f7edc9417",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "黄道、知希朋友と紡ぎありく",
   "preview": "https://phira.5wyxi.com/files/3e728a33-fc6b-4a56-853c-65e0286bc3bf",
   "ranked": false,
-  "rating": 0.69472605,
-  "ratingCount": 8,
+  "rating": 0.66981035,
+  "ratingCount": 9,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:45Z",
-    "lastChanged": "2026-09-21T02:02:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-30T16:11:01.149794Z",
   "charter": "Lnfine_C",
@@ -14,6 +14,7 @@
   "description": "谱面预览 BV1rN1YY2ECG",
   "difficulty": 14.899999,
   "file": "https://phira.5wyxi.com/files/2ecdb870-43e3-4157-aaed-20db5bec45f7",
+  "hidden": false,
   "id": 29141,
   "illustration": "https://phira.5wyxi.com/files/3fa0f90e-635a-4215-8e3f-dcd49f5495bb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Can you hear me?",
   "preview": "https://phira.5wyxi.com/files/9e3f8fe4-54e1-4845-9e70-a2115c775827",
   "ranked": false,
-  "rating": 0.9062799,
-  "ratingCount": 396,
+  "rating": 0.9078045,
+  "ratingCount": 403,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

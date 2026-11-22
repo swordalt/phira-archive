@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:36Z",
-    "lastChanged": "2026-09-21T02:05:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-07T10:23:05.325329Z",
   "charter": "未来lk",
@@ -14,6 +14,7 @@
   "description": "ここだ！\n発動！ハードストリームの魔法！\n早期作 大概是rf9+难度 感谢Lucky Clove测试以及PORTTAYER的指导\nb站同名\n\nosu setID1904730",
   "difficulty": 9.499998,
   "file": "https://phira.5wyxi.com/files/d5992fa5-422a-40fe-a838-07bcd7aa5fa7",
+  "hidden": false,
   "id": 4851,
   "illustration": "https://phira.5wyxi.com/files/e3e266c8-eb0a-4cdd-bd26-0a0cf6f7a0fe",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Unleashed World",
   "preview": "https://phira.5wyxi.com/files/27b3019e-1415-4a8e-8b0c-9bfb0b34ec4d",
   "ranked": false,
-  "rating": 0.9026144,
-  "ratingCount": 215,
+  "rating": 0.9035132,
+  "ratingCount": 217,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:44Z",
-    "lastChanged": "2026-09-21T02:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-12T19:06:22.644828Z",
   "charter": "Knight is A Fox",
@@ -14,6 +14,7 @@
   "description": "谱师KAF本人上传\n*由于KAF玩不到三角符文第三章所以写了张谱（\n*B站视频链接：BV14y21YYEdR",
   "difficulty": 14.600002,
   "file": "https://phira.5wyxi.com/files/91bdf445-059e-4fcb-8f95-a324d812270d",
+  "hidden": false,
   "id": 28651,
   "illustration": "https://phira.5wyxi.com/files/3c52c7ae-930b-48f4-b8cf-84c428f48d1c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "A CYBER'S WORLD?",
   "preview": "https://phira.5wyxi.com/files/58f664a7-2d3f-46de-888e-1df72ce6b320",
   "ranked": false,
-  "rating": 0.9349597,
-  "ratingCount": 763,
+  "rating": 0.9367611,
+  "ratingCount": 804,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

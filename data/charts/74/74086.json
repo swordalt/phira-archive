@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:09Z",
-    "lastChanged": "2026-09-21T02:05:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-18T06:09:21.078054Z",
   "charter": "FY_亚当",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\r\n\r\n第一次速写，大概花了三个小时，质量可能有所欠缺",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/f0bf4507-3256-4256-b976-07fe202e1c79",
+  "hidden": false,
   "id": 74086,
   "illustration": "https://phira.5wyxi.com/files/f8075454-7502-4160-b13a-4db513967142",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ヤラララ",
   "preview": "https://phira.5wyxi.com/files/52070336-de3b-4649-99d6-e2db4988fac2",
   "ranked": false,
-  "rating": 0.9177155,
-  "ratingCount": 11769,
+  "rating": 0.9193082,
+  "ratingCount": 14325,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

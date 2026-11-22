@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:38Z",
-    "lastChanged": "2026-09-21T02:03:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-12T08:23:37.215362Z",
   "charter": "UUISS_",
@@ -14,6 +14,7 @@
   "description": "B站账号与谱师同名，关注喵，谢谢喵",
   "difficulty": 13.900001,
   "file": "https://phira.5wyxi.com/files/52e082e7-2ce4-49d2-bbf7-ea8890c5d357",
+  "hidden": false,
   "id": 44187,
   "illustration": "https://phira.5wyxi.com/files/1f4e4301-5f8f-42d9-9eae-b6ee0f4cad28",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "イイナ祭 ",
   "preview": "https://phira.5wyxi.com/files/e94ecfd9-8248-44c2-8691-70fed5d7229b",
   "ranked": false,
-  "rating": 0.9141928,
-  "ratingCount": 462,
+  "rating": 0.9134662,
+  "ratingCount": 469,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

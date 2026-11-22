@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:27Z",
-    "lastChanged": "2026-09-21T02:06:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-01T01:09:37.050553Z",
   "charter": "忆",
@@ -14,6 +14,7 @@
   "description": "刚接触作谱，做的可能不是特别好",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/221d0477-f91b-45ba-a8cf-a82d3f54fe16",
+  "hidden": false,
   "id": 43323,
   "illustration": "https://phira.5wyxi.com/files/fd66467e-8f56-4f27-97dd-4ceab4e8b532",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Caker",
   "preview": "https://phira.5wyxi.com/files/2c29e9f7-1856-4c79-ae4b-c6044a2b54a8",
   "ranked": false,
-  "rating": 0.85873795,
-  "ratingCount": 8,
+  "rating": 0.86872774,
+  "ratingCount": 9,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

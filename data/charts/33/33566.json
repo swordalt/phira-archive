@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-08T08:45:11.910649Z",
   "charter": "HBG_MMP/爆炸狗",
@@ -14,6 +14,7 @@
   "description": "个人4k转谱，ex2 大乱，我很生气。",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/d1329c79-d95b-488a-9606-9f15dde68def",
+  "hidden": false,
   "id": 33566,
   "illustration": "https://phira.5wyxi.com/files/124907f3-a89f-40a7-b98a-bf286590250c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "生命性シンドロウム",
   "preview": "https://phira.5wyxi.com/files/5c303ee3-25de-4541-82af-da40721ef406",
   "ranked": false,
-  "rating": 0.92165613,
-  "ratingCount": 217,
+  "rating": 0.92375785,
+  "ratingCount": 222,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:07Z",
-    "lastChanged": "2026-09-21T02:02:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-06T08:59:02.394802Z",
   "charter": "OWCat[上手]",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/7c873673-7e45-4014-9bcf-4e788b025416",
+  "hidden": false,
   "id": 18145,
   "illustration": "https://phira.5wyxi.com/files/16c2dbb1-e633-4856-b763-99d1318cdffc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "僕の和风本当上手",
   "preview": "https://phira.5wyxi.com/files/0a223a61-e19c-47af-8528-5e1646313426",
   "ranked": false,
-  "rating": 0.93387914,
-  "ratingCount": 605,
+  "rating": 0.933526,
+  "ratingCount": 614,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

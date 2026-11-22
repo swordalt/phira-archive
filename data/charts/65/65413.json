@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:56Z",
-    "lastChanged": "2026-09-21T02:04:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-10T05:59:14.726833Z",
   "charter": "ZBObby",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.4,
   "file": "https://phira.5wyxi.com/files/13dd63c1-3dbf-4131-8c45-3c55e1d5b0a6",
+  "hidden": false,
   "id": 65413,
   "illustration": "https://phira.5wyxi.com/files/29b78764-a73b-4205-b160-91044cdd02c1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "PUPA",
   "preview": "https://phira.5wyxi.com/files/67e8d9f8-9400-4431-a54c-921d628d604d",
   "ranked": false,
-  "rating": 0.88374585,
-  "ratingCount": 300,
+  "rating": 0.8846026,
+  "ratingCount": 316,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

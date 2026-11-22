@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:34Z",
-    "lastChanged": "2026-09-21T02:03:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-30T06:04:07.360371Z",
   "charter": "一石不好吃",
@@ -14,6 +14,7 @@
   "description": "新人写的第一张谱，技术力不够，表演可能有点僵硬\n本人上传，B站@了不是乐 有谱面预览",
   "difficulty": 5.0,
   "file": "https://phira.5wyxi.com/files/4dd8d153-9675-42bb-a06c-a3879243180c",
+  "hidden": false,
   "id": 43135,
   "illustration": "https://phira.5wyxi.com/files/28e72f2a-c0ad-44d0-8b12-82def4b36081",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "国立",
   "preview": "https://phira.5wyxi.com/files/f4146f1c-0005-4e2f-bb75-c0dc5a7862f3",
   "ranked": false,
-  "rating": 0.8834407,
-  "ratingCount": 123,
+  "rating": 0.88933295,
+  "ratingCount": 128,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

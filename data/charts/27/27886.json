@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:41Z",
-    "lastChanged": "2026-09-21T02:02:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-20T15:41:05.341382Z",
   "charter": "OCL",
@@ -14,6 +14,7 @@
   "description": "火山旅梦pv曲",
   "difficulty": 13.399998,
   "file": "https://phira.5wyxi.com/files/89205e44-d333-465b-a441-608f700d74aa",
+  "hidden": false,
   "id": 27886,
   "illustration": "https://phira.5wyxi.com/files/cf357821-775a-402f-b62f-28c5cacc1384",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "So-Long-for-Another-Summer-",
   "preview": "https://phira.5wyxi.com/files/2530685c-d812-4268-9c2d-0ddc84acb30f",
   "ranked": false,
-  "rating": 0.9152372,
-  "ratingCount": 292,
+  "rating": 0.9159489,
+  "ratingCount": 298,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

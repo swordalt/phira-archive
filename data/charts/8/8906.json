@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-01T07:27:57.264986Z",
   "charter": "GravyTraps",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/c1da6a91-934c-4cb4-8ffd-ebaf7a24b719",
+  "hidden": false,
   "id": 8906,
   "illustration": "https://phira.5wyxi.com/files/80a0b143-d287-4ab3-ade1-76f65153b291",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GOODLUCK",
   "preview": "https://phira.5wyxi.com/files/c37135d0-0ab2-4c27-9634-1f4939406c73",
   "ranked": false,
-  "rating": 0.74682623,
-  "ratingCount": 938,
+  "rating": 0.7448097,
+  "ratingCount": 956,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

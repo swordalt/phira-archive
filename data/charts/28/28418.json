@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:01Z",
-    "lastChanged": "2026-09-21T02:06:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-06T14:42:52.800576Z",
   "charter": "Quillius",
@@ -14,6 +14,7 @@
   "description": "BPM:179.3\n谱师本人 b站:@Quillius",
   "difficulty": 11.000004,
   "file": "https://phira.5wyxi.com/files/d1d397c9-4238-43f9-bf29-7408e22243bb",
+  "hidden": false,
   "id": 28418,
   "illustration": "https://phira.5wyxi.com/files/7d82857f-fd88-4b30-ae0b-97f858369a4b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Take Me Hand(1.4×)",
   "preview": "https://phira.5wyxi.com/files/a63edbf5-e16c-4ea7-95bc-31c91628f554",
   "ranked": false,
-  "rating": 0.9093987,
-  "ratingCount": 187,
+  "rating": 0.91066283,
+  "ratingCount": 199,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

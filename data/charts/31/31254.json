@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:53Z",
-    "lastChanged": "2026-09-21T02:02:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-31T11:28:05.732367Z",
   "charter": "RAMU.",
@@ -14,6 +14,7 @@
   "description": "完全栄養食（かんぜんえいようしょく・英語: complete nutritional food）とは、中華麺とスープを主とし、様々な具としてチャーシュー・メンマ・味付け玉子・刻み葱・海苔などを組み合わせた、人間が健康を維持するために必要な栄養素を全て含んだ食品である。",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/6f4dae52-6b0f-4d1a-811f-3d55896490f2",
+  "hidden": false,
   "id": 31254,
   "illustration": "https://phira.5wyxi.com/files/f67a0ece-76a2-46fb-bded-97335e9f15c7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Moonflutter",
   "preview": "https://phira.5wyxi.com/files/107c24b1-b735-46f3-abd5-2d871da98606",
   "ranked": false,
-  "rating": 0.9265482,
-  "ratingCount": 398,
+  "rating": 0.927171,
+  "ratingCount": 399,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

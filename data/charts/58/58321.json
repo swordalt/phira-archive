@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:42Z",
-    "lastChanged": "2026-09-21T02:04:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-14T11:33:33.731007Z",
   "charter": "Blicko",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.5,
   "file": "https://phira.5wyxi.com/files/e1f92687-24a0-4e51-add8-2a9175b35764",
+  "hidden": false,
   "id": 58321,
   "illustration": "https://phira.5wyxi.com/files/0e2b76ac-18de-4dfe-b36b-712525138a14",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Swedish Fish",
   "preview": "https://phira.5wyxi.com/files/29c4f681-db2b-402f-81f4-653139bbf0c6",
   "ranked": false,
-  "rating": 0.79602724,
-  "ratingCount": 10,
+  "rating": 0.8088467,
+  "ratingCount": 11,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:25Z",
-    "lastChanged": "2026-09-21T02:03:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-28T14:31:39.515666Z",
   "charter": "lunaticnight",
@@ -14,6 +14,7 @@
   "description": "aaaa",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/8a88d4bf-1bae-4080-8c0c-b2fafa2962cb",
+  "hidden": false,
   "id": 40442,
   "illustration": "https://phira.5wyxi.com/files/1bd4bbef-06df-4d85-946c-48cead0e3eb2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "少女绮想曲~dream battle",
   "preview": "https://phira.5wyxi.com/files/f8000db1-579c-463b-a182-06fa0d34ca56",
   "ranked": false,
-  "rating": 0.86110884,
-  "ratingCount": 186,
+  "rating": 0.86333334,
+  "ratingCount": 202,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

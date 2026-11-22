@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:00Z",
-    "lastChanged": "2026-09-21T02:02:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-25T11:05:16.663175Z",
   "charter": "CD",
@@ -14,6 +14,7 @@
   "description": "本人第二个自制谱，因为明天再也没时间写表演了，然后就是谁能教我写事件....我q放这了：2418155498",
   "difficulty": 13.1,
   "file": "https://phira.5wyxi.com/files/76f38236-02ae-4e42-8257-fcd04d808cfa",
+  "hidden": false,
   "id": 16488,
   "illustration": "https://phira.5wyxi.com/files/dae03a2a-3ca6-4485-99de-8bc9a571c7f6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "せかいのすべて",
   "preview": "https://phira.5wyxi.com/files/6dd69a2c-905f-4bd9-befc-e81f60203868",
   "ranked": false,
-  "rating": 0.9382004,
-  "ratingCount": 469,
+  "rating": 0.9387271,
+  "ratingCount": 481,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

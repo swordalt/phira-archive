@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:08Z",
-    "lastChanged": "2026-09-21T02:05:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-12T11:30:54.397230Z",
   "charter": "Ssoda†lite",
@@ -14,6 +14,7 @@
   "description": "first upload, hopefully playable\ndiscord - @ssodalite",
   "difficulty": 17.4,
   "file": "https://phira.5wyxi.com/files/2e656ca2-c099-49bd-90ed-3c8356ce9e92",
+  "hidden": false,
   "id": 72951,
   "illustration": "https://phira.5wyxi.com/files/b5291bd9-fb76-45a9-b588-daede29b3ced",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "CROSS†SOUL",
   "preview": "https://phira.5wyxi.com/files/9a5828fd-012e-4ffb-8294-da9feffb9703",
   "ranked": false,
-  "rating": 0.6720984,
-  "ratingCount": 18,
+  "rating": 0.7257954,
+  "ratingCount": 33,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

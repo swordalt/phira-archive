@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:18Z",
-    "lastChanged": "2026-09-21T02:02:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-22T14:26:00.352957Z",
   "charter": "WIZJNE",
@@ -14,6 +14,7 @@
   "description": "重制版，尾杀部分优化，B站@鲲儞太美",
   "difficulty": 15.8,
   "file": "https://phira.5wyxi.com/files/e030c89a-031f-4144-909d-e14062345ff7",
+  "hidden": false,
   "id": 21705,
   "illustration": "https://phira.5wyxi.com/files/bba0575d-1e19-4158-913a-46debc212c5e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Payphone(Explicit)",
   "preview": "https://phira.5wyxi.com/files/e24f1466-2bff-41fd-9da5-2b71c179a97d",
   "ranked": false,
-  "rating": 0.8934444,
-  "ratingCount": 474,
+  "rating": 0.8931599,
+  "ratingCount": 483,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

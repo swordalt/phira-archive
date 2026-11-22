@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:17Z",
-    "lastChanged": "2026-09-21T02:04:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-31T06:24:58.729841Z",
   "charter": "World's end BLACKGLOBE",
@@ -14,6 +14,7 @@
   "description": "本人（B站@我就一be璃球）上传谱面，由B站@p_R制谱组代传谱面演示",
   "difficulty": 17.5,
   "file": "https://phira.5wyxi.com/files/c3da0351-6421-4f8b-ac19-4a3e5819f6e5",
+  "hidden": false,
   "id": 51859,
   "illustration": "https://phira.5wyxi.com/files/cd3f1723-4b59-41d1-aa58-477076a1d596",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "World's end BLACKBOX",
   "preview": "https://phira.5wyxi.com/files/c352d1e4-d84a-4070-8247-c491987c3c35",
   "ranked": false,
-  "rating": 0.6709353,
-  "ratingCount": 52,
+  "rating": 0.6714157,
+  "ratingCount": 55,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

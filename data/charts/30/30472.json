@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:50Z",
-    "lastChanged": "2026-09-21T02:02:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-07T03:20:40.509923Z",
   "charter": "干饭人/北极星的祝福",
@@ -14,6 +14,7 @@
   "description": "上传自己之前的谱面，过不了审就算了吧\n作者b站id：UID:522988892",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/29217357-d684-44a9-a2f0-dfb1c3761a36",
+  "hidden": false,
   "id": 30472,
   "illustration": "https://phira.5wyxi.com/files/69894530-0912-45dc-a837-5110b6630f5e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "インドア系ならトラックメイカー",
   "preview": "https://phira.5wyxi.com/files/4073dd1a-8858-469a-8549-c810f5b83710",
   "ranked": false,
-  "rating": 0.92810833,
-  "ratingCount": 2281,
+  "rating": 0.92862743,
+  "ratingCount": 2326,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:15Z",
-    "lastChanged": "2026-09-21T02:01:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-17T11:14:11.965283Z",
   "charter": "没名字的mc猫",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 13.5999975,
   "file": "https://phira.5wyxi.com/files/1e203252-5900-4a25-a30c-e3d475a0a217",
+  "hidden": false,
   "id": 3613,
   "illustration": "https://phira.5wyxi.com/files/6d685dc4-679c-466b-9b7a-9da63f22289f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "にゃーお！",
   "preview": "https://phira.5wyxi.com/files/67510392-fd99-46fb-92d6-b123f577c433",
   "ranked": false,
-  "rating": 0.91996735,
-  "ratingCount": 168,
+  "rating": 0.9202498,
+  "ratingCount": 170,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

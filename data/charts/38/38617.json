@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:15Z",
-    "lastChanged": "2026-09-21T02:06:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-24T15:28:25.161680Z",
   "charter": "erltx",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/9599f49f-f56c-496b-9931-299153312e0d",
+  "hidden": false,
   "id": 38617,
   "illustration": "https://phira.5wyxi.com/files/822e05ae-c03d-49a8-a179-e493b673f93a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Schadenfreude",
   "preview": "https://phira.5wyxi.com/files/03982898-af14-4536-a566-d670e5c89a88",
   "ranked": false,
-  "rating": 0.63832855,
-  "ratingCount": 13,
+  "rating": 0.6011064,
+  "ratingCount": 15,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

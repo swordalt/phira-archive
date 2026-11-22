@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:23Z",
-    "lastChanged": "2026-09-21T02:05:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-19T16:38:06.865242Z",
   "charter": "ZhangHB_321688",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.6,
   "file": "https://phira.5wyxi.com/files/e03ca6a4-0e60-4452-a711-7d158734d69d",
+  "hidden": false,
   "id": 18659,
   "illustration": "https://phira.5wyxi.com/files/eb451fcd-b7de-4722-8d0f-917e4f303049",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "😂私 人 电 音😂",
   "preview": "https://phira.5wyxi.com/files/3ff3209a-f0fb-47b3-a36f-f5c83dbffbad",
   "ranked": false,
-  "rating": 0.8411284,
-  "ratingCount": 2199,
+  "rating": 0.84116316,
+  "ratingCount": 2211,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

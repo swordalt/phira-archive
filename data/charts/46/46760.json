@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:35Z",
-    "lastChanged": "2026-09-21T02:06:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-13T15:40:54.586457Z",
   "charter": "Andreu",
@@ -14,6 +14,7 @@
   "description": "尾杀预警",
   "difficulty": 18.800003,
   "file": "https://phira.5wyxi.com/files/b57c2802-1800-4e4a-bd33-21f50d230554",
+  "hidden": false,
   "id": 46760,
   "illustration": "https://phira.5wyxi.com/files/fae3e9ad-4e1c-459d-9f86-3369fc2cd182",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "臨終",
   "preview": "https://phira.5wyxi.com/files/48208b61-5ea1-4569-bf22-1c01505b30fd",
   "ranked": false,
-  "rating": 0.7631769,
-  "ratingCount": 9,
+  "rating": 0.79297143,
+  "ratingCount": 11,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

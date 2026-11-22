@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:37Z",
-    "lastChanged": "2026-09-21T02:05:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-29T02:42:56.726064Z",
   "charter": "kokomia",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.999992,
   "file": "https://phira.5wyxi.com/files/afbaa77b-7af7-4e02-8ee3-8c264f30a341",
+  "hidden": false,
   "id": 9757,
   "illustration": "https://phira.5wyxi.com/files/9156893a-a799-46ac-8824-1455bcaac7fd",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "Moon!! (kz remix)",
   "preview": "https://phira.5wyxi.com/files/397ed2f4-c8ed-458f-b6f0-d210be269e5c",
   "ranked": false,
-  "rating": 0.87979263,
+  "rating": 0.8802613,
   "ratingCount": 267,
   "reviewed": true,
   "stable": false,

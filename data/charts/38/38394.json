@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:18Z",
-    "lastChanged": "2026-09-21T02:03:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-20T06:29:28.756792Z",
   "charter": "凌猫猫啊! φ(゜▽゜*)♪",
@@ -14,6 +14,7 @@
   "description": "想证明一下自己会写谱（本人上传,先上传谱子再发视频）",
   "difficulty": 15.2,
   "file": "https://phira.5wyxi.com/files/1a358fa4-d270-4868-8464-2256ad8f2d35",
+  "hidden": false,
   "id": 38394,
   "illustration": "https://phira.5wyxi.com/files/d540dfb4-50ef-4434-815f-2deeb67f8d73",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MOTTAI",
   "preview": "https://phira.5wyxi.com/files/0906dc8d-1acd-4c7b-b8e7-e19ea7a5010c",
   "ranked": false,
-  "rating": 0.94997543,
-  "ratingCount": 1204,
+  "rating": 0.94945407,
+  "ratingCount": 1228,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

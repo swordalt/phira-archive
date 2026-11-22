@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:00Z",
-    "lastChanged": "2026-09-21T02:04:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-31T06:33:26.403459Z",
   "charter": "name_小制",
@@ -14,6 +14,7 @@
   "description": "谱面由本人上传\nb站关注一下  name_小制  喵~",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/4dc38b7c-ade6-4ab6-bb19-224493ff8a8c",
+  "hidden": false,
   "id": 48576,
   "illustration": "https://phira.5wyxi.com/files/019c2d38-a64e-49d9-967b-3beb2ddbded5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "RXT 20000",
   "preview": "https://phira.5wyxi.com/files/b4728181-7cc9-43b8-9fe0-f598c55403ea",
   "ranked": false,
-  "rating": 0.846786,
-  "ratingCount": 52,
+  "rating": 0.84533256,
+  "ratingCount": 58,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

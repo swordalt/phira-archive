@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:50Z",
-    "lastChanged": "2026-09-21T02:02:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-08T14:32:20.713299Z",
   "charter": "陈落影 & Glod_Flower",
@@ -14,6 +14,7 @@
   "description": "谱面为谱师本人上传，已经过所有谱师同意上传（B站：Glod_bili、陈落影） BV13a7szJEWE             2025.11.26修改曲绘",
   "difficulty": 14.400002,
   "file": "https://phira.5wyxi.com/files/5ce1fb10-3df2-4dac-8c6b-0792033377a3",
+  "hidden": false,
   "id": 30583,
   "illustration": "https://phira.5wyxi.com/files/91234964-e720-43b4-bae9-d69d17e3b17d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "不重逢",
   "preview": "https://phira.5wyxi.com/files/8c2e03ab-7898-4ffb-8b6a-7a7fe10dcd37",
   "ranked": false,
-  "rating": 0.9506801,
-  "ratingCount": 1378,
+  "rating": 0.9504252,
+  "ratingCount": 1483,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

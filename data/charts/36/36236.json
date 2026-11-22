@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:10Z",
-    "lastChanged": "2026-09-21T02:03:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-05T15:09:10.214531Z",
   "charter": "X.C.",
@@ -14,6 +14,7 @@
   "description": "本人上传\n14岁生贺谱，本人生日：4.10\n谱面里有很多还原Milthm的配置哦",
   "difficulty": 14.300001,
   "file": "https://phira.5wyxi.com/files/6684e30a-c547-4e75-8b60-ae5b8a2d80cc",
+  "hidden": false,
   "id": 36236,
   "illustration": "https://phira.5wyxi.com/files/95fdd062-f4fc-4a61-a500-eee313c4f9a9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "花月",
   "preview": "https://phira.5wyxi.com/files/8be1d54e-cbf2-4620-8034-5b779a331db8",
   "ranked": false,
-  "rating": 0.93726265,
-  "ratingCount": 498,
+  "rating": 0.9373214,
+  "ratingCount": 513,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

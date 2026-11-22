@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:07Z",
-    "lastChanged": "2026-09-21T02:06:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-27T16:46:08.997022Z",
   "charter": "∀",
@@ -14,6 +14,7 @@
   "description": "FL DAN供稿",
   "difficulty": 4.0,
   "file": "https://phira.5wyxi.com/files/99ea3661-86ed-475d-8041-fa42d4473124",
+  "hidden": false,
   "id": 32648,
   "illustration": "https://phira.5wyxi.com/files/b69f83bd-c114-45cf-8b66-1efff2f7b4fa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "BaBy",
   "preview": "https://phira.5wyxi.com/files/5fbda1bb-4eec-45ee-ba2a-9e1fdcdd5a9d",
   "ranked": false,
-  "rating": 0.9226002,
-  "ratingCount": 45,
+  "rating": 0.9256428,
+  "ratingCount": 47,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

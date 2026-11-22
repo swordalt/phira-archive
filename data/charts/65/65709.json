@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:57Z",
-    "lastChanged": "2026-10-04T10:50:53Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:58:37Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-09-27T07:17:03.171415Z",
   "charter": "Miny7",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/c67976d5-6848-4ea4-8ade-b135a77e444a",
+  "hidden": false,
   "id": 65709,
   "illustration": "https://phira.5wyxi.com/files/356f13a5-5636-4ca5-a4ad-62534425fc19",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Regnaissance",
   "preview": "https://phira.5wyxi.com/files/775bfb85-3e84-42e6-ba81-6ac549ad5c0b",
   "ranked": false,
-  "rating": 0.7813784,
-  "ratingCount": 34,
+  "rating": 0.79295766,
+  "ratingCount": 90,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

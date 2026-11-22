@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:05Z",
-    "lastChanged": "2026-09-21T02:03:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-23T10:16:02.214359Z",
   "charter": "金枪鱼",
@@ -14,6 +14,7 @@
   "description": "很久以前写的，答应别人要发布的，而且我能AP，所以润色一下就发布了。\n质量一般，没有很多特效，而且有歌曲限制。最初想写整活谱，但是我整不出来，所以当成常规谱写了，轻喷，感谢游玩。",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/c308eb89-7fff-45aa-a91a-0aca271b89ba",
+  "hidden": false,
   "id": 34399,
   "illustration": "https://phira.5wyxi.com/files/6e76e5a5-50cc-4549-b9b5-a769aafee97d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "我会自己上厕所",
   "preview": "https://phira.5wyxi.com/files/8c4571c9-6f31-4d3f-b2f5-03e93e511483",
   "ranked": false,
-  "rating": 0.8204814,
-  "ratingCount": 2010,
+  "rating": 0.82071525,
+  "ratingCount": 2100,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

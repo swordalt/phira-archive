@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-02T09:39:20Z",
-    "lastChanged": "2026-10-02T09:39:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-28T04:59:32.146860Z",
   "charter": "QLemon",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.7,
   "file": "https://phira.5wyxi.com/files/e6e75b6d-2269-416f-9028-844a935f1913",
+  "hidden": false,
   "id": 79335,
   "illustration": "https://phira.5wyxi.com/files/934876fc-3ed4-4e18-ba6d-5420ff72b754",
   "illustrator": "山山奇",
@@ -21,8 +22,8 @@
   "name": "Absolution Pulse",
   "preview": "https://phira.5wyxi.com/files/b6548b93-9aec-4c16-a0ce-3f3b5a0cb809",
   "ranked": false,
-  "rating": 0.9073303,
-  "ratingCount": 20,
+  "rating": 0.89277977,
+  "ratingCount": 266,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:45Z",
-    "lastChanged": "2026-09-21T02:06:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-01T10:58:18.793837Z",
   "charter": "Hvquer",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/768e8d64-1e6c-4fc0-bf4b-9e11009b4d8c",
+  "hidden": false,
   "id": 51933,
   "illustration": "https://phira.5wyxi.com/files/a7fe8f85-d5a7-4a41-9656-c33f3870e6c1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "えいえんの ゆめを ください",
   "preview": "https://phira.5wyxi.com/files/7608ff3a-2bed-4a54-8f39-8129e2b3f550",
   "ranked": false,
-  "rating": 0.9190908,
-  "ratingCount": 19,
+  "rating": 0.9151875,
+  "ratingCount": 20,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

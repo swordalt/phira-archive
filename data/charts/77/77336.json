@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:14Z",
-    "lastChanged": "2026-09-21T02:05:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-06T10:15:47.308088Z",
   "charter": "Albercht.",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/d86b8339-90fa-4819-9b2e-8b1d797ab72d",
+  "hidden": false,
   "id": 77336,
   "illustration": "https://phira.5wyxi.com/files/9855fc36-8fb5-459e-a0cb-887a0a6def21",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Giselle",
   "preview": "https://phira.5wyxi.com/files/859959df-319d-464a-b839-b774944574d8",
   "ranked": false,
-  "rating": 0.9040314,
-  "ratingCount": 49,
+  "rating": 0.91343963,
+  "ratingCount": 76,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

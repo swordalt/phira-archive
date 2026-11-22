@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:29Z",
-    "lastChanged": "2026-09-21T02:03:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-17T15:43:47.295096Z",
   "charter": "Mustard",
@@ -14,6 +14,7 @@
   "description": "喜欢谱面的可以到b站关注 俺是芥末 哦~",
   "difficulty": 14.800003,
   "file": "https://phira.5wyxi.com/files/06355840-a525-4d6e-a45c-19e94c09187e",
+  "hidden": false,
   "id": 41972,
   "illustration": "https://phira.5wyxi.com/files/c74b804e-efbb-44c0-883f-b350105d01c5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "After School Dessert",
   "preview": "https://phira.5wyxi.com/files/30b1b2b6-807f-4c2d-849a-545f5c3b3911",
   "ranked": false,
-  "rating": 0.94188756,
-  "ratingCount": 528,
+  "rating": 0.93913275,
+  "ratingCount": 539,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

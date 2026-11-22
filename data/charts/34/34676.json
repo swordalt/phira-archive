@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:06Z",
-    "lastChanged": "2026-09-21T02:03:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-01T13:45:16.228967Z",
   "charter": "twotthreesテト ＆ sejミク",
@@ -14,6 +14,7 @@
   "description": "来都来了，坐会吧",
   "difficulty": 15.199998,
   "file": "https://phira.5wyxi.com/files/d11d45ec-2331-42d7-94d5-f73ece45dd37",
+  "hidden": false,
   "id": 34676,
   "illustration": "https://phira.5wyxi.com/files/35172d7b-0407-4523-846a-e2c16f3855b0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "前ノハナシー",
   "preview": "https://phira.5wyxi.com/files/7ba97903-a419-43a4-88cc-da31a3cd4aa4",
   "ranked": false,
-  "rating": 0.9233981,
-  "ratingCount": 1127,
+  "rating": 0.9236671,
+  "ratingCount": 1147,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

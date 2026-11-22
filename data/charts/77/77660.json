@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:07:04Z",
-    "lastChanged": "2026-09-21T02:07:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-10T14:48:42.381579Z",
   "charter": "YMEA vs. 21394",
@@ -14,6 +14,7 @@
   "description": "和@21394#158949 的合作谱\n一人写的一半，修改了一些段落，后面忘了\nDY YMEA\nB站 洋漫YMEA",
   "difficulty": 23.0,
   "file": "https://phira.5wyxi.com/files/bdb38b5b-7622-4276-9b75-5c85a2c62ea2",
+  "hidden": false,
   "id": 77660,
   "illustration": "https://phira.5wyxi.com/files/5d874825-816e-45dc-807d-aa5dd02c474f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "孤独月",
   "preview": "https://phira.5wyxi.com/files/9c4516f0-4aa8-486a-85ec-746624b51ce1",
   "ranked": false,
-  "rating": 0.94601923,
-  "ratingCount": 398,
+  "rating": 0.94466156,
+  "ratingCount": 645,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

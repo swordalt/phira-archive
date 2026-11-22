@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:14Z",
-    "lastChanged": "2026-09-21T02:02:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-26T01:55:38.719940Z",
   "charter": "日光SunRay",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n超爱妄想症（*/∇＼*）有时间可能会把其他几重也写了",
   "difficulty": 15.099998,
   "file": "https://phira.5wyxi.com/files/863d64fd-18b5-4401-8428-81e64a5174d5",
+  "hidden": false,
   "id": 20385,
   "illustration": "https://phira.5wyxi.com/files/65173777-c14e-4b7b-8840-7bd5ba9c236c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "七重痼病",
   "preview": "https://phira.5wyxi.com/files/a3b8678e-fa5e-4542-b2ee-d44febf9ca92",
   "ranked": false,
-  "rating": 0.94284445,
-  "ratingCount": 909,
+  "rating": 0.94394106,
+  "ratingCount": 930,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

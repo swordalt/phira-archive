@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:11Z",
-    "lastChanged": "2026-09-21T02:04:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-08T04:45:30.256954Z",
   "charter": "AWWA_0",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，新人第二张谱，写谱经验不多所以借鉴了大佬的谱子",
   "difficulty": 14.800003,
   "file": "https://phira.5wyxi.com/files/648e7d26-f1d4-40a8-9432-c0f92ea42ccb",
+  "hidden": false,
   "id": 51069,
   "illustration": "https://phira.5wyxi.com/files/ed08c13a-8ed5-4947-9b04-6cb44a73b383",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "目撃！テト31世",
   "preview": "https://phira.5wyxi.com/files/e2612ad4-c0f2-40b9-89de-4f58157d94cc",
   "ranked": false,
-  "rating": 0.9345054,
-  "ratingCount": 8723,
+  "rating": 0.93468165,
+  "ratingCount": 9529,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

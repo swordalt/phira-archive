@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:23Z",
-    "lastChanged": "2026-09-21T02:03:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-15T04:39:48.684235Z",
   "charter": "iiiiand",
@@ -14,6 +14,7 @@
   "description": "iiiiand本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/3f426f5c-7418-466a-97df-2e97c5f6dce4",
+  "hidden": false,
   "id": 39713,
   "illustration": "https://phira.5wyxi.com/files/756b9104-306a-4288-b783-11e23ee511ee",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "triangles",
   "preview": "https://phira.5wyxi.com/files/ed9de6cd-2c42-4dd0-a689-3302d3361a9f",
   "ranked": false,
-  "rating": 0.7944875,
-  "ratingCount": 85,
+  "rating": 0.79683787,
+  "ratingCount": 86,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

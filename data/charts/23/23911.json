@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:54Z",
-    "lastChanged": "2026-09-21T02:05:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-20T13:12:44.562309Z",
   "charter": "XT vs. Q(XTreme vs. Quillius)",
@@ -14,6 +14,7 @@
   "description": "bilibili:@XTreme_exe @Quillius\nBPM:257",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/43f16436-20ec-478d-8736-e1ef28e976e7",
+  "hidden": false,
   "id": 23911,
   "illustration": "https://phira.5wyxi.com/files/dc34d0fd-1873-4766-8b6a-28f63375eedb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "8ack 4gain(1.1×)",
   "preview": "https://phira.5wyxi.com/files/32a85093-c3f6-417b-b505-e5b44386a785",
   "ranked": false,
-  "rating": 0.94442123,
-  "ratingCount": 81,
+  "rating": 0.9463285,
+  "ratingCount": 84,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

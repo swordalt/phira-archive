@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:04Z",
-    "lastChanged": "2026-09-21T02:03:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-22T09:10:59.141395Z",
   "charter": "RsDline",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/496fe11b-3ab2-46ef-b2fd-bfa8075639b2",
+  "hidden": false,
   "id": 34078,
   "illustration": "https://phira.5wyxi.com/files/921bd10a-bbf1-49bf-9073-76422d4676cc",
   "illustrator": "",

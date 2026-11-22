@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:10Z",
-    "lastChanged": "2026-09-21T02:03:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-29T15:29:58.248519Z",
   "charter": "锦辰Clouds",
@@ -14,6 +14,7 @@
   "description": "本人第二次写谱",
   "difficulty": 12.800003,
   "file": "https://phira.5wyxi.com/files/c01ad340-e043-4ea8-a9fc-e5fb21d8fceb",
+  "hidden": false,
   "id": 35880,
   "illustration": "https://phira.5wyxi.com/files/4a97f542-8438-4bd4-b9b5-f2d1a65fa8e8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "时光盲盒",
   "preview": "https://phira.5wyxi.com/files/202a8603-6b81-41d2-a881-f70bb2bca78c",
   "ranked": false,
-  "rating": 0.87557536,
-  "ratingCount": 236,
+  "rating": 0.8774125,
+  "ratingCount": 244,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

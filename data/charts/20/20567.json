@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:15Z",
-    "lastChanged": "2026-09-21T02:02:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-31T14:40:16.485455Z",
   "charter": "HINATA",
@@ -14,6 +14,7 @@
   "description": "谱面使用用大量官谱表演，表演部分无note判定，请求审核通过，谱面由谱师本人上传",
   "difficulty": 15.7,
   "file": "https://phira.5wyxi.com/files/26983093-92d3-44e3-a1a0-9f55e73937ad",
+  "hidden": false,
   "id": 20567,
   "illustration": "https://phira.5wyxi.com/files/a93f7fa3-bd1e-416d-b65e-8490eb6f5e1d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Liturn to the Days",
   "preview": "https://phira.5wyxi.com/files/b91162c5-a7ca-41d6-bef5-49440cc40387",
   "ranked": false,
-  "rating": 0.95522135,
-  "ratingCount": 1006,
+  "rating": 0.9553079,
+  "ratingCount": 1008,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

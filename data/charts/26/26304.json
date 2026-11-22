@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:33Z",
-    "lastChanged": "2026-09-21T02:02:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-15T07:28:23.002128Z",
   "charter": "一袋米能煮饭",
@@ -14,6 +14,7 @@
   "description": "中位15底力谱",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/5ba7a57f-5697-4dc0-b6a3-6a415b03998c",
+  "hidden": false,
   "id": 26304,
   "illustration": "https://phira.5wyxi.com/files/a3a2f08d-3270-4828-9fa1-2d663f362ae2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Change the Game (feat. 松永依織)",
   "preview": "https://phira.5wyxi.com/files/11aba1d4-3713-4502-ae92-443a23f37572",
   "ranked": false,
-  "rating": 0.93552727,
-  "ratingCount": 300,
+  "rating": 0.93595403,
+  "ratingCount": 305,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

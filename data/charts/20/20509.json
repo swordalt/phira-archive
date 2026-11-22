@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:15Z",
-    "lastChanged": "2026-09-21T02:02:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-29T13:19:23.795733Z",
   "charter": "三角7「!Δ∩?|ǝƎTg",
@@ -14,6 +14,7 @@
   "description": "這是我第一張16，嘗試用了垂判跟點滑的配置做了這一張譜，算是目前寫過最具動作性的譜，希望大家玩得開心～",
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/93ab72ee-8204-401a-bbee-e2d80ad39ffc",
+  "hidden": false,
   "id": 20509,
   "illustration": "https://phira.5wyxi.com/files/dead0160-bcff-4813-9a54-62b6e536463c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "!nterroban(?,",
   "preview": "https://phira.5wyxi.com/files/dacdf411-0555-40ec-8c44-61e0589e0400",
   "ranked": false,
-  "rating": 0.885773,
-  "ratingCount": 310,
+  "rating": 0.8861087,
+  "ratingCount": 311,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

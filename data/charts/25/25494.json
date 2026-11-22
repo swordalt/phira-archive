@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:57Z",
-    "lastChanged": "2026-09-21T02:05:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-06T15:45:47.120996Z",
   "charter": "银海诺斯.",
@@ -14,6 +14,7 @@
   "description": "新人第一次做谱，有问题轻点喷喵，谢谢喵。（b站搜银海诺斯寻找本人，有未削弱一百块大b纵可私聊要谱）",
   "difficulty": 16.7,
   "file": "https://phira.5wyxi.com/files/53d336be-5eec-43d4-b84f-0a28f640d11b",
+  "hidden": false,
   "id": 25494,
   "illustration": "https://phira.5wyxi.com/files/96bce661-9790-48b6-950e-c35f5111436d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "sølips",
   "preview": "https://phira.5wyxi.com/files/44db258b-2fff-41df-8171-467e47eadd72",
   "ranked": false,
-  "rating": 0.70258397,
-  "ratingCount": 85,
+  "rating": 0.7081757,
+  "ratingCount": 86,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

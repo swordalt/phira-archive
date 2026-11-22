@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:09Z",
-    "lastChanged": "2026-09-21T02:04:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-26T13:07:19.243621Z",
   "charter": "RainBird vs. RainD vs. RainStar",
@@ -14,6 +14,7 @@
   "description": "Phigros Communication Channel Charting Team合作谱面第二辑\n本系列谱面为SkyBird生贺谱面，有EZ、HD、IN三难度\n本谱面为系列中的IN难度谱面，由SkyBird(RainBird)、Yu_Sh_Q(RainStar，我)、DDDDDD(RainD)合作完成，上传已经过其他两位谱师许可\n希望大家喜欢！",
   "difficulty": 14.800003,
   "file": "https://phira.5wyxi.com/files/3c709fa0-814e-4013-8e1c-19ab59f6799d",
+  "hidden": false,
   "id": 50573,
   "illustration": "https://phira.5wyxi.com/files/e99ad2b6-fa07-4527-b11b-6f1c5ebe287f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "雨女",
   "preview": "https://phira.5wyxi.com/files/e087a281-1350-41fd-a0de-20fca6c52eed",
   "ranked": false,
-  "rating": 0.944018,
-  "ratingCount": 1504,
+  "rating": 0.9427433,
+  "ratingCount": 1576,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

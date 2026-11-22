@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:06Z",
-    "lastChanged": "2026-09-21T02:04:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-07T12:09:16.835832Z",
   "charter": "马尔杜克梦女",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/47636555-f530-44af-8776-a45e551f8c4a",
+  "hidden": false,
   "id": 49985,
   "illustration": "https://phira.5wyxi.com/files/48155a1f-d99b-44c0-adf6-912eec55e30c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Brightness",
   "preview": "https://phira.5wyxi.com/files/528ba7ab-a9e1-4fd7-ac67-bd3574d14462",
   "ranked": true,
-  "rating": 0.89952,
-  "ratingCount": 365,
+  "rating": 0.9000302,
+  "ratingCount": 374,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

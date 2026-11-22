@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:21Z",
-    "lastChanged": "2026-09-21T02:06:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-05T03:21:46.832543Z",
   "charter": "Identifai",
@@ -14,6 +14,7 @@
   "description": "其实我是推歌来的，放所有人Polacro\n\n推荐双指打，有些大跨度反手长条，不会打就逃课\nb站id白西西西西瓜",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/4ce25a79-82bd-45b7-8e22-8607857e2dfd",
+  "hidden": false,
   "id": 40919,
   "illustration": "https://phira.5wyxi.com/files/5ce7e81b-a88b-4418-b38e-246f98922e6e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Polacro",
   "preview": "https://phira.5wyxi.com/files/bbaee8ff-cd46-4413-ae7e-62129e55cae7",
   "ranked": false,
-  "rating": 0.942519,
-  "ratingCount": 39,
+  "rating": 0.9433949,
+  "ratingCount": 43,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:09Z",
-    "lastChanged": "2026-09-21T02:04:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-27T14:08:14.481614Z",
   "charter": "ei_hei",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.600002,
   "file": "https://phira.5wyxi.com/files/6c987509-1347-44bd-b680-fbd127fc7d45",
+  "hidden": false,
   "id": 50635,
   "illustration": "https://phira.5wyxi.com/files/8a935c60-38ba-4066-a7b7-a4324120f008",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Theme_88",
   "preview": "https://phira.5wyxi.com/files/ba6f5cb9-df76-4ac6-be70-a13d25d2a37f",
   "ranked": false,
-  "rating": 0.9095267,
-  "ratingCount": 120,
+  "rating": 0.9181937,
+  "ratingCount": 138,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

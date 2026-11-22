@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-07T23:27:52.928961Z",
   "charter": "S神",
@@ -14,6 +14,7 @@
   "description": "神ZENITH Dan Regular 过段acc：97",
   "difficulty": 19.000002,
   "file": "https://phira.5wyxi.com/files/13b1adf6-d896-44fd-aa1f-48943913d31f",
+  "hidden": false,
   "id": 33536,
   "illustration": "https://phira.5wyxi.com/files/f8b51d40-22eb-42af-b26c-e056909c4f60",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "神 ZENITH Dan Regular Part",
   "preview": "https://phira.5wyxi.com/files/f7349d92-635a-4467-8148-252cec075e86",
   "ranked": false,
-  "rating": 0.884767,
-  "ratingCount": 75,
+  "rating": 0.87755185,
+  "ratingCount": 76,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

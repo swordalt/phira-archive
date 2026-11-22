@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:17Z",
-    "lastChanged": "2026-09-21T02:05:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:20Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-17T16:11:59.873477Z",
   "charter": "五星上将sxx",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.1,
   "file": "https://phira.5wyxi.com/files/90e78096-9a96-4bf3-9d6e-ebedb04fa139",
+  "hidden": false,
   "id": 78321,
   "illustration": "https://phira.5wyxi.com/files/8850240e-884c-4a66-b091-b9d141560843",
   "illustrator": "maimai © SEGA",
@@ -21,8 +22,8 @@
   "name": "Garakuta Doll Play",
   "preview": "https://phira.5wyxi.com/files/ca7f281c-308b-4113-9283-8dd347c85239",
   "ranked": false,
-  "rating": 0.9281808,
-  "ratingCount": 87,
+  "rating": 0.93052447,
+  "ratingCount": 227,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

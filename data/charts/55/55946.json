@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:36Z",
-    "lastChanged": "2026-09-21T02:04:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-11T07:48:14.889461Z",
   "charter": "ShadowDrake",
@@ -14,6 +14,7 @@
   "description": "嘻嘻",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/86eae031-ceae-46f1-87e4-90c2c2cc78ff",
+  "hidden": false,
   "id": 55946,
   "illustration": "https://phira.5wyxi.com/files/d0d43401-0bfd-4eea-8e53-c094c70a3f9e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Finale",
   "preview": "https://phira.5wyxi.com/files/094fe86a-ee70-45b3-8af7-47e23dbd03cb",
   "ranked": false,
-  "rating": 0.91198754,
-  "ratingCount": 410,
+  "rating": 0.91341794,
+  "ratingCount": 448,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

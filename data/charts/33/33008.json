@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:01Z",
-    "lastChanged": "2026-09-21T02:03:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-01T04:55:04.313562Z",
   "charter": "strpuio fixed by 狮子",
@@ -14,6 +14,7 @@
   "description": "进行部分修改，更加顺手，但是💩的地方还是💩不想改了（）\n抱歉影响了大家的排行榜",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/774b95d9-2ecf-49f8-95b5-edce30f51fba",
+  "hidden": false,
   "id": 33008,
   "illustration": "https://phira.5wyxi.com/files/e719a3e6-bc84-4ecb-b89c-c71d4519e072",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fallen Era",
   "preview": "https://phira.5wyxi.com/files/8cbb6844-6270-49d1-9a15-f5503da3af39",
   "ranked": false,
-  "rating": 0.89219743,
-  "ratingCount": 342,
+  "rating": 0.89110476,
+  "ratingCount": 350,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

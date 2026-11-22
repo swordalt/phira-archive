@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:21Z",
-    "lastChanged": "2026-09-21T02:05:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-24T11:05:41.516773Z",
   "charter": "LightSuika",
@@ -14,6 +14,7 @@
   "description": "早期整活作品，改了点）\n谱师本人",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/7dbc22cd-fc8e-4054-8ecc-845227a4b33e",
+  "hidden": false,
   "id": 11734,
   "illustration": "https://phira.5wyxi.com/files/8ba91502-467d-48a1-93fe-e60e9c54b7e7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "挖掘机技术哪家强？",
   "preview": "https://phira.5wyxi.com/files/62463b5f-3938-498d-b393-c47b044d0837",
   "ranked": false,
-  "rating": 0.9004618,
-  "ratingCount": 1855,
+  "rating": 0.90048015,
+  "ratingCount": 1868,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

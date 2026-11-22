@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-30T14:01:44Z",
-    "lastChanged": "2026-10-31T12:14:14Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:28Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-28T12:00:39.101143Z",
   "charter": "飞跃的线",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.1,
   "file": "https://phira.5wyxi.com/files/308cde0d-8154-4dbd-91c6-45b9f4c3729f",
+  "hidden": false,
   "id": 82392,
   "illustration": "https://phira.5wyxi.com/files/b6f1e0c2-c96b-41be-8cf6-cd91ea48bc26",
   "illustrator": "Fox Hime Zero",
@@ -21,8 +22,8 @@
   "name": "Still",
   "preview": "https://phira.5wyxi.com/files/9d15086c-b360-455f-9e76-2aef378842e8",
   "ranked": false,
-  "rating": 0.9025053,
-  "ratingCount": 129,
+  "rating": 0.9064643,
+  "ratingCount": 247,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

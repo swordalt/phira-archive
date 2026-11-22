@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:11Z",
-    "lastChanged": "2026-09-21T02:02:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-04T11:44:41.931199Z",
   "charter": "诶嘿的小芳芳",
@@ -14,6 +14,7 @@
   "description": "谱师酒后作品",
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/db2a6a33-0c0c-4725-9e45-0d134692f83d",
+  "hidden": false,
   "id": 19505,
   "illustration": "https://phira.5wyxi.com/files/e7c45e13-b2d7-45d4-a99e-a5e3bcdb2ad8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "mopemope",
   "preview": "https://phira.5wyxi.com/files/d04b9fd4-7f2d-40dd-a782-b5ae2f9eda07",
   "ranked": false,
-  "rating": 0.873851,
-  "ratingCount": 2529,
+  "rating": 0.87354565,
+  "ratingCount": 2547,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

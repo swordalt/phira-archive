@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:57Z",
-    "lastChanged": "2026-09-21T02:02:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-23T06:22:42.288193Z",
   "charter": "Light_Seeker",
@@ -14,6 +14,7 @@
   "description": "这个是改良版，宽高比设为3:2，全曲时长八分半",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/4ba822a5-e8c4-4559-afb5-7ac34406664a",
+  "hidden": false,
   "id": 32260,
   "illustration": "https://phira.5wyxi.com/files/20a81c03-93e3-4709-a523-849e2a2c9bf0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lunar Express (Original Mix)",
   "preview": "https://phira.5wyxi.com/files/9d1d7579-d7b8-42ff-9b00-2c6509383065",
   "ranked": false,
-  "rating": 0.8817904,
-  "ratingCount": 102,
+  "rating": 0.88489884,
+  "ratingCount": 110,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

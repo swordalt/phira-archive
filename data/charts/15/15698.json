@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:42Z",
-    "lastChanged": "2026-09-21T02:05:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-15T01:19:41.719670Z",
   "charter": "喜食天禄",
@@ -14,6 +14,7 @@
   "description": "b站@喜食天禄",
   "difficulty": 30.0,
   "file": "https://phira.5wyxi.com/files/dbc108ef-9806-42c0-9a39-58650ccfcd00",
+  "hidden": false,
   "id": 15698,
   "illustration": "https://phira.5wyxi.com/files/fbc5fa5c-0f91-469d-8eeb-f0c97c098673",
   "illustrator": "",

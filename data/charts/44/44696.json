@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:42Z",
-    "lastChanged": "2026-09-21T02:03:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-14T15:27:10.330124Z",
   "charter": "南瓜",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/288be598-71b7-4473-b4db-47f1dc965355",
+  "hidden": false,
   "id": 44696,
   "illustration": "https://phira.5wyxi.com/files/906217af-5e15-4ffb-96ea-e61cf4d0f046",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "嘿咻狂想曲",
   "preview": "https://phira.5wyxi.com/files/b5842036-c5f2-40ca-b245-438561608671",
   "ranked": false,
-  "rating": 0.9536171,
-  "ratingCount": 1411,
+  "rating": 0.95335394,
+  "ratingCount": 1501,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:43Z",
-    "lastChanged": "2026-09-21T02:01:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-09T19:03:13.761056Z",
   "charter": "Catincat",
@@ -14,6 +14,7 @@
   "description": "谱师无聊所作",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/9778293b-d8ea-475b-a304-aa2cf6efe404",
+  "hidden": false,
   "id": 12230,
   "illustration": "https://phira.5wyxi.com/files/4c347b49-fa75-465e-ac1e-cd91d7791365",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "More One Night(Assertive Hardcore Bootleg)",
   "preview": "https://phira.5wyxi.com/files/dc1318aa-7a96-4cdf-ba8d-428c0b84497a",
   "ranked": false,
-  "rating": 0.904183,
-  "ratingCount": 845,
+  "rating": 0.90503323,
+  "ratingCount": 864,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

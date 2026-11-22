@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:21Z",
-    "lastChanged": "2026-09-21T02:02:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-08T14:30:12.374808Z",
   "charter": "U233",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.799996,
   "file": "https://phira.5wyxi.com/files/430020fe-ccaf-4e09-bea1-f8fda555f643",
+  "hidden": false,
   "id": 22990,
   "illustration": "https://phira.5wyxi.com/files/5edee839-fe1c-4597-b518-5efdfd12f643",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "硝华流焰 Blossoms of Summer Night",
   "preview": "https://phira.5wyxi.com/files/404c1d01-d3a0-4bb0-a610-404721839ac0",
   "ranked": false,
-  "rating": 0.93579847,
-  "ratingCount": 1786,
+  "rating": 0.93556607,
+  "ratingCount": 1802,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

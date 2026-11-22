@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:16Z",
-    "lastChanged": "2026-09-21T02:02:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-10T05:06:28.899496Z",
   "charter": "CheryFan",
@@ -14,6 +14,7 @@
   "description": "Bilibili @Cheryfan 随便写写",
   "difficulty": 13.6,
   "file": "https://phira.5wyxi.com/files/94fbf5ea-3e9c-4b05-a946-fc4cf44ff6df",
+  "hidden": false,
   "id": 21100,
   "illustration": "https://phira.5wyxi.com/files/b988c3ca-1d95-4bdb-9f3a-1700610e16c7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Angles and Demons",
   "preview": "https://phira.5wyxi.com/files/076e64e1-5209-43a5-bf14-8f641fc31394",
   "ranked": false,
-  "rating": 0.91800714,
-  "ratingCount": 136,
+  "rating": 0.91545063,
+  "ratingCount": 138,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

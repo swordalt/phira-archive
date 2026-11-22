@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:54Z",
-    "lastChanged": "2026-09-21T02:05:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-14T15:02:24.724137Z",
   "charter": "Flass",
@@ -14,6 +14,7 @@
   "description": "。",
   "difficulty": 1.0,
   "file": "https://phira.5wyxi.com/files/de2096bb-f525-4ae1-b999-54d89facbaec",
+  "hidden": false,
   "id": 23450,
   "illustration": "https://phira.5wyxi.com/files/131427a4-7086-44da-8e9d-fb93730c21c7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "めめめめめめ",
   "preview": "https://phira.5wyxi.com/files/15a63d80-f537-4d4d-b4e3-b3596b66c0c8",
   "ranked": false,
-  "rating": 0.79700226,
-  "ratingCount": 20,
+  "rating": 0.79392326,
+  "ratingCount": 22,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

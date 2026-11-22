@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:26Z",
-    "lastChanged": "2026-09-21T02:02:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-25T23:44:01.473857Z",
   "charter": "stoy109",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.000003,
   "file": "https://phira.5wyxi.com/files/c524fd85-14ea-4675-8231-bfd1a8e1d503",
+  "hidden": false,
   "id": 24350,
   "illustration": "https://phira.5wyxi.com/files/debd9aff-fe52-4a00-9e0c-7f3f86dc158e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Cradless",
   "preview": "https://phira.5wyxi.com/files/635d7400-80d8-40b3-b1e6-e0d5397ad4f4",
   "ranked": false,
-  "rating": 0.90483826,
-  "ratingCount": 780,
+  "rating": 0.9077668,
+  "ratingCount": 825,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

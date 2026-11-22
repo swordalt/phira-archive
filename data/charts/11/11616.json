@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:41Z",
-    "lastChanged": "2026-09-21T02:01:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-19T11:46:47.479828Z",
   "charter": "mdw233 in the school",
@@ -14,6 +14,7 @@
   "description": "开学一星期才能写一次谱感觉周末过得好快。",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/2c6faec8-4fe9-4bab-904f-f4291f22a628",
+  "hidden": false,
   "id": 11616,
   "illustration": "https://phira.5wyxi.com/files/be7c2420-d4a4-41e0-a509-0dfe07563c84",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Connected Sky",
   "preview": "https://phira.5wyxi.com/files/ddc0cc66-1898-4627-96ea-22f7fa20a499",
   "ranked": false,
-  "rating": 0.9569971,
-  "ratingCount": 3545,
+  "rating": 0.957033,
+  "ratingCount": 3588,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:55Z",
-    "lastChanged": "2026-09-21T02:04:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-06T12:52:21.048438Z",
   "charter": "跡をたどる",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/a89ec212-88fa-404b-bf18-29e05412d70e",
+  "hidden": false,
   "id": 64527,
   "illustration": "https://phira.5wyxi.com/files/8a817b3e-4cd0-4986-a6b0-3400cccadc86",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "再生",
   "preview": "https://phira.5wyxi.com/files/3e89422b-5eaf-4fbd-aaca-d4737d976333",
   "ranked": false,
-  "rating": 0.9024656,
-  "ratingCount": 257,
+  "rating": 0.90941805,
+  "ratingCount": 297,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

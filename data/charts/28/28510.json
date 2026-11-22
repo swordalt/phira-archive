@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:43Z",
-    "lastChanged": "2026-09-21T02:02:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-07T07:59:35.756910Z",
   "charter": "55752525",
@@ -14,6 +14,7 @@
   "description": "本人上传，BV1Atx9eyEMo",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/e5e3e0b1-69b3-4f74-a034-dba05c31821f",
+  "hidden": false,
   "id": 28510,
   "illustration": "https://phira.5wyxi.com/files/decf84dd-acad-4053-8878-461194cba7ba",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "竹取飞翔",
   "preview": "https://phira.5wyxi.com/files/a81e3640-42f6-4852-bffa-9147cbbfbf6f",
   "ranked": false,
-  "rating": 0.36214155,
-  "ratingCount": 366,
+  "rating": 0.3840538,
+  "ratingCount": 397,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

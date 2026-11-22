@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:54Z",
-    "lastChanged": "2026-09-21T02:05:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-18T13:36:50.705143Z",
   "charter": "kusb123 as \"COPY MAPER\"",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 33.000015,
   "file": "https://phira.5wyxi.com/files/2a838697-cb3e-4019-97c3-75a9437564d4",
+  "hidden": false,
   "id": 23766,
   "illustration": "https://phira.5wyxi.com/files/e8d38c99-5f5a-41f7-9509-db03c02abfef",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Submerge Serenade",
   "preview": "https://phira.5wyxi.com/files/23f81dbd-425c-4f6d-b42f-18d8ca4195db",
   "ranked": false,
-  "rating": 0.9397511,
-  "ratingCount": 27,
+  "rating": 0.9377593,
+  "ratingCount": 30,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-11T07:08:15.959710Z",
   "charter": "S神",
@@ -14,6 +14,7 @@
   "description": "神ZENITH Dan Peak部分 过段97",
   "difficulty": 10.000001,
   "file": "https://phira.5wyxi.com/files/fbec3365-d037-421e-963f-802275095f03",
+  "hidden": false,
   "id": 33787,
   "illustration": "https://phira.5wyxi.com/files/8e03e7f4-f0c4-456e-a795-6d86c7ac3504",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "神 ZENITH Dan Peak Part",
   "preview": "https://phira.5wyxi.com/files/67c5b02f-77cd-4c85-8114-e4a84d4b5664",
   "ranked": false,
-  "rating": 0.95404065,
-  "ratingCount": 74,
+  "rating": 0.9573378,
+  "ratingCount": 80,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

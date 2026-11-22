@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:57Z",
-    "lastChanged": "2026-09-21T02:03:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-15T14:56:24.879051Z",
   "charter": "hh小小龙",
@@ -14,6 +14,7 @@
   "description": "这个谱，特效做的不是很多",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/5a9ad1da-d153-436b-82aa-4fdad66b1c44",
+  "hidden": false,
   "id": 48054,
   "illustration": "https://phira.5wyxi.com/files/b96f1a2d-5309-4d7a-8b64-9aea38ccefc2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "万般情绕千里过往",
   "preview": "https://phira.5wyxi.com/files/88082b25-a406-4cdb-8b25-7dfe42a6e1ea",
   "ranked": false,
-  "rating": 0.9384606,
-  "ratingCount": 837,
+  "rating": 0.93679786,
+  "ratingCount": 906,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

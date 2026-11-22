@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:24Z",
-    "lastChanged": "2026-09-21T02:05:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-16T12:10:18.087868Z",
   "charter": "qj79",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 114514.0,
   "file": "https://phira.5wyxi.com/files/644fd726-dab6-4832-a4d0-fcf249918fa4",
+  "hidden": false,
   "id": 19983,
   "illustration": "https://phira.5wyxi.com/files/dbfff0df-2c4d-41e1-975f-47e9d844a17d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "苏蕊律动时刻",
   "preview": "https://phira.5wyxi.com/files/d94facf0-9d88-40b8-a274-3ce389df2515",
   "ranked": false,
-  "rating": 0.8470718,
-  "ratingCount": 336,
+  "rating": 0.84783524,
+  "ratingCount": 339,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

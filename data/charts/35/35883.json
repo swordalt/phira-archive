@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-09-21T02:06:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-29T15:43:08.663071Z",
   "charter": "ShaShen4404",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/aedcbacf-adcc-4924-8f3e-d27b6754d2bb",
+  "hidden": false,
   "id": 35883,
   "illustration": "https://phira.5wyxi.com/files/3fe3f591-cbf7-4db2-86b3-c0f20bb86549",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Rabbit Hole",
   "preview": "https://phira.5wyxi.com/files/b5e4a5cf-2437-4bb5-a984-88c6e8da2488",
   "ranked": false,
-  "rating": 0.9047834,
-  "ratingCount": 43,
+  "rating": 0.89972436,
+  "ratingCount": 44,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

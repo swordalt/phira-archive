@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:28Z",
-    "lastChanged": "2026-09-21T02:04:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-13T14:56:44.887028Z",
   "charter": "Nainxyz",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/b36cbeb6-e1f2-4601-95d1-b069d926e66e",
+  "hidden": false,
   "id": 54090,
   "illustration": "https://phira.5wyxi.com/files/5c19e223-8912-4f03-939e-49aa8f43a3b0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Altersist",
   "preview": "https://phira.5wyxi.com/files/d6baac4b-f087-4080-a8ee-26c8337e6427",
   "ranked": false,
-  "rating": 0.8774918,
-  "ratingCount": 177,
+  "rating": 0.87901396,
+  "ratingCount": 186,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:06Z",
-    "lastChanged": "2026-09-21T02:02:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-12T15:22:03.949456Z",
   "charter": "RightFT",
@@ -14,6 +14,7 @@
   "description": "感谢﻿@超爱吃盐的盐盐﻿ 在462cb后帮我写的段落衔接",
   "difficulty": 15.000004,
   "file": "https://phira.5wyxi.com/files/63aa48ba-ff93-4cdc-b317-670c27bbaa2d",
+  "hidden": false,
   "id": 17841,
   "illustration": "https://phira.5wyxi.com/files/0068d6d9-95a9-4a79-acbe-eb2f0ebf1c1c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "G4L",
   "preview": "https://phira.5wyxi.com/files/475176f8-441a-4c9f-a35a-01cbf5679605",
   "ranked": true,
-  "rating": 0.90982157,
-  "ratingCount": 1010,
+  "rating": 0.90767163,
+  "ratingCount": 1029,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:55Z",
-    "lastChanged": "2026-09-21T02:03:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-06T06:06:38.345261Z",
   "charter": "kingmp3",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/17af1fe2-2949-4ccc-b7a2-100b9d657f2c",
+  "hidden": false,
   "id": 47732,
   "illustration": "https://phira.5wyxi.com/files/c1aa1bb0-c588-4822-9fb7-fa1aed288222",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "TiMe-mory",
   "preview": "https://phira.5wyxi.com/files/c0ee1519-b558-4fbc-95da-66282171dd2b",
   "ranked": false,
-  "rating": 0.8952887,
-  "ratingCount": 60,
+  "rating": 0.8969165,
+  "ratingCount": 61,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

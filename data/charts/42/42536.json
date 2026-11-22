@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:32Z",
-    "lastChanged": "2026-09-21T02:03:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-23T13:04:04.647037Z",
   "charter": "Tornado龙卷",
@@ -14,6 +14,7 @@
   "description": "B站BV1A88wziEKM，可以去关注一下谢谢",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/6bcd2afa-41df-4195-9f5d-0aee29a84d1d",
+  "hidden": false,
   "id": 42536,
   "illustration": "https://phira.5wyxi.com/files/f71d3e11-3296-4486-a9de-7b1477dc9f81",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "黑羊效应(BLACK SHEEP EFFECT)",
   "preview": "https://phira.5wyxi.com/files/170ab466-29ba-4a37-81b6-6e8c36d423da",
   "ranked": false,
-  "rating": 0.8729028,
-  "ratingCount": 140,
+  "rating": 0.8755553,
+  "ratingCount": 143,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

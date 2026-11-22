@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:29Z",
-    "lastChanged": "2026-09-21T02:05:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-22T15:44:54.552602Z",
   "charter": "20086lr",
@@ -14,6 +14,7 @@
   "description": "随便写的，就当乐子看吧",
   "difficulty": 16.300003,
   "file": "https://phira.5wyxi.com/files/e4493ddb-4cd5-462b-86ab-c1e375f723c1",
+  "hidden": false,
   "id": 35577,
   "illustration": "https://phira.5wyxi.com/files/46146616-7f57-4ac0-8514-8261abae3cd6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "t+pazolite和USAO来天利家装宽带",
   "preview": "https://phira.5wyxi.com/files/5977023d-20ab-4aaf-a39b-a35ca3aea713",
   "ranked": false,
-  "rating": 0.93244916,
-  "ratingCount": 293,
+  "rating": 0.93087226,
+  "ratingCount": 297,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

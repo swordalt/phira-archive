@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:39Z",
-    "lastChanged": "2026-09-21T02:02:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-24T05:16:11.682542Z",
   "charter": "Team Crying for maimai",
@@ -14,6 +14,7 @@
   "description": "曲目：Belle de Nuit\n曲师：黒皇帝 feat. AKA\n谱师：Noverlier_/千秋qiu/WuyangP/__Thunderlis（雷.秋.无.梦.）\n画师：phin/T3VY\n物量：570\n个人定数：14.2\n本谱面使用cmdysj的Re:PhiEdit制作，为7thPecJam赛事中的RG No.38谱面的改谱，以“泪求舞萌 Crying for maimai”作为队伍名义投稿\n\n谱师留言：\nNoverlier_：负责了大部分配置、动效以及小部分动效润化 （赞美搓碟段）\n千秋qiu：不可发送单个标点符号\nWuyangP：点击输入文字\n__Thunderlis：「发出一声很酷的\"哼\"」",
   "difficulty": 14.200005,
   "file": "https://phira.5wyxi.com/files/f18fb4a6-ce9b-4f2a-a6bb-5c02e9345d46",
+  "hidden": false,
   "id": 27588,
   "illustration": "https://phira.5wyxi.com/files/312bde8e-da98-4518-bdb5-8ce2afc5ee70",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Belle de Nuit",
   "preview": "https://phira.5wyxi.com/files/94f53858-1f23-4999-89dc-03db7ba39548",
   "ranked": false,
-  "rating": 0.93320614,
-  "ratingCount": 206,
+  "rating": 0.9324941,
+  "ratingCount": 209,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

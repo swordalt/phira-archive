@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:45Z",
-    "lastChanged": "2026-09-21T02:04:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-30T02:39:56.128454Z",
   "charter": "Lemon",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/1f2da7f5-b872-4da1-9b2e-432b53d449eb",
+  "hidden": false,
   "id": 59429,
   "illustration": "https://phira.5wyxi.com/files/3e02fc52-41a0-42ad-a7a2-6f9e8db6de1d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fallen Era (BF Mix)",
   "preview": "https://phira.5wyxi.com/files/01dcf9db-cff6-43f3-8806-b28a39fea0fc",
   "ranked": false,
-  "rating": 0.8192848,
-  "ratingCount": 22,
+  "rating": 0.83785707,
+  "ratingCount": 25,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

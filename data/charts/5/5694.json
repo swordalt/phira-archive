@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:19Z",
-    "lastChanged": "2026-09-21T02:05:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-20T15:08:47.611355Z",
   "charter": "弭儿酱",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 12.9000025,
   "file": "https://phira.5wyxi.com/files/943dc3cb-e0c9-43e4-ab1b-a1edb04c05c6",
+  "hidden": false,
   "id": 5694,
   "illustration": "https://phira.5wyxi.com/files/d0ef1231-5683-4243-a7bf-d6cffdf4bc0c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Aleph-0",
   "preview": "https://phira.5wyxi.com/files/178d2052-442a-4097-a325-60a00a9c90db",
   "ranked": false,
-  "rating": 0.86489505,
-  "ratingCount": 967,
+  "rating": 0.86553043,
+  "ratingCount": 973,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

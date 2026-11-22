@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:52Z",
-    "lastChanged": "2026-09-21T02:03:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-21T08:57:58.081036Z",
   "charter": "PLia of GenSoKyo",
@@ -14,6 +14,7 @@
   "description": "旧/新 定数（15.6/15.9）",
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/57ed2dfc-4361-4dce-a1db-c68ea4e47978",
+  "hidden": false,
   "id": 47057,
   "illustration": "https://phira.5wyxi.com/files/68a71b81-6b45-4a52-8313-dc8eb18ccdeb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "SON OF SUN",
   "preview": "https://phira.5wyxi.com/files/05e575c7-2f8b-4de8-9268-9c96c2e5d241",
   "ranked": false,
-  "rating": 0.83645767,
-  "ratingCount": 21,
+  "rating": 0.84268713,
+  "ratingCount": 22,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:40Z",
-    "lastChanged": "2026-09-21T02:04:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-02T03:57:05.223468Z",
   "charter": "Boom of Doom",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/c41b3762-884a-446d-8fdd-e7104e8c8a44",
+  "hidden": false,
   "id": 57547,
   "illustration": "https://phira.5wyxi.com/files/8efdfa02-4301-4d82-8a19-242600925a52",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Moon of Noon",
   "preview": "https://phira.5wyxi.com/files/676d6d0c-e538-4b2c-b7ab-6695c3aa4659",
   "ranked": false,
-  "rating": 0.88467526,
-  "ratingCount": 85,
+  "rating": 0.87241256,
+  "ratingCount": 90,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

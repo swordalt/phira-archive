@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-09-21T02:06:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-29T02:51:02.972809Z",
   "charter": "N-y_A",
@@ -14,6 +14,7 @@
   "description": "瞎写的（本人上传）",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/a30217bb-b6bc-4441-a31c-6caa95444116",
+  "hidden": false,
   "id": 35814,
   "illustration": "https://phira.5wyxi.com/files/70186043-61bd-447f-ba55-27a94fea594f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "vs.TREAMEЯ",
   "preview": "https://phira.5wyxi.com/files/5a45e929-5813-49f8-9aa8-7e8be073b359",
   "ranked": false,
-  "rating": 0.8650433,
-  "ratingCount": 12,
+  "rating": 0.8793752,
+  "ratingCount": 14,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

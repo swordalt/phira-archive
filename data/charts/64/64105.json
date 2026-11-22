@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:55Z",
-    "lastChanged": "2026-09-21T02:04:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-04T15:46:45.845455Z",
   "charter": "筱玖真可爱",
@@ -14,6 +14,7 @@
   "description": "本人的第一张铺，我打起来挺一般的，请见谅",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/1bbc12cf-5f38-48ef-b64b-28ee7ef171b7",
+  "hidden": false,
   "id": 64105,
   "illustration": "https://phira.5wyxi.com/files/ad1ec131-4118-4ca1-b424-3a7e267c66b1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "第57次取消发送",
   "preview": "https://phira.5wyxi.com/files/166533ae-7a77-4db3-9b92-0463cb18f499",
   "ranked": false,
-  "rating": 0.91850686,
-  "ratingCount": 89779,
+  "rating": 0.9191627,
+  "ratingCount": 93883,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

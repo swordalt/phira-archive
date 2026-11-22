@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:21Z",
-    "lastChanged": "2026-09-21T02:03:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-31T09:47:13.753632Z",
   "charter": "A17P",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/9e636aeb-b2f8-4f7c-b22a-dac7955ea8bb",
+  "hidden": false,
   "id": 38965,
   "illustration": "https://phira.5wyxi.com/files/81de5d7c-f5b1-4dd4-98e5-2538c442a369",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "はじまりの曲",
   "preview": "https://phira.5wyxi.com/files/7947a8a5-74f5-46d3-9752-bf289dcc9acb",
   "ranked": false,
-  "rating": 0.9166729,
-  "ratingCount": 1763,
+  "rating": 0.91662246,
+  "ratingCount": 1852,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

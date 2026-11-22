@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:29Z",
-    "lastChanged": "2026-09-21T02:05:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-25T02:36:28.969585Z",
   "charter": "丞相520",
@@ -14,6 +14,7 @@
   "description": "诶嘿~",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/da995313-139e-4060-a68d-2a15ccfdc1cc",
+  "hidden": false,
   "id": 38660,
   "illustration": "https://phira.5wyxi.com/files/4596780c-83a1-41b8-aec4-c391d9782b62",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "周紫萱小南梁",
   "preview": "https://phira.5wyxi.com/files/c6a8098d-752e-4690-a492-8a3bd144be9b",
   "ranked": false,
-  "rating": 0.8580784,
-  "ratingCount": 212,
+  "rating": 0.8613488,
+  "ratingCount": 216,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

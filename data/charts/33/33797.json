@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:03Z",
-    "lastChanged": "2026-09-21T02:03:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-11T09:27:11.191478Z",
   "charter": "Temmie_2004",
@@ -14,6 +14,7 @@
   "description": "萌新制谱，请多关照",
   "difficulty": 13.800003,
   "file": "https://phira.5wyxi.com/files/635a6a92-b866-468e-b6d8-4ca09ae68eb2",
+  "hidden": false,
   "id": 33797,
   "illustration": "https://phira.5wyxi.com/files/45851bd2-139f-4f4b-a6f3-1dd268dccb52",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "净善的遐歌 Surasthana Fantasia",
   "preview": "https://phira.5wyxi.com/files/8e21ec96-b345-423e-9241-5e04e3132509",
   "ranked": false,
-  "rating": 0.92394954,
-  "ratingCount": 935,
+  "rating": 0.92431676,
+  "ratingCount": 956,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

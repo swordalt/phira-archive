@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:16Z",
-    "lastChanged": "2026-09-21T02:02:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-09T03:53:25.294857Z",
   "charter": "20086lr",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/b99a4421-6dad-4b63-bad3-4c12ccdabda7",
+  "hidden": false,
   "id": 21004,
   "illustration": "https://phira.5wyxi.com/files/e636bab4-3714-4c76-8f9c-f2d0e4271acd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "パンこげこげになっちゃった",
   "preview": "https://phira.5wyxi.com/files/74143af2-3b53-43d3-a813-8371cf165783",
   "ranked": false,
-  "rating": 0.93062246,
-  "ratingCount": 1521,
+  "rating": 0.9304657,
+  "ratingCount": 1545,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:54Z",
-    "lastChanged": "2026-09-21T02:06:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-16T12:45:47.142817Z",
   "charter": "HRS-Team",
@@ -14,6 +14,7 @@
   "description": "HRS 6th Dan考核\nSync:Forever BPM:149.98 \nFlow:メズマライザー BPM:185 \nPattern:Heart Function BPM:185\nHRS交流群：1106507620",
   "difficulty": 6.0000005,
   "file": "https://phira.5wyxi.com/files/f99cfa20-cc55-4267-ad99-c902fe2114b9",
+  "hidden": false,
   "id": 61122,
   "illustration": "https://phira.5wyxi.com/files/029f44e5-f7c5-4a85-bc35-7bdc548962fc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "HRS~ 6th Dan~",
   "preview": "https://phira.5wyxi.com/files/6185f7b0-a99d-41ae-946b-ba766b2ada68",
   "ranked": false,
-  "rating": 0.8886283,
-  "ratingCount": 118,
+  "rating": 0.89134705,
+  "ratingCount": 121,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

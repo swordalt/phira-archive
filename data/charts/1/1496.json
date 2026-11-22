@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:34Z",
-    "lastChanged": "2026-09-21T02:05:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-09T12:20:11.037302Z",
   "charter": "charadoger",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/92cb3644-15e1-4c2c-a1b8-94e83e6db99e",
+  "hidden": false,
   "id": 1496,
   "illustration": "https://phira.5wyxi.com/files/d0073ea1-5799-452a-82f7-1a2ecc545876",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Reality Check Through The Skull",
   "preview": "https://phira.5wyxi.com/files/ac9ab31c-a946-407c-9e71-47044b3df9d6",
   "ranked": false,
-  "rating": 0.8842573,
-  "ratingCount": 371,
+  "rating": 0.8847247,
+  "ratingCount": 374,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:00Z",
-    "lastChanged": "2026-09-21T02:02:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-22T10:34:06.406835Z",
   "charter": "「Disruptor」飞飞",
@@ -14,6 +14,7 @@
   "description": "定数：16.3\n曲师：Akira Complex\nbpm：230-400\n本家：CHUNITHM",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/33e197b1-fbba-42ba-a57d-fa5d41b98c78",
+  "hidden": false,
   "id": 16272,
   "illustration": "https://phira.5wyxi.com/files/de4189da-b5aa-4aac-a94a-83bb985a2db0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Disruptor Array",
   "preview": "https://phira.5wyxi.com/files/7aee1d12-e7b6-4368-9a47-fc49c8cbbb48",
   "ranked": true,
-  "rating": 0.9435807,
-  "ratingCount": 4999,
+  "rating": 0.9434331,
+  "ratingCount": 5069,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

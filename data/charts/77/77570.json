@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:16Z",
-    "lastChanged": "2026-09-21T02:05:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-09T10:26:44.278923Z",
   "charter": "= 239 - 67 - (2! * 3 * 9^1 / 9 / 3)",
@@ -14,6 +14,7 @@
   "description": "6thWJC参赛谱\n哔站：BV1a8YQ6JEEQ",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/414ddbf7-7079-4d58-889a-4da8a2506139",
+  "hidden": false,
   "id": 77570,
   "illustration": "https://phira.5wyxi.com/files/87c81605-c3f2-4ab5-98b1-6f87dd47ebc8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "BPM",
   "preview": "https://phira.5wyxi.com/files/be4ed3d8-5f22-4194-a078-da502f8844aa",
   "ranked": true,
-  "rating": 0.90414685,
-  "ratingCount": 322,
+  "rating": 0.899366,
+  "ratingCount": 848,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

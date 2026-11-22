@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:06Z",
-    "lastChanged": "2026-09-21T02:04:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-14T05:17:11.891620Z",
   "charter": "981525216",
@@ -14,6 +14,7 @@
   "description": "不难纯良双指谱\n定数IN16.3\n谱师b站:zhudyfox",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/0134e375-ed45-4085-85d9-9839bc743d5f",
+  "hidden": false,
   "id": 50208,
   "illustration": "https://phira.5wyxi.com/files/3f3e3f67-5d96-49ec-b16c-a2745fe929c5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "QQ",
   "preview": "https://phira.5wyxi.com/files/1b7d817a-09b7-4651-85db-da21e1355234",
   "ranked": false,
-  "rating": 0.87653285,
-  "ratingCount": 523,
+  "rating": 0.87690616,
+  "ratingCount": 539,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

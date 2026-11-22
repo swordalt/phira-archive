@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:21Z",
-    "lastChanged": "2026-09-21T02:01:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-19T17:02:03.702101Z",
   "charter": "irisnviolets",
@@ -14,6 +14,7 @@
   "description": "本人上传谱师B站ID与谱师ID一致",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/c4a8cf94-487a-4d55-8275-6013383cfdd4",
+  "hidden": false,
   "id": 5631,
   "illustration": "https://phira.5wyxi.com/files/139f8a82-d11e-45d7-a57a-ffdf832bbd8f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "HIT",
   "preview": "https://phira.5wyxi.com/files/20e223a6-5c59-4dd2-bb2a-c2209607437d",
   "ranked": false,
-  "rating": 0.9231762,
-  "ratingCount": 785,
+  "rating": 0.922263,
+  "ratingCount": 808,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

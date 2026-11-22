@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:40Z",
-    "lastChanged": "2026-09-21T02:06:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-07T14:40:46.992198Z",
   "charter": "anian_Fisoup",
@@ -14,6 +14,7 @@
   "description": "BPM:222 Time:268.58s                                    更适合切比的3121练功切谱.",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/22679fad-7c85-4e78-998e-4900f67c39ad",
+  "hidden": false,
   "id": 48827,
   "illustration": "https://phira.5wyxi.com/files/9042f3af-2373-4008-981a-8da584ea467b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Icyxis ~True ending~",
   "preview": "https://phira.5wyxi.com/files/add78281-df34-4e98-81a1-cdbb013aea31",
   "ranked": false,
-  "rating": 0.8066266,
-  "ratingCount": 12,
+  "rating": 0.8225231,
+  "ratingCount": 19,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

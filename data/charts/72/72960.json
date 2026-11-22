@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:08Z",
-    "lastChanged": "2026-09-21T02:05:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-12T12:34:41.677549Z",
   "charter": "LittleLan",
@@ -14,6 +14,7 @@
   "description": "突如其来的灵感，制谱一天的成品\r\n\r\n新人首个自制谱，请多多支持\r\n\r\n欢迎关注本人B站@爱玩音游的小蓝",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/a4415d36-2c1a-41bb-9353-2a81515cc757",
+  "hidden": false,
   "id": 72960,
   "illustration": "https://phira.5wyxi.com/files/c17333db-4cc7-464f-a1c8-9ec226438a55",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Explorers",
   "preview": "https://phira.5wyxi.com/files/99f7fb5d-db00-4747-afe9-9fdcf01bd5fc",
   "ranked": false,
-  "rating": 0.8652642,
-  "ratingCount": 46,
+  "rating": 0.87886316,
+  "ratingCount": 79,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

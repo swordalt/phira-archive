@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:51Z",
-    "lastChanged": "2026-09-21T02:05:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-24T17:31:44.634479Z",
   "charter": "bilibili@我取不到好名字呀",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传 \nbilibili@我取不到好名字呀",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/b9dd7040-f035-466e-9580-78e1267a14bb",
+  "hidden": false,
   "id": 21876,
   "illustration": "https://phira.5wyxi.com/files/42e0dae4-73c6-4fc7-a33d-95cdbc946a2c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "野花香(Haocore Mix)",
   "preview": "https://phira.5wyxi.com/files/dde17748-1d10-48b4-ac1d-a281b140c253",
   "ranked": false,
-  "rating": 0.8892326,
-  "ratingCount": 77,
+  "rating": 0.88959587,
+  "ratingCount": 79,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

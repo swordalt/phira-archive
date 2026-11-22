@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:29Z",
-    "lastChanged": "2026-09-21T02:03:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-16T07:15:17.118819Z",
   "charter": "Klklkl",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/650428b2-b70d-462e-b76b-10e1982bdc77",
+  "hidden": false,
   "id": 41834,
   "illustration": "https://phira.5wyxi.com/files/71088ac5-5d2d-4fbb-9502-42dd059cbffb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "PASSO BEM SOLTO",
   "preview": "https://phira.5wyxi.com/files/dc954793-8222-4295-b7b1-ee60957fe66c",
   "ranked": false,
-  "rating": 0.8464724,
-  "ratingCount": 1142,
+  "rating": 0.8478966,
+  "ratingCount": 1177,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:55Z",
-    "lastChanged": "2026-09-21T02:04:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:32Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-07T19:37:31.599586Z",
   "charter": "星晨伴月 vs. 陨石",
@@ -14,6 +14,7 @@
   "description": "究竟这俩人是有多么绝望才能写出这样的谱面\n@XingChen星晨伴月#4301\n\n已修复谱面结尾键位抽搐问题\n此谱面为最终优化谱面",
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/1aa8ff30-9447-419e-bc28-d9ad97e52b7a",
+  "hidden": false,
   "id": 64077,
   "illustration": "https://phira.5wyxi.com/files/67375876-f458-4a62-9ce3-84f38fa83258",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "That Girl",
   "preview": "https://phira.5wyxi.com/files/a7efeb58-ac4b-469d-8ad3-bb08e68d913e",
   "ranked": false,
-  "rating": 0.93173814,
-  "ratingCount": 68263,
+  "rating": 0.93257993,
+  "ratingCount": 73831,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

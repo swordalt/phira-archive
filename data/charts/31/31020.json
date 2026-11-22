@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:05Z",
-    "lastChanged": "2026-09-21T02:06:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-23T11:43:08.960564Z",
   "charter": "No-smoking",
@@ -14,6 +14,7 @@
   "description": "非常规配置，没人能打",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/d67825db-2d4e-4227-9771-f12d6425df3f",
+  "hidden": false,
   "id": 31020,
   "illustration": "https://phira.5wyxi.com/files/94ca66ea-ad71-4dad-b67b-b4feeb2c0ee7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "EDM Jumpers",
   "preview": "https://phira.5wyxi.com/files/7d046e87-a951-4c47-bbe4-52c1f2cff7aa",
   "ranked": false,
-  "rating": 0.90224767,
-  "ratingCount": 32,
+  "rating": 0.9025277,
+  "ratingCount": 34,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

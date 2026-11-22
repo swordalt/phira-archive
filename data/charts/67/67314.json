@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:00Z",
-    "lastChanged": "2026-09-21T02:05:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-17T15:21:06.450005Z",
   "charter": "-至今为止与从今以后-",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 14.699999,
   "file": "https://phira.5wyxi.com/files/7308aa96-b0c6-4c98-b55f-32716fdfe661",
+  "hidden": false,
   "id": 67314,
   "illustration": "https://phira.5wyxi.com/files/9e143460-37c0-4b66-babf-9185ae6df35c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Hectopascal (TV size)",
   "preview": "https://phira.5wyxi.com/files/960c86f7-d0d9-4219-98a1-5d1cd6091729",
   "ranked": false,
-  "rating": 0.9273459,
-  "ratingCount": 804,
+  "rating": 0.9289874,
+  "ratingCount": 865,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

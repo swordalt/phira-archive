@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:58Z",
-    "lastChanged": "2026-09-21T02:06:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-10T23:11:05.076768Z",
   "charter": "LeionTha",
@@ -14,6 +14,7 @@
   "description": "osu评级:8.06*\n实际难度:beta+ ln12\n—————————————————\n后一次更新了，osu那边感觉摸得差不多了（\n",
   "difficulty": 17.2,
   "file": "https://phira.5wyxi.com/files/a40bca02-f1fc-4a7e-9d17-dcfd3b8881e4",
+  "hidden": false,
   "id": 65530,
   "illustration": "https://phira.5wyxi.com/files/ad944c5e-4fe1-42fa-a0ca-48fb83e1e54a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Submerged City",
   "preview": "https://phira.5wyxi.com/files/be7f88fc-3519-41e0-b511-781944924eb6",
   "ranked": false,
-  "rating": 0.8902294,
-  "ratingCount": 19,
+  "rating": 0.8947079,
+  "ratingCount": 20,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

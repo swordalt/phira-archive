@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:20Z",
-    "lastChanged": "2026-09-21T02:06:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-03T09:36:13.524893Z",
   "charter": "我被困在了11646497949",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 12.999997,
   "file": "https://phira.5wyxi.com/files/9123001e-dd76-4d46-8c8c-c4469f7f9afe",
+  "hidden": false,
   "id": 40799,
   "illustration": "https://phira.5wyxi.com/files/e1a85818-74ac-4482-aa09-cc85f3949fdf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "莫愁乡",
   "preview": "https://phira.5wyxi.com/files/75ba2269-1115-4905-893c-28d1e9fc17e7",
   "ranked": false,
-  "rating": 0.9377777,
-  "ratingCount": 283,
+  "rating": 0.938726,
+  "ratingCount": 287,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

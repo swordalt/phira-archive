@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:44Z",
-    "lastChanged": "2026-09-21T02:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-22T15:31:20.941408Z",
   "charter": "39L615842",
@@ -14,6 +14,7 @@
   "description": "Miku~\n超爱这首曲子，不过先写个1分钟的版本。以后可能会把完整版补上(或许)\n是LanO本人~",
   "difficulty": 11.900001,
   "file": "https://phira.5wyxi.com/files/bba92c23-041f-44d3-ab74-de0f660fa712",
+  "hidden": false,
   "id": 28994,
   "illustration": "https://phira.5wyxi.com/files/2d7453ee-f10a-4d5e-99ea-ebfed0e99c08",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Miku",
   "preview": "https://phira.5wyxi.com/files/99cddb07-ef1c-4ab9-83a4-3444b7a6af82",
   "ranked": false,
-  "rating": 0.9382426,
-  "ratingCount": 8608,
+  "rating": 0.937897,
+  "ratingCount": 9220,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

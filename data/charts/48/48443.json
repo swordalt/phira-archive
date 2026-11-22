@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:58Z",
-    "lastChanged": "2026-09-21T02:03:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-25T18:57:16.405244Z",
   "charter": "The witch's slave twotthrees",
@@ -14,6 +14,7 @@
   "description": "2pj版本，保留了最原本的味道，回忆一下",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/fc0edc55-2113-4c36-be58-62f53c1fbb63",
+  "hidden": false,
   "id": 48443,
   "illustration": "https://phira.5wyxi.com/files/930838c2-cb03-42a5-b4da-826cc5da4eb7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Disperagioia",
   "preview": "https://phira.5wyxi.com/files/3021eead-32aa-43f3-94ac-d6e327f10db7",
   "ranked": false,
-  "rating": 0.9241628,
-  "ratingCount": 61,
+  "rating": 0.9224782,
+  "ratingCount": 63,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

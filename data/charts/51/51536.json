@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:13Z",
-    "lastChanged": "2026-09-21T02:04:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-23T09:00:55.434991Z",
   "charter": "MIDNIGHT",
@@ -14,6 +14,7 @@
   "description": "发一下旧谱吧\n\n\n2023.8.31(5thPecJam参赛作)\nBV14h4y1T7SK",
   "difficulty": 13.600004,
   "file": "https://phira.5wyxi.com/files/e67e7732-4c38-48dc-ab6e-f7fe22b1d62a",
+  "hidden": false,
   "id": 51536,
   "illustration": "https://phira.5wyxi.com/files/d5585ccc-0de2-4cf8-a260-cf3346cec159",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "深夜徘徊",
   "preview": "https://phira.5wyxi.com/files/75d76cb3-47bb-442b-bb62-2c6e458bee73",
   "ranked": false,
-  "rating": 0.93356544,
-  "ratingCount": 342,
+  "rating": 0.9348617,
+  "ratingCount": 357,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:25Z",
-    "lastChanged": "2026-09-21T02:04:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-28T08:54:27.855462Z",
   "charter": "pyyyvy/flzat7zmd5r",
@@ -14,6 +14,7 @@
   "description": "B站指路：BV1DkASzUEjD",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/1946c523-e2a9-4013-9814-b14588e8829a",
+  "hidden": false,
   "id": 53591,
   "illustration": "https://phira.5wyxi.com/files/3850b334-0ff1-4635-a7ca-d9925c35b0b8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GIGANTØMAKHIA",
   "preview": "https://phira.5wyxi.com/files/8ead6d5a-7d3f-43bd-a071-c653765d9ec9",
   "ranked": false,
-  "rating": 0.8839577,
-  "ratingCount": 148,
+  "rating": 0.8881517,
+  "ratingCount": 160,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

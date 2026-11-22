@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:50Z",
-    "lastChanged": "2026-09-21T02:05:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-15T02:25:51.724095Z",
   "charter": "原铺사로아SarouA转谱hanglin",
@@ -14,6 +14,7 @@
   "description": "本人传谱",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/4ff4101d-2566-41f7-8f40-60f623adbad2",
+  "hidden": false,
   "id": 21307,
   "illustration": "https://phira.5wyxi.com/files/06fcc1e6-aa70-43ca-afc7-559b5572878b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fallen_Symphony",
   "preview": "https://phira.5wyxi.com/files/f31b4262-4d8f-40fd-a0db-344b4c0b0896",
   "ranked": false,
-  "rating": 0.9561073,
-  "ratingCount": 378,
+  "rating": 0.9565076,
+  "ratingCount": 384,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

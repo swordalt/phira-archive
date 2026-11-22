@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:59Z",
-    "lastChanged": "2026-09-21T02:05:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-14T03:38:31.197611Z",
   "charter": "Na2O_Unleg1t",
@@ -14,6 +14,7 @@
   "description": "新人第二次写谱 本人上传 曲师和我都有点喝大了所以才出现此抽象作。 难度大概在5-6dan左右吧 纯儿歌",
   "difficulty": 30.0,
   "file": "https://phira.5wyxi.com/files/6c0a0cab-37da-4606-a7dc-f1972f221350",
+  "hidden": false,
   "id": 26201,
   "illustration": "https://phira.5wyxi.com/files/599aa5a0-81a7-47d1-a6dd-dcba14212cbb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "INTERNET OTTO",
   "preview": "https://phira.5wyxi.com/files/9454cebd-bcaa-4b8b-93f0-bed253d3582a",
   "ranked": false,
-  "rating": 0.91001093,
-  "ratingCount": 303,
+  "rating": 0.9065509,
+  "ratingCount": 321,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

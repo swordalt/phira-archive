@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:07Z",
-    "lastChanged": "2026-09-21T02:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-29T02:44:51.551398Z",
   "charter": "巀巇帍惉",
@@ -14,6 +14,7 @@
   "description": "写谱本人上传",
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/f6bb9dbb-7734-43cb-80cc-f62867639185",
+  "hidden": false,
   "id": 34915,
   "illustration": "https://phira.5wyxi.com/files/0e49fbf7-a326-4a3c-bb73-ff6db172c4f8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Simple Sight (Instrumental)",
   "preview": "https://phira.5wyxi.com/files/eb5bbcf9-8293-4c3a-b406-50c0b409bd16",
   "ranked": false,
-  "rating": 0.8739167,
-  "ratingCount": 24,
+  "rating": 0.87823045,
+  "ratingCount": 25,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

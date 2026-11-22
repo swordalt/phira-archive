@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:15Z",
-    "lastChanged": "2026-09-21T02:05:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-09T02:25:11.991159Z",
   "charter": "ZMR",
@@ -14,6 +14,7 @@
   "description": "6thWJC参赛谱。",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/f2f72df8-b58b-46f3-978f-c6a8c9a8dd26",
+  "hidden": false,
   "id": 77544,
   "illustration": "https://phira.5wyxi.com/files/20eec953-9e7c-45cc-9e3b-936fcd4da896",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "又三郎",
   "preview": "https://phira.5wyxi.com/files/bb88bb95-e5a0-4c21-b024-4260a4be0d79",
   "ranked": false,
-  "rating": 0.94769406,
-  "ratingCount": 1024,
+  "rating": 0.94967407,
+  "ratingCount": 2423,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

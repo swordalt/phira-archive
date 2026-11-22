@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:42Z",
-    "lastChanged": "2026-09-21T02:03:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-18T13:17:47.684971Z",
   "charter": "Tairitempest: Twisted and Tangled Fingers",
@@ -14,6 +14,7 @@
   "description": "2ndBWC No.9本人上传。在maimai DX上游玩该曲白谱后脑子发生微妙变化后想出的idea。",
   "difficulty": 14.6,
   "file": "https://phira.5wyxi.com/files/83e9df58-e98b-40a0-a9ff-1fa08d8376ba",
+  "hidden": false,
   "id": 45062,
   "illustration": "https://phira.5wyxi.com/files/964075f8-1f84-4138-9d84-fc50b86cdb6b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "だんだん早くなる",
   "preview": "https://phira.5wyxi.com/files/ad24ea81-e0c0-4b46-80d9-961bbbad7bf7",
   "ranked": true,
-  "rating": 0.8592172,
-  "ratingCount": 1735,
+  "rating": 0.86038375,
+  "ratingCount": 1828,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

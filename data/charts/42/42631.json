@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:25Z",
-    "lastChanged": "2026-09-21T02:06:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-24T14:49:18.794031Z",
   "charter": "Snow",
@@ -14,6 +14,7 @@
   "description": "使用Malody制作，群友叫做的，4k谱面，如有误差敬请谅解，玩得开心",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/b403a9ff-bc4f-4158-acba-2a88269b9721",
+  "hidden": false,
   "id": 42631,
   "illustration": "https://phira.5wyxi.com/files/edfe0419-0b6b-4b63-82d2-de32b7790202",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "破旧世界",
   "preview": "https://phira.5wyxi.com/files/52400c81-7508-4ad4-9a7d-7db7be238a43",
   "ranked": false,
-  "rating": 0.9329948,
-  "ratingCount": 1783,
+  "rating": 0.933198,
+  "ratingCount": 1906,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

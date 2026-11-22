@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:53Z",
-    "lastChanged": "2026-09-21T02:01:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-05T10:02:28.303382Z",
   "charter": "MAX3957",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n2026.9.20更新曲绘和难度",
   "difficulty": 16.100004,
   "file": "https://phira.5wyxi.com/files/e5e69c48-55a9-4314-988c-24c6cbe11770",
+  "hidden": false,
   "id": 14728,
   "illustration": "https://phira.5wyxi.com/files/dcece034-f6d0-4614-aeca-7b500cca3f5d",
   "illustrator": "EBIMAYO (Chloe modified)",
@@ -21,8 +22,8 @@
   "name": "MAXRAGE",
   "preview": "https://phira.5wyxi.com/files/d5aaacc6-8b61-444e-86ca-0cc7b708fdc3",
   "ranked": true,
-  "rating": 0.93014014,
-  "ratingCount": 8473,
+  "rating": 0.928822,
+  "ratingCount": 9822,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

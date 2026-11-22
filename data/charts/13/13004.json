@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:46Z",
-    "lastChanged": "2026-09-21T02:01:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-30T15:21:45.271809Z",
   "charter": "青いの「乾」",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/fc1ed27b-7c38-4d1d-a591-6b6e34464eb0",
+  "hidden": false,
   "id": 13004,
   "illustration": "https://phira.5wyxi.com/files/e6646607-2c18-480e-b393-dbbd26fe98c3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "群青",
   "preview": "https://phira.5wyxi.com/files/7bebbbfa-5b92-4817-b01c-471b83806073",
   "ranked": false,
-  "rating": 0.95242566,
-  "ratingCount": 24356,
+  "rating": 0.9523587,
+  "ratingCount": 24854,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:51Z",
-    "lastChanged": "2026-09-21T02:03:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-14T05:35:44.391105Z",
   "charter": "近似值",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/51e0f276-b8b9-4d61-89c1-8845ebae8a2f",
+  "hidden": false,
   "id": 46832,
   "illustration": "https://phira.5wyxi.com/files/4f26b7db-cf2e-4acf-bb9b-7bb0f992471c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ぐちゃぐちゃぬるぽ",
   "preview": "https://phira.5wyxi.com/files/04eb7272-561c-4012-88d2-4e797329cfcb",
   "ranked": false,
-  "rating": 0.9239301,
-  "ratingCount": 1242,
+  "rating": 0.9239595,
+  "ratingCount": 1254,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

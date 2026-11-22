@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:43Z",
-    "lastChanged": "2026-09-21T02:01:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-01T23:22:46.976769Z",
   "charter": "EfiLF1y.",
@@ -14,6 +14,7 @@
   "description": "谱师: @EfiLF1y",
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/3b43714c-bc69-487a-802a-fab91fbe9065",
+  "hidden": false,
   "id": 11957,
   "illustration": "https://phira.5wyxi.com/files/ae2b7bef-ab4c-43c3-8f58-591bdfd4ddbb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Daybreak Will Never Come Again.",
   "preview": "https://phira.5wyxi.com/files/bb4b0369-190f-4025-826b-49fab69a0c12",
   "ranked": false,
-  "rating": 0.94410026,
-  "ratingCount": 1928,
+  "rating": 0.9439247,
+  "ratingCount": 1949,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

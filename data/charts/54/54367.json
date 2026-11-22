@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:29Z",
-    "lastChanged": "2026-09-21T02:04:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-21T07:26:44.134714Z",
   "charter": "I Can't Wait",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/458a2057-5c2d-4c55-b233-b9b17850a0ff",
+  "hidden": false,
   "id": 54367,
   "illustration": "https://phira.5wyxi.com/files/6511fe27-7a91-4340-a16f-035b6ad9ff4c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "I Can't Wait",
   "preview": "https://phira.5wyxi.com/files/9ad19be1-7f83-44f7-bb84-2d9d8b4818e4",
   "ranked": false,
-  "rating": 0.9317914,
-  "ratingCount": 11969,
+  "rating": 0.93134326,
+  "ratingCount": 12635,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

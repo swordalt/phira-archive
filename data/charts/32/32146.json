@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:57Z",
-    "lastChanged": "2026-09-21T02:02:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-21T08:15:48.644415Z",
   "charter": "BUT FOR 小蒋同学",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/f56908c5-bd1a-4d39-bc85-f12efb5e3e7f",
+  "hidden": false,
   "id": 32146,
   "illustration": "https://phira.5wyxi.com/files/94e63332-60b7-4b04-9e12-d2d6cb6edc8c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "It's over,BUT NOT FOR US(Dafikun Remix)",
   "preview": "https://phira.5wyxi.com/files/016f10e5-c033-4014-917a-e8d81d6f4b02",
   "ranked": false,
-  "rating": 0.9288065,
-  "ratingCount": 88,
+  "rating": 0.92957884,
+  "ratingCount": 89,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

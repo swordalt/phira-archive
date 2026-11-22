@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:38Z",
-    "lastChanged": "2026-09-21T02:05:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-21T12:33:33.135050Z",
   "charter": "None",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/7fe136b4-ff69-4997-9a72-a6470f47bcbf",
+  "hidden": false,
   "id": 11654,
   "illustration": "https://phira.5wyxi.com/files/8a2143e4-ec19-4742-a1f9-c8b07744a293",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "POWA OF DA WILDANES",
   "preview": "https://phira.5wyxi.com/files/30530d41-537a-4357-804d-5a9df9f60deb",
   "ranked": false,
-  "rating": 0.88881344,
-  "ratingCount": 107,
+  "rating": 0.88982576,
+  "ratingCount": 108,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

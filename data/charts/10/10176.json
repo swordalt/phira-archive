@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:36Z",
-    "lastChanged": "2026-09-21T02:01:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-05T05:44:52.804532Z",
   "charter": "Green Caviar",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/bcc91d5a-3f7f-41c7-a5ee-3aaa9bcdc165",
+  "hidden": false,
   "id": 10176,
   "illustration": "https://phira.5wyxi.com/files/fc6233cc-c178-4519-9d7b-8f9b752a9ea3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Super Nova Project",
   "preview": "https://phira.5wyxi.com/files/e0897ae4-fd51-4974-8c07-1678eece89d3",
   "ranked": false,
-  "rating": 0.9656327,
-  "ratingCount": 22972,
+  "rating": 0.9656038,
+  "ratingCount": 23176,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

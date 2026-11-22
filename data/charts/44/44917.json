@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:42Z",
-    "lastChanged": "2026-09-21T02:03:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-17T02:38:43.503200Z",
   "charter": "zzzzzzking",
@@ -14,6 +14,7 @@
   "description": "BV1vEY6zMEpU\n小孩不懂事瞎写的",
   "difficulty": 15.400001,
   "file": "https://phira.5wyxi.com/files/6662d54b-ba1f-4a4f-9e09-f6d4287581f2",
+  "hidden": false,
   "id": 44917,
   "illustration": "https://phira.5wyxi.com/files/f04df7d1-5f85-4efe-80bd-ed7e8bbc567f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Second Sanctury",
   "preview": "https://phira.5wyxi.com/files/50afef02-73d1-48e0-af74-47112aab0975",
   "ranked": false,
-  "rating": 0.9413553,
-  "ratingCount": 412,
+  "rating": 0.9413471,
+  "ratingCount": 452,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

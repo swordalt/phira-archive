@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-27T08:02:44Z",
-    "lastChanged": "2026-09-27T18:17:53Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:03:03Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-08-07T09:57:53.956381Z",
   "charter": "wym",
@@ -14,6 +14,7 @@
   "description": "本人上传\ndrag占比：700/2186\n双指中难，多指谨慎游玩",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/eca01c6d-10ba-4775-9da7-63a8da602d9c",
+  "hidden": false,
   "id": 71851,
   "illustration": "https://phira.5wyxi.com/files/40cc7ed9-64d7-4b67-8c8b-9e78bed63554",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "十拳剣",
   "preview": "https://phira.5wyxi.com/files/cfa0c69a-2b53-4500-a530-da3eba917124",
   "ranked": false,
-  "rating": 0.83321184,
-  "ratingCount": 5,
+  "rating": 0.8996263,
+  "ratingCount": 36,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:24Z",
-    "lastChanged": "2026-09-21T02:06:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-21T02:25:34.824231Z",
   "charter": "Satell1te_LK",
@@ -14,6 +14,7 @@
   "description": "B站Satell1te_LK，视频已发布。",
   "difficulty": 5.0,
   "file": "https://phira.5wyxi.com/files/a71bfe4e-1822-408c-8671-457ed553ee61",
+  "hidden": false,
   "id": 42257,
   "illustration": "https://phira.5wyxi.com/files/4470bedd-c7ca-4063-88dd-adbd081f9360",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "逆月",
   "preview": "https://phira.5wyxi.com/files/4bff2cec-ba34-435c-b1b4-bbff021b0672",
   "ranked": false,
-  "rating": 0.71794915,
-  "ratingCount": 21,
+  "rating": 0.72890216,
+  "ratingCount": 22,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

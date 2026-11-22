@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:45Z",
-    "lastChanged": "2026-09-21T02:04:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-03T06:19:18.692494Z",
   "charter": "Maturing vs. Korus_",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/980a2a5f-dded-46b0-8f34-2d0f4c2417b6",
+  "hidden": false,
   "id": 59811,
   "illustration": "https://phira.5wyxi.com/files/faf29830-d060-4d74-8b13-48dbb0f10013",
   "illustrator": "",

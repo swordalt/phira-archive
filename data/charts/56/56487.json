@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:36Z",
-    "lastChanged": "2026-09-21T02:04:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-17T11:55:10.071063Z",
   "charter": "南瓜",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/da8eb355-1ebb-4eb0-8d37-1a02e1bdfd3a",
+  "hidden": false,
   "id": 56487,
   "illustration": "https://phira.5wyxi.com/files/ce32c37e-0753-4c12-a989-14646ccd8ab2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MORNINGLOOM",
   "preview": "https://phira.5wyxi.com/files/0e9691ac-c5fb-4a75-88b8-ddeb6f6ee9f6",
   "ranked": false,
-  "rating": 0.9358693,
-  "ratingCount": 107,
+  "rating": 0.9357106,
+  "ratingCount": 115,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

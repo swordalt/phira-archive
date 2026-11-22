@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:06Z",
-    "lastChanged": "2026-09-21T02:06:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-29T02:35:01.395639Z",
   "charter": "Rainbow-FM",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/1aa7204a-2b85-430d-ae8b-22dd1d93b287",
+  "hidden": false,
   "id": 31176,
   "illustration": "https://phira.5wyxi.com/files/a5b4c856-2256-4a42-98b6-a13e86d7a069",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "糖果曲奇巧克力（CANDY COOKIE CHOCOLATE）",
   "preview": "https://phira.5wyxi.com/files/70969962-455f-4cb9-b408-05e9170ebf88",
   "ranked": false,
-  "rating": 0.943784,
-  "ratingCount": 624,
+  "rating": 0.9430658,
+  "ratingCount": 646,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

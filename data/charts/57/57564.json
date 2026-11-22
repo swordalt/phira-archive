@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:50Z",
-    "lastChanged": "2026-09-21T02:06:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-02T07:53:43.034410Z",
   "charter": "分歧的圆",
@@ -14,6 +14,7 @@
   "description": "难度极差较大的谱面\n推荐使用双指游玩\n标准分 100.00",
   "difficulty": 9.400002,
   "file": "https://phira.5wyxi.com/files/b9a57b9e-4f42-4dee-9208-c4ed03ca129d",
+  "hidden": false,
   "id": 57564,
   "illustration": "https://phira.5wyxi.com/files/2b4128af-2d5b-4e4d-8ab8-af36366a09aa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "最伟大的作品",
   "preview": "https://phira.5wyxi.com/files/2634a778-ef54-4e21-985b-15a756275172",
   "ranked": false,
-  "rating": 0.8970256,
-  "ratingCount": 556,
+  "rating": 0.89854264,
+  "ratingCount": 585,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

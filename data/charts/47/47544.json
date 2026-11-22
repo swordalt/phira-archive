@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:55Z",
-    "lastChanged": "2026-09-21T02:03:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-03T09:58:20.339535Z",
   "charter": "小鱼仔娱乐",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 18.5,
   "file": "https://phira.5wyxi.com/files/c20ec9ab-f94c-410e-917c-3b24b2ed79cc",
+  "hidden": false,
   "id": 47544,
   "illustration": "https://phira.5wyxi.com/files/951a0532-948c-447b-b412-9d35a5ff0b59",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "提瓦特民谣",
   "preview": "https://phira.5wyxi.com/files/602c494c-39de-4648-8385-8dc9102cc15a",
   "ranked": false,
-  "rating": 0.9558878,
-  "ratingCount": 1882,
+  "rating": 0.9558218,
+  "ratingCount": 2009,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

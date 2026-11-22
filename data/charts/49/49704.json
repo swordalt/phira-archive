@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:05Z",
-    "lastChanged": "2026-09-21T02:04:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-30T11:31:37.745499Z",
   "charter": "The_Untimate_Star",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/b74ce12c-670b-4f2f-9e83-49ef89f666f1",
+  "hidden": false,
   "id": 49704,
   "illustration": "https://phira.5wyxi.com/files/b6fb81a5-044b-4765-ae07-5115c14e7d74",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Cryheart",
   "preview": "https://phira.5wyxi.com/files/f8175e38-6022-4369-bd3a-6d8844eac6c3",
   "ranked": false,
-  "rating": 0.81572384,
-  "ratingCount": 14,
+  "rating": 0.83111763,
+  "ratingCount": 18,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

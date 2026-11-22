@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:01Z",
-    "lastChanged": "2026-09-21T02:03:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-03T08:45:08.117426Z",
   "charter": "Air & 121",
@@ -14,6 +14,7 @@
   "description": "BV1D4FyeAEXN",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/55c332b4-f023-44ad-a4ba-da5b6bdf8c76",
+  "hidden": false,
   "id": 33184,
   "illustration": "https://phira.5wyxi.com/files/d148a9cd-98c7-4d4b-8ab1-943ad0a2f2e9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "狼之主",
   "preview": "https://phira.5wyxi.com/files/a9d82422-563d-427f-ba0e-aa3e1bc1c59c",
   "ranked": false,
-  "rating": 0.945854,
-  "ratingCount": 672,
+  "rating": 0.94570005,
+  "ratingCount": 704,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

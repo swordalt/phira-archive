@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:57Z",
-    "lastChanged": "2026-09-21T02:01:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-14T12:02:09.831455Z",
   "charter": "tempo",
@@ -14,6 +14,7 @@
   "description": "en-US",
   "difficulty": 13.300001,
   "file": "https://phira.5wyxi.com/files/07f0db5d-4cd0-43fc-b088-957cbf172a0e",
+  "hidden": false,
   "id": 15654,
   "illustration": "https://phira.5wyxi.com/files/1e161419-8e46-4fee-bc60-45a160160cec",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MAYDAY",
   "preview": "https://phira.5wyxi.com/files/0c80ddf0-410d-4905-aac4-5505780124d4",
   "ranked": false,
-  "rating": 0.9436426,
-  "ratingCount": 455,
+  "rating": 0.94393075,
+  "ratingCount": 459,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

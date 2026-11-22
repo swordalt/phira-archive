@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:01Z",
-    "lastChanged": "2026-09-21T02:04:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-06T14:27:01.892614Z",
   "charter": "默绿草",
@@ -14,6 +14,7 @@
   "description": "写的最简单的一张谱",
   "difficulty": 18.999998,
   "file": "https://phira.5wyxi.com/files/11165a13-ed1b-4d10-8938-a62fa07ba529",
+  "hidden": false,
   "id": 48798,
   "illustration": "https://phira.5wyxi.com/files/0048b5d4-d686-4d4d-99cb-794ced6acb22",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Acht Streiks",
   "preview": "https://phira.5wyxi.com/files/3023ae08-f158-4e0d-b5d4-8f07078cc249",
   "ranked": false,
-  "rating": 0.67737865,
-  "ratingCount": 17,
+  "rating": 0.68738014,
+  "ratingCount": 18,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

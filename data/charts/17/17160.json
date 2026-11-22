@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:44Z",
-    "lastChanged": "2026-09-21T02:05:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-16T04:10:05.057083Z",
   "charter": "Ayu.",
@@ -14,6 +14,7 @@
   "description": "你好，我是Ayu.，本人上传\n------------------------------------------\n出勤打mai时觉得这首红谱看紫谱很有意思就写了，难度系数参考了紫谱，后面一小段也是还原了紫谱",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/e316d98a-e84d-4c62-8067-f26804ad2747",
+  "hidden": false,
   "id": 17160,
   "illustration": "https://phira.5wyxi.com/files/c5433808-c152-4840-9458-a4ada46c6b11",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ハードコア・シンドローム",
   "preview": "https://phira.5wyxi.com/files/ca9acd9f-fb84-4d9f-846d-1186a7716863",
   "ranked": false,
-  "rating": 0.9437747,
-  "ratingCount": 326,
+  "rating": 0.9447906,
+  "ratingCount": 332,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:31Z",
-    "lastChanged": "2026-09-21T02:05:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-06T09:23:34.723152Z",
   "charter": "5071",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/fb0701ae-4829-4504-81e5-4d1fb6c5608f",
+  "hidden": false,
   "id": 46450,
   "illustration": "https://phira.5wyxi.com/files/bc1a412d-42f4-4985-b2fd-5eab314d2fdc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "イガク",
   "preview": "https://phira.5wyxi.com/files/daf651f2-affb-4759-a50f-838d028c6c62",
   "ranked": false,
-  "rating": 0.85372794,
-  "ratingCount": 322,
+  "rating": 0.85569906,
+  "ratingCount": 341,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

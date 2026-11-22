@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:15Z",
-    "lastChanged": "2026-09-21T02:02:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-31T15:32:34.169993Z",
   "charter": "无叶 from 沙勒",
@@ -14,6 +14,7 @@
   "description": "老谱新传",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/951f89fa-e5f9-4063-8169-3a9a4170aa33",
+  "hidden": false,
   "id": 20570,
   "illustration": "https://phira.5wyxi.com/files/275cd99a-1d14-434f-828a-956b231a3743",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Unwelcome School (t+pazolite Remix)",
   "preview": "https://phira.5wyxi.com/files/2da5402a-3161-498b-814d-aea1d3e0dbff",
   "ranked": false,
-  "rating": 0.9357359,
-  "ratingCount": 3642,
+  "rating": 0.9362016,
+  "ratingCount": 3691,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

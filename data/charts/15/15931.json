@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:58Z",
-    "lastChanged": "2026-09-21T02:01:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-17T06:51:01.512762Z",
   "charter": "ほし",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/54305a5f-29a0-439f-8aca-2879150620c6",
+  "hidden": false,
   "id": 15931,
   "illustration": "https://phira.5wyxi.com/files/9194686b-3fbf-4abd-aa90-8247135b0062",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ほしのおとしもの",
   "preview": "https://phira.5wyxi.com/files/ade4a6b8-74c9-4165-98a3-879cb3701492",
   "ranked": false,
-  "rating": 0.764603,
-  "ratingCount": 121,
+  "rating": 0.7659125,
+  "ratingCount": 122,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

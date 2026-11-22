@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:25Z",
-    "lastChanged": "2026-09-21T02:01:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-10T07:23:21.629371Z",
   "charter": "是熠烨啦",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 14.600002,
   "file": "https://phira.5wyxi.com/files/0d3e53b6-5b94-4b11-b01d-29b7d52161ad",
+  "hidden": false,
   "id": 7228,
   "illustration": "https://phira.5wyxi.com/files/f02ae996-03a0-4937-a2c0-86258a43681a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "星穹铁道 - 太空漫步 (PIKASONIC Remix)",
   "preview": "https://phira.5wyxi.com/files/4d913c41-faac-45e1-80cc-e6a9d0fb7c1e",
   "ranked": false,
-  "rating": 0.9198912,
-  "ratingCount": 2347,
+  "rating": 0.91946214,
+  "ratingCount": 2386,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

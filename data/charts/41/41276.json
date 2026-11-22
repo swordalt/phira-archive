@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:27Z",
-    "lastChanged": "2026-09-21T02:03:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-09T13:25:37.158808Z",
   "charter": "LINGrEN&DCOF are studying",
@@ -14,6 +14,7 @@
   "description": "B站账号令忍QvQ\n新人初谱",
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/3ebf4892-ff01-4f41-9691-b2f91f61ad03",
+  "hidden": false,
   "id": 41276,
   "illustration": "https://phira.5wyxi.com/files/ba112e7a-fc4b-4684-bfed-ff04fbcba91b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "おべんきょうたいむ",
   "preview": "https://phira.5wyxi.com/files/e7701c2b-86aa-451d-ab60-97739af5e224",
   "ranked": false,
-  "rating": 0.92620105,
-  "ratingCount": 1250,
+  "rating": 0.9267043,
+  "ratingCount": 1306,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

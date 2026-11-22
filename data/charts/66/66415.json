@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:58Z",
-    "lastChanged": "2026-09-21T02:06:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-14T05:21:07.444525Z",
   "charter": "HRS-Team",
@@ -14,6 +14,7 @@
   "description": "HRS-Lv.13-Flow单曲",
   "difficulty": 13.300013,
   "file": "https://phira.5wyxi.com/files/b35be3ca-12ce-40cc-9c2b-37b67dd2cb19",
+  "hidden": false,
   "id": 66415,
   "illustration": "https://phira.5wyxi.com/files/3763e800-22e4-4a32-ae01-687cbb1860e3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "えれくとりっく・えんじぇぅ",
   "preview": "https://phira.5wyxi.com/files/a37a903a-d908-424b-bb1a-80fdaf2fdc0f",
   "ranked": false,
-  "rating": 0.88468087,
-  "ratingCount": 28,
+  "rating": 0.8932685,
+  "ratingCount": 33,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

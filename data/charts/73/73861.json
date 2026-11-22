@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-27T10:16:13Z",
-    "lastChanged": "2026-09-27T18:17:49Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:08Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-17T02:44:36.738781Z",
   "charter": "Yanako struck by 20480 monkeys",
@@ -14,6 +14,7 @@
   "description": "新人初谱，可能会有些做的不太好的地方，请大佬指教，thx( > 人 < )\n\nQ&A\nQ1: 为什么配置和BV1pzMf6FEnm(我的Malody自制)极为相似？\nA1: 因为我当时在Malody上面写的只有单纯谱面配置，没有动效\nQ2: 为什么我玩到尾杀的时候黄键有点不对劲？\nA2: 我也有注意到，但不知道怎么解决(ू˃̣̣̣̣̣̣︿˂̣̣̣̣̣̣ ू)，明明rpe 和 Phi Recorder上面都好好的......",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/8e9e657d-052b-4c82-af45-a9381fa85050",
+  "hidden": false,
   "id": 73861,
   "illustration": "https://phira.5wyxi.com/files/0db8d3db-c178-4341-98f9-fb04e384b27c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "QuomodocunquizE",
   "preview": "https://phira.5wyxi.com/files/6e0835c8-80aa-45f1-9597-027564c219ee",
   "ranked": false,
-  "rating": 0.6800566,
-  "ratingCount": 6,
+  "rating": 0.77935565,
+  "ratingCount": 64,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

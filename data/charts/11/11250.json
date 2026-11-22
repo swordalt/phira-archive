@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:40Z",
-    "lastChanged": "2026-09-21T02:01:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:11Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-07T10:58:02.486088Z",
   "charter": "Schwarz酱",
@@ -14,6 +14,7 @@
   "description": "我的第二个谱，嫌差见谅，1:39的问题已经改了哦",
   "difficulty": 15.500001,
   "file": "https://phira.5wyxi.com/files/cfb643a4-e5c4-4e55-9df5-8b86c73ee962",
+  "hidden": false,
   "id": 11250,
   "illustration": "https://phira.5wyxi.com/files/dddf2137-1f72-443b-9677-a496405cc351",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Boss Rush",
   "preview": "https://phira.5wyxi.com/files/d2a225fd-8ffc-4cd4-b9a6-045d1f0a1d68",
   "ranked": false,
-  "rating": 0.77082145,
-  "ratingCount": 331,
+  "rating": 0.77182114,
+  "ratingCount": 332,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

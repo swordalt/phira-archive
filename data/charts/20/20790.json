@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:48Z",
-    "lastChanged": "2026-09-21T02:05:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-04T14:46:01.738368Z",
   "charter": "诗歌剧曼波",
@@ -14,6 +14,7 @@
   "description": "本节目由Coldsnow转谱提供，万分感谢\nmalody里面是24但实际绝对不止，还请酌情打分\n感谢游玩",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/72acdfb0-319c-4b23-9e86-dca823d679d3",
+  "hidden": false,
   "id": 20790,
   "illustration": "https://phira.5wyxi.com/files/d0783bbe-11c1-48e6-b652-cda76e127e3c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "NEURO-CLOUD-9",
   "preview": "https://phira.5wyxi.com/files/b790abc9-483e-4f9c-8702-01dadce48654",
   "ranked": false,
-  "rating": 0.7447244,
-  "ratingCount": 73,
+  "rating": 0.7481136,
+  "ratingCount": 74,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

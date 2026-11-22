@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:29Z",
-    "lastChanged": "2026-09-21T02:03:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-17T07:42:00.730872Z",
   "charter": "刘乃猫",
@@ -14,6 +14,7 @@
   "description": "刘乃猫",
   "difficulty": 7.0,
   "file": "https://phira.5wyxi.com/files/23de75b1-5cdd-4c1e-b117-7ab86054a653",
+  "hidden": false,
   "id": 41933,
   "illustration": "https://phira.5wyxi.com/files/2736f639-0c70-418f-a55c-58808867147b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bad",
   "preview": "https://phira.5wyxi.com/files/c5942bfd-8cd7-4068-b24f-166aca7db91e",
   "ranked": false,
-  "rating": 0.92042977,
-  "ratingCount": 42,
+  "rating": 0.91419446,
+  "ratingCount": 45,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

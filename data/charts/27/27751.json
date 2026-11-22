@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:40Z",
-    "lastChanged": "2026-09-21T02:02:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-16T16:47:51.472254Z",
   "charter": "RT_ESCADE",
@@ -14,6 +14,7 @@
   "description": "肝了很久的!nterroban(?,的4.0",
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/fa0f2128-b25c-46aa-b4c0-a19811f40fe6",
+  "hidden": false,
   "id": 27751,
   "illustration": "https://phira.5wyxi.com/files/dd042bf7-5c77-461a-a2aa-ef18d28d5bc5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "!nterroban(?,",
   "preview": "https://phira.5wyxi.com/files/d28dbb15-ad59-490b-ad1c-050cbf3b6f1c",
   "ranked": false,
-  "rating": 0.9170424,
-  "ratingCount": 384,
+  "rating": 0.9178388,
+  "ratingCount": 388,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

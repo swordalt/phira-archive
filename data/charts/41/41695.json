@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:29Z",
-    "lastChanged": "2026-09-21T02:03:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-14T14:10:46.044709Z",
   "charter": "む_Akira",
@@ -14,6 +14,7 @@
   "description": "？",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/8fc46d5c-1217-4a66-8034-38b69401a272",
+  "hidden": false,
   "id": 41695,
   "illustration": "https://phira.5wyxi.com/files/ef0f8711-1604-4f67-8d2b-10bb9c0bab56",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Echoes Of Memoria",
   "preview": "https://phira.5wyxi.com/files/15a85eeb-cedc-4437-8447-7cef11a7de13",
   "ranked": false,
-  "rating": 0.95478505,
-  "ratingCount": 1483,
+  "rating": 0.955529,
+  "ratingCount": 1561,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:36Z",
-    "lastChanged": "2026-09-21T02:02:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-23T07:57:13.887136Z",
   "charter": "木亢木亢",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/638ecfcd-fb3f-4a62-ad6c-568381d28c68",
+  "hidden": false,
   "id": 26775,
   "illustration": "https://phira.5wyxi.com/files/7b2c185b-f592-4609-acee-570262427c57",
   "illustrator": "",

@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:32Z",
-    "lastChanged": "2026-09-21T02:05:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-04T07:43:31.639511Z",
   "charter": "Awaken Star Arts",
@@ -14,6 +14,7 @@
   "description": "脑裂の终极考验！思路主要为“常驻SP”，收歌需要花费大量时间研究手法。\nb站@StarArts魔王",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/67196bc8-f432-4c18-ae0a-a1f160ab084f",
+  "hidden": false,
   "id": 47593,
   "illustration": "https://phira.5wyxi.com/files/584b294d-a770-4868-a3d9-9b4ed7752655",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bad Apple!! feat.nomico(REDALiCE Remix)",
   "preview": "https://phira.5wyxi.com/files/c204e7bd-7a5b-49fc-a42f-3d7b1edd93ac",
   "ranked": false,
-  "rating": 0.8727879,
-  "ratingCount": 151,
+  "rating": 0.8732563,
+  "ratingCount": 168,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:14Z",
-    "lastChanged": "2026-09-21T02:03:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-23T13:26:16.499486Z",
   "charter": "Moday_7",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/4474e68d-160d-4d70-8945-23e1eb6aa477",
+  "hidden": false,
   "id": 36909,
   "illustration": "https://phira.5wyxi.com/files/91576331-5eb9-45d0-82ad-539901a88c21",
   "illustrator": "",

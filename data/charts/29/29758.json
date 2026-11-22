@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:47Z",
-    "lastChanged": "2026-09-21T02:02:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-16T11:31:40.254139Z",
   "charter": "万家",
@@ -14,6 +14,7 @@
   "description": "bilibili:万家耶",
   "difficulty": 13.000004,
   "file": "https://phira.5wyxi.com/files/e89f5249-5f12-4364-81f3-d3a8203f585c",
+  "hidden": false,
   "id": 29758,
   "illustration": "https://phira.5wyxi.com/files/0078afb7-c3b0-4a66-a4ca-1fd1fa876c77",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "TheFatRat-Unity",
   "preview": "https://phira.5wyxi.com/files/067d12af-57dc-454b-b460-231e1ca206ed",
   "ranked": false,
-  "rating": 0.9430656,
-  "ratingCount": 1625,
+  "rating": 0.9440827,
+  "ratingCount": 1674,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:19Z",
-    "lastChanged": "2026-09-21T02:05:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-23T03:03:23.442867Z",
   "charter": "snakewhale",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/e20e0410-232f-48bd-a741-511d10d71f65",
+  "hidden": false,
   "id": 5869,
   "illustration": "https://phira.5wyxi.com/files/b3d1ecf5-a673-40ce-8e17-9d34ac5d14ea",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "谁问你了？",
   "preview": "https://phira.5wyxi.com/files/c61a3755-481f-4ef1-b8fd-ff8fd1bb9e51",
   "ranked": false,
-  "rating": 0.90518224,
-  "ratingCount": 1708,
+  "rating": 0.9050734,
+  "ratingCount": 1709,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

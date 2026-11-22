@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:27Z",
-    "lastChanged": "2026-09-21T02:03:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-09T12:51:30.775510Z",
   "charter": "Encly",
@@ -14,6 +14,7 @@
   "description": "作者Bilibili@ty天远\r\n谱面为本人上传\r\n为初寻杯比赛用谱之一",
   "difficulty": 15.599999,
   "file": "https://phira.5wyxi.com/files/d53309f1-e70b-4224-bd70-8918dcdce3d5",
+  "hidden": false,
   "id": 41271,
   "illustration": "https://phira.5wyxi.com/files/ee5f705d-d73e-4101-87e2-9258efcd787f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Towards the Horizon",
   "preview": "https://phira.5wyxi.com/files/5132a8e5-0c4e-4988-a4a6-f0dec1b4cc7f",
   "ranked": false,
-  "rating": 0.92553115,
-  "ratingCount": 231,
+  "rating": 0.92563665,
+  "ratingCount": 234,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

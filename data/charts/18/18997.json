@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:47Z",
-    "lastChanged": "2026-09-21T02:05:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-28T06:28:59.500083Z",
   "charter": "咩咩这并不好笑",
@@ -14,6 +14,7 @@
   "description": "较难谱，140BPM叠",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/f91c9889-0a7c-4879-984e-8286f71d1036",
+  "hidden": false,
   "id": 18997,
   "illustration": "https://phira.5wyxi.com/files/663d9110-307d-4efd-b8e8-7b91feccb5bc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mermaids girl (Extended RRver.)",
   "preview": "https://phira.5wyxi.com/files/879c6461-9678-41e6-a797-0eca67d8f344",
   "ranked": false,
-  "rating": 0.94476956,
-  "ratingCount": 127,
+  "rating": 0.9468179,
+  "ratingCount": 132,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

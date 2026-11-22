@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:50Z",
-    "lastChanged": "2026-09-21T02:03:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-06T15:06:26.249659Z",
   "charter": "Temmie, Wave of Emerald",
@@ -14,6 +14,7 @@
   "description": "谱面为本人上传。B站头像与用户名和本平台不同。谱面演示：BV16caaz9ENE",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/b90130c5-5f9c-4660-9c75-8fde2746ee5b",
+  "hidden": false,
   "id": 46484,
   "illustration": "https://phira.5wyxi.com/files/2a283d30-294d-4b15-95a5-73ff849f0cef",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Grimoire of Emerald",
   "preview": "https://phira.5wyxi.com/files/eaa35c80-7cf1-4927-a179-b2d5f854e67b",
   "ranked": false,
-  "rating": 0.93322766,
-  "ratingCount": 68,
+  "rating": 0.9343271,
+  "ratingCount": 72,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

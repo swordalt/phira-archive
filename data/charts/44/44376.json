@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:29Z",
-    "lastChanged": "2026-09-21T02:06:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-11T17:02:59.432352Z",
   "charter": "NineMire",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\nLC2025#1 GF TB",
   "difficulty": 16.9,
   "file": "https://phira.5wyxi.com/files/6133b311-163c-4d9f-bdc1-d0d1c8f7aeae",
+  "hidden": false,
   "id": 44376,
   "illustration": "https://phira.5wyxi.com/files/6b2c7504-edd0-4934-b54f-0fffb768e5f7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "九皋",
   "preview": "https://phira.5wyxi.com/files/6303f972-0a12-4957-8021-b59c533c6020",
   "ranked": false,
-  "rating": 0.9358583,
-  "ratingCount": 33,
+  "rating": 0.9375423,
+  "ratingCount": 34,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

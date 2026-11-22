@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:35Z",
-    "lastChanged": "2026-09-21T02:03:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-01T07:45:09.961409Z",
   "charter": "BlackLight",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.5,
   "file": "https://phira.5wyxi.com/files/6d18e121-7295-4ca9-96b8-aa550f86dbd0",
+  "hidden": false,
   "id": 43359,
   "illustration": "https://phira.5wyxi.com/files/f7e23269-1434-4546-ad90-d403e5e0399f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "magnet",
   "preview": "https://phira.5wyxi.com/files/04489e2d-a7d2-4449-b8d3-0facf9d34ee6",
   "ranked": false,
-  "rating": 0.9426793,
-  "ratingCount": 475,
+  "rating": 0.9436089,
+  "ratingCount": 506,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

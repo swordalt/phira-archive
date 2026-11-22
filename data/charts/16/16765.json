@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:02Z",
-    "lastChanged": "2026-09-21T02:02:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-05T11:33:16.966600Z",
   "charter": "FLAG",
@@ -14,6 +14,7 @@
   "description": "Bilibili @FLAG_Xiaoqi\n随缘更新",
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/6c37cd8f-79d7-4f28-bedd-dc4976e9af66",
+  "hidden": false,
   "id": 16765,
   "illustration": "https://phira.5wyxi.com/files/5ea3716f-c834-401b-98db-32ee13df9f04",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "VEZZELiX",
   "preview": "https://phira.5wyxi.com/files/4d7dc3bb-50e7-4dd0-933b-55e17286555b",
   "ranked": true,
-  "rating": 0.93470764,
-  "ratingCount": 2361,
+  "rating": 0.93483895,
+  "ratingCount": 2391,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

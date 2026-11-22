@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:56Z",
-    "lastChanged": "2026-09-21T02:05:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-29T03:31:57.955762Z",
   "charter": "达不溜叉外",
@@ -14,6 +14,7 @@
   "description": "我在火车上写的谱，新人谱师，踩空音可能影响手感（叠甲) 转谱器来自B站@起名钉子户",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/24f9a1ec-79b5-43d5-845b-c1f85721fb8d",
+  "hidden": false,
   "id": 24627,
   "illustration": "https://phira.5wyxi.com/files/0d1f2dc8-0480-449d-a153-ba035f60d849",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Kumo No Kireme",
   "preview": "https://phira.5wyxi.com/files/37e0383e-0de2-4f98-8c65-fcae5edb1f11",
   "ranked": false,
-  "rating": 0.9431382,
-  "ratingCount": 72,
+  "rating": 0.94336104,
+  "ratingCount": 73,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

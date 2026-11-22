@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-09T13:07:00Z",
-    "lastChanged": "2026-10-12T10:38:09Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:12Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-08-26T04:42:13.398485Z",
   "charter": "僕は、インターネット師範代 －『xQ』です ",
@@ -14,6 +14,7 @@
   "description": "B站 某个屑柒，本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/c1aef581-16b1-4552-a558-470dcd79c8a2",
+  "hidden": false,
   "id": 75758,
   "illustration": "https://phira.5wyxi.com/files/03d08c85-8c3c-4283-9b23-382eed69499a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "超デジタル超デトックス",
   "preview": "https://phira.5wyxi.com/files/60fbcbc1-ec62-49a7-8213-0c21c01e6faf",
   "ranked": false,
-  "rating": 0.92654115,
-  "ratingCount": 103,
+  "rating": 0.9377887,
+  "ratingCount": 295,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

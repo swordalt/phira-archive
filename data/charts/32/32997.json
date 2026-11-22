@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:00Z",
-    "lastChanged": "2026-09-21T02:03:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-31T22:41:09.243133Z",
   "charter": "CooCooCooCoo",
@@ -14,6 +14,7 @@
   "description": "曲绘搬运自另一位谱师...",
   "difficulty": 13.699999,
   "file": "https://phira.5wyxi.com/files/af365521-9e74-4cf4-a51b-fa2fa75613ed",
+  "hidden": false,
   "id": 32997,
   "illustration": "https://phira.5wyxi.com/files/1beea3fb-a4d5-49be-9637-3aa15834e8ba",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "旧地獄街道を行く",
   "preview": "https://phira.5wyxi.com/files/a8ef26b3-ac74-4eee-acaf-fbc4c16f1933",
   "ranked": false,
-  "rating": 0.9233683,
-  "ratingCount": 66,
+  "rating": 0.9191951,
+  "ratingCount": 69,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

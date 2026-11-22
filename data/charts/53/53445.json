@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:24Z",
-    "lastChanged": "2026-09-21T02:04:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-26T07:18:45.649393Z",
   "charter": "Exust",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.300005,
   "file": "https://phira.5wyxi.com/files/f83361cf-4202-4d6b-aba2-3f09fb1fde9f",
+  "hidden": false,
   "id": 53445,
   "illustration": "https://phira.5wyxi.com/files/2000318f-0687-49ab-9060-e0dcb69da408",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Apocalyptic",
   "preview": "https://phira.5wyxi.com/files/926ed3eb-cfae-470c-b37a-0139d00f69ff",
   "ranked": false,
-  "rating": 0.8658179,
-  "ratingCount": 131,
+  "rating": 0.8650726,
+  "ratingCount": 133,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

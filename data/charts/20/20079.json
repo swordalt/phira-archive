@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:14Z",
-    "lastChanged": "2026-09-21T02:02:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-18T13:37:25.065514Z",
   "charter": "乌wu戮",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.600001,
   "file": "https://phira.5wyxi.com/files/8e87d4be-2f53-4a10-b01d-c9b2b7672eb7",
+  "hidden": false,
   "id": 20079,
   "illustration": "https://phira.5wyxi.com/files/fba1b043-2212-4ee5-ae66-7259c32557b7",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "跳舞的线 沙漠",
   "preview": "https://phira.5wyxi.com/files/85e41349-14d1-44b6-8a12-cc1a3a04ac83",
   "ranked": false,
-  "rating": 0.3409324,
+  "rating": 0.34945238,
   "ratingCount": 85,
   "reviewed": true,
   "stable": false,

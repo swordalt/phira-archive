@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:08Z",
-    "lastChanged": "2026-09-21T02:03:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-21T11:21:32.131997Z",
   "charter": "化虚归无",
@@ -14,6 +14,7 @@
   "description": "B站@化虚归无\n更新：修正曲名，之前少打了一个点",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/0ed742ff-6906-4649-a63c-2ac3863084aa",
+  "hidden": false,
   "id": 35489,
   "illustration": "https://phira.5wyxi.com/files/4c225d02-69ba-4129-ad31-8e08f321baac",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "インパアフェクシオン・ホワイトガアル",
   "preview": "https://phira.5wyxi.com/files/ee54851b-846e-4eab-9a06-11c3e00c5239",
   "ranked": false,
-  "rating": 0.9271269,
-  "ratingCount": 359,
+  "rating": 0.9277001,
+  "ratingCount": 365,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

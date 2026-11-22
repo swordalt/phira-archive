@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:00Z",
-    "lastChanged": "2026-09-21T02:06:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-27T22:14:15.740176Z",
   "charter": "凝望你怎么似了",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，但是没特效（悲",
   "difficulty": 16.7,
   "file": "https://phira.5wyxi.com/files/404f4812-2245-4462-a723-041af8de768c",
+  "hidden": false,
   "id": 26991,
   "illustration": "https://phira.5wyxi.com/files/c2edb907-3b27-40b5-9565-fc28982aebaa",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fin.ArcDeaR",
   "preview": "https://phira.5wyxi.com/files/a0e371e4-bd87-4765-b8d8-b1e7f880409b",
   "ranked": false,
-  "rating": 0.9219882,
-  "ratingCount": 154,
+  "rating": 0.9222599,
+  "ratingCount": 157,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

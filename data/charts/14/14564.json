@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:22Z",
-    "lastChanged": "2026-09-21T02:05:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-31T12:21:36.654663Z",
   "charter": "Copanko ＆ 一条小鲨鱼",
@@ -14,6 +14,7 @@
   "description": "千本菜提醒你：菜就多练 视频来源于哔哩哔哩博主 异世界の次生海狗",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/7209d235-ddac-47bb-88da-7cb26e911186",
+  "hidden": false,
   "id": 14564,
   "illustration": "https://phira.5wyxi.com/files/8bf4026a-6253-4d56-8283-a44dc0455f27",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "千本菜",
   "preview": "https://phira.5wyxi.com/files/1a6d7974-d0fa-4f73-8a60-9ceec381ec29",
   "ranked": false,
-  "rating": 0.93923986,
-  "ratingCount": 6830,
+  "rating": 0.93882793,
+  "ratingCount": 6871,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

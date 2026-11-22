@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:14Z",
-    "lastChanged": "2026-09-21T02:05:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-06T10:15:39.855793Z",
   "charter": "#1E3066 & WinterPT",
@@ -14,6 +14,7 @@
   "description": "6th WJC参赛谱面\n合作：@WinterPT#10002",
   "difficulty": 14.9,
   "file": "https://phira.5wyxi.com/files/2ec31c6a-4d3c-4769-b6b3-de75fd61002f",
+  "hidden": false,
   "id": 77334,
   "illustration": "https://phira.5wyxi.com/files/2985f13f-0da6-44fb-87ab-90acf2037cfb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Reasons",
   "preview": "https://phira.5wyxi.com/files/1aeb4d91-f9fe-4490-a25f-5001f8eacf22",
   "ranked": true,
-  "rating": 0.8539129,
-  "ratingCount": 140,
+  "rating": 0.8791409,
+  "ratingCount": 539,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

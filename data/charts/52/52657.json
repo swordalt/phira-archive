@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-27T08:02:44Z",
-    "lastChanged": "2026-10-04T10:53:41Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:02:40Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-02-14T11:28:34.326102Z",
   "charter": "ShidoraX",
@@ -14,6 +14,7 @@
   "description": "奶龙大战麦当劳是什么歌？",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/9049b872-7af3-4c71-b34a-c9018224987a",
+  "hidden": false,
   "id": 52657,
   "illustration": "https://phira.5wyxi.com/files/456487f9-5f8d-4348-a9b3-25cb4d095fd0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Straight into the lights",
   "preview": "https://phira.5wyxi.com/files/322d32b9-0ecd-4a18-afbc-b3543d98323f",
   "ranked": false,
-  "rating": 0.93786055,
-  "ratingCount": 25,
+  "rating": 0.9470902,
+  "ratingCount": 248,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:49Z",
-    "lastChanged": "2026-09-21T02:04:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-14T12:25:57.136344Z",
   "charter": "When.how",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/b52fff46-387a-4597-bb17-4132b8e9ffc1",
+  "hidden": false,
   "id": 60991,
   "illustration": "https://phira.5wyxi.com/files/0cb99140-8dcd-4d91-a0bd-2a0dc49590b0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GEOLOGICAL//IRRESOLUTION",
   "preview": "https://phira.5wyxi.com/files/ac09186e-5257-4dea-9c67-953760745c4c",
   "ranked": false,
-  "rating": 0.91744596,
-  "ratingCount": 153,
+  "rating": 0.91862935,
+  "ratingCount": 162,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

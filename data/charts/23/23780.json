@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:23Z",
-    "lastChanged": "2026-09-21T02:02:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-18T16:06:07.529296Z",
   "charter": "天才威玩游戏",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，未经授权禁止转载，如需发布B站等平台请标明原作者",
   "difficulty": 11.3,
   "file": "https://phira.5wyxi.com/files/5097bd03-0ff0-4aa9-8fe6-480370f97eb9",
+  "hidden": false,
   "id": 23780,
   "illustration": "https://phira.5wyxi.com/files/acdc4659-f147-4916-8b28-5cd786954eb5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "心雨",
   "preview": "https://phira.5wyxi.com/files/6b8c00d0-ae66-494a-976f-298984de0c17",
   "ranked": false,
-  "rating": 0.91510177,
-  "ratingCount": 277,
+  "rating": 0.9142631,
+  "ratingCount": 286,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

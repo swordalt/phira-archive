@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:34Z",
-    "lastChanged": "2026-09-21T02:03:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-30T05:45:31.742152Z",
   "charter": "DecentduCk",
@@ -14,6 +14,7 @@
   "description": "Bili:DecentduCk_N21本人上传",
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/ef45b14c-3c33-487a-ac91-49e6ed4c0470",
+  "hidden": false,
   "id": 43134,
   "illustration": "https://phira.5wyxi.com/files/d91b2f40-ca62-4c35-b87f-278a3311fbcf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bring it on",
   "preview": "https://phira.5wyxi.com/files/6cf56ba6-311f-41cd-bfd2-97caafd8cd4a",
   "ranked": false,
-  "rating": 0.94818753,
-  "ratingCount": 281,
+  "rating": 0.94891256,
+  "ratingCount": 285,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

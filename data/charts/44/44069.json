@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:28Z",
-    "lastChanged": "2026-09-21T02:06:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-08T14:43:23.596190Z",
   "charter": "Liran",
@@ -14,6 +14,7 @@
   "description": "bpm135",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/7e94b8b1-f183-421d-9272-730b45b71853",
+  "hidden": false,
   "id": 44069,
   "illustration": "https://phira.5wyxi.com/files/11b5ee71-e9d6-45b7-8439-5ba5b7f97908",
   "illustrator": "",

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:01Z",
-    "lastChanged": "2026-09-21T02:04:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-08T05:34:36.105220Z",
   "charter": "Phigros柠檬",
@@ -14,6 +14,7 @@
   "description": "快手Phigros柠檬/b站酸柠檬喝甜可乐制作并上传",
   "difficulty": 15.900001,
   "file": "https://phira.5wyxi.com/files/95a9b6c8-4e86-4b37-a519-05734f3ef7b4",
+  "hidden": false,
   "id": 48841,
   "illustration": "https://phira.5wyxi.com/files/ae635723-1aff-49aa-9e7d-8d8188cc2c44",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "跑！",
   "preview": "https://phira.5wyxi.com/files/e789a1c7-ccb4-47ea-a3ba-a657dc8d322e",
   "ranked": false,
-  "rating": 0.9108862,
-  "ratingCount": 1299,
+  "rating": 0.9112868,
+  "ratingCount": 1463,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

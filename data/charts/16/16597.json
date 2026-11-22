@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:01Z",
-    "lastChanged": "2026-09-21T02:02:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-02T03:06:49.822397Z",
   "charter": "βØЖ²ººº",
@@ -14,6 +14,7 @@
   "description": "本谱面由谱师本人上传，B 站@盒子2000の秘密桃源",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/73a96ee3-72dc-4aee-8997-025bac0d6f9b",
+  "hidden": false,
   "id": 16597,
   "illustration": "https://phira.5wyxi.com/files/b05b14d9-ae88-477c-840c-1a36bc624549",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ΤεμπεΣΤ",
   "preview": "https://phira.5wyxi.com/files/33dc0819-01bb-4499-8db1-0d26ad4b62fd",
   "ranked": false,
-  "rating": 0.9286065,
-  "ratingCount": 265,
+  "rating": 0.9286767,
+  "ratingCount": 268,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

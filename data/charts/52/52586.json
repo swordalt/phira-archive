@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:21Z",
-    "lastChanged": "2026-09-21T02:04:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-12T12:39:14.052447Z",
   "charter": "渊",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n定数上调至14.7\n微调",
   "difficulty": 14.700001,
   "file": "https://phira.5wyxi.com/files/3739bacb-3556-4f09-aa6f-b6575fe0590a",
+  "hidden": false,
   "id": 52586,
   "illustration": "https://phira.5wyxi.com/files/ea658152-35db-40fc-8898-2f1dc56a1da6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "白菊 -shiragiku-",
   "preview": "https://phira.5wyxi.com/files/95f4540e-6b07-4deb-9ceb-9e9c90e37ef5",
   "ranked": false,
-  "rating": 0.9325736,
-  "ratingCount": 387,
+  "rating": 0.93053454,
+  "ratingCount": 391,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

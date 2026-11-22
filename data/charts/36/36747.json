@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-09-21T02:06:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-19T12:10:54.946399Z",
   "charter": "yzbg3",
@@ -14,6 +14,7 @@
   "description": "无",
   "difficulty": 520.0,
   "file": "https://phira.5wyxi.com/files/7fe32624-827f-461f-8342-a44f79e86e55",
+  "hidden": false,
   "id": 36747,
   "illustration": "https://phira.5wyxi.com/files/8f0c526f-5eca-45a1-bd20-c255b7e644ae",
   "illustrator": "",

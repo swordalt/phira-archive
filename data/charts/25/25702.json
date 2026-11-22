@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:32Z",
-    "lastChanged": "2026-09-21T02:02:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-09T02:56:24.090783Z",
   "charter": "与光pwp",
@@ -14,6 +14,7 @@
   "description": "Orzmic独占曲\n新人练手谱～",
   "difficulty": 14.300001,
   "file": "https://phira.5wyxi.com/files/f9a85090-66b6-4cd9-8afe-54cca1f22f60",
+  "hidden": false,
   "id": 25702,
   "illustration": "https://phira.5wyxi.com/files/cddbe566-2b93-4669-83f5-113614120cb1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Forget me not",
   "preview": "https://phira.5wyxi.com/files/d56a764f-f1cb-476e-a669-eb1e1dd0ddd0",
   "ranked": false,
-  "rating": 0.9192423,
-  "ratingCount": 190,
+  "rating": 0.92008007,
+  "ratingCount": 192,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:16Z",
-    "lastChanged": "2026-09-21T02:01:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-24T05:35:57.242582Z",
   "charter": "Mojira exploring the universe inside Sumar∑xon's spaceship!!",
@@ -14,6 +14,7 @@
   "description": "我们为了好玩而做的谱面！\n\n包机：\nMojira\nSumarΣxon",
   "difficulty": 14.800001,
   "file": "https://phira.5wyxi.com/files/403e38b3-1341-4b10-8121-4921c373607b",
+  "hidden": false,
   "id": 3740,
   "illustration": "https://phira.5wyxi.com/files/046da1d1-cf1c-4fd9-88f3-e7806f7e0730",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lu",
   "preview": "https://phira.5wyxi.com/files/c082bdb4-0bf8-4bb2-be06-07ebcd26fb6a",
   "ranked": false,
-  "rating": 0.87631285,
-  "ratingCount": 579,
+  "rating": 0.8754777,
+  "ratingCount": 582,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

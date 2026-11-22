@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:12Z",
-    "lastChanged": "2026-09-21T02:05:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-26T05:16:40.389930Z",
   "charter": "NINTYKEVEN",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/65b6d6cb-5884-49ff-be2a-f38dd534c2b8",
+  "hidden": false,
   "id": 75768,
   "illustration": "https://phira.5wyxi.com/files/ead2ade6-52bd-43c0-81a1-854917a2a99b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "EVERYTHING",
   "preview": "https://phira.5wyxi.com/files/3ab7c589-44b8-4a05-8921-d2c20c4856ab",
   "ranked": false,
-  "rating": 0.909258,
-  "ratingCount": 67,
+  "rating": 0.922497,
+  "ratingCount": 97,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

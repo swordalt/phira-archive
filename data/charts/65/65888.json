@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:58Z",
-    "lastChanged": "2026-09-21T02:06:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-12T05:58:17.742446Z",
   "charter": "Anxiety/Jiuwenzi/NKSV",
@@ -14,6 +14,7 @@
   "description": "本段位为DestEnd战队的DFC精英考核段位\nDestEnd考核群：1046951546\n加入战队且通过本段位可以领取专属精美头像喵\n边缘标准为96.45\n过段标准为97.87\n后光标准为98.93\n击破标准为99.64\n感谢游玩～",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/b4a90412-531c-4683-bb70-11a62f14b663",
+  "hidden": false,
   "id": 65888,
   "illustration": "https://phira.5wyxi.com/files/7b8f70aa-6a4a-47a1-ae43-650503ac7257",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "DFC DestEnd EX Dan                    ",
   "preview": "https://phira.5wyxi.com/files/a867b3e8-af26-48f8-baac-2d12af9aa3ce",
   "ranked": false,
-  "rating": 0.947679,
-  "ratingCount": 78,
+  "rating": 0.95157224,
+  "ratingCount": 93,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

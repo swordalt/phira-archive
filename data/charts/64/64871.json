@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:57Z",
-    "lastChanged": "2026-09-21T02:06:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-08T05:46:02.180137Z",
   "charter": "hu_zrua & Rose Quartz",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，已获得其他谱师同意上传，时长较长望谅解",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/98722903-952f-450c-889a-bfd171ff0faa",
+  "hidden": false,
   "id": 64871,
   "illustration": "https://phira.5wyxi.com/files/698be470-004a-4fd3-9454-9572e8e28c8f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fallen Symphony",
   "preview": "https://phira.5wyxi.com/files/c57605c9-3fbc-4432-b4b8-f05cf4cdb317",
   "ranked": false,
-  "rating": 0.8696301,
-  "ratingCount": 16,
+  "rating": 0.87565017,
+  "ratingCount": 17,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

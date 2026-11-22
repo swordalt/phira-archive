@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:27Z",
-    "lastChanged": "2026-09-21T02:04:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-10T12:57:37.422613Z",
   "charter": "BDFZ的AD班的AP",
@@ -14,6 +14,7 @@
   "description": "魔法少女小圆",
   "difficulty": 14.7,
   "file": "https://phira.5wyxi.com/files/2c163fcd-1c79-4193-bea9-ff2f6ac8415a",
+  "hidden": false,
   "id": 54018,
   "illustration": "https://phira.5wyxi.com/files/19a62b69-c7f8-46db-bbe4-99701a695894",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "宿命",
   "preview": "https://phira.5wyxi.com/files/4424f2b8-fdbe-4308-9f2d-6e6adb6e77f5",
   "ranked": false,
-  "rating": 0.8619828,
-  "ratingCount": 157,
+  "rating": 0.8715921,
+  "ratingCount": 192,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

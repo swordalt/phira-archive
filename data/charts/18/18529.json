@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:09Z",
-    "lastChanged": "2026-09-21T02:02:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-15T12:38:42.632311Z",
   "charter": "vapu_official",
@@ -14,6 +14,7 @@
   "description": "b站：vapu_official",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/f5b30545-3e77-4102-8bac-4d496156b528",
+  "hidden": false,
   "id": 18529,
   "illustration": "https://phira.5wyxi.com/files/8abea24f-5399-4111-9d1f-49c438f5d976",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "Perspectives",
   "preview": "https://phira.5wyxi.com/files/8471cb0e-4a2f-4cc0-af30-991d78010dd8",
   "ranked": false,
-  "rating": 0.7663375,
+  "rating": 0.7566129,
   "ratingCount": 30,
   "reviewed": true,
   "stable": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:13Z",
-    "lastChanged": "2026-09-21T02:01:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-27T05:10:19.644153Z",
   "charter": "NaxxDreemurr",
@@ -14,6 +14,7 @@
   "description": "动效试验性谱面，如果其他方面做得不好请多多包涵！修复了一部分配置问题，但是不会更新所以重新上传一遍（",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/80e0c102-555a-43f0-8674-44cdda6f49ee",
+  "hidden": false,
   "id": 2612,
   "illustration": "https://phira.5wyxi.com/files/099de106-bdef-4934-8f47-16105e802ef6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "INTERNET YAMERO",
   "preview": "https://phira.5wyxi.com/files/c0b945cc-ca25-4d7e-b8e8-b6db32ab32fb",
   "ranked": false,
-  "rating": 0.91721404,
-  "ratingCount": 3640,
+  "rating": 0.917421,
+  "ratingCount": 3667,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

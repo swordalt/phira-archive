@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:43Z",
-    "lastChanged": "2026-09-21T02:06:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-26T04:13:18.754189Z",
   "charter": "TASIKA&cccloucyt",
@@ -14,6 +14,7 @@
   "description": "本人上传\nTASIKA二次改谱，算是对比原版的一个差分吧",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/73dc060b-87bc-4ce3-8ae9-7c159d474a17",
+  "hidden": false,
   "id": 50559,
   "illustration": "https://phira.5wyxi.com/files/ba12ea8d-ac06-47f0-ae9f-1c5daa2c9b86",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Echoes of Memoria",
   "preview": "https://phira.5wyxi.com/files/d97dd159-ccbc-4a7c-a60a-c557eec56061",
   "ranked": false,
-  "rating": 0.940782,
-  "ratingCount": 47,
+  "rating": 0.94608146,
+  "ratingCount": 52,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

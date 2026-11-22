@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:38Z",
-    "lastChanged": "2026-09-21T02:03:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-08T16:52:42.118693Z",
   "charter": "vapu ",
@@ -14,6 +14,7 @@
   "description": "b站关注vapu_official喵",
   "difficulty": 16.6,
   "file": "https://phira.5wyxi.com/files/4b9c07da-b9bd-4a6f-9bb5-658899c26ce5",
+  "hidden": false,
   "id": 44091,
   "illustration": "https://phira.5wyxi.com/files/694fca5a-5275-4a25-b4a8-a3cd83336c54",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Child's Play(Awe Remake)",
   "preview": "https://phira.5wyxi.com/files/a568a817-da31-49b3-aab7-1c6756c67084",
   "ranked": false,
-  "rating": 0.93709236,
-  "ratingCount": 84,
+  "rating": 0.93733877,
+  "ratingCount": 88,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

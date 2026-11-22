@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-04T13:09:05Z",
-    "lastChanged": "2026-10-07T17:46:22Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:24Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-04T11:56:17.807467Z",
   "charter": "TeamSR",
@@ -14,6 +14,7 @@
   "description": "团队上传\r\n@Regen-M#2253199(监制）\r\n该谱面后续可能更新或删除\r\n欢迎各位进入小窝1032562434获取谱面资源喵",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/830154d2-0b3f-4e74-889d-1d419beb7586",
+  "hidden": false,
   "id": 80126,
   "illustration": "https://phira.5wyxi.com/files/c4ad277b-93b4-490a-8d64-4e4639a1c860",
   "illustrator": "G.P.T",
@@ -21,8 +22,8 @@
   "name": "泡沫",
   "preview": "https://phira.5wyxi.com/files/23cd2eec-31d9-4cb3-b2fa-5ce62f59ecd0",
   "ranked": false,
-  "rating": 0.9067139,
-  "ratingCount": 6546,
+  "rating": 0.90201515,
+  "ratingCount": 21985,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

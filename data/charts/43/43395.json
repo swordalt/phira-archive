@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:27Z",
-    "lastChanged": "2026-09-21T02:06:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-01T15:10:30.625371Z",
   "charter": "Fortessimo",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/915eeeb0-db97-4514-b002-fdce78f8fab5",
+  "hidden": false,
   "id": 43395,
   "illustration": "https://phira.5wyxi.com/files/b0abc7db-2f2d-4688-978f-ac61a50b07de",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "VeRForTe αRtE: VEiN",
   "preview": "https://phira.5wyxi.com/files/feea9a1c-9c37-4ddf-bb9d-16959dfa6813",
   "ranked": false,
-  "rating": 0.8395517,
-  "ratingCount": 19,
+  "rating": 0.83497375,
+  "ratingCount": 20,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

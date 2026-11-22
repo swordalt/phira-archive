@@ -4,16 +4,17 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:16Z",
-    "lastChanged": "2026-11-11T14:05:21Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:18Z",
+    "revisions": 3
   },
-  "chartUpdated": "2026-11-11T12:08:10.267507017Z",
+  "chartUpdated": "2026-11-11T12:08:10.267507Z",
   "charter": "NotTure1",
   "composer": "椒盐菠萝",
   "created": "2026-09-12T11:08:20.290593Z",
   "description": "譜師本人上傳。譜面預覽BV1tgbW6REk4\n--------------------\n鎖手段解法為一隻手鎖著一隻手使用兩隻手指一上一下輪流打擊長條。\n--------------------\n2026.10.03一改 重寫build up的黃條以及微調drop的部分按鍵",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/c2b89999-0eb5-45aa-8c47-65a8e43fcaba",
+  "hidden": false,
   "id": 77885,
   "illustration": "https://phira.5wyxi.com/files/fb0576e8-156c-4bb4-956f-ca36c910abb4",
   "illustrator": "CEM",
@@ -21,14 +22,14 @@
   "name": "游园地",
   "preview": "https://phira.5wyxi.com/files/f40875e2-a578-494b-99db-588212c30b8c",
   "ranked": false,
-  "rating": 0.9282814,
-  "ratingCount": 272,
+  "rating": 0.92676485,
+  "ratingCount": 406,
   "reviewed": true,
   "stable": false,
   "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-11T12:08:10.267507017Z",
+  "updated": "2026-11-11T12:08:10.267507Z",
   "uploader": 1813623
 }

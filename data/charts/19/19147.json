@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:47Z",
-    "lastChanged": "2026-09-21T02:05:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-01T08:01:36.579082Z",
   "charter": "DesRemuci vs. H1r1#4",
@@ -14,6 +14,7 @@
   "description": "B站@DesRemuci,谱师亲自上传",
   "difficulty": 17.2,
   "file": "https://phira.5wyxi.com/files/a7ae40e3-563b-4976-b22d-affbe255c581",
+  "hidden": false,
   "id": 19147,
   "illustration": "https://phira.5wyxi.com/files/fd3f2bfa-78cd-4097-b7e1-589dea43e4fe",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Eviternity",
   "preview": "https://phira.5wyxi.com/files/ad3a936e-9aa5-45fa-a7cd-32a05f10a598",
   "ranked": false,
-  "rating": 0.9461213,
-  "ratingCount": 444,
+  "rating": 0.9470918,
+  "ratingCount": 464,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:05Z",
-    "lastChanged": "2026-09-21T02:05:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-06T14:14:48.066160Z",
   "charter": "Li",
@@ -14,6 +14,7 @@
   "description": "WSRT x 云梦杯 比赛供谱\n首次登场于【沉坠•破晓】半决赛败者组第二回合\nb站视频BV16UuH6HEAA\n欢迎大家支持，希望大家喜欢",
   "difficulty": 17.400002,
   "file": "https://phira.5wyxi.com/files/53a90da3-cd50-4c25-b96f-11ccb54610f9",
+  "hidden": false,
   "id": 71707,
   "illustration": "https://phira.5wyxi.com/files/cb4c741a-c08f-4708-be7a-999783f029b3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Resistance",
   "preview": "https://phira.5wyxi.com/files/c483f025-d16a-4eba-9358-b857a64801ef",
   "ranked": false,
-  "rating": 0.91603243,
-  "ratingCount": 176,
+  "rating": 0.91751,
+  "ratingCount": 188,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

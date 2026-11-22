@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:09Z",
-    "lastChanged": "2026-09-21T02:02:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-13T12:17:13.416548Z",
   "charter": "Parallel_D",
@@ -14,6 +14,7 @@
   "description": "新手第一张谱，不会写特效，请多包涵！",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/1ef9eaf5-2c12-439b-b427-e17e3357ef09",
+  "hidden": false,
   "id": 18402,
   "illustration": "https://phira.5wyxi.com/files/0669421e-0e67-4993-89fb-b9d7e509c76d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The 89's Momentum",
   "preview": "https://phira.5wyxi.com/files/11d6b0ae-4555-40b4-9a82-3068d2b53f72",
   "ranked": false,
-  "rating": 0.9180286,
-  "ratingCount": 488,
+  "rating": 0.9186259,
+  "ratingCount": 492,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:13Z",
-    "lastChanged": "2026-09-21T02:02:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-12T09:21:40.589688Z",
   "charter": "Dr.Asriel",
@@ -14,6 +14,7 @@
   "description": "有人让我传的，我不说是谁哈哈\n这谱算是黑历史了，写的烂轻点骂",
   "difficulty": 17.999998,
   "file": "https://phira.5wyxi.com/files/56b87499-25fb-483d-b7f3-03986acd57f6",
+  "hidden": false,
   "id": 19892,
   "illustration": "https://phira.5wyxi.com/files/9b88afec-2bbd-411a-a427-0c990b26ded3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Picasso",
   "preview": "https://phira.5wyxi.com/files/e7ade709-2888-4aee-8c10-73779e639547",
   "ranked": false,
-  "rating": 0.9166249,
-  "ratingCount": 397,
+  "rating": 0.915457,
+  "ratingCount": 402,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

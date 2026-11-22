@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:11Z",
-    "lastChanged": "2026-09-21T02:02:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-05T00:47:47.341035Z",
   "charter": "自信の谱师",
@@ -14,6 +14,7 @@
   "description": "新人的第二张谱，本人上传，因为制作时间较短，这屑谱师还是个懒癌患者，所以有些地方的动效和排键不是很好（以后可能会优化？）所以如果有不好的地方，请在B站反馈，谢谢（好像在哪说过）\nB站名称：自信の不神秘人",
   "difficulty": 15.5,
   "file": "https://phira.5wyxi.com/files/8ebf1841-85bc-4fe3-bef9-9712ab95f4e7",
+  "hidden": false,
   "id": 19493,
   "illustration": "https://phira.5wyxi.com/files/c60486a6-8d42-4a78-bffe-3394109c59c7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Maholova",
   "preview": "https://phira.5wyxi.com/files/c52da1f8-e1f7-4059-8933-d92761b84f74",
   "ranked": false,
-  "rating": 0.8990405,
-  "ratingCount": 330,
+  "rating": 0.89934987,
+  "ratingCount": 332,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

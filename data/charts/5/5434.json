@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:20Z",
-    "lastChanged": "2026-09-21T02:01:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-16T08:56:53.209835Z",
   "charter": "mgr_",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，b站@mgr_",
   "difficulty": 15.2,
   "file": "https://phira.5wyxi.com/files/391818a1-18dc-4bbc-bf3c-cb1a26c099af",
+  "hidden": false,
   "id": 5434,
   "illustration": "https://phira.5wyxi.com/files/c8c0d172-f91a-4621-8783-d8dc753ebfb8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "光の中へ",
   "preview": "https://phira.5wyxi.com/files/79ca41ea-9d55-4db8-a8e0-274be91fc28b",
   "ranked": false,
-  "rating": 0.917048,
-  "ratingCount": 1156,
+  "rating": 0.91736585,
+  "ratingCount": 1161,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

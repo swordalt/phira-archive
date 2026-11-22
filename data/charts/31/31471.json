@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:55Z",
-    "lastChanged": "2026-09-21T02:02:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-05T13:22:17.054057Z",
   "charter": "Silvery066 (also Kelp)",
@@ -14,6 +14,7 @@
   "description": "初次有点屑",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/5fb98080-b0b2-40f3-a0df-2f26381a3918",
+  "hidden": false,
   "id": 31471,
   "illustration": "https://phira.5wyxi.com/files/80c092d2-4153-4c08-9871-615963d0d76d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "漫步在旧地狱街道",
   "preview": "https://phira.5wyxi.com/files/d67ff01a-45f0-4245-ae05-ccda57120990",
   "ranked": false,
-  "rating": 0.8351459,
-  "ratingCount": 108,
+  "rating": 0.8400779,
+  "ratingCount": 112,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

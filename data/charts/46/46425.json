@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:34Z",
-    "lastChanged": "2026-09-21T02:06:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-06T05:44:39.965571Z",
   "charter": "fujxf",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/365e0e72-e668-4661-a04c-e1703a03c547",
+  "hidden": false,
   "id": 46425,
   "illustration": "https://phira.5wyxi.com/files/d9230b72-a797-4f92-abb4-e64995a99bac",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Abiogenesis",
   "preview": "https://phira.5wyxi.com/files/a235df3e-c84e-431b-b423-32dffc20edd0",
   "ranked": false,
-  "rating": 0.90166485,
-  "ratingCount": 61,
+  "rating": 0.90483946,
+  "ratingCount": 65,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

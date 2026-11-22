@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:52Z",
-    "lastChanged": "2026-09-21T02:02:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-12-24T22:57:13.990899Z",
   "charter": "绿盒更实在",
@@ -14,6 +14,7 @@
   "description": "修改了流速，初谱轻喷",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/d881c1c9-e4b9-43b7-9c3b-fc4b5173d93a",
+  "hidden": false,
   "id": 31041,
   "illustration": "https://phira.5wyxi.com/files/d6c6cb10-812f-4a56-acda-a059b9e40c2c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "liftoff",
   "preview": "https://phira.5wyxi.com/files/595f96ed-6999-4f56-be19-b790e6b71d21",
   "ranked": false,
-  "rating": 0.80360913,
-  "ratingCount": 33,
+  "rating": 0.8088873,
+  "ratingCount": 34,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

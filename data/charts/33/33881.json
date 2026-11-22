@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:03Z",
-    "lastChanged": "2026-09-21T02:03:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-15T12:55:41.929393Z",
   "charter": "Rui and CorYdalis",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.8,
   "file": "https://phira.5wyxi.com/files/850a5dde-28cd-4a8d-8a16-62f8555de3f8",
+  "hidden": false,
   "id": 33881,
   "illustration": "https://phira.5wyxi.com/files/1b881910-4e7a-4fef-a346-54e514a27e88",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "アンノウン・マザーグース",
   "preview": "https://phira.5wyxi.com/files/e8a9002d-3c5f-4558-82e9-1ad910b2dd4a",
   "ranked": false,
-  "rating": 0.95576125,
-  "ratingCount": 4530,
+  "rating": 0.9558286,
+  "ratingCount": 4701,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

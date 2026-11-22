@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:37Z",
-    "lastChanged": "2026-09-21T02:06:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-03T06:57:34.167503Z",
   "charter": "Towards the qwpp",
@@ -14,6 +14,7 @@
   "description": "暂定DFC Reform Theta Dan Stream                                                     本人上传",
   "difficulty": 18.1,
   "file": "https://phira.5wyxi.com/files/679a7a19-ab90-4917-b19c-d177d403c253",
+  "hidden": false,
   "id": 47536,
   "illustration": "https://phira.5wyxi.com/files/e2ff4605-4ffb-44b1-be6c-fbfa5bbf1332",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Towards the 300",
   "preview": "https://phira.5wyxi.com/files/f7ed1fac-11e6-4ede-824a-edf932f6eb46",
   "ranked": false,
-  "rating": 0.9005475,
-  "ratingCount": 21,
+  "rating": 0.9043072,
+  "ratingCount": 22,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

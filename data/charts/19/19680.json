@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:12Z",
-    "lastChanged": "2026-09-21T02:02:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-08T10:13:08.178950Z",
   "charter": "囃狼",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.900003,
   "file": "https://phira.5wyxi.com/files/a6a716c5-4b38-46f2-82b3-6b4bdf85b7ea",
+  "hidden": false,
   "id": 19680,
   "illustration": "https://phira.5wyxi.com/files/1bad44ef-9d92-40f2-a17e-449988215eab",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "What You Want",
   "preview": "https://phira.5wyxi.com/files/d083c88f-d569-4314-b346-94b92f1ab24e",
   "ranked": true,
-  "rating": 0.9068829,
-  "ratingCount": 948,
+  "rating": 0.9067793,
+  "ratingCount": 959,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

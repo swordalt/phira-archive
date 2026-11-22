@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:17Z",
-    "lastChanged": "2026-09-21T02:04:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-26T15:16:39.324824Z",
   "charter": "T-tc",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n第二张谱，小摸了一下多指配置，制作时长13h，但是大部分时间都在摸鱼_(:з」∠)_",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/ad95b20d-fa68-44c1-b9e9-fd4892bc63c0",
+  "hidden": false,
   "id": 51810,
   "illustration": "https://phira.5wyxi.com/files/ed6101d4-5e78-4fdf-9e24-1930e01ff65b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "天津甕星",
   "preview": "https://phira.5wyxi.com/files/98137067-94bd-4c3e-bdf5-b02328fc9cd3",
   "ranked": false,
-  "rating": 0.86169046,
-  "ratingCount": 67,
+  "rating": 0.8622443,
+  "ratingCount": 70,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

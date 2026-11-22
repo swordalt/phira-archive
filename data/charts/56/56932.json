@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-27T08:02:44Z",
-    "lastChanged": "2026-09-27T18:17:53Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:02:46Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-04-22T12:47:23.987362Z",
   "charter": "ZG_AW",
@@ -14,6 +14,7 @@
   "description": "铺师:ZG_AW\n铺面时长:5:34\nBPM:300",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/2ee5428e-a08d-411d-ab55-b5666f60543e",
+  "hidden": false,
   "id": 56932,
   "illustration": "https://phira.5wyxi.com/files/134a727b-c18a-4cdd-9de0-ec824794734e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "PULE (Thule)",
   "preview": "https://phira.5wyxi.com/files/2e5bf1b2-7d98-4add-b8dc-a8d7d20f7da3",
   "ranked": false,
-  "rating": 0.72327,
-  "ratingCount": 3,
+  "rating": 0.83471596,
+  "ratingCount": 12,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

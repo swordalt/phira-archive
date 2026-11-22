@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:14Z",
-    "lastChanged": "2026-09-21T02:06:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-10T14:51:47.742429Z",
   "charter": "moonnicholas",
@@ -14,6 +14,7 @@
   "description": "本人上傳。https://osu.ppy.sh/beatmapsets/2368722。           Tap:4778 Hold:714",
   "difficulty": 5.899999,
   "file": "https://phira.5wyxi.com/files/1a473008-5ee9-410c-ac97-e9ac11d73ac6",
+  "hidden": false,
   "id": 37917,
   "illustration": "https://phira.5wyxi.com/files/4085e362-a780-4c56-a656-fede983ba112",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ruin in Cascade",
   "preview": "https://phira.5wyxi.com/files/8113f440-9afe-477b-b1ae-857e4e2b7ef5",
   "ranked": false,
-  "rating": 0.9409905,
-  "ratingCount": 47,
+  "rating": 0.93978053,
+  "ratingCount": 49,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

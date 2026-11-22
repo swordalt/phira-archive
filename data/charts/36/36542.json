@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-09-21T02:06:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-13T07:46:28.523004Z",
   "charter": "Aandy",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.4,
   "file": "https://phira.5wyxi.com/files/18a98e13-e035-4523-922a-de3402e90d77",
+  "hidden": false,
   "id": 36542,
   "illustration": "https://phira.5wyxi.com/files/ab63ef8d-baaf-41be-b431-50ddef000532",
   "illustrator": "",

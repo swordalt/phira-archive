@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:23Z",
-    "lastChanged": "2026-09-21T02:04:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-23T05:16:20.064512Z",
   "charter": "X-Star in the rain",
@@ -14,6 +14,7 @@
   "description": "谱面预览链接：BV1eQfgBeERz",
   "difficulty": 14.6,
   "file": "https://phira.5wyxi.com/files/3db40934-c442-44ab-9378-33d727b73cdb",
+  "hidden": false,
   "id": 53094,
   "illustration": "https://phira.5wyxi.com/files/59dc7bc3-683d-46db-9cc4-f5f59e2a4050",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Raina",
   "preview": "https://phira.5wyxi.com/files/daa80273-22a8-43de-8a67-3584c47e9946",
   "ranked": false,
-  "rating": 0.95503575,
-  "ratingCount": 266,
+  "rating": 0.95465875,
+  "ratingCount": 272,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

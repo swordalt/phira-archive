@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:47Z",
-    "lastChanged": "2026-09-21T02:02:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-17T06:34:04.185871Z",
   "charter": "Jarian!!",
@@ -14,6 +14,7 @@
   "description": "Orzmic曲包五-1 新人初谱",
   "difficulty": 14.1,
   "file": "https://phira.5wyxi.com/files/681ca5b5-b0fb-49d0-9ef3-0ff02bb52cc1",
+  "hidden": false,
   "id": 29800,
   "illustration": "https://phira.5wyxi.com/files/4bdeafbd-1dde-4816-adef-31c466ec5d05",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "Recall!!",
   "preview": "https://phira.5wyxi.com/files/a59bf6a1-3579-4e18-bd5d-44177e17f42d",
   "ranked": false,
-  "rating": 0.90195185,
+  "rating": 0.8982211,
   "ratingCount": 40,
   "reviewed": true,
   "stable": false,

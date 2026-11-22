@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:27Z",
-    "lastChanged": "2026-09-21T02:02:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-31T04:17:15.255370Z",
   "charter": "lage",
@@ -14,6 +14,7 @@
   "description": "第二个抽象谱\n这不是粪，这是艺术",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/04f6e35b-2d15-4d27-b4bd-1f2261095636",
+  "hidden": false,
   "id": 24787,
   "illustration": "https://phira.5wyxi.com/files/3279ddd2-b53b-481b-af4d-a9586cd27e38",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dream Away feat. Yukacco (Hylen Remix)",
   "preview": "https://phira.5wyxi.com/files/ba0ffb03-a77c-41d7-b033-e4bb2b8a9e0b",
   "ranked": false,
-  "rating": 0.80233175,
-  "ratingCount": 305,
+  "rating": 0.8123829,
+  "ratingCount": 335,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

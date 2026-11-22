@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:31Z",
-    "lastChanged": "2026-09-21T02:02:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-08T14:38:48.943503Z",
   "charter": "day_night",
@@ -14,6 +14,7 @@
   "description": "本人第三张铺，相比上一张而言水了许多，只有主线有动效，难点在挫碟和本家配置，B站@命令方块学者 可以给建议",
   "difficulty": 15.2,
   "file": "https://phira.5wyxi.com/files/6e9ba52f-2f9d-4129-a43a-911577ea1272",
+  "hidden": false,
   "id": 25668,
   "illustration": "https://phira.5wyxi.com/files/5508c8e5-454d-4444-a228-e032bd71b081",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "埃及",
   "preview": "https://phira.5wyxi.com/files/6f94dda8-c88e-49af-9cd2-6de8085f2fcd",
   "ranked": false,
-  "rating": 0.8334718,
-  "ratingCount": 158,
+  "rating": 0.83290666,
+  "ratingCount": 162,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

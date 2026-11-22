@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:52Z",
-    "lastChanged": "2026-09-21T02:05:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-06T19:03:45.697209Z",
   "charter": "SACTT",
@@ -14,6 +14,7 @@
   "description": "谱师@呼呼__w（主体） @Ravenerd（部分配置优化/Phira谱面上传）\n曲目出自EGTS 2021 Grand Finals Tiebreaker\n超难4k，目测ex7以上，Phira这里应该没人能S\n谱面演示：BV1JzhpeeENz（初版）BV1XE421c7V5（优化）",
   "difficulty": 16.499992,
   "file": "https://phira.5wyxi.com/files/00f5b41c-57c4-4a5e-8f9f-5c4b6b64f4e6",
+  "hidden": false,
   "id": 22813,
   "illustration": "https://phira.5wyxi.com/files/2818308e-d9b5-4cd7-9da0-d2d713b28e1b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "TremENDouS",
   "preview": "https://phira.5wyxi.com/files/9174c625-5ec8-4793-8678-25d71cd6742b",
   "ranked": false,
-  "rating": 0.83037895,
-  "ratingCount": 21,
+  "rating": 0.83683974,
+  "ratingCount": 22,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

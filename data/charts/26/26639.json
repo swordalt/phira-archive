@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:36Z",
-    "lastChanged": "2026-09-21T02:02:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-21T01:05:53.246517Z",
   "charter": "CorYdalis & MHT、",
@@ -14,6 +14,7 @@
   "description": "谱面为谱师本人上传，已经另一名谱师许可，欢迎B站关注@欧洲进口棉花糖@堇色CorYdalis获取详细情况",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/f8ae0ca8-9952-47bb-bf4c-942d2efb1fa9",
+  "hidden": false,
   "id": 26639,
   "illustration": "https://phira.5wyxi.com/files/053ff5f8-1676-4358-9085-96d00f7934d5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Originlly",
   "preview": "https://phira.5wyxi.com/files/c05f4648-e7e0-4f92-b857-e1e3b0fa0a66",
   "ranked": false,
-  "rating": 0.90839154,
-  "ratingCount": 143,
+  "rating": 0.90660095,
+  "ratingCount": 146,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

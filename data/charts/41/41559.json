@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:29Z",
-    "lastChanged": "2026-09-21T02:03:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-13T05:35:45.342658Z",
   "charter": "Lan_Bai",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.7,
   "file": "https://phira.5wyxi.com/files/89a35305-5a01-4d63-9a97-bf2f6460015c",
+  "hidden": false,
   "id": 41559,
   "illustration": "https://phira.5wyxi.com/files/611ed985-a2f8-4aca-8cb6-a0cea6ee9006",
   "illustrator": "",

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:34Z",
-    "lastChanged": "2026-09-21T02:04:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-06T04:25:03.836009Z",
   "charter": "韩式年糕炸鸡",
@@ -14,6 +14,7 @@
   "description": "练手谱\n本人上传\nb站：蕎麥qm_",
   "difficulty": 15.6,
   "file": "https://phira.5wyxi.com/files/55fb7b08-57f0-40a2-b673-d1e608d7eb81",
+  "hidden": false,
   "id": 55156,
   "illustration": "https://phira.5wyxi.com/files/9b301458-9707-4fee-a649-70fb33e9712f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Level Up",
   "preview": "https://phira.5wyxi.com/files/0e799c82-d9db-4d0e-80e1-7c568895d9ab",
   "ranked": false,
-  "rating": 0.8838125,
-  "ratingCount": 24,
+  "rating": 0.87341696,
+  "ratingCount": 26,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

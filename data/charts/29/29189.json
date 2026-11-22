@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:45Z",
-    "lastChanged": "2026-09-21T02:02:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-28T11:51:26.645993Z",
   "charter": "saziko",
@@ -14,6 +14,7 @@
   "description": "谱师的第二个谱（＾ω＾）\nb站天童大笨比",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/15a8f2b2-07b6-4d7f-b433-ce6776a8420a",
+  "hidden": false,
   "id": 29189,
   "illustration": "https://phira.5wyxi.com/files/edad5c0b-2b68-4b1f-93ff-7f2784610bcd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "再会",
   "preview": "https://phira.5wyxi.com/files/0f274f4e-6e75-4cc2-ba46-cce2758a6061",
   "ranked": false,
-  "rating": 0.94650066,
-  "ratingCount": 385,
+  "rating": 0.94490176,
+  "ratingCount": 388,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

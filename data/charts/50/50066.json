@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:43Z",
-    "lastChanged": "2026-09-21T02:06:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-10T10:52:34.036079Z",
   "charter": "熊大sfcarisFW25880",
@@ -14,6 +14,7 @@
   "description": "该谱面由＂熊大sfcarisFW25880 ＂谱师本人亲自上传",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/306e339e-685f-4e17-a4d6-635a04244990",
+  "hidden": false,
   "id": 50066,
   "illustration": "https://phira.5wyxi.com/files/f8bef16c-23ab-4b72-a00e-8a324f91fdd7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "TremENDouS",
   "preview": "https://phira.5wyxi.com/files/ae5d621b-b9a6-407f-8bd2-07ef5305b632",
   "ranked": false,
-  "rating": 0.9072736,
-  "ratingCount": 25,
+  "rating": 0.9131967,
+  "ratingCount": 27,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

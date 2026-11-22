@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:01Z",
-    "lastChanged": "2026-09-21T02:06:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-07T10:26:16.505840Z",
   "charter": "strpuio",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/c313305f-a27e-4992-8cca-69fa6a71e52e",
+  "hidden": false,
   "id": 27496,
   "illustration": "https://phira.5wyxi.com/files/ac69a6ae-9aeb-493a-bb64-d82a41957009",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "beyond the timeline",
   "preview": "https://phira.5wyxi.com/files/8313361f-a15e-4d89-9cfe-de48322b9bd9",
   "ranked": false,
-  "rating": 0.95658726,
-  "ratingCount": 147,
+  "rating": 0.9579079,
+  "ratingCount": 154,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

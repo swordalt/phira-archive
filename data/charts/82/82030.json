@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-24T18:04:12Z",
-    "lastChanged": "2026-10-31T12:14:14Z",
-    "revisions": 4
+    "lastChanged": "2026-11-22T12:59:28Z",
+    "revisions": 5
   },
   "chartUpdated": "2026-10-24T14:31:30.164132Z",
   "charter": "XJawa. and his friends.",
@@ -14,6 +14,7 @@
   "description": "【Phigros合作自制】\n曲目：Never Say Goodbye - 黒魔\n谱师：Never(XJ_Sheeb_JiHeng)Goodbye\n定数：AT Lv.17.6\n物量：2333\n总事件数：9331\n写谱净时长：50.5h",
   "difficulty": 17.600002,
   "file": "https://phira.5wyxi.com/files/eb596ad6-d58b-427f-bebb-c8897f3691bf",
+  "hidden": false,
   "id": 82030,
   "illustration": "https://phira.5wyxi.com/files/554dd334-3f80-4eb8-b8ca-2c680b6b553d",
   "illustrator": "山山奇",
@@ -21,11 +22,11 @@
   "name": "Never Say Goodbye",
   "preview": "https://phira.5wyxi.com/files/1ab3e62c-2058-4dff-89b5-eb51c11d760f",
   "ranked": false,
-  "rating": 0.8757769,
-  "ratingCount": 165,
-  "reviewed": false,
+  "rating": 0.8782752,
+  "ratingCount": 259,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "Rizline",
     "律动轨迹",

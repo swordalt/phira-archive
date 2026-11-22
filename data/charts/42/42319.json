@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:31Z",
-    "lastChanged": "2026-09-21T02:03:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-21T12:34:35.157275Z",
   "charter": "qiuqiu",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.399998,
   "file": "https://phira.5wyxi.com/files/fe3e794c-f88f-4910-9596-59ca1c101edb",
+  "hidden": false,
   "id": 42319,
   "illustration": "https://phira.5wyxi.com/files/07f357d2-9329-4a49-bea2-ff3ca50f1d76",
   "illustrator": "",

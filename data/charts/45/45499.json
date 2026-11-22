@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:44Z",
-    "lastChanged": "2026-09-21T02:03:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-23T08:32:25.233232Z",
   "charter": "Fovlin",
@@ -14,6 +14,7 @@
   "description": "本谱面为了申请stable已经经过多次修改，虽然没有通过评议，但已经在我的能力范围内把谱面做到最好了（本人能力有限），希望大家玩的开心！",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/bcd02e0c-7938-468a-9e97-594c31843b82",
+  "hidden": false,
   "id": 45499,
   "illustration": "https://phira.5wyxi.com/files/8b18b5c5-7a2d-42cb-b654-81bca276e49c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "星になる",
   "preview": "https://phira.5wyxi.com/files/db2221d8-80cc-45c0-983d-3820d7818225",
   "ranked": false,
-  "rating": 0.9557884,
-  "ratingCount": 1607,
+  "rating": 0.9559184,
+  "ratingCount": 1655,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:02Z",
-    "lastChanged": "2026-09-21T02:03:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-05T18:14:56.456234Z",
   "charter": "套马的柚子",
@@ -14,6 +14,7 @@
   "description": "b站：套马的柚子",
   "difficulty": 1.3000001,
   "file": "https://phira.5wyxi.com/files/379b70b7-7bc7-46b8-93ea-d1e750e33250",
+  "hidden": false,
   "id": 33383,
   "illustration": "https://phira.5wyxi.com/files/4109cf40-264c-4fa3-987e-2b65e87a18ee",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MAGENTA POTION",
   "preview": "https://phira.5wyxi.com/files/083d4128-7cc4-466a-903f-d3d4ff22c915",
   "ranked": false,
-  "rating": 0.94681287,
-  "ratingCount": 3053,
+  "rating": 0.94673216,
+  "ratingCount": 3293,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:16Z",
-    "lastChanged": "2026-09-21T02:03:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-03T12:06:29.734849Z",
   "charter": "🙃",
@@ -14,6 +14,7 @@
   "description": "本人重新改正上传",
   "difficulty": 7.999987,
   "file": "https://phira.5wyxi.com/files/86905e86-b6b9-42b2-91cf-a30906c71507",
+  "hidden": false,
   "id": 37374,
   "illustration": "https://phira.5wyxi.com/files/9468603a-f1b5-4e8a-8f72-1da8f5702d16",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "烂泥",
   "preview": "https://phira.5wyxi.com/files/9991aa94-fe3b-4b6f-a4fe-9cec6a43d157",
   "ranked": false,
-  "rating": 0.94164634,
-  "ratingCount": 6672,
+  "rating": 0.94150543,
+  "ratingCount": 6978,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

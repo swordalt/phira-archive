@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:42Z",
-    "lastChanged": "2026-10-25T09:25:42Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:54:13Z",
+    "revisions": 4
   },
   "chartUpdated": "2024-10-18T15:54:10.232263Z",
   "charter": "DX超性能フルメタルtwotthrees",
@@ -14,6 +14,7 @@
   "description": "两天写完的，很多细节没咋打磨",
   "difficulty": 17.300001,
   "file": "https://phira.5wyxi.com/files/bee748e4-08f9-4b1b-be97-2094e54dc842",
+  "hidden": false,
   "id": 28167,
   "illustration": "https://phira.5wyxi.com/files/c272f2ab-64c9-47ed-bb35-97a36f6b4b06",
   "illustrator": "GROOVE COASTER",
@@ -21,8 +22,8 @@
   "name": "DX超性能フルメタル少女",
   "preview": "https://phira.5wyxi.com/files/4344d572-7f24-4487-a44a-bd2e431cddff",
   "ranked": false,
-  "rating": 0.826701,
-  "ratingCount": 4525,
+  "rating": 0.82610065,
+  "ratingCount": 4937,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

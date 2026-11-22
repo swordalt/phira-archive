@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:25Z",
-    "lastChanged": "2026-09-21T02:02:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-21T09:04:38.490696Z",
   "charter": "NEKOYO",
@@ -14,6 +14,7 @@
   "description": "懒得写简介",
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/d5dbb9fb-8392-4255-aeae-925bd3177208",
+  "hidden": false,
   "id": 23969,
   "illustration": "https://phira.5wyxi.com/files/35b73399-631a-4a59-93a5-bfad6475a4b2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "End Time",
   "preview": "https://phira.5wyxi.com/files/e2331c56-359f-4bd6-991e-44fbd2f475ae",
   "ranked": false,
-  "rating": 0.9260274,
-  "ratingCount": 463,
+  "rating": 0.92801404,
+  "ratingCount": 470,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

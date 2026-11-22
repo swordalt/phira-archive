@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:46Z",
-    "lastChanged": "2026-09-21T02:02:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-25T15:40:36.858376Z",
   "charter": "V&M prays for \"PLAGUE\"",
@@ -14,6 +14,7 @@
   "description": "reuploaded\n微改\n25.2.25 reuploaded again\noriginal charter uploaded\n25.6.13 定数修改",
   "difficulty": 17.100004,
   "file": "https://phira.5wyxi.com/files/4b828401-c110-404a-8ada-4dda3a04046b",
+  "hidden": false,
   "id": 29578,
   "illustration": "https://phira.5wyxi.com/files/04ba09e4-1fa0-4006-b0c4-914fc8bb5597",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Birds of Plague",
   "preview": "https://phira.5wyxi.com/files/db8ee3bc-a6df-42a8-b163-c02b0abe639f",
   "ranked": true,
-  "rating": 0.9123947,
-  "ratingCount": 2197,
+  "rating": 0.9128243,
+  "ratingCount": 2234,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

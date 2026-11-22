@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:27Z",
-    "lastChanged": "2026-09-21T02:01:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-17T07:06:08.587294Z",
   "charter": "kbcrt",
@@ -14,6 +14,7 @@
   "description": "谱师kbcrt本人上传",
   "difficulty": 14.1,
   "file": "https://phira.5wyxi.com/files/23492fc5-87eb-4ffb-b43d-68702a8c3aaf",
+  "hidden": false,
   "id": 7804,
   "illustration": "https://phira.5wyxi.com/files/6f725727-4a07-4962-b550-3815067ea4be",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Shed a Light",
   "preview": "https://phira.5wyxi.com/files/d86c33f6-a33b-4a42-94cb-7ce4fc07aaa5",
   "ranked": false,
-  "rating": 0.9357305,
-  "ratingCount": 20314,
+  "rating": 0.9357524,
+  "ratingCount": 20383,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

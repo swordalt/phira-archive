@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:46Z",
-    "lastChanged": "2026-09-21T02:05:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-21T03:28:25.765637Z",
   "charter": "Nicksr",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/725e454d-85ec-4c4f-941f-fe075a5cd2ff",
+  "hidden": false,
   "id": 18740,
   "illustration": "https://phira.5wyxi.com/files/efad292e-58a4-464b-9e4c-a9c00ca7eea5",
   "illustrator": "",

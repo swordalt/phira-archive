@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:20Z",
-    "lastChanged": "2026-09-21T02:05:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-10-29T12:26:56.592486Z",
   "charter": "ZhangHB_321688",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/ff6c8c47-7ec5-4207-99e6-6284bd0dd1f5",
+  "hidden": false,
   "id": 11014,
   "illustration": "https://phira.5wyxi.com/files/1fb0592a-7d64-4cea-a22f-3e23bbc4571a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Psy Oiiaioooooiai",
   "preview": "https://phira.5wyxi.com/files/1edf327c-7d41-4cbc-940a-678d6909236f",
   "ranked": false,
-  "rating": 0.8959866,
-  "ratingCount": 1231,
+  "rating": 0.89624745,
+  "ratingCount": 1236,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

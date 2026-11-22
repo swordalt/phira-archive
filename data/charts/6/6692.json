@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-02T14:11:38.821750Z",
   "charter": "Axeor",
@@ -14,6 +14,7 @@
   "description": "osu谱面还原，没有转铺，自己搭的，建议打开奥拓普雷",
   "difficulty": 114514.0,
   "file": "https://phira.5wyxi.com/files/8937c0d8-6af5-4cf2-b7ce-be87c78f99a5",
+  "hidden": false,
   "id": 6692,
   "illustration": "https://phira.5wyxi.com/files/2f1b2dd6-6f98-4c86-8668-63f98ca5198b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "U.N.オーエンは彼女なのか?(remix)",
   "preview": "https://phira.5wyxi.com/files/56eec409-251b-42f5-ab75-37f8f67fd7f3",
   "ranked": false,
-  "rating": 0.85243976,
-  "ratingCount": 483,
+  "rating": 0.8531058,
+  "ratingCount": 488,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

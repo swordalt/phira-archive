@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-13T07:01:45.717778Z",
   "charter": "God Aki",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/62e8206b-ba73-4c4e-abfa-8cd49573afc4",
+  "hidden": false,
   "id": 33944,
   "illustration": "https://phira.5wyxi.com/files/e34bec32-5839-4af6-b921-89cd72bccab5",
   "illustrator": "",

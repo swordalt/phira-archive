@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:38Z",
-    "lastChanged": "2026-09-21T02:06:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-04T08:01:20.667581Z",
   "charter": "vxavake",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/6de9384a-20b5-4098-ac84-4244131b416a",
+  "hidden": false,
   "id": 47596,
   "illustration": "https://phira.5wyxi.com/files/41a8da02-6c32-4230-ad94-b101b4385a4b",
   "illustrator": "",

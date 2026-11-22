@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-07T10:08:55Z",
-    "lastChanged": "2026-10-07T10:08:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-07T08:11:05.092231Z",
   "charter": "Reticent_Dust vs. NothinGSensez",
@@ -14,6 +14,7 @@
   "description": "@NothinGSensez#1026384",
   "difficulty": 18.700003,
   "file": "https://phira.5wyxi.com/files/07e544b8-fc83-4614-b1fb-21cd300a2b04",
+  "hidden": false,
   "id": 80511,
   "illustration": "https://phira.5wyxi.com/files/c6eabde7-de5f-4c41-bac2-303fb0e49f48",
   "illustrator": "KEI",
@@ -21,8 +22,8 @@
   "name": "Computer Cornflakes",
   "preview": "https://phira.5wyxi.com/files/5b6f1ea0-d406-46bb-ac81-5ac27b8ef695",
   "ranked": false,
-  "rating": 0.817442,
-  "ratingCount": 6,
+  "rating": 0.8993549,
+  "ratingCount": 54,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

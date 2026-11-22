@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:39Z",
-    "lastChanged": "2026-09-21T02:04:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-01T04:51:23.153569Z",
   "charter": "a- Fi PgTetFn PNo-",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/1bbbb781-2ccf-4e53-873a-120422d580ac",
+  "hidden": false,
   "id": 57424,
   "illustration": "https://phira.5wyxi.com/files/c7187d2f-c94b-4afb-9ff9-c37cb55c2e41",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "命に嫌われている",
   "preview": "https://phira.5wyxi.com/files/91b3205b-7405-46f9-bca6-cfd29dac6aa0",
   "ranked": false,
-  "rating": 0.90048057,
-  "ratingCount": 746,
+  "rating": 0.8983258,
+  "ratingCount": 865,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

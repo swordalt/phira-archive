@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:50Z",
-    "lastChanged": "2026-09-21T02:03:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-12T14:23:36.532585Z",
   "charter": "OwO",
@@ -14,6 +14,7 @@
   "description": "谱师FreMo本人上传,OwO\n\n谱师本人已ap，可放心游玩",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/3edd26ed-17df-45c3-b654-216f26eb9b30",
+  "hidden": false,
   "id": 46694,
   "illustration": "https://phira.5wyxi.com/files/197651fc-83d4-4d9c-b52b-bbfbc1313a93",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "IGNITE",
   "preview": "https://phira.5wyxi.com/files/38393eeb-0f22-4f28-8d0d-e6b8863da9d6",
   "ranked": false,
-  "rating": 0.90728414,
-  "ratingCount": 432,
+  "rating": 0.9074719,
+  "ratingCount": 439,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

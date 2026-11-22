@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:27Z",
-    "lastChanged": "2026-09-21T02:04:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:36Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-04T02:04:24.937287Z",
   "charter": "SrY-ABYSS",
@@ -14,6 +14,7 @@
   "description": "《崩坏星穹铁道》火花角色pv\n视频预览 BV1hBAfzGETt",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/b8320bf0-44a5-4bf0-a0e2-933acd567a8d",
+  "hidden": false,
   "id": 53804,
   "illustration": "https://phira.5wyxi.com/files/39adc855-223a-4ebe-84cf-0b6cc427ab36",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "痴人说梦",
   "preview": "https://phira.5wyxi.com/files/8ba8494f-34d6-4668-b147-7f2b2e54cb1f",
   "ranked": false,
-  "rating": 0.9406822,
-  "ratingCount": 3456,
+  "rating": 0.94104546,
+  "ratingCount": 3909,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

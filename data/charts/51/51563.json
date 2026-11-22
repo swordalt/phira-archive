@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:15Z",
-    "lastChanged": "2026-09-21T02:04:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-24T02:36:41.111985Z",
   "charter": "薛定谔の猫",
@@ -14,6 +14,7 @@
   "description": "谱师本人 一张底力+小脑裂谱",
   "difficulty": 15.200003,
   "file": "https://phira.5wyxi.com/files/85050f42-1f24-45cc-833b-004d07aa08ef",
+  "hidden": false,
   "id": 51563,
   "illustration": "https://phira.5wyxi.com/files/3f595b0f-9731-4bbb-882c-0d9176bacda9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "晚夜微雨问海棠",
   "preview": "https://phira.5wyxi.com/files/e70d89bb-9256-43aa-b8a9-ea0071f05723",
   "ranked": false,
-  "rating": 0.9486135,
-  "ratingCount": 35420,
+  "rating": 0.9485257,
+  "ratingCount": 38968,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

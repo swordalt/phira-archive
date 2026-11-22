@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:45Z",
-    "lastChanged": "2026-09-21T02:01:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-20T11:32:35.736316Z",
   "charter": "笑笑123",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/8a337d40-759d-407d-974d-179a69404ba1",
+  "hidden": false,
   "id": 12651,
   "illustration": "https://phira.5wyxi.com/files/2fe5cf7f-4f32-4680-b621-0ccbbefd8814",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "月下桜天國",
   "preview": "https://phira.5wyxi.com/files/cb4b95b3-a267-437d-9679-b48dd421f17c",
   "ranked": false,
-  "rating": 0.84631735,
-  "ratingCount": 476,
+  "rating": 0.84703076,
+  "ratingCount": 479,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

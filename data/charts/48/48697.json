@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:01Z",
-    "lastChanged": "2026-09-21T02:04:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-02T05:11:29.593307Z",
   "charter": "SayuCoLtd",
@@ -14,6 +14,7 @@
   "description": "萌新独写三谱，实际为第四张谱，写谱一周年纪念作\n耗时八个月（写一半文件丢了，这相当于重写版本）\n只用了2300事件\n早柚有限公司\n",
   "difficulty": 14.800003,
   "file": "https://phira.5wyxi.com/files/181afd9c-d3bf-41f5-8912-52acd3802f38",
+  "hidden": false,
   "id": 48697,
   "illustration": "https://phira.5wyxi.com/files/feea2d4d-9265-4203-b7b3-ffc9208d67c0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ninelie(EasyListening)",
   "preview": "https://phira.5wyxi.com/files/64d27d0b-3bd1-4df0-85f5-bde8487dbcf6",
   "ranked": false,
-  "rating": 0.9416445,
-  "ratingCount": 971,
+  "rating": 0.9416753,
+  "ratingCount": 1048,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

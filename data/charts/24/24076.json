@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:55Z",
-    "lastChanged": "2026-09-21T02:05:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-22T11:26:14.204325Z",
   "charter": "PT-ERror",
@@ -14,6 +14,7 @@
   "description": "由Malody谱面转谱，感谢B站“起名钉子户”的转谱器",
   "difficulty": 12.299997,
   "file": "https://phira.5wyxi.com/files/2f2a9231-2ce6-4dab-b439-ca565094edf4",
+  "hidden": false,
   "id": 24076,
   "illustration": "https://phira.5wyxi.com/files/a5a038b1-3fed-42e2-80c6-937af3210ad0",
   "illustrator": "",

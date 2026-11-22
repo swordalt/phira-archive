@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T15:51:51Z",
-    "lastChanged": "2026-09-22T14:44:18Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:17Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-09-11T05:07:04.626442Z",
   "charter": "YX沅绪",
@@ -14,6 +14,7 @@
   "description": "本人上传 b站YX沅绪\n使用@TG铁锅炖大鹅的T-Phi Editor制作\n写的第一张完整常规谱\n有不好的地方可以b站评论区提出喵",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/ff0f89c9-7351-47e9-9136-975f55db00dd",
+  "hidden": false,
   "id": 77695,
   "illustration": "https://phira.5wyxi.com/files/b5f57a0d-8f1a-4678-b2ca-f028c31ccf38",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "supersonic",
   "preview": "https://phira.5wyxi.com/files/afe642a8-60be-4085-a3c7-93b3a9b2c440",
   "ranked": false,
-  "rating": 0.9348202,
-  "ratingCount": 42,
+  "rating": 0.92754024,
+  "ratingCount": 432,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

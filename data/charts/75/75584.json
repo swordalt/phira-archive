@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:12Z",
-    "lastChanged": "2026-09-21T02:05:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-25T06:48:33.922159Z",
   "charter": "Encly",
@@ -14,6 +14,7 @@
   "description": "谱师B站@ty天远\r\n中间的点划是饺子醋\r\n然后开头bpm其实是120的，不过全是黄键就懒得改了（）",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/943c019f-63fa-4de8-87fc-bffee3178676",
+  "hidden": false,
   "id": 75584,
   "illustration": "https://phira.5wyxi.com/files/9140ffdc-4c26-4ff2-804e-63f47f637185",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Asymmetrical Grooves",
   "preview": "https://phira.5wyxi.com/files/4968ac32-e611-4052-b925-3edb0b3150c5",
   "ranked": false,
-  "rating": 0.83628285,
-  "ratingCount": 38,
+  "rating": 0.84757483,
+  "ratingCount": 45,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:24Z",
-    "lastChanged": "2026-09-21T02:03:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-24T09:54:29.999455Z",
   "charter": "iiiiand",
@@ -14,6 +14,7 @@
   "description": "制作者本人上传，谱面过长，不上传哔站（谱师b站iiiiandRYTHEM）",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/db33b1a7-3ef0-4887-873c-4b02d658d184",
+  "hidden": false,
   "id": 40189,
   "illustration": "https://phira.5wyxi.com/files/d15f7ef7-ce4c-4922-857d-4a202bf3f687",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Nekomimi Switch",
   "preview": "https://phira.5wyxi.com/files/dfe83cb3-e52a-451c-9552-922045705012",
   "ranked": false,
-  "rating": 0.9272257,
-  "ratingCount": 77,
+  "rating": 0.9280542,
+  "ratingCount": 83,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

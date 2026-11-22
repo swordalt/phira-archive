@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:30Z",
-    "lastChanged": "2026-09-21T02:01:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-30T00:43:36.225027Z",
   "charter": "cnx*tree",
@@ -14,6 +14,7 @@
   "description": "5thpecjam参赛谱，我觉得挺帅的。喜欢请关注b站CeN_x喵",
   "difficulty": 15.733334,
   "file": "https://phira.5wyxi.com/files/cbc86c1a-c4d8-427a-a475-32bb9e895cec",
+  "hidden": false,
   "id": 8751,
   "illustration": "https://phira.5wyxi.com/files/7e623fb8-b36a-4201-971c-7aeb6556e50e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Valsqotch",
   "preview": "https://phira.5wyxi.com/files/2d026e60-c08b-49cb-94af-83a966ba38dc",
   "ranked": true,
-  "rating": 0.90979826,
-  "ratingCount": 2308,
+  "rating": 0.9087854,
+  "ratingCount": 2340,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:18Z",
-    "lastChanged": "2026-09-21T02:05:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-08T10:02:46.671372Z",
   "charter": "SSHC RESTAiN -Overdoze-",
@@ -14,6 +14,7 @@
   "description": "SSHC参照原谱改的，动画非常之灵性，完美继承我的初见杀（",
   "difficulty": 15.2999935,
   "file": "https://phira.5wyxi.com/files/9847abed-3f2c-4aed-b02b-cc98852d858b",
+  "hidden": false,
   "id": 4613,
   "illustration": "https://phira.5wyxi.com/files/b207c5e3-499b-48b8-bd2c-52e7461a450e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "INFiNiTE ENERZY -Overdoze- (Haocore Mix)",
   "preview": "https://phira.5wyxi.com/files/2b76fde6-c48b-412a-80d8-5a70d9e0fba1",
   "ranked": false,
-  "rating": 0.92449284,
-  "ratingCount": 950,
+  "rating": 0.92462724,
+  "ratingCount": 953,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

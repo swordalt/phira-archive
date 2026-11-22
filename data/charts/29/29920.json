@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:48Z",
-    "lastChanged": "2026-09-21T02:02:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-22T04:48:27.176930Z",
   "charter": "E U R E K A",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/3fb508af-36f5-4517-991e-c9a2e06fdea3",
+  "hidden": false,
   "id": 29920,
   "illustration": "https://phira.5wyxi.com/files/caaf9a9e-3a7b-486e-8736-3ada8e08b9cc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Eureka",
   "preview": "https://phira.5wyxi.com/files/5508130a-408a-4e38-be19-7ea074cc7564",
   "ranked": false,
-  "rating": 0.95395327,
-  "ratingCount": 383,
+  "rating": 0.9530583,
+  "ratingCount": 385,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

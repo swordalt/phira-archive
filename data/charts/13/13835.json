@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:41Z",
-    "lastChanged": "2026-09-21T02:05:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-20T08:55:16.472457Z",
   "charter": "Auroruby",
@@ -14,6 +14,7 @@
   "description": "跨越一年时间的谱面，，，",
   "difficulty": 2.0000002,
   "file": "https://phira.5wyxi.com/files/cae89229-dde6-44a3-9e6a-3718416bde3c",
+  "hidden": false,
   "id": 13835,
   "illustration": "https://phira.5wyxi.com/files/3a1b0686-2384-4564-a5b4-057c47a7cc08",
   "illustrator": "",

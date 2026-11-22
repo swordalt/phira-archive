@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:50Z",
-    "lastChanged": "2026-09-21T02:05:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-22T04:21:14.111470Z",
   "charter": "AILLRS",
@@ -14,6 +14,7 @@
   "description": "6h写完 本人上传",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/d27701d8-dff8-411d-a046-4553559c9f48",
+  "hidden": false,
   "id": 21655,
   "illustration": "https://phira.5wyxi.com/files/c49ca200-6383-4e9b-b502-5dcf0dee7fee",
   "illustrator": "",

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:11Z",
-    "lastChanged": "2026-09-21T02:04:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-09T13:02:14.320780Z",
   "charter": "porjf",
@@ -14,6 +14,7 @@
   "description": " ",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/94bfabfc-0806-42b4-b7dd-b8af6488842a",
+  "hidden": false,
   "id": 51111,
   "illustration": "https://phira.5wyxi.com/files/e1c86beb-abb2-4bb5-bffc-da6116abda1f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ただ声一つ",
   "preview": "https://phira.5wyxi.com/files/bf6e1bda-077b-47ee-b0ee-6f18ca3ca31e",
   "ranked": false,
-  "rating": 0.88247585,
-  "ratingCount": 85,
+  "rating": 0.88577765,
+  "ratingCount": 95,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

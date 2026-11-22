@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:26Z",
-    "lastChanged": "2026-09-21T02:03:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-01T14:38:10.074519Z",
   "charter": "BROWNNNNNNNNN",
@@ -14,6 +14,7 @@
   "description": "Forsaken &JSAB\n本人上传",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/696e92f7-792d-4b89-b504-cf3acf238053",
+  "hidden": false,
   "id": 40683,
   "illustration": "https://phira.5wyxi.com/files/d62762e3-24bb-4c78-94a2-a0e37dfbac3a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "CLOSE TO ME(Red Moonrise mix)",
   "preview": "https://phira.5wyxi.com/files/337548ae-d8f9-43d7-9ba5-3500e984a557",
   "ranked": false,
-  "rating": 0.920544,
-  "ratingCount": 341,
+  "rating": 0.92195374,
+  "ratingCount": 362,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

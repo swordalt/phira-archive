@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:11Z",
-    "lastChanged": "2026-09-21T02:01:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-14T11:40:41.039446Z",
   "charter": "YuzuMeT",
@@ -14,6 +14,7 @@
   "description": "初稿可能是22年2月然后也没咋改所以后面拉胯配置僵硬特效感到非常抱歉，，，先上传占个unranked位。",
   "difficulty": 15.700001,
   "file": "https://phira.5wyxi.com/files/fd3f4075-a6df-43f9-95fd-b12ffa47072b",
+  "hidden": false,
   "id": 2052,
   "illustration": "https://phira.5wyxi.com/files/fe800c33-47ff-4ac1-bf41-b02cecd9422f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Viyella's Tears",
   "preview": "https://phira.5wyxi.com/files/f487650c-35a6-4ba5-aab1-35bf91c6a120",
   "ranked": false,
-  "rating": 0.9286504,
-  "ratingCount": 1910,
+  "rating": 0.92902976,
+  "ratingCount": 1932,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

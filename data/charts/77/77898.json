@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:16Z",
-    "lastChanged": "2026-09-21T02:05:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-12T12:19:41.602050Z",
   "charter": "12qoq12",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n6thWJC G4场\n萌新来试水了",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/e0d17cee-97ee-4e7e-815e-861ea7a42493",
+  "hidden": false,
   "id": 77898,
   "illustration": "https://phira.5wyxi.com/files/fe6216ab-863b-4dff-9222-00b8d06b6c54",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "一念",
   "preview": "https://phira.5wyxi.com/files/afa6124a-0986-4159-a7da-76d30eb7e95b",
   "ranked": false,
-  "rating": 0.9108121,
-  "ratingCount": 353,
+  "rating": 0.9072915,
+  "ratingCount": 1007,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

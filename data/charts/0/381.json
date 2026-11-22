@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:34Z",
-    "lastChanged": "2026-09-21T02:05:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "Team_Frog mixed by ZAQWSXCD",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 11.0,
   "file": "https://phira.5wyxi.com/files/634d8434-35da-4cb3-baaa-a2b45588c1ae",
+  "hidden": false,
   "id": 381,
   "illustration": "https://phira.5wyxi.com/files/bc7aa6af-8425-46d5-b27d-0e1ad3a527f8",
   "illustrator": "寿司勇者トロ",
@@ -21,8 +22,8 @@
   "name": "裏切りアリス",
   "preview": "https://phira.5wyxi.com/files/b950a1d5-8ea4-4d5f-8243-20445d0832a6",
   "ranked": false,
-  "rating": 0.93751884,
-  "ratingCount": 176,
+  "rating": 0.9338014,
+  "ratingCount": 186,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

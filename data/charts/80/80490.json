@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-07T10:08:55Z",
-    "lastChanged": "2026-10-07T10:08:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-07T03:01:17.240460Z",
   "charter": "続く...",
@@ -14,6 +14,7 @@
   "description": "曲：Rule The World\n曲师：Vau Boy\n谱师：日向666 \nRizline段原谱师：198\n画师：九，Autumn001_黄秋 ，日向666 \n难度：15.0\n物量：1000\n\n注：1.为避免谱面穿帮，请将谱面比例调整为为3:2（1.5）后进行游玩，请勿在黑暗条件下进行游玩（不然会看不清note）\n2.谱面后半段为全屏判定，点击屏幕任意位置即可判定。\n——\n谱面由谱师本人（日向666）制作并上传。",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/60383e50-0b61-4083-af75-5b75978bf669",
+  "hidden": false,
   "id": 80490,
   "illustration": "https://phira.5wyxi.com/files/c7e6e913-b333-48c6-902c-1d8dea03e714",
   "illustrator": "-九-秋-向-",
@@ -21,8 +22,8 @@
   "name": "Rule The World",
   "preview": "https://phira.5wyxi.com/files/b72a59e4-561f-43fb-9da1-89fe548928ee",
   "ranked": false,
-  "rating": 0.9359617,
-  "ratingCount": 12,
+  "rating": 0.9522915,
+  "ratingCount": 155,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

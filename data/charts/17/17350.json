@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:04Z",
-    "lastChanged": "2026-09-21T02:02:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-21T14:20:29.020363Z",
   "charter": "闻雨 vs. KiAMe",
@@ -14,6 +14,7 @@
   "description": "爽的地方很爽，不爽的地方很不爽的谱面，大家各自斟酌（谱师本人上传），B站发手元视频麻烦@闻雨KiAMe，谢谢！",
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/97539896-7d18-43f1-ae97-8e790661a3bf",
+  "hidden": false,
   "id": 17350,
   "illustration": "https://phira.5wyxi.com/files/9f83170b-e24e-40bd-89d7-8eb3ad3d9dfc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "raputa",
   "preview": "https://phira.5wyxi.com/files/b2dc7c22-eea6-4754-be78-5d9793225b73",
   "ranked": false,
-  "rating": 0.8295615,
-  "ratingCount": 406,
+  "rating": 0.8290676,
+  "ratingCount": 407,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

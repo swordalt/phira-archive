@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:55Z",
-    "lastChanged": "2026-09-27T10:15:57Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:58:34Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-07-08T10:34:53.909965Z",
   "charter": "DesRemuci（配置）&溪旭（表演动效）",
@@ -14,6 +14,7 @@
   "description": "本铺面为@DesRemuci#3139 为✈️杯:求救战争写的纯配置B组决赛谱的动效表演添加版，本人在添加动效表演同时略微修改了一些易蹭配置，希望各位玩的开心",
   "difficulty": 17.400002,
   "file": "https://phira.5wyxi.com/files/e0176c84-5e4d-4cc0-b762-da5d692fcf3c",
+  "hidden": false,
   "id": 64968,
   "illustration": "https://phira.5wyxi.com/files/d793a877-9247-4092-9da3-4de9d8ca107f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "100%",
   "preview": "https://phira.5wyxi.com/files/49529bb1-d0ec-4a0d-9ca8-9731909d94f3",
   "ranked": false,
-  "rating": 0.9092441,
-  "ratingCount": 416,
+  "rating": 0.9129404,
+  "ratingCount": 445,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

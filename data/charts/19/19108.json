@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:10Z",
-    "lastChanged": "2026-09-21T02:02:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-30T17:45:27.538148Z",
   "charter": "tadako",
@@ -14,6 +14,7 @@
   "description": "使用了比较吃底力的双指配置\n本人上传，b站ID累卵之危",
   "difficulty": 16.800003,
   "file": "https://phira.5wyxi.com/files/af89b8c4-fda8-4c34-a11b-ce74b183f308",
+  "hidden": false,
   "id": 19108,
   "illustration": "https://phira.5wyxi.com/files/6fe440fb-b4f9-477c-b5a6-0c1b936de290",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sendan Life(Katagiri Bootleg)",
   "preview": "https://phira.5wyxi.com/files/fe18687c-7919-4e5c-b177-ab60fd3971e7",
   "ranked": false,
-  "rating": 0.94390726,
-  "ratingCount": 2043,
+  "rating": 0.9441723,
+  "ratingCount": 2081,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

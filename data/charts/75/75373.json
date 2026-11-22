@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:12Z",
-    "lastChanged": "2026-10-04T10:51:16Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:11Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-24T06:22:17.411848Z",
   "charter": "xQ",
@@ -14,6 +14,7 @@
   "description": "B站某个屑柒，本人上传",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/9767890b-0c5a-4ed2-870d-2cee85a71343",
+  "hidden": false,
   "id": 75373,
   "illustration": "https://phira.5wyxi.com/files/e3710878-b06e-4283-8473-f3f00c24ac44",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Hardcor Kwaya",
   "preview": "https://phira.5wyxi.com/files/417ae5fa-4f29-4bd1-ab23-38ed172fc5dc",
   "ranked": false,
-  "rating": 0.9168376,
-  "ratingCount": 207,
+  "rating": 0.9099341,
+  "ratingCount": 231,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

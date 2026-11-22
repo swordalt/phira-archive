@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-08T17:50:20Z",
-    "lastChanged": "2026-10-08T17:50:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-05T10:22:01.911797Z",
   "charter": "LowZ_鸟头",
@@ -14,6 +14,7 @@
   "description": "本人上传，b站同名",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/e3776b03-9d02-4b43-a4a8-9a37bdcd0255",
+  "hidden": false,
   "id": 80281,
   "illustration": "https://phira.5wyxi.com/files/d656cac0-e3a8-40e1-bb03-bd64cecef7f3",
   "illustrator": "Rick Astley",
@@ -21,8 +22,8 @@
   "name": "never gonna give you up",
   "preview": "https://phira.5wyxi.com/files/69b782d7-7011-4cbd-a90c-bb2656ca53ef",
   "ranked": false,
-  "rating": 0.94091886,
-  "ratingCount": 9,
+  "rating": 0.92582643,
+  "ratingCount": 11106,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:51Z",
-    "lastChanged": "2026-09-21T02:04:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-25T14:03:07.041038Z",
   "charter": "Ax13 / @Ht1",
@@ -14,6 +14,7 @@
   "description": "6/24 本人投\n（13修改下已删除横向突脸和多押 “0帧6押起手？你就是刑部尚书？”）\n（01修改下已删除特效和部分贴图“这对错图是阎王爷簿上的系统提示吗？”）\n7/25更新\n（13轻微优化了部分配置 修改了中间段01恶趣味的bug“闪烁长条还要跨屏划的小巧思亏你想得出”）",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/29e8ea31-5138-4ca3-af20-767694c19b37",
+  "hidden": false,
   "id": 62301,
   "illustration": "https://phira.5wyxi.com/files/d3a3035c-db7a-4c9b-a8f1-b5923213d670",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "找到了",
   "preview": "https://phira.5wyxi.com/files/623526b6-b131-4c70-9f0d-a8690421b386",
   "ranked": false,
-  "rating": 0.8806882,
-  "ratingCount": 363,
+  "rating": 0.88594794,
+  "ratingCount": 396,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

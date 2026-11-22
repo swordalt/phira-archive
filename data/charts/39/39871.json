@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:24Z",
-    "lastChanged": "2026-09-21T02:03:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-18T12:32:17.536082Z",
   "charter": "R的你喵喵叫",
@@ -14,6 +14,7 @@
   "description": "做梦梦到的谱",
   "difficulty": 17.499998,
   "file": "https://phira.5wyxi.com/files/355b49c1-46f3-4564-9d29-64b0af312625",
+  "hidden": false,
   "id": 39871,
   "illustration": "https://phira.5wyxi.com/files/0d695e33-6552-4bfe-b048-569a757e978c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "UMMU",
   "preview": "https://phira.5wyxi.com/files/08ee95f3-9fed-4ed0-89d6-9f7c1c1c8134",
   "ranked": false,
-  "rating": 0.82502806,
-  "ratingCount": 125,
+  "rating": 0.81962425,
+  "ratingCount": 127,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

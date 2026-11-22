@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:38Z",
-    "lastChanged": "2026-09-21T02:06:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-05T11:44:12.470188Z",
   "charter": "杳音",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/e8ed9c98-8777-418a-81a6-d706543fb3f4",
+  "hidden": false,
   "id": 47673,
   "illustration": "https://phira.5wyxi.com/files/2819bc58-9ef2-41c0-af2b-a616d14b4ffc",
   "illustrator": "",

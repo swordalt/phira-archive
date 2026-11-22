@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:36Z",
-    "lastChanged": "2026-09-21T02:04:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-04-16T12:21:31.922907Z",
   "charter": "Axiyelis",
@@ -14,6 +14,7 @@
   "description": "b站同名，phira上削了shader，优化点可以私我\n写了原神6.3的决战曲\n萌新粪谱，配置经不起推敲，bug一堆。\n但还是希望玩得开心(๑>؂<๑）",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/c8944a7f-a61a-4c85-b82b-e5d94f890c0c",
+  "hidden": false,
   "id": 56438,
   "illustration": "https://phira.5wyxi.com/files/e92c01be-6d66-4265-9c12-ddd9ef412ba9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "新月的幕演",
   "preview": "https://phira.5wyxi.com/files/8f98b14c-d136-4c32-a026-b9940b2c2441",
   "ranked": false,
-  "rating": 0.93758905,
-  "ratingCount": 248,
+  "rating": 0.9428128,
+  "ratingCount": 320,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

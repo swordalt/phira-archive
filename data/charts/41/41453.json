@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:28Z",
-    "lastChanged": "2026-09-21T02:03:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-12T01:01:28.039911Z",
   "charter": "55752525",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，BV1fVu5zGEbA",
   "difficulty": 18.300001,
   "file": "https://phira.5wyxi.com/files/8c2d7644-aeca-47ee-85e8-8c8c818b77ca",
+  "hidden": false,
   "id": 41453,
   "illustration": "https://phira.5wyxi.com/files/2fd7f5bc-4cb0-4e53-a36f-0eedf1d091a6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "いみごのたまご",
   "preview": "https://phira.5wyxi.com/files/985361fc-39d9-42b8-a260-7c4b75f13baa",
   "ranked": false,
-  "rating": 0.80969155,
-  "ratingCount": 122,
+  "rating": 0.82193303,
+  "ratingCount": 129,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

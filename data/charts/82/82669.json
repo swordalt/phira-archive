@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-31T17:39:48Z",
-    "lastChanged": "2026-10-31T21:26:07Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:31Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-31T12:11:39.546063Z",
   "charter": "zwz",
@@ -14,6 +14,7 @@
   "description": "谱师本人（中微子）上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/7b739e36-4fc2-40a7-bc75-50334e729eea",
+  "hidden": false,
   "id": 82669,
   "illustration": "https://phira.5wyxi.com/files/e23d4dfd-f241-43c1-966e-1897c6abf347",
   "illustrator": "Joost Klein, Chalky Wong",
@@ -21,14 +22,14 @@
   "name": "I Wanna Go To China",
   "preview": "https://phira.5wyxi.com/files/19c3ea29-397b-48c2-b426-46220745b70c",
   "ranked": false,
-  "rating": 0.8485139,
-  "ratingCount": 0,
+  "rating": 0.8532013,
+  "ratingCount": 5819,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-10-31T12:20:45.414781798Z",
+  "updated": "2026-10-31T12:20:45.414781Z",
   "uploader": 344689
 }

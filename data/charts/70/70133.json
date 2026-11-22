@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:04Z",
-    "lastChanged": "2026-09-21T02:05:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-01T07:52:05.264911Z",
   "charter": "Mayonaka_Mori",
@@ -14,6 +14,7 @@
   "description": "本人上传。",
   "difficulty": 14.1,
   "file": "https://phira.5wyxi.com/files/01bd8f6a-e256-4b3d-a9ef-87a6b66e127a",
+  "hidden": false,
   "id": 70133,
   "illustration": "https://phira.5wyxi.com/files/2c19ca4a-9b0a-4a50-9c69-a60a52c1a670",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "中国人能飞",
   "preview": "https://phira.5wyxi.com/files/d1b8c520-63ab-4320-a7fd-1596bc4d33bf",
   "ranked": false,
-  "rating": 0.8451607,
-  "ratingCount": 21111,
+  "rating": 0.8467403,
+  "ratingCount": 22862,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

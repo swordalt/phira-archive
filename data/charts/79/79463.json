@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-15T14:54:36Z",
-    "lastChanged": "2026-10-18T09:09:18Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:23Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-09-30T08:07:20.993622Z",
   "charter": "HHmeowmeows",
@@ -14,6 +14,7 @@
   "description": "This took me so long to make",
   "difficulty": 21.0,
   "file": "https://phira.5wyxi.com/files/d538db31-a57a-4db2-b275-10308f0b434d",
+  "hidden": false,
   "id": 79463,
   "illustration": "https://phira.5wyxi.com/files/85d53fd9-dcf9-41f1-b000-2f7511348f3c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Soulless 5",
   "preview": "https://phira.5wyxi.com/files/3301f589-082b-4087-b1f3-1b637c0dfb1d",
   "ranked": false,
-  "rating": 0.7358328,
-  "ratingCount": 30,
+  "rating": 0.70119536,
+  "ratingCount": 72,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

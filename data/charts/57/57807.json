@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:41Z",
-    "lastChanged": "2026-09-21T02:04:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-04T12:34:42.230363Z",
   "charter": "清羽LE",
@@ -14,6 +14,7 @@
   "description": "Festival\n定数：17.1\n耗时30h\n2修",
   "difficulty": 17.100002,
   "file": "https://phira.5wyxi.com/files/d75c3490-637b-4000-99b0-35b501b1ed26",
+  "hidden": false,
   "id": 57807,
   "illustration": "https://phira.5wyxi.com/files/67cee709-00b1-4f15-9bd8-0d3b839f5a6c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Festival",
   "preview": "https://phira.5wyxi.com/files/9ac59245-932b-4dab-b2ac-d05f7b5fabb7",
   "ranked": false,
-  "rating": 0.68336314,
-  "ratingCount": 26,
+  "rating": 0.71839255,
+  "ratingCount": 29,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:33Z",
-    "lastChanged": "2026-09-21T02:02:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-12T07:08:10.788216Z",
   "charter": "8岁的肚子Sabrina",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 2.8,
   "file": "https://phira.5wyxi.com/files/fbb50082-9dab-46a4-9cd7-f6e8c1cb02dc",
+  "hidden": false,
   "id": 26061,
   "illustration": "https://phira.5wyxi.com/files/643bb84c-922c-4dfd-9411-13afb471256d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "若我不曾见过太阳",
   "preview": "https://phira.5wyxi.com/files/9a86ca20-3503-4ed2-9cc5-0b464287a190",
   "ranked": false,
-  "rating": 0.94080883,
-  "ratingCount": 3414,
+  "rating": 0.9397195,
+  "ratingCount": 3616,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:43Z",
-    "lastChanged": "2026-09-21T02:06:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-25T00:03:57.511909Z",
   "charter": "waitlly",
@@ -14,6 +14,7 @@
   "description": "Deemo转谱",
   "difficulty": 15.900001,
   "file": "https://phira.5wyxi.com/files/c6f0152d-763d-4c58-9042-2b4b621b2522",
+  "hidden": false,
   "id": 50533,
   "illustration": "https://phira.5wyxi.com/files/304e33da-6d27-4efd-83c1-d531d3303098",
   "illustrator": "",

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:32Z",
-    "lastChanged": "2026-09-21T02:06:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-24T13:16:01.432783Z",
   "charter": "豆豆",
@@ -14,6 +14,7 @@
   "description": "Malody转 轻点喷",
   "difficulty": 14.2,
   "file": "https://phira.5wyxi.com/files/92bdb7e9-448d-463e-8c27-91a2217c7515",
+  "hidden": false,
   "id": 45598,
   "illustration": "https://phira.5wyxi.com/files/8b501bb0-ac10-4c64-8cb2-a9e932ce6312",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "vemvem",
   "preview": "https://phira.5wyxi.com/files/53cd7061-7737-4167-95eb-488978c2c634",
   "ranked": false,
-  "rating": 0.9160461,
-  "ratingCount": 154,
+  "rating": 0.9173274,
+  "ratingCount": 161,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

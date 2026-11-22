@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:26Z",
-    "lastChanged": "2026-09-21T02:02:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-24T12:54:53.988249Z",
   "charter": "trzy",
@@ -14,6 +14,7 @@
   "description": "是本人写的第五张谱子，是谱师本人制作，不喜勿喷，是双指谱，个人认为比终梦简单",
   "difficulty": 16.700003,
   "file": "https://phira.5wyxi.com/files/5ed770fc-dc37-4faa-8c2d-4771363c117f",
+  "hidden": false,
   "id": 24260,
   "illustration": "https://phira.5wyxi.com/files/19f88b51-c45d-49fe-a078-51940516c772",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "インフェルノシティ",
   "preview": "https://phira.5wyxi.com/files/169781b9-0295-44b5-bcfb-7f2ada148366",
   "ranked": false,
-  "rating": 0.8947392,
-  "ratingCount": 1723,
+  "rating": 0.8952506,
+  "ratingCount": 1752,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:13Z",
-    "lastChanged": "2026-09-21T02:04:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-22T04:26:36.485745Z",
   "charter": "绥",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/3acb1e63-ba8a-457c-aa08-42056656440a",
+  "hidden": false,
   "id": 51488,
   "illustration": "https://phira.5wyxi.com/files/4da4e0e1-1761-44b9-a003-bade423a689f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "覆灭重生 Come Alive",
   "preview": "https://phira.5wyxi.com/files/d6bccc0d-1727-4e2e-9c24-e664bf54e4fb",
   "ranked": false,
-  "rating": 0.93701565,
-  "ratingCount": 1166,
+  "rating": 0.93758386,
+  "ratingCount": 1243,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

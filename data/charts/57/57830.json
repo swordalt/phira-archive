@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:41Z",
-    "lastChanged": "2026-09-21T02:04:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-04T16:14:21.838031Z",
   "charter": "A17P",
@@ -14,6 +14,7 @@
   "description": "Edit time:114963.365s (31.9h)",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/35abf967-370b-4ace-9697-f93d8e1c07ce",
+  "hidden": false,
   "id": 57830,
   "illustration": "https://phira.5wyxi.com/files/a82b3d1e-9d42-4481-8f35-f379ea5f09d1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "☆森のヌシ || Battle Nusi ||",
   "preview": "https://phira.5wyxi.com/files/d50f6637-e681-4f9f-a00b-8fc5ef5991dd",
   "ranked": false,
-  "rating": 0.87173575,
-  "ratingCount": 23,
+  "rating": 0.9009327,
+  "ratingCount": 32,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

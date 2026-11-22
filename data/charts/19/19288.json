@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:11Z",
-    "lastChanged": "2026-09-21T02:02:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-02T14:04:44.586176Z",
   "charter": "ΣΔΣ × SIGMA",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/656919c1-dacb-4029-98a2-7f0368a72689",
+  "hidden": false,
   "id": 19288,
   "illustration": "https://phira.5wyxi.com/files/2390b8ce-6ab8-4808-9144-fca806c2765d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "raputa",
   "preview": "https://phira.5wyxi.com/files/d6f16c7b-1859-458d-bddd-7f0a83ba4dc2",
   "ranked": false,
-  "rating": 0.9435676,
-  "ratingCount": 2900,
+  "rating": 0.9436627,
+  "ratingCount": 2938,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

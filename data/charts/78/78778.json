@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-27T13:52:52Z",
-    "lastChanged": "2026-09-27T13:52:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-09-23T17:52:33.035320Z",
   "charter": "冷影",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，切4+，乱7+，很耐的谱子，综合6dan。曲子来源于b站的“用音游曲的方式打开审判曲”os：曲名是自己编的，曲师没有起名，后续出了就改）\n",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/acd6549c-7da6-4399-adf4-eca2eaec3219",
+  "hidden": false,
   "id": 78778,
   "illustration": "https://phira.5wyxi.com/files/e9a5bf93-6078-441f-81a7-3ab6ad4a0d2b",
   "illustrator": "豆包",
@@ -21,8 +22,8 @@
   "name": "蝶乱飞雷",
   "preview": "https://phira.5wyxi.com/files/b96a5dd7-b706-4cbb-829f-bc79b94ce32f",
   "ranked": false,
-  "rating": 0.846598,
-  "ratingCount": 9,
+  "rating": 0.92481035,
+  "ratingCount": 153,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:03Z",
-    "lastChanged": "2026-09-21T02:05:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-29T12:18:22.106309Z",
   "charter": "Truth_Ceeker(Bilibili:Cat_真理寻求者)",
@@ -14,6 +14,7 @@
   "description": "不怎么会写谱...",
   "difficulty": 15.800001,
   "file": "https://phira.5wyxi.com/files/8a7d4105-e176-4a85-9876-16ec3800472e",
+  "hidden": false,
   "id": 69933,
   "illustration": "https://phira.5wyxi.com/files/7c3641ac-83b3-4b91-9de0-92ae3bce4ebf",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "バカみたいに",
   "preview": "https://phira.5wyxi.com/files/560132fe-51b9-4e92-a8a1-d1d600029b77",
   "ranked": false,
-  "rating": 0.8643348,
-  "ratingCount": 132,
+  "rating": 0.86829364,
+  "ratingCount": 223,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

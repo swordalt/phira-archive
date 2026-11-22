@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:22Z",
-    "lastChanged": "2026-09-21T02:06:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-13T02:25:46.083876Z",
   "charter": "zdcurvd",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.699999,
   "file": "https://phira.5wyxi.com/files/5104425f-4e64-426e-bf96-3876cb0e010c",
+  "hidden": false,
   "id": 41541,
   "illustration": "https://phira.5wyxi.com/files/bdcd5cea-a7b8-45a6-a11e-e5af8b01efd8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "萤火虫の怨",
   "preview": "https://phira.5wyxi.com/files/b29b1ee2-e4f0-40d0-8fa1-7f211f88ce89",
   "ranked": false,
-  "rating": 0.9091603,
-  "ratingCount": 307,
+  "rating": 0.9103475,
+  "ratingCount": 309,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

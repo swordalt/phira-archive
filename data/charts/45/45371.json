@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:31Z",
-    "lastChanged": "2026-09-21T02:06:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-21T22:53:35.372416Z",
   "charter": "Tuye(MVP)",
@@ -14,6 +14,7 @@
   "description": "自己转来的谱，觉得好玩就上传了#plain#5k",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/0b765e65-ee8b-4c6a-8fc2-e16db044c639",
+  "hidden": false,
   "id": 45371,
   "illustration": "https://phira.5wyxi.com/files/da959664-2a01-40e4-b2fe-dfb7c7797458",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": " Piano Dokusou Mugonka ",
   "preview": "https://phira.5wyxi.com/files/984b54dd-c317-4f59-a1aa-abae2026564e",
   "ranked": false,
-  "rating": 0.9656905,
-  "ratingCount": 116,
+  "rating": 0.96577775,
+  "ratingCount": 137,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

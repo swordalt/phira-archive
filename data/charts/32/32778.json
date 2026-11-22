@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:08Z",
-    "lastChanged": "2026-09-21T02:06:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-29T11:14:38.760612Z",
   "charter": "一花依世界",
@@ -14,6 +14,7 @@
   "description": "b站—花依世界，个人上传的第二张4K谱面",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/11fd5136-f631-4b78-ac8e-c6181404d4da",
+  "hidden": false,
   "id": 32778,
   "illustration": "https://phira.5wyxi.com/files/1612f3bc-bad9-48f0-864f-5179321d81a0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Avantgarde",
   "preview": "https://phira.5wyxi.com/files/df62a886-c9ac-4b03-b43c-c1e67d975586",
   "ranked": false,
-  "rating": 0.9540957,
-  "ratingCount": 819,
+  "rating": 0.9544558,
+  "ratingCount": 836,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

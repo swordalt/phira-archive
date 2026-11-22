@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-17T17:03:16Z",
-    "lastChanged": "2026-10-18T09:09:21Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:26Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-17T15:09:43.800138Z",
   "charter": "生肖大绿龙",
@@ -14,6 +14,7 @@
   "description": "本谱为谱师 生肖大绿龙 本人上传",
   "difficulty": 13.800003,
   "file": "https://phira.5wyxi.com/files/d507cc5c-63e8-4e3b-8e15-47a71c46aec7",
+  "hidden": false,
   "id": 81387,
   "illustration": "https://phira.5wyxi.com/files/811e31a9-2d37-4ae0-8be8-cda5de8cd232",
   "illustrator": "Y_Y",
@@ -21,8 +22,8 @@
   "name": "瞬时永远",
   "preview": "https://phira.5wyxi.com/files/10ee98b5-e160-455c-bc9f-72fcf4d8a891",
   "ranked": false,
-  "rating": 0.9141663,
-  "ratingCount": 135,
+  "rating": 0.9164164,
+  "ratingCount": 486,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

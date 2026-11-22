@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:56Z",
-    "lastChanged": "2026-09-21T02:05:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-24T10:45:20.343904Z",
   "charter": "LAITS",
@@ -14,6 +14,7 @@
   "description": "LC2024#2 QF RC2｜谱师本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/25954484-f382-42d9-a428-74ab42edc0f9",
+  "hidden": false,
   "id": 24250,
   "illustration": "https://phira.5wyxi.com/files/94cd4c6d-0ec7-4dc2-aa3b-b6d1a445fc68",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Last Star in the Universe",
   "preview": "https://phira.5wyxi.com/files/ac66939e-2aa5-410f-b021-bd70721dcde4",
   "ranked": false,
-  "rating": 0.85056216,
-  "ratingCount": 254,
+  "rating": 0.85115176,
+  "ratingCount": 255,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:20Z",
-    "lastChanged": "2026-09-21T02:04:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-11T07:27:13.487952Z",
   "charter": "MCyyr",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传，11小时速写粉扑\n游玩前请前往B站观看BV1q1cszXEej以免初见创亖",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/9ee48091-4493-48db-84e4-6b051bf839f2",
+  "hidden": false,
   "id": 52435,
   "illustration": "https://phira.5wyxi.com/files/c81b65fb-c903-46b2-bb57-93d909e153ff",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Orphe",
   "preview": "https://phira.5wyxi.com/files/bab72354-9837-4d9f-9f91-75735ee9df27",
   "ranked": false,
-  "rating": 0.90706635,
-  "ratingCount": 166,
+  "rating": 0.905898,
+  "ratingCount": 169,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

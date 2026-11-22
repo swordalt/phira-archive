@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:25Z",
-    "lastChanged": "2026-09-21T02:01:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-06T08:07:49.791522Z",
   "charter": "Rainfall",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n本谱面参与学员杯，学员杯是由____自主创办的开放新人制谱比赛",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/428e51d2-fe60-4302-b981-055b32a2c6a9",
+  "hidden": false,
   "id": 6937,
   "illustration": "https://phira.5wyxi.com/files/c6224fb8-2bc2-4484-aa27-9bad88d91102",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "BiBiC HEART",
   "preview": "https://phira.5wyxi.com/files/faa9fa3f-0f8a-42b8-9d24-8ebbe6772427",
   "ranked": false,
-  "rating": 0.84915733,
-  "ratingCount": 1001,
+  "rating": 0.8495136,
+  "ratingCount": 1005,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

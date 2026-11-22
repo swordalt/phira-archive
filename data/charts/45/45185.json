@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:43Z",
-    "lastChanged": "2026-09-21T02:03:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-19T16:17:59.980986Z",
   "charter": "LogicS__",
@@ -14,6 +14,7 @@
   "description": "作者B站名：LogicS__",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/8296d9df-8c53-41e5-bc89-a3712dd7706d",
+  "hidden": false,
   "id": 45185,
   "illustration": "https://phira.5wyxi.com/files/8ca3519c-49dd-4e0e-9e88-2832de29e145",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Last Dance",
   "preview": "https://phira.5wyxi.com/files/ac833842-06af-4615-a25c-dd80333634e1",
   "ranked": false,
-  "rating": 0.94471765,
-  "ratingCount": 1108,
+  "rating": 0.9452678,
+  "ratingCount": 1156,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

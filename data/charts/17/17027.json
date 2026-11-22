@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:02Z",
-    "lastChanged": "2026-09-21T02:02:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-26T11:04:10.774699Z",
   "charter": "化龙_QWQ",
@@ -14,6 +14,7 @@
   "description": "第一次做谱（？ 音乐是自己剪的",
   "difficulty": 15.100004,
   "file": "https://phira.5wyxi.com/files/e0b59c3a-3abb-4019-a4d0-523439dbb362",
+  "hidden": false,
   "id": 17027,
   "illustration": "https://phira.5wyxi.com/files/186d5f47-782f-494b-9528-6cd2cbc628b8",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "GOODRAGE(Extended Cut Mix)",
   "preview": "https://phira.5wyxi.com/files/117c241c-41aa-427f-bce2-fbb435d3d97c",
   "ranked": false,
-  "rating": 0.90723276,
-  "ratingCount": 5462,
+  "rating": 0.9079594,
+  "ratingCount": 5551,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

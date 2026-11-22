@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:49Z",
-    "lastChanged": "2026-09-21T02:05:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-09T02:32:12.604545Z",
   "charter": "colGem",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 29.0,
   "file": "https://phira.5wyxi.com/files/3c0a0143-ef55-423b-86b8-5561869dfbf4",
+  "hidden": false,
   "id": 20997,
   "illustration": "https://phira.5wyxi.com/files/e11475ac-a25d-4a61-8173-ad6c4e0b0c95",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "有兽焉主题曲",
   "preview": "https://phira.5wyxi.com/files/9fe69729-ac57-4303-b51e-bba40812e227",
   "ranked": false,
-  "rating": 0.9116812,
-  "ratingCount": 86,
+  "rating": 0.91456544,
+  "ratingCount": 89,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

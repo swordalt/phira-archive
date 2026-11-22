@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:28Z",
-    "lastChanged": "2026-09-21T02:04:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-13T22:59:48.996364Z",
   "charter": "NULLData_x",
@@ -14,6 +14,7 @@
   "description": "谱师允许上传\n谱师b站：@NULLData_x",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/b292d1d9-070e-49fe-b67c-d2e00a2f11d4",
+  "hidden": false,
   "id": 54100,
   "illustration": "https://phira.5wyxi.com/files/b4d6426f-a65e-4c63-816d-54c0b00b348c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "DataErr0r",
   "preview": "https://phira.5wyxi.com/files/8ac81788-c244-4aa3-94e4-7ce9ef7d1d02",
   "ranked": false,
-  "rating": 0.8445766,
-  "ratingCount": 19,
+  "rating": 0.846897,
+  "ratingCount": 20,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

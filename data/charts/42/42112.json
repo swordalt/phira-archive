@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:24Z",
-    "lastChanged": "2026-09-21T02:06:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-19T09:22:06.660984Z",
   "charter": "AltouranT",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/4dc66a7a-ec53-45e6-981f-caa7cb5b5252",
+  "hidden": false,
   "id": 42112,
   "illustration": "https://phira.5wyxi.com/files/6905c854-7f67-41e8-8eec-8b8b319ec76c",
   "illustrator": "",

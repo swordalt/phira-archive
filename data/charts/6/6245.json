@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:22Z",
-    "lastChanged": "2026-09-21T02:01:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-27T17:44:32.726300Z",
   "charter": "LumeN↓↑",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/d90ed5b9-44ff-4102-9027-5663711a3334",
+  "hidden": false,
   "id": 6245,
   "illustration": "https://phira.5wyxi.com/files/b30a79e4-12f6-4466-80ab-23b776442885",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "试↓bass↑",
   "preview": "https://phira.5wyxi.com/files/16abc424-4ea5-4374-bb96-a622c92e23ec",
   "ranked": false,
-  "rating": 0.90432,
-  "ratingCount": 899,
+  "rating": 0.9047158,
+  "ratingCount": 904,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

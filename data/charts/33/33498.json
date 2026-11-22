@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-07T09:34:22.343121Z",
   "charter": "FZSS",
@@ -14,6 +14,7 @@
   "description": "第二张谱子，bpm170，主要写了切换\nb站@FZSS_泛舟水上",
   "difficulty": 25.0,
   "file": "https://phira.5wyxi.com/files/98e30b01-5d85-47a0-9683-c69916bebe67",
+  "hidden": false,
   "id": 33498,
   "illustration": "https://phira.5wyxi.com/files/9097adc9-aefd-42b9-8f44-563606bc7ec6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Luminescent Drive",
   "preview": "https://phira.5wyxi.com/files/6a0686fd-42b4-4dfa-af34-7f7cba13ba34",
   "ranked": false,
-  "rating": 0.914089,
-  "ratingCount": 52,
+  "rating": 0.91383255,
+  "ratingCount": 54,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

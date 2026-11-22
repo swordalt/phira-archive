@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:08Z",
-    "lastChanged": "2026-09-21T02:03:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-15T17:13:36.507331Z",
   "charter": "哈朗",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/20d8b5c5-4841-4aa2-9851-26e21829fc9e",
+  "hidden": false,
   "id": 35303,
   "illustration": "https://phira.5wyxi.com/files/bfd4d961-6e4a-4c98-b18e-a1ccdc875b71",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dogbite",
   "preview": "https://phira.5wyxi.com/files/b09b485c-d0ae-4c14-a280-03df76994e8a",
   "ranked": false,
-  "rating": 0.9042764,
-  "ratingCount": 105,
+  "rating": 0.9037143,
+  "ratingCount": 112,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

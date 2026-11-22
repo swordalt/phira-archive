@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:12Z",
-    "lastChanged": "2026-09-21T02:01:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-20T12:51:14.923498Z",
   "charter": "云带",
@@ -14,6 +14,7 @@
   "description": "是本人上传！",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/59e95910-675c-46fe-9c82-7c957fc642fb",
+  "hidden": false,
   "id": 2331,
   "illustration": "https://phira.5wyxi.com/files/82715e0e-c8a7-4502-b64e-2db86324c48e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "开启新征程",
   "preview": "https://phira.5wyxi.com/files/1fb8f231-81c2-41c4-87ec-bf285b23288d",
   "ranked": false,
-  "rating": 0.9295968,
-  "ratingCount": 3083,
+  "rating": 0.92919564,
+  "ratingCount": 3136,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

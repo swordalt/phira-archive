@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:53Z",
-    "lastChanged": "2026-09-21T02:06:53Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-09T13:37:57.443413Z",
   "charter": "Entity_303-E3（adofai轨道设计：Alpha）",
@@ -14,6 +14,7 @@
   "description": "原创adofai手法，adofai转谱的削弱版，16键和脚键部分用黄键送了，理论正常人可以AP（可能比2025略难~）",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/513dd21e-2849-4ed6-8f46-a68fcbd28095",
+  "hidden": false,
   "id": 60502,
   "illustration": "https://phira.5wyxi.com/files/aec34de3-4c46-40e7-9cc3-4583eb4d5577",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Hello (BPM) 2026",
   "preview": "https://phira.5wyxi.com/files/1ea24408-02d0-4956-b65e-dca89fcc4c1f",
   "ranked": false,
-  "rating": 0.92862666,
-  "ratingCount": 82,
+  "rating": 0.9164342,
+  "ratingCount": 89,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

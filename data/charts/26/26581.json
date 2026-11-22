@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:35Z",
-    "lastChanged": "2026-09-21T02:02:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-19T16:51:07.500876Z",
   "charter": "YZVV",
@@ -14,6 +14,7 @@
   "description": "没有太多花里胡哨的装饰……",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/7ce5510d-11df-43ed-ae15-543fa99f5516",
+  "hidden": false,
   "id": 26581,
   "illustration": "https://phira.5wyxi.com/files/232df5f2-b21c-4710-94dc-9eb3d2fe7f86",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Disco Panzer",
   "preview": "https://phira.5wyxi.com/files/5f97a142-6bc1-4b36-85d0-847883a62e9d",
   "ranked": false,
-  "rating": 0.8334475,
-  "ratingCount": 221,
+  "rating": 0.82881546,
+  "ratingCount": 230,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:30Z",
-    "lastChanged": "2026-09-21T02:01:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-08-29T13:23:49.297058Z",
   "charter": "Ciler",
@@ -14,6 +14,7 @@
   "description": "5pj sl no.101 -改谱  作者b站@Clexry，谱师本人上传",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/3ae39e22-bb43-4f39-aabd-f4cf0e399633",
+  "hidden": false,
   "id": 8713,
   "illustration": "https://phira.5wyxi.com/files/1eaa997d-eca1-48c8-9111-9e0233926f14",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Shot at night",
   "preview": "https://phira.5wyxi.com/files/e5ab41f5-0cb7-4d02-a786-a94886eab012",
   "ranked": false,
-  "rating": 0.91717505,
-  "ratingCount": 102,
+  "rating": 0.917962,
+  "ratingCount": 103,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

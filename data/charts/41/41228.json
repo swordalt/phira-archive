@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:27Z",
-    "lastChanged": "2026-09-21T02:03:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-09T05:27:56.582174Z",
   "charter": "MaxterOics vs MooniteSakust",
@@ -14,6 +14,7 @@
   "description": "初寻杯比赛供谱 来自b站@MooniteSakust和@花域FloraRealm的高难键盘现已登陆初寻杯 预览视频BV1bAVwzKEAr",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/ad9e62e0-5f49-4c5e-8c0e-e2e3337d23b3",
+  "hidden": false,
   "id": 41228,
   "illustration": "https://phira.5wyxi.com/files/13377829-95a6-42dc-8d7e-6b065578664b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Catch The Glory (Cut ver.)",
   "preview": "https://phira.5wyxi.com/files/7bfd51a0-6d63-4ad8-a583-8560d44b2381",
   "ranked": false,
-  "rating": 0.93762195,
-  "ratingCount": 407,
+  "rating": 0.9388598,
+  "ratingCount": 418,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-25T18:58:23Z",
-    "lastChanged": "2026-10-26T12:49:31Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:03:13Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-10-25T09:45:19.291865Z",
   "charter": "Anxiety",
@@ -14,6 +14,7 @@
   "description": "DFC 6th Dan Stamina 单曲",
   "difficulty": 6.2999997,
   "file": "https://phira.5wyxi.com/files/2169d514-03ab-4524-9dad-48981ecc9bd5",
+  "hidden": false,
   "id": 82155,
   "illustration": "https://phira.5wyxi.com/files/e6df61cc-91ab-4299-ac9b-9d212d8f6c1e",
   "illustrator": "AO Fujimori",
@@ -21,8 +22,8 @@
   "name": "RTRT",
   "preview": "https://phira.5wyxi.com/files/b0c6addf-c684-437f-8409-e2b8fb2b2d5c",
   "ranked": false,
-  "rating": 0.69704384,
-  "ratingCount": 1,
+  "rating": 0.9259883,
+  "ratingCount": 31,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

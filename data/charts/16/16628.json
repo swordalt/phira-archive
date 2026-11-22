@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:01Z",
-    "lastChanged": "2026-09-21T02:02:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-02T10:58:37.803596Z",
   "charter": "KaJ",
@@ -14,6 +14,7 @@
   "description": "bilibili：KaJ彡",
   "difficulty": 17.800001,
   "file": "https://phira.5wyxi.com/files/d27c0af6-93cb-425a-bcf3-59b34d49cdd1",
+  "hidden": false,
   "id": 16628,
   "illustration": "https://phira.5wyxi.com/files/1765c7bd-2e74-4402-8bcd-dc86b6558c5e",
   "illustrator": "",

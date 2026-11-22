@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:27Z",
-    "lastChanged": "2026-09-21T02:03:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-07T01:00:07.651097Z",
   "charter": "rs乱跑的种子",
@@ -14,6 +14,7 @@
   "description": "本曲是vivid/stasis的独占曲｜玩的开心",
   "difficulty": 16.900003,
   "file": "https://phira.5wyxi.com/files/5d1eaabe-e42d-49d2-b6e4-3a6fd82267bf",
+  "hidden": false,
   "id": 41040,
   "illustration": "https://phira.5wyxi.com/files/cf318f20-d6cf-490f-bcd4-438b1d769858",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "STARGAZERS",
   "preview": "https://phira.5wyxi.com/files/217b56e9-ef17-4f53-adc4-8575f845e4fd",
   "ranked": false,
-  "rating": 0.9090423,
-  "ratingCount": 362,
+  "rating": 0.9139078,
+  "ratingCount": 402,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

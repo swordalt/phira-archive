@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:55Z",
-    "lastChanged": "2026-09-21T02:02:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-05T02:32:06.041434Z",
   "charter": "血月先锋",
@@ -14,6 +14,7 @@
   "description": "这次把后面双轴前的长键（重叠了）处理了\n如果打着还有问题，请提出来，我尝试解决\n审核通过后将会把旧谱删除（可能会隔几天才可以，有事）",
   "difficulty": 14.699999,
   "file": "https://phira.5wyxi.com/files/e4e6c124-1b90-42ea-916d-bd96e3d6da04",
+  "hidden": false,
   "id": 31442,
   "illustration": "https://phira.5wyxi.com/files/0ac0bc1a-b0e7-4607-9e02-dcf3336a9e43",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "阿米娅印象曲",
   "preview": "https://phira.5wyxi.com/files/e6062e9e-5db1-4f71-a0d3-f5bffd1996ee",
   "ranked": false,
-  "rating": 0.9341661,
-  "ratingCount": 982,
+  "rating": 0.9360694,
+  "ratingCount": 1053,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

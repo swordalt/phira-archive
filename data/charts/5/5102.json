@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:20Z",
-    "lastChanged": "2026-09-21T02:01:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-07-11T07:38:36.828025Z",
   "charter": "Daimeng_flight",
@@ -14,6 +14,7 @@
   "description": "@Daimeng_Read 本人上传",
   "difficulty": 14.5,
   "file": "https://phira.5wyxi.com/files/9df60dea-f3f1-49f9-9d21-29fa3d4d612f",
+  "hidden": false,
   "id": 5102,
   "illustration": "https://phira.5wyxi.com/files/b26708ec-af45-4b71-987c-2e8ab980e75d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Particle Arts",
   "preview": "https://phira.5wyxi.com/files/58f89782-43fc-46fc-bde8-903487c0ec49",
   "ranked": false,
-  "rating": 0.8700247,
-  "ratingCount": 408,
+  "rating": 0.87571543,
+  "ratingCount": 411,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:32Z",
-    "lastChanged": "2026-09-21T02:06:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-27T10:27:56.803112Z",
   "charter": "恋萌定律",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 16.9,
   "file": "https://phira.5wyxi.com/files/bd128ae4-63ee-4b83-b088-7e185a857184",
+  "hidden": false,
   "id": 45832,
   "illustration": "https://phira.5wyxi.com/files/2f636f14-ea7d-4212-a0f2-d0d4a3c1f517",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Last Dance",
   "preview": "https://phira.5wyxi.com/files/bd9c12b9-75af-4a82-9cab-d549a97f3f08",
   "ranked": false,
-  "rating": 0.9099436,
-  "ratingCount": 46,
+  "rating": 0.91321725,
+  "ratingCount": 49,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

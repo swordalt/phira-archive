@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:07Z",
-    "lastChanged": "2026-09-21T02:01:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-02T11:41:09.912674Z",
   "charter": "EK卢比是个呆瓜",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/4e1470f2-ba40-435f-a385-41b281e45027",
+  "hidden": false,
   "id": 1053,
   "illustration": "https://phira.5wyxi.com/files/7a01bc67-a7d2-4f9b-89d1-60193c90512c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Spectre",
   "preview": "https://phira.5wyxi.com/files/420e6d05-6ace-4ec8-9381-093c1f151fba",
   "ranked": false,
-  "rating": 0.89179033,
-  "ratingCount": 1321,
+  "rating": 0.8922366,
+  "ratingCount": 1350,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

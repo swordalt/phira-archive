@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:39Z",
-    "lastChanged": "2026-09-21T02:02:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-02T14:23:09.737462Z",
   "charter": "dxlidawe",
@@ -14,6 +14,7 @@
   "description": "音乐封面来自youtube大佬ネクトル",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/c006aa56-956f-4877-9878-fb3d8eac6cac",
+  "hidden": false,
   "id": 27334,
   "illustration": "https://phira.5wyxi.com/files/87fec62c-41d0-414c-97e6-e426ba9cca11",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "周榜乱炖",
   "preview": "https://phira.5wyxi.com/files/aedde948-6cf7-4efc-9fa9-19cc268ff876",
   "ranked": false,
-  "rating": 0.90673226,
-  "ratingCount": 1553,
+  "rating": 0.9062376,
+  "ratingCount": 1592,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

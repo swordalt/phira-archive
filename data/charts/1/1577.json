@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:34Z",
-    "lastChanged": "2026-09-21T02:05:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-10T09:48:56.185365Z",
   "charter": "charadoger",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/37c275a3-5d26-45bb-9ac3-1a746afe5264",
+  "hidden": false,
   "id": 1577,
   "illustration": "https://phira.5wyxi.com/files/29031bb6-5582-4baa-8ba2-373f37d85d79",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Journey To The Rainbows (Reku Mochizuki Remix)",
   "preview": "https://phira.5wyxi.com/files/fa6713c1-cafe-47ba-a504-cd6e1dacb8dd",
   "ranked": false,
-  "rating": 0.9223737,
-  "ratingCount": 546,
+  "rating": 0.922155,
+  "ratingCount": 549,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:07Z",
-    "lastChanged": "2026-09-21T02:04:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-17T18:39:28.748832Z",
   "charter": "许青",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/836ad0d7-b976-4862-9321-05ad12627063",
+  "hidden": false,
   "id": 50300,
   "illustration": "https://phira.5wyxi.com/files/94a17aa0-9e8e-410f-8299-b7210846cbb3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "圣诞星",
   "preview": "https://phira.5wyxi.com/files/692de02f-ea50-4c3d-a7f5-1e5609de7d50",
   "ranked": false,
-  "rating": 0.9258268,
-  "ratingCount": 5537,
+  "rating": 0.9253033,
+  "ratingCount": 6127,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

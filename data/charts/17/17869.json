@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:45Z",
-    "lastChanged": "2026-09-21T02:05:45Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-31T18:49:55.565669Z",
   "charter": "BWen & achjuncool",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 4.0,
   "file": "https://phira.5wyxi.com/files/69134747-3dae-49e9-a71a-826c1da45436",
+  "hidden": false,
   "id": 17869,
   "illustration": "https://phira.5wyxi.com/files/b3000455-1619-4367-a1dd-476e5993bd44",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Flower Rocket（硬抗/外）",
   "preview": "https://phira.5wyxi.com/files/27c85001-7705-4fd0-b2e5-9a019ea62732",
   "ranked": false,
-  "rating": 0.9428827,
-  "ratingCount": 143,
+  "rating": 0.942495,
+  "ratingCount": 146,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

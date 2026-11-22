@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:17Z",
-    "lastChanged": "2026-09-21T02:01:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:23Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-30T09:48:59.542065Z",
   "charter": "FreMo",
@@ -14,6 +14,7 @@
   "description": "你好，我是FreMo。本人上传\n\n二改：才发现曲绘被搞掉了，于是自己临时做了一张，希望大家喜欢！",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/0a770699-544e-4180-9dad-f688b21b4efc",
+  "hidden": false,
   "id": 4334,
   "illustration": "https://phira.5wyxi.com/files/67347c36-132b-488c-9396-fb6994110fe7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Love U More",
   "preview": "https://phira.5wyxi.com/files/977bb72d-353d-4b15-ab5b-de5441bd1a2e",
   "ranked": true,
-  "rating": 0.923707,
-  "ratingCount": 12006,
+  "rating": 0.9234854,
+  "ratingCount": 12206,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

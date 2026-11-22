@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:02Z",
-    "lastChanged": "2026-09-21T02:04:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-20T12:06:43.717456Z",
   "charter": "无解 长弧光 X酱 Kyursure Genesis",
@@ -14,6 +14,7 @@
   "description": "联合谱师均已同意投稿",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/b9038442-9d6c-48e6-9567-b999c772aba0",
+  "hidden": false,
   "id": 48948,
   "illustration": "https://phira.5wyxi.com/files/78967223-0b15-489f-9a13-1920adb67393",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Re Particle X",
   "preview": "https://phira.5wyxi.com/files/f0a80f49-78c5-4452-9076-8442ecd57267",
   "ranked": false,
-  "rating": 0.9427164,
-  "ratingCount": 433,
+  "rating": 0.94216365,
+  "ratingCount": 436,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

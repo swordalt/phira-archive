@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:06Z",
-    "lastChanged": "2026-09-21T02:04:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-13T03:08:10.839276Z",
   "charter": "墨殇话",
@@ -14,6 +14,7 @@
   "description": "B站视频：https://b23.tv/kuq8Rfn",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/3da4ad93-3565-423c-b288-6a6c8b0ae8d2",
+  "hidden": false,
   "id": 50146,
   "illustration": "https://phira.5wyxi.com/files/e7595ad8-290e-462f-8bd8-75ebdcaa5aa4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Attack of killer Queen",
   "preview": "https://phira.5wyxi.com/files/4ff874af-2243-4ed8-bee2-6b78413bc96e",
   "ranked": false,
-  "rating": 0.9300419,
-  "ratingCount": 98,
+  "rating": 0.91407937,
+  "ratingCount": 138,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

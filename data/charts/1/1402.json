@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:08Z",
-    "lastChanged": "2026-09-21T02:01:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:02Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-07T16:42:16.615696Z",
   "charter": "Rest in Peace",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/bba7b94a-da61-4bca-a98c-57d417a52d12",
+  "hidden": false,
   "id": 1402,
   "illustration": "https://phira.5wyxi.com/files/69e71dc4-cee3-4f1f-ad9e-0b40b11f3f61",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "R.I.P.",
   "preview": "https://phira.5wyxi.com/files/c7adbce1-697b-499f-ae2c-9ab5f9e480d5",
   "ranked": false,
-  "rating": 0.9349421,
-  "ratingCount": 5135,
+  "rating": 0.9350387,
+  "ratingCount": 5154,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

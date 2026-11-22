@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:44Z",
-    "lastChanged": "2026-09-21T02:05:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-20T10:11:26.494862Z",
   "charter": "KobaHan",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 16.5,
   "file": "https://phira.5wyxi.com/files/2c69f264-0bd4-4b5e-a99b-a13ceb483740",
+  "hidden": false,
   "id": 17285,
   "illustration": "https://phira.5wyxi.com/files/f0bc6c57-36e9-4add-bea2-8725d45a6159",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Gaudium Resonance",
   "preview": "https://phira.5wyxi.com/files/d63699b7-0eac-43dc-9625-0d66673a09e4",
   "ranked": false,
-  "rating": 0.938924,
-  "ratingCount": 184,
+  "rating": 0.93889886,
+  "ratingCount": 187,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

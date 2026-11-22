@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-27T10:16:15Z",
-    "lastChanged": "2026-09-27T18:17:49Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:09Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-19T13:50:10.749096Z",
   "charter": "烫死涩口",
@@ -14,6 +14,7 @@
   "description": "关注涩口谢谢喵",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/948b746f-79a5-425c-9dd7-66ecaa1d58ea",
+  "hidden": false,
   "id": 74452,
   "illustration": "https://phira.5wyxi.com/files/25717a78-128a-4c15-86cd-334bcc67dabb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lux Sectionem",
   "preview": "https://phira.5wyxi.com/files/66d9940e-14ed-414b-857e-d499645960d4",
   "ranked": false,
-  "rating": 0.8889279,
-  "ratingCount": 23,
+  "rating": 0.95181555,
+  "ratingCount": 165,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

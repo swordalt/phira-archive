@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:42Z",
-    "lastChanged": "2026-09-21T02:02:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-05T00:55:42.889926Z",
   "charter": "果林F_F",
@@ -14,6 +14,7 @@
   "description": "龙音杯比赛供谱，有一些创新配置和脑裂",
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/898d4531-ce58-471f-ab40-44e850438013",
+  "hidden": false,
   "id": 28346,
   "illustration": "https://phira.5wyxi.com/files/b7910789-2dbe-4ec1-9c75-6cd6fabad139",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Khionos TiARA",
   "preview": "https://phira.5wyxi.com/files/546d44d4-8ffc-4426-b82c-b8d9a6ebc588",
   "ranked": false,
-  "rating": 0.9348107,
-  "ratingCount": 615,
+  "rating": 0.93411654,
+  "ratingCount": 618,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

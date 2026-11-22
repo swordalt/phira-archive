@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:43Z",
-    "lastChanged": "2026-09-21T02:02:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-07T01:10:31.502130Z",
   "charter": "新人1",
@@ -14,6 +14,7 @@
   "description": "新人1最新粪作",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/9a2144b3-5aeb-4fb0-a842-0e5a2d7c6785",
+  "hidden": false,
   "id": 28462,
   "illustration": "https://phira.5wyxi.com/files/db58151f-93e2-4e31-b071-562262f3d4bb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "おべか",
   "preview": "https://phira.5wyxi.com/files/a266f613-d6ce-4e05-aa84-189b7d38749a",
   "ranked": false,
-  "rating": 0.91659427,
-  "ratingCount": 1996,
+  "rating": 0.91576844,
+  "ratingCount": 2070,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

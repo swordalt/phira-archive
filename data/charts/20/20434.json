@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:48Z",
-    "lastChanged": "2026-09-21T02:05:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:31Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-26T13:46:28.829044Z",
   "charter": "天崽awa vs.苹果Rage",
@@ -14,6 +14,7 @@
   "description": "曲绘来自Rizline\nBPM：210",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/d2b854b6-725e-4065-869b-f09768f9c32a",
+  "hidden": false,
   "id": 20434,
   "illustration": "https://phira.5wyxi.com/files/2156d430-0b20-4431-9dab-55245e2e830f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Tempest",
   "preview": "https://phira.5wyxi.com/files/a13224af-6195-40f6-a4e4-8433128e1134",
   "ranked": false,
-  "rating": 0.95861006,
-  "ratingCount": 487,
+  "rating": 0.95977455,
+  "ratingCount": 501,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

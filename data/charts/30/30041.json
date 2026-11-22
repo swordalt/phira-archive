@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:48Z",
-    "lastChanged": "2026-09-21T02:02:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-24T04:01:46.720078Z",
   "charter": "phi lemon",
@@ -14,6 +14,7 @@
   "description": "快手phigros柠檬上传",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/94bada26-f7cd-498b-9767-c6ecbbc8f646",
+  "hidden": false,
   "id": 30041,
   "illustration": "https://phira.5wyxi.com/files/362deda8-32ff-4e0d-9a43-7703360a1edd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Angels (Extended Mix）",
   "preview": "https://phira.5wyxi.com/files/c63194fa-b5a1-4b39-9ef5-3c1cd24b2d9e",
   "ranked": false,
-  "rating": 0.9118538,
-  "ratingCount": 346,
+  "rating": 0.9133205,
+  "ratingCount": 363,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

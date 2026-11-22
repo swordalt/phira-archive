@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:36Z",
-    "lastChanged": "2026-09-21T02:06:36Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-21T10:15:35.539097Z",
   "charter": "笑似人力",
@@ -14,6 +14,7 @@
   "description": "Malody做的一张铺转铺的，可能有点份，希望大家玩的开心！",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/0fe583f3-4f54-4306-ad8f-92d1fbd21bb8",
+  "hidden": false,
   "id": 47062,
   "illustration": "https://phira.5wyxi.com/files/82ab6606-96c6-4170-9ea7-7fc3ea690fe1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Light  it up",
   "preview": "https://phira.5wyxi.com/files/5e1cd671-b1a6-4ec5-b38c-f221528f16da",
   "ranked": false,
-  "rating": 0.79646444,
-  "ratingCount": 9,
+  "rating": 0.82983065,
+  "ratingCount": 14,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

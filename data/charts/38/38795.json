@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:20Z",
-    "lastChanged": "2026-09-21T02:03:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-27T06:21:24.855341Z",
   "charter": "A+M∅sphere",
@@ -14,6 +14,7 @@
   "description": "本人上传，谱师awa_az vs. 树穴猪，视频BV13fcxepErz",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/4a0d346f-1851-4cc3-a01d-1305af72429a",
+  "hidden": false,
   "id": 38795,
   "illustration": "https://phira.5wyxi.com/files/a31f94a0-3f97-4e8a-b9e6-77332ef50c49",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Atm∅spHere",
   "preview": "https://phira.5wyxi.com/files/d46d0116-5ad8-41f1-8eb7-52a9349d34ec",
   "ranked": false,
-  "rating": 0.9274816,
-  "ratingCount": 219,
+  "rating": 0.9268764,
+  "ratingCount": 231,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

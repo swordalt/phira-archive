@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:52Z",
-    "lastChanged": "2026-09-21T02:06:52Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-02T15:19:21.572703Z",
   "charter": "HRS-Team",
@@ -14,6 +14,7 @@
   "description": "HRS-Lv.11-Flow-段位单曲",
   "difficulty": 11.1,
   "file": "https://phira.5wyxi.com/files/ac1ca004-0468-42c4-8e2f-1a5693c8d3cf",
+  "hidden": false,
   "id": 59788,
   "illustration": "https://phira.5wyxi.com/files/950d2e12-b06c-4bf9-8980-d5960e5ee0e2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Warp Destination",
   "preview": "https://phira.5wyxi.com/files/c8b8b3e4-9538-42ed-a006-f42983a495f2",
   "ranked": false,
-  "rating": 0.9334027,
-  "ratingCount": 49,
+  "rating": 0.9358307,
+  "ratingCount": 51,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

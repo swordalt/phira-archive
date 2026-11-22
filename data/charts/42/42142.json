@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:30Z",
-    "lastChanged": "2026-09-21T02:03:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-19T13:57:31.560388Z",
   "charter": "2nD \"VERTeR\"",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n表演比较摆，以后应该会改",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/4dec9133-540d-4ef2-be98-02c0a13b6434",
+  "hidden": false,
   "id": 42142,
   "illustration": "https://phira.5wyxi.com/files/eb2e4c01-74f7-4435-a7f9-9dd40a58778e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ViRTUS",
   "preview": "https://phira.5wyxi.com/files/eb326018-0339-47ca-8c5a-c21749933daf",
   "ranked": false,
-  "rating": 0.90981776,
-  "ratingCount": 315,
+  "rating": 0.9120638,
+  "ratingCount": 322,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

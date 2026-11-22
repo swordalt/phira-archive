@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:14Z",
-    "lastChanged": "2026-09-21T02:01:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-09T05:56:57.525254Z",
   "charter": "MWamiya",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/6d39e131-a1f3-4193-9a17-11b494f90635",
+  "hidden": false,
   "id": 3205,
   "illustration": "https://phira.5wyxi.com/files/3dc03d5c-6c91-4646-95d3-3e02ed3f4f2a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "海愿",
   "preview": "https://phira.5wyxi.com/files/145fad67-c54d-43ba-9739-f23acb2455ab",
   "ranked": false,
-  "rating": 0.9365019,
-  "ratingCount": 1677,
+  "rating": 0.9365339,
+  "ratingCount": 1714,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

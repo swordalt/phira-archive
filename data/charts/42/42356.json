@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:31Z",
-    "lastChanged": "2026-09-21T02:03:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-21T15:49:46.918313Z",
   "charter": "我只剩一个我",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/f85e9deb-bc27-4d1c-bbcc-75489cf52504",
+  "hidden": false,
   "id": 42356,
   "illustration": "https://phira.5wyxi.com/files/d29e4199-34a8-43cb-985b-64b0d9852af2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ロキ",
   "preview": "https://phira.5wyxi.com/files/6ccb06af-de98-404d-804f-c0fbf65a3e6e",
   "ranked": false,
-  "rating": 0.93575794,
-  "ratingCount": 1012,
+  "rating": 0.93563443,
+  "ratingCount": 1047,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

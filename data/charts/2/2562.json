@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:12Z",
-    "lastChanged": "2026-09-21T02:01:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-26T10:07:01.483382Z",
   "charter": "awa_az",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/c9bb50e6-f092-4b2d-befd-44d9c3914480",
+  "hidden": false,
   "id": 2562,
   "illustration": "https://phira.5wyxi.com/files/2bab138f-b338-4bdc-bf27-d6ae2085b6dd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dainsleif",
   "preview": "https://phira.5wyxi.com/files/3b78ba71-12e6-4e4e-ab64-fe6ef86f425f",
   "ranked": false,
-  "rating": 0.90509486,
-  "ratingCount": 107,
+  "rating": 0.90506756,
+  "ratingCount": 108,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

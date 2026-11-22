@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:29Z",
-    "lastChanged": "2026-09-21T02:05:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-09T14:39:29.671604Z",
   "charter": "枫屿",
@@ -14,6 +14,7 @@
   "description": "望各位玩的愉快！",
   "difficulty": 14.8,
   "file": "https://phira.5wyxi.com/files/0f825076-ae93-46c7-9e66-1620c1c72278",
+  "hidden": false,
   "id": 35074,
   "illustration": "https://phira.5wyxi.com/files/8e2fc8a0-cfe2-4b63-aeda-f7e76bac6fc2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "RE Aoharu",
   "preview": "https://phira.5wyxi.com/files/16bec5d8-e850-43a5-84dc-4ff89fb844af",
   "ranked": false,
-  "rating": 0.9468063,
-  "ratingCount": 589,
+  "rating": 0.9469202,
+  "ratingCount": 600,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

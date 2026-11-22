@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:00Z",
-    "lastChanged": "2026-09-21T02:04:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-30T08:02:12.817309Z",
   "charter": "20086lr",
@@ -14,6 +14,7 @@
   "description": "挺经典的歌，好听，所以做了",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/a59e8de6-dffa-4a9b-bee8-a0a106b561c7",
+  "hidden": false,
   "id": 48553,
   "illustration": "https://phira.5wyxi.com/files/e2768565-f9be-4b1c-9d60-8f8b8e527992",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Time",
   "preview": "https://phira.5wyxi.com/files/d068ff22-aa72-4bee-b578-0852c5c5a326",
   "ranked": false,
-  "rating": 0.9118749,
-  "ratingCount": 279,
+  "rating": 0.91087383,
+  "ratingCount": 304,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

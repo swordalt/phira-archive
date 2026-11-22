@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:09Z",
-    "lastChanged": "2026-09-21T02:02:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:05Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-12T11:29:30.267010Z",
   "charter": "7zNd92",
@@ -14,6 +14,7 @@
   "description": "本人上传，B站Itz08NightForest",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/3121ddc3-1401-43dc-bef8-7cca59f70a4d",
+  "hidden": false,
   "id": 18327,
   "illustration": "https://phira.5wyxi.com/files/c6370e81-618f-42de-9805-ac88878d382f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "天使92",
   "preview": "https://phira.5wyxi.com/files/ca066ac1-e205-40f1-804b-3563dce20ad7",
   "ranked": false,
-  "rating": 0.9116138,
-  "ratingCount": 1107,
+  "rating": 0.9109126,
+  "ratingCount": 1144,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

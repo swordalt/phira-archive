@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:21Z",
-    "lastChanged": "2026-09-21T02:03:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-08T03:16:04.764917Z",
   "charter": "人",
@@ -14,6 +14,7 @@
   "description": "不会写谱本人上传",
   "difficulty": 15.300005,
   "file": "https://phira.5wyxi.com/files/879a11bd-0413-40f1-bf4c-e353363e3107",
+  "hidden": false,
   "id": 39369,
   "illustration": "https://phira.5wyxi.com/files/83a5808f-1169-4c46-82cc-5668c8533ef9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Fragrance",
   "preview": "https://phira.5wyxi.com/files/3d58e224-102a-4d98-a608-3778987724a4",
   "ranked": false,
-  "rating": 0.9543919,
-  "ratingCount": 828,
+  "rating": 0.95394564,
+  "ratingCount": 849,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

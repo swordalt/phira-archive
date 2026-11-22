@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:18Z",
-    "lastChanged": "2026-11-12T18:50:11Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:20Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-09-19T05:53:01.566198Z",
   "charter": "CLWN23333",
@@ -14,6 +14,7 @@
   "description": "本人上传\n视频：https://www.bilibili.com/video/BV1Kse466EqV/",
   "difficulty": 16.000004,
   "file": "https://phira.5wyxi.com/files/6369939c-df88-4fd0-ab7e-ad5c0e8c1c20",
+  "hidden": false,
   "id": 78451,
   "illustration": "https://phira.5wyxi.com/files/3a8624b0-a703-4ece-a2a6-3cb825f513ad",
   "illustrator": "MewType",
@@ -21,11 +22,11 @@
   "name": "TearJerker",
   "preview": "https://phira.5wyxi.com/files/39a69d8f-4d9d-433f-ba2d-24fd3221fbeb",
   "ranked": false,
-  "rating": 0.909556,
-  "ratingCount": 325,
-  "reviewed": false,
+  "rating": 0.91471505,
+  "ratingCount": 436,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

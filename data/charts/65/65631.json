@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:57Z",
-    "lastChanged": "2026-09-21T02:04:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:37Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-11T07:55:04.054470Z",
   "charter": "lxy from The Jupiter",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.200012,
   "file": "https://phira.5wyxi.com/files/d4adb6bd-b538-49ad-9471-61b8d20a1df9",
+  "hidden": false,
   "id": 65631,
   "illustration": "https://phira.5wyxi.com/files/71387baa-000f-44cd-959d-555abea8f932",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Jupiter",
   "preview": "https://phira.5wyxi.com/files/b31266da-0a3f-4347-ba4e-33da3ff837b3",
   "ranked": false,
-  "rating": 0.7599552,
-  "ratingCount": 18,
+  "rating": 0.8061786,
+  "ratingCount": 26,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

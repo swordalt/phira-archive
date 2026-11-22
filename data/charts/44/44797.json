@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:30Z",
-    "lastChanged": "2026-09-21T02:06:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-15T14:26:42.667418Z",
   "charter": "ARXChem",
@@ -14,6 +14,7 @@
   "description": "削弱版\nGBC段位boss\nLN14+\n",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/b8198262-7cc3-4f9b-a9e3-5a7618bd7285",
+  "hidden": false,
   "id": 44797,
   "illustration": "https://phira.5wyxi.com/files/379e1321-df09-4c16-89a3-6182b1b62f12",
   "illustrator": "",

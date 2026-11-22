@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:05Z",
-    "lastChanged": "2026-09-21T02:04:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-06T13:50:37.659842Z",
   "charter": "him",
@@ -14,6 +14,7 @@
   "description": "视频演示 BV1FMUEB6EXq",
   "difficulty": 14.599999,
   "file": "https://phira.5wyxi.com/files/2f81ce20-9b6e-44c4-8be2-6c2650ab6ad1",
+  "hidden": false,
   "id": 49893,
   "illustration": "https://phira.5wyxi.com/files/6ef8d734-92d4-4513-9c5c-b47886f054ef",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "warning@sleeping",
   "preview": "https://phira.5wyxi.com/files/fc24dc94-60b8-496a-9ff1-2a39ed4de255",
   "ranked": true,
-  "rating": 0.92598325,
-  "ratingCount": 994,
+  "rating": 0.9254342,
+  "ratingCount": 1017,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

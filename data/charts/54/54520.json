@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:30Z",
-    "lastChanged": "2026-09-21T02:04:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-14T07:54:42.746204Z",
   "charter": "天禄不吃辟邪刀",
@@ -14,6 +14,7 @@
   "description": "谱面制作：B站  -_xX-lIaN-Xx_-\n原视频：BV1QABQBdEvr",
   "difficulty": 15.900001,
   "file": "https://phira.5wyxi.com/files/1d81afff-6437-4972-9a8a-033c5e765cfb",
+  "hidden": false,
   "id": 54520,
   "illustration": "https://phira.5wyxi.com/files/cee167ff-8e4f-4370-aaa4-ff9271e8b888",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Merry Christmas Mr.Lawrence",
   "preview": "https://phira.5wyxi.com/files/697b8056-e0c9-4056-81a4-ff28c459053a",
   "ranked": false,
-  "rating": 0.9169294,
-  "ratingCount": 4239,
+  "rating": 0.9175574,
+  "ratingCount": 4842,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

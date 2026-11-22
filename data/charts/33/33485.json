@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-07T06:40:32.065920Z",
   "charter": "kongqi233",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/96cd1db6-a865-43a6-bccc-fd62fd45f9c4",
+  "hidden": false,
   "id": 33485,
   "illustration": "https://phira.5wyxi.com/files/e0b44a94-50d8-4a05-b9da-eb25d47798a0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "求佛 DJ版",
   "preview": "https://phira.5wyxi.com/files/7e4b7123-be66-424a-8bd5-daf5e2770a9a",
   "ranked": false,
-  "rating": 0.7912567,
-  "ratingCount": 42,
+  "rating": 0.7767769,
+  "ratingCount": 44,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:16Z",
-    "lastChanged": "2026-09-21T02:02:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-12T12:20:51.170611Z",
   "charter": "Weathering with you",
@@ -14,6 +14,7 @@
   "description": "哈喽哈喽，这里是飞梦，一名萌新谱师，这是我的第一张谱面，还请各位大佬玩一玩啦，对了，这里附上视频哦：BV1Mx4y1B7YL",
   "difficulty": 12.300001,
   "file": "https://phira.5wyxi.com/files/51413666-a6bc-4d8a-b54f-6ab8eec22614",
+  "hidden": false,
   "id": 21215,
   "illustration": "https://phira.5wyxi.com/files/30e47abd-0dee-4632-a921-5b808322e7c0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "大丈夫",
   "preview": "https://phira.5wyxi.com/files/0b458c9f-3a27-408d-b19e-18e1bd6d9c7b",
   "ranked": false,
-  "rating": 0.9430073,
-  "ratingCount": 2266,
+  "rating": 0.94351894,
+  "ratingCount": 2333,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

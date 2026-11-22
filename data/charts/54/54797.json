@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:49Z",
-    "lastChanged": "2026-09-21T02:06:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-31T02:54:44.339585Z",
   "charter": "snlagsla",
@@ -14,6 +14,7 @@
   "description": "SHATTER_80391234本人上传\n乱写的。",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/a9832a41-6566-4ff6-9a9d-4e8b1e2de941",
+  "hidden": false,
   "id": 54797,
   "illustration": "https://phira.5wyxi.com/files/ce23d8b4-e8a2-40e1-b0e4-dbbfa70e3ae6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Ripe-corn",
   "preview": "https://phira.5wyxi.com/files/73e6ea1f-6003-4549-bef0-1fb801409165",
   "ranked": false,
-  "rating": 0.96395993,
-  "ratingCount": 59,
+  "rating": 0.96611476,
+  "ratingCount": 71,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

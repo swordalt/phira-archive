@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:07Z",
-    "lastChanged": "2026-09-21T02:03:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-08T17:03:05.918419Z",
   "charter": "FreMo",
@@ -14,6 +14,7 @@
   "description": "FreMo本人上传，谱师@FM壹某",
   "difficulty": 12.300001,
   "file": "https://phira.5wyxi.com/files/e1e2b7e9-6688-46e5-a0bd-8bb7bc0e7f25",
+  "hidden": false,
   "id": 34999,
   "illustration": "https://phira.5wyxi.com/files/8707116d-34cb-4bae-b38c-e9085a285082",
   "illustrator": "",

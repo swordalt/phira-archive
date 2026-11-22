@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:13Z",
-    "lastChanged": "2026-09-21T02:04:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-18T04:17:30.391562Z",
   "charter": "chenchen114514",
@@ -14,6 +14,7 @@
   "description": "此作品为chenchen108本人上传",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/f7c9eece-651a-4937-8952-f719f3f3fb59",
+  "hidden": false,
   "id": 51363,
   "illustration": "https://phira.5wyxi.com/files/91431880-e790-48b9-b787-1babd53cead4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Field of hopes and dreams",
   "preview": "https://phira.5wyxi.com/files/38fbd041-047f-48c6-979b-82753058947d",
   "ranked": false,
-  "rating": 0.8747471,
-  "ratingCount": 224,
+  "rating": 0.877147,
+  "ratingCount": 256,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:29Z",
-    "lastChanged": "2026-09-21T02:03:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-13T13:30:17.303824Z",
   "charter": "commandwm",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/a7638a3e-805e-4e7b-8461-243a0a87290c",
+  "hidden": false,
   "id": 41603,
   "illustration": "https://phira.5wyxi.com/files/15930890-7163-4dff-af51-b1128cd93804",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "DeadLocked",
   "preview": "https://phira.5wyxi.com/files/40beaf19-d9c5-4e0c-89f3-393ad9d73f6a",
   "ranked": false,
-  "rating": 0.8835974,
-  "ratingCount": 89,
+  "rating": 0.88477963,
+  "ratingCount": 93,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

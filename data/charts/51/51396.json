@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:13Z",
-    "lastChanged": "2026-09-21T02:04:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-18T16:19:29.606069Z",
   "charter": "Qlitpgyshlong",
@@ -14,6 +14,7 @@
   "description": "b站@tpgy_11 配置；@A_Xiangwan 动效；群愿杯决赛供谱 谱师本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/de019ed6-e8e9-4bc3-aa59-d5aa55930cf7",
+  "hidden": false,
   "id": 51396,
   "illustration": "https://phira.5wyxi.com/files/9d561e4a-472a-42a5-8e92-91434f1d455a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Qliphyshivh",
   "preview": "https://phira.5wyxi.com/files/132c4e2d-1067-4cb7-ae06-5c0548ca22e4",
   "ranked": false,
-  "rating": 0.9224,
-  "ratingCount": 62,
+  "rating": 0.92469585,
+  "ratingCount": 64,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

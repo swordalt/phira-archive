@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-01T05:41:38Z",
-    "lastChanged": "2026-10-11T11:05:33Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:23Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-09-28T13:29:56.337238Z",
   "charter": "LrkyY",
@@ -14,6 +14,7 @@
   "description": "曲目:あのね\n作曲:ナナツカゼ\n谱师:LrkyY{b站@LrkyY } Phira作者:@LyLuoye\n曲绘:略nd\n定数: IN Lv.15.0\n物量:1015\n事件:3900+\n用时:20h+",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/d4064684-da06-4625-a864-d41583bc566b",
+  "hidden": false,
   "id": 79368,
   "illustration": "https://phira.5wyxi.com/files/23dcf324-a2db-43cc-9e68-f6b2ed3aea18",
   "illustrator": "略nd",
@@ -21,8 +22,8 @@
   "name": "あのね",
   "preview": "https://phira.5wyxi.com/files/341727bd-09df-4b91-828a-a493dc8fad2f",
   "ranked": false,
-  "rating": 0.93581516,
-  "ratingCount": 426,
+  "rating": 0.93587667,
+  "ratingCount": 639,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

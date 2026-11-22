@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:41Z",
-    "lastChanged": "2026-09-21T02:05:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-31T10:14:33.736699Z",
   "charter": "kokomia",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/3b439675-f37a-4d52-afd5-a77826d118d5",
+  "hidden": false,
   "id": 14551,
   "illustration": "https://phira.5wyxi.com/files/5d356f1c-ac08-4d66-ab51-ec426d383e7e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Umiyuri Kaiteitan-海底谭",
   "preview": "https://phira.5wyxi.com/files/79ad2621-618c-4d7e-a938-7dfb257bc395",
   "ranked": false,
-  "rating": 0.94615614,
-  "ratingCount": 334,
+  "rating": 0.9463876,
+  "ratingCount": 338,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

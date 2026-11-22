@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:47Z",
-    "lastChanged": "2026-09-21T02:03:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-28T10:38:27.808676Z",
   "charter": "夜缪笙",
@@ -14,6 +14,7 @@
   "description": "本人上传，刚开始写动效，有些僵硬，比较简陋",
   "difficulty": 14.300001,
   "file": "https://phira.5wyxi.com/files/b41c8965-c0a2-41ae-8139-4ff69d7a3302",
+  "hidden": false,
   "id": 45916,
   "illustration": "https://phira.5wyxi.com/files/27e5d7f0-7919-4944-9991-1418e8dbe116",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lava Chicken",
   "preview": "https://phira.5wyxi.com/files/78c6168d-9f33-4a35-94d9-f5c2c97b5ae6",
   "ranked": false,
-  "rating": 0.9290701,
-  "ratingCount": 272,
+  "rating": 0.9280037,
+  "ratingCount": 296,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:08Z",
-    "lastChanged": "2026-09-21T02:04:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-23T05:49:34.144995Z",
   "charter": "乱炖鸽子汤",
@@ -14,6 +14,7 @@
   "description": "本人上传喵",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/c290d3ad-27aa-4862-96c6-ffaf1ba86060",
+  "hidden": false,
   "id": 50495,
   "illustration": "https://phira.5wyxi.com/files/4c3dd4ee-980d-424c-9e27-05a49f7ac0d6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "妖精小姐的魔法邀约",
   "preview": "https://phira.5wyxi.com/files/4dcd43e9-a8dd-42b7-b11f-dbe2d5e42105",
   "ranked": false,
-  "rating": 0.9595484,
-  "ratingCount": 1408,
+  "rating": 0.95870227,
+  "ratingCount": 1617,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

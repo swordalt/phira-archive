@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:03Z",
-    "lastChanged": "2026-09-21T02:01:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "jm333",
@@ -14,6 +14,7 @@
   "description": "本人代 @jm333 上传，经由本人同意",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/c6a858b2-b072-4cdc-abb4-991ca62cd54b",
+  "hidden": false,
   "id": 4,
   "illustration": "https://phira.5wyxi.com/files/52e673a5-4b71-4f84-941b-28d5a8363063",
   "illustrator": "Ittomaru",
@@ -21,8 +22,8 @@
   "name": "撥条少女時計",
   "preview": "https://phira.5wyxi.com/files/6924940b-6258-48d3-99ee-d938364d2e35",
   "ranked": false,
-  "rating": 0.9467008,
-  "ratingCount": 738,
+  "rating": 0.9457029,
+  "ratingCount": 778,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

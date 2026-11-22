@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:11Z",
-    "lastChanged": "2026-09-21T02:04:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-09T11:26:09.173115Z",
   "charter": "XS",
@@ -14,6 +14,7 @@
   "description": "写的第三个谱面\n\n如果有任何建议可以评论至B站@-xxxXSsss-的手元谱面！十分感谢！",
   "difficulty": 15.700002,
   "file": "https://phira.5wyxi.com/files/e362e998-d2a5-4146-b6a3-c82752837006",
+  "hidden": false,
   "id": 51107,
   "illustration": "https://phira.5wyxi.com/files/f6fd3324-cb1b-4c0d-b00c-e5b00dc2182d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Knight Rider",
   "preview": "https://phira.5wyxi.com/files/f53c5bb1-96e6-45a6-b39c-0e55fea8f119",
   "ranked": false,
-  "rating": 0.91077393,
-  "ratingCount": 412,
+  "rating": 0.91131663,
+  "ratingCount": 417,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

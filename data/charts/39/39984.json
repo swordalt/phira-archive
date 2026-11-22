@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:24Z",
-    "lastChanged": "2026-09-21T02:03:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-21T05:32:17.497283Z",
   "charter": "达达利亚",
@@ -14,6 +14,7 @@
   "description": "由于缩放问题，此处上传无shader版，完整版可在b站@zmvw235看到\n\n丝柯克角色曲，速写谱，耗时1天\n谱师本人inferior上传",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/b3f4ac86-b6da-484c-afa9-ac8d488b7833",
+  "hidden": false,
   "id": 39984,
   "illustration": "https://phira.5wyxi.com/files/0cda4f13-fe7e-4abd-b949-dd016d115c35",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "寰墟之叹",
   "preview": "https://phira.5wyxi.com/files/4b346e6e-dd62-4aa6-ad38-09891f4a5242",
   "ranked": false,
-  "rating": 0.8995866,
-  "ratingCount": 141,
+  "rating": 0.90379816,
+  "ratingCount": 151,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

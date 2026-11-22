@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:46Z",
-    "lastChanged": "2026-09-21T02:06:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-26T15:03:47.688281Z",
   "charter": "Nosmoking",
@@ -14,6 +14,7 @@
   "description": "原谱流速修改",
   "difficulty": 17.0,
   "file": "https://phira.5wyxi.com/files/5717aa32-078a-4b5f-ab22-59a4d14f90e9",
+  "hidden": false,
   "id": 53484,
   "illustration": "https://phira.5wyxi.com/files/722e823e-0c0a-45a9-b0fc-bb2d1a9c3f58",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Matusa Bomber",
   "preview": "https://phira.5wyxi.com/files/98804b35-4b97-4941-84a2-2f3de1173f0f",
   "ranked": false,
-  "rating": 0.917037,
-  "ratingCount": 39,
+  "rating": 0.9207241,
+  "ratingCount": 40,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

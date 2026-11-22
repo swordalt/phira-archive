@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:48Z",
-    "lastChanged": "2026-09-21T02:06:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-03T08:17:50.154558Z",
   "charter": "YMEA",
@@ -14,6 +14,7 @@
   "description": "难度e4~e5\n速写：（用时3h）\n快手 xB站：洋漫YMEA",
   "difficulty": 39.0,
   "file": "https://phira.5wyxi.com/files/d94a11c6-9e49-4a13-8d2a-c8cae40b125b",
+  "hidden": false,
   "id": 53782,
   "illustration": "https://phira.5wyxi.com/files/3cbe6b3c-9de8-407e-ab06-d360e28b97f4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "哀煉獄歌",
   "preview": "https://phira.5wyxi.com/files/8c6bf86d-f3f8-417d-8fa7-7eab82180fc4",
   "ranked": false,
-  "rating": 0.9285422,
-  "ratingCount": 83,
+  "rating": 0.93319213,
+  "ratingCount": 88,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

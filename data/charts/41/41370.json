@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:22Z",
-    "lastChanged": "2026-09-21T02:06:22Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-10T15:10:06.242255Z",
   "charter": "moonnicholas",
@@ -14,6 +14,7 @@
   "description": "本人上傳                                                   length:4:55 Tap:3243 Hold:788",
   "difficulty": 4.5,
   "file": "https://phira.5wyxi.com/files/8a245bbc-8169-4a0b-a702-0aa3606515ec",
+  "hidden": false,
   "id": 41370,
   "illustration": "https://phira.5wyxi.com/files/95211623-03d2-418a-a591-e7e4c0dc4551",
   "illustrator": "",
@@ -22,7 +23,7 @@
   "preview": "https://phira.5wyxi.com/files/2ac9dc0d-a22f-4f11-a42c-65bc86f84abe",
   "ranked": false,
   "rating": 0.86242324,
-  "ratingCount": 12,
+  "ratingCount": 13,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

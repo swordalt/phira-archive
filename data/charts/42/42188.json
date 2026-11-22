@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:24Z",
-    "lastChanged": "2026-09-21T02:06:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-20T06:23:05.593383Z",
   "charter": "yumak",
@@ -14,6 +14,7 @@
   "description": "本人上船",
   "difficulty": 28.0,
   "file": "https://phira.5wyxi.com/files/fec75891-726b-48ad-861b-61b0a4662e99",
+  "hidden": false,
   "id": 42188,
   "illustration": "https://phira.5wyxi.com/files/4b07add2-1da3-4ecd-9061-a7fbfbe3170b",
   "illustrator": "",

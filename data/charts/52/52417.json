@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:19Z",
-    "lastChanged": "2026-09-21T02:04:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-11T04:00:51.397968Z",
   "charter": "【毒の味】",
@@ -14,6 +14,7 @@
   "description": "四谱，一张平平无奇的白开水",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/65747a04-f1b2-4c63-8955-01becbbc53a9",
+  "hidden": false,
   "id": 52417,
   "illustration": "https://phira.5wyxi.com/files/9e17019e-ef98-433e-9ba6-62670123f124",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "匙ノ咒",
   "preview": "https://phira.5wyxi.com/files/bfed3db3-64d4-43c4-9bc2-c7047dfcd33f",
   "ranked": false,
-  "rating": 0.9611133,
-  "ratingCount": 1117,
+  "rating": 0.96081847,
+  "ratingCount": 1247,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

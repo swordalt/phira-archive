@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:05Z",
-    "lastChanged": "2026-09-21T02:04:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-30T08:26:41.428451Z",
   "charter": "CaesAr_O",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/1ee5d7ba-359a-4f86-a384-57e22dbc9291",
+  "hidden": false,
   "id": 49692,
   "illustration": "https://phira.5wyxi.com/files/760adbe5-9c66-42a0-8747-a37ff9d20793",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "せかいしね",
   "preview": "https://phira.5wyxi.com/files/4a323fcb-d988-4ddb-aed8-e3f191495942",
   "ranked": false,
-  "rating": 0.9138506,
-  "ratingCount": 1341,
+  "rating": 0.9137408,
+  "ratingCount": 1456,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

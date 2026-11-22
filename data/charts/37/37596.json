@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:13Z",
-    "lastChanged": "2026-09-21T02:06:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-05T03:22:24.140184Z",
   "charter": "打包",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/879739b9-dbdb-44fb-827b-b20d35bd2bdc",
+  "hidden": false,
   "id": 37596,
   "illustration": "https://phira.5wyxi.com/files/2f405353-7581-4f5e-a5fa-993b9c763e69",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mario Paint ",
   "preview": "https://phira.5wyxi.com/files/955fbd62-b265-49b5-a9a4-9ba0ae3b2eb9",
   "ranked": false,
-  "rating": 0.8785128,
-  "ratingCount": 25,
+  "rating": 0.88252765,
+  "ratingCount": 26,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

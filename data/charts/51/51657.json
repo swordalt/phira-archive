@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:15Z",
-    "lastChanged": "2026-09-21T02:04:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:17Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-01-26T03:07:49.324849Z",
   "charter": "Pois0n as -エス-",
@@ -14,6 +14,7 @@
   "description": "(en-us)\nthis is my old chart, I re-uploaded it with some improvements",
   "difficulty": 14.1,
   "file": "https://phira.5wyxi.com/files/7b99d3e8-ce07-45fc-ac27-6a3f4697c7bb",
+  "hidden": false,
   "id": 51657,
   "illustration": "https://phira.5wyxi.com/files/542b6606-c5ad-416b-88cc-654f6457da0b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Purge March",
   "preview": "https://phira.5wyxi.com/files/8c154599-34ef-4e87-bc47-bf4a1b08be68",
   "ranked": false,
-  "rating": 0.92820495,
-  "ratingCount": 246,
+  "rating": 0.9283297,
+  "ratingCount": 253,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

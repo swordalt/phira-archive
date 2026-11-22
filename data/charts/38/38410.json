@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:18Z",
-    "lastChanged": "2026-09-21T02:03:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-20T13:16:01.381574Z",
   "charter": "鱼猫",
@@ -14,6 +14,7 @@
   "description": "小制作，第一次做这么多动效",
   "difficulty": 12.6,
   "file": "https://phira.5wyxi.com/files/8b26fe43-578f-4777-91c6-61bc6f30e648",
+  "hidden": false,
   "id": 38410,
   "illustration": "https://phira.5wyxi.com/files/86b00771-42be-4f9b-aefa-23a1ce817359",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ivory tower",
   "preview": "https://phira.5wyxi.com/files/0b6b47c0-1b7f-4022-aedb-e13737794055",
   "ranked": false,
-  "rating": 0.8853534,
-  "ratingCount": 1188,
+  "rating": 0.88599616,
+  "ratingCount": 1387,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

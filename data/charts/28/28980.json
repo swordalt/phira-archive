@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:44Z",
-    "lastChanged": "2026-09-21T02:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-21T14:52:33.842592Z",
   "charter": "被咯素质",
@@ -14,6 +14,7 @@
   "description": "b站@_被咯素质_",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/6e91acce-6880-43cd-ae48-37dc1cf27bde",
+  "hidden": false,
   "id": 28980,
   "illustration": "https://phira.5wyxi.com/files/87b32da3-29c3-4fba-9993-662f204f15d9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Regnaissance",
   "preview": "https://phira.5wyxi.com/files/ac749083-c04a-4b8c-aad2-e61c54cbda8d",
   "ranked": false,
-  "rating": 0.8271418,
-  "ratingCount": 87,
+  "rating": 0.829076,
+  "ratingCount": 88,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

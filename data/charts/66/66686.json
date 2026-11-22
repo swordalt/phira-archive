@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:59Z",
-    "lastChanged": "2026-09-21T02:04:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-15T07:32:58.273984Z",
   "charter": "rrrrrrr",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/278f7a1f-adfc-409c-85f4-1188011ec28d",
+  "hidden": false,
   "id": 66686,
   "illustration": "https://phira.5wyxi.com/files/b1af0a09-fcf9-4b72-b2ec-170c669e71a3",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "World's end loneliness",
   "preview": "https://phira.5wyxi.com/files/469989d3-a405-48c2-adc5-6dd36543088c",
   "ranked": false,
-  "rating": 0.73692036,
-  "ratingCount": 5,
+  "rating": 0.74297315,
+  "ratingCount": 6,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

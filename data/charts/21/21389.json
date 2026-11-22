@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:50Z",
-    "lastChanged": "2026-09-21T02:05:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-16T05:09:04.507272Z",
   "charter": "VΛ",
@@ -14,6 +14,7 @@
   "description": "Can't really say this is 4k since there's no chord type of notes\n(And yes, I made this chart with Malody)",
   "difficulty": 24.0,
   "file": "https://phira.5wyxi.com/files/9b84afb1-e510-4378-b8df-556459556128",
+  "hidden": false,
   "id": 21389,
   "illustration": "https://phira.5wyxi.com/files/ab0187ae-fc24-4bc3-8015-e90b41d5adf0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "AIR (Ver. Cristierra)",
   "preview": "https://phira.5wyxi.com/files/87faf446-4e55-42c0-9c70-a6d65a020666",
   "ranked": false,
-  "rating": 0.9290867,
-  "ratingCount": 355,
+  "rating": 0.93053085,
+  "ratingCount": 375,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

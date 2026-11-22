@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:17Z",
-    "lastChanged": "2026-09-21T02:04:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-03T01:32:21.037274Z",
   "charter": "Zhaihgan",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 17.5,
   "file": "https://phira.5wyxi.com/files/81c34e91-f505-495e-b0f8-a29ed7930149",
+  "hidden": false,
   "id": 52004,
   "illustration": "https://phira.5wyxi.com/files/3c3b1076-16d1-4c22-a2d1-3a346df99f96",
   "illustrator": "",

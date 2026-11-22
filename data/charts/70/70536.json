@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:05Z",
-    "lastChanged": "2026-09-21T02:05:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-14T08:57:55.260823Z",
   "charter": "シルビア（CV：希然やすらぎ）",
@@ -14,6 +14,7 @@
   "description": "曲名：REINCARNA✝ION!! Idol Graduation\n曲师：Turbo ft. Moon Jelly\n等级：IN Lv.15.6\nBPM：180→200\n物量：1048\n事件：4400+\n判定线数：24\n视频：BV1W3GA61EAc",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/c412d0bc-1717-482a-b46a-846138dfa536",
+  "hidden": false,
   "id": 70536,
   "illustration": "https://phira.5wyxi.com/files/720b6657-e2b6-4f0a-9b9d-f267d1f792ca",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "REINCARNA✝ION!! Idol Graduation",
   "preview": "https://phira.5wyxi.com/files/3b6e1946-3189-4e6c-ad57-2b8669abdbb8",
   "ranked": false,
-  "rating": 0.9426466,
-  "ratingCount": 481,
+  "rating": 0.9419733,
+  "ratingCount": 520,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

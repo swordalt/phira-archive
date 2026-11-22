@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:58Z",
-    "lastChanged": "2026-09-21T02:06:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-18T15:02:13.866809Z",
   "charter": "AuroraRG",
@@ -14,6 +14,7 @@
   "description": "双指练习",
   "difficulty": 16.6,
   "file": "https://phira.5wyxi.com/files/a04a694f-468a-4303-9bde-86fc788a89fb",
+  "hidden": false,
   "id": 67552,
   "illustration": "https://phira.5wyxi.com/files/18983bcc-0644-4566-bfe5-2c3145e8698f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Reimei Sketchbook",
   "preview": "https://phira.5wyxi.com/files/506111a9-aa55-44d7-8634-d0470cdcc4de",
   "ranked": false,
-  "rating": 0.88956696,
-  "ratingCount": 19,
+  "rating": 0.9056196,
+  "ratingCount": 23,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:03Z",
-    "lastChanged": "2026-09-21T02:01:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-02T08:24:52.826382Z",
   "charter": "DHua",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/1898c133-8d0b-4a05-b0dc-c0ef57e4aea0",
+  "hidden": false,
   "id": 3,
   "illustration": "https://phira.5wyxi.com/files/8d2d1b5c-7434-474c-84d1-ccf938b10451",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Hyperspace",
   "preview": "https://phira.5wyxi.com/files/ec4edc7d-92b0-451c-83f8-c1a084b6b66f",
   "ranked": false,
-  "rating": 0.9111416,
-  "ratingCount": 132,
+  "rating": 0.91423804,
+  "ratingCount": 137,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

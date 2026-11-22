@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:28Z",
-    "lastChanged": "2026-09-21T02:03:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-12T05:44:30.979194Z",
   "charter": "程荧星光",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.8,
   "file": "https://phira.5wyxi.com/files/f249a0a5-379e-403a-af51-05633996d197",
+  "hidden": false,
   "id": 41469,
   "illustration": "https://phira.5wyxi.com/files/41b62c5a-f9be-4c36-9245-b6b4a2508f8c",
   "illustrator": "",

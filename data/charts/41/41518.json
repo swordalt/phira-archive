@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:28Z",
-    "lastChanged": "2026-09-21T02:03:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-12T14:36:45.176920Z",
   "charter": "CMZ_qwq",
@@ -14,6 +14,7 @@
   "description": "B站@CMZ_qwq",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/1b7dd856-2d00-4eb7-9651-c618abac284a",
+  "hidden": false,
   "id": 41518,
   "illustration": "https://phira.5wyxi.com/files/8dccdff7-2ac8-4011-94cb-b6f7179f7e10",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ディア♡マイフレンド",
   "preview": "https://phira.5wyxi.com/files/1624e2f4-2bc8-45d1-a2a3-6c5442574e23",
   "ranked": false,
-  "rating": 0.91181046,
-  "ratingCount": 383,
+  "rating": 0.91295224,
+  "ratingCount": 388,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

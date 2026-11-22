@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:39Z",
-    "lastChanged": "2026-09-21T02:06:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-25T14:46:38.674236Z",
   "charter": "绿系百川",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/042354b4-28a1-4481-8cc5-edd6a3ff2b5d",
+  "hidden": false,
   "id": 48419,
   "illustration": "https://phira.5wyxi.com/files/2116fff3-2c8e-47ce-bc38-cb01b1dfe868",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "勇敢说不",
   "preview": "https://phira.5wyxi.com/files/20d721d9-fe24-4583-82f3-4b7793514716",
   "ranked": false,
-  "rating": 0.81075215,
-  "ratingCount": 7,
+  "rating": 0.8305736,
+  "ratingCount": 9,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:38Z",
-    "lastChanged": "2026-09-21T02:06:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-08T06:03:43.756806Z",
   "charter": "殇儿打不动",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传\n\n殇儿写叠了你们知道吗\n尾段无休，但感觉前面要难一些",
   "difficulty": 14.900003,
   "file": "https://phira.5wyxi.com/files/110aa67c-a790-4f48-a24e-d4e71722b22b",
+  "hidden": false,
   "id": 47881,
   "illustration": "https://phira.5wyxi.com/files/ef6f84df-c5fb-451f-bb77-e65c076129ce",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Crazytek",
   "preview": "https://phira.5wyxi.com/files/4ba1d098-5b68-429b-a9b9-7aa92f2dc807",
   "ranked": false,
-  "rating": 0.90051013,
-  "ratingCount": 26,
+  "rating": 0.90062153,
+  "ratingCount": 27,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

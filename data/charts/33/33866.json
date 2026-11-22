@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:03Z",
-    "lastChanged": "2026-09-21T02:03:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-12T06:56:39.276175Z",
   "charter": "7eaveS",
@@ -14,6 +14,7 @@
   "description": "三天速写，还有些幼稚的作品\n线数：16 事件数：2608 物量：662\nb站可能会发个视频",
   "difficulty": 15.1,
   "file": "https://phira.5wyxi.com/files/3ac9410c-5861-4977-8ee7-a7d15f559d03",
+  "hidden": false,
   "id": 33866,
   "illustration": "https://phira.5wyxi.com/files/0c10e419-cb3d-4274-9c3d-6cbf4dff4f04",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "命に嫌われている",
   "preview": "https://phira.5wyxi.com/files/60e2ff40-2027-41e0-888a-e6ae32e2af45",
   "ranked": false,
-  "rating": 0.903822,
-  "ratingCount": 883,
+  "rating": 0.90341187,
+  "ratingCount": 922,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:58Z",
-    "lastChanged": "2026-09-21T02:01:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-10T17:37:22.900115Z",
   "charter": "羽梦明、清竹晚星",
@@ -14,6 +14,7 @@
   "description": "2025.9.11更新：替换为诗岸中文填词版本",
   "difficulty": 14.000002,
   "file": "https://phira.5wyxi.com/files/904effb5-1227-4693-a5e9-a5eaca619e50",
+  "hidden": false,
   "id": 15863,
   "illustration": "https://phira.5wyxi.com/files/fe328a5f-9fbe-4a1b-b92c-d75775493496",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "如果只转身后退就能回到那个夏天？",
   "preview": "https://phira.5wyxi.com/files/1e43ad7b-4702-4037-ba6b-271887e4bb43",
   "ranked": false,
-  "rating": 0.9449648,
-  "ratingCount": 2045,
+  "rating": 0.9459752,
+  "ratingCount": 2136,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

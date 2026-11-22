@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-18T14:30:44Z",
-    "lastChanged": "2026-10-18T14:30:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-18T13:22:57.808622Z",
   "charter": "LPI",
@@ -14,6 +14,7 @@
   "description": "本人上传\n哔哩哔哩: @LPI_",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/437973e8-d258-4ae1-ba79-703194af1f47",
+  "hidden": false,
   "id": 81569,
   "illustration": "https://phira.5wyxi.com/files/7c8a5c25-887a-449d-b845-34f82f33dfa6",
   "illustrator": "狂想心匣 & 寂莫鸣迪jimD",
@@ -21,8 +22,8 @@
   "name": "KORARARA",
   "preview": "https://phira.5wyxi.com/files/fbbd8060-3421-456b-9cb3-0926c0b33b00",
   "ranked": false,
-  "rating": 0.7669704,
-  "ratingCount": 0,
+  "rating": 0.90545535,
+  "ratingCount": 87,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

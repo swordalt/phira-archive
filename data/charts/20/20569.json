@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:15Z",
-    "lastChanged": "2026-09-21T02:02:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-31T15:23:38.175148Z",
   "charter": "Kedmue",
@@ -14,6 +14,7 @@
   "description": "谱面为本人上传。\n系本人初谱，感谢大家游玩！",
   "difficulty": 14.6,
   "file": "https://phira.5wyxi.com/files/012774a3-e036-400a-b7c2-b717a789f763",
+  "hidden": false,
   "id": 20569,
   "illustration": "https://phira.5wyxi.com/files/4e34f9d6-0162-4c17-b156-2ca898c71117",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "NULCTRL",
   "preview": "https://phira.5wyxi.com/files/5172b594-3804-4d97-9271-2e2569d594ec",
   "ranked": false,
-  "rating": 0.8945472,
-  "ratingCount": 121,
+  "rating": 0.8965975,
+  "ratingCount": 124,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

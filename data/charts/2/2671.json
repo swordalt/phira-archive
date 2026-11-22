@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:13Z",
-    "lastChanged": "2026-09-21T02:01:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-17T05:03:11.377048Z",
   "charter": "FossiL",
@@ -14,6 +14,7 @@
   "description": "BV18o4y1G77Y\n本人上传。\n总用时3d（不包括休息时间）\n有bug私信B站@FossiL114！",
   "difficulty": 12.500002,
   "file": "https://phira.5wyxi.com/files/cf29026e-c03b-48bb-b1c9-216b1a034dcc",
+  "hidden": false,
   "id": 2671,
   "illustration": "https://phira.5wyxi.com/files/12a28132-fc47-4475-a8ce-8a26369b5c0f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "雨之城",
   "preview": "https://phira.5wyxi.com/files/6e32270b-1437-459a-b4a6-d6eeb95617e9",
   "ranked": false,
-  "rating": 0.92570263,
-  "ratingCount": 712,
+  "rating": 0.9246438,
+  "ratingCount": 730,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

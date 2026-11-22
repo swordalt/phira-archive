@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:42Z",
-    "lastChanged": "2026-09-21T02:03:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:19Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-17T14:03:54.306101Z",
   "charter": "果林Fruit-Forest",
@@ -14,6 +14,7 @@
   "description": "云梦杯季军赛供谱，希望能喜欢",
   "difficulty": 17.500002,
   "file": "https://phira.5wyxi.com/files/ff240749-b1b6-467d-9c22-4178da0e09eb",
+  "hidden": false,
   "id": 44985,
   "illustration": "https://phira.5wyxi.com/files/c51a6df8-de12-43f1-a920-c17ebb86bc88",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "the Tower of NIRV(ニルヴの心臓)",
   "preview": "https://phira.5wyxi.com/files/f3c1cec8-56d2-4125-97b0-899670406850",
   "ranked": false,
-  "rating": 0.88624936,
-  "ratingCount": 439,
+  "rating": 0.88516504,
+  "ratingCount": 453,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

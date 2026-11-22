@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:00Z",
-    "lastChanged": "2026-09-21T02:02:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-22T11:58:39.087483Z",
   "charter": "ErgveVenus",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.500002,
   "file": "https://phira.5wyxi.com/files/c5a8f224-d554-4772-aa77-24cfa6338a59",
+  "hidden": false,
   "id": 16289,
   "illustration": "https://phira.5wyxi.com/files/98113a18-712d-47f4-90a3-fc38eefbd256",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Aphasia",
   "preview": "https://phira.5wyxi.com/files/638c7085-4629-476d-8270-aa0a8a3ba5ac",
   "ranked": false,
-  "rating": 0.9367791,
-  "ratingCount": 824,
+  "rating": 0.93620753,
+  "ratingCount": 843,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

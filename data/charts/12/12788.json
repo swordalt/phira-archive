@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:39Z",
-    "lastChanged": "2026-09-21T02:05:39Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:12Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-24T05:15:56.612506Z",
   "charter": "charaDiana",
@@ -14,6 +14,7 @@
   "description": "DFC Course Sample1 Simple\nCharaDiana本人上传",
   "difficulty": 10.600005,
   "file": "https://phira.5wyxi.com/files/97acd8b9-1ff5-4e82-8762-29b49ded537e",
+  "hidden": false,
   "id": 12788,
   "illustration": "https://phira.5wyxi.com/files/92d83f0a-0981-49b0-8d75-d82ac6cf72b2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The Lost Dedicated",
   "preview": "https://phira.5wyxi.com/files/85733de7-e33c-4500-8970-835409cf65e6",
   "ranked": false,
-  "rating": 0.93726087,
-  "ratingCount": 412,
+  "rating": 0.93913037,
+  "ratingCount": 436,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

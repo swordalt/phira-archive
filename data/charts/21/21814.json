@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:51Z",
-    "lastChanged": "2026-09-21T02:05:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-23T11:12:39.990357Z",
   "charter": "QwErT",
@@ -14,6 +14,7 @@
   "description": "不会打别叫",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/c169b22c-3981-4b98-bfc5-b30bbe9ae12f",
+  "hidden": false,
   "id": 21814,
   "illustration": "https://phira.5wyxi.com/files/7b6ed68f-cb6f-4015-9fd4-7dd36ca5a3b0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sendan Life (katagirl bootleg)",
   "preview": "https://phira.5wyxi.com/files/0bf055f3-5e03-4a60-9e69-c8e0c09a4160",
   "ranked": false,
-  "rating": 0.909181,
-  "ratingCount": 78,
+  "rating": 0.903288,
+  "ratingCount": 80,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

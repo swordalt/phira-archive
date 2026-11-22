@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:46Z",
-    "lastChanged": "2026-09-21T02:06:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-24T12:22:40.397639Z",
   "charter": "Jiuwenzi",
@@ -14,6 +14,7 @@
   "description": "DFC 8dan 4/4 drag 304/1405 pass=97.58",
   "difficulty": 8.700003,
   "file": "https://phira.5wyxi.com/files/7045b932-5e0f-462f-bb7c-baa2a798e253",
+  "hidden": false,
   "id": 53329,
   "illustration": "https://phira.5wyxi.com/files/16972f02-8641-4e22-bcbe-1a6601510a08",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Snow Veil -少女と獣の森",
   "preview": "https://phira.5wyxi.com/files/9a894d34-dfb4-41a5-acb6-f08afbd39892",
   "ranked": false,
-  "rating": 0.9692143,
-  "ratingCount": 379,
+  "rating": 0.96998143,
+  "ratingCount": 436,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

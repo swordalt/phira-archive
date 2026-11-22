@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:21Z",
-    "lastChanged": "2026-09-21T02:05:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:39Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-12-24T13:12:58.988203Z",
   "charter": "??????",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.2,
   "file": "https://phira.5wyxi.com/files/f85e536f-6ec4-45b3-8454-4269d146f67f",
+  "hidden": false,
   "id": 12818,
   "illustration": "https://phira.5wyxi.com/files/43374a0b-8fa3-42e5-b20e-dce2159cbfa6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ジングルベル",
   "preview": "https://phira.5wyxi.com/files/01b0ee0c-0772-4d01-9b05-7ac085fd742b",
   "ranked": false,
-  "rating": 0.84676486,
-  "ratingCount": 116,
+  "rating": 0.8489531,
+  "ratingCount": 119,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

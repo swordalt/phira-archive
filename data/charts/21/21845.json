@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:18Z",
-    "lastChanged": "2026-09-21T02:02:18Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-24T05:39:07.899468Z",
   "charter": "kio876",
@@ -14,6 +14,7 @@
   "description": "该谱面为本人上传，BV1Kf42197MH",
   "difficulty": 17.700003,
   "file": "https://phira.5wyxi.com/files/fb27490e-7c56-4cf3-bfe9-ff6eae5f25a9",
+  "hidden": false,
   "id": 21845,
   "illustration": "https://phira.5wyxi.com/files/c612aa1b-999d-43af-9b1d-a65d4f37bbe6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Hello (BPM) 2024",
   "preview": "https://phira.5wyxi.com/files/18e0ddf8-2d9a-4807-aaa7-12c6c6a4e242",
   "ranked": false,
-  "rating": 0.90609306,
-  "ratingCount": 1854,
+  "rating": 0.90625453,
+  "ratingCount": 1898,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

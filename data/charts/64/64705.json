@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:55Z",
-    "lastChanged": "2026-09-21T02:04:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-08T08:09:02.210840Z",
   "charter": "C4G3 0F 4BY55/五重终结",
@@ -14,6 +14,7 @@
   "description": "本人上传，该谱为配置修改。      bilibili：BV1FvM86gE67     谱师：Yurisky_/MooniteSakust/Hwere/Necrologist_遗愿/阿绫绫绫绫绫吖",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/25556a4b-1085-4443-a19f-7db0c95f48a7",
+  "hidden": false,
   "id": 64705,
   "illustration": "https://phira.5wyxi.com/files/c9946c62-4627-4c45-b916-56bb055cb12f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "MEGALOVANIA(Camellia Remix)",
   "preview": "https://phira.5wyxi.com/files/5cc71ebd-10b1-41bb-a675-e1db64ed084f",
   "ranked": false,
-  "rating": 0.919972,
-  "ratingCount": 760,
+  "rating": 0.92174923,
+  "ratingCount": 840,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

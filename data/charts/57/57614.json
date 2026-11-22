@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:40Z",
-    "lastChanged": "2026-09-21T02:04:40Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-05-02T14:14:26.157176Z",
   "charter": "Pigeeeeeon",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.1,
   "file": "https://phira.5wyxi.com/files/c16c6636-754a-4818-9b05-145184ff9fd4",
+  "hidden": false,
   "id": 57614,
   "illustration": "https://phira.5wyxi.com/files/31088724-6870-4971-8e4d-39774c7a610c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Moon Halo",
   "preview": "https://phira.5wyxi.com/files/4c7a4dfa-4987-4ec9-936c-65357048beeb",
   "ranked": false,
-  "rating": 0.94388837,
-  "ratingCount": 480,
+  "rating": 0.9427607,
+  "ratingCount": 509,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

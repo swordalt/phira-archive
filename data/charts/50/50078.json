@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:06Z",
-    "lastChanged": "2026-09-21T02:04:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-10T14:40:47.674014Z",
   "charter": "EON-FLIGHT",
@@ -14,6 +14,7 @@
   "description": "本人上传，2ndPecJam参赛谱，谱面编号31",
   "difficulty": 13.8,
   "file": "https://phira.5wyxi.com/files/c3b0ff1d-ca13-40d6-b68a-a16d087cc106",
+  "hidden": false,
   "id": 50078,
   "illustration": "https://phira.5wyxi.com/files/f0310370-051d-44c4-bcfb-4868c04225f1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Snow Magic",
   "preview": "https://phira.5wyxi.com/files/ee52d527-78bf-4230-9146-8f136aa11fca",
   "ranked": false,
-  "rating": 0.92895263,
-  "ratingCount": 179,
+  "rating": 0.92934537,
+  "ratingCount": 180,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

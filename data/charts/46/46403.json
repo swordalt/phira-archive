@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:49Z",
-    "lastChanged": "2026-09-21T02:03:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:29Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-11T13:11:08.752995Z",
   "charter": "Dr.Asriel",
@@ -14,6 +14,7 @@
   "description": "本谱为5th WJC L4 NO.4，因为写一半演不下去了所以直接不演了哦哦哦哦哦哦，谱面预览BV1cZhCzHEFX\n这次写了点我觉得挺有意思的东西希望大家能喜欢\n2026.2.11：进行了部分排键微调",
   "difficulty": 18.1,
   "file": "https://phira.5wyxi.com/files/18d6d005-7838-423f-a612-c66a7f5cb394",
+  "hidden": false,
   "id": 46403,
   "illustration": "https://phira.5wyxi.com/files/d080bd54-befc-4e4a-883d-29afb2feee48",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Crossmythos Rhapsodia",
   "preview": "https://phira.5wyxi.com/files/79a1f449-3854-4106-ad64-b87ac055d01b",
   "ranked": true,
-  "rating": 0.9074586,
-  "ratingCount": 1079,
+  "rating": 0.9086754,
+  "ratingCount": 1134,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

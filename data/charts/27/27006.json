@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:37Z",
-    "lastChanged": "2026-09-21T02:02:37Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:01Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-28T04:04:30.131966Z",
   "charter": "Ian",
@@ -14,6 +14,7 @@
   "description": "拍磚（",
   "difficulty": 15.2,
   "file": "https://phira.5wyxi.com/files/cea590f2-7dbb-4374-b325-7984fbf9ea4c",
+  "hidden": false,
   "id": 27006,
   "illustration": "https://phira.5wyxi.com/files/887c969e-886b-4e94-92f5-c50e64c91c8e",
   "illustrator": "",

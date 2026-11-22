@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:13Z",
-    "lastChanged": "2026-09-21T02:02:13Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-11T17:24:08.196770Z",
   "charter": "Smurf__",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.8,
   "file": "https://phira.5wyxi.com/files/e2a9accd-75a6-4fd2-9b21-5d1aa8130ba3",
+  "hidden": false,
   "id": 19840,
   "illustration": "https://phira.5wyxi.com/files/b496ab90-7d29-479a-a6cb-bcb38c9d7ad5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Jägermeister",
   "preview": "https://phira.5wyxi.com/files/f2985450-f63b-4da4-bc1d-6746301b9df1",
   "ranked": false,
-  "rating": 0.9490387,
-  "ratingCount": 311,
+  "rating": 0.95167005,
+  "ratingCount": 312,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:48Z",
-    "lastChanged": "2026-09-21T02:05:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-25T06:50:26.592201Z",
   "charter": "#1E3066",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传。\n本来想保留大小键的，可惜保留不得。",
   "difficulty": 11.5,
   "file": "https://phira.5wyxi.com/files/a20c3fd7-38a9-4a46-8e0c-07427f5716fe",
+  "hidden": false,
   "id": 20323,
   "illustration": "https://phira.5wyxi.com/files/6815ab60-8c49-474c-8bea-e6492d6654bc",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "量子力学のためのピアノ協奏曲",
   "preview": "https://phira.5wyxi.com/files/6a767c66-08dd-420f-9309-1369303258e5",
   "ranked": false,
-  "rating": 0.94074476,
+  "rating": 0.962239,
   "ratingCount": 659,
   "reviewed": true,
   "stable": false,

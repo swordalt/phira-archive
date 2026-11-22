@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:25Z",
-    "lastChanged": "2026-09-21T02:05:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-06T06:48:06.357812Z",
   "charter": "杰瑞–Jerry",
@@ -14,6 +14,7 @@
   "description": "本人第二张谱子，老样子使用malody做谱然后转谱，但不知道为什么采音已经很准了却有一定延迟，并且本人采音还是有点问题，请大家见谅，本人调了一下偏移时间差不多可以打了",
   "difficulty": 13.5,
   "file": "https://phira.5wyxi.com/files/f0858c1c-e88c-4c70-b1ca-abe8d3cc9a6c",
+  "hidden": false,
   "id": 25439,
   "illustration": "https://phira.5wyxi.com/files/86a66656-b7a2-4f04-acd6-26dc0a290668",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Messages from the Stars (Sped Up)",
   "preview": "https://phira.5wyxi.com/files/3920b921-5879-4295-b769-4838f122ae8e",
   "ranked": false,
-  "rating": 0.9167281,
-  "ratingCount": 328,
+  "rating": 0.9173807,
+  "ratingCount": 333,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

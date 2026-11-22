@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:30Z",
-    "lastChanged": "2026-09-21T02:01:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-01T05:27:50.920022Z",
   "charter": "ReiF -桜吹雪-",
@@ -14,6 +14,7 @@
   "description": "chart view: https://youtu.be/maSts7boWQM?si=9BUrjKy25g4GZK9E\n\nbullet dodging go!!",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/ea518f2f-7ca2-4b0c-b614-3d541e423385",
+  "hidden": false,
   "id": 8899,
   "illustration": "https://phira.5wyxi.com/files/6d178e05-47dc-450c-9a04-737810f4c6d9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "緋色月下、狂咲ノ絶 (nayuta 2017 ver)",
   "preview": "https://phira.5wyxi.com/files/5ad87d1a-c47b-44a1-a765-47f883e74636",
   "ranked": false,
-  "rating": 0.91257757,
-  "ratingCount": 1127,
+  "rating": 0.9130989,
+  "ratingCount": 1135,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

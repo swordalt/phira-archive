@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:11Z",
-    "lastChanged": "2026-09-21T02:01:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-13T16:37:07.103335Z",
   "charter": "balabaj",
@@ -14,6 +14,7 @@
   "description": "比较久远的谱子，三押练习曲，判定先甩的幅度可能有些大",
   "difficulty": 15.300001,
   "file": "https://phira.5wyxi.com/files/e2bd82f8-730b-4c9a-992c-cdce19e4f7b8",
+  "hidden": false,
   "id": 1930,
   "illustration": "https://phira.5wyxi.com/files/c8c21a5a-bdc2-46d8-b5ea-b636f28b0113",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Dogbite",
   "preview": "https://phira.5wyxi.com/files/4b35b39b-f616-4bf4-b3c6-1acda3ff28a7",
   "ranked": false,
-  "rating": 0.8889687,
-  "ratingCount": 397,
+  "rating": 0.888302,
+  "ratingCount": 398,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:16Z",
-    "lastChanged": "2026-09-21T02:06:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-31T14:46:00.823698Z",
   "charter": "JumpStream",
@@ -14,6 +14,7 @@
   "description": "1th ID: #31580\n---------------------------------------------------\n歌曲信息↓\n1.Electric Angel (1.2×) / BPM:180\n2.Collapsing Star / BPM:190\n3.曖昧アティチュード feat.中村さんそ / BPM:200\n---------------------------------------------------\n谱师本人\nBilibili:@JumpStream @XTreme_exe",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/1a192f3b-ea4b-4850-acd3-9be836400315",
+  "hidden": false,
   "id": 38993,
   "illustration": "https://phira.5wyxi.com/files/3716e3b6-493e-4cce-a5b0-e576074af035",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "JumpStream Dan",
   "preview": "https://phira.5wyxi.com/files/b2e15f8c-552b-4a8c-9bef-5b1449e3ce00",
   "ranked": false,
-  "rating": 0.9503165,
-  "ratingCount": 119,
+  "rating": 0.9467732,
+  "ratingCount": 134,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

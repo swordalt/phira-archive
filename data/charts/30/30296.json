@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:49Z",
-    "lastChanged": "2026-09-21T02:02:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-30T16:45:39.112795Z",
   "charter": "攸亽..还是睡觉吧？",
@@ -14,6 +14,7 @@
   "description": "本谱为Yuri Cup I参赛谱，与另一张由Icier寒冰创作的差分谱面共同获得了最佳cp奖！希望各位玩的开心～",
   "difficulty": 14.400004,
   "file": "https://phira.5wyxi.com/files/2f67ba12-6030-4012-91ce-763fb7acf068",
+  "hidden": false,
   "id": 30296,
   "illustration": "https://phira.5wyxi.com/files/e69a3ac1-46ff-4136-88e9-c1666f11f6b2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Super Fructose",
   "preview": "https://phira.5wyxi.com/files/378b73f7-4b89-46a7-82ec-2d4e95461bb5",
   "ranked": true,
-  "rating": 0.94336426,
-  "ratingCount": 2698,
+  "rating": 0.94359475,
+  "ratingCount": 2762,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:49Z",
-    "lastChanged": "2026-09-21T02:02:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-26T15:10:04.066228Z",
   "charter": "AndSjsj",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 15.400002,
   "file": "https://phira.5wyxi.com/files/5d9bfd67-a731-477d-9bb4-e08ba19ad529",
+  "hidden": false,
   "id": 30138,
   "illustration": "https://phira.5wyxi.com/files/9fdec413-84ba-4837-a9ea-e326c01885fc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "The City",
   "preview": "https://phira.5wyxi.com/files/1f26eae0-18bc-49ec-8ae7-99972aed479e",
   "ranked": false,
-  "rating": 0.87596947,
-  "ratingCount": 58,
+  "rating": 0.8768669,
+  "ratingCount": 59,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

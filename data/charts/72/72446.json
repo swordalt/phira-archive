@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:07Z",
-    "lastChanged": "2026-09-21T02:05:07Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-10T04:37:34.091608Z",
   "charter": "Qianyu&Zhiyan vs. ZBObby",
@@ -14,6 +14,7 @@
   "description": "终末地神了",
   "difficulty": 14.500002,
   "file": "https://phira.5wyxi.com/files/7d5f640d-d852-43d7-bfd5-9655a7bbb298",
+  "hidden": false,
   "id": 72446,
   "illustration": "https://phira.5wyxi.com/files/24f24416-28fe-439e-8a3f-7712d8ec5a2e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Vermilion",
   "preview": "https://phira.5wyxi.com/files/5e6e8867-2dcd-478f-a7e6-26224d54aee8",
   "ranked": false,
-  "rating": 0.9031393,
-  "ratingCount": 210,
+  "rating": 0.9104113,
+  "ratingCount": 265,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

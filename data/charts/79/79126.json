@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-26T13:00:03Z",
-    "lastChanged": "2026-09-27T18:17:53Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T13:03:08Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-09-26T09:27:13.582680Z",
   "charter": "HRS-Team",
@@ -14,6 +14,7 @@
   "description": "一个11Flow练习曲",
   "difficulty": 10.800006,
   "file": "https://phira.5wyxi.com/files/d52a74d3-a937-4a39-b9eb-10ad2d97c5f1",
+  "hidden": false,
   "id": 79126,
   "illustration": "https://phira.5wyxi.com/files/ef51984e-13f4-4244-83e9-7b4db77ba980",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "タンポポ劇場",
   "preview": "https://phira.5wyxi.com/files/488466f7-8e95-4e1b-8857-9177308e6dbb",
   "ranked": false,
-  "rating": 0.9003242,
-  "ratingCount": 41,
+  "rating": 0.8934135,
+  "ratingCount": 179,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

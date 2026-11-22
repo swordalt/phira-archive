@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:01Z",
-    "lastChanged": "2026-09-21T02:05:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-20T16:25:54.261691Z",
   "charter": "黯凌AL",
@@ -14,6 +14,7 @@
   "description": "那个版本上传的时候谱有问题，重新上传无问题版本，谢谢",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/5b496460-da65-49d8-a04a-16ae62c082e7",
+  "hidden": false,
   "id": 68047,
   "illustration": "https://phira.5wyxi.com/files/bdbf1e4d-0883-429b-adeb-b3afebfaa6cb",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Pixel Pig",
   "preview": "https://phira.5wyxi.com/files/099a1852-3af7-453c-a086-f23c7c9c4e63",
   "ranked": false,
-  "rating": 0.9287088,
-  "ratingCount": 71,
+  "rating": 0.93484676,
+  "ratingCount": 206,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

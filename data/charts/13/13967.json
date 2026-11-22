@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:49Z",
-    "lastChanged": "2026-09-21T02:01:49Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:30Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-22T13:52:09.855390Z",
   "charter": "enchanted kany",
@@ -14,6 +14,7 @@
   "description": "本人上传，超级简单的动效与表演。",
   "difficulty": 13.500002,
   "file": "https://phira.5wyxi.com/files/e5bd1c02-45ae-42ba-9cee-e0f35b2669d2",
+  "hidden": false,
   "id": 13967,
   "illustration": "https://phira.5wyxi.com/files/0b97d3a9-74c0-49f0-af5a-9134116e0201",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "enchanted love",
   "preview": "https://phira.5wyxi.com/files/6b78ef55-6ec4-49bd-91fe-4149ef76086e",
   "ranked": false,
-  "rating": 0.9450307,
-  "ratingCount": 1539,
+  "rating": 0.94532084,
+  "ratingCount": 1556,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

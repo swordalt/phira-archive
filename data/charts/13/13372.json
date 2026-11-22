@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:47Z",
-    "lastChanged": "2026-09-21T02:01:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-08T15:30:23.263773Z",
   "charter": "t0_",
@@ -14,6 +14,7 @@
   "description": "【新人初谱】b站视频：BV1da4y127vM (Ｔ▽Ｔ)   此为二次修改版本，主要调整了部分note排布位置以减小不合理的位移  游玩 offset=-305",
   "difficulty": 15.9000225,
   "file": "https://phira.5wyxi.com/files/77bc5318-936c-4e75-b928-2dd871e2784a",
+  "hidden": false,
   "id": 13372,
   "illustration": "https://phira.5wyxi.com/files/52f69e30-a1ad-48d1-a1aa-d42e38fb22ca",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ニュ一ダ一リン",
   "preview": "https://phira.5wyxi.com/files/3f7964a1-0003-4045-ae16-8f718883ad7d",
   "ranked": false,
-  "rating": 0.8790076,
-  "ratingCount": 408,
+  "rating": 0.87994725,
+  "ratingCount": 422,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

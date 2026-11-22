@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:09Z",
-    "lastChanged": "2026-09-21T02:06:09Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-06T08:42:42.827112Z",
   "charter": "DXrs",
@@ -14,6 +14,7 @@
   "description": "转谱本人上传（",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/0492cacb-2d93-4253-a0e1-56e527ea254c",
+  "hidden": false,
   "id": 33424,
   "illustration": "https://phira.5wyxi.com/files/a065175a-f7ad-41fe-9cbb-b491125590bb",
   "illustrator": "",

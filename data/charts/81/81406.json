@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-10-18T05:47:08Z",
-    "lastChanged": "2026-10-18T05:47:08Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:13Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-10-17T17:41:14.628970Z",
   "charter": "Future_1",
@@ -14,6 +14,7 @@
   "description": "玩着不烧心",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/58daf982-720a-45a9-9792-fefe5ff354e3",
+  "hidden": false,
   "id": 81406,
   "illustration": "https://phira.5wyxi.com/files/a1464d90-4a23-47be-9121-d2ce82284fc0",
   "illustrator": "UK",
@@ -21,8 +22,8 @@
   "name": "自分後回し",
   "preview": "https://phira.5wyxi.com/files/c0a1aac6-68c9-4833-a121-935af524a2a5",
   "ranked": false,
-  "rating": 0.91157955,
-  "ratingCount": 19,
+  "rating": 0.9458754,
+  "ratingCount": 485,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

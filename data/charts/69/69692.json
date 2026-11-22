@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:03Z",
-    "lastChanged": "2026-09-21T02:05:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-28T09:50:36.984871Z",
   "charter": "R3a1",
@@ -14,6 +14,7 @@
   "description": "谱师B站账号：@R3a1_ty",
   "difficulty": 13.200001,
   "file": "https://phira.5wyxi.com/files/d1112471-0f76-4f9a-a44e-7600ce0a8f5e",
+  "hidden": false,
   "id": 69692,
   "illustration": "https://phira.5wyxi.com/files/271c25a6-8ddf-469d-b43f-07efc0978887",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ウミユリ海底譚",
   "preview": "https://phira.5wyxi.com/files/fd0a242c-6dca-430f-824e-29c8b11e0352",
   "ranked": false,
-  "rating": 0.91686594,
-  "ratingCount": 3006,
+  "rating": 0.9188385,
+  "ratingCount": 3220,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

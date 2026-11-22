@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:10Z",
-    "lastChanged": "2026-09-21T02:03:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-29T06:45:12.712364Z",
   "charter": "Rui and GUGU",
@@ -14,6 +14,7 @@
   "description": "Rui和GUGU的合作谱喵",
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/91a734cc-bd94-485a-9d40-29ff70db3329",
+  "hidden": false,
   "id": 35826,
   "illustration": "https://phira.5wyxi.com/files/1fedd9b8-5fde-45fb-b55a-68d2d100f002",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "カナタハルカ",
   "preview": "https://phira.5wyxi.com/files/654b6685-6d55-45fa-9731-f616d8443588",
   "ranked": false,
-  "rating": 0.94780344,
-  "ratingCount": 471,
+  "rating": 0.94551706,
+  "ratingCount": 496,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:05Z",
-    "lastChanged": "2026-09-21T02:01:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-05-20T13:05:00.494298Z",
   "charter": "-zerouth-",
@@ -14,6 +14,7 @@
   "description": "【Clue】STORY IV. - Sense For once, Lieselotte finally notices a sound around her. A very bizarre, yet comforting sound. The discovery of one sound leads to the next, when it eventually culminates in a crescendo of a new kind of beauty. The unseen, yet uplifting, beauty of a strange world shrouded in darkness. 版本更新  2023.5.13微调 2023.5.20谱面微调",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/267d815e-54a0-460d-807e-29efc407f62e",
+  "hidden": false,
   "id": 468,
   "illustration": "https://phira.5wyxi.com/files/1c10eef6-129d-4a09-b1c8-d671ad55d2bd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "sense",
   "preview": "https://phira.5wyxi.com/files/d689c913-3295-43e8-8139-e5c8e9b684cf",
   "ranked": true,
-  "rating": 0.8903995,
-  "ratingCount": 810,
+  "rating": 0.8907395,
+  "ratingCount": 816,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

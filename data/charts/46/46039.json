@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:33Z",
-    "lastChanged": "2026-09-21T02:06:33Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-29T08:34:22.264323Z",
   "charter": "黑呆毛毛猫",
@@ -14,6 +14,7 @@
   "description": "很不好玩，对不起，我不是很会写谱",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/ce046fe9-8023-4dda-9699-76886108f690",
+  "hidden": false,
   "id": 46039,
   "illustration": "https://phira.5wyxi.com/files/ec1ea3b8-66a8-4120-b1a7-cd8401ff5587",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "弦楽少女は諦めを知らずに",
   "preview": "https://phira.5wyxi.com/files/26e237d9-c114-49b4-956a-a315cd78785b",
   "ranked": false,
-  "rating": 0.9111196,
-  "ratingCount": 38,
+  "rating": 0.91318786,
+  "ratingCount": 39,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

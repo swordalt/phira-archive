@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:10Z",
-    "lastChanged": "2026-10-04T10:51:14Z",
-    "revisions": 2
+    "lastChanged": "2026-11-22T12:59:09Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-08-19T16:15:06.941711Z",
   "charter": "兵者鬥者皆陣列於途",
@@ -14,6 +14,7 @@
   "description": "音源出自\nPHIM 8th Within the light cone个人赛 \n决赛•败者组决赛 独占原创Point Track\n\n谱面制作请求已获得同意",
   "difficulty": 16.400002,
   "file": "https://phira.5wyxi.com/files/0acbaa63-6d7e-42a4-bffb-143e3a649d83",
+  "hidden": false,
   "id": 74467,
   "illustration": "https://phira.5wyxi.com/files/18a83613-8c7f-411d-abe3-476964a5a06e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "天演论",
   "preview": "https://phira.5wyxi.com/files/2d609f64-d864-4e53-a343-99291ff1680f",
   "ranked": false,
-  "rating": 0.906531,
-  "ratingCount": 360,
+  "rating": 0.9115386,
+  "ratingCount": 410,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

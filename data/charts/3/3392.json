@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:15Z",
-    "lastChanged": "2026-09-21T02:01:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-11T10:12:26.538922Z",
   "charter": "This Earth revolves around Hoyue",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 13.400002,
   "file": "https://phira.5wyxi.com/files/d5279190-62b0-4cd0-ba9d-5902f8a78669",
+  "hidden": false,
   "id": 3392,
   "illustration": "https://phira.5wyxi.com/files/88c82e9f-8d71-4b61-9030-10d120f52e60",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Eutopia",
   "preview": "https://phira.5wyxi.com/files/ff583ec3-9972-4b37-bb44-5a888426a2b8",
   "ranked": false,
-  "rating": 0.9231965,
-  "ratingCount": 1529,
+  "rating": 0.9229857,
+  "ratingCount": 1531,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

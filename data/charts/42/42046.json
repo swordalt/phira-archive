@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:30Z",
-    "lastChanged": "2026-09-21T02:03:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:54Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-18T11:51:05.644202Z",
   "charter": "我是准星之下",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.2,
   "file": "https://phira.5wyxi.com/files/bd3b42ff-422e-4659-b2de-f727e3ed47ab",
+  "hidden": false,
   "id": 42046,
   "illustration": "https://phira.5wyxi.com/files/5769ba9a-2a7e-435c-8055-3681aaa2bd44",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Broken Conviction",
   "preview": "https://phira.5wyxi.com/files/a664c37f-a2bc-499e-b8d5-35ff6837b689",
   "ranked": false,
-  "rating": 0.70705944,
-  "ratingCount": 64,
+  "rating": 0.7158093,
+  "ratingCount": 65,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

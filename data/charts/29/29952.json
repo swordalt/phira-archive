@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:26Z",
-    "lastChanged": "2026-09-21T02:05:26Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:47Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-22T14:07:46.407028Z",
   "charter": "o1b",
@@ -14,6 +14,7 @@
   "description": "b站@欧一biang吔，BV1P7UDYLEyn，第一次写这么大的故事板自制，不熟悉，请见谅",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/7fc20119-1e5f-44d2-817b-266f12838904",
+  "hidden": false,
   "id": 29952,
   "illustration": "https://phira.5wyxi.com/files/933ad9bf-502b-45c9-ba76-d570fa931ace",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Extra Stage (Octopus Dance)",
   "preview": "https://phira.5wyxi.com/files/17e0e683-295f-4ac2-9c7d-4c3cc0b86b67",
   "ranked": false,
-  "rating": 0.91979253,
-  "ratingCount": 29,
+  "rating": 0.9221373,
+  "ratingCount": 30,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

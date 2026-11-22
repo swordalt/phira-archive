@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:11Z",
-    "lastChanged": "2026-09-21T02:03:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-09T16:22:28.720242Z",
   "charter": "Arcade Sc_Ar vs. ViruZ CatFish",
@@ -14,6 +14,7 @@
   "description": "没想到吧我还有存货。\n谱师【@喵猫鱼 @HERO-科艺P】",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/2de524d5-e374-44b1-8db3-ab55b4627066",
+  "hidden": false,
   "id": 36379,
   "illustration": "https://phira.5wyxi.com/files/3a11f691-2501-4e5a-b3a8-86ddf8ab82b6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Arcade ViruZ",
   "preview": "https://phira.5wyxi.com/files/6c0841c1-9674-46eb-82e9-0601ecfec3b9",
   "ranked": false,
-  "rating": 0.8691296,
-  "ratingCount": 104,
+  "rating": 0.86991876,
+  "ratingCount": 105,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

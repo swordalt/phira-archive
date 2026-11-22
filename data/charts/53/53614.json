@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:46Z",
-    "lastChanged": "2026-09-21T02:06:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-28T13:14:57.271916Z",
   "charter": "CrcrAOSy vs. FireMagic",
@@ -14,6 +14,7 @@
   "description": "6h速写谱 难度α中位的标准切 Drag占比428/1888 感谢游玩喵",
   "difficulty": 11.5,
   "file": "https://phira.5wyxi.com/files/24e1e2a9-9c77-4d62-8ab3-bc3edd5ff697",
+  "hidden": false,
   "id": 53614,
   "illustration": "https://phira.5wyxi.com/files/c093bf35-740d-4561-a359-a32981de7913",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Collapse of Ego",
   "preview": "https://phira.5wyxi.com/files/a71c6497-1d89-4805-b46e-45e073ef730e",
   "ranked": false,
-  "rating": 0.94699943,
-  "ratingCount": 167,
+  "rating": 0.9491448,
+  "ratingCount": 178,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

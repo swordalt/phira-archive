@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:43Z",
-    "lastChanged": "2026-09-21T02:03:43Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-29T07:11:36.896164Z",
   "charter": "Xiechar",
@@ -14,6 +14,7 @@
   "description": "改了黄夹红红键判定问题\n二次更新：\n修改了尾杀黄键绑线角度错误的问题\n\n",
   "difficulty": 15.5,
   "file": "https://phira.5wyxi.com/files/230ed551-f808-4c0a-ac95-be4583169d52",
+  "hidden": false,
   "id": 45298,
   "illustration": "https://phira.5wyxi.com/files/8c8ecbc0-c949-475b-8417-e842980a1c14",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "GALATIC WARZONE",
   "preview": "https://phira.5wyxi.com/files/3415cae8-3fe5-41ec-8c4c-f1966788d742",
   "ranked": false,
-  "rating": 0.82747376,
+  "rating": 0.8242597,
   "ratingCount": 60,
   "reviewed": true,
   "stable": false,

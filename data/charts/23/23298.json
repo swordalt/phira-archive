@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T02:07:06Z",
-    "lastChanged": "2026-09-21T02:07:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-12T13:27:06.606136Z",
   "charter": "Finlly",
@@ -14,6 +14,7 @@
   "description": "延迟是50啊啊啊啊啊啊啊啊啊",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/7cd439b7-63d7-47a8-ac40-eec1500ba298",
+  "hidden": false,
   "id": 23298,
   "illustration": "https://phira.5wyxi.com/files/a822ea64-f18e-4cfb-862d-c1b7afa061f2",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Inverted World",
   "preview": "https://phira.5wyxi.com/files/7be1c9ec-9244-481b-9b44-4477d41c1473",
   "ranked": false,
-  "rating": 0.89668816,
-  "ratingCount": 305,
+  "rating": 0.8987005,
+  "ratingCount": 311,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

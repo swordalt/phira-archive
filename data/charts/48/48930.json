@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:02Z",
-    "lastChanged": "2026-09-21T02:04:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:50Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-09T07:29:24.268681Z",
   "charter": "Luminous 6122",
@@ -14,6 +14,7 @@
   "description": "请输入文字",
   "difficulty": 16.800003,
   "file": "https://phira.5wyxi.com/files/01bc93a6-3352-4d5b-9404-a92bb35547d7",
+  "hidden": false,
   "id": 48930,
   "illustration": "https://phira.5wyxi.com/files/095ea04a-d8a1-4df2-8638-35c474e7ec0b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Luminous Entities Lost Heart",
   "preview": "https://phira.5wyxi.com/files/c100bac1-57ef-41c3-9efd-e6b5735434cf",
   "ranked": false,
-  "rating": 0.9456819,
-  "ratingCount": 646,
+  "rating": 0.9445214,
+  "ratingCount": 671,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

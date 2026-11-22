@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:19Z",
-    "lastChanged": "2026-09-21T02:03:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-22T06:16:19.279472Z",
   "charter": "LIFEhope",
@@ -14,6 +14,7 @@
   "description": "我们喜欢点滑的人是这样的\nshader写了但是不放因为带不动",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/974f7163-997e-4f6b-8d9d-e7ba0a8ec762",
+  "hidden": false,
   "id": 38452,
   "illustration": "https://phira.5wyxi.com/files/d45bf102-e2b6-4631-a92b-c3016afbf0d5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "FACE",
   "preview": "https://phira.5wyxi.com/files/ebbdbc1f-6ccb-4d3b-bde5-4bcb6cf93445",
   "ranked": false,
-  "rating": 0.8730104,
-  "ratingCount": 70,
+  "rating": 0.87473714,
+  "ratingCount": 71,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

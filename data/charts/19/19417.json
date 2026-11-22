@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:11Z",
-    "lastChanged": "2026-09-21T02:02:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:10Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-05-04T15:40:55.697508Z",
   "charter": "尽量不鸽的乐平鸽鸽",
@@ -14,6 +14,7 @@
   "description": "是我本人写的，b站名字：尽量不鸽的乐平鸽鸽。视频会在5.4的12.30分左右发布",
   "difficulty": 3.0,
   "file": "https://phira.5wyxi.com/files/880ba201-7e44-4936-804c-aa218131d083",
+  "hidden": false,
   "id": 19417,
   "illustration": "https://phira.5wyxi.com/files/0a2d7eab-35f4-4158-9808-fb536c2081ff",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "沃玛的生活のED",
   "preview": "https://phira.5wyxi.com/files/9665f4dd-15df-4ff9-86d3-fa3330550af2",
   "ranked": false,
-  "rating": 0.85390145,
-  "ratingCount": 2131,
+  "rating": 0.8541061,
+  "ratingCount": 2159,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

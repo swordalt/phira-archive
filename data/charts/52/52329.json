@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:19Z",
-    "lastChanged": "2026-09-21T02:04:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-20T11:32:49.553760Z",
   "charter": "咕咕鸽子",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 16.1,
   "file": "https://phira.5wyxi.com/files/8f999529-2815-4fef-8023-c876ef98cc95",
+  "hidden": false,
   "id": 52329,
   "illustration": "https://phira.5wyxi.com/files/b364616f-76e3-4bfc-870d-2b8c25df8f3f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Re:Sin",
   "preview": "https://phira.5wyxi.com/files/97ad0954-9560-4df1-800a-8f9599f315e6",
   "ranked": false,
-  "rating": 0.9338157,
-  "ratingCount": 223,
+  "rating": 0.9335888,
+  "ratingCount": 224,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

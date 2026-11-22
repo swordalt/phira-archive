@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:05Z",
-    "lastChanged": "2026-09-21T02:03:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-23T02:50:25.450115Z",
   "charter": "liupoi",
@@ -14,6 +14,7 @@
   "description": "舞萌痴笑传phigros吃吃错位",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/6b185452-982e-4a19-bed0-70d298aa0993",
+  "hidden": false,
   "id": 34373,
   "illustration": "https://phira.5wyxi.com/files/627baf12-6564-4d1c-9fad-d6f3aab6d82a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ウミユリ海底譚",
   "preview": "https://phira.5wyxi.com/files/e94ce7bb-fd66-4f10-bdee-d39029c43979",
   "ranked": false,
-  "rating": 0.9118271,
-  "ratingCount": 1067,
+  "rating": 0.9123953,
+  "ratingCount": 1135,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

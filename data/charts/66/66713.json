@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:59Z",
-    "lastChanged": "2026-09-21T02:04:59Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:43Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-15T09:15:12.914262Z",
   "charter": "LIN",
@@ -14,6 +14,7 @@
   "description": "请输入文本",
   "difficulty": 9.0,
   "file": "https://phira.5wyxi.com/files/b370ad19-5ca3-4c6a-bc1d-98a2d620f77c",
+  "hidden": false,
   "id": 66713,
   "illustration": "https://phira.5wyxi.com/files/819f950b-7e1c-4e7a-9570-1c400e7f8244",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "鬼",
   "preview": "https://phira.5wyxi.com/files/1730be05-31d4-43a2-bff5-7df9d74d90b8",
   "ranked": false,
-  "rating": 0.786769,
-  "ratingCount": 46,
+  "rating": 0.81906897,
+  "ratingCount": 130,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:03Z",
-    "lastChanged": "2026-09-21T02:05:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-27T13:06:45.180351Z",
   "charter": "Smurf__",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/1b4b6fd6-1721-4528-a446-950b346b1703",
+  "hidden": false,
   "id": 69530,
   "illustration": "https://phira.5wyxi.com/files/73e98c79-ec28-4c24-87f3-1c51e66e40c9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Poison (Live Edit)",
   "preview": "https://phira.5wyxi.com/files/e3a3d534-372d-4366-8ad0-4509f5a530df",
   "ranked": false,
-  "rating": 0.9527762,
-  "ratingCount": 77,
+  "rating": 0.9522427,
+  "ratingCount": 79,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

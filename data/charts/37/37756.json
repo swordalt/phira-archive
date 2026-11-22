@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:14Z",
-    "lastChanged": "2026-09-21T02:06:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-07T04:31:07.538640Z",
   "charter": "法兰索瓦Fransois",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/39186bf7-5e90-4b5d-a188-2d726c4a5ee6",
+  "hidden": false,
   "id": 37756,
   "illustration": "https://phira.5wyxi.com/files/6737526e-dfcc-4df4-88a2-943bac624181",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "サカサカバンバンバスピスピス",
   "preview": "https://phira.5wyxi.com/files/0719f714-92a5-4e8a-a8fd-ac3b5bcd1cda",
   "ranked": false,
-  "rating": 0.9282317,
-  "ratingCount": 90,
+  "rating": 0.9294528,
+  "ratingCount": 93,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

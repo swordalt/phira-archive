@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:02Z",
-    "lastChanged": "2026-09-21T02:05:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-23T16:07:27.487636Z",
   "charter": "sqg_6",
@@ -14,6 +14,7 @@
   "description": "新人初谱，b站同名，感谢游玩。\n感谢b站@TG铁锅炖大鹅开发出了tpe，让我有机会完成这张谱面。",
   "difficulty": 15.099998,
   "file": "https://phira.5wyxi.com/files/432d5f4c-2c28-411f-9d96-12ec3b6ef465",
+  "hidden": false,
   "id": 68743,
   "illustration": "https://phira.5wyxi.com/files/b7a9976c-72a6-4371-bdab-f427967c2f87",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Bio Lab",
   "preview": "https://phira.5wyxi.com/files/d6d47826-bdd3-4e96-9acb-87c85f1ad3d1",
   "ranked": false,
-  "rating": 0.86683506,
-  "ratingCount": 210,
+  "rating": 0.8702028,
+  "ratingCount": 223,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

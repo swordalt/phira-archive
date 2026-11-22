@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:12Z",
-    "lastChanged": "2026-09-21T02:06:12Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:21Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-19T13:47:44.113705Z",
   "charter": "薄海芝椿",
@@ -14,6 +14,7 @@
   "description": "原神可莉角色演示背景音乐",
   "difficulty": 10.000004,
   "file": "https://phira.5wyxi.com/files/23f8610f-5855-4864-8236-8906ff29ca43",
+  "hidden": false,
   "id": 36760,
   "illustration": "https://phira.5wyxi.com/files/0905e212-0443-4428-bc79-376572362bef",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "真红骑士，出发！",
   "preview": "https://phira.5wyxi.com/files/f21dcbde-9c75-4a16-a20e-eca331ea40f0",
   "ranked": false,
-  "rating": 0.9502616,
-  "ratingCount": 132,
+  "rating": 0.9490524,
+  "ratingCount": 138,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

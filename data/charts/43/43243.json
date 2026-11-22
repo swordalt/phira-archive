@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:27Z",
-    "lastChanged": "2026-09-21T02:06:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-31T09:21:53.458939Z",
   "charter": "cislUner",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 18.0,
   "file": "https://phira.5wyxi.com/files/0e80998a-8179-4515-8bb2-34928609e69d",
+  "hidden": false,
   "id": 43243,
   "illustration": "https://phira.5wyxi.com/files/8d3ed919-4387-4921-a224-70709af9542e",
   "illustrator": "",

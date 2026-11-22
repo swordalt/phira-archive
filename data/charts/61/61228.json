@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:54Z",
-    "lastChanged": "2026-09-21T02:06:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-18T04:51:52.451509Z",
   "charter": "Qx625",
@@ -14,6 +14,7 @@
   "description": "b站Qx625，谱师本人上传，求过审",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/3c1119b0-5f38-43c8-8d9e-8d2c6ca941db",
+  "hidden": false,
   "id": 61228,
   "illustration": "https://phira.5wyxi.com/files/fb4e7073-7cf5-46d7-aced-ec9c01bd689b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "霹靂神ソフトウェア",
   "preview": "https://phira.5wyxi.com/files/0b9f87a7-696e-41f3-a1b6-27221abe2c80",
   "ranked": false,
-  "rating": 0.9562435,
-  "ratingCount": 73,
+  "rating": 0.9622478,
+  "ratingCount": 89,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

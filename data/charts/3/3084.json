@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-07T00:39:29.665896Z",
   "charter": "Dusk",
@@ -14,6 +14,7 @@
   "description": "",
   "difficulty": 15.200001,
   "file": "https://phira.5wyxi.com/files/16d188da-57f1-4f35-8770-fd4a7d0e4462",
+  "hidden": false,
   "id": 3084,
   "illustration": "https://phira.5wyxi.com/files/afd2b1ba-4b33-4856-8267-21a87672f3e1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Gamol Hundgēar",
   "preview": "https://phira.5wyxi.com/files/c34b4017-5fb5-4818-88dc-1d125a37a621",
   "ranked": false,
-  "rating": 0.86518306,
-  "ratingCount": 853,
+  "rating": 0.8643241,
+  "ratingCount": 856,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

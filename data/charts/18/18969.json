@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:10Z",
-    "lastChanged": "2026-09-21T02:02:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:06Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-27T13:12:48.568792Z",
   "charter": "语言过稽",
@@ -14,6 +14,7 @@
   "description": "已经修改谱面bug",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/e0a7e02e-1bb9-4e6e-9371-725c2bd54d32",
+  "hidden": false,
   "id": 18969,
   "illustration": "https://phira.5wyxi.com/files/113411e7-2f11-42e3-b23d-c92639c6bf7f",
   "illustrator": "",

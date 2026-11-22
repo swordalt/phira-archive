@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:15Z",
-    "lastChanged": "2026-09-21T02:03:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-04-29T15:53:05.012314Z",
   "charter": "鱼猫",
@@ -14,6 +14,7 @@
   "description": "新人初谱，有很不足之处，还望各位海涵，祝各位玩的开心",
   "difficulty": 15.100004,
   "file": "https://phira.5wyxi.com/files/958851a1-20d1-4cda-aa8a-9887cc29fc69",
+  "hidden": false,
   "id": 37101,
   "illustration": "https://phira.5wyxi.com/files/63eb2d35-255c-4a3a-ab2f-1edb0e40975d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "权御天下",
   "preview": "https://phira.5wyxi.com/files/316c698b-06b4-457d-86cc-196d5cdc91bc",
   "ranked": false,
-  "rating": 0.92219347,
-  "ratingCount": 751,
+  "rating": 0.920945,
+  "ratingCount": 814,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

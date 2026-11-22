@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:15Z",
-    "lastChanged": "2026-09-21T02:01:15Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:18Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-11T18:30:20.318588Z",
   "charter": "sasakywy.FBK",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 15.800003,
   "file": "https://phira.5wyxi.com/files/6a53bd23-8325-4406-9e2d-e770f32cbf3b",
+  "hidden": false,
   "id": 3416,
   "illustration": "https://phira.5wyxi.com/files/58c16dbf-f025-41c9-bf41-d3ad91a33e80",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "KINGWORLD",
   "preview": "https://phira.5wyxi.com/files/12e83c86-f503-436d-be2b-b162821b2f1c",
   "ranked": false,
-  "rating": 0.902178,
-  "ratingCount": 610,
+  "rating": 0.9024462,
+  "ratingCount": 621,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

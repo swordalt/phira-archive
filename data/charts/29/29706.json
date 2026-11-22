@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:47Z",
-    "lastChanged": "2026-09-21T02:02:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-15T21:36:52.669233Z",
   "charter": "提魈魈",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.099999,
   "file": "https://phira.5wyxi.com/files/0e52a212-09c9-4d85-955d-35e07def389d",
+  "hidden": false,
   "id": 29706,
   "illustration": "https://phira.5wyxi.com/files/2289c963-0733-4084-b95f-6858079067ae",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "lonely",
   "preview": "https://phira.5wyxi.com/files/2e6837d1-ee36-4636-8576-8da6f0c8a525",
   "ranked": false,
-  "rating": 0.9409546,
-  "ratingCount": 32688,
+  "rating": 0.94003314,
+  "ratingCount": 36703,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

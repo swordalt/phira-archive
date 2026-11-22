@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:06Z",
-    "lastChanged": "2026-09-21T02:04:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-12-10T14:37:52.492469Z",
   "charter": "EON-FLIGHT",
@@ -14,6 +14,7 @@
   "description": "本人上传，1stPecJam参赛谱，谱面编号05",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/f1ca59c3-adf5-4797-9786-27b23dc467e5",
+  "hidden": false,
   "id": 50077,
   "illustration": "https://phira.5wyxi.com/files/34cae8d6-d311-496b-9cf1-b28fc99ab3ee",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Contemplation in Snow",
   "preview": "https://phira.5wyxi.com/files/85202dbf-d507-4810-b8bd-c7c3620e00fe",
   "ranked": false,
-  "rating": 0.90787745,
-  "ratingCount": 394,
+  "rating": 0.90778244,
+  "ratingCount": 404,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

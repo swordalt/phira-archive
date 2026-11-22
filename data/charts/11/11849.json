@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:38Z",
-    "lastChanged": "2026-09-21T02:05:38Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:08Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-11-30T03:12:07.371484Z",
   "charter": "Cyprium_29",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 16.299997,
   "file": "https://phira.5wyxi.com/files/b9921bcf-d1d6-4ab0-aa46-cb88d4a84012",
+  "hidden": false,
   "id": 11849,
   "illustration": "https://phira.5wyxi.com/files/f2717823-af88-4fdf-9b27-fa6abe94530f",
   "illustrator": "",

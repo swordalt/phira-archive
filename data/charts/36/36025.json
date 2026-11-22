@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:10Z",
-    "lastChanged": "2026-09-21T02:03:10Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:07Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-11T06:55:06.677084Z",
   "charter": "50 71",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/75ede3cd-f001-42bd-9e0a-3dbf75e8d825",
+  "hidden": false,
   "id": 36025,
   "illustration": "https://phira.5wyxi.com/files/bd246e08-317a-4436-98df-20144ad584f6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Lionheart",
   "preview": "https://phira.5wyxi.com/files/66088a40-30be-48ad-941c-97e22cc5025d",
   "ranked": false,
-  "rating": 0.74307233,
-  "ratingCount": 26,
+  "rating": 0.7449313,
+  "ratingCount": 27,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

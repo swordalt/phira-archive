@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:48Z",
-    "lastChanged": "2026-09-21T02:01:48Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:28Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-01-13T04:28:42.882549Z",
   "charter": "t0_",
@@ -14,6 +14,7 @@
   "description": "【新人初谱】谱师本人上传，游玩offset=-305ms，b站：1262296756，此为4次修改版本",
   "difficulty": 15.900001,
   "file": "https://phira.5wyxi.com/files/264f9155-b8b5-4a81-a8a7-33550f488a4a",
+  "hidden": false,
   "id": 13527,
   "illustration": "https://phira.5wyxi.com/files/5d41f6a6-8090-43d5-9424-86ed68652fb5",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "New Darling",
   "preview": "https://phira.5wyxi.com/files/469ea714-6302-4a1f-abac-5ef9fb60d799",
   "ranked": false,
-  "rating": 0.8730319,
-  "ratingCount": 511,
+  "rating": 0.87457365,
+  "ratingCount": 520,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

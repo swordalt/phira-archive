@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:27Z",
-    "lastChanged": "2026-09-21T02:02:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-13T05:18:36.946299Z",
   "charter": "AegleIyorit",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 12.999996,
   "file": "https://phira.5wyxi.com/files/8f956d88-4b31-4faa-9075-c944cc3e90b4",
+  "hidden": false,
   "id": 24442,
   "illustration": "https://phira.5wyxi.com/files/c6c16668-17c6-4ad6-8d23-895cbeebff01",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "『流星物语』",
   "preview": "https://phira.5wyxi.com/files/1ab2c0e1-7c5d-486b-a907-8848280112c5",
   "ranked": false,
-  "rating": 0.9591065,
-  "ratingCount": 2075,
+  "rating": 0.95948124,
+  "ratingCount": 2096,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

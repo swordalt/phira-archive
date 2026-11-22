@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:17Z",
-    "lastChanged": "2026-09-21T02:06:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:38Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-06-02T13:12:49.173999Z",
   "charter": "tzh654321",
@@ -14,6 +14,7 @@
   "description": "音骂来源BV1wt4y1Y7TV，谱面演示BV1zc7Tz2Ema",
   "difficulty": 16.600002,
   "file": "https://phira.5wyxi.com/files/49c80c2e-8098-4dfe-b6cd-8c0820ea3c37",
+  "hidden": false,
   "id": 39169,
   "illustration": "https://phira.5wyxi.com/files/ce0c6d5f-9a25-4471-84d3-0f36e6da5f15",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "parn打击乐的美食赛跑",
   "preview": "https://phira.5wyxi.com/files/cc42871f-400e-4dd2-87f3-03c8662e48cf",
   "ranked": false,
-  "rating": 0.8073735,
-  "ratingCount": 15,
+  "rating": 0.8400778,
+  "ratingCount": 18,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

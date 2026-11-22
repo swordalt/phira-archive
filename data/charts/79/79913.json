@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-15T09:48:12Z",
-    "lastChanged": "2026-11-09T17:23:59Z",
-    "revisions": 5
+    "lastChanged": "2026-11-22T12:59:24Z",
+    "revisions": 6
   },
   "chartUpdated": "2026-10-03T04:38:14.194042Z",
   "charter": "XXXX RUSH",
@@ -14,6 +14,7 @@
   "description": "0pj参赛谱三改\n删榜致歉\n感谢FM壹某和vex，以及0pj观众与评议给出的建议",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/0bc5b36c-fa7a-48d8-bb59-e118c13f61e8",
+  "hidden": false,
   "id": 79913,
   "illustration": "https://phira.5wyxi.com/files/f4ea977a-7924-42ff-96d1-0c22ae8d47b0",
   "illustrator": "Khronetic(Chloe modified)",
@@ -21,8 +22,8 @@
   "name": "ATLAS RUSH",
   "preview": "https://phira.5wyxi.com/files/5047e718-061c-4521-9670-23dfd18b8aa3",
   "ranked": false,
-  "rating": 0.9385466,
-  "ratingCount": 277,
+  "rating": 0.9403777,
+  "ratingCount": 361,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,

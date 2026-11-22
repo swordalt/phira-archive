@@ -4,8 +4,8 @@
       "visual"
     ],
     "firstSeen": "2026-09-21T01:59:46Z",
-    "lastChanged": "2026-09-21T01:59:46Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:03:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-16T15:04:31.292924Z",
   "charter": "duducat",
@@ -14,6 +14,7 @@
   "description": "Just a prototype, I don't take responsibility for any concerns while playing this chart                                                                     but seriously though, expect the full chart to be released later",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/96f114f5-686a-47e2-9644-7374c0e4717b",
+  "hidden": false,
   "id": 535,
   "illustration": "https://phira.5wyxi.com/files/a49deffb-e8cd-44ca-9508-ef37b07c6026",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "hot milk (prototype)",
   "preview": "https://phira.5wyxi.com/files/3dfd6982-0a5e-4621-8a17-4d6204d0d29f",
   "ranked": false,
-  "rating": 0.9088417,
-  "ratingCount": 290,
+  "rating": 0.90915483,
+  "ratingCount": 291,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

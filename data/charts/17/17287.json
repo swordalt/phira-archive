@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:04Z",
-    "lastChanged": "2026-09-21T02:02:04Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-03-19T07:03:15.862232Z",
   "charter": "F",
@@ -14,6 +14,7 @@
   "description": "｜b站@pH-Fuzw0lf本人上传，录制视频请@｜双指15。有奇异配置和部分初见杀。｜谱师已镜像收。｜制谱时间：17d｜有疑惑的地方可以来BV1Py421i74Y看看谱师手元",
   "difficulty": 15.700024,
   "file": "https://phira.5wyxi.com/files/63d5510c-69fb-444e-8758-cc2c643a2682",
+  "hidden": false,
   "id": 17287,
   "illustration": "https://phira.5wyxi.com/files/1546eb22-3c9c-4ec4-bc73-21568c83b81d",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "THE EARTH",
   "preview": "https://phira.5wyxi.com/files/d2bb40b9-5d76-4732-a53b-79c6b7284da4",
   "ranked": false,
-  "rating": 0.9045233,
+  "rating": 0.9031338,
   "ratingCount": 68,
   "reviewed": true,
   "stable": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:19Z",
-    "lastChanged": "2026-09-21T02:03:19Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:24Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-05-25T05:07:27.070838Z",
   "charter": "yinshan",
@@ -14,6 +14,7 @@
   "description": "b站隐山qwq\n暴力美学底力谱，定17是因为感觉比终梦难，其实定数是I7(¿)",
   "difficulty": 17.1,
   "file": "https://phira.5wyxi.com/files/f496e442-69a8-4c79-8ea8-aa3f16a35fc6",
+  "hidden": false,
   "id": 38674,
   "illustration": "https://phira.5wyxi.com/files/9adc0eec-88a0-46ca-b218-49dae8aa0347",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "QZKago Requiem",
   "preview": "https://phira.5wyxi.com/files/8c27c229-b10a-4bea-b372-27f4192afd99",
   "ranked": false,
-  "rating": 0.8685558,
-  "ratingCount": 250,
+  "rating": 0.86955696,
+  "ratingCount": 259,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

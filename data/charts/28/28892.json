@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:44Z",
-    "lastChanged": "2026-09-21T02:02:44Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:15Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-10-19T10:59:21.002490Z",
   "charter": "plosive",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/a22fbee0-4a48-4461-8f1e-459ec1577726",
+  "hidden": false,
   "id": 28892,
   "illustration": "https://phira.5wyxi.com/files/d94ead51-d443-40f1-bc95-a340aacbe0ba",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ツギハギスタッカート",
   "preview": "https://phira.5wyxi.com/files/c3195e78-b34d-4432-9dc7-fa4845d41fdd",
   "ranked": false,
-  "rating": 0.84875834,
-  "ratingCount": 204,
+  "rating": 0.84881836,
+  "ratingCount": 206,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:55Z",
-    "lastChanged": "2026-09-21T02:02:55Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-01-07T10:40:52.848323Z",
   "charter": "vapu_official ",
@@ -14,6 +14,7 @@
   "description": "b站关注vapu_official喵",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/660fefeb-6859-4e4e-90ff-7bff56881e19",
+  "hidden": false,
   "id": 31530,
   "illustration": "https://phira.5wyxi.com/files/d841ae36-e346-4366-9281-efdfa1291440",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "My Amazing World",
   "preview": "https://phira.5wyxi.com/files/924295a5-9cf0-4b55-b9bb-67ae8c3d1f35",
   "ranked": false,
-  "rating": 0.92282104,
-  "ratingCount": 147,
+  "rating": 0.9231879,
+  "ratingCount": 149,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

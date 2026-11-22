@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:27Z",
-    "lastChanged": "2026-09-21T02:03:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:55:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-07-05T13:20:59.020750Z",
   "charter": "抽疯的盐豆",
@@ -14,6 +14,7 @@
   "description": "bilibili抽疯的盐豆",
   "difficulty": 14.899999,
   "file": "https://phira.5wyxi.com/files/4d215aa1-ef8d-4064-81db-180a1d62dde4",
+  "hidden": false,
   "id": 40964,
   "illustration": "https://phira.5wyxi.com/files/53e5d3be-0166-4da8-91a7-d17626a8b664",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "LOCK ME UP",
   "preview": "https://phira.5wyxi.com/files/18422bc1-ebf3-452c-a66f-ed891520a9a3",
   "ranked": false,
-  "rating": 0.8234431,
-  "ratingCount": 92,
+  "rating": 0.82746875,
+  "ratingCount": 98,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:51Z",
-    "lastChanged": "2026-09-21T02:03:51Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:35Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-20T14:07:35.949561Z",
   "charter": "Neon Charting Team",
@@ -14,6 +14,7 @@
   "description": "本人谨代表neon charting team进行上传\n感谢所有帮助创作这张谱面的人",
   "difficulty": 17.7,
   "file": "https://phira.5wyxi.com/files/6d72788c-4f48-4e64-bb66-3a54930a689f",
+  "hidden": false,
   "id": 47001,
   "illustration": "https://phira.5wyxi.com/files/e606c00b-d751-4232-85fc-68ba6b20a9f6",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Submerged City",
   "preview": "https://phira.5wyxi.com/files/f548ca79-f77b-4301-8ae1-7edb761041a9",
   "ranked": false,
-  "rating": 0.93716335,
-  "ratingCount": 145,
+  "rating": 0.9381417,
+  "ratingCount": 150,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

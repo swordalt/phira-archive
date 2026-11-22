@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:34Z",
-    "lastChanged": "2026-09-21T02:05:34Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:00Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-19T06:00:41.036623Z",
   "charter": "Iblcya",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 11.0,
   "file": "https://phira.5wyxi.com/files/2495f8a5-8570-4ef5-ada2-b268a298442b",
+  "hidden": false,
   "id": 572,
   "illustration": "https://phira.5wyxi.com/files/72d4effc-0491-448b-bd0e-fc0eec5b1dab",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Star of Andromeda",
   "preview": "https://phira.5wyxi.com/files/ec852319-2674-43cf-afe4-82f445958a79",
   "ranked": false,
-  "rating": 0.8400799,
-  "ratingCount": 94,
+  "rating": 0.84336144,
+  "ratingCount": 96,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

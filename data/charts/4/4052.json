@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:17Z",
-    "lastChanged": "2026-09-21T02:01:17Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-25T00:12:43.561236Z",
   "charter": "Mau",
@@ -14,6 +14,7 @@
   "description": "第二张谱，b站:BV1GX4y1p7WS",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/04a82ef0-002e-4fb0-8b28-85e814fba5be",
+  "hidden": false,
   "id": 4052,
   "illustration": "https://phira.5wyxi.com/files/b4c34d34-d1cb-4610-8734-d5303cf8e3a8",
   "illustrator": "",

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:03Z",
-    "lastChanged": "2026-09-21T02:06:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:04Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-11-19T14:07:19.039378Z",
   "charter": "GT_Sakuya咲夜",
@@ -14,6 +14,7 @@
   "description": "新人第四张谱",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/a1dbf39b-76a8-46a4-8b04-b4d163b5b362",
+  "hidden": false,
   "id": 29899,
   "illustration": "https://phira.5wyxi.com/files/98131b16-f5d1-45ed-ad1f-8bef0da2284c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "幻影鬼魅(Please)",
   "preview": "https://phira.5wyxi.com/files/5f6b7dff-cfe5-4da3-9957-03f24152f90d",
   "ranked": false,
-  "rating": 0.9215684,
-  "ratingCount": 1161,
+  "rating": 0.9219529,
+  "ratingCount": 1177,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:32Z",
-    "lastChanged": "2026-09-21T02:05:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:56Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-24T07:29:48.192597Z",
   "charter": "SummmerSky",
@@ -14,6 +14,7 @@
   "description": "本人上传，新人初谱。本谱为Legacy还原向。由于第一次改谱并未上传，所以这是Phira上的第一版。",
   "difficulty": 15.500002,
   "file": "https://phira.5wyxi.com/files/3188a926-c492-418b-8f32-419570e50212",
+  "hidden": false,
   "id": 47150,
   "illustration": "https://phira.5wyxi.com/files/880ed2da-aa5e-4c0a-a02c-0abb6eff89a7",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Stasis",
   "preview": "https://phira.5wyxi.com/files/049a204e-a2ae-4c57-a210-0449b4e8718d",
   "ranked": false,
-  "rating": 0.7917596,
-  "ratingCount": 134,
+  "rating": 0.7894765,
+  "ratingCount": 139,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

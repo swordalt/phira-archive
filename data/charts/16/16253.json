@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:00Z",
-    "lastChanged": "2026-09-21T02:02:00Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-22T04:38:01.408784Z",
   "charter": "Anoxia&水的痕迹",
@@ -14,6 +14,7 @@
   "description": "对于无法满分情况已重新编写。",
   "difficulty": 12.0,
   "file": "https://phira.5wyxi.com/files/04eb1d50-6dfc-4f75-9003-4018f056eade",
+  "hidden": false,
   "id": 16253,
   "illustration": "https://phira.5wyxi.com/files/0b281d6e-047e-4435-a6b9-1608778727bc",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "离别开出花",
   "preview": "https://phira.5wyxi.com/files/11a71d07-ab6e-4f4c-8bcd-8857cba5588f",
   "ranked": false,
-  "rating": 0.9277556,
-  "ratingCount": 8978,
+  "rating": 0.9275478,
+  "ratingCount": 9260,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

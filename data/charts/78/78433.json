@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-10-02T09:39:21Z",
-    "lastChanged": "2026-10-11T11:05:32Z",
-    "revisions": 3
+    "lastChanged": "2026-11-22T12:59:20Z",
+    "revisions": 4
   },
   "chartUpdated": "2026-09-19T04:14:35.496154Z",
   "charter": "zhanwai",
@@ -14,6 +14,7 @@
   "description": "谱师B站ID:zhanwai                               \n因为初见威力似乎有点大，索性把tip加在谱面里面了",
   "difficulty": 15.900009,
   "file": "https://phira.5wyxi.com/files/cc737fef-b71a-46d6-805b-ce0fe75dbeb3",
+  "hidden": false,
   "id": 78433,
   "illustration": "https://phira.5wyxi.com/files/1f23ce0b-687e-455b-9451-048db0d0b4ca",
   "illustrator": "SEGA",
@@ -21,8 +22,8 @@
   "name": "Transcend Lights",
   "preview": "https://phira.5wyxi.com/files/f8b10a94-08d5-4700-ad08-31f0c68343b3",
   "ranked": false,
-  "rating": 0.89197683,
-  "ratingCount": 36,
+  "rating": 0.88313943,
+  "ratingCount": 51,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

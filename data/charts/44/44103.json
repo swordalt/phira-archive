@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:28Z",
-    "lastChanged": "2026-09-21T02:06:28Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:01:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-09T00:57:29.577133Z",
   "charter": "lyjiam",
@@ -14,6 +14,7 @@
   "description": "本人上传\n感谢你们的游玩！\n这是我在Phira上的第4张谱面，相较前几次更加注重情感的转变，希望你们喜欢！",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/92c6e640-f79f-479b-8675-376d9fcefbe9",
+  "hidden": false,
   "id": 44103,
   "illustration": "https://phira.5wyxi.com/files/f6a6c840-489f-425f-b51f-c77b693049be",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "雑踏、僕らの街",
   "preview": "https://phira.5wyxi.com/files/7b208dd9-a410-4ac8-9790-c5cd46a48847",
   "ranked": false,
-  "rating": 0.9459795,
-  "ratingCount": 381,
+  "rating": 0.94792485,
+  "ratingCount": 397,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

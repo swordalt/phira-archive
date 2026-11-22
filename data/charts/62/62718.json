@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:56Z",
-    "lastChanged": "2026-09-21T02:06:56Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:53Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-27T06:55:07.055646Z",
   "charter": "7",
@@ -14,6 +14,7 @@
   "description": "新人初谱，Blophy官方谱师，B站搜索水汽7喵，无重名，请多多支持喵，因为上传谱面原曲绘有问题，因此自己画了一个，有点丑，能看就行()\n(此曲剪辑通过wildcanyon完成)",
   "difficulty": 16.700003,
   "file": "https://phira.5wyxi.com/files/997c8843-ac8e-4343-a29f-c1b720e97587",
+  "hidden": false,
   "id": 62718,
   "illustration": "https://phira.5wyxi.com/files/0e3b7743-8e1d-4e40-983a-197309752527",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Battle R41D",
   "preview": "https://phira.5wyxi.com/files/3954a443-3841-43cf-8bde-5dc3a342460f",
   "ranked": false,
-  "rating": 0.9175632,
-  "ratingCount": 450,
+  "rating": 0.91977924,
+  "ratingCount": 493,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

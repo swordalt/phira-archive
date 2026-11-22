@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:27Z",
-    "lastChanged": "2026-09-21T02:02:27Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:40Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-28T18:01:56.059879Z",
   "charter": "Unpaid_Employee",
@@ -14,6 +14,7 @@
   "description": "譜師本人",
   "difficulty": 16.300001,
   "file": "https://phira.5wyxi.com/files/c25d18bc-095f-4f60-9d1b-085ae1e07d01",
+  "hidden": false,
   "id": 24613,
   "illustration": "https://phira.5wyxi.com/files/306bee76-9d57-4d1a-a34e-048d4126931d",
   "illustrator": "",

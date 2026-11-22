@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:30Z",
-    "lastChanged": "2026-09-21T02:01:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-09-23T14:26:15.775767Z",
   "charter": "SrY-ABYSS",
@@ -14,6 +14,7 @@
   "description": "音乐来自游戏《崩坏：星穹铁道》\n第一次修改\n视频BV号BV1Gu411N7RE\n有什么问题可以评论，以后会改",
   "difficulty": 14.9000025,
   "file": "https://phira.5wyxi.com/files/5ec74ef3-df47-4a04-8b60-bd0f9b5fc941",
+  "hidden": false,
   "id": 8842,
   "illustration": "https://phira.5wyxi.com/files/7280c52c-b83f-4ca4-9186-b63acc7bebb1",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "野火 Wildfire",
   "preview": "https://phira.5wyxi.com/files/f8ed2c89-8a18-4ddf-8c11-b0cc0c51d627",
   "ranked": false,
-  "rating": 0.95022345,
-  "ratingCount": 21837,
+  "rating": 0.9501042,
+  "ratingCount": 22175,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

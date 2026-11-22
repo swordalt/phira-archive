@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:58Z",
-    "lastChanged": "2026-09-21T02:05:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:51Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-10T15:50:17.671416Z",
   "charter": "XTreme vs. Quillius",
@@ -14,6 +14,7 @@
   "description": "bilibili:@XTreme_exe @Quillius\nBPM:217.7 \nJumpStream+JumpJack",
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/f6756625-de47-47ed-80a7-b7b3947a2be1",
+  "hidden": false,
   "id": 25916,
   "illustration": "https://phira.5wyxi.com/files/5c40f56b-42fe-484b-9ba7-b98fcc3a0c49",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "BURST LINKER×1.14",
   "preview": "https://phira.5wyxi.com/files/ab34aab5-0d88-4bad-8cf7-93cf3e62f374",
   "ranked": false,
-  "rating": 0.9661791,
-  "ratingCount": 521,
+  "rating": 0.9667534,
+  "ratingCount": 556,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

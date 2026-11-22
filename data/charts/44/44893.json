@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:30Z",
-    "lastChanged": "2026-09-21T02:06:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:03Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-08-16T15:43:20.582081Z",
   "charter": "Grace",
@@ -14,6 +14,7 @@
   "description": "本人上传",
   "difficulty": 16.5,
   "file": "https://phira.5wyxi.com/files/5f0a4b9f-81f0-4020-9470-43335ca238f9",
+  "hidden": false,
   "id": 44893,
   "illustration": "https://phira.5wyxi.com/files/e805538d-eba0-4efd-b80e-4056608e1778",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Absolute Queen",
   "preview": "https://phira.5wyxi.com/files/0c20ceae-f3ab-41d2-ac35-f93cfcc75240",
   "ranked": false,
-  "rating": 0.9260787,
-  "ratingCount": 206,
+  "rating": 0.9266647,
+  "ratingCount": 209,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:05:02Z",
-    "lastChanged": "2026-09-21T02:05:02Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:58:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-07-24T08:24:35.067080Z",
   "charter": "星星野日向日",
@@ -14,6 +14,7 @@
   "description": "谱面由谱师本人（日向666）上传\n曲子已获得曲师本人同意",
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/cd5ab051-3d48-4630-a362-08f11bee20dc",
+  "hidden": false,
   "id": 68862,
   "illustration": "https://phira.5wyxi.com/files/e8961f25-24e0-4874-bb6e-0813670e4379",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "咕咕嘎嘟噜嘟",
   "preview": "https://phira.5wyxi.com/files/932465d4-9620-493e-b771-4fecc0e2c110",
   "ranked": false,
-  "rating": 0.7987694,
-  "ratingCount": 330,
+  "rating": 0.7938047,
+  "ratingCount": 355,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

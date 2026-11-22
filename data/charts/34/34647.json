@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:06Z",
-    "lastChanged": "2026-09-21T02:03:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:58Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-03-01T07:46:52.898189Z",
   "charter": "I'll be your...",
@@ -14,6 +14,7 @@
   "description": "b站@Xsxfans，求锐评。",
   "difficulty": 14.900001,
   "file": "https://phira.5wyxi.com/files/840527cb-a5d1-41d3-8e95-7dfb2b0497d6",
+  "hidden": false,
   "id": 34647,
   "illustration": "https://phira.5wyxi.com/files/7c84afcd-6284-4c7a-9673-8bd4dd96598c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Mazy Metroplex",
   "preview": "https://phira.5wyxi.com/files/cc2c0b7e-442b-4372-8b01-708852b4e52f",
   "ranked": false,
-  "rating": 0.8952847,
-  "ratingCount": 46,
+  "rating": 0.89735776,
+  "ratingCount": 47,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

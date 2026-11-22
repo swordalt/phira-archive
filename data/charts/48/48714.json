@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:01Z",
-    "lastChanged": "2026-09-21T02:04:01Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:48Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-02T08:38:41.454294Z",
   "charter": "Lowiro616",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 10.0,
   "file": "https://phira.5wyxi.com/files/a3e87f18-f229-4e76-81c8-6fb5c68db1fc",
+  "hidden": false,
   "id": 48714,
   "illustration": "https://phira.5wyxi.com/files/5f0960c2-e278-4c64-aaa3-6a7d2bc7e44c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "∰∰∰∰∰∰∰∰∰∰",
   "preview": "https://phira.5wyxi.com/files/71814c6d-aa88-4c52-a396-ad05e89e9a00",
   "ranked": false,
-  "rating": 0.84725714,
-  "ratingCount": 26,
+  "rating": 0.861088,
+  "ratingCount": 29,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

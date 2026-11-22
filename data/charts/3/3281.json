@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:14Z",
-    "lastChanged": "2026-09-21T02:01:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:51:16Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-06-10T09:40:46.988878Z",
   "charter": "Reinvent DHua vs. 239",
@@ -14,6 +14,7 @@
   "description": "本人上传，修改了好几次，审核辛苦了）",
   "difficulty": 13.0,
   "file": "https://phira.5wyxi.com/files/2f9fd5d0-b79e-44db-b459-99e83d4ad97e",
+  "hidden": false,
   "id": 3281,
   "illustration": "https://phira.5wyxi.com/files/c40a85e9-f467-421c-af89-c6240d5c421d",
   "illustrator": "",
@@ -21,7 +22,7 @@
   "name": "Reinvent",
   "preview": "https://phira.5wyxi.com/files/2d000cb6-1654-411d-be24-43a5d1a50fb3",
   "ranked": true,
-  "rating": 0.92543167,
+  "rating": 0.9255271,
   "ratingCount": 632,
   "reviewed": true,
   "stable": false,

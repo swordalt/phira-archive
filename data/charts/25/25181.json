@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:29Z",
-    "lastChanged": "2026-09-21T02:02:29Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-03T14:56:59.922329Z",
   "charter": "WH_Constantinxx",
@@ -14,6 +14,7 @@
   "description": "2024星时杯S组决赛ST",
   "difficulty": 15.600002,
   "file": "https://phira.5wyxi.com/files/129f8750-e691-4ada-b156-ed2b1708993a",
+  "hidden": false,
   "id": 25181,
   "illustration": "https://phira.5wyxi.com/files/4558df86-ec33-480c-8c8b-66e5488bd1fd",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Empuxa",
   "preview": "https://phira.5wyxi.com/files/6a4bb8c5-bba1-4369-8537-641469178d75",
   "ranked": true,
-  "rating": 0.9270491,
-  "ratingCount": 1047,
+  "rating": 0.926467,
+  "ratingCount": 1057,
   "reviewed": true,
   "stable": true,
   "stableRequest": false,

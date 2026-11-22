@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:05Z",
-    "lastChanged": "2026-09-21T02:03:05Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:55Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-02-20T06:08:30.727620Z",
   "charter": "ちょこかすてら & ココアアイス",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 15.0,
   "file": "https://phira.5wyxi.com/files/5f9fe869-a16a-498f-bef0-349f9fffa420",
+  "hidden": false,
   "id": 34237,
   "illustration": "https://phira.5wyxi.com/files/824eccc6-b924-4b92-abd8-21b395885577",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "夢紡ぎのワンダラー",
   "preview": "https://phira.5wyxi.com/files/cc15541f-3e3d-4ed1-9470-12bb36d9e321",
   "ranked": false,
-  "rating": 0.9394504,
-  "ratingCount": 225,
+  "rating": 0.9399813,
+  "ratingCount": 227,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:06Z",
-    "lastChanged": "2026-09-21T02:01:06Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:50:59Z",
+    "revisions": 2
   },
   "chartUpdated": "2023-04-20T11:03:09.285925Z",
   "charter": "JMY",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/46145d53-c17b-415f-9ac7-f3d9aaf8fa5c",
+  "hidden": false,
   "id": 609,
   "illustration": "https://phira.5wyxi.com/files/4a1877b7-a3fc-40a1-a9a0-304beec6382b",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "R.I.P.",
   "preview": "https://phira.5wyxi.com/files/70287408-e619-48ea-bbe1-4ee3a4390f96",
   "ranked": false,
-  "rating": 0.9258484,
-  "ratingCount": 447,
+  "rating": 0.9259882,
+  "ratingCount": 468,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

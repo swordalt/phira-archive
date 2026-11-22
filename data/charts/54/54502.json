@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:30Z",
-    "lastChanged": "2026-09-21T02:04:30Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:42Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-03-22T14:34:22.515654Z",
   "charter": "我菠萝菠萝哒了",
@@ -14,6 +14,7 @@
   "description": "谱师本人上传",
   "difficulty": 14.799999,
   "file": "https://phira.5wyxi.com/files/cc63016b-27fb-447d-a9f0-f784bf1166c2",
+  "hidden": false,
   "id": 54502,
   "illustration": "https://phira.5wyxi.com/files/4a0f8712-8318-44d8-86a2-cd2d7c907f7a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Still Alive (feat. WaMi)",
   "preview": "https://phira.5wyxi.com/files/d7e9a68f-70cb-4fda-9d6f-3822d79f6219",
   "ranked": false,
-  "rating": 0.9065491,
-  "ratingCount": 174,
+  "rating": 0.9047998,
+  "ratingCount": 183,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:25Z",
-    "lastChanged": "2026-09-21T02:05:25Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-22T01:28:37.839168Z",
   "charter": "TerabyteE",
@@ -14,6 +14,7 @@
   "description": "B站@TerabyteE，本人原创，本人上传",
   "difficulty": 15.700003,
   "file": "https://phira.5wyxi.com/files/fc5cd089-2306-48b4-97db-180321a598e7",
+  "hidden": false,
   "id": 26703,
   "illustration": "https://phira.5wyxi.com/files/029e8197-232b-486c-ba77-02c5788ddeb4",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "FATE",
   "preview": "https://phira.5wyxi.com/files/7a333dda-9ca5-4680-a0fc-b50e95facdfa",
   "ranked": false,
-  "rating": 0.82978785,
-  "ratingCount": 230,
+  "rating": 0.8289854,
+  "ratingCount": 232,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

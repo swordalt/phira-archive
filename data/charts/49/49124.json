@@ -4,8 +4,8 @@
       "troll"
     ],
     "firstSeen": "2026-09-21T02:05:32Z",
-    "lastChanged": "2026-09-21T02:05:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:59:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-15T04:35:30.092171Z",
   "charter": "kekfoejflea",
@@ -14,6 +14,7 @@
   "description": "B站:北力压太王\n本人上传",
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/3bf23937-cf3a-4101-86a8-92ef8922de6b",
+  "hidden": false,
   "id": 49124,
   "illustration": "https://phira.5wyxi.com/files/d1858274-ae96-4432-aac4-bac7eedafd25",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "T氏の話を信じるな",
   "preview": "https://phira.5wyxi.com/files/ae94773f-c0f9-479d-9265-7806aeb8c0c3",
   "ranked": false,
-  "rating": 0.83227926,
-  "ratingCount": 1708,
+  "rating": 0.83251154,
+  "ratingCount": 1913,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

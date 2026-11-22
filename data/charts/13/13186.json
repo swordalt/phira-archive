@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:47Z",
-    "lastChanged": "2026-09-21T02:01:47Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:25Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-04-22T09:07:48.228108Z",
   "charter": "引羽小垚",
@@ -14,6 +14,7 @@
   "description": "这是我做的第六个自制谱，灵感来源于歌五Gewu的视频。当时再刷这个视频的时候，就想如果把这个视频做成一个谱会是怎么样的效果，于是就有这个谱的诞生。虽然没有完美还原，但也圆了我一个小心愿。希望大家喜欢这个作品！",
   "difficulty": 15.300005,
   "file": "https://phira.5wyxi.com/files/56f7156e-7df0-4b14-8922-4064555d5365",
+  "hidden": false,
   "id": 13186,
   "illustration": "https://phira.5wyxi.com/files/e23beb0b-25d2-49bf-a9bc-5f0358f0c37c",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ずるいよMagnetic today (好狡猾哦Magnetic today)",
   "preview": "https://phira.5wyxi.com/files/9e64763a-d4d0-4caf-bb69-b8e25c268cc4",
   "ranked": false,
-  "rating": 0.91061324,
-  "ratingCount": 300,
+  "rating": 0.91091067,
+  "ratingCount": 301,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

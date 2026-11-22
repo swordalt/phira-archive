@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:50Z",
-    "lastChanged": "2026-09-21T02:03:50Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:33Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-09-09T15:31:17.317453Z",
   "charter": "疯喆",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 20.0,
   "file": "https://phira.5wyxi.com/files/3163f017-6ac3-4cee-bea3-4dcc4474e1e9",
+  "hidden": false,
   "id": 46629,
   "illustration": "https://phira.5wyxi.com/files/2db906e1-05dd-4287-8056-fa1e17a5d29d",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "下个，路口，再见吧",
   "preview": "https://phira.5wyxi.com/files/e1ef207c-ef18-4c2e-a859-18fda8326694",
   "ranked": false,
-  "rating": 0.9169412,
-  "ratingCount": 8539,
+  "rating": 0.9162037,
+  "ratingCount": 9359,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

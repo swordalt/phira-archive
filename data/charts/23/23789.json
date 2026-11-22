@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:23Z",
-    "lastChanged": "2026-09-21T02:02:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:34Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-07-18T20:49:05.605891Z",
   "charter": "偲烏",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 13.800003,
   "file": "https://phira.5wyxi.com/files/ceea5584-4d9a-4914-866d-65a99f802dba",
+  "hidden": false,
   "id": 23789,
   "illustration": "https://phira.5wyxi.com/files/4de34e8b-7f28-4eb7-bd5a-adcea2812e86",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "B.O.S.S",
   "preview": "https://phira.5wyxi.com/files/d9223a9a-509b-4d88-96d5-e02e51fca0bb",
   "ranked": false,
-  "rating": 0.9012226,
-  "ratingCount": 146,
+  "rating": 0.90177715,
+  "ratingCount": 147,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

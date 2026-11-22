@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:03Z",
-    "lastChanged": "2026-09-21T02:04:03Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-11-16T08:13:19.007872Z",
   "charter": "_DESTRUCTION",
@@ -14,6 +14,7 @@
   "description": "本家最难写太简单了，故写个小键盘玩玩。\n游玩时请将延迟调至+55ms。\n谱师本人上传。\nBV11zC9BqEjE",
   "difficulty": 17.5,
   "file": "https://phira.5wyxi.com/files/c8fed80e-b714-456d-815a-bf200f0a2c85",
+  "hidden": false,
   "id": 49206,
   "illustration": "https://phira.5wyxi.com/files/c49cf8ba-382d-41df-8fb6-228f16145cf0",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Archidoxen",
   "preview": "https://phira.5wyxi.com/files/6dc96598-b937-453f-a069-484c4952a6ca",
   "ranked": false,
-  "rating": 0.7560933,
-  "ratingCount": 83,
+  "rating": 0.75759757,
+  "ratingCount": 94,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

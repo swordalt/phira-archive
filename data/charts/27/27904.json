@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:41Z",
-    "lastChanged": "2026-09-21T02:02:41Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:54:09Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-09-21T03:44:11.720497Z",
   "charter": "かをり&明雨",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/7bc57b69-7c89-4b11-9a8c-399f01c1a112",
+  "hidden": false,
   "id": 27904,
   "illustration": "https://phira.5wyxi.com/files/11b8b766-af18-4a0d-9073-8863cf81bac9",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "KICK BACK",
   "preview": "https://phira.5wyxi.com/files/7646342a-45fa-4e3c-a1bc-f25a803e291e",
   "ranked": false,
-  "rating": 0.90820646,
-  "ratingCount": 2015,
+  "rating": 0.9082646,
+  "ratingCount": 2098,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

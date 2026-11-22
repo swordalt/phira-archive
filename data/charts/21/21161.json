@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:02:16Z",
-    "lastChanged": "2026-09-21T02:02:16Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:53:22Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-06-11T03:40:10.538852Z",
   "charter": "母鸡",
@@ -14,6 +14,7 @@
   "description": "BV1M84y1y79o   谱师本人上传，此谱为重制版",
   "difficulty": 13.3,
   "file": "https://phira.5wyxi.com/files/be0dd7a0-549d-4c08-8168-b823bbb42d86",
+  "hidden": false,
   "id": 21161,
   "illustration": "https://phira.5wyxi.com/files/deff38db-3296-4a57-962d-022c551cfd5e",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Sky",
   "preview": "https://phira.5wyxi.com/files/7191d298-a132-48db-b6a3-0012ee7fa64e",
   "ranked": false,
-  "rating": 0.9248509,
-  "ratingCount": 398,
+  "rating": 0.9255665,
+  "ratingCount": 404,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

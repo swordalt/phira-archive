@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:05:57Z",
-    "lastChanged": "2026-09-21T02:05:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:00:49Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-08-05T03:10:49.207280Z",
   "charter": "天使祈夜",
@@ -14,6 +14,7 @@
   "description": "打到95ACC点击谱师主页加q给你神秘大礼包（）",
   "difficulty": 0.0,
   "file": "https://phira.5wyxi.com/files/8070accc-051e-440c-95f0-0fb897940d70",
+  "hidden": false,
   "id": 25312,
   "illustration": "https://phira.5wyxi.com/files/477c2f3c-2c49-400a-b05b-8a07c1470e28",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Angel Dust（2016 mix）",
   "preview": "https://phira.5wyxi.com/files/472f07ff-ce78-419c-81fb-743914a9fda6",
   "ranked": false,
-  "rating": 0.871323,
-  "ratingCount": 27,
+  "rating": 0.8663375,
+  "ratingCount": 30,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

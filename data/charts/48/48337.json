@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:03:58Z",
-    "lastChanged": "2026-09-21T02:03:58Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:56:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2025-10-24T10:54:11.998470Z",
   "charter": "オセア（Osea）",
@@ -14,6 +14,7 @@
   "description": null,
   "difficulty": 14.0,
   "file": "https://phira.5wyxi.com/files/fd94f1e1-1599-458f-b856-a68bc809da91",
+  "hidden": false,
   "id": 48337,
   "illustration": "https://phira.5wyxi.com/files/7e920494-9b2c-4d57-89fd-86e39a13d36a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Luminaria",
   "preview": "https://phira.5wyxi.com/files/2af92c12-9d14-4b75-9f43-34d49f23ada8",
   "ranked": false,
-  "rating": 0.8606275,
-  "ratingCount": 28,
+  "rating": 0.8761746,
+  "ratingCount": 32,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

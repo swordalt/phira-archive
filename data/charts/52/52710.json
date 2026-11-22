@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:04:21Z",
-    "lastChanged": "2026-09-21T02:04:21Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:57:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-15T08:25:02.401708Z",
   "charter": "St. fixed by 茶刻",
@@ -14,6 +14,7 @@
   "description": "本人上传。",
   "difficulty": 16.0,
   "file": "https://phira.5wyxi.com/files/5034927f-0c55-42bc-88bd-b5d052450296",
+  "hidden": false,
   "id": 52710,
   "illustration": "https://phira.5wyxi.com/files/81c8542e-5da8-4722-8c19-2444835c469a",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "Solace",
   "preview": "https://phira.5wyxi.com/files/abd90b30-f9fa-4d96-a66c-1cbe4be50ca0",
   "ranked": false,
-  "rating": 0.91630936,
-  "ratingCount": 78,
+  "rating": 0.91705453,
+  "ratingCount": 81,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

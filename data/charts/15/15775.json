@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-09-21T02:01:57Z",
-    "lastChanged": "2026-09-21T02:01:57Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T12:52:46Z",
+    "revisions": 2
   },
   "chartUpdated": "2024-02-15T16:36:59.051966Z",
   "charter": "6th Pecjam",
@@ -14,6 +14,7 @@
   "description": "审核留意：若有完全重复谱面请保留这一版        6th PecJam参赛作品 by ΓιοφΥ vs. ΣςηΧ",
   "difficulty": 14.999987,
   "file": "https://phira.5wyxi.com/files/15396a0c-ea6e-4423-b169-891a4c6c4001",
+  "hidden": false,
   "id": 15775,
   "illustration": "https://phira.5wyxi.com/files/c589ec84-1f41-47b9-a3d1-78cadc8a700f",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "ΤεμπεΣΤ",
   "preview": "https://phira.5wyxi.com/files/ac730e1b-d2bf-4550-8f07-7d1d099a9d27",
   "ranked": false,
-  "rating": 0.73878455,
-  "ratingCount": 135,
+  "rating": 0.7396412,
+  "ratingCount": 136,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,

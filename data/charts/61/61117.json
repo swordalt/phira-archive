@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-09-21T02:06:54Z",
-    "lastChanged": "2026-09-21T02:06:54Z",
-    "revisions": 1
+    "lastChanged": "2026-11-22T13:02:52Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-06-16T12:13:07.655145Z",
   "charter": "HRS-Team",
@@ -14,6 +14,7 @@
   "description": "HRS-Lv.6-Flow单曲",
   "difficulty": 6.1999993,
   "file": "https://phira.5wyxi.com/files/d3620977-e2ae-4459-b9e2-3db107d2d803",
+  "hidden": false,
   "id": 61117,
   "illustration": "https://phira.5wyxi.com/files/4435b775-a020-4d14-8f81-bd9693978860",
   "illustrator": "",
@@ -21,8 +22,8 @@
   "name": "メズマライザー",
   "preview": "https://phira.5wyxi.com/files/1bfc2b6a-9327-471e-9fbb-559e4a972e59",
   "ranked": false,
-  "rating": 0.908443,
-  "ratingCount": 5434,
+  "rating": 0.9082926,
+  "ratingCount": 5508,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
