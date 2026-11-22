@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-11-22T11:09:28Z",
+    "lastChanged": "2026-11-22T11:09:28Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-11-22T06:28:59.637272Z",
+  "charter": "輪廻のすみれの花。",
+  "composer": "ke-ji",
+  "created": "2026-11-22T06:28:59.637272Z",
+  "description": "本人上传",
+  "difficulty": 15.0,
+  "file": "https://phira.5wyxi.com/files/e33aa446-86a4-4da7-9b6e-c3041f626dca",
+  "hidden": false,
+  "id": 84840,
+  "illustration": "https://phira.5wyxi.com/files/8d450bbc-2a61-4ff4-bdca-770db593139c",
+  "illustrator": "オンゲキ",
+  "level": "IN Lv.15",
+  "name": "ゼーレンヴァンデルング",
+  "preview": "https://phira.5wyxi.com/files/9594c0ce-c679-4f1a-9526-a3dadf7f7575",
+  "ranked": false,
+  "rating": 0.8544268,
+  "ratingCount": 0,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-11-22T06:32:59.203785Z",
+  "uploader": 1701
+}

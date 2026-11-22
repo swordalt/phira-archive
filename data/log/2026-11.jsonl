@@ -411,3 +411,7 @@
 {"changed": ["updated"], "division": "regular", "event": "updated", "id": 67886, "ts": "2026-11-21T23:05:26Z"}
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 84517, "ts": "2026-11-21T23:05:29Z"}
 {"changed": ["reviewed", "stableRequest", "updated"], "division": "regular", "event": "updated", "id": 84721, "ts": "2026-11-22T03:03:31Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 84840, "ts": "2026-11-22T11:09:28Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 84705, "ts": "2026-11-22T11:09:28Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 84405, "ts": "2026-11-22T11:09:28Z"}
+{"changed": ["*new*"], "division": "plain", "event": "new", "id": 84778, "ts": "2026-11-22T11:09:37Z"}
