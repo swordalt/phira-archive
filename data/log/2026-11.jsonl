@@ -14208,3 +14208,7 @@
 {"changed": ["reviewed", "stableRequest", "updated"], "division": "regular", "event": "updated", "id": 84705, "ts": "2026-11-23T08:55:48Z"}
 {"changed": ["updated"], "division": "regular", "event": "updated", "id": 84405, "ts": "2026-11-23T08:55:48Z"}
 {"changed": ["chartUpdated", "file", "illustration", "illustrator", "preview", "reviewed", "stableRequest", "updated"], "division": "regular", "event": "updated", "id": 72026, "ts": "2026-11-23T08:55:49Z"}
+{"changed": ["*new*"], "division": "plain", "event": "new", "id": 84858, "ts": "2026-11-23T21:14:23Z"}
+{"changed": ["*new*"], "division": "plain", "event": "new", "id": 67712, "ts": "2026-11-23T21:14:24Z"}
+{"changed": ["*new*"], "division": "plain", "event": "new", "id": 75483, "ts": "2026-11-23T21:14:24Z"}
+{"changed": ["*new*"], "division": "plain", "event": "new", "id": 52487, "ts": "2026-11-23T21:14:24Z"}
