@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-22T11:09:28Z",
-    "lastChanged": "2026-11-22T12:59:33Z",
-    "revisions": 2
+    "lastChanged": "2026-11-23T08:55:48Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-11-21T10:00:56.169563Z",
   "charter": "Clovis & Lep",
@@ -22,14 +22,14 @@
   "name": "Cherry Candy",
   "preview": "https://phira.5wyxi.com/files/e709b3d8-a776-42ae-8964-5f2d620f7b08",
   "ranked": false,
-  "rating": 0.8912012,
-  "ratingCount": 0,
-  "reviewed": true,
+  "rating": 0.93290216,
+  "ratingCount": 71,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-22T10:10:55.161919728Z",
+  "updated": "2026-11-22T10:10:55.161919Z",
   "uploader": 496300
 }
