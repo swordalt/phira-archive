@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-24T05:56:20Z",
-    "lastChanged": "2026-11-24T05:56:20Z",
-    "revisions": 1
+    "lastChanged": "2026-11-24T17:31:41Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-22T11:38:18.885331Z",
   "charter": "Encly",
@@ -22,14 +22,14 @@
   "name": "高速素粒子衝突型加速器",
   "preview": "https://phira.5wyxi.com/files/ce5cdec7-d254-4a1a-a573-45fb9b41e3e5",
   "ranked": false,
-  "rating": 0.889727,
-  "ratingCount": 11,
+  "rating": 0.8992227,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-24T02:01:12.482776Z",
+  "updated": "2026-11-24T02:01:12.482776372Z",
   "uploader": 1925
 }

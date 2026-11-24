@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-11-24T17:31:41Z",
+    "lastChanged": "2026-11-24T17:31:41Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-11-24T15:15:00.286260Z",
+  "charter": "YSTAR-T",
+  "composer": "刘牧",
+  "created": "2026-11-24T15:15:00.286260Z",
+  "description": "谱师本人上传\r\nBPM 62.058(不稳定)\r\n物量 374\r\n定数 8.4",
+  "difficulty": 8.399994,
+  "file": "https://phira.5wyxi.com/files/92d5ca96-b737-4a90-b20d-2d556e088ee4",
+  "hidden": false,
+  "id": 85092,
+  "illustration": "https://phira.5wyxi.com/files/82ea630c-d6e4-49b4-bb97-4753d5fbc82b",
+  "illustrator": "刘牧",
+  "level": "IN Lv.8",
+  "name": "相思成语",
+  "preview": "https://phira.5wyxi.com/files/5bb8104e-a40b-4475-b053-62c21cf6f57b",
+  "ranked": false,
+  "rating": 0.8235892,
+  "ratingCount": 10,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-11-24T15:59:35.401037Z",
+  "uploader": 1213694
+}

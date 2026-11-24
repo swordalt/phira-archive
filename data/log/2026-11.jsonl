@@ -14217,3 +14217,7 @@
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 67712, "ts": "2026-11-24T05:56:27Z"}
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 75483, "ts": "2026-11-24T05:56:27Z"}
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 52487, "ts": "2026-11-24T05:56:27Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 85096, "ts": "2026-11-24T17:31:41Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 85092, "ts": "2026-11-24T17:31:41Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 84886, "ts": "2026-11-24T17:31:41Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 84292, "ts": "2026-11-24T17:31:42Z"}
