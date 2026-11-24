@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-11-23T21:14:24Z",
-    "lastChanged": "2026-11-23T21:14:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-24T05:56:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-24T14:26:11.996530Z",
   "charter": "wxy6669",
@@ -22,14 +22,14 @@
   "name": "TimeLeaper",
   "preview": "https://phira.5wyxi.com/files/6c1f7e55-8637-451c-97c3-1d911d27a1d1",
   "ranked": false,
-  "rating": 0.755949,
-  "ratingCount": 2,
+  "rating": 0.8155955,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "plain"
   ],
-  "updated": "2026-11-23T12:37:42.972445Z",
+  "updated": "2026-11-23T12:37:42.972445525Z",
   "uploader": 1269426
 }

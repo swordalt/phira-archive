@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-11-23T21:14:24Z",
-    "lastChanged": "2026-11-23T21:14:24Z",
-    "revisions": 1
+    "lastChanged": "2026-11-24T05:56:27Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-02-12T07:08:37.582787Z",
   "charter": "wxy6669",
@@ -22,14 +22,14 @@
   "name": "Orthodox",
   "preview": "https://phira.5wyxi.com/files/1a21d577-1169-42cc-801e-ebc5419a1095",
   "ranked": false,
-  "rating": 0.8478305,
-  "ratingCount": 6,
+  "rating": 0.8732863,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "plain"
   ],
-  "updated": "2026-11-23T12:27:35.224530Z",
+  "updated": "2026-11-23T12:27:35.224530355Z",
   "uploader": 1269426
 }

@@ -4,8 +4,8 @@
       "plain"
     ],
     "firstSeen": "2026-11-23T21:14:23Z",
-    "lastChanged": "2026-11-23T21:14:23Z",
-    "revisions": 1
+    "lastChanged": "2026-11-24T05:56:26Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-22T08:16:30.328482Z",
   "charter": "Kenari_15",
@@ -23,13 +23,13 @@
   "preview": "https://phira.5wyxi.com/files/24840565-47cf-4f0b-a95e-17a1200b9c53",
   "ranked": false,
   "rating": 0.7482895,
-  "ratingCount": 1,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "plain"
   ],
-  "updated": "2026-11-23T15:43:57.911420Z",
+  "updated": "2026-11-23T15:43:57.911420421Z",
   "uploader": 459003
 }
