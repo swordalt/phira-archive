@@ -1,0 +1,35 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-11-25T22:26:14Z",
+    "lastChanged": "2026-11-25T22:26:14Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-11-25T09:13:26.351976Z",
+  "charter": "HAIOU",
+  "composer": "Nothing But Requiem",
+  "created": "2026-11-25T09:13:26.351976Z",
+  "description": null,
+  "difficulty": 16.500002,
+  "file": "https://phira.5wyxi.com/files/2ff0c3fb-bef4-444d-82e2-1f44a4f4166a",
+  "hidden": false,
+  "id": 85129,
+  "illustration": "https://phira.5wyxi.com/files/412bbf9d-7976-47e0-8f1f-0036c87b417d",
+  "illustrator": "神居冰绘",
+  "level": "AT Lv.16",
+  "name": "La Fouldre",
+  "preview": "https://phira.5wyxi.com/files/e78ad180-b282-40e0-8e60-58dd2d85d1ab",
+  "ranked": false,
+  "rating": 0.8893156,
+  "ratingCount": 22,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-11-25T12:56:32.459332Z",
+  "uploader": 1684615
+}

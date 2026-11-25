@@ -4,32 +4,32 @@
       "regular"
     ],
     "firstSeen": "2026-11-12T18:50:11Z",
-    "lastChanged": "2026-11-15T16:59:36Z",
-    "revisions": 2
+    "lastChanged": "2026-11-25T22:26:15Z",
+    "revisions": 3
   },
-  "chartUpdated": "2026-11-12T14:42:14.528659Z",
+  "chartUpdated": "2026-11-25T14:49:59.812330566Z",
   "charter": "Flying to the Foreverest",
   "composer": "はるまきごはん",
   "created": "2026-11-12T14:42:14.528659Z",
   "description": "十一谱三难度企划之主难度，个人独作，同时也是给 有栖日和 生贺谱喵\n（更多内容详见B站",
   "difficulty": 14.400002,
-  "file": "https://phira.5wyxi.com/files/0db8cc92-e498-4057-8be3-8c3145b043f7",
+  "file": "https://phira.5wyxi.com/files/ffa77fda-6778-48a2-9df0-a6afcb354a57",
   "hidden": false,
   "id": 83693,
-  "illustration": "https://phira.5wyxi.com/files/fbc40d75-6a8e-466e-baa2-f19eb240cbd4",
+  "illustration": "https://phira.5wyxi.com/files/32da1be0-b1bb-4175-8ef8-a9f2ca145d9f",
   "illustrator": "はるまきごはん",
   "level": "IN  Lv.14",
   "name": "約束",
-  "preview": "https://phira.5wyxi.com/files/8ca77fb6-4d3c-4e1e-93e8-d12a450806e3",
+  "preview": "https://phira.5wyxi.com/files/f6550d81-3be4-43b7-af33-aa10c232cd51",
   "ranked": false,
-  "rating": 0.9230501,
-  "ratingCount": 150,
-  "reviewed": false,
+  "rating": 0.9246682,
+  "ratingCount": 237,
+  "reviewed": true,
   "stable": false,
   "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-12T15:37:08.065473Z",
+  "updated": "2026-11-25T14:49:59.812330566Z",
   "uploader": 436863
 }

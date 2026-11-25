@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-25T12:40:11Z",
-    "lastChanged": "2026-11-25T12:40:11Z",
-    "revisions": 1
+    "lastChanged": "2026-11-25T22:26:14Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-25T09:07:13.654093Z",
   "charter": "World End :魔王",
@@ -22,8 +22,8 @@
   "name": "World's end BLACKBOX",
   "preview": "https://phira.5wyxi.com/files/fa16a093-6db3-44be-a60d-42f1fcd765b6",
   "ranked": false,
-  "rating": 0.8550225,
-  "ratingCount": 11,
+  "rating": 0.85129976,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -35,6 +35,6 @@
     "底力",
     "regular"
   ],
-  "updated": "2026-11-25T10:06:58.785212Z",
+  "updated": "2026-11-25T10:06:58.785212676Z",
   "uploader": 474244
 }
