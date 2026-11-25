@@ -1,0 +1,40 @@
+{
+  "_archive": {
+    "divisions": [
+      "regular"
+    ],
+    "firstSeen": "2026-11-25T12:40:11Z",
+    "lastChanged": "2026-11-25T12:40:11Z",
+    "revisions": 1
+  },
+  "chartUpdated": "2026-11-25T09:07:13.654093Z",
+  "charter": "World End :魔王",
+  "composer": "打打だいず",
+  "created": "2026-11-25T09:07:13.654093Z",
+  "description": null,
+  "difficulty": 18.2,
+  "file": "https://phira.5wyxi.com/files/dc63fcbd-b19c-48f4-a1bf-77e7710edef8",
+  "hidden": false,
+  "id": 85127,
+  "illustration": "https://phira.5wyxi.com/files/0665bcd9-4f31-4a31-9ed8-7a88f6c0d978",
+  "illustrator": "World End :魔王",
+  "level": "AT Lv.18",
+  "name": "World's end BLACKBOX",
+  "preview": "https://phira.5wyxi.com/files/fa16a093-6db3-44be-a60d-42f1fcd765b6",
+  "ranked": false,
+  "rating": 0.8550225,
+  "ratingCount": 11,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "4k",
+    "5k",
+    "6k",
+    "无轨",
+    "底力",
+    "regular"
+  ],
+  "updated": "2026-11-25T10:06:58.785212Z",
+  "uploader": 474244
+}
