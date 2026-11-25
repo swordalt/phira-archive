@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-24T17:31:42Z",
-    "lastChanged": "2026-11-24T17:31:42Z",
-    "revisions": 1
+    "lastChanged": "2026-11-25T02:18:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-17T12:25:32.656340Z",
   "charter": "xingchen",
@@ -22,14 +22,14 @@
   "name": "Flash",
   "preview": "https://phira.5wyxi.com/files/d567da68-b365-40a6-a4d4-f7216a93271f",
   "ranked": false,
-  "rating": 0.8739909,
-  "ratingCount": 9,
+  "rating": 0.871159,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-24T14:20:23.616463Z",
+  "updated": "2026-11-24T14:20:23.616463310Z",
   "uploader": 1477842
 }
