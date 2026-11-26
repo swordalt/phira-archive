@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-26T15:01:35Z",
-    "lastChanged": "2026-11-26T15:01:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-26T23:45:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-16T12:10:25.228191Z",
   "charter": "舟漫、软雪Reaser",
@@ -22,14 +22,14 @@
   "name": "Lost ",
   "preview": "https://phira.5wyxi.com/files/2e344a19-6304-4ca2-8bc2-e40031e0869b",
   "ranked": false,
-  "rating": 0.9189559,
-  "ratingCount": 41,
+  "rating": 0.9181724,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-26T06:13:35.109535Z",
+  "updated": "2026-11-26T06:13:35.109535156Z",
   "uploader": 2156668
 }

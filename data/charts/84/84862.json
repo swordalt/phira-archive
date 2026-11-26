@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-26T15:01:32Z",
-    "lastChanged": "2026-11-26T15:01:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-26T23:45:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-22T08:30:41.884474Z",
   "charter": "Kinin",
@@ -22,14 +22,14 @@
   "name": "Luminaria",
   "preview": "https://phira.5wyxi.com/files/cff868e0-f43b-4ec9-bba9-82134fc9dc2b",
   "ranked": false,
-  "rating": 0.86642736,
-  "ratingCount": 25,
+  "rating": 0.8599185,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-26T06:12:46.629938Z",
+  "updated": "2026-11-26T06:12:46.629938556Z",
   "uploader": 682910
 }

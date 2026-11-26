@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-26T15:01:35Z",
-    "lastChanged": "2026-11-26T15:01:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-26T23:45:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-08-08T15:14:09.655915Z",
   "charter": "UNK_area",
@@ -22,14 +22,14 @@
   "name": "Day dreamer",
   "preview": "https://phira.5wyxi.com/files/594ed1ba-87cb-49b4-98df-1a9e150b687a",
   "ranked": false,
-  "rating": 0.8131623,
-  "ratingCount": 10,
+  "rating": 0.8417284,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-26T13:17:45.230624Z",
+  "updated": "2026-11-26T13:17:45.230624850Z",
   "uploader": 3669603
 }

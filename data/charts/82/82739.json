@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-26T15:01:35Z",
-    "lastChanged": "2026-11-26T15:01:35Z",
-    "revisions": 1
+    "lastChanged": "2026-11-26T23:45:45Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-01T02:09:26.096719Z",
   "charter": "研墨、软雪Reaser",
@@ -22,14 +22,14 @@
   "name": "雾里",
   "preview": "https://phira.5wyxi.com/files/5f9e5bbf-1de3-4320-9e3c-d58604e31230",
   "ranked": false,
-  "rating": 0.9114139,
-  "ratingCount": 232,
+  "rating": 0.91150564,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-26T06:14:17.493512Z",
+  "updated": "2026-11-26T06:14:17.493512723Z",
   "uploader": 2293172
 }

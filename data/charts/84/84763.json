@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-26T15:01:32Z",
-    "lastChanged": "2026-11-26T15:01:32Z",
-    "revisions": 1
+    "lastChanged": "2026-11-26T23:45:44Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-21T16:06:52.713908Z",
   "charter": "皮一下很开心awa",
@@ -22,8 +22,8 @@
   "name": "サイエンス (Science)",
   "preview": "https://phira.5wyxi.com/files/d0f5a120-0756-4638-9de3-bcb4eca3f73e",
   "ranked": false,
-  "rating": 0.9356231,
-  "ratingCount": 25,
+  "rating": 0.9111962,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -32,6 +32,6 @@
     "科学",
     "regular"
   ],
-  "updated": "2026-11-26T13:07:11.924304Z",
+  "updated": "2026-11-26T13:07:11.924304249Z",
   "uploader": 1083286
 }

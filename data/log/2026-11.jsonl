@@ -14244,3 +14244,10 @@
 {"changed": ["*new*"], "division": "regular", "event": "new", "id": 82739, "ts": "2026-11-26T15:01:35Z"}
 {"changed": ["*new*"], "division": "regular", "event": "new", "id": 84216, "ts": "2026-11-26T15:01:35Z"}
 {"changed": ["*new*"], "division": "plain", "event": "new", "id": 85004, "ts": "2026-11-26T15:01:41Z"}
+{"changed": ["chartUpdated", "description", "difficulty", "file", "illustration", "level", "preview", "updated"], "division": "regular", "event": "updated", "id": 85168, "ts": "2026-11-26T23:45:44Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 84862, "ts": "2026-11-26T23:45:44Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 84763, "ts": "2026-11-26T23:45:44Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 72137, "ts": "2026-11-26T23:45:45Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 82739, "ts": "2026-11-26T23:45:45Z"}
+{"changed": ["updated"], "division": "regular", "event": "updated", "id": 84216, "ts": "2026-11-26T23:45:45Z"}
+{"changed": ["updated"], "division": "plain", "event": "updated", "id": 85004, "ts": "2026-11-26T23:45:48Z"}
