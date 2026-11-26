@@ -4,8 +4,8 @@
       "regular"
     ],
     "firstSeen": "2026-11-25T22:26:14Z",
-    "lastChanged": "2026-11-25T22:26:14Z",
-    "revisions": 1
+    "lastChanged": "2026-11-26T04:56:57Z",
+    "revisions": 2
   },
   "chartUpdated": "2026-11-25T09:13:26.351976Z",
   "charter": "HAIOU",
@@ -22,14 +22,14 @@
   "name": "La Fouldre",
   "preview": "https://phira.5wyxi.com/files/e78ad180-b282-40e0-8e60-58dd2d85d1ab",
   "ranked": false,
-  "rating": 0.8893156,
-  "ratingCount": 22,
+  "rating": 0.8840718,
+  "ratingCount": 0,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-25T12:56:32.459332Z",
+  "updated": "2026-11-25T12:56:32.459332172Z",
   "uploader": 1684615
 }
