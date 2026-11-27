@@ -4,26 +4,26 @@
       "regular"
     ],
     "firstSeen": "2026-10-04T06:46:30Z",
-    "lastChanged": "2026-11-22T12:59:24Z",
-    "revisions": 2
+    "lastChanged": "2026-11-27T18:51:50Z",
+    "revisions": 3
   },
   "chartUpdated": "2026-10-04T03:11:51.818261Z",
   "charter": "母鸡Sama",
-  "composer": "onoken a.k.a awl*tree",
+  "composer": "onoken a.k.a owl*tree",
   "created": "2026-10-04T03:11:51.818261Z",
   "description": "谱师本人上传 谱面为 骐骥杯 比赛谱面，特别感谢Ezcape_82对多指段的修缮",
   "difficulty": 16.9,
-  "file": "https://phira.5wyxi.com/files/d2c2fab5-1a31-47d3-a099-b967a74d6acc",
+  "file": "https://phira.5wyxi.com/files/635dca12-8dda-4741-bce8-3b82bb23e7ba",
   "hidden": false,
   "id": 80054,
-  "illustration": "https://phira.5wyxi.com/files/eca00a8d-3aaf-4236-988b-450921f977f3",
+  "illustration": "https://phira.5wyxi.com/files/beb77793-27bb-47b0-b436-525971d9afce",
   "illustrator": "煎茶",
   "level": "IN Lv.16",
   "name": "Melodiniq",
-  "preview": "https://phira.5wyxi.com/files/e66e8f96-7a7e-4889-adbb-7b538553d87c",
+  "preview": "https://phira.5wyxi.com/files/1d0a3bdf-c0f3-4633-b371-bc3b76182540",
   "ranked": false,
-  "rating": 0.8739183,
-  "ratingCount": 194,
+  "rating": 0.87759435,
+  "ratingCount": 200,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
@@ -32,6 +32,6 @@
     "CHUNITHM",
     "regular"
   ],
-  "updated": "2026-10-04T03:15:17.893926Z",
+  "updated": "2026-11-27T15:46:57.915692064Z",
   "uploader": 3742
 }
