@@ -14251,3 +14251,4 @@
 {"changed": ["updated"], "division": "regular", "event": "updated", "id": 82739, "ts": "2026-11-26T23:45:45Z"}
 {"changed": ["updated"], "division": "regular", "event": "updated", "id": 84216, "ts": "2026-11-26T23:45:45Z"}
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 85004, "ts": "2026-11-26T23:45:48Z"}
+{"changed": ["chartUpdated", "file", "illustration", "preview", "reviewed", "updated"], "division": "regular", "event": "updated", "id": 84907, "ts": "2026-11-27T08:12:04Z"}

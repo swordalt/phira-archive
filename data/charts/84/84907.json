@@ -4,32 +4,32 @@
       "regular"
     ],
     "firstSeen": "2026-11-22T19:28:31Z",
-    "lastChanged": "2026-11-22T19:28:31Z",
-    "revisions": 1
+    "lastChanged": "2026-11-27T08:12:04Z",
+    "revisions": 2
   },
-  "chartUpdated": "2026-11-22T12:57:10.690017Z",
+  "chartUpdated": "2026-11-27T06:24:05.154901669Z",
   "charter": "Pancake",
   "composer": "xi",
   "created": "2026-11-22T12:57:10.690017Z",
   "description": "江江比耶\nBV1ggyez6EF9\n本人上传",
   "difficulty": 16.0,
-  "file": "https://phira.5wyxi.com/files/9e51d7de-3ff2-4dd1-9e1f-31505b9e650b",
+  "file": "https://phira.5wyxi.com/files/7a6dfe62-165c-4aac-8865-d73e15734963",
   "hidden": false,
   "id": 84907,
-  "illustration": "https://phira.5wyxi.com/files/8f1b240d-fdd4-48ff-a76b-b23043e65470",
+  "illustration": "https://phira.5wyxi.com/files/036d8dd3-1632-48a7-ac4d-017468b2777c",
   "illustrator": "",
   "level": "IN Lv.16",
   "name": "Titania",
-  "preview": "https://phira.5wyxi.com/files/51fe8e55-a4dd-4e47-9a4c-871f4ab997c2",
+  "preview": "https://phira.5wyxi.com/files/04dc0508-7046-409d-813c-73bb3c426244",
   "ranked": false,
-  "rating": 0.8881727,
-  "ratingCount": 7,
-  "reviewed": false,
+  "rating": 0.93685806,
+  "ratingCount": 103,
+  "reviewed": true,
   "stable": false,
   "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-22T13:06:18.230418Z",
+  "updated": "2026-11-27T06:24:05.154901669Z",
   "uploader": 251121
 }
