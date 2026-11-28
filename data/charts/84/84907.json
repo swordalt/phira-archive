@@ -4,10 +4,10 @@
       "regular"
     ],
     "firstSeen": "2026-11-22T19:28:31Z",
-    "lastChanged": "2026-11-27T08:12:04Z",
-    "revisions": 2
+    "lastChanged": "2026-11-28T10:14:32Z",
+    "revisions": 3
   },
-  "chartUpdated": "2026-11-27T06:24:05.154901669Z",
+  "chartUpdated": "2026-11-27T06:24:05.154901Z",
   "charter": "Pancake",
   "composer": "xi",
   "created": "2026-11-22T12:57:10.690017Z",
@@ -22,14 +22,14 @@
   "name": "Titania",
   "preview": "https://phira.5wyxi.com/files/04dc0508-7046-409d-813c-73bb3c426244",
   "ranked": false,
-  "rating": 0.93685806,
-  "ratingCount": 103,
+  "rating": 0.9330028,
+  "ratingCount": 184,
   "reviewed": true,
   "stable": false,
   "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-11-27T06:24:05.154901669Z",
+  "updated": "2026-11-27T06:24:05.154901Z",
   "uploader": 251121
 }

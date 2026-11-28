@@ -14262,3 +14262,6 @@
 {"changed": ["updated"], "division": "regular", "event": "updated", "id": 78979, "ts": "2026-11-28T01:54:12Z"}
 {"changed": ["updated"], "division": "plain", "event": "updated", "id": 84181, "ts": "2026-11-28T01:54:15Z"}
 {"changed": ["updated"], "division": "visual", "event": "updated", "id": 53131, "ts": "2026-11-28T01:54:18Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 85383, "ts": "2026-11-28T10:14:32Z"}
+{"changed": ["*new*"], "division": "regular", "event": "new", "id": 85372, "ts": "2026-11-28T10:14:32Z"}
+{"changed": ["chartUpdated", "updated"], "division": "regular", "event": "updated", "id": 84907, "ts": "2026-11-28T10:14:32Z"}
